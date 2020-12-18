@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -77,7 +77,16 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
+    publishedDateTime: 2020-12-18T00:46:00Z
+    webUrl: "https://news.trust.org/item/20201217091120-rqb3j"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 17
 
-secured: "m+rGTWtL/YfUGz7fPCWtOUqpMoK+QLHwSorMeVI5ZvgHHDs7f25wt2lQPW+7s3+5EymAYB/BtPwAq/OpD+7RUUbNZpn3EJR90xj92/4+guqbEa7yLM4KWJNuPoJnYhFWeBlJU9IdSK3MzG1grjxoKmVVVAlgwVyK2jVi+8Mm2iLFVmbt2Qs7XA/CKV1GlNhZEUOYj9ubY6lY7yPz6SK/lbd/uB/CA9dfnSoLvzi6lvfsN+j5mDlIcjmkDlHoRSVBv5vS2I5LNKgzrrdAwauAqHsV9FiBWf1wyNikBAdAdDHrjalmoS9jJObySwDoWdXQ9Bqp3CN2nw9Eqy1O4F7sF7Yp0K9VAifJxoQAFirw7EA=;LMdc5KAWAqcyxeUHrqtAxQ=="
+secured: "l52eTPV58CSZzPcfROAY+wXsK+aFnBxXF/J1syr4xUMrGdTJZ5WwCFLBwVMfb962YzaMa7n/EewJNUOO3xX5MDSVWyZzYSb6J3Rh5aG9LiXLbb9a+QerWVUaaht5sRspJgjitKL/nHd5ihCae1FiV7RFuLgbXXuaYw9s710OFyAwK22nHlXHkao/ywKPl2IQzd/UwR2H+IPCB5C0XJ0hYWYdndnY+qCXEFC0h4Or4X7AlxpqnyegsTu4icTyPzCnG86cY8gUALdNElqd6uKsjuegptLpyN3jvU622o6orJsFGc1dTkejXedJwYHr85lFzrRiRuBAi4C1wiXAO+qR/RXk9klfKdHQtdWpfF9ju6PL3dq7vM332+bUQQmTz9an4FPBLr+rphAwV97QusTxwkxA1ZipoUTGxME6tNTZc69wwZsan4TkhDZNpZupPJTUQKXJ3pWTLe54HnCBl6nLVN79Xgwk5i4lo6t9pxB2SaEsw9LHZ64w0dgcuAVatTuqsnhDNDt8+wIyuGCZxvJKgw==;VDcvR/lvtN4W3lvoBvL3QQ=="
 ---
 

@@ -41,17 +41,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Facial recognition, other ways to authenticate voters in AICF polls"
-    excerpt: "Digital facial recognition and other authentication methods would be adopted during electronic voting to elect the new office bearers of the All India Chess Federation (AICF), as per the orders of the Returning Officer K."
-    publishedDateTime: 2020-12-13T10:18:00Z
-    webUrl: "https://www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    ampWebUrl: "https://www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
   - title: "From check-in to boarding: Facial recognition technology to follow you through Perth Airport in national first"
     excerpt: "Biometric facial recognition technology that will follow passengers from self check-in to boarding will be rolled out as part of plans to develop the country’s first common departure lounge."
     publishedDateTime: 2020-12-14T18:03:00Z

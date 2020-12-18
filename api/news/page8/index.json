@@ -2,6 +2,161 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-11-cleo-the-ai-powered-financial-assistant-raises-44m-series-b-led-by-eqt-ventures.md",
+      "title": "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures",
+      "excerpt": "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Marketing_Assets_01.png?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/",
+      "publishedDateTime": "2020-12-10T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts.md",
+      "title": "Sensorium and Mubert develop AI-driven DJs for virtual reality concerts",
+      "excerpt": "Sensorium has teamed up with Mubert to develop AI-driven DJs that can make AI-created music at virtual concerts in virtual reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/sensorium.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
+      "publishedDateTime": "2020-12-10T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-electric-self-driving-tractor-may-just-be-the-future-of-farming-as-we-know-it.md",
+      "title": "Electric, self-driving tractor may just be the future of farming as we know it",
+      "excerpt": "This autonomous, all-electric tractor promises to be a game-changer for farms. Here's what makes it so special.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
+      "originalUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn5.digitaltrends.com/image/digitaltrends/monarchembargo12-8-20tractor-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
+      "publishedDateTime": "2020-12-10T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-boastai-raises-23m-to-help-businesses-get-their-rd-tax-credits.md",
       "title": "Boast.ai raises $23M to help businesses get their R&D tax credits",
       "excerpt": "Nobody likes dealing with taxes — until the system works in your favor. In many countries, startups can receive tax credits for their R&D work and related employee cost, but as with all things bureaucracy,",
@@ -573,6 +728,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
+      "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
+      "excerpt": "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-45m-to-scale.md",
       "title": "Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale",
       "excerpt": "The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which is why real-time captioning startup Ava",
@@ -1001,196 +1200,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-australia-post-uses-machine-learning-to-tell-you-when-deliveries-will-arrive.md",
-      "title": "Australia Post uses machine learning to tell you when deliveries will arrive",
-      "excerpt": "Customers are now provided with a two-hour window for when a delivery will arrive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "originalUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T22:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-global-media-brand-viacomcbs-makes-aws-preferred-cloud-partner.md",
-      "title": "Global media brand ViacomCBS makes AWS preferred cloud partner",
-      "excerpt": "ViacomCBS said it plans to combine AWS Elemental with the facial recognition software, Amazon Rekognition, and its machine learning library building tool, Amazon SageMaker to rapidly expand its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner",
-      "originalUrl": "https://www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/desktop-virtualisation-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner?amp=1",
-      "publishedDateTime": "2020-12-09T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
-      "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
-      "excerpt": "With Canadians using digital banking now more than ever, CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/n18728720/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/n18728720/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1372408/CIBC_CIBC_launches_AI_based_Virtual_Assistant_to_help_clients_ba.jpg",
-          "width": 400,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18728720",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18728720",
-      "publishedDateTime": "2020-12-09T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020.md",
-      "title": "Grimes, Serena Williams, Gwyneth Paltrow Talk AI, Ventures And Pivots At Web Summit 2020",
-      "excerpt": "An all star cast debated the promise and perils of AI at Web Summit 2020 which featured insights from Deepak Chopra, Mark Cuban, Ridley Scott, Palmer Luckey, Elad Gil, Garry Tan, Nicole Quinn, Gwyneth Paltrow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd1af982273372e528d8ebf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D53%26cropY2%3D593",
-          "width": 959,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
-      "publishedDateTime": "2020-12-09T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

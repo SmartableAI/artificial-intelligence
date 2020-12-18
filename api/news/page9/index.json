@@ -2,6 +2,152 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-10-australia-post-uses-machine-learning-to-tell-you-when-deliveries-will-arrive.md",
+      "title": "Australia Post uses machine learning to tell you when deliveries will arrive",
+      "excerpt": "Customers are now provided with a two-hour window for when a delivery will arrive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "originalUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-global-media-brand-viacomcbs-makes-aws-preferred-cloud-partner.md",
+      "title": "Global media brand ViacomCBS makes AWS preferred cloud partner",
+      "excerpt": "ViacomCBS said it plans to combine AWS Elemental with the facial recognition software, Amazon Rekognition, and its machine learning library building tool, Amazon SageMaker to rapidly expand its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner",
+      "originalUrl": "https://www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/desktop-virtualisation-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252493390/Global-media-brand-ViacomCBS-makes-AWS-preferred-cloud-partner?amp=1",
+      "publishedDateTime": "2020-12-09T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020.md",
+      "title": "Grimes, Serena Williams, Gwyneth Paltrow Talk AI, Ventures And Pivots At Web Summit 2020",
+      "excerpt": "An all star cast debated the promise and perils of AI at Web Summit 2020 which featured insights from Deepak Chopra, Mark Cuban, Ridley Scott, Palmer Luckey, Elad Gil, Garry Tan, Nicole Quinn, Gwyneth Paltrow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd1af982273372e528d8ebf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D53%26cropY2%3D593",
+          "width": 959,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
+      "publishedDateTime": "2020-12-09T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-google-to-investigate-shady-departure-of-black-ai-ethicist-timnit-gebru.md",
       "title": "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru",
       "excerpt": "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure.",
@@ -876,49 +1022,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-10-gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco.md",
-      "title": "GM’s Cruise to deploy fully driverless cars in San Francisco",
-      "excerpt": "“You’re seeing fully driverless technology out of the ... Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
-      "originalUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
-      "publishedDateTime": "2020-12-09T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRQE",
-        "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-general-motors-cruise-just-took-the-humans-out-of-its-self-driving-taxis.md",
       "title": "General Motors' Cruise Just Took the Humans Out of Its Self-Driving Taxis",
       "excerpt": "The CEO of Cruise, the San-Francisco-based self-driving company controlled by General Motors , said that it has begun operating autonomous vehicles on San Francisco's streets with",
@@ -1123,101 +1226,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-the-apple-car-is-now-officially-an-artificial-intelligence-project.md",
-      "title": "The Apple Car Is Now Officially an Artificial Intelligence Project",
-      "excerpt": "This fall has seen a fantastic array of new products from Apple, ranging from new Apple Watches and iPads to the 5G iPhone 12 lineup to the insanely",
-      "sourceUrl": null,
-      "webUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
-      "originalUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/10/19102529/Apple-Concept-Car-2.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
-      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
-      "publishedDateTime": "2020-12-09T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iDrop News",
-        "domain": "idropnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy.md",
-      "title": "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy",
-      "excerpt": "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1572-12.jpg",
-          "width": 800,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T09:02:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

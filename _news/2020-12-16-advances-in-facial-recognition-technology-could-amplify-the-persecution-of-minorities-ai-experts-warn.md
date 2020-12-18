@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognitio
 cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition, other ways to authenticate voters in AICF polls"
-    excerpt: "Digital facial recognition and other authentication methods would be adopted during electronic voting to elect the new office bearers of the All India Chess Federation (AICF), as per the orders of the Returning Officer K."
-    publishedDateTime: 2020-12-13T10:18:00Z
-    webUrl: "https://www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    ampWebUrl: "https://www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
   - title: "Facial recognition technology grappling with mask challenge amid health crisis"
     excerpt: "This little technical mishap has become part of daily life in 2020, with masks turning facial recognition systems, previously considered innovative ways of streamlining smart payments, into a cumbersome affair."
     publishedDateTime: 2020-12-17T20:37:00Z

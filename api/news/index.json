@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work.md",
+      "title": "Synthetic Data Promises Fair AI And Privacy Compliance, But How Exactly Does It Work?",
+      "excerpt": "Synthetic data, itself a product of sophisticated generative AI, offers a way out of privacy risks and bias issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbfe69619113630a107f3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4077%26cropY1%3D283%26cropY2%3D2577",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/amp/",
+      "publishedDateTime": "2020-12-17T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-kangaroo-court-ai-education-machine-learning.md",
+      "title": "Kangaroo Court: AI Education – Machine Learning",
+      "excerpt": "The past five years have witnessed a steady growth in both the testing and application of AI solutions for both legal ops and litigation teams. Whilst many of these applications are early stage, some are beginning to see enterprise-wide adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
+      "originalUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aceds.org/wp-content/uploads/2020/10/Kangaroo-Court_Blog-3-1030x515-1.png",
+          "width": 1030,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ACEDS",
+        "domain": "aceds.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-has-ai-adoption-plateaued-or-is-it-just-catching-its-breath.md",
       "title": "Has AI adoption plateaued, or is it just catching its breath?",
       "excerpt": "While AI adoption in the enterprise has slowed, major breakthroughs in AI research this year show the technology is still moving forward.",
@@ -460,6 +555,59 @@
       ]
     },
     {
+      "path": "_news/2020-12-18-using-pytorch-to-streamline-machine-learning-projects.md",
+      "title": "Using PyTorch to streamline machine learning projects",
+      "excerpt": "A platform that lets surgeons browse videos of past operations has found a way to make its machine learning more effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "originalUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/1200x675/a149f22109b892c62588d4d67f218f5e/20200814-owen-karen-weeds.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "publishedDateTime": "2020-12-17T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-anomalo-nabs-595-million-for-ai-data-validation-tools.md",
       "title": "Anomalo nabs $5.95 million for AI data validation tools",
       "excerpt": "Anomalo, a provider of data validation and documentation services for developers, today announced that it raised $5.95 million in venture capital. First Round Capital and Foundation Capital participated in the seed funding round,",
@@ -824,7 +972,7 @@
       "originalUrl": "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1114,153 +1262,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
-      "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
-      "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "originalUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "publishedDateTime": "2020-12-16T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-in-self-driving-amazon-invests-while-walmart-partners.md",
-      "title": "In Self-Driving, Amazon Invests While Walmart Partners",
-      "excerpt": "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl.md",
-      "title": "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL",
-      "excerpt": "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/Solution.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T12:05:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
