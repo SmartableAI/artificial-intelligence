@@ -4,55 +4,174 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/winterlightlabs.md",
-      "title": "Winterlight Labs",
-      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/winterlightlabs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/winterlightlabs/",
+      "path": "_companies/xbird.io.md",
+      "title": "Xbird",
+      "excerpt": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/xbird.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/xbird.io/",
       "type": "profile",
-      "name": "Winterlight Labs",
-      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "website": "https://winterlightlabs.com/",
+      "name": "Xbird",
+      "overview": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
+      "website": "http://www.xbird.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/winterlight-labs/",
-        "followers": 553
+        "url": "https://www.linkedin.com/company/xbird/",
+        "followers": 982
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/winterlight"
+        "url": "https://www.crunchbase.com/organization/xbird-gmbh"
       },
       "twitter": {
-        "username": "winterlightlabs",
-        "url": "https://twitter.com/winterlightlabs",
-        "followers": 792
+        "username": "xbirdhealth",
+        "url": "https://twitter.com/xbirdhealth",
+        "followers": 560
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
       "locations": [
-        "Toronto, Ontario"
+        "Berlin, Germany",
+        "Berlin, Berlin"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VQhmAIFKOyU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1254728072546463745/58TGGOtt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Xbird",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE5uBAedW_F2A/company-logo_200_200/0?e=1594857600&v=beta&t=p9pfx8LRmoaNPMwjLOzlVSEx2_b5bHKTfeTaODjF_cU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lifebit.ai.md",
+      "title": "Lifebit",
+      "excerpt": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lifebit.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/lifebit.ai/",
+      "type": "profile",
+      "name": "Lifebit",
+      "overview": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "website": "https://lifebit.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lifebit-ai/",
+        "followers": 900
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lifebit-ai"
+      },
+      "twitter": {
+        "username": "lifebitAI",
+        "url": "https://twitter.com/lifebitAI",
+        "followers": 4123
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "London, UK",
+        "London, London"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=aycHy_axa_Q"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/972120873456095233/2a1jM0Km_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lifebit",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQG6jiqJ2o5gmg/company-logo_200_200/0?e=1594857600&v=beta&t=oQdN7yi0p9muTqdn256inMB-A-4Y-Cbq2UnB0kwW5d0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mediktor.md",
+      "title": "Mediktor",
+      "excerpt": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mediktor/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mediktor/",
+      "type": "profile",
+      "name": "Mediktor",
+      "overview": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
+      "website": "https://www.mediktor.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mediktor",
+        "followers": 869
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/teckel-medical"
+      },
+      "twitter": {
+        "username": "Mediktor",
+        "url": "https://twitter.com/Mediktor",
+        "followers": 2578
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Beijing, China",
+        "Barcelona, Cataluña / Catalunya"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
-        "Machine Learning",
         "AI in Healthcare"
       ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VrnosHhMfgA"
+        }
       ],
+      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1250421796169383937/IqltmVt9_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Winterlight Labs",
+          "title": "Mediktor",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHEYqgnmCjhZg/company-logo_200_200/0?e=1594857600&v=beta&t=73PMeeLZjqgIWE7R_CONeYVNGUHxlASyQ-ZSchElGyk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -100,32 +219,292 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/mediktor.md",
-      "title": "Mediktor",
-      "excerpt": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mediktor/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mediktor/",
+      "path": "_companies/skychain.global.md",
+      "title": "Skychain Global",
+      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skychain.global/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/skychain.global/",
       "type": "profile",
-      "name": "Mediktor",
-      "overview": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
-      "website": "https://www.mediktor.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/mediktor",
-        "followers": 869
-      },
+      "name": "Skychain Global",
+      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "website": "https://skychain.global",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/teckel-medical"
+        "url": "https://www.crunchbase.com/organization/skychain-global"
       },
       "twitter": {
-        "username": "Mediktor",
-        "url": "https://twitter.com/Mediktor",
-        "followers": 2578
+        "username": "skychainglobal",
+        "url": "https://twitter.com/skychainglobal",
+        "followers": 2642
       },
-      "size": "11-50 employees",
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=npQklriczNA"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Skychain Global",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sophiagenetics.md",
+      "title": "Sophia Genetics",
+      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sophiagenetics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sophiagenetics/",
+      "type": "profile",
+      "name": "Sophia Genetics",
+      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "website": "https://www.sophiagenetics.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sophiagenetics/",
+        "followers": 25618
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sophia-genetics"
+      },
+      "twitter": {
+        "username": "sophiagenetics",
+        "url": "https://twitter.com/sophiagenetics",
+        "followers": 21468
+      },
+      "size": "201-500 employees",
       "yearFounded": 2011,
       "locations": [
-        "Beijing, China",
-        "Barcelona, Cataluña / Catalunya"
+        "Switzerland",
+        "Saint Sulpice"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sophia Genetics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/winterlightlabs.md",
+      "title": "Winterlight Labs",
+      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/winterlightlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/winterlightlabs/",
+      "type": "profile",
+      "name": "Winterlight Labs",
+      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "website": "https://winterlightlabs.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/winterlight-labs/",
+        "followers": 553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/winterlight"
+      },
+      "twitter": {
+        "username": "winterlightlabs",
+        "url": "https://twitter.com/winterlightlabs",
+        "followers": 792
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 42,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Winterlight Labs",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zebra-med.md",
+      "title": "Zebra Medical Vision",
+      "excerpt": "We are a next generation medical data research platform that will produce the needed amount of machine learning algorithms to provide scalable diagnostic to the next 1 billion people to join middle class. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zebra-med/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zebra-med/",
+      "type": "profile",
+      "name": "Zebra Medical Vision",
+      "overview": "We are a next generation medical data research platform that will produce the needed amount of machine learning algorithms to provide scalable diagnostic to the next 1 billion people to join middle class. ",
+      "website": "https://www.zebra-med.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zebra-medical-vision-ltd",
+        "followers": 5137
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zebra-medical-vision"
+      },
+      "twitter": {
+        "username": "ZebraMedVision",
+        "url": "https://twitter.com/ZebraMedVision",
+        "followers": 1804
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Kibutz Shfayim"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=zUD7wsVx7kA"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1262384091695067136/CkGO_NYY_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Zebra Medical Vision",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEzx_jKW-Xcgw/company-logo_200_200/0?e=1594857600&v=beta&t=COXLGu-koKyTtAN31V5vTayL0Zb89AxwNLXIqd5DebU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/brainomix.md",
+      "title": "Brainomix",
+      "excerpt": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/brainomix/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/brainomix/",
+      "type": "profile",
+      "name": "Brainomix",
+      "overview": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "website": "http://www.brainomix.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/brainomix",
+        "followers": 1428
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/brainomix"
+      },
+      "twitter": {
+        "username": "brainomix",
+        "url": "https://www.twitter.com/brainomix",
+        "followers": 864
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Oxford, UK",
+        "Oxford"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=S2eI-YOtTZg"
+        }
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1315595764765282305/gMF76Sl7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Brainomix",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/avawomen.md",
+      "title": "Ava",
+      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/avawomen/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/avawomen/",
+      "type": "profile",
+      "name": "Ava",
+      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "website": "https://www.avawomen.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ava-ag",
+        "followers": 9202
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ava-3"
+      },
+      "twitter": {
+        "username": "avawomen",
+        "url": "https://twitter.com/avawomen",
+        "followers": 1568
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Zurich, Switzerland",
+        "Zurich"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -136,20 +515,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=VrnosHhMfgA"
+          "url": "https://www.youtube.com/watch?v=Ok_A0kTEGpw"
         }
       ],
-      "heat": 41,
+      "heat": 20,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1250421796169383937/IqltmVt9_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/669679794766807040/dG5DHc9Q_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Mediktor",
+          "title": "Ava",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHEYqgnmCjhZg/company-logo_200_200/0?e=1594857600&v=beta&t=73PMeeLZjqgIWE7R_CONeYVNGUHxlASyQ-ZSchElGyk",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHZc7mCj8ugQA/company-logo_200_200/0?e=1594857600&v=beta&t=z0cqMksSh4sqXm3jyISrbJ57kQ2N5qxRYa-BwX--V7c",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -159,342 +538,56 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/quantib.md",
-      "title": "Quantib",
-      "excerpt": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/quantib/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/quantib/",
+      "path": "_companies/flatiron.md",
+      "title": "Flatiron Health",
+      "excerpt": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/flatiron/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/flatiron/",
       "type": "profile",
-      "name": "Quantib",
-      "overview": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
-      "website": "http://www.quantib.com",
+      "name": "Flatiron Health",
+      "overview": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
+      "website": "https://flatiron.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/quantib-bv/",
-        "followers": 1389
+        "url": "https://www.linkedin.com/company/2682361",
+        "followers": 21595
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/quantib"
+        "url": "https://www.crunchbase.com/organization/flatiron-health"
       },
       "twitter": {
-        "username": "Quantib",
-        "url": "https://twitter.com/Quantib",
-        "followers": 714
+        "username": "flatironhealth",
+        "url": "https://twitter.com/flatironhealth",
+        "followers": 10097
       },
-      "size": "11-50 employees",
+      "size": "501-1,000 employees",
       "yearFounded": 2012,
       "locations": [
-        "Rotterdam, ZH"
+        "New York, NY",
+        "New York, New York"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=MmbfaKF-wss"
+          "url": "https://www.youtube.com/watch?v=AishSTITOq4"
         }
       ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1249958982770462721/WUWU3JJa_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Quantib",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGYElcY9GF7Vg/company-logo_200_200/0?e=1594857600&v=beta&t=zP-CryOPddYQZ6jokPGcvBUTEjmN4Bvya15Ef16P2zI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/skinvision.md",
-      "title": "SkinVision",
-      "excerpt": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skinvision/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/skinvision/",
-      "type": "profile",
-      "name": "SkinVision",
-      "overview": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
-      "website": "https://www.skinvision.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/skinvision/",
-        "followers": 0
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skinvision"
-      },
-      "twitter": {
-        "username": "sknvsn",
-        "url": "https://twitter.com/sknvsn",
-        "followers": 2081
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Amsterdam, the Netherlands"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=eAcjCkwsIy0"
-        }
-      ],
-      "heat": 41,
+      "heat": 20,
       "tags": [
         "Cancer"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/809063449624018945/d9gEaQop_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1283060855542874112/NxUqjdpi_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SkinVision",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/suki.ai.md",
-      "title": "Suki",
-      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/suki.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/suki.ai/",
-      "type": "profile",
-      "name": "Suki",
-      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "website": "https://www.suki.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/SukiHQ",
-        "followers": 14481
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sukihq"
-      },
-      "twitter": {
-        "username": "SukiHQ",
-        "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1569
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Suki",
+          "title": "Flatiron Health",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/xbird.io.md",
-      "title": "Xbird",
-      "excerpt": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/xbird.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/xbird.io/",
-      "type": "profile",
-      "name": "Xbird",
-      "overview": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
-      "website": "http://www.xbird.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/xbird/",
-        "followers": 982
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/xbird-gmbh"
-      },
-      "twitter": {
-        "username": "xbirdhealth",
-        "url": "https://twitter.com/xbirdhealth",
-        "followers": 560
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Berlin, Germany",
-        "Berlin, Berlin"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VQhmAIFKOyU"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1254728072546463745/58TGGOtt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Xbird",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE5uBAedW_F2A/company-logo_200_200/0?e=1594857600&v=beta&t=p9pfx8LRmoaNPMwjLOzlVSEx2_b5bHKTfeTaODjF_cU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/arterys.md",
-      "title": "Arterys",
-      "excerpt": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/arterys/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/arterys/",
-      "type": "profile",
-      "name": "Arterys",
-      "overview": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "website": "https://arterys.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2649064",
-        "followers": 6047
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/arterys"
-      },
-      "twitter": {
-        "username": "arterysinc",
-        "url": "https://twitter.com/arterysinc",
-        "followers": 1740
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=R_GU1ne-oW0"
-        }
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Arterys",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/freenome.md",
-      "title": "Freenome",
-      "excerpt": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/freenome/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/freenome/",
-      "type": "profile",
-      "name": "Freenome",
-      "overview": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
-      "website": "https://www.freenome.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/freenome/",
-        "followers": 4285
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freenome"
-      },
-      "twitter": {
-        "username": "freenome",
-        "url": "https://www.twitter.com/freenome",
-        "followers": 2220
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "South San Francisco, CA",
-        "South San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=TrEnNA_kZBI"
-        }
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/985371277727797249/0wMRLRjP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Freenome",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEnCMHsfvcusw/company-logo_200_200/0?e=1594857600&v=beta&t=F1H77vwXX4Yg38yNL73XsNMahtYWl67QeRr_u3PE6q4",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEhAJpV71WHPw/company-logo_200_200/0?e=1594857600&v=beta&t=_i9wKp3TiVbAp5FVc1byaHD1yWtTF2u0dIviStlUAlk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -557,97 +650,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/skychain.global.md",
-      "title": "Skychain Global",
-      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skychain.global/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/skychain.global/",
-      "type": "profile",
-      "name": "Skychain Global",
-      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "website": "https://skychain.global",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skychain-global"
-      },
-      "twitter": {
-        "username": "skychainglobal",
-        "url": "https://twitter.com/skychainglobal",
-        "followers": 2642
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=npQklriczNA"
-        }
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Skychain Global",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/gnshealthcare.md",
-      "title": "GNS Healthcare",
-      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gnshealthcare/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/gnshealthcare/",
-      "type": "profile",
-      "name": "GNS Healthcare",
-      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "website": "http://www.gnshealthcare.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gns-healthcare/",
-        "followers": 3017
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gns-healthcare"
-      },
-      "twitter": {
-        "username": "gnshealthcare",
-        "url": "https://twitter.com/gnshealthcare",
-        "followers": 2613
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2000,
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
-        }
-      ],
-      "heat": 3,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "GNS Healthcare",
-          "isCached": true
         }
       ],
       "content": "\r\n"

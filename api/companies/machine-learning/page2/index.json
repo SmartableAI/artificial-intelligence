@@ -4,267 +4,51 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/alegion.md",
-      "title": "Alegion",
-      "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alegion/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/alegion/",
+      "path": "_companies/rul.ai.md",
+      "title": "Rulai",
+      "excerpt": "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rul.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/rul.ai/",
       "type": "profile",
-      "name": "Alegion",
-      "overview": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
-      "website": "https://www.alegion.com/",
+      "name": "Rulai",
+      "overview": "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai.",
+      "website": "https://rul.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/alegion",
-        "followers": 1758
+        "url": "https://www.linkedin.com/company/rulai-inc/",
+        "followers": 1793
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/alegion"
+        "url": "https://www.crunchbase.com/organization/rulai"
       },
       "twitter": {
-        "username": "Alegion",
-        "url": "https://twitter.com/Alegion",
-        "followers": 1755
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, Texas"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/834024692893773826/oJX5Bb_e_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alegion",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEQpTGVwbtTVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFlOkdia1A8rohJI2SYTs43IIgNfx3ANFlM8bjD-dSE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/armorblox.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/armorblox/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/armorblox/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "website": "https://www.armorblox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2942
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/armorblox"
-      },
-      "twitter": {
-        "username": "armorblox",
-        "url": "https://twitter.com/armorblox",
-        "followers": 277
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Cupertino, CA",
-        "Pasadena, CA",
-        "Pasadena, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cnvrg.io.md",
-      "title": "cnvrg.io",
-      "excerpt": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cnvrg.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/cnvrg.io/",
-      "type": "profile",
-      "name": "cnvrg.io",
-      "overview": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
-      "website": "https://cnvrg.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cnvrg-io/",
-        "followers": 676
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cnvrg-io"
-      },
-      "twitter": {
-        "username": "cnvrg_io",
-        "url": "https://twitter.com/cnvrg_io",
-        "followers": 904
+        "username": "rulaiinc",
+        "url": "https://twitter.com/rulaiinc",
+        "followers": 206
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
       "locations": [
-        "Jerusalem, Israel"
+        "Campbell, CA"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "Machine Learning"
       ],
-      "heat": 41,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1272524045494497282/urChdCLm_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/876928853771403265/jykiSP8O_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "cnvrg.io",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deep6.ai.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deep6.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/deep6.ai/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "website": "https://deep6.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2680
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-6-ai"
-      },
-      "twitter": {
-        "username": "deep6ai",
-        "url": "https://twitter.com/deep6ai",
-        "followers": 1322
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
+          "title": "Rulai",
           "isCached": true
         },
         {
-          "url": "https://media.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_400_400/0?e=1582761600&v=beta&t=7SQXh5-24E09tHxEjlcGNBKHsBv6aKIbmHd6PjPllaU",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFiJrA9xb7Bbg/company-logo_200_200/0?e=1594857600&v=beta&t=VcxOJqNMbtsSQKE2M9nKikownqE67bDXh0xuoh9TUs0",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
-        },
-        {
-          "url": "https://media.licdn.com/dms/image/C561BAQH5o_0GEDJTSA/company-background_10000/0?e=1574802000&v=beta&t=JWy2P1mLeF_41Z92MkYArHMXeYacHm0rFTeIATJVU-Q",
-          "width": 1400,
-          "height": 425,
-          "title": "banner",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sparkcognition.md",
-      "title": "SparkCognition",
-      "excerpt": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sparkcognition/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sparkcognition/",
-      "type": "profile",
-      "name": "SparkCognition",
-      "overview": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
-      "website": "https://www.sparkcognition.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/5155679",
-        "followers": 15486
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sparkcognition"
-      },
-      "twitter": {
-        "username": "SparkCognition",
-        "url": "https://twitter.com/SparkCognition",
-        "followers": 3883
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "tags": [
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1196452944943681536/z754dUZo_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "SparkCognition",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -306,7 +90,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 41,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
@@ -317,6 +101,60 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/xnor.ai.md",
+      "title": "Xnor.ai",
+      "excerpt": "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/xnor.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/xnor.ai/",
+      "type": "profile",
+      "name": "Xnor.ai",
+      "overview": "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices.",
+      "website": "https://www.xnor.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/xnor-ai/",
+        "followers": 2109
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/xnor-ai"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/677218631294431232/KYGLTebt_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Xnor.ai",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH1T3MkqJIZ1w/company-logo_200_200/0?e=1594857600&v=beta&t=hfVmbjlDPgNiotB-bhVoGUyUkkQCKT6t1s8J11cZ7VA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -345,7 +183,7 @@
       "twitter": {
         "username": "narrativesci",
         "url": "https://twitter.com/narrativesci",
-        "followers": 7219
+        "followers": 7218
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -361,7 +199,7 @@
         "Machine Learning",
         "Natural Language Processing"
       ],
-      "heat": 18,
+      "heat": 42,
       "tags": [
         "Natural Language Generation"
       ],
@@ -375,6 +213,168 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/winterlightlabs.md",
+      "title": "Winterlight Labs",
+      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/winterlightlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/winterlightlabs/",
+      "type": "profile",
+      "name": "Winterlight Labs",
+      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "website": "https://winterlightlabs.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/winterlight-labs/",
+        "followers": 553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/winterlight"
+      },
+      "twitter": {
+        "username": "winterlightlabs",
+        "url": "https://twitter.com/winterlightlabs",
+        "followers": 792
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 42,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Winterlight Labs",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sightmachine.md",
+      "title": "Sight Machine",
+      "excerpt": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sightmachine/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sightmachine/",
+      "type": "profile",
+      "name": "Sight Machine",
+      "overview": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
+      "website": "https://sightmachine.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sight-machine/",
+        "followers": 2817
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sight-machine"
+      },
+      "twitter": {
+        "username": "sightmachine",
+        "url": "https://twitter.com/sightmachine",
+        "followers": 1186
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sight Machine",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kabbage.md",
+      "title": "Kabbage",
+      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kabbage/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kabbage/",
+      "type": "profile",
+      "name": "Kabbage",
+      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "website": "https://www.kabbage.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kabbage-inc/",
+        "followers": 31904
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kabbage"
+      },
+      "twitter": {
+        "username": "KabbageInc",
+        "url": "https://twitter.com/KabbageInc",
+        "followers": 27323
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "Atlanta, Georgia"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
+        }
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Kabbage",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
           "width": 400,
           "height": 400,
           "title": "logo",

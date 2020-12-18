@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "enlitic"
   url: "https://twitter.com/enlitic"
-  followers: 4785
+  followers: 4784
 
 size: 11-50 employees
 yearFounded: 2014
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "sgMgU9m/a4jDJyc/Zr4pwRtHT9lZ+Ee+0GQY/jrwyP1RELSOonywU0EhRIcA1p/VPxflzMVER/3x0BOwua2bTer2C9yVjDdSCnVflSONQLGNKNf3aKs0RMg2SjF6OM6AySvuKia3Z1iCXJp/0awJZfgGOQfHz2RCEm2hyPNAjAE3Vub1RXlG6x5n5Cdrk8TVJOkqn3XaAl4wMA2D3iV/wdCgreYETcMkvQ2B2lLi7PZzzC/kQB9FhP/xUv4RXOslmKNr6rGLLzeMkxPk9aTZP15hWbccHxNGWp9176+PU40LUuLE0E/aIgTXrvr/nkTzXzOYHVcgDEkUHpmchL7EZv5WoFG9fHyi9yejjQOl9jsqvB2uvmdkRuPZ6kyP5m8XFhLdxiIu6r4+wL3HiqhwVaoAkI25ksSZ/t1pBy1TtPA=;elWPHGP56iowZfAm+RTYFQ=="
+secured: "Hm2LOiCbi2h9TJSSYouRL+EGj/NZb85pXnSVHCXC5WbbBYdebvqx8MiEdl50ZdAmCbx6vISCjDLU1m/e0gZDreqRNmmiSrjl1IlbTT2+8V6HZsBF3fhcUSGz1R3IDv0xxnuh/v5s70J2slrNRAvyO8mZwjtkrvZNCei3DvfjfWdCS/CgPsEqRqRoYT3JWC4yzM4/xTVYjxuE3hVJJ9I1ronlJDdPjf52OQ1zfWna/k+zK4WS+TWmwFGp+DrXr0N8ln+4e3u4Z6oWB9VapeiYgJoX0QvyaRzcSwIxSwx67/Ir8oP52QX91aaMXC9/Y5NOaF8Ss0kttVlq7bl+RA3ba9ka+gXWid0Sdj6sNszHRvWBfZznkt1rwd6AlLtEyqaD0fAxUcoPZ7JcG84SBbfXyr4xIHemi9Oe9kWzCgmdKwk=;q04dzlGaHb8BwE+ydxyrnQ=="
 ---
 

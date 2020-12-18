@@ -23,7 +23,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 15204
+        "followers": 15211
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -39,7 +39,7 @@
         "AI in Autos",
         "AI in Robotics"
       ],
-      "heat": 381,
+      "heat": 310,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -81,7 +81,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 65515
+        "followers": 65516
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -98,7 +98,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 248,
+      "heat": 188,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -117,6 +117,53 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/irobot.md",
+      "title": "iRobot",
+      "excerpt": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/irobot/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/irobot/",
+      "type": "profile",
+      "name": "iRobot",
+      "overview": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
+      "website": "https://www.irobot.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/irobot/",
+        "followers": 44414
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/irobot"
+      },
+      "twitter": {
+        "username": "iRobot",
+        "url": "https://twitter.com/iRobot",
+        "followers": 39564
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 1990,
+      "locations": [
+        "Bedford, MA",
+        "Bedford, Massachusetts"
+      ],
+      "funding": {
+        "status": "IPO"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 182,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/789182547641061377/XlCYQCGb_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "iRobot",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -161,7 +208,7 @@
           "url": "https://www.youtube.com/watch?v=gOpQlk8afzs"
         }
       ],
-      "heat": 192,
+      "heat": 157,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png",
@@ -181,81 +228,88 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/irobot.md",
-      "title": "iRobot",
-      "excerpt": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/irobot/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/irobot/",
+      "path": "_companies/anduril.md",
+      "title": "Anduril Industries",
+      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anduril/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/anduril/",
       "type": "profile",
-      "name": "iRobot",
-      "overview": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
-      "website": "https://www.irobot.com/",
+      "name": "Anduril Industries",
+      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "website": "https://www.anduril.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/irobot/",
-        "followers": 44414
+        "url": "https://www.linkedin.com/company/18293159/",
+        "followers": 3835
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/irobot"
+        "url": "https://www.crunchbase.com/organization/anduril-industries"
       },
       "twitter": {
-        "username": "iRobot",
-        "url": "https://twitter.com/iRobot",
-        "followers": 39564
+        "username": "anduriltech",
+        "url": "https://twitter.com/anduriltech",
+        "followers": 6799
       },
-      "size": "501-1,000 employees",
-      "yearFounded": 1990,
+      "size": "51-200 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Bedford, MA",
-        "Bedford, Massachusetts"
+        "Orange County, CA"
       ],
       "funding": {
-        "status": "IPO"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 167,
+      "heat": 115,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/789182547641061377/XlCYQCGb_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "iRobot",
+          "title": "Anduril Industries",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/rethinkrobotics.md",
-      "title": "Rethink Robotics",
-      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rethinkrobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/rethinkrobotics/",
+      "path": "_companies/skydio.md",
+      "title": "Skydio",
+      "excerpt": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skydio/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/skydio/",
       "type": "profile",
-      "name": "Rethink Robotics",
-      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
-      "website": "https://www.rethinkrobotics.com/",
+      "name": "Skydio",
+      "overview": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
+      "website": "https://www.skydio.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/rethink-robotics/",
-        "followers": 17933
+        "url": "https://www.linkedin.com/company/skydio/",
+        "followers": 6085
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/rethink-robotics"
+        "url": "https://www.crunchbase.com/organization/skydio"
       },
       "twitter": {
-        "username": "RethinkRobotics",
-        "url": "https://twitter.com/RethinkRobotics",
-        "followers": 30637
+        "username": "SkydioHQ",
+        "url": "https://twitter.com/SkydioHQ",
+        "followers": 9619
       },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
+      "size": "51-200 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Bochum, Germany"
+        "Redwood City, CA",
+        "Redwood City, California"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
@@ -263,24 +317,17 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
+          "url": "https://www.youtube.com/watch?v=gsfkGlSajHQ"
         }
       ],
-      "heat": 124,
+      "heat": 112,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1230238514735747072/0GHbZeZS_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Rethink Robotics",
+          "title": "Skydio",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -320,7 +367,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 110,
+      "heat": 104,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/530610645922627585/yuttxu7l_400x400.png",
@@ -340,35 +387,34 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/builtrobotics.md",
-      "title": "Built Robotics",
-      "excerpt": "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/builtrobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/builtrobotics/",
+      "path": "_companies/rethinkrobotics.md",
+      "title": "Rethink Robotics",
+      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rethinkrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/rethinkrobotics/",
       "type": "profile",
-      "name": "Built Robotics",
-      "overview": "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments.",
-      "website": "http://www.builtrobotics.com/",
+      "name": "Rethink Robotics",
+      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "website": "https://www.rethinkrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/builtrobotics/",
-        "followers": 1589
+        "url": "https://www.linkedin.com/company/rethink-robotics/",
+        "followers": 17933
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/built-robotics"
+        "url": "https://www.crunchbase.com/organization/rethink-robotics"
       },
       "twitter": {
-        "username": "builtrobotics",
-        "url": "https://twitter.com/builtrobotics",
-        "followers": 1068
+        "username": "RethinkRobotics",
+        "url": "https://twitter.com/RethinkRobotics",
+        "followers": 30638
       },
       "size": "11-50 employees",
-      "yearFounded": 2016,
+      "yearFounded": 2018,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Bochum, Germany"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
@@ -376,20 +422,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=YYj2JqL1dJM"
+          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
         }
       ],
-      "heat": 78,
+      "heat": 104,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Built Robotics",
+          "title": "Rethink Robotics",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1594857600&v=beta&t=MUsKi-Hpc1H_xCejMn_xAJ3n-OvwWzER86IE99Uumak",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -399,102 +445,99 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/skydio.md",
-      "title": "Skydio",
-      "excerpt": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skydio/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/skydio/",
+      "path": "_companies/softbankrobotics.md",
+      "title": "SoftBank Robotics",
+      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/softbankrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/softbankrobotics/",
       "type": "profile",
-      "name": "Skydio",
-      "overview": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
-      "website": "https://www.skydio.com/",
+      "name": "SoftBank Robotics",
+      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "website": "https://www.softbankrobotics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/skydio/",
-        "followers": 6085
+        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
+        "followers": 426
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skydio"
+        "url": "https://www.crunchbase.com/organization/softbank-robotics"
       },
       "twitter": {
-        "username": "SkydioHQ",
-        "url": "https://twitter.com/SkydioHQ",
-        "followers": 9617
+        "username": "sbreurope",
+        "url": "https://twitter.com/sbreurope",
+        "followers": 16504
       },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
+      "yearFounded": 0,
       "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
+        "Tokyo, Tokyo"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=gsfkGlSajHQ"
+          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
         }
       ],
-      "heat": 78,
+      "heat": 77,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1230238514735747072/0GHbZeZS_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/733105320453668868/nKF3Esx-_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Skydio",
+          "title": "SoftBank Robotics",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/anduril.md",
-      "title": "Anduril Industries",
-      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anduril/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anduril/",
+      "path": "_companies/starship.xyz.md",
+      "title": "Starship Technologies",
+      "excerpt": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/starship.xyz/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/starship.xyz/",
       "type": "profile",
-      "name": "Anduril Industries",
-      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-      "website": "https://www.anduril.com/",
+      "name": "Starship Technologies",
+      "overview": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
+      "website": "https://www.starship.xyz/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/18293159/",
-        "followers": 3835
+        "url": "https://www.linkedin.com/company/starshiptechnologies/",
+        "followers": 7181
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/anduril-industries"
+        "url": "https://www.crunchbase.com/organization/starship-technologies"
       },
       "twitter": {
-        "username": "anduriltech",
-        "url": "https://twitter.com/anduriltech",
-        "followers": 6800
+        "username": "StarshipRobots",
+        "url": "https://twitter.com/StarshipRobots",
+        "followers": 9787
       },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
+      "size": "201-500 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Orange County, CA"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ],
-      "heat": 72,
+      "heat": 71,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/948994134924189696/iAmDOpwi_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Anduril Industries",
+          "title": "Starship Technologies",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_200_200/0?e=1594857600&v=beta&t=7BXWvzxajwGYusLrhXJnBwisK8JNKlwAsnakP8ngDr0",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -543,7 +586,7 @@
           "url": "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
         }
       ],
-      "heat": 65,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png",
@@ -554,6 +597,63 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQGye8dvPM0w9Q/company-logo_200_200/0?e=1594857600&v=beta&t=oZAUxvov98uZrmPofdLj-5JIc6xvI2slfqfJODVBpCg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/preferred-networks.jp.md",
+      "title": "Preferred Networks",
+      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/preferred-networks.jp/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/preferred-networks.jp/",
+      "type": "profile",
+      "name": "Preferred Networks",
+      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "website": "https://www.preferred-networks.jp/en/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
+        "followers": 1435
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/preferred-networks"
+      },
+      "twitter": {
+        "username": "preferrednet",
+        "url": "https://twitter.com/preferrednet",
+        "followers": 5263
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Tokyo, Japan",
+        "Chiyoda-ku, Tokyo"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
+        }
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Preferred Networks",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -601,7 +701,7 @@
           "url": "https://www.youtube.com/watch?v=hVK2Lbb2IQ0"
         }
       ],
-      "heat": 65,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/963054263675973633/Pw0jLMR5_400x400.jpg",
@@ -614,192 +714,29 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/softbankrobotics.md",
-      "title": "SoftBank Robotics",
-      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/softbankrobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/softbankrobotics/",
+      "path": "_companies/builtrobotics.md",
+      "title": "Built Robotics",
+      "excerpt": "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/builtrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/builtrobotics/",
       "type": "profile",
-      "name": "SoftBank Robotics",
-      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "website": "https://www.softbankrobotics.com",
+      "name": "Built Robotics",
+      "overview": "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments.",
+      "website": "http://www.builtrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
-        "followers": 426
+        "url": "https://www.linkedin.com/company/builtrobotics/",
+        "followers": 1589
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/softbank-robotics"
+        "url": "https://www.crunchbase.com/organization/built-robotics"
       },
       "twitter": {
-        "username": "sbreurope",
-        "url": "https://twitter.com/sbreurope",
-        "followers": 16502
+        "username": "builtrobotics",
+        "url": "https://twitter.com/builtrobotics",
+        "followers": 1068
       },
-      "yearFounded": 0,
-      "locations": [
-        "Tokyo, Tokyo"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
-        }
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/733105320453668868/nKF3Esx-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "SoftBank Robotics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/anki.md",
-      "title": "Anki",
-      "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anki/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anki/",
-      "type": "profile",
-      "name": "Anki",
-      "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-      "website": "https://www.anki.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/anki/",
-        "followers": 8465
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/anki"
-      },
-      "twitter": {
-        "username": "anki",
-        "url": "https://twitter.com/anki",
-        "followers": 26821
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ABFcdwfU3F0"
-        }
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Anki",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/bossanova.md",
-      "title": "Bossa Nova Robotics",
-      "excerpt": "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bossanova/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/bossanova/",
-      "type": "profile",
-      "name": "Bossa Nova Robotics",
-      "overview": "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments.",
-      "website": "http://www.bossanova.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bossa-nova-robotics/",
-        "followers": 6109
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bossa-nova-robotics-inc"
-      },
-      "twitter": {
-        "username": "bossanova",
-        "url": "https://twitter.com/bossanova",
-        "followers": 1223
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2005,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KykP6wTp1Qk"
-        }
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/910869076137754624/QiqHVTEC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bossa Nova Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_200_200/0?e=1594857600&v=beta&t=liRlIUvnt5np9B6n04CejPt4Nag9vpPrpqm5bIvygWU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/brightmachines.md",
-      "title": "Bright Machines",
-      "excerpt": "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/brightmachines/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/brightmachines/",
-      "type": "profile",
-      "name": "Bright Machines",
-      "overview": "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing.",
-      "website": "https://www.brightmachines.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bright-machines/",
-        "followers": 5113
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bright-machines"
-      },
-      "twitter": {
-        "username": "bright_machines",
-        "url": "https://twitter.com/bright_machines",
-        "followers": 678
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2018,
+      "size": "11-50 employees",
+      "yearFounded": 2016,
       "locations": [
         "San Francisco, CA",
         "San Francisco, California"
@@ -813,20 +750,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=sU4h4V4pDi4"
+          "url": "https://www.youtube.com/watch?v=YYj2JqL1dJM"
         }
       ],
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1052979606842617856/uteimk9-_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Bright Machines",
+          "title": "Built Robotics",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_200_200/0?e=1594857600&v=beta&t=JGjsPdJDF7CSRJmboiLh_q3mExe-_Necttkv6XUr4cw",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1594857600&v=beta&t=MUsKi-Hpc1H_xCejMn_xAJ3n-OvwWzER86IE99Uumak",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -836,31 +773,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/freedomrobotics.ai.md",
-      "title": "Freedom Robotics",
-      "excerpt": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/freedomrobotics.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/freedomrobotics.ai/",
+      "path": "_companies/gideonbros.net.md",
+      "title": "Gideon Brothers",
+      "excerpt": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gideonbros.net/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/gideonbros.net/",
       "type": "profile",
-      "name": "Freedom Robotics",
-      "overview": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "website": "https://www.freedomrobotics.ai/",
+      "name": "Gideon Brothers",
+      "overview": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
+      "website": "https://www.gideonbros.net/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/freedomrobotics/",
-        "followers": 277
+        "url": "https://www.linkedin.com/company/gideon-brothers/",
+        "followers": 3065
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freedom-robotics"
+        "url": "https://www.crunchbase.com/organization/gideon-brothers"
       },
       "twitter": {
-        "username": "FRDMROBOTICS",
-        "url": "https://twitter.com/FRDMROBOTICS",
-        "followers": 411
+        "username": "GideonBros",
+        "url": "https://twitter.com/GideonBros",
+        "followers": 492
       },
       "size": "11-50 employees",
-      "yearFounded": 2018,
+      "yearFounded": 2017,
       "locations": [
-        "San Francisco, CA"
+        "Zagreb, Croatia"
       ],
       "funding": {
         "status": "Seed"
@@ -869,79 +806,22 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Freedom Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_200_200/0?e=1594857600&v=beta&t=OUFYSMVpyrQOq1KKei-sPYD-i7j1l-CfIeVlQb2Tics",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/kindred.ai.md",
-      "title": "Kindred AI",
-      "excerpt": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kindred.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/kindred.ai/",
-      "type": "profile",
-      "name": "Kindred AI",
-      "otherNames": [
-        "Kindred Systems Inc"
-      ],
-      "overview": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
-      "website": "https://www.kindred.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/kindred.ai/",
-        "followers": 5070
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kindred-2"
-      },
-      "twitter": {
-        "username": "kindredai",
-        "url": "https://twitter.com/kindredai",
-        "followers": 1239
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=kjKPL53Tgw8"
+          "url": "https://www.youtube.com/watch?v=Dud1F65jkjY"
         }
       ],
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1090895337399685120/KVHKPXJK_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kindred AI",
+          "title": "Gideon Brothers",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF4aThLACe5dQ/company-logo_200_200/0?e=1594857600&v=beta&t=BH3EEtSkg9oyMVz5z5Pq9CmwLH9IxDniHcIfCgVJ4FM",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -951,35 +831,34 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/marble.io.md",
-      "title": "Marble",
-      "excerpt": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/marble.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/marble.io/",
+      "path": "_companies/mov.ai.md",
+      "title": "MOV.AI",
+      "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mov.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mov.ai/",
       "type": "profile",
-      "name": "Marble",
-      "overview": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
-      "website": "https://www.marble.io/",
+      "name": "MOV.AI",
+      "overview": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
+      "website": "http://mov.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/marble/",
-        "followers": 1629
+        "url": "https://www.linkedin.com/company/movai/",
+        "followers": 567
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/marble"
+        "url": "https://www.crunchbase.com/organization/ground-drone-ltd"
       },
       "twitter": {
-        "username": "marblerobot",
-        "url": "https://twitter.com/marblerobot",
-        "followers": 397
+        "username": "movairobots",
+        "url": "https://twitter.com/movairobots",
+        "followers": 124
       },
       "size": "11-50 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2016,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Cascais"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -987,20 +866,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=pNpH4G-hoIY"
+          "url": "https://www.youtube.com/watch?v=KF0y_gPMnGI"
         }
       ],
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1126580049346420736/zS_MFysH_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Marble",
+          "title": "MOV.AI",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFPTn9geZL7DA/company-logo_200_200/0?e=1594857600&v=beta&t=u_cOwl2JpQy-41n1BqnN6gT6V0_YHPgAu3gSynqh4eY",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1010,32 +889,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/starship.xyz.md",
-      "title": "Starship Technologies",
-      "excerpt": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/starship.xyz/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/starship.xyz/",
+      "path": "_companies/neurala.md",
+      "title": "Neurala",
+      "excerpt": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/neurala/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/neurala/",
       "type": "profile",
-      "name": "Starship Technologies",
-      "overview": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
-      "website": "https://www.starship.xyz/",
+      "name": "Neurala",
+      "overview": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "website": "https://www.neurala.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/starshiptechnologies/",
-        "followers": 7181
+        "url": "https://www.linkedin.com/company/neurala/",
+        "followers": 3462
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/starship-technologies"
+        "url": "https://www.crunchbase.com/organization/neurala"
       },
       "twitter": {
-        "username": "StarshipRobots",
-        "url": "https://twitter.com/StarshipRobots",
-        "followers": 9784
+        "username": "neurala",
+        "url": "https://twitter.com/neurala",
+        "followers": 2023
       },
-      "size": "201-500 employees",
-      "yearFounded": 2014,
+      "size": "11-50 employees",
+      "yearFounded": 2006,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Boston, MA"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1045,17 +923,22 @@
         "AI in Robotics",
         "AI in Autos"
       ],
-      "heat": 58,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-bQYzR5kARM"
+        }
+      ],
+      "heat": 57,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/948994134924189696/iAmDOpwi_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Starship Technologies",
+          "title": "Neurala",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_200_200/0?e=1594857600&v=beta&t=7BXWvzxajwGYusLrhXJnBwisK8JNKlwAsnakP8ngDr0",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1124,6 +1007,64 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/bossanova.md",
+      "title": "Bossa Nova Robotics",
+      "excerpt": "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bossanova/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bossanova/",
+      "type": "profile",
+      "name": "Bossa Nova Robotics",
+      "overview": "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments.",
+      "website": "http://www.bossanova.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bossa-nova-robotics/",
+        "followers": 6109
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bossa-nova-robotics-inc"
+      },
+      "twitter": {
+        "username": "bossanova",
+        "url": "https://twitter.com/bossanova",
+        "followers": 1223
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2005,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KykP6wTp1Qk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910869076137754624/QiqHVTEC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bossa Nova Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_200_200/0?e=1594857600&v=beta&t=liRlIUvnt5np9B6n04CejPt4Nag9vpPrpqm5bIvygWU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/braincorp.md",
       "title": "Brain Corp",
       "excerpt": "Brain Corp is a San Diego-based AI company creating transformative core technology for the robotics industry. Brain Corp’s comprehensive solutions support the builders of today's autonomous machines in successfully producing, deploying, and supporting robots across commercial industries and applications. Brain Corp is funded by the SoftBank Vision Fund and Qualcomm Ventures.",
@@ -1172,6 +1113,65 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_eNjw2VBrog/company-logo_200_200/0?e=1594857600&v=beta&t=js-TWTaT1pVut4Pl1wc6HADoAOsfQjDA7GbwV57p4aM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/brightmachines.md",
+      "title": "Bright Machines",
+      "excerpt": "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/brightmachines/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/brightmachines/",
+      "type": "profile",
+      "name": "Bright Machines",
+      "overview": "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing.",
+      "website": "https://www.brightmachines.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bright-machines/",
+        "followers": 5113
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bright-machines"
+      },
+      "twitter": {
+        "username": "bright_machines",
+        "url": "https://twitter.com/bright_machines",
+        "followers": 678
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=sU4h4V4pDi4"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1052979606842617856/uteimk9-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bright Machines",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_200_200/0?e=1594857600&v=beta&t=JGjsPdJDF7CSRJmboiLh_q3mExe-_Necttkv6XUr4cw",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1345,31 +1345,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/mov.ai.md",
-      "title": "MOV.AI",
-      "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mov.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mov.ai/",
+      "path": "_companies/freedomrobotics.ai.md",
+      "title": "Freedom Robotics",
+      "excerpt": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/freedomrobotics.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/freedomrobotics.ai/",
       "type": "profile",
-      "name": "MOV.AI",
-      "overview": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
-      "website": "http://mov.ai/",
+      "name": "Freedom Robotics",
+      "overview": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
+      "website": "https://www.freedomrobotics.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/movai/",
-        "followers": 567
+        "url": "https://www.linkedin.com/company/freedomrobotics/",
+        "followers": 277
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ground-drone-ltd"
+        "url": "https://www.crunchbase.com/organization/freedom-robotics"
       },
       "twitter": {
-        "username": "movairobots",
-        "url": "https://twitter.com/movairobots",
-        "followers": 124
+        "username": "FRDMROBOTICS",
+        "url": "https://twitter.com/FRDMROBOTICS",
+        "followers": 411
       },
       "size": "11-50 employees",
-      "yearFounded": 2016,
+      "yearFounded": 2018,
       "locations": [
-        "Cascais"
+        "San Francisco, CA"
       ],
       "funding": {
         "status": "Seed"
@@ -1378,26 +1378,188 @@
         "AI",
         "AI in Robotics"
       ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Freedom Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_200_200/0?e=1594857600&v=beta&t=OUFYSMVpyrQOq1KKei-sPYD-i7j1l-CfIeVlQb2Tics",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kindred.ai.md",
+      "title": "Kindred AI",
+      "excerpt": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kindred.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kindred.ai/",
+      "type": "profile",
+      "name": "Kindred AI",
+      "otherNames": [
+        "Kindred Systems Inc"
+      ],
+      "overview": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
+      "website": "https://www.kindred.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kindred.ai/",
+        "followers": 5070
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kindred-2"
+      },
+      "twitter": {
+        "username": "kindredai",
+        "url": "https://twitter.com/kindredai",
+        "followers": 1239
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=KF0y_gPMnGI"
+          "url": "https://www.youtube.com/watch?v=kjKPL53Tgw8"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "MOV.AI",
+          "title": "Kindred AI",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/marble.io.md",
+      "title": "Marble",
+      "excerpt": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/marble.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/marble.io/",
+      "type": "profile",
+      "name": "Marble",
+      "overview": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
+      "website": "https://www.marble.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/marble/",
+        "followers": 1629
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/marble"
+      },
+      "twitter": {
+        "username": "marblerobot",
+        "url": "https://twitter.com/marblerobot",
+        "followers": 397
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=pNpH4G-hoIY"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1126580049346420736/zS_MFysH_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Marble",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFPTn9geZL7DA/company-logo_200_200/0?e=1594857600&v=beta&t=u_cOwl2JpQy-41n1BqnN6gT6V0_YHPgAu3gSynqh4eY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/promo-bot.ai.md",
+      "title": "Promobot",
+      "excerpt": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/promo-bot.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/promo-bot.ai/",
+      "type": "profile",
+      "name": "Promobot",
+      "overview": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
+      "website": "https://promo-bot.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/promobot"
+      },
+      "twitter": {
+        "username": "promobot",
+        "url": "https://twitter.com/promobot",
+        "followers": 547
+      },
+      "yearFounded": 2015,
+      "locations": [
+        "Warminster Heights, PA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1287728520580534272/Su_3X8uA_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Promobot",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1497,166 +1659,6 @@
           "height": 400,
           "title": "Vicarious",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/wasterobotic.md",
-      "title": "Waste Robotics",
-      "excerpt": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/wasterobotic/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/wasterobotic/",
-      "type": "profile",
-      "name": "Waste Robotics",
-      "overview": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
-      "website": "https://wasterobotic.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/wasterobotics/",
-        "followers": 287
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/waste-robotics"
-      },
-      "twitter": {
-        "username": "dirtyjobrobot",
-        "url": "https://twitter.com/dirtyjobrobot",
-        "followers": 311
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Québec, Québec"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/793405645873479682/RvYzd1Xi_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Waste Robotics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/zenrobotics.md",
-      "title": "ZenRobotics",
-      "excerpt": "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zenrobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zenrobotics/",
-      "type": "profile",
-      "name": "ZenRobotics",
-      "overview": "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter.",
-      "website": "https://zenrobotics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/zenrobotics-ltd/",
-        "followers": 3296
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zenrobotics"
-      },
-      "twitter": {
-        "username": "zenrobotics",
-        "url": "https://twitter.com/zenrobotics",
-        "followers": 1502
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "Helsinki"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=9I-Th926Ly0"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/522407174979350529/coE5Wqh0_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "ZenRobotics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/gideonbros.net.md",
-      "title": "Gideon Brothers",
-      "excerpt": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gideonbros.net/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/gideonbros.net/",
-      "type": "profile",
-      "name": "Gideon Brothers",
-      "overview": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
-      "website": "https://www.gideonbros.net/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gideon-brothers/",
-        "followers": 3065
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gideon-brothers"
-      },
-      "twitter": {
-        "username": "GideonBros",
-        "url": "https://twitter.com/GideonBros",
-        "followers": 492
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Zagreb, Croatia"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Dud1F65jkjY"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1090895337399685120/KVHKPXJK_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Gideon Brothers",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF4aThLACe5dQ/company-logo_200_200/0?e=1594857600&v=beta&t=BH3EEtSkg9oyMVz5z5Pq9CmwLH9IxDniHcIfCgVJ4FM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
