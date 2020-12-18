@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Intel reveals low-power Clover Falls AI companion chip for EVO-certified laptops"
+    excerpt: "The new Intel Visual Sensing Controller codenamed Clover Falls is coming to Evo-certified laptops and should help preserve battery life by performing some low-power semi-passive system monitoring tasks normally executed by the CPU."
+    publishedDateTime: 2020-12-18T16:05:00Z
+    webUrl: "https://www.notebookcheck.net/Intel-reveals-low-power-Clover-Falls-AI-companion-chip-for-EVO-certified-laptops.510555.0.html"
+    type: article
+    provider:
+      name: NotebookCheck
+      domain: notebookcheck.net
+    quality: 49
+    images:
+      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Intel_Unveils_Clover_Falls_Energy_Efficient_AI_Coprocessor_For_Laptops.jpg"
+        width: 557
+        height: 421
+        isCached: true
   - title: "Intel Reveals Visual Sensing Controller Chip For Smarter Laptops"
     excerpt: "Intel introduced the Visual Sensing Controller, code-named Clover Falls, as a new component it will use for Intel Evo-verified premium laptops."
     publishedDateTime: 2020-12-17T18:59:00Z

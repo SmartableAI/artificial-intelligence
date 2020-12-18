@@ -43,6 +43,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
+    publishedDateTime: 2020-12-17T11:25:00Z
+    webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Alibaba says Uygur-tracking facial recognition violates company values, removes software"
     excerpt: "Alibaba says it removed software that could detect Uygurs and other ethnic minorities, saying it does not permit technology that identifies specific ethnic groups."
     publishedDateTime: 2020-12-18T12:37:00Z
@@ -59,17 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-    publishedDateTime: 2020-12-17T06:18:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 65
   - title: "Alibaba facial recognition tech can identify Uighurs: Report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
     publishedDateTime: 2020-12-17T17:43:00Z
@@ -190,6 +195,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
+    excerpt: "Users simply send photographs of people taken on their phones or pulled from surveillance videos to Alibaba's facial recognition service, then receive an alert if the subject is identified as a minority Uyghur from the western province of Xinjiang."
+    publishedDateTime: 2020-12-18T15:37:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "mFuhx61GZ4gjO4U4mOOOb9UX0hgSZRDlL+D3bh1/unQ5OzS3JrZC8S1vjNcOkeDetWVF+RuiSaAnaKJZ+5wufn+Ei6Yd9wWfHUvxEMdAlU9KZKy7yWuu21rS1F/VRn+3CSscorn4MzpQnTKm4gGD0G2LQPR8DtiAexLISPDGLUrAJCEz10XgO9tKM0NiDYFiYqbb1XwBspzVZvxY25lgvI+7NjeYyih0cuJfR32BsiVSJroMcQtlTXoqj1VcmPbu9mD3rCSOQpwbBOnvjVWNpnKMXqS8YW8TjnuCiCAmenaQjhtO3ysRSspKWn5yfIzpMRPu/7NxHx/Dq8pB81dSzgjt81ei5Lz8gCN3ECOo5CNq+w/fpP6EQ/8fuVqFd1yYVZYTfkqMtPQsVCPNQas6JZIgC1DpisY4nZPnUfvmkr3vW37BuFLXGU7YVCR5YvAqOd3cf7KRF9bgZmUHDlTk+rD1MAkxkGt6lFs0GkU2xLTVttmmLJ9jF97BQQqbkSh1ULc+ojVBLzhEWCvWNqkd0g==;g/t6YoJ+9SCnEpMoAZd2xQ=="
 ---

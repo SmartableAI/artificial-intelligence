@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-18T14:26:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/ku-ait121820.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-12/ku-ait121820.php"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"

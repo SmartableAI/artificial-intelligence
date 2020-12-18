@@ -106,17 +106,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Researchers aim to use artificial intelligence to save endangered B.C. killer whales"
-    excerpt: "Researchers are aiming to \"teach\" a computer to recognize the sounds of endangered B.C. orcas in order to develop a warning system for preventing ships from fatally striking them."
-    publishedDateTime: 2020-12-14T00:37:00Z
-    webUrl: "https://globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/"
-    ampWebUrl: "https://globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 45
   - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
     excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated."
     publishedDateTime: 2020-12-17T15:31:00Z

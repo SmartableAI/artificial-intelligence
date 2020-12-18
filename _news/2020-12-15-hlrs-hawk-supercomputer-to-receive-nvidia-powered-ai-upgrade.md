@@ -87,6 +87,20 @@ related:
         width: 797
         height: 447
         isCached: true
+  - title: "Nvidia gets its own AI store in the AWS Marketplace"
+    excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
+    publishedDateTime: 2020-12-18T15:09:00Z
+    webUrl: "https://siliconangle.com/2020/12/18/nvidia-gets-ai-store-aws-marketplace/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-18_085931.png"
+        width: 925
+        height: 488
+        isCached: true
   - title: "Beyond Limits to Expand Industrial AI in Energy with NVIDIA"
     excerpt: "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, today announced it is working with NVIDIA to advance its initiative for bringing digital transformation to the energy sector."
     publishedDateTime: 2020-12-17T05:08:00Z

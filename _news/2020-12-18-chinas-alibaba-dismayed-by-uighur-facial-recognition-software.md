@@ -41,6 +41,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
+    publishedDateTime: 2020-12-17T11:25:00Z
+    webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Alibaba says Uygur-tracking facial recognition violates company values, removes software"
     excerpt: "Alibaba says it removed software that could detect Uygurs and other ethnic minorities, saying it does not permit technology that identifies specific ethnic groups."
     publishedDateTime: 2020-12-18T12:37:00Z
@@ -57,17 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-    publishedDateTime: 2020-12-17T06:18:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 65
   - title: "Alibaba facial recognition tech can identify Uighurs: Report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
     publishedDateTime: 2020-12-17T17:43:00Z
@@ -190,6 +195,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
+    excerpt: "Users simply send photographs of people taken on their phones or pulled from surveillance videos to Alibaba's facial recognition service, then receive an alert if the subject is identified as a minority Uyghur from the western province of Xinjiang."
+    publishedDateTime: 2020-12-18T15:37:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "FGXOs0+uBfd5/4SJTqOIb0BQ4j/3ArnsP9VMJupMb1DKF4qDdBQm8DZ5ikQ/FbNc3RU8onMyr7bPRkRorGeCC/ln4lKEL/xLa0RyCQB/AscxEo7h3Oj43h1B5zmZWK6gEGXqLndFDNvfErcAUXSfn5ACiEwur0XJ3/zHGD+1MtuTxw+TlgIRYyZwVs3guvhHV170ja+NE2LR0eHCc3Wf9QTVE/qcF+dZDku5haxroCSDNk3p/ZpBGT+g9egpr5Qc7D5McbNmL72nzHIojAlapS3ZDNBK616DazM9OOVp1lXwoG6GzOBPMc3FwiudeShRWO6svBWnWw8ecej8di9/qaXpjPjcYCsSW92N4EfiJLC39HQ41HK89NF4yEZL83l+KKc3uQm5tfdiY/bociBwhFaeP1DswH3GUseTkl5hVpJxR2Ov5044lQGE59tqWgVMI0MRA6ixgyBzrojHHiEfzWNdK9zMh0TFj2OnEgwvaNut++nl1NMyKZrwBwUKPrK+JxDH/MGlTe+FqKetqtAiLw==;DXM4JfyUB1WoQkoh4RRWlg=="
 ---

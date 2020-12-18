@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AMAX workstations gain new NVIDIA RTX A6000 GPU cards"
-    excerpt: "Server and workstation vendor AMAX has announced support for NVIDIA's professional-grade RTX A6000 GPU card in its workstations. The company, which aims its AceleMax workstations at artificial intelligence (AI),"
-    publishedDateTime: 2020-12-16T14:12:00Z
-    webUrl: "https://www.itpro.co.uk/software/virtual-desktop/358156/amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards"
+  - title: "Nvidia leverages AWS marketplace to advance GPU deployment"
+    excerpt: "The relationship between Nvidia and AWS is becoming complicated in part because AWS has also signaled its intention to build its own GPUs."
+    publishedDateTime: 2020-12-18T16:36:00Z
+    webUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/"
+    ampWebUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: "https://media.itpro.co.uk//image/upload/v1608127394/itpro/PowerMax-DL-E110A-IMG.jpg"
-        width: 600
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-aws.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "LYDMz/zijsJud6v8tOhmzTZ/mV0zPGuS0HIxv+/BdoBboLkp48on/WGFxFWXV60cg8urnyqlVPv4iVt5YopWbFPUI+2ohMfG/GHgJgoScTPukeRb+c+YiztqABijpgTOitTFeV0DTP6e9OC55/YfiT/BCaR+Y6TOuGGKWmVXApad6uZB4VlDS0rJXYuQgaHO/QpYxmwBwOeb4ZguoSLXYLksESoqrrBQYM/MvwQlK8GnKo+vHFwGnpe4ZrG2/+vpLu8GaghN4koF98W/w5+WrFdrKeJJbU77cbcQkCeSMQZp/wd+hHc664kDamrlcJaBgMUlr4++21/Ue513wvWaAf4qjUOfWLONPw3an3mtnm5D+yP3sthf6WTDDcIwcoL6IIeu443YznfreO+739EnL1QBQ0PGJa4VuMd+pG/+rw+rYcZvdRM7Pr6HbA+1qXsijfin27hxYnawkS1KiJNAP/RLqf8ECWNiq12IN5+f4RbxAAQOUtmsaLEW2STSZzplQNvEI3i4j9ZiPiNsOv/ckg==;mpFwfR35EsFwDtWqRZV81A=="

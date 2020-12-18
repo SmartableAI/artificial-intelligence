@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-19-tips-for-applying-an-intersectional-framework-to-ai-development.md",
+      "title": "Tips for applying an intersectional framework to AI development",
+      "excerpt": "Ultimately, there isn’t a “one-size-fits-all” approach to building intersectional AI. At The Trevor Project, our team has outlined a methodology based on what we do, what we know today and the specific communities we serve.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/",
+      "originalUrl": "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-559572335.jpg?w=1024",
+          "width": 1024,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/amp/",
+      "publishedDateTime": "2020-12-18T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-nvidia-leverages-aws-marketplace-to-advance-gpu-deployment.md",
+      "title": "Nvidia leverages AWS marketplace to advance GPU deployment",
+      "excerpt": "The relationship between Nvidia and AWS is becoming complicated in part because AWS has also signaled its intention to build its own GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/",
+      "originalUrl": "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-aws.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/",
+      "publishedDateTime": "2020-12-18T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says.md",
+      "title": "AI, ML can bolster cybersecurity, and vice versa, professor says",
+      "excerpt": "Howard University professor talks about his research in emerging technologies.  The following is an edited transcript of their conversation. Karen Roby: I know that your, your focus a lot is on AI, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/d761e067-abc3-4f1b-9710-d5d0353ba5c6/thumbnail/1200x675/f4905e10df5b7ab57ac881b8a88de52a/20201215-howarduni-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "publishedDateTime": "2020-12-18T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-us-plans-major-expansion-of-facial-recognition-authority-at-airports.md",
       "title": "US plans major expansion of facial recognition authority at airports",
       "excerpt": "US Customs and Border Protection has filed for a significant expansion in its authority to conduct facial recognition at airports. On November 19th, the agency submitted a filing to the Federal Register seeking to expand the ongoing biometric exit program,",
@@ -158,57 +314,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-18-ai-and-its-potential-for-cybersecurity.md",
-      "title": "AI And Its Potential For Cybersecurity",
-      "excerpt": "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ca54a147a4f0006753ed7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/",
-      "publishedDateTime": "2020-12-18T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-18-healthcare-artificial-intelligence-market-may-see-a-big-move-microsoft-ibm-medtronic.md",
       "title": "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic",
       "excerpt": "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ...",
@@ -312,7 +417,7 @@
       "originalUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUKKBN28R0IR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -669,7 +774,7 @@
       "originalUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -921,7 +1026,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1025,7 +1130,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1169,109 +1274,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-climate-change-falls-down-the-agenda-at-ai-lab-deepmind-after-energy-heads-leave.md",
-      "title": "Climate change falls down the agenda at A.I. lab DeepMind after energy heads leave",
-      "excerpt": "The DeepMind Energy unit, which has attracted its fair share of attention over the years, has vanished and none of the company’s staff mention it on their LinkedIn profiles. At one point, DeepMind wanted to use its AI technology to optimize National Grid,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1532563838",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "publishedDateTime": "2020-12-17T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-googles-new-open-source-ai-model-understands-indic-languages-better.md",
-      "title": "Google’s new open-source AI model understands Indic languages better",
-      "excerpt": "Google’s various products, such as Search and Assistant, are already available in India in multiple local languages. The company is now turning to a new AI to potentially make more of its offerings accessible to Indic language speakers — more specifically,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-17-at-11.24.08-AM-e1608184545438-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
-      "publishedDateTime": "2020-12-16T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chip
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-562.jpg"
         width: 797
         height: 447
+        isCached: true
+  - title: "Nvidia gets its own AI store in the AWS Marketplace"
+    excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
+    publishedDateTime: 2020-12-18T15:09:00Z
+    webUrl: "https://siliconangle.com/2020/12/18/nvidia-gets-ai-store-aws-marketplace/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-18_085931.png"
+        width: 925
+        height: 488
         isCached: true
   - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
     excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"

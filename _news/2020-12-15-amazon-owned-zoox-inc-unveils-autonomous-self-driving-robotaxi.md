@@ -383,6 +383,15 @@ related:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 4
+  - title: "Video: Level 5 self-driving robotaxi unveiled by Zoox"
+    excerpt: "Zoox, an autonomous vehicle subsidiary of Amazon, unveiled its Level 5 robotaxi designed for urban mobility that features bi-directional capabilities. (See A primer to the 6 levels of autonomous driving for a breakdown of the levels of self-driving vehicles."
+    publishedDateTime: 2020-12-18T16:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16114/video-level-5-self-driving-robotaxi-unveiled-by-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "bCNfR09h8FDYcy6cXtiQkv67Y6EeNL5bbH7oMQr83WKJ1n9NempjGlXieA9tvg6C3b/OMU4gHLx5zJSbX863TMSjJwgHTidm6bBiAmW6BlIsGf2jM3K7iqV7XndtkfACl3JwOxJ3Wj1mtz5HZT3eBnhZid/otodvoigy4o/VTgQY1B4lMosUvqGUnGHBU55ke/wplk+vITg9a6Bm8CeLcj77YQzwoCWk7ZcKfv8uOqgspQ1VaISXRekXs610VwCJx4UUfokNRBRUvJz82Hd+xrEZuxEzJ9ZqDMV9oGvD0Ef2Rv0RJrK183+LC2qTb4hOiDRpuwQ7mkYJQGOXRFIQrJ/ySroFduSshlMNGWdpteM=;sa51wI9O5X+FARgyLNO9ag=="
 ---

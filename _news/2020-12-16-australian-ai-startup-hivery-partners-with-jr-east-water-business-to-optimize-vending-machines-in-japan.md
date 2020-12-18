@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
-publishedDateTime: 2020-12-16T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
+publishedDateTime: 2020-12-15T18:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
 type: article
-quality: 20
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
+    width: 400
+    height: 250
     isCached: true
 
 related:
@@ -80,6 +84,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "3JSuljllC4O3N7dm4VTYF+M9XVR98ZrRtKXJNuHOjKB0zAxnfcbvYx72el7AVXqsen4b6hxYCp0jPWM6oxHbJmLny/3hDxGN5ZH3Ikkgs5B7OhhXIDo05sSbpGRf6nt+798bsRatwX8BUsUvVVrhU83ABRgdTExMNVbO5zkEYeU+Lqv3cpc20cw66ILn8h4pZa/V3qDiQo/KLHrZ2HNxEEyhAZ3WdIKd9BhaLxcJozhgDpJAXGV9SfR3U1H0+C0Tks0kGovWVVyu75XQv8ERJNSIMQ4E1mJwqn2Dug+4zDRhqzFfHTaFVQGiOduliRLkRu3A45Gtn0HeBtO4GGwQnfYylfiZb8KmeRtRLPMnCGY=;JC6xmyPwOzORe7oP5XBOUg=="
+secured: "9tUDLo29kg/ZA9HshZq1Z6Y/95MjO7mLApdfFd2M0Mzuj9BxZbcYeEfB0zOJo/GVy6QUSbVpfeTLNPTXQi8K3ekXCG56DPW+N1B89CxWTFBwKBmv76Z1FtpAqj+uUPm4AS4Zcev5rnI/eQMEMpQxsJx5k6IqCD7GQijkMXhL0AfTJvu6VvzoCohZv3BVunbSCfb/7r+WmkuQeMBl+hUDTTRkjG1QxVpZxW6gvWeud7EBEsJxD/FjuEDGHRjLBNXBON+WFbkF5G+8FiyHREGDyn6klWwy+ykE7/jovMsaGJHMzSZAQLYFuxLKKU0kWGjl5sKWp17WL14x2bc3Q/eRq/kkM4LN1SYb3FiOWi1dV0U=;cq1Km7D93uiGtgJpxr4miQ=="
 ---
 

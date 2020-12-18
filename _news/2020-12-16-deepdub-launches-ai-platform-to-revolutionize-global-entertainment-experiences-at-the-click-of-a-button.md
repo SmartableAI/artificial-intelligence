@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Synthesizes Content For Entertainment Into Multiple Languages -- Advertising, Live Sports To Come"
+    excerpt: "Deepdub will announce the launch Wednesday of a platform aimed at revolutionizing global entertainment. The ability to synthesize the voice and match the facial gestures required to pronounce words through AI will become one of the most important tools for the entertainment and ad industries in 2021."
+    publishedDateTime: 2020-12-16T05:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/358646/ai-used-to-synthesize-content-for-entertainment-in.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/12/14/ozkrakowski-zoom-600_sWso1NE.jpg"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "dSoEnD1N7YFb+WVeRzv7ZnKR+2b6IzyolcKQ9dLmS/5CDKwkNbTPr3FJQZVRj2Nxbrd1jqvtyKsY7ITllvHz1a9JomMcfuFNaJDIT5NJutrGfJg64SNPrPF0qQdjb2/YlN1KkxFJkNFYg6V1qLJntQiIeFHNFFVVLW7sx06LrjKwZlOEBo9/mFdkj/FmtNfLcu7FFlSDssZ/re/Q/+lff+b4LceBG3dmwFTrUKm+eVHcSXEwbFL3VLwEZosS7cA98cP8uA3qbdpXM3ikC7dEiLh0ASMb7vqFrH1kCaqVLSpy8j7Uhmals1Xz1eHVtTUbvOT19P0x+Lix34cGK0/uIYZKhyuBJdl+bwCCkVsmGVA=;sIrEaCbbWWpAQG1DST7SQQ=="
 ---

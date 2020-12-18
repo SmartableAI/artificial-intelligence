@@ -2,6 +2,117 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-04-veritone-achieves-aws-public-safety-disaster-response-competency.md",
+      "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
+      "excerpt": "VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has achieved Amazon Web Services (AWS) Public Safety & Disaster Response ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency",
+      "originalUrl": "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation.md",
+      "title": "New Apple iPhone Patent Applications Surface: Object and Facial Recognition, Messaging, Voice Modulation",
+      "excerpt": "The patents cover object and facial recognition, messaging, and voice modulation. Object Recognition: One patent application, filed on June 17th, 2008, describes methods by which a mobile device ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
+      "originalUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
+      "publishedDateTime": "2020-12-03T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-driverless-robotaxis-hit-the-streets-of-chinese-city.md",
+      "title": "Driverless robotaxis hit the streets of Chinese city",
+      "excerpt": "AutoX, a Chinese autonomous vehicle company backed by e-commerce giant Alibaba Group Holding, says it has put driverless robotaxis on the streets of downtown Shenzhen. According to the company, this is the first time in that nation's history an AV fleet has been deployed without safety drivers or remote operators providing backup.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/chinas-first-ever-driverless-self-driving-cars-deployed-on-streets-by-autox/",
+      "originalUrl": "https://www.autonews.com/mobility-report-newsletter/driverless-robotaxis-hit-streets-chinese-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2020/12/autox-nevs.png",
+          "width": 730,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology.md",
       "title": "Voiceitt, Amazon Announce Collaboration Between Alexa And ‘Superpower’ Speech Technology",
       "excerpt": "Amazon and speech recognition startup Voiceitt on Thursday announced a collaboration that aims to make Alexa more accessible to people with atypical speech.",
@@ -688,19 +799,19 @@
     {
       "path": "_news/2020-12-03-neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics.md",
       "title": "Neuroglee Therapeutics to Attack Alzheimer's Disease Through Personalized AI-Powered Digital Therapeutics",
-      "excerpt": "Neuroglee's technology leverages artificial intelligence (AI), machine learning ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on ...",
+      "excerpt": "Neuroglee's technology leverages artificial intelligence (AI), machine learning and novel ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on slowing dementia-related cognitive decline.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html",
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1357579/NeurogleeRx_Logo.jpg?p=facebook",
-          "width": 1956,
-          "height": 1024,
+          "url": "https://www.pharmiweb.com/media/9690/neurogleerx_logo.jpg?anchor=center&amp;mode=crop&amp;width=300&amp;height=300&amp;rnd=132514696030000000",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -710,11 +821,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T03:34:00-08:00",
+      "publishedDateTime": "2020-12-03T03:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1055,144 +1166,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins.md",
-      "title": "DeepMind claims major breakthrough in understanding proteins",
-      "excerpt": "London — DeepMind, the UK-based artificial intelligence (AI) company owned by Alphabet, has said it can predict the structure of proteins, a breakthrough that could dramatically speed up the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "originalUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/mAnoa0U_lK0Ey0sETH_8Cp3TWLVn8px8Y81UEwCAVdthDEEmB7fLdcYb9TGrGaBgT5xJRtTGFvHkbf3unbPkjdGsuOZJKbm0=s1000",
-          "width": 594,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "publishedDateTime": "2020-12-02T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-intel-has-been-missing-an-ai-business-to-compete-with-nvidia-its-finally-here.md",
-      "title": "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here.",
-      "excerpt": "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
-      "originalUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-267539/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
-      "publishedDateTime": "2020-12-02T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025.md",
-      "title": "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025",
-      "excerpt": "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T18:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Synthesizes Content For Entertainment Into Multiple Languages -- Advertising, Live Sports To Come"
+    excerpt: "Deepdub will announce the launch Wednesday of a platform aimed at revolutionizing global entertainment. The ability to synthesize the voice and match the facial gestures required to pronounce words through AI will become one of the most important tools for the entertainment and ad industries in 2021."
+    publishedDateTime: 2020-12-16T05:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/358646/ai-used-to-synthesize-content-for-entertainment-in.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/12/14/ozkrakowski-zoom-600_sWso1NE.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "deepdub Launches AI Platform to Revolutionize Global Entertainment Experiences at the Click of a Button"
     excerpt: "Ofir Krakowski, Co-Founder and CEO of deepdub, states, \"We set forth to explore how AI and deep learning technologies could be used to create a more rich and compelling experience for audiences worldwide. During this process we discovered that the ..."
     publishedDateTime: 2020-12-16T13:36:00Z

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Chipsets) Market Opportunities 2021 Report Segmented by Geography, Technology, Type, Application and Forecast 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Artificial Intelligence (Chipsets) Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,"
+    publishedDateTime: 2020-12-18T15:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-opportunities-2021-report-segmented-by-geography-technology-type-application-and-forecast-2025-2020-12-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
     excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled “2020-2026 Global Artificial Intelligence Chipsets Report” provides data, information, brief analysis, company profiles,"
     publishedDateTime: 2020-12-15T04:20:00Z

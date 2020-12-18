@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -93,6 +93,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
+    excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
+    publishedDateTime: 2020-12-18T14:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18853853/global-self-driving-car-market-report-2020-featuring-uber-google-valeo-among-others"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18853853"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18853853"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "VO7CuNqmShZw0tAF+zZygG2CX8nccBLA7qoKi6Sd9dT0SoPhPIMwAHgUAC59aUdAyRxOY2AQGDaBgCC67fbDDpgQBqcT9YibwfJAdrkqZ+A3WfTagZVrAtJpCpEpi9ITky430fTtwypJe5l08iIEf89OqR0f2ThyTdYxArdgEsoobyzuTQW0wSp45akojVrwZ5kavCKlVjdsCBXs7iI5qAkc//HQv1VO2EZzI9/GNenqGOtrp42FJMa3HysrRJkiGDDx3Qp2zczGz15SnmEuwQ+JQr6Kd0ym4P3XK+nL53/G3DmmUx68tY1w24zWU4KtO7TgMb4Z9fEWKSfmU5sxuNMj1/9tiTbMjp+HhUn4JQUgp9ejp2poMFid4/3vFypcX+n7Ekw3pxHCTGIfo/TadMwdMf4TMRCV3ngrSaKDoUh7SuHnNN+DE6t8qEQ3SGGfvC7sXt3ieJ5NVly7MT/95Dye3M3UtAdHz8fULQCe3sEpL76ZtmBdYi4PN8kX/whxiunFKdXxZfGCom3ovN4IgA==;b4pGFuPOJ+C4PAEa+wBGyA=="
 ---

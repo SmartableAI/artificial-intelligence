@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (Chipsets) Market Opportunities 2021 Report Segmented by Geography, Technology, Type, Application and Forecast 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Artificial Intelligence (Chipsets) Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,"
+    publishedDateTime: 2020-12-18T15:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-opportunities-2021-report-segmented-by-geography-technology-type-application-and-forecast-2025-2020-12-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,128 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-11-30-microsoft-azure-databricks-receives-fedramp-ato.md",
+      "title": "Microsoft Azure Databricks receives FedRAMP ATO",
+      "excerpt": "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO).",
+      "sourceUrl": null,
+      "webUrl": "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/",
+      "originalUrl": "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-artificial-intelligence-machine-learning-what-do-they-mean.md",
+      "title": "Artificial Intelligence & Machine Learning – What Do They Mean?",
+      "excerpt": "There was a time when we heard terms like Artificial Intelligence and Machine Learning only in sci-fi movies. But",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
+      "originalUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2020/11/AI-recommendation-engine.png",
+          "width": 767,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
+      "publishedDateTime": "2020-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles.md",
+      "title": "Volvo Designs Driving Simulator Using Video Game Engine To Train Autonomous Vehicles",
+      "excerpt": "More autonomous vehicle researchers and engineers are turning to video games to enhance the performance and reliability of autonomous vehicles. According to TNW, Volvo has begun to utilize video games to assist in the development of autonomous vehicles and the AI algorithms that will drive them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
+      "originalUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers.md",
       "title": "Automated transcription spells savings, speed and security for Griffith University researchers",
       "excerpt": "Professor Elizabeth Kendall is the executive director of the Hopkins Centre at Griffith University, and leads a large team of researchers investigating rehabilitation and disability service delivery and community support.",
@@ -642,6 +764,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-28-artificial-neural-network-market-trends-analysis-supply-chain-analysis-impact-of-covid-19-future-scope-and-forecast.md",
+      "title": "Artificial Neural Network Market Trends Analysis, Supply Chain Analysis, impact of COVID-19, Future Scope and Forecast",
+      "excerpt": "Growth across different regions and burgeoning market demand has been supporting the growth of the Artificial Neural Network Market, so as to attain a substantial market figure by 2027; witnessing robust growth rate (CAGR) from 2020 to 2027. Segmentation ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2020/11/27/artificial-neural-network-market-trends-analysis-supply-chain-analysis-impact-of-covid-19-future-scope-and-forecast/",
+      "originalUrl": "https://ipsnews.net/business/2020/11/27/artificial-neural-network-market-trends-analysis-supply-chain-analysis-impact-of-covid-19-future-scope-and-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2020/11/4558-1606480036.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-28T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video.md",
       "title": "Kamua’s AI-powered editor helps marketers embrace vertical video",
       "excerpt": "Kamua is an AI-powered video editing platform that helps creators automatically transform landscape videos into a vertical format.",
@@ -1034,204 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-ai-weekly-the-state-of-machine-learning-in-2020.md",
-      "title": "AI Weekly: The state of machine learning in 2020",
-      "excerpt": "If there was anything surprising in the report, it’s that only 16% of respondents said their companies have moved deep learning projects beyond a pilot stage. (This is the first year McKinsey ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/business_meeting.GettyImages-558270869.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/amp/",
-      "publishedDateTime": "2020-11-27T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance.md",
-      "title": "Cloud and AI: The biggest trends in personal and SMB video surveillance",
-      "excerpt": "Video surveillance systems are increasing in power and value, as new ways to gather, analyze, share, and store digital data are developed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "publishedDateTime": "2020-11-27T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer.md",
-      "title": "Volvo thinks gaming tech can help make self-driving cars safer",
-      "excerpt": "Volvo is using video game tech like VR headsets, simulations, and haptic feedback steering wheels to create a driving simulator to help make cars safer.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
-      "originalUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Polestar_wordmark_pos.png",
-          "width": 3003,
-          "height": 1363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
-      "publishedDateTime": "2020-11-27T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-ibm-smart-lineup-decisions-for-nfl-week-12.md",
-      "title": "IBM Smart Lineup Decisions for NFL Week 12",
-      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1126%2Fr781106_1296x729_16%2D9.jpg",
-          "width": 1298,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "publishedDateTime": "2020-11-27T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ESPN",
-        "domain": "espn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

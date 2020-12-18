@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, ML can bolster cybersecurity, and vice versa, professor says"
+    excerpt: "Howard University professor talks about his research in emerging technologies.  The following is an edited transcript of their conversation. Karen Roby: I know that your, your focus a lot is on AI, machine learning,"
+    publishedDateTime: 2020-12-18T16:15:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/d761e067-abc3-4f1b-9710-d5d0353ba5c6/thumbnail/1200x675/f4905e10df5b7ab57ac881b8a88de52a/20201215-howarduni-karen.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI And Its Potential For Cybersecurity"
     excerpt: "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before."
     publishedDateTime: 2020-12-18T12:20:00Z
@@ -41,19 +57,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Secure enclave protection for AI and ML"
-    excerpt: "A secure enclave is a private region of memory whose contents are protected by hardware-grade encryption and hardware isolation techniques."
-    publishedDateTime: 2020-12-15T06:25:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/15/secure-enclave-protection-ai-ml/"
+  - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
+    excerpt: "Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, today announced that Ryan Shopp has been named to the newly created position of chief marketing officer."
+    publishedDateTime: 2020-12-17T15:18:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-marketing-and-advertising-executive-changes-corporate-news-personnel-26f0e47ec4b642ca85d9fa22a67672e8"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 56
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093146/robot.jpg"
-        width: 1600
-        height: 1310
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
     excerpt: "Cybersecurity company, Deep Instinct, announces Ryan Shopp has been named to the newly created position of chief marketing officer."

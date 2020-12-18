@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
 type: article
 quality: 172
-heat: 412
+heat: 422
 published: true
 
 provider:
@@ -385,6 +385,15 @@ related:
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
+    quality: 4
+  - title: "Video: Level 5 self-driving robotaxi unveiled by Zoox"
+    excerpt: "Zoox, an autonomous vehicle subsidiary of Amazon, unveiled its Level 5 robotaxi designed for urban mobility that features bi-directional capabilities. (See A primer to the 6 levels of autonomous driving for a breakdown of the levels of self-driving vehicles."
+    publishedDateTime: 2020-12-18T16:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16114/video-level-5-self-driving-robotaxi-unveiled-by-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 4
 
 secured: "KprjDAHqviRs2jZLsdT5VAqPClsZCG7wFJ9/xX8ckfgct7o7oh+rcoc5DE+8PcKf8JK3d/pkzN96rixl0gc0tqCRsZRWPJXs3UZgJCzQVnyHwLX08fanMEGoit5O6+twBp01fcpH5Y+m2jMZjBigvQpPU5dqHkdTNi4+SfkCW5cB53fU+4XXihWpEYk9AV8qaEE/UWjOUDuvDZoWLOHg0zuBfHiAkt4UE5Pna7T1U8lu7gsmrm00ijQNvNevRT6Vl0Vfs9vN7uMnO8qgBQWEkAIXWQ6h60kHqkl+neXNgHG0s3RF3eNvqklcbNMH6fUD7PIfPG2Q2/zo61AlOtrWWSbQJ5LhNtikugaUpYH0DXk=;WkuiRYD5CcdQ0ZQa4LAEFA=="

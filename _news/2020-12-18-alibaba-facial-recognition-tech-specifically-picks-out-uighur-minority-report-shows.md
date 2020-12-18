@@ -44,6 +44,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
+    publishedDateTime: 2020-12-17T11:25:00Z
+    webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Alibaba says Uygur-tracking facial recognition violates company values, removes software"
     excerpt: "Alibaba says it removed software that could detect Uygurs and other ethnic minorities, saying it does not permit technology that identifies specific ethnic groups."
     publishedDateTime: 2020-12-18T12:37:00Z
@@ -60,17 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-    publishedDateTime: 2020-12-17T06:18:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 65
   - title: "Alibaba facial recognition tech can identify Uighurs: Report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
     publishedDateTime: 2020-12-17T17:43:00Z
@@ -191,6 +196,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
+    excerpt: "Users simply send photographs of people taken on their phones or pulled from surveillance videos to Alibaba's facial recognition service, then receive an alert if the subject is identified as a minority Uyghur from the western province of Xinjiang."
+    publishedDateTime: 2020-12-18T15:37:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "4lF03qz1cdxK477TAHqkQAQNmpC2Be4kG05L7Gbcvx+ieUNbY53OquLh3ez3LykIhO/zLCqbPlvkqkz/L17fIAMU1Ifuf4ygc4hUQgHoKPDo/GkgZStpLcfnBIou1BmPyenO0Ke2osY/BT1epB2bZYR67BRvDAmgPgyerNITsp6Vs8CzVFS+9Bd2OCQ4OiABA9XNFOalUy+7qxwagzRQtauWRsE7NnhX5PAUdmHiwhfqqgibs9XMsnICLWVmD9026Whgt1EijXhFVJ0v6Lg3ek4UDPqy526zLokjfKdJP5WvkAgZfu3k1w4bVsSIzL1buwYq1pgvLGEccKwj8ayiA5qO+WTtR9/7GWG6XnRMnZNND39b8J2ExJh9bLhglqLZtpadB0PLGzrCF+UZuS5sYTLIKjmW4HSM5ESdRjdwi8WfeGkq4EGRjzGBjbtqPyvO9+/O4V1F6c3CKpSdRNlL5mvwcy4fEafeEQA5Dxa6UXarjm7cECgPWOORv7Ni/Wzh3dbKOr5wsFCF0S6/61dNPA==;nMbj0fUSHIaWcrqT3N6dBA=="
 ---

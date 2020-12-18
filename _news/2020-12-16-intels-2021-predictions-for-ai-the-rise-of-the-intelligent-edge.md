@@ -24,15 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Driven IntelligentCross Posting Best Displayed Prices in U.S. Equities Market"
-    excerpt: "IntelligentCross at those times is 32% better on average than the best price available on the exchanges. \"The superior quotes on IntelligentCross are due to our AI innovation in matching buyers and sellers close to fair value,"
-    publishedDateTime: 2020-12-16T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driven-intelligentcross-posting-best-displayed-prices-in-u-s-equities-market-1029898330"
+  - title: "Tips for applying an intersectional framework to AI development"
+    excerpt: "Ultimately, there isn’t a “one-size-fits-all” approach to building intersectional AI. At The Trevor Project, our team has outlined a methodology based on what we do, what we know today and the specific communities we serve."
+    publishedDateTime: 2020-12-18T16:54:00Z
+    webUrl: "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/"
+    ampWebUrl: "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-559572335.jpg?w=1024"
+        width: 1024
+        height: 724
+        isCached: true
+  - title: "Researchers uncover blind spots at the intersection of AI and neuroscience"
+    excerpt: "Is it possible to read a person's mind by analyzing the electric signals from the brain? The answer may be much more complex than most people think. In a new article, researchers say a prominent dataset used to try to answer this question is confounded,"
+    publishedDateTime: 2020-12-15T22:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201215082043.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "Km2tbBnZ8ZszsAnKCQuw54DHQ8MfVbKL9Dkao3S+jjwQK0Znqj2G1rf8zmAOeNoqnHnrECmJpXq4+4FO4PyvCCHtWrlyeC9SnP0o1SLf4Zi+QO68Ew5gpfQVgjp92w29b3YRzLK1MslvEocPhfn+TEO7kEDlQ3GQbSGy3QGpYlr8sxbgSChDRL9WB2MQrlJyb6MTsfmOREoXc6ocUMMjOnRxxsHmF7R+XsR2vxq/9Hm2gPKwYvBB6QoVduil2p9bn4FgiUg0ouyF1N1I7FdND4IAOXEox5P2w3myDmr6lYFLvsQ6gANiI1DNaMeh/25/Jkv0sPrXSOERyrE4d9viAYmEHmoLL8Y9HEKsadtjfkU=;k5f5a5y+uCAIZiLfyeNS+w=="
 ---

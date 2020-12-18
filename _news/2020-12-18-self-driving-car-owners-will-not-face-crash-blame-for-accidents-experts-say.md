@@ -89,6 +89,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
+    excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
+    publishedDateTime: 2020-12-18T14:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18853853/global-self-driving-car-market-report-2020-featuring-uber-google-valeo-among-others"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18853853"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18853853"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "p520E1Z82aOOazRqGum1y7Ni/hJa23MHCspyUKY38mS72ujY99UQl2SGa5jiAfT8Ob4eQIw41jjvRRRDbIh6G6Fk86dBPitLsi87OJlyAj0S+nBN88LYsknvjWHZaGnK95S7yrf1xeUNSRX8jY9Ll8A81j12IxuZQmfMDHeKt0g4rTmvDkH8yxVunG7OISNJ3YVR9yxwqi8XOg08J/3ounGxcWwBgq09MjuzLp1xtEm7OTmnfLseruE3J0jUGo2SYndRWqNakrpnXs5DQoy5xyfq6jk65E6XhlCf3tU9dXlBQ/1+fleC9rbM4pYjDEH0Uai6qLHj9Ft7POT/ABq0dILLbrRfJSOycnEDDEvjpDA=;t+CWNfrRitUrm+jDJ4NAUA=="
 ---

@@ -22,7 +22,7 @@ related:
   - title: "WISeKey upgrades its WISeCoin blockchain technology with AI capabilities and integrates ..."
     excerpt: "WISeKey upgrades its WISeCoin blockchain technology with AI capabilities and integrates physical and digital world in terms of value. AI takes the role of adaptive decision engine"
     publishedDateTime: 2020-12-17T21:11:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-artificial-intelligence-industrial-products-and-services-f64eedc675f33d84ea674d4266225732"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-europe-artificial-intelligence-industrial-products-and-services-f64eedc675f33d84ea674d4266225732"
     type: article
     provider:
       name: Associated Press

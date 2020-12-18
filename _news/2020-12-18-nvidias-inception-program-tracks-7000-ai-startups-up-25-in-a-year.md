@@ -76,6 +76,20 @@ related:
         width: 797
         height: 447
         isCached: true
+  - title: "Nvidia gets its own AI store in the AWS Marketplace"
+    excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
+    publishedDateTime: 2020-12-18T15:09:00Z
+    webUrl: "https://siliconangle.com/2020/12/18/nvidia-gets-ai-store-aws-marketplace/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-18_085931.png"
+        width: 925
+        height: 488
+        isCached: true
   - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
     excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
     publishedDateTime: 2020-12-14T16:08:00Z
@@ -119,6 +133,6 @@ related:
         height: 228
         isCached: true
 
-secured: "QhE3zQHNZ+oMsgn56TsA8rFeXhv4VZmVgI1fM6uNroJnOAFBgck1Yfmr/C2cCF/ORYg85Qx4FMsrQ15ksBtCDnj96eF1xqZ7YNfjthtcFLkhffIGeY0fs/8j1cdzLtp0uoaBuKU3HJBNnVwOPdjwGr9iT+xXwRC1t/9d1KP/zTeECMIOAlXQ9zbcxp2lLTVI5C5b6Ro1s7JFCpINcpPPIWa4Lqd+vm9HQjtfYEijTHJz5ijW1l7cLdffV6jO8kU1CvlyZwSP/46k5RjJeOqPjZLGMdJc2Wr3XOwPMMWNFfab/osESldP06Ad6VWNOmmwrwPBqdhRlodZC6CLR8+ldsYqCLntY521Ol3By5zP+Y0=;pzDbo1YFpRRWcpYckLBK8Q=="
+secured: "A2Z78GS/nwJ4yuHwnecx4yXJNY0YhXV81So7za3Aih9a1TejqpfRFrjXCIJGpaKjyTJFagNVZHsFaaqATMWAXyIfmcBzbrXVA5ZbAzNUnvmR1VoXliyuxU50/Ht6qfWptQ7jvYPDwHPN1Yyeme36SedH0n3ggamepam0vTevhBfGECA7n0YYRaJKgIlQjMI/1GOkBxMaPZphVr/GO0tKYJxAL+joTtGm8c1MKUoas11LTxK2ZXz9KX/XQ0MDGMnefBW4bNQWBX8zrc7UORK+n2kbn2iZveBjbxLVMplseav5se3zh0ILmGPVjNuITDbS9yChInvhNtKtnwZvzh6E56r9Y4UcgwVK38vGHQj3zhuvyQGawZtv0HZO1roLnw4SLMg1ylnAZqAwgmkZzFcWk6lC0UoPxl1E94ElQRSohQfqLTJnxg2eldB3LBbfmZOAvtqJiV6HQLsHbWg5m6aLnUY3kBAsY449xv2FuGkQbqLdPNiOyUoadZBIhpfraeYZc8jymZsxrNODowFjHP+bPg==;5Co44XuTuGkdP6UPNM9YOQ=="
 ---
 

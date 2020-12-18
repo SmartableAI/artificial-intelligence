@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Intel’s 2021 Predictions for AI & the Rise of the Intelligent Edge"
-    excerpt: "Intel’s technology has been at the heart of computing breakthroughs.  They stand at the brink of several technology inflections—artificial intelligence (AI), 5G network transformation, and the rise of the intelligent edge—that together will shape the future of technology."
-    publishedDateTime: 2020-12-15T20:11:00Z
-    webUrl: "https://www.unite.ai/intels-2021-predictions-for-ai-the-rise-of-the-intelligent-edge/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/10/intel.png"
-        width: 1000
-        height: 600
-        isCached: true
-
 secured: "qy/JBWvYlIhd2BItyBSQEwPWhHLueqkfDl7G779DphukERiGyxzJXUpjPq6NbYLMo6PgGK27iWvBHK7LlQZ0ha0VEW/kEaP2B9crx1DRgCz8R8iDNCkjAYwHsCZA/7tHYWq5+lYwjmoONmFmsc3/X7uFv8ge4KDhNSk7reQKp5QN74vV9LHaCkUv1leOQe44n9Yt0QxRWG8kTg3AAI7ZR4DdVo0x+sPWAf5KPS3u34Qd8IDFMEAT0yVFVorvlYQYbJEsNZ7hIL4wfJOX4du+C9yoSgTTtrue0Nhr3D3OFuHFd+cx6OT2zdPv4tMhvJ0af0C8rR5/cmKHCEe6Z/TpbRlZ0PZeVdgvY2jkf3VOn8E=;UF8snnltfXA+5E/foVbsMA=="
 ---
 

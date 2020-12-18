@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-financial-regulators-increase-ai-engagement-amidst-covid-pandemic.md",
+      "title": "Financial regulators increase AI engagement amidst COVID pandemic",
+      "excerpt": "Living up to its nation’s reputation as a hub for fintech and innovation ... Gartner reporting that a quarter of IT professionals upped levels of investment in AI in light of COVID-19, with 75% expressing intentions to commence new AI projects in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314",
+      "originalUrl": "https://www.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp",
+      "publishedDateTime": "2020-12-16T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-deepdub-uses-ai-to-localize-voice-dubbing-for-foreign-language-films.md",
+      "title": "Deepdub uses AI to localize voice dubbing for foreign language films",
+      "excerpt": "Deepdub is launching a platform that uses AI to dub voices into videos so entertainment companies can localize content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/",
+      "originalUrl": "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/",
+      "publishedDateTime": "2020-12-16T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-how-deep-learning-can-encourage-brand-loyalty.md",
+      "title": "How Deep Learning Can Encourage Brand Loyalty",
+      "excerpt": "One answer lies in the application of deep learning. Not only can deep learning help marketers identify those potential customers who have the highest chances of becoming brand loyal in the future, but it also allows marketers to tailor their bottom-of-the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/amp/",
+      "publishedDateTime": "2020-12-16T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-the-future-of-ai-deployments-reaching-production-is-bright-in-2021.md",
       "title": "The future of AI deployments reaching production is bright in 2021",
       "excerpt": "Despite AI's deployment historic failure rate, the future's looking brighter for a number of reasons, and many will beat the odds.",
@@ -363,7 +509,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 308,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1115,164 +1261,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-chinese-web-giant-baidu-may-fancy-building-its-own-cars-report-says.md",
-      "title": "Chinese web giant Baidu may fancy building its own cars, report says",
-      "excerpt": "Known as \"China's Google,\" Baidu is reportedly interested in not just developing self-driving software, but its own vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/baidu-china-building-cars/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/baidu-china-building-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/DffVxQ58xMv1VNvdgGae9Q2yTBg=/2019/09/27/809b83bf-7d39-4f0a-8de4-472ac3330a59/ogi-apollo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/baidu-china-building-cars/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/baidu-china-building-cars/",
-      "publishedDateTime": "2020-12-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-why-do-many-self-driving-cars-look-like-toasters-on-wheels.md",
-      "title": "Why Do Many Self-Driving Cars Look Like Toasters on Wheels?",
-      "excerpt": "Without any need for steering wheels or pedals, the cubes give passengers room to maneuver inside. The latest entrant, from Zoox, can hold 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
-      "originalUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd7a8484c7927c6dddd2eba/master/pass/Business-Zoox-Autonomous-Vehicle.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
-      "publishedDateTime": "2020-12-15T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-artificial-intelligence-may-be-the-defining-technology-of-our-times.md",
-      "title": "Artificial Intelligence May be the \"Defining Technology of Our Times\"",
-      "excerpt": "Artificial intelligence is reshaping our environment, finding use in healthcare, customer service, data analytics, autonomous driving, and many other industries. JP Morgan analysts believe the market could grow to $58 billion by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AWS AI"
       ]
     }
   ],

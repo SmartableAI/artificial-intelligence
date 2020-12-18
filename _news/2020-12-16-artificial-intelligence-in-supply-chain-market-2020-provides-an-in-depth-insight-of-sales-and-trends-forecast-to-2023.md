@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
 type: article
 quality: 78
-heat: 308
+heat: 318
 published: true
 
 provider:
@@ -323,6 +323,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-12-18T16:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Robotics Market Growth, Trends, and Forecasts Report 2020-2025: Advent Of Industry 4.0 Driving Automation & Increasing Emphasis On Safety - Res"
     excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued at USD 39.72 billion in 2019 and is expected to register a CAGR of 25."
