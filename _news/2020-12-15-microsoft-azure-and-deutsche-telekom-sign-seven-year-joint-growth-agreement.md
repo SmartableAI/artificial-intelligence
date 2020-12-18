@@ -68,20 +68,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "Shell and Equinor develop smart inventory management system with Microsoft Azure"
-    excerpt: "The collaboration is the first of a series of planned co-innovation initiatives across the wider energy value chain, including themes such as maintenance, production optimization and supply chain management."
-    publishedDateTime: 2020-12-16T12:57:00Z
-    webUrl: "https://www.worldoil.com/news/2020/12/16/shell-and-equinor-develop-smart-inventory-management-system-with-microsoft-azure"
-    type: article
-    provider:
-      name: World Oil
-      domain: worldoil.com
-    quality: 49
-    images:
-      - url: "https://www.worldoil.com/media/11228/schlumberger-google-cloud-ai.png"
-        width: 782
-        height: 530
-        isCached: true
 
 secured: "lvHzJEsNZEQq+Xni4z4EDwrg24RaLfvyhz8OtPlmfuyo4VVl16KtdZqBH+gLgXcLZIirs8vzIBpBwID4I+Fqcmjl+91lZWLJUXpnsKr1kwkl50FJCMd8MI0OSdAnH2bl7oMXXipEcveB6jEbbCn1mXX/kqHi3nfgcP0wD9KJfKR/LrNh/AAKqwlW/dx4bCz3klV54kgORWHvxRk8jrWDq66DTjr7lsDVa26jUWcAUGnkfcLnKDQg3dettqC2sRGeVSYWdvW9puN8aACKwdI1+fF4HcGdX2W6/+8ea+AYNQ3tD6VVKZBx8OBcw3wC/4tVIYEvkrQByGu+4ww5PBkXfWV4mT1b8mXeJ9vruiWciD9hiRVgPH4ZtQ5iiWBCbZ5ofthbP02QNvi/0tyN3GKO8o85XOVnJiQJDNMwtEWL/h0hBWgk6n1yNJkjFAaWBjIgwfC6AqzZTYyS6RO7i9Z4ip2+HtWxvPm30a4dIl8B7mBLeMz0cS3DeHOVcwFwF/DbQORg8fcbToqMYMOy5UJ4Kw==;olrNloWE+EZQCktlzIY03A=="
 ---

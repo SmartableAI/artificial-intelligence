@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-healthcare-artificial-intelligence-market-may-see-a-big-move-microsoft-ibm-medtronic.md",
+      "title": "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic",
+      "excerpt": "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "originalUrl": "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc18165825_g.jpg",
+          "width": 775,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "publishedDateTime": "2020-12-18T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-the-perfect-cheeto-how-pepsico-is-using-microsofts-project-bonsai-to-raise-the-snack-bar.md",
       "title": "The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar",
       "excerpt": "The post The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar appeared first on The AI Blog.\n",
@@ -114,7 +158,7 @@
       "originalUrl": "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1390,58 +1434,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business.md",
-      "title": "‘Dangerous’ And Hidden Microsoft Feature Could Destroy Your Career And Your Business",
-      "excerpt": "A new Microsoft 365 feature designed to boost performance could spark management and staff behavior that undermines it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc40308368520046e9ef540%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/amp/",
-      "publishedDateTime": "2020-11-29T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

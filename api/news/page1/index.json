@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-healthcare-artificial-intelligence-market-may-see-a-big-move-microsoft-ibm-medtronic.md",
+      "title": "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic",
+      "excerpt": "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "originalUrl": "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc18165825_g.jpg",
+          "width": 775,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "publishedDateTime": "2020-12-18T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-v7-labs-raises-3m-to-help-ai-teams-automate-training-data-workflows.md",
+      "title": "V7 Labs raises $3M to help AI teams ‘automate’ training data workflows",
+      "excerpt": "V7 Labs, the makers of a computer vision platform that helps AI teams “automate” and future-proof their training data workflows as advances in AI continue, has picked up $3 million in funding. Leading the seed round is Amadeus Capital Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/18/v7-labs/",
+      "originalUrl": "https://techcrunch.com/2020/12/18/v7-labs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/bina-lab-flood-recognition.jpg?w=680",
+          "width": 680,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/18/v7-labs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/18/v7-labs/amp/",
+      "publishedDateTime": "2020-12-18T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
       "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
       "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
@@ -1175,92 +1270,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-celtics-players-call-for-gov-baker-to-end-facial-recognition-surveillance.md",
-      "title": "Celtics players call for Gov. Baker to end facial recognition surveillance",
-      "excerpt": "\"Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
-      "originalUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2020/08/Celtics_76ers_Basketball_90482-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
-      "publishedDateTime": "2020-12-16T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
-      "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
-      "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "originalUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "publishedDateTime": "2020-12-16T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

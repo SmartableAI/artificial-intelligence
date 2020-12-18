@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-17-celtics-players-call-for-gov-baker-to-end-facial-recognition-surveillance.md",
+      "title": "Celtics players call for Gov. Baker to end facial recognition surveillance",
+      "excerpt": "\"Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
+      "originalUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boston.com/wp-content/uploads/2020/08/Celtics_76ers_Basketball_90482-850x478.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
+      "publishedDateTime": "2020-12-16T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
+      "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
+      "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
+      "originalUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
+      "publishedDateTime": "2020-12-16T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-indias-invisible-women-hope-for-recognition-at-farmers-protests.md",
       "title": "India's 'invisible' women hope for recognition at farmers protests",
       "excerpt": "Legions of women have trekked to India's capital to join massive protests against agricultural reforms, hoping not only to protect their livelihoods but also win visibility as farmers.",
@@ -1005,7 +1091,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1149,102 +1235,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-fun-machine-learning-experiment-creates-a-vocal-opera-in-your-browser.md",
-      "title": "Fun machine learning experiment creates a vocal opera in your browser",
-      "excerpt": "Google's Arts and Culture lab has launched a clever browser experiment in collaboration with David Li. The Blob Opera puts four operatic voices at your disposal to create glorious AI-driven performances.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "originalUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/afd589d/2147483647/strip/true/crop/1071x714+65+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9e%2F02%2F996578d848038d6c195522c0ef87%2F01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "publishedDateTime": "2020-12-16T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-ethical-ai-the-next-big-thing-for-enterprises-in-2021.md",
-      "title": "Ethical AI: The Next Big Thing for Enterprises in 2021",
-      "excerpt": "Before COVID-19, most people had some degree of apprehension about robots and artificial intelligence (AI). While the initial dilemma of the technology was shap",
-      "sourceUrl": null,
-      "webUrl": "https://www.cxotoday.com/ai/ethical-ai-the-next-big-thing-for-enterprises-in-2021/",
-      "originalUrl": "https://www.cxotoday.com/ai/ethical-ai-the-next-big-thing-for-enterprises-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cxotoday.com/wp-content/uploads/2020/12/ai-ethics.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T03:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

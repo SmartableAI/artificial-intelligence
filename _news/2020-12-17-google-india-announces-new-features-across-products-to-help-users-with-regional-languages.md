@@ -107,6 +107,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Amazon Alexa rolls out live translation feature in Echo devices"
+    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator."
+    publishedDateTime: 2020-12-18T08:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/videoshow/79794724.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp_videoshow/79794724.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp_videoshow/79794724.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79794724/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Amazon Alexa rolls out live translation in Echo devices"
     excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
     publishedDateTime: 2020-12-15T16:51:00Z

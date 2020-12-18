@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 586
         isCached: true
+  - title: "Application Of AI In the Manufacturing Industry"
+    excerpt: "Through the AI revolution, large amounts of data can be converted into actionable insights and predictions that can provide impetus to data-driven fields like genetics, robotics, connected and smart s"
+    publishedDateTime: 2020-12-18T10:54:00Z
+    webUrl: "https://www.entrepreneur.com/article/361957"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/361957"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Facial recognition, AI in post-covid airports of the future"
     excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
     publishedDateTime: 2020-12-15T20:36:00Z

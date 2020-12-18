@@ -91,6 +91,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Amazon Alexa rolls out live translation feature in Echo devices"
+    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator."
+    publishedDateTime: 2020-12-18T08:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/videoshow/79794724.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp_videoshow/79794724.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp_videoshow/79794724.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79794724/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google India announces new features across products to help users with regional languages"
     excerpt: "Google has announced a range of features to help users with regional languages. The tools are designed to make transliteration more convenient to users. Google has extended language support to toggle between English and Indian languages,"
     publishedDateTime: 2020-12-17T06:06:00Z

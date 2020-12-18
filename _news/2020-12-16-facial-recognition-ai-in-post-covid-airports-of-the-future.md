@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 586
         isCached: true
+  - title: "Application Of AI In the Manufacturing Industry"
+    excerpt: "Through the AI revolution, large amounts of data can be converted into actionable insights and predictions that can provide impetus to data-driven fields like genetics, robotics, connected and smart s"
+    publishedDateTime: 2020-12-18T10:54:00Z
+    webUrl: "https://www.entrepreneur.com/article/361957"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/361957"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
     excerpt: "Iguazio, the Data Science Platform built for production and real-time machine learning (ML) applications, today announced that it has launched the first production-ready integrated feature store. The feature store,"
     publishedDateTime: 2020-12-17T13:34:00Z

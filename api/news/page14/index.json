@@ -2,6 +2,91 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-07-ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study.md",
+      "title": "IBM OpenPages with Watson can deliver a 218% return on investment, finds Forrester study",
+      "excerpt": "The modern enterprise evolves to develop an integrated governance, risk and compliance (GRC) framework. Using a structured approach to manage GRC programs creates efficiencies by aligning technology with business objectives so that the organization can effectively manage risk and operate effectively",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/RegTech_Watson_blog_surprise_leadspace-1-990x498.png",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T09:03:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference.md",
+      "title": "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference",
+      "excerpt": "Lemonade’s CFO Tim Bixby to present at the Barclays Global Technology, Media and Telecommunications Conference Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-how-deepmind-boss-demis-hassabis-used-chess-to-get-billionaire-peter-thiel-to-take-notice-of-his-ai-lab.md",
       "title": "How DeepMind boss Demis Hassabis used chess to get billionaire Peter Thiel to ‘take notice’ of his AI lab",
       "excerpt": "Demis Hassabis, the co-founder of AI lab DeepMind, has revealed that he talked about chess instead of his start-up idea when he first met Peter Thiel.",
@@ -1077,100 +1162,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-how-aws-is-staking-its-claim-on-tomorrows-contact-centers.md",
-      "title": "How AWS is staking its claim on tomorrow’s contact centers",
-      "excerpt": "AWS unveiled several new ML-based feature updates for its Amazon Connect cloud contact center service that will simplify call agents workloads",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "originalUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1626983506-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "publishedDateTime": "2020-12-06T20:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders.md",
-      "title": "CSIRO's Data61 researchers develop AI helmet to prevent seizure disorders",
-      "excerpt": "Researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61 have developed an implantable artificial intelligence monitoring and seizure detection helmet system designed to prevent seizure disorders for patients who have undergone decompressive brain surgery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "originalUrl": "https://www.zdnet.com/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/07/4bc325fa-5454-4d6b-8093-c9ae2a8f2abd/csiro-data61-brain-seizures.png",
-          "width": 2066,
-          "height": 1144,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "publishedDateTime": "2020-12-06T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

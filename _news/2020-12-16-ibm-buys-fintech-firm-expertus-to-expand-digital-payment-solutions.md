@@ -135,6 +135,15 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. ('Pintec'; NASDAQ: PT), a leading independent fintech solutions provider,"
+    publishedDateTime: 2020-12-18T10:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z

@@ -1,0 +1,89 @@
+---
+category: news
+title: "Application Of AI In the Manufacturing Industry"
+excerpt: "Through the AI revolution, large amounts of data can be converted into actionable insights and predictions that can provide impetus to data-driven fields like genetics, robotics, connected and smart s"
+publishedDateTime: 2020-12-18T10:54:00Z
+originalUrl: "https://www.entrepreneur.com/article/361957"
+webUrl: "https://www.entrepreneur.com/article/361957"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/361957"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9"
+    width: 600
+    height: 338
+    isCached: true
+
+related:
+  - title: "The future of AI deployments reaching production is bright in 2021"
+    excerpt: "Despite AI's deployment historic failure rate, the future's looking brighter for a number of reasons, and many will beat the odds."
+    publishedDateTime: 2020-12-16T12:14:00Z
+    webUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/"
+    ampWebUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1195223774.jpg?w=1200&strip=all"
+        width: 1200
+        height: 586
+        isCached: true
+  - title: "Facial recognition, AI in post-covid airports of the future"
+    excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
+    publishedDateTime: 2020-12-15T20:36:00Z
+    webUrl: "https://www.abc.net.au/radio/programs/am/facial-recognition,-ai-in-post-covid-airports-of-the-future/12988210"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 54
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12988182-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
+    excerpt: "Iguazio, the Data Science Platform built for production and real-time machine learning (ML) applications, today announced that it has launched the first production-ready integrated feature store. The feature store,"
+    publishedDateTime: 2020-12-17T13:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-environment-and-nature-data-storage-d2d639e7621d42ba8eef61bba3998e8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
+    excerpt: "The first production-ready integrated solution for enterprises to catalogue, store and share features centrally, and use them to develop, deploy and manage AI applications across hybrid multi-cloud environments Iguazio’s feature store tackles one of the greatest challenges in machine learning operations (MLOps) today - feature engineering The feature store is a key component in Iguazio’s data science platform,"
+    publishedDateTime: 2020-12-16T14:33:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201216005486/iguazio-launches-the-first-integrated-feature-store-within-its-data-science-platform-to-accelerate-deployment-of-ai-in-any-cloud-environment"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+
+secured: "JLl09ytHvUcKE9JhXu76IMGSeLiHw/j9VidAKazJA6Qu+VHstauO5yNM+XXX19f0svG0NvXmRIm16hJWJIdxmc1W2GabhCYjZlCi+uvFPDQM71nwNRo2NOgcWcJ2VqcO7oSCkGov6U2FXk9MHnpask2mtU2HleOjE/non88rwP1OBo0n+WDCSZkj2K1md4LVgLo4R054TiQSpJ8Y0v4XFx99WdGtjS/ECSetXhtjA6U5Pbr+UScSBSWOSqn3He62dIcdOESSamsrZW2urI/B0OwnfBqpqcl4mGvkmq6OwsS9bJO7/3xQdDdNxdyJpssTHLAtadDFdJA7URQE9Bqo4uwHg5Jk/0Sa/T8yY1pOE+U=;b/Sg60v+3qKR9LFDSC1d8g=="
+---
+

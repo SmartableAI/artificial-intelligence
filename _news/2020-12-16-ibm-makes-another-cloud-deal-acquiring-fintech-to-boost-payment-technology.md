@@ -150,6 +150,15 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. ('Pintec'; NASDAQ: PT), a leading independent fintech solutions provider,"
+    publishedDateTime: 2020-12-18T10:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
     excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
     publishedDateTime: 2020-12-18T03:33:00Z

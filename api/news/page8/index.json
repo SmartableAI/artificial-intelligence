@@ -2,6 +2,109 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
+      "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
+      "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a5b72c8ec9d96b1c67cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "publishedDateTime": "2020-12-10T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely.md",
+      "title": "Turing nabs $32M more for an AI-based platform to source and manage engineers remotely",
+      "excerpt": "As remote work continues to solidify its place as a critical aspect of how businesses exist these days, a startup that has built a platform to help companies source and bring on one specific category of remote employees,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/",
+      "originalUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1084518636.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/amp/",
+      "publishedDateTime": "2020-12-10T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-cleo-the-ai-powered-financial-assistant-raises-44m-series-b-led-by-eqt-ventures.md",
       "title": "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures",
       "excerpt": "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,",
@@ -1096,110 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai.md",
-      "title": "Lenovo Shows New Data Management Solutions for Hybrid Cloud, AI",
-      "excerpt": "Lenovo has considerably expanded its business customers’ options for working with hybrid cloud, analytics and artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
-      "originalUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/03/Lenovo.logo2020.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-facial-recognition-is-running-amok-in-china-the-people-are-pushing-back.md",
-      "title": "Facial Recognition Is Running Amok in China. The People Are Pushing Back.",
-      "excerpt": "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back",
-      "originalUrl": "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fd1bc65fd1e340095fd1d46/lede/1607581532554-0001h08jk.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T22:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

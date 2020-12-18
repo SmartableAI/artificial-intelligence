@@ -25,62 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
-    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T12:33:00Z
-    webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-    ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+  - title: "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic"
+    excerpt: "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ..."
+    publishedDateTime: 2020-12-18T10:29:00Z
+    webUrl: "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 74
+      name: openpr.com
+      domain: openpr.com
+    quality: 82
     images:
-      - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
-        width: 1000
-        height: 696
+      - url: "https://cdn.openpr.com/T/c/Tc18165825_g.jpg"
+        width: 775
+        height: 436
         isCached: true
-  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
-    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T05:37:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+  - title: "Key Players in Machine Learning Market 2020-26 :Amazon Web Services, Google, Microsoft, Hewlett Packard Enterprises, IBM and more"
+    excerpt: "Global Machine Learning market was valued at US 1 7 Bn in 2018 and is expected to reach US 33 4 Bn in 2026 growing at a CAGR of 44 3 during the forecast period The growth of the machine"
+    publishedDateTime: 2020-12-16T12:19:00Z
+    webUrl: "https://www.openpr.com/news/2211251/key-players-in-machine-learning-market-2020-26-amazon-web"
+    ampWebUrl: "https://www.openpr.com/amp/2211251/key-players-in-machine-learning-market-2020-26-amazon-web"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211251/key-players-in-machine-learning-market-2020-26-amazon-web"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 64
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+  - title: "With AI, 3D imaging and a robot, Medtronic Spine aims to leave competitors bent out of shape"
+    excerpt: "With a recent acquisition from France, Medtronic is aiming to leverage AI in the world of spine surgery and integrate the system with its robot."
+    publishedDateTime: 2020-12-16T01:00:00Z
+    webUrl: "https://medcitynews.com/2020/12/with-ai-3d-imaging-and-a-robot-medtronic-spine-aims-to-leave-competitors-bent-out-of-shape/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 43
     images:
-      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://medcitynews.com/uploads/2020/12/UNiD_pic.png"
+        width: 1569
+        height: 1383
         isCached: true
-  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
-    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T10:18:00Z
-    webUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    ampWebUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+  - title: "Artificial Intelligence of Things Market Predictable to Booming Worldwide | Tachyus, SAS, IBM, HPE, SAP, Microsoft"
+    excerpt: "Artificial Intelligence of Things Market Predictable to Booming Worldwide | Tachyus, SAS, IBM, HPE, SAP, Microsoft <br />  Dec 17, 2020 1:50 PM ET<p>The Latest research study released by AMA <strong>"
+    publishedDateTime: 2020-12-17T22:33:00Z
+    webUrl: "https://menafn.com/1101298998/Artificial-Intelligence-of-Things-Market-Predictable-to-Booming-Worldwide-Tachyus-SAS-IBM-HPE-SAP-Microsoft"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
-  - title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
-    excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"
-    publishedDateTime: 2020-12-14T16:01:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deutsche-telekom-sign-seven-year-joint-growth-agreement/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 52
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?132121"
+        width: 437
+        height: 250
         isCached: true
 
 secured: "kz1wWzVr4LVUodvHsFUYAxAnvPcBfhITH8SlNtXD/fmHVhMK6Fx0cBlKYrXZo6Mfw2/TwgrUyfeHSc4ifW/QDw8WWU3Ss1BNdjf2RI/iexWIQL0ff8NzKTe5ATfJhdxBBIgD8fCUMlNypKmvJZsdDIewZ4uGEO2nleWykD3Wr/sNHCd68LA7PXrtmc2+z7iJNvLM9eUTyf2Ycgae+EKH/Ao+4JDC2Q24KGVz+IvVjJJtfP7Kn5toFQ+Apt2de6o5R6HSPBe5T65GJDPvZSZZKfwN5YNmXqlPM81C+gKxrwBse4/J6kgyOSCre2vxTjF5Vv+zWB2uIo0aPdi8Y5XGddbKkET/HdfwXa8hFn3ZSJK/cNFOjb0aMVZoL48GUaxAqtnhj4AdEykxpYZ16yQJBHMhq9q/l+/xxkANcQb5Kn0SAz886ppI0XTNjDtwYtMWLPRrBveCDBOTO2L03yzGO5a81/2fUW0723ih6PCeLph7Rkh6oYALUSnDBVuFg26ZtmWeQoMsO3c4yNN4rZ1vmA==;zD8dgN9I7rCQ/nA37nDMUg=="

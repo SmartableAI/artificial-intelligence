@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-t
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Shell and Equinor develop smart inventory management system with Microsoft Azure"
-    excerpt: "The collaboration is the first of a series of planned co-innovation initiatives across the wider energy value chain, including themes such as maintenance, production optimization and supply chain management."
-    publishedDateTime: 2020-12-16T12:57:00Z
-    webUrl: "https://www.worldoil.com/news/2020/12/16/shell-and-equinor-develop-smart-inventory-management-system-with-microsoft-azure"
-    type: article
-    provider:
-      name: World Oil
-      domain: worldoil.com
-    quality: 49
-    images:
-      - url: "https://www.worldoil.com/media/11228/schlumberger-google-cloud-ai.png"
-        width: 782
-        height: 530
         isCached: true
 
 secured: "AtopiUazvW+qCOjiwz7IZlvetkPnf1AKdqhTkqn2l089rvm/Y1x2TOJnwT1SQiu0lSNAep3qjk9p7Ap/8CAKGrfigXUCyzL4RPxct4TlgJy7w4IbsryFcgcmwPs5dHX8sKfoiZg16qjA2XM2uGzTovtaXjdbTCw5qO+bF1heAZVNiqib5bxNCPI4YbymLOMETnmAQr2/wNFj60ypzEIi1eNBsE8tbDiTgmfTpgqtkd1iK/pCr1PGHdmOqRvGUin2LoKc3XLZHiPg6jgjvZkziKMM3OudA7qfYjb8peujFKpoqsK84+TsOgn82cx5f47k9oHeglVgmzFc85jwr8pK/9+Dfzm+kWlEK2hnB017wF5p1ZbO7cX3f2ISDeDq8V0MkgvljjPwWVBmeUMPkeFrMpsdecM/0kvrS25F5qL4tcMM/6UVcbmanMg29NiDXu1lbxmZQGDOSuULrpLewiOdUbb1lrhgPUe9TSdC6n35f2mYhS0Q4OtBuJxNeC0LG1eRaztdpiewoxPyf6x0JjOumg==;ChGhrot7PMAXSjw75lFP8w=="

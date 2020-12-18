@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2211251/key-players-in-machine-learning-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211251/key-players-in-machine-learning-market-2020-26-amazon-web"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,66 @@ topics:
   - Machine Learning
   - AWS AI
   - Microsoft AI
+
+related:
+  - title: "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic"
+    excerpt: "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ..."
+    publishedDateTime: 2020-12-18T10:29:00Z
+    webUrl: "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 82
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc18165825_g.jpg"
+        width: 775
+        height: 436
+        isCached: true
+  - title: "Shell and Equinor develop smart inventory management system with Microsoft Azure"
+    excerpt: "The collaboration is the first of a series of planned co-innovation initiatives across the wider energy value chain, including themes such as maintenance, production optimization and supply chain management."
+    publishedDateTime: 2020-12-16T12:57:00Z
+    webUrl: "https://www.worldoil.com/news/2020/12/16/shell-and-equinor-develop-smart-inventory-management-system-with-microsoft-azure"
+    type: article
+    provider:
+      name: World Oil
+      domain: worldoil.com
+    quality: 49
+    images:
+      - url: "https://www.worldoil.com/media/11228/schlumberger-google-cloud-ai.png"
+        width: 782
+        height: 530
+        isCached: true
+  - title: "With AI, 3D imaging and a robot, Medtronic Spine aims to leave competitors bent out of shape"
+    excerpt: "With a recent acquisition from France, Medtronic is aiming to leverage AI in the world of spine surgery and integrate the system with its robot."
+    publishedDateTime: 2020-12-16T01:00:00Z
+    webUrl: "https://medcitynews.com/2020/12/with-ai-3d-imaging-and-a-robot-medtronic-spine-aims-to-leave-competitors-bent-out-of-shape/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 43
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/UNiD_pic.png"
+        width: 1569
+        height: 1383
+        isCached: true
+  - title: "Artificial Intelligence of Things Market Predictable to Booming Worldwide | Tachyus, SAS, IBM, HPE, SAP, Microsoft"
+    excerpt: "Artificial Intelligence of Things Market Predictable to Booming Worldwide | Tachyus, SAS, IBM, HPE, SAP, Microsoft <br />  Dec 17, 2020 1:50 PM ET<p>The Latest research study released by AMA <strong>"
+    publishedDateTime: 2020-12-17T22:33:00Z
+    webUrl: "https://menafn.com/1101298998/Artificial-Intelligence-of-Things-Market-Predictable-to-Booming-Worldwide-Tachyus-SAS-IBM-HPE-SAP-Microsoft"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?132121"
+        width: 437
+        height: 250
+        isCached: true
 
 secured: "L/xJ8+abtc2LJ5+GWsJ6viFui3Jvm0IA0+RKtj+3CbT+P/SK95yWr5jovhG0O8W1BhByKIdcCfLuTeKprryQXWgxhCNjGThaaKsirwM4qmg3U+vf+cbEOXCrtwTwUYYaMfuamBahUioai9ciPpveqjUElc+UhjnPxE97vCesDgpMBkUo4cNGl/SIEfRl1+gmQjFapjuWFFlsW0qEc5GURHe6RLdT9gzd5clKqq84HtDvFImO+HmvC0AxHght+31apHJiFw+fboDZlFN4aMP7gDctQIB4RV2MU/qx9jiHy51OTk7U1mDZUoUxs/txgKHesRunMGqkTGWWaafFVeefTHAYIDHGK3P2JzhAW3myzsU=;pWN3UGTHU0FE73YqmZgn1g=="
 ---
