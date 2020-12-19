@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "justwrappup"
   url: "https://twitter.com/justwrappup"
-  followers: 453
+  followers: 454
 
 size: 2-10 employees
 yearFounded: 2015
