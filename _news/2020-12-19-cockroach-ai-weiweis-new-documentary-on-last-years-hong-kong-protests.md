@@ -10,7 +10,8 @@ cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/e
 type: article
 quality: 86
 heat: 96
-published: true
+removed: true
+published: false
 
 provider:
   name: BBC

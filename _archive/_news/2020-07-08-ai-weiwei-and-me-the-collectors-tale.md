@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/951c
 type: article
 quality: 57
 heat: 57
+removed: true
 published: false
 
 provider:

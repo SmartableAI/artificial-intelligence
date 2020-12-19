@@ -7,6 +7,7 @@ webUrl: "https://www.theguardian.com/artanddesign/2020/mar/22/ai-weiwei-an-artis
 type: article
 quality: 39
 heat: 39
+removed: true
 published: false
 
 provider:

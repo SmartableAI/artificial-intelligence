@@ -7,6 +7,7 @@ webUrl: "https://www.bbc.co.uk/programmes/w3cszk34"
 type: article
 quality: 37
 heat: 37
+removed: true
 published: false
 
 provider:

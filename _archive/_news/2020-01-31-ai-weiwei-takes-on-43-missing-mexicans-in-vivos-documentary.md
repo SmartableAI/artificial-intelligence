@@ -7,6 +7,7 @@ webUrl: "https://www.kmuw.org/post/ai-weiwei-takes-43-missing-mexicans-vivos-doc
 type: article
 quality: 37
 heat: 37
+removed: true
 published: false
 
 provider:

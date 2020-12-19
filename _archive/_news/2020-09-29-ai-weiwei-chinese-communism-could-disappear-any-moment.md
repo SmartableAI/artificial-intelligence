@@ -8,7 +8,8 @@ webUrl: "https://www.bbc.com/news/world-asia-china-54294193"
 type: article
 quality: 67
 heat: 77
-published: true
+removed: true
+published: false
 
 provider:
   name: BBC

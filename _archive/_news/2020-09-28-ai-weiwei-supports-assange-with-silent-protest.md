@@ -8,6 +8,7 @@ webUrl: "https://www.ibtimes.com/ai-weiwei-supports-assange-silent-protest-30530
 type: article
 quality: 37
 heat: -1
+removed: true
 published: false
 
 provider:
