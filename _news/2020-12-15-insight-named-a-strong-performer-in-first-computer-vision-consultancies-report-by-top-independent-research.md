@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research"
-excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has"
-publishedDateTime: 2020-12-15T15:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research-1029894667"
-webUrl: "https://markets.businessinsider.com/news/stocks/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research-1029894667"
+excerpt: "--(BUSINESS WIRE)--Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been named a strong performer in the report, The Forrester New Wave™: Computer Vision ..."
+publishedDateTime: 2020-12-15T15:20:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research"
+webUrl: "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research"
 type: article
-quality: 31
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
@@ -75,6 +71,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "+LfGY1hbiHQdiWTeyhitLoYCHNZGfmlDz6P5uHZfjxFBe3lADdAopieXsqP2nYI5kz5amadYmLfssoNBAG9G8NqVtKa0eLW0aHcBRpHRUkAA8/YgyeUyGdcs1FwshtYe9ASXLS4qEOmm3vEdlSSHgdAzIpeFo5EVKKye98f6QNYQW2T2daE5AM0mxUnB5QvqVJwri09sS763RJdqI6KIgaocDLkljzcz0kh6W6INphI70dtXtmilM1fJrS32r2yUA+IGeC1Hv3eA8Shdyf5muvT1jM0RxmAevysIlQQj2pFtygvYKaqcGxXD0N+77tizBpUCiJvxg+0vLSc19BzflozQiTLUToSW9wxJJkBpoM4=;/tf30axWOiss8h2i4T9aiw=="
+secured: "yPk/oB0SGgAAjkR+kYgvN/SF5xGXEvKWXM/cVEmrCvPMZOyqlrHGY7wqCpQ/B2SYh4OjHEIZ44n3OZ7DUc0bBQ/er+d/Cw7yjBqKjZbMVpNn1Kn+1tmRPK2zyABAuJ1ThTuYNqGKLMa/TckQrSL1O/PuMUoWbaXXVTnaTf56q6JB/YGDF8GY7NycmvAtti0+ZlXMEc7CFEjS8I6e+F6Lpm3uINfMDPpv/z845ns7b+8vxKBXaa79XRUBinRrvgsrpMv54OiW5DJ+8KxJFpAvuOBrXwD6f1wbsEhxPPnb8JBVSs8HkGigYRc2lzNI6lMsWYWGVWNwU7Z/O3ty9aoO8JYsFjMXDL9QNfb6BqHTOAs=;B36CNiu8r/TOz6aQUcLBOg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-transl
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: TechSpot
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alexa Live Translation feature arrives on Echo with six language pairs"
-    excerpt: "Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator. The"
-    publishedDateTime: 2020-12-14T21:28:00Z
-    webUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/"
-    ampWebUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/echo_show_main.jpg"
-        width: 1440
-        height: 820
-        isCached: true
-  - title: "Amazon adds real-time translation functionality to Alexa"
-    excerpt: "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this"
-    publishedDateTime: 2020-12-14T21:40:00Z
-    webUrl: "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 74
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
-        width: 2040
-        height: 1360
-        isCached: true
   - title: "How to Use Alexa's New Live Translate Mode"
     excerpt: "Amazon Echo devices can now work as your personal translator thanks to Alexa’s new Live Translate mode. Like the translation functions available from other digital assistants, Live Translate is an AI-powered feature that can recognize multiple languages as they’re spoken,"
     publishedDateTime: 2020-12-16T17:34:00Z
@@ -110,22 +78,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-79794724/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Google India announces new features across products to help users with regional languages"
-    excerpt: "Google has announced a range of features to help users with regional languages. The tools are designed to make transliteration more convenient to users. Google has extended language support to toggle between English and Indian languages,"
-    publishedDateTime: 2020-12-17T06:06:00Z
-    webUrl: "https://www.indiatoday.in/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
-    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 35
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Language-Chips-Search-results-647x363.png?xeC4CcVbuYHjhKmbLFH5LmcjgQ8No9_i"
-        width: 647
-        height: 363
         isCached: true
   - title: "Amazon Alexa rolls out live translation in Echo devices"
     excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-mic
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
 type: article
 quality: 89
-heat: 159
+heat: 160
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a4
 cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "ACLU of Louisiana Obtains E-mails that Confirm NOPD’s Use of Racially Biased Facial Recognition Technology"
-    excerpt: "After years of assurances from city officials that facial recognition was not used in New Orleans, the ACLU of Louisiana has obtained nearly 50 pages of email requests from New Orleans Police Department (NOPD) to the Louisiana State Police (LSP) Fusion Center asking LSP to use facial recognition on various photos and video stills."
-    publishedDateTime: 2020-12-14T21:48:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-louisiana-obtains-e-mails-confirm-nopds-use-racially-biased-facial-recognition"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 36
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "DiQAFZBKvRd2m1+DfEcw1sdVxpQGLVPp8+fKGLnUwk+nbcbPVFqwfhKa0U0+dIdCN06glcsYXkgx0QsGzC3uVEsE2fhy+cPXUteHCVvIy4O2el4eXfnb/ATtLdQWU8R1GGwzgCH7MyXIj+/W0m6xMaqmZxv5mTV79YBIu8N+Dk+v8UIKG3yZ3QYa+c7AJHQDy7Pk79SlaoIxU8aVmyhsO7+aoaHa8ocwhG6C04J4hDHo/7fW5hVgtsMk2dwEgvt71BrZlRnDcbZh4i+UVzDaJZ7YlNSMhtJvax588JlUfDFpfAk2CjzkBOVg8m7VTujxDLVmw47ENwbha5wHWQKX26xMs4sB5hJV+41tzdRouuCZEuquXbEpiJRlgnUJSr1xqSmhtsG2AxAtFumqLdR64o83xGzaKcnUqEvX9o93DYhP2wv9TFNJwHwv4gY44ps3xE226A//Nz+rc+MgqQlSb2ZakF4t3IY7HbkGVW9qtc8U2Eema7VZBaw2fa9Ve7a7CXjY3mQfUmKmNDB+E8OCsQ==;L0DHb9oU1hkYgNXcEZO/6w=="
 ---

@@ -73,6 +73,17 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
+    excerpt: "You’ll often read that it’s only a matter of time before AI steals all our jobs. But the idea of humanoid machines is nothing new. It began with the “heartless” Tin Man from The Wizard of Oz. By the 1950s,"
+    publishedDateTime: 2020-12-19T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
     excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
     publishedDateTime: 2020-12-18T17:37:00Z

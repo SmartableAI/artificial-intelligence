@@ -27,115 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Alexa Live Translation feature arrives on Echo with six language pairs"
-    excerpt: "Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator. The"
-    publishedDateTime: 2020-12-14T21:28:00Z
-    webUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/"
-    ampWebUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
+  - title: "Google’s new open-source AI model understands Indic languages better"
+    excerpt: "Google’s various products, such as Search and Assistant, are already available in India in multiple local languages. The company is now turning to a new AI to potentially make more of its offerings accessible to Indic language speakers — more specifically,"
+    publishedDateTime: 2020-12-17T06:08:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/echo_show_main.jpg"
-        width: 1440
-        height: 820
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-17-at-11.24.08-AM-e1608184545438-796x418.png"
+        width: 796
+        height: 418
         isCached: true
-  - title: "Amazon adds real-time translation functionality to Alexa"
-    excerpt: "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this"
-    publishedDateTime: 2020-12-14T21:40:00Z
-    webUrl: "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+  - title: "Google expands languages push in India to serve non-English speakers"
+    excerpt: "There are over 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English."
+    publishedDateTime: 2020-12-17T06:47:00Z
+    webUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/"
+    ampWebUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 74
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
-        width: 2040
-        height: 1360
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024"
+        width: 1024
+        height: 684
         isCached: true
-  - title: "Amazon Alexa gets real-time translation functionality"
-    excerpt: "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this"
-    publishedDateTime: 2020-12-16T01:41:00Z
-    webUrl: "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+  - title: "Google expands languages push to serve non-English speakers in India"
+    excerpt: "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English."
+    publishedDateTime: 2020-12-18T04:15:00Z
+    webUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/"
+    ampWebUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 74
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
-        width: 2040
-        height: 1360
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024"
+        width: 1024
+        height: 684
         isCached: true
-  - title: "How to Use Alexa's New Live Translate Mode"
-    excerpt: "Amazon Echo devices can now work as your personal translator thanks to Alexa’s new Live Translate mode. Like the translation functions available from other digital assistants, Live Translate is an AI-powered feature that can recognize multiple languages as they’re spoken,"
-    publishedDateTime: 2020-12-16T17:34:00Z
-    webUrl: "https://lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778"
-    ampWebUrl: "https://lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778/amp"
-    cdnAmpWebUrl: "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778/amp"
+  - title: "Google adds new features to strengthen Indian language capabilities across products"
+    excerpt: "Now with the introduction of new features people can toggle their Search results between English and four additional languages Tamil Telugu Bangla and Marathi"
+    publishedDateTime: 2020-12-17T11:57:00Z
+    webUrl: "https://english.jagran.com/technology/google-adds-new-features-to-strengthen-indian-language-capabilities-across-products-10021253"
+    ampWebUrl: "https://english.jagran.com/lite/technology/google-adds-new-features-to-strengthen-indian-language-capabilities-across-products-10021253"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/technology/google-adds-new-features-to-strengthen-indian-language-capabilities-across-products-10021253"
     type: article
     provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 59
+      name: Jagran
+      domain: jagran.com
+    quality: 38
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/w0hjrpsqbocqvjxgue4r.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Amazon Alexa rolls out live translation feature in Echo devices"
-    excerpt: "To make use of the new feature, users may simply ask Alexa to translate and name the two languages that will be spoken. The AI will automatically detect what language is being spoken by either person and provide the translations. The new feature has been ..."
-    publishedDateTime: 2020-12-16T02:44:00Z
-    webUrl: "https://www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices-11608085453988.html"
-    ampWebUrl: "https://www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp-11608085453988.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp-11608085453988.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2020/12/16/600x338/alexa-kFxC--621x414@LiveMint_1608086139466.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Amazon Alexa rolls out live translation feature in Echo devices"
-    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator."
-    publishedDateTime: 2020-12-18T08:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/videoshow/79794724.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp_videoshow/79794724.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp_videoshow/79794724.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/msid-79794724/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Amazon Alexa rolls out live translation in Echo devices"
-    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
-    publishedDateTime: 2020-12-15T16:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267262397/amazon-alexa-rolls-out-live-translation-in-echo-devices"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1608050555.jpg"
-        width: 630
-        height: 420
+      - url: "https://imgeng.jagran.com/images/2020/dec/goo1608205890609.jpg"
+        width: 650
+        height: 540
         isCached: true
 
 secured: "JCpQgPjJXsIq5R8USUiOr6LopOHRRcUQPLeeAPg1B6vPWfh6cUSN4FzVcw70rFZyN0d7ymeOki46AcolJxEABOKvwC+MHIlCv1sQI3Afv9CbXnb7z8UKWsfnQnJls8Ww5rx1tFcbId/oUWV9nbTCYMy2veL9Qs1Tl/YbKcbCxBWCHmN17K4ZZOQy7lu6AmRbi2kUe752HRAtIPPlXZm/eMNwen/CSwmIDFo5TfUFAMWLWQdR+Gf20qO/PznHcYGhDUddSuSeZB23j8jtUPHGNL7bMK+dpRqYvqHMD4RmC9APpfzLPi+zj6MUUwLWX+n31he0SmkiyWhad1e3RuAn6ryFjntNudY9C3P1vtLEHQI=;fKESO8S2inX5u4lDYICzuA=="

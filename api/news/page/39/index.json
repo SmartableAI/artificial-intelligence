@@ -2,6 +2,92 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-11-19-ibm-buys-apm-startup-instana-to-boost-ai-automation.md",
+      "title": "IBM Buys APM Startup Instana To Boost AI Automation",
+      "excerpt": "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
+      "originalUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg",
+          "width": 399,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates.md",
+      "title": "NVIDIA Studio Driver November 2020 Update Brings Support For Eight New GPU-Accelerated Creative App Updates",
+      "excerpt": "Needless to add, the AI-accelerated RTX Tensor Cores combined with these features should significantly reduce tedious, repetitive work. Keyshot 10 claims rendering speeds are up by 23 percent than the previous version. The platform offers one-click GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
+      "originalUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.appuals.com/wp-content/uploads/2019/02/MW-FP470_nvidia_20170629195436_ZH.jpg",
+          "width": 890,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "appuals.com",
+        "domain": "appuals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast.md",
       "title": "AWS Inferentia Gathers More Steam With Alexa, Snap, Anthem, And Conde Nast",
       "excerpt": "Amazon also shared that its computer vision platform, Rekognition, has also started leveraging AWS Inferentia. According to the company, this has allowed it to perform object classification with ...",
@@ -1112,101 +1198,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-human-rights-watch-once-again-calls-for-ban-on-killer-robots.md",
-      "title": "Human Rights Watch Once Again Calls for Ban on “Killer Robots”",
-      "excerpt": "Sir Nick Carter, suggested that these robots and other autonomous platforms could fill roles that reduce the dependency on human soldiers, he didn’t actually suggest that these would be “terminator” style fighting machines.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-“killer-robots”-172813",
-      "originalUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-“killer-robots”-172813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/D574%20%281%29.jpg",
-          "width": 1600,
-          "height": 1275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-%E2%80%9Ckiller-robots%E2%80%9D-172813?amp",
-      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-%E2%80%9Ckiller-robots%E2%80%9D-172813?amp",
-      "publishedDateTime": "2020-11-18T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-meowtalk-alexa-developers-app-to-translate-cats-miaow.md",
-      "title": "MeowTalk: Alexa developer’s app to translate cat’s miaow",
-      "excerpt": "An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer. MeowTalk records the sound and then attempts to identify the meaning. The cat's owner also helps to label the translation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0F4B/production/_115551930_whatsubject.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693",
-      "publishedDateTime": "2020-11-18T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

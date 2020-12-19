@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Forecast 2021: Artificial Intelligence during COVID and beyond"
+    excerpt: "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,"
+    publishedDateTime: 2020-12-18T04:00:00Z
+    webUrl: "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg"
+        width: 960
+        height: 601
+        isCached: true
   - title: "COVID-19 Analysis to Understand the Competitive Outlook of AI based Edge Computing Chip Market"
     excerpt: "Researchmoz added a title on AI based Edge Computing Chip Market 2020 2026 to its collection of market research reports The study of the Global AI based Edge Computing Chip Market will include the analysis of all the comprehensive segments"
     publishedDateTime: 2020-12-17T17:49:00Z
@@ -40,49 +56,22 @@ related:
         width: 687
         height: 384
         isCached: true
-  - title: "Artificial Intelligence Wants to Help Covid-Wary Biz Travelers Be Smarter About Flying"
-    excerpt: "Dataminr said it leverages artificial intelligence to provide the earliest indications of business-critical information about risks to staff. It claims it can provide real-time insights from on-the-ground happenings,"
-    publishedDateTime: 2020-12-18T17:00:00Z
-    webUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/"
-    ampWebUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
+  - title: "Financial regulators increase AI engagement amidst COVID pandemic"
+    excerpt: "Living up to its nation’s reputation as a hub for fintech and innovation ... Gartner reporting that a quarter of IT professionals upped levels of investment in AI in light of COVID-19, with 75% expressing intentions to commence new AI projects in ..."
+    publishedDateTime: 2020-12-16T12:39:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
-    quality: 49
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
     images:
-      - url: "https://skift.com/wp-content/uploads/2020/12/Aircraft-cabin-crew-Ismail-Mohamed-Sovile-Unsplash-scaled-e1608299910510.jpg"
-        width: 1367
-        height: 911
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
+        width: 640
+        height: 428
         isCached: true
-  - title: "A machine-learning model created to calculate COVID-19 health outcomes"
-    excerpt: "University of California, Irvine health sciences researchers have created a machine-learning model to predict the probability that a COVID-19 patient will need a ventilator or ICU care. The tool is free and available online for any healthcare organization ..."
-    publishedDateTime: 2020-12-17T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20201217/A-machine-learning-model-created-to-calculate-COVID-19-health-outcomes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201217/A-machine-learning-model-created-to-calculate-COVID-19-health-outcomes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201217/A-machine-learning-model-created-to-calculate-COVID-19-health-outcomes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Image Recognition Market Covid-19 Analysis Strongly Driven by Rising Global Demand"
-    excerpt: "The global image recognition market is growing by leaps and bounds Visual content is continually replacing the conventional technology of textual solutions With rapid technological advances technologies such as image recognition facial recognition and 3D object recognition provide superior solutions"
-    publishedDateTime: 2020-12-14T21:36:00Z
-    webUrl: "https://www.openpr.com/news/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
-    ampWebUrl: "https://www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "/fWYyGc1ma/wBbzRzw36cl4vzOUcnTwrhGP5uH20VtvwVoK15BgxL6dwWzoJK60C4GesujJlQx+08LzDShqMwKNv8MI8gktEUkoQmDyFa3UgP+H9JwcMkc3gdjcNlXYqtrxQ58L1Zom4WHu039s6sBWXOBMSeaLuIGx7cn66DCBU2k9mZMX8rBvAoGxl8v/mQKDu1I326zvkftYGirbUEChaNPknrcDReK1+b1FEEBkA1yiqs6xanoyT7YY74NyghVvNybfm6LcE6hGt5TSb+Pce+SAoeX7p7I7A+n2cqG6mAZ37GA2eI1DhGUy3UD2VnN2MdL5zHkz2NGsR00Hbi929aNVW2d4VR/pKLJrH0u0=;Q1dohsK8SqcXzDnEUbYMMA=="
 ---

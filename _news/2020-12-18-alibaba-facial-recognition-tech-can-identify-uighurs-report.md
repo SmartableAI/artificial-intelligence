@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
+    excerpt: "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ..."
+    publishedDateTime: 2020-12-18T21:45:00Z
+    webUrl: "https://ipvm.com/reports/alibaba-uyghur"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 139
+    images:
+      - url: "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg"
+        width: 903
+        height: 1177
+        isCached: true
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
     publishedDateTime: 2020-12-18T06:50:00Z
@@ -71,6 +85,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
+  - title: "Advances in facial recognition technology could amplify the persecution of minorities, AI experts warn"
+    excerpt: "As AI technology rapidly advances, experts say people of colour and other minorities around the world will face further persecution without regulation."
+    publishedDateTime: 2020-12-16T05:22:00Z
+    webUrl: "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn"
+    ampWebUrl: "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
+    cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 58
+    images:
+      - url: "https://sl.sbs.com.au/public/image/file/ee9a2d46-4aa0-4ba7-a1ff-7a20fc88edc0/crop/16x9"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority, Report Shows"
     excerpt: "SHANGHAI - Technology giant Alibaba Group Holding Ltd. has facial recognition technology that can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report. Alibaba itself said it was dismayed a unit ..."
     publishedDateTime: 2020-12-18T03:09:00Z
@@ -160,6 +190,20 @@ related:
       - url: "https://newsstatic.rthk.hk/images/mfile_1565990_1_L_20201218140217.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
+    publishedDateTime: 2020-12-19T13:51:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13797760/16x9/991/557/d3e1beceb66f9ee912da61e69dfc72d1/Pd/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
+        width: 991
+        height: 557
         isCached: true
   - title: "Alibaba ‘Dismayed’ Over Ethnic Profiling Feature in Facial Recognition Technology"
     excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."

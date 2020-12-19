@@ -79,6 +79,22 @@ related:
         width: 650
         height: 540
         isCached: true
+  - title: "Google India announces new features across products to help users with regional languages"
+    excerpt: "Google has announced a range of features to help users with regional languages. The tools are designed to make transliteration more convenient to users. Google has extended language support to toggle between English and Indian languages,"
+    publishedDateTime: 2020-12-17T06:06:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 35
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Language-Chips-Search-results-647x363.png?xeC4CcVbuYHjhKmbLFH5LmcjgQ8No9_i"
+        width: 647
+        height: 363
+        isCached: true
 
 secured: "vTnFBQ85OYGENc2bCs4EHy6OuJb1LzwbK5S6ME05B9+GvQfq5bbwoC49glgYS3GeVRiSNhk6U984j3IqrdUXyehYjD1RFt3hT0FLxd0R88IpFCjXzw9pXYKa1piQ4YtoBkmWtQRI6+fxNgwBDdWSrmWhvZEpotsDWTdZapDIJ2wisBzE9SzQFZJASw44xWN7lVxlaQKsq3dXPGdrLjb8OqyPXVA3g4XNwQ0vGXh+xDzCDhKhdfRU8TSkZWb4lvUrq8xJZmX+R1I6ZBiDsLHvSKYPM+AeT0tg16I2wzmuNeSAk/90q0HT4h/UN08XW31ZWHX1cfK2uu/PXl4SOi63C0TlUouvvrjdNlpP/qtRMqwQOANLIobgXIeKJCZayUMUYJFNBT3iv6oohddus8qFOZ/tPPwybw/sXU3UmRmUi0q1pzDpu+kzcMOC1NrR9OLO29kLfLB6BfR23LiuteIugdGx/sm+E2q6W0HTpuR6a5s1n1f+Mf5YPk8XNGN9N4jhxC94nlizbuVLo4kPOl6F7g==;DGl1F4k7AOvVi3cZxxyjUg=="
 ---

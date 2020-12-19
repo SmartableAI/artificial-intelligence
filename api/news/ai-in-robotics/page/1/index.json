@@ -281,7 +281,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -334,7 +334,7 @@
       "originalUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1376,36 +1376,36 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-israeli-martech-startup-exceedai-banks-4m-in-seed-money.md",
-      "title": "Israeli martech startup Exceed.ai banks $4m in seed money",
-      "excerpt": "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors ... It’s being used by companies such as Demandbase, SugarCRM, CBORD, and Universal Robots. AD. Remove this ad space by subscribing. Support independent ...",
+      "path": "_news/2020-12-08-how-artificial-intelligence-could-widen-gap-between-rich-poor-nations.md",
+      "title": "How Artificial Intelligence Could Widen Gap Between Rich & Poor Nations",
+      "excerpt": "Cristian Alonso is an economist in the IMF’s Fiscal Affairs Department; Siddharth Kothari is an economist in the IMF’s Asia and Pacific Department’ Sidra Rehman is an economist in the IMF’s Middle East and Central Asia Department.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money",
-      "originalUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money",
+      "webUrl": "https://www.ipsnews.net/2020/12/artificial-intelligence-widen-gap-rich-poor-nations/",
+      "originalUrl": "https://www.ipsnews.net/2020/12/artificial-intelligence-widen-gap-rich-poor-nations/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.ipsnews.net/Library/2020/12/robot-named-Sophia_22_.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T16:00:00-08:00",
+      "publishedDateTime": "2020-12-07T23:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },

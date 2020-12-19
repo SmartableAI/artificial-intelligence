@@ -166,15 +166,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. ('Pintec'; NASDAQ: PT), a leading independent fintech solutions provider,"
-    publishedDateTime: 2020-12-18T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z
@@ -188,6 +179,20 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
         width: 577
         height: 324
+        isCached: true
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
+    publishedDateTime: 2020-12-18T10:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "vI3KzgOBxIWU5B7y7vOSZeLwEhoik3cc8olDgz8bxtgRj/JONMbC4z9sM7ZOJ/0mvStczL0v1bcxyatT+ei9/uF6t1aAg9qSYLTHUEsZePsExzO49omJiA15aXvumcXh0EepewablLfdkACqoVSjjDQzsNmdPduZeiH4JFHZr18BiXu9gFahrEKK73Rfv8ioJdojUASRMUZpJTb6+K1pv7eAS5firdYkprsuBtGQsWyUU5eo0kJtm/jazvNFtSuonQTwYBz9WxcVpuMvMYMo/YFGS9c3T+tx5cQDs/iaFTaInLKuK6MPPDAO0rKV+aJcV7AbXlC+3lJ0fAVIZCk60sVP7U51gRxR9wHsR1rym7nueCgCK8t20pbnsbbqwYa2DiOQn3mEJRQvbTae8lkBMfz5ELRAlhApD3YDTCSOSdbwvjSZLCdXgBeWX+MUWuoQCOCvfvmYs1tkIzEVH7vy9pVXRXjtVQiLzbUcoEtm8q2l8RtNiLC47Knm324MphZZ3wuBmbyytyWSosgSE6CH6A==;ekwtM3acTc9JHDgRm5haiQ=="

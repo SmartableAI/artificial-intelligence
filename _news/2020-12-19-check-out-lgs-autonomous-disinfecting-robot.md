@@ -33,20 +33,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "LG Announces Autonomous Robot with Disinfecting UV Light for B2B Applications"
-    excerpt: "Newest addition to LG CLOi family of will help hotels, schools, offices, restaurants and retailers deliver increased peace of mind."
-    publishedDateTime: 2020-12-14T21:59:00Z
-    webUrl: "https://www.commercialintegrator.com/enhancements/lg-autonomous-robot-uv-light/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 36
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/12/Robot-2-e1607982614216.jpg"
-        width: 1000
-        height: 766
-        isCached: true
 
 secured: "suLfyO456St6TaRF9zR9qJ4nsRkoqU1sr7FI2VCzwETR3lR9NhjTKWIWpf648g1nVdgNGQXTQsysATczyIHLihNI9ilgBA7x8+GM4BmFZ4u77FfcKsOdeCXjBWazIyrWwy0wimda4ViCfs4W3UDgztJySxOlKOwH6HHep5/fWGHTsKsp40Lqhqi72mYb1nzZIoeo470TLJl6V15IfaRUwH+up0yP4+pk1evTTORrAvDa2ustmjUDnQqjcky0qrynplBK1jN8A0ouqr2JM5g0ih8obSD8Zdkf9PCCgHxstb8z2WNcOruB9yZt2ba2ivrb8PwAE/AqgpJ2rGRKp5iHjzGa5IqDOgeyAkVWuchb1Rw=;ChtB+lz1IXtwgIIh8au0AQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-s
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
 type: article
 quality: 61
-heat: 221
+heat: 201
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Famazon-zoox-self-driving-taxi-electric-vehicle-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1106
         height: 737
-        isCached: true
-  - title: "Amazon's Zoox unveils self-driving robo-taxi"
-    excerpt: "Amazon's Zoox subsidiary has pulled the wraps off its first autonomous vehicle. Billed as a car \"built for riders, not drivers,\" the all-electric box on wheels eschews traditional controls, traditional seating and even traditional notions of a front and ..."
-    publishedDateTime: 2020-12-14T22:55:00Z
-    webUrl: "https://www.autoblog.com/2020/12/14/amazon-zoox-autonomous-self-driving-taxi-robotaxi-ev-car/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/12/14/amazon-zoox-autonomous-self-driving-taxi-robotaxi-ev-car/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/12/14/amazon-zoox-autonomous-self-driving-taxi-robotaxi-ev-car/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2020-12/dbf65780-3e5c-11eb-be5e-23d8d1a7d219"
-        width: 800
-        height: 450
         isCached: true
   - title: "Amazon shows off Zoox’s self-driving robotic taxi"
     excerpt: "Tech giant Amazon is once again expanding into a new field and this time around it’s the transportation industry. It’s through a technology company called Zoox. This company is developing a personal transportation vehicle similar to a taxi but there is no driver."
@@ -118,20 +102,6 @@ related:
       - url: "https://business.inquirer.net/files/2020/12/20201217-Amazon-Zoox-620x414.jpg"
         width: 620
         height: 414
-        isCached: true
-  - title: "Amazon has revealed its first self-driving robotaxi and it looks wild"
-    excerpt: "Amazon acquired Zoox, a self-driving car startup. Now, six months later, the company is lifting the lid off of its first self-driving taxi project. The autonomous mobility company announced today that its robotaxi can hold four people and travel up to 75 miles-per-hour."
-    publishedDateTime: 2020-12-14T21:33:00Z
-    webUrl: "https://knowtechie.com/amazon-has-revealed-its-first-self-driving-robotaxi-and-it-looks-wild/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/12/amazon-robotaxi-main-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Amazon-owned Zoox Inc. unveils autonomous self-driving Robotaxi"
     excerpt: "Zoox is an autonomous self-driving vehicle company that is headquartered in California and was acquired by Amazon in 2020."

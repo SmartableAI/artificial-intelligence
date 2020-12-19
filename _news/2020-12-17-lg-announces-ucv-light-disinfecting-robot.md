@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "LG Announces Autonomous Robot with Disinfecting UV Light for B2B Applications"
-    excerpt: "Newest addition to LG CLOi family of will help hotels, schools, offices, restaurants and retailers deliver increased peace of mind."
-    publishedDateTime: 2020-12-14T21:59:00Z
-    webUrl: "https://www.commercialintegrator.com/enhancements/lg-autonomous-robot-uv-light/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 36
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/12/Robot-2-e1607982614216.jpg"
-        width: 1000
-        height: 766
-        isCached: true
   - title: "Check out LG's autonomous disinfecting robot"
     excerpt: "The company is using its experience in building robot vacuumes, as well as artificial intelligence and autonomous vehicles, to build a robot that can kill germs and viruses using ultraviolet light. The robot uses autonomous tech to navigate around furniture in high-traffic areas (such as restaurants and hotels) and sanitize touchable surfaces in just 15-30 minutes."
     publishedDateTime: 2020-12-19T12:23:00Z

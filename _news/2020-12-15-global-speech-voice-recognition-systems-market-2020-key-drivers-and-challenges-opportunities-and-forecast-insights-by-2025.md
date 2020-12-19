@@ -236,20 +236,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Diagnostics Market 2020–Global Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2026"
-    excerpt: "Global \"\"Artificial Intelligence Diagnostics Market\"\"(2020-2026) status and position of worldwide and key regions,"
-    publishedDateTime: 2020-12-14T21:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-diagnostics-market-2020global-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2026-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impact Of Covid 19 On Gesture Recognition In Automotive Sector Industry 2020 Market Challenges Business Overview And Forecast Research Study 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The Gesture Recognition In Automotive Sector market is expected to grow from 2020 to 2026,"
     publishedDateTime: 2020-12-15T13:50:00Z

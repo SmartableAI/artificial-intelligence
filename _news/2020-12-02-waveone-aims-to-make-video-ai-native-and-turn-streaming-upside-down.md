@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/11/waveone-header.jpg?w=1024"

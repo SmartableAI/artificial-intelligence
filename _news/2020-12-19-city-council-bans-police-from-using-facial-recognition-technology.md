@@ -73,22 +73,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Advances in facial recognition technology could amplify the persecution of minorities, AI experts warn"
-    excerpt: "As AI technology rapidly advances, experts say people of colour and other minorities around the world will face further persecution without regulation."
-    publishedDateTime: 2020-12-16T05:22:00Z
-    webUrl: "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn"
-    ampWebUrl: "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
-    cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 58
-    images:
-      - url: "https://sl.sbs.com.au/public/image/file/ee9a2d46-4aa0-4ba7-a1ff-7a20fc88edc0/crop/16x9"
-        width: 850
-        height: 478
-        isCached: true
   - title: "Facial recognition, AI in post-covid airports of the future"
     excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
     publishedDateTime: 2020-12-15T20:36:00Z
@@ -145,6 +129,6 @@ related:
         height: 285
         isCached: true
 
-secured: "4SrKv55I+VhJprJkl2E/YnwXd1STgnzGc6eYC21Ub7OCm5T7wd5R4Rn8Lx8bLD2pq5S8ONn1zO6+jMa2zC7FPX1l9HeHvodpXoNilk8Caxgrw8vR8jryizpIeuD8aUdZYV/uoxEr/Bi1VpYjANNjfMfEZSIPuOwAdLgLcemnw7SPPjPe/JfLMWWrXIpXQYDq1CwfHDg+BOM00dUl9j8DqPAz0fWbzN2VbblykWfbudAj3j2x4DHfXotSfDn/GMnkq7BH46+FUptbxg638q/rzoPwhehNn+cBQKo+mzNZnDnlSxV24ounpWYOn+MiAEwAKvCHlwihUJS67YCOQd7TB+TjQDfpa1kAROKwO2TzIho=;dMaKMJacjkzt/YHMJQiZZw=="
+secured: "aogxbnwaURh4rN3HqZPq1D4qW8DaV/9A7LOiSnGwzNIk/bCm4Az7bryKovaibxLFDgaBBY64LOanZvhXd2Q18+x9wjWQOR2qWVNu7XhZh7ZDXATGSVSfY76vvCEPpnNF9Mi/R09Nx0YNUnAh5/bePzgdrXbG0rpRKVOVEWD+EiuC8+1dL6VeS8eaZ2EwSt0IbrPZ5C/OlKSWhZ2De2V0rbK7tR8xrF95migkP8TAKYchWFAx/GkgPc1wWzpCnhQE+FLFTWFXWlvzKHqMFG6TVvbLsFh3On5sTMyz5uRg6r9WxYEBljM9WgkRfLR8SxsNL3zmUKNREfTcyRvjdbCiuI79veMo1bv+G5YFXZHIqMhjak8uJ5NCFuM+5VjM+2o93JUpGdIyl5tz8gc1JM/yqxssUvpqk1R18IGm66QfFTEpUUV1odKrrUl/MKVqxU4/vIdyk731f5YgsVX+/1AZozWDvujN8kWkYJXXV/DdqsUFD8GIacZ610FXfrj69zcKiPT2j2pZBihxbBy4RTl7TQ==;quJmYJ0gp4JdQlRLp8PN6Q=="
 ---
 

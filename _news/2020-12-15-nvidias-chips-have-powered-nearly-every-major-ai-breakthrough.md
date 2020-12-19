@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chip
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -62,6 +62,17 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
+    excerpt: "You’ll often read that it’s only a matter of time before AI steals all our jobs. But the idea of humanoid machines is nothing new. It began with the “heartless” Tin Man from The Wizard of Oz. By the 1950s,"
+    publishedDateTime: 2020-12-19T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "This supercomputer centre has chosen Nvidia for its AI"
     excerpt: "Performance Computer Center Stuttgart (HLRS) in Germany will use its GPUs to accelerate its journey to AI. HLRS is one of the largest supercomputer centers in Europe and since Michael Resch became director in 2002,"
     publishedDateTime: 2020-12-16T12:05:00Z

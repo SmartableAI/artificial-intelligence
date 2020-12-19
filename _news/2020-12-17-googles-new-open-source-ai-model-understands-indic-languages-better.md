@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://imgeng.jagran.com/images/2020/dec/goo1608205890609.jpg"
         width: 650
         height: 540
+        isCached: true
+  - title: "Google India announces new features across products to help users with regional languages"
+    excerpt: "Google has announced a range of features to help users with regional languages. The tools are designed to make transliteration more convenient to users. Google has extended language support to toggle between English and Indian languages,"
+    publishedDateTime: 2020-12-17T06:06:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 35
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Language-Chips-Search-results-647x363.png?xeC4CcVbuYHjhKmbLFH5LmcjgQ8No9_i"
+        width: 647
+        height: 363
         isCached: true
 
 secured: "hM18OJwiIMrYtBUxFcuTUEpq2ou4qPJT091MEXGfwf5KgSaq45xrwsPsBBD6NHAHrlCpHjV5YC4PB+8qxyPbkv2roGMQw1fyjVxNS7YIzdT6cN9GUdkQzKTwLl1HaF7RLB8pbqLD/8nScdI7eTWe4IAv0NH2ouukrNDiDl3MnHIz35DztUTGFELwEI8vfdMMJA9stXvpgWeXmbapjmWcyMnvPi2s+dw+Y5CJixoJTB04VB+/lI6FbHyE+HYeY3FW6GthfCyjFwqlRK0h0S2Oe1ziH0gO2IfwN6oP0xoCcDJ7A6xndxIU+RcvdlQGAzjBpUbfqjzntiWpKu8HopE24XJOJOJKLFxc5DySiz7BCMmcat7xgexWMScQFyXzpUYljnoMkEnBmJMHjuhbpeEeSE0XZIRFn1ePnLDEFNIRFlFS/ixdrfpn4TLZNHmc4stjJilBSlVqrXbjlc5hZsAT7L6b/4KLMoqdnkWwPCQD3F77gcQYqwTp0svWgSfG2nKMv4Tz6FgCamRZzgpDfAX0iA==;lcgSqyN7dq0DKTWsSApwAA=="
