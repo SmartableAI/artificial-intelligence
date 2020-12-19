@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-make
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/F6m6UYZvrAZECaIq467w_OjDFpI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SUG4NAL565FMHAULNE4MR4SKCY.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Self-driving tech makes new moves"
+    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
+    publishedDateTime: 2020-12-19T04:30:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
+        width: 400
+        height: 266
         isCached: true
 
 secured: "ML0NTpXit8JaP6gE8kGrQCUTMF8I8+9exokUhXg5zKEMiCTLmzjxivfU5vfYvpcjVsacJZEJu6RPzBXcG5grs9QJf8C+SpSqdM4L0f4U9rfSnrdZJjJiGv0SipSvKltgC6fnyIavgG6ooPsk8qSt6QyHzN7bWy0UHWsrwid4Ks/VpA7HEd1qNO+BR6MrPKU1Z6GwnQDtvMrxdJRrHtVK8DpgZs6SRIr7vrmjbyP8XE6BKAsw4akA4hB9KKGVQ59J2cTd9K6T8lBvMqdoJaRzWwapmQEEbnyOGCXRFU59O/SgLUKM7ee+PLwdXtM9M3+3FEEAja/TFV7QcdWLV6tK3XcZf0g9M/Y4gEicqN99SKfmGU1OylH351D4w13vQimHZ4l+nke2hHAFR5iMfBf3OUBtgqc5ftifi1vS7GVD5qbqIZCHrK+QaGx+LVX/oDMjXymSFZsX47e1Qy/mZ15+3oCm4k4nA4zRwIT+tdOl8Mhe+FoF+WtZaeW1ApAgD1Oqo+Wn8lvRjAndwky5HjogyQ==;hQO2PtMPwM7cTvyqSk6k8w=="

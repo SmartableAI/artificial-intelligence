@@ -163,7 +163,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 52
+    quality: 54
   - title: "AI Copilot: Air Force achieves first military flight with artificial intelligence"
     excerpt: "Signaling a major leap forward for national defense in the digital age, the Air Force flew with artificial intelligence as a working aircrew member onboard a military aircraft for the first time Dec."
     publishedDateTime: 2020-12-16T15:16:00Z

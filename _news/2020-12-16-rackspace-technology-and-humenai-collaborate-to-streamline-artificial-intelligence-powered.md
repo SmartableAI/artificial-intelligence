@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI blob opera and other technology news"
-    excerpt: "Google’s blob opera can make totally new sounds thanks to artificial intelligence trained on 16 hours of real life singing"
-    publishedDateTime: 2020-12-18T12:03:00Z
-    webUrl: "https://www.bbc.com/news/av/technology-55260839"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091vb4p.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
     excerpt: "Human.Ai Expected to Save 70% on Infrastructure CostsSAN ANTONIO, Dec. 15, 2020 (GLOBE NEWSWIRE) -- Rackspace Technology™ (NASDAQ: RXT), a leading en"
     publishedDateTime: 2020-12-16T00:32:00Z

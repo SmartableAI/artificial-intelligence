@@ -152,6 +152,17 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "In a first, Air Force uses artificial intelligence aboard military jet"
+    excerpt: "The Air Force allowed an artificial-intelligence algorithm to control sensor and navigation systems on a U2 Dragon Lady spy plane in a training flight Tuesday, officials said."
+    publishedDateTime: 2020-12-17T06:23:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Artificial intelligence co-pilots US military aircraft for the first time"
     excerpt: "Dragon Lady” spy plane during a test flight Tuesday, the first time artificial intelligence has been used in such a way aboard a US military aircraft. Mastering artificial intelligence or “AI” is incr"
     publishedDateTime: 2020-12-16T18:19:00Z
@@ -166,17 +177,6 @@ related:
         width: 500
         height: 325
         isCached: true
-  - title: "In a first, Air Force uses artificial intelligence aboard military jet"
-    excerpt: "The Air Force allowed an artificial-intelligence algorithm to control sensor and navigation systems on a U2 Dragon Lady spy plane in a training flight Tuesday, officials said."
-    publishedDateTime: 2020-12-17T06:23:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 52
   - title: "U-2 spy plane uses artificial intelligence to control radar"
     excerpt: "The US Air Force for the first time used an artificially intelligent algorithm program, called ARTUµ, to control the radar on a Lockheed Martin U-2 spy plane."
     publishedDateTime: 2020-12-16T18:43:00Z

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-18-covid-19-analysis-to-understand-the-competitive-outlook-of-ai-based-edge-computing-chip-market.md",
+      "title": "COVID-19 Analysis to Understand the Competitive Outlook of AI based Edge Computing Chip Market",
+      "excerpt": "Researchmoz added a title on AI based Edge Computing Chip Market 2020 2026 to its collection of market research reports The study of the Global AI based Edge Computing Chip Market will include the analysis of all the comprehensive segments",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "originalUrl": "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc17255954_g.jpg",
+          "width": 687,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "publishedDateTime": "2020-12-17T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-using-pytorch-to-streamline-machine-learning-projects.md",
+      "title": "Using PyTorch to streamline machine learning projects",
+      "excerpt": "A platform that lets surgeons browse videos of past operations has found a way to make its machine learning more effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "originalUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/1200x675/a149f22109b892c62588d4d67f218f5e/20200814-owen-karen-weeds.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "publishedDateTime": "2020-12-17T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-anomalo-nabs-595-million-for-ai-data-validation-tools.md",
       "title": "Anomalo nabs $5.95 million for AI data validation tools",
       "excerpt": "Anomalo, a provider of data validation and documentation services for developers, today announced that it raised $5.95 million in venture capital. First Round Capital and Foundation Capital participated in the seed funding round,",
@@ -606,58 +702,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-in-self-driving-amazon-invests-while-walmart-partners.md",
-      "title": "In Self-Driving, Amazon Invests While Walmart Partners",
-      "excerpt": "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-indias-invisible-women-hope-for-recognition-at-farmers-protests.md",
       "title": "India's 'invisible' women hope for recognition at farmers protests",
       "excerpt": "Legions of women have trekked to India's capital to join massive protests against agricultural reforms, hoping not only to protect their livelihoods but also win visibility as farmers.",
@@ -794,6 +838,58 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-see-walmarts-self-driving-delivery-trucks-in-action.md",
+      "title": "See Walmart's self-driving delivery trucks in action",
+      "excerpt": "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business/video/playlists/business-tech/",
+      "originalUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business/video/playlists/business-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "publishedDateTime": "2020-12-16T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1144,109 +1240,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation.md",
-      "title": "Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation",
-      "excerpt": "Using Xeon CPUs and software built with the OneAPI model, animation studio Laika is leveraging AI to accelerate repetitive production tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/B037EB54-C6AF-456B-8C8C-66AC56FFCD06_1_201_a.jpeg?w=1200&strip=all",
-          "width": 859,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
-      "publishedDateTime": "2020-12-16T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards.md",
-      "title": "AMAX workstations gain new NVIDIA RTX A6000 GPU cards",
-      "excerpt": "Server and workstation vendor AMAX has announced support for NVIDIA's professional-grade RTX A6000 GPU card in its workstations. The company, which aims its AceleMax workstations at artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/software/virtual-desktop/358156/amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards",
-      "originalUrl": "https://www.itpro.co.uk/software/virtual-desktop/358156/amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1608127394/itpro/PowerMax-DL-E110A-IMG.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

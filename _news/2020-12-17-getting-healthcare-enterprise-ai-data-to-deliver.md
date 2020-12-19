@@ -33,7 +33,7 @@ related:
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.cioreview.com/graph_image/0tsouino.jpg"
         width: 405

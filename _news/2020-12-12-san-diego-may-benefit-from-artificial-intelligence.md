@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media2.govtech.com/images/shutterstock_1181851309.jpg"

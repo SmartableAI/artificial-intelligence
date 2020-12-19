@@ -114,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -207,7 +207,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-together-mode-skype-192645916.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -247,6 +247,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-gurucul-xdr-uses-machine-learning-analytics-to-strengthen-security.md",
+      "title": "Gurucul XDR Uses Machine Learning Analytics to Strengthen Security",
+      "excerpt": "Gurucul, a leader in Unified Security and Risk Analytics technology for on-premises and the cloud, is releasing Gurucul XDR, a cloud-native analytics-driven platform that improves threat detection and incident response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Gurucul-XDR-Uses-Machine-Learning-Analytics-to-Strengthen-Security-144472.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Gurucul-XDR-Uses-Machine-Learning-Analytics-to-Strengthen-Security-144472.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -690,6 +734,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics.md",
+      "title": "CoachHub nabs $30 million for talent development platform that meshes AI with analytics",
+      "excerpt": "CoachHub, a digital coaching platform that leans on AI and analytics, has raised $30 million in a round of funding led by Draper Esprit.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/",
+      "originalUrl": "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/feat-4.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/amp/",
+      "publishedDateTime": "2020-12-18T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1167,102 +1262,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-covid-19-analysis-to-understand-the-competitive-outlook-of-ai-based-edge-computing-chip-market.md",
-      "title": "COVID-19 Analysis to Understand the Competitive Outlook of AI based Edge Computing Chip Market",
-      "excerpt": "Researchmoz added a title on AI based Edge Computing Chip Market 2020 2026 to its collection of market research reports The study of the Global AI based Edge Computing Chip Market will include the analysis of all the comprehensive segments",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
-      "originalUrl": "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc17255954_g.jpg",
-          "width": 687,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
-      "publishedDateTime": "2020-12-17T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-using-pytorch-to-streamline-machine-learning-projects.md",
-      "title": "Using PyTorch to streamline machine learning projects",
-      "excerpt": "A platform that lets surgeons browse videos of past operations has found a way to make its machine learning more effective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "originalUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/1200x675/a149f22109b892c62588d4d67f218f5e/20200814-owen-karen-weeds.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "publishedDateTime": "2020-12-17T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

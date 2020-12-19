@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-together-mode-skype-192645916
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-together-mode-skype-192645916.html"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

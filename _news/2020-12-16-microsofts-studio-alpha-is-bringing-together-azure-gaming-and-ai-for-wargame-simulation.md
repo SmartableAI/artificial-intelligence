@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 940
         height: 528
         isCached: true
+  - title: "Microsoft is working on its own PC chips"
+    excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
+    publishedDateTime: 2020-12-19T04:57:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
 
 secured: "i/2re4G3946RqwETUunXKWJmERHILI8A/ixoszwmJLZN8d1jB2YRZeqpobn38fLNgEewh172EKW/W6jnJWZvmRpv3sgYPCg0d/741eCx0W+1GdDerIOu1JdP2xbPO0OAHVBhzJBUqTnaVsx2XnEET2E90l/bQEuvTLEU2vhKpD7XEx+ibPYpReD0UIxi6yM5K5z5KJcPuXHQDGaGodqL+G+7o9KRbXE1CwLDBjhLIcQ/1PgG7dEH35rb7R2p2X+17kCoXozkJcAHWfUOu/xJdzcWZzYZhVSVCO0tyfKZ+X/HqGgdPvQNmKGoWt4BaFw9PJ5AoMx+VcgVfvd7AI9kJkPVuZv9WM7Jrl5VSqT57LKdoZnCUXvg2aCYkIdgJfc/2z38lj3+e3zVCbLrD3Drr0cr5YMr0+hjwtR3DDjEZCfB4o3K/a1kTkcrhxI2PqqAixUO2jIL2rJL+gKQFPiELNaPT0s1Mr0ZBXqNGAsPMXeYru3v6DL2w8jGRcBxn1FVH1mBiy9HI94gxSPi18HBmw==;tJgNibgVkpn3BJoo/bJbIg=="
 ---

@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation.md",
+      "title": "Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation",
+      "excerpt": "Using Xeon CPUs and software built with the OneAPI model, animation studio Laika is leveraging AI to accelerate repetitive production tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
+      "originalUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/B037EB54-C6AF-456B-8C8C-66AC56FFCD06_1_201_a.jpeg?w=1200&strip=all",
+          "width": 859,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
+      "publishedDateTime": "2020-12-16T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards.md",
+      "title": "AMAX workstations gain new NVIDIA RTX A6000 GPU cards",
+      "excerpt": "Server and workstation vendor AMAX has announced support for NVIDIA's professional-grade RTX A6000 GPU card in its workstations. The company, which aims its AceleMax workstations at artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/software/virtual-desktop/358156/amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards",
+      "originalUrl": "https://www.itpro.co.uk/software/virtual-desktop/358156/amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1608127394/itpro/PowerMax-DL-E110A-IMG.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos.md",
       "title": "Gun Detection AI is Being Trained With Homemade ‘Active Shooter’ Videos",
       "excerpt": "However, due to sensitivity, little footage from the start of shootings is readily available ... The possibility is enough for Meredith Whittaker, faculty director of the AI Now Institute at New York University, to reject the use of the technology outright.",
@@ -1059,8 +1162,8 @@
       "title": "The Trouble With Facial Recognition Doesn’t Justify a Ban",
       "excerpt": "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
-      "originalUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
+      "webUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click",
+      "originalUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -1107,21 +1210,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan.md",
-      "title": "AWS DeepRacer League announces 2020 Championship Cup winner Po-Chun Hsu of Taiwan",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
+      "path": "_news/2020-12-16-iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence.md",
+      "title": "IAiDL Disrupts World Of Technology In The Area Of Artificial Intelligence",
+      "excerpt": "IAiDL covers everything from big data solutions to edge computing, drone management, the Internet of Things (IoT,) blockchain technology, and robotics. In line with the company’s goal of raising Artificial Intelligence competence standards in all walks ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/15/Thumbnail-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
+          "url": "https://www.abnewswire.com/uploads/1607956287.jpeg",
+          "width": 585,
+          "height": 371,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1129,23 +1232,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T15:54:01-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18807435",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18807435",
+      "publishedDateTime": "2020-12-15T17:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1154,104 +1248,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
-      "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
-      "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
-      "excerpt": "Microsoft is bringing together Azure, analytics, collaboration and gaming technologies to build out a 'serious gaming initiative' for military and commercial customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/cb0f1967-7a6b-44b9-a4a4-a02e0ab6b920/studioalpha.jpg",
-          "width": 1527,
-          "height": 969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "publishedDateTime": "2020-12-15T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -43,6 +43,17 @@ related:
         width: 1527
         height: 969
         isCached: true
+  - title: "Microsoft is working on its own PC chips"
+    excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
+    publishedDateTime: 2020-12-19T04:57:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
 
 secured: "4xfKtX5Y9lb1uqOHabI0dD+zBv2wxs7bZfBYPT4TOQvluXJldFqJB6dnnnDyxu3sbZyq/cFtOUf7jGb8MG/OySUZhE4i79R3w65ODmeUhA0KaqbQhVWa1P3Er9AoDM5dRap80/kkHE5WkOXKOEeanhB6FY0GzmDzccNhGpuXBzIpsAbL22PSwWH3lnwZHppb7l53Iz03ejE04BsLUwZWptn/n1HmXYl7SXnri+uYbU8UVLvkoO0yv+gxjXcAS9EiMx8wi2VXvKt9qiCInzInnSbpnFqa2jo8sW1pu/ALPv4L5W1Z4vLwtLt9u3Q4VJQjrhh2EzWe1VEr7drAracwziEtJWBABgKGqdfHvKC/2yMBhcHHUwmK6XyTup3l8SdEUin5mpwH75HxWI55+Njsu/6SRfbec/DIeGeMzy8+lKU3lv3c8hHXc0owRfNeRBlwVI6+JPDRXGGJmY7dbkU3Ytjc5ydzwaLzxHbGhSkcHM+T5Ot6Ndcebgj74sLgbG3IJ8wtu6lQHWn+LzDe9iT6Mg==;jigOwTvg6j3T8UIkbdKIxg=="
 ---

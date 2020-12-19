@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 years on, missing boy re-united with family by face recognition tool DARPAN"
-    excerpt: "The boy from Madhya Pradesh was found at a children's home in Howrah, West Bengal, a press release said here. He went missing on October 7, 2010 from"
-    publishedDateTime: 2020-12-14T12:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/articleshow/79722468.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://static.toiimg.com/photo/msid-79645643,width-242,height-136/79645643.jpg"
-        width: 3872
-        height: 2583
-        isCached: true
   - title: "Missing Boy Re-united With Family After 10 Years With Help of Face Recognition Tool DARPAN"
     excerpt: "New Delhi: A boy from Madhya Pradesh’s Jabalpur has been reunited with his parents nearly after a decade with the help of the face recognition tool — DARPAN, which was launched by the Telangana police. The facial recognition tool helps investigating ..."
     publishedDateTime: 2020-12-14T15:53:00Z
@@ -59,17 +43,6 @@ related:
         width: 1296
         height: 708
         isCached: true
-  - title: "Boy missing for 10 years re-united with family with help of face recognition tool DARPAN"
-    excerpt: "Telangana police used the face recognition tool they had developed to match photographs of missing children with those of children found in children’s homes across the country."
-    publishedDateTime: 2020-12-14T11:42:00Z
-    webUrl: "https://www.hindustantimes.com/it-s-viral/boy-missing-for-10-years-re-united-with-family-with-help-of-face-recognition-tool-darpan/story-kKSldkFJ1y7d2umWLowpKK.html"
-    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/boy-missing-for-10-years-re-united-with-family-with-help-of-face-recognition-tool-darpan/story-kKSldkFJ1y7d2umWLowpKK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/boy-missing-for-10-years-re-united-with-family-with-help-of-face-recognition-tool-darpan/story-kKSldkFJ1y7d2umWLowpKK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 30
 
 secured: "PJr/1Xz3JyLI+MCuaPDaPJnvMduqixicCXMEARWF9QnXCh0Jsbt8+SRlMGYQ3jrVOl92hx3Qv3Eu3adgbtORTFZVoWlcMnew4S1dOLgmTrhQKXYXacZgTAP/1cX5EhJbj3D6h6iJjeCz2+BgUKftP1C5FH5UOBXJPKFQneMvJqSiOFTR1pmo+ipn9bddsjxxIz++wu5IPgB8lECMXqDVpvB3boipHWvnSCbljKNSEvqYOgE6u7563NDMwIsBYVyPoTjL9p6Fbw6r1KShMaGkmS/RSeNqMqeRWkwo3NIVIfnaAD2LMFmGvI4inggBeEWtPwdB1wzhhpOEklm6B1q9hkNrQICbPdl/f4Q1BgAnEgRcdtwfF8r+/jCkPwRFcNx775/k1s3dCLj8LAPl+WS9jxXfgSPqH7DZLmUtzVsqfar+6e76XmKg2L88stJ59ZCkR/4JzQZt2Ut/CoBJNjxkVhNayADUtj+AP5Guf9JI8UhbL8IohfbZOSS3zQOmnwUunfZJmbCQRHc76AemPkVSNA==;H8LpC3NMUZINzgj2ET2pug=="
 ---

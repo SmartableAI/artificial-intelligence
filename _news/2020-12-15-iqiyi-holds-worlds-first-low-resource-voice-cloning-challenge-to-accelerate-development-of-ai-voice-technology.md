@@ -1,29 +1,29 @@
 ---
 category: news
-title: "iQIYI Holds World's First Low-Resource Voice Cloning Challenge to Accelerate Development of AI Voice Technology"
-excerpt: "PRNewswire/ -- iQIYI Inc. (NASDAQ: IQ) (\"iQIYI\" or the \"Company\"), an innovative market-leading online entertainment service in China, is pleased to"
-publishedDateTime: 2020-12-15T10:48:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/iqiyi-holds-worlds-first-low-resource-voice-cloning-challenge-to-accelerate-development-of-ai-voice-technology-301192766.html"
-webUrl: "https://www.prnewswire.com/news-releases/iqiyi-holds-worlds-first-low-resource-voice-cloning-challenge-to-accelerate-development-of-ai-voice-technology-301192766.html"
+title: "iQIYI Holds World’s First Low-Resource Voice Cloning Challenge to Accelerate Development of AI Voice Technology"
+excerpt: "BEIJING, Dec. 15, 2020 /PRNewswire/ -- iQIYI Inc. (NASDAQ: IQ) (“iQIYI” or the “Company”), an innovative market-leading online entertainment service in China, is pleased to announce that it has partnered with multiple organizations to hold a Multi-Speaker Multi-Style Voice Cloning Challenge (M2VoC) scheduled to run from 27 November 2020 to 11 February 2021."
+publishedDateTime: 2020-12-15T10:49:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-3d417f0edf60f15d0528439047881bde"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-3d417f0edf60f15d0528439047881bde"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "5Oihj7Q5dYM7TboH/03StpJ4o2pyzniYYQ/MYvddr45MohzlAnkoX8NxAH3be1N5sXueZtg0HiSyaNgK1kM6BVr8DP7sZb+JgzEBPkoJ4aU722BEyMqfS9FyIbNaOKj9KNFCQZCX+HavS5NCPo9tZ2yQmkjLhU/gb+JJR2dMT1VI1rkhS+NWBvBAoIzgDWvJVUizyRXdklVHC5lUZyT+yVQ/vACj0iPv0EqfcRR/YEFkXbgfBpxcInX5WKJ5zhMT8FCdBZhHibbovgbYoLFkAcBX1CYUjX1qaQ/+rJrtWcg4W4leRFTnMFjbeY4B6PXrXg5bMEJZW+pWCjDUnuscFOw4iU1mEOm9ptX/l31uoOU=;YfVrwouLDX9Qcst3tXS+WQ=="
+secured: "bmQRCtb4vpXLuklR/EWfJDwqm45CsFdwvEluAgEQR+58FbRs6s1CfiNLWzBhcm5gvAJm4e5Nep5nyMphIVFdd+fDEmMKDF+5jnWXCii7k3Htk3eqzM2X8AIEk/RPOBE9fh0YanRK771BmzR8lhHPz+ZiTrFGz/aX1cj2LSxNRzwNfY8pj87kFSO787REtMnF6k2qUJWM8vwfHFLzcGkOZUZ0GEOxYw48kBI4XeCj/Dh6ZNZ+Y03D1tUCHXIm7IV7W04egt63dCpJUJdhoz62WMqheU1d+IBuBokOJcpBdQ3wFtBnsc1efdpE5aAHFktWUJx4ZMM7SpdH8sG4eb2udLrDWL0sqJdMzoauNAdqGks=;hxhVIWRgAkwHKcm/z2wJZg=="
 ---
 

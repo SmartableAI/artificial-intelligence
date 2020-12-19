@@ -1,28 +1,47 @@
 ---
 category: news
 title: "IAiDL Disrupts World Of Technology In The Area Of Artificial Intelligence"
-excerpt: "American International research and innovation program, IAiDL, continues to deliver the benefits of AI and FMT to the world with their range of services <p>IAiDL, otherwise known as International AI Driving License has successfully chased away ICDL by delivering amazing AI transformation tools to the world."
-publishedDateTime: 2020-12-16T06:57:00Z
-originalUrl: "https://menafn.com/1101286359/IAiDL-Disrupts-World-Of-Technology-In-The-Area-Of-Artificial-Intelligence"
-webUrl: "https://menafn.com/1101286359/IAiDL-Disrupts-World-Of-Technology-In-The-Area-Of-Artificial-Intelligence"
+excerpt: "IAiDL covers everything from big data solutions to edge computing, drone management, the Internet of Things (IoT,) blockchain technology, and robotics. In line with the company’s goal of raising Artificial Intelligence competence standards in all walks ..."
+publishedDateTime: 2020-12-16T01:12:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18807435"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18807435"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 73
+heat: 83
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2020-12/15/G_fb7c97c3-4image_story.jpeg"
+  - url: "https://www.abnewswire.com/uploads/1607956287.jpeg"
     width: 585
     height: 371
     isCached: true
 
-secured: "M3SXgzoTGP/hH0zIJvVbvj7pbO/yRN9sBsDYolEP7fRj33C+jgp+J9jZo3SVFdB2/mcXxKdBCp3Forlp2JyjWsB0LctQogu0lMWh08Dd3yCpJwBwd4Fq2w4yRutV5qYlNBc6CVqjxqm/yI8/h6i84+mPTcHIUqPtgqSQv4NmZKP5FlKaqt6q0VugNofOwIRROz3oDvJbdKMFOs/bqZbOZSeC9Smxz4Tm3JSgX/boeI5B8St44JrCe+VAUgM6E+jOl3dptc1aQZs1xUs61Oep5gRtoMx/0VXg9ctm/sqo7fiFMRnYaxvmAf2CPMYX3FtboL4RiLXvLDlhrw33cFErcs5OhCi7IbB4XpMhzqcNyTs=;xBFSrbk2LrwnN+boLGBtoA=="
+related:
+  - title: "The AI blob opera and other technology news"
+    excerpt: "Google’s blob opera can make totally new sounds thanks to artificial intelligence trained on 16 hours of real life singing"
+    publishedDateTime: 2020-12-18T12:03:00Z
+    webUrl: "https://www.bbc.com/news/av/technology-55260839"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091vb4p.jpg"
+        width: 400
+        height: 225
+        isCached: true
+
+secured: "47YAJUEgGHwy+uVFwOWPx7g/8+1EnzysYeeniEm6/czafJlmCvv6mUzGorqrFgpOz26bpCWaWY+RiNQxgrgAR8BgJcdqaSoGCo4icV/cabCztnWUQNnqK53VrDskVknTVz/2YFxfu25K0rgw2aLjurKLtD7B2JX8tVlPGIoWHeYL8VLERiIr7ECJ3I2KCJqjD/lupj4Jj9xqC4xVQik9pRtphZl5XJcMkeir1gG9IqJaCysYpnyybGPOpGmPSm2UIzsq7748WuBiC9ETTuIyUdB3eMBa9kNzWkGfgBRmSFclSTtL9KJmwtug99RQnGQW5JLAWVbmPT5sYgCbSeNqzNYL7I2WQtw3VSXHiLnCMQY=;rcK6/CzklZujSZqL+uwbcg=="
 ---
 

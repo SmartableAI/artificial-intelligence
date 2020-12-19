@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-u
 ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "AI controlled a US military aircraft for the first time"

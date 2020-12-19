@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-15T08:34:00Z
 originalUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html"
 webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html"
 type: article
-quality: 54
-heat: 74
+quality: 56
+heat: 76
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cioreview.com/graph_image/0tsouino.jpg"

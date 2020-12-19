@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-05-intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility.md",
+      "title": "Intel Develops $50 3D Printed OpenBot to Advance Robotics Accessibility",
+      "excerpt": "A curated collection of industry and product deep-dives. Edouard Moens de Hase talks to us today about Aerosint. For the last few years, they have been working on improving powder bed fusion. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
+      "originalUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3dprint.com/wp-content/uploads/2020/08/openbot4_intel_3dprint_smartphone.jpg",
+          "width": 1015,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
+      "cdnAmpWebUrl": "https://3dprint-com.cdn.ampproject.org/c/s/3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
+      "publishedDateTime": "2020-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "3dprint.com",
+        "domain": "3dprint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-improving-ophthalmologic-care-through-artificial-intelligence.md",
+      "title": "Improving ophthalmologic care through artificial intelligence",
+      "excerpt": "For some, hearing the words artificial intelligence, or AI, sparks imaginative scenes of robot overlords, self-driving cars, dystopian surveillance, chatbots, and machines replacing humans at work.",
+      "sourceUrl": null,
+      "webUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "originalUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://med.stanford.edu/content/dam/sm/ophthalmology/images/artificial_intelligence.jpeg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stanford News",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-getting-there-structured-data-semantics-robotics-and-the-future-of-ai.md",
       "title": "Getting there: Structured data, semantics, robotics, and the future of AI",
       "excerpt": "Leveraging structure in data is key to making progress in AI, says AI prodigy Gary Marcus. A forward-looking view on Software 2.0, AI chips, robotics, and the future of AI",
@@ -1271,101 +1368,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market.md",
-      "title": "Resgreen Group Brings Affordable and Effective Disinfecting Robot to Market",
-      "excerpt": "PRNewswire/ -- Resgreen Group (RGGI) today launched sales of its industry-changing Wanda SD, a cost-effective robot that uses Ultraviolet-C (UVC) lights to sanitize everything from schools and offices to hotels and airplanes.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
-      "publishedDateTime": "2020-11-24T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-do-you-have-a-conflict-of-interest-this-robotic-assistant-may-find-it-first.md",
-      "title": "Do You Have a Conflict of Interest? This Robotic Assistant May Find It First",
-      "excerpt": "They can’t detect all conflicts, but new computer programs serve as guard rails when scientists and publishers fail to self-police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-CONFLICTSCOLOR/24SCI-CONFLICTSCOLOR-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "publishedDateTime": "2020-11-23T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

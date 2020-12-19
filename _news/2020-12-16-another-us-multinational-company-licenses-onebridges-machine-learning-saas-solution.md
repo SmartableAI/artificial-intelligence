@@ -24,15 +24,6 @@ topics:
 
 related:
   - title: "Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
-    excerpt: "OneSoft Solutions Inc. is pleased to announce that Consumers Energy, a Michigan- based public utility provider, has entered into a multi-year agreement with the Company's wholly owned subsidiary, OneBridge Solutions Inc."
-    publishedDateTime: 2020-12-14T12:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/consumers-energy-advances-digital-transformation-with-onebridge-machine-learning-saas"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 39
-  - title: "Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
     excerpt: "The adoption of OneBridge’s software aligns with our 10-year natural gas delivery roadmap and digital transformation strategy. Artificial Intelligence and machine learning capabilities embedded in the solution will assist us to modernize and ensure we have a safe,"
     publishedDateTime: 2020-12-15T01:52:00Z
     webUrl: "https://apnews.com/press-release/accesswire/business-technology-government-business-and-finance-products-and-services-government-regulations-d597912a11804d54dc8c8d757d87b923"
@@ -46,15 +37,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "OneSoft Solutions Inc.: Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
-    excerpt: "Artificial Intelligence and machine learning capabilities embedded in the solution will assist us to modernize and ensure we have a safe, reliable, affordable and clean gas system. Implementation of the software will also help us to execute on our vision ..."
-    publishedDateTime: 2020-12-14T12:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51502093-onesoft-solutions-inc-consumers-energy-advances-digital-transformation-with-onebridge-machine-learning-saas-solution-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "lWBeQB/Mt4CAWP7VcW4IDpo+H9k6a5RAuv91mw/I61znl4CtgXNHR5pkblKvUqeJz6oY55X5DR20W9HLXFZAWjCJGq3aLhgRfI7Zss3XT02ljTE6JMd52Av7DDtod2UQOUM0OgXFANiXN2zodHutX43pxs9zE5qYjhhFB9ZlLgn86LVS8/NnuArSWh6OC2YuhFEKv97XTWDa2u1xXfRDbyisXD5A1jPfMRMwMHrQy7M7q7/Mbm9MFkQ6QQHmSv7K+psD6YtwtpTl2hy9udrPsAxQ3lSH4C669e3+9K5FZOFjbdiBIwJl1ozTDQH0YLORfjWUsTQQOmsBvGjpUnhXrljmGk9/O2+PvPZfQSCAtt4=;gDUK9w2yi4g9onagAFmr5A=="
 ---

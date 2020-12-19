@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
+      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
+      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-check-out-bandais-mind-controlled-robot-prototype.md",
+      "title": "Check out Bandai’s mind-controlled robot prototype",
+      "excerpt": "Researchers at NeU, a joint venture between Tohoku University and Hitachi, have developed a prototype toy robot controlled directly by the mind, in collaboration with toy giant Bandai. This robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "originalUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "publishedDateTime": "2020-11-10T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-raise-2020-how-healthtech-startup-sigtuple-technologies-is-leveraging-the-power-of-ai-in-healthcare.md",
       "title": "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare",
       "excerpt": "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions.",
@@ -1348,102 +1434,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence.md",
-      "title": "Keeping the robots trustworthy: The ethics of artificial intelligence",
-      "excerpt": "Building better, unbiased AI is a process in which humans and robots work side by side ... company executives have been exploring how artificial intelligence (AI) can help automate or optimize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/",
-      "originalUrl": "https://www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/11/Artificial-Intelligence-3_maxuser_Falcon.jpg",
-          "width": 616,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2020-11-03T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PropertyCasualty360",
-        "domain": "propertycasualty360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon.md",
-      "title": "This supermarket has purchased two robotics firms to take on Amazon",
-      "excerpt": "UK online supermarket Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "originalUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vaU7MVKAUPe295qnhCXfZF-1200-80.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "publishedDateTime": "2020-11-03T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

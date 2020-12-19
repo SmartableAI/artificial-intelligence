@@ -28,52 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users visualize themselves conducting complex dance moves. Rackspace Technology's team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced infrastructure cost."
-    publishedDateTime: 2020-12-15T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rackspace-technology-and-humenai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-2020-12-15"
+  - title: "IAiDL Disrupts World Of Technology In The Area Of Artificial Intelligence"
+    excerpt: "IAiDL covers everything from big data solutions to edge computing, drone management, the Internet of Things (IoT,) blockchain technology, and robotics. In line with the company’s goal of raising Artificial Intelligence competence standards in all walks ..."
+    publishedDateTime: 2020-12-16T01:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18807435"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18807435"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 73
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.abnewswire.com/uploads/1607956287.jpeg"
+        width: 585
+        height: 371
         isCached: true
-  - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered ..."
-    excerpt: "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users visualize themselves conducting complex dance moves. Rackspace Technology’s team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced infrastructure cost."
-    publishedDateTime: 2020-12-16T12:21:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-entertainment-business-corporate-news-products-and-services-604c5fe1ae46e3d12bc709e7a9236e9b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 42
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Human.Ai Expected to Save 70% on Infrastructure CostsSAN ANTONIO, Dec. 15, 2020 (GLOBE NEWSWIRE) -- Rackspace Technology™ (NASDAQ: RXT), a leading en"
-    publishedDateTime: 2020-12-16T00:32:00Z
-    webUrl: "https://www.generation-nt.com/rackspace-technology-and-humen-ai-collaborate-to-streamline-newswire-1983393.html"
-    type: article
-    provider:
-      name: GNT
-      domain: generation-nt.com
-    quality: 19
-  - title: "Rackspace Technology, Inc.: Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Human.Ai Expected to Save 70% on Infrastructure Costs SAN ANTONIO, Dec. 15, 2020, an Machine Learning (ML)-core company that uses deep learning and Artificial Intelligence (AI ... partnered with Amazon Web Services (AWS) Premier Consulting Partner ..."
-    publishedDateTime: 2020-12-15T16:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51517875-rackspace-technology-inc-rackspace-technology-and-humen-ai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "AnVFbeP30b4remIZLnhYNT9qJf7XCmU6btZIpC06t5CskMWupFT0mgeOPAAAgxh88wL6DuTbi8bolDBgJd1Swx5bDpVLNu0sujTbbYTpVlEcL3+6YQrLfPuo2+bOjbHZeMsApMGkLPk0R8xDbbktprB626B9AqkPj/wOgefRjdGDbVPZSSjzdYCIdNkWxj81dmUlipbTc1HckgUJCxP0STFC1wZt01KSRdiJ7dySK2ikY/h+yh1Ydiz4mo3Mpm0RNHZNbcvg2Jmni4tuye7irfCp8FDqcaSIwAvNSENrsS1aT+wGFfNOARlRt3gfueaMGiM9Dil5ZVtmppYfrmuH2EMkFkVx6dQMb7QV3p1mkJBS+UC9LDoGppljtf3Rq7lZ7Z7jg5wtmU2PhYIrKA8we4vYSOz/kSbriK/13fdu4iOhrGv8/i0HfQpyjyN5f18eLNq/gWu13wDNHN0mbMvAAcWHJ2D4jVwI7mbYbraqOAxUSNtiCliFP7go93bj+/DJDrnrxnCqQuG1FU9A4kna9g==;x7Ci6QIKzGKFE+shj0ua9Q=="
 ---
