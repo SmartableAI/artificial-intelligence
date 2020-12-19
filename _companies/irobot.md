@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "iRobot"
   url: "https://twitter.com/iRobot"
-  followers: 39584
+  followers: 39582
 
 size: 501-1,000 employees
 yearFounded: 1990
