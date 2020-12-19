@@ -149,6 +149,15 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. ('Pintec'; NASDAQ: PT), a leading independent fintech solutions provider,"
+    publishedDateTime: 2020-12-18T10:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z
@@ -178,20 +187,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
         width: 300
         height: 225
-        isCached: true
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
-    publishedDateTime: 2020-12-18T10:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "5ywAQoYBJtT877HJJMl0sZMs09K5ZoLhofP5rOZiqHPjtcl1Mk4OLJoWw6FRIPKO6s1wuwbCqiFviaVSfR17jMQsq0ZrlOpJ5vV3yZ7LMXMQ8UhKBHVIHoH+z5Ws4ti9IYkX4u4Ifs+XBWSGnhpLmxVmF1XxSAuiMWCJ7dSOLtOlhXhwfwVYvcGv6G9zoydbl4Bz8Q5zkpt4mSMsDsqtzVTtZfMZrkGgJGaS3MqApkLRkz5McsqlA2S5ty4QcaZ2rEQIoPNWLOFKFLqyrRwg9EuWN9DiwFlmkZs7xVcU5otfraHcyWMGVIW8d+pOyMezi6oXdGg5Pgb5bpDPz3rN+CiToSEWGa5TaZrg5TiKyUo=;634DleFEooD3NneVycEAxg=="

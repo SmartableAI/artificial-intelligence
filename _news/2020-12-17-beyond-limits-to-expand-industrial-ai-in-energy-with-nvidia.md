@@ -115,20 +115,6 @@ related:
         width: 925
         height: 488
         isCached: true
-  - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
-    excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
-    publishedDateTime: 2020-12-14T16:08:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/14/hlrs-hawk-supercomputer-to-receive-nvidia-powered-ai-upgrade/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/hawk.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Beyond Limits to Expand Industrial AI in Energy with Nvidia"
     excerpt: "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, announced it"
     publishedDateTime: 2020-12-17T19:08:00Z

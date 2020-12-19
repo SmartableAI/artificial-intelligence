@@ -33,20 +33,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Supply Chain AI: Getting the Most Bang for Your Buck"
-    excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
-    publishedDateTime: 2020-12-14T15:53:00Z
-    webUrl: "https://www.industryweek.com/supply-chain/article/21150270/supply-chain-ai-getting-the-most-bang-for-your-buck"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 37
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/12/Supply_chain_analytics.5fd788eea68c4.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 625
-        isCached: true
 
 secured: "PiyrNLP89YPvvPXxVOZf8OAB3ELRSya8l8vlT29oW6I+NAmnQZ7lrtpDOASOh7vl28iy4lVW7vVa6t7Yww/3QIbvIhs06QZX+l0Cv8I2Py+2Ba3JPVCdYdJvASUO+qxHbFcvfLCBA96/kRSbJ5d3RXHmsH/Ly923msCBcPTgj3t3Mr7ArmcxWMW1BRhgGKHOZ8SED8o8du2D3/mEcUdkGKlQ/CHlPYPdRL83JBfy9Hc41ysJjhlcgI6RnlTaKPWgr+eGrmD3m+dTPi7toVa2y/sZDQ56dOFRU7+dINBF9V54q8sACBvnfN8aUHN2+kuCJ8katOSX7T1NZr3l1Su05c4wnEGYnfrqyW8hC9rN93I=;58B3uIJRlaTzCXCRrDwF1Q=="
 ---

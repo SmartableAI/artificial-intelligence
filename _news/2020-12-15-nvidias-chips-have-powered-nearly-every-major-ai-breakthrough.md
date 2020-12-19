@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chip
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-18_085931.png"
         width: 925
         height: 488
-        isCached: true
-  - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
-    excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
-    publishedDateTime: 2020-12-14T16:08:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/14/hlrs-hawk-supercomputer-to-receive-nvidia-powered-ai-upgrade/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/hawk.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Beyond Limits to Expand Industrial AI in Energy with NVIDIA"
     excerpt: "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, today announced it is working with NVIDIA to advance its initiative for bringing digital transformation to the energy sector."

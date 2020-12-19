@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/financial-regulators-increase-ai-enga
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Jerusalem Post Blogs
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-enabled real-time social-media monitoring of public sentiments on COVID-19 vaccination"
-    excerpt: "The onslaught of the COVID-19 pandemic, the hunt for a drug, and the successful development of a vaccine has impacted people beyond measure worldwide."
-    publishedDateTime: 2020-12-14T15:24:00Z
-    webUrl: "https://www.news-medical.net/news/20201214/AI-enabled-real-time-social-media-monitoring-of-public-sentiments-on-COVID-19-vaccination.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201214/AI-enabled-real-time-social-media-monitoring-of-public-sentiments-on-COVID-19-vaccination.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201214/AI-enabled-real-time-social-media-monitoring-of-public-sentiments-on-COVID-19-vaccination.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9.jpg"
-        width: 2150
-        height: 849
-        isCached: true
   - title: "Sheba Medical Center Inks Strategic Agreement with Iguazio to Deliver Real-Time AI for COVID-19 Patient Treatment Optimization"
     excerpt: "Iguazio was selected to facilitate Sheba’s transformation with AI through clinical and logistical use cases such as predicting and mitigating COVID-19 patient deterioration and optimizing patient journey with smart mobility Iguazio,"
     publishedDateTime: 2020-12-16T14:20:00Z

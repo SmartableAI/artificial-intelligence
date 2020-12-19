@@ -35,22 +35,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "AI-enabled real-time social-media monitoring of public sentiments on COVID-19 vaccination"
-    excerpt: "The onslaught of the COVID-19 pandemic, the hunt for a drug, and the successful development of a vaccine has impacted people beyond measure worldwide."
-    publishedDateTime: 2020-12-14T15:24:00Z
-    webUrl: "https://www.news-medical.net/news/20201214/AI-enabled-real-time-social-media-monitoring-of-public-sentiments-on-COVID-19-vaccination.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201214/AI-enabled-real-time-social-media-monitoring-of-public-sentiments-on-COVID-19-vaccination.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201214/AI-enabled-real-time-social-media-monitoring-of-public-sentiments-on-COVID-19-vaccination.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9.jpg"
-        width: 2150
-        height: 849
-        isCached: true
 
 secured: "Z/g83na0w7pK5DVhZbZN+h8+JNvDrKk7o5W9aGiQeseLDcnV0CBUAc6AThx7VslZV/Bz6UaamHjzljXhKdFaPPPItFzguzAovht1sq1tRA6Gv7oEHVDrHn1swiOlDX7f/cMhe7qzPaoPOby/72HpX+cQCLHxIKlB/uy5m0RztLhQlE8WoTaQGyaCb8Apmt6XpuoPP4iS5vt9qPiqActJtmMVjVdeCTT8nY7kD0Jas1Sxc4i5hdQreZQHHQIpFwSqL8ZmnoxzlfXDIQPxCRe1AcMgXl9eD0xtVBrkNYCuT/oGp3WVPK9rmM/VUsjAHgGNCNMgPIY108TvgU9w3w2koQLEp7iC9BzMb5mwyHRQnX8=;+NJhFwHoZw41Z+0BDTCr6w=="
 ---

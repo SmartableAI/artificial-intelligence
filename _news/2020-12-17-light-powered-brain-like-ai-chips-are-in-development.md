@@ -3,11 +3,11 @@ category: news
 title: "Light-powered, brain-like AI chips are in development"
 excerpt: "The chip could potentially be used to power drones, robotics, smart watches, and bionic implants."
 publishedDateTime: 2020-12-16T16:32:00Z
-originalUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
-webUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
 type: article
-quality: 84
-heat: 94
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -44,6 +43,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "JvqRnoLCWZnQzYDuWp0lH6G+wBSBj0SM71jMkZi5QHBQljjF6fR7iXMJtflZ/CFjrw+ExlzKKmxItZTHMK+jc8xxDnhXkuAgR7tUbDhj7ikFdjjeFUTKmupodvzMekvzXWZKu6ggRYNa8obDzQ1t26mhuIC3EiF0inzi69Fh4840IIodlQflxvj+Lgr7uMfw8IdQkWZIQkAgfZE4Os16A9Xxms7elPRZEzZQrw6ni1gj++LTn/djpU9+zmMErobG67eOxG6P0+YUdxTeukH9GfsEOvk/cvaJpiPGW0isID1RvYrB93weXW0tuRomo+xIt1Qln1yoF46AsJDfWSfCwOR2Bp07fXz/+Qqw+UDPjWw=;XB2zL9OYVyYmMPYIg69qCg=="
+secured: "41KWfLqzm88PQnBGZRTyJkdIrt2anQyLpGHCYHZAPe2T4iI4OmTjwuEqm8j08ErZQYc70ZZcOBWt4UF9HYVFSFHEIHqgkgZJLBBTifIuceGoPjQ9Fl8im9/yJq8Swqe7U+6ra9zCKh/YDjznBOJYdHlL6YgPwtnvb6zHupKvtmlumvDS0Gzc6JIgCly2st4BZ4as+yzWmgNRqPktgjc9NSE91w30FFYX2Kx3TkdruKfQDNO7ouwAJD6/T9tAmxpissb5tC2rhdy0LCBh0aC+jk87nlQYjR9tQbcQ31KRU/+CgMSTmk6g78jzNds88kbIEbMx9ZBpeo0E+8/2rIahHX9t44HgIK3Xkq8fZts2Tbw=;6B2iVgnpKSVlNkwlPCItVg=="
 ---
 

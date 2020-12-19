@@ -271,7 +271,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1055,11 +1055,11 @@
       "title": "Light-powered, brain-like AI chips are in development",
       "excerpt": "The chip could potentially be used to power drones, robotics, smart watches, and bionic implants.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
-      "originalUrl": "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1098,7 +1098,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },

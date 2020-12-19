@@ -7,8 +7,8 @@ originalUrl: "https://www.cxotoday.com/ai/ethical-ai-the-next-big-thing-for-ente
 webUrl: "https://www.cxotoday.com/ai/ethical-ai-the-next-big-thing-for-enterprises-in-2021/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: CXO Today
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supply Chain AI: Getting the Most Bang for Your Buck"
-    excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
-    publishedDateTime: 2020-12-14T15:53:00Z
-    webUrl: "https://www.industryweek.com/supply-chain/article/21150270/supply-chain-ai-getting-the-most-bang-for-your-buck"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 37
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/12/Supply_chain_analytics.5fd788eea68c4.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 625
-        isCached: true
   - title: "Ethics and Artificial Intelligence: Driving Greater Equality"
     excerpt: "Kathy Baxter, Principal Architect, Ethical AI Practice at Salesforce, talks about the challenging issues around ethics and AI, including how companies can deploy AI more responsibly. As artificial intelligence plays an ever greater role in our world ..."
     publishedDateTime: 2020-12-16T00:00:00Z
