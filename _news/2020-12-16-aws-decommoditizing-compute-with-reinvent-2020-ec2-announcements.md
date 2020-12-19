@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Most Impactful Non-Compute Announcements At AWS Re: Invent 2020"
-    excerpt: "Invent 2020 virtual summit. In this article, he explains the most impactful non-compute announcements and the reasons why you should care."
-    publishedDateTime: 2020-12-14T20:04:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7c1ea894a58f890b718f0%2F0x0.jpg"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "AWS Decommoditizing Compute With Re:Invent 2020 Announcements"
     excerpt: "The AWS re:Invent event marks the last and largest conference ... For the reader that hasn't followed the Artificial Intelligence (AI) market as closely, Habana Labs is an Intel company that designs and delivers AI processors for training and inference."
     publishedDateTime: 2020-12-15T19:53:00Z

@@ -108,6 +108,20 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "Researchers Use AI Trained On Facebook Data To Detect Signs Of Mental Illness"
+    excerpt: "A group of researchers has recently published a study in Nature, detailing their attempts to use Facebook data to identify possible psychiatric illnesses.  As reported by Wired, the researchers were able to construct an AI model that can successfully predict a diagnosis of a mental illness based on messages sent up to 18 before the"
+    publishedDateTime: 2020-12-18T00:00:00Z
+    webUrl: "https://www.unite.ai/researchers-use-ai-trained-on-facebook-data-to-detect-signs-of-mental-illness/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 36
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/mental-1831391_1280.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "n/QbMlimOFiI+FV/yEIOWddKzz0C3IoCP4bjo2LjRDL5lZnhXaNofCRLHFGAnJoomlXyx7jZQNRj4NN4iE2D4gs7ICyBcoFn1TyvLRyNpGvkdKlLRE0kJyJy/nevZOixPIdynerOe/evuk8NnPa1/WszznsD4VAM8HWElOtIGxY8fem4H+bfVJpQ5LTDuA3tX9wlG2J4lRvQiFuTgx7wp01AWkXWOIpww5Ok5e1voabycJ/edmDFDhn7mh0ySGBAfMfiA4mPCLywkRd4EO3KgDePx8LKZYya2Lb7MdcXsvmR5iZk3nWLjdsWWx40ll+AA4StXi2AdqB9EgkLoPyYjSS1o7x+9qXVuKbhKJb8Vyo=;5iHtXOHnU6d0kjaftTKAdw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-reali
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: VentureBeat
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gaming platform Roblox acquires 3D facial animation firm Loom.ai"
-    excerpt: "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars."
-    publishedDateTime: 2020-12-14T20:05:00Z
-    webUrl: "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O1YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O1YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544513436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD12T"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Roblox buys digital avatar startup Loom.ai"
-    excerpt: "Roblox announced today that it’s buying a digital avatar startup called Loom.ai. Purchasing a company that has focused singularly on creating more realistic human avatars is an interesting play for a gaming platform that has made such an impact by building experiences that tend to cast"
-    publishedDateTime: 2020-12-14T19:13:00Z
-    webUrl: "https://techcrunch.com/2020/12/14/roblox-buys-digital-avatar-startup-loom-ai/"
-    ampWebUrl: "https://techcrunch.com/2020/12/14/roblox-buys-digital-avatar-startup-loom-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/14/roblox-buys-digital-avatar-startup-loom-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-14-at-12.52.56-PM.jpg?w=680"
-        width: 680
-        height: 487
-        isCached: true
   - title: "This Week In XR: Rec Room Raises Series C, Roblox Acquires Loom.ai, Pushes IPO To 2021"
     excerpt: "Roblox acquires Loom.ai and delays IPO until 2021. The company acquired Loom.ai to adapt their avatars for more realistic 3D ones. Loomie announced in an email to its users last n"
     publishedDateTime: 2020-12-18T11:00:00Z

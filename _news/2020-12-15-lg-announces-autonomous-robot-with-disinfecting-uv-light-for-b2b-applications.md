@@ -39,6 +39,15 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "Check out LG's autonomous disinfecting robot"
+    excerpt: "The company is using its experience in building robot vacuumes, as well as artificial intelligence and autonomous vehicles, to build a robot that can kill germs and viruses using ultraviolet light. The robot uses autonomous tech to navigate around furniture in high-traffic areas (such as restaurants and hotels) and sanitize touchable surfaces in just 15-30 minutes."
+    publishedDateTime: 2020-12-19T12:23:00Z
+    webUrl: "https://www.esquireme.com/content/50204-check-out-lgs-autonomous-disinfecting-robot"
+    type: article
+    provider:
+      name: Esquire Middle East
+      domain: esquireme.com
+    quality: 19
 
 secured: "Ux7wAmYQDzaY+ac4cW+J2QSPwUrx6C72K/ZvKUfRmzcoAkrySUPVq9ckG9EbVM3A6B8KMJib3lRQV8sf4rRz6b/HaCCDf5I1KHqG/DVPs0SpHaGlFod/qEFT+zd7kidviSGg6ETsC/hhGY0Cj9VGlFQ+9euVELh1EZy4XeYwiHqNWuUisvOn2b2R6AK0XDpHsix5UMBWgLGg+U3QzLeW0oCTXv4ptpGr0gYMjstdg8TpvEnctDZ0pIlUGLv0pRyM0LzRT8jCG8F6kSB58TgPSGpLzZIcqfZNwAqGvat+uXjFfbUY6OavmqF9o172sArGmbTI7xeNp3jS7Jk5KH1QrywR14KvcwMvkB1TZLZzqKXy+O8PwE9JydNQPdNWBEZbnBgZzmt6QQAzYelcYj0qULf/cc4fzgdBvr1WIUC/DbX8yl7BTYjfzi/AzPz11J3UTby0UO6wvlXVra9V+P4UrgduUPDaivqlIWpjJEi8n73U8WEHaTGARzX6BV7rXHClT3BrdYbcb8e6PJAy9dXQNA==;wD2ZPWtvKF5K8m8OpLOFcg=="
 ---

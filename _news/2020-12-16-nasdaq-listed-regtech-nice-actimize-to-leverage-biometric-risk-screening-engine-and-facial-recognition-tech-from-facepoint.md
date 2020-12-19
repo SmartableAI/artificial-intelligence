@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nice Actimize taps facial recognition or AML/KYC risk screening"
-    excerpt: "Nice Actimize, a Nice business (Nasdaq: NICE) today announced that FACEPOINT, which launched an industry-leading biometric risk screening engine, has joined the X-Sight Marketplace, bringing its cutting-edge facial recognition technology for advanced KYC ..."
-    publishedDateTime: 2020-12-14T19:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85475/nice-actimize-taps-facial-recognition-or-amlkyc-risk-screening"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Facial recognition vendor Facepoint joins Nice Actimize X-Sight marketplace"
     excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE) today announced that FACEPOINT, which launched an industry-leading biometric risk screening engine, has joined the X-Sight Marketplace, bringing its cutting-edge facial recognition technology for advanced KYC and watch list risk screening to the ecosystem."
     publishedDateTime: 2020-12-15T12:28:00Z

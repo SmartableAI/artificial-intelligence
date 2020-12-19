@@ -57,22 +57,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "City releases dozens of pages of emails on police use of facial recognition"
-    excerpt: "The emails show that the NOPD and Louisiana State Police have had a formal relationship since at least 2018 that provides the NOPD access facial recognition software."
-    publishedDateTime: 2020-12-14T19:04:00Z
-    webUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    ampWebUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: The Lens
-      domain: thelensnola.org
-    quality: 72
-    images:
-      - url: "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/12/DSC_5214-scaled.jpg?fit=2560%2C1709&ssl=1"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "New Orleans City Council bans police use of facial recognition software"
     excerpt: "The New Orleans Advocate) The New Orleans City Council has banned police from using facial recognition software and several other types of surveillance technology, and required officers to issue municipal summonses for a wide range of minor offenses rather than make arrests."
     publishedDateTime: 2020-12-19T00:53:00Z
@@ -132,6 +116,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "City Council Bans Police From Using Facial Recognition Technology"
+    excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
+    publishedDateTime: 2020-12-18T23:45:00Z
+    webUrl: "https://www.wwno.org/post/city-council-bans-police-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: WWNO
+      domain: wwno.org
+    quality: 39
+    images:
+      - url: "https://www.wwno.org/sites/wwno/files/styles/medium/public/202012/image_from_ios__17_.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Governor Baker, regulating facial recognition technology is a racial justice issue"
     excerpt: "Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police and has resulted in the wrongful arrests of innocent people."
     publishedDateTime: 2020-12-16T16:52:00Z

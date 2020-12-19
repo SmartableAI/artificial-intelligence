@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-s
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-summary-tools-brain-reader"
 type: article
 quality: 187
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/64rzwwljfyn9ipfw_1608118128.jpeg?tr=f-jpeg"
         width: 1242
         height: 709
+        isCached: true
+  - title: "Researchers Use AI Trained On Facebook Data To Detect Signs Of Mental Illness"
+    excerpt: "A group of researchers has recently published a study in Nature, detailing their attempts to use Facebook data to identify possible psychiatric illnesses.  As reported by Wired, the researchers were able to construct an AI model that can successfully predict a diagnosis of a mental illness based on messages sent up to 18 before the"
+    publishedDateTime: 2020-12-18T00:00:00Z
+    webUrl: "https://www.unite.ai/researchers-use-ai-trained-on-facebook-data-to-detect-signs-of-mental-illness/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 36
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/mental-1831391_1280.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "grY3dxd9c4gxCCI60dXtz/ehXXORM2AC6+cf3SX4iEO7QclSLXFqEjleS6B8bJ4VhlwyvAvcnFxHFwEBeGLp/v0xfzK1oRRnnFqoqNz71wEVB7AfKSwFjs0ute0ZAfJfLZniFNWvFRj7ncT4nx/lRGqv089UJyrd5wjnkZbyn4brpQdojtU24OgrMnPI8xQ9TSxijU/yELYOLGi/ENaFEG12vH3izP32W1exTx6vTSimluUiCCtAjZSs4y5ENLkzb03D3qxyMp5mBAg0f0yZC5QjZHCq454WJokjpbeiku/NoN7iY/WqiDgyrAwJblAFyibgs7R8vMMAn23cjWiY6t+sooHe1AC6DofcoupvKczcTmC+oZ6Wh9Pq8us4AhDFZfqryL3ZRHonQ8hItE0zHIi522elLdxlStmkyAdUBeXjzIq1606i0D41ZocF05bZ4KfMVKpuofJ6zV9CV7p5iOYPAiH6s9kyk49hs2svAQatpIIY/E2DUHEfAZ2RJGH4VuXsBVn8KYXvKs2fZA0VTUu5n7Brukgh5Fa99kY6Mws=;5JeUQtSbfBEK7WcRgJs0SQ=="

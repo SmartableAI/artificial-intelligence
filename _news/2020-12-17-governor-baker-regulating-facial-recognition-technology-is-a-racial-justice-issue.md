@@ -57,22 +57,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "City releases dozens of pages of emails on police use of facial recognition"
-    excerpt: "The emails show that the NOPD and Louisiana State Police have had a formal relationship since at least 2018 that provides the NOPD access facial recognition software."
-    publishedDateTime: 2020-12-14T19:04:00Z
-    webUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    ampWebUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: The Lens
-      domain: thelensnola.org
-    quality: 72
-    images:
-      - url: "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/12/DSC_5214-scaled.jpg?fit=2560%2C1709&ssl=1"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "New Orleans City Council bans police use of facial recognition software"
     excerpt: "The New Orleans Advocate) The New Orleans City Council has banned police from using facial recognition software and several other types of surveillance technology, and required officers to issue municipal summonses for a wide range of minor offenses rather than make arrests."
     publishedDateTime: 2020-12-19T00:53:00Z
@@ -146,6 +130,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "City Council Bans Police From Using Facial Recognition Technology"
+    excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
+    publishedDateTime: 2020-12-18T23:45:00Z
+    webUrl: "https://www.wwno.org/post/city-council-bans-police-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: WWNO
+      domain: wwno.org
+    quality: 39
+    images:
+      - url: "https://www.wwno.org/sites/wwno/files/styles/medium/public/202012/image_from_ios__17_.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "mXvz2kG6/FyzWzk/L9EKUo2en+/pvrzSysvCYM1N9ub8bz/QGIaFwERWxckmnPfdb7ZeieKjzqu/3X3hCKsvjAULobEk4cISZDtb0BMh3baXh186qhvOKx2tXk+lGjcsv40GLwB/psi+cJRQQyH8xqgf9mZmMkD+1ahxvHsf3dtWKlXeJD9ujUcrgI41J5tzpNVODws+fv0WThRQefzcTYQUz1zq0Qne3m6j7xivtVagJ6BeQf6+wkD0BMMqafqrGsxtNHi4joAhaoz7x5NzE1Vz2vfktPAeFbkBrVhekOTm7hvaESVTxPpbM+XJ2cs1hEBmicl2Axf5CojPq7SJvD01KAarTwvZvs23xrkuDjH1Y0ii6ZEo4jiJPdho1kvZr0YEc8bDscYL5Q3348YvEiw2VANkukODIXJA8FY+w0v+S+it2Lic8s4P5auTL9d4SzoaxStHmtuAS6Ye59wPszf0X9d95osc40X36je+5laMNn6Piu6Nl+kSUgVv52H0GZHG2LePqYoZOlKstQxSww==;u/rf39UEpaEm0FxVMwfEoA=="
 ---

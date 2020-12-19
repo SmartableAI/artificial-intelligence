@@ -70,7 +70,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 65
+    quality: 67
   - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority, Report Shows"
     excerpt: "SHANGHAI - Technology giant Alibaba Group Holding Ltd. has facial recognition technology that can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report. Alibaba itself said it was dismayed a unit ..."
     publishedDateTime: 2020-12-18T03:09:00Z

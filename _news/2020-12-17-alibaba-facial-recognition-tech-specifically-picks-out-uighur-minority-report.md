@@ -8,7 +8,7 @@ webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-faci
 ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"

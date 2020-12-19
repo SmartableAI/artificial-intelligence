@@ -61,7 +61,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 65
+    quality: 67
   - title: "Alibaba facial recognition tech can identify Uighurs: Report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
     publishedDateTime: 2020-12-17T17:43:00Z

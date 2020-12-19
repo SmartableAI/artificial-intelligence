@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Regulators catching up on use of analytics; compliance better take notice"
-    excerpt: "If your company isn't making optimal use of data to enhance its compliance program, now is the time to start-before it's too late."
-    publishedDateTime: 2020-12-14T19:23:00Z
-    webUrl: "https://www.complianceweek.com/risk-management/regulators-catching-up-on-use-of-analytics-compliance-better-take-notice/29831.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 23
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/2/5/12825_adobestock_223567977_330859_crop.jpeg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "Jg89p5XvtP0A4s9ncn77sTc6pnMaB6EU/ol/orPa6YmldEh9XsVS+zOIgEp2WNfrb1ZRq+cwux7hjcT8q7gpnXS4pA+wB5+iRCGPsQla0dGAKoEejWoM2VhWG13o0thzqlD1wFxxFsAdmV5zPfdVJcXkeZ1cEXhQhrjdLfTKVHI4+q20LguqEtFrcHoVtMQAXkoligfZQAKfdp9xfel3OPvfLaS2mH1LAE3DscteNjQ8vtyZfwHlExk4g9bHdQwyEz9FpWaE3Dl68MBL18vHyosj/eVQvHcqxXTgPGVp9aR43ZNfd5RFsXWm4fRb70HcKKnpnSGWBQFraRqfJcr1XNUv4+E21nO6Ko0IimOI3LA=;dlGt8hNZCZM3vedL2HFvEQ=="
 ---
