@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-this-covid-machine-learn
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Tool May Help ED Clinicians Rule Out COVID-19"
-    excerpt: "Machine learning can accurately predict the probability of COVID-19, allowing ED clinicians to reduce the number of patients referred for testing."
-    publishedDateTime: 2020-12-14T14:37:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-may-help-ed-clinicians-rule-out-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence could help clear surgical backlog created by COVID-19"
     excerpt: "University of Waterloo researcher found machine learning can optimize surgical times and minimize overtime and underutilized surgical rooms"
     publishedDateTime: 2020-12-17T19:03:00Z

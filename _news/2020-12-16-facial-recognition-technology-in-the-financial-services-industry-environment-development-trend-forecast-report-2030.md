@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Worldwide Emotion Detection and Recognition Market Size to record notable gains through 2027"
-    excerpt: "Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
-    publishedDateTime: 2020-12-14T13:46:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/136756/worldwide-emotion-detection-and-recognition/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
 
 secured: "xHCQuJfsM0aa+budyustUyQ0cw0AVg8wQH7YM83KziTGTUb3w2jjlglWLTPvyRJHUa59Ei44tUzRNPqdiIw5rkbemhPpIWC3ALBclC42HnLcBGQR1AxmGltjXqUjCM9q/En2b+PdY/w6QM712SjYn7t/5uG67vDsrcp6h0IBo16OIpi2m7GmWTndKCDIzAr+w3eewk7p+MmMhnPIMnfAzvQFTb0N2r1iiGbyB9zTSDz5iHF2a29qfWkVUx4KfGPZzqqTrFIyNGXPGkX6pOvviWMLRfthoyr93VBqaapJAMC/TrBmQ0OvnCaBQlg6tKEAZjPCvBZiDY5ZLcW6K3w7xfE+uer9a2BTdbTLKVNjkSw=;MVSvV3zkZMHS0SjPRH6FAw=="
 ---

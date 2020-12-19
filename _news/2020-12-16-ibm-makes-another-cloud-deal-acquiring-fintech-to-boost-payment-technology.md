@@ -164,15 +164,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. ('Pintec'; NASDAQ: PT), a leading independent fintech solutions provider,"
-    publishedDateTime: 2020-12-18T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
   - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
     excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
     publishedDateTime: 2020-12-18T03:33:00Z
@@ -188,6 +179,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
         width: 300
         height: 225
+        isCached: true
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
+    publishedDateTime: 2020-12-18T10:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "kYGHesV3/KbSRfsyWu1aRhWcVZ5+zOq7m16l3zDglV026hIc1E3ELKTuNMyB3T+ZAJ2miMrxMo4GaHkk/ICEyl/TyW1bQZs5HKhMgHshAPJ7CdoR6STSOJEI3Zqfb+va17+/uYTzRk69zBUHJHxWxPBMA7qG9y8rPsnOXbA0hzJTa8shmVDQPCWlKEARIYy95eLcDAjfAhPgRxkCdC6YVIXlzN/BQsCmRuhSXJha+OA4qsczrgAsdv4m8F51Ljs2NnGmHbhgMfdnI2WQG5jXjk7zi5gHMVF/pSmqg9bC5N2kGXN8EjY69ukIyYnNh2XPsXAKPHi1FE6EepEia4gfXGZ3aGKo5ufOSIUPTmUou8UCMrRNWVVoC7SAxQEzSZgsVwVPlnMYvAcKH54zpweKrUtKBsfVsm2PYfgbtN9HYM3LVhQEWKCx4xtTgg4vCVWVXf5USGwRiyz2oeJWBp77C3oRs1bFKhyx7/fpA7DiuysZFChnOyJRFwC1pVLLosK0i9IKleS8nNE702J4p0Ewtw==;GopKJwpUpHY//3jkdaKQuA=="

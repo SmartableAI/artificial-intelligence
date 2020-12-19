@@ -39,15 +39,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "LG ANNOUNCES AUTONOMOUS ROBOT WITH DISINFECTING UV LIGHT FOR VARIOUS B2B APPLICATIONS"
-    excerpt: "Newest Addition to LG’s CLOi Family of Robots Will Help Hotels, Schools, Offices, Restaurants and Retailers Deliver Peace of Mind"
-    publishedDateTime: 2020-12-14T14:40:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=16030"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 12
 
 secured: "Ux7wAmYQDzaY+ac4cW+J2QSPwUrx6C72K/ZvKUfRmzcoAkrySUPVq9ckG9EbVM3A6B8KMJib3lRQV8sf4rRz6b/HaCCDf5I1KHqG/DVPs0SpHaGlFod/qEFT+zd7kidviSGg6ETsC/hhGY0Cj9VGlFQ+9euVELh1EZy4XeYwiHqNWuUisvOn2b2R6AK0XDpHsix5UMBWgLGg+U3QzLeW0oCTXv4ptpGr0gYMjstdg8TpvEnctDZ0pIlUGLv0pRyM0LzRT8jCG8F6kSB58TgPSGpLzZIcqfZNwAqGvat+uXjFfbUY6OavmqF9o172sArGmbTI7xeNp3jS7Jk5KH1QrywR14KvcwMvkB1TZLZzqKXy+O8PwE9JydNQPdNWBEZbnBgZzmt6QQAzYelcYj0qULf/cc4fzgdBvr1WIUC/DbX8yl7BTYjfzi/AzPz11J3UTby0UO6wvlXVra9V+P4UrgduUPDaivqlIWpjJEi8n73U8WEHaTGARzX6BV7rXHClT3BrdYbcb8e6PJAy9dXQNA==;wD2ZPWtvKF5K8m8OpLOFcg=="
 ---

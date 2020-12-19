@@ -1,27 +1,32 @@
 ---
 category: news
 title: "Ping An launches artificial intelligence assisted clinical decision support system for gastroesophageal cancers"
-excerpt: "Company of China, Ltd. (hereafter \" Ping An \" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,"
-publishedDateTime: 2020-12-16T09:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-1029897097"
-webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-1029897097"
+excerpt: "PR Newswire HONG KONG and SHANGHAI, Dec. 16, 2020 HONG KONG and SHA"
+publishedDateTime: 2020-12-16T09:41:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-12-16/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-kir868wc"
+webUrl: "https://www.bloomberg.com/press-releases/2020-12-16/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-kir868wc"
 type: article
-quality: 29
-heat: 29
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "o31GYEsFxdtVDkfebYxOwvx9tHt9ursY6hDR8xA7zRyfC/adP7w5Muzs9/O2cTEus1qmg0Gg+Ud14XQdmR6Tmh6MxTkzOeSj88n8pdSW5ifJRGIpcv+Eq7sHgrjs+uM11hC5xr7oZDdIGeuRK3cHvuuDeoQQWiTbOG35VW6T8BrD6fF88r9ApH5KppNmn8l8+9TGkHKiUaAQjXJF6Jv6Zq5FQCp7pCe4GhnQcPDLLjFygf/YehL/zgz4XPf1YIr0M/OYf2fnAl5qC0tBA4QBm3bcpH/G1ZYtu3iT/0uVRGt+QQZldWX8xhlpxhcGnBYdYV7TLEkPUVGpPFjCRGH5pkWxzokAE+6ldcobvPZrmHw=;8u9/DZq3D4+8S2pant4WWw=="
+images:
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "CLuSwafGHygun/FEJjZ/wl6KoB7sMyDVE0TcjsmMI72ASUNhJz4nFdENMk9jNyAC5IxT5OW9YFEzUPPJX40Lm/6szE6weVU5eV+wN/bNnLY6kF4YRdbNnOjMK56SnQU+yhuL9Zh1MtCexwXaCX354GV9BlSj+omPOcblod9nZEseJmavbUuitpR7M5CZIrRW/l6oug9NAss19Y4AQoZThWvXgoosiKcT8aF2Lqo+sHY6st16kC/HffYKboNxj5HYxZHcJDo6SkhER21O3fAW3ZCXSpIM5TThWugB6y5JuJ9/RO9P4U3+5dDDg7nnNIkc2e0boi10g+bUjW/xwSR9jLgm5ujXFVEHBIcMpsModTQ=;bhhXPVn6tEjWwF+0y5+TWA=="
 ---
 

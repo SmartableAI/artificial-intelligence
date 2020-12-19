@@ -9,7 +9,7 @@ ampWebUrl: "https://www.adweek.com/creativity/creative-tech-platform-runway-rais
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/amp/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Truera Raises $12M in Series A Funding to Accelerate Go-to-Market of First AI Model Intelligence Platform"
+    excerpt: "Truera, which provides the industry's first Model Intelligence platform, announced today that on the heels of its successful launch out of stealth in August, it has closed $12M in Series A funding led by Wing VC with participation from returning investors Conversion Capital and Greylock and new investors Data Community Fund,"
+    publishedDateTime: 2020-12-14T17:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18775468/truera-raises-12m-in-series-a-funding-to-accelerate-go-to-market-of-first-ai-model-intelligence-pl"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18775468"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18775468"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "cOZJsNNuXGz8Lax9dbk0OhYCMmVkqhOeS2OjoOG+19A14zayZIbJBmmot1KG8OHN3uoI6wjY9SDhIXdTOf/4jw1Ku3POyJghMLKyfaMrGNkjl6FA89lSQMbe7mY2dClCANnlGuX3zkPcMoNbFoxqas4ykZG+Vg9srkg6NwfiJK06aab9sgtFXHG7W5zHKWiG+N6H2VKtuc1J6cLy6ecvweaay43JkvPeZDsTzOqInhZCo0W/LEYZiIrgrEiO45Gouv2ImLoFuQkgeXcGLidtb5NOJBhz0SVu7D9ZUqqGU9g1NVdZAqCujPUhbB1hRWr+lxnUpWWvrf7cOv1zJYJ3q+gfiUXkgs4mXBsEMtVy7wM=;dr2POHHvcMYSsS1SHHjf3g=="
 ---

@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
-  - title: "Machine Learning Tool May Help ED Clinicians Rule Out COVID-19"
-    excerpt: "Machine learning can accurately predict the probability of COVID-19, allowing ED clinicians to reduce the number of patients referred for testing."
-    publishedDateTime: 2020-12-14T14:37:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-may-help-ed-clinicians-rule-out-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "V2dXS6O1F6Vn/298RaljZTjRnHu2XV/ZHcAPyq+bEPuTgyrjjtjvXgcobrPbYWnPceWTCE/nGCyLJtYfiAzTYqQyCStZI12KQHcn3qKGHeFN6pQtcbGPpCMfaDU/+8x0wFvDaaWjAn6fflu/lrYP6grFy3pAofdUwwCY1XEegYTbFqNpiN2CqvSVTch/Req81EG8m6RSBylFFgwogKJlaaFJDS/ZDCEk72gyWQzYAQogjBYkQdVo3xe1F+EdWkYv0qSht0CexnCx6Sdnx0eiRkpwLgCORzyKfMXX4gTNXTOuxVnvkPNt5VgFAslgSjgQ0lchaucx3+av2STjJK8X90sLYr2iXp3rl2UKqYQkfSlYegkrvAAfdHePxkoDUHPs6tFVEw0rJpdCVlsy/JsSeFlgLUDe5FTThkPM7B4FGvPjgU8eZMr4wBoCdchHBC1mz4kYci/qLAFj0Hk3Zzte6P28PChNA9s85tStdK5HUGsXFDSCTlgRHMW8UOk/xwwbQLjUsN0klPUOKiz4pg+Cjg==;j3m83udVOkelZsB7ig5jdQ=="
 ---

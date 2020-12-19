@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-imp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 550
         height: 330
         isCached: true
-  - title: "New AI Chips, Managed Services Among Flood from AWS at re:Invent 2020"
-    excerpt: "| Amazon Web Services CEO Andy Jassy delivered a three-hour keynote at a virtual event on Dec. 1, the AWS re:Invent 2020 event. Jassy, who"
-    publishedDateTime: 2020-12-14T14:25:00Z
-    webUrl: "https://www.bio-itworld.com/news/2020/12/14/new-ai-chips-managed-services-among-flood-from-aws-at-re-invent-2020"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 53
 
 secured: "UdK8BZ60cMW227KVopc7QEGkVeuPD5AKVR8/ukNYD31uJgeoQYbNTxKlC85uWCrlveSkGMHointE5+RWyne9DNlVOkHJUyKR3IU4tfMhiW0M1gFSnGLlZ6lLX5gMV5TuyrjTTgchBXn2sxhs5JtDACHAwMWyKIsmJN5lvHCRuInVkRV3gUPnDhtGsM4Pw1seLkQ+k6vYf9IFjLOBir1hO7UkwR2mMgyAJR5s+nQxSPYWZUllUKj0z6tylaLY+jZbt0BRic5BL5REZKYzztZ0JC9X6oy17nmn5apqVRmDi2O+H6JtyR32YHSMrrlFgcb+lnk3ZIJZrn9tnGcqiXX4h5KNZ7MYUQNyP6V9qxFrrKJbkzU1x1d66FCP99oxIVtVhlaugVAjY+u4p+7QqGDzEjKQSvfEpGLD9nKgInt+tYQuAk1p1A66a7v7/5QXAOFd6zIh3XpZDNNn9UlXrrIRWWC9qoKXMFZDFDaFOHyg0a950CPNnkjpbMH1E4U/31rQILoBKczxk+7fdCFnDVRWYg==;6Tqk9dwTzuJ8gRt8mkeaKw=="
 ---

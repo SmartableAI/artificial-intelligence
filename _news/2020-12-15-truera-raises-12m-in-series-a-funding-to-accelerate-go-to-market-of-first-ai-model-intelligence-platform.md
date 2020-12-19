@@ -20,45 +20,22 @@ topics:
   - AI
 
 related:
-  - title: "Truera raises $12 million for its AI explainability platform"
-    excerpt: "Truera, a startup developing an AI explainability platform, has raised $12 million in venture capital financing."
-    publishedDateTime: 2020-12-14T14:02:00Z
-    webUrl: "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/"
+  - title: "Creative Tech Platform Runway Raises $8.5 Million to Make AI Tools More Accessible"
+    excerpt: "A series of research advances over the past few years have unlocked new potential for the use of AI in creative settings, from generating realistic-sounding copy to creating art from scratch. Startup Runway wants to make all of these capabilities ..."
+    publishedDateTime: 2020-12-16T22:14:00Z
+    webUrl: "https://www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/"
+    ampWebUrl: "https://www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Adweek
+      domain: adweek.com
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.adweek.com/wp-content/uploads/2020/12/Xandr_Brandshare_121620_HP-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "AI explainability specialist Truera closes $12M round"
-    excerpt: "Truera Inc., a startup working to give enterprises better insight into how their artificial intelligence models make decisions, today said that it has closed a $12 million funding round led by Wing VC."
-    publishedDateTime: 2020-12-14T21:50:00Z
-    webUrl: "https://siliconangle.com/2020/12/14/ai-explainability-specialist-truera-closes-12m-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/truera.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Neurala Launches Industry-First AI Explainability Technology for Industrial and Manufacturing Applications"
-    excerpt: "New technology improves quality control in manufacturing by identifying inconsistencies and anomalies in vision inspection datasets."
-    publishedDateTime: 2020-12-15T14:16:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/news/2020/12/15/neurala-launches-industry-first-ai-explainability-technology-for-industrial-and-manufacturing-applications/16264/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 0
 
 secured: "7yIDs47dczyxPSl8RQ9G4VnNWo5p4uDTuyKgHFt5S0OaCQHp6DLiPmKO3IvNtLXPd0wyWLVZyIOeB+XkTWuf/pUYM+leJVo9X+0R8kamIVYKhI6xx+4+2fZtNUPmFMR/f402XM2H6OQKy6YfWW2/ObKuDGU/FNthmuitGe5VTkqjihXHal8ifBJEZmLw8aXjCUO6LW6TzlXA9fW4mA+Q6u6f3bJ0hE4l0Mu+c0OqsHI4CDdYJTxog8ETe4wCEvOzIORK6hTT7OI2wrmS5w8MXTvvWx2F+Kbwqq9M+jWkuT21BnS7/Ih9yFYideq3m0q+y7tAJPBiOB8OPI52hAFOGRCF6gWJuSzvBOLqVM+Rqfc=;lFNBHq1EimwjcMDh3Bmmjg=="
 ---

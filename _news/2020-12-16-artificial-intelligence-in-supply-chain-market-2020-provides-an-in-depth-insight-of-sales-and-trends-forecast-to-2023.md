@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
 type: article
 quality: 78
-heat: 288
+heat: 278
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conversational Artificial Intelligence Market Analysis, Dynamics, Forecast and Supply Demand 2020-2024"
-    excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
-    publishedDateTime: 2020-12-14T13:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-analysis-dynamics-forecast-and-supply-demand-2020-2024-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

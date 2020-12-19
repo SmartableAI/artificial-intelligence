@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-12-10-what-are-the-advantages-of-ibm-power-systems-for-your-business.md",
-      "title": "What are the Advantages of IBM Power Systems for Your Business?",
-      "excerpt": "Incorporating these systems into your everyday operations not only offers increased levels of flexibility but also helps future-proof your company, allowing for easy integration of IoT, AI, and Watson. Security Benefits. IBM Power Systems already has an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-c3ai-on-ipo-using-nvidia-gpus-and-competitive-strengths.md",
       "title": "C3.ai on IPO, Using Nvidia GPUs and Competitive Strengths",
       "excerpt": "CEO Tom Siebel joined TheStreet to discuss the company's trading debut, its use of Nvidia GPU's and its biggest competitive strengths in comparison to rivals.",
@@ -1209,6 +1166,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-healthcare-artificial-intelligence-ai-market-to-gain-a-519-cagr-by-2023.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market To Gain A 51.9% CAGR By 2023",
+      "excerpt": "Healthcare Artificial Intelligence (AI) Market – Overview The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-to-gain-a-519-cagr-by-2023-2020-12-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-to-gain-a-519-cagr-by-2023-2020-12-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

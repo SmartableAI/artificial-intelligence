@@ -150,15 +150,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. ('Pintec'; NASDAQ: PT), a leading independent fintech solutions provider,"
-    publishedDateTime: 2020-12-18T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z
@@ -188,6 +179,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
         width: 300
         height: 225
+        isCached: true
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
+    publishedDateTime: 2020-12-18T10:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "h3zdeJUnynv1LBTmjNIiQKQcJGL8rhXwva1k9IOcpItIof70yav9paicfD4b+GPt2ukvy6zriyoJ04flt5tLOLLpCoBqyeV+qtAPWds684W7JfZJsB4fEfg94KS+nHexAmU1j0ZUekqD/xMM4/g1hxuxIOGvlp5g+IxUQ7EhHKmVNiX+2tpcJM5WyE+z9bSvMoj3V1TJ/0d0T38FQNl5arVZe2q3C5Gd/B9WZfWjn5McNi/7D5ClkaMODal1oWdiDHpVtZdk+HvtEOltTCNKQw0/B6f0F01wYs5jn33F2xqFhEmVtv+/PjRs9N/bNsbNGTbj2Tbxd2poJcwM9hl8XdFDseH+eBLYd8PYawvqR4O6A+iLFGDd2EZHF/NwMxpuPmcTHR/rOttp1NOSzjLzwDFE1XLr6zrb5eoqLKQXawrSmnIcj/Gg/4mRJ4sgCh0njNaGY3ygZl+gzOD5jKO56WQnxh4XYDHTDzXqcGA0aWiGQofcfHpInDdIP7os9RCX6TbpgzC205phpviwlt7HXg==;lmiReff+BtoHp6ZurPs0Qg=="

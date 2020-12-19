@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-
 webUrl: "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-accelerate-ai/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 319
     isCached: true
-
-related:
-  - title: "University of Stuttgart’s Hawk HPC System to Go CPU-GPU for Deep Learning Workloads"
-    excerpt: "Add the High Performance Computing Center at the University of Stuttgart (HLRS) to the list of supercomputing organizations going from CPU-only to CPU-GPU architectures. HLRS announced this morning it will add Nvidia graphic processing units to its Hawk supercomputer,"
-    publishedDateTime: 2020-12-14T14:28:00Z
-    webUrl: "https://insidehpc.com/2020/12/university-of-stuttgarts-hawk-hpc-system-to-go-cpu-gpu-for-deep-learning-workloads/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 50
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/12/Hawk-HLRS-supercomputer-1220.jpg"
-        width: 585
-        height: 345
-        isCached: true
 
 secured: "BL5g+2ecPCURl0XIzKUNjYCoJN4SHLEKLiq65NuOYrr8mjCUd6OfUdAa8oWyX96Jd0uxAVs7n+3BTMuC9C4kkccGHZpVkKbgQYZAXUd0f7wcpy5l61rKszLtM1YgDL/s01pfBYCZ7NmywCHjyU9KreTEYYDJjyqxdhLEH4o0ePOLQE+FoAgZPmO3+vFbCKRmTuIfhFexboCsqa0iBSxsbd679ziZxzAHDg63ApyO5hMDqpMq5MLGM7sDBRNl83JAkDnFZeH7pk5SiKUtey3gSMQGd53KuTXFu4Vbj+gv8Q9nKP9vurL6Dm7bwdqfBypOuSgxgB4OxjCypVE+TzmNF7w2tDN9qVGLojJVHgVMmDM=;JjAWJymelanqa7eaXdv//Q=="
 ---

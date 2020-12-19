@@ -2,57 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-19-cockroach-ai-weiweis-new-documentary-on-last-years-hong-kong-protests.md",
-      "title": "Cockroach: Ai Weiwei's new documentary on last year's Hong Kong protests",
-      "excerpt": "Chris Patten, the outgoing Governor of Hong Kong, made an emotional farewell speech as Britain handed over its prized colony to China. With the Royal Yacht Britannia purring away in the harbour as the ultimate imperial getaway vehicle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-55354531",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-55354531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/3FC6/production/_116162361_cockroachfemale-7.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-55354531",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-55354531",
-      "publishedDateTime": "2020-12-18T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-19-building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama.md",
       "title": "Building and deploying an object detection computer vision application at the edge with AWS Panorama",
       "excerpt": "Computer vision (CV) is sought after technology among companies looking to take advantage of machine learning (ML) to improve their business processes. Enterprises have access to large amounts of video assets from their existing cameras, but the data remains largely untapped without the right tools to",
@@ -1262,6 +1211,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-covid-19-analysis-to-understand-the-competitive-outlook-of-ai-based-edge-computing-chip-market.md",
+      "title": "COVID-19 Analysis to Understand the Competitive Outlook of AI based Edge Computing Chip Market",
+      "excerpt": "Researchmoz added a title on AI based Edge Computing Chip Market 2020 2026 to its collection of market research reports The study of the Global AI based Edge Computing Chip Market will include the analysis of all the comprehensive segments",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "originalUrl": "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc17255954_g.jpg",
+          "width": 687,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai",
+      "publishedDateTime": "2020-12-17T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

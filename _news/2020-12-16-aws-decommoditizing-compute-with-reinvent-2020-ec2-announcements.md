@@ -77,15 +77,6 @@ related:
         width: 550
         height: 330
         isCached: true
-  - title: "New AI Chips, Managed Services Among Flood from AWS at re:Invent 2020"
-    excerpt: "| Amazon Web Services CEO Andy Jassy delivered a three-hour keynote at a virtual event on Dec. 1, the AWS re:Invent 2020 event. Jassy, who"
-    publishedDateTime: 2020-12-14T14:25:00Z
-    webUrl: "https://www.bio-itworld.com/news/2020/12/14/new-ai-chips-managed-services-among-flood-from-aws-at-re-invent-2020"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 53
 
 secured: "63aSPOlUEEMxGwjPZuNaCUERQt64VSSsPtu5V59YF8dgu0VRAzIMour8RKNSGtIdoHVA9csVnUGrMm7TDCICvtQfhtn6EgyQG8vk+lPBkfGfZAMnB1DgBYj55suIozw8SuYKY18jpuXUD1LOOyISZYp7i2Ko3y1JKXcBuTOZClTRCzPwv9xb0FCHzJ1rjXuvk/KVCN5HL2BqseSXt/05jrWfJTRetYVOAGqWQeWuuX5xvy9jR87i/myMlq9vhXFB0o71Wq+CTmESG3iHGzATs0IFwDyBU1LDDZp/Ek/giQgwx/r4/jfHCyN7SiXM2BO9j3+XWg9TeYV6/abQmZmw5beoJwSczpjWEECM3Zd7V/Y01v/g3oEoUT2z/Ez/REK0wZNByr0T8Jg0r/cAneeWxjdhcdrAvZ+qeFDjz9sGFqpsf02k3r+bwrC+/Ll3IQ+vwnrHni10wvTzzR0t+MkTOeshs49OFzeQNpMMBAK5cvwIatWx1ndNXemHhnajCbU0iTJfBbPMmnogil/tiZqnfQ==;0+tnNEeL442jjfT0CeK87g=="
 ---

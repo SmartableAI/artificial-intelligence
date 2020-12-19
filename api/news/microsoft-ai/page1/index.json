@@ -693,6 +693,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
+      "title": "BlueScope Steel completes data and analytics overhaul",
+      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
+          "width": 570,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions.md",
       "title": "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions",
       "excerpt": "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics.",
@@ -1379,49 +1422,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-microsoft-azure-databricks-receives-fedramp-ato.md",
-      "title": "Microsoft Azure Databricks receives FedRAMP ATO",
-      "excerpt": "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO).",
-      "sourceUrl": null,
-      "webUrl": "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/",
-      "originalUrl": "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
         "images": null,
         "publishers": null,
         "authors": null
