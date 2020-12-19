@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai
 ampWebUrl: "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/"
 type: article
-quality: 104
-heat: 184
+quality: 106
+heat: 186
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/humanAI.jpg?w=1200&strip=all"
@@ -136,6 +137,6 @@ related:
       domain: finanznachrichten.de
     quality: 5
 
-secured: "Keo0lj8mu9kSgZj2SmETyzFlT2PIYKiWV3WvOddsVyfNVS8wyi39lntaER/4rRbaQK0qdMe6tzNumU2l6+d/bi/z6HRZd9FG1yUbbtbgReNSnZoGLY90Rx61WHidZqKWXFZYuxClAcf7M7a1h8JHbc4TGwEK3+Ep4ASnhWK1dXNgJEaJilZBx+8QGR+T9kiGB+kmf1sglFimOXXmIBh6EMTEGtahGqL2SCRAiutcGRsAT8tAjG3hKSP8mdqpdAuwbVkX57RuMotDgwdQLRsTsLoEFHwGcQ30h51RWtbTBxJWof5fz4qEyEY736ODfY1J2NLFoXUKhMkoecD7wvfz8U1QgWcvTZ3WNzetfVR7+Gg=;v6s0lzdyy0Z89Qv4clwGOw=="
+secured: "5VfODIsnRrLY0EvKyrqGMdH3QeOUEwwYbXNxoMtme3EJldfdtJ5m8dyWZQ1cJu5wLuSkdjK6zNaxQvNgsSMxHf5ZtbHHc32SyMA2jyBKO7BGXiwFSI0978RXC/rxfypT5mFeDYu+io7I3ySDAnaMuuLhVgvY4xOeTIsxeiiem+egFCf+8dCXT2cQRDm18LVUzJYjZoJnVN0YYDOb7RQXJ+xnlI/nevjL1HxLFcwSRzboPBMjC4ws2W/ju1adpiM0KayTNxh+KG8mQCYrg+ulB261MbepMP4PwYPryfp5GjESxvrMrQxoTPNPAyKEFo13ksBE5hMm9dkS44OBFqrZIkxUAVWugu7SHygcIWacd/G6dIMEH2csQsh63LN3OfzLpx+Sq2ub2bQZIP7apuHAJ2qUdUeHy2QA5O/2Fu2aYpY4piG6QI4yFuXrAq5UaiLVU06EBhtBJoTe49lYxvyDA48J2ixHaiBxtTTthWTp+RMexFhNwwH42I6PKYS1aTUPyEqu9PJRtXWu0AWWXPD8MQ==;kH2cvzscQLbLXAzgqh63Ww=="
 ---
 

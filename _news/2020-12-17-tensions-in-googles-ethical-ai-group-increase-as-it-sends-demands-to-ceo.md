@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/humanAI.jpg?w=1200&strip=all"
         width: 1200

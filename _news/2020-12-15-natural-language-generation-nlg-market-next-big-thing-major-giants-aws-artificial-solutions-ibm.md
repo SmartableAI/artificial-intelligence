@@ -45,6 +45,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Big Data and Business Analytics Market Next Big Thing | Major Giants AWS, IBM, TIBCO Software"
+    excerpt: "Latest released the research study on Global Big Data and Business Analytics Market, offers a detailed overview"
+    publishedDateTime: 2020-12-19T17:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-and-business-analytics-market-next-big-thing-major-giants-aws-ibm-tibco-software-2020-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NJUxiYtWKcqFYVurMqEvuJtg+hFT8Sc+Fp2alq6XAB39YKTxLWUR40EdwURthHfx8rQndl2zF0PkRGjDjdDmzu/iG75l9o7GyvGOqo+9VrTLNgT13C2rSELAaR5AMHFmuLXubTdSnK2p71+7zOHerlM2AzMUpSOlXa86AWok/ZHDpMpk4+uYIv+eFFOlcljGM6cXLUl6vsldjihmLWOHF6HUxj7DKY10/DlWaXhLBvr+MqU+vyxtrHKizaQUxyEfsTdHAW6RMMnaggIYPWzedNvtUr8uLZLlVHpaeoVv3rQmxAh6f5G9ltt1yjgzlcPjMWwsZuOC3XL3LcEaqZR2CeDYFdw7+5olWRUzFy6aDU0=;gE4pO8ZL7dFeAJnbSPpm7w=="
 ---

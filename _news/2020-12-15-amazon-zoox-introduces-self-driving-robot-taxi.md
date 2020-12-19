@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-s
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
 type: article
 quality: 61
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -130,34 +130,6 @@ related:
       - url: "https://images.hgmsites.net/hug/zoox-self-driving-shuttle_100774057_h.jpg"
         width: 1920
         height: 1277
-        isCached: true
-  - title: "Zoox Self-Driving Vehicle is Bi—-Directional"
-    excerpt: "Autonomous mobility company Zoox Inc. today revealed its fully functional, electric, autonomous vehicle that is designed for dense, urban environments. Zoox is the first in the industry to"
-    publishedDateTime: 2020-12-15T01:21:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/12/zoox-self-driving-vehicle-is-bi-directional/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
-    images:
-      - url: "https://www.autoconnectedcar.com/wp-content/uploads/2020/12/zoox-autonomous-vehicle-threequarter-view.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Zoox shows off next-generation self-driving taxis"
-    excerpt: "Amazon’s Zoox said it has manufactured dozens of a next-generation electric robot car designed for full autonomy with no steering wheel or manual controls."
-    publishedDateTime: 2020-12-15T02:21:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/60/67/20385279/5/rawImage.jpg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "Zoox CEO Says Self-Driving Robotaxi Reimagines Personal Transportation"
     excerpt: "Amazon-owned Zoox has unveiled its first self-driving robotaxi that can seat up to four passengers, has no steering wheel, can run for 16 hours on a single charge, and can travel at up to 75 miles per hour."

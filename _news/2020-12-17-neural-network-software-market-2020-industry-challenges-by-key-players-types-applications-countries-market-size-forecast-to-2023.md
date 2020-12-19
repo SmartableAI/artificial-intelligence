@@ -194,20 +194,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Making the Most of Supply Chain AI"
-    excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
-    publishedDateTime: 2020-12-18T14:36:00Z
-    webUrl: "https://www.mhlnews.com/technology-automation/article/21150574/making-the-most-of-supply-chain-ai"
-    type: article
-    provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/12/Supply_chain_analytics.5fd788eea68c4.5fda518569d69.png?auto=format&fit=max&w=1200"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Global Speech & Voice Recognition Systems Market 2020 Key Drivers and Challenges, Opportunities and Forecast Insights by 2025"
     excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Speech & Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025, provides an analysis of the scope of the current and future market."
     publishedDateTime: 2020-12-15T07:29:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2212938/artificial-intelligence-in-bfsi-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212938/artificial-intelligence-in-bfsi-market-may-see-a-big-move-major"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Big Data and Business Analytics Market Next Big Thing | Major Giants AWS, IBM, TIBCO Software"
+    excerpt: "Latest released the research study on Global Big Data and Business Analytics Market, offers a detailed overview"
+    publishedDateTime: 2020-12-19T17:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-and-business-analytics-market-next-big-thing-major-giants-aws-ibm-tibco-software-2020-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Generation (NLG) Market Next Big Thing | Major Giants AWS, Artificial Solutions, IBM"
     excerpt: "A new business intelligence report released by HTF MI with title “Global Natural Language Generation (NLG) Market Report"
     publishedDateTime: 2020-12-15T14:57:00Z

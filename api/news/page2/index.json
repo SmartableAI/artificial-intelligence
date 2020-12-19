@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-17-focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk.md",
+      "title": "Focusing on disaster response with Amazon Augmented AI and Mechanical Turk",
+      "excerpt": "It’s easy to distinguish a lake from a flood. But when you’re looking at an aerial photograph, factors like angle, altitude, cloud cover, and context can make the task more difficult. And when you need to identify 100,000 aerial images in order to give first responders the information they need to accelerate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/16/Flood.jpg",
+          "width": 803,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T12:32:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-amazon-aws-ramps-new-hardware-for-ai.md",
+      "title": "Amazon AWS Ramps New Hardware For AI",
+      "excerpt": "Amazon continues to build its AI software stack, adding over 200 new features every year for the last three years. Amazon SageMaker Studio makes AI as easy as point and click, reducing the need for in-depth AI expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbb59c68a7edc3af291b7c%2F0x0.png",
+          "width": 902,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/",
+      "publishedDateTime": "2020-12-17T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.md",
+      "title": "Intel debuts 'Clover Falls' companion chip for better laptop AI",
+      "excerpt": "Intel launches 'Clover Falls,' a companion chip that will help commercial laptops sense and adapt to their surroundings and strengthen Intel's 'Evo' PC platform message.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.html",
+      "originalUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/12/intel-platform-approach-100871412-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html",
+      "publishedDateTime": "2020-12-17T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence.md",
       "title": "It Is Time To Stop Talking About Moore’s Law When Discussing Artificial Intelligence",
       "excerpt": "That is scale-out, and is what continues to push forward the frontiers of AI. It also has nothing to do with Moore’s Law. Unfortunately, too many people have heard about the law as part of technology culture,",
@@ -1100,155 +1257,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-light-powered-brain-like-ai-chips-are-in-development.md",
-      "title": "Light-powered, brain-like AI chips are in development",
-      "excerpt": "The chip could potentially be used to power drones, robotics, smart watches, and bionic implants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
-      "originalUrl": "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/20/d1eb7060-4ea6-4d3a-a2a9-8522490a2dc7/thumbnail/770x578/4c0e95589ad879e2c227bc6c03fb5190/the-human-brain-inspires-rmit-researcher-5fb5f1f16df74d74600bc66d-1-nov-20-2020-24-22-49-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-advancing-education-and-speech-recognition-in-nigeria-with-ai-and-machine-learning.md",
-      "title": "Advancing education and speech recognition in Nigeria with AI and machine learning",
-      "excerpt": "As part of our participation in the ITU Focus Group on Machine Learning for Future Networks including 5G (FG‑ML5G), in March 2019, our WINEST",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/advancing-education-and-speech-recognition-in-nigeria-with-ai-and-machine-learning/",
-      "originalUrl": "https://www.miragenews.com/advancing-education-and-speech-recognition-in-nigeria-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itu.int/myitu/-/media/News/2020/5G/Research-projects-Nigeria-desktop.jpg",
-          "width": 1110,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-googles-blob-opera-combines-christmas-carols-with-machine-learning-heres-how-to-play-around-with-it.md",
-      "title": "Google’s Blob Opera Combines Christmas Carols With Machine Learning: Here’s How to Play Around With it",
-      "excerpt": "Need an extra dose of holiday cheer? Look no further than the Blob Opera, Google’s latest, festive machine learning experiment!",
-      "sourceUrl": null,
-      "webUrl": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en",
-      "originalUrl": "https://www.msn.com/en-us/music/news/google-s-blob-opera-combines-christmas-carols-with-machine-learning-here-s-how-to-play-around-with-it/ar-BB1bYMeZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/p23feUh1kc0fPF1lGWx8KHCjll1Zagy-CGZvGTH0gR8jdz4sCrubieqPiO0jI4oERSE",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T08:08:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
-        "domain": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

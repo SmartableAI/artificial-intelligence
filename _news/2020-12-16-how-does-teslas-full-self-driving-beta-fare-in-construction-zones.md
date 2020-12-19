@@ -75,22 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Buzz Around Apple Self-Driving Car"
-    excerpt: "Taiwan Tech News Site DigiTimes reports that Apple is working with Taiwan Semiconductor Manufacturing Company (TSMC), on self-driving chip technology. Apple and TSMC have reportedly established plans"
-    publishedDateTime: 2020-12-15T02:20:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
-        width: 1024
-        height: 538
-        isCached: true
 
 secured: "vz8DRpDKiqeiXSxDP9QQGpJZvagAjHfCSfn9q/Qkip1OyHSyD2Pioslw7f3tvzHzb1esjj4vr4CJqD85iKgU6cRtdRYKiwB+fSoR69bT9aN8fmpKlYaPdlhbYL03vlqkzwsfjlCTtrhZ48kkXiraH3vbz8VmwSbZydo8eVswpHCTcl0jmTRlhOH79zYOWC3ObC571dLx/oKOm9Z4hdrhK78uYuqrfWpaFlQPqZOSSS0xx0dfGYrjgEOooWqHn6DfrLsYiqJjAmWWb1YxzpCHZo05w9HpJXJIiINGtRYmnZiQxB7xAoT/sKrZ/DSuNMeZA6i9xbdW1z1EdXGvRo8AvZyn2tXRVYzPdbUHNRz0bId/epkGL1R6Gw7wNPhjYhzjBdAkDbh04n+ijwLfQTPByRuX/D9eXwkqetQHLT+XV/PO0zdgRhtfJE5PZiw7W1tYalL+RBRzg9PYKMeM12cwXsortzcYzYw2Cc7J/gSUpxv60II8/7PGYRfVDHeEvaV5/gm4nVyvnswhn84V2sJUcQ==;DcVAcVaFmj4AfQKQUddETg=="
 ---
