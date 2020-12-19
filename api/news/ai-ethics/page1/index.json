@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-20-how-to-create-space-for-ethics-in-ai.md",
+      "title": "How to create space for ethics in AI",
+      "excerpt": "It was not the observation of a disinterested observer but an optimistic vision for coalescing the ethical AI community around notions of power, justice, and structural change. Yet in the intervening months it has proven to be,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/",
+      "originalUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/humanAI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/",
+      "publishedDateTime": "2020-12-19T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-ai-controlled-a-us-military-aircraft-for-the-first-time.md",
       "title": "AI controlled a US military aircraft for the first time",
       "excerpt": "AI has controlled a US military aircraft for the first time, serving as a co-pilot aboard a U-2 spy plane in a milestone test for the Air Force.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -54,6 +106,59 @@
       ]
     },
     {
+      "path": "_news/2020-12-18-forecast-2021-artificial-intelligence-during-covid-and-beyond.md",
+      "title": "Forecast 2021: Artificial Intelligence during COVID and beyond",
+      "excerpt": "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "originalUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg",
+          "width": 960,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "publishedDateTime": "2020-12-17T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-google-ai-ethics-team-demands-changes-after-dismissal-of-renowned-researcher.md",
       "title": "Google AI ethics team demands changes after dismissal of renowned researcher",
       "excerpt": "It comes after executives admitted to losing the trust of employees amid the departure of renowned researcher Timnit Gebru.",
@@ -62,7 +167,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1367,110 +1472,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-top-ai-ethics-researcher-says-google-fired-her-company-denies-it.md",
-      "title": "Top AI ethics researcher says Google fired her; company denies it",
-      "excerpt": "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
-      "originalUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 384,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543399867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Z5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28D3JP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP",
-      "publishedDateTime": "2020-12-03T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-a-prominent-ai-ethics-researcher-says-google-fired-her.md",
-      "title": "A Prominent AI Ethics Researcher Says Google Fired Her",
-      "excerpt": "Timnit Gebru is a leader among those examining the societal impacts of the technology. She had also criticized the company's diversity efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
-      "originalUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 454,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fc950d9319157d9f1bd0ceb/master/pass/Business-Timnit%20Gebru-1028811892.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
-      "publishedDateTime": "2020-12-03T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

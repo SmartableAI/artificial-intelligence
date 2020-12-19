@@ -3,8 +3,8 @@ category: news
 title: "SoftBank-backed Chinese warehouse solutions startup bags $100m in series C+ round"
 excerpt: "The new funds will go toward global expansion, products and technology development, as well as talent acquisition."
 publishedDateTime: 2020-12-18T09:35:00Z
-originalUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-667537"
-webUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-667537"
+originalUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?_escaped_fragment_="
+webUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?_escaped_fragment_="
 type: article
 quality: 29
 heat: 29
@@ -33,6 +33,6 @@ related:
       domain: techinasia.com
     quality: 29
 
-secured: "+SoiAbL1Q7uDfNXydtajr9oyqopTFlOLeIRw289y1mhGaJUERnwWHWLfWSKW6BVTYtaDIEue9pEpZnHaSNT5qkN4B2xnuDnSZ6xAoHrJaOK4cPbJ2i1wOBFtumkt7cqoSv3S886aZrTQJTxMv7MJRRJGiVpINJfg+Ldrjj+AEk2fMCzKQbIi1+z+4w04Q+g7qrwGqH7TRYczXQJEc9yFXFqMfOoVFtFajavU9zW04BFZgwPnU+cN0SHG1hX2I0qtlZTdz+PhbpSQS9eVXFcOfkUbRIvLrJIP/IUEFjZm+SnlxefVOglOT0Wun3WYxYkhsyNTEqhaVoyWq0jpTeD5msHwMu3Tc5dUd4rZYBHPYrVGUHf+D0/LLOsUdNKx4SmsYFiKycaMBsLoPXQTUS+BPcxtHDMq0lart3WLMH0VLrDSsURZtXRcQ07x1vcsYOktHLzVZZmgkI7FC6uPZxeno0qAoYSc30iTBqZ0EaGfvFxWa+jZx0kBYVAqTO781RwUbAqNMWgBwqTt2OMw+zhMAw==;K3ENcsRzEcTqphmXQjd2bA=="
+secured: "muW0viuXQQv3aU+rhzx8yXCoC74B/D05KJbTEERNrAQZJC6aHGE4ThAA3BKYSaao2wskkQHHHKA2uHHU5F87D7m5hz62jTMG0iacpaTIlmjxs4ygBBCktyxLsWPzQ2kPo/Z09bplKvWgdVCUDDMxGIUMF561aiy0fazpBl1tjwS72v8RQYUxmMIjSU0AWrkuluA9mWaVzyWZClRJlBSLd0cg1E9nZlgJCjd2SxA9y0+rSr3QHhQMLb5zIYqpuUGuZRv5gfjKdkp0W92/HN2vNcMQ45vJVEfrm89oBCxfp2XgrKwJUiJmcTgDAXxozAKZcnZBFaTiRLn04lPaRi12keh+3ZT+y2HpNUHSe1G6OM71XBsY73J+PsXigpWeXU/kLUlMaQDvJnTNX1Qhls62RvQHXRnGWUdZOPji9IhlqOSw6CevTvmBIJcRODU7LxbDMJD8XRiiPCrxCt9sjlzOMhJKk2ZWqV3EtrQWkXI0bnlrajX8R3E+Xlql1raSjdVOrMKMyEmD2P1EXtDIJreWUw==;5NfrTmUjQLyEjJOI4rCEXA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-12-07-fords-autonomous-cars-are-delivering-fresh-produce-in-miami.md",
+      "title": "Ford's autonomous cars are delivering fresh produce in Miami",
+      "excerpt": "Ford and Argo AI have launched a pilot that uses self-driving cars to deliver fresh produce to Miami-area students learning at home during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "originalUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4b10add0-389c-11eb-b7d7-58c367381a24&client=amp-blogside-v2&signature=24c8c350119fc36ad9047a5f18cf73643e230d9b",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "publishedDateTime": "2020-12-07T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
       "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
       "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
@@ -1135,58 +1187,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come.md",
-      "title": "The Guardian view on DeepMind’s brain: the shape of things to come",
-      "excerpt": "This is an achievement that answers one big scientific question but raises more fundamental ones for society An image issued by DeepMind of a three-dimensional digital rendering of a protein.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d8a26ed77d257e90b7ce9d029bcc177b229e8b7d/0_122_1570_942/master/1570.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f0cd84e57ee8363af039f3d9b3db4f8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "publishedDateTime": "2020-12-06T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

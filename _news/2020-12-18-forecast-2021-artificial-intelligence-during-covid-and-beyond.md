@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence
 ampWebUrl: "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg"
@@ -78,6 +79,6 @@ related:
         height: 263
         isCached: true
 
-secured: "I/Rf33//x6QzmjBgeuta20iYt0qngNisEhyBKSiExwgfDARupizTXdsjRnHCl2zFBh7KnE0bu/u1xaoNita1vMjpjuZmeveql/g/cvLFsXaJAeGw9m3vtplVhY9UVORkxpO0nhqSjPaM1Y2qw5UFHmSZEIV7gWCO35ZmeTwcdBKMseCesoKEY2F/MmqFtB5/8+zuqS/X1u0sk0I6P8DacGgYYEVJ47cZrd4p/mYmOcqIy4xAv47oTswscE2Zz0NgmCS8sn/1BGws3LXwf+J+UTXmIY/0tXyaAiR9Dee8/rDvU29RI4nEi/+vZcMebgx2I8BqpMQA8qMNCFMcs7k9vMozzDuJcW8w407wsaEYad4=;eOeXRJilfFyJiFXA47jyZA=="
+secured: "H4IwNVOPJvneu+KFRdu2/+XjI9y5+7+KTpsmn1eSUZcf5qMRZL3xfNcDaIr6+7ejgdBHh2kEClA4CihKehvKe+5JK0ZyIyUxeTfQBaTSBioqSKVvGusDDY3G3L1WSy9V9foF7CbVggJAC8wCQTZxaAFOs8+D5/qbH9/rZ0ZIhAl9bU06z+X71ZQX65L+e28Ic40PO8ekqyP628erFu2/AvoR7zo9Uv1zF93He/ccFerOJI47CinFjBKxX8MfWevs+B6KrsYs2gJ0YuHdlL20GMgblgi9ZPph55hiQi4TghaJn3rud9eIJK6hzJT3gZMLMEdo++e3FyY6udim+OJ4goW6WgpxJnamJFLfGBeu8tRRJnCG6m9QZzMEVASBOHxfSQpT0NvzCw77vv0waWdyUxjHY9UE/jdhDnk7ptcrUETQYuki6p+0uHoKIB/JW/Vz5ecbcwrBLd+mTIks7XE71exnArp8QL6VjK/inc3LeQql3PwI44PWgTfSs5cq9QSQE0GkvN8TGJz9z9+yOEPBhA==;BsCtr8A2SY86hiDPkCRJ1Q=="
 ---
 

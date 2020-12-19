@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-24-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
-      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
-      "excerpt": "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
-      "originalUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-zalando-selects-aws-as-its-preferred-cloud-provider.md",
       "title": "Zalando Selects AWS as Its Preferred Cloud Provider",
       "excerpt": "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud.",
@@ -1428,6 +1394,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
+      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
+      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
+          "width": 900,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:58:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

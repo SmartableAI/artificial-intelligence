@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tensions in Google’s ethical AI group increase as it sends demands to CEO"
-    excerpt: "Tension between Google’s Ethical AI group and executives at the company rose on Wednesday, as employees sent a list of demands regarding the recent departure of one of the team’s leaders — a prominent Black woman in a field that’s largely White and male."
-    publishedDateTime: 2020-12-17T02:55:00Z
-    webUrl: "https://krdo.com/money/2020/12/16/tensions-in-googles-ethical-ai-group-increase-as-it-sends-demands-to-ceo/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 55
-    images:
-      - url: "https://krdo.b-cdn.net/2020/12/hypatia-h_a6115cbeed17161a3e4fa7b67d7b1fba-h_bc4659a814d1231d2d76c90c84518d96_preview.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
     excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated."
     publishedDateTime: 2020-12-17T15:31:00Z

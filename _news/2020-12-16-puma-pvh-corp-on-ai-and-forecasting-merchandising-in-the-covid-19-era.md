@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg"
         width: 960

@@ -46,22 +46,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "AI co-pilots US Air Force spy plane for the first time"
-    excerpt: "An AI modified from a gaming algorithm controlled a military system on a U-2 Dragon Lady, marking another milestone moment for Air Force autonomy."
-    publishedDateTime: 2020-12-17T17:59:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-17T150501.855-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "In a first, Air Force uses artificial intelligence aboard military jet"
     excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
     publishedDateTime: 2020-12-16T13:38:00Z

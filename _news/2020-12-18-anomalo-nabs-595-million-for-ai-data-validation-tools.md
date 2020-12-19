@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y3ufi9h81skubinzlyda.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Digital.ai Drives Innovation in AI-Powered Value Stream Management with Four New Patents"
-    excerpt: "Digital.ai, the creator of the industry’s first intelligent Value Stream Platform, today announced that it has been granted four U.S. patents for advances in AI-powered analytics. The patents represent industry-leading innovations in applying artificial intelligence (AI),"
-    publishedDateTime: 2020-12-17T10:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-21a975372aac423c8da91c5f2f16a7b7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "P/LmP74jOyZzwrQXQgKbQt1x356Qm6Bg+nWaGLDPghA8FBaD/BwUX9FmTyaYQ1NJSRESxZNigL/mWnpzq4QVqCvhaFBm7fwHy7RbVY++rtwrJneMYiKeM6eMojJO55Wih/9FJ2q4d1n+A1LhXXH+D0XHQeEW2UiHdP1/ZkClIeqQzmqv1Gi0xIJ7F0/YHvSKQRc0O7pZTeOxZK8Xjsbbtuz1Rw68G1Ps1nb1DssFotRFEybpBGw7WkJypHvJ8uwLP1AcVZmMMfLQ1QzrNc+BtF1sfO9h+k2G7lZbx4w6/9wMz+5Pb4HlNiPqVhugRQ9cOw52sY+JL5aKb/V8lpzhiC7G/ukAb3Fy8/mi5NqjWUeLk1JDkYrclrLhv7A29hJgLEx/Ppxv68WxQ0ETpQPpL7XMtzP193CwDUY2AYdQf4trmECEQcsuwYVUxH3lae+PWnErzZTvheNOJROfBA9LikOViL/OW59or/vOb0/NzztyikbHNdlCdc6fHAqU+iGdEmp9ksWIGxtfqmd8RLXJaA==;8gCY6z0hm28kaHwPzFkIFw=="

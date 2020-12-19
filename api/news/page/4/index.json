@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
+      "title": "Accurate neural network computer vision without the 'black box'",
+      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-aws-decommoditizing-compute-with-reinvent-2020-announcements.md",
       "title": "AWS Decommoditizing Compute With Re:Invent 2020 Announcements",
       "excerpt": "The AWS re:Invent event marks the last and largest conference ... For the reader that hasn't followed the Artificial Intelligence (AI) market as closely, Habana Labs is an Intel company that designs and delivers AI processors for training and inference.",
@@ -1056,58 +1100,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-rackspace-technology-and-humenai-collaborate-to-streamline-artificial-intelligence-powered-dance-app.md",
-      "title": "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App",
-      "excerpt": "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users visualize themselves conducting complex dance moves. Rackspace Technology's team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced infrastructure cost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rackspace-technology-and-humenai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-2020-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/rackspace-technology-and-humenai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-2020-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
