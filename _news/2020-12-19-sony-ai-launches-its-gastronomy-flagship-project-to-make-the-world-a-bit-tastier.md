@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking"
-    excerpt: "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research."
-    publishedDateTime: 2020-12-15T05:04:00Z
-    webUrl: "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/"
-    ampWebUrl: "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/DSC_4870.0.0-e1608001481901.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Sony AI launches new project dedicated to gastronomy research"
     excerpt: "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,"
     publishedDateTime: 2020-12-16T01:43:00Z
@@ -61,20 +45,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg"
         width: 1000
         height: 750
-        isCached: true
-  - title: "H2O.ai Launches H2O Wave"
-    excerpt: "H2O Wave is H2O’s latest open source offering, making it even faster and easier for data scientists, machine learning engineers, and software developers to develop real-time int"
-    publishedDateTime: 2020-12-16T10:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-open-source-software-software-development-computing-and-information-technology-f380c33f067542bbba03346b0656c3ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "X3uJZYnTs6nEZBkpZ859RFb+yQy4dXK2Iamh08keznwMZH2Z4tJas6+apksaNixSg1CulYx54RqLl+uL0C/PF5Z1xxEvtkvGrKXDprfXfX3TH5RSrJ68zYn65afhsdx/ezjECWHQ2QpwO97keaJ5W/70RYajubporu06yulOymQc/e74vnl9vElR8CwRRwEkSsQTP4wgV+kWbQRXscpCH3F0AKVzqbnZfHGCcnarbStnazcPCmX1JR8Yp4wRR+sbQZwp+TRx1lMfYNmAvjw3icy0WF7gc4W5DhQgAnyvgnCj7v7rceavS98ZVH0xod+2gAXgHxP+7s7lzikCpOaIWURkxsvsnssQdxHNYMSQYvMRUgqtfo/MgtsCiz/YIJ1t0KC1A4GHslQni1uncgNJYBxoihEafMU2gKAU015w3shFDoPHBlgXvNL8W/3uUgeqni8agkbEts18NJtCGWKy/DvYoGO0dwyCT1uFbCUh+pGgsYb/CfJ8Sxar0WtAwR8ABFpkc1X8ZzyYXS1D2g3o8w==;8jAPmQnrm4iiwgfefx0yxw=="

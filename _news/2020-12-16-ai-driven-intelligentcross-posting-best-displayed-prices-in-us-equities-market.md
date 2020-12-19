@@ -24,6 +24,20 @@ topics:
 related:
   - title: "IVS Inc. (Intelligent Video & Sound) Introduces Artificial Intelligence CCTV Solution"
     excerpt: "IVS Inc., a leader in smart CCTV solutions, announces specialized video and sound analysis technology based on artificial intelligence and deep learning, which can detect and identify abnormal sounds,"
+    publishedDateTime: 2020-12-19T21:45:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/ivs-inc-intelligent-video-sound-introduces-artificial-intelligence-cctv-solution/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 32
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "IVS Inc. (Intelligent Video & Sound) Introduces Artificial Intelligence CCTV Solution"
+    excerpt: "IVS Inc., a leader in smart CCTV solutions, announces specialized video and sound analysis technology based on artificial intelligence and deep learning, which can detect and identify abnormal sounds,"
     publishedDateTime: 2020-12-19T10:03:00Z
     webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-south-korea-3dc29b09167c44f2b59c343a3947e683"
     type: article

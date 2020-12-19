@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-science-
 webUrl: "https://apnews.com/press-release/business-wire/technology-science-open-source-software-software-development-computing-and-information-technology-f380c33f067542bbba03346b0656c3ea"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,56 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking"
-    excerpt: "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research."
-    publishedDateTime: 2020-12-15T05:04:00Z
-    webUrl: "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/"
-    ampWebUrl: "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/DSC_4870.0.0-e1608001481901.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Sony AI launches new project dedicated to gastronomy research"
-    excerpt: "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,"
-    publishedDateTime: 2020-12-16T01:43:00Z
-    webUrl: "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "Sony AI launches its Gastronomy Flagship Project to make the world a bit tastier"
-    excerpt: "Sony AI recently announced its Gastronomy Flagship Project, an AI-powered initiative built on “enhancing the creativity and techniques of chefs around the world.” This might sound like a small-potatoes problem compared to self-driving cars,"
-    publishedDateTime: 2020-12-18T20:10:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/sonygastro-796x398.jpg"
-        width: 796
-        height: 398
-        isCached: true
 
 secured: "NUDnZQxEQNCd/Bu21Bxvorpwp+PCdr15Jga93GFpKhZUZqZRVB76VqA3oJw2LmQjAxrZFWbBGO01R8L1JoPhMdFxU38MAkYJfBTmL+0gHJAinLk5kEAbEF9TYldppPFRGuEqMs2YX1r/W2fWBrxQY2xy6oiyd16CtfNOKQhHS2zivTNoXmI83EACQ6Dl8e3KuAQdkffyy0wWZft6+BPuX9v1pxRI5HJhp5rmI5CyeH20/J/kqV+AQ4LLj+m7G/XKF5AYl8dehp2N0xa+kbufw7BVnMvncZyZ2e/AlY+qgjd2x/bKpnBpYnnSixYPaDPw8gGtrrAodyHxw0zMbIdk0XpgVr1uvHulG7W1jzijP88=;cVE7/mZwIlzH23DiRw+9mg=="
 ---
