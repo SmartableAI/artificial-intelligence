@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
-    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
-    publishedDateTime: 2020-12-14T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile AI Market 2020 Detailed Analysis of Current Industry Figures with Forecasts Growth By 2023"
     excerpt: "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security."
     publishedDateTime: 2020-12-16T07:03:00Z

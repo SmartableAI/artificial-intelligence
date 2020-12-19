@@ -87,6 +87,20 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "81 startups that will boom in 2021, according to the startup experts: venture capitalists"
+    excerpt: "Investors at the best venture capital firms name the startups poised for a big 2021 inside and outside of their portfolios and across industries."
+    publishedDateTime: 2020-12-18T21:13:00Z
+    webUrl: "https://www.businessinsider.com/vcs-name-the-startups-that-will-boom-in-2021-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/5fdcea1bc910a400192e85bd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
     excerpt: "New York, Dec 16 (IANS) Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a move that is aimed at strengthening IBMs portfolio as an end-to-end digital payments solution provider and further advancing IBMs hybrid cloud and AI strategy."
     publishedDateTime: 2020-12-16T12:06:00Z

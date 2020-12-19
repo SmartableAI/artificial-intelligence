@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-xai-startup-darwinai-announces-a-round-led-by-honeywell-ventures-with-deep-collaboration.md",
+      "title": "XAI startup DarwinAI announces a round led by Honeywell Ventures with deep collaboration",
+      "excerpt": "DarwinAI, the explainable AI company located in Waterloo, Canada, today announced an investment round led by Honeywell Ventures with participation from",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/xai-startup-darwinai-announces-a-round-led-by-honeywell-ventures-with-deep-collaboration-2020-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/xai-startup-darwinai-announces-a-round-led-by-honeywell-ventures-with-deep-collaboration-2020-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-ai-helps-protect-australian-wildlife-in-fire-affected-areas.md",
       "title": "AI helps protect Australian wildlife in fire-affected areas",
       "excerpt": "Over the next six months, more than 600 sensor cameras will be deployed in bushfire-affected areas across Australia, monitoring and evaluating the surviving wildlife populations. This nationwide effort is part of An Eye on Recovery, a large-scale collaborative camera sensor project, run by the World",
@@ -617,49 +668,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-comviva-and-ooredoo-kuwait-develop-machine-learning-based-cvm-campaigns.md",
-      "title": "Comviva and Ooredoo Kuwait develop machine learning-based CVM campaigns",
-      "excerpt": "Mobility solutions provider, Comviva, has formed a strategic partnership with Ooredoo Kuwait to develop machine learning-based Customer Value Management (CVM) campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.capacitymedia.com/articles/3827240/comviva-and-ooredoo-kuwait-develop-machine-learning-based-cvm-campaigns",
-      "originalUrl": "https://www.capacitymedia.com/articles/3827240/comviva-and-ooredoo-kuwait-develop-machine-learning-based-cvm-campaigns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.capacitymedia.com/Image/ServeImage?id=50813&w=780&h=442&cr=true",
-          "width": 780,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capacity Media",
-        "domain": "capacitymedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

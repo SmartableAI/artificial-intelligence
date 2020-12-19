@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
 type: article
 quality: 78
-heat: 318
+heat: 308
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
-    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
-    publishedDateTime: 2020-12-14T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -103,22 +103,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Amazon Zoox Unveils Self-Driving Robotaxi"
-    excerpt: "Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other. The car can travel up to 75 miles per hour and can run up to 16 hours on a single charge."
-    publishedDateTime: 2020-12-14T07:53:00Z
-    webUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 44
-    images:
-      - url: "https://media.nbclosangeles.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon's Self-Driving Company Zoox Unveils Autonomous Robotaxi"
     excerpt: "Amazon’s self-driving company Zoox unveiled its autonomous robotaxi on Monday. Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other."
     publishedDateTime: 2020-12-14T14:45:00Z

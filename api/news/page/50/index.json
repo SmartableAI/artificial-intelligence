@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-11-12-samsungs-new-midrange-chip-supports-5g-and-200mp-cameras.md",
+      "title": "Samsung’s new midrange chip supports 5G and 200MP cameras",
+      "excerpt": "But the Big A is hardly the only tech giant boasting new chips: Samsung has lifted the lid on its new midrange mobile chip, the Exynos 1080. The chipset, which combines 5G capabilities with enhanced AI features,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
+      "originalUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/samsung-exynos-1080-5g-796x395.png",
+          "width": 796,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
+      "publishedDateTime": "2020-11-12T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-doit-international-named-aws-reseller-partner-of-the-year.md",
       "title": "DoiT International Named AWS Reseller Partner of the Year",
       "excerpt": "DoiT, an AWS Advanced Consulting Partner ... and machine intelligence. The Platform uses artificial intelligence to achieve sustainable cost reduction, using an automated approach embraced ...",
@@ -1160,41 +1212,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/it/1033083",
-      "originalUrl": "https://www.thaipr.net/it/1033083",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

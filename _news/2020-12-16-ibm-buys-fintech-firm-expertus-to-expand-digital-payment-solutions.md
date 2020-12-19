@@ -85,6 +85,20 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "81 startups that will boom in 2021, according to the startup experts: venture capitalists"
+    excerpt: "Investors at the best venture capital firms name the startups poised for a big 2021 inside and outside of their portfolios and across industries."
+    publishedDateTime: 2020-12-18T21:13:00Z
+    webUrl: "https://www.businessinsider.com/vcs-name-the-startups-that-will-boom-in-2021-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/5fdcea1bc910a400192e85bd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
     excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
     publishedDateTime: 2020-12-17T03:31:00Z

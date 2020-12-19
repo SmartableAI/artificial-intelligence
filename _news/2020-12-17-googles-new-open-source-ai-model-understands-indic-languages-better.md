@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:
