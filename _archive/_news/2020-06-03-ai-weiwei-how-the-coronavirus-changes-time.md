@@ -7,6 +7,7 @@ webUrl: "https://www.theatlantic.com/magazine/archive/2020/07/ai-weiwei-time-spa
 type: article
 quality: 67
 heat: 67
+removed: true
 published: false
 
 provider:

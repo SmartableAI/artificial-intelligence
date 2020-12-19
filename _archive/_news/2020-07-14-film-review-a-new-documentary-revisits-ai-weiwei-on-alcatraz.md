@@ -7,6 +7,7 @@ webUrl: "https://www.laweekly.com/film-review-a-new-documentary-revisits-ai-weiw
 type: article
 quality: 37
 heat: 37
+removed: true
 published: false
 
 provider:

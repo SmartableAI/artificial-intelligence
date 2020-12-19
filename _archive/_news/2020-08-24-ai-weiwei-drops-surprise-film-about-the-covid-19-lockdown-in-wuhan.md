@@ -7,6 +7,7 @@ webUrl: "https://hyperallergic.com/584184/ai-weiwei-covid-19-wuhan-documentary/"
 type: article
 quality: 37
 heat: -1
+removed: true
 published: false
 
 provider:
