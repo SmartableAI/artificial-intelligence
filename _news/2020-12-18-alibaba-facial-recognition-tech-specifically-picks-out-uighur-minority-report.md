@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0IR"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -208,6 +208,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/17/the-uighur-issue-looms-as-a-worrying-threat.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Alibaba Seeks to Distance Itself from Uighur Facial-Recognition Software"
+    excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
+    publishedDateTime: 2020-12-19T06:02:00Z
+    webUrl: "https://english.aawsat.com/home/article/2691311/alibaba-seeks-distance-itself-uighur-facial-recognition-software"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 23
+    images:
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/12/19/alibaba.jpg?itok=pw3y_NMh"
+        width: 480
+        height: 320
         isCached: true
   - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
     excerpt: "Users simply send photographs of people taken on their phones or pulled from surveillance videos to Alibaba's facial recognition service, then receive an alert if the subject is identified as a minority Uyghur from the western province of Xinjiang."

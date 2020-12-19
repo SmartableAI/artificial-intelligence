@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Amazon's Zoox reveals self-driving taxi"
-    excerpt: "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats."
-    publishedDateTime: 2020-12-14T14:56:00Z
-    webUrl: "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi"
-    ampWebUrl: "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/zoox-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Amazon-owned self-driving car startup Zoox shows off its pod vehicle"
     excerpt: "Another day, another startup promising to transform mobility with a new pod car. Today, it's Zoox, the Amazon-owned self-driving startup. On Monday, the company revealed the latest fruits of its labors with this little dude,"
     publishedDateTime: 2020-12-14T16:30:00Z
@@ -110,22 +94,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Amazon's Self-Driving Company Zoox Unveils Autonomous Robotaxi"
-    excerpt: "Amazon’s self-driving company Zoox unveiled its autonomous robotaxi on Monday. Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other."
-    publishedDateTime: 2020-12-14T14:45:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2778870/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2778870/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2778870/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 44
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon’s Zoox debuts self-driving robotaxi"
     excerpt: "Amazon’s self-driving vehicle company, Zoox, has unveiled an autonomous robotaxi specifically designed to navigate dense urban areas. The vehicle has n"
     publishedDateTime: 2020-12-14T16:44:00Z

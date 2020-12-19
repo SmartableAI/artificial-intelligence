@@ -1,27 +1,27 @@
 ---
 category: news
-title: "China's Alibaba 'Dismayed' By Uighur Facial-recognition Software"
+title: "Alibaba Seeks to Distance Itself from Uighur Facial-Recognition Software"
 excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
-publishedDateTime: 2020-12-18T04:13:00Z
-originalUrl: "https://www.ibtimes.com/chinas-alibaba-dismayed-uighur-facial-recognition-software-3104958"
-webUrl: "https://www.ibtimes.com/chinas-alibaba-dismayed-uighur-facial-recognition-software-3104958"
+publishedDateTime: 2020-12-19T06:02:00Z
+originalUrl: "https://english.aawsat.com/home/article/2691311/alibaba-seeks-distance-itself-uighur-facial-recognition-software"
+webUrl: "https://english.aawsat.com/home/article/2691311/alibaba-seeks-distance-itself-uighur-facial-recognition-software"
 type: article
-quality: 24
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: الشرق الأوسط
+  domain: aawsat.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/17/the-uighur-issue-looms-as-a-worrying-threat.jpg"
-    width: 1024
-    height: 682
+  - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/12/19/alibaba.jpg?itok=pw3y_NMh"
+    width: 480
+    height: 320
     isCached: true
 
 related:
@@ -204,19 +204,19 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Alibaba Seeks to Distance Itself from Uighur Facial-Recognition Software"
+  - title: "China's Alibaba 'Dismayed' By Uighur Facial-recognition Software"
     excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
-    publishedDateTime: 2020-12-19T06:02:00Z
-    webUrl: "https://english.aawsat.com/home/article/2691311/alibaba-seeks-distance-itself-uighur-facial-recognition-software"
+    publishedDateTime: 2020-12-18T04:13:00Z
+    webUrl: "https://www.ibtimes.com/chinas-alibaba-dismayed-uighur-facial-recognition-software-3104958"
     type: article
     provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 23
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
     images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/12/19/alibaba.jpg?itok=pw3y_NMh"
-        width: 480
-        height: 320
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/17/the-uighur-issue-looms-as-a-worrying-threat.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
     excerpt: "Users simply send photographs of people taken on their phones or pulled from surveillance videos to Alibaba's facial recognition service, then receive an alert if the subject is identified as a minority Uyghur from the western province of Xinjiang."
@@ -228,6 +228,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "FGXOs0+uBfd5/4SJTqOIb0BQ4j/3ArnsP9VMJupMb1DKF4qDdBQm8DZ5ikQ/FbNc3RU8onMyr7bPRkRorGeCC/ln4lKEL/xLa0RyCQB/AscxEo7h3Oj43h1B5zmZWK6gEGXqLndFDNvfErcAUXSfn5ACiEwur0XJ3/zHGD+1MtuTxw+TlgIRYyZwVs3guvhHV170ja+NE2LR0eHCc3Wf9QTVE/qcF+dZDku5haxroCSDNk3p/ZpBGT+g9egpr5Qc7D5McbNmL72nzHIojAlapS3ZDNBK616DazM9OOVp1lXwoG6GzOBPMc3FwiudeShRWO6svBWnWw8ecej8di9/qaXpjPjcYCsSW92N4EfiJLC39HQ41HK89NF4yEZL83l+KKc3uQm5tfdiY/bociBwhFaeP1DswH3GUseTkl5hVpJxR2Ov5044lQGE59tqWgVMI0MRA6ixgyBzrojHHiEfzWNdK9zMh0TFj2OnEgwvaNut++nl1NMyKZrwBwUKPrK+JxDH/MGlTe+FqKetqtAiLw==;DXM4JfyUB1WoQkoh4RRWlg=="
+secured: "JqJWEdo02yl79t8Eo6UCiLDy7Qde3wp1LnQWvIyVDCU26Fq4tAQUS9s7z0ZiAABQ7CLaESqxzCpS3ZpKZb8IUyaw7zrWsZkM4T4USJsfOe7zYk1nDB432o7pyjxjqwHwneZgRAhbRMFF2mTRTrYLX+ewY5z/LJ/8vyfiw2viz72QXAkO0LVnoyj6+FCItVzZ4W6CUhmHAgU0BWh6dL6xg2Bq0qAh7UdosK36JSbicD4uSnLQq5CkNzrhiHr4HfPyPQTJULdqpvMsgN1zbofk6HXDilp+uYPqW/JvzVYGRO5arBi1flOiHBlvyGAQ+fgKr3PmwTWsGpptXzWSVOJapJBz6joh6Ni9MGYL0u9Izo0=;KyLgkjU1QM4XBBpxajzvMQ=="
 ---
 
