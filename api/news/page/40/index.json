@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-11-18-introducing-google-news-initiative-conversations.md",
+      "title": "Introducing Google News Initiative Conversations",
+      "excerpt": "This year, the way many of us work has changed dramatically. We’ve gone from lunch meetings and large networking conferences to meeting virtually from our makeshift home offices. The COVID-19 pandemic has certainly upended a lot of this, but that doesn’t mean sharing ideas is on hold, too. That’s especially",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GNI-Conversations-Header-2.max-800x800.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
+      "publishedDateTime": "2020-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-rachel-malarich-is-planting-a-better-future-tree-by-tree.md",
       "title": "Rachel Malarich is planting a better future, tree by tree",
       "excerpt": "Everyone has a tree story, Rachel Malarich says—and one of hers takes place on the limbs of a eucalyptus tree. Rachel and her cousins spent summers in central California climbing the 100-foot tall trees and hanging out between the waxy blue leaves—an experience she remembers as awe-inspiring. Now, as",
@@ -1136,41 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations.md",
-      "title": "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations",
-      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions, announced today that it has been awarded a multi-year",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling/article_94422afd-d96a-5121-a4f0-fbb54af42ad9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling/article_94422afd-d96a-5121-a4f0-fbb54af42ad9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

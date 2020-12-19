@@ -26,21 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Modulate’s ToxMod uses AI to scan game voice chat for toxic speech"
-    excerpt: "Modulate has launched today ToxMod, a new service that uses AI to scan voice chat in video games for toxic speech or other bad behavior."
-    publishedDateTime: 2020-12-14T17:34:00Z
-    webUrl: "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/"
-    ampWebUrl: "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/"
+  - title: "Deepdub uses AI to localize voice dubbing for foreign language films"
+    excerpt: "Deepdub is launching a platform that uses AI to dub voices into videos so entertainment companies can localize content."
+    publishedDateTime: 2020-12-16T12:32:00Z
+    webUrl: "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/"
+    ampWebUrl: "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/toxmod.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-4.jpg?w=1200&strip=all"
         width: 1200
-        height: 681
+        height: 675
+        isCached: true
+  - title: "AI Synthesizes Content For Entertainment Into Multiple Languages -- Advertising, Live Sports To Come"
+    excerpt: "Deepdub will announce the launch Wednesday of a platform aimed at revolutionizing global entertainment. The ability to synthesize the voice and match the facial gestures required to pronounce words through AI will become one of the most important tools for the entertainment and ad industries in 2021."
+    publishedDateTime: 2020-12-16T05:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/358646/ai-used-to-synthesize-content-for-entertainment-in.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/12/14/ozkrakowski-zoom-600_sWso1NE.jpg"
+        width: 600
+        height: 375
+        isCached: true
+  - title: "deepdub Launches AI Platform to Revolutionize Global Entertainment Experiences at the Click of a Button"
+    excerpt: "Ofir Krakowski, Co-Founder and CEO of deepdub, states, \"We set forth to explore how AI and deep learning technologies could be used to create a more rich and compelling experience for audiences worldwide. During this process we discovered that the ..."
+    publishedDateTime: 2020-12-16T13:36:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/deepdub-launches-ai-platform-to-revolutionize-global-entertainment-experiences-at-the-click-of-a-button-301194084.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1386466/deepdub_team.jpg?p=facebook"
+        width: 1403
+        height: 735
         isCached: true
 
 secured: "XTzgYO4X1s5+vJwTPVjnfSd0z+UMrAFnq3oa2wvDIx8Xlj/x7/vTmjvUCozvSIJayKUs1OcgDJfPIGr9peGcgUFBqloRm7Zr0wSEEfE4jt5wxykQJr313fvWUK8PLVmrQwNstYWwJWS9M5+NnW3pqwHshRbGIu3eymCxDNKdOXHuScnDyCZXQKefxa+tkgI1h0l2zHh+UZ7t9rcoCdPIgi6z+t5gARs1Bl/9LtSpkH/cm5PFF2QEGsUdQbtAr3vTlbAk5KU+2uGO/LmuG4nuu1nu1s74H3EOTCefmpb9BNeVHEAW71Em3UGyRkOl08+7CWJYaR4EoyUVWCZbJTZbAVSsb4+UHaNEKO15JucNaWk=;kmFtTz3OnTyT+b+hnrB7Ow=="

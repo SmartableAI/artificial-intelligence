@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-04-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
+      "title": "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
+      "excerpt": "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
+      "originalUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
+          "width": 960,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
+      "publishedDateTime": "2020-12-03T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-ready-to-enter-a-new-era-of-ai-ready-smartphones.md",
       "title": "Ready to enter a new era of AI-ready smartphones?",
       "excerpt": "The Qualcomm Snapdragon 888 chip will let handsets take high-resolution photos faster and perform AI-related tasks more efficiently",
@@ -1406,58 +1450,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live.md",
-      "title": "Rethinking your tech stack to stay relevant in an AI-powered world (VB Live)",
-      "excerpt": "To stay on top of cutting-edge AI innovation, it’s time to upgrade ... Putting many of those together on a chip just increases that inefficiency. And then putting many of those inefficient ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/globe.world_.GettyImages-1183741336.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
-      "publishedDateTime": "2020-11-20T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

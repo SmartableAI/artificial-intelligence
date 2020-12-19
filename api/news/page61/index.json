@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
+      "title": "Brainome launches product to optimize machine learning development process",
+      "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "originalUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "publishedDateTime": "2020-11-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
       "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
       "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational",
@@ -1142,49 +1185,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-google-wins-new-patent-that-would-sport-automatic-object-recognition-in-videos.md",
-      "title": "Google wins new patent that would sport automatic object recognition in videos",
-      "excerpt": "Google have previously taken out a patent that would see the Mountain View-based company capable of identifying faces in YouTube videos, but now they've gone a step further by securing a patent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/2/5/25565_02_google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos.jpg",
-          "width": 600,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
-      "publishedDateTime": "2020-11-03T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

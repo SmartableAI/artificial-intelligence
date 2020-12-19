@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tra
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture"
-    excerpt: "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at"
-    publishedDateTime: 2020-12-14T18:53:00Z
-    webUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/"
-    ampWebUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
+  - title: "A self-driving co-founder reveals the key demand he gave to Jeff Bezos before selling his startup to Amazon for $1.2 billion"
+    excerpt: "Zoox wanted to make sure Amazon wouldn't force it to become an extension of the retail giant's delivery operation."
+    publishedDateTime: 2020-12-18T00:21:00Z
+    webUrl: "https://www.businessinsider.com/zoox-amazon-jeff-bezos-jesse-levinson-2020-12"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Self-driving tech makes new moves"
-    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
-    publishedDateTime: 2020-12-19T04:30:00Z
-    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
-        width: 400
-        height: 266
+      - url: "https://i.insider.com/5fd7e3e12069f400194c7b6b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "T5YrGuUVbz7MMWMlC+pilXv3n1cuds1fjx66GRWekjKBa96RLDjX0ojCGKICv2f95h8UGzhsAk+Z7PAGN/lKJqDK0trkuygymbUuRNfzMjDIbvK/KUV+ZGBDB+KAx/tLka0yTzx8rJaYsJQuuAO9NycM976rUTM0nKpwZaQNR6jgj+haqezrI2bMfGWxXlNEB9d+b5e+nkTEp/DO2YUHUQUapZjkhzr8O4HqYFEEOzVH270du7/JloZW5FKHtwV+Anq7YyZRCpCg+UBFM+6qqvNl/In/ZxN+v2mLETmsMKqw82mjx2dKyPKr2qngDr3K5z/kg3DOSm6FmkkhgMGCCcpYkiOgLgas8WBugrMR4jOzWw7LxEwaaSheYYKSbjPdKxtiePlOleYMG6zyW0DoJUfvV4+bCeS24Eoh+2iY7Z8qr8aiwS9fh6EBL0nXz1acurRYFyGtlrwS4Ze35eQgWDbhoy3fIX9Zv2yp82IOfCBMq1AICihHmhZ/p/8lQh3PQ92OFDJCCpLN/So/7PVHIw==;4eIGv8cncu7NmxyD3c60jQ=="

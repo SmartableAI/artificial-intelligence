@@ -26,7 +26,7 @@ related:
   - title: "SoftBank-backed Chinese warehouse solutions startup bags $100m in series C+ round"
     excerpt: "The new funds will go toward global expansion, products and technology development, as well as talent acquisition."
     publishedDateTime: 2020-12-18T09:35:00Z
-    webUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-666811"
+    webUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-667537"
     type: article
     provider:
       name: Techinasia

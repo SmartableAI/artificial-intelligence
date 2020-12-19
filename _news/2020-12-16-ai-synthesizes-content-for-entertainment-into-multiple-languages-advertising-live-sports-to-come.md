@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ToxMod uses AI to bleep out abusive language in live voice chat"
+    excerpt: "Using machine learning AI, two MIT graduates have developed a toolset that could stop toxic online behaviour before it starts"
+    publishedDateTime: 2020-12-16T21:22:00Z
+    webUrl: "https://www.pcgamesn.com/toxmod-launch-date"
+    ampWebUrl: "https://www.pcgamesn.com/toxmod-launch-date?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/toxmod-launch-date?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 57
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/gta-online-cayo-perico-heist-weapons-900x506.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "deepdub Launches AI Platform to Revolutionize Global Entertainment Experiences at the Click of a Button"
     excerpt: "Ofir Krakowski, Co-Founder and CEO of deepdub, states, \"We set forth to explore how AI and deep learning technologies could be used to create a more rich and compelling experience for audiences worldwide. During this process we discovered that the ..."
     publishedDateTime: 2020-12-16T13:36:00Z

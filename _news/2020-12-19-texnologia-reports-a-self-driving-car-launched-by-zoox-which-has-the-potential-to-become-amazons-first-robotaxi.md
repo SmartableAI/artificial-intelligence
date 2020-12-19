@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Self-driving tech makes new moves"
-excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
-publishedDateTime: 2020-12-19T04:30:00Z
-originalUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
-webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
+title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
+excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
+publishedDateTime: 2020-12-19T10:06:00Z
+originalUrl: "https://apnews.com/press-release/kisspr/technology-business-corporate-news-driverless-cars-products-and-services-c9abc89743d025392e40e7f409d4c5b7"
+webUrl: "https://apnews.com/press-release/kisspr/technology-business-corporate-news-driverless-cars-products-and-services-c9abc89743d025392e40e7f409d4c5b7"
 type: article
-quality: 24
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
-    width: 400
-    height: 266
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -220,6 +216,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving tech makes new moves"
+    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
+    publishedDateTime: 2020-12-19T04:30:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
     excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
     publishedDateTime: 2020-12-15T23:27:00Z
@@ -238,21 +248,7 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
-    excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
-    publishedDateTime: 2020-12-19T10:06:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-business-corporate-news-driverless-cars-products-and-services-c9abc89743d025392e40e7f409d4c5b7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "ZZ1dlX7/zcCJS+sWxVDvNV7zeczrMKAcJhHDfsj67nDJ8MFAkDJb/2bif7WDGPny4aS+uSq9FI8QBeBvrqRBBuhg/nMDw0F6nszdt3dFJT3asaFPklwOzK9PAyc/ZnrQxZAar/V808GShMJrMwIecXc80I0BvUb4Ik+qp8dMCUr8hpheV0RHXI/A7UAZ008jBtUy0Iubo2cQvYy4h29yIOdwAcvQ96UyF3qwpANqTQTyWx3NIVlUsnNhORbdBvPLaMo+uWTHrQje9jItzl+tAIquDuL3/rsft99w6+K/PRlfp0iSun20l0jfN7uLUnlQTT/Y/GRGS6Do0v6SVaPHPz+6D5bZp0VV3TdmAZeJxcTt56IHI2QvmDk48eNcctonGUquy6i/PtTP2k/n7sf1rNnE4qXaumU4YcHAB5ULQpfnmCTeq7bVbZ6txaQsc8KzuucmmT1ynsK9Cg3RScQGOUG/U/h2ijB2C7E81M74BuRuGwDtOX2lGDt3MeSdqeYNl4AkTbRODSd6AZpp3F6mFA==;+Fxm4/2LXfikpZANJ7Kxog=="
+secured: "v2o65M3X3Zsob5dPNywEvfrnyyZpSuASPFpuw3X6Qrwo+T5HYAo6RYS6uZKBc5Jos2fKtmiXHtISwvklxpYDUOTImNFTpD4QLz2V88PIsE2Q6RPoTpCj7FUpxXNUB9O9I44KOqVqmKX++2mL44pUMiA/q0U7ca0zOuW8/Nc54v8iTQnY2xYvGOITqNxw4AM/VS/o8gNwnOYnnKr++YphW7KKvzJwQOxHHx3pqTl+f7seVNLCVugV4KLRD1qGyTv6BNPmmIQLPTc86tNV2HzeyhbBzomCWsg2+wY8xrmYMbgSq+2JKBk0EyLIIgzRA0tVBOxGILz+JxPlOiwQgpuqIyWNFW9CbYhLKNRFxWGeIhs=;Im3YE3Fu2Q5OLxHunXG3lQ=="
 ---
 

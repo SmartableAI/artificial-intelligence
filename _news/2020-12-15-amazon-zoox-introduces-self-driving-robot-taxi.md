@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-s
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 221
+published: true
 
 provider:
   name: Windows
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon-Owned Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
-    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of the car,"
-    publishedDateTime: 2020-12-14T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/?sh=78e0557ec916"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 172
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7a1109fbc1575bcbd741d%2F0x0.jpg%3FcropX1%3D353%26cropX2%3D2419%26cropY1%3D193%26cropY2%3D1742"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi"
     excerpt: "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,"
     publishedDateTime: 2020-12-16T12:48:00Z
@@ -70,22 +54,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Famazon-zoox-self-driving-taxi-electric-vehicle-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1106
         height: 737
-        isCached: true
-  - title: "Amazon’s Zoox Trots Out Four-Seat Self-Driving Robotaxi"
-    excerpt: "Zoox — which Amazon acquired in June for $1.2 billion — has unveiled a self-driving electric taxi. Zoox said the four-seater was \"built for ride-hailing.\""
-    publishedDateTime: 2020-12-14T17:08:00Z
-    webUrl: "https://www.pymnts.com/amazon-innovations/2020/amazons-zoox-trots-out-four-seat-self-driving-robotaxi/"
-    ampWebUrl: "https://www.pymnts.com/amazon-innovations/2020/amazons-zoox-trots-out-four-seat-self-driving-robotaxi/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-innovations/2020/amazons-zoox-trots-out-four-seat-self-driving-robotaxi/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/zoox-robotaxi-amazon-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Amazon's Zoox unveils self-driving robo-taxi"
     excerpt: "Amazon's Zoox subsidiary has pulled the wraps off its first autonomous vehicle. Billed as a car \"built for riders, not drivers,\" the all-electric box on wheels eschews traditional controls, traditional seating and even traditional notions of a front and ..."
@@ -193,20 +161,6 @@ related:
         width: 1920
         height: 1277
         isCached: true
-  - title: "Amazon’s Zoox unit has built its own self-driving taxi"
-    excerpt: "Amazon.com Inc.’s Zoox unit has pulled back the curtains on a homegrown self-driving taxi that can cover up to 75 miles an hour and drive more than half a day on a single battery charge. Foster City,"
-    publishedDateTime: 2020-12-14T18:35:00Z
-    webUrl: "https://siliconangle.com/2020/12/14/amazons-zoox-unit-built-self-driving-taxi/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/zoox.jpg"
-        width: 800
-        height: 515
-        isCached: true
   - title: "Zoox Self-Driving Vehicle is Bi—-Directional"
     excerpt: "Autonomous mobility company Zoox Inc. today revealed its fully functional, electric, autonomous vehicle that is designed for dense, urban environments. Zoox is the first in the industry to"
     publishedDateTime: 2020-12-15T01:21:00Z
@@ -249,6 +203,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving tech makes new moves"
+    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
+    publishedDateTime: 2020-12-19T04:30:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
     excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
     publishedDateTime: 2020-12-15T23:27:00Z
@@ -267,6 +235,20 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
+  - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
+    excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
+    publishedDateTime: 2020-12-19T10:06:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/technology-business-corporate-news-driverless-cars-products-and-services-c9abc89743d025392e40e7f409d4c5b7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ipJDSgtrrJ7ZrP8GYHjt4ItLqSxWsc+TD0uuK2uCdIcnmkn+kZF/yTiLI/uwkqKkpL3LmZQUqO9pVwajG8PF3+bP9uYmoBdc6v51SGDyggNwcIFWxP61w0akmsgGR8qY4RAk+5lbHqYrKQZnPi8uGDD10miQsYB10KzOOoUcv8jL6GOvFkUoOr1czQC9K53xmAQyC5/z9xsaSVriZXuyBTDOh9k3U8dwkbfs9w2w1f3ICJvVLuy/X8A+PA0og06mmryzXKNOX3ZIrbcqiM9bWMm3L4w5riOkW+oMg4ma4oZy70vZvhFHPu17fl8l2AlCGzEwN3s6ghfN4SLoRpoJAKnnLP5gFlFrndbvH0gWxii+NKKlRYfuRIwgH5/w2WRNd72g705tLLRbf4Imfdiq9zuFGe8vXGnausdH/ee/2QkoJTbhlP5oxjLFiIPgtm+EPK/D63CpMwfwhIqY6uy3wFmyFS1VSoUbi5qlSzWDrIfdxtpQ3pLYq8PYsZjGAa5GlK1t1ijBTaQvJw0MxEb2Yw==;G05nt7g4d04DZb95h7RSYA=="
 ---

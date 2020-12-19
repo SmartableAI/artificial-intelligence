@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "ToxMod uses AI to bleep out abusive language in live voice chat"
+    excerpt: "Using machine learning AI, two MIT graduates have developed a toolset that could stop toxic online behaviour before it starts"
+    publishedDateTime: 2020-12-16T21:22:00Z
+    webUrl: "https://www.pcgamesn.com/toxmod-launch-date"
+    ampWebUrl: "https://www.pcgamesn.com/toxmod-launch-date?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/toxmod-launch-date?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 57
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/gta-online-cayo-perico-heist-weapons-900x506.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "AI Synthesizes Content For Entertainment Into Multiple Languages -- Advertising, Live Sports To Come"
     excerpt: "Deepdub will announce the launch Wednesday of a platform aimed at revolutionizing global entertainment. The ability to synthesize the voice and match the facial gestures required to pronounce words through AI will become one of the most important tools for the entertainment and ad industries in 2021."
     publishedDateTime: 2020-12-16T05:00:00Z

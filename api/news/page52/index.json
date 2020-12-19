@@ -2,6 +2,58 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-11-12-amazon-beefs-up-machine-learning-in-alexa-to-predict-latent-goals-that-arent-directly-expressed.md",
+      "title": "Amazon beefs up machine learning in Alexa to predict ‘latent goals’ that aren’t directly expressed",
+      "excerpt": "Alexa is getting smarter. Amazon's voice assistant in the U.S. can now predict \"latent goals,\" or potential requests that a user doesn't explicitly request. In the example above, when a user asks",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "originalUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/download-630x472.jpeg",
+          "width": 630,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "publishedDateTime": "2020-11-11T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
       "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
       "excerpt": "NEW YORK, Nov. 10, 2020 /PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that its No-Code AI platform has been named the winner ...",
@@ -1144,59 +1196,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience.md",
-      "title": "Microsoft is partnering with Qualcomm to enhance AI and ML developer experience",
-      "excerpt": "Microsoft and Qualcomm are partnering to improve the development and deployment experience for developers using the respective technologies offered by the two firms to build AI and ML solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
-      "originalUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/11/1605079273_microsoft_qualcomm_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
-      "publishedDateTime": "2020-11-10T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

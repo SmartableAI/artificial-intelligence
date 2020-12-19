@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-10-watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study.md",
+      "title": "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study",
+      "excerpt": "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WA_NLU_TableAccuracy-1024x558.jpg",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T13:40:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-boastai-raises-23-million-to-help-businesses-nab-government-tax-credits.md",
       "title": "Boast.ai raises $23 million to help businesses nab government tax credits",
       "excerpt": "Boast.ai, which is developing a software platform to help companies obtain government innovation credits, raised $23 million.",
@@ -1161,57 +1213,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-td-sees-big-role-for-ai-in-fraud-detection-lending-decisions.md",
-      "title": "TD Sees Big Role for AI in Fraud Detection, Lending Decisions",
-      "excerpt": "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izHoFxqvJ0o0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
-      "publishedDateTime": "2020-12-10T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

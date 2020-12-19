@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-17-facebook-increasingly-reliant-on-ai-to-predict-suicide-risk.md",
+      "title": "Facebook Increasingly Reliant on A.I. To Predict Suicide Risk",
+      "excerpt": "Mason Marks isn't surprised that Facebook is employing AI this way. He's a medical doctor and research fellow at Yale and NYU law schools, and recently wrote about Facebook's system. \"Ever since ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2018/11/17/668408122/facebook-increasingly-reliant-on-a-i-to-predict-suicide-risk",
+      "originalUrl": "https://www.npr.org/2018/11/17/668408122/facebook-increasingly-reliant-on-a-i-to-predict-suicide-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2018/11/16/rts25zzv_wide-81e74d8f13d02e9cabdf149f4bbd4d6836205e7e.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research.md",
       "title": "DeepMind open-sources Lab2D, a grid-based environment for reinforcement learning research",
       "excerpt": "DeepMind this week open-sourced Lab2D, a software system designed to support the creation of 2D environments for AI and machine learning research. The Alphabet subsidiary says that Lab2D was built ...",

@@ -575,6 +575,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
+      "title": "Google AI researcher’s exit sparks ethics, bias concerns",
+      "excerpt": "Jeff Dean, Google’s chief of AI research, reiterated Google’s position ... including a deal to manipulate sales with rival Facebook. Texas Attorney General Ken Paxton announced the suit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "originalUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280",
+          "width": 1280,
+          "height": 878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-ozarksfirst-com.cdn.ampproject.org/c/s/www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "publishedDateTime": "2020-12-04T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ozarks First",
+        "domain": "ozarksfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-avaaz-facebook-continues-to-fail-at-flagging-false-and-misleading-posts-about-us-elections.md",
       "title": "Avaaz: Facebook continues to fail at flagging false and misleading posts about U.S. elections",
       "excerpt": "According to nonprofit group Avaaz, Facebook is failing to flag false information about the upcoming Georgia special elections.",
@@ -1406,49 +1450,6 @@
       "provider": {
         "name": "KRQE",
         "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facebook-increasingly-reliant-on-ai-to-predict-suicide-risk.md",
-      "title": "Facebook Increasingly Reliant on A.I. To Predict Suicide Risk",
-      "excerpt": "Mason Marks isn't surprised that Facebook is employing AI this way. He's a medical doctor and research fellow at Yale and NYU law schools, and recently wrote about Facebook's system. \"Ever since ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2018/11/17/668408122/facebook-increasingly-reliant-on-a-i-to-predict-suicide-risk",
-      "originalUrl": "https://www.npr.org/2018/11/17/668408122/facebook-increasingly-reliant-on-a-i-to-predict-suicide-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2018/11/16/rts25zzv_wide-81e74d8f13d02e9cabdf149f4bbd4d6836205e7e.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
         "images": null,
         "publishers": null,
         "authors": null
