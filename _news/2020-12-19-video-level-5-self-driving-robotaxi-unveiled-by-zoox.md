@@ -46,22 +46,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Amazon's Zoox Introduces New Self-Driving Robo-Taxi"
-    excerpt: "Amazon ‘s electric vehicle startup has just pulled back the curtains on its self-driving robo-taxi. The autonomous vehicle arrives in a market where most self-driving designs feature a steering wheel and brake pedal,"
-    publishedDateTime: 2020-12-15T04:43:00Z
-    webUrl: "https://hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info"
-    ampWebUrl: "https://hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Famazon-zoox-self-driving-taxi-electric-vehicle-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1106
-        height: 737
-        isCached: true
   - title: "Amazon shows off Zoox’s self-driving robotic taxi"
     excerpt: "Tech giant Amazon is once again expanding into a new field and this time around it’s the transportation industry. It’s through a technology company called Zoox. This company is developing a personal transportation vehicle similar to a taxi but there is no driver."
     publishedDateTime: 2020-12-16T12:00:00Z

@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "Researchers use artificial intelligence to ID mosquitos"
-    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,"
-    publishedDateTime: 2020-12-17T19:02:00Z
-    webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
+    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system--known as a Convoluted Neural Network--to classify mosquito sex,"
+    publishedDateTime: 2020-12-17T19:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg"
-        width: 2592
-        height: 1944
+      - url: "https://www.eurekalert.org/multimedia/pub/web/251352_web.jpg"
+        width: 1440
+        height: 1080
         isCached: true
 
 secured: "6Emb66rzt9FKUjRENP+bUEg6n2cQHVtWD8i2tcGZpvDLzij055PpimJotDYEyDi9g3VILlqI6+djSks5/wGCNadsx3RqlXQUTm8VJMDN2Ai0gWLzKrLPQ779WqejXSsLTtN4iC7ajguu2cG86O0p1xKzWVk0ZHKrqKCLrCs2R5ugAaw+EOz4/Dh7UqckLLpXWEPsbkAJ61QN8hsmM2IGXETt+UOCvyRcHyE4uIsFoKKcp+rv6s+TGvKUeJev7WHGOAS6Ijqz+tIVgUicbStKYppRoCyTi6jcmCUVAKx8QOy38XeUl7gNGMGzhnSQN/xwKXi+FHwSoMXTdDLJmjUnAQm9p8tEkhnvzbRnlGup/98SjRv7xzxeH2+YdWuG8H3oAF38zXilgvcPHmZl5o2iAkyHze3Mt0XMcSJO2eBXuX8dcjt2s6L0y9ikEqj7xJS2MoVdaQHB39q8CtDwpMi71g18XrJj2vvkU2DkZ00nVYlveCHvo1lA+WUyaad4WqukjUxRAC77+ggL797IpIEUCQ==;rKLdDN8HGce0jKwPoi4BPQ=="

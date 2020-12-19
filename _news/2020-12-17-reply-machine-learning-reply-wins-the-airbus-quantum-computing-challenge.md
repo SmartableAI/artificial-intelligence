@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Reply: Machine Learning Reply Wins the Airbus Quantum Computing Challenge"
-excerpt: "Machine Learning Reply, the Reply Group company specialized in Artificial Intelligence solutions, has won the Airbus Quantum Computing Challenge (AQCC"
-publishedDateTime: 2020-12-17T13:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201217005030/en/Reply-Machine-Learning-Reply-Wins-the-Airbus-Quantum-Computing-Challenge"
-webUrl: "https://www.businesswire.com/news/home/20201217005030/en/Reply-Machine-Learning-Reply-Wins-the-Airbus-Quantum-Computing-Challenge"
+excerpt: "Machine Learning Reply, the Reply Group company specialized in Artificial Intelligence solutions, has won the Airbus Quantum Computing Challenge (AQCC), the competition launched by Airbus in 2019 to address some of the major challenges in the aerospace industry by leveraging the computational capabilities offered by Quantum Computing."
+publishedDateTime: 2020-12-17T10:04:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-italy-industrial-products-and-services-e288e4cb10eb465a96669b647c0fcb06"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-italy-industrial-products-and-services-e288e4cb10eb465a96669b647c0fcb06"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "S1xafRMhRkHdO9iJYMZT+nvoCHhGt8o/L9gBB3bx+XZT6f2muzPQf08hBVDIelacQRLqcbRolalVle8jcCALSFxfWaDF3lhtmHDUQADLg/UNDvUJtIMd/o6B0ScWT+4HOVP5gabJ95BpLJ7V77jvJ5lqcU2t0lOSbL+8OLT6OTrjruL3EzAFyNeamsZSFqYB+LihnyL9UdL6/42HiYIy2l69O5ye43poqXxKgOZymKOAZ0ysC5ziZe16ow66aJJK3r9N9cKsT+rfDmOHosDgGye0G/DmoRpgVQYWUb/ue4JWmHITsH5Awd+xvQdUEN+PvAyJQXtHjdgc7/nrAlDGSvAe82yXCTcuaiaqHZb/2TlDPVIriMHiVaQ+MdyevepBtVwsSfvWE3cKC3TOqO7cWn/t7VYUJcTQQ0EkYjlocpTtqqjEVOnSvvTUfwUkjimHV66Mssju+I2Yby3q9Fne0IyByfsW2c8t65q3i9k2CTPfTioswf3exZ1M5PZeiCTHpm8H61zFETbE0gDx+uQqLQ==;iEEosLqrYicKhpmAK0cj7A=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "4+7Edu1npR+8/EE8v4Rv5fvRdpGMdsb3cumd+xP+CdbAqUk9DNJyeotQ2+YbbbOiqGnsagl+Lh7j2dcxUfcxbWnGX90p/saHy3ih5OI6k2cwftBnzpjOBXMQlOwnXHDoR4G3EYWm/yxzHz4wC7fGsknYzuximp7MXCjWW0V3vBp23CvYprbQ782rJsUPuQxL6Qz3u2agBmpftJKD5zK8/JVsXM5P9KIRt2HGgjHNtxOcnnlMtQUMIfEDfsbMHCOeVMMJQ4TcPklfP7ncNvHY/XhKBvm355aDsx+W02jBKxUHQhuxslIW7FWEhHagjlFqAUYfya9OvVjQYEfXVPg/iuHKKGW9eq01Jb1rG8x+l5g=;QYCSkyDf5PA4dd2MKctxRw=="
 ---
 
