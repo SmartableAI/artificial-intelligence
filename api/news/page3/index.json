@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos.md",
+      "title": "Gun Detection AI is Being Trained With Homemade ‘Active Shooter’ Videos",
+      "excerpt": "However, due to sensitivity, little footage from the start of shootings is readily available ... The possibility is enough for Meredith Whittaker, faculty director of the AI Now Institute at New York University, to reject the use of the technology outright.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "originalUrl": "https://www.vice.com/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/5fd8eb022666c9009de791e3/lede/1608054498616-screenshot-2020-12-14-at-60256-pm.png?crop=0.8829xw:0.9992xh;0xw,0xh",
+          "width": 2111,
+          "height": 1187,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "publishedDateTime": "2020-12-16T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-ces-honors-john-deere-for-x-series-combines-in-robotics-category.md",
       "title": "CES honors John Deere for X Series combines in Robotics category",
       "excerpt": "X Series combines equipped with ActiveVision cameras, can help farmers see inside the combine's grain tank and observe tailings so they can monitor",
@@ -701,59 +752,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis.md",
-      "title": "Natural Language Processing Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis",
-      "excerpt": "Kenneth Research has published a detailed report on Natural Language Processing Market which has been categorized by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2020-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2020-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-adp-adds-more-ai-tools-to-its-datacloud-for-hr-data-comparisons.md",
       "title": "ADP adds more AI tools to its DataCloud for HR data, comparisons",
       "excerpt": "ADP DataCloud leverages anonymized and aggregated data from more than 740,000 companies for headcount, compensation and retention benchmarks.",
@@ -813,7 +811,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 308,
+      "heat": 288,
       "tags": null,
       "images": [
         {
@@ -855,6 +853,58 @@
         "AI",
         "AI in Sales",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026.md",
+      "title": "Neural Network Software Market Research By Key Players, Type And Application, Future Growth To 2026",
+      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T23:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1202,58 +1252,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-baidu-rockets-higher-on-electric-vehicle-plans.md",
-      "title": "Baidu Rockets Higher on Electric Vehicle Plans",
-      "excerpt": "Shares of Baidu (NASDAQ:BIDU) surged higher today on rumors that the company is considering entering the electric vehicle (EV) market, according to a report by Reuters. Baidu, whi",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604991%2Fbaidu-apollo-go-robotaxi-in-cangzhou-china.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/",
-      "publishedDateTime": "2020-12-15T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "Israeli martech startup Exceed.ai banks $4m in seed money"
 excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
 publishedDateTime: 2020-12-09T02:33:00Z
-originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!"
-webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!"
+originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-665238#!"
+webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-665238#!"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "+1+s2H6ZZyzHUKqUYdFaOEAlrPJDW2gP0SY6PzIUiGmp4DuoAFifszkkcbspHnv/IPOOwwUls7wXIU5omM6JfNicBYCyNCtWzkDhx8wfTDNZy/uiCZlAnCdvWLrzedl7FfiDX+2V7YXULS3gJRwfuNbjnj75/6/8vuLQy4pqr9MFyCHhLsaEVzbcAaSVbenqI7RGwZddO4QzDR7i1hbrt9DZyxTUYdbH1Wgosugxe8S9jHZUn6HJPM4crqZp90DD3u7piTeMB/cKN0doJY3fYwuC+wK0NJFTTNR9wX9/6E299gS5j/vkyz5q+PnmxKOGgIIn/k1QdNHMAlccx0F9Rrj0RGJ0W7HZRlB5wmcMa5nt+XgM+c2UTIvBmareqRlWVshx9k72jtkEj49oaIQR7xDYRLAMATU6w0LLfGX2/Xp2rCp9lY+zIfT1I4g2tzWBpE1eELHmaDWIBlvJ1WmmNa13fD0m24ImijAjcDHFr000y6D3TnQDFo94UfyxsXeVNRn8hU5XwEP2wm4fZTa/0g==;lbQKrH9hE9INwOu20ZIAVw=="
+secured: "1aftSqHrXNpFY+ynD3KoNgrHlfOzsAv40JH+bJcyAfqbJ3owTdy6xxrRRO5uIOu0u92/c8dOQH9V5gzCC4wIjKVNVP5GB1q8niqchJFPHKpYq/9hpfKK5qFFdm8jokUCg+wkLQCGpweRcaJ0+EEM8iqUaT69sB1JFE193vsEUyYP96g2d4qgVpjno/2589CsWh42pb0ZrHWCJ0l+WYsI0VAsj3JmXxPbvPEodsK0bwXnEN97q6HXm0sUVquNVMAWGG2spG2PunBqO3uswq3Jc6yAMGXOKfg1aLEu+M6GaE0JjKrNSUAkTQiTzer8IcHj+9dR0ryRKs9vq7Cf/eCTQsZx3RXGaYndEoqxSDXhMtBEyS+BkvqPy4uKTDZJEfIuIBRUUViAO4U/w1KcdJfQ8A1jqQsOPJmnp1S603masv9ajEaEJ+tLHSOJmfdii2J/8prubnfQaSKA2zEwebYzIV7E1KOVgGeRptZ0zGH5ClctQXUEoyB19RTHlftPcEXC0wCxw7sopBbu+Zia0Gbd8g==;1RuXZ93A1HgRfT8lGlxhZA=="
 ---
 

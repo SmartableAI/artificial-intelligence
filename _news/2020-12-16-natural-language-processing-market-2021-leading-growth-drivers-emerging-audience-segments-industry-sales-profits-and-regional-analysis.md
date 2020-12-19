@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2020-12-16"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -43,20 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
-    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
-    publishedDateTime: 2020-12-16T10:57:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-middle-east-new-products-and-services-bc14fb233d51c3321049125c2293fc7c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "8JuYO93Lsk7FTdQHtpRHDJbpX9Gfa/PU+orgRzKvI9SVq/GNJCVLekxFXaAYJTPuors6Gr313yfNpx068njBYbtORoX/bZC+/KRtFuSBiTus5l2IEP9F8W2yDpLXElNDSoRQesdcZ6TF3X7GrKuyxd+b+zlp69ToTmQK6/i6PKekrDKSJt6maHLh88qCerMITYwiQ3Df6zXpDA9B+nxHQ/qHZQpgyCO1r1V88x21XzC2854RwAcPbOvFsmluyjNFjMZc7fjUvSBnepto/pm/sgllztY1asbpi5pBTrFl8MjJaY90SgwRvrPPnRP1tFb4QQzxW4vSBxEzhfVKdZiCgSqWe8p78X0HhZ1TNY+SWTM=;V/my1LiRUMV3AODMiOmqrw=="

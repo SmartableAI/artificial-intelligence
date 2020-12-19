@@ -22,9 +22,9 @@ related:
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
     publishedDateTime: 2020-12-18T06:50:00Z
-    webUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUKKBN28R0IR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28R0IR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R0IR"
+    webUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR"
     type: article
     provider:
       name: Reuters

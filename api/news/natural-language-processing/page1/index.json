@@ -58,8 +58,8 @@
       "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
       "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUKKBN28R0IR",
-      "originalUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUKKBN28R0IR",
+      "webUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR",
+      "originalUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR",
       "featuredContent": null,
       "highlight": null,
       "heat": 217,
@@ -76,8 +76,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28R0IR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R0IR",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28R0IR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR",
       "publishedDateTime": "2020-12-17T22:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -296,59 +296,6 @@
         "AI",
         "Machine Learning",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis.md",
-      "title": "Natural Language Processing Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis",
-      "excerpt": "Kenneth Research has published a detailed report on Natural Language Processing Market which has been categorized by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2020-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2020-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1490,6 +1437,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-what-to-consider-when-using-bert-and-gpt-models-for-nlp.md",
+      "title": "What to consider when using BERT and GPT models for NLP",
+      "excerpt": "Last time on the NLP blog series, we explored how BERT and GPT models change the game for NLP. BERT and GPT models have a lot of exciting potential applications, such as natural language generation (NLG) (useful for automating communication, report writing, summarizations), conversational assistant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-1-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T10:18:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
       ]
     }
   ],

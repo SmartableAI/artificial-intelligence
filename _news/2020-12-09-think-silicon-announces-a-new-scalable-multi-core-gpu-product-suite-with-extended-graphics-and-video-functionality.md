@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Think Silicon Announces a New Scalable Multi-Core GPU Product Suite with Extended Graphics and Video Functionality"
-excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA ® pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers."
-publishedDateTime: 2020-12-08T17:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended"
-webUrl: "https://www.nasdaq.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended"
+excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA (R) pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers."
+publishedDateTime: 2020-12-08T19:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08"
+webUrl: "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "UI+/yniup/BahFzJlzgivn0/h1LjCzkzMhqXEJdXd/5zHkn1HxoYof9ZL2JhTAm1HI1HraswOnLOG88pxWKoDZ8ffOsXk1bkt7iKO78h64Alyq6vXkFlge5GK5g78AfiNAAylrhuT5ZMAdyy1iYaEekFsuT8pALnetkbHo3V49Riz9szD8LDq3dZVNojsSrSewZ/gVEanNIc0qqSYly8gUBVRahb0r1ESbk/ttgqUDr9yA4YuuyNrsXXuS3P+MBo9J0Zh+C3XV9M1ONsfWBtZZwxd+37QBXmCt0PL7yKbA9ZkkaGrey5eAX9jRnWeleFYtw1KUsbRtNni/zytFNXShckURHEn35TehbPaBE9vWg=;u6qISiLvIV8RUpk8kXiz5Q=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ibZ1moEcozFpDkPROGIQE6W59wxmD0TCshlFvc8QpHvQAg8xE0CCnHxl5/uh/Cmj/uDfrvnDXWn5Ljm5nRFNkcsbO0jOqlIJMWPA1DqPTlSFggbr0dUTofaOGxJwpj82VNYGnNkePLMMtRxUtD29s4aoojQ/9sitzWcH8SSuZfKpAcxKJh5UmBIi1nS2CPpmsajWjViwRGUR2uHuAEO0xEz6AGgZJ485wlDZWKC89I77VwBad6OYu2rRn/C/iBPWbXR2+2WrgAzolDuS63D5G4MUS+rx55gyQChGUSsYxLnGwcZed8e/PFoUEe4cLOvyyLRNMN+H2ar1uQ2mT6y9dKweSE8YIdzsS5V0WYZOkfQ=;NmNLnMSYQwuBmCqpMxmnGw=="
 ---
 

@@ -29,43 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
-    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
-    publishedDateTime: 2020-12-18T20:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
+  - title: "Neural Network Software Market Research By Key Players, Type And Application, Future Growth To 2026"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2020-12-16T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2020-12-17T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market 2020 Size, Share 2020 Movements by Development Analysis, Business Environment Analysis, Revenue Expectation till 2023"
-    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
-    publishedDateTime: 2020-12-16T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-size-share-2020-movements-by-development-analysis-business-environment-analysis-revenue-expectation-till-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,29 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Technology in the Financial Services Industry Environment Development Trend & Forecast Report 2030"
-    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Technology in the Financial Services market, for example, merchant viewpoint, market drivers,"
-    publishedDateTime: 2020-12-16T12:56:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-financial-services-technology-corporate-news-products-and-services-6424298be67deaca4782e13de430a55b"
+  - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
+    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
+    publishedDateTime: 2020-12-16T10:57:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-middle-east-new-products-and-services-bc14fb233d51c3321049125c2293fc7c"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 16
+    quality: 14
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Worldwide Emotion Detection and Recognition Market Size to record notable gains through 2027"
-    excerpt: "Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
-    publishedDateTime: 2020-12-14T13:46:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/136756/worldwide-emotion-detection-and-recognition/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
 
 secured: "f8pwZWv3nvMSv94HmF1jdzXREj6m3kJXq1IEX5YAFfT7hwtNZyio0eAebt8TOz+9Af8nwK9ncYnxpw1DCV7mzghkuz8YufshejFm6LTp9pUe9bYRV31MJ2ikeZhJcn+w2ZQ2VeJ41+LK9azRLH1yEuXG4jjUTF0QYtbn+mg1eZInuD3RFnOHfVD39/H06XfMGWMaHuKrmheDsZ3g9T9RdDrScBMkLWn4ZnGICDKqhS1Mq6eMd3yDtXqOhfKfih/VSyC3eEsc3+C4bZfkWv/jZGoTeT6RpwEY+uhvNqqJL0NPh9jshz/VBusEVw+LQejoYx5GKVU3fdzs7twI7wqs9N+EemJndDhDRztfog22VzE=;23HmgfxpfWtkBBJQN7MTuQ=="
 ---

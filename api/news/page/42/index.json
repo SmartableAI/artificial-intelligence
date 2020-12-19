@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-11-18-graphene-based-memristor-for-artificial-neural-networks.md",
+      "title": "Graphene-Based Memristor for Artificial Neural Networks",
+      "excerpt": "A graphene-based memory resistor (memristor) that can exist in many different states has been designed and demonstrated by Thomas Schranghamer, Aaryan Oberoi and Saptarshi Das at Pennsylvania State University in the US. Using simulations and experiments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2020/11/17/graphene-based_memristor_for_artificial_neural_networks_649961.html",
+      "originalUrl": "https://www.realclearscience.com/2020/11/17/graphene-based_memristor_for_artificial_neural_networks_649961.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/527293_6_.png",
+          "width": 1440,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
       "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
       "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
@@ -1105,40 +1148,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-take-the-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputing-fast-track.md",
-      "title": "Take the A100 Train: HPC Centers Worldwide Jump Aboard NVIDIA AI Supercomputing Fast Track",
-      "excerpt": "Supercomputing centers worldwide are onboarding NVIDIA Ampere GPU architecture to serve the growing demands of heftier AI models for everything from drug discovery to energy research. Joining this movement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/take-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputi",
-      "originalUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/take-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cadalyst",
-        "domain": "cadalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

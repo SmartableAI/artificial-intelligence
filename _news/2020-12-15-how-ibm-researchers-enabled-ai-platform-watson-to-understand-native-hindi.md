@@ -80,15 +80,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "India’s Construction Landscape needs the intervention of AI"
-    excerpt: "Simultaneously, diverse applications of Artificial Intelligence (AI) and Machine Learning (ML) have opened up numerous possibilities in various businesses. Through these technologies, information ..."
-    publishedDateTime: 2020-12-14T10:26:00Z
-    webUrl: "https://www.ciol.com/indias-construction-landscape-needs-intervention-ai/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 19
   - title: "Team builds AI model for predicting transportation delays"
     excerpt: "Urbana Champaign built an artificial intelligence (AI) model to improve predictions about transportation delays using British Railway data. Using graph neural networks — a neural network operating on the graph structure that is used for node classification wherein nodes are connected via edges — the team built the Spatial Temporal Graph Convolutional Network model."
     publishedDateTime: 2020-12-14T16:45:00Z

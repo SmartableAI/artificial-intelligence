@@ -87,15 +87,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "India’s Construction Landscape needs the intervention of AI"
-    excerpt: "Simultaneously, diverse applications of Artificial Intelligence (AI) and Machine Learning (ML) have opened up numerous possibilities in various businesses. Through these technologies, information ..."
-    publishedDateTime: 2020-12-14T10:26:00Z
-    webUrl: "https://www.ciol.com/indias-construction-landscape-needs-intervention-ai/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 19
 
 secured: "0x2D5V++SZqbQqvOxm8BuphDkGEi/Ov6pbpVsWLcHSaZJTDs06hA7p5eXzrK0q4TGwKolDfn8zMbaxi32nPzPq7wXE7mWTA2kMZB6SO9u7EmUCyxHeeo83JlnjuusQaIn7as0CAwbubbAIgo6uNZPMOI8elhuLR1v/0GnSTdsdfKD2EDx4+MhWi6srsILr1Uin5EOjldPwEX0jTXQ2Y3KZygY7mKp3h6ZRKBeYriRyAZ/eOkezPNZp7QLFOc8NSxq2Bz20l6YRZP3MWWxZyeI7dhYGpfoUPpkiseRGovIH3ed7pK+mm3Y9fCPX92fbB7DKkUVCwwuBpJyaAbEKL1ZOkxGyjuoFYXQNDZpyblyys=;jJYYNohUPcsCSGXP4ldU5w=="
 ---
