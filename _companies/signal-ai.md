@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SignalHQ"
   url: "https://twitter.com/SignalHQ"
-  followers: 2505
+  followers: 2504
 
 size: 51-200 employees
 yearFounded: 2013
