@@ -58,20 +58,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Rolls-Royce Releases AI Toolkit To Set A New Standard For Ethics & Trustworthiness"
-    excerpt: "Royce has released a comprehensive ethical and trustworthiness framework, that will help businesses to check and balance their AI projects in a fair, ethical and trustworthy manner. Available for free to download from the Rolls-Royce website,"
-    publishedDateTime: 2020-12-15T13:04:00Z
-    webUrl: "https://analyticsindiamag.com/rolls-royce-releases-ai-toolkit-to-set-a-new-standard-for-ethics-trustworthiness/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 48
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/Ethical-AI-01.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered ..."
     excerpt: "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users visualize themselves conducting complex dance moves. Rackspace Technology’s team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced infrastructure cost."
     publishedDateTime: 2020-12-16T12:21:00Z

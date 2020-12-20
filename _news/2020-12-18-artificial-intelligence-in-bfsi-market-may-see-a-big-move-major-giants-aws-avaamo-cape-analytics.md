@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2212938/artificial-intelligence-in-bfsi-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212938/artificial-intelligence-in-bfsi-market-may-see-a-big-move-major"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -36,20 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Generation (NLG) Market Next Big Thing | Major Giants AWS, Artificial Solutions, IBM"
-    excerpt: "A new business intelligence report released by HTF MI with title “Global Natural Language Generation (NLG) Market Report"
-    publishedDateTime: 2020-12-15T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-generation-nlg-market-next-big-thing-major-giants-aws-artificial-solutions-ibm-2020-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

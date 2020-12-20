@@ -607,6 +607,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi.md",
+      "title": "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi",
+      "excerpt": "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16",
+      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp",
+      "publishedDateTime": "2020-12-16T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-deepdub-uses-ai-to-localize-voice-dubbing-for-foreign-language-films.md",
       "title": "Deepdub uses AI to localize voice dubbing for foreign language films",
       "excerpt": "Deepdub is launching a platform that uses AI to dub voices into videos so entertainment companies can localize content.",
@@ -769,7 +803,7 @@
       "originalUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1027,7 +1061,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -1215,58 +1249,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
-      "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
-      "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
-      "originalUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JP",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2GW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW",
-      "publishedDateTime": "2020-12-15T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

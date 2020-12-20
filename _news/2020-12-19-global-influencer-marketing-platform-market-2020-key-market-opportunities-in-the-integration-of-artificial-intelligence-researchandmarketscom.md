@@ -190,20 +190,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Impact Of Covid 19 On Gesture Recognition In Automotive Sector Industry 2020 Market Challenges Business Overview And Forecast Research Study 2026"
-    excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The Gesture Recognition In Automotive Sector market is expected to grow from 2020 to 2026,"
-    publishedDateTime: 2020-12-15T13:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-gesture-recognition-in-automotive-sector-industry-2020-market-challenges-business-overview-and-forecast-research-study-2026-2020-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Robotics Market Growth, Trends, and Forecasts Report 2020-2025: Advent Of Industry 4.0 Driving Automation & Increasing Emphasis On Safety - Res"
     excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued at USD 39.72 billion in 2019 and is expected to register a CAGR of 25."
     publishedDateTime: 2020-12-16T11:42:00Z

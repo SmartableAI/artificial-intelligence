@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Gurucul-XDR-Uses-Machi
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Gurucul-XDR-Uses-Machine-Learning-Analytics-to-Strengthen-Security-144472.aspx"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "QAnon Is Two Different People, Shows Machine Learning Analysis from OrphAnalytics"
-    excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such"
-    publishedDateTime: 2020-12-15T13:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics-301192981.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1385142/OrphAnalytics.jpg?p=facebook"
-        width: 2699
-        height: 1414
-        isCached: true
 
 secured: "iUXluOm2jPBknk1/wVXJ5WYm5Pqq2n+bOZAZpcPHp31JCLSdF4p3Etp+PetTwUTklgzp+OVcyAeG3IwveTcCDmPFHCTcDcjY2SGtwLLvkPJOwONIOBvPQqBKTn5E4mrlResmulkMyxpwk5uwyygtM9bfdVMnv+ukdudgyzAUhUMiGgqyPRJDQbrpRBrW5fOpG5Mhni0eo2AWXen6JWZXM88+VkeKMzpp6vs3necGFuaes8eEDUXNdkkDSs+3qlKexHN9zGM76jqJjQJ7OZi7rCANHKbj1eQEc8A7ZefFk4Hy1RiUEoNRPhEyoI4Nutbk7t/O8WEwL2V5fsmDNOYLdMbe0IOo5pTyg2INc95RNqo=;B8e3WraglK7SIGNuvjUXQg=="
 ---

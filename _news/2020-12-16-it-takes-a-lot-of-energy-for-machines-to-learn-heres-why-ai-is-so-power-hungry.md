@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "It takes a lot of energy for machines to learn: Why AI is so power-hungry"
-    excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
-    publishedDateTime: 2020-12-15T14:03:00Z
-    webUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html"
-    ampWebUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Why AI is Literally Hungry for Power"
     excerpt: "Even achieving a 1% improvement in accuracy on difficult tasks like machine translation is considered ... estimated the energy cost of developing AI language models by measuring the power ..."
     publishedDateTime: 2020-12-16T00:00:00Z

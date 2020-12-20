@@ -1,20 +1,22 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
-publishedDateTime: 2020-12-08T19:35:00Z
-originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
-webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+publishedDateTime: 2020-12-08T19:00:00Z
+originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: wallstreet online
+  domain: wallstreet-online.de
 
 topics:
   - AWS AI
   - AI
 
-secured: "aRv3VbKzAkLESgHosK4LZtSXWvDJcDBGC9rY7W1cdj8I/eT/d3nWUXObpNFzuAVyc+MxkkXTTai6NAwy9+jWjz7s1vMlzRM7zslKY4oyOsJrQ4OaelMMWdQ5O97A/jwrwTgAqzUINBU9+utYtDZZPGaXo6y0EoaYqshhif74KXKmvZnobZnTstXOqoVh/e+DwUS0G3tdE0z1O1PULDpjkoE4GiXkSwfZI1yJMds00sD6Jifyt31F5zE+XL6R/cdjpc/Q29Cjlqd+En/+p09oHeAWebyqXseLwa1KWPnWPtjE194CZLee6l3WUXcKeYBTElj0AjilVedtQJsB0TpDhXJd1yRUoU4g+r2v5EWKRJo=;1tndeHkBRRS3qxGNXvdOjg=="
+secured: "8yoRAj2Lkcz/0Ly+HndtYPHh50o5cISilUqGzV0LhRRdr7rQqAAps5Kh/1Ys27x61h8AJz2sXetv7YCo6zGjuxhxaxd2Kgyxc3WwBVa+hUWu86pMxBOJwydcvEE9foDQLbKMjlqnZJ58qKVgOUDtBn0AuqBay2l3MQk/vtXHoW9t6FDomj6SuRP3u7b/CGL8V9IfcuMYLCjfeek2zcKLSwUoVlAr++2x2+E9Yfxeg830doEfL252IeLHBfSYHpfGTQ0Z/yLEKmC002DhzJMLNIm2/jQpIIKNfmNgOGbfH3J0xpZhVW+LqixyZ2XDxD1jzBRbAa6urQ1kngyPCknoVnqS2ff1JnLGjmdS1aMHpZA=;qmOEoOZfDmCD3sU5WizhrQ=="
 ---
 

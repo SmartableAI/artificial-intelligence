@@ -71,20 +71,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Rolls-Royce Releases AI Toolkit To Set A New Standard For Ethics & Trustworthiness"
-    excerpt: "Royce has released a comprehensive ethical and trustworthiness framework, that will help businesses to check and balance their AI projects in a fair, ethical and trustworthy manner. Available for free to download from the Rolls-Royce website,"
-    publishedDateTime: 2020-12-15T13:04:00Z
-    webUrl: "https://analyticsindiamag.com/rolls-royce-releases-ai-toolkit-to-set-a-new-standard-for-ethics-trustworthiness/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 48
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/Ethical-AI-01.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Digital.ai Drives Innovation in AI-Powered Value Stream Management with Four New Patents"
     excerpt: "Digital.ai, the creator of the industry’s first intelligent Value Stream Platform, today announced that it has been granted four U.S. patents for advances in AI-powered analytics. The patents represent industry-leading innovations in applying artificial intelligence (AI),"
     publishedDateTime: 2020-12-17T10:33:00Z

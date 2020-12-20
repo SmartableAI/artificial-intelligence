@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "Artificial Intelligence Technology Solutions Restructures Convertible Debt"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is thrilled to announce that it has restructured the vast majority of its debt,"
-    publishedDateTime: 2020-12-15T14:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-restructures-convertible-debt-1029894026"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Artificial Intelligence Technology Solutions Restructures Convertible Debt"
     excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is thrilled to announce that it has restructured the vast majority of its debt, which"
     publishedDateTime: 2020-12-15T19:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20201215005671/en/Artificial-Intelligence-Technology-Solutions-Restructures-Convertible-Debt"

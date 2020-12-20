@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Zoox introduces self-driving robot taxi"
-    excerpt: "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,"
-    publishedDateTime: 2020-12-15T13:17:00Z
-    webUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/"
-    ampWebUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 61
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg"
-        width: 736
-        height: 415
-        isCached: true
   - title: "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi"
     excerpt: "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,"
     publishedDateTime: 2020-12-16T12:48:00Z
@@ -54,22 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Amazon’s Electric Taxi Zoox Operates Up To 16 Hours On A Single Charge"
-    excerpt: "Enter the… the Autonomous Electric Taxi. An electric, driverless taxi that is designed to be right at home in dense and urban environments. Tesla has led the way with this technology, but other companies are now starting to catch up."
-    publishedDateTime: 2020-12-15T20:59:00Z
-    webUrl: "https://www.hotcars.com/amazons-electric-taxi-zoox-operates-up-to-16-hours-on-a-single-charge/"
-    ampWebUrl: "https://www.hotcars.com/amazons-electric-taxi-zoox-operates-up-to-16-hours-on-a-single-charge/amp/"
-    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/amazons-electric-taxi-zoox-operates-up-to-16-hours-on-a-single-charge/amp/"
-    type: article
-    provider:
-      name: hotcars
-      domain: hotcars.com
-    quality: 44
-    images:
-      - url: "https://static2.hotcarsimages.com/wordpress/wp-content/uploads/2020/12/zoox-functional-autonomous-electric-taxi.jpg"
-        width: 1710
-        height: 900
-        isCached: true
   - title: "Amazon unveils fully self-driving robotaxi called Zoox"
     excerpt: "Zoox, a relatively compact vehicle, can seat four people, is bidirectional, and can reach a top speed of 75 miles per hour without a driver."
     publishedDateTime: 2020-12-17T02:54:00Z
@@ -86,34 +54,6 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Amazon-owned Zoox Inc. unveils autonomous self-driving Robotaxi"
-    excerpt: "Zoox is an autonomous self-driving vehicle company that is headquartered in California and was acquired by Amazon in 2020."
-    publishedDateTime: 2020-12-15T14:52:00Z
-    webUrl: "https://techstory.in/amazon-owned-zoox-inc-unveils-autonomous-self-driving-robotaxi/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Amazon's Zoox reveals self-driving shuttle without steering wheel"
-    excerpt: "Just six months after it was acquired by Amazon, self-driving technology company Zoox has unveiled a self-driving shuttle devoid of a steering wheel. Similar to the Origin unveiled in January by rival self-driving technology company Cruise,"
-    publishedDateTime: 2020-12-15T15:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130654_amazon-s-zoox-reveals-self-driving-shuttle-without-steering-wheel"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/zoox-self-driving-shuttle_100774057_h.jpg"
-        width: 1920
-        height: 1277
-        isCached: true
   - title: "Zoox CEO Says Self-Driving Robotaxi Reimagines Personal Transportation"
     excerpt: "Amazon-owned Zoox has unveiled its first self-driving robotaxi that can seat up to four passengers, has no steering wheel, can run for 16 hours on a single charge, and can travel at up to 75 miles per hour."
     publishedDateTime: 2020-12-16T15:47:00Z
@@ -127,20 +67,6 @@ related:
       - url: "https://img.chdrstatic.com/media/5d6c6b40-7246-4325-83a9-034e7c17ea4c.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Self-driving tech makes new moves"
-    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
-    publishedDateTime: 2020-12-19T04:30:00Z
-    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
-        width: 400
-        height: 266
         isCached: true
   - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
     excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"

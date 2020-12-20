@@ -23,22 +23,6 @@ images:
     height: 218
     isCached: true
 
-related:
-  - title: "Bluesky Helps to Shape the Future of AI Systems with Turing Fellowship Funding"
-    excerpt: "Aerial mapping company Bluesky International is working alongside organisations such as AstraZeneca, Toyota and Amazon Web Services to shape artificial intelligence (AI) systems of the future. Contributing to the multi-million pound UK Government project,"
-    publishedDateTime: 2020-12-15T14:01:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/10390"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 35
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/December/15/7/ec1568d1-c109-42cd-8723-4bf33beecba6-sized"
-        width: 800
-        height: 533
-        isCached: true
-
 secured: "e4obOPGjh7HiysrA7D0L/RExJrxzdrArIyuwabjGvF3soiWus784+duKAi1dPWGuXlxTaqPWrHjBNZKz7uKtGjF6mMFybTpRE7VdIWnBuoIyAQNgXrKvmfHEbP4ajhDjAwu6kNjM/fvu+o1Q36C6gNs5rp4jP4yXQa8g9JzGr9ONpUzPh3m90g0YXM9rpGK73XpQ3jCSsw7aPNmgUERHDpRSCNDaW5uWaaIejvbawqP8xlbKKIVx0GUAm7+hAcYUxd05L4fck8DYJN3us7xPBQdDp1JUz314HTtlI2bb3b0YlWPnqoeZBdCvdzlxIGaUgGaypxev6tV9Y6FPvIHE3IFZ95bmEZLDfCYVcJ3EBzvQUJ9EgF54TSq/Te1DX+0Vwwb90KT9OL8NJEMbitlAhofO98KdCk9jF4Gx72Ej3Wd70ro512Sc2f+WXgEKFJ1AZ0rv2y2vq5pY2GRavGht2/9b6NF6sS+AxLrfww63bp+WdXXTF85dfJP2qSDPnZDLtL8EWEwB7uSVKkuN3HTeKA==;zU2Wg0EbN2V8oBr/8Rdusw=="
 ---
 

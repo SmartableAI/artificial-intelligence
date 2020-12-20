@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese web giant Baidu may fancy building its own cars, report says"
-    excerpt: "Known as \"China's Google,\" Baidu is reportedly interested in not just developing self-driving software, but its own vehicles."
-    publishedDateTime: 2020-12-15T15:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/baidu-china-building-cars/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/baidu-china-building-cars/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/baidu-china-building-cars/"
+  - title: "Baidu Rockets Higher on Electric Vehicle Plans"
+    excerpt: "Shares of Baidu (NASDAQ:BIDU) surged higher today on rumors that the company is considering entering the electric vehicle (EV) market, according to a report by Reuters. Baidu, whi"
+    publishedDateTime: 2020-12-15T19:10:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 89
     images:
-      - url: "https://cnet3.cbsistatic.com/img/DffVxQ58xMv1VNvdgGae9Q2yTBg=/2019/09/27/809b83bf-7d39-4f0a-8de4-472ac3330a59/ogi-apollo.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604991%2Fbaidu-apollo-go-robotaxi-in-cangzhou-china.jpg&w=1200&op=resize"
         width: 1200
-        height: 630
+        height: 798
         isCached: true
   - title: "Exclusive-China search giant Baidu considers making own electric vehicles -sources"
     excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, three people with knowledge of the matter said, the latest move in a race among tech firms to develop smart cars."
@@ -56,22 +56,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y"
         width: 817
         height: 545
-        isCached: true
-  - title: "China search giant Baidu considers making own electric vehicles"
-    excerpt: "China search giant Baidu considers entering the automotive market, becoming the latest tech giant to consider branching into vehicles."
-    publishedDateTime: 2020-12-15T13:18:00Z
-    webUrl: "https://www.autoblog.com/2020/12/15/baidu-explores-automotive/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/12/15/baidu-explores-automotive/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/12/15/baidu-explores-automotive/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2020-12/c46256a0-3ed4-11eb-acd7-a2c611190d43"
-        width: 800
-        height: 450
         isCached: true
   - title: "Baidu shares jump on report it will build electric car"
     excerpt: "Baidu is considering jumping into EV manufacturing as investment in the sector is picking up tempo, with tech majors buying in."
@@ -105,17 +89,15 @@ related:
         width: 1920
         height: 1179
         isCached: true
-  - title: "China’s Baidu Looking Into Making Its Own Electric Vehicles"
-    excerpt: "Chinese search giant Baidu is considering manufacturing its own electric vehicles and has already spoken to various carmakers about this possibility, according to three people with knowledge of the matter."
-    publishedDateTime: 2020-12-15T13:30:00Z
-    webUrl: "https://www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/"
-    ampWebUrl: "https://www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/amp/"
+  - title: "BIDU Stock: 11 Things to Know About Baidu and Its Big EV News"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips On most days, investors consider Baidu (NASDAQ:BIDU) an interesting equity for"
+    publishedDateTime: 2020-12-16T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bidu-stock-11-things-to-know-about-baidu-and-its-big-ev-news-1029898922"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "FjyLDCeEZxIt+6RC/KyxLOJUh9f4VkKQnBMEpkBCLbHM/Pk49SUx5WnMMakpDJkA5lBeVbxkvcQI6njiyf4AYG0QMQbSB3lcj3XN2jzmLuB7GGV2teXLoBx0hn/XO6w+e5j/1ku8I0zmSBXqEXjtd46BYUeEqdp9Fx1svyUADdNpy3MZy4Vmr1LtdDl2dlOMrbtwp1n86HtOSScvjfcCXbWsVLv4JCQ9y2z1AfjCx09ql7R+TEPZ58CYr0s4oaX+yxrCnTmP2bMRWnLmmPgcKQ88HfM7sPUr7n8UwmOkcxC4rwo7lgtbSHsxYWBgyFLnOAUsWE6SLtGeYwxJkcuq2lCSKWXbvauyMRtQ30C/doA=;7BV0McLr686FjQrNjn20Lg=="
 ---

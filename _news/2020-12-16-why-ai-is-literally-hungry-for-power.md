@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/reboot/why-ai-literally-hungry-p
 webUrl: "https://nationalinterest.org/blog/reboot/why-ai-literally-hungry-power-174613"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "It takes a lot of energy for machines to learn: Why AI is so power-hungry"
-    excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
-    publishedDateTime: 2020-12-15T14:03:00Z
-    webUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html"
-    ampWebUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry"
     excerpt: "What makes artificial intelligence language models so costly to build is that the data-intensive training process happens many times during the course of development."
     publishedDateTime: 2020-12-15T21:27:00Z
