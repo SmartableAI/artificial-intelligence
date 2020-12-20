@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-tale
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 90
 published: true
 
 provider:

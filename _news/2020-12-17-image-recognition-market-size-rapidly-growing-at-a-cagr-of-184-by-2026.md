@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2211900/image-recognition-market-size-rap
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -21,31 +21,34 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market Growing at a CAGR 17.2% | Key Player Thales E-Security, Nuance Communications, Microsoft, Amazon, Ayonix"
-    excerpt: "MarketsandMarkets forecasts the Facial Recognition Market size to grow from USD 3.8 billion in 2020 to USD 8.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2020 to 2025. Growing importance of the surveillance industry,"
-    publishedDateTime: 2020-12-15T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14"
+  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
+    publishedDateTime: 2020-12-17T11:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Learning Market Growing at a CAGR 19.5% | Key Player Blackboard, IBM, Samsung, SMART Technologies, Adobe"
-    excerpt: "By component, the hardware segment to record a larger market size during the forecast period. The smart learning hardware market consists of gadgets, equipment, and systems that h"
-    publishedDateTime: 2020-12-16T22:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18824787/smart-learning-market-growing-at-a-cagr-19-5-key-player-blackboard-ibm-samsung-smart-technologies"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18824787"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18824787"
+  - title: "Next Big Thing In Image Recognition Market, Which will hit USD 91,029. Mn By 2030 at 15.6% CAGR -Market.Biz"
+    excerpt: "Market.Biz –:Market.Biz offers accurate information and a holistic view of the Image Recognition Market | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2020-12-18T12:13:00Z
+    webUrl: "https://www.eturbonews.com/2186827/next-big-thing-in-image-recognition-market-which-will-hit-usd-91029-mn-by-2030-at-15-6-cagr-market-biz/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 6
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "3wx4uIPNvm3wiG6COe0IdKDhTUtFkikVmE1Fe2ypTGlBLQg1H3btKaVeM8go/AIegrU2VtEl/laY/BK4kzQfO0SuNay+WyvOZPObhSQFJFsQt87Zra+UDdJ30grdGWa5JLgPMxmI78MrApz9UUMnatVmoDLRCbNlnx4iIG3R0nemPPW4kTnRZAw0tT5k6njbMJrFPY+iPG2b0dN1pYPIO1Odw3s1y0/Abxv1pvRGzyVMBTZ8C90Bs6IOoWQGBqx8176foKsafdAocYxUbmGwNCi6U+faYjW0qd0J4UrMIz7fO2FlnypYLMHNDjVZSS6ldZVSdLTpOBSY8E3agCyaI7tuDHpv3IJ/NSiXu70rE+Q=;siGkSGtbS7CY0KxQ6DiC1Q=="
 ---

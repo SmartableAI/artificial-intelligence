@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/"
 type: article
 quality: 119
-heat: 139
+heat: 140
 published: true
 
 provider:

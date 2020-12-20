@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence on Cyber Security and Pandemic in 2020"
+    excerpt: "As we come to realize after a long and trying time in 2020 with the effect of the pandemic 2020. It became an understanding that the use of technology became more fundamentally important to us with lockdown being implemented."
+    publishedDateTime: 2020-12-20T02:41:00Z
+    webUrl: "https://goodmenproject.com/featured-content/artificial-intelligence-on-cyber-security-and-pandemic-in-2020/"
+    type: article
+    provider:
+      name: Good Men Project
+      domain: goodmenproject.com
+    quality: 56
+    images:
+      - url: "https://goodmenproject.com/wp-content/uploads/2020/12/artificial-intelligence.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Thales Speakers Bureau: Experts to Ponder Quantum Technology, 5G, Digital Identity, Cybersecurity and Artificial Intelligence"
     excerpt: "Quantum technology, 5G, cyberdefence, cybersecurity, biometrics, AI, self-driving cars, drones... Thales experts will remove some of the mystery surrounding the technologies that will shape the world of tomorrow."
     publishedDateTime: 2020-12-17T07:44:00Z

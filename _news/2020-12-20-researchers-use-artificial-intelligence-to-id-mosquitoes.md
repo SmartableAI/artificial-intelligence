@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-20T00:16:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Research: Scientists use artificial intelligence to ID mosquitos"

@@ -1,32 +1,28 @@
 ---
 category: news
-title: "AI And Its Potential For Cybersecurity"
-excerpt: "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before."
-publishedDateTime: 2020-12-18T12:20:00Z
-originalUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/"
-webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/"
-ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
+title: "Artificial Intelligence on Cyber Security and Pandemic in 2020"
+excerpt: "As we come to realize after a long and trying time in 2020 with the effect of the pandemic 2020. It became an understanding that the use of technology became more fundamentally important to us with lockdown being implemented."
+publishedDateTime: 2020-12-20T02:41:00Z
+originalUrl: "https://goodmenproject.com/featured-content/artificial-intelligence-on-cyber-security-and-pandemic-in-2020/"
+webUrl: "https://goodmenproject.com/featured-content/artificial-intelligence-on-cyber-security-and-pandemic-in-2020/"
 type: article
-quality: 87
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Good Men Project
+  domain: goodmenproject.com
 
 topics:
+  - Machine Learning
   - AI
+  - AI in Security
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ca54a147a4f0006753ed7%2F0x0.jpg"
-    width: 1200
-    height: 800
+  - url: "https://goodmenproject.com/wp-content/uploads/2020/12/artificial-intelligence.jpg"
+    width: 800
+    height: 500
     isCached: true
 
 related:
@@ -62,19 +58,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence on Cyber Security and Pandemic in 2020"
-    excerpt: "As we come to realize after a long and trying time in 2020 with the effect of the pandemic 2020. It became an understanding that the use of technology became more fundamentally important to us with lockdown being implemented."
-    publishedDateTime: 2020-12-20T02:41:00Z
-    webUrl: "https://goodmenproject.com/featured-content/artificial-intelligence-on-cyber-security-and-pandemic-in-2020/"
+  - title: "AI And Its Potential For Cybersecurity"
+    excerpt: "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before."
+    publishedDateTime: 2020-12-18T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
     type: article
     provider:
-      name: Good Men Project
-      domain: goodmenproject.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://goodmenproject.com/wp-content/uploads/2020/12/artificial-intelligence.jpg"
-        width: 800
-        height: 500
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ca54a147a4f0006753ed7%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
     excerpt: "Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, today announced that Ryan Shopp has been named to the newly created position of chief marketing officer."
@@ -114,6 +112,6 @@ related:
       domain: businesswire.com
     quality: 5
 
-secured: "6c38dv6r0nlLC4y391Bs5LaP6CJC0lztGuB9vmBwi/GLOnY3/RFKR5Cd6uE+NwTmVNIRi1/yp9awUn+AoQJDmtH3wqN2x9NzJg759XWXssUgaSUXy13EvrMVMW/4GkEuq1Xv9ijfR45uPcjgAzSi8FKxzI2p3v19dPKB8y9RbR1kPjh910xzbsz9oNaC55H1wiQhTqotbcKEukzyrUK6AYjZkJkOn4RSmWyrZvHunuE8kEhAZwKRtUwEVURUyKpBVkH5Jjyl2Xhh+CeNjyLpKxoQIhIZfUCJ/z2UWNquVnBOfRGQv/Cuv2LKKhSPH4uUQ8A0azVtyQv87V1gFQmcNQZc5H2b3y1F3WgsfBd+f0+voikDGd6IK/KfpRqKM0Wyl9i4Xf6mRjomrW7UDLNqi1ERmumqSZgJ0EMEyWuXn+dZbKRVtI88v8fv9H5IXAapGZFrfdyXnnHNQYo6/9rCAOQChvIFviUiOmJ6/JYeWyM9n2lSxo7wQMoV8ZR5Ibq9C4AhljGYeLV/Ifkqm4pF1w==;qndBZPaf9Ro2kwUUxXGYKw=="
+secured: "r08nbQ3Ry7rHe7n4ZBahy3HWxxiNpkYZA+a46cojKEUDdXJ/Et6xBZPeXtBtYgp8++ONc9mEz39rfxThLSk18IqI7A3Otn4fVUmUdIyK80oH1zVUDPNeUtF7CbryXhR4q2qgjeadP/SrGL6FI9zmJ33MeHCMk/FkkEjF3HUjBXseRyqBiQBUQQAoV0vZNuEgsHDADJwmKrQLFaz42Oc4shns7FaPdAW8KH0WMukEYUIlqrgdzqpXQ60QsmTaGPZuWXJsdVhEVB4O/YJIG/UH8UhvL9Zuad7sAn1AFvlStOIb0KdIBPRCkTBuRoxvY1HB8NRmNF9UjGwHyWzTZ8g8aBdt/Bji/LLrAbnBwxPjPsI=;NjdI+tzg0W+UMgkbBu/ZgA=="
 ---
 

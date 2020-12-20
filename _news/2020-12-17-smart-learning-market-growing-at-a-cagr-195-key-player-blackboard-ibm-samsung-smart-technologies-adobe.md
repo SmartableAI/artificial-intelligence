@@ -21,31 +21,17 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market Growing at a CAGR 17.2% | Key Player Thales E-Security, Nuance Communications, Microsoft, Amazon, Ayonix"
-    excerpt: "MarketsandMarkets forecasts the Facial Recognition Market size to grow from USD 3.8 billion in 2020 to USD 8.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2020 to 2025. Growing importance of the surveillance industry,"
-    publishedDateTime: 2020-12-15T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Size Rapidly Growing at a CAGR of 18.4% by 2026"
-    excerpt: "The growth of the image recognition market is primarily driven by the increasing application of facial recognition in the financial industry and growing demand for security applications integrated with image recognition functions. Request for a sample ..."
-    publishedDateTime: 2020-12-17T08:25:00Z
-    webUrl: "https://www.openpr.com/news/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    ampWebUrl: "https://www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
+  - title: "Key Players in Machine Learning Market 2020-26 :Amazon Web Services, Google, Microsoft, Hewlett Packard Enterprises, IBM and more"
+    excerpt: "Global Machine Learning market was valued at US 1 7 Bn in 2018 and is expected to reach US 33 4 Bn in 2026 growing at a CAGR of 44 3 during the forecast period The growth of the machine"
+    publishedDateTime: 2020-12-16T12:19:00Z
+    webUrl: "https://www.openpr.com/news/2211251/key-players-in-machine-learning-market-2020-26-amazon-web"
+    ampWebUrl: "https://www.openpr.com/amp/2211251/key-players-in-machine-learning-market-2020-26-amazon-web"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211251/key-players-in-machine-learning-market-2020-26-amazon-web"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 23
+    quality: 46
 
 secured: "AoIKJcrxN/e1QqjwSmlS1MDFzHD4I23bWhkHdIChcrgRjp29Wzr4E/VH4DFtWPGHKjXECnCHpkModR/ZOe4TNVYVDFtCZVjoxKfExyrF6Ot6bAZq9gGvAFbriYXPKkndCQ9tF3RJSwPT5mGym47K0Om4tEcrmUTWhU80b+9eiznca4wNC33rZR4WCc/CAyDqLR1OwhClGxZrKf08CrQLYTYux1EpcjIn4i/Im/TdmHqZ8ggnAHb/xWVqExVaF3NVurD/n/iWqlVjWvIC/WQoAhUrNzC9KC4ZmPGI3NYMWEIxjop5j0ORxjY2Rq/VSXEeVJNv42RucPiS7iMGYLbY8QrSYQrh8q1lJJvPE972IBiQlNCtFrPD+exYPFvJ2oRLz3oyLQeXbZZyrhrEE3KChUYpZWtvgo4V9BmjLSXZ3c7RNDNv//jaeqeTzG3GV9anEfAq26mIzqt6OFzUZO3eRoxdVh3k3XiPg0VkdRlowTRiL+unIlKBLyv1YSmjShvuZoH2G5/Dk/DR4ZgQ6U/2Og==;HCY+UWwJcofxyx1Wd/kkRw=="
 ---

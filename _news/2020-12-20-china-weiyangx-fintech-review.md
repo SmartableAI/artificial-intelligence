@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-finte
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Basic Things Every Person Should Know About FinTech"
-    excerpt: "The world of banking, trading, financial advice, and financial goods seems to be transformed by FinTech. The industry is booming, with new players getting"
-    publishedDateTime: 2020-12-15T09:57:00Z
-    webUrl: "https://www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech"
-    ampWebUrl: "https://www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech/amp"
-    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech/amp"
-    type: article
-    provider:
-      name: iLounge
-      domain: ilounge.com
-    quality: 44
-    images:
-      - url: "https://www.ilounge.com/wp-content/uploads/2020/12/5-Ba.png"
-        width: 1200
-        height: 782
-        isCached: true
   - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
     excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
     publishedDateTime: 2020-12-16T05:35:00Z
@@ -57,35 +41,7 @@ related:
         width: 664
         height: 664
         isCached: true
-  - title: "Our favourite fintech apps of 2020"
-    excerpt: "Team AltFi may have spent most of 2020 in lockdown... but we also downloaded quite a few apps. It’s that time of the year again. The AltFi team have trawled through their smartphone home screens to reveal the financial apps that they found most useful,"
-    publishedDateTime: 2020-12-16T05:32:00Z
-    webUrl: "https://www.altfi.com/article/7382_our-favourite-fintech-apps-of-2020"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/our-favourite-fintech-apps-of-2020.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
-    excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"
-    publishedDateTime: 2020-12-16T22:00:00Z
-    webUrl: "https://www.law.com/americanlawyer/2020/12/16/as-fintech-stays-hot-reed-smith-hires-partner-who-led-2-big-law-firms-payment-tech-practices/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 12
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/405/2020/12/Reed-Smith-Office-Sign-Article-202012161651.jpg"
-        width: 621
-        height: 372
-        isCached: true
 
-secured: "x4nPTzPBDqcXrfqGf0fiPyqEPqM2Q5FQmloqNehXBvqyhwjja5e+bmFeb2X7vYfPqiCR5QKkrt/k8EMUtCKjzJkxkSgGumwGqVXH6h28L8nG+7s9vbkMhXjn//YU43rBIsdibZfQHa5FSEnFLhumjar2Y7m3A8AIESGYhJbsoKsEIkjZAZfeBsg1e7U5eBXzoPVtY8oPMcxNBngLwpwVizMdy4iYhAwB2/uzTxDo6gNK4zX6SkwTk+8Z0QuuDw1+nFtTev3dTGK/uQglmKCq+urHTO0spN8XWBSl2YgNibys4YzkZYvlMRrZWbwCw9XUUxCT6RbaAI0cVKqaiCJMYTNc/fsYRPXDksum00TY9rM=;wx7MZrkGNJPEgVz/eohWUQ=="
+secured: "815tTTnzOlAg+SLZx4CWc5DegUST2a7nHqRj5EDzzit3OPkmG22FcQAOxefNcsbtAG7B4E8GChM1QVaLzFpdHtTfuDL3xh3CsoWshiedwIs8qbQSPEUmTHAAb/kCIuEHqZsCmg+wYaXAM6DjBTYcCcj9FalxR4aKGkL9WRDo+krD9Uenhxgh0u6eV0BY+L5IE9PQlIiD0L/XQ0wUIwGOp3QdwfdcimY3agGVUqZqb6RbmS2WYqlmkbcpI0/0zR8uKdzRijlK4uCb3ihyUn+5lHwDYdD8MNkX6Ok+IlXltX3cZoPIC8cRzjx2Ms8wKP91vMG8lfMqnQDgJRBne4U6MA1/c8Je/c6K45WQk0Cdez7Kw91oty6FMUVuMENgyd9fg5qzyfQfBIwMsVeiF+bAPpc1wedPVZE/loQxp1KpJaI2sfWPCWYfVhHe0vdrEBQIMg7OO5LpC2uIJsxDhJHnFpoZJc0nE3+rV8Ux+BHv7vrA37nDMjCTC8TNe8Lv7bCjlQcuhX0int5x4fQKtb/WZw==;TrXR2LmoQurkY+a1WUE7uQ=="
 ---
 

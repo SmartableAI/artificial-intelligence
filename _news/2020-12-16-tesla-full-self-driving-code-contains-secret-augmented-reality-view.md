@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Full Self-Driving’s cool augmented reality view previewed by noted hacker"
-    excerpt: "Driving beta seems to be getting cooler by the week. In a recent set of updates, noted Tesla hacker-owner @greentheonly found what could very well be one of the coolest features of the advanced driver-assist suite to date: augmented reality view."
-    publishedDateTime: 2020-12-15T10:49:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 55
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-fsd-augmented-reality-view-1024x632.jpg"
-        width: 1024
-        height: 632
-        isCached: true
 
 secured: "0ti1NskIZAQyWEdv102tqrJwD4W5hYM0hDeK1UWYsFxY8Fs0Lg6lEruf3LKNivVlxLyICoERm4pYpGvu9REhKET6AKsp/0QIHht583YBpRpHZNx/u0JL9jHFmowK32m6fc/OBgMogT8tsCWrO6Yc2DxdjG06RQ0vhQ8Yj0shQhfov21sfwevEsh5zkHwnyRUgMXT9DBCbAExT7kN4Tw6ohxbXeIhvTnQ1UL+jQcp0GGGw488QmQ3XusIb6oZIqWwbAmhvFJcA+KzkGYQcOSUxj4vln9q4GWnvk2NJ+Xilqh0Tww/7EkHwmQg+o4xm+njCN1jWi9QGMZo15eh7m2GgEVV/aVS7e75eUXBYksa0+A=;RMFvg7rCkqdupz9SixCQuw=="
 ---

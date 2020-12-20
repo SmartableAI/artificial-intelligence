@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-teams-swit
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 899
     isCached: true
+
+related:
+  - title: "Cut out background noise on calls with Microsoft Teams AI noise suppression"
+    excerpt: "AI allows Teams to reduce more complicated noise than traditional ... A new breaking report from Bloomberg claims Microsoft is developing its own ARM-based processor. The chip could be used for servers, but another version may be designed for Surface ..."
+    publishedDateTime: 2020-12-17T19:16:00Z
+    webUrl: "https://www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression"
+    ampWebUrl: "https://www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 74
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/04/microsoft-teams-pc-2020.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "nuWAr4FGzTvqb2ZaSmse18F5YblFbw+VnMg95zi5dw2BBsNSIIXCB4M0TTJq62iHGDYb1W7E3m1BPrMDNaywFfRJHpKO2o/93htyDWrECxFBMGoN7V/PHDNA531X4sHdLluASa0RI4icb3ulFBshYawnjQsVkZ0vcHPL33idiZVmCdiyywcVsNn3G0jZdcZSyVMsYK/nQ8YBcARBAIIEp0wCoIcJ9v/Gl2zfept7Gkbn0baAJqsFk8LWocy+d/R42Vn5PjEV/Xqil/IWHPzbPQHObXZPbYsCU4KcG2LmQTdBRMRD6Vab36JbwYNYXlcDcDNWpPpbAx7wsvdo8ijohIgTErvhugU1F7pKorTFhjE=;S/zl3HRldK7Ud9tAwhZ0Ug=="
 ---

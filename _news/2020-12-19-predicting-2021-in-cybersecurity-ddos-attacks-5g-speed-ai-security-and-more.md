@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence on Cyber Security and Pandemic in 2020"
+    excerpt: "As we come to realize after a long and trying time in 2020 with the effect of the pandemic 2020. It became an understanding that the use of technology became more fundamentally important to us with lockdown being implemented."
+    publishedDateTime: 2020-12-20T02:41:00Z
+    webUrl: "https://goodmenproject.com/featured-content/artificial-intelligence-on-cyber-security-and-pandemic-in-2020/"
+    type: article
+    provider:
+      name: Good Men Project
+      domain: goodmenproject.com
+    quality: 56
+    images:
+      - url: "https://goodmenproject.com/wp-content/uploads/2020/12/artificial-intelligence.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
     excerpt: "Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, today announced that Ryan Shopp has been named to the newly created position of chief marketing officer."
     publishedDateTime: 2020-12-17T15:18:00Z

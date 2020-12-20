@@ -100,17 +100,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
-  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
-    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T10:18:00Z
-    webUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    ampWebUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
 
 secured: "kz1wWzVr4LVUodvHsFUYAxAnvPcBfhITH8SlNtXD/fmHVhMK6Fx0cBlKYrXZo6Mfw2/TwgrUyfeHSc4ifW/QDw8WWU3Ss1BNdjf2RI/iexWIQL0ff8NzKTe5ATfJhdxBBIgD8fCUMlNypKmvJZsdDIewZ4uGEO2nleWykD3Wr/sNHCd68LA7PXrtmc2+z7iJNvLM9eUTyf2Ycgae+EKH/Ao+4JDC2Q24KGVz+IvVjJJtfP7Kn5toFQ+Apt2de6o5R6HSPBe5T65GJDPvZSZZKfwN5YNmXqlPM81C+gKxrwBse4/J6kgyOSCre2vxTjF5Vv+zWB2uIo0aPdi8Y5XGddbKkET/HdfwXa8hFn3ZSJK/cNFOjb0aMVZoL48GUaxAqtnhj4AdEykxpYZ16yQJBHMhq9q/l+/xxkANcQb5Kn0SAz886ppI0XTNjDtwYtMWLPRrBveCDBOTO2L03yzGO5a81/2fUW0723ih6PCeLph7Rkh6oYALUSnDBVuFg26ZtmWeQoMsO3c4yNN4rZ1vmA==;zD8dgN9I7rCQ/nA37nDMUg=="
 ---

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Reply: Machine Learning Reply Wins the Airbus Quantum Computing Challenge"
-excerpt: "Machine Learning Reply, the Reply Group company specialized in Artificial Intelligence solutions, has won the Airbus Quantum Computing Challenge (AQCC), the competition launched by Airbus in 2019 to address some of the major challenges in the aerospace industry by leveraging the computational capabilities offered by Quantum Computing."
-publishedDateTime: 2020-12-17T10:04:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-italy-industrial-products-and-services-e288e4cb10eb465a96669b647c0fcb06"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-italy-industrial-products-and-services-e288e4cb10eb465a96669b647c0fcb06"
+excerpt: "Machine Learning Reply, the Reply Group company specialized in Artificial Intelligence solutions, has won the Airbus Quantum Computing Challenge (AQCC"
+publishedDateTime: 2020-12-17T13:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201217005030/en/Reply-Machine-Learning-Reply-Wins-the-Airbus-Quantum-Computing-Challenge"
+webUrl: "https://www.businesswire.com/news/home/20201217005030/en/Reply-Machine-Learning-Reply-Wins-the-Airbus-Quantum-Computing-Challenge"
 type: article
-quality: 53
-heat: 53
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "JOK2Vrv4t0XoQm5qr1L+dMgt3SJfmyEMsoqwZisujsiIsvWrcljIM6h9jECA4XxXkfSaG9FrejGuU0eSimn1UCP3znlWp5dwjLsN683NPpC5mr4tUdg8meBL4HtEr2WMXxywn4+mPhmqU0byJrqq4Iva8eLQuk7bU/OKhU3FVT/rgrVXPC1VIrfEzhZ/cg7LTFxcY43sdo8iN5Ivt1AveITMMRK/y+g0DMw7kd0X53AS0XyxmnIeoe02m5Q2/mLWXT7vRkGgXkEuzWX3O7tjFmABx+5tuAr1HkQ61LWyGu0GD+cjdEhadMsBOoXvtYVfBIuNWise6s9VTR7QAW7rHONCR4RNq9j/d4yHKkTU74s=;cWc+OYQ7XiBx3AIwOf9HCA=="
+secured: "qHTzyIZXfW4zWu+lFCiF9Tzk/f1azzxuCNsriiiSdWJJK4GHVIVFUFPXAhyahYUQhK/uE2SUldC002TmfW5B2kJlJ0U58ObbfikgrXo2j424/z3H7jpEyh3kgL0wW1xMF0Eb6NKZOw8CI8mUSqbpoqQy2EgkFJoCGqr+gSE0BwNpG2C1IMhW5D1b9++YuEnZoc4O426MeSV1x5ccP3B8zrVwGDQV0mKgDMNn4IYAVCcdGGBcZ1NQRBwpYkPZfppQDnL6ZbKidehsz+lQLBFo8FQ4ovVkzWUEq4IFiV086RRcVn7UrPR69j+1PhQR1JhAsafUyKr3mGAcbbeYc++n52C3HHUbChPZzRfQ9rEv9gVRqArwLyJnoQg//6Bhd3QPjaW/CkLgI7WWUwx59ylpoXswwfo+uMEpTbUiKQI+OUUDi1nvet0OAE48N/oRU4+2m5W35XCF3h2D/rs+OIImHE+fSX7KrF/ncMUnosfrHOc9hSB3e73iemm11YD+a/YnY/rA0bqTpnh3YnYv28gKTQ==;XOjyMdI5WP93QSTJyyDh1g=="
 ---
 

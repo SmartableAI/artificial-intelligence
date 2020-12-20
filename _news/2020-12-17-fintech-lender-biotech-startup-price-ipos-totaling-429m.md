@@ -3,8 +3,8 @@ category: news
 title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
 excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
 publishedDateTime: 2020-12-17T03:31:00Z
-originalUrl: "https://www.law360.com/banking/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
-webUrl: "https://www.law360.com/banking/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+originalUrl: "https://www.law360.com/california/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+webUrl: "https://www.law360.com/california/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
 ampWebUrl: "https://www.law360.com/amp/articles/1338324"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
 type: article
@@ -194,6 +194,6 @@ related:
         height: 315
         isCached: true
 
-secured: "vI6F9J2EFvei2glj9B5aVYS7uagL4HN0bxyjqgxtA+ghF2nChoLAKhZq0MIJ568PvXGDWBa0x6F+lgFEvcoO9UIlx2PbxqD0yFMRKhmvaSCrx9ES4fCUIPEKwt6pNiiK5amtxEOub2dXh5xlinet98tNcXAI/8c3WW8+DkEmjzFwT+9QYbP/qjC0LXoh+52spl9Nhh8+qfpH5n/uh+IwXzDaFpEmXJYo3SUy3vON+2XsWUjfieOuxF6aTk71t/tHEFADhWCXXrjzPg2tfDy4xjT+R1SD0XtVYaUPPVyJpA/trkeR8zhlBnH0JA90UZbfKzxd1FgYihW670InPbc0KJaGObVxkWuNxQc9FAMFuwY=;kuzkUUkiLRhZVzi9rwuAOA=="
+secured: "1Mn+NhQhjLsjGvkU1DKyBgNzLy6IAIq8tZvvtQMcqvTooxxNZZRdCSSHBg34lzEMhDorAML4cKwhfH70i25mXIkciYyKRl9AYcWsdWLC+RdExfb//7REWobWZ6s/JSRNC7LhpcF0nsU/blgCv8O5BVKePhdTeQziL34LUGXVNaZ07mSCGdMnNMICg79WMCHvS2Uzq0IAGm0VBlXWPcPVAnaMwSlPL7W+VcMb/U5LQSZ2iHj8BePvZD/n2MSxbcGkTaf4qTDcck2mDpn7V300DdHVMtsfpcv75ZTY3Wh8RNJzFUV5/qOWQDIKgHuGDR9M7zBYIKtzMg/URH+vL60MfZGxi0bubuwW0Z47w/Wnffo=;ljpWBzPQONg6m7URgaJK4A=="
 ---
 
