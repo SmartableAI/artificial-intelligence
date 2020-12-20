@@ -57,6 +57,38 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Upstart Jumps in Trading Debut for Fintech Company"
+    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
+    publishedDateTime: 2020-12-16T20:00:00Z
+    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "The frenzy behind fintech"
+    excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
+    publishedDateTime: 2020-12-20T21:46:00Z
+    webUrl: "https://www.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    ampWebUrl: "https://amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
   - title: "81 startups that will boom in 2021, according to the startup experts: venture capitalists"
     excerpt: "Investors at the best venture capital firms name the startups poised for a big 2021 inside and outside of their portfolios and across industries."
     publishedDateTime: 2020-12-18T21:13:00Z
@@ -132,6 +164,36 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
+    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
+    publishedDateTime: 2020-12-18T03:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
+    publishedDateTime: 2020-12-18T10:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "kYGHesV3/KbSRfsyWu1aRhWcVZ5+zOq7m16l3zDglV026hIc1E3ELKTuNMyB3T+ZAJ2miMrxMo4GaHkk/ICEyl/TyW1bQZs5HKhMgHshAPJ7CdoR6STSOJEI3Zqfb+va17+/uYTzRk69zBUHJHxWxPBMA7qG9y8rPsnOXbA0hzJTa8shmVDQPCWlKEARIYy95eLcDAjfAhPgRxkCdC6YVIXlzN/BQsCmRuhSXJha+OA4qsczrgAsdv4m8F51Ljs2NnGmHbhgMfdnI2WQG5jXjk7zi5gHMVF/pSmqg9bC5N2kGXN8EjY69ukIyYnNh2XPsXAKPHi1FE6EepEia4gfXGZ3aGKo5ufOSIUPTmUou8UCMrRNWVVoC7SAxQEzSZgsVwVPlnMYvAcKH54zpweKrUtKBsfVsm2PYfgbtN9HYM3LVhQEWKCx4xtTgg4vCVWVXf5USGwRiyz2oeJWBp77C3oRs1bFKhyx7/fpA7DiuysZFChnOyJRFwC1pVLLosK0i9IKleS8nNE702J4p0Ewtw==;GopKJwpUpHY//3jkdaKQuA=="
 ---

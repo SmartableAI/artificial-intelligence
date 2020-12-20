@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Advances in facial recognition technology could amplify the persecution of minorities, AI experts warn"
-    excerpt: "As AI technology rapidly advances, experts say people of colour and other minorities around the world will face further persecution without regulation."
-    publishedDateTime: 2020-12-16T05:22:00Z
-    webUrl: "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn"
-    ampWebUrl: "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
-    cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 58
-    images:
-      - url: "https://sl.sbs.com.au/public/image/file/ee9a2d46-4aa0-4ba7-a1ff-7a20fc88edc0/crop/16x9"
-        width: 850
-        height: 478
-        isCached: true
   - title: "Alibaba offered clients facial recognition to identify Uighur people, report reveals"
     excerpt: "Software could be used to identify videos filmed and uploaded by Uighur person, says IVPM First published on Thu 17 Dec 2020 05.42 EST The Chinese tech company Alibaba Group Holding Ltd offered facial recognition software to clients which can identify the ..."
     publishedDateTime: 2020-12-17T10:46:00Z

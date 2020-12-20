@@ -23,22 +23,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "News: Mumbai-based smart calling startup Callify.ai raises $560K in seed round"
-    excerpt: "The platform claims to empower users to screen leads without calling increase closure rates reduce cost-per-hire and conduct performance data analysis thereby eliminating over 70 percent of wasted or"
-    publishedDateTime: 2020-12-16T05:14:00Z
-    webUrl: "https://www.peoplematters.in/news/hr-technology/mumbai-based-smart-calling-startup-callifyai-raises-560k-in-seed-round-27913"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1607408649/ad-hi518hqm.jpg"
-        width: 990
-        height: 550
-        isCached: true
-
 secured: "gIsNr2wiz5Vql5t9ZJ+ny/TdRqcjkUwt59G3tVlVWv1+Azqcok95/hcO1R8v514AYJJg0If/EAOQ63O2He4Ltsn0Z7zNbc/qpYim0ZM+n8R+UL5ntprQnugtpxV0IIQRiZMiI37j0n/53x6ruWLQhtcfQzASN7ski2cW/DyA0YX9sYgHf8ZsBLkr03NqddTrHACd7JgIZBOs8hVXp9s3hXJgRc7rX6aoodOepdeGw9JdTp7ausOGPb412zpDqf7UkfnvE8sQgH/DWpKvh9eTIZ3eIi2mmG+kBcV6IxrmplDdeqRypZEFIj2tN4qDAjG0byCflh7FFRY27JdkZRyYdzanPfBtWUvg6LotX5UTjgc=;dL4+IIkHFZHCFZtzi4dL+A=="
 ---
 

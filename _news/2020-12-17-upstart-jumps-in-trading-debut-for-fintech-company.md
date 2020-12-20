@@ -27,42 +27,142 @@ images:
     isCached: true
 
 related:
-  - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
-    publishedDateTime: 2020-12-17T15:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+  - title: "IBM Acquires Fintech Startup Expertus To Strengthen Banking Solutions"
+    excerpt: "IBM Corporation (NYSE: IBM) on Tuesday announced it has acquired Expertus Technologies Inc, a Canadian fintech startup offering payments and cash management solutions."
+    publishedDateTime: 2020-12-16T07:20:00Z
+    webUrl: "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18809433"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg"
+        width: 2832
+        height: 2832
+        isCached: true
+  - title: "IBM acquires Montreal fintech solutions provider Expertus Technologies"
+    excerpt: "IBM has acquired Expertus Technologies Inc, a Montreal-based fintech company. Expertus, a financial technology firm that processes more than $50 billion in"
+    publishedDateTime: 2020-12-16T14:00:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 44
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/07/Acquisitions-header-2.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "The frenzy behind fintech"
+    excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
+    publishedDateTime: 2020-12-20T21:46:00Z
+    webUrl: "https://www.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    ampWebUrl: "https://amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "81 startups that will boom in 2021, according to the startup experts: venture capitalists"
+    excerpt: "Investors at the best venture capital firms name the startups poised for a big 2021 inside and outside of their portfolios and across industries."
+    publishedDateTime: 2020-12-18T21:13:00Z
+    webUrl: "https://www.businessinsider.com/vcs-name-the-startups-that-will-boom-in-2021-2020-12"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 61
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+    quality: 43
     images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
+      - url: "https://i.insider.com/5fdcea1bc910a400192e85bd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
-    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
-    publishedDateTime: 2020-12-16T05:35:00Z
-    webUrl: "https://allafrica.com/stories/202012150316.html"
+  - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
+    excerpt: "New York, Dec 16 (IANS) Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a move that is aimed at strengthening IBMs portfolio as an end-to-end digital payments solution provider and further advancing IBMs hybrid cloud and AI strategy."
+    publishedDateTime: 2020-12-16T12:06:00Z
+    webUrl: "https://www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
+    ampWebUrl: "https://www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
     type: article
     provider:
-      name: AllAfrica.com
-      domain: allafrica.com
+      name: Sify.com
+      domain: sify.com
+    quality: 24
+  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
+    excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
+    publishedDateTime: 2020-12-17T03:31:00Z
+    webUrl: "https://www.law360.com/california/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
+    excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
+    publishedDateTime: 2020-12-17T04:00:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214846-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 24
     images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
+      - url: "https://www.siliconindia.com/news/newsimages/5uFf8ylk.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Montreal-based FinTech Expertus acquired by IBM"
+    excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
+    publishedDateTime: 2020-12-16T17:21:00Z
+    webUrl: "https://betakit.com/montreal-based-fintech-expertus-acquired-by-ibm/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
+    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
+    publishedDateTime: 2020-12-17T23:54:00Z
+    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
+    excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
+    publishedDateTime: 2020-12-16T12:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/12/16/ibm-makes-another-cloud-deal-acquiring-fintech-to-boost-payment-technology/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 22
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
+        width: 577
+        height: 324
         isCached: true
   - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
     excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."

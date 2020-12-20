@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Deepmind shows need of deep pockets to pay for AI"
-excerpt: "Google’s London-based artificial intelligence laboratory has used up a further £1.6 billion in capital, underlining the cost of conducting advanced research.Deepmind made losses of £477 million last"
+excerpt: "Deepmind made losses of £477 million last year and its Dublin-based parent waived a £1.1 billion loan to the company. The heavy losses reflect Google’s continued investment in Deepmind ..."
 publishedDateTime: 2020-12-18T00:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
-webUrl: "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
+originalUrl: "https://www.thetimes.co.uk/edition/business/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
+webUrl: "https://www.thetimes.co.uk/edition/business/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd3f0b550-408f-11eb-87aa-2b872fbc5d91.jpg?crop=3343%2C1880%2C354%2C604&resize=685"
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd3f0b550-408f-11eb-87aa-2b872fbc5d91.jpg?crop=3869%2C2177%2C91%2C456&resize=685"
     width: 685
     height: 385
     isCached: true
@@ -108,6 +108,6 @@ related:
         height: 330
         isCached: true
 
-secured: "lQcOwE02QFSP039zeBgRahIkQxVtsPZ4jFx4VCKFyRUdAbe1x1pKo0q0Hkv9PYPS49ZrWeG2yCfDkZyNTXBJKwXHUim0JeBX46+LzDR6k0zqhzDN5zqUVCl9EdOrzfhXCqRpqG10pUwSGLkRorJZh16U/Hwe1SZFBDLl50rJ6fiBkztFBqO11SsYx8Ba7zNV3pY74XTJ1ffqATr1+3vrgkJf7u1m3R7w7q76UhWV3/v7OyRDK3CmaSuJRfaHX3A2CVtNbmJvP4UDypPCf6tI7woBMDyaeK2h6MyhudPqAwfFBRyRBCljSKdr2OkperJkWFBoqsHbwJ9y1hVKr4WUzJop61aCK+23JvnlYFmtJOfy3ydAtcfJGMLmp3ovi18f41M/dJDYtFIAYOzN6K9w7ifCHeJrh0EU09KgPjPHvFwhQQz+3tGJ1m19yJgT7NbfDMNzr8QOI1ajLsiJMydVOc4PvO+ihXv1IVznEcmEFcVZlVPrv+1SpDQNZDK6RXjmAqbwwWA2g/MxeUR/rK6jMw==;0eXJL61D3Az+zSD6LqruYg=="
+secured: "cnsxjLtRBc8JLBs3qp+UpkyBvSlFocmGKVHbr/1ElXstcep5vzUuS2LkOF9W00GXuM38Bk432JLYX7vWO03PWROkJ/LBBt2uIzN+GnufF7LACZWzeN3v6TLjf3x9mYHyItOaL2ZUbizZHGEFABcY9Ec+4Ia508G3ZvmGGUB/6KaGmNT0yeqjKjn74YzpeVVi8S2/j5TuBZTTepWVDQrYIFoYutmg6DIrNwB/3sg6AvatEYjJjKgMXV8NCpCx80Hm9G0/cjJnqIs5o/5+Q5LGr6Gt0gt5IO/aNq1xa62w4T2Z7YHzbqrQ+WyStC9mc94x1Qj8whpffJPXmiNTdeYpRM39JSQ2UZTrrRIf7dgoNIk=;W8HfwuWdXIp8ze0/cWAFpQ=="
 ---
 

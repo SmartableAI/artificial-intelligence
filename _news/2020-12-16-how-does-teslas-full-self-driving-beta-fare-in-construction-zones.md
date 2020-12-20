@@ -43,6 +43,22 @@ related:
         width: 920
         height: 470
         isCached: true
+  - title: "Full self-driving mode will open to all Tesla owners with monthly subscription"
+    excerpt: "SEE ALSO: Tesla full self-driving manages San Francisco's famously curvy Lombard Street But for Tesla drivers leasing or using FSD only at certain times, the more flexible plan could be worth it."
+    publishedDateTime: 2020-12-20T20:47:00Z
+    webUrl: "https://mashable.com/article/tesla-full-self-driving-subscription/"
+    ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-subscription.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-subscription.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F12%252F20%252F4e%252Fba6566c6d4e2470a85815d9b9b3f5dcd.5f4b7.jpg%252F1200x630.jpg?signature=U3Nf-zCE7RTFZerpgw6doPX7eIw="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla is going to release Full Self-Driving monthly subscription in early 2021"
     excerpt: "Elon Musk has confirmed that Tesla plans to release its Full Self-Driving software package as a monthly subscription service as soon as “early 2021”. Be ready for a surprisingly high price. Earlier this year,"
     publishedDateTime: 2020-12-20T17:57:00Z

@@ -2,49 +2,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_news/2020-11-04-google-acquires-deepmind-an-ai-development-company-for-400-million.md",
-      "title": "Google acquires Deepmind, an AI development company for $400 million",
-      "excerpt": "Google has reportedly purchased Deepmind, a company specializing in Artificial Intelligence based out of London, England. The purchase is worth a reported $400 million USD, although that figure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/3/5/35093_1_google_acquires_deepmind_an_ai_development_company_for_400_million_full.jpg",
-          "width": 800,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
-      "publishedDateTime": "2020-11-03T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-04-artificial-intelligence-creates-a-bad-christmas-song.md",
       "title": "Artificial intelligence creates a (bad) Christmas song",
       "excerpt": "The \"neural karaoke\" project from the University of Toronto is a demonstration of what artificial intelligence ... day be able to drive around in her self-driving car while she schedules an ...",
@@ -1173,6 +1130,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-nvidia-geforce-rtx-3080-review-the-best-gpu-for-4k-gaming.md",
+      "title": "NVIDIA GeForce RTX 3080 review: The best GPU for 4K gaming",
+      "excerpt": "The launch of a new GPU is always an exciting time ... and third-gen Tensor cores that offer sizable gains in AI-based tasks. Ampere delivers massive gains over Turing, with NVIDIA making a lot of changes under the hood. With Turing, NVIDIA enabled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/nvidia-geforce-rtx-3080-review",
+      "originalUrl": "https://www.windowscentral.com/nvidia-geforce-rtx-3080-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-geforce-rtx-3080-20.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-rtx-3080-review?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-rtx-3080-review?amp",
+      "publishedDateTime": "2020-11-03T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market 2020 Dynamics, Trends, Emerging Growth Factors and Forecast to 2023"
-    excerpt: "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
-    publishedDateTime: 2020-12-16T05:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-dynamics-trends-emerging-growth-factors-and-forecast-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise Artificial Intelligence Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
     excerpt: "Market Synopsis The Enterprise Artificial Intelligence Market is estimated to record a significant growth throughout"
     publishedDateTime: 2020-12-16T13:11:00Z
@@ -142,20 +128,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
-    excerpt: "Market Synopsis The Artificial Intelligence in Transportation Market is estimated to record a significant growth"
-    publishedDateTime: 2020-12-16T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
