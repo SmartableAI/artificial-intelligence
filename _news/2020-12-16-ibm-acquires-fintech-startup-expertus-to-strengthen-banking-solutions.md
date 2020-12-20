@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18809433"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Acquires Canadian FinTech Expertus"
-    excerpt: "IBM has acquired FinTech Expertus Technologies in a bid to boost its hybrid cloud and artificial intelligence tech as well as its digital payment strategies."
-    publishedDateTime: 2020-12-16T01:53:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/ibm-acquires-canadian-fintech-expertus/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/ibm-acquires-canadian-fintech-expertus/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/ibm-acquires-canadian-fintech-expertus/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_779236312-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "IBM acquires Montreal fintech solutions provider Expertus Technologies"
     excerpt: "IBM has acquired Expertus Technologies Inc, a Montreal-based fintech company. Expertus, a financial technology firm that processes more than $50 billion in"
     publishedDateTime: 2020-12-16T14:00:00Z

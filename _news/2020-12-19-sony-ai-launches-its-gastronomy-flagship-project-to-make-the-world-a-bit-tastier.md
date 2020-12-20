@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastro
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: The Next Web
@@ -28,24 +28,6 @@ images:
     width: 796
     height: 398
     isCached: true
-
-related:
-  - title: "Sony AI launches new project dedicated to gastronomy research"
-    excerpt: "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,"
-    publishedDateTime: 2020-12-16T01:43:00Z
-    webUrl: "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "X3uJZYnTs6nEZBkpZ859RFb+yQy4dXK2Iamh08keznwMZH2Z4tJas6+apksaNixSg1CulYx54RqLl+uL0C/PF5Z1xxEvtkvGrKXDprfXfX3TH5RSrJ68zYn65afhsdx/ezjECWHQ2QpwO97keaJ5W/70RYajubporu06yulOymQc/e74vnl9vElR8CwRRwEkSsQTP4wgV+kWbQRXscpCH3F0AKVzqbnZfHGCcnarbStnazcPCmX1JR8Yp4wRR+sbQZwp+TRx1lMfYNmAvjw3icy0WF7gc4W5DhQgAnyvgnCj7v7rceavS98ZVH0xod+2gAXgHxP+7s7lzikCpOaIWURkxsvsnssQdxHNYMSQYvMRUgqtfo/MgtsCiz/YIJ1t0KC1A4GHslQni1uncgNJYBxoihEafMU2gKAU015w3shFDoPHBlgXvNL8W/3uUgeqni8agkbEts18NJtCGWKy/DvYoGO0dwyCT1uFbCUh+pGgsYb/CfJ8Sxar0WtAwR8ABFpkc1X8ZzyYXS1D2g3o8w==;8jAPmQnrm4iiwgfefx0yxw=="
 ---

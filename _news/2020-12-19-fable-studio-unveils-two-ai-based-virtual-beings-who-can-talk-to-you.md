@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

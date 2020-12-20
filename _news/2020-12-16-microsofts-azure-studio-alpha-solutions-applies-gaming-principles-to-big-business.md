@@ -59,6 +59,22 @@ related:
         width: 775
         height: 436
         isCached: true
+  - title: "Microsoft working at In-House chip for replacing Intel Processors on Surface Laptops"
+    excerpt: "Microsoft is working on in-house processors designs for use in server computers. It is also exploring another chip that will power the Surface computers."
+    publishedDateTime: 2020-12-20T16:53:00Z
+    webUrl: "https://www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/"
+    ampWebUrl: "https://www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/?amp"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/?amp"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 69
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/12/345.jpg"
+        width: 688
+        height: 387
+        isCached: true
   - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
     excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
     publishedDateTime: 2020-12-18T19:39:00Z

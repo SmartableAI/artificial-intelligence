@@ -7,7 +7,7 @@ originalUrl: "https://www.kalw.org/post/ylr-artificial-intelligence-and-law"
 webUrl: "https://www.kalw.org/post/ylr-artificial-intelligence-and-law"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 721
     height: 478
     isCached: true
+
+related:
+  - title: "The AI blob opera and other technology news"
+    excerpt: "Google’s blob opera can make totally new sounds thanks to artificial intelligence trained on 16 hours of real life singing"
+    publishedDateTime: 2020-12-18T12:03:00Z
+    webUrl: "https://www.bbc.com/news/av/technology-55260839"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091vb4p.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "CvcI6IXPfFF3T+ma3zDg4W51I4db9VCMN0Df6HHtib9DLnQjLdfFl5vMGfE2CkSoyA3AF19sF2qzW+TTWEg972VROvwF3BX+CxNxCyRz503yS3ZQgxX4y302rmP/q6phlXHLtJtvYPxZfJrbvjcVf1S6fxtf9kozwZNYszr4HFeERHZqqQjOGKXp3zUqq4u6xvgaeCav8Fl3eFeEklC4yvdxv7+2/XGpWA2vFvkFsQKYBUCweM8oppjjN7ZAklbCFem88R+Js9XWXxHY4JXlKdjOypVR0eHU06kpEf1fq6F2jgBp4lCLZRghuwnIgo69nuPj6h3yNMubkt2wDPRD7bCJ8+H7LgLuulqmJoVQHeM=;NPyb2OHu4+R8VBYswO5ofg=="
 ---

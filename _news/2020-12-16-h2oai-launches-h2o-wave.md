@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Hyundai Launches an AI-Powered Translation Engine Focused on the Car Industry"
+    excerpt: "Hyundai has recently launched its very own AI-based translation engine supporting English and South ... In other words, one user can send messages in one language and everybody would receive the translated version, thus making the communication overall ..."
+    publishedDateTime: 2020-12-20T18:14:00Z
+    webUrl: "https://www.autoevolution.com/news/hyundai-launches-an-ai-powered-translation-engine-focused-on-the-car-industry-153346.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/hyundai-launches-an-ai-powered-translation-engine-focused-on-the-car-industry-153346-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+
 secured: "NUDnZQxEQNCd/Bu21Bxvorpwp+PCdr15Jga93GFpKhZUZqZRVB76VqA3oJw2LmQjAxrZFWbBGO01R8L1JoPhMdFxU38MAkYJfBTmL+0gHJAinLk5kEAbEF9TYldppPFRGuEqMs2YX1r/W2fWBrxQY2xy6oiyd16CtfNOKQhHS2zivTNoXmI83EACQ6Dl8e3KuAQdkffyy0wWZft6+BPuX9v1pxRI5HJhp5rmI5CyeH20/J/kqV+AQ4LLj+m7G/XKF5AYl8dehp2N0xa+kbufw7BVnMvncZyZ2e/AlY+qgjd2x/bKpnBpYnnSixYPaDPw8gGtrrAodyHxw0zMbIdk0XpgVr1uvHulG7W1jzijP88=;cVE7/mZwIlzH23DiRw+9mg=="
 ---
 

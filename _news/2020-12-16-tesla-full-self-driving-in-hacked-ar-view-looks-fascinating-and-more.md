@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla is going to release Full Self-Driving monthly subscription in early 2021"
+    excerpt: "Elon Musk has confirmed that Tesla plans to release its Full Self-Driving software package as a monthly subscription service as soon as “early 2021”. Be ready for a surprisingly high price. Earlier this year,"
+    publishedDateTime: 2020-12-20T17:57:00Z
+    webUrl: "https://electrek.co/2020/12/20/tesla-full-self-driving-monthly-subscription-early-2021/"
+    ampWebUrl: "https://electrek.co/2020/12/20/tesla-full-self-driving-monthly-subscription-early-2021/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/20/tesla-full-self-driving-monthly-subscription-early-2021/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Does Tesla's Full Self-Driving Beta Fare In Construction Zones?"
     excerpt: "Tesla's FSD Beta technology is impressive on many levels, but it's not yet capable of full self-driving. Inconsistent and unique situations are the issue."
     publishedDateTime: 2020-12-16T14:43:00Z

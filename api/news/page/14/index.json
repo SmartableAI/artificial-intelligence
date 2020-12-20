@@ -2,6 +2,143 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-08-googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate.md",
+      "title": "Google’s Look to Speak taps gaze-tracking AI to help users with impairments communicate",
+      "excerpt": "Google released an Android app called Look to Speak that enables users to select prewritten phrases to communicate using only their gaze.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
+      "publishedDateTime": "2020-12-08T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-machine-learning-identifies-brain-signature-of-depression.md",
+      "title": "Machine Learning Identifies Brain Signature of Depression",
+      "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between brain regions in people with major depressive disorder – even when different protocols are used to detect these brain networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-identifies-brain-signature-of-depression-343725.jpg?v=11012306",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
+      "publishedDateTime": "2020-12-08T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance.md",
+      "title": "Ping An Uses Artificial Intelligence to Detect Greenwashing and Assess Impact of Climate Risk Disclosure Transparency on Financial Performance",
+      "excerpt": "8, 2020 /PRNewswire/ -- Natural Language Processing (NLP) technology, used to analyze language from company disclosures, can help to detect potential \"greenwashing\" by high emission companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance-1029872654",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance-1029872654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T04:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-tech-startup-aifi-debuts-largest-hybrid-unmanned-store-in-shanghai.md",
       "title": "Tech Startup AiFi Debuts Largest Hybrid Unmanned Store In Shanghai",
       "excerpt": "California-based tech start-up AiFi has just debuted its fourth and largest autonomous store in Shanghai. Founded by Steve Gu and Ying Zheng, the company specializes in autonomous computer-vision technologies applied into stores of all scales and sizes,",
@@ -1031,156 +1168,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-aws-expands-think-big-ato-aiml-rapid-adoption-programs.md",
-      "title": "AWS Expands Think Big, ATO, AI/ML Rapid Adoption Programs",
-      "excerpt": "Amazon Web Services is ramping up offerings for its public sector partners with the expansion of its Think Big for Small Business, AI/ML Rapid Adoption and Authority to Operate on AWS programs",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs",
-      "originalUrl": "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0260-1029655d8d40-42cc89fb2319-1000/aws-booth.jpg",
-          "width": 609,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-spectrms-conversational-marketing-platform-unlocks-revenue.md",
-      "title": "Spectrm’s conversational marketing platform unlocks revenue",
-      "excerpt": "What makes a conversation good? When a fantastic conversation ends, both parties leave happier and better off for taking the time to chat and learn in the first place. Although these are just a few of the many qualities that make a conversation good,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "originalUrl": "https://www.engadget.com/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F47152950-38b4-11eb-bb7f-22a23816d60e&client=amp-blogside-v2&signature=8e1a71dfc921e937c4190bb9e6e6869807e5d714",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "publishedDateTime": "2020-12-07T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-what-to-consider-when-using-bert-and-gpt-models-for-nlp.md",
-      "title": "What to consider when using BERT and GPT models for NLP",
-      "excerpt": "Last time on the NLP blog series, we explored how BERT and GPT models change the game for NLP. BERT and GPT models have a lot of exciting potential applications, such as natural language generation (NLG) (useful for automating communication, report writing, summarizations), conversational assistant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-1-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T10:18:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
       ]
     }
   ],
