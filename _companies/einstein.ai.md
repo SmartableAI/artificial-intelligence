@@ -2,7 +2,7 @@
 name: "Salesforce Einstein"
 overview: "Einstein is a deep learning research and engineering organization for Salesforce."
 type: "profile"
-heat: 50
+heat: 71
 
 website: https://einstein.ai/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "einstein_ai"
   url: "https://twitter.com/einstein_ai"
-  followers: 146
+  followers: 147
 
 
 topics:
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Salesforce Einstein"
 
-secured: "l5aHTJSOmbw61v6NgKV4xCKC08/Ob/5YClrKfqReVKmLsDn+pN6rFiQ6FfRvU4v5waYJcEJVr4/0j0APF680xmHXKytG0emoSLa4OnrtToXUMC6hcr2qRv52xE7SCG8AmPiHM6FtOuvQw4SCch+6bZaWD4K//AqB6kkm3mT6lfkvGK7KF+ampqVhUbfaag1ZrngQwMJKYtHyNp9Ipqv1RFCfi747zJj9a9gldGmm4UTGiPWRSUYYfZEE3jbf3PdXGZXyeMmaolV1SA6iCLRNv5ZhOiLlEqjTI4UzYwoOZWyQ1SQBkZPerHGNnV63EG3a64NFWxIAOZADwfktsbIOhsH+Yt0I4m2VaZ+uj9FvqZHuH9Cmv2sUJ+18AoND0UJuQ5UDb5zQZ465jLC1oQNfKQ==;9udkkGxvjXPkVe7kwyFfqw=="
+secured: "IYR7cOEfJvn9ByORPvGfkGqxCUe25I/ia3owZNDhcR6JpppoXwWPJ8tbDLe6iX6iRKgeK+8go74QIG3+eLQOf9dHx7k0oV2kQYIFIxv+9axORbxyZ27qM4uQ5JIkQI8F7YIFp/OV7/0Wi7MZbnQcMU0WHX4QU96Snu9W/lfuXxiJ1bLiw0VlGs5yQHjr8cApDHNSskc/pYfUL1ikukkGv0OX9YEMn7CJN5UWQkJKAJdX0KbRmCsCXomB+q44qEbedLwaKQ9GgpZ04ImusQHS3T4hrfpGSxOeF34lZuEwKVmW0Jq+XRgTOZWF0OcJx1zp5LphA4ZouMI02wF7IBBSjDw7uHnd0fVez/OItU59ck7/h5+Qplij4AG2he+mabV43qlRmY7YXCn8etQrrrDeiA==;4O5oWCCx78FgFWKYrm/pEw=="
 ---
 
