@@ -2,7 +2,7 @@
 name: "Bash.ai"
 overview: "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions)."
 type: "profile"
-heat: 50
+heat: 57
 
 website: http://bash.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "letsbashit"
   url: "https://twitter.com/letsbashit"
-  followers: 55
+  followers: 56
 
 size: 11-50 employees
 yearFounded: 2017
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=AtqYoCjw3gA"
 
-secured: "TO61fhAndUfjpGy5suSD+WJLcG6rVFEuz/jK9gQ5/hst2aruw3GqlSN3fg8/oFRntAZnYM/CES0Bd+BCP1vqV2gvo24J2nQvrHUMEh3VBLOUzhIH0ly3hfXlo9HUeF0gOhjr9RSuO81UL/5TxcYKDVcCmG0XknOpPsl6Rh0NRmKmPlJxClVlbBmWCvN9tMaZYPs1JWyQ01rFKytii0uOp0sAeNMfmkuh1tswlfddm7BUdgoH6CJk0u4jVY1WRvIdwPj1Szq9pHImDG53qf3zFMpmJBUdtxFnh7eDSqSN8iLBj6fJNiY/JSELiwBv9qQR0wImsNxf52moQRGGRJO99DQCXenj0vxiVlsehgBfqoZGlP730Nb0w1u8CsOH8HytoVWF1YvbnYj0dMuc0b6Fdg==;fb1N749RAa18D7xPXTJ+kw=="
+secured: "o60dxf2UiYaqzk0M0JyFq+oHHofbgBoo+U7Az5skYtCTedtKgP+9DHSKhHnfGtW08Gm/bhpu8ye2z+NZw+V0/b4KDyCFANJVYy9emrgJ74IFC9lIh4n69fXv5LMkBTfL3FNUi8EWJXt/cVdmuLhl//balEvQECojJ3q1dzx3FC9j1QSW+vb3QiSHgVLvNmj53cbcTBqBykxYZukQTe7gIBKzSsdfIaArf3NDBDoFxRFgfJknTAvPqmOj90j/2gdjv1IZqOssvyPLuaaSdZd5zFv8vzlZFhEl1WNQB2drKG1OcKKXpjQThjlPOK6TyWVa811RsXVwBhvn1YqqgzOWm7uTUwu5EgEXT3V1KufriD9bPIXHw2EvYkf9uIHfCgxA1vcrqiHcX/5CrJFKj6eOHA==;r3Bjgc58A32f50mQ2LQEYA=="
 ---
 

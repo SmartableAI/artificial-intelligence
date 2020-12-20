@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "CognitiveScale"
   url: "https://twitter.com/CognitiveScale"
-  followers: 4213
+  followers: 4212
 
 size: 51-200 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "ZU342QCt+tCkOyR1igexVcjsiPDFvPmaFSFAiL++Cvq8LAk2B0+/puQKzk7BoVPAMFi4atK4wWGgXeB5IaRtxWteptWTimACyC+7NSJ++0wDvP3+t0b0FfHovou5O4s9iQbPalsuHdBzDuUkUQ9w0oO2BPwWZyuRsSW44iFfcan2clfIpfD+8RTOAV5RSz+UD8CoahY3SUNJ1Frz/zpmhl773J/kstXR90VFZhLzPSIJuNd8ORsqN2wQIpq8cknkcER9HfV1uDJW3/LhuIaxRwbMwyiyCCygM6Of3SKSXsmHsbFYWsMfED1mL4/E+pBGlgmZAix539OapVH5myG1YPGRcSKFwnY7Cd1pduFwoC62IKb0IA73dyspUGyLxB8tsENSBfwIOtbC8+aI6Wn8/LyjlnEP3mCy9h4eyTVtXkk=;nGz3owMwmUe9GwnLOWeJSA=="
+secured: "1Xz1wsA44bfL4+0J4shHPRdT98VCKmEr66jhwGIzjm01fXR4iPKh2tap8ff4s5XUMz7yjbXKVt9lbq8GjQupjGdOxILwlTGdGECyzRbBFspPeDjPhYB9xd4CQVkFSDMKnpbl+E/VNNquHTuWhqHNNyLEHyGoHVa78G1acgUV9snQZXB+llobY+zKCQYN5R2xX7rX4qqL0RhMpJEBUET0ET2aujJp/D0XAVcTHptWqEpC4/HsSmsqNQqw2DlvUra3h2Ls9/YjJQ+6bsDMORKeGRJgeKzLKXUPSqXBkXqoMtMw9oQuicGNKyiTFN42DYKhzsM6JOAtRhN9i9SwShR+t/BAmrOejQzAOwx3EmOTYtI8MN0kQSrnmhOdwvEfwilhyjL6fVc1OQa01hlLcXLSfhRFCvmq8aqmAWzFoYhe6t4=;lI4B9ZBDyKSNcliD9gxPBg=="
 ---
 
