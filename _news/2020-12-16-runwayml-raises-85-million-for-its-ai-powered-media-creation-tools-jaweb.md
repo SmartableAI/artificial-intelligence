@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Computer Vision Technology Company Iris Automation Raises $13 Million"
+    excerpt: "Iris Automation recently announced that it closed $13 million in Series B funding. Launched in 2015, Iris Automation is a computer vision technology company pioneering the development of advanced detection systems used to help provide Detect-and-Avoid (DAA ..."
+    publishedDateTime: 2020-12-20T10:34:00Z
+    webUrl: "https://pulse2.com/ris-automation-raises-13-million-series-b/"
+    ampWebUrl: "https://pulse2.com/ris-automation-raises-13-million-series-b/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ris-automation-raises-13-million-series-b/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
 
 secured: "J8A4stqb0uEQt/okdP8meMEDDoJKQmgIJEV/h09qe0wcWdyKC19zNhTsEQQWEcSca+qr8wsTqEEuxVhNB1Sk1yo+LI9yUT4hNNXYSiINKJVrOqfHv1Ue41pya4LcJnl7fEx5Es4leGPyfBtndW99gYoMwxC4FfNwJoynfkbgSuFekx7gUBFI5wD9FUxMhalGDhysqWzix4NdPFr6smIpoZdTWQHmOtHFAE0L67ND4m/WfdjtIL6duHTYlPBlpiJC6aFVxwtCvX/e8Ghi6/TZ7lzLWo0GAZ9IQsgx8/9ERZHO/eRKeKjjq9EDhdQULcjYPxE8M1CcfhHOnnuIFMEtLHxpm/nW+H8XpBBruepSp8Y=;wP6V8WP7PXTf3XfB/5bsTw=="
 ---

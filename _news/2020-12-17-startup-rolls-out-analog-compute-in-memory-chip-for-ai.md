@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-analog-computeinmemory-chip-for-ai"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Startup Rolls Out Compute-in-Memory Chip for Deep Learning"
-    excerpt: "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras."
-    publishedDateTime: 2020-12-15T17:05:00Z
-    webUrl: "https://www.evaluationengineering.com/applications/embedded-system-design/article/21202445/startup-rolls-out-computeinmemory-chip-for-deep-learning"
-    type: article
-    provider:
-      name: evaluationengineering
-      domain: evaluationengineering.com
-    quality: 56
-    images:
-      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.5fd8c14174f6b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 623
-        isCached: true
 
 secured: "o0GwBJsPk2zhkerGYByeit9UBrhOUq+MySFhJrkr5MQPGKLmF8ZqEFyxw9EhMC6GTpGZYEqZ6yHdds2mqsBXlgz6jERbQY3+H5+tJLrMseO1l/8YtK/tqT4S+kjYb0nPoKwRkQThcsCqe0MwtBRIVutXH9Fhja2Z1FAIfLW94WJcRuUe2F+EEhKW/vo/R9PqUjVrbBbmcNgKM+iAMMHFyIKhY9sJ/1CWzoLODecoeFWZq69Y8RRg0mpfANT/SZZVEVkpuzll2XBZ11NrVvjWTD9bipNqW7vLYNONY9FSH/urzQM9b8SZGjnbnGdNb6YMp9Om8OmJoT6HYYzBReICprKzpYcR40IL5qRif9BAi1UNz7FSesJkNPgzPBGpukVQ1FxmdMhHqnkqNle0Mx3p0sqW1C5Fq7JbEw0qmES3TZe17/q1t51myCJUNzxOdESZiVwUAMKBILwMRshnekPTGkzMZi+CXBnAmivci3u24xymzjvuy8khpHeVN6cLNvag8HyARsYI5BATaXy6ODH48g==;iEFsrH6dejXSL0nHyZGBsQ=="
 ---

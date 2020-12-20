@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Researchers use artificial intelligence to ID mosquitos"
-excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system--known as a Convoluted Neural Network--to classify mosquito sex,"
-publishedDateTime: 2020-12-17T19:04:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php"
+excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,"
+publishedDateTime: 2020-12-17T19:02:00Z
+originalUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html"
+webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/251352_web.jpg"
-    width: 1440
-    height: 1080
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg"
+    width: 2592
+    height: 1944
     isCached: true
 
 related:
@@ -51,6 +53,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "kQ1CvbAGN97cE/wy+Hm/nRrbRrzvBx/E65mfuiY8TfkD82eJ0JGcWE5slFPwjLRpxySTxbddtJqotnOezWTqPK8OAGdFjZIKvgn2L04UKMKZJHAp/GLh7sU2hOwRcfZtzl/dQZRqgm3iZpW+qhQqlr59tzxty3fl2zPC4mi+zXwQZqMt4d8U65hj0Rf1QhvmpV7x7tfCGFOW7kLctkIqv1bAzddyLNDSgD2lbqrr8XvEmG0PJrxu03la+jF4TlRP4uS8FwY7U5vlILqzyUjfUXmJ5gCEnzxQ19IOaOCK75/Okq3VKiQPN0QnCLdONlwofqWOYR0pE6P9/WF+TSCbbhDJOz4AD67mOP9woIeExfNaXIGVKQWXQur+NaVPRdTdOiNfw7HXwHZhsvsu5m4qeaeu7CZIj8MT6x6UwvOiKME47XzsHdil7hSmJCXvoWRYskeE3eJShKIumqjZoh3NUB1a4ZDX/WOuaUL4P/PufzhEWkIX+MnRKiQCec6667OZukYedmyRGeydd+k4qq9iWg==;Ct3B6N86/+//3eRDju+8zg=="
+secured: "OtmgAn9WFxXXh6rNJ5hJx1owy+B4BtSnxASmdGd1zWFZfbe6U7QEzOlSKWpLZZ3zonBBp93D49Fq/+950jY0GDbqIGgFZDPPDRu4ajOOfh73eT8Tn8ThYz+3I7edgcsRyEAo95Gzi+B0EdhjhxjVtMrwLSP7DtvU0RJ9dUvLyjSLqnlzqEH7lTcFLVZoy59199v55PEbPkfgPm32Sbr0EolZw2ITe0AQQgfUlaBUMRwLmKvSeLS4wii7blggYazeiBMhNt34u+4FBO/xbbB/Rs18o1j8o+6TVOFjaOr8eHRBnY7p8J3hSjd/dBkFnwfsYHyeQSPOyn4jS/1hX2ixXedfPXKKNcwVkN9I6s0SG4E=;UJGqdGAzJ83na3qDNGo6AQ=="
 ---
 

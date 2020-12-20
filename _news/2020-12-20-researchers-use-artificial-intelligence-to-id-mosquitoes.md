@@ -40,18 +40,20 @@ related:
         height: 1080
         isCached: true
   - title: "Researchers use artificial intelligence to ID mosquitos"
-    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system--known as a Convoluted Neural Network--to classify mosquito sex,"
-    publishedDateTime: 2020-12-17T19:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php"
+    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,"
+    publishedDateTime: 2020-12-17T19:02:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/251352_web.jpg"
-        width: 1440
-        height: 1080
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg"
+        width: 2592
+        height: 1944
         isCached: true
 
 secured: "XBOThZJPYGlYqO6egYG9ZT06XenXcPPfEo8VjyQ9aM64XYd+3J5kqqehMAGwTME952SVl1pZHae8ecoPzN9U68fEGYTTs1428dyiu4ilgKw3uAM7JjrJipxybLJXoMklU3+MphoSdrYSzmZcNYr3DK4LvxUfojkrZztSv/Cds4ZJ9MJP91Y7tuVzUvHP6vUDSwQxnhlIy5Pqda2Cp7MeUjmOhwxtVpbrR9U4vzLtGy5YH6SHq3duMC+uvnPGPehKCdr3I5428FPIsh69AUvqID0fwH3OP5wnSGx/pZneF5V4/PUscI/1GaW50iY0rubXSynkQJuaIrto17uqSgdki82Da1K/nmni+fssSg06v3Y=;C4B2wacB4zo6VZQV2fAUvw=="

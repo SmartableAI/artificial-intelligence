@@ -59,22 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "We See What A Fully Self-Driving Tesla Sees Thanks To Known Hacker"
-    excerpt: "They are provided by @greentheonly, a renowned Tesla hacker who has provided us with a lot of information on how some of the company’s technologies work in the past. This time, he posted a couple of videos that essentially show the feed from a Tesla’s forward facing camera with various other things that the car ‘ sees ‘ as an overlay on top of the image."
-    publishedDateTime: 2020-12-15T18:30:00Z
-    webUrl: "https://insideevs.com/news/460483/hacker-shows-inner-workings-tesla-fsd/"
-    ampWebUrl: "https://insideevs.com/news/460483/hacker-shows-inner-workings-tesla-fsd/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/460483/hacker-shows-inner-workings-tesla-fsd/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/WONWL/s1/tsl-fsd-hacker.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "0ti1NskIZAQyWEdv102tqrJwD4W5hYM0hDeK1UWYsFxY8Fs0Lg6lEruf3LKNivVlxLyICoERm4pYpGvu9REhKET6AKsp/0QIHht583YBpRpHZNx/u0JL9jHFmowK32m6fc/OBgMogT8tsCWrO6Yc2DxdjG06RQ0vhQ8Yj0shQhfov21sfwevEsh5zkHwnyRUgMXT9DBCbAExT7kN4Tw6ohxbXeIhvTnQ1UL+jQcp0GGGw488QmQ3XusIb6oZIqWwbAmhvFJcA+KzkGYQcOSUxj4vln9q4GWnvk2NJ+Xilqh0Tww/7EkHwmQg+o4xm+njCN1jWi9QGMZo15eh7m2GgEVV/aVS7e75eUXBYksa0+A=;RMFvg7rCkqdupz9SixCQuw=="
 ---
