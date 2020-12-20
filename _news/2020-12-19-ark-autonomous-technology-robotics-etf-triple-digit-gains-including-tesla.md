@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4395453-ark-autonomous-technology
 webUrl: "https://seekingalpha.com/article/4395453-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "AI Algorithms Technology Driving the Digital Surgery Technologies Market"
+    excerpt: "The digital surgery technologies market includes both the established players such as Medtronic, Brainlab, and tech giants such as Google, Facebook, and IBM, as well as emerging digital surgery technology product manufacturers."
+    publishedDateTime: 2020-12-18T00:00:00Z
+    webUrl: "https://bisresearch.com/news/ai-algorithms-technology-driving-the-digital-surgery-technologies-market"
+    type: article
+    provider:
+      name: BIS Research
+      domain: bisresearch.com
+    quality: 38
+    images:
+      - url: "https://bisresearch.com/assets/admin/imgs/upload/news/thumb/WMN2ScqCR73CIv4pdIWWKwcJIBwksvMR.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "KfGmow7QmgSppWNZ78Pi92YTckJdcid+ZMZwTAwx5hCZQDJfDKyB5o+J43jS0YTCsv4lGF1LuiYwf+TdERvSVvC4moteHPNV1DBzjciD+JcfYGweBA6ctq6Hlyqw1Vx2U991zqDWyryy5W4JINP+DzWPRFUkC3peVa8YpqVWS6s4HQPTXYXz+EVNWJikrvE9nSrr80MLJOOs0/tpazH4hsm9Fjh9lqXR25jnooPEjrlO78/c1iO1VB1LR0XK4neLUjMtPx26zpABMpwebDmFB5pbSqv0eWztDHXK2zIG7GRp2+qJEtass7C19Ieep2y/x2Bg9iUxgoEG+UcD40eF8AVYqkbK+ts/ZzAiO8vN/+szkj2l935yZ/PIxi3J219KXYslx1OcGsNfbWHx4mnWMtVVvJlzlDFr2gx4bsRazQx9DbshXV4c9md13+5zqO2jkdkeVtyvdHMuIoDdT9rEr6nvEdLFms1DFi8ZJpRacb9STymGgxc5U55akaLSwlIVZY5hNWinN8hQ/5Cv7DqhhQ==;9WtlUAXb0wWrfGbPizzuSA=="
 ---

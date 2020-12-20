@@ -24,22 +24,6 @@ images:
     height: 815
     isCached: true
 
-related:
-  - title: "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry"
-    excerpt: "What makes artificial intelligence language models so costly to build is that the data-intensive training process happens many times during the course of development."
-    publishedDateTime: 2020-12-15T21:27:00Z
-    webUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 36
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DataCenters/datacenter.png"
-        width: 622
-        height: 300
-        isCached: true
-
 secured: "i/SRf9g6lC2d3C1Nd2s33WHzErq92Ps+ETJxo1B0LeYXAIA3vLqHUoymSckYzgea6yipUuKjSbVtYwSu+K5rwNTKcGOeJxD9zauL4qZGpxFGBiTLF/1ZNbXpUH0+4wVWpB6fYiYyWs4rYil15ifhoW7OHZC/YS5+2+Jsx+/P5JDTXcv7p2iGuC4NR9nTCRFtD/Zav59j7WK6hvgFGihw6AR1BzVUyxlVV0cRSMCnbSRu1t/KGILqIIOt2jnHtuKLGuBazbAV8dzJF3fy65LmB/E9Z8CEHGPkY7d8yWCbKTwDFmHFUuWyb3xeq7tQy56gYT05OlttofQDSU4rLLwln4vnI95woliVWy1lN2pxrAw=;TiAOYOPZfnC5r6tfDQANYg=="
 ---
 

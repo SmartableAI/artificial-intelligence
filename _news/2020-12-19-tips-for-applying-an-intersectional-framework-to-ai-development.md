@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectiona
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1024
     height: 724
     isCached: true
-
-related:
-  - title: "Researchers uncover blind spots at the intersection of AI and neuroscience"
-    excerpt: "Is it possible to read a person's mind by analyzing the electric signals from the brain? The answer may be much more complex than most people think. In a new article, researchers say a prominent dataset used to try to answer this question is confounded,"
-    publishedDateTime: 2020-12-15T22:37:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201215082043.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 45
 
 secured: "65fmRBeIjZtaIebZ/DqMA4vZavWHLmpbAsqS5FJEOE2HDoLiKHS6x59s/8CNltO8qHDG4mGBpNm3k2i/MReon2q0NFtk7FZlcLL0KkAi1Ki9xUt8Psj6U1UaNDB3BCsRqJhkhT83ObhcH6gSZJWPS6ray9AgKFn9+6WNOWkpQE4B39WysgwpERkzIN0I8OzO8EtlXH4rPl8j/TViX0sf0qQ9TJqO+SiCCxkv+CjhDIOAWndpikIWTEiD6AFehnVCFmqDkk4Sb5Teg/Uza2MidRXp4DgutLYgQwtwTPMdDLrS4SVrSa4lY6W/n1tlLv/5YE2F2QDzpwlouN8EVjAeIuzMxgFL/eRzjgNkp2UNj9UafFVaolLYgTDfRt7wU4y3kmLakijVUTY+jZJE5sTDwdAfLOQxFFjIVFStApPOdloHbRl5ZzlvjFFjmx8Wxl4UyxLaJotDsQvJ7zWFsjhu9LtPLwXndLO4L0CME3nU7TYH35q4a36rvyL0ET9gzZGzb3yg381J+c/RWd7nY7evXg==;wmCqCR0w9Gy/U8m+ZV5xqg=="
 ---
