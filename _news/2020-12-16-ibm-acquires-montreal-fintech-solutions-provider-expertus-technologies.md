@@ -43,22 +43,6 @@ related:
         width: 2832
         height: 2832
         isCached: true
-  - title: "Upstart Jumps in Trading Debut for Fintech Company"
-    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
-    publishedDateTime: 2020-12-16T20:00:00Z
-    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "81 startups that will boom in 2021, according to the startup experts: venture capitalists"
     excerpt: "Investors at the best venture capital firms name the startups poised for a big 2021 inside and outside of their portfolios and across industries."
     publishedDateTime: 2020-12-18T21:13:00Z
@@ -147,36 +131,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
         width: 577
         height: 324
-        isCached: true
-  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
-    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
-    publishedDateTime: 2020-12-18T03:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
-    publishedDateTime: 2020-12-18T10:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "/O1523iRAcoSYyDjOw+nbkmoEhpVSM8knXgjunDJEIV7uRxnXIbMy77AcUluxmYHkOGWEbcZfuOWXA5241+nq8P2FH1vbcps8OPe1VTKRG4960LdrpdYNYkiZisskBB6fJGCoDIC0z1lTRL+S8gqIccA4LJXzCoD9O4mPy4dXkDOoJP0josfEkGNNR/utfrhk+y7Y407dgiHnhS199ZG4zBodHxeFs0kNVx+yHcv6ukXAGe6WV1OygaRuYj2JbWJSO30xnnH5hqscf5Yug9M6Q4y9aFTy+OccxhQE9+EKZcXfMEwxjAjuzBKFa05eqpBnUGRPeW/aFPsxrNeXm9WJQNEDTUCu483tP1Hia/raH5KXPaSxo5s7EvkMqTWONk7z9MjDtGw1FEgvj5/qbcdhuniXEX2ohn4JYSjPveLVlKpGvtJrNmQkuuXXCP4PLFpKoKhoZ+X3CoLi6+OuxinQq5cf9+i/Om1AJ1Mcieexv0l6KcMdAZ/4WJ57jKkVfYLFDhi2IwUQmATIt6kjKjWjw==;5T6lNEpj2WBrUFvwEAoYtA=="

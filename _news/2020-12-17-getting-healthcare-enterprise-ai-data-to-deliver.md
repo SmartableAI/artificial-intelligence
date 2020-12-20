@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-d
 webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,18 +26,73 @@ images:
 
 related:
   - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
-    publishedDateTime: 2020-12-17T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
+    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
+    publishedDateTime: 2020-12-17T15:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "Upstart Jumps in Trading Debut for Fintech Company"
+    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
+    publishedDateTime: 2020-12-16T20:00:00Z
+    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
+    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
+    publishedDateTime: 2020-12-16T05:35:00Z
+    webUrl: "https://allafrica.com/stories/202012150316.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 24
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
+    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
+    publishedDateTime: 2020-12-18T03:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
+    publishedDateTime: 2020-12-18T10:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 51
+    quality: 14
     images:
-      - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
-        width: 958
-        height: 502
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "brwC2aijQh9ytGSvyi/stOuFSYcT6Ca9nbfk21KBL9Wy8MQAeLR5AmZkuwTF+22E28tUQy4jtGvqI7nKqmdHexYY1aGY9mqppqHlNGm8aDKTyIa9NPtwD2scoqwMQbSQr8rVs5lFYP0UX0Zl4cnTKK2YyPcEhjREMUfBwB1LZb+5FnFGJg4mgn42BeiwYhVkEcnwaas6z/iCYkRwWolJApeqhNb8TykYnrS8rd/IWLcyOYeNygAKlQYFuxg9ZvT9vOPaeKHo5byiLz1ED5j8hROODLnTOCMx7PxKePqlqiefyI/qlw4IUcKPvhGJfVSESYf6yOSEjtXhfzEOVWcMJ/6akLY66CB1JIO5p7d/0fzPk06gq1+FGuU0Fy8RJ3AD+/N7xSo5Rpo/IQR6u5GH/Xt6e7cpWMQnNBcfsNyPMYmeB6Cs3wYRTHSQ1v1fyDemlRotPfrTVgosFaHt0csOMaf1pJU674EQsCCsff7gxBKyV9FOTpu0mJgh4msDBlUEisPYY/zppTzMQRydZg462w==;/KSqPBOfqoGfz3Lx4nNfqg=="

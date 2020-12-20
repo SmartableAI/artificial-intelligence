@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com"
-excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning"
-publishedDateTime: 2020-12-10T12:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18728995"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18728995"
+excerpt: "Focus on Medical Image Processing, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The ‘Deep Learning Market: Focus on Medical Image Processing, 2020-2030’ report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+publishedDateTime: 2020-12-10T11:36:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec"
+webUrl: "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "7rQadEMFTnmdqWpovUGeogivKgNRr4rFZBAvCU+SDSdBsAXAWIAf8UwC4uJlOMDrijd0cG6L+A9ZhcGwlAN/n8llMrsjmHnAu2Lbyk8t0M7zweYX+kfOOmLVvBLr8uIPdXK0zV0ajjhbFA+GiKc/aYwogdbJECtZkw5xXpVZ//TWOpSaEWHxn/NsOS0GrQozaqLRZjPpbFi4z04HBDTfEIb3pulLXlzpvVIyXkGyTdb21jlSwSK+MQc0PCl2UE3C3WsWJIM8DgiegUuKtHmP3CadfBPpeR9Mn1ZApGzIAkP/6jv3ZmL/kI2VSOh4LtXnflLxMZIPNpSSd2wJ+hJdeyjmFbxQDlVWOOY1Xcn/cHA=;tBC8MekX8YFGCU95cGHPCw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ENM2P9T8f5fptrprIHPxwDanF+7cALhDTNb4kJ0CziEiuDCqpvHWYUhuU4m0gK8WwQrwnzpAl5HGBnl6rH5/3CpKQsZjfOTJmEn6/2F0vIRpLI0SDTbHpdmslbCWiJ2nmK2MXbxcCMoxZSdKIiIjy9vp5jDAe1kfM8kPfjlWo0RZxVMG3k/0ppPt7ZVBK/J4Gs/O4yz3g8tMHXwZxIqbvi2Mx1k6YPCNQ1c2hHfTC4EKTfUncFr5WYoFSXmPdxarZadk8jmvcL4+NhjlcCQOJzDda259sEnqng7M6dFItZJ3sEfbr96Krj43thIo7N1662+EvhI1gp/3d9DEKaVyMZ77DU0Z1t+rqGpxsClDils=;Xaeo0hkplQoG0p8hqDGvLA=="
 ---
 

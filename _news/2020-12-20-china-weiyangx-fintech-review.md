@@ -26,22 +26,6 @@ images:
     height: 535
     isCached: true
 
-related:
-  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
-    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
-    publishedDateTime: 2020-12-16T05:35:00Z
-    webUrl: "https://allafrica.com/stories/202012150316.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 24
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
-
 secured: "815tTTnzOlAg+SLZx4CWc5DegUST2a7nHqRj5EDzzit3OPkmG22FcQAOxefNcsbtAG7B4E8GChM1QVaLzFpdHtTfuDL3xh3CsoWshiedwIs8qbQSPEUmTHAAb/kCIuEHqZsCmg+wYaXAM6DjBTYcCcj9FalxR4aKGkL9WRDo+krD9Uenhxgh0u6eV0BY+L5IE9PQlIiD0L/XQ0wUIwGOp3QdwfdcimY3agGVUqZqb6RbmS2WYqlmkbcpI0/0zR8uKdzRijlK4uCb3ihyUn+5lHwDYdD8MNkX6Ok+IlXltX3cZoPIC8cRzjx2Ms8wKP91vMG8lfMqnQDgJRBne4U6MA1/c8Je/c6K45WQk0Cdez7Kw91oty6FMUVuMENgyd9fg5qzyfQfBIwMsVeiF+bAPpc1wedPVZE/loQxp1KpJaI2sfWPCWYfVhHe0vdrEBQIMg7OO5LpC2uIJsxDhJHnFpoZJc0nE3+rV8Ux+BHv7vrA37nDMjCTC8TNe8Lv7bCjlQcuhX0int5x4fQKtb/WZw==;TrXR2LmoQurkY+a1WUE7uQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-run-ibm-openpages-with-watson-anywhere.md",
+      "title": "Run IBM OpenPages with Watson Anywhere",
+      "excerpt": "At IBM, we understand that clients are looking for an AI-infused modern governance, risk management, and compliance (GRC) solution to confidently meet their business objectives in a dynamic world of risks and threats. In this spirit, our engineers have been hard at work updating our cloud technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-watson-anywhere/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-watson-anywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/RegTech_Watson_blog_surprise_leadspace-990x498.png",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-20T12:29:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions.md",
       "title": "DLT Solutions Bolsters Hybrid Cloud, AI, Security and Other Software Offerings for the U.S. Public Sector with IBM Solutions",
       "excerpt": "IBM Cloud Paks integrate the power of IBM Watson enabling clients to infuse AI into their systems to help automate complex processes, optimize employees' time and create more meaningful customer ...",
