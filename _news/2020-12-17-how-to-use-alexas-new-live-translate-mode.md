@@ -75,20 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Amazon Alexa rolls out live translation in Echo devices"
-    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
-    publishedDateTime: 2020-12-15T16:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267262397/amazon-alexa-rolls-out-live-translation-in-echo-devices"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1608050555.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "My4hOMAJeudkDcBhrOZkU8cDbkZ/7vq6hV1G4R53Y7kMwGfFHVd8UQv0312XA7z3E8f8dRjHU4QuNvDDkmbnF/Fg/0uVWNO/9bKKRqG6ZcqMGMWl1+1+90OQxCKVit8gfavflfjicamXpZI4DmdXNNpaT0SSsRnWc68klz1M/taTZYiNkaqwUbtlA+LQ8zfpAyYSCpH62zWpLXo8P0ICEJYSZhMvfrqh2PN9UMoXronKWO5j4OqxR+Rwrbs86sbztTWj0ewq5TjuceQgDT9z0JfznhtrVWEEauRCntVl/kqF932VhMh4mkQXNIFMeAclYl0xLueS2XksuotdVhaiwS/AIRosP5T8UJmezsROPnj/Cp1N3M8F6IcVB+HyEreCbdpxB5keOpUwFix7jd/rHPPmJjChfieEj5nb3J91I+tkPROoFGkV1d+Z7ckWJFzZvsrd6/OVoEtZyY4R4u7u/Ne57bKchAZvP0rT9HlAj0W8RscnTKoe6y2BEs5LtpVR2JwjhGAnUHdT5A+ztqhWVQ==;en94TkvjdEZGrNK1plcxhQ=="
 ---

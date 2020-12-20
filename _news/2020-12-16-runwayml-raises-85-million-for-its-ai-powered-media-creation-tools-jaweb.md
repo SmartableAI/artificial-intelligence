@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "6 million SEK to research on artificial intelligence"
-    excerpt: "Professor Per Andersson at the Stockholm School of Economics has been granted 6 million SEK in funding by the Marianne and Marcus Wallenberg Foundation"
-    publishedDateTime: 2020-12-15T15:34:00Z
-    webUrl: "https://www.mynewsdesk.com/se/handelshogskolan_i_stockholm/news/6-million-sek-to-research-on-artificial-intelligence-417564"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 37
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y3ufi9h81skubinzlyda.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "J8A4stqb0uEQt/okdP8meMEDDoJKQmgIJEV/h09qe0wcWdyKC19zNhTsEQQWEcSca+qr8wsTqEEuxVhNB1Sk1yo+LI9yUT4hNNXYSiINKJVrOqfHv1Ue41pya4LcJnl7fEx5Es4leGPyfBtndW99gYoMwxC4FfNwJoynfkbgSuFekx7gUBFI5wD9FUxMhalGDhysqWzix4NdPFr6smIpoZdTWQHmOtHFAE0L67ND4m/WfdjtIL6duHTYlPBlpiJC6aFVxwtCvX/e8Ghi6/TZ7lzLWo0GAZ9IQsgx8/9ERZHO/eRKeKjjq9EDhdQULcjYPxE8M1CcfhHOnnuIFMEtLHxpm/nW+H8XpBBruepSp8Y=;wP6V8WP7PXTf3XfB/5bsTw=="
 ---

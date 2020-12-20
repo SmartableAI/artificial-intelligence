@@ -89,6 +89,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "You can now hail a self-driving car on select routes in Sejong City"
+    excerpt: "Kakao Mobility is offering self-driving vehicle rides near the government complex in Sejong City, with users able to reserve a car via a mobile app, the company said Sunday."
+    publishedDateTime: 2020-12-20T08:48:00Z
+    webUrl: "https://koreajoongangdaily.joins.com/2020/12/20/business/tech/Kakao-Mobility-autonomous-vehicle-selfdriving/20201220163300457.html"
+    type: article
+    provider:
+      name: joongang
+      domain: joins.com
+    quality: 39
+    images:
+      - url: "https://koreajoongangdaily.joins.com/data/photo/2020/12/20/cadbde55-c8b0-44b4-b3c1-4259559daf87.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
     excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
     publishedDateTime: 2020-12-18T14:53:00Z

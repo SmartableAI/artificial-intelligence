@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-transl
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-79794724/videos/news/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Amazon Alexa rolls out live translation in Echo devices"
-    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
-    publishedDateTime: 2020-12-15T16:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267262397/amazon-alexa-rolls-out-live-translation-in-echo-devices"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1608050555.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "nGHm22hgNBMige7kh4vLx5Ir426ZO5O8/DElvq8DHuPhgTWhFAST3J9jBTlXb2pU+8HIhQqa285Zpersu9JeUXDQlOLTocYOUvaIILPclBnAzyDeLfrDZ0lFRpMrCh0P3TEviG8AtOnM4qzBUICBeyXk57KKaFUWz8iebt9yj845duxX3Ucyp4JGq7zygbeormyEsNweXrL5U29wnu/DRIOYwJOUr1Kd+JZFEMmoMYXpjTKCMwrDAKu4RHyptrmBceSvtpMupFy2as0eRUfSnJDb6npyROTTVv2C9MwfxyA1YbWyHODyWKO8QKsP2//yGPZIgQ/l0GrUlzwF/sV/x4kO6JAVsApDVS8deW5cJ/Dh+nFcuf5UdstZnGaCEZu6pKlCclbJzCWidZi3wfXAYCcXpkutKu+S6zLXeeDwM5hOvh1PpIFmB0JPjzQP7c/5ljHlu6AlM9cWI4sR3M144HUHW5zwIKGJiJ/TREspJkHzRKIIAnfqzDTnA76hlL53ckJkbmA7cdY6Z19zgZ6dGg==;n+k0bnvURaRdPoK65dYNzw=="

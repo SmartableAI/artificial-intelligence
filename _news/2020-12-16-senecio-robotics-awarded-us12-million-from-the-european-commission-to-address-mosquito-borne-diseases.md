@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-p
 webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-automobile-parts-manufacturing-consumer-products-and-services-a51b62c1bde9b6547171c4adc063de76"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Senecio Robotics awarded US$12 Million from the European Commission to address mosquito borne diseases"
-    excerpt: "With more than 2,000 early stage companies applying for the EU EIC Accelerator Pilot May cutoff, only 64 companies were selected, following"
-    publishedDateTime: 2020-12-15T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/senecio-robotics-awarded-us12-million-from-the-european-commission-to-address-mosquito-borne-diseases-301193197.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://i1.ytimg.com/vi/UUyj3-NleG0/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "+PXk/K0PiqWPiB4G4VCxBAtfbt4H3ExlLEm8HobtCTtMDW6TaOI85vwRvNhEctJudPfLGfp+bYoIZD5vCkaJSSWtiZDUjMW9xgeqemhrmXQYUqthUwwnVTFPMtjYEnB0/1SrpFVmcS3nYZfZ+/Y0gfF+dnmwLUXCu9sGiKY/Sau4tXyNHoueQBbKlKCkLB2Mh7OLG/ke1G9QuTff+4nI9fqd/tpe4Pt0LQAD/lo9VLWusyko4UD1NXlwbUFvCM71L8gVavkJMwnDVkg0m27Zq/gI+JXNWPLoge0WK+snOTSXcNF85+KDp99YMhUVYS5vLpI0x8pmT72Yg4u1cxpWr33HG+cMxV4jBS8abX3Czac=;XuYxF0o2Aw3A0addn7EXvg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/category/news/thomson-reut
 webUrl: "https://www.globalbankingandfinance.com/category/news/thomson-reuters-taps-aws-to-power-digital-transformation/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Twitter Selects AWS and Graviton Arm Instances to Serve Timelines"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Twitter has selected AWS to provide global"
-    publishedDateTime: 2020-12-15T15:13:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/twitter-selects-aws-and-graviton-arm-instances-to-serve-timelines/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/cloud-computing.shutterstock_661941082-cropped-700x-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "HNxNOupmY0N9fxBnoS74jZm9bCfLRYmmITaCmwXX6FGD5X/NYhey9GXm54pPL07uuTanUF/D8pvLxtfe2eXQYzDf+8lLX3UVakWhoy7efNBaxFL97gYfEFZqi/fcf8ufCCH/BAVZTGi6FEKAGd64dUR15K1Nh5/o95lemmVpivt38mJ5ecZYkpNo++pZ6m6ZDVzEJM5o3j/baarU0g3+VLYUIsU4TuPaduQd9MOsiOI71+fer+VJAP4qxd1Pp0O9Gu9VGbz0WlJn0WKAtqic4I8tP+E5OAQeybxfbGYMftZs1mlZxfUc0yT9/YLYWYg/NnPksRCjzeDY2/5/VkkY/Mu9ucAz+MpvXsIvwSGtrLY=;XuRj42kIOyYIr8Ro6mJWfw=="
 ---

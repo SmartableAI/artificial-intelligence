@@ -94,15 +94,6 @@ related:
       name: GNT
       domain: generation-nt.com
     quality: 19
-  - title: "Rackspace Technology, Inc.: Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Human.Ai Expected to Save 70% on Infrastructure Costs SAN ANTONIO, Dec. 15, 2020, an Machine Learning (ML)-core company that uses deep learning and Artificial Intelligence (AI ... partnered with Amazon Web Services (AWS) Premier Consulting Partner ..."
-    publishedDateTime: 2020-12-15T16:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51517875-rackspace-technology-inc-rackspace-technology-and-humen-ai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "zxqH3WAnCMXhc5iCxzQC3qVE29lh58KwKRQYCuOTtoKt/k0ChjBCczh8KHctApSHCP6+/E8G6xmoBkOXasObQ8IoHH4dkR3nTkBNjVoIeUpZDdyrsCPQIuhaajJR4V8Z9ACdj/cJcdAXqDltRJYToxXCXCV2lz6hZzRAS+Dvqk+CCtYLpr8gmMzPYlQkbT9dIWMpH9HNFALhWee7Pn/Cgf8Gbj6Ee2oo2Ish7zLH9IVq7o7GjiirZijLRBwfanY9fH/nQyyap/dhBUNpbkLLFK2nTDT5mWzXhRHpEnYAJHVA+/mjOuHnUxqjN/R+5w/Ohtjibi8/1d4hRHkeS3PAopLZyNYACW6kceh0U6JE4M0=;3AnWasATfo4p61X2BJfyQg=="
 ---

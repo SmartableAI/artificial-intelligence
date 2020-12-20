@@ -43,22 +43,6 @@ related:
         width: 920
         height: 470
         isCached: true
-  - title: "Boeing's fired CEO's next act involves self-driving tractors made by a former Tesla executive"
-    excerpt: "Boeing's embattled 737 Max plane returned to the skies this year, as the company's former CEO headed to Silicon Valley."
-    publishedDateTime: 2020-12-15T16:42:00Z
-    webUrl: "https://www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5fd8decc78a5740019a15858?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tesla Full Self-Driving Code Contains Secret “Augmented Reality View”"
     excerpt: "While digging through the code of their Tesla’s Full Self-Driving feature, a noted Tesla hacker-owner who goes by the handle “green” found an augmented reality view of everything the vehicle ..."
     publishedDateTime: 2020-12-15T19:43:00Z

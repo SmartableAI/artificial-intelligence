@@ -71,20 +71,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "Walmart expands self-driving program with fully driverless vehicles"
-    excerpt: "Walmart says it has tested the multi-temperature trucks on a small scale in Bentonville in order to see how they may be able to transfer customer orders from a dark store to a live store, or one that is open to the public."
-    publishedDateTime: 2020-12-15T16:22:00Z
-    webUrl: "https://www.foxbusiness.com/retail/walmart-expands-self-driving-car-pilot-program"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/gatik-self-driving-vehicle-use-for-lead-image.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
     excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
     publishedDateTime: 2020-12-17T00:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
       name: GNT
       domain: generation-nt.com
     quality: 19
-  - title: "Rackspace Technology, Inc.: Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Human.Ai Expected to Save 70% on Infrastructure Costs SAN ANTONIO, Dec. 15, 2020, an Machine Learning (ML)-core company that uses deep learning and Artificial Intelligence (AI ... partnered with Amazon Web Services (AWS) Premier Consulting Partner ..."
-    publishedDateTime: 2020-12-15T16:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51517875-rackspace-technology-inc-rackspace-technology-and-humen-ai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "5VfODIsnRrLY0EvKyrqGMdH3QeOUEwwYbXNxoMtme3EJldfdtJ5m8dyWZQ1cJu5wLuSkdjK6zNaxQvNgsSMxHf5ZtbHHc32SyMA2jyBKO7BGXiwFSI0978RXC/rxfypT5mFeDYu+io7I3ySDAnaMuuLhVgvY4xOeTIsxeiiem+egFCf+8dCXT2cQRDm18LVUzJYjZoJnVN0YYDOb7RQXJ+xnlI/nevjL1HxLFcwSRzboPBMjC4ws2W/ju1adpiM0KayTNxh+KG8mQCYrg+ulB261MbepMP4PwYPryfp5GjESxvrMrQxoTPNPAyKEFo13ksBE5hMm9dkS44OBFqrZIkxUAVWugu7SHygcIWacd/G6dIMEH2csQsh63LN3OfzLpx+Sq2ub2bQZIP7apuHAJ2qUdUeHy2QA5O/2Fu2aYpY4piG6QI4yFuXrAq5UaiLVU06EBhtBJoTe49lYxvyDA48J2ixHaiBxtTTthWTp+RMexFhNwwH42I6PKYS1aTUPyEqu9PJRtXWu0AWWXPD8MQ==;kH2cvzscQLbLXAzgqh63Ww=="
 ---

@@ -199,6 +199,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Alibaba ‘Dismayed’ Over Ethnic Profiling in Facial Recognition Technology"
+    excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."
+    publishedDateTime: 2020-12-20T07:02:00Z
+    webUrl: "https://www.cfo.com/technology/2020/12/alibaba-dismayed-over-cloud-unit-including-ethnic-profiling-feature-in-facial-recognition-technology/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 38
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-614202874.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
     publishedDateTime: 2020-12-19T13:51:00Z
@@ -281,6 +295,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "sqPU6pHwXhbxJCcjfn+d/VKXaB9Bjm1wLAP2UgfA9+lLkdYMkJQGQV9XUe7T78g/yfFYH8iQoZy+UcqJU4rDWRAXkhKiUrOTQKOJ0M7qNx293OyxGqZRQT33z4yDNuujbWSXAK/yvD4t3SjewAEPPqPyK2PHnzsJBWmOiZvNRDhwhNzIrr2429XI1YhzCyWUSRFPbVOHxKspmnb/22oNIO6iLYZDA7RMY5CyeEvvnu9NF0wKP5R4Fn7w7dXpxRw5eNxRRdEDboLAj4ilC7ldt5bRe3mq4c1AUkHKwlXt7Pqmi5nT/xueZy2DZnHqc0r9GQj7nwtlHaAwpKBECp9LH5ieD0BRyf2tKiBVqwZQb2Q=;J3v31OMeiecQfiRfleXukQ=="
+secured: "1LyYQSHBWv9YrvslPvyyTAmL+LU/1v8RjCXigqRrzQfwF99M6BiJGz6SgbnSYekjdYFmItHYlGOPzcdZCMQRCpcKM6S37wJHxEeFDJgCzMyNiHRQ+AKAlGt9GqeggCQDqWauVu+ZfVojyLC0rlphjfzRWNtlixbz00tDthIkCkVbg6gg1mhR5wzJ9ZsEOtGsD8IZNzywBnCXNvOlLlk4XQg9MgzFRbka/MilCdvcI9w8ykVoKH4SxErVyAYCOBAq/qxyMPcaW6H9VNN4HVIECQcyGcaICf1xv8EqdwMu7T6LJk1NZ9Ke/UNISq5tPneDMFAEXvD+z1Ax1hMI9Fr0V+fLxhmuiIo4W9hHiLnjx87c4zlYZ0LHCNlv5SSOuCjdT+Nxsbh7ETPJey/HAJMYE1/fbdt7GGRV5A1UxONkFXC/6Bxkf/DXfTtqqUryhJh034bWvvGlLwqXNjX0krKZJazFH6VH1BEdA8zY+G3TxSqScv7YzIC8T3YSIC+PL5KRd4C7UIb+UEU6M55eVmDQiA==;mm3vUSGmZbPE2l8l378nKg=="
 ---
 

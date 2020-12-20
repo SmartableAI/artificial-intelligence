@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/RunwayML-raises-8.5-million-for-its-AI-powered-media-creation-tools.png"
         width: 1200
         height: 600
-        isCached: true
-  - title: "6 million SEK to research on artificial intelligence"
-    excerpt: "Professor Per Andersson at the Stockholm School of Economics has been granted 6 million SEK in funding by the Marianne and Marcus Wallenberg Foundation"
-    publishedDateTime: 2020-12-15T15:34:00Z
-    webUrl: "https://www.mynewsdesk.com/se/handelshogskolan_i_stockholm/news/6-million-sek-to-research-on-artificial-intelligence-417564"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 37
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y3ufi9h81skubinzlyda.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "P/LmP74jOyZzwrQXQgKbQt1x356Qm6Bg+nWaGLDPghA8FBaD/BwUX9FmTyaYQ1NJSRESxZNigL/mWnpzq4QVqCvhaFBm7fwHy7RbVY++rtwrJneMYiKeM6eMojJO55Wih/9FJ2q4d1n+A1LhXXH+D0XHQeEW2UiHdP1/ZkClIeqQzmqv1Gi0xIJ7F0/YHvSKQRc0O7pZTeOxZK8Xjsbbtuz1Rw68G1Ps1nb1DssFotRFEybpBGw7WkJypHvJ8uwLP1AcVZmMMfLQ1QzrNc+BtF1sfO9h+k2G7lZbx4w6/9wMz+5Pb4HlNiPqVhugRQ9cOw52sY+JL5aKb/V8lpzhiC7G/ukAb3Fy8/mi5NqjWUeLk1JDkYrclrLhv7A29hJgLEx/Ppxv68WxQ0ETpQPpL7XMtzP193CwDUY2AYdQf4trmECEQcsuwYVUxH3lae+PWnErzZTvheNOJROfBA9LikOViL/OW59or/vOb0/NzztyikbHNdlCdc6fHAqU+iGdEmp9ksWIGxtfqmd8RLXJaA==;8gCY6z0hm28kaHwPzFkIFw=="

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/population-health-ap
 webUrl: "https://aws.amazon.com/blogs/machine-learning/population-health-applications-with-amazon-healthlake-part-1-analytics-and-monitoring-using-amazon-quicksight/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 401
     isCached: true
-
-related:
-  - title: "A Budding Opportunity to Advance Health Care Innovation for Veterans"
-    excerpt: "In an effort to advance ideation and expand collaboration to improve health care, the Veterans Health Administration Innovation Ecosystem Innovators’ network (iNET) has launched the Greenhouse initiative."
-    publishedDateTime: 2020-12-15T15:22:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2020-12-15-budding-opportunity-advance-health-care"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 24
-    images:
-      - url: "https://www.aha.org/sites/default/files/2019-04/Market_Scan_Call_Out_360x300.png"
-        width: 360
-        height: 300
-        isCached: true
 
 secured: "HiIfoCf7Hima+4y1oqPtgHTx/fjjJpJwN/OEsSulKK7YAE7T6ondbCcM1YkbGjWowjOBVOqQFO9ngQbEUmyEX4L3zM/QdO8TDDOSCBqAqK5oawz5JKNiSr1qwCRar4v0q82cU+EmZlrS04gmvZw3FFPYHZbW3azkDT8W3D6OMBkSv2SSiTyvicyC4NwrMS3YJRP4G/8zfiZLdxzI+7kNEzDH/VGxEKmTEl6KRu83zXFChd0K7ICw0KPs1xtHI5O1Eb4RAo+2U/5gkaxwRq/hF81jzfH69R7RbszUlmvySFzBeITGtBNnUC/08TELnR5eobj9MlvFo1U6JTiuKR3R6yjG8n0TWKgN/hRvOva3a7E=;YT21Gd1X3AucqaMhwjWs1Q=="
 ---

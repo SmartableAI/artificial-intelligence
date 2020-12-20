@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverles
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/gatik-self-driving-vehicle-use-for-lead-image-457x305.jpg"
         width: 457
         height: 305
-        isCached: true
-  - title: "Walmart expands self-driving program with fully driverless vehicles"
-    excerpt: "Walmart says it has tested the multi-temperature trucks on a small scale in Bentonville in order to see how they may be able to transfer customer orders from a dark store to a live store, or one that is open to the public."
-    publishedDateTime: 2020-12-15T16:22:00Z
-    webUrl: "https://www.foxbusiness.com/retail/walmart-expands-self-driving-car-pilot-program"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/gatik-self-driving-vehicle-use-for-lead-image.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Walmart says it will be making self-driving deliveries in 2021"
     excerpt: "Gatik’s fully autonomous box trucks will start making unassisted deliveries for the giant retailer. It is well-known that Walmart has made significant investments in several self-driving companies such as Baidu,"

@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/12/201215140827.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/12/201215140827.htm"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Science Daily
@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
-
-related:
-  - title: "Accurate Neural Network Computer Vision Without ‘Black Box’"
-    excerpt: "New research offers clues to what goes on inside the minds of machines as they learn to see. A method developed by Duke's Cynthia Rudin reveals how"
-    publishedDateTime: 2020-12-15T15:04:00Z
-    webUrl: "https://www.miragenews.com/accurate-neural-network-computer-vision-without-black-box/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 56
-    images:
-      - url: "https://today.duke.edu/sites/default/files/styles/story_hero/public/ChenRudin.jpg?itok=kk2z17Aa"
-        width: 1140
-        height: 764
-        isCached: true
 
 secured: "KTv9Bsw4V7LtQNJIVWB0QXpi7/IerqAnOA/ZjasuUA7FLQODWrOUZr6ZlGUC/7GimtuvkaJhRrH5Z1wdgeV1zeqFHmjFuih6loRK7xMjMO05ty7QTxTox+E50K+q5S/gfAex/jkDigTD5DxGV6A3RItPKR1EMhTd1JHE1X2P1+y3mQ14vbHjGuTOPEkQIb8yif0Y4AjFBFF1l2s7o1RtL+MGeWwIMRWcahCFgMy1mg4IRKaxFRmL1Xt/OLPgRfy9A5o5mpEKgXN8jxCN117NEMv4alfOYBe4CwQJaRK5GuuxENCnqS3wp6GwBBltsd+H3yd14ubPcUZ20IPqg1wMwmjXBg+YuKX7z4BJVelYfyE=;0LfoAr03WmWV3k93ETjEMg=="
 ---

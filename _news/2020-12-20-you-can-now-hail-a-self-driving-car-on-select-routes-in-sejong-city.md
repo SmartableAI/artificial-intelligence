@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Motorists in self-driving cars will not be legally liable for accidents"
-excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
-publishedDateTime: 2020-12-18T06:00:00Z
-originalUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/"
-webUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/"
-ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
-cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+title: "You can now hail a self-driving car on select routes in Sejong City"
+excerpt: "Kakao Mobility is offering self-driving vehicle rides near the government complex in Sejong City, with users able to reserve a car via a mobile app, the company said Sunday."
+publishedDateTime: 2020-12-20T08:48:00Z
+originalUrl: "https://koreajoongangdaily.joins.com/2020/12/20/business/tech/Kakao-Mobility-autonomous-vehicle-selfdriving/20201220163300457.html"
+webUrl: "https://koreajoongangdaily.joins.com/2020/12/20/business/tech/Kakao-Mobility-autonomous-vehicle-selfdriving/20201220163300457.html"
 type: article
-quality: 44
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: joongang
+  domain: joins.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/TELEMMGLPICT000246281323_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
-    width: 2501
-    height: 1563
+  - url: "https://koreajoongangdaily.joins.com/data/photo/2020/12/20/cadbde55-c8b0-44b4-b3c1-4259559daf87.jpg"
+    width: 560
+    height: 373
     isCached: true
 
 related:
@@ -59,6 +57,22 @@ related:
         width: 977
         height: 650
         isCached: true
+  - title: "Motorists in self-driving cars will not be legally liable for accidents"
+    excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
+    publishedDateTime: 2020-12-18T06:00:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/TELEMMGLPICT000246281323_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Self-driving car owners will NOT face crash blame for accidents, experts say"
     excerpt: "Drivers will be renamed 'users-in-charge' when automated vehicles hit UK roads and will not be criminally liable if there is a crash, Government law experts have proposed in a new report."
     publishedDateTime: 2020-12-18T00:21:00Z
@@ -74,20 +88,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/12/18/00/36988390-0-image-a-35_1608250821801.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "You can now hail a self-driving car on select routes in Sejong City"
-    excerpt: "Kakao Mobility is offering self-driving vehicle rides near the government complex in Sejong City, with users able to reserve a car via a mobile app, the company said Sunday."
-    publishedDateTime: 2020-12-20T08:48:00Z
-    webUrl: "https://koreajoongangdaily.joins.com/2020/12/20/business/tech/Kakao-Mobility-autonomous-vehicle-selfdriving/20201220163300457.html"
-    type: article
-    provider:
-      name: joongang
-      domain: joins.com
-    quality: 39
-    images:
-      - url: "https://koreajoongangdaily.joins.com/data/photo/2020/12/20/cadbde55-c8b0-44b4-b3c1-4259559daf87.jpg"
-        width: 560
-        height: 373
         isCached: true
   - title: "Aurora Acquires Uber's ATG Self-Driving Car Unit"
     excerpt: "We hear what’s next for Aurora since acquiring Uber’s self-driving branch; and the Pittsburgh Mercy President and CEO on what’s"
@@ -115,6 +115,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "qjk8DueIl7j1o0g2wQiNyMGympEr2CG/7xUbl5PuMoinAKhFjHycrHzGW4ioSbni1uRkEoTKAwZvCfPBOahxDlAEksbemSp5BCtxH8EVQ+g/Z4xNB8QUho93gHNiy8juPuV1SX1LO23OD3WT05XJcDH+gAO6A4VQ/gUncKmckzwbf+Al91pJ7Vt5giNp3Vy+pc5OyTo1rxxdS6glymJch38Xi0gFkdWfKDiKMQH1Zt+OTZMtlPT9CLfOUwgg4OHxhbp2xJ36vcsjCgntXm/j2gGFvuRwq7Oyq50XdXtaoDukjEMQnc5+GxjSIlAxdkQ1JvRqqrfAIKfKDWdIbj+6HyLfte2Nv0f6+npIjFojoO8=;9jXSUXfkuq/fa2ycdelhUw=="
+secured: "63OcEYLf826wpsoY8tAtiFrkzeFNRyF4AJwycvHIj9MCDDTCVqafuiLzZLSdtv6mPeKxkJ58+8j/vy9Qp+90+4WrVg+aPU+oACsff4F7Kg/hbOi97KAEyxgFetbuoCgBHirOjM0o0H8R0Km234SjcihOAAecbki/Du+2bt1il4pTrC1a9S6nLeB4O9C73IsN1l+B59FoG/Hp/RJXJsqFsQgnMIKkY5gEYjinGA0m4BDAJIkF7e06grm6dB4hbpVZXLfGlgvEw7r5PX8a6nueBzPR7AM8CYQPmj5AujqWQpMvJBGdMasWINXkxOjRVINaep2JSE0i84AKFvsaYL7sqBdAk+mOF1RMW1teQm+cti4=;PlGQ7O7TPgiKyH4m0G3b6g=="
 ---
 

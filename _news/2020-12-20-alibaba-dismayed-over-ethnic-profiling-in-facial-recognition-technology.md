@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
-excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
-publishedDateTime: 2020-12-19T13:51:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
-webUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
+title: "Alibaba ‘Dismayed’ Over Ethnic Profiling in Facial Recognition Technology"
+excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."
+publishedDateTime: 2020-12-20T07:02:00Z
+originalUrl: "https://www.cfo.com/technology/2020/12/alibaba-dismayed-over-cloud-unit-including-ethnic-profiling-feature-in-facial-recognition-technology/"
+webUrl: "https://www.cfo.com/technology/2020/12/alibaba-dismayed-over-cloud-unit-including-ethnic-profiling-feature-in-facial-recognition-technology/"
 type: article
-quality: 37
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: CFO
+  domain: cfo.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13797760/16x9/991/557/d3e1beceb66f9ee912da61e69dfc72d1/Pd/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
-    width: 991
-    height: 557
+  - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-614202874.jpg"
+    width: 594
+    height: 396
     isCached: true
 
 related:
@@ -210,19 +209,19 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Alibaba ‘Dismayed’ Over Ethnic Profiling in Facial Recognition Technology"
-    excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."
-    publishedDateTime: 2020-12-20T07:02:00Z
-    webUrl: "https://www.cfo.com/technology/2020/12/alibaba-dismayed-over-cloud-unit-including-ethnic-profiling-feature-in-facial-recognition-technology/"
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
+    publishedDateTime: 2020-12-19T13:51:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
     type: article
     provider:
-      name: CFO
-      domain: cfo.com
-    quality: 38
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
     images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-614202874.jpg"
-        width: 594
-        height: 396
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13797760/16x9/991/557/d3e1beceb66f9ee912da61e69dfc72d1/Pd/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
+        width: 991
+        height: 557
         isCached: true
   - title: "Alibaba ‘Dismayed’ Over Ethnic Profiling Feature in Facial Recognition Technology"
     excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."
@@ -292,6 +291,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "TOPVFydiRuyEtBkecdFbEqRCbdLZqFfZ008wadlMQvwLngcc2QzO0ZfJj//t65e42Cc+59lBGjgZg6IMy5DyFAzE5shpXTMRICqr4FNyAtsxEKNCxiD6++2VCMJK9Lv/FzLokXHQWjWce3JpX5TFbCVYERMmn7630e1ZmSfyXLkogVQsmgE2A4qm35VVzObah4LPzfxlRLRH8Bi3kA1Ma0Fm29fNNymB4DrYnRIhqJWe9+HtIX3IlzKl0VgTt4mY3W+7uJtzYp1YCPwJqglj+QOJFhsy0ZuSA9NLcxgd3eT4ewUEzHHAt2zyK6Lp+GM+dBKvzHlLZoUdO7eouP2GJXW0cfSwRALtG32Vxxrbuok=;kE7yaoB0t+wBUCiJebBb9g=="
+secured: "4J6ntAvQ9hXYWBy8scWE8vDd4XOrViSFOSeBabGjoF4UMkF9uV7ZMtC/SaGwmAKs2yszPJXI7wAtyUn1IQBTHv2/P+rqLsPINjq8YFwz4whVYW2/ReTD4SEKkrAz5Rnxwnyss0MrEIEeqXvE2Atw+ig/UNLBiZSREfghMegzkADDnNjZY/VGgsshacUeqvIbip4pB7b+xwM6BwObUoh+z0I3TAUifSwllBgCOCEl/i6S1vnpSdLwTTkYzQc82/L5y0Ml7af1JjYizNuM9WklRETPjKHVtOKObkdrTXf/7Sx9CuqRhwZ6TwNUmrq8jmRfbParJG25N7YWj35Kzf7ah9mLpqiWG4svNtzs9iWHUk4=;NgFP0r+NucCddFD853y0fA=="
 ---
 

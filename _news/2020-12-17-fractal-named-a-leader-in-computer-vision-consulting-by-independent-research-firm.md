@@ -53,24 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research"
-    excerpt: "--(BUSINESS WIRE)--Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been named a strong performer in the report, The Forrester New Wave™: Computer Vision ..."
-    publishedDateTime: 2020-12-15T15:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-  - title: "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research | Morningstar"
-    excerpt: "Insight has the expertise in building CV pipelines that fit hardware constraints and the IoT platforms to manage them, according to the Forrester report Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,"
-    publishedDateTime: 2020-12-15T15:17:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201215005797/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "rdniAhnkIkWjZCN3LjY68KcJV2keGqyjV7D7ntyP8z8i4v+LdamkH5PVLsWkRU+pyqL9hrhdewIKVkKru/xnJdkC1W4MGI+4BKyrrgFovFXoaAkSHBThqb3pQYDyZGtYT2mHWYGVGtoe0Im/dA/HVFy58cwsN3RlHIMi9qCyZIIJn8faFRjO0Czy6beviGMsAB7Saw3pS4MVq70e22RPL6jRtrfnAGKVgbYLjFi25UOT6rUHrgEe8GA8Lysf1Rttor564lsRe54RtUTjw6OHl9iBoUzcEO3HeG+bg3MNDhEEZ4gBL+4cSH3is9szMk6x0fb3SIg9YOpvcT/HvA+H47/THZL9OWb+FKaMrS9zzZ0=;OYA6enPeIuhwK6zKrgrEkw=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Walmart expands self-driving program with fully driverless vehicles"
-    excerpt: "Walmart says it has tested the multi-temperature trucks on a small scale in Bentonville in order to see how they may be able to transfer customer orders from a dark store to a live store, or one that is open to the public."
-    publishedDateTime: 2020-12-15T16:22:00Z
-    webUrl: "https://www.foxbusiness.com/retail/walmart-expands-self-driving-car-pilot-program"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/gatik-self-driving-vehicle-use-for-lead-image.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Walmart says it will be making self-driving deliveries in 2021"
     excerpt: "Gatik’s fully autonomous box trucks will start making unassisted deliveries for the giant retailer. It is well-known that Walmart has made significant investments in several self-driving companies such as Baidu,"
     publishedDateTime: 2020-12-17T21:08:00Z
