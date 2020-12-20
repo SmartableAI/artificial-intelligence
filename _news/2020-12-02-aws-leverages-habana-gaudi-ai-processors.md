@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Google AI
 
 images:
   - url: "https://newsroom.intel.com/wp-content/uploads/sites/11/2020/12/Habana-Labs-HL-205-690x460.jpg"

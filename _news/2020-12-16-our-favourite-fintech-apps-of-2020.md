@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "(Source: bkeconomy) Fintech Service Provider Leapstack Secures B+ Round Financing ... Established in 2016, Leapstack is an AI-focused Insurtech, aiming to offer a risk-control solution for insurers and insurance brokers. At present, Leapstack has ..."
+    publishedDateTime: 2020-12-19T23:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/12/Jiming-Temple-Nanjing-China-kenneth-yang-unsplash-600x535.jpg"
+        width: 600
+        height: 535
+        isCached: true
+  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
+    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
+    publishedDateTime: 2020-12-16T05:35:00Z
+    webUrl: "https://allafrica.com/stories/202012150316.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 24
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
   - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
     excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"
     publishedDateTime: 2020-12-16T22:00:00Z

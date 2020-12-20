@@ -7,7 +7,7 @@ originalUrl: "https://www.capacitymedia.com/articles/3827240/comviva-and-ooredoo
 webUrl: "https://www.capacitymedia.com/articles/3827240/comviva-and-ooredoo-kuwait-develop-machine-learning-based-cvm-campaigns"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 780
     height: 442
     isCached: true
-
-related:
-  - title: "Comviva and Ooredoo Kuwait form strategic partnership to deliver Machine Learning driven CVM campaigns"
-    excerpt: "Comviva, the global leader in mobility solutions today announced its strategic partnership with Ooredoo Kuwait. As part of this Data Science and Managed CVM engagement, Comviva will support Ooredoo Kuwait deliver contextual customer campaigns with MobiLytix™ Real Time Marketing,"
-    publishedDateTime: 2020-12-15T08:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-kuwait-middle-east-data-management-794c89ed60956cef82042f17e3e861e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "D1DVVVwt5wq9zGyk6IlXAcGwDKMH527nqHihoKzOAos/G3rfXcWnHIA+WnUsaS0BzpS8KsPULy3TR8vZR6w6UAY+hf1fW6I0reA8I3cUKgrEg7ITSBX5nQpVspNMTF5P0XjhpFaH+QP9LsM+1PXfCJC+kD6q7P7TSENZSmZ+tA/nz67wNn3i8U/SzLdDhV/4xVM3MHGX5XiM8m/dM7Kh1SrChHRpIKe2m7bjSaXDAfy35JuzdCfywqJRhDpM26KMZO+qSVvpMhdDmBH4pjxdyAKrXdbRj3zXi1xCTEuBbf3Erf30I7s16iRe8Jx5Wj7s3+pl4CJ3qJhirF3Qngi9fIHuPbJyZx+2gwDClso8gg2HLr6Pok5AFz1GBX/1YzBEr+Ec22ReuQ2bo3iJDInaj6mIS9lX5hIJNSEhnkmpgdn3eaizKb0zSN4QG3RljXTlOtmm3fprvTmagPkMkxNa5WImDcJqDf0GOm0cqROCSNbTusFsK6RqUpfq9OSoq+6UkK4XrGKfuyRo5SbivLFHsw==;JAKFE/A2l4AGZ/7EZ5Q91A=="
 ---

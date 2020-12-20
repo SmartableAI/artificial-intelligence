@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90586957/how-ai-is-helping-top-tech-ta
 webUrl: "https://www.fastcompany.com/90586957/how-ai-is-helping-top-tech-talent-connect-with-the-best-opportunities"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1280
     height: 855
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence is Reshaping the Healthcare Sector"
-    excerpt: "How Artificial Intelligence is Reshaping the Healthcare Sector  - The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools"
-    publishedDateTime: 2020-12-15T08:34:00Z
-    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
-    images:
-      - url: "https://www.cioreview.com/graph_image/0tsouino.jpg"
-        width: 405
-        height: 247
-        isCached: true
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
 
 secured: "A6UfJD5Dqjv1QwS6pJcN4CZcnHs5w9ZdDm5xO3cBkxT60UCBCq9brhjXYAdH8NxJBXjJ9o/kfgAbhjzWIU0Qloa/hEq5TRqGjI2MZu3EmljsGqulhQSdB5NR37t45jvG1TaPtUAc2e/8nt/JmbdR9PWBfkJ3Hg5jtmpqNv/3OkTWHOjJdC0yJgQH1+kvtT5p9MZW7pGw8ccCbPT6mqP7b9CxMdDE2/acTMXvgEC0pqxmDo4+A1uUss6p0iFHzmLIcMUwLWfEplTwSg98G4+LtAzZmQlYLSxlduRQJMPBQh5piowG1Y7MyB+ptE/wBqq7V2ou1b1IHBnj8GOgLc5J64Rfn9KOU8VrBFxK3ZzS1jRLdrrRsmCmlXhKcB3tFK5kRQQcjrOsy5I1Pg7TajEM/qpEk86XhaO6nwzKJ9zpkshqKdGs9ZnMomBKIJHFZSyl8d3oQCD4jZraHtJFOxPKr+qY+ebkxFJj2qyExTMaPil3+ZwHpWRnTJuRILrKOdoAsuE+Xx8/9/Yur/b7pr7VqQ==;uwxarRRuX9D5M3Ce2d5dqg=="
 ---

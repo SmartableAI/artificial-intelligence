@@ -7,7 +7,7 @@ originalUrl: "https://www.evaluationengineering.com/applications/embedded-system
 webUrl: "https://www.evaluationengineering.com/applications/embedded-system-design/article/21202445/startup-rolls-out-computeinmemory-chip-for-deep-learning"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Rolls Out Compute-in-Memory Chip for Deep Learning"
-    excerpt: "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras."
-    publishedDateTime: 2020-12-15T08:08:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 56
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 623
-        isCached: true
-  - title: "Startup Rolls Out In-Memory Processing Chip for On-Device AI"
-    excerpt: "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras."
-    publishedDateTime: 2020-12-15T08:05:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-inmemory-processing-chip-for-ondevice-ai"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 56
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 623
-        isCached: true
   - title: "Startup Rolls Out Analog Compute-in-Memory Chip for AI"
     excerpt: "The models are used for identifying objects and other features in images or carrying out other AI chores. At the heart of the IPU are analog compute engines, which are analogous to the cores in central processing chips. The cores are arranged in 108 ..."
     publishedDateTime: 2020-12-16T18:20:00Z

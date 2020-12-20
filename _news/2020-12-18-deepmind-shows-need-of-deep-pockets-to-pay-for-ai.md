@@ -82,6 +82,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google's DeepMind AI Research Costs Stretch Into Billions"
+    excerpt: "(Bloomberg) — Alphabet Inc. Google waived a $1.1 billion-pound loan to DeepMind Technologies Ltd. in 2019, after the U.K.-based artificial intelligence lab continued to ramp up the scale of its ..."
+    publishedDateTime: 2020-12-17T14:27:00Z
+    webUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions"
+    ampWebUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
+    cdnAmpWebUrl: "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
+    type: article
+    provider:
+      name: Leader-Post
+      domain: leaderpost.com
+    quality: 54
   - title: "Google Waives $1.5B in DeepMind Startup Debt"
     excerpt: "The waiver \"underscores Google's commitment to DeepMind, with little indication the [AI] startup is likely to turn a profit any time soon.\""
     publishedDateTime: 2020-12-17T20:11:00Z

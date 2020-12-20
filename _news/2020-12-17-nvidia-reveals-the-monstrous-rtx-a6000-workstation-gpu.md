@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI at Your Fingertips: NVIDIA Launches Storefront in AWS Marketplace"
+    excerpt: "AWS customers can deploy this software free of charge to accelerate their AI deployments. We first began providing GPU-optimized software through the NVIDIA NGC catalog in 2017. Since then, industry demand for these resources has skyrocketed. More than ..."
+    publishedDateTime: 2020-12-18T09:00:00Z
+    webUrl: "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/ai-your-fingertips-nvidia-launches-storefront-aws-marketplace-78092"
+    type: article
+    provider:
+      name: Cadalyst
+      domain: cadalyst.com
+    quality: 36
 
 secured: "LYDMz/zijsJud6v8tOhmzTZ/mV0zPGuS0HIxv+/BdoBboLkp48on/WGFxFWXV60cg8urnyqlVPv4iVt5YopWbFPUI+2ohMfG/GHgJgoScTPukeRb+c+YiztqABijpgTOitTFeV0DTP6e9OC55/YfiT/BCaR+Y6TOuGGKWmVXApad6uZB4VlDS0rJXYuQgaHO/QpYxmwBwOeb4ZguoSLXYLksESoqrrBQYM/MvwQlK8GnKo+vHFwGnpe4ZrG2/+vpLu8GaghN4koF98W/w5+WrFdrKeJJbU77cbcQkCeSMQZp/wd+hHc664kDamrlcJaBgMUlr4++21/Ue513wvWaAf4qjUOfWLONPw3an3mtnm5D+yP3sthf6WTDDcIwcoL6IIeu443YznfreO+739EnL1QBQ0PGJa4VuMd+pG/+rw+rYcZvdRM7Pr6HbA+1qXsijfin27hxYnawkS1KiJNAP/RLqf8ECWNiq12IN5+f4RbxAAQOUtmsaLEW2STSZzplQNvEI3i4j9ZiPiNsOv/ckg==;mpFwfR35EsFwDtWqRZV81A=="
 ---

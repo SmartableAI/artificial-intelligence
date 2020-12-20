@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tunisiesoir.com/health/study-researchers-use-artificial-
 cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/health/study-researchers-use-artificial-intelligence-to-id-mosquitos-26330-2020/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Tunisie Soir
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use artificial intelligence to ID mosquitoes"
+    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers have shown the effectiveness of an artificial intelligence system -- known as a Convoluted Neural Network -- to classify mosquito sex,"
+    publishedDateTime: 2020-12-20T00:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Researchers use artificial intelligence to ID mosquitos"
     excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system--known as a Convoluted Neural Network--to classify mosquito sex,"
     publishedDateTime: 2020-12-17T19:04:00Z

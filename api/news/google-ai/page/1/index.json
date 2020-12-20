@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 243,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -1317,6 +1317,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-aws-leverages-habana-gaudi-ai-processors.md",
+      "title": "AWS Leverages Habana Gaudi AI Processors",
+      "excerpt": "David Dahan, chief executive officer at Habana Labs, an Intel Company Why It Matters: As the world’s leading cloud provider, AWS is used by developers around the world to train their artificial intelligence (AI) models. However, the increase in ...",
+      "sourceUrl": null,
+      "webUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/",
+      "originalUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsroom.intel.com/wp-content/uploads/sites/11/2020/12/Habana-Labs-HL-205-690x460.jpg",
+          "width": 690,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/",
+      "cdnAmpWebUrl": "https://newsroom-intel-com.cdn.ampproject.org/c/s/newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/",
+      "publishedDateTime": "2020-12-01T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Intel",
+        "domain": "intel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-aws-launches-trainium-its-new-custom-ml-training-chip.md",
       "title": "AWS launches Trainium, its new custom ML training chip",
       "excerpt": "The company promises that it can offer higher performance than any of its competitors in the cloud, with support for TensorFlow, PyTorch and MXNet. It will be available as EC2 instances and inside ...",
@@ -1411,49 +1455,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-deepmind-cracks-50-year-old-protein-folding-problem.md",
-      "title": "DeepMind cracks 50-year-old ‘protein folding problem’",
-      "excerpt": "Deepmind, the UK-based AI company and a subsidiary of Alphabet, has produced a solution to the grand challenge of protein structure prediction. The breakthrough could accelerate biological research, unlocking new possibilities in drug discovery and disease ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/14550/protein-concept.jpg?crop=0,0.21556387848522682,0,0.292863087806908&cropmode=percentage&width=1200&height=450&rnd=132513011150000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

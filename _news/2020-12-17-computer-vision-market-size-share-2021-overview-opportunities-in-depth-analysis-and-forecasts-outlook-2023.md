@@ -180,20 +180,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech & Voice Recognition Systems Market 2020 Key Drivers and Challenges, Opportunities and Forecast Insights by 2025"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Speech & Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025, provides an analysis of the scope of the current and future market."
-    publishedDateTime: 2020-12-15T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2020-key-drivers-and-challenges-opportunities-and-forecast-insights-by-2025-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impact Of Covid 19 On Gesture Recognition In Automotive Sector Industry 2020 Market Challenges Business Overview And Forecast Research Study 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The Gesture Recognition In Automotive Sector market is expected to grow from 2020 to 2026,"
     publishedDateTime: 2020-12-15T13:50:00Z

@@ -1,20 +1,22 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Feature Store delivers a purpose-built data store for storing, updating, retrieving, and sharing machine learning features Amazon SageMaker Pipelines gives developers the first ..."
-publishedDateTime: 2020-12-09T07:08:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201208005335/en/"
-webUrl: "https://www.businesswire.com/news/home/20201208005335/en/"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+publishedDateTime: 2020-12-08T19:00:00Z
+originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: wallstreet online
+  domain: wallstreet-online.de
 
 topics:
   - AWS AI
   - AI
 
-secured: "OOK57+xw65CZ2yEIFivcUvQ5frBDv4PIS8g3ttHDQ81Hk2mtSkICksKKadJyXTZ0uENojaNUMoad+ON85Mk4GwKNfdGaZy465a9zs9PK0cauwqMc3lLo70VnCViLuMNV5XKCUow73qZDMIaeGPDo1jXPclOGxGanB+fWg365XlF4q7UfXAYRHNs07XEcYJS3iKafDiqzP3FdekY7JWfD4Ps++1QOhq6o7snUbv2kD3Bz9yd2GWlS1fo7rJoT8jcLgaqG8RMZStQv2eBEzOLbkqYJP19UxNoJPNg/67gyTHdjjiGtFTwWixRuVOKuDRhPIhnqO9y1Fu4JKHtdGY29DgFM86YBMi6G/eAqWqOs5oo=;j/6juRDPkpZ903eChzPt2A=="
+secured: "63bYJHnSjb7F5/bYiOQ/M9GypS+rvbz2F3F6yql0CFcMQFwk8O2S3pbtqW+BMZYTO6uQF3/BJwmiyHbsmZdt1EA5qJC5O/zf8R4gNlgtpHz1S85GE7uNLwdz91Hf63pTE1fJMxWLQCs2DIZlSAcIIgctIuw4hShdGN9dgyn+2NNXDzwS5lDa1Byeh6e5ju7qk6tuy9mCmnNqpSE78R+X0XVuk4xlcoccRUkzlLRfm/S5QbC4S2NVW5f5/tN9AqVacOzOH8CrNgep/RoLgRnlJP0nyZGfOE06mdhyPffpCoGGe/si63rO73OsqjQQj1BBR1HMV/Pb0UH1sjj8O+fGOq8JQE666M8DTgblWyuiGf4=;1k8KzMn/IbOw7bkutbLtVQ=="
 ---
 

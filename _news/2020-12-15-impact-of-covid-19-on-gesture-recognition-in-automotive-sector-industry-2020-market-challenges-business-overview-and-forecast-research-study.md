@@ -194,20 +194,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech & Voice Recognition Systems Market 2020 Key Drivers and Challenges, Opportunities and Forecast Insights by 2025"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Speech & Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025, provides an analysis of the scope of the current and future market."
-    publishedDateTime: 2020-12-15T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2020-key-drivers-and-challenges-opportunities-and-forecast-insights-by-2025-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-12-18T16:55:00Z
