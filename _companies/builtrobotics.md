@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "builtrobotics"
   url: "https://twitter.com/builtrobotics"
-  followers: 1072
+  followers: 1073
 
 size: 11-50 employees
 yearFounded: 2016
