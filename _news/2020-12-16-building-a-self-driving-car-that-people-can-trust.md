@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-Driving Cars And The Polanyi Paradox Of Knowing Versus Telling"
+    excerpt: "Questioning the act of knowing and the act of telling, which comes up for humans, animals, and ... [+] self-driving cars. We can know more than we can tell. That’s an assertion made by philosopher Michael Polanyi in his 1966 book entitled The Tacit ..."
+    publishedDateTime: 2020-12-20T16:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdd3ae5d1bf9ff470ffd053%2F0x0.jpg%3FcropX1%3D466%26cropX2%3D5504%26cropY1%3D9%26cropY2%3D3895"
+        width: 1200
+        height: 926
+        isCached: true
   - title: "Motorists in self-driving cars will not be legally liable for accidents"
     excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
     publishedDateTime: 2020-12-18T06:00:00Z

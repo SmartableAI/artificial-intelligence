@@ -1261,22 +1261,22 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-amazons-amzn-latest-ml-services-boost-its-aws-portfolio.md",
-      "title": "Amazon's (AMZN) Latest ML Services Boost Its AWS Portfolio",
-      "excerpt": "This is evident from its latest move, wherein its cloud computing arm Amazon Web Services (“AWS”) introduced five machine-learning services namely Amazon Monitron, Amazon Lookout for Equipment, AWS Panorama Appliance,",
+      "path": "_news/2020-12-03-intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors.md",
+      "title": "Intel's (INTC) Habana Labs Secures AWS Deal for Gaudi Processors",
+      "excerpt": "The accelerators will also support PyTorch and TensorFlow along with other such common frameworks. AWS’s EC2 instance based on Gaudi accelerators will be capable of processing 12,000 images per ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
-      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
+      "webUrl": "https://www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03",
+      "originalUrl": "https://www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
-      "publishedDateTime": "2020-12-03T06:30:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03?amp",
+      "publishedDateTime": "2020-12-03T07:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -1290,9 +1290,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Google AI",
         "AI",
-        "Machine Learning",
         "AWS AI"
       ]
     }

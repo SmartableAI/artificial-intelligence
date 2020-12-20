@@ -2,6 +2,91 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-11-11-uae-based-fintech-firm-launches-ai-powered-kyc.md",
+      "title": "UAE-based fintech firm launches AI-powered KYC",
+      "excerpt": "Fintech company PayBy has launched an AI-powered Know Your Customer (KYC; also termed Know Your Client) process in the UAE. The KYC is 100% paperless process and takes only 30 seconds to complete, doing away with the need for extensive documents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "originalUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "publishedDateTime": "2020-11-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-joshai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin.md",
+      "title": "Josh.ai launches a ‘nearly invisible’ Amazon Echo competitor that’s the size of a coin",
+      "excerpt": "In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
+      "originalUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/20_10_13_Josh_AI_3126.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
+      "publishedDateTime": "2020-11-10T15:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-walmart-tests-self-driving-car-deliveries-in-arizona.md",
       "title": "Walmart Tests Self-Driving Car Deliveries in Arizona",
       "excerpt": "When customers in Scottsdale order items from their local Walmart, they will be able to choose a contact-free delivery from one of Cruise’s cars.",
@@ -1099,101 +1184,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks.md",
-      "title": "MediaTek debuts chips for budget 5G phones and powerful Chromebooks",
-      "excerpt": "In 2021, the Taiwanese chipmaker will bring 5G to the most affordable phones and add advanced camera and AI features to Chromebooks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/dimensity700.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/amp/",
-      "publishedDateTime": "2020-11-10T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-numenta-demonstrates-50x-speed-improvements-on-deep-learning-networks-using-brain-derived-algorithms.md",
-      "title": "Numenta Demonstrates 50x Speed Improvements on Deep Learning Networks Using Brain-Derived Algorithms",
-      "excerpt": "Using algorithms derived from its neuroscience research, Numenta announced today it has achieved dramatic performance improvements on inference tasks in deep learning networks without any loss in accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-lil-dicky-computing-and-information-technology-5f1945f266c849b791f76c4f96123908",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-lil-dicky-computing-and-information-technology-5f1945f266c849b791f76c4f96123908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

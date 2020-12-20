@@ -2,6 +2,100 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-11-03-concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.md",
+      "title": "Concordia researchers dig deep into the software powering self-driving cars",
+      "excerpt": "Peeking under the hood of a self-driving car will only tell you so much ... Developed by Chinese tech giant Baidu, the Apollo system is a leader in the ADS field. Its app-based Apollo Go Robotaxi service is already operating in a limited capacity on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/ginacody",
+      "originalUrl": "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/ginacody",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.concordia.ca/content/shared/en/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.img.png/1604418121042.jpg",
+          "width": 768,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Concordia University",
+        "domain": "concordia.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-the-future-of-work-now-ai-assisted-skin-imaging.md",
+      "title": "The Future Of Work Now: AI-Assisted Skin Imaging",
+      "excerpt": "Dr. Andrew Weinstein uses Miiskin, an AI-based tool that allows patients to take images of and monitor changes in their skin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa178d7f42e9f75640bae75%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
+      "publishedDateTime": "2020-11-03T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-waymo-moved-its-self-driving-cars-in-san-francisco-to-a-secured-location-in-case-of-election-chaos.md",
       "title": "Waymo moved its self-driving cars in San Francisco to a ‘secured location’ in case of election chaos",
       "excerpt": "Waymo is pulling its autonomous vehicles out of San Francisco in anticipation of Election Day unrest, The Verge has learned. The Google spinoff is “temporarily pausing” its AV test operations in San Francisco on Tuesday and Wednesday and moving its ...",
@@ -1069,92 +1163,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-how-customers-can-maximise-google-cloud-free-tier.md",
-      "title": "How customers can maximise Google Cloud free tier",
-      "excerpt": "But until that day comes, the BigQuery database will answer one terabyte of queries each month and AutoML Translation will turn 500,000 characters from one language to another. Some developers use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/684203/how-customers-can-maximise-google-cloud-free-tier/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/684203/how-customers-can-maximise-google-cloud-free-tier/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_154242123_8.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
-      "title": "Face recognition, pollution alert in tech upgrade",
-      "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79008996/79008996.jpg",
-          "width": 800,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "publishedDateTime": "2020-11-02T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
-    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
-    publishedDateTime: 2020-12-15T23:27:00Z
-    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 4
   - title: "Video: Level 5 self-driving robotaxi unveiled by Zoox"
     excerpt: "Zoox, an autonomous vehicle subsidiary of Amazon, unveiled its Level 5 robotaxi designed for urban mobility that features bi-directional capabilities. (See A primer to the 6 levels of autonomous driving for a breakdown of the levels of self-driving vehicles."
     publishedDateTime: 2020-12-18T16:51:00Z

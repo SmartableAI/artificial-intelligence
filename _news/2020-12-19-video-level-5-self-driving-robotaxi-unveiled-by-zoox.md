@@ -76,15 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
-    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
-    publishedDateTime: 2020-12-15T23:27:00Z
-    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 4
   - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
     excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
     publishedDateTime: 2020-12-19T10:06:00Z

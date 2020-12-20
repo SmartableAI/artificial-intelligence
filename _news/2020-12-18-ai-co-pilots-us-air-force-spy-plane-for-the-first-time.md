@@ -88,15 +88,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Human.Ai Expected to Save 70% on Infrastructure CostsSAN ANTONIO, Dec. 15, 2020 (GLOBE NEWSWIRE) -- Rackspace Technology™ (NASDAQ: RXT), a leading en"
-    publishedDateTime: 2020-12-16T00:32:00Z
-    webUrl: "https://www.generation-nt.com/rackspace-technology-and-humen-ai-collaborate-to-streamline-newswire-1983393.html"
-    type: article
-    provider:
-      name: GNT
-      domain: generation-nt.com
-    quality: 19
 
 secured: "JsP0AUMexn1jz6XmWdgIBghOp0dsXNr6Tn2O2/5CprwtK8NDOyNMd4uSHUaWrTFsa/nrF3wuCUjUYM4t6iJeseY3umJwX55IJAzHKKWVSODOEpykhumpUmyOinV7C79OaszHfVxQP4YoVensl45jyPu7mMBCaP81/PVrFS7YODN1Bmnowd/0OPxdgqRlPoHHkNk/b0FuJPGyy5sdwxkoqOn/8kI86muzZeV+EtVbGKYC3NbSGvdY62gk1A+uK1T6dPgJKHJB11/2Hjea45ZTt6IWOR0fpNl6g6O9C58P9rqDkUSTNiXOUTufYhSK1U1cQeVgm1EHnMY5q+ipuDw/SSkVPHup/LhFCGcfKfbrNhsWTLh12kaEUbWgMLqW4rx/+pDuzrq3M1qN9tial7seVwlXuHXmOToKi9TcwO277qx1LK1J4miOkijRGytfp+kLr1dDONWayPbcn89y4hGeT3e7UmPuAx2Cs6rQr7dTVogOGEJiizn9kV08xVUNJ1tKar/BgN3mOABHAmbFdzqTFw==;gKqYPgFbetRyfZmgecUQ8A=="
 ---

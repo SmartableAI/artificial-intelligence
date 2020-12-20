@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-13-android-gains-support-for-hardware-accelerated-pytorch-inference.md",
+      "title": "Android gains support for hardware-accelerated PyTorch inference",
+      "excerpt": "The NNAPI can be accessed via an Android C API or a higher-level framework like Google’s TensorFlow Lite. The initial release includes support for well-known linear convolutional and multilayer ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/android-gains-support-for-hardware-accelerated-pytorch-inference/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/android-gains-support-for-hardware-accelerated-pytorch-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/android-gains-support-for-hardware-accelerated-pytorch-inference/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/android-gains-support-for-hardware-accelerated-pytorch-inference/amp/",
+      "publishedDateTime": "2020-11-12T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.md",
       "title": "How Amazon Retail Systems Run Machine Learning Predictions with Apache Spark",
       "excerpt": "Amazon Retail systems uses Apache Spark with Deep Java Library (DJL) to build propensity models to drive customer experience.",

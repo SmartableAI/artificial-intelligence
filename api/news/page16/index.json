@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-07-healthcare-artificial-intelligence-ai-market.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market",
+      "excerpt": "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "originalUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc07554095_g.jpg",
+          "width": 417,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "publishedDateTime": "2020-12-07T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity.md",
       "title": "North America AI Chipsets Market 2026 – A USD 26 Billion Revenue Opportunity",
       "excerpt": "According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size will be around USD 25 billion by 2026. The North America AI chipsets market growth is driven by increasing investments in the regional datacenter infrastructure development.",
@@ -1128,49 +1172,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
-      "title": "BlueScope Steel completes data and analytics overhaul",
-      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
-          "width": 570,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

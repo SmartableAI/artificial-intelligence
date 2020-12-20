@@ -2,6 +2,110 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-11-06-inside-fintech-startup-upstarts-ipo-filing.md",
+      "title": "Inside fintech startup Upstart’s IPO filing",
+      "excerpt": "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
+      "originalUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
+      "publishedDateTime": "2020-11-05T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-what-ai-can-learn-from-parents.md",
+      "title": "What AI Can Learn From Parents",
+      "excerpt": "Like raising children, training an artificial intelligence means balancing obedience and independence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334?mod=science_list_pos2",
+      "originalUrl": "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334?mod=science_list_pos2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-255053/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334",
+      "publishedDateTime": "2020-11-05T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on.md",
       "title": "Announcing the AWS DeepComposer Chartbusters challenge, Keep Calm and Model On",
       "excerpt": "We are back with another AWS DeepComposer Chartbusters challenge, Keep Calm and Model On! This challenge is open for submissions throughout AWS re:Invent until January 31, 2021. In this challenge, you can experiment with our newly launched Transformers algorithm and generate an original piece of music.",
@@ -1115,101 +1219,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-ai-compilers-and-the-race-to-the-bottom.md",
-      "title": "AI Compilers and the Race to the Bottom",
-      "excerpt": "(Source: Facebook AI) “We have this really high-performance runtime, but a lot of projects don’t care because they aren’t in the data center,” explained Jordan Fix, a research scientist at Facebook. “They need to do AOT compilation, shrink as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
-      "originalUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYTQzZWE0NzM5ZDQucG5nJnZlcnNpb249MDAwMCZzaWc9NDlmMzljMWExNzk2ZjhhYmZhNTE0ODJhZTYzZWUzNmU%253D",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-breaking-down-global-barriers-to-access.md",
-      "title": "Breaking down global barriers to access",
-      "excerpt": "Were delighted to announce that we are expanding our programme to support scholars in many more countries currently underrepresented in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
-      "originalUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/ADneYf8LGmDTetYpE7YFQDptGEB3fFekeAME77R2ybUU-jft2PlgQsfJXn8hmThwTX6hU6ZdV5hpYeDAAkyMphyXvp_mP3HJqTFqqg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
