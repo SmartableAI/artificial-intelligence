@@ -99,20 +99,6 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "Aurora Acquires Uber's ATG Self-Driving Car Unit"
-    excerpt: "We hear what’s next for Aurora since acquiring Uber’s self-driving branch; and the Pittsburgh Mercy President and CEO on what’s"
-    publishedDateTime: 2020-12-15T20:43:00Z
-    webUrl: "https://www.wesa.fm/post/aurora-acquires-ubers-atg-self-driving-car-unit"
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 24
-    images:
-      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/202012/uber_autonomous_vehicles.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "JQC2eC5IoMZq/Ihd7HqAaeDSbSdYgdv8cz8U3vkAUoYCpW6F18KHUvv2gawzGhBr9CTTcmW4ZzTHJhD2/f/FLTwyoLSCy0xPyqCFWFP54hNtR4eAs51ZeoxlBRkO7lJGuNxmf24en1/pAI1K8PYzrmDuTWMJwNeLzHpvvvmYKYp04+7VuxiLwG28AY04pLT1VmgXjiHX57Rj/Akzc8nKRMIiDfHzF62k5nRDUPmwCtFbLrz3OfvLUZmj6UIguEQnHC3szzTCkS47ZIN3CquVf1antjEubGZuD6VcOnNeor+7OU/q4hlzvUM8ulmhsmABJiZR58ADEh5etY/6zAlU5TG9ccAUxFdyP2Dvwj5cdf4=;wwm0TEKaIA1GAFysL/fGlQ=="
 ---

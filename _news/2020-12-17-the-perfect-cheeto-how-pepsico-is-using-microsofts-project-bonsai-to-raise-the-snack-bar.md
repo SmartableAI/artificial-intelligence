@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai-for-business/pepsico-perfect-cheeto
 webUrl: "https://blogs.microsoft.com/ai-for-business/pepsico-perfect-cheeto/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 1024
     height: 384
     isCached: true
+
+related:
+  - title: "Microsoft is working on its own PC chips"
+    excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
+    publishedDateTime: 2020-12-19T04:57:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
 
 secured: "2mJ4TCx/eM8HPDNOIHGZ4o6L73xMCAT+tLO7T/ZanVajzLH8uqHKffufWg4QEPzWubUcMSibiiw33wSToTHgayHuayw9XL6h0P1uJC7FcYi04In/9WD0kyciJuxeDkGzIRhxFP3v3KUup0bE+etffRQc37Z4YQuJ+u2kt+WjZuGpiban1c7lNugaHSAXM6IaL7WyyweQxg9DgxJhAza7nUkLaMC/8Gr+m7hLYmcEh3BqbeDweiMlbu7/7EAJtFJ4cY2N+a1JhLRivlAgwlQQ/7n8LQqw1hSHDqBi77wACo6mIk+oHpKRCwJvRMkvcpO7Al8Ci7l0vIyWnisiZ64vhEeuQ2w9OIRItz1rXrNKW8M=;VbyHCLuba9KUwgKo5UCo6A=="
 ---

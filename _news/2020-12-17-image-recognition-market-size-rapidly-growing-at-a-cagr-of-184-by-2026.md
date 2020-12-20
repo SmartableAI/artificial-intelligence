@@ -49,6 +49,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Advanced Report On Automatic Content Recognition (ACR) Market, Which Is Expected To Reach USD 7,915.7 Mn By 2030 at 17.4% CAGR -Market.Biz"
+    excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Automatic Content Recognition (ACR) Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats,"
+    publishedDateTime: 2020-12-17T09:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-asia-new-products-and-services-4a970bb9c1d64ed3a660b0d52db0b7cc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3wx4uIPNvm3wiG6COe0IdKDhTUtFkikVmE1Fe2ypTGlBLQg1H3btKaVeM8go/AIegrU2VtEl/laY/BK4kzQfO0SuNay+WyvOZPObhSQFJFsQt87Zra+UDdJ30grdGWa5JLgPMxmI78MrApz9UUMnatVmoDLRCbNlnx4iIG3R0nemPPW4kTnRZAw0tT5k6njbMJrFPY+iPG2b0dN1pYPIO1Odw3s1y0/Abxv1pvRGzyVMBTZ8C90Bs6IOoWQGBqx8176foKsafdAocYxUbmGwNCi6U+faYjW0qd0J4UrMIz7fO2FlnypYLMHNDjVZSS6ldZVSdLTpOBSY8E3agCyaI7tuDHpv3IJ/NSiXu70rE+Q=;siGkSGtbS7CY0KxQ6DiC1Q=="
 ---

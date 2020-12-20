@@ -54,6 +54,22 @@ related:
         width: 775
         height: 436
         isCached: true
+  - title: "Microsoft’s Azure Studio Alpha Solutions Applies Gaming Principles to Big Business"
+    excerpt: "Microsoft is debuting a new Azure-powered solution called Studio Alpha, aimed at brining gaming ideals to enterprise and government"
+    publishedDateTime: 2020-12-16T14:05:00Z
+    webUrl: "https://winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/05/Project-xCloud-Servers-Microsoft.jpg"
+        width: 940
+        height: 528
+        isCached: true
   - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
     excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
     publishedDateTime: 2020-12-18T19:39:00Z

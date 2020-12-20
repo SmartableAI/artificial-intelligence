@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving Code Contains Secret “Augmented Reality View”"
-    excerpt: "While digging through the code of their Tesla’s Full Self-Driving feature, a noted Tesla hacker-owner who goes by the handle “green” found an augmented reality view of everything the vehicle ..."
-    publishedDateTime: 2020-12-15T19:43:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-code-secret-augmented-reality-view"
-    ampWebUrl: "https://futurism.com/tesla-full-self-driving-code-secret-augmented-reality-view/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-code-secret-augmented-reality-view/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2020/12/tesla-full-self-driving-code-secret-augmented-reality-view-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "How Does Tesla's Full Self-Driving Beta Fare In Construction Zones?"
     excerpt: "Tesla's FSD Beta technology is impressive on many levels, but it's not yet capable of full self-driving. Inconsistent and unique situations are the issue."
     publishedDateTime: 2020-12-16T14:43:00Z

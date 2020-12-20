@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://koreajoongangdaily.joins.com/data/photo/2020/12/20/cadbde55-c8b0-44b4-b3c1-4259559daf87.jpg"
         width: 560
         height: 373
-        isCached: true
-  - title: "Aurora Acquires Uber's ATG Self-Driving Car Unit"
-    excerpt: "We hear what’s next for Aurora since acquiring Uber’s self-driving branch; and the Pittsburgh Mercy President and CEO on what’s"
-    publishedDateTime: 2020-12-15T20:43:00Z
-    webUrl: "https://www.wesa.fm/post/aurora-acquires-ubers-atg-self-driving-car-unit"
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 24
-    images:
-      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/202012/uber_autonomous_vehicles.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
     excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."

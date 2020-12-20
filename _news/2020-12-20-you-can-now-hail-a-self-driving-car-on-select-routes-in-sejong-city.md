@@ -89,20 +89,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Aurora Acquires Uber's ATG Self-Driving Car Unit"
-    excerpt: "We hear what’s next for Aurora since acquiring Uber’s self-driving branch; and the Pittsburgh Mercy President and CEO on what’s"
-    publishedDateTime: 2020-12-15T20:43:00Z
-    webUrl: "https://www.wesa.fm/post/aurora-acquires-ubers-atg-self-driving-car-unit"
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 24
-    images:
-      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/202012/uber_autonomous_vehicles.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
     excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
     publishedDateTime: 2020-12-18T14:53:00Z

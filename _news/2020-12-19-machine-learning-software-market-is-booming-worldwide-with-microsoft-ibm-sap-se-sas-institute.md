@@ -60,6 +60,22 @@ related:
         width: 775
         height: 436
         isCached: true
+  - title: "Microsoft’s Azure Studio Alpha Solutions Applies Gaming Principles to Big Business"
+    excerpt: "Microsoft is debuting a new Azure-powered solution called Studio Alpha, aimed at brining gaming ideals to enterprise and government"
+    publishedDateTime: 2020-12-16T14:05:00Z
+    webUrl: "https://winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/05/Project-xCloud-Servers-Microsoft.jpg"
+        width: 940
+        height: 528
+        isCached: true
   - title: "Microsoft designing its own chips for servers, surface PCs"
     excerpt: "Building on decades of x86 ecosystem innovation, we are committed to providing customers the world’s best CPUs and new products from GPUs to AI chips,” Intel said in a statement. “In this expanding market, we expect to gain share in many areas like ..."
     publishedDateTime: 2020-12-19T08:10:00Z
