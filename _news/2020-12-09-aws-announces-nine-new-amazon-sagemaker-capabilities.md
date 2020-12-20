@@ -1,22 +1,20 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
-publishedDateTime: 2020-12-08T19:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
+publishedDateTime: 2020-12-08T19:35:00Z
+originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
 type: article
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "oV1GZdBa2KOPmPIK2M++y0c+eHVrwemUcxg1a7QATX5vvu0ggPXT3TcYq2RDlE3+l2ALvwqaUzHTcdBBxa8aAtQG/l1o/1t93u3UD8FnDshatprn+5wwIBoEH0fO20+I3qFJAkuP6e8ThpAQ8mEMIYzfRa+xAcbcLzap/0hxkTAihvTjukQETM7kjFC4pdacFY5dRqfBbiP823VuMGttXNPYC7jXD35s5ov1xx38UP6XLyxVO1aOufUVshYnukv1+/++UVWtbPmWu+mmF79CNbrKIIIHaWqJQPfg5kP2HnqY3WyLqmL7sdUzJ+MZisysTLJGvZz4w2QKhTdaklm6qLxmkfUqiA26xzlZN4sgVlA=;bNWu05aX7loEeCm9qSyewg=="
+secured: "aRv3VbKzAkLESgHosK4LZtSXWvDJcDBGC9rY7W1cdj8I/eT/d3nWUXObpNFzuAVyc+MxkkXTTai6NAwy9+jWjz7s1vMlzRM7zslKY4oyOsJrQ4OaelMMWdQ5O97A/jwrwTgAqzUINBU9+utYtDZZPGaXo6y0EoaYqshhif74KXKmvZnobZnTstXOqoVh/e+DwUS0G3tdE0z1O1PULDpjkoE4GiXkSwfZI1yJMds00sD6Jifyt31F5zE+XL6R/cdjpc/Q29Cjlqd+En/+p09oHeAWebyqXseLwa1KWPnWPtjE194CZLee6l3WUXcKeYBTElj0AjilVedtQJsB0TpDhXJd1yRUoU4g+r2v5EWKRJo=;1tndeHkBRRS3qxGNXvdOjg=="
 ---
 

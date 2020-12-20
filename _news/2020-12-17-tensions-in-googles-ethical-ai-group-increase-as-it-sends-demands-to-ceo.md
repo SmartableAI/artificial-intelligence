@@ -58,20 +58,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users visualize themselves conducting complex dance moves. Rackspace Technology's team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced infrastructure cost."
-    publishedDateTime: 2020-12-15T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rackspace-technology-and-humenai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-2020-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Rolls-Royce Releases AI Toolkit To Set A New Standard For Ethics & Trustworthiness"
     excerpt: "Royce has released a comprehensive ethical and trustworthiness framework, that will help businesses to check and balance their AI projects in a fair, ethical and trustworthy manner. Available for free to download from the Rolls-Royce website,"
     publishedDateTime: 2020-12-15T13:04:00Z

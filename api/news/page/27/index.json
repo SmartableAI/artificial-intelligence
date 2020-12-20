@@ -2,51 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2020-11-30-artificial-intelligence-machine-learning-what-do-they-mean.md",
-      "title": "Artificial Intelligence & Machine Learning – What Do They Mean?",
-      "excerpt": "There was a time when we heard terms like Artificial Intelligence and Machine Learning only in sci-fi movies. But",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
-      "originalUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2020/11/AI-recommendation-engine.png",
-          "width": 767,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
-      "publishedDateTime": "2020-11-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles.md",
       "title": "Volvo Designs Driving Simulator Using Video Game Engine To Train Autonomous Vehicles",
       "excerpt": "More autonomous vehicle researchers and engineers are turning to video games to enhance the performance and reliability of autonomous vehicles. According to TNW, Volvo has begun to utilize video games to assist in the development of autonomous vehicles and the AI algorithms that will drive them.",
@@ -1208,6 +1163,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance.md",
+      "title": "Cloud and AI: The biggest trends in personal and SMB video surveillance",
+      "excerpt": "Video surveillance systems are increasing in power and value, as new ways to gather, analyze, share, and store digital data are developed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
+      "originalUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
+      "publishedDateTime": "2020-11-27T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

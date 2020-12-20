@@ -70,7 +70,7 @@ related:
     provider:
       name: Good Men Project
       domain: goodmenproject.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://goodmenproject.com/wp-content/uploads/2020/12/artificial-intelligence.jpg"
         width: 800

@@ -289,58 +289,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-social-media-giants-face-big-fines-and-blocked-sites-under-new-uk-rules-on-harmful-content.md",
-      "title": "Social media giants face big fines and blocked sites under new UK rules on harmful content",
-      "excerpt": "The proposals are part of the U.K. government’s bid to force tech giants to rid their platforms of illegal and toxic content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106811313-1608026067894-gettyimages-1229196183-AFP_8TJ2RU.jpeg?v=1608026238",
-          "width": 3834,
-          "height": 2868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
-      "publishedDateTime": "2020-12-15T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome.md",
       "title": "Tesla hacker unlocks Autopilot ‘Augmented Vision’ and it’s awesome",
       "excerpt": "A Tesla hacker has unlocked “Autopilot Augmented Vision,” a new mode in Tesla’s autonomous driving suite, that enables to see what Autopilot can detect in real time. It’s awesome to watch. More than two years ago,",
@@ -1424,6 +1372,49 @@
       "provider": {
         "name": "ScienceBlog",
         "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-massachusetts-legislators-vote-to-ban-police-from-using-facial-recognition-technology.md",
+      "title": "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology",
+      "excerpt": "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457",
+      "originalUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg",
+          "width": 800,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp",
+      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp",
+      "publishedDateTime": "2020-12-02T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Root",
+        "domain": "theroot.com",
         "images": null,
         "publishers": null,
         "authors": null

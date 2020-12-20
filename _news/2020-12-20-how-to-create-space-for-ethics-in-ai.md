@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-17T150501.855-796x417.png"
         width: 796
         height: 417
-        isCached: true
-  - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users visualize themselves conducting complex dance moves. Rackspace Technology's team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced infrastructure cost."
-    publishedDateTime: 2020-12-15T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rackspace-technology-and-humenai-collaborate-to-streamline-artificial-intelligence-powered-dance-app-2020-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tensions in Google’s ethical AI group increase as it sends demands to CEO"
     excerpt: "Tension between Google’s Ethical AI group and executives at the company rose on Wednesday, as employees sent a list of demands regarding the recent departure of one of the team’s leaders — a prominent Black woman in a field that’s largely White and male."

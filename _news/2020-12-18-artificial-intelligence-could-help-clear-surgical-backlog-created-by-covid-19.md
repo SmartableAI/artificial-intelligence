@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI: This COVID machine-learning tool helps swamped hospitals pick the right treatment"
-    excerpt: "A Barcelona hospital's artificial-intelligence tool analyzes trillions of pieces of data to predict likely patient outcomes."
-    publishedDateTime: 2020-12-15T11:46:00Z
-    webUrl: "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/"
+  - title: "Artificial Intelligence Wants to Help Covid-Wary Biz Travelers Be Smarter About Flying"
+    excerpt: "Dataminr said it leverages artificial intelligence to provide the earliest indications of business-critical information about risks to staff. It claims it can provide real-time insights from on-the-ground happenings,"
+    publishedDateTime: 2020-12-18T17:00:00Z
+    webUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/"
+    ampWebUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
+      name: Skift
+      domain: skift.com
+    quality: 49
+    images:
+      - url: "https://skift.com/wp-content/uploads/2020/12/Aircraft-cabin-crew-Ismail-Mohamed-Sovile-Unsplash-scaled-e1608299910510.jpg"
+        width: 1367
+        height: 911
+        isCached: true
 
 secured: "V2dXS6O1F6Vn/298RaljZTjRnHu2XV/ZHcAPyq+bEPuTgyrjjtjvXgcobrPbYWnPceWTCE/nGCyLJtYfiAzTYqQyCStZI12KQHcn3qKGHeFN6pQtcbGPpCMfaDU/+8x0wFvDaaWjAn6fflu/lrYP6grFy3pAofdUwwCY1XEegYTbFqNpiN2CqvSVTch/Req81EG8m6RSBylFFgwogKJlaaFJDS/ZDCEk72gyWQzYAQogjBYkQdVo3xe1F+EdWkYv0qSht0CexnCx6Sdnx0eiRkpwLgCORzyKfMXX4gTNXTOuxVnvkPNt5VgFAslgSjgQ0lchaucx3+av2STjJK8X90sLYr2iXp3rl2UKqYQkfSlYegkrvAAfdHePxkoDUHPs6tFVEw0rJpdCVlsy/JsSeFlgLUDe5FTThkPM7B4FGvPjgU8eZMr4wBoCdchHBC1mz4kYci/qLAFj0Hk3Zzte6P28PChNA9s85tStdK5HUGsXFDSCTlgRHMW8UOk/xwwbQLjUsN0klPUOKiz4pg+Cjg==;j3m83udVOkelZsB7ig5jdQ=="
 ---

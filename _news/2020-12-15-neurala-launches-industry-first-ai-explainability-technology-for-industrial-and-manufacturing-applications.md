@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturingtomorrow.com/news/2020/12/15/neurala-laun
 webUrl: "https://www.manufacturingtomorrow.com/news/2020/12/15/neurala-launches-industry-first-ai-explainability-technology-for-industrial-and-manufacturing-applications/16264/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Synaptics Expands into Low Power Edge AI Applications with New Katana Platform"
-    excerpt: "Synaptics ® Incorporated, today announced the Katana Edge AI™ platform, addressing a growing industry gap for solutions that enable battery powered devices for consumer and industrial IoT markets. The Most Power Efficient Edge AI Software The growing demand for efficiency in battery operated devices requires software optimization techniques"
-    publishedDateTime: 2020-12-15T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/synaptics-expands-into-low-power-edge-ai-applications-with-new-katana-platform-2020"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
 
 secured: "eCr06ygYrlvT3bjVtQuFggZLgUNYC1GR99RmnjTJSegBa0FaauV3KxI+yL/90GayyqzQJ3CDwRXYCiTlvyrQaL8uWgAS+tGQnwqqTTQnJ2NfzibDJedMWqwW07EJl+X9PXmHwI1Hn8+r+ksH9z2Asx9kW6HShaiTUkpestAR7X9nq4Peq/ym5v6tz5hyfmx2U3vL5UHvt6s7r4wGDa/3S5C6IwFlvDIw80kQVnOXcKrzWWbefTsoXSZwyWiwvBKu10wohQiXQGuwTnga1Azl3sU/1Vk3OapjZmJaQ1/6jx6h8vzZ/w0CJckln85RPIXIqpJY3vtE+nwLsEvs+xTw5+b9YirAOGJG8T9z7KJ/wkU=;a8YstUGHxP3yhDJJRzj4zQ=="
 ---

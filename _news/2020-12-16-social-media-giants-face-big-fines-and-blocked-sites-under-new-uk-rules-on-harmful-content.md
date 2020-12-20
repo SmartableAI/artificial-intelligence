@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/15/uk-online-harms-bill-tech-giants
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CNBC
@@ -29,24 +29,6 @@ images:
     width: 3834
     height: 2868
     isCached: true
-
-related:
-  - title: "Social Media Giants Face Big Fines and Blocked Sites Under New UK Rules on Harmful Content"
-    excerpt: "The proposals are part of the U.K. government’s bid to force tech giants to rid their platforms of illegal and toxic content."
-    publishedDateTime: 2020-12-15T11:16:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/social-media-giants-face-big-fines-and-blocked-sites-under-new-uk-rules-on-harmful-content/2780880/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/social-media-giants-face-big-fines-and-blocked-sites-under-new-uk-rules-on-harmful-content/2780880/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/social-media-giants-face-big-fines-and-blocked-sites-under-new-uk-rules-on-harmful-content/2780880/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 34
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106811313-1608026067894-gettyimages-1229196183-AFP_8TJ2RU.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "7kX/YHahgT/8SqWi9qaYQPEjsSZlZKnOl73SRFtrRVwquwCdQLDxGFu4tr2jgSoQIPRGtaYUsbGklA8ors+r6G1P3iHi7uEQcGCARwX6/79PgXSB0tr7Q+spEvWjE3SXzBJ291Tcbd3497EE8qLTDB1eBUH8TqUr0h4c6qU3UbUnjlkd77tiYZWt9DrY6iuE6DS3VA+E1y3pQ4dPDfHC0ExAMMOGeGEBa86bKtfQtDQJzH8BXRo4Ekh3Aqlal83VMGHfnPs/buX2SFHwhsJli0TTZkdpo3Ulw1FuQrinI/yzfAbjdMMWE6f1wTTwnbUrIYfnD9RLV1IpkrHmsktr2rM7W4d6ImhYncgjhpo95Kg=;Gd5zAS8o9B1kvLsMZWs1Ng=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-20T02:41:00Z
 originalUrl: "https://goodmenproject.com/featured-content/artificial-intelligence-on-cyber-security-and-pandemic-in-2020/"
 webUrl: "https://goodmenproject.com/featured-content/artificial-intelligence-on-cyber-security-and-pandemic-in-2020/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Security
+  - AI in Healthcare
 
 images:
   - url: "https://goodmenproject.com/wp-content/uploads/2020/12/artificial-intelligence.jpg"
@@ -112,6 +113,6 @@ related:
       domain: businesswire.com
     quality: 5
 
-secured: "r08nbQ3Ry7rHe7n4ZBahy3HWxxiNpkYZA+a46cojKEUDdXJ/Et6xBZPeXtBtYgp8++ONc9mEz39rfxThLSk18IqI7A3Otn4fVUmUdIyK80oH1zVUDPNeUtF7CbryXhR4q2qgjeadP/SrGL6FI9zmJ33MeHCMk/FkkEjF3HUjBXseRyqBiQBUQQAoV0vZNuEgsHDADJwmKrQLFaz42Oc4shns7FaPdAW8KH0WMukEYUIlqrgdzqpXQ60QsmTaGPZuWXJsdVhEVB4O/YJIG/UH8UhvL9Zuad7sAn1AFvlStOIb0KdIBPRCkTBuRoxvY1HB8NRmNF9UjGwHyWzTZ8g8aBdt/Bji/LLrAbnBwxPjPsI=;NjdI+tzg0W+UMgkbBu/ZgA=="
+secured: "o2pug8Rbi8v1wM5WmClYMKuySDvwEC+mRnTJaM5F4xNiGlxo5nSBQskGmPGOSxd/eOKjXZSymghTDctTw9rzRfYz/Wu4ZCz7IVsEy+Cjy0lBxhOQmcpRgdxg9fN8JzmOWA5mESCDmiW2jkpPvmEws+NiVJh48lRGbXMqqviipSAPih6if+QB6nBtFJObbpEktIbZniiPGIVUgcSJCEbCvabOtrXBWkzT9cTdjZ+R2LViE5w/x6g4VwEI2nT1JixIg87d9+TcK6ig2ja0P7HTLEp461ArJsq96rlgI0y0RvQAXNKDSYjAwDX5yjPxLPs4GpVsBLpsQ3EiKeOyPv5bJT9w0/CSp1he0CZ0Vx96geQhKi/iV1PSLDfREo7dSKiWgB4VdEj65CSy94ZqZKUGkHtEQVP4guEl9IZpdzDuCyawMRieECuWM5NoObRCi9V7o6UlqFmQtiEwGBWOqstQ1GoOD0mHpuu00iaUen0ewbbqjtHhY43K7B1/n/o5HnBt8QwW4dHAnGN5VaolJZSVXg==;5P24QysxYiXf67GpeShUGA=="
 ---
 
