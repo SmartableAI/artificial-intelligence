@@ -24,29 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "DDN’s High-Capacity Storage Adopted for AIST’s ‘AI Bridging Green Cloud Infrastructure’ Supercomputer System"
-    excerpt: "DDN, a premier provider of Artificial Intelligence (AI) and Data Management software and hardware solutions enabling"
-    publishedDateTime: 2020-12-17T14:08:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/ddns-high-capacity-storage-adopted-for-aists-ai-bridging-green-cloud-infrastructure-supercomputer-system/"
+  - title: "10 Largest AI Companies In The World"
+    excerpt: "Topping the list of the 10 largest AI companies in the world is Microsoft Azure, which is the cloud computing service for Microsoft was created 10 years ago in 2010. The service provides software as a service, infrastructure as a service, platform as a ..."
+    publishedDateTime: 2020-12-17T14:15:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-largest-ai-companies-in-the-world-906473/?singlepage=1"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 18
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 41
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/AI-concept_shutterstock-1218220324_700x-405x228.jpg"
-        width: 405
-        height: 228
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17134426/55618829_ml.jpg"
+        width: 1937
+        height: 969
         isCached: true
-  - title: "DDN’s Storage Adopted for “AI Bridging Green Cloud Infrastructure” Supercomputer in Japan"
-    excerpt: "Chatsworth, CA — DDN, provider of artificial intelligence (AI) and data management software and hardware solutions enabling Intelligent Infrastructure, today announced that its AI-focused storage solution,"
-    publishedDateTime: 2020-12-17T20:19:00Z
-    webUrl: "https://insidehpc.com/2020/12/ddns-high-capacity-storage-solutions-adopted-for-ai-bridging-green-cloud-infrastructure-supercomputer-system-in-japan/"
+  - title: "Top 10 Voice Artificial Intelligence Companies"
+    excerpt: "Voice enabled AI companies are utilizing conversational technology and changing the way we live and collaborate with the world consistently. Here are top voice enabled AI companies."
+    publishedDateTime: 2020-12-18T06:45:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-voice-artificial-intelligence-companies/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 8
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-8.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "zbK4MmWkU5Nc58BRDzROuciy2nSgJUd71sIjpp4rfNdEHQLX8dyeBBIEKd4bep+vshFGH2YmvWu9liP4CQcH4iuO+xFG+2LOe+YrxIO+1x/sKOCGSyAYv6gaQCdL442SQ2ya/sjxcI2FwzLlqXhhsL6CdSLaoVfNg1XgP4T8A+AGBXeu0ld+on0JJ9jGMO7pl/G8fAHK8DdPnzWtfdfsm51qlgxWhBO1O2lJ2YebzFDm79ElDc0nQQY+GaFeT4cz3iWY970wGNeUxKW2nMmyg1k1pofe/j0A8jEwvltnuDFUOvFdedgknPIyBl7woxQgAxDQs1IgHbDxWKVHtiXxlpe9HJqq7Ni5idlaM3Po+PydwYrvbGVzuGcuQAcZhW4R8iCv0368oh1DChxSuuSCFbWQ+AytvpoNdCpw6mZe1Y/lvdpNVYAHd1pBEYZl/fd99YXjl0uoXbirIQh0/wAKlCBupaO4f4Su/hODvhDN5l3cZC+OqQEV3pHSPpPU3ctWpVdzlqeoziupZp3FOp3tHQ==;IMBmNWF+6F2U3o+m1jP9Pg=="
 ---

@@ -69,22 +69,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Celtics Players Pen Op-Ed Opposing Lack of Regulation on Facial Recognition Tech"
-    excerpt: "The Boston Celtics team, in an op-ed for the Boston Globe , decried Massachusetts Governor Charlie Baker's decision to remove regulations from recent police reform legislation regarding the use of facial recognition"
-    publishedDateTime: 2020-12-16T18:07:00Z
-    webUrl: "https://bleacherreport.com/articles/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech"
-    ampWebUrl: "https://syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    type: article
-    provider:
-      name: Bleacher Report
-      domain: bleacherreport.com
-    quality: 54
-    images:
-      - url: "https://cdn.branch.io/branch-assets/journeys/banner_bottom-PlayStore_App-1505340973220.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "City Council Bans Police From Using Facial Recognition Technology"
     excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
     publishedDateTime: 2020-12-18T23:45:00Z

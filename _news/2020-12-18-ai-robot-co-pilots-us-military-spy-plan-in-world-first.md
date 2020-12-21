@@ -86,48 +86,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Artificial intelligence co-pilots US military aircraft for the first time"
-    excerpt: "Dragon Lady” spy plane during a test flight Tuesday, the first time artificial intelligence has been used in such a way aboard a US military aircraft. Mastering artificial intelligence or “AI” is incr"
-    publishedDateTime: 2020-12-16T18:19:00Z
-    webUrl: "https://kesq.com/news/national-politics/2020/12/16/artificial-intelligence-co-pilots-us-military-aircraft-for-the-first-time/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 53
-    images:
-      - url: "https://kesq.b-cdn.net/2020/12/hypatia-h_84a61fe9c801139ee9d8f9af92787b6b-h_28d23efb9535f50307fcd78130c91b1d_preview.jpg"
-        width: 500
-        height: 325
-        isCached: true
-  - title: "U-2 spy plane uses artificial intelligence to control radar"
-    excerpt: "The US Air Force for the first time used an artificially intelligent algorithm program, called ARTUµ, to control the radar on a Lockheed Martin U-2 spy plane."
-    publishedDateTime: 2020-12-16T18:43:00Z
-    webUrl: "https://www.flightglobal.com/fixed-wing/u-2-spy-plane-uses-artificial-intelligence-to-control-radar/141644.article"
-    type: article
-    provider:
-      name: Flightglobal
-      domain: flightglobal.com
-    quality: 37
-    images:
-      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/6/8/0/75680_maj.vuduau2dragonladypilotassignedtothe9threconnaissancewingpreparestotaxiafterreturningfromatrainingsortieatbealeairforcecalif.dec.152020.cusaf_836090.jpeg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Artificial Intelligence Takes Control Of A U-2 Spy Plane's Sensors In Historic Flight Test"
-    excerpt: "The Air Force says the flight test was the first time ever that AI-driven software had been trusted to safely operate a U.S. military system."
-    publishedDateTime: 2020-12-16T17:24:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/38202/artificial-intelligence-takes-control-of-a-u-2-spy-planes-sensors-in-historic-flight-test"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 27
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2020/12/ai-u2-top.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "OwYXITn+oJpexkRjfBlwibLZmixSDcW/QSZSiQNyp+8i9giiNBFEiwrcBF4i09YouYnTmcIHPuT7o1XUurvwt0T/8uuBdnWHAJaa32kkChoxM4pv2B/p1nYNc2KZmU/waHrStAHJMOj2PSdYMO+UVhDB83Cxz6ssV7+9av1Lzvkj6MljFhCFFC9whzdKJ32X9aVUVPfD2edtzidPVIP6DRCUEAwaALXuE3Bydjn5wQGATmsnSIW5yuvnDM7YxxZVgEbdgZTm+8Y4fULla5HflkRwTvkl6ThVnsh3wriH/TfS8+n2B2ik0ffBTc7O5tyLYthnb2kSulUY0MzVadAOuMPYYw6jnvmbAehPdw0erco=;e3Q3gsuIg6thYx0HOGYQww=="
 ---

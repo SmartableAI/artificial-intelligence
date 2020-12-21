@@ -43,17 +43,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "NBA rumors: Celtics players speak out against facial recognition technology through Boston Globe"
-    excerpt: "We were disappointed to see that Governor Charlie Baker, in his amendments to the police reform legislation, removed the bill’s proposed regulations of government use of"
-    publishedDateTime: 2020-12-16T17:49:00Z
-    webUrl: "https://hoopshype.com/rumor/celtics-players-speak-out-against-facial-recognition-technology-through-boston-globe/"
-    ampWebUrl: "https://hoopshype.com/rumor/celtics-players-speak-out-against-facial-recognition-technology-through-boston-globe/amp/"
-    cdnAmpWebUrl: "https://hoopshype-com.cdn.ampproject.org/c/s/hoopshype.com/rumor/celtics-players-speak-out-against-facial-recognition-technology-through-boston-globe/amp/"
-    type: article
-    provider:
-      name: HoopsHype
-      domain: hoopshype.com
-    quality: 41
 
 secured: "NKQUJDPxQ9d53RcfMSaBX/vaRajNfXLCv5VZEaJC2yQs+yfxx3Bhq3p5slUIxlA2Qn8rO3sgwTqo6v0j+6zDKUrPajaDDxqqswW13jDfzDlS6i/Oxtv+0uJlYozkQdCK6nV2hU51BEl7eZfxkSSoFIkYj4AKh4FwVRouxbyInaCJtWQKeJWELF0RfqFoRXD1BNrZG6uSte+iIxsFdFkieR8NZa31LBotL/xDJKTxKHi83yyQYUo/pzfqrmN9iM/+Z7eRTNpNwkUwi4rHgX7Df29tDfRyTK+mckADXCmwbsRb6Ix3IGRzuHwTj7i4Zzu3Q8EkYP18Z0SmwjblXQV8/po0a4u/Vp6NCOOf7fVfjluuXfahYeehhGu0Dy61xGO+nuolW25uNZzsR6pbvQekztkUNsI5b3n2hggKfNFBecH+deTxqYimKx5xnhHJ+GGfxzyk9rjfuaRLtmY0/uJRfmea+x8eHQgifZEloZkhcgsSGwRLCok9BIHPf76EjkAklpJ+8+Q++SsW91p02gzwCA==;ejyBtxy4aLRxJvRfdZyYsg=="
 ---

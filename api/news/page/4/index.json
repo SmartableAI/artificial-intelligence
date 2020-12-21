@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-deepdub-uses-ai-to-localize-voice-dubbing-for-foreign-language-films.md",
+      "title": "Deepdub uses AI to localize voice dubbing for foreign language films",
+      "excerpt": "Deepdub is launching a platform that uses AI to dub voices into videos so entertainment companies can localize content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/",
+      "originalUrl": "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/",
+      "publishedDateTime": "2020-12-16T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-how-deep-learning-can-encourage-brand-loyalty.md",
+      "title": "How Deep Learning Can Encourage Brand Loyalty",
+      "excerpt": "One answer lies in the application of deep learning. Not only can deep learning help marketers identify those potential customers who have the highest chances of becoming brand loyal in the future, but it also allows marketers to tailor their bottom-of-the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/amp/",
+      "publishedDateTime": "2020-12-16T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-the-future-of-ai-deployments-reaching-production-is-bright-in-2021.md",
       "title": "The future of AI deployments reaching production is bright in 2021",
       "excerpt": "Despite AI's deployment historic failure rate, the future's looking brighter for a number of reasons, and many will beat the odds.",
@@ -610,8 +713,8 @@
       "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
       "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-mobileye-int/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2GW",
-      "originalUrl": "https://www.reuters.com/article/intel-mobileye-int/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2GW",
+      "webUrl": "https://www.reuters.com/article/intel-mobileye/update-1-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSL1N2IV21L",
+      "originalUrl": "https://www.reuters.com/article/intel-mobileye/update-1-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSL1N2IV21L",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -628,8 +731,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2GW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2I7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7",
       "publishedDateTime": "2020-12-15T20:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1167,109 +1270,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-this-ai-from-faceit-may-finally-solve-toxicity-in-esports.md",
-      "title": "This AI From FACEIT May Finally Solve Toxicity In Esports",
-      "excerpt": "FACEIT is pushing toxcity into the past with AI. getty. The competitive gaming and esports world is growing at a rapid pace, with big teams being worth millions of dollars, but wh",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
-      "originalUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8d7971b3a08f6daf80742%2F0x0.jpg",
-          "width": 1200,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
-      "publishedDateTime": "2020-12-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation.md",
-      "title": "AI ‘pre-cog’ predicts which Twitter users will spread disinformation",
-      "excerpt": "Researchers used the system to forecast which social media users will share disinformation in the future and also revealed the language that they use.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/dorseyminrotiyreport-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
-      "publishedDateTime": "2020-12-15T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

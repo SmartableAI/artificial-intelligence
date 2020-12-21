@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nvidia Reveals The Monstrous RTX A6000 Workstation GPU"
-    excerpt: "Nvidia is planning to release two workstation GPUs, one of which is the RTX A6000. RTX A6000 has a full-fat GA102 GPU architecture. While the other one, RTX A40, was built on the GA104 GPU architecture."
-    publishedDateTime: 2020-12-16T18:30:00Z
-    webUrl: "https://www.player.one/nvidia-reveals-monstrous-rtx-a6000-workstation-gpu-138312"
-    type: article
-    provider:
-      name: Player.One
-      domain: player.one
-    quality: 39
-    images:
-      - url: "https://cdn.player.one/sites/player.one/files/2020/12/16/rtx-a6000.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5Be0N/VMWP1djEh0P5oH5uOnjHqcFItTPdIE2VWQBBXTIxQf0BBAex3WvQGFtn+afM8YGDYRhOmw+FMbYdlg+DM9XwiO15cj4jLCAW68eN2pSkHEZZsxHLd44Ybgc1KvllyTnTDEJNhfd8trlJuYX3JFGur5m+/3wL6Zgiw03SpXbs5WV8+cAs1f+HwpiyN98XPBhUG/9rSKw+RNNV5VcuJcgv5B2K3PbAH+Px/IyG4OiXlkmFg39RIS3rVmJ5sm9+gSQhqoeuUBEXPU7VqHfygGwWLekZpVuLEUHVbWIvKRmIFcktDscHbXXCv2D7VEBkNBe1WJ1NnCpCQlSsa+RhxNoyPQwtZvF4HsRTUOR44=;nPreaSJQw9bcaHeZOKMh5Q=="
 ---

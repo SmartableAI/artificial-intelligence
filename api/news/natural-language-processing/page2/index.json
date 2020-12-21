@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-07-natural-language-processing-market-2020-global-industry-analysis-size-share-growth-trends-key-players-and-forecast-to-2023.md",
+      "title": "Natural Language Processing Market 2020 Global Industry Analysis, Size, Share, Growth, Trends, Key Players and Forecast to 2023",
+      "excerpt": "\"Worldwide Natural Language Processing Market report examines the itemized investigation of key drivers impacting market development, openings, the difficulties and the dangers looked by key ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "originalUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work.md",
       "title": "We can reduce gender bias in natural-language AI, but it will take a lot more work",
       "excerpt": "If we know our models learn bias from data, perhaps de-biasing data is the best approach to solving the problem.",
@@ -1390,58 +1433,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-can-run-your-work-meetings-now.md",
-      "title": "AI Can Run Your Work Meetings Now",
-      "excerpt": "The idea behind Headroom, which was conceived pre-pandemic, is to improve on both the in-person and virtual problems with meetings, using AI. (Rabinovich used to head ... like interpreting body language from other people on-screen or figuring out if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
-      "originalUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/master/pass/business-ai-workplace-optimization-edit-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
-      "publishedDateTime": "2020-11-24T15:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

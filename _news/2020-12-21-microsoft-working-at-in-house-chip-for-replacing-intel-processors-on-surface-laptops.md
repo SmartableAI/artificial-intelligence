@@ -87,6 +87,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
+  - title: "Microsoft starts developing own chips for datacentres – report"
+    excerpt: "Meanwhile, new specialised computing demand, for example that coming out of the increased deployment of AI, would be best served by chips designed to optimise for the special use cases rather than by general-purpose solutions. Another key incentive ..."
+    publishedDateTime: 2020-12-21T10:09:00Z
+    webUrl: "https://telecoms.com/507954/microsoft-starts-developing-own-chips-for-datacentres-report/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 56
+    images:
+      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "LQ+ZIxXpo/rS1++UzEmxKbZw690OL66s7zw/h6GuuGLWim1/f+pumMxDxVqSfqd1aBKR4EyIaSZFKUd9l5+eDDxxba/9tWeiQkYQDHz/TV7Uq7LRkiasaFNWdxM4RWrLIbI6mLk787Wlc5gJ97VeN5A3a8AjqQ0ytkEmIvmldg5Ia3daSsMtDQB90vDHr+0kL4z2B7JP/yP+bZl/TdYohQKAaC4JBI/stY9g17t1kdJDSKWtcXcVJ8pmKVcZCo/U/sEz5F1bj43Fmz0MKGKNHepUUyzg4zb2mjDhOg5jg+7auuijx1x9xuJ93kcvmTJSMA54OtLHs5E2Q/wcum5Y7PLMPLBAhkAsaLtlc3cCUwc=;vIkYopaqlR/aGO5X9x9ajA=="
 ---

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-11-smart-user-friendly-security-products-for-your-whole-home.md",
+      "title": "Smart, user-friendly security products for your whole home",
+      "excerpt": "Wire-free security cameras from Arlo deliver simple, intuitive protection with hassle-free installation and advanced features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
+      "originalUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/UpIi-TLPbJIddDdIJbH6ISGxoSE=/1200x630/2020/10/30/f460341c-8f82-446e-8ec7-7734f54fa322/cnet-arlo-s61-customarticle-native-drivers-1333x750-r1-pro4spotlight.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america.md",
       "title": "Cadillac Facial Recognition Feature Could Be In The Works For North America",
       "excerpt": "It appears as though a new Cadillac facial recognition feature is planned for release in North America sometime in the near future. As first reported by GM Authority’s sister publication, Cadillac Society,",

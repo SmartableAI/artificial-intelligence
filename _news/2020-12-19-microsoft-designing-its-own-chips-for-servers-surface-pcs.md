@@ -86,6 +86,20 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Microsoft starts developing own chips for datacentres – report"
+    excerpt: "Meanwhile, new specialised computing demand, for example that coming out of the increased deployment of AI, would be best served by chips designed to optimise for the special use cases rather than by general-purpose solutions. Another key incentive ..."
+    publishedDateTime: 2020-12-21T10:09:00Z
+    webUrl: "https://telecoms.com/507954/microsoft-starts-developing-own-chips-for-datacentres-report/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 56
+    images:
+      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "N/AdJV61tMj+2/03pktb37UXF0gnmgDGcQBABQYUjCsdNyad37LIJmvYmMP24cUB2o3Eo0Qm/6R1HWNgOKqTG8xCA5Wxxi0CbDVv6wa2XwMmSTVm9SLdGPXfBMMbHQLj5gt99ZTj8hTvBS9D/ZkIGLqDMdkBFqVeyjWiGEZyJIIEcBJFCWWSiQUuGOmOv5G5WaMrS4To1AV1xj55ryRkI7g9VHroyz8AxQ/i8hFN476LZC2eOsBMqXPUCvIdHndChrx5uWjEfD/C5Rf7LDGzb6JZzfZILkdP1XJs5Ok6qy5qhiRkgTX99VzgmvJHyj0YQndFzoWypLacUett1VXtY+lh9qVKgJlBhpA/1fsYaPI=;wekPjMiIQmnhCPNaGC65CQ=="
 ---

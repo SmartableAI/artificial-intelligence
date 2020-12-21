@@ -44,6 +44,36 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement"
+    excerpt: "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
+    publishedDateTime: 2020-12-21T09:26:00Z
+    webUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996"
+    ampWebUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
+    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
+    type: article
+    provider:
+      name: Autocar Pro
+      domain: autocarpro.in
+    quality: 83
+    images:
+      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG"
+        width: 735
+        height: 489
+        isCached: true
+  - title: "Reliance General Insurance providing Microsoft Azure AI"
+    excerpt: "Mumbai, Dec 21 (UNI) Reliance General Insurance (RGI), a 100 pc subsidiary of Reliance Capital, has brought in speed and acceleration to its vehicle claim process by introducing ‘RAPID’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
+    publishedDateTime: 2020-12-21T09:50:00Z
+    webUrl: "https://uniindia.com/reliance-general-insurance-providing-microsoft-azure-ai/business-economy/news/2270078.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 69
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/2020/12/2020_12$largeimg21_Dec_2020_161712233.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "xhGTpq9eTqar4CJxTlSybtCWjC/9MhfESYeG136RO7A/fKZsnK5s17W1bGI4M8wHJYqVtF/VkHMOfUBB0Kg6QNWL3ATBmzUM0Knbyyx7Q/1qo3vjJMDbD4s4HO91E+XgTOm/cyM3XhH2ifX6O8dacmFoIoR4PTDmtGxkegcOI8zPKTjPoQ21n/DZzCmvgr3Z8qQpfjMSdQcxHUNqp/5Sna7PHk1HSRs1wBGwcnb/I9hyIgvSAsfogaflHFSpiSHbtsfS1Tt82WEw5Crb+CNEm4SL4oBfQDdEgl/HyBZsFKXUX+QVbuOfG1qgxcXucO+QGZ/dlb40bIZI8JXYxLxAXRM8XXHV51EVlIh1YiwSTr8=;KMpALX5Yz/gMXMGjupjDgA=="
 ---

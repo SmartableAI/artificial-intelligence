@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-drivin
 webUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "See Walmart's self-driving delivery trucks in action"
-    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-    publishedDateTime: 2020-12-16T17:43:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Walmart says it will be making self-driving deliveries in 2021"
     excerpt: "Gatik’s fully autonomous box trucks will start making unassisted deliveries for the giant retailer. It is well-known that Walmart has made significant investments in several self-driving companies such as Baidu,"
     publishedDateTime: 2020-12-17T21:08:00Z

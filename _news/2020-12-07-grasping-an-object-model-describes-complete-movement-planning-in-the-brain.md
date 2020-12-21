@@ -1,40 +1,26 @@
 ---
 category: news
 title: "Grasping an object - model describes complete movement planning in the brain"
-excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object."
-publishedDateTime: 2020-12-07T15:37:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
+excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object Every day we effortlessly ..."
+publishedDateTime: 2020-12-07T10:02:00Z
+originalUrl: "https://idw-online.de/de/news759379"
+webUrl: "https://idw-online.de/de/news759379"
 type: article
-quality: 36
-heat: -1
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
     isCached: true
 
-related:
-  - title: "Grasping an object: Model describes complete movement planning in the brain"
-    excerpt: "Neurobiologists have developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object."
-    publishedDateTime: 2020-12-07T18:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201207112242.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-
-secured: "LLPnn9KzQrp0mw9Q9ccMlKN/jnktSmAyTYXBcbs61+f2YkgFaSHyDYkNZO0xKarH7EcCsYaNvJftRWe7zK6qy2WM1+geq0aTsrU6B4dIONT+aFXjMoLqIMeRiAfDsX25o/RJW79U/sD8YoTXvpzpVsWVlyMBSlAhheZM2oq+izFXPtw5r0EzqK13jsmnAa1V3qo585KP83e1Cf5dnUbW9NEy+wWNZNE9GnTRx82gCMWuJfbOEYSdXgVEN65U9Ew1nwE4hbR7WBekisZmqVE1ceMXjhrciyckILb2Zfuen3yzHeilsN5sV4NNzRjNj0wHztJcMEc2oSwCwJdfSgoeMO+OvhQaSB+2nHYTdeCLg1M=;M5aXiNkE5I0ke7WTWhMI1g=="
+secured: "4GQDpsvWrlXnyxi16B+gqcZlArnrvuFAnGK8cQKRUhQsqL0ghyyTR6G1C6OB1xf8hZHq94bZ190TM71S8kBs/3HVHWVeB89KklGul9Mv6+wALj2sLbLbZwl/tNDFH28J/xIaPsyqEKDfNhYrvSTc5nXpon4QxFXrIAK0PebhAZhosNYdUXIeuH/bSoIq3fuJ8BxI9U6BZ5KqdFV4QykXiRjl/8Nr3gVBkQraLIqQFCNPp1b4KGUPcV6EGdOKh9XKSv+fAk39iTFTqF1PudAGk8eVIG87108lJtwKTJvnbm0KEgATqCe/xMi67Rb4wtb86LrRk06LBo43jtMjsBYTIXrxDZ+kZZnNVAT9XkD9Qhc=;6yGxCD7AVq8zD5Y06S3YkA=="
 ---
 

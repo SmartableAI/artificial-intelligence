@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size Expected to Hit US$ 36250 Mn by 2026"
     excerpt: "The Artificial Intelligence In Healthcare Market size was valued at US$ XX Mn in 2018 and is expected to grow at a compound annual growth rate (CAGR) of 51.7% for the forecast period ending 2026 reaching a Market value of US$ 36250 Mn. Artificial ..."
     publishedDateTime: 2020-12-18T10:21:00Z

@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-16-this-ai-from-faceit-may-finally-solve-toxicity-in-esports.md",
+      "title": "This AI From FACEIT May Finally Solve Toxicity In Esports",
+      "excerpt": "FACEIT is pushing toxcity into the past with AI. getty. The competitive gaming and esports world is growing at a rapid pace, with big teams being worth millions of dollars, but wh",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
+      "originalUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8d7971b3a08f6daf80742%2F0x0.jpg",
+          "width": 1200,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
+      "publishedDateTime": "2020-12-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation.md",
+      "title": "AI ‘pre-cog’ predicts which Twitter users will spread disinformation",
+      "excerpt": "Researchers used the system to forecast which social media users will share disinformation in the future and also revealed the language that they use.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/dorseyminrotiyreport-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
+      "publishedDateTime": "2020-12-15T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-chinese-web-giant-baidu-may-fancy-building-its-own-cars-report-says.md",
       "title": "Chinese web giant Baidu may fancy building its own cars, report says",
       "excerpt": "Known as \"China's Google,\" Baidu is reportedly interested in not just developing self-driving software, but its own vehicles.",
@@ -1096,109 +1199,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking.md",
-      "title": "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking",
-      "excerpt": "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/DSC_4870.0.0-e1608001481901.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/",
-      "publishedDateTime": "2020-12-14T21:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-roblox-acquires-loomai-for-realistic-avatars-and-delays-ipo-to-2021.md",
-      "title": "Roblox acquires Loom.ai for realistic avatars and delays IPO to 2021",
-      "excerpt": "Roblox has acquired Loom.ai for an undisclosed price to enable its users to create realistic 3D avatars. Roblox also delayed its IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ready-Player-Two-Roblox-Event.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
-      "publishedDateTime": "2020-12-14T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

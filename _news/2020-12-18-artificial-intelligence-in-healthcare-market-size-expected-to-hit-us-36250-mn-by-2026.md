@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "Computer Vision Market Size, Share 2021 Overview, Opportunities, In-Depth Analysis and Forecasts, Outlook -2023"
     excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
     publishedDateTime: 2020-12-17T09:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-fa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/06/0065f5a8-4ed7-538e-988a-de21a06170d7/5d239eab53a17.image.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Celtics Players Pen Op-Ed Opposing Lack of Regulation on Facial Recognition Tech"
-    excerpt: "The Boston Celtics team, in an op-ed for the Boston Globe , decried Massachusetts Governor Charlie Baker's decision to remove regulations from recent police reform legislation regarding the use of facial recognition"
-    publishedDateTime: 2020-12-16T18:07:00Z
-    webUrl: "https://bleacherreport.com/articles/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech"
-    ampWebUrl: "https://syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    type: article
-    provider:
-      name: Bleacher Report
-      domain: bleacherreport.com
-    quality: 54
-    images:
-      - url: "https://cdn.branch.io/branch-assets/journeys/banner_bottom-PlayStore_App-1505340973220.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "New Orleans Police Have Used Facial Recognition for Years"
     excerpt: "New records reveal that the New Orleans Police Department has been partnering with state police to use facial recognition software since, at least, 2018. The city did not admit use of the technology until last month. (TNS) — Although the practice was ..."

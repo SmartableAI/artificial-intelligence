@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/361969"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361969"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A Hitchhiker's Guide to AI in Business"
-    excerpt: "The moment AI enthusiasts have been raving about for years is almost here—soon, AI will be ubiquitous. Yet many businesses are slow to the punch. A NewVantage Report on Big Data and AI indicates businesses are in a holding pattern,"
-    publishedDateTime: 2020-12-16T18:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/a-hitchhikers-guide-to-ai-in-business-2020-12-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/a-hitchhikers-guide-to-ai-in-business-2020-12-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-hitchhikers-guide-to-ai-in-business-2020-12-16?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Making the Most of Supply Chain AI"
     excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
     publishedDateTime: 2020-12-18T14:36:00Z

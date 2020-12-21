@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Reveals The Monstrous RTX A6000 Workstation GPU"
-    excerpt: "Nvidia is planning to release two workstation GPUs, one of which is the RTX A6000. RTX A6000 has a full-fat GA102 GPU architecture. While the other one, RTX A40, was built on the GA104 GPU architecture."
-    publishedDateTime: 2020-12-16T18:30:00Z
-    webUrl: "https://www.player.one/nvidia-reveals-monstrous-rtx-a6000-workstation-gpu-138312"
-    type: article
-    provider:
-      name: Player.One
-      domain: player.one
-    quality: 39
-    images:
-      - url: "https://cdn.player.one/sites/player.one/files/2020/12/16/rtx-a6000.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI at Your Fingertips: NVIDIA Launches Storefront in AWS Marketplace"
     excerpt: "AWS customers can deploy this software free of charge to accelerate their AI deployments. We first began providing GPU-optimized software through the NVIDIA NGC catalog in 2017. Since then, industry demand for these resources has skyrocketed. More than ..."
     publishedDateTime: 2020-12-18T09:00:00Z

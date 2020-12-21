@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
+      "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
+      "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "publishedDateTime": "2020-12-21T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama.md",
       "title": "Building and deploying an object detection computer vision application at the edge with AWS Panorama",
       "excerpt": "Computer vision (CV) is sought after technology among companies looking to take advantage of machine learning (ML) to improve their business processes. Enterprises have access to large amounts of video assets from their existing cameras, but the data remains largely untapped without the right tools to",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -137,49 +189,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-celtics-players-call-for-gov-baker-to-end-facial-recognition-surveillance.md",
-      "title": "Celtics players call for Gov. Baker to end facial recognition surveillance",
-      "excerpt": "\"Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
-      "originalUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2020/08/Celtics_76ers_Basketball_90482-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
-      "publishedDateTime": "2020-12-16T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1135,6 +1144,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-grasping-an-object-model-describes-complete-movement-planning-in-the-brain.md",
+      "title": "Grasping an object - model describes complete movement planning in the brain",
+      "excerpt": "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object Every day we effortlessly ...",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news759379",
+      "originalUrl": "https://idw-online.de/de/news759379",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-panasonic-reveals-autonomous-wheelchair-and-wearable-robot-at-gitex.md",
       "title": "Panasonic reveals autonomous wheelchair and wearable robot at GITEX",
       "excerpt": "Panasonic is showcasing its autonomous wheelchair, PiiMO, which features object recognition, autonomous driving and controls via an app. Another Panasonic highlight at GITEX is the ATOUN MODEL Y, a high-tech wearable power assist suit that alleviates work ...",
@@ -1372,49 +1424,6 @@
       "provider": {
         "name": "MacRumors",
         "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-neuroscientists-find-a-way-to-make-object-recognition-models-perform-better.md",
-      "title": "Neuroscientists find a way to make object-recognition models perform better",
-      "excerpt": "Many of these convolutional networks perform very well, but in most cases, researchers don’t know exactly how the network is solving the object-recognition task. In 2013, researchers from DiCarlo’s lab showed that some of these neural networks could ...",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/",
-      "originalUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/12/Neuroscientists-find-a-way-to-make-object-recognition-models-perform-better-.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/",
-      "publishedDateTime": "2020-12-03T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-mic
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
+  - title: "Microsoft starts developing own chips for datacentres – report"
+    excerpt: "Meanwhile, new specialised computing demand, for example that coming out of the increased deployment of AI, would be best served by chips designed to optimise for the special use cases rather than by general-purpose solutions. Another key incentive ..."
+    publishedDateTime: 2020-12-21T10:09:00Z
+    webUrl: "https://telecoms.com/507954/microsoft-starts-developing-own-chips-for-datacentres-report/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 56
+    images:
+      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "vTz4rKKykfm/nu1RKO/xShXOUlOGLLMlhqtnl21q6tPh+AkX+5nXzj60vhXVwBuabiCteyXdbtJ4NaFVd9+pjyx8oGlNybaSdHneBaNjQF3Gmt6zbbkutXzYQg8zI1FSH9C+IRT3HipS0phyS0jzJuzitpOXWPzA+IJhrkiB1GmiJua2dvox77RP2AtCAqdDAOVxx0lOms3BdGO44LiOcemngonVfclKk4NtLD8Dp1K9+DyWhmWOyqL6apmtN3eMtV2uU2iAgi5daiwZc2hEuaUQMSVtyrkK+yVQCIrUcyL7/KKcLAw8xZ6fWhgT0tDYFbhN63xzkBQmEOR8Emue86+HU5DSNStp3/vY8hgpdKdNhUBuafx0LGy/nOilggqOTs2UNWO66yi0ZgLFzcETD8FPf0xEbzUSLjMyzfxGn6Fbs/1a6XTwbO+O6zoUruG1aBhNmVhSqmOFVhfPTJ0JOa0WnoRzh8JQr5j8iT6O57RZ0k9lMJ+LmMhJJVHv44ES0CEe13zZNdynb6eYSnAKYA==;mUOcetjWQLBw+hPM2iK6aQ=="
 ---
