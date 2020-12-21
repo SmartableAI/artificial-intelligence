@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The global collaborative robots (cobots) market is projected to be worth USD 18 billion by 2030, growing at a CAGR of 34.4%, claims Roots Analysis"
+    excerpt: "For more information please click on the following link: https://www.rootsanalysis.com/reports/collaborative-robots-market.html The report ... technologies), such as advanced grippers, artificial intelligence, machine learning, vision technology and ..."
+    publishedDateTime: 2020-12-21T05:22:00Z
+    webUrl: "https://www.openpr.com/news/2213708/the-global-collaborative-robots-cobots-market-is-projected"
+    ampWebUrl: "https://www.openpr.com/amp/2213708/the-global-collaborative-robots-cobots-market-is-projected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213708/the-global-collaborative-robots-cobots-market-is-projected"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc21247747_g.jpg"
+        width: 500
+        height: 400
+        isCached: true
   - title: "Image Recognition Market Size Rapidly Growing at a CAGR of 18.4% by 2026"
     excerpt: "The growth of the image recognition market is primarily driven by the increasing application of facial recognition in the financial industry and growing demand for security applications integrated with image recognition functions. Request for a sample ..."
     publishedDateTime: 2020-12-17T08:25:00Z
@@ -36,20 +52,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Next Big Thing In Image Recognition Market, Which will hit USD 91,029. Mn By 2030 at 15.6% CAGR -Market.Biz"
-    excerpt: "Market.Biz –:Market.Biz offers accurate information and a holistic view of the Image Recognition Market | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-12-18T12:13:00Z
-    webUrl: "https://www.eturbonews.com/2186827/next-big-thing-in-image-recognition-market-which-will-hit-usd-91029-mn-by-2030-at-15-6-cagr-market-biz/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 6
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "Ycx52vTZ3ovvwy43DQOj3Qw8Qk6N5XkZSCcfeeA9/Z3bGFwIflX5r7LxAsSDEGo39oeeq1H76oGasj6mKXvIUqM34mTjzJX7skcpXXRRahgTDWHS2qxrjTktdKi+I7E/Zarb20g5bUuk4bf4NSiZaMuZD42xPvP0csVG6UOPmEABSHOl0je/RjqRhjDO/cDLkALOezpJQfxVIsbD6Q6WQVwbNBVVtZCkMlo1EnhEmljxjPJn0TqO9LbW4fi02lD4RQ02G6vS23oFsr+lfW3/DHTXen0rPdgAbv5zIOYyXwOycuH4Vw2NQTCJJxPbCrszljHiEog2dic4ZoUMMNHZat1BvdsfoNH4bYZPLTOyqRY=;0BnbJpKaY4HZRrgeNfuvsA=="
 ---

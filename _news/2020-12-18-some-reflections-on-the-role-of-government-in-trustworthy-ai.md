@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 591
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
-    excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
-    publishedDateTime: 2020-12-16T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hyundai Launches an AI-Powered Translation Engine Focused on the Car Industry"
     excerpt: "Hyundai has recently launched its very own AI-based translation engine supporting English and South ... In other words, one user can send messages in one language and everybody would receive the translated version, thus making the communication overall ..."
     publishedDateTime: 2020-12-20T18:14:00Z

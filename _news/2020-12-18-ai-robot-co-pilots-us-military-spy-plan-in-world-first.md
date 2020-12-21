@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "In a first, Air Force uses artificial intelligence aboard military jet"
-    excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
-    publishedDateTime: 2020-12-16T13:38:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 74
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76KO3XRVYFEXTG4BLXBONIQWZQ.jpg&w=1440"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "US Air Force uses artificial intelligence aboard a military jet for the very first time"
     excerpt: "The historic moment occurred at Beale Air Force Base, CA, and saw an AI algorithm take control of the radar sensors and tactical navigation systems of a U-2 Dragon Lady spy plane."
     publishedDateTime: 2020-12-16T16:46:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/12/16/16/36921492-0-image-a-2_1608134737123.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Exclusive: AI Just Controlled a Military Plane for the First Time Ever"
-    excerpt: "The U.S. Air Force tells us how it successfully flew an AI copilot on a U-2 spy plane—and kicked off the age of algorithmic warfare."
-    publishedDateTime: 2020-12-16T14:25:00Z
-    webUrl: "https://www.popularmechanics.com/military/aviation/a34978872/artificial-intelligence-controls-u2-spy-plane-air-force-exclusive/"
-    ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp34978872/artificial-intelligence-controls-u2-spy-plane-air-force-exclusive/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp34978872/artificial-intelligence-controls-u2-spy-plane-air-force-exclusive/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 57
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/201215-f-wf370-1134-1608122446.jpg?crop=0.970xw:0.726xh;0.0144xw,0.171xh&resize=1200:*"
-        width: 1200
-        height: 599
         isCached: true
   - title: "In a first, Air Force uses AI on military jet"
     excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."

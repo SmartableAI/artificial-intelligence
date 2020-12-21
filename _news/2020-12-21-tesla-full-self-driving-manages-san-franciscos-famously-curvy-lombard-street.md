@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How Does Tesla's Full Self-Driving Beta Fare In Construction Zones?"
-    excerpt: "Tesla's FSD Beta technology is impressive on many levels, but it's not yet capable of full self-driving. Inconsistent and unique situations are the issue."
-    publishedDateTime: 2020-12-16T14:43:00Z
-    webUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/"
-    ampWebUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/7xNko/s1/tesla-model-3-construction.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "7NAEQhklQFoOl9NBdIxq0mMAT+sNRfZe8qfNFFsP8Xw+jXi+h1/vk5+WttZtxSNdg6aoAhcsAuePRwEKXlLM2tAH2JnvnLoVvkwhDJeH7mWnQZayUj6R1vnAMvHF56WENf+ERqOfUdWcIS2hL3WdQ+DECS27Jl7zUG+1ZeeiueoshU7Of0bBKBZFQJQ40xBcx42Tip0epcpkEAJCtejeTecksS5xYhlDVqZnW+/yhRhavE/MS0RTkgc9iKuzUA+YuJ57hpgb71M+FhI9Gzf/wvj7lkZ6lH7j/6AKXT8/covPXN1x7/vfoTLNVtyhzsRv0VDdDDlqgwmrQXnZEv4kFQc0VIDWgpgxe1VYWU8E3Y0=;Jo2crxjft4v6RORBH3UdkQ=="
 ---

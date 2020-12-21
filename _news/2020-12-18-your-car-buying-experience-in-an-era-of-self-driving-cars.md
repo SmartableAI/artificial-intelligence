@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -134,15 +134,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Video: Watch a one-hour journey in a Mobileye self-driving car"
-    excerpt: "In the test, Mobileye’s vehicles were deployed in Munich and within a few days were operating in the region using vehicles to build maps before the self-driving cars start driving. “High-definition maps are crucial to a safe and robust self-driving system,"
-    publishedDateTime: 2020-12-16T13:56:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16094/video-watch-a-one-hour-journey-in-a-mobileye-self-driving-car"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "VO7CuNqmShZw0tAF+zZygG2CX8nccBLA7qoKi6Sd9dT0SoPhPIMwAHgUAC59aUdAyRxOY2AQGDaBgCC67fbDDpgQBqcT9YibwfJAdrkqZ+A3WfTagZVrAtJpCpEpi9ITky430fTtwypJe5l08iIEf89OqR0f2ThyTdYxArdgEsoobyzuTQW0wSp45akojVrwZ5kavCKlVjdsCBXs7iI5qAkc//HQv1VO2EZzI9/GNenqGOtrp42FJMa3HysrRJkiGDDx3Qp2zczGz15SnmEuwQ+JQr6Kd0ym4P3XK+nL53/G3DmmUx68tY1w24zWU4KtO7TgMb4Z9fEWKSfmU5sxuNMj1/9tiTbMjp+HhUn4JQUgp9ejp2poMFid4/3vFypcX+n7Ekw3pxHCTGIfo/TadMwdMf4TMRCV3ngrSaKDoUh7SuHnNN+DE6t8qEQ3SGGfvC7sXt3ieJ5NVly7MT/95Dye3M3UtAdHz8fULQCe3sEpL76ZtmBdYi4PN8kX/whxiunFKdXxZfGCom3ovN4IgA==;b4pGFuPOJ+C4PAEa+wBGyA=="
 ---

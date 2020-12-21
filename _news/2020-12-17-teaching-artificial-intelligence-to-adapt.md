@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/12/201216155201.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/12/201216155201.htm"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Trump Could Torpedo a Bill to Boost Funding for AI"
-    excerpt: "The National Defense Authorization Act would increase US investment by $6.4 billion over 5 years. But the president could veto it over other provisions."
-    publishedDateTime: 2020-12-16T13:03:00Z
-    webUrl: "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/"
-    ampWebUrl: "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5fd939cf55d4309f339343c4/master/pass/Business-Defense-Bill-AI-Trump-1290145039.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "jCVDZVwjlY8ikfSbyphJdEwT1LfW7sFT9Wl/+lDLEMDzISfdyXqYQlJ73eOqcieDwcHWBQ0CPoD4dkMSbN+QgeOVQKqICjGYflXgWFODERy9PfODvfFt7moa94ZAawdiszNEb+TQoS6FHYroIJ8u5bfRbHmlcWm5QaH+0WahY3mZMEX6ElEZqRU0kkq94axstvfZZlReKzIEAhEWJ3FVOiHbtejRBH1BWPI+fJ96z48QkUumGOOROD6nAdarXaRZ8NQ9EL2SJF53lAostpRkItHRDqRim+Hbo6LDw2G0DinbWIEhL/kewVtA5lnN99GdIstXOwU7jo2o1xDHVc9OFs8qUUFsjnC5OCqzbRIaxbQ=;dVMG9U+L+lBFXeii96woPQ=="
 ---

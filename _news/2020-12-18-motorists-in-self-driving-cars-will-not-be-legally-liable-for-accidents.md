@@ -130,15 +130,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Video: Watch a one-hour journey in a Mobileye self-driving car"
-    excerpt: "In the test, Mobileye’s vehicles were deployed in Munich and within a few days were operating in the region using vehicles to build maps before the self-driving cars start driving. “High-definition maps are crucial to a safe and robust self-driving system,"
-    publishedDateTime: 2020-12-16T13:56:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16094/video-watch-a-one-hour-journey-in-a-mobileye-self-driving-car"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "qjk8DueIl7j1o0g2wQiNyMGympEr2CG/7xUbl5PuMoinAKhFjHycrHzGW4ioSbni1uRkEoTKAwZvCfPBOahxDlAEksbemSp5BCtxH8EVQ+g/Z4xNB8QUho93gHNiy8juPuV1SX1LO23OD3WT05XJcDH+gAO6A4VQ/gUncKmckzwbf+Al91pJ7Vt5giNp3Vy+pc5OyTo1rxxdS6glymJch38Xi0gFkdWfKDiKMQH1Zt+OTZMtlPT9CLfOUwgg4OHxhbp2xJ36vcsjCgntXm/j2gGFvuRwq7Oyq50XdXtaoDukjEMQnc5+GxjSIlAxdkQ1JvRqqrfAIKfKDWdIbj+6HyLfte2Nv0f6+npIjFojoO8=;9jXSUXfkuq/fa2ycdelhUw=="
 ---

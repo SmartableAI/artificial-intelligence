@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Driven IntelligentCross Posting Best Displayed Prices in U.S. Equities Market"
-    excerpt: "IntelligentCross at those times is 32% better on average than the best price available on the exchanges. \"The superior quotes on IntelligentCross are due to our AI innovation in matching buyers and sellers close to fair value,"
-    publishedDateTime: 2020-12-16T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driven-intelligentcross-posting-best-displayed-prices-in-u-s-equities-market-1029898330"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "IVS Inc. (Intelligent Video & Sound) Introduces Artificial Intelligence CCTV Solution"
     excerpt: "IVS Inc., a leader in smart CCTV solutions, announces specialized video and sound analysis technology based on artificial intelligence and deep learning, which can detect and identify abnormal sounds,"
     publishedDateTime: 2020-12-19T21:45:00Z

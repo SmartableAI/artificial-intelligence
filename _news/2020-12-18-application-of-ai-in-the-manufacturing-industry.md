@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/361957"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://robohub.org/wp-content/uploads/2020/12/SVR-Industry-Innovation-Awards-1024x591.jpg"
         width: 1024
         height: 591
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
-    excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
-    publishedDateTime: 2020-12-16T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Some Reflections on the Role of Government in Trustworthy AI"
     excerpt: "BKC Executive Director Urs Gasser delivered a keynote speech at Lanzamiento de la Ética de la Inteligencia Artifical en Colombia (“Launch of Ethics of Artificial Intelligence in Colombia”) about the role governments can play in promoting trustworthy AI systems."

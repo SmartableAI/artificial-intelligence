@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterpr
 webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
+  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
+    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
+    publishedDateTime: 2020-12-18T03:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
     images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "a7rqFcw6g9VwCJTe5DHSmk8hRfe62CWlP6DbqvYZKTg2AF3wQOcnM2eUd6b9tZgDPX++dXy7vVjbKbvnS2XBn7y8Cy1lGPb7KmYXwFo8EGDu0iBACWDAdDiA/b7Oaew8iP1qr2TcXujq2Q2DecljfIfIuPiOmeOzc5RvgXg4f4ELijFaPYQkhU5C7Z44AuGGOdzwwEQVo9WDIoLBNR/T/g8IiZETJ8ZD6Ob0e4fHSyKLzHr2fYGCg3QH5vtZjyL2IkV2I7uTpf0fQWlGrCdpfFXUVPXarh1HycpbBHgImtCr4hwZaZXkx9h+045U5Ps4o1QNq1WAfySlqOyvfXeIkwjejM+yzQ/O47hyaQA7mHM=;6qdBNLhGdIGOlAogUEJhPA=="

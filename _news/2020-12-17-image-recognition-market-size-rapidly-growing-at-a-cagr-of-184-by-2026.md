@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2211900/image-recognition-market-size-rap
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Next Big Thing In Image Recognition Market, Which will hit USD 91,029. Mn By 2030 at 15.6% CAGR -Market.Biz"
-    excerpt: "Market.Biz –:Market.Biz offers accurate information and a holistic view of the Image Recognition Market | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-12-18T12:13:00Z
-    webUrl: "https://www.eturbonews.com/2186827/next-big-thing-in-image-recognition-market-which-will-hit-usd-91029-mn-by-2030-at-15-6-cagr-market-biz/"
+  - title: "The global collaborative robots (cobots) market is projected to be worth USD 18 billion by 2030, growing at a CAGR of 34.4%, claims Roots Analysis"
+    excerpt: "For more information please click on the following link: https://www.rootsanalysis.com/reports/collaborative-robots-market.html The report ... technologies), such as advanced grippers, artificial intelligence, machine learning, vision technology and ..."
+    publishedDateTime: 2020-12-21T05:22:00Z
+    webUrl: "https://www.openpr.com/news/2213708/the-global-collaborative-robots-cobots-market-is-projected"
+    ampWebUrl: "https://www.openpr.com/amp/2213708/the-global-collaborative-robots-cobots-market-is-projected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213708/the-global-collaborative-robots-cobots-market-is-projected"
     type: article
     provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 6
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
     images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
+      - url: "https://cdn.openpr.com/T/c/Tc21247747_g.jpg"
+        width: 500
+        height: 400
         isCached: true
   - title: "Advanced Report On Automatic Content Recognition (ACR) Market, Which Is Expected To Reach USD 7,915.7 Mn By 2030 at 17.4% CAGR -Market.Biz"
     excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Automatic Content Recognition (ACR) Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats,"

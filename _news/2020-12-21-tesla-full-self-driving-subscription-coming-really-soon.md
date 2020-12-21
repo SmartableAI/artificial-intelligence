@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-comin
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "How Does Tesla's Full Self-Driving Beta Fare In Construction Zones?"
-    excerpt: "Tesla's FSD Beta technology is impressive on many levels, but it's not yet capable of full self-driving. Inconsistent and unique situations are the issue."
-    publishedDateTime: 2020-12-16T14:43:00Z
-    webUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/"
-    ampWebUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/7xNko/s1/tesla-model-3-construction.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "eBRioi0nm8g4R3oAafMwqvp/Oc44M6CCI7zsWH4DORq/bt33WhBLAVggwxcbBZGgueE2Li0LJig7uiLdbT8dJo7esA+P/M7zyIFZzPU1VkThwPPIf1ISmTlx5vb21c9BHq+5av/HFX/zJuOgpo+AxkiJNECCYg2sGNX0+o2BhwxdPwvW3bI11p5qzDunFxTrCzivW+OUx7juA8Cee6I6Ypn++rouIBRt2vnUvs9vo7M/XVybdNdQZnbVxab9D5WHN26qOJjDEaZmpyib6iPIXhNROoWpitB9x+o0/s12Z9WhpG/cOB+PtNfITJFgz/ei5Zy87OK1zsyb9WMkMgdjcFLWz1gqzoR2U65eIX49lbkOwtG05M6YKznzmo007zghACBcgVuZup/yxORFihQeStvBHFXmMZIdkZ/HPZhRs04j6+ntetnNRzYsCVN1/c454zcqYBkmmLN/nNdDRQ2EuedQ3VX6sL/sn+YOXkeP7zVkfrK/yUJlJcHTXdxjU8TbQj5kJuRrA0RWKn8yJ4E7WA==;6wuqbST6d3bOBPskzfbONg=="

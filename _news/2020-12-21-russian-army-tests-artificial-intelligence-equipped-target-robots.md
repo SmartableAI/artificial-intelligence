@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-21T04:39:00Z
 originalUrl: "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots"
 webUrl: "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg"
@@ -23,6 +24,6 @@ images:
     height: 427
     isCached: true
 
-secured: "IQENfHDja8O/I5QIWwaPWD+UNmV8XzieNDsFLaOLw59Z0zy514T8MysOCyM2DMNYysD5vD9PVa+wY0H71JY1gqQ3GagV4FYq7vo0OkpjwQ3EjkHAeSojFJ8jVtks8Dz7AKuWCvw07WZP7zHoH0azSQGbpUpnGyoIFn81FPKxrkHhQhn4k4COfi88bnTwpkmtJqgGY8BJ6Q2ddPFBjQVqUv9TkZN94pBjj2u6XvOdM/LCGGn2Q+da6NHiGj1LzofP8qOVpqwOZmYsowaoPz+OoVivKwCiy7Ab7atzd1ZiuivcKugm2nDMMHN1C8aMekROReL+ZVcdhFdS6kB6LAs/l02JMgBd131yALjjedWtrDc=;R5nTKmPXETyVcSZZ54uv7w=="
+secured: "iAgVvI8OVC5l80Kjywkw5tEu2oGlXHOF82pgqoRNwwKY0Bi1g1rHxyrpiB3edInvcapmXzW5w1DMCsmOCcczIutxiM1YCrIvrRJ6qAegBii2Yr5oHrWNvJGiipYDAND8ITOxp2egCgNep8oGV8Z+li7lvl5mi09pIqbMdED3aowQIzRx7e0VG/y0PAIP6133xS0beuTEnwjJvDECoue14+G6MLorzVAejb7JCYBbr+sVTEIpIAZFdcBtanJPcQrbplD4EN//OE7qyTK5OVRgIp8vtgKPk0R1+yF+kMN8LkIhl/NKTzm1LZLJlbZWEHGUy2dXIpSMkjM4Jtd3xIn5BUwZ4BAn0nJuJhp30djmQCA+d0neOe7/fyswoffeEb94xd5CysIZHb2jzbQ2eOUjMrPuyQyc17EAy6qLD/1Le3hXZGqkD+ZWUULGIy+cKmhATOwi1hXdyXO8z1ObIZ46PlEI4JJ3oWK86edttwjnq7+fj6B78tws4U6kSokAuQddj1mXBylkT4bxcfyUAHZxBA==;T4Y4hYodwZi5ENN5l+6APA=="
 ---
 

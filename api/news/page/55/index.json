@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-11-11-speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally.md",
+      "title": "Speech and Voice Recognition Market Is Expected To Generate US$ 43 billion revenue By 2030, Globally",
+      "excerpt": "The Global Speech a nd Voice Recognition Market Share, Trends, Analysis and Forecasts, 2020-2030 provides insights on key developments, business strategies, research & development activities ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-1029788891",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-1029788891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Speech-and-Voice-Recognition-Market-Is-Expected-To-Generate-US-43-billion-revenue-By-2030-Globally-1029788891",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Speech-and-Voice-Recognition-Market-Is-Expected-To-Generate-US-43-billion-revenue-By-2030-Globally-1029788891",
+      "publishedDateTime": "2020-11-10T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy.md",
       "title": "The Breadth Of Healthcare Applications Of Artificial Intelligence Even Includes Physical Therapy",
       "excerpt": "AI must play well the closer to patients it resides. Physical therapy is an excellent aspect of the needed growth, as it is a regular and visible part of patient treatment that includes humans, hardware and software interacting within a regulatory framework to improve patient outcomes.",
@@ -1145,49 +1188,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-aveva-expands-microsoft-collaboration-with-a-focus-on-cloud-and-ai.md",
-      "title": "AVEVA expands Microsoft collaboration with a focus on Cloud and AI",
-      "excerpt": "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.controlengeurope.com/article/181914/index.aspx",
-      "originalUrl": "https://www.controlengeurope.com/article/181914/index.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.controlengeurope.com/global/showimage/Article/191004/",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IML Group",
-        "domain": "controlengeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

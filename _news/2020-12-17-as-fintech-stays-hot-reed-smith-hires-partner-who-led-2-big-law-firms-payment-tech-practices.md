@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM acquires Montreal fintech solutions provider Expertus Technologies"
-    excerpt: "IBM has acquired Expertus Technologies Inc, a Montreal-based fintech company. Expertus, a financial technology firm that processes more than $50 billion in"
-    publishedDateTime: 2020-12-16T14:00:00Z
-    webUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770"
-    ampWebUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 44
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/07/Acquisitions-header-2.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
     excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
     publishedDateTime: 2020-12-17T04:00:00Z
@@ -68,36 +52,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
         width: 1000
         height: 750
-        isCached: true
-  - title: "The Servier Group opens a worldwide Artificial Intelligence Hub in Montreal, in partnership with Centech"
-    excerpt: "Servier, an international pharmaceutical company, announces the opening of a worldwide Artificial Intelligence (AI) Hub in Montreal, in partnership with Centech, a deep-tech business incubator recognized as one of the most successful university incubators in the world."
-    publishedDateTime: 2020-12-17T07:53:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/the-servier-group-opens-a-worldwide-artificial-intelligence-hub-in-montreal-in-partnership-with-centech/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 22
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
-    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
-    publishedDateTime: 2020-12-18T03:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
-        width: 300
-        height: 225
         isCached: true
 
 secured: "MMQi+Uj2QPB1XtDh4VOi0HigHa569HWmahr7OJdUWzh/wsZinfMSZSY69khvxX1lgC82UXcwZPgIfSE6LEPPCDkyL+TDyAtsSJ1xKQVbM0QxRoJ7HUwUrZaugXOkvPOMmi0zI94Gabd8UHGc16ZkUJWlQjATs+UkMXvhgL0ezqIqBM4plzCKmdS7ZeIhts7wK4DPHd9rZ2BtS2pAtdlZd9WJo3M04Zzy614YuWYJALvSJh2Orv7O44Z+X1Td/DpQgXKWvKlpC52qyfYGYj5cC6WtHLAezIGSmNcdsVCjWLWZFoXY2xUGt1/3puKqHs0Vu6k02bvGBnDJo1G9CXht77c0TXfLfQriaaBpNYCBAoSMRH8wzQXEo1WYOcQKzkP2XeAThYRBopOw8JnuUn5DIhdzZtCn3iRXFXbIwiWRG9CZDIDo01UebjJWi0XIbZOpMR1Fv0URUis584cxse+54kvX2a0Z5OlRHaWfSFmd99LRcaMF5EedYBemjWbS9sq1IwCw43Euj9rPHH6kMiWWmg==;kzT5fIFLiKommFNp1rwVbQ=="
