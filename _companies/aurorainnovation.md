@@ -2,7 +2,7 @@
 name: "Aurora Innovation"
 overview: "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com"
 type: "profile"
-heat: 32
+heat: 50
 
 website: https://aurorainnovation.com/
 
@@ -37,6 +37,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "UINMB14R1YeKTd/ccvD289/7I+BEcl8HqH040jyf48aBWi8mDNZ1nZToQyKjxllDUoQ1dT0JWwPQfRabX47OMITBgxIbY3KM/y0DoyQlvXDxWOjuMBjSnBXncFomcblPuRczSYLpjf81iXl7cEtMYLo9ltHP4P6c//zuuS+lzcgYeH/kq4KUyTrikmQgjinh+F5wmsNMHuzr3YUwX2XsjKcSGq+2WXB0XStPH4To+nMWFIn0jsaLhuTZ8RYksRN3ml2e+3JnWXOBgz6WbqG9cRzCDS2Aq7u24Fj4eFrRNWZQ0rlpUQ4ExBqc9JfoRLCvwvXTxXCb5TtVMRgvm/lYZXIdxKomInlfHp/CpIQ64KMniAnGVg5tRio43MBTKNMmBGDxUltl9I8Kvo16STAJDQ==;12r5I2kn3C+picbltzPfLw=="
+secured: "B9nGj8UPri/Ff7nwiDXXyfTXw7lZtZC0NZd0R7FmQeh6Gh5MULPC9S+SlyVsXzZNPnzebaMz+1fsaZalL6L/nBl36XlOhO6Wd47ELeUhipxslidiRmb5GcV8W7hYqv6UZfJdd3irxili7tL6Sa7zu7vs0cAPeDVs2IP1Qq9PmdGo078CB11gcwx2qtm9AL6jwcybBlywXGfL0Rpe2MLOWws+DcqGWzJUsPMFhUBIu7DMSS3qgNculsNM9iNcSzeFncOqC+YEN3i4GOBT6oF6pqWUjW8PpZ4uiMka3O4IAhvYG0+jZflC6Ar6u9Ea1Zy9gLYQneX/1T4PxJ6UNZ5igmAT2ykdeSNFwablxvH6hqZQesi7jI5H4M6jvBEHyNvHz19xAc/KiHS8fJ1zRqK23w==;r/uzxLeWHKGlZlQnwoiLDg=="
 ---
 
