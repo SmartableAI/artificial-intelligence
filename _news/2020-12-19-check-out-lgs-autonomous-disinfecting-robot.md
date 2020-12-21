@@ -33,6 +33,17 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "LG Announces Autonomous Disinfecting Robots"
+    excerpt: "Newest addition to LG’s Cloi family of robots will help retailers deliver peace of mind. Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep ..."
+    publishedDateTime: 2020-12-21T14:05:00Z
+    webUrl: "https://dealerscope.com/lg-announces-autonomous-disinfecting-robots"
+    ampWebUrl: "https://dealerscope.com/lg-announces-autonomous-disinfecting-robots?amp"
+    cdnAmpWebUrl: "https://dealerscope-com.cdn.ampproject.org/c/s/dealerscope.com/lg-announces-autonomous-disinfecting-robots?amp"
+    type: article
+    provider:
+      name: Dealerscope
+      domain: dealerscope.com
+    quality: 39
 
 secured: "suLfyO456St6TaRF9zR9qJ4nsRkoqU1sr7FI2VCzwETR3lR9NhjTKWIWpf648g1nVdgNGQXTQsysATczyIHLihNI9ilgBA7x8+GM4BmFZ4u77FfcKsOdeCXjBWazIyrWwy0wimda4ViCfs4W3UDgztJySxOlKOwH6HHep5/fWGHTsKsp40Lqhqi72mYb1nzZIoeo470TLJl6V15IfaRUwH+up0yP4+pk1evTTORrAvDa2ustmjUDnQqjcky0qrynplBK1jN8A0ouqr2JM5g0ih8obSD8Zdkf9PCCgHxstb8z2WNcOruB9yZt2ba2ivrb8PwAE/AqgpJ2rGRKp5iHjzGa5IqDOgeyAkVWuchb1Rw=;ChtB+lz1IXtwgIIh8au0AQ=="
 ---

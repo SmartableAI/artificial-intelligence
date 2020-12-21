@@ -68,6 +68,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "How Manufacturers Can Push Past the AI Tipping Point"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-12-21T13:41:00Z
+    webUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Hyundai Launches an AI-Powered Translation Engine Focused on the Car Industry"
     excerpt: "Hyundai has recently launched its very own AI-based translation engine supporting English and South ... In other words, one user can send messages in one language and everybody would receive the translated version, thus making the communication overall ..."
     publishedDateTime: 2020-12-20T18:14:00Z

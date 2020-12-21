@@ -7,7 +7,7 @@ originalUrl: "https://knowtechie.com/walmart-says-it-will-be-making-self-driving
 webUrl: "https://knowtechie.com/walmart-says-it-will-be-making-self-driving-deliveries-in-2021/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "In Self-Driving, Amazon Invests While Walmart Partners"
-    excerpt: "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ..."
-    publishedDateTime: 2020-12-16T21:18:00Z
-    webUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/"
+  - title: "Self-driving tech makes new moves"
+    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
+    publishedDateTime: 2020-12-19T04:30:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958"
-        width: 1200
-        height: 900
+      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
+        width: 400
+        height: 266
         isCached: true
   - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
     excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."

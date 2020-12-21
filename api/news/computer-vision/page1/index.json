@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-21-chinas-new-data-privacy-law-will-state-how-facial-recognition-can-be-used.md",
+      "title": "China’s new data privacy law ‘will state how facial recognition can be used’",
+      "excerpt": "Personal Information Protection Law will allow use of facial biometrics only for specific purposes and when ‘sufficiently necessary’, legislative body says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "originalUrl": "https://www.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/21/d670789e-4367-11eb-be92-09cd005df0bf_image_hires_193039.jpg?itok=POA13Q6F&v=1608550249",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "publishedDateTime": "2020-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
       "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
       "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
@@ -158,7 +210,7 @@
       "originalUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1401,40 +1453,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation.md",
-      "title": "New Apple iPhone Patent Applications Surface: Object and Facial Recognition, Messaging, Voice Modulation",
-      "excerpt": "The patents cover object and facial recognition, messaging, and voice modulation. Object Recognition: One patent application, filed on June 17th, 2008, describes methods by which a mobile device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
-      "originalUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "publishedDateTime": "2020-12-03T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

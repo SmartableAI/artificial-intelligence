@@ -40,6 +40,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "AI Technology Unites Physical and Digital Banking"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-12-20T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/212214/ai-technology-unites-physical-and-digital-banking"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "CvcI6IXPfFF3T+ma3zDg4W51I4db9VCMN0Df6HHtib9DLnQjLdfFl5vMGfE2CkSoyA3AF19sF2qzW+TTWEg972VROvwF3BX+CxNxCyRz503yS3ZQgxX4y302rmP/q6phlXHLtJtvYPxZfJrbvjcVf1S6fxtf9kozwZNYszr4HFeERHZqqQjOGKXp3zUqq4u6xvgaeCav8Fl3eFeEklC4yvdxv7+2/XGpWA2vFvkFsQKYBUCweM8oppjjN7ZAklbCFem88R+Js9XWXxHY4JXlKdjOypVR0eHU06kpEf1fq6F2jgBp4lCLZRghuwnIgo69nuPj6h3yNMubkt2wDPRD7bCJ8+H7LgLuulqmJoVQHeM=;NPyb2OHu4+R8VBYswO5ofg=="
 ---

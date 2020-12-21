@@ -62,7 +62,21 @@ related:
         width: 687
         height: 384
         isCached: true
+  - title: "AI, Machine Learning Tools Help Predict COVID-19 Outcomes"
+    excerpt: "As cases soar across the country, researchers are leveraging the power of artificial intelligence and machine learning to predict COVID-19 outcomes."
+    publishedDateTime: 2020-12-21T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-predict-covid-19-outcomes"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
-secured: "tQEwpzxJZ8CZnPTcidyMQEDoUgXMv0+0ZMFK/Bn0MavGjuY1amrAriIFjMyn5lUtcM1ClBgY0VwTldc0+MrSPmKJbrpsyIuT58O+uZmHx61FvO3JrYIkO/KihVG2NjhZwpGuixQmlbicD0xu99qTtfJaGMLgWbVTXXSdZEaT0r/WVXzzc0W5v2SZUV7HhnvNiUQ3KZfA+7Pf4Q2c3VUL15OWQQy/Evb5sslrh220//SOJMXOkAiJ5fcFXfE4wwEeTUg9CG0GPV7n9VPIaFgg2eSBAUw1/qiUx5chvWLQvN4uUw8UkvJV7pdq1eMegOgTsEWeJJCkLnq7E2TgnBVz85FBowZf7Y4T8otbhiYKxRY=;vmc19GaJoqsg6PKMp9rBFA=="
+secured: "aRtFO2jRjmJXOY66+LTEcOo2KwqziL1B6JNZGYyZoTVfjiUESjjjgUjf8lpVoXZr83soIOMdUJL3zGIWicyCrhCiQNbvxixP8ZDDTQRZqWUV4vWJ4R49NAdAJCxWm1VHANEMbe69/Hc1goKZIu1zrLRb5T4RdiJmNs10pVryeUF+f3dHOZGLkdPm4U7zhv8voHwckN/a5ysVnvn6P7jmLjC6NUSZS+aiO2BH7ofySn+lp6qViIokVNZUGYrd3sRG0EijXf99w4h/nF9yuKwUKGjGarCCqRnq5tE58aE0jd8yo/vHnJXO8L7UyIbyGE84PAlvKi0BPQWjGQbvE9EplQuzDbdLx2PlgIp05MU2fuZHbk1FiFLPrBkKv7R9LkqNgnZ99KbC1e1S94JQBbYvKfQP2A/rtk7Eti8ugQGoKMls6TzvLuSqn5gzOo7zJdc91D+9nP5qpXJCGMXv0TT00CXordX98VoQ1LGUlzPzVR7zBj6JuQGFnG3Z+fl7uKyJVYgpM+d3Yb09AxW/2p59yw==;HeEfREmXrEGQtEmsRQMeTA=="
 ---
 

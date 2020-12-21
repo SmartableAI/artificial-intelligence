@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "In Self-Driving, Amazon Invests While Walmart Partners"
-    excerpt: "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ..."
-    publishedDateTime: 2020-12-16T21:18:00Z
-    webUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Walmart says it will be making self-driving deliveries in 2021"
     excerpt: "Gatik’s fully autonomous box trucks will start making unassisted deliveries for the giant retailer. It is well-known that Walmart has made significant investments in several self-driving companies such as Baidu,"
     publishedDateTime: 2020-12-17T21:08:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/12/walmart-self-driving-delivery-truck-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Self-driving tech makes new moves"
+    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
+    publishedDateTime: 2020-12-19T04:30:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
+        width: 400
+        height: 266
         isCached: true
 
 secured: "+2lSRUZOU3ZRbfaZF3dqAQz6WYHOba+MQRjZ80QY1ELI9d+O/uHKxTpn4C11HEDg8i5vZL1UtOEFPBAMPILoi5Wss0LO4/MEbeedK0Wo4mou6BJAWOJDhtP1Aaa+jrDy9Y9spxeAG6rybLMwqXBzckxVLK821XfQio1C6RvIpLOT6LIzKr7czJqlhDOMP3WAAGYWJwbQWxyIq6lUZWIDFVDHLz2WMoe7u90fYVlaej1LsGW06+LCfDHhttmD064MRUnZJCIGWLxUquAvxiLNxGZ7+9zSPrYHY+BQQuHrZ37db9SqueXp+KtKaZluG/Y2f8nj8V5SRvheQMPRqNTjaODzWk8EPzWWE9jn6/CBGslxIWtmbZS4dPKU6I7AIOKVEKECw0tdIAXM+KDGgsq2qrYZGEzmTksCy94NI7h+aw3Bu+zwiE/kA2D7c8Kmag0svt1r1G8TYPEQKBPzBHbaeLcCMrMbJ3SdvQ5sGJ/ecgTvWdOHzitomMDsgH3JawuEjjIwz9Rh6R4U6tazWCJVvw==;F7MzOkGM3v/3Mo2TT8oKhg=="

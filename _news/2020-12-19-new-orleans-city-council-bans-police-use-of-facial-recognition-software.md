@@ -59,17 +59,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "New Orleans Police Have Used Facial Recognition for Years"
-    excerpt: "New records reveal that the New Orleans Police Department has been partnering with state police to use facial recognition software since, at least, 2018. The city did not admit use of the technology until last month. (TNS) — Although the practice was ..."
-    publishedDateTime: 2020-12-16T22:26:00Z
-    webUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html"
-    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "City Council Bans Police From Using Facial Recognition Technology"
     excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
     publishedDateTime: 2020-12-18T23:45:00Z

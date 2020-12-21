@@ -36,7 +36,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 73
+    quality: 77
     images:
       - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg"
         width: 400
@@ -54,6 +54,6 @@ related:
       domain: sify.com
     quality: 54
 
-secured: "QbkV3iazdu9wt/TcTeNHUpYNasBDlweA/HBSQqh/gy/8/OybjGN6g9fLj45Z8TOdKgi4WS1XvGq3E6RpV3G/+U+o7sPyGJ3qmegql7+felNne0uAsFU52iTrcaf0xy1ZmEQlar6OHeyLOB/H8BfSh6THkp2apM+F9CH4AP2RfGMgLvTqrnBrb06wNxIto50PmGxCbgXvm7Xmjt+202Bqf33o3pRJQkkJJ9QO4WNRK8Fk+2FxDvVL969CrBl+GB+qlay3KGFCn9hDO6WgL0GgPkV1oom5OoSPZqjQcpFU5uBmWvpnJmQzCVDfUpOMtEYwkFTo7sxi5HnFFykNjFGXWf0N+tl8whP9fAueqd/CIpo=;OErnEj87wLzwh/Dadb0cUg=="
+secured: "HzL8C62QA7ERGovCVif0wBzb3GlrQPqR95qEJyJDW+KMwvD8BxrqV3qxTkL5Wf+feVwgGKXD1b9l34ZDSKYzz2SlfqCFLjmowPzmqaq2jOAkaPpnha7JzOJeLgAM8YjNJF87DbidP0olb/TAfOO8viW+t78dk1QH1bsAQTHnCglzGplZXqQO722pOBQ0EOZmG7fBK1/apPwueHOvedPfDwJpTrpCEc1Qqf9Z66CgIUgYSxBkwb91PJ2CfKg7B1TJHFPJNnjIbdhnJmbzO1Er0iBmQFCnJoTVLzbQxIhgXkq3AyjM8vCMqXSPK8XDwoist72fMY+5w6d/PKdT726Crp9wfdg1zlmc1mOO69Kvz9uOvgu6tP2XVwe/HgA0cSu6DKDd3YDYFbhoUMrVmfKiFOcRsra3ljVaGmqFaAYvoodHOVZWcJ3SznGfYuMtBylGJGr9S9LvGIF6Mdfov078xcN5HcGrXRwh/ot2MnQU6d/sXAVPAOyvH0x7mpmurJ6JP+HDs1+ncgqbsQlPdWgx6Q==;QcvGHOOyDY8M6YcIyXyEAQ=="
 ---
 

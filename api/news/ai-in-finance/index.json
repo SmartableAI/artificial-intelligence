@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
+      "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
+      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-upstart-upst-fresh-fintech-ipo-with-enormous-potential.md",
       "title": "Upstart (UPST): Fresh Fintech IPO With Enormous Potential",
       "excerpt": "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering.",
@@ -44,7 +98,7 @@
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1288,58 +1342,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
-      "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
-      "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilR5j0VZWcoo/v0/360x-1.jpg",
-          "width": 360,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "publishedDateTime": "2020-11-26T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

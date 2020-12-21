@@ -91,6 +91,49 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk: Tesla Full Self Driving subscription coming in 2021"
+    excerpt: "Tesla could start offering its pricey self-driving system as a monthly subscription next year, according to Elon Musk."
+    publishedDateTime: 2020-12-21T14:41:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "Full-Self Driving Tesla Model 3 Returns To Lombard Street In SF"
+    excerpt: "Streets don’t get more winding and difficult to navigate than this iconic bit of road in historic San Francisco."
+    publishedDateTime: 2020-12-21T13:16:00Z
+    webUrl: "https://insideevs.com/news/461455/tesla-model-3-fsd-lombard-street-redux/"
+    ampWebUrl: "https://insideevs.com/news/461455/tesla-model-3-fsd-lombard-street-redux/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/461455/tesla-model-3-fsd-lombard-street-redux/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 74
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/kNqJM/s1/fsd-lombard.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla to offer 'Self-Driving' subscription next year"
+    excerpt: "Driving feature on a subscription plan starting next year, CEO Elon Musk said. The feature currently costs $10,000."
+    publishedDateTime: 2020-12-21T14:18:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/tesla-self-driving-subscription"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/tesla-self-driving-subscription.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/tesla-self-driving-subscription.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202012/3726/854081161001_6216975181001_6216974667001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VVVbQNecTc3mDSH4wusMWGFOaLQij0MtuJys25YaOXii4xSISy8na6j4gdMtLzF1pj5tkUyT31OJMBP738GgZsxYw8Yl5yMrZb/Uh6fYfxi0//fm9rvoBrJR+BQaAd701dKpt8D1uIiUa5EbFoIDph4tZNEmZeJx1QoxmmIF6ZLjbE+vD5XSLgxANvxTSzr4wnqxFwGhI2dUG2sia2CoOXt8V8RR3tJzJT3ROJ+Di0bqBT0IgGvvxn4Nub3LoE+oaJBFHUOzKE4BziqgApzB2AS1T3mPKwif1xOpBUzZR4Wh2lIThwpKuVk5uUWFTDsq3b0mQOQbX9jGWAXaycgjRh+e0Yh6uXObCuNLY/vWrKvyCkmihV2ZqBcHuYtOWNb28RqGq+QGtMYiIccw7ZRJFNURQkRBHxdfpB95fddTtongnDR4WR5hGQPL9sSyd1po1W3TCD8fNeqws0PARZcgQvUynCUcPT0k/U9YD0bgsRwdiezs4ibLmdqsn/2ts4XUBrpQtt/kTcEcE25NoFg0Nw==;4IoH1bR8GALTgE4XUKXppA=="
 ---

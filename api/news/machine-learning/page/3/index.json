@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
+      "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
       "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
       "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
@@ -1376,49 +1420,6 @@
       "provider": {
         "name": "Orlando Sentinel",
         "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-misinformation-or-artifact-why-do-neural-networks-mess-up.md",
-      "title": "Misinformation or Artifact: Why Do Neural Networks Mess Up?",
-      "excerpt": "Neural networks can produce incredibly gains in speech and efficiency, but can also make simplistic mistake. A new study suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/cancer-research/news/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
-      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/misinformation-or-artifact-why-do-neural-networks-mess-up-343174.jpg?v=10992130",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
-      "publishedDateTime": "2020-11-25T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
         "images": null,
         "publishers": null,
         "authors": null

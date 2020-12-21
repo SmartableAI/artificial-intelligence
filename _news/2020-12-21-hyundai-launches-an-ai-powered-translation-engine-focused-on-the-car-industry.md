@@ -83,6 +83,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "How Manufacturers Can Push Past the AI Tipping Point"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-12-21T13:41:00Z
+    webUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "qT49SGHmw83ODmADroIGkdnQE/oa7sG8WlmNMgc8qRV2dkxbSiPeNMu0SYdxurmB+bOxCF99iHeWa37v6D6EY2etP6Xkyo+Y5s+6qRaAb3qag1QzuAwpNFpiVV/08pEwtBXLijpkGQ6msoBoCNq2H6hMTVAW8jV2raWw9+PNGLRzcxuc4d82WZYfSNi0HiQIp1qXaTjpGESqSYKVyPMTeMArJFmPH4Fbwju8s1msrlGXpHVDwHjJmgGcwXbxD7rvZeG4Bzkk/NkE3JO4BybXXS19FqQhzZ9Y3dEhAj5LPjsHBwk/PAOlcphKyQcCfN0yeuVvq82E1M5ZMJ3gtypt4eLnCci+dvONkSh4mzN34+I2rD77ZW12/j8YnQWY3bFe/QTjSj8luXt5quZ1K+ZK1mXVGQ0drFiEolVMat0+txTO6huR4CLaodWoojiPWQjWzeaMI4em6xM0P45x1Q5JWtCTU5k2zJG6UOTaO+7+HFA8Jrl8U3h2H+bC5VEFEa1npqA4wWA13Frl0x1xioD4KQ==;C3MA6tKTimsvIZ3za9JHiA=="
 ---

@@ -86,6 +86,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Latest Industry Trends, Future Growth, Regional Overview and Growth Forecast Outlook till 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 21, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ..."
+    publishedDateTime: 2020-12-21T12:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-industry-trends-future-growth-regional-overview-and-growth-forecast-outlook-till-2026-2020-12-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Infrastructure Market: Recent Study including Growth Factors, Applications, Regional Analysis, Key Players and Forecast to 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “AI Infrastructure Market” has"
+    publishedDateTime: 2020-12-21T13:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-recent-study-including-growth-factors-applications-regional-analysis-key-players-and-forecast-to-2025-2020-12-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026"
+    excerpt: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026 . Posted on Dec 21 2020 8:04 AM \"Top Players i"
+    publishedDateTime: 2020-12-21T13:54:00Z
+    webUrl: "https://menafn.com/1101316047/Natural-Language-Processing-Market-Key-Drivers-Industry-Share-and-Future-Growth-Demand-Analysis-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "ZJLPtHw0LT7zOoRvC14dRgGc/Qmjy0aXjxq0C6jiD2LGoutc4HPtehEf32lEbzICzAFs6IIB20uvU9b+tWSPW0D0k0KOnkBlFemXZ+M08VjsUgwpOtfJK+wi4hJnKyHpK99s0LSsUKTCOFjOxoS2fupJY2WLp2NTg5Z+qB70gA/iMB4WnAYd5MWge9NL77GlG3yCBwwBj66JchwQ3vJDDCYcBBSPd2eSD+hLradeX+tORTy5PEtn2XagjsNZEC72VW7e1XeDsvCcEbAy5KkE1ubXDhqLqEG3njmKSdVj0B56TKbAY0865qvbWHEIF/iS7jNTsbKXqMCyeaNr2UqbUfUl3Lf2y5VDxc8tV7PecD4=;mXwJr6/9sw7Lq9B3iQnPyQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-21T10:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
 webUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
 type: article
-quality: 73
-heat: 93
+quality: 77
+heat: 97
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg"

@@ -2,6 +2,156 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-11-04-former-google-execs-vc-invests-30m-into-chinese-robotics-startup-megarobo.md",
+      "title": "Former Google exec’s VC invests $30m into Chinese robotics startup MegaRobo",
+      "excerpt": "MegaRobo, a Chinese startup focused on the development of robots and the Internet of Things, announced that it has raised US$30 million in a series B round led by Sinovation Ventures, a VC firm founded by Google China’s former president Kai-Fu Lee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo",
+      "originalUrl": "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-ocado-has-purchased-two-robotics-firms-to-take-on-amazon.md",
+      "title": "Ocado has purchased two robotics firms to take on Amazon",
+      "excerpt": "UK technology firm Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "originalUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vaU7MVKAUPe295qnhCXfZF-1200-80.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "publishedDateTime": "2020-11-04T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
+      "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
+      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-ai-fail-as-robot-tv-camera-follows-bald-head-instead-of-soccer-ball.md",
       "title": "A.I. fail as robot TV camera follows bald head instead of soccer ball",
       "excerpt": "While artificial intelligence (A.I.) has clearly made astonishing strides ... With stadiums closed to fans due to the coronavirus pandemic, Inverness recently decided to start livestreaming its games. Instead of employing a human camera operator, it ...",
@@ -1020,162 +1170,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-the-future-of-work-now-ai-assisted-skin-imaging.md",
-      "title": "The Future Of Work Now: AI-Assisted Skin Imaging",
-      "excerpt": "Dr. Andrew Weinstein uses Miiskin, an AI-based tool that allows patients to take images of and monitor changes in their skin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa178d7f42e9f75640bae75%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
-      "publishedDateTime": "2020-11-03T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-waymo-moved-its-self-driving-cars-in-san-francisco-to-a-secured-location-in-case-of-election-chaos.md",
-      "title": "Waymo moved its self-driving cars in San Francisco to a ‘secured location’ in case of election chaos",
-      "excerpt": "Waymo is pulling its autonomous vehicles out of San Francisco in anticipation of Election Day unrest, The Verge has learned. The Google spinoff is “temporarily pausing” its AV test operations in San Francisco on Tuesday and Wednesday and moving its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
-      "originalUrl": "https://www.theverge.com/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/qv3_n_wAPsJRKmiwUvwpFApoHpU=/0x0:3620x2343/1400x933/filters:focal(1521x883:2099x1461):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67731216/1142125645.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
-      "publishedDateTime": "2020-11-03T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-how-to-make-artificial-intelligence-less-biased.md",
-      "title": "How to Make Artificial Intelligence Less Biased",
-      "excerpt": "AI systems can unfairly penalize certain segments of the population—especially women and minorities. Researchers and tech companies are figuring out how to address that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "originalUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "publishedDateTime": "2020-11-03T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificia
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://cdn.openpr.com/T/c/Tc17255954_g.jpg"
         width: 687
         height: 384
+        isCached: true
+  - title: "AI, Machine Learning Tools Help Predict COVID-19 Outcomes"
+    excerpt: "As cases soar across the country, researchers are leveraging the power of artificial intelligence and machine learning to predict COVID-19 outcomes."
+    publishedDateTime: 2020-12-21T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-predict-covid-19-outcomes"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "H4IwNVOPJvneu+KFRdu2/+XjI9y5+7+KTpsmn1eSUZcf5qMRZL3xfNcDaIr6+7ejgdBHh2kEClA4CihKehvKe+5JK0ZyIyUxeTfQBaTSBioqSKVvGusDDY3G3L1WSy9V9foF7CbVggJAC8wCQTZxaAFOs8+D5/qbH9/rZ0ZIhAl9bU06z+X71ZQX65L+e28Ic40PO8ekqyP628erFu2/AvoR7zo9Uv1zF93He/ccFerOJI47CinFjBKxX8MfWevs+B6KrsYs2gJ0YuHdlL20GMgblgi9ZPph55hiQi4TghaJn3rud9eIJK6hzJT3gZMLMEdo++e3FyY6udim+OJ4goW6WgpxJnamJFLfGBeu8tRRJnCG6m9QZzMEVASBOHxfSQpT0NvzCw77vv0waWdyUxjHY9UE/jdhDnk7ptcrUETQYuki6p+0uHoKIB/JW/Vz5ecbcwrBLd+mTIks7XE71exnArp8QL6VjK/inc3LeQql3PwI44PWgTfSs5cq9QSQE0GkvN8TGJz9z9+yOEPBhA==;BsCtr8A2SY86hiDPkCRJ1Q=="
