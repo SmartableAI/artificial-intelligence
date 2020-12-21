@@ -89,36 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook is reportedly building a tool called 'TLDR' that will read and summarize news articles for you"
-    excerpt: "A leading-edge research firm focused on digital transformation ... an acronym commonly used online), the publication reported. TLDR will be an AI-assistant tool, which will automatically generate bullet-point summaries of articles. Schroepfer said the ..."
-    publishedDateTime: 2020-12-16T13:00:00Z
-    webUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/5fd9fbdb6524f100197924c9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Facebook Developing AI Tool To Read Minds, Summarize Articles: Report"
-    excerpt: "American technology conglomerate Facebook told its employees that it is developing a mind-reading Artificial intelligence tool to summarise news articles."
-    publishedDateTime: 2020-12-16T11:49:00Z
-    webUrl: "https://www.republicworld.com/technology-news/social-media-news/facebook-developing-ai-tool-to-read-minds-summarize-articles-report.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 39
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/64rzwwljfyn9ipfw_1608118128.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
 
 secured: "+iCawh8f59yRiGWZ4abE945GlSImD4BgXhASxnaCaY239u69PguZ4CJhkIHcBUTiSScQK8JmMQ7E+IbROlIsL3dR6pI8ZSVdnzC/AWwLlopzV4Kv+HdJJTawIpmvcUEzSyTXUvMhHbeMCMqGnLfpZak+YihX4Mc/nVUulAElgAksv2RQ9rhfhMXkfhzQyhFPLwhILc453qcHv3GbZyt67a1osCpWdDVlKi0EhlP4z3uaZ3fn7hsrno17Jt9TNKPzWm6vcTG7RFLELc1JsJTPAtCjwUHilL2fDNGDwYdpax4DCzQvnZc9h4SrFYPuTAsTJ+3iPLDCBijieNxgP27+GrBeF5amlJBFsuLM0yx+KA2xwg1WYVUXxKZ7oCZ8Y85j1oqAAJ3drA25QqmDzyIkxghcBc8ma4Z24XvCkYEq4gqbyAfpCyqrExDL/SOETw1qtfv93wiS6mtVCQrYlKqCR7jDQMTjoNdXrx9qYb0dSfNcnIfH30/7N/TiPIy8XS1pl9HQUv3IZprBGE6flHd8Ig==;6W/f7nTduEsCdbV+ibVfFg=="
 ---

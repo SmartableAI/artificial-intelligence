@@ -27,74 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
-    publishedDateTime: 2020-12-17T15:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+  - title: "IBM acquires Montreal fintech solutions provider Expertus Technologies"
+    excerpt: "IBM has acquired Expertus Technologies Inc, a Montreal-based fintech company. Expertus, a financial technology firm that processes more than $50 billion in"
+    publishedDateTime: 2020-12-16T14:00:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Upstart Jumps in Trading Debut for Fintech Company"
-    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
-    publishedDateTime: 2020-12-16T20:00:00Z
-    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 44
     images:
-      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/07/Acquisitions-header-2.jpg"
+        width: 620
+        height: 250
         isCached: true
-  - title: "The frenzy behind fintech"
-    excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
-    publishedDateTime: 2020-12-20T21:46:00Z
-    webUrl: "https://www.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
-    ampWebUrl: "https://amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+  - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
+    excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
+    publishedDateTime: 2020-12-17T04:00:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214846-cid-1.html"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 44
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
     images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
+      - url: "https://www.siliconindia.com/news/newsimages/5uFf8ylk.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
-    publishedDateTime: 2020-12-18T10:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+  - title: "Montreal-based FinTech Expertus acquired by IBM"
+    excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
+    publishedDateTime: 2020-12-16T17:21:00Z
+    webUrl: "https://betakit.com/montreal-based-fintech-expertus-acquired-by-ibm/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "The Servier Group opens a worldwide Artificial Intelligence Hub in Montreal, in partnership with Centech"
+    excerpt: "Servier, an international pharmaceutical company, announces the opening of a worldwide Artificial Intelligence (AI) Hub in Montreal, in partnership with Centech, a deep-tech business incubator recognized as one of the most successful university incubators in the world."
+    publishedDateTime: 2020-12-17T07:53:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/the-servier-group-opens-a-worldwide-artificial-intelligence-hub-in-montreal-in-partnership-with-centech/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 22
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
+    excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"
+    publishedDateTime: 2020-12-16T22:00:00Z
+    webUrl: "https://www.law.com/americanlawyer/2020/12/16/as-fintech-stays-hot-reed-smith-hires-partner-who-led-2-big-law-firms-payment-tech-practices/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 12
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2020/12/Reed-Smith-Office-Sign-Article-202012161651.jpg"
+        width: 621
+        height: 372
         isCached: true
 
 secured: "vI3KzgOBxIWU5B7y7vOSZeLwEhoik3cc8olDgz8bxtgRj/JONMbC4z9sM7ZOJ/0mvStczL0v1bcxyatT+ei9/uF6t1aAg9qSYLTHUEsZePsExzO49omJiA15aXvumcXh0EepewablLfdkACqoVSjjDQzsNmdPduZeiH4JFHZr18BiXu9gFahrEKK73Rfv8ioJdojUASRMUZpJTb6+K1pv7eAS5firdYkprsuBtGQsWyUU5eo0kJtm/jazvNFtSuonQTwYBz9WxcVpuMvMYMo/YFGS9c3T+tx5cQDs/iaFTaInLKuK6MPPDAO0rKV+aJcV7AbXlC+3lJ0fAVIZCk60sVP7U51gRxR9wHsR1rym7nueCgCK8t20pbnsbbqwYa2DiOQn3mEJRQvbTae8lkBMfz5ELRAlhApD3YDTCSOSdbwvjSZLCdXgBeWX+MUWuoQCOCvfvmYs1tkIzEVH7vy9pVXRXjtVQiLzbUcoEtm8q2l8RtNiLC47Knm324MphZZ3wuBmbyytyWSosgSE6CH6A==;ekwtM3acTc9JHDgRm5haiQ=="

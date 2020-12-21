@@ -7,7 +7,7 @@ originalUrl: "https://cyber.harvard.edu/story/2020-12/some-reflections-role-gove
 webUrl: "https://cyber.harvard.edu/story/2020-12/some-reflections-role-government-trustworthy-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Getting Smarter About Running An Agile Government: AI And The Next Wave Of American Innovation"
-    excerpt: "At the heart of the field of AI is the idea that machines can be used to simulate human intelligence. Since its introduction by Alan Turing in the 1940s, AI has attracted the interest and funding of the federal government and the private sector."
-    publishedDateTime: 2020-12-17T05:27:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/getting-smarter-about-running-an-agile-government-ai-and-the-next-wave-of-american-innovation-nid-6946.html"
+  - title: "Application Of AI In the Manufacturing Industry"
+    excerpt: "Through the AI revolution, large amounts of data can be converted into actionable insights and predictions that can provide impetus to data-driven fields like genetics, robotics, connected and smart s"
+    publishedDateTime: 2020-12-18T10:54:00Z
+    webUrl: "https://www.entrepreneur.com/article/361957"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/361957"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 25
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/brrp2436.jpg"
-        width: 450
-        height: 308
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Pairing the Art of Decision Making With the Science of Artificial Intelligence"
+    excerpt: "It marries the art of decision making with the science of artificial intelligence. SAS Viya puts powerful analytics in everybody’s hands regardless of location to help the organization make trusted decisions faster."
+    publishedDateTime: 2020-12-18T15:40:00Z
+    webUrl: "https://wwd.com/business-news/technology/sas-technology-decision-making-artificial-intelligence-1234679241/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 48
+    images:
+      - url: "https://wwd.com/wp-content/uploads/2020/12/Widdowson_Richard.jpg?w=300"
+        width: 300
+        height: 218
+        isCached: true
+  - title: "What does Innovation look like in robotics? See the SVR 2020 Industry Award winners"
+    excerpt: "The QRB5165 processor, customized for robotics applications, offers a powerful heterogeneous computing architecture coupled with the leading 5th generation Qualcomm® Artificial Intelligence (AI) Engine delivering 15 Trillion Operations Per Second (TOPS ..."
+    publishedDateTime: 2020-12-18T23:00:00Z
+    webUrl: "https://robohub.org/what-does-innovation-look-like-in-robotics-see-the-svr-2020-industry-award-winners/"
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 48
+    images:
+      - url: "https://robohub.org/wp-content/uploads/2020/12/SVR-Industry-Innovation-Awards-1024x591.jpg"
+        width: 1024
+        height: 591
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
+    excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
+    publishedDateTime: 2020-12-16T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hyundai Launches an AI-Powered Translation Engine Focused on the Car Industry"
+    excerpt: "Hyundai has recently launched its very own AI-based translation engine supporting English and South ... In other words, one user can send messages in one language and everybody would receive the translated version, thus making the communication overall ..."
+    publishedDateTime: 2020-12-20T18:14:00Z
+    webUrl: "https://www.autoevolution.com/news/hyundai-launches-an-ai-powered-translation-engine-focused-on-the-car-industry-153346.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/hyundai-launches-an-ai-powered-translation-engine-focused-on-the-car-industry-153346-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "u73SiiN9zQ2uqDNiub6pE8qM+i5e3p6xz8ov3ZhVHzthxBJ8+ja5wb42ZFGldleJXVxMXHKtYM7o87H0PZr42y5DIuxC2FvfKxNI8GyLpO1It90irlwaw9S7PsorxMiJ2EBMSHzMGy9BWnuCMxX1fEsliD0I3FO9GI3j39WStIqaZz3R4dLEWmjt/oZf4Cvv7RYAPZ3G7td+KoUj4UYmMkNrDCMIr5xC2uPRybRRp36JyhP6ICe/8jMC8NNeCUahSY1bMMJyZJKpx0PcyCiVbi5fHAbxhbM71bVbhckioVXUovC4YCo/8dtj172s0tqNTmKwMaahIE2IJ5TodVS4i0RVnBr9BIV6asSDBAE503A0i3WqKHOrjHrPHBx2IDeJpak34/rAzNe3sVNp2GXnmOBlvP5ySXGjTDE31om3YyZrySpTLyTNimSLKJdKFy3iArh+/wbT1osdyfXr0MoWIiOihRgVFcHJ1s+E8QhzEIG208xeIfUqsVzyFddTq/GTG7um1nzl47oGamlZbqqJug==;yqlKnD5dLYHxgJI3Lr5cHg=="

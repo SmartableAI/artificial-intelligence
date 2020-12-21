@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16"
 type: article
 quality: 76
-heat: 246
+heat: 216
 published: true
 
 provider:
@@ -58,17 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Robotics Market Growth, Trends, and..."
-    excerpt: "The \"Robotics Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued"
-    publishedDateTime: 2020-12-16T11:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18811814/global-robotics-market-growth-trends-and-forecasts-report-2020-2025-advent-of-industry-4-0-driving"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18811814"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18811814"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "Computer Vision Market Size, Share 2021 Overview, Opportunities, In-Depth Analysis and Forecasts, Outlook -2023"
     excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
     publishedDateTime: 2020-12-17T09:27:00Z
@@ -78,20 +67,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
-    excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
-    publishedDateTime: 2020-12-16T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -210,20 +185,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Global Robotics Market Growth, Trends, and Forecasts Report 2020-2025: Advent Of Industry 4.0 Driving Automation & Increasing Emphasis On Safety - Res"
-    excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued at USD 39.72 billion in 2019 and is expected to register a CAGR of 25."
-    publishedDateTime: 2020-12-16T11:42:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=393688"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "Artificial Intelligence in Social Media Market Report (2020-2029): Market Demand, Growth Prospects and Market Size | Google LLC, Facebook Inc"
     excerpt: "MarketResearch.Biz –:As per a study on Artificial Intelligence in Social Media market, recently | eTurboNews | Trends | Travel News Online |"

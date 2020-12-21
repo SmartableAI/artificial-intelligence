@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Khosla-Backed Health AI Startup Raises $27.5 Million To Supercharge Primary Care"
-    excerpt: "“We think that AI can be a superpower, where we can make the cost of care lower,” says Khosla, cofounder of San Francisco-based Curai, which announced a $27.5 million Series B financing round on Wednesday. The company has built a chat-based platform ..."
-    publishedDateTime: 2020-12-16T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/"
-    ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/"
+  - title: "Creative Tech Platform Runway Raises $8.5 Million to Make AI Tools More Accessible"
+    excerpt: "A series of research advances over the past few years have unlocked new potential for the use of AI in creative settings, from generating realistic-sounding copy to creating art from scratch. Startup Runway wants to make all of these capabilities ..."
+    publishedDateTime: 2020-12-16T22:14:00Z
+    webUrl: "https://www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/"
+    ampWebUrl: "https://www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Adweek
+      domain: adweek.com
+    quality: 51
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98d60ec452825cba9b7ec%2F0x0.jpg%3FcropX1%3D110%26cropX2%3D1816%26cropY1%3D0%26cropY2%3D959"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Text-based primary care startup Curai raises $27.5M"
-    excerpt: "The company, which offers a text-based primary care platform, is building a suite of technology to support its physicians."
-    publishedDateTime: 2020-12-18T00:44:00Z
-    webUrl: "https://medcitynews.com/2020/12/text-based-primary-care-startup-curai-raises-27-5m/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2020/05/doctor-text-Venimo.jpg"
-        width: 724
-        height: 483
+      - url: "https://www.adweek.com/wp-content/uploads/2020/12/Xandr_Brandshare_121620_HP-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "WNjMJzcv0k4TbcMaCBKiGPa0JGIyKjjb5QqgGlcSjWad03BbXoEH9O3xddQ3yOkNxufW/cUSoZOqOe6imYEJgLRPTz0H24IHg8yS3MIgid5B8P2euRv7SVX74HXZ5sKOB1dwpJVEuEmT4xcbLOk0LefDquNdmsageVDdoP5Jh0sc5dBMrRSGqE2fXUUyui/mWBfgLf14U7mIqBs/xBWgYn+gsY181PGXooHUXDAVC0nq4013VZMK8PAv/jsxkoSCgPhgXCcYb4Q4PTy1yzzGw5ooohbo3W/rnsk6pcy+wVBxZcqAcVKF7umqFELnJGELy9p7aonC7b0Vqh/HoOgkgTvpdUovdF+JbyGqMgaHIf8=;thPYpo9ASGCXj89wVv3SJQ=="

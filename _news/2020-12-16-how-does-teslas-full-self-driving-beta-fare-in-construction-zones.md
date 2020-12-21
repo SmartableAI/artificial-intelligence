@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving in hacked AR view looks fascinating, and more"
-    excerpt: "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!"
-    publishedDateTime: 2020-12-16T12:11:00Z
-    webUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/"
-    ampWebUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 89
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
   - title: "Tesla Full Self-Driving subscription coming really soon"
     excerpt: "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ..."
     publishedDateTime: 2020-12-21T02:17:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg"
         width: 1680
         height: 944
+        isCached: true
+  - title: "Tesla full self-driving manages San Francisco's famously curvy Lombard Street"
+    excerpt: "Tesla released an early version of its full self-driving mode (known as FSD) for a small, select group of Tesla drivers with the advanced driving system, Autopilot, already loaded onto their cars.  One prominent Tesla vlogger known as Tesla Raj put the autonomous driving mode (it's not fully autonomous,"
+    publishedDateTime: 2020-12-20T19:22:00Z
+    webUrl: "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement/"
+    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 86
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F12%252F20%252Ff9%252F0772d5a7260a472fb8a7ec27be9ff5e7.7de80.png%252F1200x630.png?signature=BBg862TYMYO2EVeBGN_FEiagGoc="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Full self-driving mode will open to all Tesla owners with monthly subscription"
     excerpt: "SEE ALSO: Tesla full self-driving manages San Francisco's famously curvy Lombard Street But for Tesla drivers leasing or using FSD only at certain times, the more flexible plan could be worth it."

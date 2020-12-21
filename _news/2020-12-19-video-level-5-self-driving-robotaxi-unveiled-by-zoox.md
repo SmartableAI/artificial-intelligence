@@ -19,33 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi"
-    excerpt: "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,"
-    publishedDateTime: 2020-12-16T12:48:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Amazon shows off Zoox’s self-driving robotic taxi"
-    excerpt: "Tech giant Amazon is once again expanding into a new field and this time around it’s the transportation industry. It’s through a technology company called Zoox. This company is developing a personal transportation vehicle similar to a taxi but there is no driver."
-    publishedDateTime: 2020-12-16T12:00:00Z
-    webUrl: "https://www.wlns.com/news/amazon-shows-off-zooxs-self-driving-robotic-taxi/"
-    ampWebUrl: "https://www.wlns.com/news/amazon-shows-off-zooxs-self-driving-robotic-taxi/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/amazon-shows-off-zooxs-self-driving-robotic-taxi/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 44
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/12/Zoox-Autonomous-Vehicle-ThreeQuarter-View.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon unveils fully self-driving robotaxi called Zoox"
     excerpt: "Zoox, a relatively compact vehicle, can seat four people, is bidirectional, and can reach a top speed of 75 miles per hour without a driver."
     publishedDateTime: 2020-12-17T02:54:00Z

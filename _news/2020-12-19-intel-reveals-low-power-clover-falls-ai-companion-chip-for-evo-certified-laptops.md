@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Why Intel’s share price is chipping into artificial intelligence"
-    excerpt: "Intel’s [INTC] share price has been chipped away in 2020, falling 16.7% to 15 December, even as the PHLX Semiconductor Index [SOX] has risen 47%. The coronavirus pandemic, which has driven a rally for most technology stocks,"
-    publishedDateTime: 2020-12-16T11:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en/opto/why-intels-share-price-is-chipping-into-artificial-intelligence"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.cmcmarkets.com/images/Intel1612_medium.jpg"
-        width: 768
-        height: 576
-        isCached: true
   - title: "Intel Reveals Visual Sensing Controller Chip For Smarter Laptops"
     excerpt: "Intel introduced the Visual Sensing Controller, code-named Clover Falls, as a new component it will use for Intel Evo-verified premium laptops."
     publishedDateTime: 2020-12-17T18:59:00Z

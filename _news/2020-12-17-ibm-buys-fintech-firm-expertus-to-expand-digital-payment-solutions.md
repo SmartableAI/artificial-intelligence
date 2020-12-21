@@ -41,17 +41,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
-    excerpt: "New York, Dec 16 (IANS) Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a move that is aimed at strengthening IBMs portfolio as an end-to-end digital payments solution provider and further advancing IBMs hybrid cloud and AI strategy."
-    publishedDateTime: 2020-12-16T12:06:00Z
-    webUrl: "https://www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
-    ampWebUrl: "https://www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 24
   - title: "Montreal-based FinTech Expertus acquired by IBM"
     excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
     publishedDateTime: 2020-12-16T17:21:00Z
@@ -66,20 +55,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
-    excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
-    publishedDateTime: 2020-12-16T12:30:00Z
-    webUrl: "https://www.wraltechwire.com/2020/12/16/ibm-makes-another-cloud-deal-acquiring-fintech-to-boost-payment-technology/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 22
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
-        width: 577
-        height: 324
-        isCached: true
   - title: "The Servier Group opens a worldwide Artificial Intelligence Hub in Montreal, in partnership with Centech"
     excerpt: "Servier, an international pharmaceutical company, announces the opening of a worldwide Artificial Intelligence (AI) Hub in Montreal, in partnership with Centech, a deep-tech business incubator recognized as one of the most successful university incubators in the world."
     publishedDateTime: 2020-12-17T07:53:00Z
@@ -93,6 +68,22 @@ related:
       - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
+    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
+    publishedDateTime: 2020-12-18T03:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
   - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
     excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"

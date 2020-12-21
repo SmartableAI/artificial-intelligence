@@ -71,20 +71,6 @@ related:
         width: 557
         height: 421
         isCached: true
-  - title: "Why Intel’s share price is chipping into artificial intelligence"
-    excerpt: "Intel’s [INTC] share price has been chipped away in 2020, falling 16.7% to 15 December, even as the PHLX Semiconductor Index [SOX] has risen 47%. The coronavirus pandemic, which has driven a rally for most technology stocks,"
-    publishedDateTime: 2020-12-16T11:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en/opto/why-intels-share-price-is-chipping-into-artificial-intelligence"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.cmcmarkets.com/images/Intel1612_medium.jpg"
-        width: 768
-        height: 576
-        isCached: true
 
 secured: "XNgoqpj8D0g4yM6SR0G04LpcPHx9Ya4YqtmhWZNo+0vrB7dX4o34Ylx78BjUZ+K9aDTleYNo0iVhgkIt8w50OmEIY0kQSaT0Z71bLAmDdNjZPtHUAc3cziws1YDOFzRWVjIGN2HfMzvmEwP9zB66x+jzzR8QwRf3m51BhWczaqMvu1D49iLFv0QdXP2+CDrPD+TgcQsCJMlqHYJia0UEclgDtKt0MKdatC7PdJ2X5EPPAUs5wrLYNKYBHojRKbpkCfySX++Ngg8AhlWGOhyVvPtG/rwQH0doQjc/ooapZcnTewmtA8wji/AFrc99uXtvpm8ECXo64p+fa0Ub6BSJsBG1kRknVibLojgbwvKW4+xQQnGO6w8dEGd71g/MauqlNDbKFUTtjQLjXrWmeJ99IuJGNTWmcMk0wPmp85iK97cz3N/uYdVU2ju2tOXF+0gHnChdQFIFHv3bXJ/HrfKSlSnYFA1GboseaXN5MMISTdItI2jrD47woN2W+BNwGNZ4YU7rXGuoJ4Ueon9RvREMxw==;kL6tuhPGBekSvA00PnDS6w=="
 ---

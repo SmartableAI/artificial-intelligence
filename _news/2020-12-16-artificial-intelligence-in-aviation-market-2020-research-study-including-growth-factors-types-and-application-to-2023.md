@@ -29,242 +29,77 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Marketing Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2023"
-    excerpt: "Market Synopsis The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant"
-    publishedDateTime: 2020-12-16T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16"
+  - title: "Application Of AI In the Manufacturing Industry"
+    excerpt: "Through the AI revolution, large amounts of data can be converted into actionable insights and predictions that can provide impetus to data-driven fields like genetics, robotics, connected and smart s"
+    publishedDateTime: 2020-12-18T10:54:00Z
+    webUrl: "https://www.entrepreneur.com/article/361957"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/361957"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Enterprise Artificial Intelligence Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
-    excerpt: "Market Synopsis The Enterprise Artificial Intelligence Market is estimated to record a significant growth throughout"
-    publishedDateTime: 2020-12-16T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
+  - title: "Pairing the Art of Decision Making With the Science of Artificial Intelligence"
+    excerpt: "It marries the art of decision making with the science of artificial intelligence. SAS Viya puts powerful analytics in everybody’s hands regardless of location to help the organization make trusted decisions faster."
+    publishedDateTime: 2020-12-18T15:40:00Z
+    webUrl: "https://wwd.com/business-news/technology/sas-technology-decision-making-artificial-intelligence-1234679241/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://wwd.com/wp-content/uploads/2020/12/Widdowson_Richard.jpg?w=300"
+        width: 300
+        height: 218
         isCached: true
-  - title: "Artificial Intelligence in Education Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
-    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
-    publishedDateTime: 2020-12-17T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-16"
+  - title: "What does Innovation look like in robotics? See the SVR 2020 Industry Award winners"
+    excerpt: "The QRB5165 processor, customized for robotics applications, offers a powerful heterogeneous computing architecture coupled with the leading 5th generation Qualcomm® Artificial Intelligence (AI) Engine delivering 15 Trillion Operations Per Second (TOPS ..."
+    publishedDateTime: 2020-12-18T23:00:00Z
+    webUrl: "https://robohub.org/what-does-innovation-look-like-in-robotics-see-the-svr-2020-industry-award-winners/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: Robohub
+      domain: robohub.org
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://robohub.org/wp-content/uploads/2020/12/SVR-Industry-Innovation-Awards-1024x591.jpg"
+        width: 1024
+        height: 591
         isCached: true
-  - title: "Global Robotics Market Growth, Trends, and..."
-    excerpt: "The \"Robotics Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued"
-    publishedDateTime: 2020-12-16T11:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18811814/global-robotics-market-growth-trends-and-forecasts-report-2020-2025-advent-of-industry-4-0-driving"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18811814"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18811814"
+  - title: "Some Reflections on the Role of Government in Trustworthy AI"
+    excerpt: "BKC Executive Director Urs Gasser delivered a keynote speech at Lanzamiento de la Ética de la Inteligencia Artifical en Colombia (“Launch of Ethics of Artificial Intelligence in Colombia”) about the role governments can play in promoting trustworthy AI systems."
+    publishedDateTime: 2020-12-17T21:21:00Z
+    webUrl: "https://cyber.harvard.edu/story/2020-12/some-reflections-role-government-trustworthy-ai"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-  - title: "Computer Vision Market Size, Share 2021 Overview, Opportunities, In-Depth Analysis and Forecasts, Outlook -2023"
-    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
-    publishedDateTime: 2020-12-17T09:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-2021-overview-opportunities-in-depth-analysis-and-forecasts-outlook--2023-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2020-12/ColombiaEvent.jpg?h=23b8e2ce&itok=VBTQIPae"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
-    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
-    publishedDateTime: 2020-12-18T20:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
+  - title: "Hyundai Launches an AI-Powered Translation Engine Focused on the Car Industry"
+    excerpt: "Hyundai has recently launched its very own AI-based translation engine supporting English and South ... In other words, one user can send messages in one language and everybody would receive the translated version, thus making the communication overall ..."
+    publishedDateTime: 2020-12-20T18:14:00Z
+    webUrl: "https://www.autoevolution.com/news/hyundai-launches-an-ai-powered-translation-engine-focused-on-the-car-industry-153346.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Segmentation and Analysis by Recent Trends Development and Growth Factors by Regions Overview to 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of ..."
-    publishedDateTime: 2020-12-17T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-segmentation-and-analysis-by-recent-trends-development-and-growth-factors-by-regions-overview-to-2023-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GCC Agricultural Robots Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
-    excerpt: "The GCC agricultural robots market was valued at US 167 4 Mn in 2019 and is estimated to reach US 389 1 Mn by 2027 it is expected to grow at a CAGR of 11 3 from 2019 to 2027"
-    publishedDateTime: 2020-12-18T14:19:00Z
-    webUrl: "https://www.openpr.com/news/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: autoevolution.com
+      domain: autoevolution.com
     quality: 36
     images:
-      - url: "https://cdn.openpr.com/T/c/Tc18855863_g.jpg"
-        width: 700
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market Opportunities 2021 Report Segmented by Geography, Technology, Type, Application and Forecast 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Artificial Intelligence (Chipsets) Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,"
-    publishedDateTime: 2020-12-18T15:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-opportunities-2021-report-segmented-by-geography-technology-type-application-and-forecast-2025-2020-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Diagnostics Market size is anticipated to reach healthy growth rate of more than 32.3% over the forecast period 2020-2027"
-    excerpt: "Selbyville, Delaware The report for Artificial Intelligence in Diagnostics Market offers an assiduous analysis"
-    publishedDateTime: 2020-12-17T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-size-is-anticipated-to-reach-healthy-growth-rate-of-more-than-323-over-the-forecast-period-2020-2027-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Size Analysis, Share, Growth Potential to 2026 | Research Report by Fortune Business Insights™"
-    excerpt: "The global “Image Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-12-17T12:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-analysis-share-growth-potential-to-2026-research-report-by-fortune-business-insightstm-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-12-17T11:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-18T16:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Robotics Market Growth, Trends, and Forecasts Report 2020-2025: Advent Of Industry 4.0 Driving Automation & Increasing Emphasis On Safety - Res"
-    excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued at USD 39.72 billion in 2019 and is expected to register a CAGR of 25."
-    publishedDateTime: 2020-12-16T11:42:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=393688"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Artificial Intelligence in Social Media Market Report (2020-2029): Market Demand, Growth Prospects and Market Size | Google LLC, Facebook Inc"
-    excerpt: "MarketResearch.Biz –:As per a study on Artificial Intelligence in Social Media market, recently | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-12-17T11:47:00Z
-    webUrl: "https://www.eturbonews.com/2186492/artificial-intelligence-in-social-media-market-report-2020-2029-market-demand-growth-prospects-and-market-size-google-llc-facebook-inc/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 4
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Cellular Machine to Machine (M2M) Market Report (2020-2029): Market Statistics, Product Analysis and Immense Report | AT&T Inc, Verizon Communication"
-    excerpt: "MarketResearch.Biz –:As per a study on the Cellular Machine to Machine (M2M) market, recently | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-12-17T18:24:00Z
-    webUrl: "https://www.eturbonews.com/2186440/cellular-machine-to-machine-m2m-market-report-2020-2029-market-statistics-product-analysis-and-immense-report-att-inc-verizon-communication/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 0
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Cognitive Computing Market Report (2020-2029): Demand and Scope, Industry Trends and Threats | Google LLC, IBM corporation"
-    excerpt: "Click to download Covid-19 Report: https://marketresearch.biz/report/cognitive-computing-market/covid-19-impact Main players who dominate the Cognitive Computing market: Google LLC IBM corporation Microsoft ... Financial Services and Insurance (BFSI ..."
-    publishedDateTime: 2020-12-17T18:05:00Z
-    webUrl: "https://www.eturbonews.com/2186442/cognitive-computing-market-report-2020-2029-demand-and-scope-industry-trends-and-threats-google-llc-ibm-corporation/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 0
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
+      - url: "https://s1.cdn.autoevolution.com/images/news/hyundai-launches-an-ai-powered-translation-engine-focused-on-the-car-industry-153346-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "2+BrN3SbL+jzGwNf4dMmvtPC+9bALOFfUm/atDk4eugvY0WGdq65WUJ3ZhwCil/i3scG0u35vjPLkyTt7HFsYRg4oplf7QDmGvjig2ecVmC3PIDgDfiSyWED6mFk/V4qOoR8b3kMb8eUxrioq4N5I1zOihNPccSMA/JBhESByVJomxDuA6K+1/DW4gWyiHIPgWdnbay7/rjg9Y5g+IYHNLaoI5DX3iKhfZhK5eWEhXcVb7VK+M1SQL9dTlrfblH2NjJ8G9Gy7gpp0vz83YIMR7JX5e5AKIoxMYledr8C5s9hC49f+KimY9LSRJOgMZQpNlo7Uz0nAuxAOqs0h+pdsMEuQG+xoEv/JP3t3i7YIvE=;9ypG2hyX5dtJ3rh1WSx/3g=="

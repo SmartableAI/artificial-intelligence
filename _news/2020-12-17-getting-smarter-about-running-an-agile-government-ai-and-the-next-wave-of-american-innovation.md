@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/cxoinsights/getting-smarter-about-
 webUrl: "https://www.cioapplications.com/cxoinsights/getting-smarter-about-running-an-agile-government-ai-and-the-next-wave-of-american-innovation-nid-6946.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 450
     height: 308
     isCached: true
-
-related:
-  - title: "Some Reflections on the Role of Government in Trustworthy AI"
-    excerpt: "BKC Executive Director Urs Gasser delivered a keynote speech at Lanzamiento de la Ética de la Inteligencia Artifical en Colombia (“Launch of Ethics of Artificial Intelligence in Colombia”) about the role governments can play in promoting trustworthy AI systems."
-    publishedDateTime: 2020-12-17T21:21:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-12/some-reflections-role-government-trustworthy-ai"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2020-12/ColombiaEvent.jpg?h=23b8e2ce&itok=VBTQIPae"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "yu/I6EwJqph4kdd2xJqvIIVXIlgw0wJWrMqE8dGh8NFLR9VBVp0VZdhiLnDZYsotjzE1hht2ACf8xNlrcrcfhmvpIX+5eDVXOSjvO31ZnMwIGcSmnQKfTfXhbrCoJ6GqBOEfCrbt3nm2MjmoEndEbRkRUOFepmXoPg7ikvxXkXC+8WZNC2PZurJeBGR+xssqTYKrk9Q/f+WM7GpXU5j6/On9iuy6BR9Y3thXjgxYAkf7kc5h6psq+8NNPVyj4uVjOvtQ1MS1GWZShSK9s8KZZEF8B4Mu283P6L92nYFp7sb6Y2uaNqLEoiaFIpc0l5bDzJWreoMXL/wxTgMn0507acL+ubtqGy251yeXLbQytd0=;G0BQSsVGY3e/VjMX6WnXcQ=="
 ---

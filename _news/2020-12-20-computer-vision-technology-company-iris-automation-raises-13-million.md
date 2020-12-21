@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "RunwayML raises $8.5 million for its AI-powered media creation tools – Jaweb"
-    excerpt: "RunwayML, a Brooklyn-based startup building a library of AI-powered tools for designers, artists, and other creators, has raised $8.5 million in venture capital. The company says the funds will be used to accelerate its go-to-market efforts as looks to increase the size of its product development teams."
-    publishedDateTime: 2020-12-16T11:45:00Z
-    webUrl: "https://elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-powered-media-creation-tools-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-powered-media-creation-tools-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-powered-media-creation-tools-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 54
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/RunwayML-raises-8.5-million-for-its-AI-powered-media-creation-tools.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "QPGpHQ+9NwxGsWUmNg2pXvFu2loUPwclOYraLY3t0mcAyld08hviqOxls/k6Qhuu11JzC3RGhEFyPXL1jO0dbOODwtcHaDx3xprPkRl/5SppPzY1Zqn21LJYtIrUkeK/QbFnsLFAFGO8ZziMxnM8D0nrRrYb+cQgr1Kvjo+t5AK5jC2HEB7Ik97cG6Fcs3e3VvalXLbl62+7PA3KwpEyz90BqNhF92WgF8ytIyoxLnc2HVVo9i9cNw9l0zVIjKhVHkBQpIFpyBj9hzrar2wPC+oOBmFtIJv3eiOx24u0OziNUMqTEYiUb9ByMut5vATK9AUHRCkz++15mhLELdBROACELghbY2Hu32iZuFnif3PgsUH5/I280gSSjbmekr9m0OPfWvSk61cWDWT6/MmsGkLwB5Shltv7lAPmv4h9Bd6PE93JMa5xsYuHEp8WemgXk8G+ZUSKWqNZMwXlGfhDcGZh5hCq2cypxI2iYRFa4ozknH16R+S9j3xjsi84OsyF+kxBCd1lLg3Bic2kkhvbjg==;mjocyCcX/vY/5ucI0C/L6w=="
 ---

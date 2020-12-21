@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-mic
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
-  - title: "Shell and Equinor develop smart inventory management system with Microsoft Azure"
-    excerpt: "The collaboration is the first of a series of planned co-innovation initiatives across the wider energy value chain, including themes such as maintenance, production optimization and supply chain management."
-    publishedDateTime: 2020-12-16T12:57:00Z
-    webUrl: "https://www.worldoil.com/news/2020/12/16/shell-and-equinor-develop-smart-inventory-management-system-with-microsoft-azure"
-    type: article
-    provider:
-      name: World Oil
-      domain: worldoil.com
-    quality: 49
-    images:
-      - url: "https://www.worldoil.com/media/11228/schlumberger-google-cloud-ai.png"
-        width: 782
-        height: 530
-        isCached: true
 
 secured: "vTz4rKKykfm/nu1RKO/xShXOUlOGLLMlhqtnl21q6tPh+AkX+5nXzj60vhXVwBuabiCteyXdbtJ4NaFVd9+pjyx8oGlNybaSdHneBaNjQF3Gmt6zbbkutXzYQg8zI1FSH9C+IRT3HipS0phyS0jzJuzitpOXWPzA+IJhrkiB1GmiJua2dvox77RP2AtCAqdDAOVxx0lOms3BdGO44LiOcemngonVfclKk4NtLD8Dp1K9+DyWhmWOyqL6apmtN3eMtV2uU2iAgi5daiwZc2hEuaUQMSVtyrkK+yVQCIrUcyL7/KKcLAw8xZ6fWhgT0tDYFbhN63xzkBQmEOR8Emue86+HU5DSNStp3/vY8hgpdKdNhUBuafx0LGy/nOilggqOTs2UNWO66yi0ZgLFzcETD8FPf0xEbzUSLjMyzfxGn6Fbs/1a6XTwbO+O6zoUruG1aBhNmVhSqmOFVhfPTJ0JOa0WnoRzh8JQr5j8iT6O57RZ0k9lMJ+LmMhJJVHv44ES0CEe13zZNdynb6eYSnAKYA==;mUOcetjWQLBw+hPM2iK6aQ=="
 ---

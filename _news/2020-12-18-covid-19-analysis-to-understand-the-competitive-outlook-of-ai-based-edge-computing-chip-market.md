@@ -43,22 +43,6 @@ related:
         width: 960
         height: 601
         isCached: true
-  - title: "Financial regulators increase AI engagement amidst COVID pandemic"
-    excerpt: "Living up to its nation’s reputation as a hub for fintech and innovation ... Gartner reporting that a quarter of IT professionals upped levels of investment in AI in light of COVID-19, with 75% expressing intentions to commence new AI projects in ..."
-    publishedDateTime: 2020-12-16T12:39:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Puma, PVH Corp. on AI and Forecasting, Merchandising in the COVID-19 Era"
     excerpt: "AI has found its place as a critical tool, particularly for companies managing a fleet of stores. That’s certainly the case for Puma and PVH Corp., which have both come to rely on the technology in the critical months of the coronavirus pandemic."
     publishedDateTime: 2020-12-16T15:35:00Z

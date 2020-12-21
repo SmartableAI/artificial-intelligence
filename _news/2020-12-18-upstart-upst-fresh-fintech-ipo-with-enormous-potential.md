@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-wi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp"
 type: article
 quality: 54
-heat: 74
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,38 @@ topics:
   - AI
 
 related:
+  - title: "Upstart Jumps in Trading Debut for Fintech Company"
+    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
+    publishedDateTime: 2020-12-16T20:00:00Z
+    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "The frenzy behind fintech"
+    excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
+    publishedDateTime: 2020-12-20T21:46:00Z
+    webUrl: "https://www.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    ampWebUrl: "https://amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
     excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
     publishedDateTime: 2020-12-17T03:31:00Z
@@ -43,6 +75,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
+    publishedDateTime: 2020-12-18T10:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "GvLXHS2Q1KPmdFJsxnQ7XYUudhot5QIzNlLiHP+Ez7gFVn+EuySUXzCkYp7rLgyAktN6wRKe6MhzK3GMT00GF+YzdCPx5vZYUYYCU0MrBYl0tpLr1QeAUe49iuPS0RzrIopqmBvs0+Ut5QXiOg9To2QBzPf0/NX2iUdDtYWCrLILgCWpYltoxiynzdt8zZmTKY8qDOpgyjqDD4EhV9Hhj3lq1dKOk5nmEWMXgjtiaowxGjBvHjCxLHpHcSSmhBhPgXfO56En3JownnjZ/7+f1te8XiutWPA84mXAb+BUdK/E/zfZKiOf52HvxyWy21hE8ueM8EVHTH09W8UGX3OjphW5BL0jLOx8d6brZPH7ymg=;Zcb/nChPnFKLa0w65njISw=="
 ---

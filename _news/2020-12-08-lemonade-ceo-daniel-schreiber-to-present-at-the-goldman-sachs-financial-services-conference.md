@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference"
-excerpt: "Lemonade’s CFO Tim Bixby to present at the Barclays Global Technology, Media and Telecommunications Conference Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U."
-publishedDateTime: 2020-12-07T16:44:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
-webUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
+excerpt: "Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U.S. Financial Services Conference on Wednesday, December 9, 2020. The presentation is expected to begin at approximately 9:20 am ET."
+publishedDateTime: 2020-12-07T22:44:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/lifestyle-technology-business-north-america-personal-insurance-dc84f464b8984fe1a8adb8de935f06d6"
+webUrl: "https://apnews.com/press-release/business-wire/lifestyle-technology-business-north-america-personal-insurance-dc84f464b8984fe1a8adb8de935f06d6"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "s3qLc3ZDVIDr+WbfoEsq6ce2siaLA9IuF+Gt/Cp/DD0LE/elZzwfAT+futtm30PPcSwKxIT0ekA/Z4OT59Z4GcLEdOZlf2W3yLjCk6WnhOFcYiM/7bKQx+EvNzF9h6SilXm3SErKJv3fx1pEl9WxILWmbIkDfIoWvqF1iM3WY+QQxnrjMpq0bbB4Uxk1YrHHkj6vPpOOZi4RX7feG/ANE64Wdet0lTRtPHAjBXYqc96D5rtJ3JXW6ZeCFrmLROaMQCP7ycfOFqaBzNIsHe5jVPX9JkAKZNiBX0deD96ld9cyy3GFl+zTy6opI1Zw7mDt7tSmo+uZZJ3iUP6wLkkR70KlZvV8jp0fawASddoaXhY=;Wgn4vCiuIgGe+Eb6hmNLZA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "wK1iQfzIGPWgB4OB1t1YWCTNYlVZPdCPL02i/rE6AjjsXZrLru2W+Q0ESrJdrlShILj+M2GAeZmfihYq28SY8M++hQBD/83980OjStraiLV39GRIssfI69xcKBrOcewZbmICo+Rr5wEWpc8WLMl9q1sblHiiY85MNDDR31Z4xVlVANzVttYC7+/LkSyHStqEnmM40eDYHH8AUixqUuCQyGpplWzYE7Da6G+RKoV8ZEbefmj/oO4SvoHfcJQt5gTHdHywzC+OILmTb8tpeOXnoPbtO6S5vEK6mydsHPfG+VAQAvdOFLuIu+snILF0T9IUJzfA60VnstY5u6rt3CShOsIVQONAAyDdCkpxMiK4v04=;Ktp2SXo4mYDqt2KVD4fboA=="
 ---
 

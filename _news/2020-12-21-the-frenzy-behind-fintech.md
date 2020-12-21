@@ -27,29 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
-    publishedDateTime: 2020-12-17T15:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+  - title: "Upstart (UPST): Fresh Fintech IPO With Enormous Potential"
+    excerpt: "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering."
+    publishedDateTime: 2020-12-18T03:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "Upstart Jumps in Trading Debut for Fintech Company"
     excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
     publishedDateTime: 2020-12-16T20:00:00Z
@@ -66,22 +54,28 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
-    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
-    publishedDateTime: 2020-12-18T03:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
+    excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
+    publishedDateTime: 2020-12-17T03:31:00Z
+    webUrl: "https://www.law360.com/california/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
+    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
+    publishedDateTime: 2020-12-17T23:54:00Z
+    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
   - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
     excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
     publishedDateTime: 2020-12-18T10:10:00Z

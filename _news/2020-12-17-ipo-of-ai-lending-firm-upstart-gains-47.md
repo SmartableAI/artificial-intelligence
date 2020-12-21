@@ -34,7 +34,7 @@ related:
     provider:
       name: American Banker
       domain: americanbanker.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://arizent.brightspotcdn.com/dims4/default/8916725/2147483647/strip/true/crop/2586x1358+0+123/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F93%2Fef%2Ff8aa5e934a75bb6a289b0d118987%2Fdave-girouard.jpeg"
         width: 1200

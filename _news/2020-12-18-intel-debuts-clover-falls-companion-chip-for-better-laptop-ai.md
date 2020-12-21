@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-co
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Intel_Unveils_Clover_Falls_Energy_Efficient_AI_Coprocessor_For_Laptops.jpg"
         width: 557
         height: 421
-        isCached: true
-  - title: "Why Intel’s share price is chipping into artificial intelligence"
-    excerpt: "Intel’s [INTC] share price has been chipped away in 2020, falling 16.7% to 15 December, even as the PHLX Semiconductor Index [SOX] has risen 47%. The coronavirus pandemic, which has driven a rally for most technology stocks,"
-    publishedDateTime: 2020-12-16T11:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en/opto/why-intels-share-price-is-chipping-into-artificial-intelligence"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.cmcmarkets.com/images/Intel1612_medium.jpg"
-        width: 768
-        height: 576
         isCached: true
   - title: "Intel Reveals Visual Sensing Controller Chip For Smarter Laptops"
     excerpt: "Intel introduced the Visual Sensing Controller, code-named Clover Falls, as a new component it will use for Intel Evo-verified premium laptops."

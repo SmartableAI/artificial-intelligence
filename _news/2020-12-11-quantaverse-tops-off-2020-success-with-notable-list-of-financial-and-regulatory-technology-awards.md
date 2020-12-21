@@ -1,12 +1,12 @@
 ---
 category: news
 title: "QuantaVerse Tops Off 2020 Success with Notable List of Financial and Regulatory Technology Awards"
-excerpt: "QuantaVerse is Recognized by Two Coveted Industry Awards and Grabs a Spot on the Prestigious RegTech 100 List WAYNE, Pa. (PRWEB) QuantaVerse, which uses AI"
+excerpt: "QuantaVerse, which uses AI and machine learning to automate financial crime identification and investigations, was"
 publishedDateTime: 2020-12-11T01:08:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18743716"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18743716"
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18743694/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18743694/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18743694"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18743694"
 type: article
 
 provider:
@@ -17,6 +17,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "pCj9ug7xl1J5MTPTdJ7UtDLnGmd68OYEaeFDUR+kEMS8Eif5K/DlGNikesUmoOclik+CqjgPQVDW9oQsIvtqqVAOk1kW1f57GwxjLajL5RXMKgJpDkF4BYEpWkMo99Fy2G58YqOKlMlNfLJEGyn8b4VzsfptrymDc8pPT3pqC9QHOEHf6RiLwGElg//5dO3ffUCbUf4Zl73kv/Ga9ekNKM3fxP6d9qLQALVVMGIZ6IXVrauye2b7SYsO89bWYDguqJ8emdMbbkXK/Q1Ru9QZLuEdIUdjBWk6JlPPMAgAOPIubKk9etoy81mLR+tNXm8fRfw4PAU6EXJL7XYDOiU/h8H6VK055nNxMiF7kTm9ER0=;V3Dvpl5k5G72nZbERmqdEA=="
+secured: "YJGHZXSxj5Wg2tE47HcjKDqYQdi0tFd12w9KkE4YhJUnkEVWlVTyk89znzM0qgDUZ8zROGYRag/O4YZQ73O4YDh/5huxmJ7T+eppEZbTytdRGEU72s7PWYWdM5h/+62Y5qmwpuhj1zwoddK6uRNHaHiiMNVGQK6/ZLAQJLHXJov1/wK2q9d85VQiAladlXhirCaUsr9keM3kUd6HvG++TFpWdu/YIJAB5KFhoJ0AkDtonN51+T+d0vLALE5jwzMdTANSG75cpaKDab5ywu1nKNheORgtUUvFu0+VimnuGMrzhJGjVuugYnFTKzJArIIKq+jvIDUXWZXvyjnBa59A1EnWy5ZRxCDBv5eFnPWeJik=;MgvohkTNM6cVDsEZV2gmlg=="
 ---
 

@@ -103,20 +103,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
-  - title: "Shell and Equinor develop smart inventory management system with Microsoft Azure"
-    excerpt: "The collaboration is the first of a series of planned co-innovation initiatives across the wider energy value chain, including themes such as maintenance, production optimization and supply chain management."
-    publishedDateTime: 2020-12-16T12:57:00Z
-    webUrl: "https://www.worldoil.com/news/2020/12/16/shell-and-equinor-develop-smart-inventory-management-system-with-microsoft-azure"
-    type: article
-    provider:
-      name: World Oil
-      domain: worldoil.com
-    quality: 49
-    images:
-      - url: "https://www.worldoil.com/media/11228/schlumberger-google-cloud-ai.png"
-        width: 782
-        height: 530
-        isCached: true
 
 secured: "Ho3C+wAmgpPKyd+U3jZKVkUranT6nava0tKGUa6BLiUaAsR8UNiZbpwmWArJ1LtuygOmQoAfK8iKVTYYbPk+Ss6LIKZ/qN8fXwTBTNkfJ/3IC93zBE0Vnndj065rQnCybhteAtcuzdPm37GDV+V07gDfhxzlnsd1q82xp8FEaFaTHFP+wI0B2en0OHjND66yq+eFF39K90kp5PrXpgaXGOUsDXWgbErujWNXCyfasqzPjg39QWyL1qUsSvaIliBisc7e84wUFwLDDDdRJqx/CnXGZSykkrWWmRhq0gBxOfX/YZmR/aJNXbYz4fcHt9pMw8KrD9Ptd/dG3NjjRkldM821zHhazgf/BajjdUmrXCeVipXDbxHIjO2WllgmDH1j4tUT3DJkBsseQvClyAffOjGSavNZH8lQlsQ4EGjaeRrxkOIGBiNbRVzmUPI4Hd1pw53ObuQKfkclsH4y5rDBqTWnfQATjUTJSuHyWNwrqDEyJmPaFVTE9nr/UEwe3OH3BmmgHVEkdAb6nHxXmNZZhQ==;ixTa7+3Oxg7Z7C1Nhvsk8w=="
 ---

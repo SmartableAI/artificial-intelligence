@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving in hacked AR view looks fascinating, and more"
-    excerpt: "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!"
-    publishedDateTime: 2020-12-16T12:11:00Z
-    webUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/"
-    ampWebUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 89
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
   - title: "Tesla Full Self-Driving subscription coming really soon"
     excerpt: "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ..."
     publishedDateTime: 2020-12-21T02:17:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg"
         width: 1680
         height: 944
+        isCached: true
+  - title: "Tesla full self-driving manages San Francisco's famously curvy Lombard Street"
+    excerpt: "Tesla released an early version of its full self-driving mode (known as FSD) for a small, select group of Tesla drivers with the advanced driving system, Autopilot, already loaded onto their cars.  One prominent Tesla vlogger known as Tesla Raj put the autonomous driving mode (it's not fully autonomous,"
+    publishedDateTime: 2020-12-20T19:22:00Z
+    webUrl: "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement/"
+    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 86
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F12%252F20%252Ff9%252F0772d5a7260a472fb8a7ec27be9ff5e7.7de80.png%252F1200x630.png?signature=BBg862TYMYO2EVeBGN_FEiagGoc="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla is going to release Full Self-Driving monthly subscription in early 2021"
     excerpt: "Elon Musk has confirmed that Tesla plans to release its Full Self-Driving software package as a monthly subscription service as soon as “early 2021”. Be ready for a surprisingly high price. Earlier this year,"
@@ -92,6 +92,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4gAqatTGKLt+Fkls1bQPzyMyti4SwHz6DNPsypXdkvJQCiDwalh5PfTMCEXg+hEwiKZhHS3TqbUzLSoIFH1eBfOxshc6ZTPn21/6llSfL5cg8SZ4l++beeDwwOlh0+4LtOyl3A4aXXkQm/4fJNGZX6erdJ3GyzeKtlBHT+1LpQpEi2aSzM/4SPcbCSJcW3IQZ4VQa5c8oPLDpvab9hXjj3o2YWQtB1Gsc0bzn3onImxTK59YDA7vTAFebekPNo3ab/FFi1GotUxj7sNBepLCpBnb9MFgQ+Fx89+/FwbK2N7tbokZxy21WkoG/fsuAzAcaxoiKtakb8MQ2k7Mipu5/KqEKlalGxy+RI8maLKi3os=;QQiK/j6WGtEjakfbl2vI7w=="
+secured: "VVVbQNecTc3mDSH4wusMWGFOaLQij0MtuJys25YaOXii4xSISy8na6j4gdMtLzF1pj5tkUyT31OJMBP738GgZsxYw8Yl5yMrZb/Uh6fYfxi0//fm9rvoBrJR+BQaAd701dKpt8D1uIiUa5EbFoIDph4tZNEmZeJx1QoxmmIF6ZLjbE+vD5XSLgxANvxTSzr4wnqxFwGhI2dUG2sia2CoOXt8V8RR3tJzJT3ROJ+Di0bqBT0IgGvvxn4Nub3LoE+oaJBFHUOzKE4BziqgApzB2AS1T3mPKwif1xOpBUzZR4Wh2lIThwpKuVk5uUWFTDsq3b0mQOQbX9jGWAXaycgjRh+e0Yh6uXObCuNLY/vWrKvyCkmihV2ZqBcHuYtOWNb28RqGq+QGtMYiIccw7ZRJFNURQkRBHxdfpB95fddTtongnDR4WR5hGQPL9sSyd1po1W3TCD8fNeqws0PARZcgQvUynCUcPT0k/U9YD0bgsRwdiezs4ibLmdqsn/2ts4XUBrpQtt/kTcEcE25NoFg0Nw==;4IoH1bR8GALTgE4XUKXppA=="
 ---
 

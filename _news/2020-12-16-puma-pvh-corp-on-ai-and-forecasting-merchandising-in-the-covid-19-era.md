@@ -56,22 +56,6 @@ related:
         width: 687
         height: 384
         isCached: true
-  - title: "Financial regulators increase AI engagement amidst COVID pandemic"
-    excerpt: "Living up to its nation’s reputation as a hub for fintech and innovation ... Gartner reporting that a quarter of IT professionals upped levels of investment in AI in light of COVID-19, with 75% expressing intentions to commence new AI projects in ..."
-    publishedDateTime: 2020-12-16T12:39:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
-        width: 640
-        height: 428
-        isCached: true
 
 secured: "/fWYyGc1ma/wBbzRzw36cl4vzOUcnTwrhGP5uH20VtvwVoK15BgxL6dwWzoJK60C4GesujJlQx+08LzDShqMwKNv8MI8gktEUkoQmDyFa3UgP+H9JwcMkc3gdjcNlXYqtrxQ58L1Zom4WHu039s6sBWXOBMSeaLuIGx7cn66DCBU2k9mZMX8rBvAoGxl8v/mQKDu1I326zvkftYGirbUEChaNPknrcDReK1+b1FEEBkA1yiqs6xanoyT7YY74NyghVvNybfm6LcE6hGt5TSb+Pce+SAoeX7p7I7A+n2cqG6mAZ37GA2eI1DhGUy3UD2VnN2MdL5zHkz2NGsR00Hbi929aNVW2d4VR/pKLJrH0u0=;Q1dohsK8SqcXzDnEUbYMMA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "RunwayML raises $8.5 million for its AI-powered media creation tools – Jaweb"
-    excerpt: "RunwayML, a Brooklyn-based startup building a library of AI-powered tools for designers, artists, and other creators, has raised $8.5 million in venture capital. The company says the funds will be used to accelerate its go-to-market efforts as looks to increase the size of its product development teams."
-    publishedDateTime: 2020-12-16T11:45:00Z
-    webUrl: "https://elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-powered-media-creation-tools-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-powered-media-creation-tools-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-powered-media-creation-tools-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 54
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/RunwayML-raises-8.5-million-for-its-AI-powered-media-creation-tools.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Computer Vision Technology Company Iris Automation Raises $13 Million"
     excerpt: "Iris Automation recently announced that it closed $13 million in Series B funding. Launched in 2015, Iris Automation is a computer vision technology company pioneering the development of advanced detection systems used to help provide Detect-and-Avoid (DAA ..."
     publishedDateTime: 2020-12-20T10:34:00Z

@@ -79,36 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook is reportedly building a tool called 'TLDR' that will read and summarize news articles for you"
-    excerpt: "A leading-edge research firm focused on digital transformation ... an acronym commonly used online), the publication reported. TLDR will be an AI-assistant tool, which will automatically generate bullet-point summaries of articles. Schroepfer said the ..."
-    publishedDateTime: 2020-12-16T13:00:00Z
-    webUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/5fd9fbdb6524f100197924c9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Facebook Developing AI Tool To Read Minds, Summarize Articles: Report"
-    excerpt: "American technology conglomerate Facebook told its employees that it is developing a mind-reading Artificial intelligence tool to summarise news articles."
-    publishedDateTime: 2020-12-16T11:49:00Z
-    webUrl: "https://www.republicworld.com/technology-news/social-media-news/facebook-developing-ai-tool-to-read-minds-summarize-articles-report.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 39
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/64rzwwljfyn9ipfw_1608118128.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
   - title: "Researchers Use AI Trained On Facebook Data To Detect Signs Of Mental Illness"
     excerpt: "A group of researchers has recently published a study in Nature, detailing their attempts to use Facebook data to identify possible psychiatric illnesses.  As reported by Wired, the researchers were able to construct an AI model that can successfully predict a diagnosis of a mental illness based on messages sent up to 18 before the"
     publishedDateTime: 2020-12-18T00:00:00Z

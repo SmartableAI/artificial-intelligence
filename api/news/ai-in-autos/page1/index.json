@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-21-tesla-full-self-driving-manages-san-franciscos-famously-curvy-lombard-street.md",
-      "title": "Tesla full self-driving manages San Francisco's famously curvy Lombard Street",
-      "excerpt": "Tesla released an early version of its full self-driving mode (known as FSD) for a small, select group of Tesla drivers with the advanced driving system, Autopilot, already loaded onto their cars.  One prominent Tesla vlogger known as Tesla Raj put the autonomous driving mode (it's not fully autonomous,",
+      "path": "_news/2020-12-21-tesla-full-self-driving-subscription-coming-really-soon.md",
+      "title": "Tesla Full Self-Driving subscription coming really soon",
+      "excerpt": "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ...",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement/",
-      "originalUrl": "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement/",
+      "webUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
+      "originalUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://mondrian.mashable.com/2020%252F12%252F20%252Ff9%252F0772d5a7260a472fb8a7ec27be9ff5e7.7de80.png%252F1200x630.png?signature=BBg862TYMYO2EVeBGN_FEiagGoc=",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg",
+          "width": 1680,
+          "height": 944,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp",
-      "publishedDateTime": "2020-12-20T11:22:00-08:00",
+      "ampWebUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
+      "publishedDateTime": "2020-12-20T18:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
