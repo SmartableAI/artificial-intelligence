@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Steady Rise of Robots in the Workplace"
-    excerpt: "A look into how robotic innovations are bringing more robots into the workplace. Current trends point to a future with humans and robots working side by side. (Image courtesy of PILZ.) In 1961, General Motors installed Unimate,"
-    publishedDateTime: 2020-12-16T10:17:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20870/The-Steady-Rise-of-Robots-in-the-Workplace.aspx"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 39
-    images:
-      - url: "http://www.engineering.com/portals/0/BlogFiles/ima7.png"
-        width: 640
-        height: 510
-        isCached: true
 
 secured: "9IvowkdK7YJh0gIZz6622gwu+gNW0riyeT8ML/pRG6GznpZM74BK1cyUJK6yzrHLMD9hHzLNc7xb3w5NkqdzbJhTIuz+9CCvXvOG/k+WNXcd1uy7fs1+OE+YX8JD/3zqN+7DFnx/20SeraDEMZizxm8eVXtegiYkqnYy4oCAdU26DzUJ59DqR20SCCHze8DyVRQveOWqsH9iHCvNEnGOhBcmogzqAUtfnK2mC1jcAWzVru4i/lm+HfKx8x3mkHlX3jYXJJQbLyTiEletZuWFRP2uPVGSLfX975/UHDC28fNWkD/EYCvGtGmjLxrTGQAMGTSK1yVsHH1JnJ2REcoDorILjb/GuI3BZN97BO8A/DnITdv8von0mw9BA2VXom5DvG9JNT62Xcsx5u6zJW79IfNgM3+GbN6sMgeyl8Bdz2wkTZJqYsy/YqFkmIhGQwMzkcOqzgqrpmR4AAvrVkVcwZ12/eRnTkPInj3Ct8746fZPJJPwhi8J35gB/8IpnvLHdITaKxV9YWOIIMjrQS6DZA==;X/4ED6L5XDteCgiJyym5/Q=="
 ---

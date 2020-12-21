@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-and-r
 webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17134426/55618829_ml.jpg"
         width: 1937
         height: 969
-        isCached: true
-  - title: "The Steady Rise of Robots in the Workplace"
-    excerpt: "A look into how robotic innovations are bringing more robots into the workplace. Current trends point to a future with humans and robots working side by side. (Image courtesy of PILZ.) In 1961, General Motors installed Unimate,"
-    publishedDateTime: 2020-12-16T10:17:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20870/The-Steady-Rise-of-Robots-in-the-Workplace.aspx"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 39
-    images:
-      - url: "http://www.engineering.com/portals/0/BlogFiles/ima7.png"
-        width: 640
-        height: 510
         isCached: true
 
 secured: "ZHu+AU9FdMvWSYH8I5S2hKr2X9czFx2vcR22YNc/62+OSYQkgU+CBvC/620jQYPEVdFjScVYP9X+UW1uODxGky+uJJ1tKHTY9x/LisMqP7qR5uHvHjLZA+1rXxuZCCbSDUJZDZ+2VyyIC+Eg8mPPgxcSeIQhURb5z1mWgcZVH2qSRQ7gxruPYbFFEpoefjgxMUuIZP5zAigQ5i8J8oRBrl3iAFAoICkqnKYF6Cbu1seuobLflvF0LeUej1bpQP6d6lo4kNLEQyAgZKFwv8SYtqpx4c9a5Cvbk4RAHA5behgJGJ9kjxfoIpoLqMua5PHiYMcPBCfH1+ogZgf4FVb86t/xJdk40WHrYjyYYIe49OwLbWZFYVJTvgd1ZIF9wm9Wi7uI/0wYKa8Q5yWwex5xunZodOJ7F4IdzKtdbRKKjopbLgVaU7V66v02nZKeJwp0N5uDJkYdkm7UdzteXWBylckjPSxpud28fvxqT5QytR5gr14c0jYA/rekLo8VglLIps3Hr8wO6zIbM897JMfCHA==;DoQprqYBbCLDdrwatT5jPw=="

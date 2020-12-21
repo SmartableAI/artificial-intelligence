@@ -82,20 +82,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
-  - title: "Natural Language Processing Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis"
-    excerpt: "Kenneth Research has published a detailed report on Natural Language Processing Market which has been categorized by"
-    publishedDateTime: 2020-12-16T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
     excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
     publishedDateTime: 2020-12-16T13:11:00Z
@@ -219,20 +205,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
-    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
-    publishedDateTime: 2020-12-16T10:57:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-middle-east-new-products-and-services-bc14fb233d51c3321049125c2293fc7c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

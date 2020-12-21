@@ -3,8 +3,8 @@ category: news
 title: "RETINA-AI Health, Inc. Welcomes Nwamaka Imasogie as Chief Product Officer"
 excerpt: "AI Health, Inc. as Chief Product Officer. She joins from Microsoft’s Healthcare AI and Research team where she was Principal Software Engineer. Nwamaka has a passion for healthcare and is driven to build technology that will save lives."
 publishedDateTime: 2020-12-07T11:04:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c/gallery/24e5f27442b06254c4a98c0a7f3f2a55"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c/gallery/24e5f27442b06254c4a98c0a7f3f2a55"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "QJYOEOHG7T6Pt61LXg8UilAf8NHSeo1BC3zgfIgfuTeKa0ZuLW8sK+xlO94wmwaCO5+Iikjkxlox2d/NCXD97z/JxJD/5xclce+YzNQx+yzVhVJhT4LqIEiB09kmkxhog1U8/Gf6zbCSf3E7D8Ryu2UPAQau8Dh/B+DSZxyeteEV9XHKKcru0aIESSBE9b79gegXjMpyd3EHvFf/rfT7/+gXmIXwgFC/8tXVF9S3e5l1eEXw7uqevC75AvuXxxUOMg62aqrsQhv+93rUzAfQxdJQi6zrHZDLe34KCi/gk4zInJ1aUl49q7rK8kODaYsg8cpmnd6mGHFYa21icll8Kh2/2bSTVGIGL6mR+hv2Xes=;PpocMipk2O1swwP0YellpQ=="
+secured: "hOWjvEPfE7ZG2Xat7Xhss3QfdJoheX4UU6pqtak2DJuQxVNHTWSLknzsTACpWT6ZuwVuZlZ25YGZRGHMshkmR1e5OgmpvrmnGoPRcft3VWLlLbxXFEHPb2Uk8k1q49KzsuYlyXLhtwvLg7LzD2fbS9jCquC+kCAthVT12WA2HtdibE7auNgnmhf5PwoUf9czDV18b6rKwdG3Og9x+OLVF9Y6/bGLxmjWUvb4IVS+/yuQBrJuTC5d0eHAI42fU33qavXdSMTIX3XUs1HB1JWX18h52tcQ1I2475S73+eJsB8FdLVjsTfNsHwzaBhDALcQEiFoBkofDOR7FjfHM5qxyi2ujvJNzjR7BioH5S78itE=;hIeJPTw2/1gLcctln52KjA=="
 ---
 

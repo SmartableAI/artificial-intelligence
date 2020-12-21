@@ -40,6 +40,20 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Tasman Keith: “I’m better than a lot of MCs in Australia getting more recognition”"
+    excerpt: "Bowraville rapper Tasman Keith has dropped his debut mixtape ‘To Whom It May Concern’ – and his sights are firmly set on global superstardom"
+    publishedDateTime: 2020-12-21T02:41:00Z
+    webUrl: "https://www.nme.com/en_au/features/tasman-keith-to-whom-it-may-concern-mixtape-interview-2020-2843172"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 18
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/12/Tasman-Keith-by-Snappatronik@2000x1270.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Brown County translation tech company acquired by Australian business"
     excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."
     publishedDateTime: 2020-12-17T18:29:00Z

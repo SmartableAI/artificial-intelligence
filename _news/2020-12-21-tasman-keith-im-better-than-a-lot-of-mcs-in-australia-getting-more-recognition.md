@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Brown County translation tech company acquired by Australian business"
-excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."
-publishedDateTime: 2020-12-17T18:29:00Z
-originalUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2020/12/17/brown-county-tech-company-acquired-by.html"
-webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2020/12/17/brown-county-tech-company-acquired-by.html"
+title: "Tasman Keith: “I’m better than a lot of MCs in Australia getting more recognition”"
+excerpt: "Bowraville rapper Tasman Keith has dropped his debut mixtape ‘To Whom It May Concern’ – and his sights are firmly set on global superstardom"
+publishedDateTime: 2020-12-21T02:41:00Z
+originalUrl: "https://www.nme.com/en_au/features/tasman-keith-to-whom-it-may-concern-mixtape-interview-2020-2843172"
+webUrl: "https://www.nme.com/en_au/features/tasman-keith-to-whom-it-may-concern-mixtape-interview-2020-2843172"
 type: article
-quality: 4
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: NME
+  domain: nme.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.nme.com/wp-content/uploads/2020/12/Tasman-Keith-by-Snappatronik@2000x1270.jpg"
+    width: 2000
+    height: 1270
+    isCached: true
 
 related:
   - title: "AusKidTalk database of Australian children's speech aims to improve voice recognition software"
@@ -49,21 +55,16 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tasman Keith: “I’m better than a lot of MCs in Australia getting more recognition”"
-    excerpt: "Bowraville rapper Tasman Keith has dropped his debut mixtape ‘To Whom It May Concern’ – and his sights are firmly set on global superstardom"
-    publishedDateTime: 2020-12-21T02:41:00Z
-    webUrl: "https://www.nme.com/en_au/features/tasman-keith-to-whom-it-may-concern-mixtape-interview-2020-2843172"
+  - title: "Brown County translation tech company acquired by Australian business"
+    excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."
+    publishedDateTime: 2020-12-17T18:29:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2020/12/17/brown-county-tech-company-acquired-by.html"
     type: article
     provider:
-      name: NME
-      domain: nme.com
-    quality: 18
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/12/Tasman-Keith-by-Snappatronik@2000x1270.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
-secured: "g9sb88T3APWbYaa3R7F8FcyamU0w4kW16ZeIH0XhH7lwW7pYjYxXwMZ5PGTxm2NxaIzA+zFAglwKQbDC1Gwc7TT26WKRjDMVlYenQzMS6EgAstPu/Or3dfQM3llsffgoX58iiaGnRncHaZgpujdCY8PAAmkbtOPPRcDZGy6lYFetIYrFqACyucQkfUjgREn7nWMGgaVwmA1bM2IjBqDtXZT7okueA7BLJn0AEUbelE3rqUTJaKyIl42hVNM6lLNt97/t7ZgjUMz6RKSZZIweekMIKbNVxL3h+U9OPJnA4U1d3J63SxEfq6HjkLd5OTIaFpHz07jjh8IiDN3icN9kn6A8DqFeYRDS3xjH6dwevkSdnqdqjBZaPVtVejZyCjlmMyymSbvKEmKTy/AXDj1DL8mai+F6fZTZHVtE07eK2ks9oiorAoWpWx2/GcmR091Bzzns8bV1z2Wqyg0pE5uHSIYxiWfoy3xRgseXyjwlJ5avVohm4V5G5Ywae+GgUA7CsO71o/AJj60O9f+oo4Kayw==;2msj1pfMp5wtSufX4MrjdA=="
+secured: "7zrJFzIe2sz9mhHSzPKyUhZtNBCIzZfKsF3+2BA7+ql+9DmqcX5Ht/NSws/ziOpV/wLbqB8h9eV6ViLlNCdmi4TBM+HDKyD2zOmZNw5Hm9xtqfYiT06BNIUB2dOhvclvc9PE5PE4bdZr2UxVLe35TqaOyJNo+Vv7rcNuUYXIshcZl+XXHjQ3hzioxmWrwSEFMOAzThUgy5H1h9LJ+S7zCXM49tY6YzV24nWxtmIhfGklKfasP95aN0KVfXl6y0c4z+ipcpZ+S4OzsAjHXBvjsP+T6SjIVz7M6dzx02idV9JA4UmCbqnvcGvro9s2Cm5juBWYEKgySzbN3Vm5cEMJRqdiEwEk252kTuIcO6JRaaw=;erzrnyP4nzptTvMrEjZFTg=="
 ---
 

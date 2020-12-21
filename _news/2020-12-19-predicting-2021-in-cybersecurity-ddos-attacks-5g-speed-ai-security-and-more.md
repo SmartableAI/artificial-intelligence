@@ -3,10 +3,10 @@ category: news
 title: "Predicting 2021 in cybersecurity: DDoS attacks, 5G speed, AI security, and more"
 excerpt: "Talk here about some predictions for 2021 as we round out, fortunately, this year 2020. Let's start with 5G. Of course, we're moving now from that hype phase to reality, and we're starting to see 5G inching its way in a little bit more."
 publishedDateTime: 2020-12-18T18:56:00Z
-originalUrl: "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
-webUrl: "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
 type: article
 quality: 100
 heat: -1
@@ -115,6 +115,6 @@ related:
       domain: businesswire.com
     quality: 5
 
-secured: "qAB0+CYvWQyvsM9ee78QHrwGWpPnOSV6kPvy8p5ySTMRoARvqyXKj/G6hcNtMhzljZIk6KSAQHWzKTicSLWLMOaYoNTJcIASch9m9MvsK9QZBjVcZza2D2VSFREcttQnOOTw8DQ7ziZ954/sHruq4IbggrXHo1TvFbW8kFA4vC1JX7NZHZT2LTR/YKEQHyM0+iUnJipV5SJtrBzzyYC7bx2iFWNL84HMS0GcADgPARGQh4LPQGQIUM7wVX2vlg7iKlWFdgH0wK6g/pZCFfLoSLtY1348vK1vdk5w6ZFhOJlNfyPje5HJjcrEvnF8okLvsuwgmRTyOdGRq+hhPEIH6wxWMn+I8KGQM6uVAMUp9H4=;eMQh4aAUNzKaiTAqBp5YPQ=="
+secured: "+OI+dIRRldx+Vx47aF2YcaJYQVEBsW/g/TC9HMmpwH8TnkpnOQkoFgncx+HGPbchAVpTCbyiR40fk3qHYt/VaqOSXtfvEjSmfZel9eGmtCltl6L5sVAFiwwJAJvnh5uj0tYDAvmkZnACmnnZsBMMNWAt8n6xCo8VBQ3KngBTAGngn/LkPl520IMvOH+AkWE5pKW5ymt+C24T19cfyc4q4munQcoKa31llVVj2ATex2XXOVJDdF9geEV4i/hn31/BYPYQYoVcmaVK+PAKZQTLBlf39HnikY0E9/P6agZda0ZVn7QkoPC2Vdr+zAutiYeJ+t2/6G0Ip1al8XaSgZm0tIm0ml1Bz+vAyvr868OXZXg=;hjAETBRK4VKb0DirNhSTfA=="
 ---
 

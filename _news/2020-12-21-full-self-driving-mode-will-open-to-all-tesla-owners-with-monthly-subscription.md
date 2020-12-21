@@ -43,6 +43,22 @@ related:
         width: 920
         height: 470
         isCached: true
+  - title: "Tesla Full Self-Driving subscription coming really soon"
+    excerpt: "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ..."
+    publishedDateTime: 2020-12-21T02:17:00Z
+    webUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/"
+    ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg"
+        width: 1680
+        height: 944
+        isCached: true
   - title: "Tesla is going to release Full Self-Driving monthly subscription in early 2021"
     excerpt: "Elon Musk has confirmed that Tesla plans to release its Full Self-Driving software package as a monthly subscription service as soon as “early 2021”. Be ready for a surprisingly high price. Earlier this year,"
     publishedDateTime: 2020-12-20T17:57:00Z
