@@ -30,74 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Market – Forecast to 2027"
-    excerpt: "WiseGuyReports.com adds \"Global Artificial Intelligence in Healthcare Market Research Report 2020 Analysis and Forecast 2027\" reports to its database. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make ..."
-    publishedDateTime: 2020-12-17T02:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18827297"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18827297"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.abnewswire.com/uploads/1608137550.jpeg"
-        width: 278
-        height: 333
-        isCached: true
-  - title: "Computer Vision Market Size, Share 2021 Overview, Opportunities, In-Depth Analysis and Forecasts, Outlook -2023"
-    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
-    publishedDateTime: 2020-12-17T09:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-2021-overview-opportunities-in-depth-analysis-and-forecasts-outlook--2023-2020-12-17"
+  - title: "Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2020-12-21T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 75
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size Expected to Hit US$ 36250 Mn by 2026"
-    excerpt: "The Artificial Intelligence In Healthcare Market size was valued at US$ XX Mn in 2018 and is expected to grow at a compound annual growth rate (CAGR) of 51.7% for the forecast period ending 2026 reaching a Market value of US$ 36250 Mn. Artificial ..."
-    publishedDateTime: 2020-12-18T10:21:00Z
-    webUrl: "https://www.openpr.com/news/2213086/artificial-intelligence-in-healthcare-market-size-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2213086/artificial-intelligence-in-healthcare-market-size-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213086/artificial-intelligence-in-healthcare-market-size-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-  - title: "Artificial Intelligence in Diagnostics Market size is anticipated to reach healthy growth rate of more than 32.3% over the forecast period 2020-2027"
-    excerpt: "Selbyville, Delaware The report for Artificial Intelligence in Diagnostics Market offers an assiduous analysis"
-    publishedDateTime: 2020-12-17T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-size-is-anticipated-to-reach-healthy-growth-rate-of-more-than-323-over-the-forecast-period-2020-2027-2020-12-16"
+  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
+    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
+    publishedDateTime: 2020-12-18T20:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-18T16:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
+  - title: "Computer Vision Market Segmentation and Analysis by Recent Trends Development and Growth Factors by Regions Overview to 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of ..."
+    publishedDateTime: 2020-12-17T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-segmentation-and-analysis-by-recent-trends-development-and-growth-factors-by-regions-overview-to-2023-2020-12-17"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2020-12-17T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZJLPtHw0LT7zOoRvC14dRgGc/Qmjy0aXjxq0C6jiD2LGoutc4HPtehEf32lEbzICzAFs6IIB20uvU9b+tWSPW0D0k0KOnkBlFemXZ+M08VjsUgwpOtfJK+wi4hJnKyHpK99s0LSsUKTCOFjOxoS2fupJY2WLp2NTg5Z+qB70gA/iMB4WnAYd5MWge9NL77GlG3yCBwwBj66JchwQ3vJDDCYcBBSPd2eSD+hLradeX+tORTy5PEtn2XagjsNZEC72VW7e1XeDsvCcEbAy5KkE1ubXDhqLqEG3njmKSdVj0B56TKbAY0865qvbWHEIF/iS7jNTsbKXqMCyeaNr2UqbUfUl3Lf2y5VDxc8tV7PecD4=;mXwJr6/9sw7Lq9B3iQnPyQ=="

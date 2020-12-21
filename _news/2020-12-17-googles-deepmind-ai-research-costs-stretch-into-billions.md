@@ -2,9 +2,9 @@
 category: news
 title: "Google's DeepMind AI Research Costs Stretch Into Billions"
 excerpt: "(Bloomberg) — Alphabet Inc. Google waived a $1.1 billion-pound loan to DeepMind Technologies Ltd. in 2019, after the U.K.-based artificial intelligence lab continued to ramp up the scale of its ..."
-publishedDateTime: 2020-12-17T14:27:00Z
-originalUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions"
-webUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions"
+publishedDateTime: 2020-12-17T14:30:00Z
+originalUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
+webUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
 ampWebUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
 cdnAmpWebUrl: "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
 type: article
@@ -107,6 +107,6 @@ related:
         height: 330
         isCached: true
 
-secured: "lG0H3LvQTe44am/neHvAeJXSS8O5/mtUTlXMJhAfnNny3PtrlfP3iC9BmK9Y/qJj1gTqeh+v3SbgDbgina9E9WRzexDoRrUz15EqKF61W6sQsae67iA8r6qN68s4N3NsyaS0/C/+SUPqzH3HGLBw/t2mFpQclkxF/T64te3hD9UCR2qo+zaEqwJ1Vh/0u9JNpH13+oxyymwF1l6LEKVo0peK/GdXoFUxT83rdFKJheD1oNB5RPSta8xUKk5utNa1KovR0q3wC0SqwCEptacuT1b4p9UIZuKk2KzbAYOeWuZJUqI+uIR89cGCT5/EeoB9ZrpkD2EewlkddyQVGIrTqbB3jc2oODUgyxc7Cek4NnI=;rgP0zzpGkrXJ6g9+54XkcA=="
+secured: "Oe8XE/6XObZBDdZZCQZn54RcbAGHeCAR6F+FI3PjydL5Jtd8oiJSZjOwzq44iU+j1yVC2mQQnjzkfm19DWYBqygnzPYK+HmifB4VjUcOfBCgwnmB8KbyIeQXM/1RoF/TVHLlnABUyEP2BgmOFBiayUkJSVgKHWwGY4I4rNTayY5nvUNB2cGqHIkl5Q4F9WnJc8VGmGMbsgxcnOoVXzNpQc8i/Ma3pE9tJsdXVbu1UIvuSWhGHJFLejyKmGrTB5qdokBQb2vmZt7eZ5cqQlkyJGELbEuNv1ejRumYIP4AhTRzzhPGH9yKWycd3TtczWdEo305iGzwH3+VRwVXlUflVLXNBZlsf5gar7weqJziReY=;XZOrMSwaWgR+qtcUOwl4vQ=="
 ---
 

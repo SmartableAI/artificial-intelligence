@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/monitoring-in-produc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor/"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 118
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL"
-    excerpt: "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents"
-    publishedDateTime: 2020-12-16T20:05:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/Solution.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AWS Announces Amazon SageMaker Feature Store"
     excerpt: "AWS announced a new capability of SageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new SageMaker capability allows customers to create repositories that make it easier to store,"
     publishedDateTime: 2020-12-17T12:08:00Z

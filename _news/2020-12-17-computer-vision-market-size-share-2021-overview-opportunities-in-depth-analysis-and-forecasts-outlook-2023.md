@@ -45,20 +45,6 @@ related:
         width: 278
         height: 333
         isCached: true
-  - title: "Artificial Intelligence in Education Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
-    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
-    publishedDateTime: 2020-12-17T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size Expected to Hit US$ 36250 Mn by 2026"
     excerpt: "The Artificial Intelligence In Healthcare Market size was valued at US$ XX Mn in 2018 and is expected to grow at a compound annual growth rate (CAGR) of 51.7% for the forecast period ending 2026 reaching a Market value of US$ 36250 Mn. Artificial ..."
     publishedDateTime: 2020-12-18T10:21:00Z

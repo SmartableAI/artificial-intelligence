@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL"
-    excerpt: "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents"
-    publishedDateTime: 2020-12-16T20:05:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/Solution.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Monitoring in-production ML models at large scale using Amazon SageMaker Model Monitor"
     excerpt: "Machine learning (ML) models are impacting business decisions of organizations around the globe, from retail and financial services to autonomous vehicles and space exploration. For these organizations, training and deploying ML models into production is only one step towards achieving business goals."
     publishedDateTime: 2020-12-17T19:56:38Z

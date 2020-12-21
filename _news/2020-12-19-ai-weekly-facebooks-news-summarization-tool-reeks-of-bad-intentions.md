@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summariz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI tool called TLDR would summarize news articles, report says"
-    excerpt: "Facebook is building an AI assistant called TLDR that will summarize news articles into bullet points, so that you won't have to read a full story, Buzzfeed News reported Tuesday. The tool -- named for the internet acronym \"too long,"
-    publishedDateTime: 2020-12-16T20:24:00Z
-    webUrl: "https://www.cnet.com/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/6LBIHoLfC1d6SrZT8pbkWNgUr8Q=/1200x630/2020/06/19/be400064-5cda-4d1b-a382-4799d1b62378/facebook-logo-phone-laptop-3019.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Researchers Use AI Trained On Facebook Data To Detect Signs Of Mental Illness"
     excerpt: "A group of researchers has recently published a study in Nature, detailing their attempts to use Facebook data to identify possible psychiatric illnesses.  As reported by Wired, the researchers were able to construct an AI model that can successfully predict a diagnosis of a mental illness based on messages sent up to 18 before the"
     publishedDateTime: 2020-12-18T00:00:00Z

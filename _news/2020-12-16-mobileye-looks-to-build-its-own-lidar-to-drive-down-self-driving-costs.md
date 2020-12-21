@@ -3,10 +3,10 @@ category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
 excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
 publishedDateTime: 2020-12-16T04:25:00Z
-originalUrl: "https://www.reuters.com/article/intel-mobileye/update-1-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSL1N2IV21L"
-webUrl: "https://www.reuters.com/article/intel-mobileye/update-1-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSL1N2IV21L"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2I7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7"
+originalUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
+webUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "k0nt+SQwl4Lt6f+yTU8hlA0ch/p1A6aejUlQkAZYL+xRaK9uwGt3ds3ao+W7OtKrd+MtAqepiSK2AaETOtA6XN4978Kv4CRj/KDeyhpOGqVUoR8/JgFlbq1ng4YQakYlcalkJFhF4tDO6reTIi3dU2BqAhT0iJ9thwpa9f6gPemyhZ0ONd5GwY/zuzV3KoUmQnL8kSHwtJTt7mYv8BWrFdcygjNwfzr1OnFP/1FOdU53rT41abpg2TbF6TBzSd+81BICqIBdhdbWNgs+GhSnGRWEq0q85tCWq2fyYiogTzJCZg2vVbECjtr1Kh8oaZJx34y8GAMLR3NAfntg2WqHKcfZYuBD6KU9RtuQLkdhpCM=;iBj7AVmUjKWndU9U2+pa7g=="
+secured: "l+ftT5hd0Y2IHlhOu9nD0UtIjRJGbqIribVIVPN90XAXYFRJwXDSV1s7ZIqjyxafAf+UOngr5qAxEIZpKyC7QZksZvdQ33xmn3GNjN2Mqa9iDLQdHqhalIM/xS4mPoQ56b3kWpfz8RVmHheZGxB6kFYYLWMS789H6mWnyc3zsKjxNjuhmWP2kjvgtDsITdnNtl6E8tCNLrWodVABRiiODfdNT+oS7FY1dLK0SE1xslXKwRuHk8sqqaH1lVlrnhWRFb1O8jq6njmZ1K8g7LnZqxkdTdnMgM/S7YiAWH8uF0rWtpY4lWfP1x6wpZF7XlgFAjIm+PsxXv7oAT0xw3BBkwfJGFWVsi3Fy4/Srqq4k1k=;xXIiXfnATrtwJt2hHEB6ug=="
 ---
 

@@ -1,28 +1,35 @@
 ---
 category: news
-title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
+title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
 excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-publishedDateTime: 2020-12-17T06:18:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
+publishedDateTime: 2020-12-17T11:25:00Z
+originalUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
 type: article
-quality: 65
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
@@ -273,6 +280,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "LH+4sBPCSNd2z0abKNsI//Ob9giK8d1SWqFW9HyPh1cO1guNNKVLLAx2fyGVbepv53DC+IIFxiM+CZ3j8c7eIWZfPyHviPUoGrzkYRM9IP/ReIDT8l6ukCkhTgngJziwD6YPIV8DyrRx5KVyK30CPc8RKRpvUu1E5/ihJ5KsaGFbThcHJjDpQ6LjRry4t42JiopeuGcPqKZ1RtVEGsFXYrRrfyQuliR68uU+/aWuKIFxLOGc2dyqas8QQg4ggckOIq9Mr5ExEzGjxvRO/aIG4LXWreec4GVFE/CKXBlAYZNJhVadLp2J8sAplsWSlTz8AHHiIZe0zlCW+Hu+Zvyd4SXyjoqFB42LhtLnpHhyg5TeOUN8XZhyP+f4WPcyEtR2+814HwHebwogKWjW+hiTw59d7bq+KXqpUwAZhhAxvLGFIbfaDXk/0p+ckD+n3ZuaZn21opyu4sQ33zDmuldlRmOgQ7xE04LQPhrfP4rgNdjSiPG8G3bEOKXDaeLBV8JCm4TROHPIWE2YamfsSpMCVg==;KkASmS9kntn492bGSbdWew=="
+secured: "H7mcEa4jLfrMv6UCE9EekKrdbk0ZPLYG+a65eijUkNPv6SR4KIJyFu4SlPHPOzxeHysU+wrmA0sUk/GsDyTsta0bGag/OPsYaXIiqGaqdchJ3FCi4TmQWGcN8XEvCuOCiEqv+K8nfUhRl4fGD1HTANx6XFJdTd+pvAeiH6i2m99+ATIj5h56e3gXgjzej2yh0fU+IIoJU8qxpcRKtS96AIllkNzQgK3i3yXIF+1TYvRXnwYGPkTcC2viDjikz+c6A/xCEngX4ZUiINItaQ4UKNE0JI/ATHTgl3oWSo0yRN7qJkqcozxbFogaI9VLEdTlMZq42ZOYZNa8NeVLGF6dSmtzBtx+gtmWT5B95hT2Edw=;IyglRMbz6J0pd5sy2oc60A=="
 ---
 

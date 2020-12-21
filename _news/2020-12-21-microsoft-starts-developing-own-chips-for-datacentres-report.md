@@ -101,7 +101,21 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
+  - title: "Microsoft is reportedly developing its own Arm server chips"
+    excerpt: "The rapid development in recent years of artificial intelligence has also encouraged chip designers - and the cloud giants that want to dominate that area - to develop architectures more appropriate for the mathematical demands of AI. Microsoft is also ..."
+    publishedDateTime: 2020-12-21T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reportedly-developing-its-own-arm-server-chips/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 56
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "xH5Gi4PJrwXbRShxAhWIbb8NGN9BpEz6sJ4UCO01ki1nEPETC2RgFxByu1ufQ4VwcMXvg7VxSWM0Ae4p9zvMbhlGsW15qvEbmvfMBsyP0YCkcQL7md/YvJ6FHchem2P2DvGsJ6snyTmXEexACxstDG9ZLrXsnrIFyPy+8o+8N5ebMLibHF7J8DhF9+ZUY/V0gR6W2ZZHD64rC4LmfrakIqnwMua4owSj49PZqgrPQRpmZfRKBOqlaG65cN0mWMPVZ1KafUqn9ZIbRKPfiUrSBKUmQwBsNVhDPoNZyW9PbBx/zUyxdBJSTudzqaT2I6hO03mqwHLbmQN3iIWvPWfg39kCTIYGHzmW6JcgaCsN8hE=;4Ift0NkqY4giJmnaGaNrhg=="
+secured: "W7sr2t0eZF+mn2fcyekqhjzbJqthlBEqmPljY5kR7MPagbQ+rfGlQApB10WSKsFsNkKsTVvyhR+TZt7wNQyGdPUgNAVqkCt3JSFvDJBlf4HwV9sT4Mcg09xkbi8sT0FcJCg7ABwtOkbLE65vW3UxK9QgQ4zy2rSlXzSBLo2TnYKhwI7xXH01d8/QBdtyS+ywAaKpfJ2+iEYVvWVtDJOVnO0KSLwbCCVY+5D5Ei+Sx4srj8GomyAsR6wsZBYubV4ffW2ZfEPNYlhVNgTmi1QOGzRn7HwifZahgX022r0ctTT9g1NbC8HwSM60zUISGQcbl/cFPpakc8TzG3PBod9yqSP3jnHnamQocx8Dy+gJ0dNuMZ6+0/yCi9rT2tPfjMGmRe/Am5MUE9ECFSHoVPgwtZDBPz2JFJy45RQoszFGVs3sUogSf3yjYV0LYQOaghXONAF/XXfwDviYy6WXNb+FbHPNGBnK6j/QCGuz/8K14FBEgmvJil2xi0xdQ4T/6PqqMea3qLAwkoKzswQHpmFvdg==;tnSFpCp43GcsHzEYbe7POg=="
 ---
 
