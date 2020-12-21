@@ -73,6 +73,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Hoping for better laws, a facial recognition primer for Congress is published"
+    excerpt: "Mitre Corp. has published a crash course on face biometrics, putting the technology into context for federal policy makers."
+    publishedDateTime: 2020-12-21T18:15:00Z
+    webUrl: "https://www.biometricupdate.com/202012/hoping-for-better-laws-a-facial-recognition-primer-for-congress-is-published"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds-1024x536.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "aogxbnwaURh4rN3HqZPq1D4qW8DaV/9A7LOiSnGwzNIk/bCm4Az7bryKovaibxLFDgaBBY64LOanZvhXd2Q18+x9wjWQOR2qWVNu7XhZh7ZDXATGSVSfY76vvCEPpnNF9Mi/R09Nx0YNUnAh5/bePzgdrXbG0rpRKVOVEWD+EiuC8+1dL6VeS8eaZ2EwSt0IbrPZ5C/OlKSWhZ2De2V0rbK7tR8xrF95migkP8TAKYchWFAx/GkgPc1wWzpCnhQE+FLFTWFXWlvzKHqMFG6TVvbLsFh3On5sTMyz5uRg6r9WxYEBljM9WgkRfLR8SxsNL3zmUKNREfTcyRvjdbCiuI79veMo1bv+G5YFXZHIqMhjak8uJ5NCFuM+5VjM+2o93JUpGdIyl5tz8gc1JM/yqxssUvpqk1R18IGm66QfFTEpUUV1odKrrUl/MKVqxU4/vIdyk731f5YgsVX+/1AZozWDvujN8kWkYJXXV/DdqsUFD8GIacZ610FXfrj69zcKiPT2j2pZBihxbBy4RTl7TQ==;quJmYJ0gp4JdQlRLp8PN6Q=="
 ---

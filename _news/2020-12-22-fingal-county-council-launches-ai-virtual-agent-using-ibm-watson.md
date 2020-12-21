@@ -39,21 +39,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Size, Share 2021 Overview, Opportunities, In-Depth Analysis and Forecasts, Outlook -2023"
-    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
-    publishedDateTime: 2020-12-17T09:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-2021-overview-opportunities-in-depth-analysis-and-forecasts-outlook--2023-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "CM3cUvC+3gpClLAuzpMbTcHwfrEL+fGbvGLkJmq65yV4Bc/vEGONa7uPmsuOmSBp/9Cdb2W+xIB1RX8gwhoyb2Pv/Bg8c8YP88E6V9e1Z3iz6zb62PpN5LbBNPaYp2/8bEhYJAasmiSkvGI2iMA2G41Unje5wwp6cD4Uwf7lpQwIcHXmyVkSAtRCfnxWMrt97B9Nl0++kPn/cSmnX6Zvu4nzofo00/iHYVTfvsChwxa7polO/P6eWDcyzv0y7bKEimXKYJPnJgXPRlEPIq5lUlHIwUS9Y077eDZOMOigF67303h+wMAgDwL8mypKMIGPJk4pSYf/YNk8cfoqMk8U8qAEEltq8T+xYG0sB5a7E1M=;xpmsUbJX9tb+iSD9AGaQEw=="
+secured: "km4WiSFHsIas2lNpOaLbk0UGxaB0HQeeODjmeX9sRvKfys7ebpOYjalOltczuu5OJTyLhuJQAD4rBOe6eOODgSxD4iVs0rarKvmyuw0mYy6t4drVZ8Y5sWOcQUlZHJjPITh6zoE/WuZLI0DfzOUvwUt94MqvKiLTsbevk4cJ3vajDx8YK8urd6oE53vi3rFCmBbi2tJacMiCKzLTiYL8NV2AAavRKpdY5K5h/uPKf6O74AoyV7iUsrbmZlmHWSG575ie/aX5/CEexzKIaRYkuiQRYUEdgmVJlpEpcCcvJUS2TQuT0RxHEvc++VjzVASdwmgSSsIkixEObYh9AMkETth3FXk3P2t3LSrT87u3Wwgsic6rQwgEMn75dcov0BYsKxZmxkkZuYaNnZEN6c3AX8DZTA2j4XDFxaIQrYrEC2cjx5Ogel8Gq36XC0mYuBgxaiUItGHtmyUghI34G/PSujIis0PelldcG4RA4YBUFCC7IoW5+yDrRS6/Xs5tskFk8sM/mI4BbrU9dCTAompT0A==;vDxDM0uaKsVaX2YmrLvhfw=="
 ---
 

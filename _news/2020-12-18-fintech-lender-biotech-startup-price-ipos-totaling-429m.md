@@ -48,17 +48,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
-    excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
-    publishedDateTime: 2020-12-17T03:31:00Z
-    webUrl: "https://www.law360.com/california/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
-    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
     excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
     publishedDateTime: 2020-12-18T10:10:00Z

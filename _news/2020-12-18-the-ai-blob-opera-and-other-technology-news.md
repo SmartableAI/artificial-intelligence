@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/technology-55260839"
 webUrl: "https://www.bbc.com/news/av/technology-55260839"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "YLR: Artificial Intelligence and the Law"
-    excerpt: "You’ve heard a little about a future with robots, and self-driving cars – it’s closer than you think. How prepared are we, is the legal framework, to deal"
-    publishedDateTime: 2020-12-17T04:06:00Z
-    webUrl: "https://www.kalw.org/post/ylr-artificial-intelligence-and-law"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 41
-    images:
-      - url: "https://www.kalw.org/sites/kalw/files/styles/medium/public/201910/ex-machina3.jpg"
-        width: 721
-        height: 478
-        isCached: true
   - title: "AI Technology Unites Physical and Digital Banking"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2020-12-20T21:00:00Z

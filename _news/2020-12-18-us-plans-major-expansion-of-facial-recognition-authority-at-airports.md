@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-fa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.wwno.org/sites/wwno/files/styles/medium/public/202012/image_from_ios__17_.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Hoping for better laws, a facial recognition primer for Congress is published"
+    excerpt: "Mitre Corp. has published a crash course on face biometrics, putting the technology into context for federal policy makers."
+    publishedDateTime: 2020-12-21T18:15:00Z
+    webUrl: "https://www.biometricupdate.com/202012/hoping-for-better-laws-a-facial-recognition-primer-for-congress-is-published"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds-1024x536.jpg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "534mtN1a0HRKyG3FVWBRlNfkf8dK/cruYZRI31ChXeBJqDA2alYknJ5IPXR9SOD6iKVxPsXrA+FPLbU40NFSYX3ZI5Y2eRN7a/qYN69X0VhPQCwcvGPCnBev4dWmxowAoDMvruD6PVH0tZS1S0XHdieT1FKW+lpdzqilT7vOzEKqnUiNYrNtf24rMPjxs0dZmCkjEUgOkbe/zQCe6ULqBtjZotNS2arl3JNpEpJ6hhdT+wn019h2huqB5H+eWWuhjpn94l3ovRNpDlQH9/4oFyEVPgEc6/BDWZsxefDfm4ApC5pzGMva6A19YoQuiby3laKTIa8UIvHgipL8lZruNRPjy2L0vs4xerBr9Jy5aoyFWxvdD/JiCTiws6Ixf3cpI2Z4+1IjR8hmIQRUt0uevGwjVoDtAVPMxBgShOPVy2BEBBvtRmflwMz4X7bpWNA416Gd2aHttCwH3zavC1sd88ZnGCY3T2igEe3U/2VBE4xbO0/DWRwyJpKLzXow/iSiWlAFCSShCjVWUwGwhVW3lQ==;Ew6WMCx9fi6CFd7oict3rA=="
