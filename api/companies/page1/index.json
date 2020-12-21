@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6706575
+        "followers": 6707213
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3522357
+        "followers": 3522486
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9170511
+        "followers": 9170649
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -310,7 +310,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 63086
+        "followers": 63126
       },
       "yearFounded": 0,
       "locations": [
@@ -320,7 +320,7 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 330,
+      "heat": 319,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -352,7 +352,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1555021
+        "followers": 1555080
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -445,7 +445,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 493174
+        "followers": 493203
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -494,7 +494,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 105969
+        "followers": 105984
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -547,7 +547,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 9065
+        "followers": 9067
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -601,7 +601,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 15469
+        "followers": 15480
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -663,7 +663,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 14774
+        "followers": 14771
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -719,7 +719,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 531885
+        "followers": 531897
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -761,7 +761,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 33563
+        "followers": 33565
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -812,7 +812,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 7733
+        "followers": 7735
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -867,7 +867,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 76172
+        "followers": 76170
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
@@ -998,7 +998,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 330,
+          "heat": 319,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -1047,7 +1047,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 61351
+        "followers": 61353
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1100,7 +1100,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 22501
+        "followers": 22507
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1142,7 +1142,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 65582
+        "followers": 65586
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -1202,7 +1202,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 4733
+        "followers": 4734
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1314,7 +1314,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 58718
+        "followers": 58716
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1371,7 +1371,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 17619
+        "followers": 17621
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1434,7 +1434,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 9680
+        "followers": 9684
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1467,6 +1467,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1050473
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 175,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/affirm.md",
       "title": "Affirm",
       "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
@@ -1486,7 +1524,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 9229
+        "followers": 9232
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1545,7 +1583,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 3371
+        "followers": 3372
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -1592,7 +1630,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 76781
+        "followers": 76784
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1632,44 +1670,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
-      "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
-      },
-      "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1050471
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Global"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 155,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/sentinelone.md",
       "title": "SentinelOne",
       "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
@@ -1689,7 +1689,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 10084
+        "followers": 10086
       },
       "size": "201-500 employees",
       "yearFounded": 2013,

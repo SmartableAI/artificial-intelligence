@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Aptiv"
   url: "https://twitter.com/Aptiv"
-  followers: 16944
+  followers: 16945
 
 locations:
   - Dublin, Ireland
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Aptiv"
 
-secured: "iazP6R5TQqY7U/4dEqcHurubWiqKF8R9N5pcwF6ecFFHQsg06VNA5aMq72pOw2HFplR1PCbA8n0nh/N1YZSZ0Q7Dj+FXq095z9CHCLIP7kukDdmay8vVodH9+6L1Fcqf87BYZ0knCjaX4VOT5zlPJdxwt8HcnfI6vLii5uyiO5pJfDtszcIJtYE2fG9jC8zLCPUA2yH9g5ppRdrPoAEgP3xmqEQ6R+gx/dVVlNyeM3ltm/dSUMe7vZzmHL++8MaR4VZZCvnA/F/eU+OcculjVkboyuZjmF9GmPCt/P/H6rbqrw+wfYeSxEInFgOdi7i3hdoBXG0jnW5IlhN+UuvaeMpvYz5SGe+NP/m74NsaPk9AXm6kWt2RrLzF9qEu05SU2sy8PkywI9fyMjqdfl7mkLxJpGHFH/Y6tB4RRxPJUHM=;hkI7Ya8d40v/9x74L1c9BA=="
+secured: "kNwIcQ7+jxOtYzwRP45Rw0duzXKoTVr6OA5edzFaSw9UsMJnN+LfeGJFFScYcxeJrtUaJSZ7QcJOrI8uJAbhuvJortrjtEhn3hirToE4WVRh8/kNB/uNbrc2XZu5zHBgazGGN29s+0wehhIEAMvX32HDDEO5jlrnfrP5vEgfTkVEpLaHzHIJxLgvs2EFKhfuPUWf9osbE3iydH5BhFEC8Rii1Iu2tEor9I5uhUygJGaPGZW1f2x9+RqLH5P3jHztavAE8ApcSWIjeKVoAQSjLoi0veXhTfGwW6FRfRYpRs1jRi8snYrMA4mTKXGIMVYXuQOR4FdbPuwa+fa0ZpFuRel8P1uK8DGbA4MQNsw2Esr68AEZ4XPSLFV0p/iOLeYfMkbSwIRKHBHzZru61P61NUgHr1dZHjpvAx1ageZUh+g=;gjphJp995q2E2b+RIUm/Xg=="
 ---
 
