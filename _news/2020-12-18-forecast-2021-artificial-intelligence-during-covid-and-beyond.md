@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificia
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://cdn.openpr.com/T/c/Tc17255954_g.jpg"
         width: 687
         height: 384
-        isCached: true
-  - title: "Puma, PVH Corp. on AI and Forecasting, Merchandising in the COVID-19 Era"
-    excerpt: "AI has found its place as a critical tool, particularly for companies managing a fleet of stores. That’s certainly the case for Puma and PVH Corp., which have both come to rely on the technology in the critical months of the coronavirus pandemic."
-    publishedDateTime: 2020-12-16T15:35:00Z
-    webUrl: "https://wwd.com/business-news/technology/puma-pvh-corp-ai-forecasting-merchandising-covid-wwd-summit-1234680059/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 36
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/12/AdobeStock_119888051.jpeg?w=394&h=263&crop=1"
-        width: 394
-        height: 263
         isCached: true
 
 secured: "H4IwNVOPJvneu+KFRdu2/+XjI9y5+7+KTpsmn1eSUZcf5qMRZL3xfNcDaIr6+7ejgdBHh2kEClA4CihKehvKe+5JK0ZyIyUxeTfQBaTSBioqSKVvGusDDY3G3L1WSy9V9foF7CbVggJAC8wCQTZxaAFOs8+D5/qbH9/rZ0ZIhAl9bU06z+X71ZQX65L+e28Ic40PO8ekqyP628erFu2/AvoR7zo9Uv1zF93He/ccFerOJI47CinFjBKxX8MfWevs+B6KrsYs2gJ0YuHdlL20GMgblgi9ZPph55hiQi4TghaJn3rud9eIJK6hzJT3gZMLMEdo++e3FyY6udim+OJ4goW6WgpxJnamJFLfGBeu8tRRJnCG6m9QZzMEVASBOHxfSQpT0NvzCw77vv0waWdyUxjHY9UE/jdhDnk7ptcrUETQYuki6p+0uHoKIB/JW/Vz5ecbcwrBLd+mTIks7XE71exnArp8QL6VjK/inc3LeQql3PwI44PWgTfSs5cq9QSQE0GkvN8TGJz9z9+yOEPBhA==;BsCtr8A2SY86hiDPkCRJ1Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-c
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-29600093280a33fa6c422b8ea073973c"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Advancing education and speech recognition in Nigeria with AI and machine learning"
-    excerpt: "As part of our participation in the ITU Focus Group on Machine Learning for Future Networks including 5G (FG‑ML5G), in March 2019, our WINEST"
-    publishedDateTime: 2020-12-16T16:30:00Z
-    webUrl: "https://www.miragenews.com/advancing-education-and-speech-recognition-in-nigeria-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 82
-    images:
-      - url: "https://www.itu.int/myitu/-/media/News/2020/5G/Research-projects-Nigeria-desktop.jpg"
-        width: 1110
-        height: 476
-        isCached: true
 
 secured: "X7gHwTXcHJknEaDC4Gn6PltdzdvgDrtlq+zPeB5eG6t/cwsmQcNffqlAx8vhFy4OgGJb19AN9iwkLws9NfwoSbt0voowVDD52dfNN7mSKl0y7nK9vjYjJYAeS0FUhltyL3kSuaazfiC82qdm9PRS4BS/NInIlr6p/zADr9OF826P/JNeqNyx3XP1FLITQ2hcTPeVX94WHQw8hMpfVyWt3rcmmy0f+/QLeg/pqmtEqXpGKPVjjfwXcRETPZ5Fo6EaiwluGdHiSKuUT1R6JooZPW8lghoeA7TsPdUrWrQo4SO3oJ6DwPdKqSu5tDXEYLPNPWd6U5EaQspF6y0Ae/bxj6vn21wdCZfUoZoq9IN6Z7Y=;NMxrWFEo9V2laq++oplo3A=="
 ---

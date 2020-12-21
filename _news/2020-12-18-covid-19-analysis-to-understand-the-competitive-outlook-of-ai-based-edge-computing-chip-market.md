@@ -43,20 +43,6 @@ related:
         width: 960
         height: 601
         isCached: true
-  - title: "Puma, PVH Corp. on AI and Forecasting, Merchandising in the COVID-19 Era"
-    excerpt: "AI has found its place as a critical tool, particularly for companies managing a fleet of stores. That’s certainly the case for Puma and PVH Corp., which have both come to rely on the technology in the critical months of the coronavirus pandemic."
-    publishedDateTime: 2020-12-16T15:35:00Z
-    webUrl: "https://wwd.com/business-news/technology/puma-pvh-corp-ai-forecasting-merchandising-covid-wwd-summit-1234680059/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 36
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/12/AdobeStock_119888051.jpeg?w=394&h=263&crop=1"
-        width: 394
-        height: 263
-        isCached: true
 
 secured: "2uPbXRVPddwnYF94w/4xHDHvBKZz61M/Z/CkLUtHQ9J7ITsdj3urFOJEbeSw6X0HKWGDcj1pESGu6D1iUnFLF+7sCJpNTW1xDT/y7ZJ5SoVQwR1E9CLdViR10plPrQcpw4HSePwJ2Okrc6/NPlu0uEs8teBMQq/3aL+S5UgaTj6T+nMCqzQ/0rwJwYiQ0FP92oGo5PFxxh2sbY+Ji9BvBHUYrHiblw3dP1Pjm7TqxdKUSfBBCYBc6BBLHERSzrmhKQve2hkBT6oX4KqLUfA/a336NZ313fYqamma3ikZTIUpIx9WjecZRMkW22tp8qTke9u2SmvC1Qd99TlkPYFJcDwdnaxJPVqCPuUbr1sGn8m3B6yIk1C3p+wjutKcbfoUOkl5qCSbcO5i+p+wfgRLxGFiSJhhoBB1Hiu5sMesa17+B0Rjr4u0qjBnQZHf+lFuzHi+KJbKe3Xo+25oc1E//rTxZx7FXZ/FbgC9XQiaLClanqoXVu3ysn4mlXj16GO4Shu86A25T7UGH4mNm7UwnA==;htrcgZ1qrZToBfE1+UjnRg=="
 ---

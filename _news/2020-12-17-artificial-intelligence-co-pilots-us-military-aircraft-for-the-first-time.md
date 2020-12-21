@@ -73,22 +73,6 @@ related:
         width: 2760
         height: 1725
         isCached: true
-  - title: "US Air Force uses artificial intelligence aboard a military jet for the very first time"
-    excerpt: "The historic moment occurred at Beale Air Force Base, CA, and saw an AI algorithm take control of the radar sensors and tactical navigation systems of a U-2 Dragon Lady spy plane."
-    publishedDateTime: 2020-12-16T16:46:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9059947/amp/US-Air-Force-uses-artificial-intelligence-aboard-military-jet-time.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9059947/amp/US-Air-Force-uses-artificial-intelligence-aboard-military-jet-time.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9059947/amp/US-Air-Force-uses-artificial-intelligence-aboard-military-jet-time.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 64
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/16/16/36921492-0-image-a-2_1608134737123.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "In a first, Air Force uses AI on military jet"
     excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
     publishedDateTime: 2020-12-17T01:35:00Z
@@ -116,20 +100,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "AI Copilot: Air Force achieves first military flight with artificial intelligence"
-    excerpt: "Signaling a major leap forward for national defense in the digital age, the Air Force flew with artificial intelligence as a working aircrew member onboard a military aircraft for the first time Dec."
-    publishedDateTime: 2020-12-16T15:16:00Z
-    webUrl: "https://www.usafa.af.mil/News/Article/2448376/ai-copilot-air-force-achieves-first-military-flight-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: AF.mil
-      domain: af.mil
-    quality: 47
-    images:
-      - url: "https://media.defense.gov/2020/Dec/16/2002552935/825/780/0/201215-F-WF370-1172.JPG"
-        width: 825
-        height: 550
-        isCached: true
   - title: "U-2 spy plane uses artificial intelligence to control radar"
     excerpt: "The US Air Force for the first time used an artificially intelligent algorithm program, called ARTUµ, to control the radar on a Lockheed Martin U-2 spy plane."
     publishedDateTime: 2020-12-16T18:43:00Z

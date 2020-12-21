@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2F7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2F7"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Reuters
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "India's 'invisible' women hope for recognition at farmers protests"
-    excerpt: "\"It matters to them to voice their thoughts and perspective on these laws,\" said Kavitha Kuruganti, convener of Alliance for Sustainable and Holistic Agriculture, a coalition of farmer groups ..."
-    publishedDateTime: 2020-12-16T15:53:00Z
-    webUrl: "https://news.trust.org/item/20201216145516-jaxhg"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 24
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/c5cfce1e-d633-425a-9444-0d2a49ccee3f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 781
-        isCached: true
   - title: "India's 'Invisible' Women Hope for Recognition at Farmers Protests"
     excerpt: "Legions of women have trekked to India's capital to join massive protests against agricultural reforms, hoping not only to protect their livelihoods but also win visibility as farmers. About 75% of rural women in India who work full-time are farmers,"
     publishedDateTime: 2020-12-17T20:40:00Z

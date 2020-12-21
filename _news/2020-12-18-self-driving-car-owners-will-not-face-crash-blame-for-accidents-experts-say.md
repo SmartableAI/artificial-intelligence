@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 926
         isCached: true
-  - title: "Building a self-driving car that people can trust"
-    excerpt: "Over the past year, we’ve seen a rise in robotaxis and autonomous vehicle use. Companies such as Waymo, Cruise, and Baidu have all made strong headway as industry pioneers. In China specifically, 2020 headlines regularly featured major autonomous vehicle announcements,"
-    publishedDateTime: 2020-12-16T15:20:00Z
-    webUrl: "https://www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/"
-    ampWebUrl: "https://www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/12/Picture1.png?w=977"
-        width: 977
-        height: 650
-        isCached: true
   - title: "Motorists in self-driving cars will not be legally liable for accidents"
     excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
     publishedDateTime: 2020-12-18T06:00:00Z

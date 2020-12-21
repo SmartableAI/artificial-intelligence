@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-artificial-intelligence-in-healthcare-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2029",
+      "excerpt": "(MENAFN - America News Hour) The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101222196/Artificial-Intelligence-in-Healthcare-Market-2021-Global-Industry-Size-Demand-Growth-Analysis-Share-Revenue-and-Forecast-2029",
+      "originalUrl": "https://menafn.com/1101222196/Artificial-Intelligence-in-Healthcare-Market-2021-Global-Industry-Size-Demand-Growth-Analysis-Share-Revenue-and-Forecast-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?643381",
+          "width": 414,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-industry-forecasts-to-2025.md",
       "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Forecasts to 2025",
       "excerpt": "A New Market Study, titled 'Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and Challenges' has been featured on WiseGuyReports.",
@@ -1264,50 +1307,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-stem-cell-imaging-through-convolutional-neural-networks-current-issues-and-future-directions-in-artificial-intelligence-technology.md",
-      "title": "Stem cell imaging through convolutional neural networks: current issues and future directions in artificial intelligence technology",
-      "excerpt": "2 Inclusion Criteria 1. Articles contain the keywords “artificial intelligence”, “machine learning”, “deep learning,” “convolutional neural network,” “induced pluripotent stem cell,” “hematopoietic stem cell,” “biomedical imaging ...",
-      "sourceUrl": null,
-      "webUrl": "https://peerj.com/articles/10346/",
-      "originalUrl": "https://peerj.com/articles/10346/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dfzljdn9uc3pi.cloudfront.net/2020/10346/1/fig-4-1x.jpg",
-          "width": 600,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PeerJ",
-        "domain": "peerj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI in Healthcare"
       ]

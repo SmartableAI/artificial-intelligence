@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-fa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://www.wwno.org/sites/wwno/files/styles/medium/public/202012/image_from_ios__17_.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Governor Baker, regulating facial recognition technology is a racial justice issue"
-    excerpt: "Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police and has resulted in the wrongful arrests of innocent people."
-    publishedDateTime: 2020-12-16T16:52:00Z
-    webUrl: "https://www.bostonglobe.com/2020/12/16/opinion/governor-baker-regulating-facial-recognition-technology-is-racial-justice-issue/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/djjMhYJ02Jg9RNwCWvbXdbwh7aY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/OMQRJ3YHWTCR6G5K4J5KYA55UM.jpg"
-        width: 506
-        height: 285
         isCached: true
 
 secured: "534mtN1a0HRKyG3FVWBRlNfkf8dK/cruYZRI31ChXeBJqDA2alYknJ5IPXR9SOD6iKVxPsXrA+FPLbU40NFSYX3ZI5Y2eRN7a/qYN69X0VhPQCwcvGPCnBev4dWmxowAoDMvruD6PVH0tZS1S0XHdieT1FKW+lpdzqilT7vOzEKqnUiNYrNtf24rMPjxs0dZmCkjEUgOkbe/zQCe6ULqBtjZotNS2arl3JNpEpJ6hhdT+wn019h2huqB5H+eWWuhjpn94l3ovRNpDlQH9/4oFyEVPgEc6/BDWZsxefDfm4ApC5pzGMva6A19YoQuiby3laKTIa8UIvHgipL8lZruNRPjy2L0vs4xerBr9Jy5aoyFWxvdD/JiCTiws6Ixf3cpI2Z4+1IjR8hmIQRUt0uevGwjVoDtAVPMxBgShOPVy2BEBBvtRmflwMz4X7bpWNA416Gd2aHttCwH3zavC1sd88ZnGCY3T2igEe3U/2VBE4xbO0/DWRwyJpKLzXow/iSiWlAFCSShCjVWUwGwhVW3lQ==;Ew6WMCx9fi6CFd7oict3rA=="

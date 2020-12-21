@@ -100,20 +100,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Governor Baker, regulating facial recognition technology is a racial justice issue"
-    excerpt: "Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police and has resulted in the wrongful arrests of innocent people."
-    publishedDateTime: 2020-12-16T16:52:00Z
-    webUrl: "https://www.bostonglobe.com/2020/12/16/opinion/governor-baker-regulating-facial-recognition-technology-is-racial-justice-issue/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/djjMhYJ02Jg9RNwCWvbXdbwh7aY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/OMQRJ3YHWTCR6G5K4J5KYA55UM.jpg"
-        width: 506
-        height: 285
-        isCached: true
 
 secured: "NCYsqPKU7cB4zpb4YxP1Xn+zHtMLw4GyXwani5roAggMzYMSnnJiw4ypOOsaTtYLCcUrxsAa0cju8l33rwUS/LZEm3DbzNksSeFlwdyP6IFf2FALkAAS8VbJazcsgJTBbiwGCzNPlNWf5yToXshxzib2RbmKHZpTDD+QbOj/BQo5lFwjdn0ud7d1eirIaTHwqudV7jcfgDY2VrX90YJ5PhIkj5nWp9HivkXNP8Ny84JMuiP0mt6EdGvpKRgkprALb9WXRvwUuYjEXy6H59+u1/nGaUW9aU7DhSTTlgey53nO0RAFomfjFU1SATJcwxajqBFmU+i/u6y9vGJ6m6Fk4ucyc++pdWDKVz4X4uxH69fA1pXeT+78U33QVBCChD+EGAzvHBGcSi6BKQV6idR24XgoqOiq393hI+om4qG9kHMTIu2DZTYSvGUpnTAPIS63UJBPeyjShUT8D7fhXZjokuIwW0Dfk40h+Z5pvPF6/25ILNY73q1oYTOADAKEKsR0F9bmjFnGvils6zQIk9TCmw==;yIAkGEQjIdyUK236piGAUg=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Zoox CEO Says Self-Driving Robotaxi Reimagines Personal Transportation"
-    excerpt: "Amazon-owned Zoox has unveiled its first self-driving robotaxi that can seat up to four passengers, has no steering wheel, can run for 16 hours on a single charge, and can travel at up to 75 miles per hour."
-    publishedDateTime: 2020-12-16T15:47:00Z
-    webUrl: "https://cheddar.com/media/zoox-launches-self-driving-robotaxi"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/5d6c6b40-7246-4325-83a9-034e7c17ea4c.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
     excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
     publishedDateTime: 2020-12-19T10:06:00Z

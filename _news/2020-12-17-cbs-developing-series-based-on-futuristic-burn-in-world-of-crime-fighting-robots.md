@@ -9,7 +9,7 @@ ampWebUrl: "https://www.military.com/off-duty/television/2020/12/16/cbs-developi
 cdnAmpWebUrl: "https://www-military-com.cdn.ampproject.org/c/s/www.military.com/off-duty/television/2020/12/16/cbs-developing-series-based-futuristic-burn-world-of-crime-fighting-robots.html/amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 621
     height: 414
     isCached: true
-
-related:
-  - title: "CBS is developing a series based on the futuristic ‘Burn In’ world of crime-fighting robots"
-    excerpt: "CBS Studios is developing a television series based on the book Burn In: A Novel of the Real Robotic Revolution, according to Deadline. The details are slim aside from who is attached to the project — Elementary creator Rob Doherty — though Deadline describes it as a drama set in Washington,"
-    publishedDateTime: 2020-12-16T15:02:00Z
-    webUrl: "https://taskandpurpose.com/entertainment/burn-in-book-tv-series-cbs/"
-    type: article
-    provider:
-      name: Task & Purpose
-      domain: taskandpurpose.com
-    quality: 29
-    images:
-      - url: "https://taskandpurpose.com/app/uploads/2020/12/16/robot-mule.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "d9pb6TXEq86TP6pmWZCs/wrbWLDFSYJLwfp9fGlsnleJkftKZ8AnnOTPg5Bve9JM5i1lXlu9PAC3tffAUkU+JGlFuNr1eykeWPTBo41mN3QolblowBB2P5LSsOCopa6MO5K1r8tQ1yBnL4UnsoUexTYjdES/LDOy8TxBwUWFoIOt5pBr/p3pAhI1GmBjdEpXNQaqSEBWtA7Kbhte5sS1XdyhFxoN7qFpkm5xKZRQJhYNafD1ABCtiZ4jfnQ5rtTk78CO75aoDh8iQa4YeQuOzJljI4IfOK7/NhCBoksyvWCLZ34IDkgLTVLdVfx0hxq+93Z91ZbejSVa00krarl9hMhLJhwZ1OZiGIrTk1qgQG26ojS8F05eh+rkT6HD8Oqmz7oPLxa8O5mCf1DnPrtSeizeVK3Ef7E3/ZRqk0NHF9JoBuvn1Cf/en4/1eG8LiTj/sWbN34O8i31ejC2dPVtbtX0i3QYoLyh5zFhToynvDs1+eydDERwjngTjo1we++ad296xLaoV952vm4h4r6bDg==;1RSiTZGdmgrKf/+5yqh//g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summariz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Said It’s Developing A Tool To Read Your Brain"
-    excerpt: "Facebook told employees on Tuesday that it’s developing a tool to summarize news articles so users won’t have to read them. It also laid out early plans for a neural sensor to detect people’s thoughts and translate them into action."
-    publishedDateTime: 2020-12-16T16:42:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryanmac/facebook-news-article-summary-tools-brain-reader?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-summary-tools-brain-reader"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-summary-tools-brain-reader"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 187
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/16/23/campaign_images/bd8ee38aefa9/twitter-just-stopped-blocking-the-biden-article-i-2-2674-1602891383-8_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
   - title: "Facebook AI tool called TLDR would summarize news articles, report says"
     excerpt: "Facebook is building an AI assistant called TLDR that will summarize news articles into bullet points, so that you won't have to read a full story, Buzzfeed News reported Tuesday. The tool -- named for the internet acronym \"too long,"
     publishedDateTime: 2020-12-16T20:24:00Z

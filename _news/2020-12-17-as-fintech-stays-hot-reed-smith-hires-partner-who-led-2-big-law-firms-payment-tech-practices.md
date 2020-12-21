@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
-    excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
-    publishedDateTime: 2020-12-17T04:00:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214846-cid-1.html"
+  - title: "Neurogine terminates relationship with Emas Fintech"
+    excerpt: "Neurogine Capital (L) Ltd is a techfin, a fully owned subsidiary and part of Neurogine Group, which developed and operating Neurogine nTrade(R), an AI-driven, self-served money broking platform with multi-pairing and multi-routing features. Neurogine ..."
+    publishedDateTime: 2020-12-21T07:53:00Z
+    webUrl: "https://www.openpr.com/news/2213587/neurogine-terminates-relationship-with-emas-fintech"
+    ampWebUrl: "https://www.openpr.com/amp/2213587/neurogine-terminates-relationship-with-emas-fintech"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213587/neurogine-terminates-relationship-with-emas-fintech"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/5uFf8ylk.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Montreal-based FinTech Expertus acquired by IBM"
-    excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
-    publishedDateTime: 2020-12-16T17:21:00Z
-    webUrl: "https://betakit.com/montreal-based-fintech-expertus-acquired-by-ibm/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
-        width: 1000
-        height: 750
+      - url: "https://cdn.openpr.com/T/c/Tc19434549_g.jpg"
+        width: 800
+        height: 1067
         isCached: true
 
 secured: "MMQi+Uj2QPB1XtDh4VOi0HigHa569HWmahr7OJdUWzh/wsZinfMSZSY69khvxX1lgC82UXcwZPgIfSE6LEPPCDkyL+TDyAtsSJ1xKQVbM0QxRoJ7HUwUrZaugXOkvPOMmi0zI94Gabd8UHGc16ZkUJWlQjATs+UkMXvhgL0ezqIqBM4plzCKmdS7ZeIhts7wK4DPHd9rZ2BtS2pAtdlZd9WJo3M04Zzy614YuWYJALvSJh2Orv7O44Z+X1Td/DpQgXKWvKlpC52qyfYGYj5cC6WtHLAezIGSmNcdsVCjWLWZFoXY2xUGt1/3puKqHs0Vu6k02bvGBnDJo1G9CXht77c0TXfLfQriaaBpNYCBAoSMRH8wzQXEo1WYOcQKzkP2XeAThYRBopOw8JnuUn5DIhdzZtCn3iRXFXbIwiWRG9CZDIDo01UebjJWi0XIbZOpMR1Fv0URUis584cxse+54kvX2a0Z5OlRHaWfSFmd99LRcaMF5EedYBemjWbS9sq1IwCw43Euj9rPHH6kMiWWmg==;kzT5fIFLiKommFNp1rwVbQ=="
