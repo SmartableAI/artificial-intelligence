@@ -3,8 +3,8 @@ category: news
 title: "Light-powered, brain-like AI chips are in development"
 excerpt: "The chip could potentially be used to power drones, robotics, smart watches, and bionic implants."
 publishedDateTime: 2020-12-16T16:32:00Z
-originalUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
-webUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
 type: article
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "Vl8bMvWf0fHU09iNNXyiPYVjae8A601wQWn2fzuM+et4LucTsSY87eRaMu/q1ZI/hqrvrS5vFTyKsgfESKIfoMA8Zy35AApPVEs2rxJ86Tl33m9mCHLPb/mvkhox5WaqRzbixdBPy90jf0lFRlztrA+oB9LLQuXe3KYoPZOtnnV3s5jHf9ioR/UroUAGORh5+/BgZ+xt4p3XnAQrP2LAFsUOE/CvLqcN4pvjQgMjr6SsVYltwjq42l+VAfhmkGh6T3Xc7iAms+Sw1KbPDifUizlsom0oIitkmXlpFl0tCa+PmpkBMhJQwsj92OrWxB1IjdH8yBUqJAMrfk083hUjCkvySBgrQtJZvh1XsprG1pQ6tbJlPxw+8/ShqlNsVF4+Sd1PrOJ7dpaZAHtCO2eHTyt7QdxIUUAQBmNB3/0oEkoCS3BmVJDFKAiy8RUHc0vjt7JpEnDCWAwyBED0m8n/h/SI9e4X02YgCMUZvRqXmRdnh8x8ZpGsQ9QSWNGPWPDGQBc0Jy7jcZDi0Xvpzw7/Xg==;8YwoEPvZQinWxOiK6+0r+Q=="
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/20/d1eb7060-4ea6-4d3a-a2a9-8522490a2dc7/thumbnail/770x578/4c0e95589ad879e2c227bc6c03fb5190/the-human-brain-inspires-rmit-researcher-5fb5f1f16df74d74600bc66d-1-nov-20-2020-24-22-49-poster.jpg"
+    width: 770
+    height: 578
+    isCached: true
+
+secured: "eTHI1vlHY84Xnin4jbDi3UoxtGpt1MRNS46RP+EG2bYkwEqXT3nv4WVmTQcVxLyQjEVnrnjRGCBwylM2ZxzatTc8Prlg3k0J7ftisbyf7JEXlNcUih0TbBjL5zgRzCQ8KQeqzwYc2XMvjmgtsvLzNn7RhSnDBjiFTUnUUVaAlQ9zJBDunmy/Mhs62TsGiL3UwcBOdC9WsrTkS0ln6v/FohGnfliO1M4JhFcG8LbgDjl92Mej776WgD2uBrTeBYu4LLb5Qx57yWAjvpakNk97jwO10KL6rT/sKxYL3ypd11VeUDCa9gfvX2rvZLBAlqbRrpPUvJxajj5WzHidJGUMxX1KBi6b8UCs95PSsd4dl3o=;7SxitLouPyPdv9KZRCx2nQ=="
 ---
 

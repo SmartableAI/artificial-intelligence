@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T15:18:00Z
 originalUrl: "https://www.express.co.uk/news/world/1375198/Michael-Schumacher-health-latest-update-wife-Corinna-Schumacher-speech-F1-legends-accident"
 webUrl: "https://www.express.co.uk/news/world/1375198/Michael-Schumacher-health-latest-update-wife-Corinna-Schumacher-speech-F1-legends-accident"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Express

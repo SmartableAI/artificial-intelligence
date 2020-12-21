@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202012/17/WS5fdabd44a31024ad0ba9c5
 webUrl: "https://www.chinadaily.com.cn/a/202012/17/WS5fdabd44a31024ad0ba9c54e.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 720
     height: 480
     isCached: true
-
-related:
-  - title: "How to solve healthcare challenges with innovative technologies?"
-    excerpt: "The healthcare industry is rapidly developing under the impact of innovative technologies. There are plenty of digital medical solutions that help improve treatment, increase staff productivity, streamline workflows,"
-    publishedDateTime: 2020-12-16T23:17:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2020/12/16/447434-how-solve-healthcare-challenges-with-innovative-technologies.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 39
-    images:
-      - url: "https://arateg.com/static/docs/how-to-solve-healthcare-challenges-with-tech.jpg"
-        width: 1128
-        height: 540
-        isCached: true
 
 secured: "F6wwlEhldY8aFgbhrcKsCAineum23yMOMlH18Loeka4arlClkSYxGXlwZL1FyPIyMsu8WChqL6BQdFKLuWhF8IjaNRNEhEEwHNIOc9F3ffDgv9rkSBYoWwE/vcZh/CoBiGo4OUieV8oy1TVHhvqt3tDN3zy3W+MHZGal5GjXbkPYhwaOVvfGLgJJQIj+D5aJhzljKSNh5eJaA9glSmlPdR23POVWHCQcAZWCoSUOmoZBCDaXA+oWDL4J85HRi67UfRlJL9KNwZ/OYvDJZzAS725KvN3MDpa4p72zBO8EnovlwX0vS5PPzFQK1TjVgw1syBWnUw1HxfwQim1zNJQi0YDEPLvKXDVeJwNnUHHRoZw=;zpu+BHntoNQZneVmP6AXuw=="
 ---

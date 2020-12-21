@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-21T14:54:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2020/12/21/Collaboration-to-chart-AI-generated-map-of-the-immune-system"
 webUrl: "https://www.outsourcing-pharma.com/Article/2020/12/21/Collaboration-to-chart-AI-generated-map-of-the-immune-system"
 type: article
-quality: 37
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/preclinical-research/collaboration-to-chart-ai-generated-map-of-the-immune-system/12053307-1-eng-GB/Collaboration-to-chart-AI-generated-map-of-the-immune-system.jpg"

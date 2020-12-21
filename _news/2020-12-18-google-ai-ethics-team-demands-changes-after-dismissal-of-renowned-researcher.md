@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-dem
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI Researchers Lay Out Demands, Escalating Internal Fight"
-    excerpt: "A group of Google artificial intelligence researchers sent a sweeping list of demands to management calling for new policies and leadership changes, escalating a conflict at one of the company’s prized units."
-    publishedDateTime: 2020-12-16T23:52:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.im7Te14rY4/v1/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Google AI team demands changes after Dr. Timnit Gebru's departure"
     excerpt: "Two weeks after the departure of AI researcher Dr. Timnit Gebru, Google’s Ethical AI team has issued a list of demands to its management."
     publishedDateTime: 2020-12-18T00:31:00Z

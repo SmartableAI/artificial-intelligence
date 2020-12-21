@@ -29,7 +29,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 77
+    quality: 73
     images:
       - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg"
         width: 400
@@ -51,6 +51,15 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
+    excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"
+    publishedDateTime: 2020-12-21T15:22:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4025255/fast-growing-uk-aws-partner-inawisdom-gobbled-cognizant"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 19
 
 secured: "OD9xps1oExt5o98LpOjhyihPP0K6Cxkv3aPuWZglCAGTiydrv/qJGFBRkOPgHpIqRifJZ1YyZGK6mCpXKgJL6onlu+u0ClQW8g6mrfPZWhZxq9RaSQAPCNU/D/DIX2Nivtk0ZDfyzXocFFjGX836x49MOIKswuaNWLUwyx85a7l4NCD3oLr/LMyE9mAIY4jqLEWfMJzGRbR/tV8q1UWUY0yP3b3kS1sOwKzLESmDEnK+KVI2lOoLd94VDjJva+E2uxmtmeEvoRhOnCNxwXhS+0TuFS5i5ndtJQHGFBT9NT7xCd0fExUsotquu/87oe6kkaaimZ6h7JKAEun5RPt37EzsQxDEGYOa/vsZIJLtolo=;3DObPz9bELHLbDXa4obaIA=="
 ---

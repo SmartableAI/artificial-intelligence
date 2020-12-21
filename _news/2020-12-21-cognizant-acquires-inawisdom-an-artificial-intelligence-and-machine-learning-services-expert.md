@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-21T10:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
 webUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
 type: article
-quality: 77
-heat: 97
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -19,10 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
-  - AWS AI
-  - AI in Finance
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg"
@@ -58,7 +56,16 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
+    excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"
+    publishedDateTime: 2020-12-21T15:22:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4025255/fast-growing-uk-aws-partner-inawisdom-gobbled-cognizant"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 19
 
-secured: "M7MTf8DlJOfVbjuMK/xe0yhMIa50r4VssT0eiA/vknQFXwSS0wSXUkra//KzEN7Yt3Cct0r1NKuXKUhWXR4L+JLMYo+m1YbhYSrnZ0R0jFyp3uZn9Vpo4CgwUKsAELDIJ2f5AtkAfaBeEv865TPL+KQC5ZwePbsXstwojz/k/ggi02/YfceZHI0MRRw0Oel6tFSvr2XKvHLG07EPS1qx0xv6atiBKCpcq2fczXNx9wxbMC2P9faFEyi65+Xl4coIKBDBkDwZxH+mzs7sAAI22xPE6N/W3x/M1P9f2OVvdwZh6VTR2cf30FBMtmhvnCOZNiPOD1TwfVdHQm5TS6aQvU67s2jBRBb8Qe+nDpI2AL0=;e3M2wJ8Xk8/axhzh3AK0CQ=="
+secured: "HqdzoGkCGw+L8GOE2QuRhXWteysmfwuCp8nzPFssX40wIkDTs82JT5i9FRyHfOR69y0EgE44YJ4PAvEzTHktfQksLBb88tqnlwNgNy63omL1IHMCkNNPcugy/ZXd7KAGE3duC8AaY+6rTIyYhS+89Gzmz4b3Nbl6ptsqGvbj07z1T9wQLZa/+90kMXA5K/KE4ha/3PTMmoIwYl/19AyZJcZWcXxGe7azQfLOR8omDRI0jCmvTrxJZ6i9OIwus+9KOuSsxbKPce8uAEFVtFZnaTGRlxJlSoyVISRlbfGyL63eafHYUwmbvriuO+/iDm8qXTWQCLqmN0hQ/Lr3Yk5HDQXK7VLa2vrOrVg4xbN/Yn8=;SCztXNvOyR2FV/1JY0Dijw=="
 ---
 

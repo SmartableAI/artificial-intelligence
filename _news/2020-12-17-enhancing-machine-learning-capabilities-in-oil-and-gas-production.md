@@ -24,6 +24,17 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Enhancing Machine-Learning Capabilities In Oil And Gas Production"
+    excerpt: "A Texas A&M researcher is participating in a multi-university and national laboratory project to create an advanced system that understands and renders production processes and conditions as they happen."
+    publishedDateTime: 2020-12-18T14:38:00Z
+    webUrl: "https://today.tamu.edu/2020/12/18/enhancing-machine-learning-capabilities-in-oil-and-gas-production/"
+    type: article
+    provider:
+      name: AgriLife TODAY
+      domain: tamu.edu
+    quality: 4
+
 secured: "VzV4n1RVLRN5gBOJMJ5XY7wSCYUM/CnShBqJxQcTo/MIs6AdmYulIFnLiHSzmfAoDkcUd+2JHHRm0lnnpCaSLfNMs159pZUprUGlfKIjJOFRyp+zLI1KzmK4UwKvRQNdwQDrb5yQvkRtmt28wR11U6jBX39kxpTZx0zmGoTSq3BcsNu5Fc54KakQoFPrXJzf/BzZry8Ch1JwVuciC4XVRYb57nWTWar4Yju3rycjVhfTC4cSeeQm+1Vq6jHQBn19fP6Ylu5URTJBWjeZixRdcHzRDsRVJk0XIlLbwnr5s08VI75AVnu1Uw7WMfUtWEX/cKv+8me5tlqNr88fg/JxHyMy9590g4dsh5QrUmf9BlBQK/17Og5SH61LNQV7Nc82/YB0E53XcsKwzVX9U8g5Os3O/+EGMn0dQkTcSOLtP+q8Oual/vX4U3xrRf/jOmAIDq/9yhZcI9X/n3CgUqQiOFM6hpfGPMh3Q44IHAVEUwZ5Lo+WFJAgMvvkEDfGYcGN0ABe8fSWqCwyTiysA3xj8g==;zvTrQZQ0ZzYrA2j0IhqfZg=="
 ---
 

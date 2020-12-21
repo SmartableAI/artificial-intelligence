@@ -29,60 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Market – Forecast to 2027"
-    excerpt: "WiseGuyReports.com adds \"Global Artificial Intelligence in Healthcare Market Research Report 2020 Analysis and Forecast 2027\" reports to its database. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make ..."
-    publishedDateTime: 2020-12-17T02:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18827297"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18827297"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.abnewswire.com/uploads/1608137550.jpeg"
-        width: 278
-        height: 333
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size Expected to Hit US$ 36250 Mn by 2026"
-    excerpt: "The Artificial Intelligence In Healthcare Market size was valued at US$ XX Mn in 2018 and is expected to grow at a compound annual growth rate (CAGR) of 51.7% for the forecast period ending 2026 reaching a Market value of US$ 36250 Mn. Artificial ..."
-    publishedDateTime: 2020-12-18T10:21:00Z
-    webUrl: "https://www.openpr.com/news/2213086/artificial-intelligence-in-healthcare-market-size-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2213086/artificial-intelligence-in-healthcare-market-size-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213086/artificial-intelligence-in-healthcare-market-size-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-  - title: "Artificial Intelligence in Diagnostics Market size is anticipated to reach healthy growth rate of more than 32.3% over the forecast period 2020-2027"
-    excerpt: "Selbyville, Delaware The report for Artificial Intelligence in Diagnostics Market offers an assiduous analysis"
-    publishedDateTime: 2020-12-17T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-size-is-anticipated-to-reach-healthy-growth-rate-of-more-than-323-over-the-forecast-period-2020-2027-2020-12-16"
+  - title: "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now"
+    excerpt: "As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type (Watson Language, Watson Data Insights, Watson Speech, and Watson Vision Services);"
+    publishedDateTime: 2020-12-17T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-18T16:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
+  - title: "Fingal County Council launches AI virtual agent using IBM Watson"
+    excerpt: "Fingal County Council has successfully introduced a virtual agent, trained to answer Covid-19 questions from members of the public. When the pandemic struck, Fingal County Council responded by working to develop a virtual agent with IBM and SureSkills Consulting."
+    publishedDateTime: 2020-12-21T18:20:00Z
+    webUrl: "https://www.techcentral.ie/x3HXP"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.techcentral.ie/wp-content/uploads/2019/01/artificial-intelligence-neural-network_web.jpg"
+        width: 620
+        height: 350
         isCached: true
 
 secured: "RR4zkpXi8waRZEJgJ8ygjGcwq7WT+tOiVdadq+rpNSvhReWrmRvxyChXEUSxXlI79GCr4AuDgiCCecSjVzpn5cx0/3G9oWBRd48Zm95GXr4hs+SQCLLgSLAgKQWgsZPShXIdGcihLYFnBEjfYjuZE+SxCENMil2J2+GBswc/yLh7lXH0IIthH7h8EYzKH9iJLKDt8LHwzXM/Glv2i7p7VkAXQe0NwNEWB0uGAkqOINXoYSKYoL0D3gYjnF1qRVWYk9G9gRhMDXO3iMo6vTi/eLdVF2VGj8yB6XxgktlmDyMt0o4Dqwx2VF/r1JDaTb6A5HBI4tPZNxWILVk/caI78x1XzpSyXwOf2HtRWk9Qb7Y=;RBAJfyJEXkRqpY1tD/ya4g=="

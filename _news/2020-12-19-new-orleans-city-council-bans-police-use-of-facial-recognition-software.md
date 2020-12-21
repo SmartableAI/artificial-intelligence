@@ -43,21 +43,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Documents Detail New Orleans PD's Facial Recognition Use"
-    excerpt: "The city's police department has not made its use of the AI technology public before, and a spokesperson once said it doesn't"
-    publishedDateTime: 2020-12-17T00:00:00Z
-    webUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
+  - title: "Civil rights groups move to block expansion of facial recognition in airports"
+    excerpt: "A coalition of civil rights groups led by the American Civil Liberties Union have filed an objection to the proposed expansion of Customs and Border Protections facial recognition at land and sea ports."
+    publishedDateTime: 2020-12-21T18:30:00Z
+    webUrl: "https://www.theverge.com/2020/12/21/22193471/aclu-eff-ftf-facial-recognition-legal-objection-filing-customs-airport-surveillance"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/21/22193471/aclu-eff-ftf-facial-recognition-legal-objection-filing-customs-airport-surveillance"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/21/22193471/aclu-eff-ftf-facial-recognition-legal-objection-filing-customs-airport-surveillance"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: The Verge
+      domain: theverge.com
+    quality: 101
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
+      - url: "https://cdn.vox-cdn.com/thumbor/4BJHqfA7SnY-nKEWmKcGZCXvsHQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68561467/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "City Council Bans Police From Using Facial Recognition Technology"
     excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"

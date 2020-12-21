@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Alleged NVIDIA GPU Roadmap Includes 5nm Lovelace Successor To GeForce RTX 30 Ampere"
+    excerpt: "So it is entirely possibly that some these names will be attached to GPU architectures at some point (and/or AI technologies). Which brings us to the next interesting tidbit: Hopper. Rumor has it ..."
+    publishedDateTime: 2020-12-21T18:33:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 53
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53757/content/Ampere_GPU.jpg"
+        width: 708
+        height: 400
+        isCached: true
 
 secured: "5Be0N/VMWP1djEh0P5oH5uOnjHqcFItTPdIE2VWQBBXTIxQf0BBAex3WvQGFtn+afM8YGDYRhOmw+FMbYdlg+DM9XwiO15cj4jLCAW68eN2pSkHEZZsxHLd44Ybgc1KvllyTnTDEJNhfd8trlJuYX3JFGur5m+/3wL6Zgiw03SpXbs5WV8+cAs1f+HwpiyN98XPBhUG/9rSKw+RNNV5VcuJcgv5B2K3PbAH+Px/IyG4OiXlkmFg39RIS3rVmJ5sm9+gSQhqoeuUBEXPU7VqHfygGwWLekZpVuLEUHVbWIvKRmIFcktDscHbXXCv2D7VEBkNBe1WJ1NnCpCQlSsa+RhxNoyPQwtZvF4HsRTUOR44=;nPreaSJQw9bcaHeZOKMh5Q=="
 ---

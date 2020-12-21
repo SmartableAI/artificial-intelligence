@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T16:11:00Z
 originalUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/21/how-startup-verta-helps-enterprises-get-machine-learning-right/"
 webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/21/how-startup-verta-helps-enterprises-get-machine-learning-right/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Forbes

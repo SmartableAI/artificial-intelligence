@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T15:07:00Z
 originalUrl: "https://www.engadget.com/ai-detects-mental-health-through-eye-movements-145449742.html"
 webUrl: "https://www.engadget.com/ai-detects-mental-health-through-eye-movements-145449742.html"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Engadget

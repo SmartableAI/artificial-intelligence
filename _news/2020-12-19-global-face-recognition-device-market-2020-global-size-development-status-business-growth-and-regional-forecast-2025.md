@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Education Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
-    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
-    publishedDateTime: 2020-12-17T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Market Segmentation and Analysis by Recent Trends Development and Growth Factors by Regions Overview to 2023"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of ..."
     publishedDateTime: 2020-12-17T09:05:00Z
@@ -127,6 +113,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Global Learning Analytics Market Size USD 7956.6 Million by 2026 at CAGR 20.8% | Valuates Reports"
+    excerpt: "The global Learning Analytics Market size is projected to reach USD 7956.6 Million by 2026, from USD 2560.5 Million in 2020, at a CAGR of 20.8% during 2021-2026. Major factors driving the growth of the Learning analytics market size are,"
+    publishedDateTime: 2020-12-21T17:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-learning-analytics-market-size-usd-7956-6-million-by-2026-at-cagr-20-8-valuates-reports-1029911396"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "NBYRMseqBnSUmN5MkhDn9ftDUVVgHSbI42DgCGrQTElxO+tvJStTRsJeNiDL0o2I2Sdtc+WV0q3eZOrJn0vQcMrAi3M5B3QjtV5dJd/UEG/oDoWRtJpW0TWWJuHKgyDU59FLDxeiziNPdk26EZZnQPJcYMTFx98FnOM0xlZ9m1rSXYSKoaN4hSXaQRl5jaA4AJ/kFhEG+EffowSMzjekS0f/CxqF4uxLzJqu6bmIUipNllvV+301tuCi0f2ofip1hUO2vd3/swcG4Mdj2VfKS3TNxQJAE4d+r3ySHj14zknTg5AAPfjhzcxt4fO58RI3yu/T9JzBd9IWARJgH0QiYdQB6ayjZ3hF2R/Y1+Vr+1o=;eT3v0zHJwIcdOgAV99mxjw=="
 ---

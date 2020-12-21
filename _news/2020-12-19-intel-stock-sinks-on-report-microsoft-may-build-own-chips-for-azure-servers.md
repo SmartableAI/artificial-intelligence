@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-mic
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 688
         height: 387
         isCached: true
+  - title: "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House"
+    excerpt: "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources."
+    publishedDateTime: 2020-12-21T15:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
     excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
     publishedDateTime: 2020-12-18T19:39:00Z

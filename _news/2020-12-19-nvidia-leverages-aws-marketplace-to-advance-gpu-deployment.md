@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alleged NVIDIA GPU Roadmap Includes 5nm Lovelace Successor To GeForce RTX 30 Ampere"
+    excerpt: "So it is entirely possibly that some these names will be attached to GPU architectures at some point (and/or AI technologies). Which brings us to the next interesting tidbit: Hopper. Rumor has it ..."
+    publishedDateTime: 2020-12-21T18:33:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 53
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53757/content/Ampere_GPU.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "AI at Your Fingertips: NVIDIA Launches Storefront in AWS Marketplace"
     excerpt: "AWS customers can deploy this software free of charge to accelerate their AI deployments. We first began providing GPU-optimized software through the NVIDIA NGC catalog in 2017. Since then, industry demand for these resources has skyrocketed. More than ..."
     publishedDateTime: 2020-12-18T09:00:00Z

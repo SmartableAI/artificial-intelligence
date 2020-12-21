@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-comin
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Elon Musk says Tesla will release its 'full self-driving' feature as a subscription in early 2021"
+    excerpt: "The company's \"full self-driving\" package will be available as a subscription starting in early 2021, Tesla CEO Elon Musk in a Sunday tweet. Tesla cars come standard with Autopilot, a driver-assistance feature that can brake, accelerate, and steer ..."
+    publishedDateTime: 2020-12-21T16:37:00Z
+    webUrl: "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5fe0c832d366e600180994ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Full-Self Driving Tesla Model 3 Returns To Lombard Street In SF"
     excerpt: "Streets don’t get more winding and difficult to navigate than this iconic bit of road in historic San Francisco."
     publishedDateTime: 2020-12-21T13:16:00Z
@@ -138,6 +154,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
+    excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."
+    publishedDateTime: 2020-12-21T15:23:00Z
+    webUrl: "https://knowtechie.com/teslas-full-self-driving-mode-could-be-available-as-a-subscription-in-2021/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 32
 
 secured: "eBRioi0nm8g4R3oAafMwqvp/Oc44M6CCI7zsWH4DORq/bt33WhBLAVggwxcbBZGgueE2Li0LJig7uiLdbT8dJo7esA+P/M7zyIFZzPU1VkThwPPIf1ISmTlx5vb21c9BHq+5av/HFX/zJuOgpo+AxkiJNECCYg2sGNX0+o2BhwxdPwvW3bI11p5qzDunFxTrCzivW+OUx7juA8Cee6I6Ypn++rouIBRt2vnUvs9vo7M/XVybdNdQZnbVxab9D5WHN26qOJjDEaZmpyib6iPIXhNROoWpitB9x+o0/s12Z9WhpG/cOB+PtNfITJFgz/ei5Zy87OK1zsyb9WMkMgdjcFLWz1gqzoR2U65eIX49lbkOwtG05M6YKznzmo007zghACBcgVuZup/yxORFihQeStvBHFXmMZIdkZ/HPZhRs04j6+ntetnNRzYsCVN1/c454zcqYBkmmLN/nNdDRQ2EuedQ3VX6sL/sn+YOXkeP7zVkfrK/yUJlJcHTXdxjU8TbQj5kJuRrA0RWKn8yJ4E7WA==;6wuqbST6d3bOBPskzfbONg=="
 ---

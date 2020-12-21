@@ -40,20 +40,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "DDN Provides 11.2 Petabytes of Storage for One of the World's Largest Computational Infrastructures for AI Processing"
-    excerpt: "DDN®, premier provider of Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure, today announced that its AI focused"
-    publishedDateTime: 2020-12-17T02:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddns-high-capacity-storage-solutions-adopted-for-ai-bridging-green-cloud-infrastructure-supercomputer-system-for/article_a033b36e-3040-57bc-87ad-de188f2213fa.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/67/967d36d7-61d3-5f97-8602-605b56224fb3/5fdac060a77a1.image.jpg?resize=283%2C400"
-        width: 283
-        height: 400
-        isCached: true
 
 secured: "9IvowkdK7YJh0gIZz6622gwu+gNW0riyeT8ML/pRG6GznpZM74BK1cyUJK6yzrHLMD9hHzLNc7xb3w5NkqdzbJhTIuz+9CCvXvOG/k+WNXcd1uy7fs1+OE+YX8JD/3zqN+7DFnx/20SeraDEMZizxm8eVXtegiYkqnYy4oCAdU26DzUJ59DqR20SCCHze8DyVRQveOWqsH9iHCvNEnGOhBcmogzqAUtfnK2mC1jcAWzVru4i/lm+HfKx8x3mkHlX3jYXJJQbLyTiEletZuWFRP2uPVGSLfX975/UHDC28fNWkD/EYCvGtGmjLxrTGQAMGTSK1yVsHH1JnJ2REcoDorILjb/GuI3BZN97BO8A/DnITdv8von0mw9BA2VXom5DvG9JNT62Xcsx5u6zJW79IfNgM3+GbN6sMgeyl8Bdz2wkTZJqYsy/YqFkmIhGQwMzkcOqzgqrpmR4AAvrVkVcwZ12/eRnTkPInj3Ct8746fZPJJPwhi8J35gB/8IpnvLHdITaKxV9YWOIIMjrQS6DZA==;X/4ED6L5XDteCgiJyym5/Q=="
 ---

@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-12-18T16:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "Z43lCL12MZ0oZbLY+aMH3G6QSS41V2b1C7g11Ym0JDwD9fbbDvbhhf1L8gzAjoF+rJ/GCIv/cSh9KXvRJWTdrKhOjG4EBb44tVSO0WrKX1MCKNoDLHkFFk6Bb/XVVUonXg/r4QtCoHRGR2dQcB8MOcASaKOeG8PaueS6pGDjp+19QKMg6pUicFxHPmHL+55C//+og3XpYiEFqgnXX0FuzkeMpxRybjDLwUdKeOTL3th1IZwPewp3Vm345zvnQHHTGA4UhCW5iPsGQV3c9p1lsvBOiUYlXqUNYBMtgUZ5ANHjEL37DA6FVsqufnjzIQlCM3rrzdRCpyttf32xDmYhqpmvkY7JHB3EEYg8u0ftnsU=;Eqvxnppfe2ZBr8WSsSdAJQ=="
 ---
 

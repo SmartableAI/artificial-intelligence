@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Shrinking massive neural networks used to model language"
-excerpt: "Deep learning neural networks can be massive, demanding major computing power. In a test of the 'lottery ticket hypothesis,' researchers have found leaner, more efficient subnetworks hidden within BERT models."
-publishedDateTime: 2020-12-01T23:47:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/12/201201144041.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/12/201201144041.htm"
+excerpt: "In a new paper, Frankle and colleagues discovered such subnetworks lurking within BERT, a state-of-the-art neural network approach to natural language processing (NLP). As a branch of artificial ..."
+publishedDateTime: 2020-12-01T18:33:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/miot-smn120120.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/miot-smn120120.php"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
 
-secured: "jUOEwKUQiAuuhYLpVp9/SmQHuWZAbllEC6GO7sZKpDvbxt4XTHU+1hQVWU590QVsIZ4MHGdGJcnFchhceRdfQKbOR8A36+9fBQV8B8yWINox0LKPR/pUJy5gRHwcvow8nxnWYLfzHy43XJFAH8Ihi0ernd7BHgjCYKCQ2p7Edv64gu6rTsbr8pPJ/48v3A3hbDVV1R76uDFypkXu5tv6HGAzEfAsxjVHIEHmVUbBe66gVazaUQ/tehboG3OLpWB2U4ISFKmN4DcYUaCM6kVhFPp11Lc9oenzrjQ0kdDOWRL0u1jHjvRRQ1tRi7jpQbDd792gp3KY7NvT1WeVeFLuhDHD2vruLmF/VSnziAXI6cM=;Xp00uW3nUvTIFt4JsYIhyQ=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "mdjtohJmKs8pnY2AvjqXJ5qeYCk2yYWxg+ZtmrKlEyUZkhQzH1ykD8EcqTr1PuR52GFwHfKE5ZyLFThP7sTRBnBuMYX77AcMXS7TopPMloVROxcr8dewM6h6HcgcS2Y2rlxdQ/kunMeRivYBvVOWK6JBES3iuRS7GOKMEO+8EEsjjQxazyJG0FKMTFsv4MtzcDqUjBd5Lmhv4y7DD2KUoWPTNLFIKbFf3JUzVHkuw9BQwHxtUkLb6FDuIBA7FKn5+aiEXqGWxZT7t12z08fZBtKuHq1V/+LaEF6uQkpkcLZitOq2OtU0MeMcykPIx2BBlya1bnkxQprani5ELJ5FyEpEtIypQ5juT0vyRU/roQU=;H5RD33bpwia2C4CTGSVfxw=="
 ---
 

@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-03-mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines.md",
+      "title": "MIT machine learning models find gaps in coverage by Moderna, Pfizer, other Warp Speed COVID-19 vaccines",
+      "excerpt": "Vaccine makers need to take into account genetic diversity explicitly in clinical trials or risk missing coverage for some individuals, says MIT scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
+      "originalUrl": "https://www.zdnet.com/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/02/329c2e0d-a24f-468e-971f-2f138e9b391d/mit-2020-gifford-et-al-coverage-gap-of-mhc-vaccine-classes.png",
+          "width": 2186,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
+      "publishedDateTime": "2020-12-02T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning.md",
+      "title": "Why Intel believes confidential computing will boost AI and machine learning",
+      "excerpt": "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/intelcc-1-e1606747265903.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2020-12-02T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
       "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
       "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
@@ -308,6 +413,49 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-shrinking-massive-neural-networks-used-to-model-language.md",
+      "title": "Shrinking massive neural networks used to model language",
+      "excerpt": "In a new paper, Frankle and colleagues discovered such subnetworks lurking within BERT, a state-of-the-art neural network approach to natural language processing (NLP). As a branch of artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/miot-smn120120.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/miot-smn120120.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1281,145 +1429,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research.md",
-      "title": "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research",
-      "excerpt": "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-the-impact-of-machine-learning-ai-on-advertising-in-a-privacy-compliant-age.md",
-      "title": "The impact of machine learning & AI on advertising in a privacy compliant age",
-      "excerpt": "Sian Williams, Audience Strategy and Planning Director at MediaCom North, explains how AI offers a future of increased automation, faster decision-making and ‘hyper-personalisation’ that will make marketing comms more effective and businesses more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age",
-      "originalUrl": "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/features/sianwilliamsmediacom.jpg?itok=sF0_8wva",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp",
-      "cdnAmpWebUrl": "https://www-prolificnorth-co-uk.cdn.ampproject.org/c/s/www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp",
-      "publishedDateTime": "2020-11-26T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "prolificnorth.co.uk",
-        "domain": "prolificnorth.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
-      "title": "How archaeologists are using deep learning to dig deeper",
-      "excerpt": "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-26T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

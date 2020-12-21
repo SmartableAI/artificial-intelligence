@@ -2,41 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-04-standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment.md",
-      "title": "Standard Chartered Bank launches learning hub in SG following SG$5m investment",
-      "excerpt": "Meanwhile in August, DBS Bank collaborated with Amazon Web Services to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment",
-      "originalUrl": "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Interactive",
-        "domain": "marketing-interactive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-automated-model-refresh-with-streaming-data.md",
       "title": "Automated model refresh with streaming data",
       "excerpt": "In today’s world, being able to quickly bring on-premises machine learning (ML) models to the cloud is an integral part of any cloud migration journey. This post provides a step-by-step guide for launching a solution that facilitates the migration journey for large-scale ML workflows. This solution was",
@@ -1404,6 +1369,50 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale.md",
+      "title": "Freshworks Taps AWS ML-AI to Deliver Predictive Customer Support at Scale",
+      "excerpt": "Incorporating AWS’s machine learning and artificial intelligence services more closely into our systems and processes allows us to intelligently resolve support requests and provide even better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "originalUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2018/10/smart_machine_artificial_intelligence_concept_web.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

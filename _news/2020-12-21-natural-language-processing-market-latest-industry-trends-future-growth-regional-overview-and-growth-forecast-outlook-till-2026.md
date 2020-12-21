@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Education Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
-    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
-    publishedDateTime: 2020-12-17T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
     excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
     publishedDateTime: 2020-12-18T20:16:00Z
@@ -127,6 +113,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Global Learning Analytics Market Size USD 7956.6 Million by 2026 at CAGR 20.8% | Valuates Reports"
+    excerpt: "The global Learning Analytics Market size is projected to reach USD 7956.6 Million by 2026, from USD 2560.5 Million in 2020, at a CAGR of 20.8% during 2021-2026. Major factors driving the growth of the Learning analytics market size are,"
+    publishedDateTime: 2020-12-21T17:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-learning-analytics-market-size-usd-7956-6-million-by-2026-at-cagr-20-8-valuates-reports-1029911396"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "b0pPMxCNsFh7i47g0ZfyXIfRQlpFlyT3BvmAxkwqccc+R55+lTxp1QL+UjDCgg7NDIA2qe64+wy6veHCmnlhBnJJHDbe7Oi2AZGExYL2GQbKM8POP+0LUN9HecRgyCJEkXltBtMzAa7dftwXaczwTv6cacOLPj1nxpPpd8XqB4U3MRQpS6hm92qFeV0TL8Dp6YHxz7oPO5OEKYbX0gSa53ZFxvvN7h98UmmqZWQ71TK2z1QPr4KapvLLgd92Xaq5cJDjWnlO9CNCYMiJJ8XEPOKuxMT4Jrn4zEIZvSNG8wKjJZI0llRiWeUpbzdp6mfem8CVLOTI/IuMPo/w/3OnE4UCCsvYfH2XOa8vH+V0ZzY=;oUaWFPBZSH5IJ+DZg6+ABA=="
 ---

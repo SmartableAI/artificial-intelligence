@@ -60,6 +60,15 @@ related:
         width: 775
         height: 436
         isCached: true
+  - title: "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House"
+    excerpt: "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources."
+    publishedDateTime: 2020-12-21T15:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
     excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
     publishedDateTime: 2020-12-18T19:39:00Z

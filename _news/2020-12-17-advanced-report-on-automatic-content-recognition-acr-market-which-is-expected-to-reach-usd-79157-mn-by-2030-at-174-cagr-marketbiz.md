@@ -52,6 +52,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
+  - title: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025"
+    excerpt: "Reportlinker.com announces the release of the report \"Disinfectant Robot Market - Growth, Trends, Forecasts (2020 -"
+    publishedDateTime: 2020-12-21T12:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18872121/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-20"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "Ycx52vTZ3ovvwy43DQOj3Qw8Qk6N5XkZSCcfeeA9/Z3bGFwIflX5r7LxAsSDEGo39oeeq1H76oGasj6mKXvIUqM34mTjzJX7skcpXXRRahgTDWHS2qxrjTktdKi+I7E/Zarb20g5bUuk4bf4NSiZaMuZD42xPvP0csVG6UOPmEABSHOl0je/RjqRhjDO/cDLkALOezpJQfxVIsbD6Q6WQVwbNBVVtZCkMlo1EnhEmljxjPJn0TqO9LbW4fi02lD4RQ02G6vS23oFsr+lfW3/DHTXen0rPdgAbv5zIOYyXwOycuH4Vw2NQTCJJxPbCrszljHiEog2dic4ZoUMMNHZat1BvdsfoNH4bYZPLTOyqRY=;0BnbJpKaY4HZRrgeNfuvsA=="
 ---

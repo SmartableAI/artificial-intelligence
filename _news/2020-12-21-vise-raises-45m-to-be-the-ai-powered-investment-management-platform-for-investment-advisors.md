@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T15:37:00Z
 originalUrl: "https://www.alleywatch.com/2020/12/vise-investment-platform-independent-financial-advisors-samir-vaavada-runik-mehrotra/"
 webUrl: "https://www.alleywatch.com/2020/12/vise-investment-platform-independent-financial-advisors-samir-vaavada-runik-mehrotra/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: alleywatch.com

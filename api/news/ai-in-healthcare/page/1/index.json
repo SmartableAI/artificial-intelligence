@@ -250,10 +250,10 @@
     {
       "path": "_news/2020-12-16-ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers.md",
       "title": "Ping An launches artificial intelligence assisted clinical decision support system for gastroesophageal cancers",
-      "excerpt": "Company of China, Ltd. (hereafter \" Ping An \" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,",
+      "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-1029897097",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-1029897097",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -263,21 +263,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T01:38:00-08:00",
+      "publishedDateTime": "2020-12-16T01:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

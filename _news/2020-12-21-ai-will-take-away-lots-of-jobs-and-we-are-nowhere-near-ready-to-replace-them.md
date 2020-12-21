@@ -5,7 +5,12 @@ excerpt: "The government, said the committee, must start actively explaining how
 publishedDateTime: 2020-12-21T15:31:00Z
 originalUrl: "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/"
 webUrl: "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/"
 type: article
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: ZDNet
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "sllg71ItKewN8liMwGAB7QfsZdsHRSn2HqisF6/gfl6SIqaJwPBJT2mF5SMIINiaFl4yY4MJDdKlwRktKhrRALiLGShn6J4L8hMgM3YEzICO4bzPAtfqA0mO1OvZoYN4+btMxpzOUZEJcq5yBgicxbj0dyLgK1IA/ryPLyfi/PeJc9+DRrOmsfvEQA9QTkCAYiTt1uICRYKAfRh70uYSt0IZRvtIwvAZWZW0JHMv0vPiTliWoQZBZIqe70v4DO3/pC3JRAdq3769oUOV9Ac7bvPYqm1XAmUuTt/NGCD/eBDCIX8YBBMgJxiAgGfns0AZa2wTxXpUNtH2sFLt1g6v0UOX+qZvVpPJVu8ITmI/hE7HCiM/E0KQ6JM6UINRHq3phojjHPRTc+X3qWWRXl4XwlXYYydfVI16J+f/Jlbkjccad8rms9WPzr1FMFBEaiC14U0Xppea/vYHjMpXe6wEhNiM2q+Btj6ZfE41gHgqxHNR9n4U963igUTQmCz2b5tr7/yp6s9pFVF7VKZt5dSseA==;WiOEw0hYGzrMd7VbIUDmwA=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/12/11/c04a10b1-906a-4231-b402-a811eadccee2/thumbnail/1200x675/ab72407c06211c42c14c61cd2c430a83/automation-lowcode-and-nocode-tools-crea-5fd2019dcaad46044ff21da6-1-dec-11-2020-12-25-53-poster.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "mO9wrA0WQXaYG0xsyx5E4rmJbqB+TJxzXzYCggnHK/YF8kKulE0WCiawq5K1U57xUDSITQ0sbHPLjggNoyCGVjoMvwy3etqUiWyOYEEZ6MM3camz0ahepcdglJLgrkIZ4mn2onxJgcvG+kxvAd8boD6X8LVFiPByiA4e1HRZheIGf+BMVy/HNFPe0nfAWTnT4Sttkwgx7XVCB/qo7qo8477N8x2m/QbgnBlSYZf9RhKqQcNLKRN9MLc6sFFNjOslJuct0PjqeUqZnr8Y3pGZokpvTV+z0T3UaZXbTWpQibPhsF1iQoMXqmyCeR2UgVHKoCXbbPg1iFuKWvt0OmilHHMkn3FtRgGNoFjHIlRTDM8=;iNEXox78IGdfb6eWw4yEkg=="
 ---
 

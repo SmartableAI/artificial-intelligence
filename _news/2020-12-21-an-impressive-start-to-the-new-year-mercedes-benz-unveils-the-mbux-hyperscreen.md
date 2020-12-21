@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T15:58:00Z
 originalUrl: "https://www.automotiveworld.com/news-releases/an-impressive-start-to-the-new-year-mercedes-benz-unveils-the-mbux-hyperscreen/"
 webUrl: "https://www.automotiveworld.com/news-releases/an-impressive-start-to-the-new-year-mercedes-benz-unveils-the-mbux-hyperscreen/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Automotive World

@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmalive.com/immunai-collaborates-with-10x-genomics/
 webUrl: "https://www.pharmalive.com/immunai-collaborates-with-10x-genomics/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Outsourcing-pharma
       domain: outsourcing-pharma.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/preclinical-research/collaboration-to-chart-ai-generated-map-of-the-immune-system/12053307-1-eng-GB/Collaboration-to-chart-AI-generated-map-of-the-immune-system.jpg"
         width: 750

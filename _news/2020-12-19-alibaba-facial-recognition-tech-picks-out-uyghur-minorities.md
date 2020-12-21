@@ -7,7 +7,7 @@ originalUrl: "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-ale
 webUrl: "https://ipvm.com/reports/alibaba-uyghur"
 type: article
 quality: 139
-heat: 309
+heat: 319
 published: true
 
 provider:
@@ -82,6 +82,22 @@ related:
     images:
       - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
         width: 1200
+        height: 630
+        isCached: true
+  - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
+    excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
+    publishedDateTime: 2020-12-21T16:41:00Z
+    webUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
         height: 630
         isCached: true
   - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority, Report Shows"

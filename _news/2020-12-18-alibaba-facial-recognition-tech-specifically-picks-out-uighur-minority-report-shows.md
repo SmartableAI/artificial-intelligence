@@ -101,6 +101,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
+    excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
+    publishedDateTime: 2020-12-21T16:41:00Z
+    webUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
   - title: "Alibaba offered clients facial recognition to identify Uighur people, report reveals"
     excerpt: "Software could be used to identify videos filmed and uploaded by Uighur person, says IVPM First published on Thu 17 Dec 2020 05.42 EST The Chinese tech company Alibaba Group Holding Ltd offered facial recognition software to clients which can identify the ..."
     publishedDateTime: 2020-12-17T10:46:00Z

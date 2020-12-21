@@ -5,6 +5,8 @@ excerpt: "“You’re seeing fully driverless technology out of the ... Google C
 publishedDateTime: 2020-12-09T18:30:00Z
 originalUrl: "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
 webUrl: "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
+ampWebUrl: "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "XJ+1GRw7xGZfYssp8qEwzftmF4C/eHDe+HWrS442UGkUmhCn7YHRHBxO/eBxQGlpDoblH0SbA+nn/nLSgOzpQCWpIeeC/HLhx605OV8AH5U/G2xddYoVwpvOaVpWllOoMgA+U1UQC56PyJF9Fo9Gl0T7lEI9Xne+zmKKh4kynlTRf2IunzQVs1N6zDca66uc7XqDVpGOhOvY+Z+en0Cs2ofIxUu5/Ia/uD6/sQKj0X9I08KpyEN7G2bp5tBo1UrasTz8AW2qmpWTT0qU9KXqM4hvtiZsq8ur2XK+VnmO76bRGQWs1Mk821THOCYGbHchpHjq+Iaorh0Nkagv3bn7gftC36abQ+UVWfJYIBACSH8=;spR1+Tdnte8uZnc/dpTIxg=="
+images:
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "im1VnlU4RjimjMIZpKXMglJtiizaSt6gJTOn60jrcjPNXbmH1TC5gnU2tuGLO06UFpDtryEEvsCrtGFkFKa0Pu5A7GYK684izAh8ueXnLQ4KkIQEZmyYfSELNAbHhH4uo3A0TCTOcnr6H56e3CX8au+hNMhbGPuz6/eV0VDJx2IShRKzawCRrp0KFddXdep+6WHWlCg8jgawqMKbqBwolLicEXjNp5uwiNjX4I6UTRUJp2E14XX990xDa4X3vFmbjcdNsIrG63Zr029IJDgKwd5OgPwhlCQthanQhT8Ou60/dfr3tDBKYAVMCmer6kCI6mW3hxtylMykdNa2TTkjAm5MU3fNgTEVDBgbkMuQoUM=;yak6tf90bO7+QvuUZJR4Nw=="
 ---
 

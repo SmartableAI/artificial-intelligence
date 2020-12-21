@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027-live-now.md",
+      "title": "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now",
+      "excerpt": "As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type (Watson Language, Watson Data Insights, Watson Speech, and Watson Vision Services);",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-ibm-says-managers-that-use-ai-will-usurp-those-that-dont.md",
       "title": "IBM says managers that use AI will usurp those that don't",
       "excerpt": "AI won't replace managers but managers that know how to use it will usurp those that don't, according to IBM. The comments were made to CNBC by the tech giant's senior VP of cloud and data, Rob Thomas,",
@@ -1376,40 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-global-ai-based-learning-market-in-a-boom-phase-free-webinar.md",
-      "title": "Global AI-based Learning Market in a Boom Phase: Free Webinar",
-      "excerpt": "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market\". According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18494470",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494470",
-      "publishedDateTime": "2020-11-23T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

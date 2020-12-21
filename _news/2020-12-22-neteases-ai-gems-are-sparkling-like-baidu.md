@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T16:32:00Z
 originalUrl: "https://seekingalpha.com/article/4395637-neteases-ai-gems-are-sparkling-like-baidu"
 webUrl: "https://seekingalpha.com/article/4395637-neteases-ai-gems-are-sparkling-like-baidu"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seeking Alpha

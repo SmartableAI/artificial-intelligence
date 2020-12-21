@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/Artu_trans_NvBQzQNjv4BqBmo3ZBPOSwC7GqRZsuXAwPz7VF_eVkNHHJ3r8hY6kQM.jpg"
         width: 2760
         height: 1725
-        isCached: true
-  - title: "In a first, Air Force uses AI on military jet"
-    excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
-    publishedDateTime: 2020-12-17T01:35:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 57
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76KO3XRVYFEXTG4BLXBONIQWZQ.jpg&w=1440"
-        width: 1000
-        height: 667
         isCached: true
   - title: "In a first, Air Force uses artificial intelligence aboard military jet"
     excerpt: "The Air Force allowed an artificial-intelligence algorithm to control sensor and navigation systems on a U2 Dragon Lady spy plane in a training flight Tuesday, officials said."

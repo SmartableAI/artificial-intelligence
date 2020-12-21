@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-21-explore-the-verges-2020-science-time-capsule-stored-in-dna.md",
+      "title": "Explore the Verge’s 2020 science time capsule, stored in DNA",
+      "excerpt": "The post Explore the Verge’s 2020 science time capsule, stored in DNA appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "originalUrl": "https://www.theverge.com/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/i_2zr4RDKtQXHTzptmkHR5RQFzU=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68560013/Container_2.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "publishedDateTime": "2020-12-21T09:38:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers.md",
       "title": "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers",
       "excerpt": "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1390,49 +1442,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud.md",
-      "title": "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud",
-      "excerpt": "PRNewswire/ -- Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook",
-          "width": 2063,
-          "height": 1082,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

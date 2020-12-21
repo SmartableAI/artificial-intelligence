@@ -9,7 +9,7 @@ ampWebUrl: "https://celticswire.usatoday.com/2020/12/17/nba-boston-celtics-facia
 cdnAmpWebUrl: "https://celticswire-usatoday-com.cdn.ampproject.org/c/s/celticswire.usatoday.com/2020/12/17/nba-boston-celtics-facial-recognition-technology-nope-opinion/amp/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Celtics players call for Gov. Baker to end facial recognition surveillance"
-    excerpt: "\"Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police.\""
-    publishedDateTime: 2020-12-16T23:08:00Z
-    webUrl: "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance"
-    ampWebUrl: "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 57
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2020/08/Celtics_76ers_Basketball_90482-850x478.jpg"
-        width: 850
-        height: 478
-        isCached: true
 
 secured: "NKQUJDPxQ9d53RcfMSaBX/vaRajNfXLCv5VZEaJC2yQs+yfxx3Bhq3p5slUIxlA2Qn8rO3sgwTqo6v0j+6zDKUrPajaDDxqqswW13jDfzDlS6i/Oxtv+0uJlYozkQdCK6nV2hU51BEl7eZfxkSSoFIkYj4AKh4FwVRouxbyInaCJtWQKeJWELF0RfqFoRXD1BNrZG6uSte+iIxsFdFkieR8NZa31LBotL/xDJKTxKHi83yyQYUo/pzfqrmN9iM/+Z7eRTNpNwkUwi4rHgX7Df29tDfRyTK+mckADXCmwbsRb6Ix3IGRzuHwTj7i4Zzu3Q8EkYP18Z0SmwjblXQV8/po0a4u/Vp6NCOOf7fVfjluuXfahYeehhGu0Dy61xGO+nuolW25uNZzsR6pbvQekztkUNsI5b3n2hggKfNFBecH+deTxqYimKx5xnhHJ+GGfxzyk9rjfuaRLtmY0/uJRfmea+x8eHQgifZEloZkhcgsSGwRLCok9BIHPf76EjkAklpJ+8+Q++SsW91p02gzwCA==;ejyBtxy4aLRxJvRfdZyYsg=="
 ---

@@ -102,6 +102,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Elon Musk says Tesla will release its 'full self-driving' feature as a subscription in early 2021"
+    excerpt: "The company's \"full self-driving\" package will be available as a subscription starting in early 2021, Tesla CEO Elon Musk in a Sunday tweet. Tesla cars come standard with Autopilot, a driver-assistance feature that can brake, accelerate, and steer ..."
+    publishedDateTime: 2020-12-21T16:37:00Z
+    webUrl: "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5fe0c832d366e600180994ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Full-Self Driving Tesla Model 3 Returns To Lombard Street In SF"
     excerpt: "Streets don’t get more winding and difficult to navigate than this iconic bit of road in historic San Francisco."
     publishedDateTime: 2020-12-21T13:16:00Z
@@ -134,6 +150,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
+    excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."
+    publishedDateTime: 2020-12-21T15:23:00Z
+    webUrl: "https://knowtechie.com/teslas-full-self-driving-mode-could-be-available-as-a-subscription-in-2021/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 32
 
 secured: "VVVbQNecTc3mDSH4wusMWGFOaLQij0MtuJys25YaOXii4xSISy8na6j4gdMtLzF1pj5tkUyT31OJMBP738GgZsxYw8Yl5yMrZb/Uh6fYfxi0//fm9rvoBrJR+BQaAd701dKpt8D1uIiUa5EbFoIDph4tZNEmZeJx1QoxmmIF6ZLjbE+vD5XSLgxANvxTSzr4wnqxFwGhI2dUG2sia2CoOXt8V8RR3tJzJT3ROJ+Di0bqBT0IgGvvxn4Nub3LoE+oaJBFHUOzKE4BziqgApzB2AS1T3mPKwif1xOpBUzZR4Wh2lIThwpKuVk5uUWFTDsq3b0mQOQbX9jGWAXaycgjRh+e0Yh6uXObCuNLY/vWrKvyCkmihV2ZqBcHuYtOWNb28RqGq+QGtMYiIccw7ZRJFNURQkRBHxdfpB95fddTtongnDR4WR5hGQPL9sSyd1po1W3TCD8fNeqws0PARZcgQvUynCUcPT0k/U9YD0bgsRwdiezs4ibLmdqsn/2ts4XUBrpQtt/kTcEcE25NoFg0Nw==;4IoH1bR8GALTgE4XUKXppA=="
 ---

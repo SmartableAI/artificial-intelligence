@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/16114/video-level-5-
 webUrl: "https://electronics360.globalspec.com/article/16114/video-level-5-self-driving-robotaxi-unveiled-by-zoox"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon unveils fully self-driving robotaxi called Zoox"
-    excerpt: "Zoox, a relatively compact vehicle, can seat four people, is bidirectional, and can reach a top speed of 75 miles per hour without a driver."
-    publishedDateTime: 2020-12-17T02:54:00Z
-    webUrl: "https://business.inquirer.net/314133/amazon-unveils-fully-self-driving-robotaxi-called-zoox"
-    ampWebUrl: "https://business.inquirer.net/314133/amazon-unveils-fully-self-driving-robotaxi-called-zoox/amp"
-    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/314133/amazon-unveils-fully-self-driving-robotaxi-called-zoox/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://business.inquirer.net/files/2020/12/20201217-Amazon-Zoox-620x414.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
     excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
     publishedDateTime: 2020-12-19T10:06:00Z

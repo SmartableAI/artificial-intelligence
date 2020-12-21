@@ -69,22 +69,6 @@ related:
         width: 2760
         height: 1725
         isCached: true
-  - title: "In a first, Air Force uses AI on military jet"
-    excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
-    publishedDateTime: 2020-12-17T01:35:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 57
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76KO3XRVYFEXTG4BLXBONIQWZQ.jpg&w=1440"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "xFN4OJN0Dy2CSgPoCUVVqKxtrGrnMHv6s1JpMXFzzR6eAOT83HlLOx8eQbovMvEKvCxmPK4h7ry/A7UUMERXs/FH0WyKjFD9SMfrfAd9PAOCOcDiJCvhV3p/zSfMDuhe+JP3dQnYSkSXMBcJ0dh3nrM3y772Yb+OfGMoWvz8mvA/GDWDf4m0uNyXrKGJxmWDk30GjwbEoZANtXbKcea+PSEVo+avMoFRk9C3ulq1U/U1fypTFRVpUpvLcAfBgMHgbBoJC6r1A1X4h5yghGXpwKrOJNoqlvQlvalzZbiKk/62BFq4tTHdVusv0YtuJo2WD1a33fOlPL1DByap9QyQA1l3sMjsHEj+zyXvofESU98Lihze+Ksa+L361hpqFhD0U4Jl9mwyBhqF5rLJjPkVVIILNxsJcZcObnUMSARnc3b0Cls4wq01TgnMP19pVu1VBrFRzLVj9QCUTXokfQeqClVKtJwDRP3+18ieEYtMGvCbaJXNalyxxCjQ58A//Mx3E8Cx49evPg49ljR8AOHAxg==;Rxtf01NDEb6Uf/zsII99hw=="
 ---

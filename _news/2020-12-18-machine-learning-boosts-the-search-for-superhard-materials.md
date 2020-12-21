@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-12-machine-boosts-superhard-materials.amp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-boosts-superhard-materials.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning boosts the search for 'superhard' materials"
+    excerpt: "Superhard materials are in high demand in industry, from energy production to aerospace, but finding suitable new materials has largely been a matter of trial and error based on classical materials such as diamonds."
+    publishedDateTime: 2020-12-18T17:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145229.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine Learning Boosts the Search for New “Superhard” Materials"
     excerpt: "Superhard materials are in high demand in industry, from energy production to aerospace, but finding suitable new materials has largely been a matter of trial and error based on classical materials such as diamonds."
     publishedDateTime: 2020-12-20T22:17:00Z

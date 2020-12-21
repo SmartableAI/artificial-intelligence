@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon unveils fully self-driving robotaxi called Zoox"
-    excerpt: "Zoox, a relatively compact vehicle, can seat four people, is bidirectional, and can reach a top speed of 75 miles per hour without a driver."
-    publishedDateTime: 2020-12-17T02:54:00Z
-    webUrl: "https://business.inquirer.net/314133/amazon-unveils-fully-self-driving-robotaxi-called-zoox"
-    ampWebUrl: "https://business.inquirer.net/314133/amazon-unveils-fully-self-driving-robotaxi-called-zoox/amp"
-    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/314133/amazon-unveils-fully-self-driving-robotaxi-called-zoox/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://business.inquirer.net/files/2020/12/20201217-Amazon-Zoox-620x414.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Video: Level 5 self-driving robotaxi unveiled by Zoox"
     excerpt: "Zoox, an autonomous vehicle subsidiary of Amazon, unveiled its Level 5 robotaxi designed for urban mobility that features bi-directional capabilities. (See A primer to the 6 levels of autonomous driving for a breakdown of the levels of self-driving vehicles."
     publishedDateTime: 2020-12-18T16:51:00Z
