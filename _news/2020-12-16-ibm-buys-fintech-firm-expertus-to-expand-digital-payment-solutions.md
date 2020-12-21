@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM Acquires Fintech Startup Expertus To Strengthen Banking Solutions"
-    excerpt: "IBM Corporation (NYSE: IBM) on Tuesday announced it has acquired Expertus Technologies Inc, a Canadian fintech startup offering payments and cash management solutions."
-    publishedDateTime: 2020-12-16T07:20:00Z
-    webUrl: "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18809433"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg"
-        width: 2832
-        height: 2832
-        isCached: true
   - title: "IBM acquires Montreal fintech solutions provider Expertus Technologies"
     excerpt: "IBM has acquired Expertus Technologies Inc, a Montreal-based fintech company. Expertus, a financial technology firm that processes more than $50 billion in"
     publishedDateTime: 2020-12-16T14:00:00Z
@@ -53,63 +37,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Upstart Jumps in Trading Debut for Fintech Company"
-    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
-    publishedDateTime: 2020-12-16T20:00:00Z
-    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "The frenzy behind fintech"
-    excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
-    publishedDateTime: 2020-12-20T21:46:00Z
-    webUrl: "https://www.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
-    ampWebUrl: "https://amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 44
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "81 startups that will boom in 2021, according to the startup experts: venture capitalists"
-    excerpt: "Investors at the best venture capital firms name the startups poised for a big 2021 inside and outside of their portfolios and across industries."
-    publishedDateTime: 2020-12-18T21:13:00Z
-    webUrl: "https://www.businessinsider.com/vcs-name-the-startups-that-will-boom-in-2021-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://i.insider.com/5fdcea1bc910a400192e85bd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
-    excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
-    publishedDateTime: 2020-12-17T03:31:00Z
-    webUrl: "https://www.law360.com/california/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
-    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
     excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
     publishedDateTime: 2020-12-17T04:00:00Z
@@ -138,17 +65,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
-    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
-    publishedDateTime: 2020-12-17T23:54:00Z
-    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
-    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z
@@ -163,35 +79,33 @@ related:
         width: 577
         height: 324
         isCached: true
-  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
-    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
-    publishedDateTime: 2020-12-18T03:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+  - title: "The Servier Group opens a worldwide Artificial Intelligence Hub in Montreal, in partnership with Centech"
+    excerpt: "Servier, an international pharmaceutical company, announces the opening of a worldwide Artificial Intelligence (AI) Hub in Montreal, in partnership with Centech, a deep-tech business incubator recognized as one of the most successful university incubators in the world."
+    publishedDateTime: 2020-12-17T07:53:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/the-servier-group-opens-a-worldwide-artificial-intelligence-hub-in-montreal-in-partnership-with-centech/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 22
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
-        width: 300
-        height: 225
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
-    publishedDateTime: 2020-12-18T10:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+  - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
+    excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"
+    publishedDateTime: 2020-12-16T22:00:00Z
+    webUrl: "https://www.law.com/americanlawyer/2020/12/16/as-fintech-stays-hot-reed-smith-hires-partner-who-led-2-big-law-firms-payment-tech-practices/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
+      name: Law
+      domain: law.com
+    quality: 12
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2020/12/Reed-Smith-Office-Sign-Article-202012161651.jpg"
+        width: 621
+        height: 372
         isCached: true
 
 secured: "7HLT0MN27TVh9d9vW5RVaal2y3vTgEvjg/oave1eS0b6Cp6y6DPogDBGYK2EkTQWWLFPtEIFGnEOAqb/TWWROFj1RlPKbGCAljoRZrB7YVP03SHDjaNTDPICWfO02/00Bhy/aKWTA3X+N0YlLadRRqxuSfnoeAtAQKz2l4DIvfDS6pfFP87v2KoLhUs3W5LcseEKPjnKsO68QZAtdeERkP8km08BG72Ypmw8TXBbvHXD+XHLrXeFNuoMD/hvsZVCppqwLk0iwtCsLBziFxcK4CcmrYRzNalDV5Stdbt1UGl1L8I1/nmuugV8Si6NLt473cAA92yTUJHnUgCy/du/OWj3N5Qj8gZrVnpmbeTqhoo=;Rp6tVvoFC1HMsB6Smz4IBg=="

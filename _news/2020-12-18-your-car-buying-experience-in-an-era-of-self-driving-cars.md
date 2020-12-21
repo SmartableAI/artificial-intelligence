@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://koreajoongangdaily.joins.com/data/photo/2020/12/20/cadbde55-c8b0-44b4-b3c1-4259559daf87.jpg"
         width: 560
         height: 373
+        isCached: true
+  - title: "How Google's Self-Driving Car Will Change Everything"
+    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
+    publishedDateTime: 2020-12-19T00:00:00Z
+    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 24
+    images:
+      - url: "https://www.investopedia.com/thmb/phBjf6KuW6GPLjQkDSfjOfLG1fI=/680x440/filters:fill(auto,1)/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
+        width: 680
+        height: 440
         isCached: true
   - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
     excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."

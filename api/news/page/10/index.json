@@ -2,6 +2,197 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
+      "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
+      "excerpt": "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-45m-to-scale.md",
+      "title": "Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale",
+      "excerpt": "The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which is why real-time captioning startup Ava",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
+      "originalUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/AvaApp_Meeting0.png?w=1024",
+          "width": 1024,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
+      "publishedDateTime": "2020-12-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ibm-launches-new-innovative-capabilities-for-watson.md",
+      "title": "IBM launches new innovative capabilities for Watson",
+      "excerpt": "IBM today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
+      "originalUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.uniindia.com/cms/gall_content/LargePhoto//2020/12/2020_12$LargePhoto15_Dec_2020_15122020202234.jpg",
+          "width": 300,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United News of India",
+        "domain": "uniindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-machine-learning-a-cheat-sheet.md",
+      "title": "Machine learning: A cheat sheet",
+      "excerpt": "This comprehensive guide explains what machine learning really means. Artificial intelligence (AI), which has been around since the 1950s, has seen ebbs and flows in popularity over the last 60 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/02/28/0b23d692-86fe-4992-ac77-01704623cc2b/thumbnail/1200x675/1b95ac4d209af970fcc0c175aad91cf6/20180227machinelearningtom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
+      "publishedDateTime": "2020-12-10T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers.md",
       "title": "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers",
       "excerpt": "Insurance and financial services leader rapidly migrates to AWS to unlock data-driven insights, automate processes in the cloud, and deliver new digital services to millions",
@@ -682,6 +873,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-10-capital-one-closes-all-data-centers-relies-on-aws-on-demand-infrastructure.md",
+      "title": "Capital One closes all data centers, relies on AWS on-demand infrastructure",
+      "excerpt": "The highly regulated financial industry has been notoriously cautious about moving to the cloud. To benefit from the flexibility and economy of cloud computing but also to be able to address ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Melanie-Frank-AWS-re-Invent-2020.jpg",
+          "width": 666,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative.md",
       "title": "AWS accelerates AI and ML in the public sector with the Rapid Adoption Assistance Initiative",
       "excerpt": "It provides a direct, scalable and automated mechanism for all the public sector partners to reach out to AWS experts within our team for assistance in building and deploying machine learning workloads on behalf of the agencies,",
@@ -956,240 +1190,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-national-digest-gm-green-lights-test-of-driverless-cars-as-taxis.md",
-      "title": "National Digest: GM green lights test of driverless cars as taxis",
-      "excerpt": "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7PC5RB2M4I6XGGEEXOJ6SMH5A.jpg&w=1440",
-          "width": 1440,
-          "height": 945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-09T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-google-ceo-says-company-will-review-ai-scholars-abrupt-exit.md",
-      "title": "Google CEO says company will review AI scholar’s abrupt exit",
-      "excerpt": "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees",
-      "sourceUrl": null,
-      "webUrl": "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/",
-      "originalUrl": "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.arklatexhomepage.com/wp-content/uploads/sites/5/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/",
-      "cdnAmpWebUrl": "https://www-arklatexhomepage-com.cdn.ampproject.org/c/s/www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/",
-      "publishedDateTime": "2020-12-09T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArkLaTex Homepage",
-        "domain": "arklatexhomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias.md",
-      "title": "Columbia researchers find white men are the worst at reducing AI bias",
-      "excerpt": "Columbia researchers find evidence that differences in gender among engineers plays a role in introducing bias into AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
-      "publishedDateTime": "2020-12-09T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast.md",
-      "title": "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast",
-      "excerpt": "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
-      "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
-      "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/1200x675/5c415c0f75141a1795cb279d61b3d614/20201203-aiindiana-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "publishedDateTime": "2020-12-09T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI Ethics"
       ]
     }
   ],

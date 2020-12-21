@@ -115,6 +115,20 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "How Google's Self-Driving Car Will Change Everything"
+    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
+    publishedDateTime: 2020-12-19T00:00:00Z
+    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 24
+    images:
+      - url: "https://www.investopedia.com/thmb/phBjf6KuW6GPLjQkDSfjOfLG1fI=/680x440/filters:fill(auto,1)/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
+        width: 680
+        height: 440
+        isCached: true
   - title: "Video: Watch a one-hour journey in a Mobileye self-driving car"
     excerpt: "In the test, Mobileye’s vehicles were deployed in Munich and within a few days were operating in the region using vehicles to build maps before the self-driving cars start driving. “High-definition maps are crucial to a safe and robust self-driving system,"
     publishedDateTime: 2020-12-16T13:56:00Z

@@ -36,20 +36,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-12-17T11:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Advanced Report On Automatic Content Recognition (ACR) Market, Which Is Expected To Reach USD 7,915.7 Mn By 2030 at 17.4% CAGR -Market.Biz"
     excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Automatic Content Recognition (ACR) Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats,"
     publishedDateTime: 2020-12-17T09:43:00Z

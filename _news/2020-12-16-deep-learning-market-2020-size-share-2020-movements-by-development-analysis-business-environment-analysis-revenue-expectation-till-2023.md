@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
-    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
-    publishedDateTime: 2020-12-18T20:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2020-12-17T13:23:00Z
@@ -59,20 +45,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Technology in the Financial Services Industry Environment Development Trend & Forecast Report 2030"
-    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Technology in the Financial Services market, for example, merchant viewpoint, market drivers,"
-    publishedDateTime: 2020-12-16T12:56:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-financial-services-technology-corporate-news-products-and-services-6424298be67deaca4782e13de430a55b"
+  - title: "Personal Robots Market Growth, Trends, Forecasts..."
+    excerpt: "Also, in November 2018, India-based startup Emotix launched Miko 2 ... a developer and operator of cloud AI and robotic solutions, launched its cloud AI-based, highly compliant service robot, the XR-1. Asia - Pacific is Expected to be the Fastest Growing ..."
+    publishedDateTime: 2020-12-16T11:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18811746/personal-robots-market-growth-trends-forecasts-report-2020-2025-competitive-landscape-remains-exce"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18811746"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18811746"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "GcrYAy5pcoPihmNCA5xJmPSX2fGbto2ZZu7LtkO5/3IHQIaxKunGahVU10okHpcJaducLiK/UXWViNwC3zZ0DLsLC41fNISzkBB0eR3KLJURNNOgNg9+2nge5MnQA7Eg6PbPKgEU2tPAa9w8BzThQGh04HbT1Z+5L8zJaeZ3IaOzPey0y8OpcZm/CpNGcYlXUKwwGG0LsBKZX0WUHg/OnCN1X0gcYJZcpRiE7ohuAj33/DHpe2EIDqIrxVxjUQ9vXLaSO97vOLHK58eiYhbbSTPbjetsFHVGzgjmhCxx++lnTchGSqjqT6yjHcFxmnNbm8hYCaoEeoVj1Slrp3Dq8l/jfzgNXePsiystxVQy9UQ=;8Q8bbRmXfcV4ghP/VZCRHQ=="
 ---

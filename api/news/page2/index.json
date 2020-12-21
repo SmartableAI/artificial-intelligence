@@ -106,6 +106,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-18-upstart-upst-fresh-fintech-ipo-with-enormous-potential.md",
+      "title": "Upstart (UPST): Fresh Fintech IPO With Enormous Potential",
+      "excerpt": "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18",
+      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp",
+      "publishedDateTime": "2020-12-17T19:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work.md",
       "title": "Synthetic Data Promises Fair AI And Privacy Compliance, But How Exactly Does It Work?",
       "excerpt": "Synthetic data, itself a product of sophisticated generative AI, offers a way out of privacy risks and bias issues.",
@@ -731,7 +765,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -772,6 +806,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
+      "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
+      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -939,7 +1017,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1169,92 +1247,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
-      "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
-      "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "originalUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "publishedDateTime": "2020-12-16T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-indias-invisible-women-hope-for-recognition-at-farmers-protests.md",
-      "title": "India's 'invisible' women hope for recognition at farmers protests",
-      "excerpt": "Legions of women have trekked to India's capital to join massive protests against agricultural reforms, hoping not only to protect their livelihoods but also win visibility as farmers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/india-women-farmers/indias-invisible-women-hope-for-recognition-at-farmers-protests-idUSL8N2IV4M5",
-      "originalUrl": "https://www.reuters.com/article/india-women-farmers/indias-invisible-women-hope-for-recognition-at-farmers-protests-idUSL8N2IV4M5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q2F7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2F7",
-      "publishedDateTime": "2020-12-16T12:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

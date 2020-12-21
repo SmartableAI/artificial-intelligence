@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
-    excerpt: "Walmart will be running full autonomous delivery trucks, with no human oversight, in Arkansas and expanding to Louisiana. Here's what they're doing."
-    publishedDateTime: 2020-12-16T08:20:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 46
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/gatik-self-driving-vehicle-use-for-lead-image-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
     excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
     publishedDateTime: 2020-12-17T00:39:00Z

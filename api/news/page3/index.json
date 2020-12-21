@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
+      "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
+      "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
+      "originalUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
+      "publishedDateTime": "2020-12-16T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-indias-invisible-women-hope-for-recognition-at-farmers-protests.md",
+      "title": "India's 'invisible' women hope for recognition at farmers protests",
+      "excerpt": "Legions of women have trekked to India's capital to join massive protests against agricultural reforms, hoping not only to protect their livelihoods but also win visibility as farmers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/india-women-farmers/indias-invisible-women-hope-for-recognition-at-farmers-protests-idUSL8N2IV4M5",
+      "originalUrl": "https://www.reuters.com/article/india-women-farmers/indias-invisible-women-hope-for-recognition-at-farmers-protests-idUSL8N2IV4M5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q2F7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2F7",
+      "publishedDateTime": "2020-12-16T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl.md",
       "title": "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL",
       "excerpt": "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents",
@@ -106,7 +192,7 @@
       "originalUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -801,6 +887,59 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023.md",
+      "title": "Artificial Intelligence (AI) in Marketing Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2023",
+      "excerpt": "Market Synopsis The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-trump-could-torpedo-a-bill-to-boost-funding-for-ai.md",
       "title": "Trump Could Torpedo a Bill to Boost Funding for AI",
       "excerpt": "The National Defense Authorization Act would increase US investment by $6.4 billion over 5 years. But the president could veto it over other provisions.",
@@ -1089,162 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more.md",
-      "title": "Tesla Full Self-Driving in hacked AR view looks fascinating, and more",
-      "excerpt": "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
-      "originalUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
-      "publishedDateTime": "2020-12-16T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-the-four-mistakes-that-kill-artificial-intelligence-projects.md",
-      "title": "The Four Mistakes That Kill Artificial Intelligence Projects",
-      "excerpt": "By Joey Bertschler, data analyst for Uniworld.io: artificial intelligence for B2B and B2C. I came across a Quora question recently that asked, “What makes AI projects fail?” It’s a valid question: The vast majority of artificial intelligence (AI) projects fail,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd9017bfb580cfe3fe8ef74%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/amp/",
-      "publishedDateTime": "2020-12-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-fun-machine-learning-experiment-creates-a-vocal-opera-in-your-browser.md",
-      "title": "Fun machine learning experiment creates a vocal opera in your browser",
-      "excerpt": "Google's Arts and Culture lab has launched a clever browser experiment in collaboration with David Li. The Blob Opera puts four operatic voices at your disposal to create glorious AI-driven performances.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "originalUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/afd589d/2147483647/strip/true/crop/1071x714+65+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9e%2F02%2F996578d848038d6c195522c0ef87%2F01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "publishedDateTime": "2020-12-16T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

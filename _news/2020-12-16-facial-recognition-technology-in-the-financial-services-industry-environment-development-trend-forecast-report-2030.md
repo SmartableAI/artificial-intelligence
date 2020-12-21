@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/wired-release/technology-business
 webUrl: "https://apnews.com/press-release/wired-release/technology-business-financial-services-technology-corporate-news-products-and-services-6424298be67deaca4782e13de430a55b"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
-    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
-    publishedDateTime: 2020-12-18T20:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
+  - title: "Breakthrough HyperApp and Intelligent Document Processing Solution Drives Digital Transformation for the Financial Services and Mortgage Industries"
+    excerpt: "New partnership between Ephesoft and JIFFY.ai will focus on cloud, low-code technology solution to accelerate loan and mortgage document processing"
+    publishedDateTime: 2020-12-17T18:49:00Z
+    webUrl: "https://www.paymentsjournal.com/breakthrough-hyperapp-and-intelligent-document-processing-solution-drives-digital-transformation-for-the-financial-services-and-mortgage-industries/"
+    ampWebUrl: "https://www.paymentsjournal.com/breakthrough-hyperapp-and-intelligent-document-processing-solution-drives-digital-transformation-for-the-financial-services-and-mortgage-industries/amp/"
+    cdnAmpWebUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/breakthrough-hyperapp-and-intelligent-document-processing-solution-drives-digital-transformation-for-the-financial-services-and-mortgage-industries/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: PaymentsJournal
+      domain: paymentsjournal.com
+    quality: 6
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2020-12-17T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market 2020 Size, Share 2020 Movements by Development Analysis, Business Environment Analysis, Revenue Expectation till 2023"
-    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
-    publishedDateTime: 2020-12-16T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-size-share-2020-movements-by-development-analysis-business-environment-analysis-revenue-expectation-till-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.paymentsjournal.com/wp-content/uploads/2020/09/tech-devices-icons-connected-digital-planet-earth_117023-449.jpg"
+        width: 626
+        height: 411
         isCached: true
 
 secured: "xHCQuJfsM0aa+budyustUyQ0cw0AVg8wQH7YM83KziTGTUb3w2jjlglWLTPvyRJHUa59Ei44tUzRNPqdiIw5rkbemhPpIWC3ALBclC42HnLcBGQR1AxmGltjXqUjCM9q/En2b+PdY/w6QM712SjYn7t/5uG67vDsrcp6h0IBo16OIpi2m7GmWTndKCDIzAr+w3eewk7p+MmMhnPIMnfAzvQFTb0N2r1iiGbyB9zTSDz5iHF2a29qfWkVUx4KfGPZzqqTrFIyNGXPGkX6pOvviWMLRfthoyr93VBqaapJAMC/TrBmQ0OvnCaBQlg6tKEAZjPCvBZiDY5ZLcW6K3w7xfE+uer9a2BTdbTLKVNjkSw=;MVSvV3zkZMHS0SjPRH6FAw=="

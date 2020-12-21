@@ -35,20 +35,6 @@ related:
         width: 990
         height: 498
         isCached: true
-  - title: "Hands-On Guide To Natural language Processing Using Spacy"
-    excerpt: "Spacy is an open-source software python library used in advanced natural language processing and machine learning."
-    publishedDateTime: 2020-12-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/nlp-deep-learning-nlp-framework-nlp-model/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/image-4.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TvkbS6+T/1OJRLXtITk6JN7+4A0FoWjrIb5G2yAIr7TytzwvbZhxfs4HMlVfLjpioXJY1j3/wWDgRMWDr87FYve+TKNjD74DI+96/18uMtJCUZm2KOopxlL1bNd/HUCWZsQ7AFSU+Y+oQt4KdkNVDu/+ThC3kKZN1/rrFZAjz9p/AB6Iurb0lKsVYBgAIkWK6KgFZIeq2JGOrCYRE0n/Q99iZ5HcdRF8vfyajH6Q4ep5SuUH/VXA0jdE7zLo2OgpBA0jXrnFpHbwSdLiUTpLRNLfIYjgBfSOxBrGvjQ0gTqDR9MC7k8wRKcZFmMOH1NzqIpa7pB/5dzxmhWpK74MSbSc0rUZ99EIC1jyNGv7q6Q=;VSF9OSDaWTJRP4oWFrmTjQ=="
 ---

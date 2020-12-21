@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-upstart-upst-fresh-fintech-ipo-with-enormous-potential.md",
+      "title": "Upstart (UPST): Fresh Fintech IPO With Enormous Potential",
+      "excerpt": "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18",
+      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp",
+      "publishedDateTime": "2020-12-17T19:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money.md",
       "title": "How Corporate Card Startup Ramp Is Using AI To Save Clients Money",
       "excerpt": "Ramp's growth and success in attracting venture funding in a challenging economic environment further prove that their business model is prescient and signals the future of fintech,",
@@ -103,6 +137,50 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
+      "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
+      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1245,110 +1323,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
-      "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
-      "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilR5j0VZWcoo/v0/360x-1.jpg",
-          "width": 360,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "publishedDateTime": "2020-11-26T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-bank-of-canada-says-recent-covid-19-vaccine-news-is-promising-recovery-to-be-tough.md",
-      "title": "Bank of Canada says recent COVID-19 vaccine news is promising, recovery to be tough",
-      "excerpt": "Recent news about coronavirus vaccines is promising even as cases continue to increase, Bank of Canada Governor Tiff Macklem said on Thursday, reiterating that the recovery would be tough.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
-      "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1BR",
-          "width": 886,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2862DA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA",
-      "publishedDateTime": "2020-11-26T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

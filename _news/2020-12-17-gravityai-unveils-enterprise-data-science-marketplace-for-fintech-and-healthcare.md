@@ -1,29 +1,27 @@
 ---
 category: news
 title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
-publishedDateTime: 2020-12-17T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
-webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
+excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
+publishedDateTime: 2020-12-17T15:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 61
+heat: 111
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
-    width: 958
-    height: 502
-    isCached: true
 
 related:
   - title: "Getting healthcare enterprise AI data to deliver"
@@ -40,7 +38,69 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Upstart Jumps in Trading Debut for Fintech Company"
+    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
+    publishedDateTime: 2020-12-16T20:00:00Z
+    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "The frenzy behind fintech"
+    excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
+    publishedDateTime: 2020-12-20T21:46:00Z
+    webUrl: "https://www.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    ampWebUrl: "https://amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
+    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
+    publishedDateTime: 2020-12-18T03:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
+    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
+    publishedDateTime: 2020-12-18T10:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "rzNlocYUS2nYhNTMUUWLohITFNLvpPG8V8ZC5H+9fuzCK7Ow2/D4Dsg1c+auVKMa1kZS/Mlu+Thf4522plK9TaGYRWtsbiP5o2AWIv2nHQzVTr/znsMBBzM5KRgeEqISk4WxUcpmPi0U7Eea+jFxqbkY7kNFBQkEM8J3nDdVC9NQyQl8djCt5zmrEdKUki6Jo55VycZvUpHZGinUQfCkLYMAsl0wW+/JiVejNDrbYN59JGde36rR0LpayCTkmIP/XPrb6Psk8mSq1vJLp9exEthKJD8XV56p+M7uRp7xN7BHNLz2klFProOajCkhwV1VX4DBnYkFjWNrNTXIC/c2Zu+JGIZ4ZJwUt+pIRRvkrgY=;/7HfalAkBbL3lQbuCEmVkg=="
+secured: "GifP65YWePpmW439+DYTGnIRc/7SGqD5WTxnxmJuyvzkVvKFN12OqFl2B+lsLTom4KnSMJjUiIye7v/BB8hkKNSxaZ6Gv3appbo3aYwD30gscJxSnkswzMLp6f80vARdyG5/rXA4m7juGDh8mzkEwhH0ghJpIRkh7BheODtGN/8t7uiLGQBoxP525zMjiCMuDbCQWqSCT1jYw9iT/3BD7QARJzYhgfPcrJ0groZvlyQazdHXdwXOQWvO9ggx2vqhPOLjZSwwrN2USw1bQJVezpvxPgsEOMysWwnbvmp0ZvVk8hDq5NBl4JJt9LDy3nSsj3w8P3MJ/tBwv44MtGjadoZKiCvjA4J7gHuBEF+OWNY=;3MTAD87ppFOB4pvF74O+1Q=="
 ---
 

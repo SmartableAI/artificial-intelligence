@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
+      "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
+      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
       "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
       "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
@@ -97,6 +141,59 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023.md",
+      "title": "Artificial Intelligence (AI) in Marketing Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2023",
+      "excerpt": "Market Synopsis The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -1303,84 +1400,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-industry-forecasts-to-2025.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Forecasts to 2025",
-      "excerpt": "A New Market Study, titled 'Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and Challenges' has been featured on WiseGuyReports.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101222392/Global-Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-Industry-Forecasts-to-2025",
-      "originalUrl": "https://menafn.com/1101222392/Global-Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-Industry-Forecasts-to-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?231090",
-          "width": 373,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology.md",
-      "title": "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology",
-      "excerpt": "About artificial intelligence at Bayer Pharmaceuticals Artificial intelligence provides significant opportunities for Bayer’s Pharmaceuticals business. Bayer is committed to realizing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201201005835/en/Bayer-and-Blackford-Analysis-Announce-AI-Platform-Agreement-in-Radiology",
-      "originalUrl": "https://www.businesswire.com/news/home/20201201005835/en/Bayer-and-Blackford-Analysis-Announce-AI-Platform-Agreement-in-Radiology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

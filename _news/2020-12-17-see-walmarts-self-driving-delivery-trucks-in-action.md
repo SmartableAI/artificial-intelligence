@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverles
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
-    excerpt: "Walmart will be running full autonomous delivery trucks, with no human oversight, in Arkansas and expanding to Louisiana. Here's what they're doing."
-    publishedDateTime: 2020-12-16T08:20:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 46
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/gatik-self-driving-vehicle-use-for-lead-image-457x305.jpg"
-        width: 457
-        height: 305
         isCached: true
   - title: "Walmart says it will be making self-driving deliveries in 2021"
     excerpt: "Gatik’s fully autonomous box trucks will start making unassisted deliveries for the giant retailer. It is well-known that Walmart has made significant investments in several self-driving companies such as Baidu,"

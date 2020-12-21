@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-25-amazon-lex-launches-support-for-latin-american-spanish-and-german.md",
+      "title": "Amazon Lex launches support for Latin American Spanish and German",
+      "excerpt": "&iexcl;Amazon Lex lanza soporte para espa&ntilde;ol para Am&eacute;rica Latina! Amazon Lex startet auf Deutsch! Amazon Lex is a service for building conversational interfaces into any application using voice and text. Starting today, Amazon Lex supports Latin American Spanish and German. Now you can",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/LexLanguage_DE.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T17:32:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex.md",
+      "title": "How Xpertal is creating the Contact Center of the future with Amazon Lex",
+      "excerpt": "This is a joint blog post with AWS Solutions Architects, Jorge Alfaro Hidalgo and Mauricio Zajbert, and Chester Perez, the Contact Center Manager at Xpertal. Fomento Econ&oacute;mico Mexicano, S.A.B. de C.V. (FEMSA) is a Mexican multinational beverage and retail company headquartered in Monterrey, Mexico.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/How-Xpertal-1.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T17:29:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-announcing-the-launch-of-amazon-comprehend-events.md",
       "title": "Announcing the launch of Amazon Comprehend Events",
       "excerpt": "Every day, financial organizations need to analyze news articles, SEC filings, and press releases, as well as track financial events such as bankruptcy announcements, changes in executive leadership at companies, and announcements of mergers and acquisitions. They want to accurately extract the key data",
@@ -1298,110 +1402,6 @@
       "ampWebUrl": "https://www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
       "publishedDateTime": "2020-11-14T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix.md",
-      "title": "Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix",
-      "excerpt": "If you’re a Formula 1 (F1) fan, have you ever wondered why F1 teams have very different performances between qualifying and practice sessions? Why do they have multiple practice sessions in the first place? Can practice session results actually tell something about the upcoming qualifying race? In this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/F1-WHITE.png",
-          "width": 800,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T18:10:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features.md",
-      "title": "Alexa now runs on more powerful cloud instances, opening the door for complex new features",
-      "excerpt": "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "originalUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "publishedDateTime": "2020-11-13T15:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

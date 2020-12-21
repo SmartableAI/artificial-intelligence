@@ -2,6 +2,300 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-06-neuroscientists-find-a-way-to-make-object-recognition-models-perform-better.md",
+      "title": "Neuroscientists find a way to make object-recognition models perform better",
+      "excerpt": "Many of these convolutional networks perform very well, but in most cases, researchers don’t know exactly how the network is solving the object-recognition task. In 2013, researchers from DiCarlo’s lab showed that some of these neural networks could ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/object-recognition-v1-1203",
+      "originalUrl": "https://news.mit.edu/2020/object-recognition-v1-1203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202012/MIT-BetterComputerVision-01-Press.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-06T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030.md",
+      "title": "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030",
+      "excerpt": "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-coronavirus-triggered-a-healthcare-ai-boom-was-it-worth-it.md",
+      "title": "Coronavirus triggered a healthcare AI boom. Was it worth it?",
+      "excerpt": "In late January, scientists at DeepMind, Google’s London-based AI unit, gathered to discuss whether there was anything they could do to help fight the brewing coronavirus pandemic. At the time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/ai-healthcare-boom-deepmind?utm_mailing=WI_NEWS_Daily_011220",
+      "originalUrl": "https://www.wired.co.uk/article/ai-healthcare-boom-deepmind?utm_mailing=WI_NEWS_Daily_011220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wi-images.condecdn.net/image/3W71A1LRapa/crop/1440/0.5235602094240838/f/wired-protein.jpg",
+          "width": 1440,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T21:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-tesla-cuts-full-self-driving-upgrade-price-by-1000-for-some-customers.md",
+      "title": "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers",
+      "excerpt": "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "originalUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "publishedDateTime": "2020-12-05T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science.md",
+      "title": "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science",
+      "excerpt": "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
+      "originalUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fbfcbc658-3650-11eb-ab48-f271d195f66f.jpg?crop=1600%2C900%2C0%2C0&resize=685",
+          "width": 685,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-more-than-1500-google-employees-sign-petition-condemning-firing-of-black-ai-ethicist-timnit-gebru.md",
+      "title": "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru",
+      "excerpt": "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
+      "originalUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
+      "publishedDateTime": "2020-12-05T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021.md",
       "title": "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021",
       "excerpt": "In 2021, cybersecurity vendors will accelerate AI and machine learning app development to combine human and machine insights so they can out-innovate attackers intent on escalating an AI-based arms race.",
@@ -920,307 +1214,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-governments-and-artificial-intelligence-policy-and-investment.md",
-      "title": "Governments And Artificial Intelligence, Policy And Investment",
-      "excerpt": "Over the last couple of years, it has become increasingly clear that many democratic governments have been taking a closer look at artificial intelligence (AI), both from a policy standpoint and as something to help their economies of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/",
-      "publishedDateTime": "2020-12-04T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience.md",
-      "title": "Web Summit: Terminus Group introduces the first AI CITY to global audience",
-      "excerpt": "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-has-intuitive-surgical-only-scratched-the-surface-of-robotics.md",
-      "title": "Has Intuitive Surgical Only Scratched The Surface of Robotics?",
-      "excerpt": "Robotics-assisted surgery will keep growing for decades, and despite its hefty price, this stock is just getting started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "publishedDateTime": "2020-12-04T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-how-ai-is-making-an-impact-on-the-surveillance-world.md",
-      "title": "How AI Is Making An Impact On The Surveillance World",
-      "excerpt": "Numerous states are adopting sophisticated AI surveillance technologies -- some legitimate, some violating human rights and some of which fall into a gray area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cc69863202e1c1b581ae8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
-      "publishedDateTime": "2020-12-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws.md",
-      "title": "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS",
-      "excerpt": "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025.md",
-      "title": "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025",
-      "excerpt": "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

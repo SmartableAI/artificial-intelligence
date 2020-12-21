@@ -105,6 +105,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "How Google's Self-Driving Car Will Change Everything"
+    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
+    publishedDateTime: 2020-12-19T00:00:00Z
+    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 24
+    images:
+      - url: "https://www.investopedia.com/thmb/phBjf6KuW6GPLjQkDSfjOfLG1fI=/680x440/filters:fill(auto,1)/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
+        width: 680
+        height: 440
+        isCached: true
   - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
     excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
     publishedDateTime: 2020-12-18T14:53:00Z

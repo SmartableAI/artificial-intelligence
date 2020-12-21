@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/business-strategy/careers-training/358152/
 webUrl: "https://www.itpro.co.uk/business-strategy/careers-training/358152/ibm-suggests-managers-who-know-about-ai-will-usurp-those"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: IT Pro
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Managers that use A.I. 'will replace those that do not,' IBM executive says"
-    excerpt: "IBM said it would buy Instana, a firm that helps businesses manage data across a variety of cloud applications in different places."
-    publishedDateTime: 2020-12-16T07:20:00Z
-    webUrl: "https://www.cnbc.com/2020/12/16/managers-that-use-ai-will-replace-those-that-do-not-ibm-executive.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/16/managers-that-use-ai-will-replace-those-that-do-not-ibm-executive.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/16/managers-that-use-ai-will-replace-those-that-do-not-ibm-executive.html"
+  - title: "5 Ways IBM Predicts AI and Ad Tech Will Evolve in 2021"
+    excerpt: "With tech giants set to crack down on cookies and third-party trackers in the coming months, the ad-tech industry is in for some major changes. IBM Watson Advertising has bet that artificial intelligence and anonymized behavioral insights will play a ..."
+    publishedDateTime: 2020-12-16T14:57:00Z
+    webUrl: "https://www.adweek.com/digital/ibm-predictions-artificial-intelligence-ad-tech-2021/"
+    ampWebUrl: "https://www.adweek.com/digital/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 72
+      name: Adweek
+      domain: adweek.com
+    quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106810687-1607950920030-gettyimages-1229673185-rafaelhenrique_09112020-5238.jpeg?v=1607950974"
-        width: 594
-        height: 396
+      - url: "https://www.adweek.com/wp-content/uploads/2020/12/Xandr_Brandshare_121620_HP-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "tZzTBa8FRMSxfYQQ9ceyLx7X4T5k8BUfS7e9g5vjlF2WB6SeOuBYq+UyyCdJEpefiQeLkFddJvLQFviXXWkD7CIV7BGYk+0eOP0I8pVs3QLZq4G3YAsWBQgslN3OfqhuMPCfs3SbjUPR+b+Aq25f3oKcfMzXxNlMKSRGEI6U0ZGqgIhsYlsfkPZFrOBhvsxdI37askssEk+640ILdY9yw5OGNSbAIwA/0inomEnN1GFHlbaonSc/rl0zpoRV6t5NAgqUmZYfQ1YlwpgA4GFjzc80/nWuLmCSp35YbhKaFUbqUdOCn/PNVQ+s0VDnaLUBr8VutN9Jp3/kXUGUV12laMQZPd6zkYy5rkF6thDB+0cse+e0hMPobkLAaUUMpvmlyYMF+Y5Qr6InwvxHGVhcTAmnn9uwebVSk5gM0NoB1KjCnxZySQ0b1PLNhBjJuN/O6YD+VG38V9J99HifqtxugFfCtOs4j5m/wC29D2KilxHLPWozrNSLwzO9oEvtUBE/TDVogeTUwWZDn1wSoU9jJA==;6k8bztZr8henWd4dYlPrEg=="

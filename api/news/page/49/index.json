@@ -2,6 +2,349 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
+      "title": "Ocado shops its way to a robotics platform for groceries and beyond",
+      "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ocado-Warehouse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "publishedDateTime": "2020-11-13T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-6-training-trends-to-watch-that-will-define-the-workplace-in-2021.md",
+      "title": "6 training trends to watch that \"will define the workplace in 2021\"",
+      "excerpt": "With the shift to remote work amid the coronavirus pandemic, online learning related to mindfulness, cybersecurity, and hybrid tech capabilities surged, Udemy found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/13/0b463f03-29cb-4b8b-94ea-a78eef035a6b/resize/1200x/01128683e6fc1503bc0242100f666b06/dusanpetkovic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "publishedDateTime": "2020-11-13T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-facebook-is-using-ai-to-help-its-content-moderators.md",
+      "title": "Facebook is using AI to help its content moderators",
+      "excerpt": "The Verge reported that the social network is now using machine learning to prioritize posts in a queue that human moderators need to go through.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-moderation-ai-machine-learning-prioritize-161027473.html",
+      "originalUrl": "https://www.engadget.com/facebook-moderation-ai-machine-learning-prioritize-161027473.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Ff39ad2d0-1f8a-11eb-bbd8-ac6fa6edbb72&client=amp-blogside-v2&signature=d633c9a65875f131f636a8e3c4ab35db04421128",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-moderation-ai-machine-learning-prioritize-161027473.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-moderation-ai-machine-learning-prioritize-161027473.html",
+      "publishedDateTime": "2020-11-13T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system.md",
+      "title": "Red Light Waiting Times Cut, Safety Boosted By AI-Based Control System",
+      "excerpt": "NoTraffic’s AI-based autonomous traffic management system exchanges the simple timing of lights for operating them based on what’s actually happening on the road to reduce wait times and boost safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeb014092c8ad78f9c4323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D11%26cropY2%3D574",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/",
+      "publishedDateTime": "2020-11-13T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
+      "title": "Computer vision app allows easier monitoring of diabetes",
+      "excerpt": "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-11-vision-app-easier-diabetes.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-11-vision-app-easier-diabetes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5fae99e2b1da8.jpg",
+          "width": 2784,
+          "height": 1856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-11-vision-app-easier-diabetes.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-vision-app-easier-diabetes.amp",
+      "publishedDateTime": "2020-11-13T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-nigeria-gets-artificial-intelligence-robotics-centre.md",
+      "title": "Nigeria gets Artificial Intelligence, Robotics Centre",
+      "excerpt": "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/",
+      "originalUrl": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian Nigeria",
+        "domain": "guardian.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-ai-is-bringing-the-world-together-at-more-than-1000-mph.md",
+      "title": "AI Is Bringing The World Together (at More Than 1,000 Mph)",
+      "excerpt": "To understand breakthrough digital Twin technology, think about Minecraft. It creates, in essence, an AI-driven sandbox environment for the design and testing of real-world applications, bridging physical and digital worlds in novel and exciting ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/",
+      "originalUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fae9392c45cdae0c2901003%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/amp/",
+      "publishedDateTime": "2020-11-13T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-google-clouds-new-ai-suite-hits-on-doctors-admin-headaches.md",
       "title": "Google Cloud's new AI suite hits on doctors' admin headaches",
       "excerpt": "Google Cloud will become a top cloud partner for hospitals looking to ease administrative headaches driving burnout among their doctors.",
@@ -823,354 +1166,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes.md",
-      "title": "NextVPU breaks the Performance Records of AI Chips on the Edge Side, and supports \"Algorithm Deployment Within 5 Minutes\"",
-      "excerpt": "In less than five years after its establishment, NextVPU has reinforced its leading position in the computer vision industry. Its \"blockbuster products\" are N1 series computer vision chips. With the high Tera operations per second (TOPS) and powerful real-time data stream processing capability,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "publishedDateTime": "2020-11-12T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time.md",
-      "title": "This startup wants to fix your biased AI, one dataset at at time",
-      "excerpt": "A UK startup has released a new tool that could finally give coders a practical way of identifying bias in their datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "originalUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/06/20/76fcf7ca-73a8-42c3-9086-a1cc05b5cb06/thumbnail/1200x675/72a5ebbb8c4666c1729fbcdc200eaeb5/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "publishedDateTime": "2020-11-12T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-basisai-joins-aws-partner-network-receives-technology-partner-status.md",
-      "title": "BasisAI Joins AWS Partner Network, Receives Technology Partner Status",
-      "excerpt": "BasisAI, a provider of customized, responsible AI applications, has been named an Amazon Web Services (AWS) Select Technology Partner. This places BasisAI in a pool of trusted professional services firms that helps enterprise customers across Southeast Asia design,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "publishedDateTime": "2020-11-12T17:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce.md",
-      "title": "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce",
-      "excerpt": "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
-      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
-      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
-          "width": 900,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:58:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-pope-francis-pray-that-robots-dont-turn-against-us.md",
-      "title": "Pope Francis: Pray that robots don’t turn against us",
-      "excerpt": "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
-      "originalUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8af3a9-e39f-4213-be3f-7bf2c5f2c1d1/69d728c1-8474-4cb2-8f78-2dc90220c6b0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
-      "publishedDateTime": "2020-11-12T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
-      "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg",
-          "width": 545,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:33:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

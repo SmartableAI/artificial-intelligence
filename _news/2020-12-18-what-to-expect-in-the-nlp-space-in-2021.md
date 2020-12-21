@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/"
 type: article
 quality: 119
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 45
-  - title: "Hands-On Guide To Natural language Processing Using Spacy"
-    excerpt: "Spacy is an open-source software python library used in advanced natural language processing and machine learning."
-    publishedDateTime: 2020-12-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/nlp-deep-learning-nlp-framework-nlp-model/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/image-4.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "R277Q26mBjorBB3WudyyvyWsXK7f6DQkLWfSbNB7T7czIPcvm/C8HBWdBcYjuht9JTOvoMklNHojFM7oEaoNOT1gRNIeEruGhu+Rme8shyZUc1M0gYyuuC85g/4LWL0xYhKG/tAEzFU/+5qfb9VEY2z2os1JQSYN090DhV04hS7++ZhP53YoQeVUo7zt3OEKFLHKtTgkFvhw02J+kcJhSI/MOFFBhTYbF9cQOhkrkq136MkN5Bht/NOcQQvvPu1sQjSYROdGpWWwD+JUIiEqQLAoSi+zL6aUk4lpzQTklWnfWYg0WPk5RSUDPYJMHi7GJeYjowne6N0Oz7XgwpvXfYSpe19AYi7U3jvD3SZ+4mw=;VOYOMz1ynRZt4wZMu01A6A=="
 ---

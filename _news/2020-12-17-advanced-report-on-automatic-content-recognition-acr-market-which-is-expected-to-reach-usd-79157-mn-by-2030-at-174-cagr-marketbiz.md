@@ -36,20 +36,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-12-17T11:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Next Big Thing In Image Recognition Market, Which will hit USD 91,029. Mn By 2030 at 15.6% CAGR -Market.Biz"
     excerpt: "Market.Biz –:Market.Biz offers accurate information and a holistic view of the Image Recognition Market | eTurboNews | Trends | Travel News Online |"
     publishedDateTime: 2020-12-18T12:13:00Z

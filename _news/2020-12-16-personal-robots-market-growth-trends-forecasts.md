@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18811746"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18811746"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,21 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "GCC Agricultural Robots Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
-    excerpt: "The GCC agricultural robots market was valued at US 167 4 Mn in 2019 and is estimated to reach US 389 1 Mn by 2027 it is expected to grow at a CAGR of 11 3 from 2019 to 2027"
-    publishedDateTime: 2020-12-18T14:19:00Z
-    webUrl: "https://www.openpr.com/news/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
+  - title: "Artificial Intelligence Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2020-12-17T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-12-17"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
-      - url: "https://cdn.openpr.com/T/c/Tc18855863_g.jpg"
-        width: 700
-        height: 350
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market 2020 Size, Share 2020 Movements by Development Analysis, Business Environment Analysis, Revenue Expectation till 2023"
+    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
+    publishedDateTime: 2020-12-16T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-size-share-2020-movements-by-development-analysis-business-environment-analysis-revenue-expectation-till-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZzIN0qXrDvb474cspc+EoGbxGiP61Feh0iO8satA5ZK7Hoa440+qiFY6f0M3vL4k6X3gzFaJmYB+F3fMJpfcnwhBMMgkjEhlj2+tIMjNLzmet/6tI3G35QK1LDk7wnWN/oH4Cia9Bkqu6cB6mxPRv12bYab9bzz1wlohZHllOlwv9Q/5oHZok8qV916bn+jns0/6L7qusaVQBR+57r4Mp9M8mNpQcismyxUsMfnOre/Gvdmyc//EtvpWJoQ8oMWfb1R+fbtu9EMV3u7K95PLsC3o5xcOOA+6AIy/9jrM3M5UwkE2zcRRVUI5Kn7E876hLslAfxY+KS2W+AMvtTYkqNJoJSFjJ91dAcZmZkaGbxQ=;yxMyTg+SlCskY3vZ/muQJg=="

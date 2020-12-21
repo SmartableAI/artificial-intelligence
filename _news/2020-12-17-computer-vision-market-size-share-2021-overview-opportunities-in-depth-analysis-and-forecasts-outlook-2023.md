@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Supply Chain Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
-    excerpt: "Kenneth Research has recently added a market research study on Artificial Intelligence in Supply Chain Market 2023"
-    publishedDateTime: 2020-12-16T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Marketing Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2023"
     excerpt: "Market Synopsis The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant"
     publishedDateTime: 2020-12-16T13:10:00Z
@@ -85,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile AI Market 2020 Detailed Analysis of Current Industry Figures with Forecasts Growth By 2023"
-    excerpt: "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security."
-    publishedDateTime: 2020-12-16T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-2020-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Robotics Market Growth, Trends, and..."
     excerpt: "The \"Robotics Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued"
     publishedDateTime: 2020-12-16T11:42:00Z
@@ -110,6 +82,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Natural Language Processing Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis"
+    excerpt: "Kenneth Research has published a detailed report on Natural Language Processing Market which has been categorized by"
+    publishedDateTime: 2020-12-16T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
     excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
     publishedDateTime: 2020-12-16T13:11:00Z
@@ -124,29 +110,101 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market 2020, Global Trends, Opportunity and Growth Analysis Forecast by 2023"
-    excerpt: "The Artificial Intelligence in Telecommunication Market is estimated to record a significant growth throughout the"
-    publishedDateTime: 2020-12-16T07:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-2020-global-trends-opportunity-and-growth-analysis-forecast-by-2023-2020-12-16"
+  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
+    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
+    publishedDateTime: 2020-12-18T20:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market 2020 Industry Challenges, by Key Players, Types, Applications, Countries, Market Size, Forecast to 2023"
-    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
-    publishedDateTime: 2020-12-17T12:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-industry-challenges-by-key-players-types-applications-countries-market-size-forecast-to-2023-2020-12-17"
+  - title: "Computer Vision Market Segmentation and Analysis by Recent Trends Development and Growth Factors by Regions Overview to 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of ..."
+    publishedDateTime: 2020-12-17T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-segmentation-and-analysis-by-recent-trends-development-and-growth-factors-by-regions-overview-to-2023-2020-12-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GCC Agricultural Robots Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
+    excerpt: "The GCC agricultural robots market was valued at US 167 4 Mn in 2019 and is estimated to reach US 389 1 Mn by 2027 it is expected to grow at a CAGR of 11 3 from 2019 to 2027"
+    publishedDateTime: 2020-12-18T14:19:00Z
+    webUrl: "https://www.openpr.com/news/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc18855863_g.jpg"
+        width: 700
+        height: 350
+        isCached: true
+  - title: "Artificial Intelligence (Chipsets) Market Opportunities 2021 Report Segmented by Geography, Technology, Type, Application and Forecast 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Artificial Intelligence (Chipsets) Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,"
+    publishedDateTime: 2020-12-18T15:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-opportunities-2021-report-segmented-by-geography-technology-type-application-and-forecast-2025-2020-12-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Diagnostics Market size is anticipated to reach healthy growth rate of more than 32.3% over the forecast period 2020-2027"
+    excerpt: "Selbyville, Delaware The report for Artificial Intelligence in Diagnostics Market offers an assiduous analysis"
+    publishedDateTime: 2020-12-17T01:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-size-is-anticipated-to-reach-healthy-growth-rate-of-more-than-323-over-the-forecast-period-2020-2027-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Size Analysis, Share, Growth Potential to 2026 | Research Report by Fortune Business Insights™"
+    excerpt: "The global “Image Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-12-17T12:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-analysis-share-growth-potential-to-2026-research-report-by-fortune-business-insightstm-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
+    publishedDateTime: 2020-12-17T11:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -161,6 +219,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
+    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
+    publishedDateTime: 2020-12-16T10:57:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-middle-east-new-products-and-services-bc14fb233d51c3321049125c2293fc7c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -189,6 +261,34 @@ related:
       name: eTurboNews
       domain: eturbonews.com
     quality: 4
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Cellular Machine to Machine (M2M) Market Report (2020-2029): Market Statistics, Product Analysis and Immense Report | AT&T Inc, Verizon Communication"
+    excerpt: "MarketResearch.Biz –:As per a study on the Cellular Machine to Machine (M2M) market, recently | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2020-12-17T18:24:00Z
+    webUrl: "https://www.eturbonews.com/2186440/cellular-machine-to-machine-m2m-market-report-2020-2029-market-statistics-product-analysis-and-immense-report-att-inc-verizon-communication/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 0
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Cognitive Computing Market Report (2020-2029): Demand and Scope, Industry Trends and Threats | Google LLC, IBM corporation"
+    excerpt: "Click to download Covid-19 Report: https://marketresearch.biz/report/cognitive-computing-market/covid-19-impact Main players who dominate the Cognitive Computing market: Google LLC IBM corporation Microsoft ... Financial Services and Insurance (BFSI ..."
+    publishedDateTime: 2020-12-17T18:05:00Z
+    webUrl: "https://www.eturbonews.com/2186442/cognitive-computing-market-report-2020-2029-demand-and-scope-industry-trends-and-threats-google-llc-ibm-corporation/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 0
     images:
       - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
         width: 300
