@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/preclinical-research/collaboration-to-chart-ai-generated-map-of-the-immune-system/12053307-1-eng-GB/Collaboration-to-chart-AI-generated-map-of-the-immune-system.jpg"
@@ -39,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "e95WFl3bYerwHLwzYNN2FYQ/u4OpOvWp0vjDHCmfD7I4IZZ6gpYasWUpup3wDZSKuukpMI+FtsG12yxcsYrpr3eRQBz4TiZch4LWPzY9KHFE9aRdtrKkjyJusg/9LNI/sOAB6Nuz19VRs2YFZPjTXjnddJ5kNh121Hr/e2NXKdc090ZKrysw4Vysw3SiKRUu7unh1ZWPV3ypM3dKN3a3yeSwcWooJf74uNW6eJYW+uHjQPDOPN8KhY2tiAi4C1p+jjwyK4St/HUtJfGUkGIJIV8VgOaNMMHjwOQP3j8O5cH8ci1Y9GBotHavpqKlFzMZW45ne6xTO4higiq05vrFiMJfEgIM4iUg1MX/nrHfTq8=;GK8qorQRSynzxe0qmwuIAg=="
+secured: "NpXmPPVC6/IojQeygOnicpMslaGWK285i/AstXBWY376egcJOPTPvBiUlEoE/seYDAtMjG1dltwE5VLu3injeFZ0L+Claj0VQFoXezIMNMh8/rrjD4ZxLl1HbVL4FcKk3a61k3/XoFQvlQVs7l5RyyzPDELXKdJPfbbginoxFGPITpUkVJrwU1bwBUp1afFvR5UOt1nDqKG0Nb9bsSqSZCQzyhAJUmrMDX1PLuk3lUc5qdKDwy5GYoEpLopvyHAbHjkzLgGoIGBUYQZcZJpsUV7spXXnD+X3jJfgmbCsHg/L3oKEezHP3cpsTjoomSGg/KfnKoIt32XYG7x9WAeia9nqZ27pBrdUosSISbNDmZ98DDiM/QDlxrE/R8GRenYxXaSe/iFkE6cwglLcNz80D7j0JXFZ4BZkRsaZ/X7VQdB/+M+rapUPCpHdLhwcNE0NzI30sHwKI4ByLhftndDnFws5PXHgrDEQ/5fbm8pfwxvhHlzTdfWsJPFy8aerd96eE3ve8+bIIDQsYQeUtZdvEQ==;m9r++FYUt6pLsIzWto1OaQ=="
 ---
 

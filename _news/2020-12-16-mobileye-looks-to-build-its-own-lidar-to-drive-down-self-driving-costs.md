@@ -3,10 +3,8 @@ category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
 excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
 publishedDateTime: 2020-12-16T04:25:00Z
-originalUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-webUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
+originalUrl: "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JP"
-    width: 818
-    height: 545
-    isCached: true
-
-secured: "EabMdV4KdhWrTQHAmHdXDl6tkc4D+y6IcO25mk/w4KD3SVhSP8FiIEtL8h5CCGRw4Pxuxd/iV5f5dJaIrUr4sVdazOnsdR4oEDDwX1SEc/z7qpoeXpiDeMpVEIOsCEQxc11YO4QXVMcyXTa7503C9iK8UoRQQ4XoIqVNYWzfPsDbsi7y4589z+CSycJFbFWDMineDIx8L7bcPEb7N766cHOFwOnoMjBmB3OvD+k8ij1uL0hqs8d/D1a26uNKWtqB8SbXAgnB17O+75r6W30ioTFALv+/QilLIOZ3/NOUbRbwPDv5QzzzcPjHH5J5kfd2+Pe4MX+Lj01HC4530VofxO53sEeCbIXyv8zIZN5czOWaAk5YSj/PEm2V+EAgE8dqt1AsJ5564DWZ1Y4ucgbQfhoc5ttJgNszLmBtZLfW/dB1TwVvMDshVGrQcqTgs0dNt0EZfXzzktxsXIe2E+QcS2tG5oyG0JzO3M9t1KrCk9ynrXb0aILVn38RSXAUCANSThGDVZOPA5wwQoBN5Cj0Gw==;z27/V9nZ5X8dlI9AYmEF5g=="
+secured: "p5TCkEd9i5TBpkG97OfKQzG42vemruCaG/O3xwTyLWUMpGOMwA0Ayoi7XturG4Z0PG9CUePAxjk8f3Si+mz6V4Yir4Ss8hgYvz9T7JsjFTR26aw/bugdOYXtGHH5Ou/VIsY3F2beKBm+qdiGCAO4yvU4K0ihA0tgr9AjaJus2X3Ab++t0iIb+Q7Qu/+dMDg4k3Q/E+8G62VSZwM3WAe1ySmIMTBn8ZSG1n+n7p18iblATDtbYnAsIzEyvC33ZgCls+jH5KOzwGKiHkI7FNJeROmYuwvZYrFlQ4KKroazIC9XOmI3R8v2IIHOCRqqG6di4GROph5JfqNbL6h+BGGiglrK8kIwj2GpfZGdmrn838ItrEIE7rvMSeoW6BKcXk+ORtFKJcW1N7K9b4TLaEDbZCZxCr3neQr1GrdU/JAJqwal+smwbIht5+H4r2n/u2TJj5djTPkGNZC7BhHucOgFZqpyF+3NzZD8xSFyAErFSra9+5b6Ig5fTKkIicfcrNR5KEaZOnpdu8M7i5+9jibnVQ==;pTilStZuA/SvWHACcax9BQ=="
 ---
 
