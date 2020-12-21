@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdd3ae5d1bf9ff470ffd053%2F0x0.jpg%3FcropX1%3D466%26cropX2%3D5504%26cropY1%3D9%26cropY2%3D3895"
         width: 1200
         height: 926
+        isCached: true
+  - title: "Apple Aims to Build Self-Driving Car: Report"
+    excerpt: "Get Report is planning to produce a passenger vehicle in 2024 that has both self-driving technology and uses Apple’s own battery technology, according to a published report. Reuters reported Monday, citing people familiar with the matter,"
+    publishedDateTime: 2020-12-21T22:33:00Z
+    webUrl: "https://www.thestreet.com/investing/apple-aims-to-build-self-driving-car-report"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-aims-to-build-self-driving-car-report"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aims-to-build-self-driving-car-report"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/rMyb8Khb-720.jpg"
+        width: 720
+        height: 406
         isCached: true
   - title: "Motorists in self-driving cars will not be legally liable for accidents"
     excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"

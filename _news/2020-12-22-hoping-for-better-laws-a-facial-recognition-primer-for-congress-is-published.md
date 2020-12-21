@@ -41,6 +41,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Civil rights groups demand CBP stops facial recognition expansion at airports"
+    excerpt: "The American Civil Liberties Union, Electronic Frontier Foundation and more than a dozen other civil rights groups have objected to Customs and Border Protection's plan to expand use of facial recognition at border entry and exit points."
+    publishedDateTime: 2020-12-21T21:24:00Z
+    webUrl: "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html"
+    ampWebUrl: "https://www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F42880f80-43ca-11eb-b7b6-51f4eb4fc119&client=amp-blogside-v2&signature=91f0f841f028a0036c46cedd061524d5764f7146"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Civil rights groups move to block expansion of facial recognition in airports"
     excerpt: "A coalition of civil rights groups led by the American Civil Liberties Union have filed an objection to the proposed expansion of Customs and Border Protections facial recognition at land and sea ports."
     publishedDateTime: 2020-12-21T18:30:00Z

@@ -62,17 +62,6 @@ related:
         width: 2760
         height: 1725
         isCached: true
-  - title: "In a first, Air Force uses artificial intelligence aboard military jet"
-    excerpt: "The Air Force allowed an artificial-intelligence algorithm to control sensor and navigation systems on a U2 Dragon Lady spy plane in a training flight Tuesday, officials said."
-    publishedDateTime: 2020-12-17T06:23:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
 secured: "dK95qTKshGmXBzjMCsUP+PtNwYNsmE/wTB3w7QelmTfRAVTmOw008ggEr57otaRSBIBa0ZjCiucS9/RLp6pPy9HJYPxO7O21q++Dm8SAhK1+mfQFX2SxikRMOD1dGp4fadKy53Cgkasu2O0P1SWCAUKprinMqeHsXj7glfSEAmxoqIYVg0xTz1ukgdOf3wOVh2pxUiy/1R+aagnHiF3CDut8I2QVjYYhSswbYc/WmpiW0NO1RDRWVt8i8akLaLjohRmzOJYc6U13cj99PddOltdI/2YaQRd94sroib6X28NKJAll8T3ecO6/q8J2A5j61DuEbELsiBxBL5um7v1MxQmZ+/8HvM5pQmYPeFwTsLJmZQ2Vtz+aCOHeDcKyczAxD4liObwJ8z0LROssOCGeIDqYF9/X/dkT1ThUEqN6gIMUfESMR73JtcQKx1gDLb4qKOQS1Mq7iaLWfW7ciYlTD/sitZpdHUBCFZhoLptXRhJHulZd3CGLa4G3Vyi7g/N2rPE26UftH8xosvXJ/MScrg==;jJf0PD2E6HbCoNl2Spwr7Q=="
 ---

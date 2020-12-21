@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 2760
         height: 1725
         isCached: true
-  - title: "In a first, Air Force uses artificial intelligence aboard military jet"
-    excerpt: "The Air Force allowed an artificial-intelligence algorithm to control sensor and navigation systems on a U2 Dragon Lady spy plane in a training flight Tuesday, officials said."
-    publishedDateTime: 2020-12-17T06:23:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
 secured: "bhYDOIk2lwsuDacrWkXwqgXPHZKZVZCQjAoSpauTd83cLsCwmpfouibpneqRaVAnFlWhGRlJdzti9etmcUImCwS4ELw/TKfPzblh1QdcgCVYJ8j45MIpqqIjx2/Ie1mAnBbc8EaK+UYOvurealFDWKQuBPw/i2wHzUe3bfMmzfVnGXoTMeEQfQmxCmurj+DQI5+0qKvsd781zmHiGCFLRwqjrwAcbvDbkrCED3jOFcx7tD5ap+1M5Ww7eCpBp51V2TP1CQfphdRX+V+1DfyBNAMLqk/o/sSKt3EwhFApz3W1qMCHWleMK5G4eP1Qw6a83utSw3YnbBxqoi15oRjQR3KyNjEf7KWv57dKT/NUALd/a5AKFdM7hnS+TabtJ2/0ot41jla6V5RMc9zVmU0sPTKR+vTTgBzHj/Eg/jURWa4EknOk9zMciURefVxErEXb2RxdYynBdpx0wX+TohlFcfO6cewdKzBwaXbOG6MlYJaQBURuxpKPPvblQDSNxdGc47zyH7HdDn/ppneRuwNexw==;WuNG6/FfiG7AeKgzS4grIw=="
 ---

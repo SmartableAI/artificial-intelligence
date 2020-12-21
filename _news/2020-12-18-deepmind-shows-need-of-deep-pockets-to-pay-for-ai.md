@@ -107,6 +107,15 @@ related:
         width: 555
         height: 330
         isCached: true
+  - title: "DeepMind A.I. unit lost $649 million last year and had a $1.5 billion debt waived by Alphabet"
+    excerpt: "DeepMind was acquired by Google in 2014 for around $600 million. Today, the company relies on a steady stream of capital from parent firm Alphabet. In 2019, Google Ireland waived the repayment of intercompany loans and all accrued interest amounting to £1 ..."
+    publishedDateTime: 2020-12-17T20:56:00Z
+    webUrl: "https://www.forexfactory.com/news/1047908-deepmind-ai-unit-lost-649-million-last-year"
+    type: article
+    provider:
+      name: Forex Factory
+      domain: forexfactory.com
+    quality: 23
 
 secured: "cnsxjLtRBc8JLBs3qp+UpkyBvSlFocmGKVHbr/1ElXstcep5vzUuS2LkOF9W00GXuM38Bk432JLYX7vWO03PWROkJ/LBBt2uIzN+GnufF7LACZWzeN3v6TLjf3x9mYHyItOaL2ZUbizZHGEFABcY9Ec+4Ia508G3ZvmGGUB/6KaGmNT0yeqjKjn74YzpeVVi8S2/j5TuBZTTepWVDQrYIFoYutmg6DIrNwB/3sg6AvatEYjJjKgMXV8NCpCx80Hm9G0/cjJnqIs5o/5+Q5LGr6Gt0gt5IO/aNq1xa62w4T2Z7YHzbqrQ+WyStC9mc94x1Qj8whpffJPXmiNTdeYpRM39JSQ2UZTrrRIf7dgoNIk=;W8HfwuWdXIp8ze0/cWAFpQ=="
 ---

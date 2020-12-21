@@ -38,18 +38,18 @@ related:
         height: 275
         isCached: true
   - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-    excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
-    publishedDateTime: 2020-12-21T04:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201221ny30086/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert"
+    excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
+    publishedDateTime: 2020-12-21T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 43
     images:
-      - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
     excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"

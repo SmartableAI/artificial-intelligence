@@ -59,6 +59,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Apple vs Tesla? Apple Self-Driving Car To Hit Market In 2024, Says Reuters"
+    excerpt: "The Apple and Tesla logos.. Project Titan lives? We have not heard a lot from Apple’s self-driving car project, dubb"
+    publishedDateTime: 2020-12-21T21:22:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe111abcd65b06171600516%2F0x0.jpg"
+        width: 1200
+        height: 578
+        isCached: true
   - title: "Tesla full self-driving manages San Francisco's famously curvy Lombard Street"
     excerpt: "Tesla released an early version of its full self-driving mode (known as FSD) for a small, select group of Tesla drivers with the advanced driving system, Autopilot, already loaded onto their cars.  One prominent Tesla vlogger known as Tesla Raj put the autonomous driving mode (it's not fully autonomous,"
     publishedDateTime: 2020-12-20T19:22:00Z
@@ -149,6 +165,38 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202012/3726/854081161001_6216975181001_6216974667001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Apple aiming to build self-driving car by 2024"
+    excerpt: "Apple is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the"
+    publishedDateTime: 2020-12-21T21:33:00Z
+    webUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/"
+    ampWebUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/apple-self-driving-car.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Apple Is Reportedly Releasing a Self-Driving Car in 2024"
+    excerpt: "According to a Reuters exclusive, tech giant Apple is planning to produce a self-driving passenger car to be released as soon as 2024 — despite several layoffs hitting the company’s automobile efforts over the last couple of years."
+    publishedDateTime: 2020-12-21T22:04:00Z
+    webUrl: "https://futurism.com/the-byte/apple-self-driving-car-2024"
+    ampWebUrl: "https://futurism.com/apple-self-driving-car-2024/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/apple-self-driving-car-2024/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2020/12/apple-self-driving-car-2024-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
     excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-al
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html"
 type: article
 quality: 193
-heat: 253
+heat: 263
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 555
         height: 330
         isCached: true
+  - title: "DeepMind A.I. unit lost $649 million last year and had a $1.5 billion debt waived by Alphabet"
+    excerpt: "DeepMind was acquired by Google in 2014 for around $600 million. Today, the company relies on a steady stream of capital from parent firm Alphabet. In 2019, Google Ireland waived the repayment of intercompany loans and all accrued interest amounting to £1 ..."
+    publishedDateTime: 2020-12-17T20:56:00Z
+    webUrl: "https://www.forexfactory.com/news/1047908-deepmind-ai-unit-lost-649-million-last-year"
+    type: article
+    provider:
+      name: Forex Factory
+      domain: forexfactory.com
+    quality: 23
 
 secured: "WNqWWrhQtCQhTicK4+y7E2c4hecjIkqAF5Il5nOBMchE3pcCkkMzHB1WafRhRi6B1La+mxKN1Ro+OimZsYg4C9qTQBepAyi+UpeUS6CtekmXVssKPXS3eNGTlq5qajTqQCFnL4i1sYC0224pMf0Ac+RjMZvu8z8Un2i6qoOv0RvYMiqueOBhvwuwbxAzh9fu1l4E4or8GUWFECGmzHLr3pjdMP7RBJZYWXtdGkar+n+yeC90jeWy3LX8L4nxp9sCu6ykonm5N1WihT0tqczfj0d9ghWNmgTnK62T19tE9jaYFAbkFw/alL3oouxf7DWFIeWHKeqA1PGirLqEodFGhIEwGPe6L1UV6tQHQqMH9ZhCqRx530iMW4864dYsghmQiXOZBho/kCHTeqKOj1GcHu0pxfFQRP66VabMUnqs2057V2GIgAqOi/w/0gj2IGDQuJaeu2FIpycg48PBuWYlBlFQ7nlkWmaB4yde+BK5liwDtQcbaQyTvF1DVa6YDIuxvTSwWvYohwve9AnjLhrOCx4bdhcMOLjZl60G0oLrfcg=;FCo0KCYHvMP45tBZaX/cmQ=="
 ---

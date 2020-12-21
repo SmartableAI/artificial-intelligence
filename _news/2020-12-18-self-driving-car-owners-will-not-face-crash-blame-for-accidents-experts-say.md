@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 926
         isCached: true
+  - title: "Apple Aims to Build Self-Driving Car: Report"
+    excerpt: "Get Report is planning to produce a passenger vehicle in 2024 that has both self-driving technology and uses Apple’s own battery technology, according to a published report. Reuters reported Monday, citing people familiar with the matter,"
+    publishedDateTime: 2020-12-21T22:33:00Z
+    webUrl: "https://www.thestreet.com/investing/apple-aims-to-build-self-driving-car-report"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-aims-to-build-self-driving-car-report"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aims-to-build-self-driving-car-report"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/rMyb8Khb-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Motorists in self-driving cars will not be legally liable for accidents"
     excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
     publishedDateTime: 2020-12-18T06:00:00Z

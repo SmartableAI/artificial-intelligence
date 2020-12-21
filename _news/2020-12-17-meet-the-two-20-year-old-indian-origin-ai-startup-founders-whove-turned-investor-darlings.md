@@ -25,24 +25,6 @@ images:
     height: 431
     isCached: true
 
-related:
-  - title: "Challenges in building an app to interpret Indian sign language"
-    excerpt: "The big challenge with sign language is that it’s not universal,' says Jayasudan Munsamy. It varies from country to country and even in different regions of a large country"
-    publishedDateTime: 2020-12-21T02:02:00Z
-    webUrl: "https://www.livemint.com/news/business-of-life/challenges-in-building-an-app-to-interpret-indian-sign-language-11608476748623.html"
-    ampWebUrl: "https://www.livemint.com/news/business-of-life/challenges-in-building-an-app-to-interpret-indian-sign-language/amp-11608476748623.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/challenges-in-building-an-app-to-interpret-indian-sign-language/amp-11608476748623.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2020/12/20/600x338/BOLlanguage_1608476832278_1608476840355.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "LI50t/fRwfa1UWcYeivOA+HZ+G/ogJxrdt9WAw4PQKdk3whBTGOHpNFVckMcUsYGxpHnYirD76KKjoKFv16dYz4JVaORV2MMPrFcPB1qUpNbC2T0eN4QAQl2yj0v6Kqfnw89cz6bTk/a4HusMTCDUcSLIPoq5z26NDFrgGqA6zZm3ixdRYPEVsUJGVDyIAIW98831rai1r3lF9uxtPqYPalI8J8sswDLrEFaCMdtKGPJoXvExrJkptvsolzslsinc0orllWBwjgQSdZduIlfSowYAZNqQ9rqTZjr4B6cMOvjFp92sxalRcfIBWIceVHyRjrk3CCEefPxlL22y8HX5ZJXMe+teP5NJPmnkLutoDM=;1dhMxZ6XwuQ3clWyH+BafQ=="
 ---
 

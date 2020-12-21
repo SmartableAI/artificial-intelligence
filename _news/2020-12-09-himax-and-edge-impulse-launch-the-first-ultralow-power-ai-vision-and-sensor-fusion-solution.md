@@ -1,59 +1,20 @@
 ---
 category: news
 title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
-excerpt: "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,"
-publishedDateTime: 2020-12-09T09:02:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709"
+excerpt: "Himax Technologies, Inc., a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for"
+publishedDateTime: 2020-12-09T09:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion"
+webUrl: "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion"
 type: article
-quality: 29
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Himax teams up with Edge Impulse for AI chips"
-    excerpt: "Himax Technologies, dedicated to display driver ICs and timing controller (TCON) chips, is set to accelerate the development of AI chips in 2021 through a recent collaboration deal with Edge Impulse,"
-    publishedDateTime: 2020-12-11T06:11:00Z
-    webUrl: "https://www.digitimes.com/news/a20201211PD205.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://www.digitimes.com/newsshow/20201211PD205_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
-    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor"
-    publishedDateTime: 2020-12-10T15:01:00Z
-    webUrl: "https://www.eejournal.com/industry_news/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution/"
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 29
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
-        isCached: true
-
-secured: "aH71Bor06Kgj/Itb9ZCs8pdOEa812/uRKShLOpRPe+uua8urKIQImOcbqoGk5l8n+thS4tO0fIveSn1Bx/H+c1A04SEW+2gXAqWZsZTFZMRbOmg1nw1J4o4+jUzQIQpV3ApC8v/t/bcCwzbuCmh4/i9NwLjkN9ABrZrRmpVq6nzhcbHCeVmT/hxzIj5sCi9VkS0BuaArHKrrLv62Y8vwm9XcUHa0+8PamPQCPTu6AC8h1s3C23Q8DETp3B82EciPtKlY14a6hY58TK2hM7EUT4NeK7t49c2DYm0rSnxOcUs9ReQivu5SucUA1/ufVOu7Bvzsp7+HAcW9fL4Xi3LfG7++2cbqTljbakSJxEW0vZc=;aPS35ycG5SHlgyr7AZRMqA=="
+secured: "nfjEAulDSwW0Bsg8rteAwUh3Vwnf054ZBGRXyKKmaNZVESY5Ir9zQgxeSQLYa6K/99QUCnsbKfVF6cnA4mDigktjkI9gB4Cq7vNWOlWb2LOSfq3IHWh30HkF4xkewvzbRTtgDf0eqVEjx4Nqs7xY/Pd00GCZtkU8GxWXYnjqFuo16C9SWa4+gck9UIboB2pJ/EQigsfqmABJQFDv/f9JA4QRCKq9KtUWo5iWtU4zAoalE+UG+FC4cZxNdz41xD55MGfm3GxSJz8HT7KJ7CsdWYTvfXM8UmnndFUJPR8bjkQZalvK/hK1Fma3WS7SYTjuzF3jEUwgCk5fBVZ3iuRcmAGPAn4WnrhM+PFx038yNVQ=;aQi5sQtA/ePTmI8YJIih0Q=="
 ---
 
