@@ -56,16 +56,16 @@ related:
         height: 218
         isCached: true
   - title: "How Manufacturers Can Push Past the AI Tipping Point"
-    excerpt: "Industrial AI needs to know when and where production events happen—for example, to track scrap metal on its journey to becoming a finished coil of steel as it moves through a mill. However many operating technology (OT) systems remain disconnected from ..."
-    publishedDateTime: 2020-12-20T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-12-21T13:41:00Z
+    webUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: CIO
+      domain: cio.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

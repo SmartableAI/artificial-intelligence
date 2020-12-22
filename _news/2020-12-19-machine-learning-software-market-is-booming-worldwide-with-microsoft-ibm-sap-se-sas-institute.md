@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft"
+    excerpt: "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,"
+    publishedDateTime: 2020-12-22T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
     excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
     publishedDateTime: 2020-12-19T02:39:00Z
@@ -43,22 +57,6 @@ related:
       - url: "https://images.barrons.com/im-275719/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic"
-    excerpt: "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ..."
-    publishedDateTime: 2020-12-18T10:29:00Z
-    webUrl: "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
-    ampWebUrl: "https://www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 82
-    images:
-      - url: "https://cdn.openpr.com/T/c/Tc18165825_g.jpg"
-        width: 775
-        height: 436
         isCached: true
   - title: "Microsoft working at In-House chip for replacing Intel Processors on Surface Laptops"
     excerpt: "Microsoft is working on in-house processors designs for use in server computers. It is also exploring another chip that will power the Surface computers."
@@ -76,25 +74,30 @@ related:
         width: 688
         height: 387
         isCached: true
-  - title: "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House"
-    excerpt: "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources."
-    publishedDateTime: 2020-12-21T15:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21"
+  - title: "Reliance General Insurance providing Microsoft Azure AI"
+    excerpt: "Mumbai, Dec 21 (UNI) Reliance General Insurance (RGI), a 100 pc subsidiary of Reliance Capital, has brought in speed and acceleration to its vehicle claim process by introducing ‘RAPID’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
+    publishedDateTime: 2020-12-21T09:50:00Z
+    webUrl: "https://uniindia.com/reliance-general-insurance-providing-microsoft-azure-ai/business-economy/news/2270078.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
-  - title: "Microsoft designing its own chips for servers, surface PCs"
-    excerpt: "Building on decades of x86 ecosystem innovation, we are committed to providing customers the world’s best CPUs and new products from GPUs to AI chips,” Intel said in a statement. “In this expanding market, we expect to gain share in many areas like ..."
-    publishedDateTime: 2020-12-19T08:10:00Z
-    webUrl: "https://www.hindustantimes.com/business-news/microsoft-designing-its-own-chips-for-servers-surface-pcs/story-im4YFP0ljGcJL8YFbEvwRL.html"
-    ampWebUrl: "https://m.hindustantimes.com/business-news/microsoft-designing-its-own-chips-for-servers-surface-pcs/story-im4YFP0ljGcJL8YFbEvwRL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/business-news/microsoft-designing-its-own-chips-for-servers-surface-pcs/story-im4YFP0ljGcJL8YFbEvwRL_amp.html"
+      name: United News of India
+      domain: uniindia.com
+    quality: 69
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/2020/12/2020_12$largeimg21_Dec_2020_161712233.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Microsoft is working on its own PC chips"
+    excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
+    publishedDateTime: 2020-12-19T04:57:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: MyBroadband
+      domain: mybroadband.co.za
     quality: 56
   - title: "Microsoft is reportedly developing its own Arm server chips"
     excerpt: "The rapid development in recent years of artificial intelligence has also encouraged chip designers - and the cloud giants that want to dominate that area - to develop architectures more appropriate for the mathematical demands of AI. Microsoft is also ..."
@@ -110,57 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft starts developing own chips for datacentres – report"
-    excerpt: "Meanwhile, new specialised computing demand, for example that coming out of the increased deployment of AI, would be best served by chips designed to optimise for the special use cases rather than by general-purpose solutions. Another key incentive ..."
-    publishedDateTime: 2020-12-21T10:09:00Z
-    webUrl: "https://telecoms.com/507954/microsoft-starts-developing-own-chips-for-datacentres-report/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 56
-    images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Reimagining the Future of Post with Microsoft Azure"
-    excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
-    publishedDateTime: 2020-12-22T06:30:00Z
-    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
-        width: 552
-        height: 372
-        isCached: true
-  - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
-    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
-    publishedDateTime: 2020-12-22T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-us-military-training-and-simulations-2020-research-report-featuring-google-ibm--microsoft-301197438.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Microsoft develping ARM chips for servers, Surface PCs - report"
-    excerpt: "Microsoft has started designing ARM processors for data centres, Bloomberg reported, citing sources. The company plans to run half of its Azure cloud services on hardware based on ARM architecture. A spokesperson for Microsoft said the company is continuously investing in research and development,"
-    publishedDateTime: 2020-12-22T12:44:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-develping-arm-chips-for-servers-surface-pcs-report--1366724"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 36
 
 secured: "uhJYI3oBUA9ym9cgm4Sxuc2ccS9fLoQNzigbc3iaWH0UnNruEtNlq2OGAj86aiG1Mqj4Wui6C0qSm+babn6NknlOXgl/4I6MD6BVYEcJQLwzdter6ovmcIHAC4iDggLbm/yd/c5Ws3uz8qGSIuoFmLVp91kLHwtqdJ6s3h+aeBAUXMlAqqyk25sxEEntK+xa8A1D29OypcxQeZqdsoJy+8j462ii+ZHf4zsDVGnHvfpR8uYAIhLZT7Obh8orGDE+y6lHMLw845jG3bEET+2pxWQwqQt8Y036MRrKgoi/knXduc2eyk6R76+0AJB3gBlwFexHyUAaZiAIyKsdsWgDavQJfO79jQNuqD7AyejiNS6MDSREBjt6O103jSAb06AkAFdHB7EEPWL1zDmdJzgNJCsNnTLM+mym3Nuo+I5LnojPbXoDajb1y4ys3F4BYlm5cjZqnYVvlJlP92B/duO9ZmaTA5Igbfyr9nCH9RNQIA/R8wq7UvaP/gwsvB951P1TIeXPzqk/jAei8DaJCChbMw==;C/peHtqy6Z2t76p5IO2lzQ=="
 ---

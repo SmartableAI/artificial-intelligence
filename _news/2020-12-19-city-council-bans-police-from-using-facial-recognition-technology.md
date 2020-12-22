@@ -89,6 +89,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Cuomo halts use of facial recognition in schools"
+    excerpt: "Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools. The legislation places a moratorium on schools purchasing and using biometric identifying technology until at least July 1,"
+    publishedDateTime: 2020-12-22T13:41:00Z
+    webUrl: "https://www.timesunion.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Hoping for better laws, a facial recognition primer for Congress is published"
     excerpt: "Mitre Corp. has published a crash course on face biometrics, putting the technology into context for federal policy makers."
     publishedDateTime: 2020-12-21T18:15:00Z

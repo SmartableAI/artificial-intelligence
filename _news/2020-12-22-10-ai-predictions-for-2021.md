@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Predicts Gestational Diabetes"
+    excerpt: "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. American pregnancy diabetes calculator cautions you about the chance of having diabetes when you are pregnant."
+    publishedDateTime: 2020-12-22T17:41:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/lifestyle-changes-can-prevent-gestational-diabetes.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "AI Predictions for 2021"
     excerpt: "Artificial intelligence and machine learning continue to make waves in the industry and 2021 looks to further that trend. Experts in the field see humans and machines working together to eliminate biases in algorithms while making work easier to manage through the automation of simple tasks and more."
     publishedDateTime: 2020-12-22T16:33:00Z
@@ -62,6 +78,6 @@ related:
         height: 500
         isCached: true
 
-secured: "vjltLrWpRIa/yh0+37Cwnk7f5fZBoJu70yTrbr0sLw7QTW0taplkngBQ9iC9zyHg/SeKRRB/jUV1AD80V3rQEHyTh4CYpJBkv5nag/GVJuu7rCQsoEUugfnuEgQvUUpu27BjKaBWk9Va3LtRmY5toEA3W+lNyoayXeqJKlVgzNCPsBw607/aPwY4BDvnFRoBQWW/bHOBoH4m3p+ttdIlYd3n/NKjBpedbCzgciHpDKDPpwbV+naU1wmmOJPwap8VWf+OmcCNlTFZjXAbaPOxzu3wU47K1znyS8rGS46EgffBV8ZASh/YULA0oodLXPXQKA7DLQNC8G9W/ssfZdYHcL55QXkv4UhvZmzp5HBtgyE=;Akh9l1ycjojeAy1WQRKihw=="
+secured: "eQ12hELAkiOBOwn4dMCgHjbYe/vwEb9B5DUxpN9aHagrfReFtNbyb5WsastXPs6dCXD6aOdBXeorEJBYblphq5k6TiIzJSSCWsfc5ODSVLFnHmCe9sBEARF18C1pQ0+WXiZmAad/5B5l6UJf05sHiT9UBJTPknBxjyzcqKPoArE0X9wEXqKvZJu2YpXNZo9G+UGJhNpyzualbPh6YTq4ZE2hv0c2Mb4xlvYU2lGVO6+8+/LVLQrlmHs+zG3e3UMMVAO/8f3cdb9BlZD7j+U0faszG4/BOf1MmrY1sTDzOoHzv/q6koYnnW95L1ZnEMx/1blDN/cAGa/VZXY/3ZHzYljaC7YZ+eJIEHz9H+oGLRDUi91Nffab+7fucwZH1ZXGfKFHo0P/q4LqHvInDjEqaCmfHmyegxLoQVSMuO9b6TCQ3gTzPKynLEgaDsXSCVCOstymlbA7t9RPsyiWqkRFCkvPbBkmlUJIdGxaUIX3iXtDIEw+MZPRVAlwq/wyWKiGWw04Ptnu9pbInsRC0LaD0w==;+civkYOSsdt683gGtVg9mA=="
 ---
 

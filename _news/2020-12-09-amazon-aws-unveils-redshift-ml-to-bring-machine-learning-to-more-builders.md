@@ -3,8 +3,8 @@ category: news
 title: "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'"
 excerpt: "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\""
 publishedDateTime: 2020-12-09T00:38:00Z
-originalUrl: "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
-webUrl: "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
+originalUrl: "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd0807e5b1bc70001e40372"
+webUrl: "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd0807e5b1bc70001e40372"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 998
     isCached: true
 
-secured: "6KNeaDbrZqXJf7zIARLGAvcqsd2fGZWLO0IxlHHnUOV26l8vRA8I+TSQKGKDEEvgcn8LZperADMeEgUHntz/Af2d4phiVzqQOdYDloNh2iIBW2h8YomvPd9lCPGMc5zMxv1UIJM3EW24uWDTff9MqmLpYHvOT1CEttVOh/pcb1CtlnSV3lIl5d5QY6XWg2vRP57EmWXJiLimaAvlZPdHtpkNWHJeW+8THbE956j9qk6PRwsrQ9qxrH7jy/pojgUqu0Ro3R2xJRIeThhtbt50Um/L+V5cmHRrUN1Q70C1mNLPxZT/UzVh064wFk9wkAM4vrcAX50nX5ikaWV5Nc8lK4R+WRgX6vZucOwc7XOJ3/fTBMgKGLdFYJwp8DgWjYMz2SE3aCHlE3MOwKSwb6bAd/TXQZgwpZj28naBNlZdlH9Zm+7fstK3xR/r6NSajQdEqI+h20HfEeXJtYuYLtNs40Qi5BOP1LbVGxXDZOn9UimCx3Cxu958G4iXterc8pQncHD8qO1wWORxozOsbvVvJw==;5S1RixR2SGTte3WFXhW+WQ=="
+secured: "9k5duKvrbbxqViDeFmgcuzW+msHnX8phBtdN2bhwhbTkMvDg7ZSKzB94MeTFuKSYIzS4NAIzPYETkK3b6Z0oXGsTTeVpnEp8UCoTodK8H/AI9nh9fanNQRN4PXbnHdyywW8a1PMDUCLCk4SQ85gkJOJ4E99iJDbFFSo1OilgI28RXEwiIp/AKaH1MzaHVqJTHIUYDHZW2Y0YlK3YZow7IdaJN0p83ZOZYA3wogc8wSxOy7hN5J3d2Txext6/94nzPKvEKrFP/UQ3KxKC+raYQPwopiTsZ6nV7SEeSWAe9co1Wgy3/LKOaLF9ZAhF1Pb64UX4AkdsMNrosnbXbxSiwd+SOoAch8h5LchF9Qyvl8w=;1dgepkbMIhTD+eMjgba27Q=="
 ---
 

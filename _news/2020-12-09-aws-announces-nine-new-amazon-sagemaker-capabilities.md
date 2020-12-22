@@ -1,22 +1,20 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
-publishedDateTime: 2020-12-08T19:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
+publishedDateTime: 2020-12-09T05:03:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
 type: article
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "A/Pu3hbPur+9aJ2LLShAtxPoNi7mxHMtzxT1ygunvq7o2tRCyx4WdZWzgZmtwNpv/F/ETWoUOah63KcFhdp/cGU5nmMIEJlDmz/Z9QttlxhUp1LB1OeVcbIbqDuBbaCGe7KlzT5gvK85LVIsmfz369cg3/stx259Mb46xgFrY/RoIMJx2k5HAjpRMveVyJcQcNkbhfbwRH9qrz3rm8PIOC8iONq2T7vXHNMgt4C7ONaZWb9u2XOhtT1lIRLsK49EG9E6/RBcwkL8/cvAQF8KSNIeUgulSZHcMlJJAD4g7E3GhC4NYjaKrb+g3AcwmIso6Sui4b9Rg81JAXSt5E6B7USGTTKZZxYwaF3OBFsqrE0=;ysO0bEKH+FAY4ToXca4KvA=="
+secured: "9D1JaX1Drl/qbQgp9WZjnwt01YvnIqV6SbCvgwrpWGYqwpsP36SHE4s9AMfIlCD36KqlF3xu9cBEflZXXzFg5AsZxm3bs4V6OgGrOGeuehwMd/f8sK89Sjh06LCCs98CNmq2e3mvKX9OyLbBoL28cleKOWxTg2KyGDbi/IwEEEghEwIpv8hvqmx92U1GHKZ20Uda8UPxGL2ARLvCfsgeADbMIXYCKucHP8Gu5ReYI61UvSebnvxW/DZHXhahNbmee0GHt6HiSt+bCAAxWoaa5fSwl6SXAzPHaFf7gYw/ENyIhYp7FpYCHgq9uhGLvaWzlt7EKCebAM9WvquI+mDJzCS1feNpinXT7uHEIjpshbE=;kZW3oVGAU84pHqaDd8CcJg=="
 ---
 

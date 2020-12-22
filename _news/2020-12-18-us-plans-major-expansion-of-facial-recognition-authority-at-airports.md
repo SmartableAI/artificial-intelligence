@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-fa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/06/0065f5a8-4ed7-538e-988a-de21a06170d7/5d239eab53a17.image.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Cuomo halts use of facial recognition in schools"
+    excerpt: "Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools. The legislation places a moratorium on schools purchasing and using biometric identifying technology until at least July 1,"
+    publishedDateTime: 2020-12-22T13:41:00Z
+    webUrl: "https://www.timesunion.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "City Council Bans Police From Using Facial Recognition Technology"
     excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"

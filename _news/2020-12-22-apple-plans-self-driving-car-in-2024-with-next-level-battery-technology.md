@@ -157,6 +157,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CNBC Traders Weigh In On Apple's Self-Driving Vehicle Potential"
+    excerpt: "On CNBC's \"Fast Money Halftime Report,\" the traders gave their thoughts on the recent report suggesting Apple Inc. (NASDAQ: AAPL) could enter the self-driving vehicle industry. Here are the takeaways: Apple's stock was trading up 2.68% at $131.67 on ..."
+    publishedDateTime: 2020-12-22T17:53:00Z
+    webUrl: "https://www.benzinga.com/tech/20/12/18897927/cnbc-traders-weigh-in-on-apples-self-driving-vehicle-potential"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18897927"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18897927"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/apple-inc-508812_1920_32.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "Apple Is Planning an Electric Self-Driving Car Featuring Game-Changing Battery"
+    excerpt: "At the center of Apple’s renewed strategy is a new “monocell” battery design that could significantly reduce the cost of batteries and increase the vehicle’s range, according to a second source familiar with the matter."
+    publishedDateTime: 2020-12-22T17:06:00Z
+    webUrl: "https://observer.com/2020/12/apple-electric-self-driving-car-2024/"
+    ampWebUrl: "https://observer.com/2020/12/apple-electric-self-driving-car-2024/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/12/apple-electric-self-driving-car-2024/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 40
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/12/GettyImages-1144596495.jpg?quality=80&strip"
+        width: 3600
+        height: 2492
+        isCached: true
   - title: "Report: Apple aims to get its self-driving car on the road by 2024"
     excerpt: "Apple Inc. is aiming to produce an electric car by 2024 and it may feature a “breakthrough” battery design that makes it cheaper to run and gives it longer range that existing vehicles of its type. That’s according to an exclusive report in Reuters today,"
     publishedDateTime: 2020-12-22T02:15:00Z
@@ -298,6 +330,6 @@ related:
         height: 382
         isCached: true
 
-secured: "pqjGxOEbkboOkJvVKu+UmrZKNKrlxOoTMdH21C8BWii8i7IeOEK4Vx7b/9r/+eUZ1dDl+hbygx2za66MKwY/9TMuyCW4QRwqPrhoedboDGQW8wB66BoDbqehI10Uro1NoqZ5eAUDvgJwIGUU8mhHuIf8ieFfdbgrwYPK14fOXM0hKUvjrTYYeh3fHD0ergfBlJ/ebJCwhMP0I8DyoBz71tOOKpRCVY4/1DTMsltnKRb/sIyp0t8o1mleYuW5U7OBtHw8Ep25NsKS3mfkH668ef+pByPo5mfINPlj+NFi++3Isrg3Gzl0kNxd36CGUMjlGv/jGRCjyxv1PZ6D6RdVQJwxt06Ca9RcbEnJPV4rQXA=;rrN7lavCL5g6c2gN/lDcPw=="
+secured: "awK3wWhKfriG69+OnMtBKr0xNBh3tcZ8Gw8ACcbVBfoEMlSblq7MTQsGKbIXdRI75re1wz3Rra+gd3Sjt2LkvAgvDpfokJYaVJ5QK1USxEZ0l/3EmOFJBsX66Q+1W9eZgaK63Ip4qeoCR7XZmnuDpQWx9HrTcbaAvTBhYrp9Kav3RRfUf2qZ4Y/T3EDZwCLO00tO731rGBv97r501jwPeDec00UYQ8vP0eLCrDVAOxaGshkA7NozDNaSmK9UaLPmX+50igCpylMtxfLaJ75L6DF8pJnmgnQQJkBgwUuIDnYbR/2jl7d3dO+H2qLB3aSwkZZRxYa38uNqoJBPq1ku1b+SXeoLB4krFNDR8CCSeiiKBKSx+q6NiGWHAFWZnbJgbyKQxw8MolIC/V2aRTgsHavGI4duWePvcrYYUj2sEWuIIBvUxqCK4sVy9icMxWKb3D6c29MY/x+FdAnyBuf+deDsM9v93ZheR24T+omK0ZQyG6npxovBznn1Ypwrf5HQJ02l+gaB2D30d9YUmen4MQ==;KYu1bK3wLIA/RG9VsCRYkQ=="
 ---
 

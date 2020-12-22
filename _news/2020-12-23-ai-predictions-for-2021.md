@@ -40,6 +40,22 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Artificial Intelligence Predicts Gestational Diabetes"
+    excerpt: "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. American pregnancy diabetes calculator cautions you about the chance of having diabetes when you are pregnant."
+    publishedDateTime: 2020-12-22T17:41:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/lifestyle-changes-can-prevent-gestational-diabetes.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Looking back, looking forward: The tech startup community’s predictions for 2021"
     excerpt: "It’s been a wild year. A pandemic has squeezed the global economy while also spurring innovation and unique tech-based solutions.  Silicon Prairie News reached out to entrepreneurs, investors, business leaders and government officials across Nebraska to get their take on 2020 and see what trends they think we will see in 2021."
     publishedDateTime: 2020-12-22T15:27:00Z

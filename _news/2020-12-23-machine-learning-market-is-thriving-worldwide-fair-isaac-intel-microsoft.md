@@ -1,0 +1,123 @@
+---
+category: news
+title: "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft"
+excerpt: "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,"
+publishedDateTime: 2020-12-22T18:24:00Z
+originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22"
+webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22"
+type: article
+quality: 99
+heat: 159
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Machine Learning
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
+    excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
+    publishedDateTime: 2020-12-19T02:39:00Z
+    webUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 89
+    images:
+      - url: "https://images.barrons.com/im-275719/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Microsoft working at In-House chip for replacing Intel Processors on Surface Laptops"
+    excerpt: "Microsoft is working on in-house processors designs for use in server computers. It is also exploring another chip that will power the Surface computers."
+    publishedDateTime: 2020-12-20T16:53:00Z
+    webUrl: "https://www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/"
+    ampWebUrl: "https://www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/?amp"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/?amp"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 69
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/12/345.jpg"
+        width: 688
+        height: 387
+        isCached: true
+  - title: "Reliance General Insurance providing Microsoft Azure AI"
+    excerpt: "Mumbai, Dec 21 (UNI) Reliance General Insurance (RGI), a 100 pc subsidiary of Reliance Capital, has brought in speed and acceleration to its vehicle claim process by introducing ‘RAPID’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
+    publishedDateTime: 2020-12-21T09:50:00Z
+    webUrl: "https://uniindia.com/reliance-general-insurance-providing-microsoft-azure-ai/business-economy/news/2270078.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 69
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/2020/12/2020_12$largeimg21_Dec_2020_161712233.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
+    excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
+    publishedDateTime: 2020-12-18T19:39:00Z
+    webUrl: "https://www.openpr.com/news/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc18425884_g.jpg"
+        width: 800
+        height: 418
+        isCached: true
+  - title: "Microsoft is working on its own PC chips"
+    excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
+    publishedDateTime: 2020-12-19T04:57:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
+  - title: "Microsoft is reportedly developing its own Arm server chips"
+    excerpt: "The rapid development in recent years of artificial intelligence has also encouraged chip designers - and the cloud giants that want to dominate that area - to develop architectures more appropriate for the mathematical demands of AI. Microsoft is also ..."
+    publishedDateTime: 2020-12-21T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reportedly-developing-its-own-arm-server-chips/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 56
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "VnuADlgIUuC6tMsuSsJtIgv6nWiozIWNyDGQ0nXeGPBgocWPnjPNLXIlvaA29VAsT3dfdv3iQ5ONlsv+nV1q7w7fxeC5giOA4jguphGpAwxEAzYRodhGclAxYSKzRf4kPZivSVWrATitPqqOtPehO8ZFmSBbY4m7fw2MSxzKv7k7pKJqJkrND1z+6uGNCUWlBQWI/0WPwYoJqFdOPpHGonHfDaTuiGi+/70aI7uYRNuV3W9NBw5r/kuWSbFPH2rSFb3E12ZZAFT0JYQNrrxlwvWOqXW7wXcbfCm4A3uNNtYFwi6pwdm4Qp5KLwsmv+L3yd9oKXA8RSXFcyzbnJ/k/EGvgVg7EaNGzkyklK0kiTE=;EYka5yMnjrbX4lbxDgNOiw=="
+---
+
