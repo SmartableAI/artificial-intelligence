@@ -105,6 +105,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Zetes launches Panasonic facial recognition at Cape Verde Airport"
+    excerpt: "Zetes designed and executed the multi-phase project that includes an online visa and security airport fee (Electronic Travel System or ETS) system and 11 Panasonic facial recognition eGates. The new border solution is integrated with national and ..."
+    publishedDateTime: 2020-12-22T22:57:00Z
+    webUrl: "https://www.biometricupdate.com/202012/zetes-launches-panasonic-facial-recognition-at-cape-verde-airport"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/22174941/Panasonic-biometric-eGates-at-Cape-Verde-Airport.jpg"
+        width: 500
+        height: 339
+        isCached: true
   - title: "City Council Bans Police From Using Facial Recognition Technology"
     excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
     publishedDateTime: 2020-12-18T23:45:00Z
@@ -119,6 +133,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cuomo signs facial recognition, voter registration bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
+    publishedDateTime: 2020-12-22T22:59:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
 
 secured: "P6Qfl0nVD2x4gIUq90IanMvpNIxdjSntR9sc9ymNx0zBfH0TMKJ/smIL56M3a8V0hChmtd/ECjI4/dnt/lG6S7pZ57jSQZrmgJ48IEHZrbb+BdaFZaBu/Uk4cexg5rsDdQ3mLgBU6WcH7oA1t0BUyYnXwAzYfsOZ8rT2hM6zsoDK588/jdKYUQtj5wMU8vLU0Ut2Cc0tAMApvnMCf/Ap2AakVvTnS6wPnk1p9qp3bGsTeqHTi6bk/RJE9YNg3CLMdGlhcg2M8X04Q3dmtjNBFUo/ZqJ2VXhotw4orOg4ID7fPjPUrikWIhreDyPjCkRvYNnBm+vDj7OySpwo696vsazNyADHjCx3NrQyi1ukr5Q=;UQSuQA66ESXCd3NWwbppJA=="
 ---

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "AI Enhances Store Safety and the Customer Experience"
-excerpt: "Learn how UST Global’s AI video surveillance solution attaches to a store’s existing cameras, enabling rapid deployment and scalability."
-publishedDateTime: 2020-12-21T13:41:00Z
-originalUrl: "https://www.infoworld.com/resources/212213/ai-enhances-store-safety-and-the-customer-experience"
-webUrl: "https://www.infoworld.com/resources/212213/ai-enhances-store-safety-and-the-customer-experience"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-12-21T13:45:00Z
+originalUrl: "https://www.cio.com/resources/212213/ai-enhances-store-safety-and-the-customer-experience"
+webUrl: "https://www.cio.com/resources/212213/ai-enhances-store-safety-and-the-customer-experience"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -40,6 +36,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "A9Dkvb9/KJpMYgk0f0UPTAuWMtmcvmdCHSaqa+pL6GbL3286N/q080KfKstzHGqmpsyyaUV33pQNGdRTujneuxWveqJ51fXJg0XTMLgenH0T97MSb+sTjVJ7LLJOrLIMY0zJIbtiC1sGNy36Kz6GofUSWJ50dIuiGZASitWxaMbUPXYOpMJeAmHZYzznFRa2BvI2nbykgTiRzGFI9OrbnxxsmpSCMX2IR45K4ApdHUaZ/k9nNosa801hzCe8JbKo0DhK2/JzL17lBHAQ18QeXvC4OykYpc68zg1MIbCv7QfESYfqu30hBt5XhbjeB/QWKcRuJbsGP7KXaVq6vI9uALlZ2t48G9blL4pbnc4Jfng=;cFtsEL/n9mx5OFvJz4C95A=="
+secured: "hLc4CwJjW1V4IlRaFzhgeUTXkvREdHhqHAw76JgI/s4+59IOfKGmYvurqZcrC9707OXgdTd0yvTX91f5iSuXA6q5zNQT6T8kz0QpCphu/89jGaX+oH2Wpwk3tkwNHR17unPPExoFROzlB+FzmG55Uz1OUOpltCdoSFoRal4DTS24d15zX8gLIkdHYhvL+vi+A5MzPnzrx4PovikFw+KQ0rScqktt8mv8Cwjk9m2O9TCy6A8Fgq85+mpQwS9cJ5qnOYmOBJ3ocg3JNlkJgOaYG6GMM+1C76PrYq4w43hc6ncVCrEoHpUcVDdhd5hdPYzBLz8Ua1lXAB6bk9Mj98rvqZlX32TX7NwrIkSYjl7nwgE=;3UiDEm2LtrvxVha9EuKvXA=="
 ---
 

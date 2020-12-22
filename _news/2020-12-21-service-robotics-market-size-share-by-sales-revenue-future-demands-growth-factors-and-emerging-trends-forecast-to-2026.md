@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
 type: article
 quality: 75
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driving Facial Recognition Market Size, Share ,Development and Trends Forecasts Report 2021-2023"
-    excerpt: "The Driving Facial Recognition Market is estimated to record a significant growth throughout the forecast period. The"
-    publishedDateTime: 2020-12-18T05:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driving-facial-recognition-market-size-share-development-and-trends-forecasts-report-2021-2023-2020-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Cognitive Computing Market Size, Share and Forecast 2019-2025"
     excerpt: "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
     publishedDateTime: 2020-12-22T11:08:00Z

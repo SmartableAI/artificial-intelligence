@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/22/Apple-Car-2024-news.jpg?itok=BqJQ3wsU"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Apple reportedly plans to build a self-driving electric car by 2024, but it will face stiff competition as new EVs flood the market"
+    excerpt: "By the time Apple's rumored electric car launches, dozens of new EVs — from sports cars, to SUVs, and trucks — will also be on the market."
+    publishedDateTime: 2020-12-22T22:18:00Z
+    webUrl: "https://www.businessinsider.com/apple-electric-car-face-stiff-competition-from-growing-ev-space-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/apple-electric-car-face-stiff-competition-from-growing-ev-space-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-electric-car-face-stiff-competition-from-growing-ev-space-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://i.insider.com/5fe26978edf8920018093607?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "CNBC Traders Weigh In On Apple's Self-Driving Vehicle Potential"
     excerpt: "On CNBC's \"Fast Money Halftime Report,\" the traders gave their thoughts on the recent report suggesting Apple Inc. (NASDAQ: AAPL) could enter the self-driving vehicle industry. Here are the takeaways: Apple's stock was trading up 2.68% at $131.67 on ..."

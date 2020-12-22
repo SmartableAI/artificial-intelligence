@@ -1,24 +1,26 @@
 ---
 category: news
 title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
-excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR"
-publishedDateTime: 2020-12-09T14:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
+excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
+publishedDateTime: 2020-12-09T12:46:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "i9TSoeh5F5+UW+ZM+OWRds7PHUYkMIB53UaXq7MEmzv4r7AspRNg0NFtoj8flKchNZuwhC9sCIEWXFL2c4DZXR4jd+5GqFjR+xy2DGu4Gyq1nGSH553NyvTOmyNHimRiLnbzWGllJWUyEA8AHwsgB3B6UOvmHocIbNi49vgqbEy+hXcnFHGb8Fl/c5d/p9R3eiOc6WPWiyY+3146BISgb0Oho3wvgxpuSHWJP+F3uDK7o/HgVzwrKG8z0poC9C9fPfKlpNCYfi247yMDJsoeuUakmAhHbkRgi/C5xrGQuKuJCzbM9y9QvWg/sQkLsfdPOPWtDwa45UjsZi6avnLk83u6PxL832OM0ijlHYKRD4M=;xHU7xP5H1mnhzczKw+kHUg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook"
+    width: 1262
+    height: 660
+    isCached: true
+
+secured: "Xlp4WtCWiEwmqczHYrp+1qS4ZZrrGAs++ltXRgX4oSZCejQOyg++jzo5FhMfVlyS50Rc0LvJeG26FkQs03dNJsuaF6A+tkm8+TImNSw5qyMy2F0VJvCJjvFeDpYWjc3mihlTf4A76E9aR/Az9f4zOUh1MdCjM9xDHnRfTCDMXe5qN9PAJCrRxi3qJBda2/RjY/DMhwcYA8jhZCKddOY97/Xc3moWstq6C8ii2R/lyn/agkeT7KchkkZ0dxFC2rfE6XOw+pAg/L9LkgSL5MSucQVU2rrZTrkTTnjKH1p4NM9yiYK39/IrvItvtoX27XoByWZrf/wGROfg8TTejmZJf/8fVxBmPAXnn5gjwF1V1/o=;1wqFB/YWIKpdzXcfkqgcdA=="
 ---
 

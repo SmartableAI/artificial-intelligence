@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple reportedly plans to build a self-driving electric car by 2024, but it will face stiff competition as new EVs flood the market"
+    excerpt: "By the time Apple's rumored electric car launches, dozens of new EVs — from sports cars, to SUVs, and trucks — will also be on the market."
+    publishedDateTime: 2020-12-22T22:18:00Z
+    webUrl: "https://www.businessinsider.com/apple-electric-car-face-stiff-competition-from-growing-ev-space-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/apple-electric-car-face-stiff-competition-from-growing-ev-space-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-electric-car-face-stiff-competition-from-growing-ev-space-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://i.insider.com/5fe26978edf8920018093607?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CNBC Traders Weigh In On Apple's Self-Driving Vehicle Potential"
     excerpt: "On CNBC's \"Fast Money Halftime Report,\" the traders gave their thoughts on the recent report suggesting Apple Inc. (NASDAQ: AAPL) could enter the self-driving vehicle industry. Here are the takeaways: Apple's stock was trading up 2.68% at $131.67 on ..."
     publishedDateTime: 2020-12-22T17:53:00Z

@@ -14,7 +14,7 @@ provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -59,6 +59,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kVNyBN+pr4BdYwQQGl8fGX44JKZ2sh9V0feV82AjfX8yGf/fQ1yUvF3MLY9SiRi1rG2S63/Ik4iVpaazmfDDbn4kQlW2waBxPl/AN9t6QCi69yRbDzQB8wFwq6pJpzfWhpIuRNYDMI011c8YTf/BljRNhKvUexCkFP9VvKpA+N5mJXcpR9bhPIbn+ZLhTkab9TJSCCMNoVTZsc0+eLh8AUXTc8kuxB+iBi58TS3eNrVM9JwabRLPMdEJiDOfOXn/t/uyp6PpBrtyp2qp8dPRSTjzBAE9tvXhQGMzkKdY0m1gmldKFl4eSZOqgAve3tOpjZZGuZbZ+f8/LDBDaQWT2ZnZR7YApDeSdoKGSd//PMU=;gf3q+DtBszMpE9X+LQ7q/Q=="
+secured: "kF6nSqlJVsH8AKUu3FJLXQ1OT7BcQRcrc2iferWY6tieD6e18+choa6Vj2+CGZBEndkzsNI826SquGLzmTu3TqV21pL2RojTqBCY5e8bfyGOZdMiHKAQQ9VeNeTqI8TuSXTghk8UiwmtJ2rylMm9SxoWr5B/zhVRaRTULGEzPNWIQ+APNy2f3AuVg48w38rrwIG5Z/8sfau7Ov8sybfQOKolUBoAOJuLpR/VvIzxbonQZ8I01b+tecblU47UWFjSCWFFaFHWazudhqMD5l3X/kdDroD0LxYsFEi71PxE90s+Y7FagF1xL/P2SxtStrMV2w4oCv5AZPXCYT+iK65ooQb6f/S9lQMZiWarMjkv9GOCbZBV8DVnXlQ/bf9d8z7bb7Ep8zV9j1BuJPTte3iJw8kF3+9b9EE4V0uoT16b6CL+C0NnzkmaNNTthVe3oiUAcf1AF6rnCmwfpJ+JjRj+TPK8V5gqTuODRCQGH/ookbQ3jbZAihfGC4L0YI8AecQe03S5GuV8f5ydGz0OKITO2NVr4SuuBRV9anQidCiVoCw=;g8dyNbljBHldnyfqG7rvfw=="
 ---
 

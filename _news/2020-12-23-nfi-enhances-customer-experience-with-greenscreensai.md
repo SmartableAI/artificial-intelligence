@@ -21,16 +21,16 @@ topics:
 
 related:
   - title: "AI Enhances Store Safety and the Customer Experience"
-    excerpt: "Learn how UST Global’s AI video surveillance solution attaches to a store’s existing cameras, enabling rapid deployment and scalability."
-    publishedDateTime: 2020-12-21T13:41:00Z
-    webUrl: "https://www.infoworld.com/resources/212213/ai-enhances-store-safety-and-the-customer-experience"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-12-21T13:45:00Z
+    webUrl: "https://www.cio.com/resources/212213/ai-enhances-store-safety-and-the-customer-experience"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

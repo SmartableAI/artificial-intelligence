@@ -1,24 +1,24 @@
 ---
 category: news
 title: "How Manufacturers Can Push Past the AI Tipping Point"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2020-12-21T13:41:00Z
-originalUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
-webUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+excerpt: "Industrial AI needs to know when and where production events happen—for example, to track scrap metal on its journey to becoming a finished coil of steel as it moves through a mill. However many operating technology (OT) systems remain disconnected from ..."
+publishedDateTime: 2020-12-20T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+webUrl: "https://www.computerworld.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -83,6 +83,6 @@ related:
         height: 300
         isCached: true
 
-secured: "mROqf6hrjizEoLaKe+hLotFHU46SxqJy3hnOaeIbaQoDCkbEDzwoHgLvcSoACDbofBVuehJgHUAoyDAetnU94Iied7aEt34HN5wYFUBZOHga03DqALG8myP0Hxe/m2j3n0FuTBnoQyNuBNbIw5tG5mzmHyjOwmI9cb0YAlLn4zTn3/T3llf9vYcrVsgjayQx6eKXoPMZ1A4bu2Hyuw8n2COkUurARtmlZFPr6jRTrYt4jt0wD+U56eIUjIBvMPXqdhiBCAVTygiSkCVHgoiySCK6G+MxxGwRoreUbCeeH97vDsTXcfQC5scho3a/MXLcl/qW+ba+8SB7Da+vunmTFMZmgPCoOKHEsv9/qlApENStcbedIZIBG7Bvy96XX0b6cliRecyKx6MtyYRf/OXMNh6M3ei43pWhONlPg09drR32lagCuhCoXoME2pY1UCMK1qJUy3I4IdyhlBlOI32J2HwbKeZrHtb36MKk2sMMkEO4L9M8GlfHVJBjqImESeU66AXdfjZgwcFkyIb/Mrb1Yg==;xPh/I6WERw0Z1AGMBG3gnw=="
+secured: "Kny91WuCKOGb/fqllwRhFRN4N6M/f7EuRxTVgXXFd+q5iFDJWJHuq9mmtVSyMQ7QxjPOQbt/08JX1N+u0SInDoLxD7i9QcL7Ub38zwdNZxRCalz9akZDmfeARocmhBgMIaq26I5TRVz3xS7LeYcseRYYnOwdUBiDSZodksBN4oj0TsLjRqdeMpxRHlICEZr42qWLVALZHKky+TdijpN/6Pe9w2wHaqzKHwrPQT5QnkMEWG7HYSZbH6240HH+3IPqvaEzntUicfpkVo9M1HFTF+e+z4O0R9nBrZRwfwFndPfWG7YGz7pMSP/F3rK85/lfJ1r5ixv3CryiyQsYPduHUnrkam10xS2i3yj0frkWgB0=;DlPVEFZ1Rqw12hOt4ZxQ4A=="
 ---
 

@@ -91,6 +91,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Zetes launches Panasonic facial recognition at Cape Verde Airport"
+    excerpt: "Zetes designed and executed the multi-phase project that includes an online visa and security airport fee (Electronic Travel System or ETS) system and 11 Panasonic facial recognition eGates. The new border solution is integrated with national and ..."
+    publishedDateTime: 2020-12-22T22:57:00Z
+    webUrl: "https://www.biometricupdate.com/202012/zetes-launches-panasonic-facial-recognition-at-cape-verde-airport"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/22174941/Panasonic-biometric-eGates-at-Cape-Verde-Airport.jpg"
+        width: 500
+        height: 339
+        isCached: true
   - title: "City Council Bans Police From Using Facial Recognition Technology"
     excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
     publishedDateTime: 2020-12-18T23:45:00Z
@@ -105,6 +119,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cuomo signs facial recognition, voter registration bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
+    publishedDateTime: 2020-12-22T22:59:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
   - title: "Hoping for better laws, a facial recognition primer for Congress is published"
     excerpt: "Mitre Corp. has published a crash course on face biometrics, putting the technology into context for federal policy makers."
     publishedDateTime: 2020-12-21T18:15:00Z
@@ -120,6 +145,6 @@ related:
         height: 536
         isCached: true
 
-secured: "ZZpyRX2OiRx9taXYHughA/0I88azGKD8HFMvmJOI1bv+4B1mwtP3ghoS+/S7r9BfYHc2yJ4JMJ6rNQbm0RfH0a5eVyFE4v0KmpSz13PsIWh33hupkieEPJFIG6d0+S/znaiMVkn2ahyJYoKLRcLmjXxHJ1lxF6A3JHdAy1KCGtNmNDTNcE1z75LCNYj9akwqj7j0Uc2EqUpNkdpRYtclzSE0mp7ngJl0y5dnuZ/Q+PlU6s0I8Q0xWR5CsGg1E6S6iNdkt91g+Tr8PI8Ph1XJx7S77/S90OZn4EnLpZsXA12L6ty6kiBh1elWHBfca6wGEElKh58ZI/rvGSg9L9D/Txjh87ZgNKz22BwfXO02Bss=;fFoi4jU/ToeglVDpiSL90Q=="
+secured: "TmdZuXtKUslW5lZqeYgtK0mF5odlvCOLGdllJrBg+RTGYEIuKqYDHjBdFIPZbSLIKGpH9Sf7pc80d1ClirpOuANjB55nvbtYvRvqKcXwxfgqDGsHc5PsDUAX96xX7NjlAv+0Y/us5al3kypp8RaNoxw1IGXY0tBO40zRCUPwmWPr3zWWRX7gg7yTg0oGTYfM1wXjn3137DnfkBZoCmEPl6u7EVatrtdE4rtzhrGMOtG1OFKvNZvB3T5hYhr2aZH4iyTOrUDTaWs2VCI/elmNangov0Qh0e37s7tp04tZZFp9Y1Ajb/VFilCMeNjc/5SvFApWe602u9DkLiXvQnLOk1s5nuZU1rhhKFUjV6aygc/c8ihEPtwaA4MG17yDE/dnrDikqsAWIqTMODnMsCLrVKr3Km3UTSPCWgDRfc7nS75hUZb1Ai6veyaupfFPJzblz+ROw3dbo1KMRiNQU9s2hNPBJA5SjlCBZ7YeO0FkrVBL1SJkqD5AEO0CtySDbI7urEO2waJN8PkpbQ7Iwc+y2w==;BwAHQVYUU9d3akGjLgkDSg=="
 ---
 
