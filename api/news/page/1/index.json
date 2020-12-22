@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-22-ouster-maker-of-self-driving-tech-agrees-19-bln-deal-to-go-public.md",
+      "title": "Ouster, maker of self-driving tech, agrees $1.9 bln deal to go public",
+      "excerpt": "(Reuters) - Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp. The deal values ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
+      "originalUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545432002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28W1D3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W1D3",
+      "publishedDateTime": "2020-12-22T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
       "title": "Diving into Japan’s top AI/ML startups",
       "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
@@ -407,7 +459,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-12-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -718,7 +770,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -822,7 +874,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1201,58 +1253,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
-      "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
-      "excerpt": "Big tech companies are getting into the custom chip-making game in the hunt for improved performance and lower costs, shifting the balance of power in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "originalUrl": "https://www.wsj.com/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-274391/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "publishedDateTime": "2020-12-20T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

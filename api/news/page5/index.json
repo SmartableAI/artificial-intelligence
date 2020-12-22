@@ -2,110 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-12-16-trump-could-torpedo-a-bill-to-boost-funding-for-ai.md",
-      "title": "Trump Could Torpedo a Bill to Boost Funding for AI",
-      "excerpt": "The National Defense Authorization Act would increase US investment by $6.4 billion over 5 years. But the president could veto it over other provisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "originalUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd939cf55d4309f339343c4/master/pass/Business-Defense-Bill-AI-Trump-1290145039.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "publishedDateTime": "2020-12-16T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care.md",
-      "title": "Khosla-Backed Health AI Startup Raises $27.5 Million To Supercharge Primary Care",
-      "excerpt": "“We think that AI can be a superpower, where we can make the cost of care lower,” says Khosla, cofounder of San Francisco-based Curai, which announced a $27.5 million Series B financing round on Wednesday. The company has built a chat-based platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98d60ec452825cba9b7ec%2F0x0.jpg%3FcropX1%3D110%26cropX2%3D1816%26cropY1%3D0%26cropY2%3D959",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
-      "publishedDateTime": "2020-12-16T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi.md",
       "title": "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi",
       "excerpt": "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,",
@@ -1133,50 +1029,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
-      "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-aws-decommoditizing-compute-with-reinvent-2020-announcements.md",
       "title": "AWS Decommoditizing Compute With Re:Invent 2020 Announcements",
       "excerpt": "The AWS re:Invent event marks the last and largest conference ... For the reader that hasn't followed the Artificial Intelligence (AI) market as closely, Habana Labs is an Intel company that designs and delivers AI processors for training and inference.",
@@ -1225,6 +1077,143 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
+      "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
+      "excerpt": "Microsoft is bringing together Azure, analytics, collaboration and gaming technologies to build out a 'serious gaming initiative' for military and commercial customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/cb0f1967-7a6b-44b9-a4a4-a02e0ab6b920/studioalpha.jpg",
+          "width": 1527,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "publishedDateTime": "2020-12-15T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-baidu-rockets-higher-on-electric-vehicle-plans.md",
+      "title": "Baidu Rockets Higher on Electric Vehicle Plans",
+      "excerpt": "Baidu, which is widely considered to be China's leader in artificial intelligence (AI) and self-driving cars, has reportedly engaged in discussions with automakers about its plans. Baidu hasn't ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan.md",
+      "title": "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan",
+      "excerpt": "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1384514/1.jpg",
+          "width": 400,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

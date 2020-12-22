@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
 type: article
 quality: 75
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cognitive Computing Market Size, Share and Forecast 2019-2025"
+    excerpt: "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
+    publishedDateTime: 2020-12-22T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

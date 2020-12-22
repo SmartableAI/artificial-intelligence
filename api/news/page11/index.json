@@ -2,60 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
-      "title": "FPGA chips are coming on fast in the race to accelerate AI",
-      "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-216391.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
-      "publishedDateTime": "2020-12-10T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-unbiased-ai-becomes-mission-critical-in-2021.md",
       "title": "Unbiased AI becomes mission-critical in 2021",
       "excerpt": "While data management becomes critical, recognizing how data annotators influence model bias will be paramount to success.",
@@ -1199,6 +1145,58 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-its-just-research-isnt-good-enough-in-ai-ethics-p.md",
+      "title": "\"It's just research\" isn't good enough in AI Ethics -p",
+      "excerpt": "There was a little bit of noise around some papers being rejected on ethical grounds at the NeurIPS 2020 Conference. The responses fell into two camps: It's just research and AI has implications, ethics matter I'd firmly put myself in the latter camp,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
+      "originalUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEMg6-uH8PJ6w/article-cover_image-shrink_600_2000/0/1607613295550?e=1613606400&v=beta&t=zJK3zRQWmF-nVosNIOpnx5jcyEFwhyGXkx8ljay0BGE",
+          "width": 754,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

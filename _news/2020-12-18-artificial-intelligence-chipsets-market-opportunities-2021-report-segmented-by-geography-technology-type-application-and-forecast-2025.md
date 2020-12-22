@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
+    excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2020-12-22T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2026-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-12-18T16:55:00Z

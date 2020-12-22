@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-teams-swit
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG"
         width: 735
         height: 489
-        isCached: true
-  - title: "Cut out background noise on calls with Microsoft Teams AI noise suppression"
-    excerpt: "AI allows Teams to reduce more complicated noise than traditional ... A new breaking report from Bloomberg claims Microsoft is developing its own ARM-based processor. The chip could be used for servers, but another version may be designed for Surface ..."
-    publishedDateTime: 2020-12-17T19:16:00Z
-    webUrl: "https://www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression"
-    ampWebUrl: "https://www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 74
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/04/microsoft-teams-pc-2020.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Reliance General Insurance providing Microsoft Azure AI"
     excerpt: "Mumbai, Dec 21 (UNI) Reliance General Insurance (RGI), a 100 pc subsidiary of Reliance Capital, has brought in speed and acceleration to its vehicle claim process by introducing ‘RAPID’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-07-microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots.md",
+      "title": "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!",
+      "excerpt": "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,",
+      "sourceUrl": null,
+      "webUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
+      "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg",
+          "width": 510,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yanko Design",
+        "domain": "yankodesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and-more.md",
       "title": "Q3 2020: Tech Growth Earnings Review - Pinterest, Snap, Microsoft And More",
       "excerpt": "Azure Machine Learning, Azure Space and Microsoft Cloud for Healthcare. Azure saw a slight acceleration of 1% this quarter. Gross margins on Commercial Cloud are an impressive 71% when including ...",

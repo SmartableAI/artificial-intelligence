@@ -62,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -244,7 +244,7 @@
       "originalUrl": "https://www.engadget.com/google-ethical-ai-team-letter-174518115.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -283,49 +283,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-deepmind-shows-need-of-deep-pockets-to-pay-for-ai.md",
-      "title": "Deepmind shows need of deep pockets to pay for AI",
-      "excerpt": "Deepmind made losses of £477 million last year and its Dublin-based parent waived a £1.1 billion loan to the company. The heavy losses reflect Google’s continued investment in Deepmind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6",
-      "originalUrl": "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd3f0b550-408f-11eb-87aa-2b872fbc5d91.jpg?crop=3869%2C2177%2C91%2C456&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
@@ -1147,59 +1104,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
-      "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
-      "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP",
-      "originalUrl": "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28R0KP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP",
-      "publishedDateTime": "2020-12-17T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-climate-change-falls-down-the-agenda-at-ai-lab-deepmind-after-energy-heads-leave.md",
       "title": "Climate change falls down the agenda at A.I. lab DeepMind after energy heads leave",
       "excerpt": "The DeepMind Energy unit, which has attracted its fair share of attention over the years, has vanished and none of the company’s staff mention it on their LinkedIn profiles. At one point, DeepMind wanted to use its AI technology to optimize National Grid,",
@@ -1248,6 +1152,100 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
+      "title": "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report",
+      "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp",
+      "publishedDateTime": "2020-12-16T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-googles-new-open-source-ai-model-understands-indic-languages-better.md",
+      "title": "Google’s new open-source AI model understands Indic languages better",
+      "excerpt": "Google’s various products, such as Search and Assistant, are already available in India in multiple local languages. The company is now turning to a new AI to potentially make more of its offerings accessible to Indic language speakers — more specifically,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-17-at-11.24.08-AM-e1608184545438-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
+      "publishedDateTime": "2020-12-16T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

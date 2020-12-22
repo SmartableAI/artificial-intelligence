@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-21T10:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
 webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
 type: article
-quality: 43
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"

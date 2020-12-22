@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI robot co-pilots US military spy plan in world first"
-    excerpt: "After takeoff, the controls were handed off to Artuμ, named after Star Wars droid R2-D2, which was put in charge of sensor systems"
-    publishedDateTime: 2020-12-17T20:46:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/Artu_trans_NvBQzQNjv4BqBmo3ZBPOSwC7GqRZsuXAwPz7VF_eVkNHHJ3r8hY6kQM.jpg"
-        width: 2760
-        height: 1725
-        isCached: true
 
 secured: "IUOul93myxZ2E7AwtYWf22JrHWyEINLHWM+u6dum4tDJ7xV8o4GPT7U85bjvNxq9uxsEZK5m7a+Vu2E9m8C3QFwuh7FFAiOhA9ewGDe/bGdUceJz4l+VB0pRlGWhJ34AR4T8iEIuOC6VWiy3Q/Dl71BbBW7iCr11bvjVxqsL/S5v7wej/rY40vQO6waBZVH+nl2V7nWXzYrYJ0kBVbTfUFdRj+2OsJCawKiJD3ya+N+BPVwdHnDJDFOuK6ppt4s8eHvE3ngvBaxAXlWeKiHkPxRS3zSAay9gKeZAX6BzL90/RJ2cZugf/7BDxQ+5qjoEnxEjPy79Z6rE1iRnN4wUieDPYR7i/t/dVBXmaBuhAKHWdrA19d4AK7RvbczSk1O+wrS3Qp3kJiVLEMHf5EhZzSEkTVNgWYlJqxQhnaCeaL/NcnA8ycpIe/NKwPSMR5FLJoPzwElUu/U3FOMDHnl3rOH4gTsoqa5cge3BswnR7sWS62dSuosVmvEZKHhH0oOd1UnpOiamettRy/jpp5mMoA==;qkLPXHGp4ithRleZfCjfMw=="
 ---

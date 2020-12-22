@@ -1,33 +1,26 @@
 ---
 category: news
-title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
 excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-publishedDateTime: 2020-12-17T11:25:00Z
-originalUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+publishedDateTime: 2020-12-17T06:18:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
-    width: 817
-    height: 545
-    isCached: true
-
-secured: "cK0HCwd/iEKHCR5fGs5XyExbMWcrqkFU+QE0UQzTzAwR9mKuSPUQVwcUJ9jla29vTAUR2NvjIdDtkWr6BraNvd+TtWhCi+bRk+oLX2fO0HfrynXE2fYZEbkEvgg88oIDjZE27ofozaTYmsuJLOrqGA7k112xt0FvUmjzwG6eWOVAiQ7soSaFbcyVZUtBQsbPj0Tl7x2fAheIt5jcXDr8d3bISVCG5olGTrOKWqfAlH+fweGU/3JP3anofF4anD1RVwOk6Qeiqq9j04ocbJoZn3b/icuLe2LXI5GqtTcPCJpBs4EdyxndYXFZWGRrqnZP0huUpatpHKL7Rt8dfml9ELeb6QQnvmeQvLgvHXfnuhs=;u8H+xKiCgeI7DakJoKb/1w=="
+secured: "gjvgObxaNqCoMxv4k8mxr/UiWwXoXEosVDh2V/ZRyzg+6/o8BqMhGzl9mESQL5vI8/j72uhd2MoCvMtegcWNbU5JsKzD0lOl0C4MhTYHP3yRKXRO3fFplcKiVRzXWWZlDe2ohapeL6tCYJr3p5oVnvwS888B6pwtgJHb33s4p1uC6qWMWoC3EpgAOwjbu/P91RSIjXn6O945w4rBeDr/puL6iyvOGjlw8rY5nIHrs/LozEfFpnp1CegJQCzhSfIY4DNzwuB7DVyG4D+fLaKIVeR2ORL3VaUNKXpyjp6PJHWhRIrOPac/zY5OyoVib20gB/zVlWIZvn+jQBcjShQxeZoUUzJcruHwXiTq91d5MQxNGAeeFoM5RSRdvXC+VuY9XSC+V/RWi3wv4ork3Zwlmy0iIxcGskjUWpBH31oZyclPfJuuooxEzGDF5l8IagENX4RRbGFHc8QexG07WOOdjHVrKyKPfnQx5aw0OIFeKoLF3UKhM7/XvrH9W/8hiqQMBStngBxi2Gia/1AHUQncpA==;hRRu14WkV7Q2jKl5BzQ3KA=="
 ---
 

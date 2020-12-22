@@ -57,22 +57,6 @@ related:
         width: 735
         height: 489
         isCached: true
-  - title: "Cut out background noise on calls with Microsoft Teams AI noise suppression"
-    excerpt: "AI allows Teams to reduce more complicated noise than traditional ... A new breaking report from Bloomberg claims Microsoft is developing its own ARM-based processor. The chip could be used for servers, but another version may be designed for Surface ..."
-    publishedDateTime: 2020-12-17T19:16:00Z
-    webUrl: "https://www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression"
-    ampWebUrl: "https://www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/cut-out-background-noise-calls-microsoft-teams-ai-noise-suppression?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 74
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/04/microsoft-teams-pc-2020.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft is working on its own PC chips"
     excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
     publishedDateTime: 2020-12-19T04:57:00Z

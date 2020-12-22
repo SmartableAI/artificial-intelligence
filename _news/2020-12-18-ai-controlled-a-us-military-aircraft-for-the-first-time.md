@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/388d4f6/2147483647/strip/true/crop/6517x4345+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcf%2F69%2Feae9d53c4a5ba94a322f6bc40485%2F201215-f-wf370-1134.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI robot co-pilots US military spy plan in world first"
-    excerpt: "After takeoff, the controls were handed off to Artuμ, named after Star Wars droid R2-D2, which was put in charge of sensor systems"
-    publishedDateTime: 2020-12-17T20:46:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/Artu_trans_NvBQzQNjv4BqBmo3ZBPOSwC7GqRZsuXAwPz7VF_eVkNHHJ3r8hY6kQM.jpg"
-        width: 2760
-        height: 1725
         isCached: true
   - title: "Artificial Intelligence Used as Co-Pilot for Autonomous U.S. Air Force U-2 Spy Plane Flight"
     excerpt: "In what the U.S. Air Force said was the first time artificial intelligence (AI) has commanded a military system, an AI algorithm helped to steer the radar of a Lockheed Martin U-2 reconnaissance aircraft and navigate the plane in a Dec."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 156
 published: true
 
 provider:
@@ -32,6 +32,48 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Marketplace Adds Nvidia’s GPU-Accelerated NGC Software For AI"
+    excerpt: "AWS is adding 21 software resources from Nvidia's NGC hub, which consists of frameworks and software development kits for GPU-accelerated applications."
+    publishedDateTime: 2020-12-18T14:04:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-marketplace-adds-nvidia-s-gpu-accelerated-ngc-software-for-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0264-111d4a4730ae-112e092fd3a8-1000/ai-artificial-intelligence-mind.jpg"
+        width: 609
+        height: 457
+        isCached: true
+  - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
+    excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
+    publishedDateTime: 2020-12-18T17:37:00Z
+    webUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 58
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
+        isCached: true
+  - title: "Nvidia gets its own AI store in the AWS Marketplace"
+    excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
+    publishedDateTime: 2020-12-18T15:09:00Z
+    webUrl: "https://siliconangle.com/2020/12/18/nvidia-gets-ai-store-aws-marketplace/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-18_085931.png"
+        width: 925
+        height: 488
+        isCached: true
   - title: "Alleged NVIDIA GPU Roadmap Includes 5nm Lovelace Successor To GeForce RTX 30 Ampere"
     excerpt: "So it is entirely possibly that some these names will be attached to GPU architectures at some point (and/or AI technologies). Which brings us to the next interesting tidbit: Hopper. Rumor has it ..."
     publishedDateTime: 2020-12-21T18:33:00Z

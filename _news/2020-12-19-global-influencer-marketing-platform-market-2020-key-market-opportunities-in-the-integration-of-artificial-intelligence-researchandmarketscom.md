@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
+    excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2020-12-22T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2026-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BMA03k7jf3ncr94jJDIMTJ7TBqL5zc6vFvdlhGYflzNuT8TcexARh09kldU4+eZFDAzuqKRF8vkLVrxh7Zb4mpHzHN3ddBojXh4GOztlz82nFiwpqgFIYkECEgKBpb/qZSQjJq1VNGGAHf3xYrsLqIVq5aqthFv25f6dCp2GuuX1kXefY21GpzHzx65NCR0EJFvyOg524VcoskT7K/8pz3ZnetVJu2u8Gf6xTTHV21zvbll0xQZOIuQo2vLGx2+i3qgDs9lxIK4Z9VJhMi3teP3hWkK3+TOFJF83DoqBQ/4OpDOTT6UW5mzjlAIUx7zYcSuSkuHA+hyrjE1/Ev7oNkcz51wg8TLBmhGUGURMlAk=;ObRrTML6vSfBcaz/BQY24Q=="
 ---

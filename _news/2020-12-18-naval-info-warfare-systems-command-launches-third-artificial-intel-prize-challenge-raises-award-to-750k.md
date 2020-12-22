@@ -23,22 +23,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "NAVWAR Enterprise Launches Third Artificial Intelligence Prize Challenge in Series; Increases Award to $750K"
-    excerpt: "Naval Information Warfare Systems Command (NAVWAR) enterprise announced the launch of its third prize challenge in the Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC) Challenge series,"
-    publishedDateTime: 2020-12-17T20:52:00Z
-    webUrl: "https://www.dvidshub.net/news/385243/navwar-enterprise-launches-third-artificial-intelligence-prize-challenge-series-increases-award-750k"
-    type: article
-    provider:
-      name: DVIDSHub
-      domain: dvidshub.net
-    quality: 18
-    images:
-      - url: "https://www.dvidshub.net/images/defensetv_new_logo_white.png"
-        width: 366
-        height: 313
-        isCached: true
-
 secured: "8uVpgIAbDbKCEWtP7oiVa0F2W8e+6OW6ENLe9L6F8uuzeEhLeJA6fTwmhfkcdU0iCYytzeQ+f8XKx5/fuVsCZ7/GWBdWdP1cEjL/LIheY2MKxzqVNe5r4jPmIJaX6vOUaLQNJ7efjJj6uU6b9SZBuQ8eAMc/P+cAIu+cgln3D+/BI/hd+8Ml6CLD3tTh5as2wDqyYx+eZajIzg3iuBB63+L9KykhZ6UvNfZHRpXGPEa6BxWbPOLOYFmDrhjQT6e1tP+DkHA/HYDysCW5QDGAHStdEt5wazs+lNHrUqecaI05GSqBJ92GLEtezQpsnSQeMoRu32cEV969pfCZxuXnQWpvFylTKexm0SNcMfG5Goc=;ec5lX2D8nY1DQic+kispwg=="
 ---
 

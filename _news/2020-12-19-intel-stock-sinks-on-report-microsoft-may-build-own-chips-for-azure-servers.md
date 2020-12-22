@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-mic
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
 type: article
 quality: 89
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -138,6 +138,29 @@ related:
         width: 552
         height: 372
         isCached: true
+  - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
+    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
+    publishedDateTime: 2020-12-22T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-us-military-training-and-simulations-2020-research-report-featuring-google-ibm--microsoft-301197438.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Microsoft develping ARM chips for servers, Surface PCs - report"
+    excerpt: "Microsoft has started designing ARM processors for data centres, Bloomberg reported, citing sources. The company plans to run half of its Azure cloud services on hardware based on ARM architecture. A spokesperson for Microsoft said the company is continuously investing in research and development,"
+    publishedDateTime: 2020-12-22T12:44:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-develping-arm-chips-for-servers-surface-pcs-report--1366724"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 36
 
 secured: "vTz4rKKykfm/nu1RKO/xShXOUlOGLLMlhqtnl21q6tPh+AkX+5nXzj60vhXVwBuabiCteyXdbtJ4NaFVd9+pjyx8oGlNybaSdHneBaNjQF3Gmt6zbbkutXzYQg8zI1FSH9C+IRT3HipS0phyS0jzJuzitpOXWPzA+IJhrkiB1GmiJua2dvox77RP2AtCAqdDAOVxx0lOms3BdGO44LiOcemngonVfclKk4NtLD8Dp1K9+DyWhmWOyqL6apmtN3eMtV2uU2iAgi5daiwZc2hEuaUQMSVtyrkK+yVQCIrUcyL7/KKcLAw8xZ6fWhgT0tDYFbhN63xzkBQmEOR8Emue86+HU5DSNStp3/vY8hgpdKdNhUBuafx0LGy/nOilggqOTs2UNWO66yi0ZgLFzcETD8FPf0xEbzUSLjMyzfxGn6Fbs/1a6XTwbO+O6zoUruG1aBhNmVhSqmOFVhfPTJ0JOa0WnoRzh8JQr5j8iT6O57RZ0k9lMJ+LmMhJJVHv44ES0CEe13zZNdynb6eYSnAKYA==;mUOcetjWQLBw+hPM2iK6aQ=="
 ---

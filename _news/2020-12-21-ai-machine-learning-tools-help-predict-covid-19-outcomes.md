@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "The Newest Weapon Against Covid-19: AI That Speed-Reads Faxes"
+    excerpt: "Local health departments rely on the old-fangled tech to track cases. A hastily developed machine-learning program gives it an assist."
+    publishedDateTime: 2020-12-22T12:05:00Z
+    webUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/"
+    ampWebUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/5fe125e4fe6cb52eb1cc8aec/master/pass/Business-AI-Fax-Machines-Covid-153151104.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Comparing Google AI and human intelligence for the forecasting of COVID-19"
     excerpt: "Junko Kurita et al. from Japan have compared Google AI forecasting with a statistical model by human intelligence and recently presented it in a preprint medRxiv* paper."
     publishedDateTime: 2020-12-22T10:02:00Z

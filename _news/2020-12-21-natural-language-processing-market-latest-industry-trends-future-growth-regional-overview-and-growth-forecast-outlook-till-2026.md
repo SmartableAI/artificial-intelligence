@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive Computing Market Size, Share and Forecast 2019-2025"
+    excerpt: "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
+    publishedDateTime: 2020-12-22T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
     excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
     publishedDateTime: 2020-12-18T20:16:00Z

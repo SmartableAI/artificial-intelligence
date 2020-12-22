@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificia
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d64beeb2ee80897aea726%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D552%26cropY2%3D3185"
         width: 1200
         height: 563
+        isCached: true
+  - title: "The Newest Weapon Against Covid-19: AI That Speed-Reads Faxes"
+    excerpt: "Local health departments rely on the old-fangled tech to track cases. A hastily developed machine-learning program gives it an assist."
+    publishedDateTime: 2020-12-22T12:05:00Z
+    webUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/"
+    ampWebUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/5fe125e4fe6cb52eb1cc8aec/master/pass/Business-AI-Fax-Machines-Covid-153151104.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Comparing Google AI and human intelligence for the forecasting of COVID-19"
     excerpt: "Junko Kurita et al. from Japan have compared Google AI forecasting with a statistical model by human intelligence and recently presented it in a preprint medRxiv* paper."

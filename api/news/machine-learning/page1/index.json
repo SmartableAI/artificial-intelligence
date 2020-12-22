@@ -106,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -246,49 +246,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-18-research-scientists-use-artificial-intelligence-to-id-mosquitos.md",
-      "title": "Research: Scientists use artificial intelligence to ID mosquitos",
-      "excerpt": "Representative specimen image of Anopheles stephensi from Mosquito Image Database. Picture shows a mosquito stored by freezing at -80C. view more  Credit Image: Couret, J. et al. 2020 (CC-BY 2.0) Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tunisiesoir.com/health/study-researchers-use-artificial-intelligence-to-id-mosquitos-26330-2020/",
-      "originalUrl": "https://www.tunisiesoir.com/health/study-researchers-use-artificial-intelligence-to-id-mosquitos-26330-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tunisiesoir.com/wp-content/uploads/2020/12/Study-Researchers-use-artificial-intelligence-to-ID-mosquitos.jpg",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tunisiesoir.com/health/study-researchers-use-artificial-intelligence-to-id-mosquitos-26330-2020/?amp",
-      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/health/study-researchers-use-artificial-intelligence-to-id-mosquitos-26330-2020/?amp",
-      "publishedDateTime": "2020-12-18T03:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tunisie Soir",
-        "domain": "tunisiesoir.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-18-forecast-2021-artificial-intelligence-during-covid-and-beyond.md",
       "title": "Forecast 2021: Artificial Intelligence during COVID and beyond",
       "excerpt": "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,",
@@ -297,7 +254,7 @@
       "originalUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -894,34 +851,34 @@
     {
       "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
       "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
+      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
+          "width": 720,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T12:08:00-08:00",
+      "publishedDateTime": "2020-12-15T10:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -930,9 +887,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "Machine Learning"
       ]
     },
     {
@@ -1374,34 +1331,34 @@
     {
       "path": "_news/2020-12-11-lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning.md",
       "title": "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning",
-      "excerpt": "KNOXVILLE, Tenn. and NASHVILLE, Tenn., Dec. 10, 2020 /PRNewswire/ -- Lirio, a leading behavior change AI company that uses Precision Nudging™ to",
+      "excerpt": "Lirio, a leading behavior change AI company that uses Precision Nudging™ to move people to better health outcomes, was awarded Best AI",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
+      "webUrl": "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1373395/Lirio.jpg?p=facebook",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T11:56:00-08:00",
+      "publishedDateTime": "2020-12-10T11:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1465,6 +1422,49 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ironclad-assembles-ai-and-legal-experts-to-discuss-inflection-point-for-ai-and-contracting-announces-partnership-with-google-cloud-ai.md",
+      "title": "Ironclad Assembles AI and Legal Experts to Discuss Inflection Point for AI and Contracting, Announces Partnership with Google Cloud AI",
+      "excerpt": "Ironclad, the leading digital contracting platform, today assembled pioneering experts in AI and law at its Winter 2020 State of Digital Contracting summit. Vinod Valloppillil, Head of Product at Google Cloud Language & Vision AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "The Newest Weapon Against Covid-19: AI That Speed-Reads Faxes"
+    excerpt: "Local health departments rely on the old-fangled tech to track cases. A hastily developed machine-learning program gives it an assist."
+    publishedDateTime: 2020-12-22T12:05:00Z
+    webUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/"
+    ampWebUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/5fe125e4fe6cb52eb1cc8aec/master/pass/Business-AI-Fax-Machines-Covid-153151104.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "AI, Machine Learning Tools Help Predict COVID-19 Outcomes"
     excerpt: "As cases soar across the country, researchers are leveraging the power of artificial intelligence and machine learning to predict COVID-19 outcomes."
     publishedDateTime: 2020-12-21T14:32:00Z
@@ -73,6 +89,6 @@ related:
         height: 400
         isCached: true
 
-secured: "hOB/lFAUn/4dt3v39scxG1fDK/zlrtoUTvat6eAFfRmHP/56Td4PtL15OXc/mZb7pZGoExqzxQVfpGL9LP5CmDjD06vgmYg9a0HHV/5AZL+CAo1xSpYeIqQv6BDXr9SzZBKAbN8wNx4INnTGvSPMv1Hqt+2Wcr2Uo9NNiIBSUkRz0UgG7c5fmrjoHAunVThSo4ZG2ciPKoB4vO6VjoINo1Mpxuo7VdWjxqfURSIiBmqToV+dbUS1ZGl6ZARws0tuGcELM9yxorz+nYzEFL6RVQompjWdKh7mVlmfaKh9101eKosjc9SBH/e7NO/bxzkMo2uibVF5xy8SXP9pe+l1DTLqG0WKaGzRmotMHaN+6bY=;J+7Z3SwYotqcWsy+STTApA=="
+secured: "NBydMxYhibmxdTd0PJNFjWyfHXw9DGocrzMIUYRaDpg7kK5FAkYKctQ7yISqxsTV7uUa4hnrCalwVjucZOIeB5F73CfY4n91ugOJwzWn6oFClMylnnP8PJG4oAcjLQnQeuXgFWl4hClN2ilDcKYbGU/5KRlamJpyH3MF2yFoVck2wiYri4F3UJD77w6CpmMO/hob49MZaOBJJ3CesLv1FK+uZ/2xuSwQc4wmleKul0/d9izJeKIE+dLhc1QUjpAarhmy7RBgjuwRslCh0E+wexO7S0O+Jji6CT7VClEtszCPdFHgqWbbueLDpu4kLPyn/pt6TkM1cvP0U1Ain2XRweZpv/+DT6kLJuPxhtWh6APMlf9a776KYSjKUolV33I+srp6OxVpJeSZNGI8imlqyPmC6LVcxAXVAgFA18E+ZihemMf9Xx59qJBDIsjSES4krUPLtaRCHXnwqpvg6HFvH5Lv6mvA2zK7WUbPfgFFKs0YT8ewOJkFVkIRmJRVO+cCmuTw5iZP3N9Wj8U25p7uZw==;DeoGSPNnw2immnviUEMp6Q=="
 ---
 

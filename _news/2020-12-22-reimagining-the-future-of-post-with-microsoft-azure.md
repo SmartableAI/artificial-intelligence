@@ -141,6 +141,29 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
+    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
+    publishedDateTime: 2020-12-22T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-us-military-training-and-simulations-2020-research-report-featuring-google-ibm--microsoft-301197438.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Microsoft develping ARM chips for servers, Surface PCs - report"
+    excerpt: "Microsoft has started designing ARM processors for data centres, Bloomberg reported, citing sources. The company plans to run half of its Azure cloud services on hardware based on ARM architecture. A spokesperson for Microsoft said the company is continuously investing in research and development,"
+    publishedDateTime: 2020-12-22T12:44:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-develping-arm-chips-for-servers-surface-pcs-report--1366724"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 36
 
 secured: "wjffdNzGYwo/D4yHhUVRCThNNpZ5qVs+bNgJBpQ9vP+Tmo5woDZjj5sCnLZSycbw8x6oevIpg9vW7Bymy2Pv3f76FEACQpQo/oNZYbuQxGx10990q3CrWgRKiDK4IQfSeEKTJHRyAk476U9hDztTYpVFWd/UiTkJ2eqXj4VLcKw+MzJGVoih3F9DYqeCH0bUtqtyPeoiwH17bTLQqJuF2K+S2js5c7jGt93TqIxNQiedqxVgN3topbWkoNAqff/zfALeShqFKTilmCadq9VT1LjvubgdxcQx4qHblid7CjtMLwdH550gEcQttk+gx6gCFicRJpzaVN2ac4PG4jBkorfGALCkUY8UD3fvyvASYjfQOV0ebktTjgbSLxsA+TpdrKR9en1qMTWVmDzV47Vgd563ggPaABg0dWW4nSg0EVEZd8q/4dEuO52fZNvobnk0wMFb06p+nDx5z0z6xh0hr+mSCdyi2mWqHvFWNnxImn2GNoO3BFn2n/9PB6xSRgh++4ImcXxj2qebIRIx5ooVpg==;19nmOVjxB1/mPA9g8RGHOA=="
 ---

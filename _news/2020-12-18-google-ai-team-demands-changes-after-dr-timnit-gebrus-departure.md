@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-ethical-ai-team-letter-174518115
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ethical-ai-team-letter-174518115.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "Google workers demand reinstatement and apology for fired Black AI ethics researcher"
-    excerpt: "Timnit Gebru’s departure sparked outrage in the industry as it followed her paper criticizing the company’s diversity efforts"
-    publishedDateTime: 2020-12-17T19:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 67
-    images:
-      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "/OZyk2Wk5XU3nGIfwJdtRjHT6AAfty2r07u2WKnCEwC21UlNqGeI2puWycReGtSSsCl8NotdvOSLDy4TLNYTtkpGR5VrKsKwdra8CPwtByGEtCozGRBX6xki9hH/rsAKZIn5pgnRD6uGC39KDv1jZGEMD56Oik5WqhkSMjXb88iowgDyTieCmD+cnHUYX63mIh3THXufWkO5XHwFGqxG1UXKQivtGfCQHwLIRN7Dcf/fdGQ0oxv0P0/1TxmhB1yE67fVb95qad00eLL706nBghckR9M1LQOB3Aq5ZTkHOmhOISQ/FX+5FfuA2b178wB1TpFO00MNiwIqQ0gK3Gq5RD7zFJYonEF1PEn2TqOIrkH+VaYiUe2n6K3yP2jGTgWkIJD0NurnEIofNaZSrmFMJYZbY9zED6qQuTThTlPzzRquaFedvkf9uMSI6TMVTa7SBBM2FhCHH+gXArwh6fK1v9Qq5vqzsaB22mjObLYFXTQYnG6pKFbBzu539MPlYpYRiJw8XZtRBOpuO6Bxb6o9EQ==;eLbGWRaWbmsPGTQB3FOKmg=="
 ---

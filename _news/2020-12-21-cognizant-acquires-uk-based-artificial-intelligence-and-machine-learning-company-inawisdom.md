@@ -47,7 +47,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 43
+    quality: 47
     images:
       - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
         width: 1198

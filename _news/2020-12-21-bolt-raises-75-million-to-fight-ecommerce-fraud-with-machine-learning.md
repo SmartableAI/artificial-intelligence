@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "UM Digital taps eCommerce startup Dialogue to turn virtual shoppers into customers"
-    excerpt: "With COVID and convenience driving eCommerce adoption through the roof it only makes sense that virtual customer journey should take center"
-    publishedDateTime: 2020-12-17T19:42:00Z
-    webUrl: "https://www.geektime.com/universal-mccan-digital-taps-israeli-startup-dialogue-to-boost-ecommerce-conversion/"
-    ampWebUrl: "https://www.geektime.com/universal-mccan-digital-taps-israeli-startup-dialogue-to-boost-ecommerce-conversion/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/universal-mccan-digital-taps-israeli-startup-dialogue-to-boost-ecommerce-conversion/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 16
 
 secured: "70vSKV2pvWe4FCVCnD+c6VoI96Tb6TZnbxYZSAv9knRPNqQru2qgpDvN6MljN9D7Z5TpCpACfFAT5AS8pNlO6mD39WYyanBkVxu9n7WePY5nQaUVISPgWp0T2hoWApjWiQ5wOGG4xKdXk2jBBe1JvnsKUtl/z1uyxF6LLcoc5fe/4LtI4Etjy529CghRfjk37nSFuEmjFGHXBFYdXayNREt+S35IO1mI/9FVPMTqzVQLjdwxo4PqWi4ZzHKK5jUo7g4llRn7LVW9ibsv8YKsb8Xbo7Hg63uwXm9qOvyF8KZ2FpRxmgq8TgtoEMNdtsiJt3xK7P3QL+zzud3KxNaZexxFNUuMkq+5kWSOJid24RCIFm3TgbIXjaY/6IqQjkx3PlXjevXyn2izsKBFWT805B+Xz7wMAal+F26lWyw9tvoCsu0Geln+sLGEYE77M5uNgMUi7dxP1LY+3N/+Rp0iMx0AzUGAVCNrIfzrlgWBOkgjtbbV8OSHr3MbidT+RPL5Ug95wLyMGcFPapPRJWAkdQ==;9pw6eegX3Dykbeg04y/pvQ=="
 ---

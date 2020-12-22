@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 796
     isCached: true
+
+related:
+  - title: "A boost for artificial intelligence"
+    excerpt: "Chancellor Merkel gives go-ahead for “AI Breakthrough Hub” – which will be funded by the federal and state governments as well as the Hector Foundation"
+    publishedDateTime: 2020-12-18T08:01:00Z
+    webUrl: "https://www.mpg.de/16193056/a-boost-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 37
+    images:
+      - url: "https://www.mpg.de/16193150/original-1608277854.jpg"
+        width: 1019
+        height: 679
+        isCached: true
 
 secured: "5VfODIsnRrLY0EvKyrqGMdH3QeOUEwwYbXNxoMtme3EJldfdtJ5m8dyWZQ1cJu5wLuSkdjK6zNaxQvNgsSMxHf5ZtbHHc32SyMA2jyBKO7BGXiwFSI0978RXC/rxfypT5mFeDYu+io7I3ySDAnaMuuLhVgvY4xOeTIsxeiiem+egFCf+8dCXT2cQRDm18LVUzJYjZoJnVN0YYDOb7RQXJ+xnlI/nevjL1HxLFcwSRzboPBMjC4ws2W/ju1adpiM0KayTNxh+KG8mQCYrg+ulB261MbepMP4PwYPryfp5GjESxvrMrQxoTPNPAyKEFo13ksBE5hMm9dkS44OBFqrZIkxUAVWugu7SHygcIWacd/G6dIMEH2csQsh63LN3OfzLpx+Sq2ub2bQZIP7apuHAJ2qUdUeHy2QA5O/2Fu2aYpY4piG6QI4yFuXrAq5UaiLVU06EBhtBJoTe49lYxvyDA48J2ixHaiBxtTTthWTp+RMexFhNwwH42I6PKYS1aTUPyEqu9PJRtXWu0AWWXPD8MQ==;kH2cvzscQLbLXAzgqh63Ww=="
 ---

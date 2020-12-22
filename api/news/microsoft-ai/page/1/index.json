@@ -62,7 +62,7 @@
       "originalUrl": "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -106,7 +106,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -601,6 +601,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-exploring-azure-spatial-analysis-containers.md",
+      "title": "Exploring Azure Spatial Analysis containers",
+      "excerpt": "Azure’s Cognitive Services are a quick and easy way to add machine learning to many different types of applications. Available as REST APIs, they can be quickly hooked into your code using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.html",
+      "originalUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/rackspace-article-1200x800-100832023-large.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.amp.html",
+      "publishedDateTime": "2020-12-08T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1407,41 +1460,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "publishedDateTime": "2020-11-30T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

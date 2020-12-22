@@ -138,6 +138,29 @@ related:
         width: 552
         height: 372
         isCached: true
+  - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
+    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
+    publishedDateTime: 2020-12-22T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-us-military-training-and-simulations-2020-research-report-featuring-google-ibm--microsoft-301197438.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Microsoft develping ARM chips for servers, Surface PCs - report"
+    excerpt: "Microsoft has started designing ARM processors for data centres, Bloomberg reported, citing sources. The company plans to run half of its Azure cloud services on hardware based on ARM architecture. A spokesperson for Microsoft said the company is continuously investing in research and development,"
+    publishedDateTime: 2020-12-22T12:44:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-develping-arm-chips-for-servers-surface-pcs-report--1366724"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 36
 
 secured: "uhJYI3oBUA9ym9cgm4Sxuc2ccS9fLoQNzigbc3iaWH0UnNruEtNlq2OGAj86aiG1Mqj4Wui6C0qSm+babn6NknlOXgl/4I6MD6BVYEcJQLwzdter6ovmcIHAC4iDggLbm/yd/c5Ws3uz8qGSIuoFmLVp91kLHwtqdJ6s3h+aeBAUXMlAqqyk25sxEEntK+xa8A1D29OypcxQeZqdsoJy+8j462ii+ZHf4zsDVGnHvfpR8uYAIhLZT7Obh8orGDE+y6lHMLw845jG3bEET+2pxWQwqQt8Y036MRrKgoi/knXduc2eyk6R76+0AJB3gBlwFexHyUAaZiAIyKsdsWgDavQJfO79jQNuqD7AyejiNS6MDSREBjt6O103jSAb06AkAFdHB7EEPWL1zDmdJzgNJCsNnTLM+mym3Nuo+I5LnojPbXoDajb1y4ys3F4BYlm5cjZqnYVvlJlP92B/duO9ZmaTA5Igbfyr9nCH9RNQIA/R8wq7UvaP/gwsvB951P1TIeXPzqk/jAei8DaJCChbMw==;C/peHtqy6Z2t76p5IO2lzQ=="
 ---

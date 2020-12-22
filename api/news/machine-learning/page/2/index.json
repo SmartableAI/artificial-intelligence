@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-10-ironclad-assembles-ai-and-legal-experts-to-discuss-inflection-point-for-ai-and-contracting-announces-partnership-with-google-cloud-ai.md",
-      "title": "Ironclad Assembles AI and Legal Experts to Discuss Inflection Point for AI and Contracting, Announces Partnership with Google Cloud AI",
-      "excerpt": "Ironclad, the leading digital contracting platform, today assembled pioneering experts in AI and law at its Winter 2020 State of Digital Contracting summit. Vinod Valloppillil, Head of Product at Google Cloud Language & Vision AI,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmarketscom.md",
       "title": "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com",
       "excerpt": "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning",
@@ -1416,6 +1373,58 @@
         "AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026.md",
+      "title": "Deep Learning Chipset Market 2020 Analysis and In-Depth Research on Market Dynamics, Trends, Emerging Growth Factors and Forecasts To 2026",
+      "excerpt": "Global “Deep Learning Chipset Market” report 2020 is an overview of the market is provided with prime focus on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026-2020-12-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026-2020-12-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

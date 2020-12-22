@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive Computing Market Size, Share and Forecast 2019-2025"
+    excerpt: "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
+    publishedDateTime: 2020-12-22T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Latest Industry Trends, Future Growth, Regional Overview and Growth Forecast Outlook till 2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 21, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ..."
     publishedDateTime: 2020-12-21T12:37:00Z

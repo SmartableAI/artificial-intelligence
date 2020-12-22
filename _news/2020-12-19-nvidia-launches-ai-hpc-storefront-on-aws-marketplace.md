@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon AWS Ramps New Hardware For AI"
-    excerpt: "Amazon continues to build its AI software stack, adding over 200 new features every year for the last three years. Amazon SageMaker Studio makes AI as easy as point and click, reducing the need for in-depth AI expertise."
-    publishedDateTime: 2020-12-17T20:07:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/"
+  - title: "Nvidia leverages AWS marketplace to advance GPU deployment"
+    excerpt: "The relationship between Nvidia and AWS is becoming complicated in part because AWS has also signaled its intention to build its own GPUs."
+    publishedDateTime: 2020-12-18T16:36:00Z
+    webUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/"
+    ampWebUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 106
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbb59c68a7edc3af291b7c%2F0x0.png"
-        width: 902
-        height: 454
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-aws.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "AWS Marketplace Adds Nvidia’s GPU-Accelerated NGC Software For AI"
     excerpt: "AWS is adding 21 software resources from Nvidia's NGC hub, which consists of frameworks and software development kits for GPU-accelerated applications."
@@ -57,15 +57,6 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "Amazon AWS Ramps New HW For AI"
-    excerpt: "Amazon continues to build its AI software stack, adding over 200 new features every year for the last three years. Amazon SageMaker Studio makes AI as easy as point and click, reducing the need for in-depth AI expertise."
-    publishedDateTime: 2020-12-17T19:56:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hw-for-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
   - title: "Nvidia gets its own AI store in the AWS Marketplace"
     excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
     publishedDateTime: 2020-12-18T15:09:00Z
@@ -80,20 +71,31 @@ related:
         width: 925
         height: 488
         isCached: true
-  - title: "A boost for artificial intelligence"
-    excerpt: "Chancellor Merkel gives go-ahead for “AI Breakthrough Hub” – which will be funded by the federal and state governments as well as the Hector Foundation"
-    publishedDateTime: 2020-12-18T08:01:00Z
-    webUrl: "https://www.mpg.de/16193056/a-boost-for-artificial-intelligence"
+  - title: "Alleged NVIDIA GPU Roadmap Includes 5nm Lovelace Successor To GeForce RTX 30 Ampere"
+    excerpt: "So it is entirely possibly that some these names will be attached to GPU architectures at some point (and/or AI technologies). Which brings us to the next interesting tidbit: Hopper. Rumor has it ..."
+    publishedDateTime: 2020-12-21T18:33:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
     type: article
     provider:
-      name: Max Planck Society
-      domain: www.mpg.de
-    quality: 37
+      name: HotHardware
+      domain: hothardware.com
+    quality: 53
     images:
-      - url: "https://www.mpg.de/16193150/original-1608277854.jpg"
-        width: 1019
-        height: 679
+      - url: "https://images.hothardware.com/contentimages/newsitem/53757/content/Ampere_GPU.jpg"
+        width: 708
+        height: 400
         isCached: true
+  - title: "AI at Your Fingertips: NVIDIA Launches Storefront in AWS Marketplace"
+    excerpt: "AWS customers can deploy this software free of charge to accelerate their AI deployments. We first began providing GPU-optimized software through the NVIDIA NGC catalog in 2017. Since then, industry demand for these resources has skyrocketed. More than ..."
+    publishedDateTime: 2020-12-18T09:00:00Z
+    webUrl: "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/ai-your-fingertips-nvidia-launches-storefront-aws-marketplace-78092"
+    type: article
+    provider:
+      name: Cadalyst
+      domain: cadalyst.com
+    quality: 36
 
 secured: "aWIdNsps2EGpvWJySE3dY3qqYDc1xTEu7DrrU2774jLNIrfh2rUoK8evHb8je5p9ZVPHfGFOBlVVqIw0O35N28u45FJNTUxodxkDtva6zRsvDQiOYIH6TfJ9aZM9TTDdHuSNTJK/YrwPBjEVpJGWWu9kRdgbXX9jDFICfiShHUsBziFan8xuUpBevVOU/nyFj6+i8gGo10xIk5g8PFpXO3tHxpndwxPnlLZxd1ZlFRRiU0P9UP9P1N6sg95TfLfYV0XvgXjytEX5qgHzs1vpaYolLd6OgKYYHHezwnJrkTNRSUNMGEAV2yCC3xYXhA55eZpGbqyMHIEsyWzEGk8JrvTWPZSe7hiUTbuyadVUvjLudX/ps4z15rO89fmYwojB9z9bbbGH+QCOK7tTghSCXyK1IHWK67NdBamspOQFfDwCmHchI3+iRFNnppv0dVN/p9uWWhwztQE1tAVZUHbbmgabrmzkT19ybMgjV0JAQVFpZN9xbJPkaduo7G8yKN9Hq0kCOdIt9rLbWYM+Hvu26w==;00McRhozgj+AVQdtMqohQg=="
 ---
