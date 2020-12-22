@@ -24,9 +24,9 @@ topics:
 
 related:
   - title: "Diving into Japan’s top AI/ML startups"
-    excerpt: "Japan is the world leader in artificial intelligence, according to a recent study conducted by US-based research firm ESI ThoughtLab. And why wouldn’t it be? The nation has been pushing for AI and machine learning (ML) innovation as part of its ..."
-    publishedDateTime: 2020-12-22T04:14:00Z
-    webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667849"
+    excerpt: "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area."
+    publishedDateTime: 2020-12-22T07:23:00Z
+    webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984"
     type: article
     provider:
       name: Techinasia

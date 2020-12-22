@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cy
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/"
 type: article
 quality: 104
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -77,29 +77,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
-    excerpt: "Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, today announced that Ryan Shopp has been named to the newly created position of chief marketing officer."
-    publishedDateTime: 2020-12-17T15:18:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-marketing-and-advertising-executive-changes-corporate-news-personnel-26f0e47ec4b642ca85d9fa22a67672e8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
-    excerpt: "Cybersecurity company, Deep Instinct, announces Ryan Shopp has been named to the newly created position of chief marketing officer."
-    publishedDateTime: 2020-12-17T16:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201217005730/en/Cybersecurity-Company-Deep-Instinct-Expands-Executive-Team-with-Appointment-of-Chief-Marketing-Officer"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
 
 secured: "Umd8aecHU1W+mps9Ws1SwytXlDGzEE5erhdnnMJ8aW7Hk06q/Em7CooX3kyJ7k6+enjMOB7yiih2NYkzmhrvYuLK3iA6AE10YE3Tzt2MpSWZQAXLIXbgsYgT2lobVKc6nnSDJ2cWpILmgQKUdFM2RXtofMghJycY6oGSnLqzgFxBezw5BGVSfFTMCfJg/OpzcfHiNbSE3vkMY6NstQL/tBJp0U/H0uteXZrG8p9xVFrBe3iZ47Xp5pyn9Gc6e0b2Qvs0GO8UD3X1fin7fLRPTS0GEOjHak5NfP/wrXvBbB4fR2yOIfs3MptJvmV5UFBMq1Um2xus6X1Cqh9ay5tzO4NIgANVQtuU8UZT51lmAwnKpetyD7rDDBJrcyqLpTWcge/YxR/frGk3ZLM7+wgd5HCyseVWEEvje6b1HfrfWV1w6fUR4o2McMXU+MFkB4upcfHmD4DgfRdeHtBanuVHZw/2/qkfU51jqnYTGbagcU/M5Rbs4V0RkunAXJIjgVVFhNAxnaSDITt1RCUIFtaZAA==;K1FnDObIHAKnHjCGwZ4moA=="
 ---

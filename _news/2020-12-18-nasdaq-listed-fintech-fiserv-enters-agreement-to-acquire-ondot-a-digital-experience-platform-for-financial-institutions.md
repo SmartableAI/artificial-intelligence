@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintec
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 300
     height: 225
     isCached: true
-
-related:
-  - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
-    publishedDateTime: 2020-12-17T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
-        width: 958
-        height: 502
-        isCached: true
 
 secured: "vI3KzgOBxIWU5B7y7vOSZeLwEhoik3cc8olDgz8bxtgRj/JONMbC4z9sM7ZOJ/0mvStczL0v1bcxyatT+ei9/uF6t1aAg9qSYLTHUEsZePsExzO49omJiA15aXvumcXh0EepewablLfdkACqoVSjjDQzsNmdPduZeiH4JFHZr18BiXu9gFahrEKK73Rfv8ioJdojUASRMUZpJTb6+K1pv7eAS5firdYkprsuBtGQsWyUU5eo0kJtm/jazvNFtSuonQTwYBz9WxcVpuMvMYMo/YFGS9c3T+tx5cQDs/iaFTaInLKuK6MPPDAO0rKV+aJcV7AbXlC+3lJ0fAVIZCk60sVP7U51gRxR9wHsR1rym7nueCgCK8t20pbnsbbqwYa2DiOQn3mEJRQvbTae8lkBMfz5ELRAlhApD3YDTCSOSdbwvjSZLCdXgBeWX+MUWuoQCOCvfvmYs1tkIzEVH7vy9pVXRXjtVQiLzbUcoEtm8q2l8RtNiLC47Knm324MphZZ3wuBmbyytyWSosgSE6CH6A==;ekwtM3acTc9JHDgRm5haiQ=="
 ---

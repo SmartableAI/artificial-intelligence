@@ -9,7 +9,7 @@ ampWebUrl: "https://pulse2.com/ris-automation-raises-13-million-series-b/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ris-automation-raises-13-million-series-b/amp/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Anomalo nabs $5.95 million for AI data validation tools"
-    excerpt: "Anomalo, a provider of data validation and documentation services for developers, today announced that it raised $5.95 million in venture capital. First Round Capital and Foundation Capital participated in the seed funding round,"
-    publishedDateTime: 2020-12-17T17:03:00Z
-    webUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/"
-    ampWebUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "QPGpHQ+9NwxGsWUmNg2pXvFu2loUPwclOYraLY3t0mcAyld08hviqOxls/k6Qhuu11JzC3RGhEFyPXL1jO0dbOODwtcHaDx3xprPkRl/5SppPzY1Zqn21LJYtIrUkeK/QbFnsLFAFGO8ZziMxnM8D0nrRrYb+cQgr1Kvjo+t5AK5jC2HEB7Ik97cG6Fcs3e3VvalXLbl62+7PA3KwpEyz90BqNhF92WgF8ytIyoxLnc2HVVo9i9cNw9l0zVIjKhVHkBQpIFpyBj9hzrar2wPC+oOBmFtIJv3eiOx24u0OziNUMqTEYiUb9ByMut5vATK9AUHRCkz++15mhLELdBROACELghbY2Hu32iZuFnif3PgsUH5/I280gSSjbmekr9m0OPfWvSk61cWDWT6/MmsGkLwB5Shltv7lAPmv4h9Bd6PE93JMa5xsYuHEp8WemgXk8G+ZUSKWqNZMwXlGfhDcGZh5hCq2cypxI2iYRFa4ozknH16R+S9j3xjsi84OsyF+kxBCd1lLg3Bic2kkhvbjg==;mjocyCcX/vY/5ucI0C/L6w=="
 ---

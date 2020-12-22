@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI ethics team demands changes after dismissal of renowned researcher"
-    excerpt: "It comes after executives admitted to losing the trust of employees amid the departure of renowned researcher Timnit Gebru."
-    publishedDateTime: 2020-12-17T16:46:00Z
-    webUrl: "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 101
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105750686-1550688923203gettyimages-1086152010.jpg?v=1550688994"
-        width: 3500
-        height: 2333
-        isCached: true
   - title: "Google AI team demands changes after Dr. Timnit Gebru's departure"
     excerpt: "Two weeks after the departure of AI researcher Dr. Timnit Gebru, Google’s Ethical AI team has issued a list of demands to its management."
     publishedDateTime: 2020-12-18T00:31:00Z
@@ -62,20 +46,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F6dd60fa0-74fb-11ea-bf7f-7fb473523e83&client=amp-blogside-v2&signature=729ca1927b897fbd0725d08b45ec058dcc6ac7b6"
         width: 600
         height: 350
-        isCached: true
-  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
-    excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated."
-    publishedDateTime: 2020-12-17T15:31:00Z
-    webUrl: "https://www.kuow.org/stories/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 39
-    images:
-      - url: "https://kuow-prod.imgix.net/store/b13a90cc1ee5c6b568e14821e1f591ed.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 838
-        height: 628
         isCached: true
 
 secured: "dgEck2QAx9J3WeNZC8F9+T3mO/YjfCXQ4cy1gl4iHV8UuzOzMV9gUI+j5F7ghzhnHPObaxtKgzMpKr3wyu5uIrLjMvsHgr31ZMkBPNWFt9JJAFdRC1x7M/gK65GMpBM8hXHFh3TXIAY1O0RtKLZOLLL/X+eOr+4iVKWvo4p9BGeFQyMkvqRsT0pRKzZ85BlDiUfll2zZ6MIpXl19FmgDARfMCQdJq8F2VKDFycnFwGRJyV1Lq9FCCetvOMWi86b9JiFJiKdeaA+LldGFGvQxW812oCOy9cfWZTjtWEc0ODckq5ewZwToIGQUs+UY2Ifzwv3G3LyjrObX4u7bhDuyEpTNsYfXN8rI/hpqBAd7r1KJkMHk4ivslkl0XXopUbrRqfEjXf6FkQy1H0Jc6h8maERlBsSPF2zMNNC7mZ1GZx8ySUZj+NUHNsCL13elbxJc/9kgKp/vrJvZBYm9Rrpf3O8Nb20OXxjNu+ejyPoYQKO8AovsZ6i/tIUghVxhLJk9OjmL/HyoK3TWGCr2KWIcpg==;Eg76PEgGlNAr0sTzQlE/ww=="

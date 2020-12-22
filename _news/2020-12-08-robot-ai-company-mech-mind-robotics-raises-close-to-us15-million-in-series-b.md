@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-excerpt: "Led by a world-class team of engineers with comprehensive skills, the startup provides an all-in-one solution for industry end users looking to harness artificial intelligence in industrial robots. \"We intend to solve pain points in industries with our ..."
+excerpt: "the startup provides an all-in-one solution for industry end users looking to harness artificial intelligence in industrial robots. \"We intend to solve pain points in industries with our capabilities."
 publishedDateTime: 2020-12-08T08:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html"
 webUrl: "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html"
@@ -21,6 +21,6 @@ images:
     height: 785
     isCached: true
 
-secured: "0N/6Pj/jtixTUqG0K9XOqn2dnQABLTg2st1NuQya5PbOnnbX0EBGGNg7rqE0Z+9EoCXwnf9eaYL3ift0dVF9i5w+REMR83P1MnMnjHDetcPcg3oqp2NF7ZJrYXuk5b8YJ0we6Mna5IzFu0cajAHDCgPTWB83vrPxecCxNiVr+aVGs5xbR439l6dhRPaX/nyEz1dlXHrHf5CDxBep39qQKm6kLt5eSz1QcNZBt+T8Y19s+8YqQ9KmBRHWstE4iEQka035UuEVdeDCfaihFJXQOtlSPhjOnUDE9G0yaDTTIpt+zds+HI8TVW8rKrj/iX0YqimDYsllKK7aS2sKThcNADaPtl1ELAqt1RULBfwFbRA=;SmpYPWsdgzsFN7kaxJaLiw=="
+secured: "/vF4cpaJoxU9METHQ4pAT5x0GpRCHHxL8dP6EJK40dvNUgndksuGRpYsO3ncngxa9OSCcUfykTnwQr1CcHzs8FJyB2fApYDPcfEaYh1Uc1cHGtaXrfqdQbwUNImQShPwGa/5d2q4+sVmk0z/xucpgIe6DCMtBfyGRfJoASPlt0LNqxSf30KCXqXzD8Q10KOJSKTLsLGyOrrcChPreVF+MxJjevTHVIf3etZn1QD6ImWXQ2rFmbwMxwMOFphGjrlb16TzLfayUdoWBk+RPDp7JUCu4bZs38akJnq9HKtXB/48hcfdhI15Rd0PVon2+ZoAlx+RGdkB1g1Fs/p6d5JGSZ6d/yI3KthYSDbp2bMUAXY=;TlFwzFZnLtHtoIvacFd+MQ=="
 ---
 

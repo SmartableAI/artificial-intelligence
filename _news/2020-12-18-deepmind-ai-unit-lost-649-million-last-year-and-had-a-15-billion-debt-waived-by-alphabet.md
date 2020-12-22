@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount"
-    excerpt: "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development."
-    publishedDateTime: 2020-12-17T16:23:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
   - title: "Deepmind shows need of deep pockets to pay for AI"
     excerpt: "Deepmind made losses of £477 million last year and its Dublin-based parent waived a £1.1 billion loan to the company. The heavy losses reflect Google’s continued investment in Deepmind ..."
     publishedDateTime: 2020-12-18T00:01:00Z

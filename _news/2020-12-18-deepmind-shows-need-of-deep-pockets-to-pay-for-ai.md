@@ -7,8 +7,8 @@ originalUrl: "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-poc
 webUrl: "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Times
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount"
-    excerpt: "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development."
-    publishedDateTime: 2020-12-17T16:23:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
   - title: "Google Waives $1.5B in DeepMind Startup Debt"
     excerpt: "The waiver \"underscores Google's commitment to DeepMind, with little indication the [AI] startup is likely to turn a profit any time soon.\""
     publishedDateTime: 2020-12-17T20:11:00Z

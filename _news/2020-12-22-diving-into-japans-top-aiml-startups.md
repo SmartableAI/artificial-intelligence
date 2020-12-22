@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Diving into Japan’s top AI/ML startups"
-excerpt: "Japan is the world leader in artificial intelligence, according to a recent study conducted by US-based research firm ESI ThoughtLab. And why wouldn’t it be? The nation has been pushing for AI and machine learning (ML) innovation as part of its ..."
-publishedDateTime: 2020-12-22T04:14:00Z
-originalUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667849"
-webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667849"
+excerpt: "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area."
+publishedDateTime: 2020-12-22T07:23:00Z
+originalUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984"
+webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984"
 type: article
 quality: 66
 heat: 76
@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
   - Machine Learning
+  - Facebook AI
 
 related:
   - title: "Diving into Japan’s top AI/ML startups"
@@ -34,6 +34,6 @@ related:
       domain: techinasia.com
     quality: 64
 
-secured: "WrFJ/4XJUv1L9Zd6OftxePohqRdo/gKXShqO9DDrRM3SVjlEpOriDF1PQRuTS16iN0FWGmIJsckDrDjqGAjSLsi282EyPaaXe/lS2PT/DTG80Hs5p2sji4xoJrZox5nRC0S2l0+axM4hqYsU5JQvKlf+UAeS8MbTSRS7HDMPIs5fbNEuJaXNaJi6QzqNcvbcYs+3pPRuU0Z/Y03aSXc+ouIPdzZzAgvS5UgMdcn7nmV/To1uWA6Jqnzehh7ILOmZ+s8oyOBmwb4GXkMLTtDbECiVYXDLwpO64bKF2GQFkDS3dh8RMODcZVgQex/I+3cUoKTQGmiD/GYq3fEqhJOo/i0aRq+gqOq5bcSnCmRlZ+pvc2bOb7nL7r92QlrmYuU7xPCK0RX1P2/0MIcaH3ayLn6RvNH7f6QMehyWghE052kVHICTm8PKgU7qg6PltBbIEfJz5TZkSCUiorJJRMMBJFp8ShSyy4l5D7e06kT1uxfQ5g6ktWk7AGKpInCsSOeu0ZxLsLPoZsB8u5SxJjWV0g==;d+6E9joLPnMZYOrXLfJUdw=="
+secured: "T0edqnZhAJLvO+fPr5AbBhcoqOjcDykohEmPTrK1Gb/2k7ZiuburAA6Ufu8fZ0CKc2c08KQ9pkoHbmrc4pGa/hA1DP4wFYfwD6z5TJy1UIokii9yKeYNrXTFbJedvSgqUJ4JzZOEotdY1AnYKkFEQL91nGi8nuHbb2xqM1ty9mLS03FY1bT1r1xLVmWtsiCpvB3ECg0AR7fu5QG45DsqgZq/oG8zDn4kaMeISBYfAUree0C/WGvuqrm5M/xusJvHz7y2uvTMh9t3tdaQhBFHX23gxF2xNkfSrDH0sOLSndIP5A1jAtyHSqPcFkPQ6Gfp0LjtbmXdPxpS8wZelHKMVp2zlX9w+el+UPTRomsCxVuwteKX4GY9Up09X2AySMz4eaC0hoiqfz1QNYRAbnX6Pa24rzZFNLFdyMtIYWmhOqcTpor5EnhBsdKNvmPRt1QiOr/CbOEX/9hEhAHOktpQZ08RpqIjkFMSYi+uqAQyukol/rdl4WTP1MTiMwrHD4JpG/Hp7uhkfLlTiQjmp8FpwQ==;DCaCizMW73yRZfpusa+Dkg=="
 ---
 

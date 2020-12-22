@@ -75,29 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
-    excerpt: "Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, today announced that Ryan Shopp has been named to the newly created position of chief marketing officer."
-    publishedDateTime: 2020-12-17T15:18:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-marketing-and-advertising-executive-changes-corporate-news-personnel-26f0e47ec4b642ca85d9fa22a67672e8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
-    excerpt: "Cybersecurity company, Deep Instinct, announces Ryan Shopp has been named to the newly created position of chief marketing officer."
-    publishedDateTime: 2020-12-17T16:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201217005730/en/Cybersecurity-Company-Deep-Instinct-Expands-Executive-Team-with-Appointment-of-Chief-Marketing-Officer"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
 
 secured: "o2pug8Rbi8v1wM5WmClYMKuySDvwEC+mRnTJaM5F4xNiGlxo5nSBQskGmPGOSxd/eOKjXZSymghTDctTw9rzRfYz/Wu4ZCz7IVsEy+Cjy0lBxhOQmcpRgdxg9fN8JzmOWA5mESCDmiW2jkpPvmEws+NiVJh48lRGbXMqqviipSAPih6if+QB6nBtFJObbpEktIbZniiPGIVUgcSJCEbCvabOtrXBWkzT9cTdjZ+R2LViE5w/x6g4VwEI2nT1JixIg87d9+TcK6ig2ja0P7HTLEp461ArJsq96rlgI0y0RvQAXNKDSYjAwDX5yjPxLPs4GpVsBLpsQ3EiKeOyPv5bJT9w0/CSp1he0CZ0Vx96geQhKi/iV1PSLDfREo7dSKiWgB4VdEj65CSy94ZqZKUGkHtEQVP4guEl9IZpdzDuCyawMRieECuWM5NoObRCi9V7o6UlqFmQtiEwGBWOqstQ1GoOD0mHpuu00iaUen0ewbbqjtHhY43K7B1/n/o5HnBt8QwW4dHAnGN5VaolJZSVXg==;5P24QysxYiXf67GpeShUGA=="
 ---

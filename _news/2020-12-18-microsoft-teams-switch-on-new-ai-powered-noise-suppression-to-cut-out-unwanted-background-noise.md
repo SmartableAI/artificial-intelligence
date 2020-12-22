@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-teams-swit
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -77,6 +77,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Microsoft is working on its own PC chips"
+    excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
+    publishedDateTime: 2020-12-19T04:57:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
 
 secured: "nuWAr4FGzTvqb2ZaSmse18F5YblFbw+VnMg95zi5dw2BBsNSIIXCB4M0TTJq62iHGDYb1W7E3m1BPrMDNaywFfRJHpKO2o/93htyDWrECxFBMGoN7V/PHDNA531X4sHdLluASa0RI4icb3ulFBshYawnjQsVkZ0vcHPL33idiZVmCdiyywcVsNn3G0jZdcZSyVMsYK/nQ8YBcARBAIIEp0wCoIcJ9v/Gl2zfept7Gkbn0baAJqsFk8LWocy+d/R42Vn5PjEV/Xqil/IWHPzbPQHObXZPbYsCU4KcG2LmQTdBRMRD6Vab36JbwYNYXlcDcDNWpPpbAx7wsvdo8ijohIgTErvhugU1F7pKorTFhjE=;S/zl3HRldK7Ud9tAwhZ0Ug=="
 ---
