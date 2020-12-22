@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Accurate neural network computer vision without the 'black box'"
-excerpt: "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,"
-publishedDateTime: 2020-12-15T18:30:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php"
+excerpt: "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,"
+publishedDateTime: 2020-12-15T20:08:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/12/201215140827.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/12/201215140827.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Machine Learning
+  - AI
+  - Computer Vision
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg"
-    width: 720
-    height: 482
-    isCached: true
-
-secured: "E0OMwzMfIabON7iB3MO2f3Dy8yt55cb3iHeNdBypjs5twMUEEy26q7tTeGYWXW6OwPJunKEp0Bh6VdAXxOCEiWSbmq6k4U+jTBymctuDnQXDxbU1awiWsLO0l9WX1vXJwpC7athjSkZ/sQA2jOJmbUeairmQvC8fEO0vCiwIoVNjDgVf2HFo52/BCVxjacz5pXn3g0NSZPClxF/a/C247qD/Bai/b/SdSc6dYba2RPbEocvPBsBwwpkoSVOD3keanoeAW1Q7MUA/pRSnvnKO94q1w802u/lH1n/EfGcJUz9V4UK7XYHdolsyd6VViHgCkzNJYMbI93xcCHAJlOe234GA9yxRxSQvFUUS+CBBl2o=;MC1iTZ9yI841sTy704xGvg=="
+secured: "9ovJX+Cl1aBxIxXa1sJONYR/gp+DIkBIBDIRE6FrTE0ApFQm4QsCA4kG9wRsiqDTNr7VA35Y9gKsVrVtUZ/qh021bnJEU+hyU5cM8if2Vc6CKWtprZEWdRYQIlCOYPkFehohjgsx2G8ES3wRHEGYS3a4wikuLGB5q1GVV5vI8QCRiZEyqRsVc0chySNlckHfMzG9qqQae14G0ffy8ePcX8LLgsv0HTWCMP24Tn5fTHHd1W1FiTMyTxcQ2QUHuYaFheayQdYRjj3mP7kkIuyMAXZM6TZMEitdKq+QO7zhx9YKIxPR8jseaQydHqj9dJHEOmftc9DrCqj9L63Bz7NuEWypr7lKBwrMhl9jmWWIohI=;D8OKHbFRWOI74qhNssP8Yw=="
 ---
 

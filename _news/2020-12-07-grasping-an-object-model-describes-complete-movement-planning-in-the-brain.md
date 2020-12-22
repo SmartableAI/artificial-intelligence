@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "bmhoEnR1sI5khyknHlOjuE+xqTMwU+dx6ZDvUvRVAn8rUtklZGdFxav+2bpw3UbxzpTpPf87ytV/EER0GLhfJdDAtz3dslyaxinJei9RK/DhCG36pj6mcZOXqm4yO+C/SpyWncVDXppEVYx2mHzfXyE3RvMYaYZIea20j7W7QijgnVbupy7yTrwMKyDrQl5iE/TUEx46ZmBbT8eJEcNMVWFpTQw9HxMuBjBIWoxL6yAXdwgPAs2hEFDtHOJJPqJ7DnrHLeDz+vizThWPkbiRxGbrPP7AeL4pFaBAoazYGxEI0IbZ5Z0M7RCye68ad37n2NtoxN6lzciyOPzwe4uiCysY2th+ut3k6nIpaEpvVvI=;RCy4dxiyu58EIRw6S3T8pQ=="
+secured: "myrYdbfIX566tQwvTj4htSjMhhA4b32pfSjUl4mW7jk1peIf6pgKgQudm8nzfupcae8DGTY/P+7W2ZNc+daO41W0j6ShtJEIZlU1KZBU1oJ1fQxR7bnFVycq7KKIJStmZFEvIK9Xyav0wf27+836gVZFtzBJJtO19UdBRbO1lsoajx/vrjao6Y43TuZKO4PN54vA66594SKdYJdd3DGaU1gc2zXB5OobokTXetsL+FK/NoKuv8xDJTEiGbwfRuNTQyLQmtWIUq1AMnD/H+3LIFUOhqiyLrvl3gdNjBKBrOsXLM5AXMEnkJHdh32kGYOFeR9Ka08RMc/TC5Ass57jmP0eU3gUhpgCDLd1p9qk13g=;xOP6pnprKi65AA9l/BpeWA=="
 ---
 
