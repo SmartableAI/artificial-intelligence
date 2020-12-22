@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
-  - title: "PitchBook Releases 2021 Emerging Technology Outlook Predicting Record VC Investment in Field Robotics and DTx Startups"
-    excerpt: "PitchBook, the premier data provider for the private and public equity markets, today released its 2021 Emerging Technology Outlook report, which details predictions for"
-    publishedDateTime: 2020-12-17T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pitchbook-releases-2021-emerging-technology-outlook-predicting-record-vc-investment-in-field-robotics-and-dtx/article_1ff19ed4-c00e-50dd-af8f-2a52a8c171b3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
 
 secured: "u/yKesDnrf5ZgoNn3SZ7W9zaK/7DqWTMFwGd16MLJWJKBT1nr1i7TExpYZ3Gm9ElSdDdQMQ4TeA9lB8GLTR5YUin8MjP5mANQKG+/9d2oSwqhujlZFYjh42dOskqq51vTPvx6mENkaGdUoy4TPp+JL/W41qqI2r+isxydMDBQBp2srgXHCuIwRK8v3Rnk1Zuv15M4vgnK0n4EeMfh2DQjh6AmPFbN2n1IbbFO93d9YVeI5SJ8ypt+pnufok0kZBMjDYHnGPdDUAu0UdYg8Dm0wnmDZZeZxg05A/5YDTjFx0BmaEajbvLflWVsbdovCLfSs5ndJu4555S5SGVybLebO25CUdukKnh5U6jivtPGf3caFWQ5TnXcOCbTVdlw8FsUF9WWeMJ8nIWP71ytyrJPGQ+hzs51rSvEpuhxWKQIq1I3XdO6FHwaLwmCzFhFOYSihWJISzH97zkCitYZdVerMT9VjmK4Z35uMISp91+MxGub8w6Rq0+s8jTMMwZTe/+SyZPIqmSoqYqTrMeoaoWGw==;8ofGQTiGwl5isNgRF4nufQ=="
 ---

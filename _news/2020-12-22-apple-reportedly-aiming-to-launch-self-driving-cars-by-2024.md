@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
         width: 1024
         height: 538
+        isCached: true
+  - title: "Apple plans self-driving electric car by 2024: Report"
+    excerpt: "Tech giant Apple is planning to venture into the automobile sector. According to a report in Reuters, the iPhone maker is working on a concept to develop a self-driving car. The report said that Apple could launch the proposed car by 2024. It said that ..."
+    publishedDateTime: 2020-12-22T06:50:00Z
+    webUrl: "https://www.indiatvnews.com/auto/apple-plans-self-driving-electric-car-by-2024-673116"
+    ampWebUrl: "https://www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 44
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/appleelectriccar-1608619658.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Apple reportedly plans production of electric car in 2024"
     excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
@@ -243,6 +259,6 @@ related:
         height: 382
         isCached: true
 
-secured: "9Body7uHaz80Gmhm/QGP2nv06znsqC5ZYdBaviz6oUJ1RXWRCpoerJXCEXARhdXHd49LHKxSJceWSKMGHH91EYsO6MWWSJPucvACmx1gdrbw7PvBDayqBm5xkpqxR+sih8qV5qfWAOlvNy2fHUfmA+veC8WX/xUBPhdcjH4OtpR8wOjQEUpl/AyKniNxWSR/erRYQYKYF60rde5yUbbmSPVndYHkVKc9MxEEnI1oIWHcuJ3LeqpvmJPNhECIbid+0meMQSmBTMzO9CvLZxy8vN+c0TeKn9QOuJyYFKrSaLaEIm2223Uv+lQq1wS36LVVNaR2cn7QuzVYPkBttOgFPEI3Ld/Ax+XK4g+eC76sLbo=;uFWJ1p1EFvVXw11SeaqL6Q=="
+secured: "8KXa2jGIYp8ZKK44fiY4IU0Ibr0nq0Bzp1Lted+77YB1qnTfoW9bpgWupt6UjZoDJEbTKrUuGAVMJhLJPV+bsqjgL48ofI6+i+1D+vlrkU23e6d1tGYqtUz/m1ZPXK0wSBC4vNhkBxjuk6hUQ1PMEuAOwJOJIEKtFz0EMidfvCWlwA50XQITDyM/n6qkeMKGbuVig1vz8JFzdCPAFxOZd1YaUwN+1QDtT6MYW1YTtIFJasZ8C6P+/G/8gDHfy+nlO3pq9wpjZ9RA/jzdQvONvVcsks5rdZWBZRr8X5I4p3o0OHYEZAGS+bzoKNWMnH3Byolfau3ZKg0D86tPvCRBJRrJ8H0oEb/ejajReTgF2ziRBeiKKu82S4pIqKnYm/8RNAnCtHm4oGDjVN4ZOWU61eYP3OdllPbbCFSLEq0sDPqb5PrxmRbuE7uIyMd5NpnDW8ww9GjLudNbVtfhv1v/pKHwmQhizVl1Zda7CepA4t5ZCOO1QOY3lB8adFOK/fPjaDhJGAeN3MTTK9/TO+iZlQ==;IaczyCU/B3ZX/M3Vzn1ang=="
 ---
 

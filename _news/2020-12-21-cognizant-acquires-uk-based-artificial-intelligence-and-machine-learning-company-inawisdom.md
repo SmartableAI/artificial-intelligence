@@ -36,7 +36,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 75
+    quality: 73
     images:
       - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg"
         width: 400

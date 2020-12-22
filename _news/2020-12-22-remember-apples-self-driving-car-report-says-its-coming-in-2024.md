@@ -99,6 +99,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Apple plans self-driving electric car by 2024: Report"
+    excerpt: "Tech giant Apple is planning to venture into the automobile sector. According to a report in Reuters, the iPhone maker is working on a concept to develop a self-driving car. The report said that Apple could launch the proposed car by 2024. It said that ..."
+    publishedDateTime: 2020-12-22T06:50:00Z
+    webUrl: "https://www.indiatvnews.com/auto/apple-plans-self-driving-electric-car-by-2024-673116"
+    ampWebUrl: "https://www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 44
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/appleelectriccar-1608619658.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple reportedly plans production of electric car in 2024"
     excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
     publishedDateTime: 2020-12-21T23:18:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-21T10:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
 webUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
 type: article
-quality: 75
-heat: 105
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
   - AI
   - Machine Learning
 
@@ -67,6 +66,6 @@ related:
       domain: channelweb.co.uk
     quality: 19
 
-secured: "ojyqfRnJJiF8ETmw81GGvhBcVjyZqiAJZVHM22ny1sT43Iaw72jAaPKP8UyTqhM70/3CKa0hMNPoBw27jCkbJPLbiy7LGMGRlllYRCBkwq6wZyvvIHMKsiX1Vtu0xalkAJDLayYGb6ND649mfu+v0rwie5kcoS5rqWw7Tg9UHwC8QbW+jyDzaSNvLUy1vLtEXUULmlO8YsxmBeMt6Wf/kNNkxH2jYWVuz6l3Ae58fMcmLb19Rs8tCihK9oyAmsupmeQV9qz3/UXdDWbMaGGbp/YZqgBDMrCEByXppys/4KgCAvaFOtEHPG+bMPneQJjkx9xqug4bJD1ZezuD8YCJrskCfUV87cjfRXTORB0oN60=;unRgQwpc2cdb9fodOWC2JA=="
+secured: "bVgGUJqVCI794T6CGYUlBsEFbfOQCzPGVX+iCnUFr9mPvDCPvjug9uEtnKkGclKEDV3jl7BwsI3bp9pIRFKSCIL1jdFQDYuKbujz3rlPxJYRaIvCs2WaemHyzJFUS+XdVLz55C93I9JBY9OSdpagpSczm9TpEhGtjKBygLJCip+BJXmw/uqwSG2y2U5dEePttQtah78u5i/KTPfL1C2o7gIoEUkHU92gQrE0UKeQJzhu3aCF85A4hwPpFxkf9g7CfUMEzpzpcFHtp6hFhyx29EJcMgJswZkkwbOYQVKEe9o4YqkDU9oLIUZ9lkq0YYG8dL6V7SauGhg9iYoM+WCKF/kB1O0G9fTZX7FYVl8a7PQ=;GfDe2t9GCHvA4Lb4+365VA=="
 ---
 

@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-
 ampWebUrl: "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -24,6 +24,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "22VTLUKixn0/h5LgpGTPMIMDFKSKW8GPc8ye6uUwHNKSYjB7oicamow0hY5q2c9Jr2E6tre+lstqXPci81cpb8DCGGrl0oGpPiTSqrHBr2EqCsJNVrRGCVDC5I7Puyz3+hvqZI61cvt5Lcu2Bc5gRaz76/X2xAIUF1fh52eqxVgIaHvq5CtDLCuBwtx4FxPjwyz3h8WT6lrsUIJTroknWopwNaGAAJ/0ynne4joIJnze8O07f2soRnty+0wwOSkf+W6kO/5720Y+CTO+liacCf+z6mdJCTp8jXn+YZUBjGfy4l4i1TuQDXh9DxeG4CzeGceDIdQ5unzvmPAP8kGKt1ydBv2r/MMJb7FSAvnUwTU=;jGUrThlZ7BMZN5zY7xBD6A=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/12/Simon-Segars_Interview-Still-15_selected-1.jpg?w=1200&strip=all"
+    width: 1200
+    height: 588
+    isCached: true
+
+secured: "2kGLryxDp74gLhFyJ1UU4wV324KcGkyB0dVfkf4YRuo5nOgzCSWh4c414u/FKUh1mJ6SyoNysw9l3mtO9pYzNaXkjycStnoQjeCj+qmpySGPKdPZOwHfJPjtQB7bA9yp8dIqNCj9SbBedIAm31hBEog1YJjFXPrmkfK0tBmbSEMQLG16TeL5yl5KMWk0F+CQE5KLQj1MX4rjNS28RfOx8NrE5S1hAHk0UeUYBHcPQxP32KjVXqzaWCCj77g3cyInOYC/cQR4Q7+PjdBw3fdTAWL0RZTcsNsRiRH1Dr7OF/JfjBy//zisqP9U1e5OxoimkzBkHCy54MqPWggpUkQcbUAyCOBdovHtoxqeqT7wWiA=;kA+7YGpoMjEGB6LPnv50sQ=="
 ---
 

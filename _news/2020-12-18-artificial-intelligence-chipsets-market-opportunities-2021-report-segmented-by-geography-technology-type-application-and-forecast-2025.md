@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Consulting Services Market 2020 SWOT Study, Sales Analysis, Technological Innovations and Competitive Landscape to 2025"
+    excerpt: "Global AI Consulting Services Market 2020 by Company, Type and Application, Forecast to 2025 published via MarketsandResearch.biz covers the market landscape and its growth over the upcoming years and discussion of the prominent companies effective in this market."
+    publishedDateTime: 2020-12-22T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-consulting-services-market-2020-swot-study-sales-analysis-technological-innovations-and-competitive-landscape-to-2025-2020-12-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Natural Language Processing in BFSI Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
+    excerpt: "Global Natural Language Processing in BFSI Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
+    publishedDateTime: 2020-12-22T06:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2020-analysis-trend-applications-industry-chain-structure-growth-and-forecast-to-2025-2020-12-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-12-18T16:55:00Z

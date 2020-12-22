@@ -124,6 +124,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Reimagining the Future of Post with Microsoft Azure"
+    excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
+    publishedDateTime: 2020-12-22T06:30:00Z
+    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
+        width: 552
+        height: 372
+        isCached: true
 
 secured: "uhJYI3oBUA9ym9cgm4Sxuc2ccS9fLoQNzigbc3iaWH0UnNruEtNlq2OGAj86aiG1Mqj4Wui6C0qSm+babn6NknlOXgl/4I6MD6BVYEcJQLwzdter6ovmcIHAC4iDggLbm/yd/c5Ws3uz8qGSIuoFmLVp91kLHwtqdJ6s3h+aeBAUXMlAqqyk25sxEEntK+xa8A1D29OypcxQeZqdsoJy+8j462ii+ZHf4zsDVGnHvfpR8uYAIhLZT7Obh8orGDE+y6lHMLw845jG3bEET+2pxWQwqQt8Y036MRrKgoi/knXduc2eyk6R76+0AJB3gBlwFexHyUAaZiAIyKsdsWgDavQJfO79jQNuqD7AyejiNS6MDSREBjt6O103jSAb06AkAFdHB7EEPWL1zDmdJzgNJCsNnTLM+mym3Nuo+I5LnojPbXoDajb1y4ys3F4BYlm5cjZqnYVvlJlP92B/duO9ZmaTA5Igbfyr9nCH9RNQIA/R8wq7UvaP/gwsvB951P1TIeXPzqk/jAei8DaJCChbMw==;C/peHtqy6Z2t76p5IO2lzQ=="
 ---

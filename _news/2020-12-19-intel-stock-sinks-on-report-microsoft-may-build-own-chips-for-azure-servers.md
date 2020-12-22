@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-mic
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
         width: 300
         height: 250
+        isCached: true
+  - title: "Reimagining the Future of Post with Microsoft Azure"
+    excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
+    publishedDateTime: 2020-12-22T06:30:00Z
+    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
+        width: 552
+        height: 372
         isCached: true
 
 secured: "vTz4rKKykfm/nu1RKO/xShXOUlOGLLMlhqtnl21q6tPh+AkX+5nXzj60vhXVwBuabiCteyXdbtJ4NaFVd9+pjyx8oGlNybaSdHneBaNjQF3Gmt6zbbkutXzYQg8zI1FSH9C+IRT3HipS0phyS0jzJuzitpOXWPzA+IJhrkiB1GmiJua2dvox77RP2AtCAqdDAOVxx0lOms3BdGO44LiOcemngonVfclKk4NtLD8Dp1K9+DyWhmWOyqL6apmtN3eMtV2uU2iAgi5daiwZc2hEuaUQMSVtyrkK+yVQCIrUcyL7/KKcLAw8xZ6fWhgT0tDYFbhN63xzkBQmEOR8Emue86+HU5DSNStp3/vY8hgpdKdNhUBuafx0LGy/nOilggqOTs2UNWO66yi0ZgLFzcETD8FPf0xEbzUSLjMyzfxGn6Fbs/1a6XTwbO+O6zoUruG1aBhNmVhSqmOFVhfPTJ0JOa0WnoRzh8JQr5j8iT6O57RZ0k9lMJ+LmMhJJVHv44ES0CEe13zZNdynb6eYSnAKYA==;mUOcetjWQLBw+hPM2iK6aQ=="

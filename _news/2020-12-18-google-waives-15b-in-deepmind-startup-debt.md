@@ -36,17 +36,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 84
-  - title: "Google's DeepMind AI Research Costs Stretch Into Billions"
-    excerpt: "(Bloomberg) — Alphabet Inc. Google waived a $1.1 billion-pound loan to DeepMind Technologies Ltd. in 2019, after the U.K.-based artificial intelligence lab continued to ramp up the scale of its ..."
-    publishedDateTime: 2020-12-17T14:30:00Z
-    webUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
-    ampWebUrl: "https://leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
-    cdnAmpWebUrl: "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/pmn/business-pmn/googles-deepmind-ai-research-costs-stretch-into-billions/wcm/807c9941-4973-473d-8252-a8dd41427d13/amp/"
-    type: article
-    provider:
-      name: Leader-Post
-      domain: leaderpost.com
-    quality: 54
   - title: "Deepmind shows need of deep pockets to pay for AI"
     excerpt: "Deepmind made losses of £477 million last year and its Dublin-based parent waived a £1.1 billion loan to the company. The heavy losses reflect Google’s continued investment in Deepmind ..."
     publishedDateTime: 2020-12-18T00:01:00Z

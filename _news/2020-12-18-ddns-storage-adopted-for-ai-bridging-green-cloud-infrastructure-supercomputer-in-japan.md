@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2020/12/ddns-high-capacity-storage-solutions
 webUrl: "https://insidehpc.com/2020/12/ddns-high-capacity-storage-solutions-adopted-for-ai-bridging-green-cloud-infrastructure-supercomputer-system-in-japan/"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "DDN’s High-Capacity Storage Adopted for AIST’s ‘AI Bridging Green Cloud Infrastructure’ Supercomputer System"
-    excerpt: "DDN, a premier provider of Artificial Intelligence (AI) and Data Management software and hardware solutions enabling"
-    publishedDateTime: 2020-12-17T14:08:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/ddns-high-capacity-storage-adopted-for-aists-ai-bridging-green-cloud-infrastructure-supercomputer-system/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 18
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/AI-concept_shutterstock-1218220324_700x-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "GgSDw5TWrEJ21ZisIfNITR7qCffXhZHI37uGypPQ+U/+BvMxAn1zAYhGE6EiDkdFg1jzm5hnvunmgdi7WM2pqxQa9UC+nXc2nyQXnVojnvGxTWwEuUYs9kofwamvED77TzI6ZKX3ogPgmSJkmkBl10JGvjgQcex9MTvTXzdWAz9rN316dm0JPFkaXkD2jORTvOQLUaT9koYdBBtmO5gAPqmr//ESeADK29cSKAXvD0M8xC7EfjE76hasIPYwOBRSLRaYLtaPRmUbp3ZSvCsFl7CnL3Mk9HI2FvrsTFWaG0ZL1hOHLLkrlbFuujMRbV9lj8U8T+zDN/asCRqZxehf7eqsGRd2ioBDZzjr0Ur8LRo=;fZnYTWm3Dtwd2M4fVcgHjA=="
 ---

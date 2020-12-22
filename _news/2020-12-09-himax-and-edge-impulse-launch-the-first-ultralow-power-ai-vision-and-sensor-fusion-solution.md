@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
-excerpt: "Himax Technologies, Inc., a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for"
-publishedDateTime: 2020-12-09T09:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion"
-webUrl: "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion"
+excerpt: "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,"
+publishedDateTime: 2020-12-09T09:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
 
-secured: "nfjEAulDSwW0Bsg8rteAwUh3Vwnf054ZBGRXyKKmaNZVESY5Ir9zQgxeSQLYa6K/99QUCnsbKfVF6cnA4mDigktjkI9gB4Cq7vNWOlWb2LOSfq3IHWh30HkF4xkewvzbRTtgDf0eqVEjx4Nqs7xY/Pd00GCZtkU8GxWXYnjqFuo16C9SWa4+gck9UIboB2pJ/EQigsfqmABJQFDv/f9JA4QRCKq9KtUWo5iWtU4zAoalE+UG+FC4cZxNdz41xD55MGfm3GxSJz8HT7KJ7CsdWYTvfXM8UmnndFUJPR8bjkQZalvK/hK1Fma3WS7SYTjuzF3jEUwgCk5fBVZ3iuRcmAGPAn4WnrhM+PFx038yNVQ=;aQi5sQtA/ePTmI8YJIih0Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "fe4zkzBU1ps7RT6QdutTMwc7dBvSSZ6lQ3DHKDWfYuoeq1TDpXHAaqgz03myTupjSPZuoHUyeld409v2RUoI/xINTN/L7CwlsS63x6C/xQQiX+pCCkUt0VQIo/p2Q1wTuLcw6lruL52U4zgLnWxG1FvFVGL7PipCtbpX8SGadqv61uy5plQqNCktC5UG5zkSHqeHWp9A0gp25ZBcHGsrDTUqaCrWNtaQB66Dgyge/sKxhlv1kKud/JVDTI8SYY3n+YqnYWkBivJRamDv963fcUQ2SMMLHt/XMGWW3JDb7FqQguFVIF9vKhT8prNK6oPZF22iaMgFZIEud4GYjBslY3r0TPAMRVymnYqOqkngvcs=;fNbeMUk/5Tf09gmrGI8teg=="
 ---
 
