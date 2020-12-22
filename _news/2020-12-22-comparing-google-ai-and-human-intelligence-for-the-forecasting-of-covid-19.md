@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forecast 2021: Artificial Intelligence during COVID and beyond"
-    excerpt: "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,"
-    publishedDateTime: 2020-12-18T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg"
-        width: 960
-        height: 601
-        isCached: true
   - title: "Why Covid Will Make AI Go Mainstream In 2021: Top 3 Trends For Enterprises"
     excerpt: "Artificial Intelligence will transform the future of Pharma Drug Discovery, Work from Home, and Edge Computing in 2021. Find out why this will be the year when AI sees widespread use across industries."
     publishedDateTime: 2020-12-21T11:50:00Z
@@ -73,20 +57,6 @@ related:
       - url: "https://media.wired.com/photos/5fe125e4fe6cb52eb1cc8aec/master/pass/Business-AI-Fax-Machines-Covid-153151104.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "AI, Machine Learning Tools Help Predict COVID-19 Outcomes"
-    excerpt: "As cases soar across the country, researchers are leveraging the power of artificial intelligence and machine learning to predict COVID-19 outcomes."
-    publishedDateTime: 2020-12-21T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-predict-covid-19-outcomes"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "NBydMxYhibmxdTd0PJNFjWyfHXw9DGocrzMIUYRaDpg7kK5FAkYKctQ7yISqxsTV7uUa4hnrCalwVjucZOIeB5F73CfY4n91ugOJwzWn6oFClMylnnP8PJG4oAcjLQnQeuXgFWl4hClN2ilDcKYbGU/5KRlamJpyH3MF2yFoVck2wiYri4F3UJD77w6CpmMO/hob49MZaOBJJ3CesLv1FK+uZ/2xuSwQc4wmleKul0/d9izJeKIE+dLhc1QUjpAarhmy7RBgjuwRslCh0E+wexO7S0O+Jji6CT7VClEtszCPdFHgqWbbueLDpu4kLPyn/pt6TkM1cvP0U1Ain2XRweZpv/+DT6kLJuPxhtWh6APMlf9a776KYSjKUolV33I+srp6OxVpJeSZNGI8imlqyPmC6LVcxAXVAgFA18E+ZihemMf9Xx59qJBDIsjSES4krUPLtaRCHXnwqpvg6HFvH5Lv6mvA2zK7WUbPfgFFKs0YT8ewOJkFVkIRmJRVO+cCmuTw5iZP3N9Wj8U25p7uZw==;DeoGSPNnw2immnviUEMp6Q=="

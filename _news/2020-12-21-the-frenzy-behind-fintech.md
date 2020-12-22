@@ -27,17 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Upstart (UPST): Fresh Fintech IPO With Enormous Potential"
-    excerpt: "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering."
-    publishedDateTime: 2020-12-18T03:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp"
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "(Source: bkeconomy) Fintech Service Provider Leapstack Secures B+ Round Financing ... Established in 2016, Leapstack is an AI-focused Insurtech, aiming to offer a risk-control solution for insurers and insurance brokers. At present, Leapstack has ..."
+    publishedDateTime: 2020-12-19T23:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/12/Jiming-Temple-Nanjing-China-kenneth-yang-unsplash-600x535.jpg"
+        width: 600
+        height: 535
+        isCached: true
+  - title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
+    excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
+    publishedDateTime: 2020-12-21T11:34:00Z
+    webUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech"
+    ampWebUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 18
+    images:
+      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageus3n-1608548321321.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
     excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
     publishedDateTime: 2020-12-18T10:10:00Z

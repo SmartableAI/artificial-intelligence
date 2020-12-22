@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-comin
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -257,6 +257,22 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 32
+  - title: "Elon Musk Promises You Can Pay For 'Full Self-Driving' Subscription In 2021 Even Though It Won't Really Exist Then"
+    excerpt: "For many Tesla owners and fans, the deceptively-named Full Self-Driving (FSD) system that Tesla CEO Elon Musk has been promising is a very exciting and desirable thing. Of course, it’s also a $ ..."
+    publishedDateTime: 2020-12-22T19:01:00Z
+    webUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969"
+    ampWebUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 22
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pnqlrn8y8nuiwgh49v4p.png"
+        width: 800
+        height: 449
+        isCached: true
 
 secured: "eBRioi0nm8g4R3oAafMwqvp/Oc44M6CCI7zsWH4DORq/bt33WhBLAVggwxcbBZGgueE2Li0LJig7uiLdbT8dJo7esA+P/M7zyIFZzPU1VkThwPPIf1ISmTlx5vb21c9BHq+5av/HFX/zJuOgpo+AxkiJNECCYg2sGNX0+o2BhwxdPwvW3bI11p5qzDunFxTrCzivW+OUx7juA8Cee6I6Ypn++rouIBRt2vnUvs9vo7M/XVybdNdQZnbVxab9D5WHN26qOJjDEaZmpyib6iPIXhNROoWpitB9x+o0/s12Z9WhpG/cOB+PtNfITJFgz/ei5Zy87OK1zsyb9WMkMgdjcFLWz1gqzoR2U65eIX49lbkOwtG05M6YKznzmo007zghACBcgVuZup/yxORFihQeStvBHFXmMZIdkZ/HPZhRs04j6+ntetnNRzYsCVN1/c454zcqYBkmmLN/nNdDRQ2EuedQ3VX6sL/sn+YOXkeP7zVkfrK/yUJlJcHTXdxjU8TbQj5kJuRrA0RWKn8yJ4E7WA==;6wuqbST6d3bOBPskzfbONg=="
 ---

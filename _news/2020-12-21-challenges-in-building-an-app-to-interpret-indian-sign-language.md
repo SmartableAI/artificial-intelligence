@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/business-of-life/challenges-in-buildin
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/challenges-in-building-an-app-to-interpret-indian-sign-language/amp-11608476748623.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google expands languages push to serve non-English speakers in India"
-    excerpt: "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English."
-    publishedDateTime: 2020-12-18T04:15:00Z
-    webUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/"
-    ampWebUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
+  - title: "With Machine Learning, Indian American Scientist Discovers New Way to Filter Fake News"
+    excerpt: "Using machine learning, a team of U.S. researchers led by Indian American computer scientist Anshumali Shrivastava at Rice University has discovered an efficient way for social media"
+    publishedDateTime: 2020-12-22T02:00:00Z
+    webUrl: "https://www.indiawest.com/news/global_indian/with-machine-learning-indian-american-scientist-discovers-new-way-to-filter-fake-news/article_470d3046-435a-11eb-a00b-5bb176012c61.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: India West
+      domain: indiawest.com
+    quality: 31
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024"
-        width: 1024
-        height: 684
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/6/b8/6b8e2330-435a-11eb-8909-fb3c1d48fdae/5fe04887acdd8.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "Google invests in Indian start-ups"
     excerpt: "Google has invested in two Indian start-ups that focus on supplying personalized news and entertainment to smartphones."

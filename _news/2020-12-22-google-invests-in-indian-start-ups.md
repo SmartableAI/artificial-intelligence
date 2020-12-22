@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google expands languages push to serve non-English speakers in India"
-    excerpt: "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English."
-    publishedDateTime: 2020-12-18T04:15:00Z
-    webUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/"
-    ampWebUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Challenges in building an app to interpret Indian sign language"
     excerpt: "The big challenge with sign language is that it’s not universal,' says Jayasudan Munsamy. It varies from country to country and even in different regions of a large country"
     publishedDateTime: 2020-12-21T02:02:00Z
@@ -55,6 +39,20 @@ related:
       - url: "https://images.livemint.com/img/2020/12/20/600x338/BOLlanguage_1608476832278_1608476840355.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "With Machine Learning, Indian American Scientist Discovers New Way to Filter Fake News"
+    excerpt: "Using machine learning, a team of U.S. researchers led by Indian American computer scientist Anshumali Shrivastava at Rice University has discovered an efficient way for social media"
+    publishedDateTime: 2020-12-22T02:00:00Z
+    webUrl: "https://www.indiawest.com/news/global_indian/with-machine-learning-indian-american-scientist-discovers-new-way-to-filter-fake-news/article_470d3046-435a-11eb-a00b-5bb176012c61.html"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 31
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/6/b8/6b8e2330-435a-11eb-8909-fb3c1d48fdae/5fe04887acdd8.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "Ko5nTzahvQNvOoqJN5WoQORT3ZYkGm3GAJuXXjrUU86S+RMDmRsYLcxqsk2ELcBTWcCK4qtZivElipdd/5IC4O2VYbKk8+sgdUvJ6h16w3kmfHLpDkbGni2Wo3s5xoQPY9Mj+Kyxadya9IRiF+nBc6D8xCkqDK2KhZZDuMTYDuVlEwK07jYmgn/7a9FI7HIC8egedqnVP3DEWam7kRlMHqqjaJRelPbtMuEiyn/6uRUc8zzxXpu+OOMkyebLC10Sw9Ji9WmpRUVgnmqoKj6wpPZITS7jf2uqGx6WqgHR7ZHg/R3+O9A4ALhannHhg9mvh612TrxISJeF3pn+7z8AiZ7+cYWM6WEhaVbcEOiMN+M=;ixE5KbrJuPznXWUr8tV1Cw=="

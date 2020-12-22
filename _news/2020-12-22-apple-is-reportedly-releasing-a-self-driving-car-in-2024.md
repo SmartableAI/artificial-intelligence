@@ -253,6 +253,22 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 32
+  - title: "Elon Musk Promises You Can Pay For 'Full Self-Driving' Subscription In 2021 Even Though It Won't Really Exist Then"
+    excerpt: "For many Tesla owners and fans, the deceptively-named Full Self-Driving (FSD) system that Tesla CEO Elon Musk has been promising is a very exciting and desirable thing. Of course, it’s also a $ ..."
+    publishedDateTime: 2020-12-22T19:01:00Z
+    webUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969"
+    ampWebUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 22
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pnqlrn8y8nuiwgh49v4p.png"
+        width: 800
+        height: 449
+        isCached: true
 
 secured: "ObY9IG6d+J1xfFSz6pDf2MQ8TNojPBou5BJQ5NgcqcdDH4qVnAvm628sv4WEZFGKbIq9T2xHdwPu4JM/nN8FMWGhv8kdBio9/CwmJEaR/xz8Pf4qxonv5jiwOjpuggrw0Zo10lTrRUqt+FxsEyglZJAof1oobhZM4tih8UxFeqexy0knsFlQeBGWBIYkUKSj1OttIoQamyqukI5EH2LY0Wq8C9KlenCxRfWis9/7MW3e+HvTDc5Mo8qcsBDrA2fjdioJt4X2L2ZC5ee0Hq2ZTz/1WKzlBdD5sQF95Zfh1gdWGZG6qrsfJIbnKt9tS8BtddWHfwZPqzHOpeHjFVZIOzii/QpqUI++OgOoXgBGE7rcoGK5wjcyN6SdEGRGHKtOBntc6MFJ0SiKzUVxqnTkFFSzS2UIQ+5jea9B7amMSROP+c9Bcx2lHHmVSiUDEEMuVAo3Y/SaNPxrf+Zo3ipKAWWWgiDCuXSg8BpJb9FLeif7FiYG0tGwkyh5l7OHhXJJSEjzQ+4QLQ6grttCFPiTvQ==;XaCaO6vYijwB74bXnj7g8w=="
 ---

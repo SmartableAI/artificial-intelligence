@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI-Powered Debt Trading Platform Metechi Raised $5M to Help Brokers Sell Distressed Debt at Scale"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net NEW YORK, Dec. 22, 2020 /PRNewswire/ -- Metechi has raised $5 million in funding for its AI-powered debt trading platform ..."
-publishedDateTime: 2020-12-22T16:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-debt-trading-platform-metechi-raised-5m-to-help-brokers-sell-distressed-debt-at-scale-1029914591"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-debt-trading-platform-metechi-raised-5m-to-help-brokers-sell-distressed-debt-at-scale-1029914591"
+excerpt: "NEW YORK, Dec. 22, 2020 /PRNewswire/ -- Metechi has raised $5 million in funding for its AI-powered debt trading platform that ... optimize the bidding process and control every deal from start to finish. Brokers grant buyers access to secure data ..."
+publishedDateTime: 2020-12-22T18:36:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-powered-debt-trading-platform-metechi-raised-5m-to-help-brokers-sell-distressed-debt-at/article_66be4837-1d8a-5f6d-8bfa-e8bbf21eb50e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-powered-debt-trading-platform-metechi-raised-5m-to-help-brokers-sell-distressed-debt-at/article_66be4837-1d8a-5f6d-8bfa-e8bbf21eb50e.html"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-secured: "rZZRBe7bhW1zsid3VtAysu5MVCEXhS2JpdarWNlENr/pXQ6rCinBlVVCDU33I3Fky82+CVkanp/8q3+YsXfw+aY3Cl4z6Ov6dNRrmBoeedmVaF/tEZTudzt/nY8DKKIv4TlvKD7/pxL6eo1MlAAiRh9xL61JqkGhjpc8cX1VnhiB9udI7xIfRGVsWgH3VCx9LJjRJYIDYf6DdBhDLbTti9fMcKJgUCqentZN8Ph7a8XZLHXP8vwCii//dQPAUjR89FQTNK8t5vn2cfz0aHaH4nNVf7FD47TzMSrbqqizJkE3u7WXzGFGvi6XS7ERlWFs/sQohwo7L1yB2x7Tstlgd1G8ZeNIBSfZU1SHLl6IY0k=;D6aGIpbnFgiYW+8Y0w3JKw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "wdKnkvK0VeKlc1sMAiC4injsWE0ODwxh5cJ0NZyRh3kb337rIUvw5G1eFWx8TghYz8/5nGW6q/GsJvKx62kNKsjTVR7U/Y+oOlxvNSzmT9OlkzMRzOMawNE+CuZk78+37t9WMwaj5hfdOZILVvDGSsefL9P2ClsfjWAcPeC/xwdd5e5XRbkQKtr1ASTYWaf2FsS4dYR9fcUEalv8kaiGKFk0YJvt26Xd2dQG9tfqJt3K3DVfJKWO+M7SZOx+h639+d4KMDpYRltCu7qp8TjTfiJA4dmo3uGLbv8uw8V8fGUfr8yDYfrrF7K3QSF7KQcPLOeOQt89nRvLlFW/qr747nq+jvD6tRLAW97vdA8aIzI=;LNSK+sZRPRaMhiKVg14nOg=="
 ---
 

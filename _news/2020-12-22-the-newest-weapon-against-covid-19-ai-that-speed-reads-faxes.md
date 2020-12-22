@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forecast 2021: Artificial Intelligence during COVID and beyond"
-    excerpt: "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,"
-    publishedDateTime: 2020-12-18T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg"
-        width: 960
-        height: 601
-        isCached: true
   - title: "Why Covid Will Make AI Go Mainstream In 2021: Top 3 Trends For Enterprises"
     excerpt: "Artificial Intelligence will transform the future of Pharma Drug Discovery, Work from Home, and Edge Computing in 2021. Find out why this will be the year when AI sees widespread use across industries."
     publishedDateTime: 2020-12-21T11:50:00Z
@@ -77,20 +61,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9-1.jpg"
         width: 1758
         height: 1061
-        isCached: true
-  - title: "AI, Machine Learning Tools Help Predict COVID-19 Outcomes"
-    excerpt: "As cases soar across the country, researchers are leveraging the power of artificial intelligence and machine learning to predict COVID-19 outcomes."
-    publishedDateTime: 2020-12-21T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-predict-covid-19-outcomes"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "5//zlrecEdL1LUOiyezcc0DScF04CWDeldNZiJbCHTVWbpIjHnaTJ3LP730mNB7rHJhaHSjAGhkRuHF7L02AvydOb64K72hQAtR8wl/9c+KOeNrlKFlg1drbvxtII4cGKxVcj+uXT4VdFz66w988Q6R2NJcDKC2MUvLXdKS4fV0J10FPkSUlKt6xuodHmlagotKkilELpQ5Y02yumt6J2WaIrmXnYY70h3S52ADRA70yLHcUIjyv11b2lR16nhHppaYK8t3QPQxv6eYBzrPuQnhnq8Jzc+zKvzMPsMmhudyBmmRD5Xw94LU60L7ULHOhBXUqn4eMwzOLzVUSYIDOrf5clLHj8PlBWSN7lYQ4uoY2eAQOZoy1M6YGxd1C5a75K4JBkv8zX9/xJsdVJNPi9t7bdnkYb82/WPuwEVyLxk1vj+crsEYRIsmW+5G+4LKwn42W2+/v7vhVRar9dulzoqkdGZeju6PDobX8NW5iT0J6ASgTCE7zie2KJaSXYM3tDiIQxySSI2aAFVRu/Xo8rQ==;qbN0umHTSwyGQ0ZK/v0w4Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-ale
 webUrl: "https://ipvm.com/reports/alibaba-uyghur"
 type: article
 quality: 139
-heat: 289
+heat: 259
 published: true
 
 provider:
@@ -88,38 +88,6 @@ related:
       - url: "https://www.qrcodepress.com/wp-content/uploads/2020/12/Alibaba-facial-recognition-faces-technology.jpg"
         width: 845
         height: 460
-        isCached: true
-  - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority, Report Shows"
-    excerpt: "SHANGHAI - Technology giant Alibaba Group Holding Ltd. has facial recognition technology that can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report. Alibaba itself said it was dismayed a unit ..."
-    publishedDateTime: 2020-12-18T03:09:00Z
-    webUrl: "https://www.voanews.com/east-asia-pacific/voa-news-china/alibaba-facial-recognition-tech-specifically-picks-out-uighur"
-    ampWebUrl: "https://www.voanews.com/east-asia-pacific/voa-news-china/alibaba-facial-recognition-tech-specifically-picks-out-uighur?amp"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/east-asia-pacific/voa-news-china/alibaba-facial-recognition-tech-specifically-picks-out-uighur?amp"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 54
-    images:
-      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-12/2020-12-17T055451Z_1389166760_RC2TOK9THUO5_RTRMADP_3_ALIBABA-SURVEILLANCE.JPG"
-        width: 3111
-        height: 2074
-        isCached: true
-  - title: "China’s Alibaba ‘Dismayed’ By Uighur Facial-recognition Software – Jaweb"
-    excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country’s Muslim Uighur minority."
-    publishedDateTime: 2020-12-18T04:40:00Z
-    webUrl: "https://elmoudjaweb.com/chinas-alibaba-dismayed-by-uighur-facial-recognition-software-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/chinas-alibaba-dismayed-by-uighur-facial-recognition-software-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/chinas-alibaba-dismayed-by-uighur-facial-recognition-software-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 43
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Chinas-Alibaba-‘Dismayed-By-Uighur-Facial-recognition-Software-–-Jaweb.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Alibaba criticised for racial profiling through facial recognition"
     excerpt: "Chinese e-commerce giant Alibaba has developed facial recognition technology trained to detect members of China's Uyghur minority in videos. In a report published on Wednesday, US-based surveillance industry publication IPVM said that it found details of a digital 'alarm' on the website of Alibaba's cloud unit."
@@ -206,20 +174,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/18/w600X390/2017-05-19T024552Z_2_LYNXNPED4I02C_RTROPTP_3_CHINA-INVESTMENT-ISRAEL.JPG"
         width: 600
         height: 390
-        isCached: true
-  - title: "China's Alibaba 'Dismayed' By Uighur Facial-recognition Software"
-    excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
-    publishedDateTime: 2020-12-18T04:13:00Z
-    webUrl: "https://www.ibtimes.com/chinas-alibaba-dismayed-uighur-facial-recognition-software-3104958"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/17/the-uighur-issue-looms-as-a-worrying-threat.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Alibaba Seeks to Distance Itself from Uighur Facial-Recognition Software"
     excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is that Aibo a good dog? Sony to review ethics of all AI products"
+    excerpt: "But even as it increases convenience, AI could unintentionally employ discriminatory algorithms, leading to embarrassing problems. Sony will start screening its AI-infused products for ethical risks as early as spring,"
+    publishedDateTime: 2020-12-22T09:09:00Z
+    webUrl: "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F3%252F1%252F31381362-3-eng-GB%252FCropped-1608663127AIBO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Sony to review ethics of AI products to avoid social bias"
     excerpt: "Sony will start screening its products that use artificial intelligence for ethical risks as early as spring 2021, Nikkei has learned. If a product is deemed ethically inappropriate, the company will either improve the product or halt its development."
     publishedDateTime: 2020-12-22T09:09:00Z
