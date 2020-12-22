@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
 type: article
 quality: 75
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Segmentation and Analysis by Recent Trends Development and Growth Factors by Regions Overview to 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of ..."
-    publishedDateTime: 2020-12-17T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-segmentation-and-analysis-by-recent-trends-development-and-growth-factors-by-regions-overview-to-2023-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

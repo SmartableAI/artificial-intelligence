@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024"
+    excerpt: "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology."
+    publishedDateTime: 2020-12-22T01:07:00Z
+    webUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693"
+    ampWebUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hqqi6njbxxweyncc7jwi.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Your Car Buying Experience In An Era Of Self-Driving Cars"
     excerpt: "Here's how car buying will change in an era of self-driving cars, including a marked dual focus on personal use and ridesharing use for that vaunted purchase."
     publishedDateTime: 2020-12-17T16:30:00Z
@@ -36,22 +52,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdacb6584c4899af831f4ac%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Self-Driving Cars And The Polanyi Paradox Of Knowing Versus Telling"
-    excerpt: "Questioning the act of knowing and the act of telling, which comes up for humans, animals, and ... [+] self-driving cars. We can know more than we can tell. That’s an assertion made by philosopher Michael Polanyi in his 1966 book entitled The Tacit ..."
-    publishedDateTime: 2020-12-20T16:35:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdd3ae5d1bf9ff470ffd053%2F0x0.jpg%3FcropX1%3D466%26cropX2%3D5504%26cropY1%3D9%26cropY2%3D3895"
-        width: 1200
-        height: 926
         isCached: true
   - title: "Apple Aims to Build Self-Driving Car: Report"
     excerpt: "Get Report is planning to produce a passenger vehicle in 2024 that has both self-driving technology and uses Apple’s own battery technology, according to a published report. Reuters reported Monday, citing people familiar with the matter,"
@@ -69,51 +69,51 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Motorists in self-driving cars will not be legally liable for accidents"
-    excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
-    publishedDateTime: 2020-12-18T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+  - title: "Apple reportedly plans production of electric car in 2024"
+    excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
+    publishedDateTime: 2020-12-21T23:18:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
     type: article
     provider:
       name: The Daily Telegraph
       domain: telegraph.co.uk
     quality: 44
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/TELEMMGLPICT000246281323_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/21/TELEMMGLPICT000190616575_trans_NvBQzQNjv4BqdNLuJDSj-bduoIdVkVeVwdhwat7RjkF5CleLcJsFAQc.jpeg"
         width: 2501
         height: 1563
         isCached: true
-  - title: "Self-driving car owners will NOT face crash blame for accidents, experts say"
-    excerpt: "Drivers will be renamed 'users-in-charge' when automated vehicles hit UK roads and will not be criminally liable if there is a crash, Government law experts have proposed in a new report."
-    publishedDateTime: 2020-12-18T00:21:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9065865/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9065865/amp/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9065865/amp/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
+  - title: "Apple sets 2024 deadline to build a self-driving electric car"
+    excerpt: "Watch out, Detroit— tech giant Apple is putting its plans for a self-driving electric car into high gear. The maker of the iPhone has set a goal of 2024 to produce a passenger vehicle — complete"
+    publishedDateTime: 2020-12-21T21:33:00Z
+    webUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/"
+    ampWebUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 41
+      name: New York Post
+      domain: nypost.com
+    quality: 44
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/18/00/36988390-0-image-a-35_1608250821801.jpg"
-        width: 636
-        height: 382
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/apple-self-driving-car.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "You can now hail a self-driving car on select routes in Sejong City"
-    excerpt: "Kakao Mobility is offering self-driving vehicle rides near the government complex in Sejong City, with users able to reserve a car via a mobile app, the company said Sunday."
-    publishedDateTime: 2020-12-20T08:48:00Z
-    webUrl: "https://koreajoongangdaily.joins.com/2020/12/20/business/tech/Kakao-Mobility-autonomous-vehicle-selfdriving/20201220163300457.html"
+  - title: "Report: Apple aims to get its self-driving car on the road by 2024"
+    excerpt: "Apple Inc. is aiming to produce an electric car by 2024 and it may feature a “breakthrough” battery design that makes it cheaper to run and gives it longer range that existing vehicles of its type. That’s according to an exclusive report in Reuters today,"
+    publishedDateTime: 2020-12-22T02:15:00Z
+    webUrl: "https://siliconangle.com/2020/12/21/report-apple-aims-get-self-driving-car-road-2024/"
     type: article
     provider:
-      name: joongang
-      domain: joins.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://koreajoongangdaily.joins.com/data/photo/2020/12/20/cadbde55-c8b0-44b4-b3c1-4259559daf87.jpg"
-        width: 560
-        height: 373
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/26251083984_405189cae1_o.jpg"
+        width: 640
+        height: 400
         isCached: true
   - title: "How Google's Self-Driving Car Will Change Everything"
     excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
@@ -129,6 +129,20 @@ related:
         width: 680
         height: 440
         isCached: true
+  - title: "Moving from self-driving passenger vehicles to safer cargo transport"
+    excerpt: "A year ago, most of the buzz around autonomous vehicles centered on passenger-carrying robotaxis. The COVID-19 pandemic temporarily grounded several AV test fleets. But it also brought new attention to the potential of using autonomous technology for transporting not just people,"
+    publishedDateTime: 2020-12-21T00:00:00Z
+    webUrl: "https://www.autonews.com/shift/moving-self-driving-passenger-vehicles-safer-cargo-transport"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Remember Apple's self-driving car? Report says it's coming in 2024"
     excerpt: "Unlike #Waymo's and #Zoox's plans for #robotaxis, #Apple is reportedly planning to produce a mass-market #selfdriving electric consumer vehicle. #SiliconValley #tech #autotech #automotive"
     publishedDateTime: 2020-12-21T19:25:00Z
@@ -140,6 +154,59 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
+    excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
+    publishedDateTime: 2020-12-21T21:09:00Z
+    webUrl: "https://www.greencarreports.com/news/1130736_electric-self-driving-apple-car-reportedly-to-use-next-level-battery-tech-in-2024"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 19
+    images:
+      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
+        width: 1632
+        height: 1188
+        isCached: true
+  - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
+    excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
+    publishedDateTime: 2020-12-19T10:06:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/technology-business-corporate-news-driverless-cars-products-and-services-c9abc89743d025392e40e7f409d4c5b7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Apple's Self-Driving Car Could Be in Production as Soon as 2024 — Reuters"
+    excerpt: "Reuters. -- A key component of the project, which the iPhone maker hasn't yet been made public, is the battery design that is said could reduce costs and increase vehicle range, according to an unidentified source."
+    publishedDateTime: 2020-12-21T15:41:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202012219190/apples-self-driving-car-could-be-in-production-as-soon-as-2024-reuters"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 3
+  - title: "Apple 'plans to develop self-driving passenger car by 2024 and eyes breakthrough monocell battery technology to extend its range before it needs to be recharged'"
+    excerpt: "Apple is moving forward with self-driving car technology, targeting 2024 to produce a passenger vehicle. The car reportedly will be powered by breakthrough 'monocell' battery technology."
+    publishedDateTime: 2020-12-21T21:41:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9076953/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/21/20/36181330-0-image-a-2_1608584361624.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "JQC2eC5IoMZq/Ihd7HqAaeDSbSdYgdv8cz8U3vkAUoYCpW6F18KHUvv2gawzGhBr9CTTcmW4ZzTHJhD2/f/FLTwyoLSCy0xPyqCFWFP54hNtR4eAs51ZeoxlBRkO7lJGuNxmf24en1/pAI1K8PYzrmDuTWMJwNeLzHpvvvmYKYp04+7VuxiLwG28AY04pLT1VmgXjiHX57Rj/Akzc8nKRMIiDfHzF62k5nRDUPmwCtFbLrz3OfvLUZmj6UIguEQnHC3szzTCkS47ZIN3CquVf1antjEubGZuD6VcOnNeor+7OU/q4hlzvUM8ulmhsmABJiZR58ADEh5etY/6zAlU5TG9ccAUxFdyP2Dvwj5cdf4=;wwm0TEKaIA1GAFysL/fGlQ=="
 ---

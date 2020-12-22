@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-digitizati
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-digitization-engineering-artificial-intelligence-computing-and-information-technology-831586184444848ea9b21289ea23e974"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wovenware named IDC Innovator for Artificial Intelligence services"
-    excerpt: "Wovenware, a nearshore provider of Artificial Intelligence (AI) and digital transformation solutions, announced it has been named an IDC Innovator, described as"
-    publishedDateTime: 2020-12-17T09:16:00Z
-    webUrl: "https://newsismybusiness.com/wovenware-named-idc-innovator-for-artificial-intelligence-services/"
-    type: article
-    provider:
-      name: Business
-      domain: newsismybusiness.com
-    quality: 39
-    images:
-      - url: "https://newsismybusiness.com/wp-content/uploads/2020/01/Artificial-Intelligence.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Marlabs recognized as an Established solutions provider for AI engineering and IoT Services in Zinnov Zones 2020"
     excerpt: "Marlabs, a leading Digital Solutions & Services company has been recognized as an 'Established and Niche' technology service provider for"
     publishedDateTime: 2020-12-17T22:24:00Z

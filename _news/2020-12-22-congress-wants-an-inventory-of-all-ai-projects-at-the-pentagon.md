@@ -2,17 +2,17 @@
 category: news
 title: "Congress wants an inventory of all AI projects at the Pentagon"
 excerpt: "The director of the Joint Artificial Intelligence Center has 120 days to detail every AI project underway at DoD."
-publishedDateTime: 2020-12-21T23:54:00Z
-originalUrl: "https://www.armytimes.com/artificial-intelligence/2020/12/21/congress-wants-an-inventory-of-all-ai-projects-at-the-pentagon/"
-webUrl: "https://www.armytimes.com/artificial-intelligence/2020/12/21/congress-wants-an-inventory-of-all-ai-projects-at-the-pentagon/"
+publishedDateTime: 2020-12-22T01:35:00Z
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2020/12/21/congress-wants-an-inventory-of-all-ai-projects-at-the-pentagon/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2020/12/21/congress-wants-an-inventory-of-all-ai-projects-at-the-pentagon/"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "H4vd35CAo+SyR3rQueCWpwi9Dx5BU3lNf2/U5+eZRLIlvSWuhVTcs6zUkkaw2Niw7ltDfZflTToGhlBPw00EFehLaB4JAXhFLeu8z5rfCa+Qt+8u5vg48dS5LULywsVc/sFLoA3fYfUsWKpjaiXYSDQ6b8yNjmjFOIYEbo+xLBDcidC5hhlan7qvmbkUJUAUR3cxlAqyUSz+LZ3EzPj4jB1jqoR6DDKMVRRHp/UnNcztfoN3Aw4aSmTTwgPGZoP2Snttl6yyB7OXl07dkAKweAvIxkEjZT5rQE6pYP9bQTD2qjtJjOm1+URZFvZZLCwZJ8LlM8bq/oJ3qACnwSdhAlr0YRyik/f3/zMhFDynVWk=;2MRuoFRQHtxBAGjCH42ehw=="
+secured: "2q6f2qQxpA1+gjrQQMOAQMTq3G6QIQiCssnR/sz/QGbRja5I4Ujdi+humN8AolHhRovAdSnJFOmyl+0zlDlUY6mvLw68rGRyAR0kV7hHhtH5o4HjDl4GV3+SKuvqBzlrtiVKpQI1ZwEZ+8JlRlG+G2PtoN1zCnxsUY/KejT519miJ0Vmw0ZgoxxjtrT0MC0TEp42HqKY1WQDPFSpHbDcQyolyZskL7gxVqeMPCBjKYPr12mV4vtDSy68JFN+clRbKq15T0TR7ZCdiFqcX/a11mRf2NgspDqCu5Q3hYE43nw/yWiCtSaKW/Xi2IUe0Vrt6ovrv2s12/AEbJqLWcEia3WvbIbLqsHlRYFKo/mB4i8=;VcRGAZpwhvi9EyjGlRneqg=="
 ---
 

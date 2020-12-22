@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "LG announces UCV-light disinfecting robot"
-    excerpt: "The robot, which is aimed at hospitality, education, corporate, retail, restaurant, and transportation customers, will be unveiled at the upcoming Digital CES and go on sale early next year."
-    publishedDateTime: 2020-12-17T10:58:00Z
-    webUrl: "https://www.avinteractive.com/news/covid-19/lg-announces-autonomous-robot-disinfecting-uv-light-17-12-2020/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 39
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/12/LG-UVC-Robot_620x3301.jpg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "LG Announces Autonomous Disinfecting Robots"
     excerpt: "Newest addition to LG’s Cloi family of robots will help retailers deliver peace of mind. Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep ..."
     publishedDateTime: 2020-12-21T14:05:00Z

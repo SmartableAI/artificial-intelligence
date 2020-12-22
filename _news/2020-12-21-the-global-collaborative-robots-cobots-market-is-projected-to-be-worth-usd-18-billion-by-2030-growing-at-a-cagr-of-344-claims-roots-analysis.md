@@ -36,20 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 1
-  - title: "Advanced Report On Automatic Content Recognition (ACR) Market, Which Is Expected To Reach USD 7,915.7 Mn By 2030 at 17.4% CAGR -Market.Biz"
-    excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Automatic Content Recognition (ACR) Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats,"
-    publishedDateTime: 2020-12-17T09:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-asia-new-products-and-services-4a970bb9c1d64ed3a660b0d52db0b7cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "DK2Zosw4f4Bt7FWm69x1vVgtp2MSssaLPCd1JubBIDfURpWmgyzgwnt96tG7fGNXUF8EBPq7ClcRocktZ4ORwPZllrciX7Z2lPSQtiP8z1V0uM8XER4N2KyOnyYB+MxMTkb9RbNnFaIHLhxVBhDhIvc2AWpaPhl1Yu48HlMyYZJ/m7Y+uUEQqcRaZglKwUzYxSv3XeZbgW4Iqn+TF5GyO7xdUhBYNEzNS6VvdGaZV2e3icEz5voQ22en1OKHehHgVZ6f0zo+2g0qn01oXRckYEbm6Dgiu3irIe1sOQOUgNDna1y4c0scjvo8YQGC3MFvmG3S+jNoyhkCsqdf6iq+phgoFbDTYTAR8KNtquhOLE0=;DeEt+YBTCiGIFKcc9bhMPw=="
 ---

@@ -62,6 +62,20 @@ related:
         width: 2760
         height: 1725
         isCached: true
+  - title: "Artificial Intelligence Used as Co-Pilot for Autonomous U.S. Air Force U-2 Spy Plane Flight"
+    excerpt: "In what the U.S. Air Force said was the first time artificial intelligence (AI) has commanded a military system, an AI algorithm helped to steer the radar of a Lockheed Martin U-2 reconnaissance aircraft and navigate the plane in a Dec."
+    publishedDateTime: 2020-12-21T17:15:00Z
+    webUrl: "https://www.aviationtoday.com/2020/12/21/artificial-intelligence-used-co-pilot-autonomous-u-s-air-force-u-2-spy-plane-flight/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 42
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2020/12/u2-new.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "dK95qTKshGmXBzjMCsUP+PtNwYNsmE/wTB3w7QelmTfRAVTmOw008ggEr57otaRSBIBa0ZjCiucS9/RLp6pPy9HJYPxO7O21q++Dm8SAhK1+mfQFX2SxikRMOD1dGp4fadKy53Cgkasu2O0P1SWCAUKprinMqeHsXj7glfSEAmxoqIYVg0xTz1ukgdOf3wOVh2pxUiy/1R+aagnHiF3CDut8I2QVjYYhSswbYc/WmpiW0NO1RDRWVt8i8akLaLjohRmzOJYc6U13cj99PddOltdI/2YaQRd94sroib6X28NKJAll8T3ecO6/q8J2A5j61DuEbELsiBxBL5um7v1MxQmZ+/8HvM5pQmYPeFwTsLJmZQ2Vtz+aCOHeDcKyczAxD4liObwJ8z0LROssOCGeIDqYF9/X/dkT1ThUEqN6gIMUfESMR73JtcQKx1gDLb4qKOQS1Mq7iaLWfW7ciYlTD/sitZpdHUBCFZhoLptXRhJHulZd3CGLa4G3Vyi7g/N2rPE26UftH8xosvXJ/MScrg==;jJf0PD2E6HbCoNl2Spwr7Q=="
 ---

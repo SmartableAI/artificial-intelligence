@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/Artu_trans_NvBQzQNjv4BqBmo3ZBPOSwC7GqRZsuXAwPz7VF_eVkNHHJ3r8hY6kQM.jpg"
         width: 2760
         height: 1725
+        isCached: true
+  - title: "Artificial Intelligence Used as Co-Pilot for Autonomous U.S. Air Force U-2 Spy Plane Flight"
+    excerpt: "In what the U.S. Air Force said was the first time artificial intelligence (AI) has commanded a military system, an AI algorithm helped to steer the radar of a Lockheed Martin U-2 reconnaissance aircraft and navigate the plane in a Dec."
+    publishedDateTime: 2020-12-21T17:15:00Z
+    webUrl: "https://www.aviationtoday.com/2020/12/21/artificial-intelligence-used-co-pilot-autonomous-u-s-air-force-u-2-spy-plane-flight/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 42
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2020/12/u2-new.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "bhYDOIk2lwsuDacrWkXwqgXPHZKZVZCQjAoSpauTd83cLsCwmpfouibpneqRaVAnFlWhGRlJdzti9etmcUImCwS4ELw/TKfPzblh1QdcgCVYJ8j45MIpqqIjx2/Ie1mAnBbc8EaK+UYOvurealFDWKQuBPw/i2wHzUe3bfMmzfVnGXoTMeEQfQmxCmurj+DQI5+0qKvsd781zmHiGCFLRwqjrwAcbvDbkrCED3jOFcx7tD5ap+1M5Ww7eCpBp51V2TP1CQfphdRX+V+1DfyBNAMLqk/o/sSKt3EwhFApz3W1qMCHWleMK5G4eP1Qw6a83utSw3YnbBxqoi15oRjQR3KyNjEf7KWv57dKT/NUALd/a5AKFdM7hnS+TabtJ2/0ot41jla6V5RMc9zVmU0sPTKR+vTTgBzHj/Eg/jURWa4EknOk9zMciURefVxErEXb2RxdYynBdpx0wX+TohlFcfO6cewdKzBwaXbOG6MlYJaQBURuxpKPPvblQDSNxdGc47zyH7HdDn/ppneRuwNexw==;WuNG6/FfiG7AeKgzS4grIw=="

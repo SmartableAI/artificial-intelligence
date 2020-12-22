@@ -18,22 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
-    excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
-    publishedDateTime: 2020-12-19T10:06:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-business-corporate-news-driverless-cars-products-and-services-c9abc89743d025392e40e7f409d4c5b7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "lTaxe0LKaXliSfmMfsYOWpN1MqCZ/o/pFz63z2aQEg6duJ2XNmtyfed1EhuKxggexBWQfmzOX+hVo1YbybK3kQTU6DIE8cbbUR/fpSM+qjUQDQL8f+YbBLHXSejMWTOQGN6kQu8M34zk3prvBZM96NxJtLGsdIv4d/q4s5WfRIaRycbzf03PhjfQXCKsMLO6MXJZ/5IbsUIHy+Jv5otbQcyAqez/hJKwOeIYenzKva1lqO1dZXVnqj3R+Zu/EgLX7mU/yuLsh+wzSgnsUUO1yKBzSgQfGDDpAO2xacVcRsaih3Rr3NNPvxQqigjZ11R8j9v6pRm0veHJpj+5ze35P0+LGhjoocaaektHfnIGAqYVRlY2VqvFidp8ym5mPqrTU7SeAFUZuwISzegx20qBMKK1NtJcLxQLJ98R3li6m2BkpHs8HW2dajNRIkRtYuO7pHLZZqrViS34wopWfHMxz2XDebxga9iralCqESky1VmmlyB0jAvu9hEj5j94a+mswLTwMvH340NFk9aCRBIeXQ==;lfCtaZ0w84O9pl9/40YFjw=="
 ---
 

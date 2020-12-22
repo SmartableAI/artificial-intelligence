@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "Digital.ai Drives Innovation in AI-Powered Value Stream Management with Four New Patents"
-    excerpt: "Digital.ai, the creator of the industry’s first intelligent Value Stream Platform, today announced that it has been granted four U.S. patents for advances in AI-powered analytics. The patents represent industry-leading innovations in applying artificial intelligence (AI),"
-    publishedDateTime: 2020-12-17T10:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-21a975372aac423c8da91c5f2f16a7b7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "JsP0AUMexn1jz6XmWdgIBghOp0dsXNr6Tn2O2/5CprwtK8NDOyNMd4uSHUaWrTFsa/nrF3wuCUjUYM4t6iJeseY3umJwX55IJAzHKKWVSODOEpykhumpUmyOinV7C79OaszHfVxQP4YoVensl45jyPu7mMBCaP81/PVrFS7YODN1Bmnowd/0OPxdgqRlPoHHkNk/b0FuJPGyy5sdwxkoqOn/8kI86muzZeV+EtVbGKYC3NbSGvdY62gk1A+uK1T6dPgJKHJB11/2Hjea45ZTt6IWOR0fpNl6g6O9C58P9rqDkUSTNiXOUTufYhSK1U1cQeVgm1EHnMY5q+ipuDw/SSkVPHup/LhFCGcfKfbrNhsWTLh12kaEUbWgMLqW4rx/+pDuzrq3M1qN9tial7seVwlXuHXmOToKi9TcwO277qx1LK1J4miOkijRGytfp+kLr1dDONWayPbcn89y4hGeT3e7UmPuAx2Cs6rQr7dTVogOGEJiizn9kV08xVUNJ1tKar/BgN3mOABHAmbFdzqTFw==;gKqYPgFbetRyfZmgecUQ8A=="
 ---
