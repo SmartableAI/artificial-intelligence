@@ -69,31 +69,17 @@ related:
         width: 1024
         height: 591
         isCached: true
-  - title: "Some Reflections on the Role of Government in Trustworthy AI"
-    excerpt: "BKC Executive Director Urs Gasser delivered a keynote speech at Lanzamiento de la Ética de la Inteligencia Artifical en Colombia (“Launch of Ethics of Artificial Intelligence in Colombia”) about the role governments can play in promoting trustworthy AI systems."
-    publishedDateTime: 2020-12-17T21:21:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-12/some-reflections-role-government-trustworthy-ai"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2020-12/ColombiaEvent.jpg?h=23b8e2ce&itok=VBTQIPae"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "How Manufacturers Can Push Past the AI Tipping Point"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-12-21T13:41:00Z
-    webUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+    excerpt: "Industrial AI needs to know when and where production events happen—for example, to track scrap metal on its journey to becoming a finished coil of steel as it moves through a mill. However many operating technology (OT) systems remain disconnected from ..."
+    publishedDateTime: 2020-12-20T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
         isCached: true

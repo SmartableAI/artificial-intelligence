@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform"
-    excerpt: "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward."
-    publishedDateTime: 2020-12-17T21:52:00Z
-    webUrl: "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
+  - title: "Intel Visual Sensing Controller AI module coming soon to PCs"
+    excerpt: "Intel has introduced a new AI chip that the company says will bring low-power capabilities to laptop computers. The Intel Visual Sensing Controller, code-named “Clover Falls” is what Intel ..."
+    publishedDateTime: 2020-12-18T16:52:00Z
+    webUrl: "https://liliputing.com/2020/12/intel-visual-sensing-controller-ai-module-coming-soon-to-pcs.html"
+    ampWebUrl: "https://liliputing.com/2020/12/intel-visual-sensing-controller-ai-module-coming-soon-to-pcs.html?amp"
+    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/12/intel-visual-sensing-controller-ai-module-coming-soon-to-pcs.html?amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
+      name: Liliputing
+      domain: liliputing.com
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tHasCRNvhLb5akDB52Swkc-1200-80.jpg"
+      - url: "https://liliputing.com/wp-content/uploads/2020/12/intel-evo.jpg"
         width: 1200
-        height: 674
+        height: 800
         isCached: true
 
 secured: "61M8DugyZr62zFWl71mft2k9zwcMI+QmBYR/fVrWbHspNRlB9ICELLL3XFRfMXH2GX/dCVJxSqDE69q0xWcu2YHQRBQZULJxh663TPYhmyzVq7acyIwxQcc9Yv8LVlszlUIWZhIjNJm5VBGiXz7jGdkv6AV2ynmJlR662plW3RkEuOJvTvwPjMIFy6PMSI7nm3Y1xcV/7Jk8Vdl0hsJR7ruF/Dc4jL6vF/2RxIhLQTusd6DEHoRnz79gjoa1XDWrzN/sqQUd5hmu4LmxVHVdOJwAUjCS4bzNJ0TNDh4UoinI90hDf1xOSid/5tjW7GeWBZsrxPtX5YRbGxLxNc9KMgpzH89uIhK6SK4WKELa+PlNQcdS29EHZlFKdcfZVtkRKOHUV6NcNiCNFXkK427tmg1fLhZfyxnnmOLEBYNbyEoCR7x6azDaokTEDn4dqEaC+nSr61c/poYAvNFo5vjMCPp9dJrJzYTX5bx6QSZkFePDKeb6bzZw4RjkdfgNomwaLPN3hf+aAhDB0+damWuPBw==;TFUd6zexinXxsoNp0HErng=="

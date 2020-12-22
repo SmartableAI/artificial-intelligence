@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.livemint.com/img/2020/12/20/600x338/BOLlanguage_1608476832278_1608476840355.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Google invests in Indian start-ups"
+    excerpt: "Google has invested in two Indian start-ups that focus on supplying personalized news and entertainment to smartphones."
+    publishedDateTime: 2020-12-22T14:41:00Z
+    webUrl: "https://www.developingtelecoms.com/telecom-business/telecom-investment-mergers/10489-google-invests-in-indian-start-ups.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 22
+    images:
+      - url: "https://www.developingtelecoms.com/images/stories/People/ian-redpath-omdia-600.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "vTnFBQ85OYGENc2bCs4EHy6OuJb1LzwbK5S6ME05B9+GvQfq5bbwoC49glgYS3GeVRiSNhk6U984j3IqrdUXyehYjD1RFt3hT0FLxd0R88IpFCjXzw9pXYKa1piQ4YtoBkmWtQRI6+fxNgwBDdWSrmWhvZEpotsDWTdZapDIJ2wisBzE9SzQFZJASw44xWN7lVxlaQKsq3dXPGdrLjb8OqyPXVA3g4XNwQ0vGXh+xDzCDhKhdfRU8TSkZWb4lvUrq8xJZmX+R1I6ZBiDsLHvSKYPM+AeT0tg16I2wzmuNeSAk/90q0HT4h/UN08XW31ZWHX1cfK2uu/PXl4SOi63C0TlUouvvrjdNlpP/qtRMqwQOANLIobgXIeKJCZayUMUYJFNBT3iv6oohddus8qFOZ/tPPwybw/sXU3UmRmUi0q1pzDpu+kzcMOC1NrR9OLO29kLfLB6BfR23LiuteIugdGx/sm+E2q6W0HTpuR6a5s1n1f+Mf5YPk8XNGN9N4jhxC94nlizbuVLo4kPOl6F7g==;DGl1F4k7AOvVi3cZxxyjUg=="

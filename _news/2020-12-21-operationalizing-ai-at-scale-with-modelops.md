@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T00:00:00Z
 originalUrl: "https://www.linkedin.com/pulse/operationalizing-ai-scale-modelops-ronald-van-loon"
 webUrl: "https://www.linkedin.com/pulse/operationalizing-ai-scale-modelops-ronald-van-loon"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: LinkedIn

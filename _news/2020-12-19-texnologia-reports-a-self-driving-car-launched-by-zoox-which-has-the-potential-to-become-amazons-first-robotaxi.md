@@ -151,6 +151,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple plans self-driving car 'in 2024 with next-level battery technology'"
+    excerpt: "It has been a bumpy ride for Apple’s Project Titan, but sources suggest a passenger vehicle may not be far off"
+    publishedDateTime: 2020-12-22T01:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology?fbclid=IwAR3p_uGTTujKq8n6DZhSageQTI57XX0fjD3fksEo58UbbeYcGPGq1cDl3Cw"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Report: Apple aims to get its self-driving car on the road by 2024"
     excerpt: "Apple Inc. is aiming to produce an electric car by 2024 and it may feature a “breakthrough” battery design that makes it cheaper to run and gives it longer range that existing vehicles of its type. That’s according to an exclusive report in Reuters today,"
     publishedDateTime: 2020-12-22T02:15:00Z
@@ -165,6 +181,15 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Apple's Self-Driving Car To Debut In 2021"
+    excerpt: "The Apple Car is alive and well. Apple (NASDAQ:AAPL) has announced that its long-awaited self-driving car is still in development and the company expects it to debut in 2021. Apple said back in 2017 that it had been granted permission to test its autonomous vehicle on public roads in California,"
+    publishedDateTime: 2020-12-22T13:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/apples-self-driving-car-to-debut-in-2021-2020-12-22-71974543"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "How Google's Self-Driving Car Will Change Everything"
     excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
     publishedDateTime: 2020-12-19T00:00:00Z
@@ -204,6 +229,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Apple Moves Forward With Plan for Self-Driving Vehicles"
+    excerpt: "Apple is reportedly planning to produce autonomous cars by 2024, using its own breakthrough battery technology."
+    publishedDateTime: 2020-12-22T16:37:00Z
+    webUrl: "https://www.investopedia.com/apple-moves-forward-with-plan-for-self-driving-vehicles-5093423"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 24
+    images:
+      - url: "https://www.investopedia.com/thmb/-Ku8jMQqY1AXhQr-8GOqkG8yQYQ=/400x359/filters:fill(auto,1)/driverless-car-56a5ba855f9b58b7d0de2794.jpg"
+        width: 400
+        height: 359
+        isCached: true
   - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
     excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
     publishedDateTime: 2020-12-21T21:09:00Z

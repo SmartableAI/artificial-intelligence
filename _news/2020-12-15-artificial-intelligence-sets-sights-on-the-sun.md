@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence sets sights on the sun"
-excerpt: "Scientists from the University of Graz and the Kanzelhöhe Solar Observatory (Austria) and their colleagues from the Skolkovo Institute of Science and Technology (Skoltech) developed a new method based on deep learning for stable classification and quantification of image quality in ground-based full-disk solar images."
-publishedDateTime: 2020-12-14T18:35:00Z
-originalUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.html"
-webUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.html"
-ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
+excerpt: "Scientists employed a neural network to learn the characteristics of high-quality images of the ground-based full-disk images of the sun and estimate the deviation of real observations from an ideal reference."
+publishedDateTime: 2020-12-14T16:25:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/sios-ais121420.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/sios-ais121420.php"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-secured: "W5VSF/gI5sqndrV7xSuAYpyttreggXxqOdDI61IIT4nROYBDVXJ9+3YgpzdbmiAO3As0caUaH5MypDmbMZoGIBcFowwoh40T/JABAAWLnn/btdJm2fjjgFOTAfovoLw90mpK5Czqjzv/3ISclp4K0UrwZvgoRT8LSITh2k/l/ptAu2If28LDrTS4szHlVus8XPAMlQWo5/3LCr5YCn0Vh4GQimdWTVicO9uCP13LLM3T0Cbe1b2ZL627Ysb9gVpIr9TTJ4MndBOqZ0BC6WhUZKFTgYmuia9yxnXtwxEw0KmOYl1l0GkBkTZRXv9NYN1Ug02afVsKGxUnk1/l7kJfB9E9jqG4hBu9ZbpKt2M5A3wARL0iRU21NpMNLFV486JCeZADU0QjEpOlS4FQxLKw2uBZROoQlA7H4v45AQwq2Pj8KKpjGU01b1Wd3Q+tkWMwaiAoHt4rllZAmclAvjrSMjNQnQEDuNcnqXoMMM6OKbbZ9JNCcNpTEBt8bGmZf8ygzDdGYdR03Gh9UhfCt+IajQ==;pfRdC7F1UYBck5eAbH3PaQ=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "wfhFOpgCDr6XF8ks01Mj6fmLNgOJegIgf3tQY70Nh7e0f5POedPgLV8aahLW84rUM+SJTW9wU3L38aXxs/PAjtpZ03XDs7XwUSFecMe9hDTKfG7H0KJdESdUeeEZgZs25Q5tFCou0bdUWR19XpDwv1AGydBCDiGglTgHB3FWR0u2HgteKOrQ/6xExVrj7GXpAzfdf89iHk3WwG5Qqy5y2pS0IBYHlGr5s4WuC/5/huyH/+dIloba9agR/FTm256QPhHp57hVpNm8f7rsyXWL36GJj+yvtsdqMSSOXL7/UnoKUhwxwXcf4EYyqPCZqunNwMcy+yvuTBPbQvscPi5wTksm9oFLweYXsoOj8akw4uo=;zeNuEtPN2B3TERwrqwuPrA=="
 ---
 

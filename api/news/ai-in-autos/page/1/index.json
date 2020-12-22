@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-22-10-ai-predictions-for-2021.md",
+      "title": "10 AI Predictions For 2021",
+      "excerpt": "4. One of the leading AI chip startups will be acquired by a major semiconductor company for over $2B. Silicon chips purpose-built for AI workloads are the future of the semiconductor industry. Intel’s $2 billion acquisition of Habana Labs last year was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe105376eeb6a87ecd36aae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D976%26cropY1%3D0%26cropY2%3D549",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/",
+      "publishedDateTime": "2020-12-22T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-ouster-maker-of-self-driving-tech-agrees-19-bln-deal-to-go-public.md",
       "title": "Ouster, maker of self-driving tech, agrees $1.9 bln deal to go public",
       "excerpt": "(Reuters) - Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp. The deal values ...",
@@ -62,7 +116,7 @@
       "originalUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -114,7 +168,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -218,7 +272,7 @@
       "originalUrl": "https://seekingalpha.com/article/4395453-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1417,49 +1471,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-the-apple-car-is-now-officially-an-artificial-intelligence-project.md",
-      "title": "The Apple Car Is Now Officially an Artificial Intelligence Project",
-      "excerpt": "This fall has seen a fantastic array of new products from Apple, ranging from new Apple Watches and iPads to the 5G iPhone 12 lineup to the insanely",
-      "sourceUrl": null,
-      "webUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
-      "originalUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/10/19102529/Apple-Concept-Car-2.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
-      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
-      "publishedDateTime": "2020-12-09T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iDrop News",
-        "domain": "idropnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

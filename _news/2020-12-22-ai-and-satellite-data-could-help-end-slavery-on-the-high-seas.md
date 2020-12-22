@@ -9,7 +9,7 @@ ampWebUrl: "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-sla
 cdnAmpWebUrl: "https://earther-gizmodo-com.cdn.ampproject.org/c/s/earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Thousands of ocean fishing boats could be using forced labor – we used AI and satellite data to find them"
+    excerpt: "Fishing on the high seas is a bit of a mystery, economically speaking. These areas of open ocean beyond the territorial jurisdiction of any nation are generally considered high-effort, low-payoff fishing grounds,"
+    publishedDateTime: 2020-12-22T13:56:00Z
+    webUrl: "https://phys.org/news/2020-12-thousands-ocean-fishing-boats-labor.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 0
 
 secured: "ZpidWWbi0P28TqSU7GceyaYHwg6qbyZqsc0QuBQzgNo8fZTZq4UVs5mkSeeGBFg5qHC4Vw3T3iW8UyGTMF9zDbeE13g2tKZKztrNe+ORQZmUmzzN1qAhMY0rlVDjkNqUxF6OgXNLUmYbZmtXUXnYcwqEUx6ShwrENM5PxDJZi+fC6ASiuI9ucwfqjQyL4zlc2ifwRUdXWTzDzo2JER5UI2SiUbDpzBCXfRrfJ7uLmnKykCOGzu97bsk6nmsSOdOaLF/CFBgLRmE9M4MPkIX624oYZbev1M2sJL1mDgzsqlFhou+O4XZ1NYNYTuoVc4CY2bdiTfJbAFpm8+T2NvRedrNQ6A7iA5qFn2teffPHi3KXnuO/lPRtx/n2+8IcCO+SvtWrjryoP3FpSMmgPqvj8x3HQ0WtY3TMRQXAaGVyPhfWmO89KQ4vl8Nd4oSh4OT2XvD0wfhcrVBKMVV+kH+HCe4AQMNirI8fKNfWVfZlLXzr77G4jByonsLQqso/xODU+iTMVkmuf7Wqn5e56ZX5ew==;YFRPkqK2ZqsVgzD4frW6Yw=="
 ---

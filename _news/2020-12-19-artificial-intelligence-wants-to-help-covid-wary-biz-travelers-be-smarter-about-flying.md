@@ -25,6 +25,17 @@ images:
     height: 911
     isCached: true
 
+related:
+  - title: "Hyro Unveils Conversational AI Solution to Help Hospitals Avoid Being Overwhelmed by Patients Seeking COVID-19 Vaccinations"
+    excerpt: "PRNewswire/ -- Hyro, developer of plug-and-play conversational artificial-intelligence (AI) solutions, today announced it has begun equipping U.S."
+    publishedDateTime: 2020-12-22T13:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hyro-unveils-conversational-ai-solution-to-help-hospitals-avoid-being-overwhelmed-by-patients-seeking-covid-19-vaccinations-301197312.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+
 secured: "gW1lAtb0xkKpGC+H4KSOetZjYPetV685RukEbuQd1rP+t3GzwcIr9vnLnAMxgej6HC+hgh5paJF9wxe9xU2wDUIdiy8hlXOuAgoF/0vFZromxFg2qCZiAnaJLpIvX8agxtGBOaP0oI+VjpGgGtnwKEB0y4+63kaR5c3NAlZBYL0CUU6GPDmnj3wCCxX6I+grhC0cbyvxZudbV2exUEcKINU44da98hdjDNX9GpbiLT504Fxx6i5iTdlZ16h2S+q+RAobq5h1WKdHNmAXPFuLQWCbnSKLyrltRL0EETp7BfFQraV+lieaNfDpAcxHhme1AFktCK/TlbT79X6VXmlVkWMdWuX8y84eGSimuv9VtLlOEWTZwC5I/gtC9RhvHI092QoKjPRmjnM0ptGEFfgjR1nw0oYzASkPJv3F3IMpYKMo9GT5U/E+K4rdT7K1GJjukEMg8mRELHrIYsYHbUjzv6TYJMKleplyrNGWYe17nf1VGq0QVlKvfe++lhpxLjAIgz22fIQ5WSD7SN/EaU4/iA==;oPl8VltTLfEUcr/+EQg6tg=="
 ---
 

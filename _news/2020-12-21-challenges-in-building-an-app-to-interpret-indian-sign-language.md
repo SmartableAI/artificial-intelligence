@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Google invests in Indian start-ups"
+    excerpt: "Google has invested in two Indian start-ups that focus on supplying personalized news and entertainment to smartphones."
+    publishedDateTime: 2020-12-22T14:41:00Z
+    webUrl: "https://www.developingtelecoms.com/telecom-business/telecom-investment-mergers/10489-google-invests-in-indian-start-ups.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 22
+    images:
+      - url: "https://www.developingtelecoms.com/images/stories/People/ian-redpath-omdia-600.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "3+AzydP6GFrTts/DSWzpuW09kOtKgEeT+g2k537x7aWPsZP+bc35dYvdk8LLdh9EN1DWyVgD5b3RcMrPRbcwOtu3FpejTg6SKrGAKUTr9s88MtmnET25h7YFXWTCfHNWyi4fecXM70FtCcihsHEoK+tJviIPy4LpfTLhBJjS+cxCxrum4xgX1u9Q9ESbEQeA1M0Nku9PCWZRfDFSaVtRXh3uZo/I3wtrH29eUKwnKOLyQ65GTBGEIuCK4ndPZTLgcW821uYsY8A3d1vo6eUhAJtD+qis4Gh7xgUPkOpATXdrYUphZSAgJko0Ib+oo6k8+yIo9jb7hip2uERZ3SgSx607c5Ra0d+qXcelTQgm1xuEUiBZw0gyi0nEY3jAdmedvpxGsP1+V1ZPghsP6DIKUOqsMUV91rTK5ecbciy7tL1XM2yR4wn17AKxuk5lWa0UO9fYbIbdQhdCYj1HrikyJZfd03dAB5EYJJW/OPq1rMno2qn+sNs25QHUwW6SjSQHfsFlf1v29lPTFeqUgdYwtg==;GBlnsav+YSte2mc3/BpcqQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Massachusetts Passes Bill With Facial Recognition Rules"
+    excerpt: "Gov. Charlie Baker’s office said he’d sign a massive police reform bill after the Massachusetts Senate made a series of concessions, including regulations allowing use of facial recognition technology in limited cases."
+    publishedDateTime: 2020-12-22T16:48:00Z
+    webUrl: "https://www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial-Recognition-Rules.html"
+    ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial-Recognition-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial-Recognition-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Do I know you? Researchers evaluate how masks disrupt facial perception"
     excerpt: "The identification of people wearing masks has often presented a unique challenge during the pandemic. A new study by researchers from Ben-Gurion University of the Negev (BGU) in Israel and York University in Canada reveals the impact of this predicament and its potentially significant repercussions."
     publishedDateTime: 2020-12-21T12:46:00Z

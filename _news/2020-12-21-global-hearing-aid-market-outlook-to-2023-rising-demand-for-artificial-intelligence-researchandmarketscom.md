@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-21T09:37:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-f106f58020d045c798a95c9f10a09b73"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-f106f58020d045c798a95c9f10a09b73"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Associated Press

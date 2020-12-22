@@ -41,22 +41,6 @@ related:
         width: 2501
         height: 1563
         isCached: true
-  - title: "Self-driving car owners will NOT face crash blame for accidents, experts say"
-    excerpt: "Drivers will be renamed 'users-in-charge' when automated vehicles hit UK roads and will not be criminally liable if there is a crash, Government law experts have proposed in a new report."
-    publishedDateTime: 2020-12-18T00:21:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9065865/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9065865/amp/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9065865/amp/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 41
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/18/00/36988390-0-image-a-35_1608250821801.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Comprehensive regulatory framework for self-driving vehicles proposed to Government"
     excerpt: "The Law Commission of England and Wales and the Scottish Law Commission (the Law Commissions) have today announced landmark proposals that will seek to ensure the safety of self-driving vehicles via a comprehensive new legal framework. Hailed as “leading ..."
     publishedDateTime: 2020-12-18T06:03:00Z

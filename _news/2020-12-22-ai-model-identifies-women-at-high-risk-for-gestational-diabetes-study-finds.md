@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-22T14:50:00Z
 originalUrl: "https://www.upi.com/Health_News/2020/12/22/AI-model-identifies-women-at-high-risk-for-gestational-diabetes-study-finds/9881608646617/"
 webUrl: "https://www.upi.com/Health_News/2020/12/22/AI-model-identifies-women-at-high-risk-for-gestational-diabetes-study-finds/9881608646617/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: UPI.com

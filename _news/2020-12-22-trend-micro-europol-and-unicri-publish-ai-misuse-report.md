@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-22T14:03:00Z
 originalUrl: "https://www.infoq.com/news/2020/12/ai-misuse-report/"
 webUrl: "https://www.infoq.com/news/2020/12/ai-misuse-report/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: InfoQ

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-22-10-ai-predictions-for-2021.md",
+      "title": "10 AI Predictions For 2021",
+      "excerpt": "4. One of the leading AI chip startups will be acquired by a major semiconductor company for over $2B. Silicon chips purpose-built for AI workloads are the future of the semiconductor industry. Intel’s $2 billion acquisition of Habana Labs last year was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe105376eeb6a87ecd36aae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D976%26cropY1%3D0%26cropY2%3D549",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/",
+      "publishedDateTime": "2020-12-22T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-unleashing-new-frontiers-from-chips-to-industries.md",
       "title": "Unleashing new frontiers: From chips to industries",
       "excerpt": "Following its $40B acquisition by NVIDIA, Arm’s CEO Simon Segars opens up about bold plans for the company’s future and its growth plans.",
@@ -1168,8 +1222,8 @@
       "title": "SambaNova claims AI performance rivaling Nvidia, unveils as-a-service offering",
       "excerpt": "The computer maker has made its custom machine generally available for purchase, but also is offering it on a rental basis for $10,000 per month.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
+      "webUrl": "https://www.zdnet.com/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
+      "originalUrl": "https://www.zdnet.com/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1186,8 +1240,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
       "publishedDateTime": "2020-12-09T07:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1430,58 +1484,6 @@
         "name": "stockhead",
         "domain": "stockhead.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-apples-2021-chip-strategy-will-create-a-massively-parallel-universe.md",
-      "title": "Apple’s 2021 chip strategy will create a massively parallel universe",
-      "excerpt": "Apple's Macs will soon march into data centers, equipped with multi-core CPU, GPU, and AI capabilities in tiny, power-efficient form factors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
-      "originalUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/m1die.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
-      "publishedDateTime": "2020-12-07T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

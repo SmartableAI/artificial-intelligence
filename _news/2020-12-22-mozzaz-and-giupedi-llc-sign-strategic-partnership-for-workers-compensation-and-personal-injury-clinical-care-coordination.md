@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Mozzaz and Giupedi, LLC Sign Strategic Partnership for Workers Compensation and Personal Injury Clinical Care Coordination"
-excerpt: "Utilizing machine learning, the platform will identify clinical terminology ... Mozzaz is built on the trusted Microsoft Azure Cloud for enterprise-ready digital health. Visit our website."
-publishedDateTime: 2020-12-22T13:25:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/mozzaz-and-giupedi-llc-sign-strategic-partnership-for-workers-compensation-and-personal-injury-clinical-care/article_7a47811d-2607-50f4-bd92-4a13227c083d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/mozzaz-and-giupedi-llc-sign-strategic-partnership-for-workers-compensation-and-personal-injury-clinical-care/article_7a47811d-2607-50f4-bd92-4a13227c083d.html"
+excerpt: "Mozzaz, 2019 Microsoft Healthcare Partner of the Year Finalist, and Giupedi LLC, SaaS development and marketing organization for patient care in medical litigation, announced a first of its kind platform."
+publishedDateTime: 2020-12-22T13:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mozzaz-and-giupedi-llc-sign-strategic-partnership-for-workers-compensation-and-personal-injury-clinical-care-coordination-1029913611"
+webUrl: "https://markets.businessinsider.com/news/stocks/mozzaz-and-giupedi-llc-sign-strategic-partnership-for-workers-compensation-and-personal-injury-clinical-care-coordination-1029913611"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "f54JnTZ0mK7rVH9QUSFezZPdMxidFdD3WAQwVtc1NnD0tP0coBA/pzVDCuQCkv4dSpvUzTseY8ccBKJoP+oxaVrcvwQHmFakAKL7tfF4BE1UHpBBuBEhVOfSN+oGPLZLmVoI2yjiM2sNSdpczsVXCtDGJjwaZ5nruLqvmiFhk2WsiuY8HbjPreMWag6bJSkiAeduhLZxxUFlaM/hBNDJlN7SUj6IfiJmGWbnGMIRzT4YuucrQZ0ePBjTA7QaLPrqjh0RfL5XbVI/ZPTITzoj5liW4QAy7JLVjkSmeLlEpyKjk5XMzRqxvLKnhSCKyCEuhPJNL7nbnd4/NuuXjPj/fo6pF8wyYLPbA+LArRS42ps=;7JFp5V7YW9Pw/xyMefPjPA=="
+secured: "g+Ff9PDiH3GHpOI7RqZq//HkysuIu6x1vgaBrXLl7rjsT/EzeVHkRAKwrexNS9Eha0nX3j/VwDzhVGH7l0qjx68K7kaAtRZ63qaOA42N7lMHyQeHTuHIgH2UPPc1+UeNFjKuD7JPKMVtzxK6AP5B4POtjSH6C3b622UmjcG6DlYHqSUMzmsy5kAgWKNadxYS8eQJdZZB9N6KVYAPlwebMI9Yi8DGgMnan7wMTCsq6z8XdtIeLuFukbfZKjZCoWo/QiG2v5rIZqXldqfjZIQ7p1Q7/HWqzrmJ+PX4wFCxHMVfIKJyJfdtrmdCyIyGLY+V5oUSKx3r+tIIyCwRGwAxktRAc7bkLlp+ZOvLJszlmkM=;C2wS5iAedDTtX7RkeDZGnw=="
 ---
 

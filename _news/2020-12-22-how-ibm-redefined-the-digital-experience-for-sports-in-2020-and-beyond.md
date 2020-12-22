@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-22T14:20:00Z
 originalUrl: "https://www.sporttechie.com/ibm-sports-redefining-the-digital-experience-2020-pandemic-covid-19-hybrid-cloud-AI"
 webUrl: "https://www.sporttechie.com/ibm-sports-redefining-the-digital-experience-2020-pandemic-covid-19-hybrid-cloud-AI"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SportTechie

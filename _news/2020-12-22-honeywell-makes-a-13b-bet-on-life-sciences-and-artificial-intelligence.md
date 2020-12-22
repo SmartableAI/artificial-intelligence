@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-22T14:01:00Z
 originalUrl: "https://www.barrons.com/articles/honeywell-makes-a-1-3b-bet-on-life-sciences-and-artificial-intelligence-51608645480"
 webUrl: "https://www.barrons.com/articles/honeywell-makes-a-1-3b-bet-on-life-sciences-and-artificial-intelligence-51608645480"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Barron's

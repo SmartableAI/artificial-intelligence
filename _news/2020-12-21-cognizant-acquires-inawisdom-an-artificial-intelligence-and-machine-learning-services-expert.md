@@ -6,16 +6,76 @@ publishedDateTime: 2020-12-21T10:03:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
 type: article
+quality: 43
+heat: -1
+published: false
 
 provider:
   name: Associated Press
   domain: apnews.com
 
 topics:
-  - AWS AI
   - AI
   - Machine Learning
 
-secured: "yICIT3t5GzCfcOUZs//AGlVcDCVn5FOVTIXH+2d4OJ7kdh2ZC8BrK2voAiF3Uy6j/d6TMVwWaXG6mdK1Brfeg/6Whv0HGx7S+8kBJejEFMjkYW3Kgvz2ZXIVIPqkCbDjyKohi25ia2Zy6PGTETQAR1hXTCV112vONBNpQQbijApF4+WaRreXMTc3RKu7iXwdRdX5g8z6535exuFtLsg2oAl+DjeIYxK9wv+JJAPD7ty4OakH4Wg0itVRbkyZkGsN0Inl3krdlUcmRvaWzZo9P++4IUAHO8r8kUvXtb2FpgZwz0eKV6migtfOISaUPdsd6CzUeXjRkkpXc1K5ybm3eU8nZ7SE6rGc3/wIko4UZe8=;HRjPzekLWOI99dMkz7OpiA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom"
+    excerpt: "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum."
+    publishedDateTime: 2020-12-21T11:10:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 66
+    images:
+      - url: "https://www.businessinsider.in/thumb/79839520.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
+  - title: "Cognizant acquires Inawisdom to modernise data with AI, ML"
+    excerpt: "Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum."
+    publishedDateTime: 2020-12-21T12:48:00Z
+    webUrl: "https://www.sify.com/news/cognizant-acquires-inawisdom-to-modernise-data-with-ai-ml-news-education-umvkPEcceaicb.html"
+    ampWebUrl: "https://www.sify.com/news/cognizant-acquires-inawisdom-to-modernise-data-with-ai-ml-news-education-umvkPEcceaicb.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/cognizant-acquires-inawisdom-to-modernise-data-with-ai-ml-news-education-umvkPEcceaicb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+  - title: "Cognizant continues M&A spree with purchase of AI specialist Inawisdom"
+    excerpt: "Cognizant Technology Solutions Corp has acquired Inawisdom Ltd, a United Kingdom-based privately held firm that uses frontier"
+    publishedDateTime: 2020-12-22T07:28:00Z
+    webUrl: "https://www.vccircle.com/cognizant-continues-m-a-spree-with-purchase-of-ai-specialist-inawisdom"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/01/MnArf.jpg"
+        width: 810
+        height: 506
+        isCached: true
+  - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
+    excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"
+    publishedDateTime: 2020-12-21T15:22:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4025255/fast-growing-uk-aws-partner-inawisdom-gobbled-cognizant"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 19
+
+secured: "DIhz9SxERuoG3x554XoRfaqJ2f4CdsbrNX2NGkWEVykjBZ3imBFp1nKztR+wHEKJ8ADWWWm/Q3mvkxcErascZTnmPaEJSeJSz0tH1Da9lHhKgeGTLwF9IjVMTi+4pCYyeoRD5TWEjuasogDqQxMG5h6tH+97/+J06OplbICx602WQPtkGq+FCG4D/8nOCi9Oj0+NXH7zhLA57XJaPOZvQBqgXNiNUahXg57QQPcf5MsS2FtrBc4thrJkYkW0w6lrLCThlUiuwY2jaKpNpnqLBPNfTnbO9kPWL5zS8OKdd5xHtgUNEaMRPvjI7oTK2HiGhDdXWRMZJyPkrAj4p3fH7CzpT8necDz4cNutDcSkJwU=;p7qZAxsKL4Gdqfa+aZMQew=="
 ---
 

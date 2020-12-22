@@ -5,6 +5,8 @@ excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com
 publishedDateTime: 2020-12-08T19:00:00Z
 originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
 webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "XUV/uK2gKt3YGdaf0W7GFaJ1mzFTSV4g06gyNPgDyVcsTNUzSyjNOojk1lQ7dSppTDvR8aNE9xhQ5X0qmIVeJRmjcqgER7eZWJKVHcgcG4qyfM+gwWjslJLq9Kjg1DTFDDgJbScQcmyn/MmVS5Fsv26SZk84c+dDnyAYh+J6BFT/Udv3kwvwZJ3Htit3pEQCKJ9G4702oXMzk8GOiQez2EOSocPBQV99WTjbJpTA3aZ4oLiYkvkeBX41yzWuj89uCi4dt2VfeIYdLW40Derm0/fVKUktC5c6mvoBrYt5ViQaGYm/GySi6LSYZhqNBaFhD2rmHdjtJpmOeDD/kfShfDuBQwn7ScB3WI5MXPxVjHk=;gcfI1uaiRXRBziXIQzF+NA=="
+secured: "A/Pu3hbPur+9aJ2LLShAtxPoNi7mxHMtzxT1ygunvq7o2tRCyx4WdZWzgZmtwNpv/F/ETWoUOah63KcFhdp/cGU5nmMIEJlDmz/Z9QttlxhUp1LB1OeVcbIbqDuBbaCGe7KlzT5gvK85LVIsmfz369cg3/stx259Mb46xgFrY/RoIMJx2k5HAjpRMveVyJcQcNkbhfbwRH9qrz3rm8PIOC8iONq2T7vXHNMgt4C7ONaZWb9u2XOhtT1lIRLsK49EG9E6/RBcwkL8/cvAQF8KSNIeUgulSZHcMlJJAD4g7E3GhC4NYjaKrb+g3AcwmIso6Sui4b9Rg81JAXSt5E6B7USGTTKZZxYwaF3OBFsqrE0=;ysO0bEKH+FAY4ToXca4KvA=="
 ---
 

@@ -206,6 +206,36 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Self Driving Apple Car Coming In 2024, New Report Indicates"
+    excerpt: "The Apple car may be back on the table after rumors surfaced this week indicating the American technology company is developing a battery-electric vehicle that will enter production in 2024. According to Reuters,"
+    publishedDateTime: 2020-12-22T16:44:00Z
+    webUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/"
+    ampWebUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
+    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 59
+    images:
+      - url: "https://gmauthority.com/blog/wp-content/uploads/2019/03/Apple-Logo-grey-logo-white-background-1024x538.jpeg"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "Cramer on reports that Apple is moving ahead on self-driving car initiative"
+    excerpt: "According to a report from Reuters, Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle. The report sent the stock higher in extended hours trading on Monday."
+    publishedDateTime: 2020-12-22T15:08:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/22/cramer-apple-self-driving-car-tesla-squawk-street.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 52
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106193847-1571685003084img_3993r.jpg?v=1571685072"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Apple Is Reportedly Releasing a Self-Driving Car in 2024"
     excerpt: "According to a Reuters exclusive, tech giant Apple is planning to produce a self-driving passenger car to be released as soon as 2024 — despite several layoffs hitting the company’s automobile efforts over the last couple of years."
     publishedDateTime: 2020-12-21T22:04:00Z

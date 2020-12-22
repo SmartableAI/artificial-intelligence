@@ -1,24 +1,24 @@
 ---
 category: news
 title: "How Manufacturers Can Push Past the AI Tipping Point"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2020-12-21T13:41:00Z
-originalUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
-webUrl: "https://www.cio.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+excerpt: "Industrial AI needs to know when and where production events happen—for example, to track scrap metal on its journey to becoming a finished coil of steel as it moves through a mill. However many operating technology (OT) systems remain disconnected from ..."
+publishedDateTime: 2020-12-20T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
+webUrl: "https://www.computerworld.com/resources/212212/how-manufacturers-can-push-past-the-ai-tipping-point"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -68,20 +68,6 @@ related:
         width: 1024
         height: 591
         isCached: true
-  - title: "Some Reflections on the Role of Government in Trustworthy AI"
-    excerpt: "BKC Executive Director Urs Gasser delivered a keynote speech at Lanzamiento de la Ética de la Inteligencia Artifical en Colombia (“Launch of Ethics of Artificial Intelligence in Colombia”) about the role governments can play in promoting trustworthy AI systems."
-    publishedDateTime: 2020-12-17T21:21:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-12/some-reflections-role-government-trustworthy-ai"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2020-12/ColombiaEvent.jpg?h=23b8e2ce&itok=VBTQIPae"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Hyundai Launches an AI-Powered Translation Engine Focused on the Car Industry"
     excerpt: "Hyundai has recently launched its very own AI-based translation engine supporting English and South ... In other words, one user can send messages in one language and everybody would receive the translated version, thus making the communication overall ..."
     publishedDateTime: 2020-12-20T18:14:00Z
@@ -97,6 +83,6 @@ related:
         height: 300
         isCached: true
 
-secured: "YJBV8YQxNqzJKpLeVx+tATfFU1TH6pdm/2Tob7zpT8VWKjZ/yOX62RdmwsJoEP+ZlyB5TYH0x8o9eVPy6UU9s4LJSrXrISoKJ8j8Sgzb9RXvkMTMl5LPkqGfQghdx0wjVXRsvQvn+HT6z8k1FZpgYvAy+oUoilaWB21ujPIzA9t7muUPvHVxskpgqUZgFgCyedGOoAbea/FqbzPBpyLMndFK8AIBaQbFygX+LaHJUBxFBZWB8k3Pc3BV/0RsEH6jAm8m8d5PGKZ5wKPoWJq9tznlRqsB5JlumU+8sUJbwytH3cXMniR4NK4d/0oaSFBZ8hFXYdSRgrTSSXYhD8G7DExcxrYJbtzi2D0uUaTlAEfsPbPRv+QG/LflyOBIvNceJI33pkEVEebLI/s99xOJpE/MHEbLvGzzmOvrEN2ymSq1CxB8pF1LfFNSj0l96dIXBYlyCfaqf052TSt05yvRQgIXHMAhOzssZRKU8FqDNuSCA4Z22cFJ/jDcmo9+/WYanm+HXceIMN8+eFGeUCK1sg==;/QN8XKUGQFXy6gcoPpLeBQ=="
+secured: "QTdy3A8P/G4uUzsynL/GoLaTNKj+OJ7Wxr/TXB+pTxjIp5OADVhxxPKM0BCl5jqrL+z/wlQQXngCLV5wwSMelAK9l1HhwEDaqlFg1WtBD5QSEoCAEqpEB6xjOAt/bL/QqHuURC9rCWardHWM6hf1jC6GJSdHor3UppncPRd6aamdUrmMODiQ622n/2974oTUTbbBSSRZcVIIw3TXT3cf9JgQx1L1V12rAybrOTGWmYyGmTdyPst40pzFXTnweq65kybimNgrbQ50R5rf4Jr4AF/BpZuOJAuWfEroi1YOREvBwhhWpvaanVQh2/ELKRJ2dDmb4T1BobLTBkFYdvSOO26P7oZc83ZhmA6cJtkvr0Y=;0zct7ncLhXJXUuBeFAN6uw=="
 ---
 

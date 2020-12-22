@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-22T13:46:00Z
 originalUrl: "https://www.telecompaper.com/news/azerbaijan-sells-sims-supporting-face-recognition--1366707"
 webUrl: "https://www.telecompaper.com/news/azerbaijan-sells-sims-supporting-face-recognition--1366707"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Telecompaper

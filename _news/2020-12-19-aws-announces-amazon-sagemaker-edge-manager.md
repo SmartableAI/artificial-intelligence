@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-edge-manager/"
 webUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-edge-manager/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Amazon AWS says ‘Very, very sophisticated practitioners of machine learning’ are moving to SageMaker"
+    excerpt: "The infrastructure software is catching on with some of the most demanding machine learning scientists at big firms such as Lyft and Intuit, and also taking over Amazon dot com's internal ML development."
+    publishedDateTime: 2020-12-22T14:55:00Z
+    webUrl: "https://www.zdnet.com/article/aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
 
 secured: "+N+yxzu439+1za3c/7fO66o6vpyEPFwLpNVGhHuIEZWKASp7gKCbYbz8XIHvIQfsGR0HljUJIPDYEFt2mehEHnOIX7oYcbC/95X29d8MXkIAgqrxTGzY9z+LwC+AKX4Yr3iFTY5K6oEUkrT/snBoNb2FRZtW14tUF1zcn40jxxZ0pwoJlaIaM5lrQ49ZfLiwZZ+jBTn0k8wKffgcqP5IDLe6HvlnGNVOgHtkSor6cbpPeNowPYQizOJn39WIRApplnuyopgMDuP+3DpWe7vB5C2sNGchuDKdUolZQ9yn7abYOO+KpC9dHq7H3ASFf32XExISU0KZvwnwXSXyOG74h4T7IGKstnEtbIjI2bTUldLz/0rh1SiSZIls86umAyQ3s9MdQYzfYpwVe9TEP16DXY2ajbTOdcGq/Cx5+dB33Zwkvp45qmceImw6j1mD59JZNCY0uDbazC0qzlr6qTH63qyH6dudvkqvw3cojkdflkRkj1RNutLpvIjA5nQID4EQXyg+HLxsB5xA8LtB8uVQeg==;LBwTknsjcr7NDgzehdaTYQ=="
 ---

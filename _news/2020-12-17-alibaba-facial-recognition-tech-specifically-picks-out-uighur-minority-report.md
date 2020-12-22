@@ -5,6 +5,8 @@ excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition tech
 publishedDateTime: 2020-12-17T11:25:00Z
 originalUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
 webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
 type: article
 
 provider:
@@ -18,7 +20,14 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
-secured: "8GlvQPWArNWpPso2Isfm5ucox5AaGenvCFykhhfnLj1OTDUBBwC+MqfJuY4erC5YN3+5AyOkGKmZWlVWgowR0c69aAZn985E2DdbnlKg3d48UpKSctjbDAQPAx8DeOH99FCPEVcF7g6hTxPmZea7vjk+VqZ3qmsXL91km7fJM2K467W4KX6N37UwxiFefwNdljoAxRKqarArcLQCtD5HpT81E0g6X3xB12wNgm3ShlKZU71zAewEWIZ6c8ph1MkG5fzsl5T+wbz+bqnMLbV/GGRd9avyEWQu2+WN6JHjRdB4+fAE9A2xo1I2SiCKjrsnyS4qQ6nksqdI8ZXmqo2mb7uwTFzQ5JoQ6xWiM8x0lqwsNunshbs4G9gRazveaF7RiJ9ag+hmgTxsSschAwtSOnUVUzw9ZjA7h3AAhMbKESKBsgsCNbF/qsRm+FAg44kaWx5CTvo9UxHiHOmDunw4cK4LSwSXD7BxJEnTotXDfwQzK2QnunIwUF4LCLOgTOKPG7lapV4KXXVVK8uVUeXluw==;yUuNxHmFVOBea5GMeElguw=="
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+    width: 817
+    height: 545
+    isCached: true
+
+secured: "e50AjHwblm0qML1bpovLx9AXMR4OEK56PCIKiqIEk+rLg/uLz+rO3+Db4JtRcpTdgTnzRgMDi5M5GOkpBprKkqzzzTWjyqQzzC5HNbCFlKja7AZQ5Rm9zx1ehw/omsClGsVq8XCv2/gTIPYr5wouI4XsbmNjbtY5R+0svZXm+ltJ+w7JZjJj+mRzb/TqvbvTaU41FOYEcOBN4MFk+H87YfDCpYQFW4PDlEaAwGOoF4RIV/HE6/XDEWFVvUx95tXtrDbaTUSjPAiWfkUd6DFiLfEZ6V5dcdxewIm9xKz/HLYJv1DizvYxmn6L7gE8KfYe1OL7bAIaoZ8t3B5PeEmMcjzubPIwz3j7lAgsU/k/PLI=;sL9gDPfz28To//xrcWTYIQ=="
 ---
 

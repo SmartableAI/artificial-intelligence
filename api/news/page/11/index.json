@@ -2,6 +2,207 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-10-boastai-raises-23m-to-help-businesses-get-their-rd-tax-credits.md",
+      "title": "Boast.ai raises $23M to help businesses get their R&D tax credits",
+      "excerpt": "Nobody likes dealing with taxes — until the system works in your favor. In many countries, startups can receive tax credits for their R&D work and related employee cost, but as with all things bureaucracy,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/10/boast-ai-raises-23m-to-help-businesses-get-their-rd-tax-credits/",
+      "originalUrl": "https://techcrunch.com/2020/12/10/boast-ai-raises-23m-to-help-businesses-get-their-rd-tax-credits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Boast-Team-Shot.png?w=1024",
+          "width": 1024,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/10/boast-ai-raises-23m-to-help-businesses-get-their-rd-tax-credits/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/boast-ai-raises-23m-to-help-businesses-get-their-rd-tax-credits/amp/",
+      "publishedDateTime": "2020-12-10T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-itri-exhibits-innovations-in-ai-robotics-and-e-health-at-ces-2021.md",
+      "title": "ITRI Exhibits Innovations in AI, Robotics and e-Health at CES 2021",
+      "excerpt": "Taiwan's largest and one of the world's leading high-tech applied research institutions, invites you to its event site (  ) for CES 2021 to view its innovations in artificial intelligence (AI), robotics and e-health.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-exhibits-innovations-in-ai-robotics-and-e-health-at-ces-2021-1029882038",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-exhibits-innovations-in-ai-robotics-and-e-health-at-ces-2021-1029882038",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1373097/ITRI_at_CES_2021.jpg",
+          "width": 400,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur.md",
+      "title": "How to get face recognition on HomeKit security cameras in iOS 14 and macOS Big Sur",
+      "excerpt": "Once you know how it's meant to work, it's very easy to have your HomeKit security cameras recognize you and your family. It can just be a little frustrating when you first try to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur",
+      "originalUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/39262-75132-000-lead-Face-Recognition-in-HomeKit-xl.jpg",
+          "width": 870,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur/amp/",
+      "publishedDateTime": "2020-12-10T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
+      "title": "FPGA chips are coming on fast in the race to accelerate AI",
+      "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-216391.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "publishedDateTime": "2020-12-10T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-unbiased-ai-becomes-mission-critical-in-2021.md",
       "title": "Unbiased AI becomes mission-critical in 2021",
       "excerpt": "While data management becomes critical, recognizing how data annotators influence model bias will be paramount to success.",
@@ -989,213 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-google-to-investigate-shady-departure-of-black-ai-ethicist-timnit-gebru.md",
-      "title": "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru",
-      "excerpt": "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483",
-      "originalUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp",
-      "publishedDateTime": "2020-12-09T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-c3ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade.md",
-      "title": "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade",
-      "excerpt": "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655",
-          "width": 6271,
-          "height": 4181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "publishedDateTime": "2020-12-09T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-making-sense-of-your-health-data-with-amazon-healthlake.md",
-      "title": "Making sense of your health data with Amazon HealthLake",
-      "excerpt": "We’re excited to announce Amazon HealthLake, a new HIPAA-eligible service for healthcare providers, health insurance companies, and pharmaceutical companies to securely store, transform, query, analyze, and share health data in the cloud, at petabyte scale. HealthLake uses machine learning (ML) models",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-its-just-research-isnt-good-enough-in-ai-ethics-p.md",
-      "title": "\"It's just research\" isn't good enough in AI Ethics -p",
-      "excerpt": "There was a little bit of noise around some papers being rejected on ethical grounds at the NeurIPS 2020 Conference. The responses fell into two camps: It's just research and AI has implications, ethics matter I'd firmly put myself in the latter camp,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
-      "originalUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEMg6-uH8PJ6w/article-cover_image-shrink_600_2000/0/1607613295550?e=1613606400&v=beta&t=zJK3zRQWmF-nVosNIOpnx5jcyEFwhyGXkx8ljay0BGE",
-          "width": 754,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

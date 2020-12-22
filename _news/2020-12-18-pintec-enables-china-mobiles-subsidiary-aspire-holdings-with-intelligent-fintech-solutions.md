@@ -52,17 +52,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
-    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
-    publishedDateTime: 2020-12-17T23:54:00Z
-    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
-    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
 
 secured: "YVvzW5RpCOqs1B/OI1Qr9Ld7ZYp6ZVINhRX9MAmZLvZv7iiY80Z5vfbxWyvEwqUspWo5DVRDkTOaf7j7C5GRaBD68k+t7IVev0+ow62HLJnWDp3EWvYJRxr+wnQ2tLr9qJ8h+JGLDVDCOmxiqOX3cki2LQgSHdmhfyC8VhiEe1FaCLd7zWxf3LnMXohRG9oBDXUKVzuWjUUhVviD8AJGySjnHWxD2YG1YNA/aB8Hd5PIGkY4IkwpOZ1dMmvkZr3Pk0TqVGN3fxGpj0/QaHsHl92RJpslEW8iCQ1GuCkZAaEWOUiZYAW48Mq89Vjl3FyeGB82P4zMyUbyFxCpNhk2qJAk5+dIbcCjrPPmYAjC6B8=;9huQSab4EwnUkMbA7yzYog=="
 ---

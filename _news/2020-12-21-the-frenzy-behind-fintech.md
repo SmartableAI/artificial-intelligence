@@ -38,17 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
-    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
-    publishedDateTime: 2020-12-17T23:54:00Z
-    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
-    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
     excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
     publishedDateTime: 2020-12-18T10:10:00Z
