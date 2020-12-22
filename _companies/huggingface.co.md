@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "huggingface"
   url: "https://twitter.com/huggingface"
-  followers: 33624
+  followers: 33625
 
 size: 11-50 employees
 yearFounded: 2016
@@ -31,7 +31,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1258786303782649856/qaKfQIFq_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1341520030895321088/WOONSoL7_400x400.jpg"
     width: 400
     height: 400
     isCached: true
