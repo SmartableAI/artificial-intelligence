@@ -1,27 +1,32 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
-publishedDateTime: 2020-12-21T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
-webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
+excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+publishedDateTime: 2020-12-21T10:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
+webUrl: "https://markets.businessinsider.com/news/stocks/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-1029909769"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 75
+heat: 105
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Finance
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
-    width: 1198
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -62,6 +67,6 @@ related:
       domain: channelweb.co.uk
     quality: 19
 
-secured: "sDKCoJtWkugqUzSYQ+PDe3V2W6q5KHj/ycOZAXs7RrSRNYMocNdT523lLPbVl1qDjRC9veG9KmaG/0gz9uJI2hAA6ZPtkbt1Whxxf/6fJkzfMD03FEWBjAf3j+LFNf5yBaobMEWhoYzBPxCBsMA3V5fIRbvOY1uJ6qh9ZFAjtE6MOQOmnM6tPL9cLTsBQqMwfF4XNoAUGl35J1QijKYK0kI27AcQMfdG0j/7Eo3MdM14i07RiTqXVDCjvNiG/v5BoK9SUAXmMy785YPKH728AkRLCd+PSUfyWh3/BCXr+koBbjhmjHEL1DdWSKHnYaaAb54+cMwaK7exStqyu9hsfLQHjswoNerPZjprf2fXveY=;uyDCnw1rKQ/zuaD4cefyOA=="
+secured: "ojyqfRnJJiF8ETmw81GGvhBcVjyZqiAJZVHM22ny1sT43Iaw72jAaPKP8UyTqhM70/3CKa0hMNPoBw27jCkbJPLbiy7LGMGRlllYRCBkwq6wZyvvIHMKsiX1Vtu0xalkAJDLayYGb6ND649mfu+v0rwie5kcoS5rqWw7Tg9UHwC8QbW+jyDzaSNvLUy1vLtEXUULmlO8YsxmBeMt6Wf/kNNkxH2jYWVuz6l3Ae58fMcmLb19Rs8tCihK9oyAmsupmeQV9qz3/UXdDWbMaGGbp/YZqgBDMrCEByXppys/4KgCAvaFOtEHPG+bMPneQJjkx9xqug4bJD1ZezuD8YCJrskCfUV87cjfRXTORB0oN60=;unRgQwpc2cdb9fodOWC2JA=="
 ---
 

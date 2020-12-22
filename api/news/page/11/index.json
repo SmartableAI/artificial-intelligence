@@ -2,6 +2,154 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-10-the-dark-side-of-big-techs-funding-for-ai-research.md",
+      "title": "The Dark Side of Big Tech’s Funding for AI Research",
+      "excerpt": "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "originalUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "publishedDateTime": "2020-12-10T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-1-fintech-stock-to-buy-before-2021.md",
+      "title": "1 Fintech Stock to Buy Before 2021",
+      "excerpt": "However, the peculiar nature of the pandemic has actually been something of a boon to disruptive fintech stocks. Because people have had to stay home, retailers and banks have had to reach their customers digitally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/983fd8a6dd5087c5cd0b4aeafe8225a9.png",
+          "width": 720,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/",
+      "publishedDateTime": "2020-12-10T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
+      "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
+      "excerpt": "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-45m-to-scale.md",
       "title": "Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale",
       "excerpt": "The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which is why real-time captioning startup Ava",
@@ -1043,152 +1191,6 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-watch-cnbcs-full-interview-with-c3ai-ceo-thomas-siebel.md",
-      "title": "Watch CNBC's full interview with C3.ai CEO Thomas Siebel",
-      "excerpt": "Thomas Siebel, CEO of C3.ai, joins \"Squawk Alley\" to discuss the company's public debut. The market will do what the market will do, says Siebel. This is a financing event for C3 to enable us to meet the needs of rapidly expanding demand for what we do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2020/12/09/prowatch-cnbcs-full-interview-with-c3-ai-ceo-thomas-siebel.html",
-      "originalUrl": "https://www.cnbc.com/video/2020/12/09/prowatch-cnbcs-full-interview-with-c3-ai-ceo-thomas-siebel.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106808683-1607532026099-2020-12-08T183156Z_1175983302_RC26JK9J1U2V_RTRMADP_3_HEALTH-CORONAVIRUS-VACCINES-CDC.JPG?v=1607532093",
-          "width": 1840,
-          "height": 1232,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-google-to-examine-the-departure-of-a-leading-ai-ethics-researcher.md",
-      "title": "Google to examine the departure of a leading AI ethics researcher",
-      "excerpt": "Google says it will examine the departure of a prominent Black female researcher in the field of ethics in artificial intelligence, whose recent, sudden exit has angered thousands of the company's employees and others in the tech and academic communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "originalUrl": "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209162431-01-timnit-gebru-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "publishedDateTime": "2020-12-09T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-national-digest-gm-green-lights-test-of-driverless-cars-as-taxis.md",
-      "title": "National Digest: GM green lights test of driverless cars as taxis",
-      "excerpt": "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7PC5RB2M4I6XGGEEXOJ6SMH5A.jpg&w=1440",
-          "width": 1440,
-          "height": 945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-09T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

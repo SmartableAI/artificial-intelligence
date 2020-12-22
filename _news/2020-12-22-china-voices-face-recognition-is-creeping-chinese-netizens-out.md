@@ -8,8 +8,8 @@ webUrl: "https://technode.com/2020/12/22/china-voices-face-recognition-is-creepi
 ampWebUrl: "https://technode.com/2020/12/22/china-voices-face-recognition-is-creeping-chinese-netizens-out/"
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/12/22/china-voices-face-recognition-is-creeping-chinese-netizens-out/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i0.wp.com/technode.com/wp-content/uploads/2020/02/technode.com-alipay-facial-recognition.jpg?fit=1078%2C723&ssl=1"
@@ -26,6 +27,6 @@ images:
     height: 723
     isCached: true
 
-secured: "bn1I9L8gX2eLvWcNjACxT17WUCe1S+Ccfaiby+zYQJD5hf6g2AdyeQY+uHb85AcIl8CEmv2vHuqAadAyv62ByBH0nN6RQtnNcQZSLQa5NgbJ2YbUu/RjblM2reS1JMwlq5PNYVrgUHAykdydVslCwyFVSGCcwxv5c+at/BAepLUxPJqTSYy55xgHXwRwQzt+harj41gk5kyRNrHiqOyP6cbk0qb6MrGFERmlg9Qnpp5AQOSpAJYpEVXKn6WX+SJ2miEFQkW227aRyrUBwF8W6qyIgPojIDlcdByvFtWSmWYv5yzM5OTCIWwJALPYzOCA32AOpbapEgYl0/dUgGzGmLQdtjEztLf7FRk+nBgF//g=;IxtY2tRM2p2khno/yrtxYw=="
+secured: "akfMs/2VPmE+jP8y9MeKvV8am3yCDtEfoHWNTYGuA6SPzqJl4vtwWnPSSQJo4tPPqtdHIrgX8iVMrLYnB+yDN6ZPQBD3Qey81BJhZZHLI7nESXHx/izivXFRfulvLSD3ADO2GQacvk251chDQ7+FC+VIIpAT8ilKSzLTKrv4rJniZOF4iPglUXh2X/pbXGFBRhac/8kH+h+YIfCwXU4XghG1l84TUZw/rn36ThnhW7HPUcqi5rRjf0GztcHg+7K1XIDDwdV1UDspOT5mjIfutW1Omeudf4PVJy+tMnDjl43Kd+ILRGsTRmj2Pux/mrmI+Bn+xflLXXgxvO/OUx9VrS5TihynKYD2qABBzwxwXnFgME+GxNiXbdYoIqifdk8zpaF2iD8pcn3qfq85nTe+LYS8j6SvaJxpXW+jFkF3RTLAsWZeMRzUXm36sz0YCO0KuaJ3RNVzqOlWay5XdAeetqVJQ4B7gdsM/Ptumb/I3n+1p8eZlsnfphqNiYlUL9BedLaa7f5oDPl01fVf/bFY1w==;x6KP0LdzFXYd9Djgh6WyXQ=="
 ---
 

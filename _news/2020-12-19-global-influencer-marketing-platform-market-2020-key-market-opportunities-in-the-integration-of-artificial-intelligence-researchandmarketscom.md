@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-12-17T11:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BMA03k7jf3ncr94jJDIMTJ7TBqL5zc6vFvdlhGYflzNuT8TcexARh09kldU4+eZFDAzuqKRF8vkLVrxh7Zb4mpHzHN3ddBojXh4GOztlz82nFiwpqgFIYkECEgKBpb/qZSQjJq1VNGGAHf3xYrsLqIVq5aqthFv25f6dCp2GuuX1kXefY21GpzHzx65NCR0EJFvyOg524VcoskT7K/8pz3ZnetVJu2u8Gf6xTTHV21zvbll0xQZOIuQo2vLGx2+i3qgDs9lxIK4Z9VJhMi3teP3hWkK3+TOFJF83DoqBQ/4OpDOTT6UW5mzjlAIUx7zYcSuSkuHA+hyrjE1/Ev7oNkcz51wg8TLBmhGUGURMlAk=;ObRrTML6vSfBcaz/BQY24Q=="
 ---

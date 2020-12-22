@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Google adds new features to strengthen Indian language capabilities across products"
-    excerpt: "Now with the introduction of new features people can toggle their Search results between English and four additional languages Tamil Telugu Bangla and Marathi"
-    publishedDateTime: 2020-12-17T11:57:00Z
-    webUrl: "https://english.jagran.com/technology/google-adds-new-features-to-strengthen-indian-language-capabilities-across-products-10021253"
-    ampWebUrl: "https://english.jagran.com/lite/technology/google-adds-new-features-to-strengthen-indian-language-capabilities-across-products-10021253"
-    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/technology/google-adds-new-features-to-strengthen-indian-language-capabilities-across-products-10021253"
-    type: article
-    provider:
-      name: Jagran
-      domain: jagran.com
-    quality: 38
-    images:
-      - url: "https://imgeng.jagran.com/images/2020/dec/goo1608205890609.jpg"
-        width: 650
-        height: 540
-        isCached: true
 
 secured: "3+AzydP6GFrTts/DSWzpuW09kOtKgEeT+g2k537x7aWPsZP+bc35dYvdk8LLdh9EN1DWyVgD5b3RcMrPRbcwOtu3FpejTg6SKrGAKUTr9s88MtmnET25h7YFXWTCfHNWyi4fecXM70FtCcihsHEoK+tJviIPy4LpfTLhBJjS+cxCxrum4xgX1u9Q9ESbEQeA1M0Nku9PCWZRfDFSaVtRXh3uZo/I3wtrH29eUKwnKOLyQ65GTBGEIuCK4ndPZTLgcW821uYsY8A3d1vo6eUhAJtD+qis4Gh7xgUPkOpATXdrYUphZSAgJko0Ib+oo6k8+yIo9jb7hip2uERZ3SgSx607c5Ra0d+qXcelTQgm1xuEUiBZw0gyi0nEY3jAdmedvpxGsP1+V1ZPghsP6DIKUOqsMUV91rTK5ecbciy7tL1XM2yR4wn17AKxuk5lWa0UO9fYbIbdQhdCYj1HrikyJZfd03dAB5EYJJW/OPq1rMno2qn+sNs25QHUwW6SjSQHfsFlf1v29lPTFeqUgdYwtg==;GBlnsav+YSte2mc3/BpcqQ=="
 ---

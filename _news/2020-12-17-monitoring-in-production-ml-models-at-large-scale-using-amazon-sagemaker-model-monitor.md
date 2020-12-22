@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/monitoring-in-produc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/16/ML-1106-1.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "AWS Announces Amazon SageMaker Feature Store"
-    excerpt: "AWS announced a new capability of SageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new SageMaker capability allows customers to create repositories that make it easier to store,"
-    publishedDateTime: 2020-12-17T12:08:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/12/amazon-sagemaker-feature-store/en/headerimage/croppted-Feature+Store-1608021403547.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AWS Announces Amazon SageMaker Edge Manager"
     excerpt: "AWS announced a new capability of SageMaker called Amazon SageMaker Edge Manager. This new capability in SageMaker makes it easy for customers to prepare, run, monitor, and update machine learning models on fleets of edge devices such as smart cameras,"

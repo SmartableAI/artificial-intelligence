@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=rec
 webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-659747"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+related:
+  - title: "Diving into Japan’s top AI/ML startups"
+    excerpt: "Japan is the world leader in artificial intelligence, according to a recent study conducted by US-based research firm ESI ThoughtLab. And why wouldn’t it be? The nation has been pushing for AI and machine learning (ML) innovation as part of its ..."
+    publishedDateTime: 2020-12-22T04:14:00Z
+    webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667849"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 66
 
 secured: "/2u5CBwDH2bUK0eT12PR7I0QG1DT+5cQjIkhjTond445ph9qWVANt65X4gbvJ4moZe6v1F1RAH7RmDoCzwo2lfV2h+9kDet+CcEHAj1QapCobB1P+LEVTisf5iGWpKjm+bEViJef38xwKC7R9yaZISEzkqz+MgMRlYB3ZMTSXbY7b4cVcAu7tIublNl+2/NQxW0OUEH4bjv50CXgS8UPFeb3up9Tdc1GsP9yjApKtpHhivJIoAVbe7tVmqCLaA0AqNoaxsm6xT5hZ8pSTwAE2oym5ABynmMxyb2J6vMi6AStydBOJBPA4WW56bWiVcsRehz19yNILPwJZBWuxVSsjdXeiTW12NrrGyI15QPEsj15Ge3lA4yM0hPIDtn4PP1pGx6hw3ye5s5AoNh519TEMsc2SX2ZTntuweMPm0C3dPLPisJAHJ5zOe+SqLQeCpRHgdu2EGp6DZNsUVHJcCWuqoDMB9wXnDKfCGQkayfj3f/GZ5UZruegfdgjBIX66xXaKqClKBCF4flMHOarfbAyJA==;9We2nx4zbb700Gjy6wDEvQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-dem
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F6dd60fa0-74fb-11ea-bf7f-7fb473523e83&client=amp-blogside-v2&signature=729ca1927b897fbd0725d08b45ec058dcc6ac7b6"
         width: 600
         height: 350
-        isCached: true
-  - title: "Google AI Researcher’s Departure Ignites New Conflict Over Ethics"
-    excerpt: "On Dec. 2, Timnit Gebru, an artificial intelligence researcher best known for showing how ... Pichai didn’t seem to have just ethics researchers in mind. Gebru, a Black woman, has been an outspoken advocate for other non-White employees."
-    publishedDateTime: 2020-12-17T12:02:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/google-googl-faces-backlash-over-ai-researcher-timnit-gebru-s-exit"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixbAqRGBT7tg/v0/1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google workers demand reinstatement and apology for fired Black AI ethics researcher"
     excerpt: "Timnit Gebru’s departure sparked outrage in the industry as it followed her paper criticizing the company’s diversity efforts"

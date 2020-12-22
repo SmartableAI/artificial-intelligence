@@ -3,8 +3,8 @@ category: news
 title: "Some UK Stores Are Using Facial Recognition to Track Shoppers"
 excerpt: "Branches of the British grocer Southern Co-op are using surveillance technology to look for potential shoplifters."
 publishedDateTime: 2020-12-20T16:34:00Z
-originalUrl: "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?source=techstories.org"
-webUrl: "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?source=techstories.org"
+originalUrl: "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?&web_view=true"
+webUrl: "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?&web_view=true"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 670
     isCached: true
 
-secured: "cv5tGji+/HpNeRA5kShtakev80WRyjIPBTh5s+Ei7/WpE7KwvTyU3xqT9lPMoiqPEfZGwRFlPuIZnNGDRC7R7W6OjqNRWj5bb+HEutkq36RhhK47tPZFvIbajNtPwVUZx6j0nxJ67FYgnFHf1uJQXu10Ff7NA8A8SpNO+/870G+7/AZs/j1oV7/PbgHhAW505rf2bKEe/afpfhuZn+5HWR9jfwzJQHR5Iijm2CDAgqS+znmWHu/zePQ3/EkatLKoNSBTEt9MQ2jWn/BvohHotnNESckFS4kGTQkqL9RdRBCoWr2kWX1TdmnecfjlQrrpE2Dc3loFXfRNnt853ovDBYdqoBCYsiTSsq6TttGzEpvI0CORsyWb4PTIhHqTx9eh3+rQp9MEUMMmC6i7VHr3PKnHuaDITSbRF2px3E/IbUXI4//Hw5to6NkfuVKmjX4vFQcIx0d7SMarYWcv80UrPtTvReVmUKrONAz2XfiX29lQ9Sz1SHordmOafZvHZQ/wiePqZ6skx2dtGsiFRGPgaw==;fkGiG6/xC33NO1/N4Gpq1Q=="
+secured: "k9f2ljwtogEykGov4g+9vsvqRqDPB3P0utRd8ZRP6M0EeQovaRvInA4eDgMtk+kAOMaspdgO//Pzl5vU05Wj4aoIi3kXV8HsHdNHGvr9TtUxnLb4yqWmNU2EqTOyOzNl0x9PHAueOSa8MrJ3HwyswPGGpPM0vKXJ45zAzFC2chbdWUzWvkauTi5azbM/Ne1evkPyLczVDPwADH4m+RxbfxclnCI41GwLnucicttucqlWmDi7gPyzsrKw8WTyRLqfaeEYjukCZA7jZ7IQVqFEQO5GdU+PNgqgvmXCcyPypvS/gaKAd3CDwcKiyqdwYQic410Y9Qla3Im5xjxfjX/o+fX+2Y48XCLk53/Miboi3qo=;bVxZgfAR/PVtpqQe4digNw=="
 ---
 

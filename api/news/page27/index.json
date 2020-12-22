@@ -2,6 +2,135 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-01-computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027.md",
+      "title": "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027",
+      "excerpt": "Dec 01, 2020 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC recently added a new title on 2020-2027 Global Computer Vision Market Report from its database. The report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-tag-aws-reinvent-2018.md",
+      "title": "Tag: AWS re:Invent 2018",
+      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "originalUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-deepminds-ai-makes-gigantic-leap-in-solving-protein-structures.md",
+      "title": "DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures",
+      "excerpt": "D structure of proteins, such as this one of the SARS-CoV-2 spike protein, has long been a goal of biology. Credit:  An artificial intelligence (AI) network developed by Google AI offshoot DeepMind has made a gargantuan leap in solving one of biology’s grandest challenges — determining a protein’s 3D shape from its amino-acid sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/deepminds-ai-makes-gigantic-leap-in-solving-protein-structures/",
+      "originalUrl": "https://www.scientificamerican.com/article/deepminds-ai-makes-gigantic-leap-in-solving-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/DE927AB5-186E-4F06-BED8749F7012DB18.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat.md",
       "title": "How Mark Kelly used conversational AI to help win a Senate seat",
       "excerpt": "Mark Kelly's campaign has engaged with hundreds of thousands of constituents, replicating in-person conversations with AI chatbot exchanges.",
@@ -1032,145 +1161,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity.md",
-      "title": "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity",
-      "excerpt": "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to/article_3c9e0208-f5ac-593b-848e-f0734decbb22.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to/article_3c9e0208-f5ac-593b-848e-f0734decbb22.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-nvidia-launches-monai-framework-to-speed-up-ai-healthcare-training.md",
-      "title": "Nvidia launches Monai framework to speed up AI healthcare training",
-      "excerpt": "Nvidia Corp. is stepping up its efforts in healthcare with today’s launch of its Medical Open Network for AI, or Monai, an open-source framework that’s used to train artificial intelligence-powered models for medical imaging.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
-      "originalUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/image_2020-11-30_085231.png",
-          "width": 1132,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-c3ai-sets-ipo-size-above-half-a-billion-dollars.md",
-      "title": "C3.ai sets IPO size above half-a-billion dollars",
-      "excerpt": "The cloud software operator that uses AI to do industry-specific data analysis would see an initial value of $3 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
-      "originalUrl": "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/e4d858ff-3bd7-4aed-ae90-7676eda0116c/c3ai-boilerplate-nov-30-2020.png",
-          "width": 1410,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
-      "publishedDateTime": "2020-11-30T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-19-intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers.md",
+      "title": "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers",
+      "excerpt": "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195",
+      "originalUrl": "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-275719/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195",
+      "publishedDateTime": "2020-12-18T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama.md",
       "title": "Building and deploying an object detection computer vision application at the edge with AWS Panorama",
       "excerpt": "Computer vision (CV) is sought after technology among companies looking to take advantage of machine learning (ML) to improve their business processes. Enterprises have access to large amounts of video assets from their existing cameras, but the data remains largely untapped without the right tools to",
@@ -114,7 +158,7 @@
       "originalUrl": "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1118,7 +1162,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1212,40 +1256,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-upstart-upst-fresh-fintech-ipo-with-enormous-potential.md",
-      "title": "Upstart (UPST): Fresh Fintech IPO With Enormous Potential",
-      "excerpt": "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18",
-      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp",
-      "publishedDateTime": "2020-12-17T19:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

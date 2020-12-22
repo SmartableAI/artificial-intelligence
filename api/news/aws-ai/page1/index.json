@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-21-cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom.md",
-      "title": "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom",
-      "excerpt": "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/79839520.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms",
-      "publishedDateTime": "2020-12-21T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-21-enterprise-artificial-intelligence-market-to-see-booming-growth-ibm-aws-oracle.md",
       "title": "Enterprise Artificial Intelligence Market to See Booming Growth | IBM, AWS, Oracle",
       "excerpt": "Latest released the research study on Global Enterprise Artificial Intelligence Market offers a detailed overview of the factors influencing the global business scope Enterprise Artificial Intelligence Market research report shows the latest market insights current situation analysis with upcoming trends",
@@ -308,7 +264,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1429,6 +1385,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning.md",
+      "title": "AWS expands on SageMaker capabilities with end-to-end features for machine learning",
+      "excerpt": "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1085999578.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
+      "publishedDateTime": "2020-12-08T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

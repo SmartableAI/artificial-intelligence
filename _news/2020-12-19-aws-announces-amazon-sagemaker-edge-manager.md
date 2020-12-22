@@ -53,20 +53,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "AWS Announces Amazon SageMaker Feature Store"
-    excerpt: "AWS announced a new capability of SageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new SageMaker capability allows customers to create repositories that make it easier to store,"
-    publishedDateTime: 2020-12-17T12:08:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/12/amazon-sagemaker-feature-store/en/headerimage/croppted-Feature+Store-1608021403547.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+N+yxzu439+1za3c/7fO66o6vpyEPFwLpNVGhHuIEZWKASp7gKCbYbz8XIHvIQfsGR0HljUJIPDYEFt2mehEHnOIX7oYcbC/95X29d8MXkIAgqrxTGzY9z+LwC+AKX4Yr3iFTY5K6oEUkrT/snBoNb2FRZtW14tUF1zcn40jxxZ0pwoJlaIaM5lrQ49ZfLiwZZ+jBTn0k8wKffgcqP5IDLe6HvlnGNVOgHtkSor6cbpPeNowPYQizOJn39WIRApplnuyopgMDuP+3DpWe7vB5C2sNGchuDKdUolZQ9yn7abYOO+KpC9dHq7H3ASFf32XExISU0KZvwnwXSXyOG74h4T7IGKstnEtbIjI2bTUldLz/0rh1SiSZIls86umAyQ3s9MdQYzfYpwVe9TEP16DXY2ajbTOdcGq/Cx5+dB33Zwkvp45qmceImw6j1mD59JZNCY0uDbazC0qzlr6qTH63qyH6dudvkqvw3cojkdflkRkj1RNutLpvIjA5nQID4EQXyg+HLxsB5xA8LtB8uVQeg==;LBwTknsjcr7NDgzehdaTYQ=="
 ---

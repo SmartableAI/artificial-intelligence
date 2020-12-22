@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Social Media Market Report (2020-2029): Market Demand, Growth Prospects and Market Size | Google LLC, Facebook Inc"
-    excerpt: "MarketResearch.Biz –:As per a study on Artificial Intelligence in Social Media market, recently | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-12-17T11:47:00Z
-    webUrl: "https://www.eturbonews.com/2186492/artificial-intelligence-in-social-media-market-report-2020-2029-market-demand-growth-prospects-and-market-size-google-llc-facebook-inc/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 4
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Cellular Machine to Machine (M2M) Market Report (2020-2029): Market Statistics, Product Analysis and Immense Report | AT&T Inc, Verizon Communication"
     excerpt: "MarketResearch.Biz –:As per a study on the Cellular Machine to Machine (M2M) market, recently | eTurboNews | Trends | Travel News Online |"
     publishedDateTime: 2020-12-17T18:24:00Z

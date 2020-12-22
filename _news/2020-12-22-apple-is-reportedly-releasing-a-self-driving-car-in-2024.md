@@ -198,6 +198,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple Takes On Tesla With 'Breakthrough' Self-Driving Car"
+    excerpt: "Apple Inc. is set to take on Elon Musk’s electric vehicle company, Tesla, as it aims to produce a “breakthrough” self-driving car in 2024. In 2014, the company famous for it"
+    publishedDateTime: 2020-12-22T03:55:00Z
+    webUrl: "https://www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255"
+    ampWebUrl: "https://www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/14/apple-is-adding-labels-to-its-apps-so.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
     excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."
     publishedDateTime: 2020-12-21T15:23:00Z

@@ -73,6 +73,36 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Apple targets self-driving car by 2024 -sources"
+    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
+        width: 6026
+        height: 4017
+        isCached: true
+  - title: "Apple is Trying to Launch a Self-Driving Electric Car in 2024"
+    excerpt: "Protect the Old – About 10% of Vaccination Effort Can Prevent 90% of the Deaths Making Flu Vaccination Over Twice as Effective With a Pro-Active Public Health System"
+    publishedDateTime: 2020-12-22T01:17:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 44
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Apple reportedly plans production of electric car in 2024"
     excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
     publishedDateTime: 2020-12-21T23:18:00Z
@@ -209,6 +239,6 @@ related:
         height: 382
         isCached: true
 
-secured: "sbnTb0QdGQJcxA7fMg/uPc6snhoDwU4v+cVfEu3l66m7wvhD+95OIFVtTtKdylFv7m4Vm5pxoxB1AszEyhh7zs0gk834f/cWD5jx3sJL9ExaYax7WtpAtDKaex3HiuFHrPcqed8LwVrY4sEN4Z+h/ARcjQG8fRiwMcBKpfS5NHr8atNo6VLigu1mqIw4avydN769tWlgt0wyZyB6Oz1boAy4ZuD3WwtMSDmr5Dsp6pOMwogJx8nF4Nl33G1fbSa67SfWsOhV9BnVeAWZhisjbdOmo7ZPNCfhS02g1NBUzIjAFdkyXL3jUARvsdEek0ZZYPOGvuthNm4/5hEATkSz/gBX8NnN0jMl22xaqNTPJ8o=;BNWEs+UJn/4TXaKYd60qSw=="
+secured: "AjCwuoWXYaMMJLkF3w4SpMRcJLsm4B9peg4icjbYrZLe5C5h8nP1rkj4XIJ34MK1sWU9RLj9KACpcmcn1Lfr/9nyVLU7XImIcONrJCY9lElTBG7expvyB86WXe+X0Oo3LpnzILOntr8C1g/+fmAUFZaX2nNdUGP7i9vApkBn6Fh2FZQC6k/ympcWRRxUvoCCgFPHBjuC1gxNqOy65P/roGiSxNCnrROHnM3LiJH06kHtCkvPAbIcoQVfH6JUHZ7HwZoe8Q++OcD9IyYtbE5OCLx0sTCS5FEzJJU3FnHayIQXTzQ9aCQ6u/A3bl4TYaef1gDl5tzSwUhQI8SkVlFua4Aoy5doAHFr4kdw/tWGKOXiOWSgTVGxy5T2AWrn4sg1qnAmbPpHjX/c361EsyYsqc7pFkvkN5/Z9x2+UAKiNF8fz5/n6xdEZ21mDWUlhnRM4RfZfpo7hvod2KFy5/oYm/hMD9GbhE1xlqKFiCjkFjVHBNB3mCrqnfBxiglupecUiG8UxoPlS92fAJOF/PPJ5g==;PhbyBgfSWLh+QyUX8UztCQ=="
 ---
 

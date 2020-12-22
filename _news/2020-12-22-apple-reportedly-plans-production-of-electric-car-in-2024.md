@@ -75,6 +75,36 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Apple targets self-driving car by 2024 -sources"
+    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
+        width: 6026
+        height: 4017
+        isCached: true
+  - title: "Apple is Trying to Launch a Self-Driving Electric Car in 2024"
+    excerpt: "Protect the Old – About 10% of Vaccination Effort Can Prevent 90% of the Deaths Making Flu Vaccination Over Twice as Effective With a Pro-Active Public Health System"
+    publishedDateTime: 2020-12-22T01:17:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 44
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Apple sets 2024 deadline to build a self-driving electric car"
     excerpt: "Watch out, Detroit— tech giant Apple is putting its plans for a self-driving electric car into high gear. The maker of the iPhone has set a goal of 2024 to produce a passenger vehicle — complete"
     publishedDateTime: 2020-12-21T21:33:00Z

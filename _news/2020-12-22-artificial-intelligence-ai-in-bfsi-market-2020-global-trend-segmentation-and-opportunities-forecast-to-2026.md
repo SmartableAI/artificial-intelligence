@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-12-21"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-12-17T11:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

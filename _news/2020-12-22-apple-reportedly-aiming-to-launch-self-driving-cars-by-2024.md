@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
 type: article
 quality: 89
-heat: 219
+heat: 239
 published: true
 
 provider:
@@ -62,6 +62,36 @@ related:
       - url: "https://content.jwplatform.com/thumbs/rMyb8Khb-720.jpg"
         width: 720
         height: 406
+        isCached: true
+  - title: "Apple targets self-driving car by 2024 -sources"
+    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
+        width: 6026
+        height: 4017
+        isCached: true
+  - title: "Apple is Trying to Launch a Self-Driving Electric Car in 2024"
+    excerpt: "Protect the Old – About 10% of Vaccination Effort Can Prevent 90% of the Deaths Making Flu Vaccination Over Twice as Effective With a Pro-Active Public Health System"
+    publishedDateTime: 2020-12-22T01:17:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 44
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
+        width: 1024
+        height: 538
         isCached: true
   - title: "Apple reportedly plans production of electric car in 2024"
     excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
