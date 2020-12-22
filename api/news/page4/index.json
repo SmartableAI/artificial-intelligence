@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-17-googles-new-open-source-ai-model-understands-indic-languages-better.md",
+      "title": "Google’s new open-source AI model understands Indic languages better",
+      "excerpt": "Google’s various products, such as Search and Assistant, are already available in India in multiple local languages. The company is now turning to a new AI to potentially make more of its offerings accessible to Indic language speakers — more specifically,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-17-at-11.24.08-AM-e1608184545438-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
+      "publishedDateTime": "2020-12-16T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-nissan-builds-baffling-belly-surfing-gtr-x-2050-concept.md",
       "title": "Nissan builds baffling, belly-surfing GTR-X 2050 concept",
       "excerpt": "Nissan's design team has built a full-scale model of Korean designer Jaebum \"JB\" Choi's concept of an autonomous supercar for the year 2050. Conceived as a mind-controlled, rolling exoskeleton, the GTR-X is one of the year's most unusual concepts.",
@@ -836,6 +887,48 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan.md",
+      "title": "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan",
+      "excerpt": "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards.md",
       "title": "AMAX workstations gain new NVIDIA RTX A6000 GPU cards",
       "excerpt": "Server and workstation vendor AMAX has announced support for NVIDIA's professional-grade RTX A6000 GPU card in its workstations. The company, which aims its AceleMax workstations at artificial intelligence (AI),",
@@ -1136,110 +1229,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-trump-could-torpedo-a-bill-to-boost-funding-for-ai.md",
-      "title": "Trump Could Torpedo a Bill to Boost Funding for AI",
-      "excerpt": "The National Defense Authorization Act would increase US investment by $6.4 billion over 5 years. But the president could veto it over other provisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "originalUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd939cf55d4309f339343c4/master/pass/Business-Defense-Bill-AI-Trump-1290145039.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "publishedDateTime": "2020-12-16T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care.md",
-      "title": "Khosla-Backed Health AI Startup Raises $27.5 Million To Supercharge Primary Care",
-      "excerpt": "“We think that AI can be a superpower, where we can make the cost of care lower,” says Khosla, cofounder of San Francisco-based Curai, which announced a $27.5 million Series B financing round on Wednesday. The company has built a chat-based platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98d60ec452825cba9b7ec%2F0x0.jpg%3FcropX1%3D110%26cropX2%3D1816%26cropY1%3D0%26cropY2%3D959",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
-      "publishedDateTime": "2020-12-16T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

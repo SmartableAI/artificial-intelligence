@@ -38,18 +38,18 @@ related:
         height: 275
         isCached: true
   - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-    excerpt: "Inawisdom focuses on delivering cloud-native, full-stack solutions leveraging proven consulting methodologies and an analytics and machine learning platform built using Amazon Web Services (AWS). Financial details were not disclosed. Inawisdom marks ..."
-    publishedDateTime: 2020-12-21T10:26:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert/article_d3b8cceb-4b1a-5bf3-8955-7e1f822350f8.html"
+    excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
+    publishedDateTime: 2020-12-21T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 45
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/30/830f84f8-ed27-55fc-9993-c8c64935174a/5fe07a07d0d70.image.jpg?resize=400%2C209"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Cognizant continues M&A spree with purchase of AI specialist Inawisdom"
     excerpt: "Cognizant Technology Solutions Corp has acquired Inawisdom Ltd, a United Kingdom-based privately held firm that uses frontier"

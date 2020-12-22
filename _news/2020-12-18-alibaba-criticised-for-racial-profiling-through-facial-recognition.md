@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Alibaba facial recognition tech can identify Uighurs: Report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
-    publishedDateTime: 2020-12-17T17:43:00Z
-    webUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 61
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
     excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
     publishedDateTime: 2020-12-21T16:41:00Z
@@ -102,6 +86,22 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
         width: 939
         height: 630
+        isCached: true
+  - title: "Alibaba facial recognition accused of seeking out Uighur minority individuals"
+    excerpt: "The technology giant was developed with the capacity to spot members of this ethnic group, says IPVM. Alibaba facial recognition technology can specifically id"
+    publishedDateTime: 2020-12-22T09:00:00Z
+    webUrl: "https://www.qrcodepress.com/alibaba-facial-recognition-accused-of-seeking-out-uighur-minority-individuals/8538723/"
+    ampWebUrl: "https://www.qrcodepress.com/alibaba-facial-recognition-accused-of-seeking-out-uighur-minority-individuals/8538723/amp/"
+    cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/alibaba-facial-recognition-accused-of-seeking-out-uighur-minority-individuals/8538723/amp/"
+    type: article
+    provider:
+      name: QR Code Press
+      domain: qrcodepress.com
+    quality: 58
+    images:
+      - url: "https://www.qrcodepress.com/wp-content/uploads/2020/12/Alibaba-facial-recognition-faces-technology.jpg"
+        width: 845
+        height: 460
         isCached: true
   - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority, Report Shows"
     excerpt: "SHANGHAI - Technology giant Alibaba Group Holding Ltd. has facial recognition technology that can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report. Alibaba itself said it was dismayed a unit ..."

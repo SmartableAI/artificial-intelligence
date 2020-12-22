@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-07-lead-school-acquires-ai-powered-gamified-practice-startup-quiznext.md",
+      "title": "LEAD School Acquires AI-Powered Gamified Practice Startup QuizNext",
+      "excerpt": "The integration will bring new features for schools to serve their assessment needs while building practice habit in students through gamified elements and personalised recommendations",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361080",
+      "originalUrl": "https://www.entrepreneur.com/article/361080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607331033-Leadedit.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361080",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361080",
+      "publishedDateTime": "2020-12-07T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
       "title": "Google AI researcher's exit sparks ethics, bias concerns",
       "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology.",
@@ -1128,49 +1179,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
-      "title": "BlueScope Steel completes data and analytics overhaul",
-      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
-          "width": 570,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -894,34 +894,34 @@
     {
       "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
       "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
+      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
-          "width": 720,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T10:30:00-08:00",
+      "publishedDateTime": "2020-12-15T12:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -930,9 +930,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "Computer Vision"
       ]
     },
     {
@@ -1374,10 +1374,10 @@
     {
       "path": "_news/2020-12-11-lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning.md",
       "title": "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning",
-      "excerpt": "Lirio, a leading behavior change AI company that uses Precision Nudging(TM) to move people to better health outcomes, was awarded",
+      "excerpt": "KNOXVILLE, Tenn. and NASHVILLE, Tenn., Dec. 10, 2020 /PRNewswire/ -- Lirio, a leading behavior change AI company that uses Precision Nudging™ to",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1387,12 +1387,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T11:32:00-08:00",
+      "publishedDateTime": "2020-12-10T11:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1401,8 +1410,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

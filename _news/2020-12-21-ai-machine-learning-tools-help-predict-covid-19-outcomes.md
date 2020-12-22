@@ -57,21 +57,21 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "COVID-19 Analysis to Understand the Competitive Outlook of AI based Edge Computing Chip Market"
-    excerpt: "Researchmoz added a title on AI based Edge Computing Chip Market 2020 2026 to its collection of market research reports The study of the Global AI based Edge Computing Chip Market will include the analysis of all the comprehensive segments"
-    publishedDateTime: 2020-12-17T17:49:00Z
-    webUrl: "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai"
-    ampWebUrl: "https://www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai"
+  - title: "Comparing Google AI and human intelligence for the forecasting of COVID-19"
+    excerpt: "Junko Kurita et al. from Japan have compared Google AI forecasting with a statistical model by human intelligence and recently presented it in a preprint medRxiv* paper."
+    publishedDateTime: 2020-12-22T10:02:00Z
+    webUrl: "https://www.news-medical.net/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
+      name: News Medical
+      domain: news-medical.net
+    quality: 55
     images:
-      - url: "https://cdn.openpr.com/T/c/Tc17255954_g.jpg"
-        width: 687
-        height: 384
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9-1.jpg"
+        width: 1758
+        height: 1061
         isCached: true
 
 secured: "dGW0mMITbwufhUE33w7yiExIldWTSe18p+r22G52n0VJ1A/2n/iKEfdn5Qua1vr5IQmEijq8zDt6ccASiBsMYEcYoKaw2mGKk9wgoVkZir5H7i/nL9sGz07xotsRV/6motGDxs+7g39Hh+4OW31jvcrJlX5M8fDVn5rqpI+MtlMeKAof2BT15Rq1z0n1uIgGrhFe4tIrdOGlWgr+1ojmlDEdBsIFQP8aHrtn7VVV2Hbw39KJopYfIDY+KWtEnfvsp5Y0t1iRwQT5e3XpkWboWTLI+zYGbTnvUIP+dm/UKFzQkNaB85oxlx+WC5ZOOap9rtYz+xFPA1yzbDMiqEms2MzsuVGospj8oFk6ZBqkG/oUDlibokj9PD49749bcd1n3mQwDvFinFLRiJuCthsr5EE1xUFXqV4M2yKXUN2bhCXdS23FzXTRwynmZxrXRb9fikQ7JxsHjmQvIQatKTlWOUK0UXbQeXs2uwCn3tpj7DGIc5hOHiue+Iz2lcCvhfS11mzZxY7uqLk5OzqApq2/YA==;3V9kSJ+le3UNEUF9pIeNsQ=="

@@ -53,18 +53,18 @@ related:
       domain: sify.com
     quality: 54
   - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-    excerpt: "Inawisdom focuses on delivering cloud-native, full-stack solutions leveraging proven consulting methodologies and an analytics and machine learning platform built using Amazon Web Services (AWS). Financial details were not disclosed. Inawisdom marks ..."
-    publishedDateTime: 2020-12-21T10:26:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert/article_d3b8cceb-4b1a-5bf3-8955-7e1f822350f8.html"
+    excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
+    publishedDateTime: 2020-12-21T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 45
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/30/830f84f8-ed27-55fc-9993-c8c64935174a/5fe07a07d0d70.image.jpg?resize=400%2C209"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
     excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"
@@ -76,6 +76,6 @@ related:
       domain: channelweb.co.uk
     quality: 19
 
-secured: "/tBZF7nbt0Ia3Nj9MD3xNQTI6SvVBuUfr9VZQg0CRJ6IeTmioRMAWt9gyWmF+94qe4sBiebs9umYkut/rCmkMnedQOB+NgOCjmVGS2j9rLEEjEDnS/i8TQ+toAQz7buXC+KlL8CGLEk2kyJVwgqRnpvwqwu+esc2W4fwJqOoQ5Kj0V6rN8WUYTZx48R0Vg3+D5b4UWd2/yLkHQjJOOkkk9DvzU/Hs75LZQxU6yCkAsq8dAakwjTiS4SlrNSQV/upqDQWw/xsjI4prRi8DcoslFf5D/hiDnUOk6qeBjME82RdOfNkSzb8W2JKQxApEoVEfBxptyGkr3YSQV8nbPvt0h6In0jhmVxio2mMDqedHZs=;igakOGL2e3ujzOVv5ACBhA=="
+secured: "g6i+yrx/DlDZz6SNR1NkxomwzDalM7HjQf9eX3qRxMYFbRwPRpqhzVjhp1suiWKDE7SM0QUY6VOmFzv2JL5KzNu/o7+E8Xp5BExEmmQl6lYQLsgjEYziHl5n192+yDN+P1/fVgvlWhCKFWKhzb5IUhTEGPtlt6XAXXXkRGwtN2FvMHJ9UcBIZjYCGlGxbAODJTRrlLE11E5VycfoScTOy5G7gl2OFjAqhw0mYyLCBfG1wnLesWUdAriIuuqrWjm4eBSvaKKCURLU6ZJFhZyK4xsJIHR4katpdEJqdNIyh49lNlUBRzgtlZDSV2lTjcBPQKx8HFzmcucQvQUzyA4VSBJd5IeCU24I1+vzpEvRYBoG6rvOtuS31XhF+V0Ihk1LNSEk19mL+vtvMKxAZ1EsTg4S0Ae4IBzHxuGNQMvZu5fkHkxvMYFD7+XzKFkwfYrumfFOfL220BOwYN1rZCNBSopwgERIy9jsCYKzOQBGDwb8XSwjatHjhND+MsPz4afSCaFTGbpP1+yoPnWJpOOMPw==;YPDfMUQ24DH8nUvOnYPk1Q=="
 ---
 

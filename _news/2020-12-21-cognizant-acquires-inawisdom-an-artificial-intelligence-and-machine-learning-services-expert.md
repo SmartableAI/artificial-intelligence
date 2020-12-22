@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "Inawisdom focuses on delivering cloud-native, full-stack solutions leveraging proven consulting methodologies and an analytics and machine learning platform built using Amazon Web Services (AWS). Financial details were not disclosed. Inawisdom marks ..."
-publishedDateTime: 2020-12-21T10:26:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert/article_d3b8cceb-4b1a-5bf3-8955-7e1f822350f8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert/article_d3b8cceb-4b1a-5bf3-8955-7e1f822350f8.html"
+excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
+publishedDateTime: 2020-12-21T10:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
+webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
 type: article
-quality: 45
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/30/830f84f8-ed27-55fc-9993-c8c64935174a/5fe07a07d0d70.image.jpg?resize=400%2C209"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
+    width: 1198
+    height: 628
     isCached: true
 
 related:
@@ -77,6 +76,6 @@ related:
       domain: channelweb.co.uk
     quality: 19
 
-secured: "MGRFoLfoZ7tITrqqu+TyHPXFQPwz9SxYDpsLRhPt9Y261zdIOj673iaIfbBOMbzRM2ekG7FbYmcCwzAEAWHa7hNYPWfwNCrwynSnKQAPpPNEOv/w5Yk/OuoNnW299pPqdShQmTAu5CV78sQ/es4i5dTuH6FXWVY+Gi1Wichag+bsQ+aqblxfZjKRg9WrT4JtY2vJohdb0I1Zs86/XIkj3Uw8P98zAfA+z6+Y61DA60t+zR6YIEot5Jf4cm7AGJ9bi3n1yQyjNYsrFCnUFnSeWBd2KhD/z2IFjeta+rTCXCgem+5djXTFAl3oygOqmBNxrNJMcHmOft0bzC0aP72a017TdW/HKxi1FX85R/KEurw=;c1i94BiLUV9IrFVvDDyYUA=="
+secured: "clVLD9mLg3Nf8LgfsV1DbbMBXaQIkhrMvIDIaq2lUGx/khu1vJcjakYbiwmR2xzUjGLqMtW75bGzh/PLny7RVUtakX54StRgCY/pBhKPHJ9eRq2euzqXmD9Q7m703Uv//AFPGSD+rJXemhlnBsW/6a+4DGxvzjWnKht8bdjLv47mno2bmZDWwJdaFEK/aRSR8zZq4v1vF1RbyA4efjbx8kcWk/JaG9iii4m9kVO0/Y/0YdN4EuC3aqTEbBmm2Tr11LXqKDHafkmGdTXgt19ts14QYPyBpfyP8wGCb7+wyq/y4mVcG9kmVJ3xXZ6lGj/6timG0APJ06wOWUJj+zMszCsJ42/Ov3u13hvd/ftLRsg=;SbddsGXd0Gyr6oowF1nNuA=="
 ---
 

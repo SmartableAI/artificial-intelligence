@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-11-walmart-will-test-self-driving-delivery-services-with-electric-cars.md",
+      "title": "Walmart will test self-driving delivery services with electric cars",
+      "excerpt": "Walmart isn’t about to let rivals like Amazon delve further into self-driving deliveries without offering a response. As CNBC reports, the retailer has teamed up with GM’s Cruise for a self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "originalUrl": "https://www.engadget.com/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F193d73f0-236c-11eb-b7ff-013ec39834de&client=amp-blogside-v2&signature=369c6edefa2e5a90e90fdee66e67efa2adee8edf",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "publishedDateTime": "2020-11-10T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-vysioneer-mary-bird-perkins-cancer-center-endeavor-to-make-artificial-intelligence-accessible-for-precision-radiation-therapy.md",
       "title": "Vysioneer, Mary Bird Perkins Cancer Center Endeavor to Make Artificial Intelligence Accessible for Precision Radiation Therapy",
       "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
@@ -1126,49 +1178,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor.md",
-      "title": "Chip maker NVIDIA signs deal with Hyundai Motor",
-      "excerpt": "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "originalUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/4FTpGZSdcmCaK0uwJeO6vHuvyepDbptpALrkWU_jP4lg_FLQnBD59sgttsLIVuG465pflEEpFPablqlggoJ-=s1000",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "publishedDateTime": "2020-11-09T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

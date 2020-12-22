@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Brown County translation tech company acquired by Australian business"
-    excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."
-    publishedDateTime: 2020-12-17T18:29:00Z
-    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2020/12/17/brown-county-tech-company-acquired-by.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "7zrJFzIe2sz9mhHSzPKyUhZtNBCIzZfKsF3+2BA7+ql+9DmqcX5Ht/NSws/ziOpV/wLbqB8h9eV6ViLlNCdmi4TBM+HDKyD2zOmZNw5Hm9xtqfYiT06BNIUB2dOhvclvc9PE5PE4bdZr2UxVLe35TqaOyJNo+Vv7rcNuUYXIshcZl+XXHjQ3hzioxmWrwSEFMOAzThUgy5H1h9LJ+S7zCXM49tY6YzV24nWxtmIhfGklKfasP95aN0KVfXl6y0c4z+ipcpZ+S4OzsAjHXBvjsP+T6SjIVz7M6dzx02idV9JA4UmCbqnvcGvro9s2Cm5juBWYEKgySzbN3Vm5cEMJRqdiEwEk252kTuIcO6JRaaw=;erzrnyP4nzptTvMrEjZFTg=="
 ---

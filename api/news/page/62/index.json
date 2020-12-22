@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-11-06-deep-learning-prediction-of-likelihood-of-icu-admission-and-mortality-in-covid-19-patients-using-clinical-variables.md",
+      "title": "Deep learning prediction of likelihood of ICU admission and mortality in COVID-19 patients using clinical variables",
+      "excerpt": "The goal of this study was to develop a deep-learning algorithm (in contrast to previous methods) to identify the top, statistically significant predictors amongst the large array of clinical variables at admission to predict the likelihood of ICU ...",
+      "sourceUrl": null,
+      "webUrl": "https://peerj.com/articles/10337/",
+      "originalUrl": "https://peerj.com/articles/10337/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dfzljdn9uc3pi.cloudfront.net/2020/10337/1/fig-5-1x.jpg",
+          "width": 547,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PeerJ",
+        "domain": "peerj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-amazon-translate-now-enables-you-to-mark-content-to-not-get-translated.md",
       "title": "Amazon Translate now enables you to mark content to not get translated",
       "excerpt": "While performing machine translations, you may have situations where you wish to preserve specific sections of text from being translated, such as names, unique identifiers, or codes. We at the Amazon Translate team are excited to announce a tag modifications that allows you to specify what text should",
@@ -1184,49 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026.md",
-      "title": "AI Chipsets Market by Trends, Key Players, Driver, Segmentation, Forecast to 2026",
-      "excerpt": "Global Market Insights, Inc –:AI chipsets market is poised for robust growth on the | eTurboNews | Trends | Travel News Online |",
-      "sourceUrl": null,
-      "webUrl": "https://www.eturbonews.com/1427091/ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026/",
-      "originalUrl": "https://www.eturbonews.com/1427091/ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

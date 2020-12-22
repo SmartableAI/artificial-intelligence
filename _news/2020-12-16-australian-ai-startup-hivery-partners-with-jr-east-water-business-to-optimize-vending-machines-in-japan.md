@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
-publishedDateTime: 2020-12-15T18:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
-webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
+publishedDateTime: 2020-12-16T14:21:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
-    width: 400
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "TnHXnYj4hCtVV+tcBQUiRsQbFgL7EsLKx3dTmJ7F9oBgYpPUYmk6Z1HIWCAipcLH4s5H00Q3SrlvV2XKMyJ0nIhGUxbMwF0ej/akqARBZ8wNRt+X8yeKJkYnEE7MTv0IsKCq1RShJnNvCmZGq4OY8VrFBWnfDgCwTGW7sOyA8moLYxHS9B+GMpIiMKrTtUIk9kyY/RVzHE/u1nYWTzz1EaKAqB+QN4d7wA06YcLFgLGGhphl73l/73A8lw+blBTQ+PHqN9zA+qLgPSRXSNELXUaCh3tJIAxgvxgcJL12BLYWm0B/Cc9jBCGc4I7nUiSaf7A4KJm7GZlbKY3aMPP4gSVXo0cHavFl4XeNZvwXr2U=;f/rCKdUBgSsP4FT1F22+CA=="
+secured: "Ub4GkFg48SfWAfQnDnTDULuAn0O9/xpn/HI6lADe6Ubkwxv5B+0jpYNS88N+AxE9no7hiRCp8dBZLFpuFKrcUBHmFB6p3JcuEZ3UGo3F3c7+W7x+8xHyZDelNW6zQcZ+9NHajdCVMIt1/T1rmIOMbRcsL2z5TbbSvVSbvAHuT5RSsqkhKTvHOakZpdL6YtBEge2BV/I8/N1iBC9LqX5pV6CR7kAUcYNGxfiCIyPB+aDMuykE+YoFNSm4x2ojg/jjtn6r7Fy7/TiBxNYrOz9WtZkbfCIn8zcBXh/rQZooawBQRjyjmqvRTMgkL91NsuHLpnGfOqC7klrWllpxcwNX5J6Uz5xjGMZhfacaLmzUgbo=;iqSzerPGSIyWVotUNxiA3Q=="
 ---
 

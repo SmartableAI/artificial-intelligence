@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-04-intel-launches-new-xe-max-mobile-gpus-for-entry-level-content-creators.md",
+      "title": "Intel Launches New Xe Max Mobile GPUs for Entry-Level Content Creators",
+      "excerpt": "Several years after Intel announced it would return to the graphics arena, the company has launched its first discrete GPU — the Intel Xe Max. It’s not unusual for low-end parts and integrated GPUs to share common building blocks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/computing/316876-intel-launches-new-xe-max-mobile-gpus-for-entry-level-content-creators",
+      "originalUrl": "https://www.extremetech.com/computing/316876-intel-launches-new-xe-max-mobile-gpus-for-entry-level-content-creators",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2020/11/DG1-Feature-Intel.jpg",
+          "width": 1344,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-aws-launches-new-gpu-instances-for-machine-learning-and-hpc.md",
       "title": "AWS launches new GPU instances for machine learning and HPC",
       "excerpt": "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances.",

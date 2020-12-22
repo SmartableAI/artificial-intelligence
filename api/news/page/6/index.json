@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
-      "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
+      "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
+      "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
+      "excerpt": "Microsoft is bringing together Azure, analytics, collaboration and gaming technologies to build out a 'serious gaming initiative' for military and commercial customers.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
-          "width": 720,
-          "height": 482,
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/cb0f1967-7a6b-44b9-a4a4-a02e0ab6b920/studioalpha.jpg",
+          "width": 1527,
+          "height": 969,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T10:30:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "publishedDateTime": "2020-12-15T11:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-baidu-rockets-higher-on-electric-vehicle-plans.md",
+      "title": "Baidu Rockets Higher on Electric Vehicle Plans",
+      "excerpt": "Baidu, which is widely considered to be China's leader in artificial intelligence (AI) and self-driving cars, has reportedly engaged in discussions with automakers about its plans. Baidu hasn't ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +83,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1165,58 +1207,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025.md",
-      "title": "At 22.6 % of CAGR Deep Learning Market Share will increase and aimed to cross 6215.1 Million USD in 2025",
-      "excerpt": "Selbyville, Delaware. The report Deep Learning Market Analysis and forecast 2025 maintains enhanced dynamics and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

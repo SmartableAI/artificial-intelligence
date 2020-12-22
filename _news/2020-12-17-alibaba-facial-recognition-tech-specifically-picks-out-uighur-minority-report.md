@@ -1,26 +1,33 @@
 ---
 category: news
-title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
+title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
 excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-publishedDateTime: 2020-12-17T06:18:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
+publishedDateTime: 2020-12-17T11:25:00Z
+originalUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
-secured: "6i44fZnawZ2uwMDJQYKmIwaqMSctOBv++pI9yaBKfBPI672ad9qVePqoZeZvTaEet/QMH+IkSOzQsiIlI2bdoeKmDIn78LylRvlMx3wWjMDTGlbAyK6NIRIG/6qyVs9nXIWnz7+LV6Fpl6TyZBH38jNjvtlYDZCBlBua6KVnModatczQ6Tb4HoG+FYDHGsmujJ4OXJOg2V1ORL91UUl6UZmRKHoWsz+b5P0kJruFMX0aRx2lxKOly6Do/rDuRHMZBSNoBbyGFwCsBx0r7iVfDjZfNJAelnv6gICQWd+fKZkL8dFIaDo90/eJcXqTnuQLNmaWUbtxkl49d/qMBusECgMX3FEahTfjzrFmJgOSGuxXFXX7twcWtY/Xgiy3r7CPrRZDN2nNBNg718ceCbS7pydSPMmbEJPPBWXJuv6vIwbXDt4aZCLianeaG4Jy2x+TXXAMCT9CFXtztCmzsan5N6+Ia6dBn0RFv+YhnYYRHHPFgJUdkdHwyDrpjebHmOrD3hcuy6LcCq+TRGItFqtlSQ==;pImTninqlAm32YhcSCBuJg=="
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+    width: 817
+    height: 545
+    isCached: true
+
+secured: "cK0HCwd/iEKHCR5fGs5XyExbMWcrqkFU+QE0UQzTzAwR9mKuSPUQVwcUJ9jla29vTAUR2NvjIdDtkWr6BraNvd+TtWhCi+bRk+oLX2fO0HfrynXE2fYZEbkEvgg88oIDjZE27ofozaTYmsuJLOrqGA7k112xt0FvUmjzwG6eWOVAiQ7soSaFbcyVZUtBQsbPj0Tl7x2fAheIt5jcXDr8d3bISVCG5olGTrOKWqfAlH+fweGU/3JP3anofF4anD1RVwOk6Qeiqq9j04ocbJoZn3b/icuLe2LXI5GqtTcPCJpBs4EdyxndYXFZWGRrqnZP0huUpatpHKL7Rt8dfml9ELeb6QQnvmeQvLgvHXfnuhs=;u8H+xKiCgeI7DakJoKb/1w=="
 ---
 

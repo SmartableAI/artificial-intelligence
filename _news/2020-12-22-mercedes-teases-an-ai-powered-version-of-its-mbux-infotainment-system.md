@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-teas
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mercedes EQS To Offer Full-Width MBUX Hyperscreen With Artificial Intelligence"
+    excerpt: "Set to be unveiled on January 7th, the MBUX Hyperscreen promises to take the “operation and display of infotainment, comfort and vehicle functions to a new level thanks to artificial intelligence.” The company is keeping details under wraps ..."
+    publishedDateTime: 2020-12-21T21:37:00Z
+    webUrl: "https://www.carscoops.com/2020/12/mercedes-eqs-to-offer-full-width-mbux-hyperscreen-with-artificial-intelligence/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/mercedes-eqs-to-offer-full-width-mbux-hyperscreen-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/mercedes-eqs-to-offer-full-width-mbux-hyperscreen-with-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/12/Mercedes-EQS-MBUX-Hyperscre-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "An impressive start to the new year: Mercedes-Benz unveils the MBUX Hyperscreen"
     excerpt: "The world premiere of the MBUX Hyperscreen grants insights into the MBUX Hyperscreen’s role as the digital core of Mercedes-EQ’s top model, the progressive luxury saloon EQS. The digital communication format addresses journalists and multipliers and can be joined live on Mercedes me media."
     publishedDateTime: 2020-12-21T15:58:00Z
