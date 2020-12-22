@@ -85,7 +85,7 @@ related:
   - title: "Deepmind shows need of deep pockets to pay for AI"
     excerpt: "Deepmind made losses of £477 million last year and its Dublin-based parent waived a £1.1 billion loan to the company. The heavy losses reflect Google’s continued investment in Deepmind ..."
     publishedDateTime: 2020-12-18T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/edition/business/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
     type: article
     provider:
       name: The Times

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-project-titan-to-star
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-project-titan-to-start-electric-vehicle-production-in-2024-says-reuters/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple reportedly plans production of electric car in 2024"
+    excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
+    publishedDateTime: 2020-12-21T23:18:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/21/TELEMMGLPICT000190616575_trans_NvBQzQNjv4BqdNLuJDSj-bduoIdVkVeVwdhwat7RjkF5CleLcJsFAQc.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
     excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
     publishedDateTime: 2020-12-21T21:09:00Z
@@ -54,6 +70,6 @@ related:
       domain: morningstar.com
     quality: 3
 
-secured: "p3YbGWI8ZrbzJOLgROdTVscuUX1D7QglVpySEcQR4zCN9N0yXzbMIEg7nIG/9KNC1FgIT/YrJW44C9TtuEg6ecWQFFJ16z40j+naW4TZEmJKgXT5R+vWUnYl5aGosfd4hpDcPwsfzIb5ossupS0MUeXdYWprZThP49NgjSN7hFmRS5JqHF3DAvEaTyL/1qFIgwmVjSShhILPt2DLSCeixmNbnSnux+iTuukddJRaxib55uoZhSzVbZAvC4MwwJ4ai733IHj7SW7YF0h8vt4/OimtWJ7hGkv1XcXNweBVCeqyVbzYG6fy228Qd2rM+e1U4uxzWf3/EpyARtTIs7ZhAnZOMI0pMogD2y0hyEu/U1E=;z805dID9IsPJkYHyXOopUg=="
+secured: "qN7BjT28aD3IA5VApqVpbJ7SVnYOwAWIjKbdWbq14I7i0scXX0xKNGxwQRPj0Ytp7n9IOXHu80U6407PCo4TVIJpCjCsKwSObkoefCCpvjSQnWYKmCow0h7Z11SR9v14z7UwXikWfe4KmhjSUWFE9yBCWECFq4SlqNPmL8t78/VT0ST94loo5HX1dY0R+M4cGJN2Y5+pW51Uqp/gHJFc84hlF25gPhmuLwvm2w4fDKakwBqtW6vXVe10TpynCRxdiL5LDGxP7K53EppZvGy2wRdfHLaHdI5NxSTtdEbxv1l2v4twk5U+Fd7KfCy+rO2ZlihV8AhfJrqyKCbJQ9e/e9N0dcRHRS9XJyef2mzkwlWhR7XhvBKNr9x2sltFucJq1/eeg/JK5pMukqydT5q4KVfTwpM8tv8BM+pgvioI7sHZ/kXhN7cTOyfOqn5NCfme4oH3wLMT2xknmv5gZXc7WmXYchlau2h746Cb9rpp49lKIpQo5G5PQW1PuvHKGvEXcPox1DRf8i4kPRaZzJNKHQ==;4didNE+XY3CmrfiIPuLUBQ=="
 ---
 

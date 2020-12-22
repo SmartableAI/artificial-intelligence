@@ -119,6 +119,17 @@ related:
         width: 680
         height: 440
         isCached: true
+  - title: "Remember Apple's self-driving car? Report says it's coming in 2024"
+    excerpt: "Unlike #Waymo's and #Zoox's plans for #robotaxis, #Apple is reportedly planning to produce a mass-market #selfdriving electric consumer vehicle. #SiliconValley #tech #autotech #automotive"
+    publishedDateTime: 2020-12-21T19:25:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.html?page=all"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
   - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
     excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
     publishedDateTime: 2020-12-18T14:53:00Z
@@ -131,6 +142,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "KqpaFVvdQpKrGqC6s5EZeIcII5E++PPqkh5zdYskLEp0x79a08+Wl+CTQtJIrJ12Oax0A+rwJT+uu9f1InZImfZkzofUpkEarS/PtKH2VfRH9z43S/5Tg09T4LrkkNGu0SyhA+t4F76kjfsm9Cfyg9DfKjx/ItHEOW8xrcAm9k441EQE02MDWS6cWGSZzU8FiBEuzMR9o2M4ZKjiRJuRwyJITdhio93MmeqGuXt4J3OaP265Ija0B1SimEpGPF3MHGiEEetnDP+cQwnd6rpfUViTQX5nQJhq+jO9rrNNs0mVuhOesPTwjBYSht8W/Q5mfF7WRD8T4+snboPFdIYz3MLwbzA6e+gDrbP/pp26ny0=;7YJRxqRYcwldxu3R14nvbQ=="
+secured: "F0pI4y7zyF4Z2Z3YFhgQydA+xAkHcN24GxPtj/Cectq2owMvm3lQs6fmH2en3CLC2C8E0C/gAb408lUWopi0aJ2RZhOQvB9fUE87Q1AHF9blxD0Qds0FkZxPCXeTtznP7EtSy3x4WXESyen7+zslHPVn0dTv8Vd+2Yz774/O6QczE0NkVMRqtFaejoYGwU70oHTv2uA3DkZwG8Q+OeF0IquTil+DK511dT1N6QWuxOWqlbag1s30kqC35Q1BaLqqkRGSy5oNeuYGs69eBRw6cZXs6E+LqT8dpz9II5tTtRtS1wG9gnAHo6vSp0QkE6gblWeZd6Ma/lwNLpa1uEmh9tphCsjrh2dI+gPxib555QsK6oiWKC1yuWd482zin85nFZscnQaXMmDbwg6pWVfHvIM1VHE++5xqonu7SNChr6z1zjM1027P/46ftyT+aGL2nbUumKr30vwDtTQJx6gAhc3dtRsZdb0lkyq50ZMpO5C6tdB6TLpzd1UcngQaKMV2ZgOUvsGNqPGrPm/wKAUmhg==;XkQW279znQwX+gaMSKqGeA=="
 ---
 

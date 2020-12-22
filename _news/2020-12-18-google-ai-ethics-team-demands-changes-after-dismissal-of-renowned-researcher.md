@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-dem
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
 type: article
 quality: 101
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -61,21 +61,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google's AI Ethics Team Makes Demands of Executives to ‘Rebuild Trust'"
-    excerpt: "and if the legitimacy of the field as a whole is to persevere,\" Google's AI Ethics team's letter reads. The employees' letter continues, by asking for the removal of Kacholia, who the team states notified Gebru of her removal without notifying Gebru's ..."
-    publishedDateTime: 2020-12-17T07:04:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
+  - title: "Google workers demand reinstatement and apology for fired Black AI ethics researcher"
+    excerpt: "Timnit Gebru’s departure sparked outrage in the industry as it followed her paper criticizing the company’s diversity efforts"
+    publishedDateTime: 2020-12-17T19:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 74
+      name: The Guardian
+      domain: theguardian.com
+    quality: 67
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/105750686-1550688923203gettyimages-1086152010.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
     excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated."
@@ -90,20 +90,6 @@ related:
       - url: "https://kuow-prod.imgix.net/store/b13a90cc1ee5c6b568e14821e1f591ed.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
         width: 838
         height: 628
-        isCached: true
-  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired..."
-    excerpt: "Gebru, who studies the ethics of AI and was one of the only Black research scientists at Google, says she was unexpectedly fired after a dispute over an academic paper and months of speaking out ..."
-    publishedDateTime: 2020-12-17T08:35:00Z
-    webUrl: "https://wfuv.org/content/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 39
-    images:
-      - url: "https://wfuv.org/sites/default/files/logo_0.png"
-        width: 342
-        height: 240
         isCached: true
 
 secured: "y3Ph7lzOUCboifGLT2h7Q0JS8TQy67WqpByYP50m2r03Z6JNfKqd3odXzGMaiVeH+eyNcn+Xzr5o3ABKPAtqtZQ5vFhb1YkPxrq4H9wlCfTi908KPiv9qBjCXy1wqsZp0mxlHvdVPqFzLa192FSlfEfN4bunpXemL4u8Rt/zryUsWEY0zxrNtPA+IRYvRGKFMkwtTse6GBrFTY3CeWgfPP0vJkTGkjh1dTH2YgXtbsHfP1NnoWOem/uaU54ThlqqrLgnURjMomoJl5hUmc3Jkt4Ja/z1WNDk/q+nZOa+KzgC5bChniR+AkUQFOJKiVM+U8QpCi5WVFUKRjvVv47hPZurcAlqeyDL2yi4RiJBYP0=;2Q8WW3aPUdCDdAYlDYj0gQ=="

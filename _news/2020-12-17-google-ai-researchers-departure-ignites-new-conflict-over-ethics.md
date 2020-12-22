@@ -61,21 +61,21 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Google's AI Ethics Team Makes Demands of Executives to ‘Rebuild Trust'"
-    excerpt: "and if the legitimacy of the field as a whole is to persevere,\" Google's AI Ethics team's letter reads. The employees' letter continues, by asking for the removal of Kacholia, who the team states notified Gebru of her removal without notifying Gebru's ..."
-    publishedDateTime: 2020-12-17T07:04:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
+  - title: "Google workers demand reinstatement and apology for fired Black AI ethics researcher"
+    excerpt: "Timnit Gebru’s departure sparked outrage in the industry as it followed her paper criticizing the company’s diversity efforts"
+    publishedDateTime: 2020-12-17T19:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/16/google-timnit-gebru-fired-letter-reinstated-diversity"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 74
+      name: The Guardian
+      domain: theguardian.com
+    quality: 67
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/105750686-1550688923203gettyimages-1086152010.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
     excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated."
@@ -90,20 +90,6 @@ related:
       - url: "https://kuow-prod.imgix.net/store/b13a90cc1ee5c6b568e14821e1f591ed.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
         width: 838
         height: 628
-        isCached: true
-  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired..."
-    excerpt: "Gebru, who studies the ethics of AI and was one of the only Black research scientists at Google, says she was unexpectedly fired after a dispute over an academic paper and months of speaking out ..."
-    publishedDateTime: 2020-12-17T08:35:00Z
-    webUrl: "https://wfuv.org/content/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 39
-    images:
-      - url: "https://wfuv.org/sites/default/files/logo_0.png"
-        width: 342
-        height: 240
         isCached: true
 
 secured: "mJP043Xe5pkA/+KJLLy4GLZafNtZTAGxFJ1ImHCW5FPxOXScL+a7rU1qIsqH3u9hNWp6yOvLvQ9IPATgQphmFF2XMTxdxpEhYql2MJ/i0N9tXnMwM24p3Aqsr1qNmJxRgMjkldFQ2rkopBCIBGqwZlUTBY4qGVP3XS3dcfIIX2NprZWlh5CleIGWlfRYHpKhk7JTyOLS/K4hby1VbBXwbmbJGGxPFKnM6oh3oyStGriRAu9fxVadv8H7ycEmEOIyVAeLeP/zA/FffF+npiKsb1V3G5cix1YAeJ9ETtvSv7m1XItz8co3U3x6Rt8HCZCOK9ezluwzkjmwTrdUp7TIY9GPdXlcJ6JOe2jl15U4X6gH3nlSQ+2+V9wzXuyy8pipJ1LwnI6MNTqWTRrrrGisms1GJDr4V9euiSwP9BTuRvNO1+rqbb9yHu2T+Jer1wZ3e2p3TPSl9Gol+6wl2nXim1LgFYFz62bkAMtIrSC6COMYZl+y/2cdwDiWpxcCAEm2xd0EB8/tHJQHw/zb0I4QEQ==;CId03sjSQOa2qIr5yvlHyg=="

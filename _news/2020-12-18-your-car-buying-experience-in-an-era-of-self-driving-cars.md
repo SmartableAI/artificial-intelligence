@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -123,6 +123,17 @@ related:
         width: 680
         height: 440
         isCached: true
+  - title: "Remember Apple's self-driving car? Report says it's coming in 2024"
+    excerpt: "Unlike #Waymo's and #Zoox's plans for #robotaxis, #Apple is reportedly planning to produce a mass-market #selfdriving electric consumer vehicle. #SiliconValley #tech #autotech #automotive"
+    publishedDateTime: 2020-12-21T19:25:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.html?page=all"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
   - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
     excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
     publishedDateTime: 2020-12-18T14:53:00Z

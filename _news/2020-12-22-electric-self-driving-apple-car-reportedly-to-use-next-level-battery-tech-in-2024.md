@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 800
         isCached: true
+  - title: "Apple reportedly plans production of electric car in 2024"
+    excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
+    publishedDateTime: 2020-12-21T23:18:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/21/TELEMMGLPICT000190616575_trans_NvBQzQNjv4BqdNLuJDSj-bduoIdVkVeVwdhwat7RjkF5CleLcJsFAQc.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Apple's Self-Driving Car Could Be in Production as Soon as 2024 — Reuters"
     excerpt: "Reuters. -- A key component of the project, which the iPhone maker hasn't yet been made public, is the battery design that is said could reduce costs and increase vehicle range, according to an unidentified source."
     publishedDateTime: 2020-12-21T15:41:00Z
@@ -51,6 +67,6 @@ related:
       domain: morningstar.com
     quality: 3
 
-secured: "x8Ps0trY33SZPE/qqu+xI+yM1y4Yx0IeIklAJPQiZPlxC2Rskwt53TKj6ulUGTNjsWVlNw4alY3v10Lwy/FthAukAFkLicDeY9HDNdsb33GzwiRwfw+wFCtvvfBk9NvVluF3laWS1wqurt7HT/IgRU1kkS2on8cqURsGoC7/2uBoiiPzPzH8ZmjqfafSKFPaTXMAHVet1jXJ4R4u0QYtK+dVzHqLb3JKim66LLX+lnOaWNPmHk1T7TYPpEONnvFP3229YziNBR2IaK7/AMl/H5bCgOX5JA/qZnYQXJaqTT1S/kuBDJYZzpeWNSAG6p4ZGdJxBsmin7+w2NRx4TxVcouOEHO+1ybmWzukwuCOsto=;+DAy2LXFvz/C53ubxC/eLQ=="
+secured: "Vi8JBYTvNR0J6Yf1kyw4IvzF1jOqq99Aq0axUaIOpmjjzhykW7DdqFjEcaZj+5FulaXrLPiKyjz7a/aAcgpTyqR09TklIidMLvAnBuVhIW+2pQRY6XTRYRQU9pGZ14W5T5ihMANG68iMHquDYFHXdCzCRVunzolBhAsfwMETBB2iWi8LMLS7zpzvfuf03Re3Zv3KodrAEVP27b++d9AOn9inorIsLtk3iCky39Du1GbgGfEd3e30R1h/9R0YiCezvXhX8JnmdoiiRlvX7eyCqm/Hm3silLPW4lwqStvgsmESICbQ8LAA6xCQDWRTAfeEhY1GWNSMwVLMzUx4rUvao67f4x2seSEpHGkZWKhKcI7rEDKsDQBd4icpJVSTmFOS7SzMXR1IVELj+1iz+pG0knVN21kwD21BLgZdC5BkA+rVvfv7TspObHVNiWP6nlAjyWpzl903ZEJfEiEe+hkb5EY832j2I6RVSWl/YlCEyFJ0/+fsCG8/PXGx/rrSYbOUxGfnnwOMho4HFRiJR46Eag==;JkVfWQVL7PMXSI6GUPcdEQ=="
 ---
 

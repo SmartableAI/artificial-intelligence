@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-19-fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you.md",
+      "title": "Fable Studio unveils two AI-based virtual beings who can talk to you",
+      "excerpt": "Fable Studio has announced two new conversational AI virtual beings, or artificial people. Their names are Charlie and Beck.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/",
+      "originalUrl": "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/fable-CharlieFinal.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/amp/",
+      "publishedDateTime": "2020-12-18T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-alibaba-facial-recognition-tech-picks-out-uyghur-minorities.md",
       "title": "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities",
       "excerpt": "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -249,7 +300,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -457,7 +508,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -963,7 +1014,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1193,50 +1244,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-kangaroo-court-ai-education-machine-learning.md",
-      "title": "Kangaroo Court: AI Education – Machine Learning",
-      "excerpt": "The past five years have witnessed a steady growth in both the testing and application of AI solutions for both legal ops and litigation teams. Whilst many of these applications are early stage, some are beginning to see enterprise-wide adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
-      "originalUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aceds.org/wp-content/uploads/2020/10/Kangaroo-Court_Blog-3-1030x515-1.png",
-          "width": 1030,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ACEDS",
-        "domain": "aceds.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

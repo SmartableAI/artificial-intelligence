@@ -129,6 +129,17 @@ related:
         width: 680
         height: 440
         isCached: true
+  - title: "Remember Apple's self-driving car? Report says it's coming in 2024"
+    excerpt: "Unlike #Waymo's and #Zoox's plans for #robotaxis, #Apple is reportedly planning to produce a mass-market #selfdriving electric consumer vehicle. #SiliconValley #tech #autotech #automotive"
+    publishedDateTime: 2020-12-21T19:25:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.html?page=all"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
 
 secured: "JQC2eC5IoMZq/Ihd7HqAaeDSbSdYgdv8cz8U3vkAUoYCpW6F18KHUvv2gawzGhBr9CTTcmW4ZzTHJhD2/f/FLTwyoLSCy0xPyqCFWFP54hNtR4eAs51ZeoxlBRkO7lJGuNxmf24en1/pAI1K8PYzrmDuTWMJwNeLzHpvvvmYKYp04+7VuxiLwG28AY04pLT1VmgXjiHX57Rj/Akzc8nKRMIiDfHzF62k5nRDUPmwCtFbLrz3OfvLUZmj6UIguEQnHC3szzTCkS47ZIN3CquVf1antjEubGZuD6VcOnNeor+7OU/q4hlzvUM8ulmhsmABJiZR58ADEh5etY/6zAlU5TG9ccAUxFdyP2Dvwj5cdf4=;wwm0TEKaIA1GAFysL/fGlQ=="
 ---

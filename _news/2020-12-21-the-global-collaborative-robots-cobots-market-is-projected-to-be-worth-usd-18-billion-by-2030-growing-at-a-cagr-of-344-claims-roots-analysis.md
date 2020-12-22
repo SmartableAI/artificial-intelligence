@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Size Rapidly Growing at a CAGR of 18.4% by 2026"
-    excerpt: "The growth of the image recognition market is primarily driven by the increasing application of facial recognition in the financial industry and growing demand for security applications integrated with image recognition functions. Request for a sample ..."
-    publishedDateTime: 2020-12-17T08:25:00Z
-    webUrl: "https://www.openpr.com/news/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    ampWebUrl: "https://www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
   - title: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025"
     excerpt: "Reportlinker.com announces the release of the report \"Disinfectant Robot Market - Growth, Trends, Forecasts (2020 -"
     publishedDateTime: 2020-12-21T12:09:00Z

@@ -35,17 +35,6 @@ related:
         width: 500
         height: 400
         isCached: true
-  - title: "Image Recognition Market Size Rapidly Growing at a CAGR of 18.4% by 2026"
-    excerpt: "The growth of the image recognition market is primarily driven by the increasing application of facial recognition in the financial industry and growing demand for security applications integrated with image recognition functions. Request for a sample ..."
-    publishedDateTime: 2020-12-17T08:25:00Z
-    webUrl: "https://www.openpr.com/news/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    ampWebUrl: "https://www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
   - title: "Advanced Report On Automatic Content Recognition (ACR) Market, Which Is Expected To Reach USD 7,915.7 Mn By 2030 at 17.4% CAGR -Market.Biz"
     excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Automatic Content Recognition (ACR) Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats,"
     publishedDateTime: 2020-12-17T09:43:00Z

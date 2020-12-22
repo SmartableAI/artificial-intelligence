@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How face masks can disrupt facial recognition — and daily life"
+    excerpt: "Thanks to preventative measures to reduce COVID-19 transmission — including social distancing and wearing face masks — the possibility of meaningful public interaction is all but gone. “For those of you who don’t always recognize a friend or acquaintance wearing a mask,"
+    publishedDateTime: 2020-12-21T23:39:00Z
+    webUrl: "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/"
+    ampWebUrl: "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/face-masks-43.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Do I know you? Researchers evaluate how masks disrupt facial perception"
     excerpt: "The identification of people wearing masks has often presented a unique challenge during the pandemic. A new study by researchers from Ben-Gurion University of the Negev (BGU) in Israel and York University in Canada reveals the impact of this predicament and its potentially significant repercussions."
     publishedDateTime: 2020-12-21T12:46:00Z

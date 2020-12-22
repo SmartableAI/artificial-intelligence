@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cy
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Thales Speakers Bureau: Experts to Ponder Quantum Technology, 5G, Digital Identity, Cybersecurity and Artificial Intelligence"
-    excerpt: "Quantum technology, 5G, cyberdefence, cybersecurity, biometrics, AI, self-driving cars, drones... Thales experts will remove some of the mystery surrounding the technologies that will shape the world of tomorrow."
-    publishedDateTime: 2020-12-17T07:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-audio-equipment-driverless-cars-8ad58de78e57408c840ec0c4dd18c9e5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

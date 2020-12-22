@@ -35,6 +35,22 @@ related:
         width: 1440
         height: 800
         isCached: true
+  - title: "Apple reportedly plans production of electric car in 2024"
+    excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
+    publishedDateTime: 2020-12-21T23:18:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/21/TELEMMGLPICT000190616575_trans_NvBQzQNjv4BqdNLuJDSj-bduoIdVkVeVwdhwat7RjkF5CleLcJsFAQc.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
     excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
     publishedDateTime: 2020-12-21T21:09:00Z
