@@ -2,6 +2,155 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-11-19-dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions.md",
+      "title": "DLT Solutions Bolsters Hybrid Cloud, AI, Security and Other Software Offerings for the U.S. Public Sector with IBM Solutions",
+      "excerpt": "IBM Cloud Paks integrate the power of IBM Watson enabling clients to infuse AI into their systems to help automate complex processes, optimize employees' time and create more meaningful customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions-2020-11-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions-2020-11-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-uber-looks-to-partner-with-self-driving-companies-ceo-says.md",
+      "title": "Uber Looks to Partner With Self-Driving Companies, CEO Says",
+      "excerpt": "The remarks come days after a media report said the company was in discussions to sell its autonomous-vehicle unit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601521%2Fgettyimages-994728156.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
+      "publishedDateTime": "2020-11-19T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-natural-language-processings-impact-on-marketing.md",
+      "title": "Natural Language Processing's Impact on Marketing",
+      "excerpt": "So what does the surge in NLP use cases and technologies mean for AI in marketing? It’s huge if you ask Paul Roetzer, CEO and founder of the PR 20/20 and the Marketing Artificial Intelligence Institute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/9b53e77ff6714bfa8801c955a1e1bfc5.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
+      "publishedDateTime": "2020-11-19T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-zapata-raises-38-million-for-quantum-machine-learning.md",
       "title": "Zapata raises $38 million for quantum machine learning",
       "excerpt": "Zapata Computing has raised $38 million for its quantum computing enterprise software platform. The figure, which brings its total funding to over $64 million, will be put toward Zapata’s core ...",
@@ -1065,144 +1214,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall.md",
-      "title": "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall",
-      "excerpt": "CrowdStrike, an AWS Advanced Technology Partner ... s single lightweight-agent architecture leverages cloud-scale artificial intelligence (AI) and offers real-time protection and visibility ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall-2020-11-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall-2020-11-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T22:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-chatbot-on-mobile-platform-market-is-booming-globally-with-top-key-players-googlemicrosoft-windowsxaiandychatbotduolingo.md",
-      "title": "Chatbot On Mobile Platform Market is booming Globally with Top key players: Google,Microsoft Windows,X.ai,Andychatbot,Duolingo",
-      "excerpt": "The Global Chatbot On Mobile Platform Market 2020 Research Report is a professional and in-depth study on the current state of Chatbot On Mobile Platform Market. The report provides a basic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
-      "originalUrl": "https://www.openpr.com/news/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb19586246_g.jpg",
-          "width": 577,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
-      "publishedDateTime": "2020-11-18T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-why-is-the-obscure-b-side-harness-your-hopes-pavements-top-song-on-spotify-its-complicated.md",
-      "title": "Why Is The Obscure B-Side “Harness Your Hopes” Pavement’s Top Song On Spotify? It’s Complicated.",
-      "excerpt": "He was with one of his daughters, stopping at a gluten-free bakery (“Very Portland,” Malkmus jokes) when the Pavement song “Harness Your Hopes” came on — a ... the streaming giant and their algorithms to the degree that Spotify’s legal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stereogum.com/2105993/pavement-harness-your-hopes-spotify/columns/sounding-board/",
-      "originalUrl": "https://www.stereogum.com/2105993/pavement-harness-your-hopes-spotify/columns/sounding-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.stereogum.com/uploads/2020/11/mike-campbell-sheva-kafai-1605807500.jpg",
-          "width": 620,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T21:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stereogum",
-        "domain": "stereogum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

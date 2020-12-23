@@ -43,20 +43,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "How Northrop's tech scouting led them to this AI startup"
-    excerpt: "Like all defense companies, Northrop Grumman is on the hunt for technologies outside of its own industry that could be beneficial to themselves and their customers. Here's how that search led Northrop to invest some equity in a Philadelphia-based AI startup and how others can at least get on the radar."
-    publishedDateTime: 2020-12-18T18:56:00Z
-    webUrl: "https://washingtontechnology.com/articles/2020/12/18/northrop-deepwave-investment.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 37
-    images:
-      - url: "https://washingtontechnology.com/-/media/GIG/Washington-Technology/Staff/Ross-Wilkers.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "JJXjSa6/EZ1w227jyw9h7fuAm3zkoYAYRvf+mEAgYehUMuiRM3dKNLD6NmmaKW44qQRJYgDRHMITAcLaeYlwWS2knRcbiyGzXdjO9F+SgQjFKmql1gBXYSVQ6XdDVlemhz3y/XDJDxFuqRXmV7ewTvq0BtwVsfu6HvM7xHj5DWAS9Fa2bV1TOZKCgIrXBN3qDFYkoAvSpGsQ6tdwVIo/bPFL4VjKeT99GKrcolKsMpbf6os+iC87mDVL2+Uve7qtV305ZmN2Zz2OKAGZliJXWQEb/bHYQsaNU37JqfYQqRJ//fXqHuCOAxZooqPDC81r9dc5AhH5eoEPcH1FhuW5PTh6lkVwhuAabHY6EOg1PHU=;KKOhAKHAYnF+H7wSa2H9rw=="
 ---

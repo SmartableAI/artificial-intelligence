@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Global Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
+    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence (AI) in Manufacturing Market Upcoming Trends, Growth Drivers"
+    publishedDateTime: 2020-12-23T09:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-global-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2020-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
     excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
     publishedDateTime: 2020-12-18T20:16:00Z

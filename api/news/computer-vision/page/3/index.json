@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-26-privacy-in-china-the-growth-of-facial-recognition-technology-in-the-private-sector-raises-concerns-about-security-and-identity.md",
+      "title": "Privacy in China: the growth of facial recognition technology in the private sector raises concerns about security and identity",
+      "excerpt": "Facial recognition is used by Chinese authorities to pick people out of crowds and identify them. Now the technology is moving into the private sector, leading to calls for laws to regulate companies that use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "originalUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/26/7c41750e-2eee-11eb-be20-200ca6256645_image_hires_183447.jpg?itok=rHFj5_nA&v=1606386899",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "publishedDateTime": "2020-11-26T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition.md",
+      "title": "This AI tool generates your creepy lookalikes to trick facial recognition",
+      "excerpt": "If you’re worried about facial recognition firms or stalkers mining your online photos, a new tool called Anonymizer could help you escape their clutches. The app was created by Generated Media, a startup that provides AI-generated pictures to customers ranging from video game developers creating new characters to journalists protecting the identities of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-26T115747.122-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
+      "publishedDateTime": "2020-11-26T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-face-recognition-isnt-just-for-humans-its-learning-to-identify-bears-and-cows-too.md",
       "title": "Face Recognition Isn’t Just For Humans — It’s Learning To Identify Bears And Cows, Too",
       "excerpt": "It's hard for the average person to tell Dani, Lenore, and Bella apart: They all sport fashionably fuzzy brown coats and enjoy a lot of the same activities, like playing in icy-cold water and, occasionally,",
@@ -1275,93 +1380,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-global-computer-vision-in-the-healthcare-market-report.md",
-      "title": "Global Computer Vision In The Healthcare Market Report",
-      "excerpt": "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "originalUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb13143184_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "publishedDateTime": "2020-11-13T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-computer-vision-puts-a-focus-on-hygiene.md",
-      "title": "Computer Vision Puts a Focus on Hygiene",
-      "excerpt": "And AI technology and Computer Vision layered onto a business’s existing video camera system is likely to be the quickest route to that goal—for a fraction of the cost of manual monitoring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
-      "originalUrl": "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-23-why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-stays-out-of-schools.md",
+      "title": "Why Biden nominee Miguel Cardona should make sure facial recognition stays out of schools",
+      "excerpt": "The man Biden intends to nominate to lead the Education Department cares deeply about racial and class inequality. This is one way to show it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_52/3437707/201222-miguel-cardona-illo-2x1-jm-1057_5a1c83eb5d2179f470c9ab925385d35f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1252139",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1252139",
+      "publishedDateTime": "2020-12-23T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools.md",
       "title": "New York Issues First-In-Nation Moratorium On Facial Recognition In Schools",
       "excerpt": "New York Gov. Andrew Cuomo signed a bill Tuesday temporarily banning the use of facial recognition in schools, making it the first state to take such a step. The law suspends facial recognition and other biometric technology in both public and private schools until July 2022,",
@@ -560,10 +603,54 @@
     {
       "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
       "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
+      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
+          "width": 720,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research.md",
+      "title": "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research",
+      "excerpt": "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research-1029894667",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research-1029894667",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -573,14 +660,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T12:08:00-08:00",
+      "publishedDateTime": "2020-12-15T07:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -596,9 +683,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1383,102 +1469,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-exploring-azure-spatial-analysis-containers.md",
-      "title": "Exploring Azure Spatial Analysis containers",
-      "excerpt": "Azure’s Cognitive Services are a quick and easy way to add machine learning to many different types of applications. Available as REST APIs, they can be quickly hooked into your code using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.html",
-      "originalUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/02/rackspace-article-1200x800-100832023-large.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.amp.html",
-      "publishedDateTime": "2020-12-08T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-grasping-an-object-model-describes-complete-movement-planning-in-the-brain.md",
-      "title": "Grasping an object - model describes complete movement planning in the brain",
-      "excerpt": "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

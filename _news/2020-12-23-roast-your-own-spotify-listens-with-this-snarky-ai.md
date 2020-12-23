@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1400
     height: 933
     isCached: true
+
+related:
+  - title: "The 'How Bad Is Your Spotify' AI Is Here to Judge Taste in Music"
+    excerpt: "Look no further than the \"How Bad Is Your Spotify\" app that will cruelly rag on your taste in music. The A.I., created by digital culture publication The Pudding, is akin to a meaner, less thorough yet still fun version of Spotify's popular Wrapped function,"
+    publishedDateTime: 2020-12-23T09:42:00Z
+    webUrl: "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878"
+    ampWebUrl: "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 87
+    images:
+      - url: "https://d.newsweek.com/en/full/1691346/spotify-getty.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "fGy0XTjXc2QvmCs5nrgPCb0ogymz44ksjoD85vw4z63qG4UgIk3rznqmZd6qY9Q+O6SPvI/ZTbD/kuXTBpMCvUxDP+8Jv8ZtDaBLJFkEvhGPfn19LfNME+hEtAIA3Hrey8JMYTMuwgld9Ec+38q888xzb0wbmC3u113om+uy0mifMg+4HYUAaUfz/ISq4Riclx8quLhWV3d8Oc/GI9g6+iGaroAz9aJf+OkPQdvkSelpQg6LOQccAdDRgmiseBmR/1ZoHD/WhvAk+zeenx4q69yKTFAWKQ3oH9o9dYqlCWFUSNI3mjCCBzDbHDKmeyPaGrT2Xwo0NuPk2MIg22+GeVEPTk0rOMWwDFbYohhRS2Z76e4I0IZeNd63g6cp2JmPJLVjY0Mr2/kcJHAKndqwh+v9u6MpivVI1EBEvMPlMRa5DQJ5p2qkluIH3uMBzxKmmyQzGiP/RW7ZW56m8QdZb1LFTYY5+AfAc8hjQ0yIk1IcvvSiiFyCzbOcGjXHiPXNneXdqf+6dOd719lXWuNH6A==;obiXXE43ZiCQoyu72iNBmA=="
 ---

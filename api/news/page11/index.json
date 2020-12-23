@@ -2,6 +2,153 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-11-sophie-countess-of-wessexs-body-language-shows-growing-levels-of-confidence.md",
+      "title": "Sophie, Countess of Wessex's body language shows 'growing levels of confidence'",
+      "excerpt": "Analysing her signals, body language expert Judi James explained that Sophie’s levels of confidence is growing. The expert said: “There is a hint here that Sophie’s confidence is growing as a very top tier,",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "originalUrl": "https://www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/130/590x/Sophie-Countess-of-Wessex-s-body-language-shows-growing-levels-of-confidence-1371247.jpg?r=1607684643555",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "publishedDateTime": "2020-12-11T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise.md",
+      "title": "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?",
+      "excerpt": "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
+      "originalUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd2cbb4abc4e6125bd76adf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
+      "publishedDateTime": "2020-12-11T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented.md",
+      "title": "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented",
+      "excerpt": "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-hyundai-motor-buys-80-of-robotics-firm-boston-dynamics.md",
       "title": "Hyundai Motor Buys 80% of Robotics Firm Boston Dynamics",
       "excerpt": "Hyundai Motor Group agreed to buy a controlling stake in Boston Dynamics Inc. in a deal that values the mobile robot firm at $1.1 billion.",
@@ -778,10 +925,10 @@
     {
       "path": "_news/2020-12-11-lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning.md",
       "title": "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning",
-      "excerpt": "Lirio, a leading behavior change AI company that uses Precision Nudging(TM) to move people to better health outcomes, was awarded",
+      "excerpt": "KNOXVILLE, Tenn. and NASHVILLE, Tenn., Dec. 10, 2020 /PRNewswire/ -- Lirio, a leading behavior change AI company that uses Precision Nudging™ to",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -791,12 +938,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T11:32:00-08:00",
+      "publishedDateTime": "2020-12-10T11:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -805,8 +961,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1039,152 +1195,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy.md",
-      "title": "Salesforce claims its AI can spot signs of breast cancer with 92% accuracy",
-      "excerpt": "Salesforce says it developed an AI system -- ReceptorNet -- that can spot signs of breast cancer with 92% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
-      "publishedDateTime": "2020-12-10T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-joburg-extends-hours-of-licencing-centres-during-the-holidays.md",
-      "title": "Joburg extends hours of licencing centres during the holidays",
-      "excerpt": "The City of Johannesburg has announced that extra resources have been put in place to keep licencing centres open longer during the 2020 festive season and into early 2021. Between 1st December ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/",
-      "originalUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2019/01/Drivers-Licence-FAKE.jpg",
-          "width": 1966,
-          "height": 1107,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/amp/",
-      "publishedDateTime": "2020-12-10T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
-      "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
-      "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a5b72c8ec9d96b1c67cf5%2F0x0.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
-      "publishedDateTime": "2020-12-10T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

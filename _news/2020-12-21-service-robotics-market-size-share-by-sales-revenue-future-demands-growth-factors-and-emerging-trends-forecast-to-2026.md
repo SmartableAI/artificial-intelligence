@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
 type: article
 quality: 75
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
     excerpt: "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
     publishedDateTime: 2020-12-22T11:08:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Global Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
+    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence (AI) in Manufacturing Market Upcoming Trends, Growth Drivers"
+    publishedDateTime: 2020-12-23T09:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-global-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2020-12-23"
     type: article
     provider:
       name: MarketWatch

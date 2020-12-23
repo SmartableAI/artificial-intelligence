@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "How Northrop's tech scouting led them to this AI startup"
-    excerpt: "Like all defense companies, Northrop Grumman is on the hunt for technologies outside of its own industry that could be beneficial to themselves and their customers. Here's how that search led Northrop to invest some equity in a Philadelphia-based AI startup and how others can at least get on the radar."
-    publishedDateTime: 2020-12-18T18:56:00Z
-    webUrl: "https://washingtontechnology.com/articles/2020/12/18/northrop-deepwave-investment.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 37
-    images:
-      - url: "https://washingtontechnology.com/-/media/GIG/Washington-Technology/Staff/Ross-Wilkers.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Global Hearing Aid Market Outlook to 2023 - Rising Demand for Artificial intelligence - ResearchAndMarkets.com"
     excerpt: "The “Global Hearing Aid Market Outlook to 2023 - by Hearing Aid Devices and Hearing Implants, by Region, by Type of Distribution channel r"
     publishedDateTime: 2020-12-21T09:37:00Z

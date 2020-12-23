@@ -2,6 +2,161 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-11-16-this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects.md",
+      "title": "This open-source AI tool can make your video spectacular with sky replacement effects",
+      "excerpt": "Sky replacement tools are extremely popular in the current crop of photp-editing apps. Mobile apps such as Lighttricks’ Lightleap help you put up a new sky on your picture quickly. While for a more refined option,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Sky-replacement-video-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "publishedDateTime": "2020-11-15T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-nvidia-unveils-new-dgx-station-ai-workstation-joining-market-for-ai-appliances.md",
+      "title": "Nvidia unveils new DGX Station AI workstation, joining market for AI appliances",
+      "excerpt": "The GPU maker uses the annual SC20 supercomputing event to unveil a desktop model of AI computer with a new GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/e7399d9e-93ce-4f95-b2e3-7582476cb725/nvidia-200-dgx-station-reduced-size-graphic.jpg",
+          "width": 3983,
+          "height": 2555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "publishedDateTime": "2020-11-15T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-nvidia-launches-a100-80gb-gpu-for-supercomputers.md",
+      "title": "Nvidia launches A100 80GB GPU for supercomputers",
+      "excerpt": "Nvidia has launched its 80GB version of the A100 graphics processing unit (GPU), targeting the graphics and AI chip at supercomputing applications. The chip is based on the company’s Ampere ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/nvidia-a100.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "publishedDateTime": "2020-11-15T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
@@ -1025,162 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-reportedly-may-sell-its-self-driving-car-division-to-rival-aurora.md",
-      "title": "Uber reportedly may sell its self-driving car division to rival Aurora",
-      "excerpt": "Uber is in talks to sell its autonomous vehicle unit to startup competitor Aurora Innovation, TechCrunch reported. If it comes to pass, the sale of Uber Advanced Technologies Group (UberATG), would mark the end of a bumpy road for a division of Uber that was valued at $7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "originalUrl": "https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/1XMcOjiwPbJUbvLh6RtxKtpxphM=/0x0:2376x1782/1400x933/filters:focal(1101x896:1481x1276):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67789235/UberSF_TA_1.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "publishedDateTime": "2020-11-14T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-could-soon-pawn-off-its-scandal-ridden-self-driving-vehicle-branch-to-startup-aurora.md",
-      "title": "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Startup Aurora",
-      "excerpt": "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
-      "originalUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
-      "publishedDateTime": "2020-11-14T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-is-reportedly-in-talks-to-sell-its-self-driving-unit.md",
-      "title": "Uber is reportedly in talks to sell its self-driving unit",
-      "excerpt": "After years of development and some shocking incidents, the next step for Uber’s self-driving unit could be a sale. As first reported by TechCrunch and later Reuters, anonymous sources say Uber ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
-      "originalUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-02%2F5430acb0-4849-11ea-bbd7-fbd5befa7a93&client=amp-blogside-v2&signature=2cfe9b6f341db4e0e9a10ae572671c025ad82408",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
-      "publishedDateTime": "2020-11-14T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

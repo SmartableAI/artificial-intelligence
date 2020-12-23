@@ -2,6 +2,152 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-12-07-google-announces-week-long-journalismai-festival.md",
+      "title": "Google announces week-long JournalismAI Festival",
+      "excerpt": "Google on Monday announced a week-long JournalismAI Festival to help address key challenges such as using artificial intelligence (AI) to understand, identify and mitigate newsroom biases and increase audience loyalty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2020/technology/google-announces-week-long-journalismai-festival.html",
+      "originalUrl": "https://www.dailypioneer.com/2020/technology/google-announces-week-long-journalismai-festival.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/uploads/2020/story/images/big/google-announces-week-long-journalismai-festival-2020-12-07.jpg",
+          "width": 1000,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-deepcell-raises-20-million-to-identify-cells-with-computer-vision.md",
+      "title": "Deepcell raises $20 million to identify cells with computer vision",
+      "excerpt": "Deepcell, a startup developing technologies to identify cells using computer vision, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "publishedDateTime": "2020-12-07T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-3-top-artificial-intelligence-stocks-to-buy-in-december.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in December",
+      "excerpt": "These days, artificial intelligence is showing up in all sorts of new services. There's a reason: The use of AI is growing fast, and businesses putting it to good use are unlocking efficiencies and delivering better experiences to their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603469%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "publishedDateTime": "2020-12-07T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-artificial-network-model-describes-entire-movement-planning-in-the-brain.md",
       "title": "Artificial network model describes entire movement planning in the brain",
       "excerpt": "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key.",
@@ -1043,145 +1189,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work.md",
-      "title": "We can reduce gender bias in natural-language AI, but it will take a lot more work",
-      "excerpt": "If we know our models learn bias from data, perhaps de-biasing data is the best approach to solving the problem.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/",
-      "originalUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/gender.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/amp/",
-      "publishedDateTime": "2020-12-06T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-alphabets-deepmind-ai-has-solved-the-protein-folding-problem-that-could-aid-medicine-research.md",
-      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\" that could aid medicine research",
-      "excerpt": "TL;DR: DeepMind Technologies, a research lab in the UK owned by Alphabet, has developed an AI that can determine the folded shape of a protein in a matter of hours, which would typically require ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "publishedDateTime": "2020-12-06T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-panasonic-reveals-autonomous-wheelchair-and-wearable-robot-at-gitex.md",
-      "title": "Panasonic reveals autonomous wheelchair and wearable robot at GITEX",
-      "excerpt": "Panasonic is showcasing its autonomous wheelchair, PiiMO, which features object recognition, autonomous driving and controls via an app. Another Panasonic highlight at GITEX is the ATOUN MODEL Y, a high-tech wearable power assist suit that alleviates work ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/technology/455489-panasonic-reveals-autonomous-wheelchair-wearable-robot-at-gitex",
-      "originalUrl": "https://www.arabianbusiness.com/technology/455489-panasonic-reveals-autonomous-wheelchair-wearable-robot-at-gitex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T03:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

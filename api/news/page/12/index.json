@@ -2,6 +2,152 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-11-salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy.md",
+      "title": "Salesforce claims its AI can spot signs of breast cancer with 92% accuracy",
+      "excerpt": "Salesforce says it developed an AI system -- ReceptorNet -- that can spot signs of breast cancer with 92% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "publishedDateTime": "2020-12-10T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-joburg-extends-hours-of-licencing-centres-during-the-holidays.md",
+      "title": "Joburg extends hours of licencing centres during the holidays",
+      "excerpt": "The City of Johannesburg has announced that extra resources have been put in place to keep licencing centres open longer during the 2020 festive season and into early 2021. Between 1st December ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/",
+      "originalUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2019/01/Drivers-Licence-FAKE.jpg",
+          "width": 1966,
+          "height": 1107,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/amp/",
+      "publishedDateTime": "2020-12-10T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
+      "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
+      "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a5b72c8ec9d96b1c67cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "publishedDateTime": "2020-12-10T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely.md",
       "title": "Turing nabs $32M more for an AI-based platform to source and manage engineers remotely",
       "excerpt": "As remote work continues to solidify its place as a critical aspect of how businesses exist these days, a startup that has built a platform to help companies source and bring on one specific category of remote employees,",
@@ -1043,160 +1189,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
-      "title": "Humanoid Robot Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
-      "excerpt": "Global Humanoid Robot Market is valued at approximately USD 1,107 million in 2019 and is anticipated to grow with a healthy growth rate of more than 35% over the forecast period 2020-2027. Humanoid robots are the robots that usually be similar to the body shape and attributes of humans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-this-ai-powered-growth-tools-helps-in-getting-instagram-followers.md",
-      "title": "This AI-Powered Growth Tools Helps In Getting Instagram Followers",
-      "excerpt": "What is SocialMeep? SocialMeep is an AI-powered Instagram growth and automation tool that gets you real, organic Instagram followers. SocialMeep helps you increase your brand or business reach allowing you to grow your audience and revenue. Along with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361367",
-      "originalUrl": "https://www.entrepreneur.com/article/361367",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607585356-MyPost77.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361367",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361367",
-      "publishedDateTime": "2020-12-09T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai.md",
-      "title": "Lenovo Shows New Data Management Solutions for Hybrid Cloud, AI",
-      "excerpt": "Lenovo has considerably expanded its business customers’ options for working with hybrid cloud, analytics and artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
-      "originalUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/03/Lenovo.logo2020.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

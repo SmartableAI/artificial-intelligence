@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-ev
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
-    excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
-    publishedDateTime: 2020-12-18T17:37:00Z
-    webUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 58
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
-        width: 325
-        height: 325
-        isCached: true
   - title: "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector"
     excerpt: "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ..."
     publishedDateTime: 2020-12-21T20:59:00Z

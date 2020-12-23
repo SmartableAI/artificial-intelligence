@@ -2,6 +2,145 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-11-30-volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles.md",
+      "title": "Volvo Designs Driving Simulator Using Video Game Engine To Train Autonomous Vehicles",
+      "excerpt": "More autonomous vehicle researchers and engineers are turning to video games to enhance the performance and reliability of autonomous vehicles. According to TNW, Volvo has begun to utilize video games to assist in the development of autonomous vehicles and the AI algorithms that will drive them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
+      "originalUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers.md",
+      "title": "Automated transcription spells savings, speed and security for Griffith University researchers",
+      "excerpt": "Professor Elizabeth Kendall is the executive director of the Hopkins Centre at Griffith University, and leads a large team of researchers investigating rehabilitation and disability service delivery and community support.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-au/features/automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers/",
+      "originalUrl": "https://news.microsoft.com/en-au/features/automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/05/Griffith-NATHAN-architecture_evening-HIGHRES-38-e1573792208782-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business.md",
+      "title": "‘Dangerous’ And Hidden Microsoft Feature Could Destroy Your Career And Your Business",
+      "excerpt": "A new Microsoft 365 feature designed to boost performance could spark management and staff behavior that undermines it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc40308368520046e9ef540%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/amp/",
+      "publishedDateTime": "2020-11-29T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-israeli-ai-sports-highlights-company-expands-to-russian-market.md",
       "title": "Israeli AI sports highlights company expands to Russian market",
       "excerpt": "Since their launch last year, WSC Sports has grown into a world leader in AI-driven sports video technology, creating highlights for over 100 leagues and broadcast partners around the globe.",
@@ -1068,152 +1207,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance.md",
-      "title": "Cloud and AI: The biggest trends in personal and SMB video surveillance",
-      "excerpt": "Video surveillance systems are increasing in power and value, as new ways to gather, analyze, share, and store digital data are developed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "publishedDateTime": "2020-11-27T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer.md",
-      "title": "Volvo thinks gaming tech can help make self-driving cars safer",
-      "excerpt": "Volvo is using video game tech like VR headsets, simulations, and haptic feedback steering wheels to create a driving simulator to help make cars safer.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
-      "originalUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Polestar_wordmark_pos.png",
-          "width": 3003,
-          "height": 1363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
-      "publishedDateTime": "2020-11-27T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-ibm-smart-lineup-decisions-for-nfl-week-12.md",
-      "title": "IBM Smart Lineup Decisions for NFL Week 12",
-      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1126%2Fr781106_1296x729_16%2D9.jpg",
-          "width": 1298,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "publishedDateTime": "2020-11-27T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ESPN",
-        "domain": "espn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

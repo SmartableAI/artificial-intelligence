@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-22-mercedes-teases-an-ai-powered-version-of-its-mbux-infotainment-system.md",
+      "title": "Mercedes teases an AI-powered version of its MBUX infotainment system",
+      "excerpt": "When the new Mercedes EQS sedan hits the road next year, it will feature a new and improved version of the automaker’s MBUX infotainment called the MBUX Hyperscreen as an optional upgrade. The company says the ultrawide screen spans the entire front dashboard of the upcoming EV and adds AI to the mix to make using the system more intuitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "originalUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fee6f0f50-43cb-11eb-94eb-df4c84d9d453&client=amp-blogside-v2&signature=5244a6d8187979bfeadbace8c67d51749b3b2789",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "publishedDateTime": "2020-12-21T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-dispelling-three-popular-myths-about-ai.md",
+      "title": "Dispelling three popular myths about AI",
+      "excerpt": "However, implementing an AI strategy without knowing what you want to achieve can not only be costly but ultimately sets a business up for failure. To learn more about some common misconceptions that may be holding organizations back from yielding the full potential value of their investments in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
+      "originalUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
+          "width": 600,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
+      "publishedDateTime": "2020-12-21T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-artificial-intelligence-ai-in-bfsi-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026.md",
       "title": "Artificial Intelligence (AI) in BFSI Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026",
       "excerpt": "New Study Reports “Artificial Intelligence (AI) in BFSI Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. This report provides in depth study of \"Artificial Intelligence (AI) in BFSI Market\" using SWOT analysis i.",
@@ -554,7 +657,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -945,7 +1048,7 @@
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1132,111 +1235,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
-      "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
-      "excerpt": "Big tech companies are getting into the custom chip-making game in the hunt for improved performance and lower costs, shifting the balance of power in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "originalUrl": "https://www.wsj.com/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-274391/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201",
-      "publishedDateTime": "2020-12-20T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-how-to-create-space-for-ethics-in-ai.md",
-      "title": "How to create space for ethics in AI",
-      "excerpt": "It was not the observation of a disinterested observer but an optimistic vision for coalescing the ethical AI community around notions of power, justice, and structural change. Yet in the intervening months it has proven to be,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/",
-      "originalUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/humanAI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/",
-      "publishedDateTime": "2020-12-19T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],
