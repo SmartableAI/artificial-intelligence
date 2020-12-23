@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issue
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://media.wgrz.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "UPDATE: Lockport school district will follow new law barring facial recognition"
+    excerpt: "Lockport City School District is barred, at least for a while, from using its facial recognition-based surveillance system under legislation signed by Gov. Andrew Cuomo on Tuesday."
+    publishedDateTime: 2020-12-23T03:15:00Z
+    webUrl: "https://www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.amp.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/e/7e/e7ec7c62-4498-11eb-9330-171be70a2582/5fe25ec9d8afe.image.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "New York Halts Use Of Facial Recognition Tech In Schools"
     excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."

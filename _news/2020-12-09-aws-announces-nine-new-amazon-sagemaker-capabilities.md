@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-publishedDateTime: 2020-12-09T05:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
+publishedDateTime: 2020-12-09T11:13:00Z
+originalUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
+webUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "kpx9KFPp+/uY1LcBnNHL/4dbH6W3dU7HGmcYdWT4GhqliKych32qyIdglDWsiv+yQjm/PzxNULopvxJg71bJl5h+y+KlQePmPBcnJsfLMvOy6jwk/EEn0Zug+ON0D3LRFHCEMfzATQiBu0F/YCg5IbbhLgrWTzMgBLFqbI1xP0zfkkC1gM8X7Xbj8XSHZQQx9aiMax9tW+z9BpLwkor2xxgu5RV+xISvWIprDMtbpWadkkuhb28+10SQvwP9MF13MIAElp9cEsCLXh7Phc7/Pb2NNW06wovMDIA+aVuZXY5O8sUGLRstNvbOka1enkaZKnPNz4l5VuiLK/5TGOE3BhE4JQANjoZxDzsNeKhLXcs=;dOXAgePoxUM625LLK2EfjA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "gkUxvjVplH6J531Hl4UDETZdhTatEKeFeM+Srxl8XHuEUigcAxtjp/guCyodD1rbUgf1Dr6bojbFMH1sDGv6K87T3W8QNH9WdZwko82DacbtB1FT8GCzVrXIRUm9PG9crzhpajJ/T+yxNdZc+4/Fp48cl/UY19titowVAoVCjDl6HbRynaDQoZ+LkyjDpFvKO60hcFmfe/WiJZGmiPTAhMpNETVwN9xuH1gV1DZJ2Vc2znpmVq4YtV6VKzF7MNwiWKkkfSoCSQiGjH7dqdZsWq4HAccbI7XLXgw3aZMb1+xoEfOBE1ccOTSvrm3pD2Ol0aHVlxahAmsJVKhD8xEyg8qflC7ZMjx9iPGAk938LJ8=;TyLx7eD2DhsW3oJMTrP4RQ=="
 ---
 

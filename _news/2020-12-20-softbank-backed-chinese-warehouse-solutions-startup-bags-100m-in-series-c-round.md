@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Chinese autonomous driving startup WeRide bags $200M in funding"
+    excerpt: "WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the next-generation level 4 driving"
+    publishedDateTime: 2020-12-23T03:19:00Z
+    webUrl: "https://techcrunch.com/2020/12/22/weride-200-million-funding/"
+    ampWebUrl: "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/weride.jpeg?w=1024"
+        width: 1024
+        height: 614
+        isCached: true
   - title: "SoftBank-backed Chinese warehouse solutions startup bags $100m in series C+ round"
     excerpt: "Founded in 2014, Quicktron develops robot intelligent warehousing solutions based on artificial intelligence. AD. Remove this ad space by subscribing. Support independent journalism. Its business covers the research and development, production, sales ..."
     publishedDateTime: 2020-12-18T16:21:00Z

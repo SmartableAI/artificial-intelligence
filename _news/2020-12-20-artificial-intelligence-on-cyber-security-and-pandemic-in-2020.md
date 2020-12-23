@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI And Its Potential For Cybersecurity"
-    excerpt: "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before."
-    publishedDateTime: 2020-12-18T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ca54a147a4f0006753ed7%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "o2pug8Rbi8v1wM5WmClYMKuySDvwEC+mRnTJaM5F4xNiGlxo5nSBQskGmPGOSxd/eOKjXZSymghTDctTw9rzRfYz/Wu4ZCz7IVsEy+Cjy0lBxhOQmcpRgdxg9fN8JzmOWA5mESCDmiW2jkpPvmEws+NiVJh48lRGbXMqqviipSAPih6if+QB6nBtFJObbpEktIbZniiPGIVUgcSJCEbCvabOtrXBWkzT9cTdjZ+R2LViE5w/x6g4VwEI2nT1JixIg87d9+TcK6ig2ja0P7HTLEp461ArJsq96rlgI0y0RvQAXNKDSYjAwDX5yjPxLPs4GpVsBLpsQ3EiKeOyPv5bJT9w0/CSp1he0CZ0Vx96geQhKi/iV1PSLDfREo7dSKiWgB4VdEj65CSy94ZqZKUGkHtEQVP4guEl9IZpdzDuCyawMRieECuWM5NoObRCi9V7o6UlqFmQtiEwGBWOqstQ1GoOD0mHpuu00iaUen0ewbbqjtHhY43K7B1/n/o5HnBt8QwW4dHAnGN5VaolJZSVXg==;5P24QysxYiXf67GpeShUGA=="
 ---

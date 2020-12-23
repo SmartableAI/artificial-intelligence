@@ -85,6 +85,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "UPDATE: Lockport school district will follow new law barring facial recognition"
+    excerpt: "Lockport City School District is barred, at least for a while, from using its facial recognition-based surveillance system under legislation signed by Gov. Andrew Cuomo on Tuesday."
+    publishedDateTime: 2020-12-23T03:15:00Z
+    webUrl: "https://www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.amp.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/e/7e/e7ec7c62-4498-11eb-9330-171be70a2582/5fe25ec9d8afe.image.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Cuomo signs voter registration, facial recognition bills for New York"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
     publishedDateTime: 2020-12-22T22:14:00Z

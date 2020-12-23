@@ -55,22 +55,6 @@ related:
         width: 1367
         height: 911
         isCached: true
-  - title: "Transfer learning exploits chest-Xray to diagnose COVID-19 pneumonia"
-    excerpt: "A new study from Athens, Greece, describes the use of a deep learning algorithm that uses chest X-rays to diagnose COVID-19 pneumonia."
-    publishedDateTime: 2020-12-18T11:28:00Z
-    webUrl: "https://www.news-medical.net/news/20201218/Transfer-learning-exploits-chest-Xray-to-diagnose-COVID-19-pneumonia.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201218/Transfer-learning-exploits-chest-Xray-to-diagnose-COVID-19-pneumonia.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201218/Transfer-learning-exploits-chest-Xray-to-diagnose-COVID-19-pneumonia.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture27.jpg"
-        width: 1318
-        height: 1123
-        isCached: true
   - title: "Hyro Unveils Conversational AI Solution to Help Hospitals Avoid Being Overwhelmed by Patients Seeking COVID-19 Vaccinations"
     excerpt: "PRNewswire/ -- Hyro, developer of plug-and-play conversational artificial-intelligence (AI) solutions, today announced it has begun equipping U.S."
     publishedDateTime: 2020-12-22T13:32:00Z

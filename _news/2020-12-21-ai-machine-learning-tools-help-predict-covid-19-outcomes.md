@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-
 webUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-predict-covid-19-outcomes"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://skift.com/wp-content/uploads/2020/12/Aircraft-cabin-crew-Ismail-Mohamed-Sovile-Unsplash-scaled-e1608299910510.jpg"
         width: 1367
         height: 911
-        isCached: true
-  - title: "Transfer learning exploits chest-Xray to diagnose COVID-19 pneumonia"
-    excerpt: "A new study from Athens, Greece, describes the use of a deep learning algorithm that uses chest X-rays to diagnose COVID-19 pneumonia."
-    publishedDateTime: 2020-12-18T11:28:00Z
-    webUrl: "https://www.news-medical.net/news/20201218/Transfer-learning-exploits-chest-Xray-to-diagnose-COVID-19-pneumonia.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201218/Transfer-learning-exploits-chest-Xray-to-diagnose-COVID-19-pneumonia.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201218/Transfer-learning-exploits-chest-Xray-to-diagnose-COVID-19-pneumonia.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture27.jpg"
-        width: 1318
-        height: 1123
         isCached: true
   - title: "Hospitals in California running out of room in face of COVID-19 surge"
     excerpt: "The children's parents say the five teens didn’t hesitate for a moment to help their kids and deserve all the recognition in the world. The two planets passed so close to each other - still millions of miles apart - that their alignment appeared like a ..."

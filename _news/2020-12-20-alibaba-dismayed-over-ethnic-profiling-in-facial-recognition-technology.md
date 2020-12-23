@@ -39,22 +39,6 @@ related:
         width: 903
         height: 1177
         isCached: true
-  - title: "Alibaba says Uygur-tracking facial recognition violates company values, removes software"
-    excerpt: "Alibaba says it removed software that could detect Uygurs and other ethnic minorities, saying it does not permit technology that identifies specific ethnic groups."
-    publishedDateTime: 2020-12-18T12:37:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 80
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/18/6b952082-40ed-11eb-be63-b2d34bb06b66_image_hires_205018.jpeg?itok=CTdRTvyB&v=1608295826"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
     excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
     publishedDateTime: 2020-12-21T16:41:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://www.qrcodepress.com/wp-content/uploads/2020/12/Alibaba-facial-recognition-faces-technology.jpg"
         width: 845
         height: 460
-        isCached: true
-  - title: "Alibaba criticised for racial profiling through facial recognition"
-    excerpt: "Chinese e-commerce giant Alibaba has developed facial recognition technology trained to detect members of China's Uyghur minority in videos. In a report published on Wednesday, US-based surveillance industry publication IPVM said that it found details of a digital 'alarm' on the website of Alibaba's cloud unit."
-    publishedDateTime: 2020-12-18T11:54:00Z
-    webUrl: "https://www.computing.co.uk/news/4025189/alibaba-racial-profiling-facial-recognition"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/a028426/847621e3-35eb-4676-b86b-ded5daa93aac/4/Uighur-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
