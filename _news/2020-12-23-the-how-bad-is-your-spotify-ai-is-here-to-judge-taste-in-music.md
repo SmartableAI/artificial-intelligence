@@ -46,7 +46,21 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Forget Spotify Wrapped, this AI skewers your streaming music tastes"
+    excerpt: "Instead of some snooty human wanting to “educate” you on appropriate musical tastes, you can now let an AI simply tear those tastes down. The AI-powered “Judge Your Spotify” bot goes through your Spotify history before summarily launching a verbal assault on your pathetic tastes."
+    publishedDateTime: 2020-12-23T12:23:00Z
+    webUrl: "https://www.fastcompany.com/90589897/forget-spotify-wrapped-this-ai-skewers-your-streaming-music-tastes"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/12/p-1-forget-spotify-wrapped-this-ai-skewers-your-streaming-music-tastes.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "v+aTpEKACy8cpkOeIiSZ1UyxXTaRh1MpeVnCShOVehOQjhxCu6w/4Mf5cBQ4flCUUZxFhvo6dmv4rsIcEUxZAM06SknQ5dE3p4+tP1UrSJDn3khrOVzfA5/uVVbB0ptoxXZsw0HEatdG/kpXyX0aV6c+ZaCT29bbdcQuSOsVaJdzkvpvjvkhMx5p6Oid63Nrns40KehEfgfj8rlA70HO2ExWp/7O0e61FLAPTKQjWn3YgwUJz5nftp/jgB6NPin4MoGXup0xYwz+ofiUrXeFFsTHOUs+d0ziH4GfCmbh7nMa6732VntwQhePeo2Idy/Yp44yCsoeGBzELP30S7c6bpMTNNi7aNd43Lb/xp0WQ8c=;8j18YVHQqsZw0zFQD7FVSQ=="
+secured: "ckJq3HAgq4mPKv5S9JeElyLQz4SX0mr/CAa+SEAuW1uIlyWORY7uhSTNt3XiAhv6r8EHGJx8We1Oz0vQIgrXKeuMxWePbL9IsepzIOPvUXc9iENta+6UF+GU6/fjWwbQW/PyryRwvagthLJwlIpMcysdDtiMStnnvwjWoyOUiXJHtVKHuxFtjP76Jm5tlF2w3sQ2g/x1eF9nQ255KNsyxj8ddIrxZhRg7JLdbIaXizwFK2eKjEnY1MJTS7minB9w47ycfEkivU7qGt9OmSPyC9x9sscknX6CIwKZdUL5FboUq0EJZMFW2Z6XurSuYvBfmR0JNYosk5/dZU6F1Mpp9aNp0JvNd7OVsxUxLg4s9pw2mYxOXUALVLGGJ7vtdosd+HlCTMZkcK6Dw+N16wb91RS73j8suJkPlB5wJmB6PtjDBQokJAfjznWhgv+LyTShx0vrWxaMGBGPlvhEs4cfx/cKOf3jotMtfNjhBVfIj4guDkPDRkhKWIYZ6wLgxg/92lYMixB85uN6SVg10mtXEw==;zRwrsxLekkVFaKosJFRS6g=="
 ---
 

@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation"
-excerpt: "Microsoft is bringing together Azure, analytics, collaboration and gaming technologies to build out a 'serious gaming initiative' for military and commercial customers."
-publishedDateTime: 2020-12-15T19:13:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+excerpt: "Another way the Softies describe the mission of the Studio Alpha team is that it's creating a wargaming and simulation platform for Azure decision making that is data-driven, AI-driven and tech-driven. Microsoft's first public customer (or \"partner,\" if ..."
+publishedDateTime: 2020-12-15T21:37:00Z
+originalUrl: "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+webUrl: "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
 type: article
-quality: 109
-heat: 129
-published: true
 
 provider:
   name: ZDNet
@@ -30,35 +27,6 @@ images:
     height: 969
     isCached: true
 
-related:
-  - title: "Microsoft’s Azure Studio Alpha Solutions Applies Gaming Principles to Big Business"
-    excerpt: "Microsoft is debuting a new Azure-powered solution called Studio Alpha, aimed at brining gaming ideals to enterprise and government"
-    publishedDateTime: 2020-12-16T14:05:00Z
-    webUrl: "https://winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/12/16/microsofts-azure-studio-alpha-solutions-applies-gaming-principles-to-big-business-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 68
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/05/Project-xCloud-Servers-Microsoft.jpg"
-        width: 940
-        height: 528
-        isCached: true
-  - title: "Microsoft is working on its own PC chips"
-    excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."
-    publishedDateTime: 2020-12-19T04:57:00Z
-    webUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html"
-    ampWebUrl: "https://mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/380838-microsoft-is-working-on-its-own-pc-chips.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 56
-
-secured: "i/2re4G3946RqwETUunXKWJmERHILI8A/ixoszwmJLZN8d1jB2YRZeqpobn38fLNgEewh172EKW/W6jnJWZvmRpv3sgYPCg0d/741eCx0W+1GdDerIOu1JdP2xbPO0OAHVBhzJBUqTnaVsx2XnEET2E90l/bQEuvTLEU2vhKpD7XEx+ibPYpReD0UIxi6yM5K5z5KJcPuXHQDGaGodqL+G+7o9KRbXE1CwLDBjhLIcQ/1PgG7dEH35rb7R2p2X+17kCoXozkJcAHWfUOu/xJdzcWZzYZhVSVCO0tyfKZ+X/HqGgdPvQNmKGoWt4BaFw9PJ5AoMx+VcgVfvd7AI9kJkPVuZv9WM7Jrl5VSqT57LKdoZnCUXvg2aCYkIdgJfc/2z38lj3+e3zVCbLrD3Drr0cr5YMr0+hjwtR3DDjEZCfB4o3K/a1kTkcrhxI2PqqAixUO2jIL2rJL+gKQFPiELNaPT0s1Mr0ZBXqNGAsPMXeYru3v6DL2w8jGRcBxn1FVH1mBiy9HI94gxSPi18HBmw==;tJgNibgVkpn3BJoo/bJbIg=="
+secured: "VEvmmh9/dbL0jQTR30B6JbPSxeWabZA5xOO/F6hh30nKi2v3tCX+tapcNS9oQbedHwUqmrwSmgc8lGzLnPr9uSMw/puVBBHMIlM67q2pfSJ/nry4KWk1Asey1++QS66O6Ty+qT8NMtEfI2nQfmAUIOL6hERv23d3STx2J8jEvxRcUKHXmusyy5JJqdpNUWwAJlYGkIDgDDB8qfp0ha9fyxJeiZiDYvOsTBchqClu22J+qg5c/WWzG7qbyyu0/W7mYLePqVj7iQE4qMx4mCdzhNkB7NVyObuWnUCwuOlp8KrY8dvCgXhjAMfgRQ432AULWqit4tcxmAStwtTH6aCyRJ57Kktt6VpSIh4TUk71JHM=;cufoLdaw+mtKhysnbdiElg=="
 ---
 

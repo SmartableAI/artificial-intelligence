@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9-1.jpg"
         width: 1758
         height: 1061
+        isCached: true
+  - title: "COVID-19 Impact Analysis for Artificial Intelligence and Cognitive Computing Market 2020 | Size, Opportunities & Forecast To 2026 Market.biz"
+    excerpt: "Artificial Intelligence and Cognitive Computing Market 2020 Projected to Witness Vigorous Expansion by 2026. The Artificial Intelligence and Cognitive Computing Market research report discussed the current and future trends of the market in both current and emerging markets."
+    publishedDateTime: 2020-12-23T11:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-analysis-for-artificial-intelligence-and-cognitive-computing-market-2020-size-opportunities-forecast-to-2026-marketbiz-2020-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "aRtFO2jRjmJXOY66+LTEcOo2KwqziL1B6JNZGYyZoTVfjiUESjjjgUjf8lpVoXZr83soIOMdUJL3zGIWicyCrhCiQNbvxixP8ZDDTQRZqWUV4vWJ4R49NAdAJCxWm1VHANEMbe69/Hc1goKZIu1zrLRb5T4RdiJmNs10pVryeUF+f3dHOZGLkdPm4U7zhv8voHwckN/a5ysVnvn6P7jmLjC6NUSZS+aiO2BH7ofySn+lp6qViIokVNZUGYrd3sRG0EijXf99w4h/nF9yuKwUKGjGarCCqRnq5tE58aE0jd8yo/vHnJXO8L7UyIbyGE84PAlvKi0BPQWjGQbvE9EplQuzDbdLx2PlgIp05MU2fuZHbk1FiFLPrBkKv7R9LkqNgnZ99KbC1e1S94JQBbYvKfQP2A/rtk7Eti8ugQGoKMls6TzvLuSqn5gzOo7zJdc91D+9nP5qpXJCGMXv0TT00CXordX98VoQ1LGUlzPzVR7zBj6JuQGFnG3Z+fl7uKyJVYgpM+d3Yb09AxW/2p59yw==;HeEfREmXrEGQtEmsRQMeTA=="

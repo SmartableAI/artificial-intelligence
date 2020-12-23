@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1691346/spotify-getty.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Forget Spotify Wrapped, this AI skewers your streaming music tastes"
+    excerpt: "Instead of some snooty human wanting to “educate” you on appropriate musical tastes, you can now let an AI simply tear those tastes down. The AI-powered “Judge Your Spotify” bot goes through your Spotify history before summarily launching a verbal assault on your pathetic tastes."
+    publishedDateTime: 2020-12-23T12:23:00Z
+    webUrl: "https://www.fastcompany.com/90589897/forget-spotify-wrapped-this-ai-skewers-your-streaming-music-tastes"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/12/p-1-forget-spotify-wrapped-this-ai-skewers-your-streaming-music-tastes.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "fGy0XTjXc2QvmCs5nrgPCb0ogymz44ksjoD85vw4z63qG4UgIk3rznqmZd6qY9Q+O6SPvI/ZTbD/kuXTBpMCvUxDP+8Jv8ZtDaBLJFkEvhGPfn19LfNME+hEtAIA3Hrey8JMYTMuwgld9Ec+38q888xzb0wbmC3u113om+uy0mifMg+4HYUAaUfz/ISq4Riclx8quLhWV3d8Oc/GI9g6+iGaroAz9aJf+OkPQdvkSelpQg6LOQccAdDRgmiseBmR/1ZoHD/WhvAk+zeenx4q69yKTFAWKQ3oH9o9dYqlCWFUSNI3mjCCBzDbHDKmeyPaGrT2Xwo0NuPk2MIg22+GeVEPTk0rOMWwDFbYohhRS2Z76e4I0IZeNd63g6cp2JmPJLVjY0Mr2/kcJHAKndqwh+v9u6MpivVI1EBEvMPlMRa5DQJ5p2qkluIH3uMBzxKmmyQzGiP/RW7ZW56m8QdZb1LFTYY5+AfAc8hjQ0yIk1IcvvSiiFyCzbOcGjXHiPXNneXdqf+6dOd719lXWuNH6A==;obiXXE43ZiCQoyu72iNBmA=="

@@ -45,6 +45,22 @@ related:
         width: 735
         height: 489
         isCached: true
+  - title: "Reliance partners with Microsoft News Today"
+    excerpt: "Chennai: Reliance General Insurance (RGI) a 100 per cent subsidiary of Reliance Capital has brought in speed and acceleration to its vehicle claim process by introducing 'RAPID' equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
+    publishedDateTime: 2020-12-23T11:02:00Z
+    webUrl: "https://www.nyoooz.com/news/chennai/1534521/reliance-partners-with-microsoft-news-today/"
+    ampWebUrl: "https://www.nyoooz.com/amp/news/chennai/1534521/reliance-partners-with-microsoft-news-today/"
+    cdnAmpWebUrl: "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/chennai/1534521/reliance-partners-with-microsoft-news-today/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 59
+    images:
+      - url: "https://www.nyoooz.com/df-images/chennai/df-chennai-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft designing its own chips for servers, surface PCs"
     excerpt: "Building on decades of x86 ecosystem innovation, we are committed to providing customers the world’s best CPUs and new products from GPUs to AI chips,” Intel said in a statement. “In this expanding market, we expect to gain share in many areas like ..."
     publishedDateTime: 2020-12-19T08:10:00Z

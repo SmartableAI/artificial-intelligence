@@ -7,7 +7,7 @@ originalUrl: "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-ale
 webUrl: "https://ipvm.com/reports/alibaba-uyghur"
 type: article
 quality: 139
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13797760/16x9/991/557/d3e1beceb66f9ee912da61e69dfc72d1/Pd/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
         width: 991
         height: 557
-        isCached: true
-  - title: "Alibaba ‘Dismayed’ Over Ethnic Profiling Feature in Facial Recognition Technology"
-    excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."
-    publishedDateTime: 2020-12-18T19:45:00Z
-    webUrl: "https://www.cfo.com/technology/2020/12/alibaba-dismayed-over-cloud-unit-including-ethnic-profiling-feature-in-facial-recognition-technology/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 34
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-614202874.jpg"
-        width: 594
-        height: 396
         isCached: true
   - title: "Alibaba Seeks to Distance Itself from Uighur Facial-Recognition Software"
     excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."

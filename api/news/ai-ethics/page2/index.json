@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-05-ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics.md",
+      "title": "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",
+      "excerpt": "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
+      "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/",
+      "publishedDateTime": "2020-12-04T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
       "title": "Google AI researcher’s exit sparks ethics, bias concerns",
       "excerpt": "Jeff Dean, Google’s chief of AI research, reiterated Google’s position ... including a deal to manipulate sales with rival Facebook. Texas Attorney General Ken Paxton announced the suit ...",
@@ -1399,58 +1454,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-the-future-of-work-work-ethics-by-yudhanjaya-wijeratne.md",
-      "title": "The Future of Work: ‘Work Ethics,’ by Yudhanjaya Wijeratne",
-      "excerpt": "He had earned that rare and elusive acknowledgement, whispered behind his back: He’s a Creative. The Capital C.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/",
-      "originalUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa9cabfdaa25f804cdbd2f1/master/pass/backchannel-sci-fi-yudhanjaya-wijeratne-final.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/amp",
-      "publishedDateTime": "2020-11-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

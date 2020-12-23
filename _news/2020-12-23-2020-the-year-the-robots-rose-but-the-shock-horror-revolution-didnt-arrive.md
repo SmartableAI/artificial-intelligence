@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/2020-year-robots-rose-shock-horror-revolution-di
 ampWebUrl: "https://diginomica.com/2020-year-robots-rose-shock-horror-revolution-didnt-arrive?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2020-year-robots-rose-shock-horror-revolution-didnt-arrive?amp"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg"
@@ -26,6 +27,6 @@ images:
     height: 450
     isCached: true
 
-secured: "m16agj4+7s03xzeYV+7SXzqL+FQdEOHBjHPGIHretUmeWj46foQ6ILxfdzBOohx6pMCQb+VJQ76NUwzeXHVz72TrQ3GUyQs4wtYV+FYIH0bAY/Z1CO4GO+Ob8MQxHa+tp4qfPm0rRzf2OnGpwQJ5saOkhSYydobiQIa7NM2Lv1qZl2mGpWNROcgdJ/+QhkjDp3PB01lR1K4wD5vtwnGW2Cp5ZDrpaqSl8+GDiCBR53OkoEJolgsIyySY+k+rXQd3hS/0z2CC6iBPAtBstna/oBD0EyrYSuQ8JzPwul38+LwhxpmfINobvnsfVQnCmIsWc1iH8uWFyba9H3mZrzPMsQSzHxSqjcAzXKlTobEi8dk=;pd6d0HG+xctzEUuSbM+OqQ=="
+secured: "nERGUsNKUd00WAcIjqQg1nOnN09CcRTajPpD1St2o8tV1rbqw4I6NVHJjOCK1oSGyyjoS/fbJXMmQF4qPv9uDluEcEmjBXMnUcAwpzluT36VkhLe86NPfsTNbTSbf29AexbJBcmIjiFH1LFc8Eupk55+2OHP4sdwW+Z69xfSrqtZydlmMn88HZ40rUy0iikfBKeBLAFvNcTPNH5mQFcHm1PtDhW7kTHgXOu/DUMl8pHH/pTQpLsbHPSuLsLqM9QAyjjyS/tvJvyb4WNWiPw8qT9trB0LGHhF9XfpTVJJufDQNKlwPurVSAC/DqHY5mucf3ywE+o4LSLcggjNuVJVHK5JPdCOVAW7vAR3WOa/oKUGgDF0DL0tdkLxCY26yc1xz4EXe8CtaDatRPiBWxoIjLJpRBLupqmvPFwn6QbrWVElz1wcAod1JITeXqVj+AFVv5TvMoaTaMlgHQ2qBwpa8XudqLji83gXaIuCdf803dRKDBW4Ae2Tu/FawuGtcNYSrwXPU4I4yc9KL8horQUxyQ==;2lxt0WdTaOUYga1rFcFrzQ=="
 ---
 

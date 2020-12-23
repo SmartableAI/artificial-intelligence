@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
-    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
-    publishedDateTime: 2020-12-18T20:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US Computer Vision Market Size : Industry Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2027"
     excerpt: "U.S. Computer Vision Market is estimated to grow from USD 4.04 Billion in 2019 to USD 6.97 Billion by 2027, at a CAGR of 7.1% during 2020-2027 Rising need for application-specific computer vision systems,"
     publishedDateTime: 2020-12-22T23:37:00Z
@@ -126,6 +112,39 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ai In Fintech Market Size, Share, Growth, Trends, Analysis and Forecast - 2025"
+    excerpt: "AI in Fintech market size is expected to grow from USD 959.3 Million in 2016 to USD 7,305.6 Million by 2025, at a (CAGR) of 40%. AI in the fintech market is said to have the potential to grow in the coming years due to technological changes that improve ..."
+    publishedDateTime: 2020-12-23T11:17:00Z
+    webUrl: "https://www.openpr.com/news/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Ai In Social Media Market Industry Analysis, Growth, Trends and Forecast - 2025"
+    excerpt: "AI in social media market to grow from USD 0 6 billion in 2018 to USD 2 2 billion by 2025 at a Compound Annual Growth Rate CAGR of 28 during the forecast period It is expected that AI technology"
+    publishedDateTime: 2020-12-23T11:33:00Z
+    webUrl: "https://www.openpr.com/news/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Ai In Telecommunication Market Analysis, Trends, Growth, Share and Forecast - 2025"
+    excerpt: "and translation between languages. This technology has the potential to transform the operations and functions of a variety of industries due to its tremendous potential to achieve breakthroughs for a variety of ideas. Get Sample Copy of Ai In ..."
+    publishedDateTime: 2020-12-23T11:49:00Z
+    webUrl: "https://www.openpr.com/news/2215900/ai-in-telecommunication-market-analysis-trends-growth-share"
+    ampWebUrl: "https://www.openpr.com/amp/2215900/ai-in-telecommunication-market-analysis-trends-growth-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215900/ai-in-telecommunication-market-analysis-trends-growth-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
   - title: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026"
     excerpt: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026 . Posted on Dec 21 2020 8:04 AM \"Top Players i"
     publishedDateTime: 2020-12-21T13:54:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Romanian experts launch AI4RO, a new initiative supporting the development of artificial intelligence in RO"
 excerpt: "An independent group of Romanian experts launched AI4RO (Artificial Intelligence for Romania), an initiative to support the development of artificial intelligence (AI) in the"
 publishedDateTime: 2020-12-23T10:34:00Z
-originalUrl: "https://www.romania-insider.com/index.php/artificial-intelligence-romania-initiative-ai4ro"
-webUrl: "https://www.romania-insider.com/index.php/artificial-intelligence-romania-initiative-ai4ro"
+originalUrl: "https://www.romania-insider.com/artificial-intelligence-romania-initiative-ai4ro"
+webUrl: "https://www.romania-insider.com/artificial-intelligence-romania-initiative-ai4ro"
 type: article
 quality: 34
 heat: 34
@@ -23,6 +23,6 @@ images:
     height: 600
     isCached: true
 
-secured: "yDP1vkW+wx42XfnYy7fXle+pxMs+LWlsQzFiP2/rbKNx3G9UYfwqaDraClQOmjUTxFp92jleXiEA+cV9xv1gUqAPLhogqTDmciKQ6sU8IkrFzowNt7EI0STAQ14+pLbJF4B4WuxgEYKJd1t7FWre4kKHisywg3lLTmzWfcDp2Wg1E5PTRm2uvO/jlP2/Tg+1jicAzMTZbvrUG+8P+N8EgdKAqxY/Hwu+jrcMbjq6lwLtuukuDP1LbWqO8osZipMKDs8V+cAYB5UtTa9DRNiNCcnS4J/J+/kAoqWC22Dqzm+aRi//b2V3Qy/U2GRm4uMHkUxWHpLfFTNVa3rMKP12JODpqmpCofyG/rO7eomEXEc=;fkJsUMw4dsUxvlr7FEo7gw=="
+secured: "6u8BWp5M7hmtGGBrGWs8U0vhSUn7jt21R36d6oHgGp8btXfvsO/+5/D3UbTKpYZC2cC2CJAT64ZUrDgfmsWn4X0pMRrjYPNHxVn+DMNSmv9AjF18W2uorMOPObY2zhWj2gNFd4fPmdw8fboufYPT4FMdpWwZkMndBVvyPmOFezAyURPXMl5T/xjp0pMVf/Yh5a/4UJua8rv+jiBmIVUnaMqNv2vZjiJNYGhqseIoW0ddl5qWzqzuzs+4dVUQbtnfyS89dSnBhgTDaeouSYLFdZA0tJqIFkItyM9mVvVpDM4GttB0kr30Y9HPJpnw3CLlGXVmvgVQy110aCWW5CIBMy5OBpt3/DFh4YUWhvykkc0=;hpSErb44aCmke7OtC+bIyg=="
 ---
 

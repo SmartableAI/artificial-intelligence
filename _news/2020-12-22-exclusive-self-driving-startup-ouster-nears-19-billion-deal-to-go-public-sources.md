@@ -3,8 +3,8 @@ category: news
 title: "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources"
 excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
 publishedDateTime: 2020-12-22T05:05:00Z
-originalUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B"
-webUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B"
+originalUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive-idUSKBN28W00B"
+webUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive-idUSKBN28W00B"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W00B"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W00B"
 type: article
@@ -99,6 +99,6 @@ related:
         height: 266
         isCached: true
 
-secured: "N24vxHz4ORv8evcdxs8JqeTLrw2mEvbKwZV8GXClXWHhBSWKmADtzyKAsxmxPrp/eN5an66ZktGclgQpHQHBWpZDnew/H99625846nVDuAYFTVP8AdQ3TTg1kIfUHQlU/dRosid4c63cAR6LXdiRcP7i7hm/G/aKxW4mcX3OaaTWqfCuIaYPSjPkCtWjoxtdun+Da6aZA9cZmAqCYTF9o5k3FBYBlt80vNXmYQYFKBAwLlyLBU0kH5tBJqYg96vtmvaU1fzXLU9lgIL3jWKkbnXWx29EKAyAzGxbu5my+1J16em33ITuc1o7Sxxh9TcOicvMAQZGuaIUXZVBHmDHEp4sVMZ57OWThhfae1+Ehqg=;ByCODgN6n6gIZ+a+8MgN+A=="
+secured: "8rTLTzWt91kG2beXjH1pp6Puic6TBmsL5LTqyMS0KKr1oOcEsr342HJmWD5nbxAHyk4kPhufXok6iZqRMeEEBrtNl1LJQTRQwjwCQDyB5ve8IPByi1pg5v7x482L8sKe0Dpyv/Awrj4bAMjV1j41CaDOvVGRumzPoUVM3TR8WdQGCvVP8rkwMQYmsDEfJVTdU7Ov+Rf+IoiAMQmn4PQ6+b8qbDCw1wF0QtScb1CNeScDrNcIhUu7sEVb7qWIffPrMXEiB/XA/Cy2qydXTNjVpj2mEfVQQiy349oWTB4Ga82uzw1s1v27RfKsQr0jAYk0EPGs/YsOoizFyhFgW4VcVuG5FMVkllC51aW/YkpV9KU=;fVInjS4WTZchoAj2rMGceQ=="
 ---
 

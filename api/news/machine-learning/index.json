@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
+      "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
+      "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
+      "publishedDateTime": "2020-12-23T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft.md",
       "title": "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft",
       "excerpt": "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1045,34 +1098,34 @@
     {
       "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
       "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
+      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
-          "width": 720,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T10:30:00-08:00",
+      "publishedDateTime": "2020-12-15T12:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1081,9 +1134,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "Computer Vision"
       ]
     },
     {
@@ -1414,50 +1467,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
-      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
-      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
-      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
-      "publishedDateTime": "2020-12-14T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

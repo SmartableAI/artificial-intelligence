@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22"
 type: article
 quality: 99
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "http://www.uniindia.com/cms/gall_content/2020/12/2020_12$largeimg21_Dec_2020_161712233.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
-    excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
-    publishedDateTime: 2020-12-18T19:39:00Z
-    webUrl: "https://www.openpr.com/news/2213436/machine-learning-software-market-is-booming-worldwide-with"
-    ampWebUrl: "https://www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/T/c/Tc18425884_g.jpg"
-        width: 800
-        height: 418
         isCached: true
   - title: "Microsoft is working on its own PC chips"
     excerpt: "Microsoft Corp. is working on in-house processor designs for use in server computers that run the company’s cloud services, adding to an industrywide effort to reduce reliance on Intel Corp.’s chip technology."

@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-22-deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models.md",
+      "title": "DeepMind researchers claim neural networks can outperform neurosymbolic models",
+      "excerpt": "But researchers at DeepMind claim neural networks can outperform neurosymbolic models under the right testing conditions. In a preprint paper, coauthors describe an architecture for spatio ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/amp/",
+      "publishedDateTime": "2020-12-21T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-ai-and-satellite-data-could-help-end-slavery-on-the-high-seas.md",
+      "title": "AI and Satellite Data Could Help End Slavery on the High Seas",
+      "excerpt": "Slavery is rampant on fishing vessels around the world. A new study aims to use satellite and machine learning to track ships that traffic laborers. The findings estimate up to 100,000 people were forced to labor on fishing vessels between 2012 and 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400",
+      "originalUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dl5oyjxzztz5sqggtzsc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp",
+      "cdnAmpWebUrl": "https://earther-gizmodo-com.cdn.ampproject.org/c/s/earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp",
+      "publishedDateTime": "2020-12-21T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-civil-rights-groups-demand-cbp-stops-facial-recognition-expansion-at-airports.md",
+      "title": "Civil rights groups demand CBP stops facial recognition expansion at airports",
+      "excerpt": "The American Civil Liberties Union, Electronic Frontier Foundation and more than a dozen other civil rights groups have objected to Customs and Border Protection's plan to expand use of facial recognition at border entry and exit points.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "originalUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F42880f80-43ca-11eb-b7b6-51f4eb4fc119&client=amp-blogside-v2&signature=91f0f841f028a0036c46cedd061524d5764f7146",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "publishedDateTime": "2020-12-21T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-mercedes-teases-an-ai-powered-version-of-its-mbux-infotainment-system.md",
       "title": "Mercedes teases an AI-powered version of its MBUX infotainment system",
       "excerpt": "When the new Mercedes EQS sedan hits the road next year, it will feature a new and improved version of the automaker’s MBUX infotainment called the MBUX Hyperscreen as an optional upgrade. The company says the ultrawide screen spans the entire front dashboard of the upcoming EV and adds AI to the mix to make using the system more intuitive.",
@@ -657,7 +812,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -762,7 +917,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -910,7 +1065,7 @@
       "originalUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -996,7 +1151,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -1087,153 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling.md",
-      "title": "Self-Driving Cars And The Polanyi Paradox Of Knowing Versus Telling",
-      "excerpt": "Questioning the act of knowing and the act of telling, which comes up for humans, animals, and ... [+] self-driving cars. We can know more than we can tell. That’s an assertion made by philosopher Michael Polanyi in his 1966 book entitled The Tacit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdd3ae5d1bf9ff470ffd053%2F0x0.jpg%3FcropX1%3D466%26cropX2%3D5504%26cropY1%3D9%26cropY2%3D3895",
-          "width": 1200,
-          "height": 926,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/",
-      "publishedDateTime": "2020-12-20T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-some-uk-stores-are-using-facial-recognition-to-track-shoppers.md",
-      "title": "Some UK Stores Are Using Facial Recognition to Track Shoppers",
-      "excerpt": "Branches of the British grocer Southern Co-op are using surveillance technology to look for potential shoplifters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?source=techstories.org",
-      "originalUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?source=techstories.org",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fdbda52fe02cb1be125fd70/191:100/w_1280,c_limit/Business-Facial-Recognition-Grocery-Stores-UK-499556448.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19.md",
-      "title": "High-tech helper: Austin robot assists hospitals in the fight against COVID-19",
-      "excerpt": "Moxi the robot works full time and delivers PPE, coronavirus and other lab samples and COVID-19 tests. She’s also picks up and delivers anything dropped off for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/",
-      "originalUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2020/12/Moxi2photocreditDanielCavazos.jpg?w=1280",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/amp/",
-      "publishedDateTime": "2020-12-20T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

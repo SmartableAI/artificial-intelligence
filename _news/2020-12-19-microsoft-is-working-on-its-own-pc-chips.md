@@ -82,22 +82,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
-    excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
-    publishedDateTime: 2020-12-18T19:39:00Z
-    webUrl: "https://www.openpr.com/news/2213436/machine-learning-software-market-is-booming-worldwide-with"
-    ampWebUrl: "https://www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/T/c/Tc18425884_g.jpg"
-        width: 800
-        height: 418
-        isCached: true
   - title: "Microsoft is reportedly developing its own Arm server chips"
     excerpt: "The rapid development in recent years of artificial intelligence has also encouraged chip designers - and the cloud giants that want to dominate that area - to develop architectures more appropriate for the mathematical demands of AI. Microsoft is also ..."
     publishedDateTime: 2020-12-21T12:29:00Z

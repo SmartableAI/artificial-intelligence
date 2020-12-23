@@ -62,6 +62,20 @@ related:
         width: 1758
         height: 1061
         isCached: true
+  - title: "COVID-19 Impact Analysis for Artificial Intelligence and Cognitive Computing Market 2020 | Size, Opportunities & Forecast To 2026 Market.biz"
+    excerpt: "Artificial Intelligence and Cognitive Computing Market 2020 Projected to Witness Vigorous Expansion by 2026. The Artificial Intelligence and Cognitive Computing Market research report discussed the current and future trends of the market in both current and emerging markets."
+    publishedDateTime: 2020-12-23T11:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-analysis-for-artificial-intelligence-and-cognitive-computing-market-2020-size-opportunities-forecast-to-2026-marketbiz-2020-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5//zlrecEdL1LUOiyezcc0DScF04CWDeldNZiJbCHTVWbpIjHnaTJ3LP730mNB7rHJhaHSjAGhkRuHF7L02AvydOb64K72hQAtR8wl/9c+KOeNrlKFlg1drbvxtII4cGKxVcj+uXT4VdFz66w988Q6R2NJcDKC2MUvLXdKS4fV0J10FPkSUlKt6xuodHmlagotKkilELpQ5Y02yumt6J2WaIrmXnYY70h3S52ADRA70yLHcUIjyv11b2lR16nhHppaYK8t3QPQxv6eYBzrPuQnhnq8Jzc+zKvzMPsMmhudyBmmRD5Xw94LU60L7ULHOhBXUqn4eMwzOLzVUSYIDOrf5clLHj8PlBWSN7lYQ4uoY2eAQOZoy1M6YGxd1C5a75K4JBkv8zX9/xJsdVJNPi9t7bdnkYb82/WPuwEVyLxk1vj+crsEYRIsmW+5G+4LKwn42W2+/v7vhVRar9dulzoqkdGZeju6PDobX8NW5iT0J6ASgTCE7zie2KJaSXYM3tDiIQxySSI2aAFVRu/Xo8rQ==;qbN0umHTSwyGQ0ZK/v0w4Q=="
 ---

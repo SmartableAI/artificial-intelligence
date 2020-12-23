@@ -2,11 +2,11 @@
 category: news
 title: "Diving into Japan’s top AI/ML startups"
 excerpt: "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area."
-publishedDateTime: 2020-12-23T04:42:00Z
-originalUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-668083"
-webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-668083"
+publishedDateTime: 2020-12-23T10:48:00Z
+originalUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-668131"
+webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-668131"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 related:
   - title: "Diving into Japan’s top AI/ML startups"
@@ -42,6 +43,6 @@ related:
       domain: techinasia.com
     quality: 64
 
-secured: "UUnu/8msKkARKDINXBTrFG6zNX8gPCjiQktVn+3NMPDVA57nSH80u55p9zYodjkKqleZ1TJ0TrIb7OxVjTtmzZseKN3qo1mKpDbfGXfjcfghDa4BBaj8rLnf/ntPlJIRvcGQ9LNUmHVYsIHjKA6nBseUOjfCSEbpAyNKlgvV4RDbBzq90fRCSCIyCgx1kA5I9ckUpyw06sxX3cKSIgJFxlc+/4SbTWhFO7eKWr0fzh0yLMJ5Y9pwTyy5U/PLDflqzwsyCXoo7tRf10SkeWtQ+MNMfLwNhYzNRyXdSXCBzgubkjqhmJ3MOPNjq6PkHrof+s+p35oWwBIykvlQbuCr3E44yi/WaceIDJ9K5YdU9W79lX+gFIS/ahIG/JnG3PgKsDaqAzi9fMp11xmpid+kmXQvT17cChleL18V+deHlV0ljZ++/EFuqDSr/db+SZ/ZeQGuhJSnmCjvWpMguX6NyX7SxjSNzqlJu9J0UEIl84fhn0mXDGp2fVT86NX+a6jEdZFR/wz7bBnyF8N4YykA/Q==;pAD5K7cPxwNHzrES/VUpSg=="
+secured: "heQIm2R+3ZEU8wi89Ufd1G7JUaIPNB1XQL7FyJaakSJiLFZCuNh2CSwun28peSHB6/GtIu0wPsvLBFLlJPlyj08zAC8QoCz2/wVTWUqclf5GDF4rhedgHlGCej+fyV8k3wU85yocblgky8kN+8V8pi70Zy3dhCNnN164fXdcaoMzgqc34uujPTAUKYxdOvcxS0J9O52hSns27JC3ts4eJacOPQyXPir9zc8ilS893D4mcGG8TQb/GRKHzmD8WzGrSlIyicB9EwL6r7cS2Th1ly0ALCD+zmGMPqNp9K+Mn7AMaPaKAmQPbe3aTk60af9du4lt5rwEZY9J2UCi8HyVgpVrZxKfgvYtqvTREQ4I+sr/uuq26t27StfdAzpt1QLnOrSEmbx/eUNPT7FvbxdopYi1MJaD+OHfDAYy4pHtbleJzMxQN/zeAtlFvkfYjGukQ1foMxW7NxbXTSV3hAfGsJWuDxIoiimsrOdzeNo6rONOpEhWzKpCdoAlEuj7xG+euunRVLzvFM7RO+AKxMi/jA==;YDyy+Wd09g1+BTpsy7s9QQ=="
 ---
 

@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-16-global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report.md",
+      "title": "Global Artificial Intelligence in Law Market 2021: Market Growth, Trends, Revenue, Share and Demands Research Report",
+      "excerpt": "The report outlines the competitive framework of the “Artificial Intelligence in Law Market” industry detailing the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T19:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-sony-ai-launches-new-project-dedicated-to-gastronomy-research.md",
+      "title": "Sony AI launches new project dedicated to gastronomy research",
+      "excerpt": "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "originalUrl": "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "publishedDateTime": "2020-12-15T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-amazon-alexa-gets-real-time-translation-functionality.md",
+      "title": "Amazon Alexa gets real-time translation functionality",
+      "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "originalUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg",
+          "width": 2040,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "publishedDateTime": "2020-12-15T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence.md",
       "title": "IAiDL Disrupts World Of Technology In The Area Of Artificial Intelligence",
       "excerpt": "IAiDL covers everything from big data solutions to edge computing, drone management, the Internet of Things (IoT,) blockchain technology, and robotics. In line with the company’s goal of raising Artificial Intelligence competence standards in all walks ...",
@@ -142,6 +298,102 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
+      "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
+      "excerpt": "Another way the Softies describe the mission of the Studio Alpha team is that it's creating a wargaming and simulation platform for Azure decision making that is data-driven, AI-driven and tech-driven. Microsoft's first public customer (or \"partner,\" if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/cb0f1967-7a6b-44b9-a4a4-a02e0ab6b920/studioalpha.jpg",
+          "width": 1527,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "publishedDateTime": "2020-12-15T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
+      "title": "Accurate neural network computer vision without the 'black box'",
+      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-aws-decommoditizing-compute-with-reinvent-2020-announcements.md",
       "title": "AWS Decommoditizing Compute With Re:Invent 2020 Announcements",
       "excerpt": "The AWS re:Invent event marks the last and largest conference ... For the reader that hasn't followed the Artificial Intelligence (AI) market as closely, Habana Labs is an Intel company that designs and delivers AI processors for training and inference.",
@@ -194,58 +446,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
-      "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
-      "excerpt": "Microsoft is bringing together Azure, analytics, collaboration and gaming technologies to build out a 'serious gaming initiative' for military and commercial customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/cb0f1967-7a6b-44b9-a4a4-a02e0ab6b920/studioalpha.jpg",
-          "width": 1527,
-          "height": 969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "publishedDateTime": "2020-12-15T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-baidu-rockets-higher-on-electric-vehicle-plans.md",
       "title": "Baidu Rockets Higher on Electric Vehicle Plans",
       "excerpt": "Baidu, which is widely considered to be China's leader in artificial intelligence (AI) and self-driving cars, has reportedly engaged in discussions with automakers about its plans. Baidu hasn't ...",
@@ -277,50 +477,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
-      "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
-          "width": 720,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1067,153 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-day-two-of-ai-are-you-ready-to-move-your-models-into-production.md",
-      "title": "Day Two Of AI: Are You Ready To Move Your Models Into Production?",
-      "excerpt": "Day two of AI is the day that an organization’s models are moved out of the realms of research and training and into production, where their hypersensitivity meets the hyper dynamism of real-life data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd783eeef4d874ac503fd86%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/amp/",
-      "publishedDateTime": "2020-12-15T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment.md",
-      "title": "AI: This COVID machine-learning tool helps swamped hospitals pick the right treatment",
-      "excerpt": "A Barcelona hospital's artificial-intelligence tool analyzes trillions of pieces of data to predict likely patient outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "originalUrl": "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "publishedDateTime": "2020-12-15T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-aistorm-raises-16-million-for-low-powered-ai-edge-computing-chips.md",
-      "title": "AIStorm raises $16 million for low-powered AI edge computing chips",
-      "excerpt": "and cost requirements associated with at-the-edge AI. The startup’s chip design is capable of 2.5 theoretical operations per second and 10 theoretical operations per second per watt, or about 5 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/15/aistorm-raises-16-million-for-low-powered-ai-edge-computing-chips/",
-      "originalUrl": "https://venturebeat.com/2020/12/15/aistorm-raises-16-million-for-low-powered-ai-edge-computing-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/15/aistorm-raises-16-million-for-low-powered-ai-edge-computing-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/15/aistorm-raises-16-million-for-low-powered-ai-edge-computing-chips/amp/",
-      "publishedDateTime": "2020-12-15T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

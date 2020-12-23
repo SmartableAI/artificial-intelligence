@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-comin
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 250
 published: true
 
 provider:
