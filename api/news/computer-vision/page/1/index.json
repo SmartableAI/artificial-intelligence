@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-23-cuomo-signs-bill-barring-facial-recognition-systems-in-schools.md",
-      "title": "Cuomo signs bill barring facial recognition systems in schools",
-      "excerpt": "The bill would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings.",
+      "path": "_news/2020-12-23-new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools.md",
+      "title": "New York Issues First-In-Nation Moratorium On Facial Recognition In Schools",
+      "excerpt": "New York Gov. Andrew Cuomo signed a bill Tuesday temporarily banning the use of facial recognition in schools, making it the first state to take such a step. The law suspends facial recognition and other biometric technology in both public and private schools until July 2022,",
       "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/local/cuomo-signs-bill-barring-facial-recognition-systems-in-schools/article_e446cd2a-4488-11eb-8160-2f24ac360fca.html",
-      "originalUrl": "https://buffalonews.com/news/local/cuomo-signs-bill-barring-facial-recognition-systems-in-schools/article_e446cd2a-4488-11eb-8160-2f24ac360fca.html",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/",
+      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/b7/5b7a4a8a-f393-11ea-9204-875008d86be5/5f5a7030d7b5a.image.jpg?resize=1024%2C681",
-          "width": 1024,
-          "height": 681,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28584fc8e8b87dee3cdb8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4169%26cropY1%3D211%26cropY2%3D2555",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://buffalonews.com/news/local/cuomo-signs-bill-barring-facial-recognition-systems-in-schools/article_e446cd2a-4488-11eb-8160-2f24ac360fca.amp.html",
-      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/cuomo-signs-bill-barring-facial-recognition-systems-in-schools/article_e446cd2a-4488-11eb-8160-2f24ac360fca.amp.html",
-      "publishedDateTime": "2020-12-22T13:28:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/",
+      "publishedDateTime": "2020-12-22T16:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -296,7 +305,7 @@
       "originalUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -447,34 +456,34 @@
     {
       "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
       "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
+      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
+          "width": 720,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T12:08:00-08:00",
+      "publishedDateTime": "2020-12-15T10:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -483,9 +492,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "Machine Learning"
       ]
     },
     {

@@ -105,6 +105,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Cuomo signs schools facial recognition, automatic voter registration bills"
+    excerpt: "ALBANY, N.Y. — New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers passed those bills this summer. New York will start automatically registering ..."
+    publishedDateTime: 2020-12-22T23:31:00Z
+    webUrl: "https://www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills"
+    ampWebUrl: "https://www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills?_amp=true"
+    cdnAmpWebUrl: "https://www-pix11-com.cdn.ampproject.org/c/s/www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills?_amp=true"
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/dcdfab0/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.pix11.com%2Ftribune-network%2Ftribwpix-files-wordpress%2F2017%2F03%2Fgettyimages-635508650-2-e1512875395221.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "City Council Bans Police From Using Facial Recognition Technology"
     excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
     publishedDateTime: 2020-12-18T23:45:00Z
@@ -120,16 +136,19 @@ related:
         height: 600
         isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
-    publishedDateTime: 2020-12-22T22:59:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
+    publishedDateTime: 2020-12-22T22:16:00Z
+    webUrl: "https://apnews.com/article/technology-new-york-legislation-voter-registration-bills-cf87c101a075b8e89bc2b22307a0e2f5"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Hoping for better laws, a facial recognition primer for Congress is published"
     excerpt: "Mitre Corp. has published a crash course on face biometrics, putting the technology into context for federal policy makers."
     publishedDateTime: 2020-12-21T18:15:00Z
@@ -144,7 +163,21 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Cuomo signs bill halting use of facial recognition in schools pending further study"
+    excerpt: "Gov. Andrew M. Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools and issuing recommendations."
+    publishedDateTime: 2020-12-22T18:41:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 33
+    images:
+      - url: "https://s.hdnux.com/photos/53/06/13/11297525/5/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
 
-secured: "tSdM7xQfxvLIQZUzLE1Yk4ulReYhWP62pkQFet/xBp/13LXUvFZs1fYswjFbj3XCybHR+14NTM55NrmZhiTEOr4ifR5q2daisfv20zby4QyfzCWAjqDF9MbOosZiWm3w4DIEkIMMREIdlZ6kL1cbORN1P1QcLKTcGCt6Ya650A4JLc4fHlZRybk26FXAjznbh3E26hR/Kl5t7LYTpcRejSDxPsYlsvsBWcryTDng6/A7RLBzDPvdITCtVZuy8ksrN4KyRTRd4qructzhu0js/BBM1PI8R6YyZB02+hXqapqI5tDZXm15k8xm11j0B7Vmy6Sk4wLImzbxcJzDkSEShjsf4bWNfjBfu9AhmdSltho=;rj//9R6uZiM6Y6TLFE6mPQ=="
+secured: "SMWgJInMXJ49DafacvhyoIaAG7+h08RCC6xh4+Ve4ns8EcD//4lniIjDIrqXLuwVSds0zJbgP3tnOec/2NzfNWLiLgXPtag9YQCFIkdG/7j1AVbkQ6iDBtyRxyuWV/EJvBn4UafXUwURF2HjUq4jHBDZb7zafuivRUYzuRkiTrJq7AawhBJNqHGYNZ4aau6su0Q8t5VtJ1vFBXvv3k+VUquBDp/jbWc5EkFYHObmlnYow02+ObG+brh4QjJYpBtdPptFmV0I2ue4XeCeL8wbmuDTENmtci+0YFL45cJv3E8u/7DCFwS6vjLUALhA0pakXZCX26L+9QpIiYP4WaTq0WN0nlqmkIUAVcPMA5DLxQ7kkBbeiSOH9ohbZMOi7YkbqCXv8SPUfnvMuux5tfnrtXjA95k/hHbVAJEyDTIOId70gJh2H0AscqFT/H5LM2lJyq7JJbDJm+JHpWJx0cFdSgb3K5NjtLuln1hfI0Pt+IQbVjfbNtear6ZkuWHlxX5bRSyBQPC+5eGYz7gW1ca+lQ==;lWnhUxikwyv4WdWgUdbhFw=="
 ---
 

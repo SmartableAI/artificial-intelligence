@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/"
 type: article
 quality: 119
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 990
     height: 498
     isCached: true
-
-related:
-  - title: "Natural Language Processing (NLP) Market Size Expected to Grow at a CAGR of 15.7% by 2026"
-    excerpt: "Latest Natural Language Processing market detailed by definitions, orders, applications, and market outline; product determinations; producing forms; cost structures, crude materials, etc. At that point it investigated the world’s principal locale ..."
-    publishedDateTime: 2020-12-18T08:44:00Z
-    webUrl: "https://www.openpr.com/news/2212967/natural-language-processing-nlp-market-size-expected-to-grow"
-    ampWebUrl: "https://www.openpr.com/amp/2212967/natural-language-processing-nlp-market-size-expected-to-grow"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212967/natural-language-processing-nlp-market-size-expected-to-grow"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
 
 secured: "R277Q26mBjorBB3WudyyvyWsXK7f6DQkLWfSbNB7T7czIPcvm/C8HBWdBcYjuht9JTOvoMklNHojFM7oEaoNOT1gRNIeEruGhu+Rme8shyZUc1M0gYyuuC85g/4LWL0xYhKG/tAEzFU/+5qfb9VEY2z2os1JQSYN090DhV04hS7++ZhP53YoQeVUo7zt3OEKFLHKtTgkFvhw02J+kcJhSI/MOFFBhTYbF9cQOhkrkq136MkN5Bht/NOcQQvvPu1sQjSYROdGpWWwD+JUIiEqQLAoSi+zL6aUk4lpzQTklWnfWYg0WPk5RSUDPYJMHi7GJeYjowne6N0Oz7XgwpvXfYSpe19AYi7U3jvD3SZ+4mw=;VOYOMz1ynRZt4wZMu01A6A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4395453-ark-autonomous-technology
 webUrl: "https://seekingalpha.com/article/4395453-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "BNM2qqVRKTn6ZTJhLU81EimE6quk6I5eVUcUftiC7t1Xlv1Oj7BbqMYAswoFovqRpVvfaSmrZmvQFiGQD9Ny+9aDBG7gQc2ExwlTDehyLPEYnrH7gX/nr0ojFdQBylz6l2eRKCDdQs49gntqdQ1miLOiaYfs7dJyFh15PiQX/xnjy7RgYiVc/qCoA78OlkhYvKgwUAU/wcRRTtqvzw0Bu0qiflddT88KdI0Vi8zFQS59U/FEJ5pRjo+XgSJxRl5AGxZsa2iDbbGkNcdsuHiBN/PwATUQ7+ms3T2BMNo/dDEjenJ6EDtWC4CQ8vADP91Yz8b7MUbcu7UmFGVBkNMLnvcjQron9Vsw/uLjpHfLRkc=;m1kNGOsUrdEj8nsT742Fpw=="
+secured: "Rd8dbMEVX3CP6Wl5u7WWS0l7dRc6KxpHlR+U6z24KyvHpAvt3xCznM/NemK5BujHsXHB/7jujN7GSvBez2iyTexpGnLgOC+ejOQb6xp6VdF37VfSorx0HvAwgCEyW+DgiUsA0X6OqRjUAou0o5RJkPjKRz1qVzGbr8Lqw+ERZZkZVMzpLVLZFjQU9g5VqZQAs66q+e1QsmzVz5ESzCQwpaILBup9GAB040rQtl6UZ0b63MK9/mYI/KDhIi/jxEdlBsGo1LssqDe2Qjb/ZMJHiGEXcmwmTrqUmS6MncRjzVAllPJ+nsH7z80j2fsvdV2XBm9P1aG3VnVdBpm9BWk2YoqMiiZRae/j1k5xQiGo4OU=;QEULNUFAVW4TcFz5ipYUyA=="
 ---
 

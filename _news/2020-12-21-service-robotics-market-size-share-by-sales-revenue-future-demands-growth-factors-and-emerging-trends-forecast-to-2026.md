@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
 type: article
 quality: 75
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US Computer Vision Market Size : Industry Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2027"
+    excerpt: "U.S. Computer Vision Market is estimated to grow from USD 4.04 Billion in 2019 to USD 6.97 Billion by 2027, at a CAGR of 7.1% during 2020-2027 Rising need for application-specific computer vision systems,"
+    publishedDateTime: 2020-12-22T23:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/us-computer-vision-market-size-industry-growth-factors-applications-regional-analysis-key-players-and-forecasts-by-2027-2020-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

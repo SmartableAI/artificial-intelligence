@@ -9,8 +9,8 @@ ampWebUrl: "https://buffalonews.com/news/local/cuomo-signs-bill-barring-facial-r
 cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/cuomo-signs-bill-barring-facial-recognition-systems-in-schools/article_e446cd2a-4488-11eb-8160-2f24ac360fca.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Buffalo News
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "New York Issues First-In-Nation Moratorium On Facial Recognition In Schools"
+    excerpt: "New York Gov. Andrew Cuomo signed a bill Tuesday temporarily banning the use of facial recognition in schools, making it the first state to take such a step. The law suspends facial recognition and other biometric technology in both public and private schools until July 2022,"
+    publishedDateTime: 2020-12-23T00:08:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28584fc8e8b87dee3cdb8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4169%26cropY1%3D211%26cropY2%3D2555"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New York bans facial recognition in schools until at least 2022"
+    excerpt: "States agencies will seek feedback from teachers, parents and school-safety experts to develop governance for the technology’s possible future use."
+    publishedDateTime: 2020-12-22T20:18:00Z
+    webUrl: "https://edscoop.com/new-york-facial-recognition-ban/"
+    ampWebUrl: "https://edscoop.com/new-york-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/new-york-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: edscoop.com
+      domain: edscoop.com
+    quality: 59
+    images:
+      - url: "https://s3.amazonaws.com/wp-media-es/2020/12/22143205/GettyImages-1187951204.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "New York State suspending use of facial recognition technology in schools"
     excerpt: "ALBANY, N.Y. — Governor Andrew Cuomo signed legislation on Tuesday suspending the use of facial recognition technology, as well as other kinds of biometric technology in schools. Under this legislation, New York State will direct a study of whether this ..."
     publishedDateTime: 2020-12-22T22:01:00Z
@@ -53,6 +85,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "pcgRUR7RxlXvCPhpbj3Nsf3p7ccrODntsMke/zKR/QjNBTxU+DrtWNxCQ5+XTVbqPv9WBalXNKidFsbvmRsAd1F41ZhFeoMzxMBS7iIEEykdd+8bBxn4xTKE5vMS9or7TDlVXPGL0ARhE2iOwrFTWJe/dbQCSriv+uDYw66+VAxrY0cDmgCACyjyYOzJvJ2kWli6c5jI+ukop7RlujgdwrMQ6YBwyQI/bXrI2vnxDS5hus5JpjNYzf5vT+JsZoblxYafRumKNsGO1x9rS5dmBCSNAjUB6cXJDXMfgmkJhuh5AQdvOB4RAbLgIT+8tgXx8uYJR8CdcXXXG9hheg2BNg+tNedDm9uRDXb8+Z1evCE=;kXkT+mzsUEgN9AZgFMTgXQ=="
+secured: "xVSohfHlmhKaJxNHSB0PZssMwXwfl3otDDJVYbxatLY6lkRs377WZl09+qyYebYugucNLoy6ltjSc/sgsIShS8OL0gH1D89tBTo3Ra/6xPpQOTgw9+Cb+k5iZl9zyOGxXDOm1g5Qu2ZvEszqlEvle6GYWScoSdgrMvkBod/JDtT07aevfFR6KaQSFqS/SBpmWDuX9VX12eWQ9nGMxEZQZS1bryMXEuS3x+uIPS0cDWdbwuuRrUw2yQHeXQ5ycxMw8VLrM7scaY0NYaUkfSfk1I1MJteFsFX+LgRNFhzz5GxpPIrG4LSigCmIKOSh8qw37gBxKRYaRRRG2QX7ryK6EntsV4nW/bIy2s//txuXYab1rcv0RUipS+cMcZIRvp+SWgUmGIn8x0qVKLXTTTGd39WHz5zS9Xd95if3QB6BMnVkUcbNOCNANvcznCOpf685Eo/m02sbSLld9XSkS4rw3qWhVyIAxOpMLAs5lVQG+u6en1UeGQ6mEMxyozfrYovB/ZpXJNJ6+XiWs7jkKVnusg==;BweF6/aIAPptOkiKSUpPrQ=="
 ---
 

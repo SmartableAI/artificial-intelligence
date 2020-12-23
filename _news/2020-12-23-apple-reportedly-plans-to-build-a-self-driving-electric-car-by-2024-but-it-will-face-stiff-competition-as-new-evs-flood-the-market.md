@@ -47,6 +47,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Apple Said to Be Planning Self-Driving Electric Car"
+    excerpt: "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc."
+    publishedDateTime: 2020-12-22T23:42:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple Aims to Build Self-Driving Car: Report"
     excerpt: "Get Report is planning to produce a passenger vehicle in 2024 that has both self-driving technology and uses Apple’s own battery technology, according to a published report. Reuters reported Monday, citing people familiar with the matter,"
     publishedDateTime: 2020-12-21T22:33:00Z
@@ -228,6 +242,22 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Apple Is Reportedly Advancing Plans to Develop a Self-Driving Car — Here's What It Means for the Sector"
+    excerpt: "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters."
+    publishedDateTime: 2020-12-22T23:07:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 28
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106673753-1598035076175-tim.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Google's Self-Driving Car Will Change Everything"
     excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
     publishedDateTime: 2020-12-19T00:00:00Z
@@ -346,6 +376,6 @@ related:
         height: 382
         isCached: true
 
-secured: "+X7d6+AR0dQRoEEZt6zvDGFzUcEJu3/Hd+kmJYVRL+nFJ7KopUL8AA9rO4FXDzaVXS3Hqj6DkN0XK/AueF4GtudJw5QN+CEr1uvhD/y/nlvWbfS4i3jtmfCxZYvcnD0icfBGCeKdvrJvULoI+IRcY1EvG1P0gPC/7MlHOackmy7GOHg8GLPgJymoaqUpyDutaqhYvBuVXWvOXCHyEW5Gn6kPorQQQ9ErNeMb94RSAL/vbbr7fXsRuLVVyYDwelfGWQ7MCHGlbbFQ11oaYFhkmaPik2Le00MZJNiq/JcoHQe5DXcAUT9/wN/I6rkDRMql9j040fEBJKhwQnCRp6WIOj0WeeLk4MLJZa7TzAE38bI=;bnxhefYyPLMD2jM1h193FA=="
+secured: "Vd00Oi9cbGo7XPUj7fDC3HlFtPWKWyyGvrfvZKJ6ioOcrKmcUDKytlQjvFz/pfOhs6P5hge+LYD1sr0pjqAKnRg3Wf/Wfv4/NL0SgWU9c2hs6X+FD2b5hrPPDPgXKHknfRvpydxkic+KGm0x6RQQZnTvnNYxWJEtQZ/tRpyBrHwbfP9zJx6fu0moDwZhhg83Dsi17Pj5ENtZE2+tNgTzJhPrbUbK16l1y93/qiLV7YF7JxVv6XVUaylg4PbOMHryHsCDfHvbpFT6RujP8rf7yOAI7I4RMiH29wTgnmyd19qC0re1E9/msn/pLpWWdOlgvZFtcTcLQnmLLdtgx2/YzL4AhklqA5cPKtKxLB8WJV6iZEBidnzRjSNjJe4Ogausvq225OdvbB9v2qhyY/aTOSvxEaF4voz1nIYJj7NOHQtp9A7h0Q1qe7C89250WFIXcwucW/jOOu14/rQzhbgZRfEnEO8Y+5JIW1hFUP3ykmRbPLik1te08MTy01gLAZgntTcS6FaPx+2d4Iu6KOTLNQ==;+6DINKKJU7FgrJLpXfm6ng=="
 ---
 

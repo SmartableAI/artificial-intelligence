@@ -95,6 +95,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Cuomo signs schools facial recognition, automatic voter registration bills"
+    excerpt: "ALBANY, N.Y. — New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers passed those bills this summer. New York will start automatically registering ..."
+    publishedDateTime: 2020-12-22T23:31:00Z
+    webUrl: "https://www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills"
+    ampWebUrl: "https://www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills?_amp=true"
+    cdnAmpWebUrl: "https://www-pix11-com.cdn.ampproject.org/c/s/www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills?_amp=true"
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/dcdfab0/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.pix11.com%2Ftribune-network%2Ftribwpix-files-wordpress%2F2017%2F03%2Fgettyimages-635508650-2-e1512875395221.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Zetes launches Panasonic facial recognition at Cape Verde Airport"
     excerpt: "Zetes designed and executed the multi-phase project that includes an online visa and security airport fee (Electronic Travel System or ETS) system and 11 Panasonic facial recognition eGates. The new border solution is integrated with national and ..."
     publishedDateTime: 2020-12-22T22:57:00Z
@@ -124,16 +140,19 @@ related:
         height: 600
         isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
-    publishedDateTime: 2020-12-22T22:59:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
+    publishedDateTime: 2020-12-22T22:16:00Z
+    webUrl: "https://apnews.com/article/technology-new-york-legislation-voter-registration-bills-cf87c101a075b8e89bc2b22307a0e2f5"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Hoping for better laws, a facial recognition primer for Congress is published"
     excerpt: "Mitre Corp. has published a crash course on face biometrics, putting the technology into context for federal policy makers."
     publishedDateTime: 2020-12-21T18:15:00Z
@@ -147,6 +166,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds-1024x536.jpg"
         width: 1024
         height: 536
+        isCached: true
+  - title: "Cuomo signs bill halting use of facial recognition in schools pending further study"
+    excerpt: "Gov. Andrew M. Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools and issuing recommendations."
+    publishedDateTime: 2020-12-22T18:41:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 33
+    images:
+      - url: "https://s.hdnux.com/photos/53/06/13/11297525/5/rawImage.jpg"
+        width: 2048
+        height: 1367
         isCached: true
 
 secured: "o0oczAeSEV31Isph1FdL9SRdSB/hpxvxtz+31Vq8NvGQr2fY9zep2BuDdXIv12qJWKWZs/jN8plZwtV+CzZF8pYqolilF53HiYh1UshoiKBNQG3UuE65QzrTSvg0rRmTzwpsfdCR1YuUVh6ebIOiwtUEsiom8/ZQwZEf1uzDV2E4linWvdTeUTiHAKovV+6SrAV0nhV7RUHkMiBslVu/M4rNn8jX0L4AbIJgJFwAstKdqiPvo5i+/PT/u5FPvWZ5GKIHcQSaXjomldvRiv1PTtnt0/bfG1eh0v4NdB5ziz/5Uu+t2iOYSWrDO6SXVH3Ra6n2VOb4TTXdWGWa2eSp4mu6TFJT0NRaXrrz+7zrYFLJPg7jqSmj1lJN7dGX1vgk4v2ylfdYSpdE4ksc99g6Bt2AL0rTwiDlbssih2qYTaVYIHxXQI8sKgoIrkTuvy6ettZ1dMDv38mUhoYgUVmkIoAwPWwHjPnEhN3wWza8clWOdYnYtP9xeahpY62iR/cgepFE0Y3q1C2nJqb05/s1DQ==;FI8iZI1A1H+vgmO3EWAhOA=="

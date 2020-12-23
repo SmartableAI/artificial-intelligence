@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York Issues First-In-Nation Moratorium On Facial Recognition In Schools"
+    excerpt: "New York Gov. Andrew Cuomo signed a bill Tuesday temporarily banning the use of facial recognition in schools, making it the first state to take such a step. The law suspends facial recognition and other biometric technology in both public and private schools until July 2022,"
+    publishedDateTime: 2020-12-23T00:08:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28584fc8e8b87dee3cdb8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4169%26cropY1%3D211%26cropY2%3D2555"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cuomo signs bill barring facial recognition systems in schools"
     excerpt: "The bill would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
     publishedDateTime: 2020-12-22T21:28:00Z
@@ -43,6 +59,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "New York bans facial recognition in schools until at least 2022"
+    excerpt: "States agencies will seek feedback from teachers, parents and school-safety experts to develop governance for the technology’s possible future use."
+    publishedDateTime: 2020-12-22T20:18:00Z
+    webUrl: "https://edscoop.com/new-york-facial-recognition-ban/"
+    ampWebUrl: "https://edscoop.com/new-york-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/new-york-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: edscoop.com
+      domain: edscoop.com
+    quality: 59
+    images:
+      - url: "https://s3.amazonaws.com/wp-media-es/2020/12/22143205/GettyImages-1187951204.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Cuomo signs voter registration, facial recognition bills for New York"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
     publishedDateTime: 2020-12-22T22:14:00Z
@@ -53,6 +85,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "DksLPPtrLH2itgU8/3QReIf4pPr+7nrixN2wzDWJn7Cc6W50TskVhCFxD6hAVg2kZ8abhziFYiBWhHHG6kdWAF9WVdAwVD2jptlgOvfWuqqxBfbNfcbyCfLjfmsVEHakDpOW/CGtP6gyJ/Zgcq8kCc1qzGA2xMmANGSdALAdJhb72oGCVQusgaxUjrqgjsp0fIuAjYtHP3uO8Y4zTqT2e3LmOjbCjREZpn1s1/5fCbxfrDIYEl1mv9pAExR8BqkUr2ZoTkRkvxWz1sUKNeJ8lSvySsnj/YUmkK0xEMyK/APT2Ry+rXgEfYnVqwfZm0hnsw70HAyT+iJPwqj/hKuizp/sTW4EcnXPLmhsjwTCf+s=;YyAybQxdIRxquoF+LyLzdg=="
+secured: "swvSO9AywGYzt6/DgguZggocRLN49N+OPd3w7gmmUmWA8F7xEGEuNXqD0+8gDOLjLSm/Nkps/tO1Y/gr1KFozajL69EKaoYpBZt9yf74eQJYESOhGMuKW9vQ819cRlJd7slkMj/5j5Gs3c1N4PtSRQ1NcHk9nxvgjUNtEoNTKcA2Bv3/4T1qgQNQky+ebI+IkGdFnobCAhavry12fTapOvBHxzgulC8s7hCnseINUroGqTKs8EVzJwepyuZgfKfNwnHBLbkl6OlKvXJWQJ9tAGI7rlBfcWeuULJXxf9zeppyeJqGOZIOweUzsjBH1PJPuU4JWxY0iaQd4g7/azWIOjtlInquI6SzaaPU5xli7/MGJf6k3CZyk78pwGxY/u4TAu7wUTkoAfvhEKbu36fEHk44pqNzt3n/4pE3k7C0GkE67kwIs9xnJfj04uxBw2QUDQllNKPRWviPQcwrFBUD98o19RGPBa0MSFDCQUSZ2slkPdNYT8iE+O49D+K3sqXOP5idOunBnVYyybcW0316sw==;3GB/QdUkeujDZ/2v6eb1hw=="
 ---
 
