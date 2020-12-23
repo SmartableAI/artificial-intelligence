@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
 type: article
 quality: 89
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -325,17 +325,6 @@ related:
         width: 1632
         height: 1188
         isCached: true
-  - title: "Global Self-Driving Car Market Report 2020 Featuring Uber, Google, Valeo Among Others"
-    excerpt: "Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441.02 billion by 2027 growing at a CAGR of 34."
-    publishedDateTime: 2020-12-18T14:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18853853/global-self-driving-car-market-report-2020-featuring-uber-google-valeo-among-others"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18853853"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18853853"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "Apple Reportedly Gets Into Self-Driving Car Space"
     excerpt: "Apple targeting 2024 to produce a self-driving vehicle with its own battery technology. Cheddar is joined by Mike Brown, technology reporter at Inverse with more on how Apple plans to compete with companies like Tesla."
     publishedDateTime: 2020-12-22T00:00:00Z

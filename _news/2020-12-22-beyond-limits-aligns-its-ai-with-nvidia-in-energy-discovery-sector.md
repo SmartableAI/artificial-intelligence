@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia’s Inception program tracks 7,000 AI startups, up 25% in a year"
-    excerpt: "Nvidia's Inception program is tracking over 7,000 AI startups, up 25% in a year. That's a lot of growth in a very tough climate."
-    publishedDateTime: 2020-12-18T13:34:00Z
-    webUrl: "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/"
-    ampWebUrl: "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-nv-inception-milestone-logo.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
     excerpt: "You’ll often read that it’s only a matter of time before AI steals all our jobs. But the idea of humanoid machines is nothing new. It began with the “heartless” Tin Man from The Wizard of Oz. By the 1950s,"
     publishedDateTime: 2020-12-19T12:00:00Z

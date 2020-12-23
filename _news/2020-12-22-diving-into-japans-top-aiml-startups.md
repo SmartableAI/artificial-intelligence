@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=rec
 webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,15 @@ related:
     excerpt: "To learn more, we heard from three rising AI/ML startups in Japan at the forefront of the country’s AI/ML growth. The following responses have been edited for brevity and clarity. Umitron, founded by Ken Fujiwara,"
     publishedDateTime: 2020-12-21T06:33:00Z
     webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-659747"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 64
+  - title: "Diving into Japan’s top AI/ML startups"
+    excerpt: "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area."
+    publishedDateTime: 2020-12-23T04:42:00Z
+    webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-668083"
     type: article
     provider:
       name: Techinasia

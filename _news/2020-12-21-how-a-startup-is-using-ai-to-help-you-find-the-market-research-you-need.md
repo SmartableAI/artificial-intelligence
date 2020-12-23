@@ -46,20 +46,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Making the Most of Supply Chain AI"
-    excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
-    publishedDateTime: 2020-12-18T14:36:00Z
-    webUrl: "https://www.mhlnews.com/technology-automation/article/21150574/making-the-most-of-supply-chain-ai"
-    type: article
-    provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/12/Supply_chain_analytics.5fd788eea68c4.5fda518569d69.png?auto=format&fit=max&w=1200"
-        width: 768
-        height: 432
-        isCached: true
 
 secured: "PmgQ0tmGbkOy3VrIJu4S5L8UIPXOQe4vYrmT+QtgyRYgbs9MqlwE+DD3q7NCf+xuJcq0hCXE2bLeLHLardML1ajoHSyLSVYxIi+t99gDnZdKlIp37sbDr6WvkRNZOnaR05uLv32KpBAIWGQd6Lkf9NVfaZTViiqlagqaSk1am+9zUt7z9EFQuMNuTLKkJIOv8QMfSal8y2wyFsMu1Rc0oZYPMzU9w+LBYWNtUI6iFJOl4jeyrprLPGNw8q2Em1NBtmmVFrHxI5ptak+jzRB/8Ig1DCoZdYPb0Xk976EEOQ/SjOxeqgHuGfBl7BIm9POF3QExmf/6h93LCRPUqbtiGKNQDlmAW+nHNwDgO7RBfrzNU/vzQ+04So+c0lvZCrabZZCNQUJdtfmw7GK4ma6uSrEBlIy7/KlBJh/HOnf7GrsWPuxb10Ac6oYke4G2LtPZ/Gy0xKl6Xociyeekzygb8n9XMlSI+s7m2rXnl2COfbpAwNHSjMDaT1PGoamQcLMjXoI/YrkWpnSnNT4DJHuojg==;YKCiPEsDVvWu42K14qLwjQ=="
 ---

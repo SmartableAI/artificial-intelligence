@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Marketplace Adds Nvidia’s GPU-Accelerated NGC Software For AI"
-    excerpt: "AWS is adding 21 software resources from Nvidia's NGC hub, which consists of frameworks and software development kits for GPU-accelerated applications."
-    publishedDateTime: 2020-12-18T14:04:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-marketplace-adds-nvidia-s-gpu-accelerated-ngc-software-for-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0264-111d4a4730ae-112e092fd3a8-1000/ai-artificial-intelligence-mind.jpg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
     excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
     publishedDateTime: 2020-12-18T17:37:00Z

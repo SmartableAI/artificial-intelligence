@@ -2,11 +2,11 @@
 category: news
 title: "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources"
 excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
-publishedDateTime: 2020-12-22T06:59:00Z
-originalUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
-webUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28W06E"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W06E"
+publishedDateTime: 2020-12-22T05:05:00Z
+originalUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B"
+webUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W00B"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W00B"
 type: article
 quality: 47
 heat: -1
@@ -99,6 +99,6 @@ related:
         height: 266
         isCached: true
 
-secured: "84r7ONvN+bJlz+Of9ODi6MFAkpxIN+daG3OBqSMWU9IiIPd52slc+6MHzI9sByicJIawUO/4jYPEOTSilLYRLr5LHjLs0Q8k45OK5gSLf+HwXgzol/Hs7RAZj6V2fbQoHI3ANYq+ENYTI3z8FfsEEmpD1PkdsY1r1uiRlkkYNJkF1y/Wm7TsfDfKLywJjxCnjFaadm7jlPTEC3g3oSnzGTZ2klisQflLXwqJavIy0d9aHxMAD4ZpuWSZ63GDJIYvaS6082uXdl0YsBeKq3gz9eUHswLpxYcgjET8HaGAIRQ5JfY35Ft/FHYQs9UHTe6pPYx9FMWjyLn5+nY5of6NbnibQbL+IBWmsUT/btHfKJA=;CB6y2xvhpWmDSiFL9W+QYw=="
+secured: "N24vxHz4ORv8evcdxs8JqeTLrw2mEvbKwZV8GXClXWHhBSWKmADtzyKAsxmxPrp/eN5an66ZktGclgQpHQHBWpZDnew/H99625846nVDuAYFTVP8AdQ3TTg1kIfUHQlU/dRosid4c63cAR6LXdiRcP7i7hm/G/aKxW4mcX3OaaTWqfCuIaYPSjPkCtWjoxtdun+Da6aZA9cZmAqCYTF9o5k3FBYBlt80vNXmYQYFKBAwLlyLBU0kH5tBJqYg96vtmvaU1fzXLU9lgIL3jWKkbnXWx29EKAyAzGxbu5my+1J16em33ITuc1o7Sxxh9TcOicvMAQZGuaIUXZVBHmDHEp4sVMZ57OWThhfae1+Ehqg=;ByCODgN6n6gIZ+a+8MgN+A=="
 ---
 

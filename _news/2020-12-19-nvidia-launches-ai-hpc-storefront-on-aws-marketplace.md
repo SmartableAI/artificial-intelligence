@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS Marketplace Adds Nvidia’s GPU-Accelerated NGC Software For AI"
-    excerpt: "AWS is adding 21 software resources from Nvidia's NGC hub, which consists of frameworks and software development kits for GPU-accelerated applications."
-    publishedDateTime: 2020-12-18T14:04:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-marketplace-adds-nvidia-s-gpu-accelerated-ngc-software-for-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0264-111d4a4730ae-112e092fd3a8-1000/ai-artificial-intelligence-mind.jpg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "Nvidia gets its own AI store in the AWS Marketplace"
     excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
     publishedDateTime: 2020-12-18T15:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/361969"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361969"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdf800d45a8fea94b931eca%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Making the Most of Supply Chain AI"
-    excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
-    publishedDateTime: 2020-12-18T14:36:00Z
-    webUrl: "https://www.mhlnews.com/technology-automation/article/21150574/making-the-most-of-supply-chain-ai"
-    type: article
-    provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/12/Supply_chain_analytics.5fd788eea68c4.5fda518569d69.png?auto=format&fit=max&w=1200"
-        width: 768
-        height: 432
         isCached: true
 
 secured: "nSL7faeEliTk0q7Sn/VxbZQXJaLhFzXklBJFeBgl55R/lSvqvUq7msr4azc5+xYRaVCyW8Hhl/S08R/Lq+ztEsaKN8oIpJBcyq8DKJKaIqC6YzzhP3vUoXPn9zyUB+jYwPBrObV5nQqgKw1y2I9Z8zqEgm+eTTj5KptbDZ6yNRlFu0ZASIkuDTr9e9s65M7LvZhYmtww53t8r1JuNLi8BClWBgt2k7a9A34FHAlwSjJljkZJMIfs960+NxCMfvdsWbNYCBkUOeWTKGXaHWFjW0HP5jkatp2dI82fpRxmaLlQx4zkv0Y4aJ7uDzO9rI0GMUciV3DNwgkHL0T+K5Yrsw/ipkOGRmuNa/UQsmJ6vwxB+kCqRCdW4mYjoIRp+rB2+gB+PJyBnOh1ds3vr5vG4V8UK+a6j141RsjHqtUZqW9ObcZ4OIZdknc3VO7KpfocBakzJRimmPXK31qQlm+JH2s4/7lmsByUi/4U1cNdiMnD+DicdKdAA7PfdxIgTuI0SX7LmJw127d6viRGTvnkZg==;XamVT+HfYstaaBFS7MVfug=="

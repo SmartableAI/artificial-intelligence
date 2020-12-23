@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cuomo halts use of facial recognition in schools"
+    excerpt: "Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools. The legislation places a moratorium on schools purchasing and using biometric identifying technology until at least July 1,"
+    publishedDateTime: 2020-12-22T13:41:00Z
+    webUrl: "https://www.timesunion.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Cuomo signs bill barring facial recognition systems in schools"
     excerpt: "The bill would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
     publishedDateTime: 2020-12-22T21:28:00Z
@@ -91,6 +107,52 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Cuomo signs schools facial recognition, automatic voter registration bills"
+    excerpt: "ALBANY, N.Y. — New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers passed those bills this summer. New York will start automatically registering ..."
+    publishedDateTime: 2020-12-22T23:31:00Z
+    webUrl: "https://www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills"
+    ampWebUrl: "https://www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills?_amp=true"
+    cdnAmpWebUrl: "https://www-pix11-com.cdn.ampproject.org/c/s/www.pix11.com/news/local-news/cuomo-signs-schools-facial-recognition-automatic-voter-registration-bills?_amp=true"
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/dcdfab0/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.pix11.com%2Ftribune-network%2Ftribwpix-files-wordpress%2F2017%2F03%2Fgettyimages-635508650-2-e1512875395221.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NY Set to Start Automatic Voter Registration, Ban Schools from Using Face Recognition"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer. Several bills that ..."
+    publishedDateTime: 2020-12-23T04:52:00Z
+    webUrl: "https://www.nbcnewyork.com/news/tech/ny-set-to-start-automatic-voter-registration-ban-schools-from-using-face-recognition/2796543/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/tech/ny-set-to-start-automatic-voter-registration-ban-schools-from-using-face-recognition/2796543/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/ny-set-to-start-automatic-voter-registration-ban-schools-from-using-face-recognition/2796543/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 52
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/GettyImages-1230127180.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Cuomo signs facial recognition, voter registration bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
+    publishedDateTime: 2020-12-22T22:16:00Z
+    webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "New York Halts Use Of Facial Recognition Tech In Schools"
     excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
     publishedDateTime: 2020-12-23T01:57:00Z
@@ -102,6 +164,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Cuomo signs bill halting use of facial recognition in schools pending further study"
+    excerpt: "Gov. Andrew M. Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools and issuing recommendations."
+    publishedDateTime: 2020-12-23T06:42:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 33
+    images:
+      - url: "https://s.hdnux.com/photos/53/06/13/11297525/5/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Cuomo signs voter registration, facial recognition bills for New York"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
     publishedDateTime: 2020-12-22T22:14:00Z
@@ -112,6 +188,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "fXlUV0nBegShG3yYdZhfnOlqaXb8sNc8JuFsRlfZvcX22aG4SotkjHv0k5V8VMhQBavlmYSPnYmHTfeKIbqIFlVNBe9sb6CUtu1DYsZ2f4CaaJZytCV+q0nE4nQQ+h7ZdGeAxJCEANKfZXMXNta2NzFPGhyhoeC5LVAYnXDHGFoBOQ2mfN9bo/24CAyCK9IECDG0CPilU7F/x8VFBnUF/+t0FlJ6hQU4gdak5BMVb3EukqYbURwnTBni0Yf8q7W9b90D9cnxspaeBovPOGrReVVRuW9jUgR39joiWfI6xl9Mbdsnv7A8zIc5QoMPyZg0bUGv/2pJLv/W8LDXQQm1IxBiOX6tVjjD29pr5nxTE84=;+5ytqKvwbrs2ewUobhCIFw=="
+secured: "aHE/MLCWikGSTt7Af3M4HXNSFNtECONEF6JlMzgtkZoetw1Ko+59PspPs0b9xfZ/SzJ+1OPygJ3u5dE05TY1SvnVGChaemdCUDH68tFM15jBWQP3XqBRkyugfWdC43tUvDGaaGhZ3J1luzEZU9DTH0wsrAL0ny7T6+N+cwnUnBzd9UH2+FfTKIBa5s0RQNx7PJZsNVuAgMal/JE308ae8VHvOEREmPzmTQy02ZR1IjY5JOE6N4ipIr0d2Ox5ZHCBPqpBlAOlAxRNcxL0VFJyEpqIpMR6CD0vNoroqsB/azsSeVxxk8gxuh4RdQs/wztyMdY/v7A8IVCshugDR8RtO56uoHGscdgXPdIGr3vv8uFfpG098525K5KAlfGspJFdTBAmW5/qA3+SEPeE7MEQgwv1Iz/K71cYRxYpzcTTGsEA256k5qaP5jGColkGJTKPZecd0JmiMetZMd9/KW4Upc8i7wOv+bK0e9GinEAFFA7EAygyxXpwg3j7dzy6vBJ1t+17xRUPYiOIgwkYG0Iz3g==;ASdzxDXbv6Op6Fev6CHWLQ=="
 ---
 

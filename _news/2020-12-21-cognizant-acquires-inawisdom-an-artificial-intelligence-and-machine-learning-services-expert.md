@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -76,6 +76,6 @@ related:
       domain: channelweb.co.uk
     quality: 19
 
-secured: "zgu6ShdW65ts3ljA853RVs1AA9HbdpOf1obromL8Glca3NzxyHXDnuWK+rrlE/1B0SrdVNaOucprdUm354wD9SO1nB8WfQs45y66+Fz2dK9uSTk2kD4ew+Fm/tVRvgRSGvUlYWJAiJU2SmZN2JgR4HgZPkS1KvVRsrLnavJYLVSaJS8PwDn0SA3RytMyGowgaSLelORwVjXIb7+DFuTQ3hBplenEWPcW77G9NaXT3fRDKK9v161DhfBs6GL6TgCTlAM51A5cPdWWTyrreAOQY0GebseOAtSDnEQcyCV9/jKRktDuOcN4CGo3dveIJ84bC/HnWt15owkg0k/BSqjhrw2/8NzlQyBSoN5GibHPe/Q=;PFLqAMZw+DZeqkmq9Qn9vw=="
+secured: "b/m50OCIKhCYTsff1w9Noo8yVTxpgkzyxJEp4hl+UkRUNEMRDzs0UtwOzYIV0pBDd5xUKRHP73zk5gH57XLuVIclWHwDe5uhlCAbwTTulqSFpg+UVat5lzUVqLkjCQyi5eWyWJ04epcrhQ4JEueV9JwuLGlx4CTDUdUDBbQ1J7hvP4HoxEfmDz6J/pNL99CD63hpi/5mxFoPO8yaeR6Q37/1SQd7fLcQjTZ/ALysE/UBnMdsjwvzKrgBLWOO0/q+vXyne3CyQpCRbrnCEhE+ccp7WewvUE4N9L2aId5BfHl3ffObAotF926olQi23oWeBhDsE6nIciZvsGmGpJDGSm83CfCUK0zhjcgt6kL1YWs=;O5yWPCscnQU9CcdLxywAbw=="
 ---
 

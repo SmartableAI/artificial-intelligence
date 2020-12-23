@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/uk-stores-facial-recognition-track-sho
 webUrl: "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?source=techstories.org"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Wired
@@ -28,6 +28,22 @@ images:
     height: 670
     isCached: true
 
-secured: "2CIOAr4DISufY1RxcGgXrpTEs7uzUUhytoRANiRVbbD6lZFRPddO7EneSNy/wJ1O9BIdYODZ531kEtLEGAJ5RyppyQPBmNOv8kpsCG6r34O4DRNcROHwkz25s+WGrCTRAEtD3x4+WdVU8RxFJsffCqnrMuEKmQaZUcSZBt6fe/dSj2GHKHlh2dBMDDDy6rVyPgLYJVXBdrL3fm3gZWGeGk1t3osvd2WfP3vDWeBC5PXFGpFMwtOQNmik8/F0hH35/fXxI/EolxE+nLVNsdjbpVISBsaPFkIVGLahqhi98LCi/DgiyNjwxcwmxP0uZYwLs+5K36sfGY0P0ZYcGWhhwQ5T+8ZhMz/WuThf2ZqIwUg=;EC7IJXtsIZyjH5vU8K/7Hg=="
+related:
+  - title: "City Council Bans Police From Using Facial Recognition Technology"
+    excerpt: "The New Orleans City Council passed two key criminal justice reform measures Thursday. One measure, which was approved on a 6-1 vote, bans the New Orleans"
+    publishedDateTime: 2020-12-18T23:45:00Z
+    webUrl: "https://www.wwno.org/post/city-council-bans-police-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: WWNO
+      domain: wwno.org
+    quality: 39
+    images:
+      - url: "https://www.wwno.org/sites/wwno/files/styles/medium/public/202012/image_from_ios__17_.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "N6EY8R0XBwY/X2DEtgN5kBq3zmwGOZnEXsN3euvpJHqHgRqriG2sYky5Y3MBCvCy/9EtVWcS6d21cm07Y6IZbUsjHP5gE4WBSZ6UR4Oi4dfjVr2a//I48OG0Qh5h3oKPPI3DDD3wECdIMzxDRHmGQoW9pSk5QAYnalx7sZYWV+iXGxP/qrQuaozYuaE9MPQxiR0mqpKuheN83f+fHO6P8FUUwIJYVfI6zOv/i1ZdKB4E0j2dMvxo8VA8AVlJWKaTebbVcf7Dx0968TSwhFDq7DNXPdvV+/aK1DwCfOGWFmFlj3EMpbdOnhjV8UJA58XCijA4yd7F3mVP1379dIppuY4XhRIOHw0FDOfL+MyNvNtppLIh55J2nN6QPjb6WKlDbt40uAN2shLL7CPu8f6O2tSBgbz5lPLyYaskPNidsRn0vag7XAzQBPLBBmAGrgGQIzGXOaO4t7uXr7PJH7kGpucwMz3ojbX+3rMhMR4tg4BQPRaaqMAwV/Uf29sboyjpNZ6Fr1jFXnu85eUxe95v1A==;/wLgpR9XrU/gRX2I5STaQw=="
 ---
 

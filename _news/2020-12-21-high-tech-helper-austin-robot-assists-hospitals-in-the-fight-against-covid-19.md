@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kxan.com/investigations/high-tech-helper-austin-robot-as
 cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 72
 published: true
 
 provider:

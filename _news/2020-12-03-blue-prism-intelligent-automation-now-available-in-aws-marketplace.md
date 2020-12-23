@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
-excerpt: "New Offerings Give Organisations Immediate Access to Intelligent Digital Workers and AWS Machine Learning Services, Expands Blue Prism’s Relationship with AWS Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace,"
+excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
 publishedDateTime: 2020-12-03T07:55:00Z
-originalUrl: "https://www.pcworld.idg.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
-webUrl: "https://www.pcworld.idg.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+originalUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+webUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
 type: article
 
 provider:
-  name: Good Gear Guide By PC World Australia
-  domain: idg.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.pcworld.idg.com.au/article/images/740x500/dimg/iphone-se-2020-touchid-camera-100838696-orig.jpg"
-    width: 740
-    height: 493
-    isCached: true
-
-secured: "1qx5rK6J63aw4yVkvDkggNay+XSDSjlW7NGWw5nI7SvbTjvkEnKVenY96t4IvXny/IwvOJ5FfRmOz7cHKlMng7DDLeZ1jOgwA57grxiia6AOKsMgkyypFhpx2LYXAnHQHuCWmOKjU9JtDE+kK7IeGGd72v/P36/wow9/D0ohwIccIBpc4GyhHq7oNUM1fl8oc37rUimnWv48Iq8jUcH7Vr5Z2kDZM9vLc0Buj4gtUI+QVlkQPA8TYk5pm+TmMmSzu7xPhyaxwaeo6+a1x5qqUyU2sMRgG8UipADjUOIMO9EYrX4sfywtiz5W7znk5LgOMO4QMQMHhv+K+Hcae/t7BJJStDIYZRlqiMtW85W4iMk=;fSzkGywJB5KVaRqJiqtY1w=="
+secured: "gUFqDYSKxWLRpVshML2+hOogn6iP7jLVk+1wO7+hcoO0uSd7iSQTnxiMyOSy2+Jb/2oYRZ2qM+NvmsoLRaYKmZTC065tWZ6ROS4KbK4miGqknK35mAUK3bGPgOrf2tx9feBfd7OjaeaLWBeh/6OKtOPYQpIZpoyV/s76syPgPCp9z0HppTBKc+rHHZvMLAv+DPXQaF8rXJ7Pf0YLrH8zlTVeaBaZB2+txdrLwxiDmLOSVPK0zr8lurvHitrHPX1PUgjsHPdaFsmUw7OPe79xwKl2wbFQos2IMbyahNBwXDK+v5k0ERjcH4VhLmtKYy5xJrEQeihoexhuJtl0xGABJP4Ul4zJqH29c5GebWvv1cg=;DhApOZoI3FXO2XMcpsVRJQ=="
 ---
 

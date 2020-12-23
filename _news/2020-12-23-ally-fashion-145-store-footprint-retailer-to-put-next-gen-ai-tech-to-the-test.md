@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Ally Fashion, 145 Store Footprint Retailer, to Put Next-Gen AI Tech to the Test"
-excerpt: "Alina has partnered with Particular Audience to add a dynamic AI layer on top of their eCommerce ... Ally encounters barriers to item discovery from the cold-start problem, exacerbating long ..."
-publishedDateTime: 2020-12-23T03:50:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-1029915709"
-webUrl: "https://markets.businessinsider.com/news/stocks/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-1029915709"
+excerpt: "PRNewswire/ -- Ally Fashion, continuing on 18-months of digital focus, makes critical steps to revolutionise customer"
+publishedDateTime: 2020-12-23T03:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-1029915708"
+webUrl: "https://markets.businessinsider.com/news/stocks/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-1029915708"
 type: article
 quality: 43
 heat: 43
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "l+wmfNnBrhKKPPDW5tqvMxia+7kXSMcaasx4UlA9nOiuTCYQE9iG1W4nODuRWn156JyDPtoymY/wRmMwztTTUAV5e5GyVzB3MVzJPcnHpU8TpBn+9qupXVoqqtWA49WWD2ZBvPYwzUixxEn4FZDlpVpvrlUJ10/1PQycIs2g2ktfzbvMm4u4Rkuup8PLpw7FW0iCN8xml5kyHHw6ItoRl2iku5blzav/pL8f5bhYUZj7bR/oR8qPAXMJ2yCCoydq7rgk61UkYX9oZa6EbbTtCyJ3BtrKl6fs4sJpdFDAAEhL+HLdX3+ZpY2eovv2KypDOL4Tn0hr4+WzwYvkB/3sdo5L51Yw0MjACIoSMTYTBV4=;N5+vMCGRo/7B4AYiItzJTg=="
+secured: "pa16+/GNWBvJ5+Z8qP+hWERHX0GcqMvGNFhbeP65HEelG3LTNwmpRqDURGGHdlXkv3hhHJvbZm8ZKS8+p6F3wGuKuf6thH9rDFGz7sngRXMH8QuvETi6xtrx+up1o6Jtu8EF7mC30tdbjNt0zD3zFIOpQC394CtAwoOu79tElyCcEXOSmU4r0LR5YJhW7D1YSPbJtYxiYH/4gUOsPV1cAmesR/Db8AxA3ioEIXenbXDGkWQ4Wmy3MU1s/QNPTbqJJ+RWjKk7SptaYO8b1UYt7yCqULTvRZjQVyEH0C+SEXZdDqrOeZ2pebE1OhGAIhvPUe4PQy+NmGuYSVf9pv0Ec67RJMDv3++ncjcsIGMKL7g=;OJgASFcoYd6Ts5nw3Y6gRQ=="
 ---
 
