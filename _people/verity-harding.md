@@ -2,7 +2,7 @@
 name: "Verity Harding"
 bio: "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her."
 type: "profile"
-heat: 42
+heat: 64
 
 website: https://t.co/7skid8sUXc
 
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Verity Harding"
 
-secured: "4kozXOnpikPA92VmypqVlrpd4CHqYsYlF0Pye1hFXjxh/464GtMyliLrofkM5YGVJlaQCWhDsIXa6o7YMdmXS2djL+Qk5ciOKyYYCBA7WHU0EkAl/ETZayzLAv8DPz7FAHUqtfnm32htbbsrecSE/Ffzzf/kHj/Zu2vWN/LG8HO3i8zrb6A1OU9iVMjXC5YS+vFoyFsHsSAvMuGM8z7Sv3/dNh9Py47L1v9UHGSEX8CsTX9J2n4CaWLLaCu8ep93twrZqbWrtlNxQhf7U98DuGJBDw4nFmdYZ5LNRNxS89WeNWCfkjxO/4YdgnebTXBgFjId3e/+FKpG9JrrE8Ay01Vwj00UrAAgScbE9cTBW6l/buMiC3lfUR9JGJempL5rkZesd7mdx9mDvsZx5NdHPbM680ldayfEiSMYXHzScAQ=;u801t5b+jyIflhheUyvMHg=="
+secured: "bqiR7WL1uu7QSvTJ9+Ndk/cKHoUVI5ItiXHE8CtAI2NlPtINdFBze071F92vPw+hHKFRz/rc1kxnzQD2CwSMxQKI7ILxK1AHEp3mHan8IH+cMfHqQGCajExX97k0nGNg281JhxQyrCmYK2GUVsEuub2odP2SMOjvLQh/IeoDzd+EUrqOl64tynLSxENsz642dnP5tLWcB05ScY3UxKUvhHi3lffhawz0hllO2KaWxIdv39XgK3BQ6Zkwc/vrf0DboFvjGD/sEPX/v6Y5r0OfjM7gP7B6ITh6dXZtG8YGZnwk1qweSzVFgtNHo0VvMQWkW93HCQIJXLAcbHvOcH5+9tpFS6qdfLbVu/rNcFVQKF9KKFMZqPratHo65X+74B9c93roFr9k9eqirs3tMzCQYc3hHa+ZEbVk6jYe5WTwO1g=;kUxBsGdxx7Uc6/Ljv1QNGA=="
 ---
 
