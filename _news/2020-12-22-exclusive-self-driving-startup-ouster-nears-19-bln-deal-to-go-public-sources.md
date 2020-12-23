@@ -69,20 +69,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Self-driving tech makes new moves"
-    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
-    publishedDateTime: 2020-12-19T04:30:00Z
-    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
-        width: 400
-        height: 266
-        isCached: true
 
 secured: "IMao9A3qYYre65EoDr5WVeSkmWQgywOhXtIKUmN9ZYaaYj9xK5sajH1Hp8+2PJe3jJreC1EU5vDezfQB9KeLgp879FR6g+mHnMhnjAC1ZGAj0GA8WtBT9akiOkH5iJcgRsSr+cttDLSsghVqt5QHSGhk/Y69a1MSFqHUq30pw7i1JAtQMxeNZ9KBdvo43WibrlInkkIf6D6YB1L8CTl/Rdwa5ykQf5onTfhYuOwyZc70Q6Fo2/O4GfHP7XTd5JWrFfzlojf13/fgpUFtgnG8apGkpAfQ91QaIUwwmgCOZUD6ZLBwsiAWu06C54AIZ68C13Ab1o7wLLK0CtWiSEfCZYBcOlLLIozqff9aYuvu2T4=;5EYZqNnlspHdCjzZglRL/w=="
 ---

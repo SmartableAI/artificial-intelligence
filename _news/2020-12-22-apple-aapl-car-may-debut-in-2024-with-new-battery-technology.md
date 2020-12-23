@@ -31,7 +31,12 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 138
+    quality: 158
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545461268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1HR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Apple targets self-driving car by 2024 -sources"
     excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
     publishedDateTime: 2020-12-22T04:30:00Z

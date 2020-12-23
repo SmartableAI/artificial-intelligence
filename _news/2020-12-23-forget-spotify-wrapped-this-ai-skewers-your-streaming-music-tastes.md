@@ -56,6 +56,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "I Defeated the AI That Roasts Your Spotify Taste"
+    excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
+    publishedDateTime: 2020-12-23T20:19:00Z
+    webUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
+    ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Let this eerily accurate AI dunk on your Spotify habits"
     excerpt: "If you're a Spotify user, you might have checked out your 2020 listening data with Spotify Wrapped. It's a straightforward celebration of your year in music and podcasts, a judgement-free overview of what you listened to."
     publishedDateTime: 2020-12-23T18:01:00Z
@@ -71,6 +87,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4770c3f0-4543-11eb-b3ee-de2d0bcc6528&client=amp-blogside-v2&signature=f12a39d50e4969bd9c7dc493532ab89e56841875"
         width: 600
         height: 350
+        isCached: true
+  - title: "Pudding.cool ‘artificial intelligence bot’ rips Spotify 2020 playlists — with hilarious results"
+    excerpt: "AN ARTIFICIAL intelligence bot has been created to rip music lover’s Spotify 2020 playlists. Digital publication “The Pudding” has created a “How Bad Is Your Spotify”"
+    publishedDateTime: 2020-12-23T19:58:00Z
+    webUrl: "https://www.thesun.co.uk/news/13563075/pudding-cool-spotify-wrapped-playlist-judge/"
+    ampWebUrl: "https://www.thesun.co.uk/news/13563075/pudding-cool-spotify-wrapped-playlist-judge/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/13563075/pudding-cool-spotify-wrapped-playlist-judge/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 45
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/12/ad-pudding-cool-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "O0DRDRANw+t2RU3o3b5H3KVDp/yoKvuOvDhshokBhptOKhCMpbP9okmRqV5X9sCOqqMIjjPur4je6wpQeKT2sVZLXM1w7iPRBTBArl6k2A69NOWJx7Ll01FkTuPEnw4/xxsXkFjqvCUb0GUVrG7+xFS8nm83Cp7FqiaoX20G5SbW/vYpctuiFO13fHxqY4MbSBG+Qx8WOtzKBNt211z+KoRqRJXPm+D3zSb2qBI7JP7vopzbfkHP6xKrdeo8klQq5daKEgAuVbnwFp+JVnkCLIhb1U9YksoyabWV6FHepLX1Xl4T+NxuPYr2/utbHyuNotejmfAPyOZvE4sueG4rBDblXJs49YIrOuoZn1+DrRY=;4GJPk8KLlOD8PB390xFWsQ=="

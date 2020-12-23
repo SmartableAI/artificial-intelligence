@@ -8,8 +8,8 @@ webUrl: "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-appl
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY"
 type: article
-quality: 138
-heat: 198
+quality: 158
+heat: 218
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545461268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1HR"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Apple (AAPL) Car May Debut in 2024 With New Battery Technology"
@@ -107,6 +113,6 @@ related:
         height: 382
         isCached: true
 
-secured: "aW9wzr2ktd1fM6ot7Sbk6N0nD1fZczVyZO9bKp/avaWcUSdr1dhqcQR/YFSl7G48u+cSY3qwHWcfrug3HBI0n5tlpfPez5bOky9CB3v8J2OK+A4GoMRPJinmFFBNskOW9ghugxwf6GrRt/qQKkVDS45gwWgAoGjcN9llBVkQl/nqdF1msb2rBxpawYIf4A4GDJyPeA2xDx8CT/xy3fUY5ybqmMbg+3F4QldZYQNyTlGr8jodA0QmgmnPYSk2lgf+8PlARSP3ey/bph0Ci4NPXQYz1HFmWPyfPyVIJURQsZhKI6SYvTv+SxKOz0PPLZJzYWb+SqLP/hEJfNEXA46I//C6lBz9S63b4OJmwQqs5rHU0SAfO4lOagTtJgLTaLl231jhn3ZuHa1j9U0yivDuJEZ19NmbKCmLttmyFrufCh2FRbOJS0/2wZkWzb8oU9hHSqAOogEgcGNDWcUdQosb2xDu42Qn016nMdtlobV9TiKj1ZI/VX+jqSzzsIC5QNpI9b5cGd6IZunxaynoM+PXx578jJ47VvQ7WhRfWG6PqeI=;stPvA2R6td2tWGsfKKa4UA=="
+secured: "65TKF9T9a2LiYdk5+Rm6y74ui4qQj6+n4SD5p9AZd2Kp4W4hF9kZhFDc36ML0Oc3Cc0nY1uvXmvTwnmom9txg87zcgoIq8jh48HGYIgp1eRR8+or9X03Y2ilnHfROJdvei31iI804nPXdc6QY75g3XbLl5aj51tjBKFX2fhfDgwOBrLaSpIOKNG8x/qHyEhgkRC5Rbq97/rb4xuQfgyuhmNHZ7Kx7lr6Cdz1vG4hxYki/bmszATAA3m29XwWze1ijfzV5nsWdCRhBtYWhYk3RY+BBCAXr99M23GntYgff57RphsJrh0JL1BM7h5Hlc95NDV3+SpzP+jDVeYE0kDYAhBAQF3lk30T4++p3K6L42o=;nkPC072b8E4jlmfWJH2kFA=="
 ---
 

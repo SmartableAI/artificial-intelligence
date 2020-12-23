@@ -7,7 +7,7 @@ originalUrl: "https://www.upi.com/Health_News/2020/12/22/AI-model-identifies-wom
 webUrl: "https://www.upi.com/Health_News/2020/12/22/AI-model-identifies-women-at-high-risk-for-gestational-diabetes-study-finds/9881608646617/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence Predicts Gestational Diabetes"
+    excerpt: "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. American pregnancy diabetes calculator cautions you about the chance of having diabetes when you are pregnant."
+    publishedDateTime: 2020-12-22T17:41:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/lifestyle-changes-can-prevent-gestational-diabetes.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "H1y3C2RcaBSTxwpZ26/qf8yy4zSllMEGV6Iys9Dc4yw5vObNjXAbZa2SPpxmBI/eCIB/iL+KbKboKx682ppkyc3DUGgoUk+nxdTBfBO3pt/uuqA28OPmZIQIryrNlVNrV+ZvXFZtqrUpJkrM7eVFJn4NWMVZFdTahyTe4TfdM4t8B69OBzWDKYjkYKw0sheJi1oj+5DveRoksmqFLobV1z/Kb4pAekxt5flWMxNo3tIW+R7/7M9M5q0Vn+gtW2Gw0AyuNC0X972hwMshAdBsMImQLmPv92cWMJH6vI8SoMlRQdmJFn3EOO9DzkMSMNxXBg2gvDQQeXYXQHUui/tu9H4Jf9ZV8a9wMgTdh3uxfRl9+t7MCF5B0QOYewClCUyvBYVqAmqnyRRaYiUZdXJ+r/hahJCMqTgNFV+x4OwAvIwUx0HwwyvNy0jeFZiFutbo0/J4JW1ISayuL9yECcFfyiTV4j0FrY9PbNEHHflr8VeqjYmyvl2Djilv00mAN2BNHAugtBBDGZPzXuiLGIQ33Q==;z1O6yX/DD9UrouyG1Qg6OQ=="
 ---

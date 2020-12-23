@@ -62,6 +62,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "I Defeated the AI That Roasts Your Spotify Taste"
+    excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
+    publishedDateTime: 2020-12-23T20:19:00Z
+    webUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
+    ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Pudding.cool ‘artificial intelligence bot’ rips Spotify 2020 playlists — with hilarious results"
+    excerpt: "AN ARTIFICIAL intelligence bot has been created to rip music lover’s Spotify 2020 playlists. Digital publication “The Pudding” has created a “How Bad Is Your Spotify”"
+    publishedDateTime: 2020-12-23T19:58:00Z
+    webUrl: "https://www.thesun.co.uk/news/13563075/pudding-cool-spotify-wrapped-playlist-judge/"
+    ampWebUrl: "https://www.thesun.co.uk/news/13563075/pudding-cool-spotify-wrapped-playlist-judge/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/13563075/pudding-cool-spotify-wrapped-playlist-judge/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 45
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/12/ad-pudding-cool-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Forget Spotify Wrapped, this AI skewers your streaming music tastes"
     excerpt: "Instead of some snooty human wanting to “educate” you on appropriate musical tastes, you can now let an AI simply tear those tastes down. The AI-powered “Judge Your Spotify” bot goes through your Spotify history before summarily launching a verbal assault on your pathetic tastes."
     publishedDateTime: 2020-12-23T12:23:00Z
@@ -77,6 +109,6 @@ related:
         height: 720
         isCached: true
 
-secured: "KT1X6EdPIOGGqudahtzLbNiPtymruNISwKmQ4Qag3kmZrO0pT7r5uhlRnGFFli0Aupy0iRQszLVVan+ArJbbt2OVWfqJR6hKtjowrf+1SmecPlZ02pqYjKXVodlvx+spt/TRQ08VYHLhv5xhNFG9JKo4MYb4Vh5X6amT3YGOqrLAw1OW9glvF5zp751xOT45pQhbWyRq8hFMwjz6QfIyzxyC9fFcHQNVUslUq665SApQg2vCx343a6qd0C/fJoTccKzgtunxMnqIjFFCRzSHxg+SsajBZsjKwwKoI/9+azDLQDiHtwoToajQ53ZKOLeCFkV3alOn0CcML2dQyeLWFxTXZ4av9jL4WkPNqTbPHzw=;OA/KfQy2CPoxmNvu72a9Pg=="
+secured: "ApITDVtfLK7k4g5HrVxIC8CZB8wMrnf9wOnXWF/zsDE2mnXYGj6aaVGOkB+Ri8MQD4vXfulSVePZxu+QpH70Xlq7A1W5KWeagl32gDkoEKZZNiCjplfXWgo0Xw2QyTClBeoD1WSKN0Y5tdv8ZIszUio+6AnCehs/Z2vAxQA+2ftv/DwId9DMApkhecdsNOXaRtZqKbnqdd2qse3NA5fj+E66A84szpb1QkWbXAqM4xJcyI+C1V3pTJp06OuGp2OIzhd51NrxqDPIHiuGoQGFrlz0U0/zAMWndaZfFp8XnpyUeTojdVZ0WqSyMsUYj0zSM0ZGmA4GxYPW0kE91baocE4oRozQ51wKpNKhkfZM5jt7sRyHjyJBRp6SP58nHNkGR6CYY1gYyI/O7YXDkPIYTcL3z3xL3Y10gxVveP+TmnyqCwFgJ1UaaNjJC5GHttYxxqLBGDT+F+BleYBOMgRBFeD8JGkB3xImuJrLoro0c7TSC0eRDv5/oLqdCF2Y66Jpk7oa3AGQabatOs7jJOzgLA==;3WdIrsYoa8G699DLwRJoDw=="
 ---
 

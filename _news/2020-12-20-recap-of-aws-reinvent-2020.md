@@ -25,6 +25,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "50-Plus Biggest AWS Announcements From re:Invent 2020"
+    excerpt: "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference."
+    publishedDateTime: 2020-12-23T19:39:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0261-106238be6393-16ccc5ad5fc4-1000/aws-sign.jpg"
+        width: 609
+        height: 456
+        isCached: true
+
 secured: "3mhg0Cuh+mzD1fF1kB+JxmOyLkvicT5iqqHMUTfLQY+NJvn664KDei7NmmXgB6jiNtHP7J46Jd39dBGTpaHZpQ9fjNzkpcx8Km9kyRQPOiJapz3wX8BJvpPss7qJ02nNuVKNpBnmQHh7lMv4qiy24g2PTgL805WJRAGZgwwkjoI+RTWWbulvWG0QTv0xKLPU2i7VJUTou7aXLdLj9XZeYbLUc8Y63hH+bspTbeBlasldUFxK7RgBtrqj/2F7D+SaHxdHC7kgWuS9bVDZWkBa6dLxa6cKn7qwYKqDtMSuExsWVK0ltz6UcfH9YlYuC6bdcNPHrqKn5bg65n3mrBlXRmkOwpvow4lB2RjkhJ0Q5bw=;SArjvIJE0bd86s5X3rKwEw=="
 ---
 

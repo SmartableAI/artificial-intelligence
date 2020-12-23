@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-12-10-former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies.md",
-      "title": "Former Seattle Police Chief to Join Axon's AI Ethics Board, Promoting Responsible Development of AI Technologies",
-      "excerpt": "PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the appointment of Carmen Best, former",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies-301190202.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies-301190202.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1372650/Carmen_Best.jpg?p=facebook",
-          "width": 640,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-td-sees-big-role-for-ai-in-fraud-detection-lending-decisions.md",
       "title": "TD Sees Big Role for AI in Fraud Detection, Lending Decisions",
       "excerpt": "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen.",
@@ -1189,6 +1146,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-what-are-the-advantages-of-ibm-power-systems-for-your-business.md",
+      "title": "What are the Advantages of IBM Power Systems for Your Business?",
+      "excerpt": "Incorporating these systems into your everyday operations not only offers increased levels of flexibility but also helps future-proof your company, allowing for easy integration of IoT, AI, and Watson. Security Benefits. IBM Power Systems already has an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T14:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

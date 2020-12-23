@@ -37,7 +37,12 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 138
+    quality: 158
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545461268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1HR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Apple (AAPL) Car May Debut in 2024 With New Battery Technology"
     excerpt: "Apple AAPL is rumored to boost its driverless car initiative with plans to produce self-driving car technology and introduce the consumer vehicle that could include its own breakthrough battery technology by 2024,"
     publishedDateTime: 2020-12-22T14:38:00Z

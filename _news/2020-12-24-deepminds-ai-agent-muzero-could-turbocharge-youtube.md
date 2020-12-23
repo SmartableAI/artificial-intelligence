@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-55403473"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55403473"
 type: article
 quality: 104
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI MuZero can learn AND master Chess, Go, Atari"
+    excerpt: "Today the machine learning algorithm MuZero was detailed in a feature research paper in Nature. MuZero expands on the abilities of systems like AlphaGo, AlphaGo Zero, and AlphaZero. Each new algorithm allowed a smart machine to become better at mastering ..."
+    publishedDateTime: 2020-12-23T20:22:00Z
+    webUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/"
+    ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/muzero235.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "DeepMind's latest AI can master games without being told their rules"
     excerpt: "Alphabet's DeepMind came out with AlphaGo, an AI which consistently beat the best human Go players. DeepMind then created AlphaZero, which could play Go, chess and shogi with a single algorithm. DeepMind's latest AI,"
     publishedDateTime: 2020-12-23T16:14:00Z
@@ -78,6 +94,36 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "MuZero: Mastering Go, chess, shogi and Atari without rules"
+    excerpt: "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms."
+    publishedDateTime: 2020-12-23T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
+    excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
+    publishedDateTime: 2020-12-23T20:28:00Z
+    webUrl: "https://hothardware.com/news/muzero-deepmind-ai"
+    ampWebUrl: "https://amp.hothardware.com/news/muzero-deepmind-ai"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/muzero-deepmind-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53786/content/hero-muzero-background.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
     excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."

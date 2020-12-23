@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Grasping an object - model describes complete movement planning in the brain"
-excerpt: "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key."
-publishedDateTime: 2020-12-07T15:35:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
+excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object Every day we effortlessly ..."
+publishedDateTime: 2020-12-07T10:02:00Z
+originalUrl: "https://idw-online.de/de/news759379"
+webUrl: "https://idw-online.de/de/news759379"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
     isCached: true
 
-secured: "skV6HAZq0FA+5IH9WXlWvBRjwruh7zlMp2ypAtA3HMdQ7ZJvlmmJ7ImUXniaT1XolVnX2pCRx8g29Eth98gqK7Hl94MNbjWyj3KhVuQVcRhX1N/ypzY7jLzfwuyz0iyKNlxyNIgg/aQUxV23czKCwnoGN+Rn559DFJv1hJwaO/uJxRlQLKtufpWB/YcSe0Rz6NQg7fkHgDvrdYzambSdjzAHJQ4gOlplXBaeag+PD3GNYtDrFre0r7B63dg+P4ZsyHUua3KldqP3m6szu0HfowtFDQCAyv3e0ENUYyUidwZbM1UFsyjq/zoVKvvdQdQbL5ZPJ1bdUnNu1dCRg0Ft+pYQ9oD+rbkTv2fGTZzb3Tk=;cMoQCFPj+6i89Yw962Fhdw=="
+secured: "IeVYH8qk3+7a7s5Gb4PzuRduj4Z8650zIpbjyLQjaldYy3wuiP3kavRTrD0j9zdIv4YH3qBzE2BexxJFpwCq3Kv9y6zeUQfsftIUi7chk7SpKhi7jp/039N+jgg9qLDAJQ93r6fLS+xBRfvw+oUujwV3qirRFzvz7gokcolIKALx7uTdG0pLDkhyt3lVi7t7eYLYzn6ey4GH1bBl08pTSNyOxnCBNsjLznBRzwwMFQHfCWhCbvv284F/jeRQSttVk3mpI/PFoPMNZUauaALqsMTm2jpyqVTNwcmecRb+hIeLAFLKYXp0KDc+SRezmBPiAyc9bCi8+Mdq5f9rZFoZhS9QjPRLN4OlYO0MnVqziNQ=;1byF4VCOelPs6/zvQsfPdg=="
 ---
 

@@ -280,6 +280,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully ..."
+    publishedDateTime: 2020-12-23T20:16:00Z
+    webUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
+    ampWebUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
     excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."
     publishedDateTime: 2020-12-21T15:23:00Z

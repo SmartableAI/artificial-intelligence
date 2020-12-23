@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-re
 ampWebUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp"
 type: article
-quality: 69
+quality: 73
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
+  - AI Hardware
 
 related:
   - title: "How to create space for ethics in AI"
@@ -45,7 +47,12 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 12
+    quality: 36
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "khvuAXfUZOJqBiYM46bM5cPYsSFiXWr61QtAfh3y+GEX9+oAoO054RKOz5zqRmFMd0TXQNrUr62a3iZLoCk/CtJlCAI7Vgm0pGZYJhhyBqjmX8qFEBndtZEdalZG4ZsIjvclxMQtTzZ6rriRw90pN44r93uKdoUL7a/pSJWJ9iFhmwHpNiPI1m6vo233RKiMU3QYF1lHRimUv5P748fzoolxcNFo5AHrVWqPuepdpPWQxX7smGefhNzcqGo7Os3eAeXjecjpUE4Swvl35AEP11XK56GQhedEODsMcDdmlyqLiphBpLyy44IyLyf5v0DzvCkaud107uExnEofd1wylUQ4mFitEKgKkvoevkZYrsk=;/49SeVuR44aS1zQQ27I+1w=="
 ---

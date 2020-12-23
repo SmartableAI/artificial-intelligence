@@ -42,7 +42,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 73
   - title: "Leveraging Artificial Intelligence to Create Impressive Products for Disabled People"
     excerpt: "Artificial Intelligence or AI is empowering people with impairment or disabilities to have a better life. E.g. Google’s Look to Speak, Microsoft’s AI for Accessibility, Voiceitt and Dystech apps."
     publishedDateTime: 2020-12-23T17:52:00Z
@@ -51,7 +51,12 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 12
+    quality: 36
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "5VfODIsnRrLY0EvKyrqGMdH3QeOUEwwYbXNxoMtme3EJldfdtJ5m8dyWZQ1cJu5wLuSkdjK6zNaxQvNgsSMxHf5ZtbHHc32SyMA2jyBKO7BGXiwFSI0978RXC/rxfypT5mFeDYu+io7I3ySDAnaMuuLhVgvY4xOeTIsxeiiem+egFCf+8dCXT2cQRDm18LVUzJYjZoJnVN0YYDOb7RQXJ+xnlI/nevjL1HxLFcwSRzboPBMjC4ws2W/ju1adpiM0KayTNxh+KG8mQCYrg+ulB261MbepMP4PwYPryfp5GjESxvrMrQxoTPNPAyKEFo13ksBE5hMm9dkS44OBFqrZIkxUAVWugu7SHygcIWacd/G6dIMEH2csQsh63LN3OfzLpx+Sq2ub2bQZIP7apuHAJ2qUdUeHy2QA5O/2Fu2aYpY4piG6QI4yFuXrAq5UaiLVU06EBhtBJoTe49lYxvyDA48J2ixHaiBxtTTthWTp+RMexFhNwwH42I6PKYS1aTUPyEqu9PJRtXWu0AWWXPD8MQ==;kH2cvzscQLbLXAzgqh63Ww=="
 ---

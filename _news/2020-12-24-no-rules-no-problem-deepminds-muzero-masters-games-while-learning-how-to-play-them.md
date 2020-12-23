@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI MuZero can learn AND master Chess, Go, Atari"
+    excerpt: "Today the machine learning algorithm MuZero was detailed in a feature research paper in Nature. MuZero expands on the abilities of systems like AlphaGo, AlphaGo Zero, and AlphaZero. Each new algorithm allowed a smart machine to become better at mastering ..."
+    publishedDateTime: 2020-12-23T20:22:00Z
+    webUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/"
+    ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/muzero235.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "DeepMind's AI agent MuZero could turbocharge YouTube"
     excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
     publishedDateTime: 2020-12-23T16:09:00Z
@@ -79,6 +95,36 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "MuZero: Mastering Go, chess, shogi and Atari without rules"
+    excerpt: "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms."
+    publishedDateTime: 2020-12-23T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
+    excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
+    publishedDateTime: 2020-12-23T20:28:00Z
+    webUrl: "https://hothardware.com/news/muzero-deepmind-ai"
+    ampWebUrl: "https://amp.hothardware.com/news/muzero-deepmind-ai"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/muzero-deepmind-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53786/content/hero-muzero-background.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
     excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."
     publishedDateTime: 2020-12-23T16:06:00Z
@@ -94,6 +140,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "7MwLSeZgwUSF5qNgCK9ZK25/EkPuI9zkhs+CujiijNVbXbkbp6UE5+ntMnPykXY0SoryDgL+HGCb3rHqMKZPphm5gCtshwQHiBW2pcByS8YXwTzNI+lNNMqpachCzI2kbYvc4J80IE/oPZcjGegTszuD/Q7zkYQjBto9LIYUxPmVq6c7E4gGZL2J5bCRvfpa6yN08PzprncQ/+fVNvFh/C7E4Jb3XXle6y3fsc2nSJxC99kek1e+/hF2Y9h2s31pvECYCX9i3+O0aNGq6SRW3cBClRbJJiq6LHQeCr02QESQIBUNwewZr3LqDasEyy3oWJ2XETJyN0R7ORUC3SFRASRSKIQstYh/TNWfUSq5wRI=;8OYL54sqI6YHqxM961nodg=="
+secured: "ikX9gmAUYIYs8iIZxWxzgb0ESXzmzgC3zYsysYsHx4p0eMdFIhGUHhv4WbwRkJDnylJ3lg3NpjPZF9Ii3ZHU7priOeDznMeOrI52ud7K473fhSbV3yq+srCgBU5DbP4Xq3eDE+nwvKo7i28wcl3Ik1K9Th4tI3SeLzK7AHKEV4pnZ5koe+N66M5bbAuJdUM/TdveS6USL9uyEKdqWmEKRme/NXbRxMnEjMnyiMZHf2+z6KPfz96nYzmBlwfB1gCSJu10tl4c8gn/nHQ7BC9+6mI0YAmXcCIOq2EhtHK35VXNViC8Rj1Culhmakilqr/nTzvTOdwHnXGchebF5N/3u/UTZXt0gR0E3UMIzzom6yypbou5k5oN0m12b7VaJ5Y3w71kVBxxI9J+/Ltc7zpnuoYAobTBTW8DO+LGQyNxpu3e9xCwm+fmtjX+lrpCtVRKORK+VK3mR2JYGB2FcypZWaR5G02HzFlgjrT6K33meWgNmZGBVzhO/EcaSXJyJBkCfNHceVJEBH/EYaf4Vk4ueQ==;fl6XHvL4BAXPMry3vKWvkw=="
 ---
 

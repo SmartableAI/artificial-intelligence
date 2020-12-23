@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awaren
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/"
 type: article
 quality: 134
-heat: 134
+heat: 135
 published: true
 
 provider:

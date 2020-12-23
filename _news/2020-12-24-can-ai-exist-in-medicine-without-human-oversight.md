@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-23T17:25:00Z
 originalUrl: "https://www.medscape.com/viewarticle/941552"
 webUrl: "https://www.medscape.com/viewarticle/941552"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://img.medscape.com/thumbnail_library/medicine_machine_thumb.jpg"
@@ -26,6 +27,6 @@ images:
     height: 450
     isCached: true
 
-secured: "rBqn6qGBoXPiEnJvTTMHpCdveMe6bT1JEllRg62yhAStYesQ57WERN04yUm7+bN1/MWAnaBiitqH61d9eh6OjC0Dy0lPbK+dhtEA+UFxbNeLEzFXzHf1eyn9JwvpokC9vQYQU1CfQL5PkNf0XB3i1oo2+l/XER7FwhcoHrQaWRS0U/5YfG2r1zfR0m+VI58InTh8IIXoJBFN8tbAJBxh/oVHTl2z3zCv2myLMSJrQA9YNpiQ1WeA5sjfOH1a7g3vMrS5ag8Y6poZLnE8LahNKPDoZ5d+JfsoVI0KbA8y1mIn3AR5lYS3d1+MutxvxL7ItLYGA+l3tqezkVxrK8bmZLsNWeTaCUlTRVUYAIOC/G4=;FkG1LaYDLguupHUSXKf2dw=="
+secured: "NXRwT6EFQL8NI0urvnxAKQGrnzh+YxswCG2InNhF8tXSOPh6fGOdIrIz8SPB/lbAvxWQ+IbEALy7eI3l7reMtnnIdK+xQGOu2xufa9DXgUCx+CUG9EAqZRJ/xHxfgTNvFeeu0ZM9lZPWdOetmzlyAa+3m1y6lVi3mZ9NZj6QEQn6R9OIfny6F7rEHQh2cIRTMvvkxqjHqox6TAgSPKH0jhzfbMPGcqMpwmQPJY19+3p/NvC88qnJD7yF5rtIizu1vInCTgKEbY/qqhaSPiYc/0CXB0v0O6lQk/UZoaSdputJ2HMQuah+++mmQ9uQyRv6AX1FmPgTjycqS1Q68rv0G1BgvRo494fIa6FSZ4AYvTR/bEFuQ7uqtV6j/pg8CjEHxzQihLG2TpUKvwfMWUvOGoYSmcEWAJkBZ17PYLAvnwOWHC4U3qa94+SEEddkOcnITqKRATm4XygCgGoTo46T2tXwNDM5G+sir/Jfha7huLD8hZxDnoeNTxm0lr7EqK1lJxyIn437GLzskPkY2IiSWg==;oKXgW8GAohJ1edqnvFMRIQ=="
 ---
 

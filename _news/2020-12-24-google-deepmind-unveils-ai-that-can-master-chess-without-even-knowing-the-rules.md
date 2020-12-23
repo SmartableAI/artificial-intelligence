@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI MuZero can learn AND master Chess, Go, Atari"
+    excerpt: "Today the machine learning algorithm MuZero was detailed in a feature research paper in Nature. MuZero expands on the abilities of systems like AlphaGo, AlphaGo Zero, and AlphaZero. Each new algorithm allowed a smart machine to become better at mastering ..."
+    publishedDateTime: 2020-12-23T20:22:00Z
+    webUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/"
+    ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/muzero235.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "DeepMind's AI agent MuZero could turbocharge YouTube"
     excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
     publishedDateTime: 2020-12-23T16:09:00Z
@@ -88,6 +104,36 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "MuZero: Mastering Go, chess, shogi and Atari without rules"
+    excerpt: "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms."
+    publishedDateTime: 2020-12-23T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
+    excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
+    publishedDateTime: 2020-12-23T20:28:00Z
+    webUrl: "https://hothardware.com/news/muzero-deepmind-ai"
+    ampWebUrl: "https://amp.hothardware.com/news/muzero-deepmind-ai"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/muzero-deepmind-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53786/content/hero-muzero-background.jpg"
+        width: 708
+        height: 398
         isCached: true
 
 secured: "l6dPyen2iEx+FfrVCfyIqJBhYrt7VZFtsfUjjSSk6E4+2B+e23NWTU2uCE9yanvs7gjvYjoKYJXauvlXAXOgCKU2bzq3GXZN0PhUOjgyUAyyhHr44doRdmwHJXAkqss3busAtCSyn9zzzKFHrW7re3O9qNbAJ5jH68kdAr8NatMszjBSCDpMlSPmmMBLw92Vy7WGjpeLDC/c6RjV67sikCGIfinRjhY4OaJah93Sk7XemaW/XNfRWfTeX2DMY9Vi0LojeRO2FZOzpJjRqhAhGudxdAxoRbYsn7bEtxqHxdf3DECWfeQygKRK3P9KE8MtdZM6TsnJcj/rRLA5ONIVdCVdZHWVDDL6nDruORu5TFSv6+ydojdnkg8iEBxQ5qzl5mkFqJik9qbMmd11z+f6ZiChvxtJJtOZOUDmMj1KOR+pzzqJBN03zpoZvHGTo/4RH/4slxcOR5jZPLTFE0/ATO75SlCSmQHFje8HrajlBfjcHuFrwachDwsj3Ln0rRu8EYqBaR74AzaUwG59leEWTw==;CsMfrlDHSdTIuwfosHUF9A=="

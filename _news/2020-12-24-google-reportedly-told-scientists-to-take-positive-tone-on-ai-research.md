@@ -8,7 +8,7 @@ webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-t
 ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
@@ -70,6 +71,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 66
+  - title: "Google told scientists to use 'a positive tone' in AI research, documents show"
+    excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
+    publishedDateTime: 2020-12-23T19:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."
     publishedDateTime: 2020-12-23T11:01:00Z
@@ -85,6 +102,6 @@ related:
         height: 567
         isCached: true
 
-secured: "6HMRkQDQefdRtPevb64h2hgAhCaT1jAGW6CqL4j0lqQzjjfy04e1PGApq7wyQ9hfbWvmhXR8fnl4qjn3eB0Pp1MFp6TGQ+xz9PfP1jlI2UJOn+ANuvKpjkNEWFkhMvSSiiRXC7KHORQxD7WDxQpboDLpFfQDh2Je7yXq7oCYcD7tXdpcjjEW/y39tVp4HI2ZE+IcH3lbZC0rP75Cpf5XepFqHxpSwBk9RK9PEDmhf2I57k1yEYDjwwJ6jBzcECmv8Q9SsFU9Ziksm9QgEOnG3TnyhmecN2+2Cg8DoMQ6YL4FKr3asYxUweyCFRB7i8bjlXFWWOE6WskA2HSJTyHWEkx/+3Zy/mnVS6U/bv1EBOw=;D/WwNHkeLf726KK0CfeNeQ=="
+secured: "IckY+//XAnhZbT0eVHq5IBIlKup4M1R3oUFRs54sXuUid+KD2iT0tEaGCTDUhpWL17Ku0SNYKG8gtybF5nq2f9y2o4OHCy4MG1p75TvqBEs4/7pUgPjxdUaCESGPDO4rifGUPxG5mXYwktnMe0r9MgXr0wYdwlSmPBryuWxTU+1WqgkVJ+J4tfqjagsBvnGhSsoOQpxxzpROFomFk3GZ7w7YjZBTJPeFy49nQLJdrFJ8OkrpgmaWCry1y0sMOem2DxM6T3J2F3JZSE/OTOxM+Zy4EOwKWNd+4JgSvkN1JR5lcIWb1qtNNpN5b9AqDyCev5+i66sWzaYY+peqre/aUI9yP97kbysEvnm8hxcMY1XmlVAr15Hlt4cakqbBqDvkMomJTw3J9xNBE7MBfvN6ojB+oWeZ3VT5hWFcvf8DigS/jrosybBetYCzCboTJZTbPiFYjmmdLf4N04/b4KYdi09cqnu92iPPmmMDj/3B1V1jQNZ7uAai0miRkDumnVkmrf6avXiON+nAeFplsV6jTQ==;k3Bfk3e5EpfnztM0AZKFNg=="
 ---
 

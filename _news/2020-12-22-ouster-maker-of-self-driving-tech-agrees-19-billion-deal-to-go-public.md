@@ -74,20 +74,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 50
-  - title: "Self-driving tech makes new moves"
-    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
-    publishedDateTime: 2020-12-19T04:30:00Z
-    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
-        width: 400
-        height: 266
-        isCached: true
 
 secured: "QVGb11TmFG8otk4Xp5TNvuG6TCfCWS6QNA/lWcLM1NO47Gsgus81vyxP4m692+AZGsn3c2J79xVUBQc1YKOLK++jM99ZwQJYasULRjTuvf882AS2jiasEvZwN9Jnx3y7NDvED1TUNA/hkNGfgGlTrwtUMyvLlF8PPJM0BLmgCf4XaiYVZphl3FAavdvHFEsYbRWRw+mN8+4Al1nhn8sqJe3TtlZDGDsFHFgexyEf+rygHseczdWWBSTkRVIphlbLNzKWyeIP+8JOwYmaDP3bqn1KwcSvPAjHhcGdD+HQJNsij6ZxclkpBYUXHyrSJivWQOGeD75xK7D7y11C3g/eVZIljlqIjrTwloJGwxMy/8U=;Ct0L7W5H+8vQB6HtIYqj9w=="
 ---

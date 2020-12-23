@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Reflections On My 2020 Predictions For AI, DL, And ML"
+    excerpt: "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI."
+    publishedDateTime: 2020-12-23T19:31:00Z
+    webUrl: "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/"
+    ampWebUrl: "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "10 AI Predictions For 2021"
     excerpt: "4. One of the leading AI chip startups will be acquired by a major semiconductor company for over $2B. Silicon chips purpose-built for AI workloads are the future of the semiconductor industry. Intel’s $2 billion acquisition of Habana Labs last year was ..."
     publishedDateTime: 2020-12-22T14:02:00Z
@@ -56,22 +72,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Predicts Gestational Diabetes"
-    excerpt: "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. American pregnancy diabetes calculator cautions you about the chance of having diabetes when you are pregnant."
-    publishedDateTime: 2020-12-22T17:41:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/lifestyle-changes-can-prevent-gestational-diabetes.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Predictions for AI-powered digital healthcare in 2021"
     excerpt: "Oncology diagnosis inclusing digital pathology, telehealth and physician access are just some of the areas where AI can have outsize impact in 2021"
     publishedDateTime: 2020-12-23T15:27:00Z
@@ -86,19 +86,19 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Looking back, looking forward: The tech startup community’s predictions for 2021"
-    excerpt: "It’s been a wild year. A pandemic has squeezed the global economy while also spurring innovation and unique tech-based solutions.  Silicon Prairie News reached out to entrepreneurs, investors, business leaders and government officials across Nebraska to get their take on 2020 and see what trends they think we will see in 2021."
-    publishedDateTime: 2020-12-22T15:27:00Z
-    webUrl: "https://siliconprairienews.com/2020/12/looking-back-looking-forward-the-tech-startup-communitys-predictions-for-2021/"
+  - title: "Global Artificial Intelligence Application Market 2020 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2025"
+    excerpt: "The latest report entitled Global Artificial Intelligence Application Market Growth (Status and Outlook) 2020-2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
+    publishedDateTime: 2020-12-23T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-application-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-12-22"
     type: article
     provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "http://siliconprairienews.com/wp-content/uploads/2019/05/SPNHeaderLogo.png"
-        width: 500
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rR6v4ZEgzFOlfiGP0rstOLPqfzgH5qsonzUQhAOUaD0YXwaXE48rbnZjX4tnTHgdWLXcYoE0m+JDKhdUiB1ZUS4g8w+qgqca7aSGB8519Y7JvT5iAKhwhadcs+xBmJB7Lx5gkJEg8PRy0p0JZb+4NqLhG9dvQa23ULH9w9b2pOJzPRMc+9tfADjTF0Mn7ZgPKjtqe50JGh+2X3xOc3Gg1zpoO0cWmMWNsg8/81VPj3PDEGsq7SjnqzM0VodPPCLblDCEG1cP14Q7xjXD0TD0q/WmxuXcKO+zM8nUtgBhxwzkD4F5hHy3bqeQJy5Hl5AqgUzKoJrT+HqcQ+SNrBxwSIehx0Xwe1sqrs1sy6DB0Q8=;o2VidKV8pmLFzboh415/EQ=="
