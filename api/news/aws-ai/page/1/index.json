@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-23-how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast.md",
+      "title": "How Foxconn built an end-to-end forecasting solution in two months with Amazon Forecast",
+      "excerpt": "This is a guest post by Foxconn. The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post.&nbsp; In their own words, “Established in Taiwan in 1974, Hon Hai Technology Group (Foxconn) is the world’s largest electronics",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1741-1.jpg",
+          "width": 800,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T10:33:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-amazon-aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker.md",
       "title": "Amazon AWS says ‘Very, very sophisticated practitioners of machine learning’ are moving to SageMaker",
       "excerpt": "The infrastructure software is catching on with some of the most demanding machine learning scientists at big firms such as Lyft and Intuit, and also taking over Amazon dot com's internal ML development.",
@@ -1396,40 +1448,6 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
-      "excerpt": "Amazon SageMaker Feature Store delivers a purpose-built data store for storing, updating, retrieving, and sharing machine learning features Amazon SageMaker Pipelines gives developers the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201208005335/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201208005335/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

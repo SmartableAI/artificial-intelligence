@@ -63,6 +63,22 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them"
+    excerpt: "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,"
+    publishedDateTime: 2020-12-23T18:53:00Z
+    webUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/"
+    ampWebUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
     excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."
     publishedDateTime: 2020-12-23T16:06:00Z
@@ -78,6 +94,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "ZbOCe17YQj0YT6E21rE01HScA0AnGxjzrVtOzLbASD5Zk3H1DVcwmhR2uAMhjzSfi6hMcMGBLxccpRqOXRLHh/ZqAzgOP184NWgl1SrrEllBWsIf7vBaMjK0hKc+Og9/6tAcdzp73F4Ejfd79gf9PWyOVvUIjUr3IdozJUCdGg9cdky61oOXXhBmPV0/K9biMjyl5HBe//mYEqPiZBEF+r7pDyxrUIe4k9iFAgG7bvu5OVf8SG5HtNthUgjwAKifNojaoQzK63wl3mtfB2ogDnEISmE0FZChesqUJHDspaZDxfS2SGWrY2HQbT8zzkzF9TZRJ7E+jlhHbzqcrxvbh/aI8+vpQbXIo1jSr7GKb4k=;BZc6Y5bIeL1EOj/XrLpVLA=="
+secured: "UD2G08b8/4jcikfwk3EqOyeIlkvT8IFK7vySt5r+JXYFG3f6SS3BBZF09muEGXhxlVw3youRln+efj/QrZe0QCEAKlMBLFBNJYbLH7Bo3TLfQqTAB2klyOuKIpUfxfZd1cmp/y7f6uBhMePWLSBOaAHQzL7W75OArefHAnPzoefp7XoiTAVQuOLsr8ajRuUcSguSPVVuClSCTX1yTd4UDDbH19fysVsEl64PHjIUgUki+uma3Bdy5c2gH5KQCnbFOlqpow2L5oPooyKydhM7dGL5sSlir+bUYKBK5TSLmv+wOIDErr1beKx0kteqlE99wV8kSjyQsjhvWduvKbYqMmrrFQVG89+wBuqMAL8TqoVZCR/BVw43/3Nyxvb+XGzI6Eo26joaNiGxUYdqxTcWlgMmToDCBi0IF9xfAB+yIdUQ2/Qzf+/lgwUWP37MjaiGQeDJIvV+KUN++Yi/0OJt7v7cBi33LZjQY22esCYkH1HPznLZFoUOtTxs3DtIMFg+e+AMS5+o0PwW64GhQ2eiNA==;9UWGBKKhuOLWVTItmsYNOA=="
 ---
 

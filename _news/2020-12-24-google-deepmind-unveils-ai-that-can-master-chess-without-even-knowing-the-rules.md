@@ -73,7 +73,23 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them"
+    excerpt: "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,"
+    publishedDateTime: 2020-12-23T18:53:00Z
+    webUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/"
+    ampWebUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "IjtU78H9W1ngPIRsxVCXQQ7SLYRUuFCVraAZVdLrYExQDBqMKG4OtX5HfMGKVbKuYI6F1Hmd5+wNbMXRl6QtPbaaZx1wrQbX0uwFPgsIKTQob8h7RmtxK48hMySB5sssNDwD1AGzb+LU1egJE+E6/GvTID3q8j6qpOIvwgAcUQsz9zd4sBldJqPtMow5haDJdKrAqy3A7Lmsd+lAnR9utShJ66f2tXrOGK9ah14Vv3jk6SDwA9tzQZsbQRyjQ6/ujW44Z3/lS9KI4s+j6riPFZwNVytS9tFL6LgINQThErEQ1Kw+5I7KrG7usz8mlokUeic3C73dJt0X98IBOMnfW0gkyqI52BfOF086c5NqTlo=;N+Nb3e5ajBkx63A5OCmNRg=="
+secured: "l6dPyen2iEx+FfrVCfyIqJBhYrt7VZFtsfUjjSSk6E4+2B+e23NWTU2uCE9yanvs7gjvYjoKYJXauvlXAXOgCKU2bzq3GXZN0PhUOjgyUAyyhHr44doRdmwHJXAkqss3busAtCSyn9zzzKFHrW7re3O9qNbAJ5jH68kdAr8NatMszjBSCDpMlSPmmMBLw92Vy7WGjpeLDC/c6RjV67sikCGIfinRjhY4OaJah93Sk7XemaW/XNfRWfTeX2DMY9Vi0LojeRO2FZOzpJjRqhAhGudxdAxoRbYsn7bEtxqHxdf3DECWfeQygKRK3P9KE8MtdZM6TsnJcj/rRLA5ONIVdCVdZHWVDDL6nDruORu5TFSv6+ydojdnkg8iEBxQ5qzl5mkFqJik9qbMmd11z+f6ZiChvxtJJtOZOUDmMj1KOR+pzzqJBN03zpoZvHGTo/4RH/4slxcOR5jZPLTFE0/ATO75SlCSmQHFje8HrajlBfjcHuFrwachDwsj3Ln0rRu8EYqBaR74AzaUwG59leEWTw==;CsMfrlDHSdTIuwfosHUF9A=="
 ---
 

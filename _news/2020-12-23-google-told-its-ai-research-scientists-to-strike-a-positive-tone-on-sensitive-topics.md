@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scien
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/"
 type: article
 quality: 81
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -41,7 +41,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 80
+    quality: 84
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_52/3343176/200508-google-office-london-2018-ac-625p_3aaf504e1ed0fe8c6c294d97e971904f.jpg"
         width: 2500
@@ -58,6 +58,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 66
+  - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
+    excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
+    publishedDateTime: 2020-12-23T18:13:00Z
+    webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
+    ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 58
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."
     publishedDateTime: 2020-12-23T11:01:00Z
@@ -73,6 +89,6 @@ related:
         height: 567
         isCached: true
 
-secured: "5jFU966R5OhH/M1Q6yXsA1K3VGvQUni6qY+hDswHPrso2fm4tHgxtQFbb7D8DkEVJ4qaE/DeWt0eIan43OV04c+JHfdrI0SY5rrsq2hh39KV7twQlOw37jblTi4pMmHzunk+livkskcs6BQU7bS+sKDZZ082sREFJc4jI58IFSii6qGyMbuJKteOSjMdeq08XgbAoTrau0aisGdGzcyiE3+igIbZwijf31eaSfrjCqCXjeP+7xEVc6gdnrRFG9LkH0nSv4o4v+JRjzo6pByJXsohqOW5gd4BCwlkdxNlZGsJPecelhvY2JuF0SrcO2g887dmT248FRQkzov3aVHhVmn4Ajrg/yrEutf6qsyvvTg=;rItlXJ8pRly57nA0qXu9bw=="
+secured: "HvMQAyNmXcSfg2GBMVJLCK0HFsLaUy/GjwStcX1neZHdFFhCRdtEOhoVb5Mvh1qiS8YA1DGDJKpMkrfBkRHP+AXonJMWz1oSV6njrWTr6/bQcvIWeK4ehvpQF+lFENtQhnLttCDTmVsshmCcL5cdgVYHjTbCcEbltLEEbQhxEJYXYhJfP9d3tBVuydpCKdfZLb6AtUxK3anZ+D2qfKkXB5NAe4kl2yQttcX3wf8SqpCzXG0BRTa/UUqnhb6WJlANiFAzA7YmXLgvaYkXSsEPhI7togIBCUBlVpFoDSyaWlKVkplxV/7QNs0uBRB5/t1G6Zgpwp1AwvRuAEoHdTU36Zx5ey2XWcSE6gta+w0O/hUAS+H6BUOZN6SEDRAYh1F17CuCM86J9Qi6NrgoZ9yHIlZiaGSztQ5P0UZ/UlTZAzv5jeq7PUZ9VSh6tsqD4todj3ttOw/jqhbCUtiqYqKpT20RGH/qic4Du5oEqmYZzed/Tttr+2whs9pNZ6xnB2spIT0CZgPIrTHe7PkLxvRX9g==;afhFdIu1V78WoqQBJ7+3SQ=="
 ---
 

@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "FinTech 2021: 20 Articles for FinTech Experts"
+    excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."
+    publishedDateTime: 2020-12-23T17:51:00Z
+    webUrl: "https://www.finextra.com/blogposting/19700/fintech-2021-20-articles-for-fintech-experts"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+
 secured: "zw10OrBAotmAVuQRvnuAwBe4RYNAA3g7Dae4iAKQdoso8cr4GYsp3ggkwwS/JMRFWRfrgjrBHGQYlCDQoOvq6pNIoEVi9AniPceBA0IiV3arKeeprx7JnMGNY4GiotW4biuu6tGbnrpfoW4oce4qT1qRNJGCog5kVwHKCOpGAgsPA/vM7sJtWH5mntIkxprIfvSHyJCIpGpjwdy41+lHlDK+kBNo/KTl2rvkV8mgXwwup5Y8ov8zAOE0p8l2jB/dXwCmos8GEmnqPuT9+EkHYCyiuHQy3BqdnugyynD4g/f24HS+6XGFuUNm4zU0qJUoXVo8rS6df3U15K0ikhFfio1aCv8EnJWO60tP9+rEIok=;9BLtIHgM2Z0Az1hJ1VfoDA=="
 ---
 

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
-    excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
-    publishedDateTime: 2020-12-19T02:39:00Z
-    webUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-    ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 89
-    images:
-      - url: "https://images.barrons.com/im-275719/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Reliance General Insurance providing Microsoft Azure AI"
     excerpt: "Mumbai, Dec 21 (UNI) Reliance General Insurance (RGI), a 100 pc subsidiary of Reliance Capital, has brought in speed and acceleration to its vehicle claim process by introducing ‘RAPID’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
     publishedDateTime: 2020-12-21T09:50:00Z

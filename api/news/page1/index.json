@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-23-how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast.md",
+      "title": "How Foxconn built an end-to-end forecasting solution in two months with Amazon Forecast",
+      "excerpt": "This is a guest post by Foxconn. The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post.&nbsp; In their own words, “Established in Taiwan in 1974, Hon Hai Technology Group (Foxconn) is the world’s largest electronics",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1741-1.jpg",
+          "width": 800,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T10:33:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-nuro-acquires-self-driving-truck-startup-ike.md",
+      "title": "Nuro acquires self-driving truck startup Ike",
+      "excerpt": "Ike, a self-driving truck company, has been acquired for autonomous delivery vehicle startup Nuro for an undusclosed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
+      "originalUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/1_9IoN3j6ndt5nxBKUJZWqbA-e1575988061611.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/",
+      "publishedDateTime": "2020-12-23T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-show.md",
+      "title": "Google told its scientists to 'strike a positive tone' in AI research, documents show",
+      "excerpt": "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/google-told-its-scientists-strike-positive-tone-ai-research-documents-n1252240",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/google-told-its-scientists-strike-positive-tone-ai-research-documents-n1252240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_52/3343176/200508-google-office-london-2018-ac-625p_3aaf504e1ed0fe8c6c294d97e971904f.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252240",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252240",
+      "publishedDateTime": "2020-12-23T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test.md",
       "title": "Ally Fashion, 145 Store Footprint Retailer, to Put Next-Gen AI Tech to the Test",
       "excerpt": "Going beyond rules-based personalization, Ally Fashion are putting breakout eCommerce AI leader, Particular Audience, to the test. Particular Audience provides a unique platform capable of adapting every product list on an eCommerce site from search results to merchandise pages and product recommendations - every product tile becomes dynamic to shopper intent and preference.",
@@ -61,7 +209,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-55403473",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -158,58 +306,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics.md",
-      "title": "Google told its AI research scientists to ‘strike a positive tone’ on sensitive topics",
-      "excerpt": "Google this year tightened control over its scientists’ papers, requesting authors to refrain from portraying its technology negatively.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/",
-      "originalUrl": "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/",
-      "publishedDateTime": "2020-12-23T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
       "title": "New York temporarily bans facial recognition in schools",
       "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
@@ -218,7 +314,7 @@
       "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -664,7 +760,7 @@
       "originalUrl": "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -912,7 +1008,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1154,112 +1250,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-10-ai-predictions-for-2021.md",
-      "title": "10 AI Predictions For 2021",
-      "excerpt": "4. One of the leading AI chip startups will be acquired by a major semiconductor company for over $2B. Silicon chips purpose-built for AI workloads are the future of the semiconductor industry. Intel’s $2 billion acquisition of Habana Labs last year was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe105376eeb6a87ecd36aae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D976%26cropY1%3D0%26cropY2%3D549",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/",
-      "publishedDateTime": "2020-12-22T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-ouster-maker-of-self-driving-tech-agrees-19-bln-deal-to-go-public.md",
-      "title": "Ouster, maker of self-driving tech, agrees $1.9 bln deal to go public",
-      "excerpt": "(Reuters) - Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp. The deal values ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
-      "originalUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545432002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28W1D3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W1D3",
-      "publishedDateTime": "2020-12-22T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -26,6 +26,22 @@ topics:
   - AI Ethics
 
 related:
+  - title: "Google told its scientists to 'strike a positive tone' in AI research, documents show"
+    excerpt: "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said."
+    publishedDateTime: 2020-12-23T16:39:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/google-told-its-scientists-strike-positive-tone-ai-research-documents-n1252240"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252240"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252240"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 84
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_52/3343176/200508-google-office-london-2018-ac-625p_3aaf504e1ed0fe8c6c294d97e971904f.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Google told its AI research scientists to ‘strike a positive tone’ on sensitive topics"
     excerpt: "Google this year tightened control over its scientists’ papers, requesting authors to refrain from portraying its technology negatively."
     publishedDateTime: 2020-12-23T15:46:00Z
@@ -42,21 +58,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google told its scientists to 'strike a positive tone' in AI research, documents show"
-    excerpt: "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said."
-    publishedDateTime: 2020-12-23T16:39:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/google-told-its-scientists-strike-positive-tone-ai-research-documents-n1252240"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252240"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252240"
+  - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
+    excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
+    publishedDateTime: 2020-12-23T18:13:00Z
+    webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
+    ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 80
+      name: New York Post
+      domain: nypost.com
+    quality: 58
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_52/3343176/200508-google-office-london-2018-ac-625p_3aaf504e1ed0fe8c6c294d97e971904f.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."

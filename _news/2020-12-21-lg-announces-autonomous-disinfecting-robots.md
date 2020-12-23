@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Autonomous robot uses ultraviolet light to disinfect high-traffic areas"
+    excerpt: "LG Electronics developing autonomous robot to disinfect high-touch, high-traffic areas LG Electronics has announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,"
+    publishedDateTime: 2020-12-23T17:18:00Z
+    webUrl: "https://www.vision-systems.com/embedded/article/14189534/covid-19-automated-disinfection-robot-lg-electronics"
+    type: article
+    provider:
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 39
+    images:
+      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2020/12/covid_19_ultraviolet_light_disinfection_LG_Electronics_autonomous_robot.5fe37a3a57a91.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Check out LG's autonomous disinfecting robot"
     excerpt: "The company is using its experience in building robot vacuumes, as well as artificial intelligence and autonomous vehicles, to build a robot that can kill germs and viruses using ultraviolet light. The robot uses autonomous tech to navigate around furniture in high-traffic areas (such as restaurants and hotels) and sanitize touchable surfaces in just 15-30 minutes."
     publishedDateTime: 2020-12-19T12:23:00Z

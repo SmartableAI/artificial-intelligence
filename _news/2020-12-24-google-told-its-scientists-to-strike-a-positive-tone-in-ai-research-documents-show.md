@@ -8,9 +8,9 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/google-told-its-scientists-strik
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252240"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252240"
 type: article
-quality: 80
-heat: -1
-published: false
+quality: 84
+heat: 124
+published: true
 
 provider:
   name: NBC News
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI Ethics
 
 images:
   - url: "https://media3.s-nbcnews.com/i/newscms/2020_52/3343176/200508-google-office-london-2018-ac-625p_3aaf504e1ed0fe8c6c294d97e971904f.jpg"
@@ -53,6 +55,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 66
+  - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
+    excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
+    publishedDateTime: 2020-12-23T18:13:00Z
+    webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
+    ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 58
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."
     publishedDateTime: 2020-12-23T11:01:00Z
@@ -68,6 +86,6 @@ related:
         height: 567
         isCached: true
 
-secured: "ZGweaCpoejg0zAwBpA9ydgwKEuQuBMVOFUB1oFeYFXNZ9dbZmT2aNvvtwZgMjqshnNj797y7kUHdO0/94D2gMVLaCB7Ai9qqfFPgOISMzs1isG1S5BMtEmMWT4CJvaP0dTuTq5Rt9Tvv/Jsu3hgJS9SWGSePVvQoFBYfQUAzwLM86wlAPDNrS6wKsXrYCXhDLj8KIcgssf8juAcGEdBrG6VfRWNIMjfkEkcbOGph1l8zhMDXEuihYgzMjgg9Qw185fMpmTCUdiZoUQpGuIhamppUnM71bgpLZ6RUEzAhGFDyIRQnfDnoLSrO7lxvViM1W+aFttIQuvBW0STL/OAwZ+g9lEfnvWGxKFYghsjW98I=;xpYq24pvF4ihHm7WBXiVCg=="
+secured: "/JEPRNU5KGfq/ndh0ZEi9sjzuI91poO9tCaU+9c7uEgcLfvS82j46HbODbbyg2KgYkLnqygjqVB0Xxo9E1NIqX3S4MV12/8qc7vbsfVSDje3YgFA8OBVG3vW4Ki4/tWSz0j0914O2AszeF9MAGuw3vFDvHzSmdmhCtVYgn2Ze2ng47cntkjVf+QZUI6f0rXKt5wdosl78M6ZdTHe4zO2SnTrSLFORYe+XjSrnrHZAUuFSE6kkP/okaU6pxRfwv82fTSN+VTwQK5D6sa5hpUWMuKQWS+m0VnEX3sH4MXVlOa1YSZGQReXthjENiERE/8cN9W3TwitqJqJw1o1e/I4MGAyzT832WZ5wdXK87UVsQLY+Blr5t8lI7whwUBQnwbYR4hDUSER/EgQAlrJHRZfh0yDsymBzMRs8AZp+kOPD38MA3uBF+al7nuhqjTHOKcA4vI/QA2Q+FUZycmteYoNx5soakWj2uiHzcyoKAankpnl3xqHxehrQBey6TV/X/d0dH6ToLCGHqolBhxjjkz8vg==;gxAuIHPgiLe4uNqh9vS+ow=="
 ---
 

@@ -91,6 +91,22 @@ related:
         width: 939
         height: 630
         isCached: true
+  - title: "Gov. Cuomo signs facial recognition, voter registration bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely"
+    publishedDateTime: 2020-12-23T05:28:00Z
+    webUrl: "https://www.mytwintiers.com/news-cat/regional-news-news/gov-cuomo-signs-facial-recognition-voter-registration-bills/"
+    ampWebUrl: "https://www.mytwintiers.com/news-cat/regional-news-news/gov-cuomo-signs-facial-recognition-voter-registration-bills/amp/"
+    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/regional-news-news/gov-cuomo-signs-facial-recognition-voter-registration-bills/amp/"
+    type: article
+    provider:
+      name: MyTwinTiers.com
+      domain: mytwintiers.com
+    quality: 59
+    images:
+      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2020/12/Governor-Cuomo-Andrew-Cuomo-NYS-1-1-2.jpg?w=1280"
+        width: 872
+        height: 489
+        isCached: true
   - title: "New York bans facial recognition in schools until at least 2022"
     excerpt: "States agencies will seek feedback from teachers, parents and school-safety experts to develop governance for the technology’s possible future use."
     publishedDateTime: 2020-12-22T20:18:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://s3.amazonaws.com/wp-media-es/2020/12/22143205/GettyImages-1187951204.jpg"
         width: 2309
         height: 1299
+        isCached: true
+  - title: "New York issues 2-year moratorium on facial recognition in schools"
+    excerpt: "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ..."
+    publishedDateTime: 2020-12-23T17:04:00Z
+    webUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/"
+    ampWebUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg"
+        width: 3838
+        height: 1919
         isCached: true
   - title: "New York to Bar Facial Recognition Tech in Schools"
     excerpt: "The bill, sponsored by Assemblywoman Monica P. Wallace, would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
@@ -209,6 +241,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Cuomo signs facial recognition, voter registration bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this ..."
+    publishedDateTime: 2020-12-23T18:31:00Z
+    webUrl: "https://brooklyneagle.com/articles/2020/12/23/cuomo-signs-facial-recognition-voter-registration-bills/"
+    type: article
+    provider:
+      name: Brooklyn Daily Eagle
+      domain: brooklyneagle.com
+    quality: 39
+    images:
+      - url: "https://brooklyneagle.com/wp-content/uploads/2020/12/AP20348652112849-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Cuomo signs bill halting use of facial recognition in schools pending further study"
     excerpt: "Gov. Andrew M. Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools and issuing recommendations."
     publishedDateTime: 2020-12-23T06:42:00Z
