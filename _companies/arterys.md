@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 65
+heat: 50
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "BQGAH37w66R2ZUbhGcS5WcHhYj47VAQWKhgXT1V2Sd3NoSN5/gjsfmiAlVnob4guth8H44UtIfjbr6lMkv76b3WyTOREe6EgPigrQKzWqZGDmYIK46dX0O5exiGSnz+IBl5ZbHzOKZNrk3nTd+FsUGCbxzWDMQqR/U37/GbDV67dbTJuNjpXOrlSglxOVGW7y1BlP5n3vcDbCyJ3cyNEBLS8y3dheactKLmp5yxVjfmhFAwJltF5WWQ+3+abbr4Wcw+0RDmqjQ6Ii6khH0NEPufKbGt6sSZ4QGdlAX6YMUFKXa8guBWrpP7bcXrYXyTE7ZXt8INU5qtw0Y5LtXds3Bj+ZaHLd/NdTP5YGCgH15Eq9zO12nOgTbXNVhiL7QwaDNjD4pT8QVoPqiSseLFIJovvEnQOwhVL/ZGiCfMmoZ8=;svcRMo2L6XXmZB3UNNTAIA=="
+secured: "kBUIzD74FZX+m+ohU0JnupD0NClsg8KneAHKM2DlVVkPqqrpCwK8Q9ungpBDC4QEH2oiZ07SDPX6kjV+srD6HksM6sFBN4lpcYaQ57T7xU+jDEY9JNJ9g1ERmbgfQkGSuZ5dS5T2KkyXyfGIn8yB2ZePyEQ/XbZJ9WMLJVoL0mr5x0IudhvhJ8IAo+LbsapBNqIueM4tki6NvWcrE1z/GmHYkUDcllepHy2msc3xvE/i41Y9WNO3mVKKNk3uziZ0muUq9KvxzWdQx5/49GyySYW2slf6K4pQXtD5VsLqDcTaqUHnuEcabChhl7jE8rFNbf+2OQa5Rn6EMB0r1JHaI+PZjtrKFlVE1eldq+Y7AhNFBJrTa76/WU/BGDakywoahdGXKF9QrtUi7BrS2bHnZQj+eKT5e5bss5KuNpyd8zM=;cC/YwcHoXdcmHWFlmxMrAA=="
 ---
 

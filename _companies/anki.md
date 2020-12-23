@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anki"
   url: "https://twitter.com/anki"
-  followers: 26799
+  followers: 26800
 
 size: 51-200 employees
 yearFounded: 2010
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ABFcdwfU3F0"
 
-secured: "9aR7MBzRdcMWJt5ruz1T6IGPgG7SoedZG+jE3CkEf+eP+NdV6qxmQWBzaiNYWgCVUKO/OHuV/JPWT4bKjtumGQl4z62XLeD9TSJuVZkfdjsVwDo39L/enR5Sh89n00ZldF33sKM5CR6sEWZRIPlZ5VkXU24wLCPukZLhcOzS1FZUFz8M/3BqCxga4U+l1sLaqc6DsYsfH9zirxWJaUn+kCOBgRzhWTo8emlQyvIQUJjiTAbw67S+1/X2DJ2XukLAY6hrusiHqAesyZeZ3vWHBGfGldd7LA5GLms44nsUiHTUG/3/epBFtkxmKiRKUoRoM1Z8Kpyucr6ZGrfEJqt9EFijd7ixkBe7poqfKetr2Dz7tx7sZzOJegVbg2aRnouLby45L9SZ8OrXP7XRG6cj3aZGp3Iz02hSYaYxys6ICas=;FswrQRbNoH2xeR/vMoZccA=="
+secured: "I6z7XNsiLRLBRzwgE8JLky3V842tTe7Nsx2eGdBXLrFqYgS/4sd2xM4ZA78bC80PLIssySKDoDh70i99ktxwNP2JYEBl0aYKsclDPIvPecGl41BGnnnPZRNxPwIgL4pgTz/+8SK8biMaA7Q0dKcD/mSyZV5S9cvQYdQ+sbuEW2pls934Qil9wC0biBHoJ6lp7jERdQsYbY+4g+IXkNc71C9HMt8MBKKejgQXFz7lZHNCJWeV08cF64D7ccVfg++E9jnYqZiGaXbJsrDAnyfaedFt/Fuu/I9pcwpRkQuJm0Ygen4d3RbWUF9+WL9Sp1f0+zac+3J627jtI7VXdhWIDMtRNkjv8X3jAiDs/2jma8u8MbEDNucbVUEj0dXYgKFv+Y6C7BFhhQ0jSjntXNi2N5b36wNU5PRTKRyHjAj8oUM=;JqJ9J6aBKF6KAX+BLMDQJQ=="
 ---
 

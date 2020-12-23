@@ -19,7 +19,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 63557
+        "followers": 63610
       },
       "yearFounded": 0,
       "locations": [
@@ -57,7 +57,7 @@
       "twitter": {
         "username": "ActiveCampaign",
         "url": "https://twitter.com/ActiveCampaign",
-        "followers": 10884
+        "followers": 10880
       },
       "yearFounded": 0,
       "locations": [
@@ -74,6 +74,82 @@
           "width": 400,
           "height": 400,
           "title": "ActiveCampaign",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/actioniq.md",
+      "title": "ActionIQ",
+      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
+      "type": "profile",
+      "name": "ActionIQ",
+      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "website": "https://www.actioniq.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/actioniq"
+      },
+      "twitter": {
+        "username": "ActionIQinc",
+        "url": "https://twitter.com/ActionIQinc",
+        "followers": 1074
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ActionIQ",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/reflektion.md",
+      "title": "Reflektion",
+      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
+      "type": "profile",
+      "name": "Reflektion",
+      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/reflektion"
+      },
+      "twitter": {
+        "username": "ReflektionInc",
+        "url": "https://twitter.com/ReflektionInc",
+        "followers": 1440
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Reflektion",
           "isCached": true
         }
       ],
@@ -120,7 +196,7 @@
           "url": "https://www.youtube.com/watch?v=NLLaC8pNKY8"
         }
       ],
-      "heat": 58,
+      "heat": 32,
       "tags": [
         "Speech Recognition"
       ],
@@ -130,82 +206,6 @@
           "width": 400,
           "height": 400,
           "title": "Invoca",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/actioniq.md",
-      "title": "ActionIQ",
-      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
-      "type": "profile",
-      "name": "ActionIQ",
-      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "website": "https://www.actioniq.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/actioniq"
-      },
-      "twitter": {
-        "username": "ActionIQinc",
-        "url": "https://twitter.com/ActionIQinc",
-        "followers": 1076
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ActionIQ",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/reflektion.md",
-      "title": "Reflektion",
-      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
-      "type": "profile",
-      "name": "Reflektion",
-      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "website": "https://www.reflektion.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reflektion"
-      },
-      "twitter": {
-        "username": "ReflektionInc",
-        "url": "https://twitter.com/ReflektionInc",
-        "followers": 1441
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Reflektion",
           "isCached": true
         }
       ],
@@ -227,7 +227,7 @@
       "twitter": {
         "username": "TubularLabs",
         "url": "https://twitter.com/TubularLabs",
-        "followers": 3896
+        "followers": 3895
       },
       "yearFounded": 0,
       "locations": [
@@ -265,7 +265,7 @@
       "twitter": {
         "username": "6senseInc",
         "url": "https://twitter.com/6senseInc",
-        "followers": 19134
+        "followers": 19131
       },
       "yearFounded": 0,
       "locations": [
