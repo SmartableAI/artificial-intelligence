@@ -27,52 +27,26 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia leverages AWS marketplace to advance GPU deployment"
-    excerpt: "The relationship between Nvidia and AWS is becoming complicated in part because AWS has also signaled its intention to build its own GPUs."
-    publishedDateTime: 2020-12-18T16:36:00Z
-    webUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/"
-    ampWebUrl: "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/"
+  - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
+    excerpt: "You’ll often read that it’s only a matter of time before AI steals all our jobs. But the idea of humanoid machines is nothing new. It began with the “heartless” Tin Man from The Wizard of Oz. By the 1950s,"
+    publishedDateTime: 2020-12-19T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-aws.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Nvidia gets its own AI store in the AWS Marketplace"
-    excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
-    publishedDateTime: 2020-12-18T15:09:00Z
-    webUrl: "https://siliconangle.com/2020/12/18/nvidia-gets-ai-store-aws-marketplace/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector"
+    excerpt: "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ..."
+    publishedDateTime: 2020-12-21T20:59:00Z
+    webUrl: "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-18_085931.png"
-        width: 925
-        height: 488
-        isCached: true
-  - title: "Alleged NVIDIA GPU Roadmap Includes 5nm Lovelace Successor To GeForce RTX 30 Ampere"
-    excerpt: "So it is entirely possibly that some these names will be attached to GPU architectures at some point (and/or AI technologies). Which brings us to the next interesting tidbit: Hopper. Rumor has it ..."
-    publishedDateTime: 2020-12-21T18:33:00Z
-    webUrl: "https://hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-roadmap-5nm-lovelace-multi-chip-hopper-gpu"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 53
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53757/content/Ampere_GPU.jpg"
-        width: 708
-        height: 400
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "aWIdNsps2EGpvWJySE3dY3qqYDc1xTEu7DrrU2774jLNIrfh2rUoK8evHb8je5p9ZVPHfGFOBlVVqIw0O35N28u45FJNTUxodxkDtva6zRsvDQiOYIH6TfJ9aZM9TTDdHuSNTJK/YrwPBjEVpJGWWu9kRdgbXX9jDFICfiShHUsBziFan8xuUpBevVOU/nyFj6+i8gGo10xIk5g8PFpXO3tHxpndwxPnlLZxd1ZlFRRiU0P9UP9P1N6sg95TfLfYV0XvgXjytEX5qgHzs1vpaYolLd6OgKYYHHezwnJrkTNRSUNMGEAV2yCC3xYXhA55eZpGbqyMHIEsyWzEGk8JrvTWPZSe7hiUTbuyadVUvjLudX/ps4z15rO89fmYwojB9z9bbbGH+QCOK7tTghSCXyK1IHWK67NdBamspOQFfDwCmHchI3+iRFNnppv0dVN/p9uWWhwztQE1tAVZUHbbmgabrmzkT19ybMgjV0JAQVFpZN9xbJPkaduo7G8yKN9Hq0kCOdIt9rLbWYM+Hvu26w==;00McRhozgj+AVQdtMqohQg=="
 ---

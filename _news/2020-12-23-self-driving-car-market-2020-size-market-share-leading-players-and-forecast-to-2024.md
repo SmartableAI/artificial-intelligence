@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Apple targets self-driving car by 2024 -sources"
-excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
-publishedDateTime: 2020-12-22T04:30:00Z
-originalUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
-webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
+title: "Self-Driving Car Market 2020 | Size, Market Share, Leading Players and Forecast to 2024"
+excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+publishedDateTime: 2020-12-23T07:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-size-market-share-leading-players-and-forecast-to-2024-2020-12-23"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-size-market-share-leading-players-and-forecast-to-2024-2020-12-23"
 type: article
-quality: 54
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
-    width: 6026
-    height: 4017
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -75,19 +75,19 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Self-Driving Car Market 2020 | Size, Market Share, Leading Players and Forecast to 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-12-23T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-size-market-share-leading-players-and-forecast-to-2024-2020-12-23"
+  - title: "Apple targets self-driving car by 2024 -sources"
+    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
+        width: 6026
+        height: 4017
         isCached: true
   - title: "Apple is Trying to Launch a Self-Driving Electric Car in 2024"
     excerpt: "Protect the Old – About 10% of Vaccination Effort Can Prevent 90% of the Deaths Making Flu Vaccination Over Twice as Effective With a Pro-Active Public Health System"
@@ -388,6 +388,6 @@ related:
         height: 382
         isCached: true
 
-secured: "N4AbuK2fppDFZw5d6EkBr2idtcRVAoSm5QAkPz1UHIIyXePwpJn07Fl3XquZ92ZhjhXJ5D45qvVzo/wbO5g/KWs5l31Fwt+bEReEZijPtxaHzqWEL8N6fmBS5vjLtNF2/zUUa8Oy1XM1AE9n9nGfxHAKrkpnx28gI7NQobSqg8LjZYKNJLHAwVUBkGihdyxdAy/jeJcMCrxJTpMTZIHtGN5kL2RrZAFanqZ/bWzGB+f7+AruvURAQUSrVrIbtEwg7hODTA1DHIX6U9tuszAG3VzZtX8/kltClRLDHI2qpGjlUgoSl14llyElXfSbP5ARCNU9FFERNTnpTXtahVUqwTYjVbfHMFR+6FsmCW2Uwb4=;UxNh0ybR+u5BjT2UsLgKnA=="
+secured: "WAvKFVrzmQQtMZQArFIwFzgJqVcfdPUswua+iiL2rrkFWifvfIk0OVhXB0HSRZhU1A1NdvFzcUhN7nBb26iBTop/7MKxsIU0RosmyHiTKa8abdPmqF1QYnfBeSSSO4cxMTBl9hRGsWTgQq/Rtv1rhHSDQG86WAXRk/71M5N8cS4MZFY2o85U3KnKBL/qnz0zHfrodRXsTTPojr3QBahq4aasakWsBHXbSpzUFoVFjDClht/XkqWEGzsbo0JEp+EG5LQQHMik4cpEuWrAOAjGaPZCp9KHunW4DmEGe7R9A4QDoeDR+gYuOlUzQwVl+PFhZTQj22LJPLh2vD/nzSYC0WVNDRjhQ72UEkjb5xLvlz0=;zQ72BMPwXvJj6lu7qg8SDQ=="
 ---
 

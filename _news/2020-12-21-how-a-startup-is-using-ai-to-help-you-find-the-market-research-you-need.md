@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and marketing, the new engine of business"
-    excerpt: "One of the great advances of digital marketing to achieve the above is Artificial Intelligence (AI), its effectiveness can guarantee the total optimization of various digital advertising campaigns. The new technologies and processes to develop a digital ..."
-    publishedDateTime: 2020-12-18T16:23:00Z
-    webUrl: "https://www.entrepreneur.com/article/361969"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/361969"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361969"
+  - title: "Researchers use artificial intelligence to ID mosquitoes"
+    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers have shown the effectiveness of an artificial intelligence system -- known as a Convoluted Neural Network -- to classify mosquito sex,"
+    publishedDateTime: 2020-12-20T00:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 104
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "How Northrop's tech scouting led them to this AI startup"
+    excerpt: "Like all defense companies, Northrop Grumman is on the hunt for technologies outside of its own industry that could be beneficial to themselves and their customers. Here's how that search led Northrop to invest some equity in a Philadelphia-based AI startup and how others can at least get on the radar."
+    publishedDateTime: 2020-12-18T18:56:00Z
+    webUrl: "https://washingtontechnology.com/articles/2020/12/18/northrop-deepwave-investment.aspx"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 37
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1607719055-inteligencia-artificial1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://washingtontechnology.com/-/media/GIG/Washington-Technology/Staff/Ross-Wilkers.jpg"
+        width: 300
+        height: 300
         isCached: true
+  - title: "Global Hearing Aid Market Outlook to 2023 - Rising Demand for Artificial intelligence - ResearchAndMarkets.com"
+    excerpt: "The “Global Hearing Aid Market Outlook to 2023 - by Hearing Aid Devices and Hearing Implants, by Region, by Type of Distribution channel r"
+    publishedDateTime: 2020-12-21T09:37:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-f106f58020d045c798a95c9f10a09b73"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
 
 secured: "PmgQ0tmGbkOy3VrIJu4S5L8UIPXOQe4vYrmT+QtgyRYgbs9MqlwE+DD3q7NCf+xuJcq0hCXE2bLeLHLardML1ajoHSyLSVYxIi+t99gDnZdKlIp37sbDr6WvkRNZOnaR05uLv32KpBAIWGQd6Lkf9NVfaZTViiqlagqaSk1am+9zUt7z9EFQuMNuTLKkJIOv8QMfSal8y2wyFsMu1Rc0oZYPMzU9w+LBYWNtUI6iFJOl4jeyrprLPGNw8q2Em1NBtmmVFrHxI5ptak+jzRB/8Ig1DCoZdYPb0Xk976EEOQ/SjOxeqgHuGfBl7BIm9POF3QExmf/6h93LCRPUqbtiGKNQDlmAW+nHNwDgO7RBfrzNU/vzQ+04So+c0lvZCrabZZCNQUJdtfmw7GK4ma6uSrEBlIy7/KlBJh/HOnf7GrsWPuxb10Ac6oYke4G2LtPZ/Gy0xKl6Xociyeekzygb8n9XMlSI+s7m2rXnl2COfbpAwNHSjMDaT1PGoamQcLMjXoI/YrkWpnSnNT4DJHuojg==;YKCiPEsDVvWu42K14qLwjQ=="
 ---

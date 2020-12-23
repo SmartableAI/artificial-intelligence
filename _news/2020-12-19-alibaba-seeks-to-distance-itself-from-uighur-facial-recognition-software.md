@@ -113,15 +113,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
-    excerpt: "Users simply send photographs of people taken on their phones or pulled from surveillance videos to Alibaba's facial recognition service, then receive an alert if the subject is identified as a minority Uyghur from the western province of Xinjiang."
-    publishedDateTime: 2020-12-18T15:37:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "JqJWEdo02yl79t8Eo6UCiLDy7Qde3wp1LnQWvIyVDCU26Fq4tAQUS9s7z0ZiAABQ7CLaESqxzCpS3ZpKZb8IUyaw7zrWsZkM4T4USJsfOe7zYk1nDB432o7pyjxjqwHwneZgRAhbRMFF2mTRTrYLX+ewY5z/LJ/8vyfiw2viz72QXAkO0LVnoyj6+FCItVzZ4W6CUhmHAgU0BWh6dL6xg2Bq0qAh7UdosK36JSbicD4uSnLQq5CkNzrhiHr4HfPyPQTJULdqpvMsgN1zbofk6HXDilp+uYPqW/JvzVYGRO5arBi1flOiHBlvyGAQ+fgKr3PmwTWsGpptXzWSVOJapJBz6joh6Ni9MGYL0u9Izo0=;KyLgkjU1QM4XBBpxajzvMQ=="
 ---

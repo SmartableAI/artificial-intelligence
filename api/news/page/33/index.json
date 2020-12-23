@@ -2,6 +2,162 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-11-26-robotics-researchers-propose-ai-that-locates-and-safely-moves-items-on-shelves.md",
+      "title": "Robotics researchers propose AI that locates and safely moves items on shelves",
+      "excerpt": "Robotics researchers at Google and the University of California, Berkeley propose methods that help robots to more accurately move objects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "originalUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/39049f7f-901d-4bf1-8a64-af2737f6b89f-e1606343440372.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 895,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "publishedDateTime": "2020-11-26T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-security-startup-helia-raises-3m-from-silicon-valley-investors.md",
+      "title": "Security Startup Helia Raises $3M From Silicon Valley Investors",
+      "excerpt": "Helia is headquartered in San Francisco and founded by Indian origin entrepreneur Ashwin Sreenivas along with Russell Kaplan and Daniel Berrios",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/360475",
+      "originalUrl": "https://www.entrepreneur.com/article/360475",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606401128-heliaeditfinal.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360475",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360475",
+      "publishedDateTime": "2020-11-26T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now.md",
+      "title": "Who will your algorithm harm next? Why businesses need to start thinking about evil AI now",
+      "excerpt": "Building AI systems that are ethical is no longer a box-ticking exercise, and could deliver a key competitive advantage to the businesses that embrace responsible technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "originalUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/03/26/df8e2dc9-750c-48d0-96d1-e773830a900a/thumbnail/1200x675/f36a16e7b4dd0d52f29f0dded0d20a88/how-you-can-build-an-ethical-ai-project-5c99faee2f64e300dd74a9aa-1-mar-26-2019-12-32-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "publishedDateTime": "2020-11-26T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-teslas-air-suspension-work-for-full-self-driving-will-be-a-killer-cybertruck-feature.md",
       "title": "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature",
       "excerpt": "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,",
@@ -969,151 +1125,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
-      "title": "SK Telecom designs own AI data centre chip for 5G applications",
-      "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "originalUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "publishedDateTime": "2020-11-25T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-chatbot-startup-kataai-raises-series-b-funding-from-mdi-tptf.md",
-      "title": "Chatbot startup Kata.ai raises series B funding from MDI, TPTF",
-      "excerpt": "Kata.ai, a conversational AI startup, said it has secured an undisclosed amount of funding in a round led by the Trans-Pacific Technology fund and MDI Ventures. The Indonesia-based startup plans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding",
-      "originalUrl": "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-based-hr-tech-startup-pulsifi-bags-18-mn-in-angel-funding.md",
-      "title": "AI-Based HR Tech Startup Pulsifi Bags $1.8 Mn In Angel Funding",
-      "excerpt": "AI-driven HR tech startup Pulsifi on Wednesday announced that it has raised $1.8 million in angel funding. Apart from the existing investors, new investors such as Aaron Chen, founder of KVC group of companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360395",
-      "originalUrl": "https://www.entrepreneur.com/article/360395",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606310468-CEO-Jay.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360395",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360395",
-      "publishedDateTime": "2020-11-25T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

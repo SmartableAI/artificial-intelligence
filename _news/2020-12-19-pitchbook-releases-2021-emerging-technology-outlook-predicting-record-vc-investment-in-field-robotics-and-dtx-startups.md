@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Here’s What you Should Know About Evaluating an AI Startup for Investment"
-    excerpt: "CEO, Fountech.Ventures Interest in the deep tech space has been growing in recent years, particularly within the investment community. And of all the sectors operating within the realm of deep tech, artificial intelligence (AI) has become a burgeoning market to watch."
-    publishedDateTime: 2020-12-18T15:58:00Z
-    webUrl: "https://www.unite.ai/heres-what-you-should-know-about-evaluating-an-ai-startup-for-investment/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 36
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:837/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/ai-applications.jpg"
-        width: 837
-        height: 600
-        isCached: true
-
 secured: "v4/19ZkFSRcdSMJ6HmFr0WuEms5eKH8R59rgLGWTyvhtFUjsNRR67A5hkVj9aWh2fDHZXcqLambb+nMJSMGIT6l+m0Xz7j4MJQ4HNx4r+Zf18gpjJnBzPhlst1cs/t8pS9XPYpRQ48A24AnGj0EaZGBqpCqkdvfqwD5gRbe97hSETPmetHXQ0miDGr6EgiCYna4P4DnGhqT+ZnUCM+JjqET7HNJKLRPkf6r9C192Gk5eaJC3d0huO6kbQjnSklwqB2u7rlWRDK5WQrMQ2c80UQQEOY4BtEM83dQHZ0glfd1w73okJw83LPx1eNsyr9feO2dNBwKozmfdoN348er22zWalUC1lsHNH21WqoO8lNQ=;/14d6XsAI9xO8XsHaPwR5w=="
 ---
 

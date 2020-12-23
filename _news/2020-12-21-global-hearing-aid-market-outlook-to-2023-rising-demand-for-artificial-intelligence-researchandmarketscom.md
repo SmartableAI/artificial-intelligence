@@ -18,19 +18,44 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence for Healthcare IT Research Report 2020"
-    excerpt: "The \"Artificial Intelligence for Healthcare IT, Global, 2020\" report has been added to ResearchAndMarkets.com's offering. This research"
-    publishedDateTime: 2020-12-22T18:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-for-healthcare-it-research-report-2020-301197701.html"
+  - title: "How A Startup Is Using AI To Help You Find The Market Research You Need"
+    excerpt: "AI-powered fast search gives individuals the ability to find and share insights and information quicker than any legacy Intranet technology could."
+    publishedDateTime: 2020-12-20T16:59:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdf800d45a8fea94b931eca%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Researchers use artificial intelligence to ID mosquitoes"
+    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers have shown the effectiveness of an artificial intelligence system -- known as a Convoluted Neural Network -- to classify mosquito sex,"
+    publishedDateTime: 2020-12-20T00:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "How Northrop's tech scouting led them to this AI startup"
+    excerpt: "Like all defense companies, Northrop Grumman is on the hunt for technologies outside of its own industry that could be beneficial to themselves and their customers. Here's how that search led Northrop to invest some equity in a Philadelphia-based AI startup and how others can at least get on the radar."
+    publishedDateTime: 2020-12-18T18:56:00Z
+    webUrl: "https://washingtontechnology.com/articles/2020/12/18/northrop-deepwave-investment.aspx"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 37
+    images:
+      - url: "https://washingtontechnology.com/-/media/GIG/Washington-Technology/Staff/Ross-Wilkers.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "JJXjSa6/EZ1w227jyw9h7fuAm3zkoYAYRvf+mEAgYehUMuiRM3dKNLD6NmmaKW44qQRJYgDRHMITAcLaeYlwWS2knRcbiyGzXdjO9F+SgQjFKmql1gBXYSVQ6XdDVlemhz3y/XDJDxFuqRXmV7ewTvq0BtwVsfu6HvM7xHj5DWAS9Fa2bV1TOZKCgIrXBN3qDFYkoAvSpGsQ6tdwVIo/bPFL4VjKeT99GKrcolKsMpbf6os+iC87mDVL2+Uve7qtV305ZmN2Zz2OKAGZliJXWQEb/bHYQsaNU37JqfYQqRJ//fXqHuCOAxZooqPDC81r9dc5AhH5eoEPcH1FhuW5PTh6lkVwhuAabHY6EOg1PHU=;KKOhAKHAYnF+H7wSa2H9rw=="

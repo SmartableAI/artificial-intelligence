@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-18-indigrid-collaborates-with-ibm-for-digital-transformation-of-critical-power-infrastructure.md",
+      "title": "IndiGrid Collaborates with IBM for Digital Transformation of Critical Power Infrastructure",
+      "excerpt": "IBM and India Grid Trust have announced a multi-year collaboration agreement to build artificial intelligence AM platform. IndiGrid will deploy a hybrid cloud solution with IBM Maximo Application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/indigrid-collaborates-ibm-digital-transformation-critical-power-infrastructure/",
+      "originalUrl": "https://www.ciol.com/indigrid-collaborates-ibm-digital-transformation-critical-power-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T22:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-google-expands-languages-push-to-serve-non-english-speakers-in-india.md",
+      "title": "Google expands languages push to serve non-English speakers in India",
+      "excerpt": "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
+      "originalUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
+      "publishedDateTime": "2020-12-17T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-forecast-2021-artificial-intelligence-during-covid-and-beyond.md",
+      "title": "Forecast 2021: Artificial Intelligence during COVID and beyond",
+      "excerpt": "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "originalUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg",
+          "width": 960,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "publishedDateTime": "2020-12-17T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-upstart-upst-fresh-fintech-ipo-with-enormous-potential.md",
       "title": "Upstart (UPST): Fresh Fintech IPO With Enormous Potential",
       "excerpt": "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering.",
@@ -897,34 +1036,34 @@
     {
       "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
       "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
-      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
+      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "webUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook",
+          "width": 958,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T07:32:00-08:00",
+      "publishedDateTime": "2020-12-17T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1093,161 +1232,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-climate-change-falls-down-the-agenda-at-ai-lab-deepmind-after-energy-heads-leave.md",
-      "title": "Climate change falls down the agenda at A.I. lab DeepMind after energy heads leave",
-      "excerpt": "The DeepMind Energy unit, which has attracted its fair share of attention over the years, has vanished and none of the company’s staff mention it on their LinkedIn profiles. At one point, DeepMind wanted to use its AI technology to optimize National Grid,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1532563838",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/climate-change-falls-down-the-agenda-at-ai-lab-deepmind.html",
-      "publishedDateTime": "2020-12-17T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-googles-new-open-source-ai-model-understands-indic-languages-better.md",
-      "title": "Google’s new open-source AI model understands Indic languages better",
-      "excerpt": "Google’s various products, such as Search and Assistant, are already available in India in multiple local languages. The company is now turning to a new AI to potentially make more of its offerings accessible to Indic language speakers — more specifically,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-17-at-11.24.08-AM-e1608184545438-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
-      "publishedDateTime": "2020-12-16T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-nissan-builds-baffling-belly-surfing-gtr-x-2050-concept.md",
-      "title": "Nissan builds baffling, belly-surfing GTR-X 2050 concept",
-      "excerpt": "Nissan's design team has built a full-scale model of Korean designer Jaebum \"JB\" Choi's concept of an autonomous supercar for the year 2050. Conceived as a mind-controlled, rolling exoskeleton, the GTR-X is one of the year's most unusual concepts.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/nissan-gtr-x-2050-concept/",
-      "originalUrl": "https://newatlas.com/automotive/nissan-gtr-x-2050-concept/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a42c0dd/2147483647/strip/true/crop/5472x3648+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F09%2Ff752ca734e4392c4260ff0b90d79%2Fnis-gtr-2050-07.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/nissan-gtr-x-2050-concept/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/nissan-gtr-x-2050-concept/?amp=true",
-      "publishedDateTime": "2020-12-16T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

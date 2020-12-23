@@ -71,34 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market Opportunities 2021 Report Segmented by Geography, Technology, Type, Application and Forecast 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Artificial Intelligence (Chipsets) Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,"
-    publishedDateTime: 2020-12-18T15:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-opportunities-2021-report-segmented-by-geography-technology-type-application-and-forecast-2025-2020-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-18T16:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ihz/przsXW/jBfi/dGzsCfVtHC1iVBPW/I7OrUwJZoCa6aR6/kaHLLNcvlE8MdfjmIeOKJ9WsbPTLL9qQrRIcr27LOOUFz88mPFcAK+Jkk7Gc7uxSWqiOqqKLIytgnf6aIbXi5jWuFA2eL1pFS/DEKdGvOvoT2i431wBOgBZgLza3zdfW08y2PIvYP9JU/dWVVBVs6G+0GIch15bi2f9DEWO+gCHs9w3PbHiYnAC2a8+Da+hfINmvJNw1VVaGz3az7gXxefBwWAMU7KOiVZ5Ctbs5QWSulw+dIVye4g8kqofeMzPLweKRfOvVp6RVaKf5pkxwYXFpiKszHOGaqyIPKO2itEIih5lst40m/VjhpM=;fxGGbEzovloSG9RMIJ998A=="
 ---

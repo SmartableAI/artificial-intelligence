@@ -32,22 +32,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Wants to Help Covid-Wary Biz Travelers Be Smarter About Flying"
-    excerpt: "Dataminr said it leverages artificial intelligence to provide the earliest indications of business-critical information about risks to staff. It claims it can provide real-time insights from on-the-ground happenings,"
-    publishedDateTime: 2020-12-18T17:00:00Z
-    webUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/"
-    ampWebUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 49
-    images:
-      - url: "https://skift.com/wp-content/uploads/2020/12/Aircraft-cabin-crew-Ismail-Mohamed-Sovile-Unsplash-scaled-e1608299910510.jpg"
-        width: 1367
-        height: 911
-        isCached: true
   - title: "Hospitals in California running out of room in face of COVID-19 surge"
     excerpt: "The children's parents say the five teens didn’t hesitate for a moment to help their kids and deserve all the recognition in the world. The two planets passed so close to each other - still millions of miles apart - that their alignment appeared like a ..."
     publishedDateTime: 2020-12-22T10:58:00Z

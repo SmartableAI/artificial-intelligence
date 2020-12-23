@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market Opportunities 2021 Report Segmented by Geography, Technology, Type, Application and Forecast 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Artificial Intelligence (Chipsets) Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,"
-    publishedDateTime: 2020-12-18T15:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-opportunities-2021-report-segmented-by-geography-technology-type-application-and-forecast-2025-2020-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Computing Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
     excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2020-12-22T12:07:00Z
@@ -84,20 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-18T16:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "6/isrqlyqPq0yIzWzDgsaDUZy3RB3QF9ey9Kn3HUJjvbK2phrSQ7PV7vYysCu9QPW2qodZVH5EAAOj//gLPEikPwj7bSusqtbw9Y6f8hP9sSMmIqDFCDU+xvTcyfjsktJVGtkal23Id6S2scve+weLbaHFCjtKgA8TxKC9xZH1/XHtf/PljgjpZt1jx3CR9I5DaZ8MweVZQguimtFt3SfeCsQRiar1QDZA4JzqdiSUjrJ8SYt3vpw/lv2twYyGVy6shgPS8d3iB4L+q813kYhTtgixqi40NZAiZZV1RhDKg2whl5LKztS6JitZj2J3dwfNpYuLrahpc/o/PtJw3/2P6fuJsIboucMb8+ubPJdAs=;NS4zmGYecT9b8qFb2MuXYg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-12-21"
 type: article
 quality: 64
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market Opportunities 2021 Report Segmented by Geography, Technology, Type, Application and Forecast 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Artificial Intelligence (Chipsets) Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,"
-    publishedDateTime: 2020-12-18T15:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-opportunities-2021-report-segmented-by-geography-technology-type-application-and-forecast-2025-2020-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Computing Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
     excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2020-12-22T12:07:00Z
@@ -84,20 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Influencer Marketing Platform Market 2020: Key Market Opportunities in the Integration of Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Influencer Marketing Platform Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Offerings, Application, Organization Size, End User, and Geography” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-18T16:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-lung-disease-media-online-media-6c66c50aa6cf4948ade44552e10df718"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "1NZl8r5JKHaZMxLDkYDsv5/4+xGWaNDO+yNDo4z5Oa1hLxVmEI1NVQf9mmR4y/1L6tPkUJNnulHLDQQ22tNt0PSkPJgAyNYXrkw3Xslbzl0Rw9WdcDaqq3ZY0kIGxo0K7XEOm5YW/X/iGL/RhF922iWvLfHCPVpt+NNdYbHZjbq+9h23w4RCQ/RKFShme0z9tOEAAIMGB5kHoFcmearQgaPzS4WRQ6XzarhW3Skpntc9zIbDZssvQ4dq5XaUrxo50xK9TqWfMeCmTNPk9Ix4g+GpyoeSC5A8pBv9hQ3eWP82RS8lo/G47oqi2IR4pC1rb/VhMYDIyJ1Fj0TPExToJJXFo/ulKcfq6kGoLgm7x2Q=;FsVtTgbiKqMgng4en8YG6A=="
