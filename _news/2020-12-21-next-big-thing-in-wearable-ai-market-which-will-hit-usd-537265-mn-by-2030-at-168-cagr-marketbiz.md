@@ -38,6 +38,20 @@ related:
         width: 920
         height: 482
         isCached: true
+  - title: "Artificial Intelligence (AI) Chipsets Market Size USD 91,185 Million by 2025 at CAGR 45.2% | Valuates Reports"
+    excerpt: "PRNewswire/ -- The AI Chipset Market is Segmented by Type (GPU, ASIC, FPGA, CPU), by Application (NLP, Robotic, Computer Vision, Network Security),"
+    publishedDateTime: 2020-12-23T02:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-chipsets-market-size-usd-91-185-million-by-2025-at-cagr-45-2-valuates-reports-863836926.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "WI+1FilxBnSCs0R92NDknXVaeXIqdpqdOrSeobVt1a72e6qFhbIhr0iy19LjX/yZZP9/q95kTjGxo8JAI8Kp79Kedl8qj390PfVDIzZipFSRjV6EXM6mwsgWY7xSgIUW1EjcoTq3ab1GKwl9YS7HKaSLmPEWwRyA1NcWCwYGsS3Kma4jWnaXiWthor+4iLqRshFAedSG9Mqlz8YBatIdl8RBJgLymltCVr72OgHDedjWdxb1/p4LY3shsYuMyWzUD0xOCgUXiDQRn55yfOO4yNfLl03RzWf0Ztp2GYiVQtlVeMWfSJXVozf355FO3Pdbz+9CC2TFAIfmNVB8WKMtOED4Xbr4kIf6+sxrbqUyHSs=;Cka5UTdUqpm1NMg4xWiIWQ=="
 ---

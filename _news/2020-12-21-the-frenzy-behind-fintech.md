@@ -59,20 +59,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-    excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
-    publishedDateTime: 2020-12-18T10:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "XfgcLKSQoEH52dz/uD6hXlQ7FNvZNFipGaNPsquFtD1EzVAsIwfmo2VqvClrVtL9rnavjnnv+h+zGhT5Qg2hieyZ2qTmfSNUgAyBHs1MDuKFMpi2YOWA8lbRQw2+zkoOtC898WFG/fsFi62EvY0XAzFq1TmfWqjvLKd0osgws3esrWGAkU+DGKnwCVce+jYzgBNk8b93nWCkhzCb/rb8x91NAQDuKvamWfX7ZqkptIo6xJm6REa+MdLwJj8VlBYfHWGlq0IBkOkjvlxMfIXhCPjnNafKE+eCIHZqK6V5fJpw0mVh5Ow2n+MtKoGg5nzBhHOjMX2a9kX9rRMGBBZj7HhdL30EWqkvv7WrwtKKibE=;xyB6naNe6fUqqby03dE28g=="
 ---

@@ -346,6 +346,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Apple Reportedly Gets Into Self-Driving Car Space"
+    excerpt: "Apple targeting 2024 to produce a self-driving vehicle with its own battery technology. Cheddar is joined by Mike Brown, technology reporter at Inverse with more on how Apple plans to compete with companies like Tesla."
+    publishedDateTime: 2020-12-22T00:00:00Z
+    webUrl: "https://cheddar.com/media/apple-reportedly-gets-into-self-driving-car-space"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 4
   - title: "Apple's Self-Driving Car Could Be in Production as Soon as 2024 — Reuters"
     excerpt: "Reuters. -- A key component of the project, which the iPhone maker hasn't yet been made public, is the battery design that is said could reduce costs and increase vehicle range, according to an unidentified source."
     publishedDateTime: 2020-12-21T15:41:00Z

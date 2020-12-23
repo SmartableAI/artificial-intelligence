@@ -83,6 +83,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "New York Halts Use Of Facial Recognition Tech In Schools"
+    excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
+    publishedDateTime: 2020-12-23T01:57:00Z
+    webUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+    ampWebUrl: "https://www.law360.com/amp/articles/1340315"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
 
 secured: "03IfhcpzgRRbEtJz1++UHbyZ/QCg6IAhl4aVtT4+IVk9z9c7c1DQoeCnJgJRG0aGqHu+/rD0Z9vX0XTV1XEet5q8GiRfRrAxmmBqJXKcUyqZcdn1aPW18bpU1VkkWJkaBReRBct/qLNzLAom+3CZEpE6zVFIE07hsiFTK94VKcgxRk4dqfHNz0DH+m7nKK/nnZ3z7Fcnda7STSynknAm2ldEqhDmZwVxfJY63ihC4HrSg+qeZJ8GSAr/eaQMURsNVD73xxL0h6uUTawH9eZy5TELQcBkTx9r5kNAcxi8huXrZPYM7H4Nv8Ijlw2pVL2hhGBqBhZaZeR1Msw1dYq1ZKdy8DEOvVY9oRZVErYXVPUQw8QPVG3VN6GjXS8zjwQho8SaXj1Cd8y5Qs8DVBCV4KIctAapH+OYsvC/Mmi6BnASIbACsyIpRbmxBQEMHiKfNREmKU0K5W+qPOGusTPIaQXtDyVGz3CMCRLo2IxuD7ef2UbIdi0cXNz8DdK6PogEeGYNhuIaNGgeqRl0D2Ba5w==;cEUsNCmYaiayeOX4TG3ABw=="
 ---

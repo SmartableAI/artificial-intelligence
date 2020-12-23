@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-a
 webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets-market-size-usd-91-185-million-by-2025-at-cagr-45-2--valuates-reports-301197519.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: PR Newswire
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chipsets Market Size USD 91,185 Million by 2025 at CAGR 45.2% | Valuates Reports"
+    excerpt: "PRNewswire/ -- The AI Chipset Market is Segmented by Type (GPU, ASIC, FPGA, CPU), by Application (NLP, Robotic, Computer Vision, Network Security),"
+    publishedDateTime: 2020-12-23T02:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-chipsets-market-size-usd-91-185-million-by-2025-at-cagr-45-2-valuates-reports-863836926.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
   - title: "Next Big Thing In Wearable AI Market, Which will hit USD 53,726.5 Mn By 2030 at 16.8% CAGR -Market.Biz"
     excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Wearable AI Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats, Business opportunities,"
     publishedDateTime: 2020-12-21T06:43:00Z

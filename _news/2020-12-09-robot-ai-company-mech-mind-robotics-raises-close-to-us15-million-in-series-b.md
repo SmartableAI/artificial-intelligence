@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
-publishedDateTime: 2020-12-09T11:34:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
+excerpt: "BEIJING, Dec. 9, 2020 /PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia ..."
+publishedDateTime: 2020-12-09T01:10:00Z
+originalUrl: "https://www.asiaone.com/business/robot-ai-company-mech-mind-robotics-raises-close-us15-million-series-b"
+webUrl: "https://www.asiaone.com/business/robot-ai-company-mech-mind-robotics-raises-close-us15-million-series-b"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "41gSdUUZ1+iRjl1NPQIwy2eHaTxYkH25IorU/0iTmzGy4ndK28cxAhEJnNXqjEY9TCfz0ytxzsZ5sMg1Ky6HWf8PQUHjfOBm0NHFDMeQC3+Jv42psofH//sh9gCqvHhxSnn7mbt4Ot/IEElIHBiRB18Id3MKenNmst5g+a3Hn2NJpNSO/rCShlKuBM3pMuOh3UeBd9JXdttbK7MRbVvDTWc+1OQPjcgnrtSB0EkvCdDwTXNuMhCpSGgzmmUXi7bLbMD2yub2MbhOq8gIHzlzKr2MwsClpzHLoXtXSFVR1810cUMshAx8W2gIpr10b3z+2W39Wl8nzWHwMqe4/8nI0LbViVKMyHW7sbdTVUo2mNU=;GcNDZT/sNS5cLE1xqMnXJg=="
+secured: "MmQkZ/Iy5KkTTneyhVAm4Fjzt+uWVpS1MwRzizwVchIy6jsnqXtyGzofQSDuxCQuNwRI+qQffQuITDU1nmBA8EFycck6eYNpun26sKQFOyjrFkbLeQdCGJAplbSqmq4DKNTo/2hg+N0oIOdOUhI6CDnTw2mfWR4hA/RVvB1St3WbLFqZp4SwlO8zC3NgXI4XT1FWYECzSe6tEw+suwB+0tqNWupTLK+r5VRQlCuFZgW2NGr0ljDQfuJe5sSTaf4xZ+GYFu+VfncgMcfiTZ2vzMslNNwoYiZTmNMctreq2uXHNnmrrBPP/g3ADGweDfhO9tP76mB8RN/7YNFCm3qTiw7c5oP7N0AMlCydP/jX4IM=;U1TyHDzVbc2XiYIb9z9Rvg=="
 ---
 

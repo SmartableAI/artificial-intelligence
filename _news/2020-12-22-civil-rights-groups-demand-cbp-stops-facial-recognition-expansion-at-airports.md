@@ -142,7 +142,7 @@ related:
   - title: "Cuomo signs facial recognition, voter registration bills"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
     publishedDateTime: 2020-12-22T22:16:00Z
-    webUrl: "https://apnews.com/article/technology-new-york-legislation-voter-registration-bills-cf87c101a075b8e89bc2b22307a0e2f5"
+    webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
     type: article
     provider:
       name: Associated Press

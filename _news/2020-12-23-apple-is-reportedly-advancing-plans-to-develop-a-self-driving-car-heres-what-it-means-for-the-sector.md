@@ -332,6 +332,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Apple Reportedly Gets Into Self-Driving Car Space"
+    excerpt: "Apple targeting 2024 to produce a self-driving vehicle with its own battery technology. Cheddar is joined by Mike Brown, technology reporter at Inverse with more on how Apple plans to compete with companies like Tesla."
+    publishedDateTime: 2020-12-22T00:00:00Z
+    webUrl: "https://cheddar.com/media/apple-reportedly-gets-into-self-driving-car-space"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 4
   - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
     excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
     publishedDateTime: 2020-12-19T10:06:00Z
@@ -372,6 +381,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Ia9m44aFXgs3RBhKlp21gq37AGBKNl+thFbWIyMDqn1i4zg+Y/HQEOPpm9L1G85VwO+w78WACHr0BYZamdFKiBeo59+ml+vV6Sz3zjtQ/OaXwm6+ZC2EzxGrgLwtTl8g60dXpsrCCqixpvN+CPgdYtVv0A97PTuFF3GTU1oVJIitjVW63wbh/9lhdEA2gARbUmyHV6FWvpj9HhBOd67fiMK/jbi8JxH1V5Hpu+yUsUKHwPLR851e1gF2xtPH/b/c+WHJWfWqrITq1Ack4H/ui7GXnaKqO53riuZMt/7S3MkyKz3MNJTQcydxf0Og8aW8RDb5ukhRjNbnvPjjgLWrbJ4IqP6FbqZ3M0hFfNVeJLY=;A7JezpGOMjwlkvdZ9zZpGg=="
+secured: "JNkBJfDy/2m2RvXXS9Mv7tWFvulnh4sBvqk8Ha/WMlyfzP8Ahh5XXmOYp98OwQqpZ5QJ5pnQ02jhhcMBHMhYct+CWWT6vytBDafqZPiTHMXZf7nyDr/K8VdrKkD9jJ9u+SXoMKaSwx+eA1KAU76qZtHaD3kw9r5K3UxVQz83idGjgMBz6JHvi/GboVHFYslCbxYeIkD4vCsGaB76Tba2DVLsru3NhMlfNMj0eYvCaGcL1DxW1u89fgna0b8EmamOG0VWEBk7FzVexTfZo/Gyrs5hnR6QMZJB51aXwR2dL3Sn8lQumOFbq+TeSQxWmneGZDhNO2HJ2b3CW8csNzBvf16HDqX/5wGFyEhrv/jxpHC4O/JxUvc6c5uoJNSRuOIxic2EUOTHuBIRtJTn2vG5TWistsq2ciWqRKUdTCDagWS5KO/YzNwkkUN0DUm8WJ7hnV9SBLT8Mt79Moy9M+7uJeEXIZfXfJ/JH1QZFA2tTHBwbDWMkpILB0CP26sCdyrQnRRlPKCEw2khQPPPLXNfnQ==;GQia7BOWSCuRRleVhXLuxQ=="
 ---
 

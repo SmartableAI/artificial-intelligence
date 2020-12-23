@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issue
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "New York Halts Use Of Facial Recognition Tech In Schools"
+    excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
+    publishedDateTime: 2020-12-23T01:57:00Z
+    webUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+    ampWebUrl: "https://www.law360.com/amp/articles/1340315"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Cuomo signs voter registration, facial recognition bills for New York"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
     publishedDateTime: 2020-12-22T22:14:00Z
@@ -89,6 +100,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "AoqJlb3c7uBGaghsXHxE4fNCi6s8Ht4iAhr3HL4T6Q3XIJ4XJPqYoSErsKnvyTW1bs4UNws22CprcCG2Q3LrrzEFdow7YvC0lqtc4+tJbS8cqPvFtAoviHuGuoHCvx4COMCcwBp5siVsQzwNP+Ea0zXLEjSn7fFfoGbAxEm8wR0SLG14HFpQ2oIPRkzLX5fryIP8Bzq6U7hDO6Daj/pMymfEOa5IvQu7BFVeE6LhNOe8trfrUHZi6vdxmJIXlMxlWBfNIRfkYRneC4auJ5O8ISGKImg4QTdTYw8SHgOkbFcMJYSrOfqX0b6v+H9ak8VXA6J/zwlnXPoTdG5e7ob9gy3gniTZbTRo1RZ5HVpkfTY=;QWHEpR7FH6urpLJCACSQPQ=="
+secured: "HalYeG+KrpPzNjHgd5jdaq/eOO+oTYC5oNuXEsos+wMdL44ntNKkKeYU1blTsYLROUiGMMsmd00BPP82zJ2gAQs+IvWFdVEkYqi9Y/kL9ul/qZwP4JKxQ09LQtPjDUNVdGyg7QRnlhiXxoRA9xRPrUxALEtzKGpXG3KeO6ZBgQCC8Qcjv09rQ5FigODmq4vInzfDhZjjHiYWCfJNHKto1u64TTkJ+ud+kymfJ06+7fbnd3AkkhAaK/rtrc2qTpltZZCBPFMwrkouRZx3nqOF2pU6NJEmHslRI5cPBv0ehfo7jfP6SGdVyt4Pdh56ZRLJ3tF0PqJuh9IRP3R4WFhztttC06MpuEeQjgaJReN2MPFx1/8+DdrJu3W8q9ZEUiBQEiZ33XCdVXaI+c70jf2puMCbh7vaohnSV57LMdmzDlNxORttV0HgoWAZTK8OvV+xttWoawnOmKYdIqMVJPRSnagbN3oIRb8ajcYyG8zK48mJ+tddKCkc/gFYwFgTzF181Y9E6uXY/4Hf/uc3lTNqpw==;tMOIEBBTNkE9+Rz/GOZ0aQ=="
 ---
 
