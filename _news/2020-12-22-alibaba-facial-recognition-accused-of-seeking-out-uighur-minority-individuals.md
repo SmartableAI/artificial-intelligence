@@ -9,8 +9,8 @@ ampWebUrl: "https://www.qrcodepress.com/alibaba-facial-recognition-accused-of-se
 cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/alibaba-facial-recognition-accused-of-seeking-out-uighur-minority-individuals/8538723/amp/"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: QR Code Press
@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
-    excerpt: "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ..."
-    publishedDateTime: 2020-12-18T21:45:00Z
-    webUrl: "https://ipvm.com/reports/alibaba-uyghur"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 139
-    images:
-      - url: "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg"
-        width: 903
-        height: 1177
-        isCached: true
-  - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
-    excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
-    publishedDateTime: 2020-12-21T16:41:00Z
-    webUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
   - title: "Alibaba ‘Dismayed’ Over Ethnic Profiling in Facial Recognition Technology"
     excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."
     publishedDateTime: 2020-12-20T07:02:00Z

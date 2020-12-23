@@ -25,6 +25,17 @@ images:
     height: 275
     isCached: true
 
+related:
+  - title: "Cholera outbreaks predicted using climate data and AI"
+    excerpt: "Climate data taken from Earth-orbiting satellites, combined with machine learning techniques, are helping to better predict outbreaks of cholera."
+    publishedDateTime: 2020-12-23T13:24:00Z
+    webUrl: "https://www.preventionweb.net/english/professional/news/v.php?id=75300"
+    type: article
+    provider:
+      name: Prevention Web
+      domain: preventionweb.net
+    quality: 17
+
 secured: "3fBi9XHfe5hccxBJtsDT91HrpW8wyiMlVQzEnvbQJgUN8ZvJUIR6syYVdAoHVvrT6WzMuJL32gvAPmqy9PewQVoC+y9DmCC/N3viqVVBm1gxI7t723tZoIfYWDOpBwX7pdiRMOhydgJmy68lWWbzSr6KLst0tLgoaabZFuyz6i17vdu/yVaS0Ne7BOmt1dWBihj1fg3ApB/P3krRw1PkVTzrGVm8XEsWDQr+KumzOhRZ71RFxKbjkZuJMyqSsWXpt0Sf7U2wJOtgz1wTFsJNFyZQczrB3FL2fnSgnH0jXOO3iSHG0VCG7qH8wRoeZw7aB0JjGJYhMR2uAAtRrZ70iRmaG8ootYliydttUdDXkZM=;sZ3XeNYTlOEOUU9NEtErOA=="
 ---
 

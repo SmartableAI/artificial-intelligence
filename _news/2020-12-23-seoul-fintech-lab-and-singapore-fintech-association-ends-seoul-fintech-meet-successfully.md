@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Seoul Fintech Lab and Singapore Fintech Association Ends ‘Seoul Fintech Meet’ Successfully"
+    excerpt: "XQuant CEO Chea Srun is pitching its service at the Seoul Fintech Meet 2020 hosted by Seoul Fintech Lab and Singapore Fintech Association. Seoul Fintech Meet was promoted to introduce Seoul to the world as an emerging global fintech city,"
+    publishedDateTime: 2020-12-23T16:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-financial-technology-seoul-f44b9e4f5f2b40958b746f1358d3d6d3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "XKPN5i2Hj018KNWwcc7jdYVgK6hCTwmoSA6ipVdfAeQ70GC7r9ltM0yZF16kUvDa0t5N0FasO9NQvKDuSgjTMyX7Fsy8NwD8du2oVDMLUEoRr2mr9vrIurPHetaLuX2jztxHjhQk2l5A8KtGu+UezrYCii1BREpdaWLEbY8QAAEVadDVg5r2UqCejVJ0ESSwj/AmdX2MmlN0FHZFkU9W/3tGgdxuLMfE8tkhKxhh8NVb/D1rjfWCuyhYTQURwSwXa3xyv1OijBCFOL6/b/emagB3kEfuZRRxOcjQYDnvQtbDzr7zNVkHu0rJkVnhGE6ENxxFm9frySiOCzGT/IhYwk+vkaWIllEguWuXF1912Os=;/dMWe3Ee9v3cU6gFTE5DSg=="
 ---
 

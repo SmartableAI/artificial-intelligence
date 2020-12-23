@@ -35,6 +35,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "NFI Enhances Customer Experience with Greenscreens.ai"
+    excerpt: "Greenscreens.ai, a leader in dynamic pricing for the freight market, announced today that NFI Industries, a leading supply chain solutions provider, has successfully implemented the Greenscreens.ai solution."
+    publishedDateTime: 2020-12-23T16:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-industrial-products-and-services-transportation-and-shipping-d9c66e5fb013d2392a329c022ede0588"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "hLc4CwJjW1V4IlRaFzhgeUTXkvREdHhqHAw76JgI/s4+59IOfKGmYvurqZcrC9707OXgdTd0yvTX91f5iSuXA6q5zNQT6T8kz0QpCphu/89jGaX+oH2Wpwk3tkwNHR17unPPExoFROzlB+FzmG55Uz1OUOpltCdoSFoRal4DTS24d15zX8gLIkdHYhvL+vi+A5MzPnzrx4PovikFw+KQ0rScqktt8mv8Cwjk9m2O9TCy6A8Fgq85+mpQwS9cJ5qnOYmOBJ3ocg3JNlkJgOaYG6GMM+1C76PrYq4w43hc6ncVCrEoHpUcVDdhd5hdPYzBLz8Ua1lXAB6bk9Mj98rvqZlX32TX7NwrIkSYjl7nwgE=;3UiDEm2LtrvxVha9EuKvXA=="
 ---

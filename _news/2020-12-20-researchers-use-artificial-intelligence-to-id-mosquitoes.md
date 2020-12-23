@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Using AI to count and map craters on the moon"
+    excerpt: "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,"
+    publishedDateTime: 2020-12-23T15:29:00Z
+    webUrl: "https://phys.org/news/2020-12-ai-craters-moon.html"
+    ampWebUrl: "https://phys.org/news/2020-12-ai-craters-moon.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg"
+        width: 2380
+        height: 2400
+        isCached: true
   - title: "Global Hearing Aid Market Outlook to 2023 - Rising Demand for Artificial intelligence - ResearchAndMarkets.com"
     excerpt: "The “Global Hearing Aid Market Outlook to 2023 - by Hearing Aid Devices and Hearing Implants, by Region, by Type of Distribution channel r"
     publishedDateTime: 2020-12-21T09:37:00Z

@@ -232,6 +232,38 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Tesla To Offer Full Self-Driving As A Subscription"
+    excerpt: "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow."
+    publishedDateTime: 2020-12-23T16:35:00Z
+    webUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
+  - title: "Elon Musk Confirms Tesla Full Self-Driving Subscriptions Coming Early 2021"
+    excerpt: "You will also be able to buy FSD outright, and it seems Tesla would prefer you did that instead of paying a monthly subscription fee."
+    publishedDateTime: 2020-12-23T15:33:00Z
+    webUrl: "https://insideevs.com/news/462012/elon-musk-confirms-fsd-subscription-model/"
+    ampWebUrl: "https://insideevs.com/news/462012/elon-musk-confirms-fsd-subscription-model/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/462012/elon-musk-confirms-fsd-subscription-model/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 57
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple Is Reportedly Releasing a Self-Driving Car in 2024"
     excerpt: "According to a Reuters exclusive, tech giant Apple is planning to produce a self-driving passenger car to be released as soon as 2024 — despite several layoffs hitting the company’s automobile efforts over the last couple of years."
     publishedDateTime: 2020-12-21T22:04:00Z

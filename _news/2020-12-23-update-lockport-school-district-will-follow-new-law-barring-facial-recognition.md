@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York temporarily bans facial recognition in schools"
+    excerpt: "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ..."
+    publishedDateTime: 2020-12-23T15:30:00Z
+    webUrl: "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New York Issues First-In-Nation Moratorium On Facial Recognition In Schools"
     excerpt: "New York Gov. Andrew Cuomo signed a bill Tuesday temporarily banning the use of facial recognition in schools, making it the first state to take such a step. The law suspends facial recognition and other biometric technology in both public and private schools until July 2022,"
     publishedDateTime: 2020-12-23T00:08:00Z
@@ -59,6 +75,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
+    excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
+    publishedDateTime: 2020-12-21T16:41:00Z
+    webUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
   - title: "Cuomo signs bill barring facial recognition systems in schools"
     excerpt: "The bill would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
     publishedDateTime: 2020-12-22T21:28:00Z
@@ -90,6 +122,22 @@ related:
       - url: "https://s3.amazonaws.com/wp-media-es/2020/12/22143205/GettyImages-1187951204.jpg"
         width: 2309
         height: 1299
+        isCached: true
+  - title: "New York to Bar Facial Recognition Tech in Schools"
+    excerpt: "The bill, sponsored by Assemblywoman Monica P. Wallace, would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
+    publishedDateTime: 2020-12-23T16:30:00Z
+    webUrl: "https://www.govtech.com/policy/New-York-to-Bar-Facial-Recognition-Tech-in-Schools.html"
+    ampWebUrl: "https://www.govtech.com/policy/New-York-to-Bar-Facial-Recognition-Tech-in-Schools.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/New-York-to-Bar-Facial-Recognition-Tech-in-Schools.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
         isCached: true
   - title: "New York State suspending use of facial recognition technology in schools"
     excerpt: "ALBANY, N.Y. — Governor Andrew Cuomo signed legislation on Tuesday suspending the use of facial recognition technology, as well as other kinds of biometric technology in schools. Under this legislation, New York State will direct a study of whether this ..."
@@ -140,19 +188,16 @@ related:
         height: 675
         isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
-    publishedDateTime: 2020-12-22T22:16:00Z
-    webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
+    publishedDateTime: 2020-12-23T14:24:00Z
+    webUrl: "https://www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html"
+    ampWebUrl: "https://www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html?outputType=amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: syracuse.com
+      domain: syracuse.com
     quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "New York Halts Use Of Facial Recognition Tech In Schools"
     excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
     publishedDateTime: 2020-12-23T01:57:00Z

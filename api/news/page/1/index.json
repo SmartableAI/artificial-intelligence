@@ -2,6 +2,266 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-24-ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test.md",
+      "title": "Ally Fashion, 145 Store Footprint Retailer, to Put Next-Gen AI Tech to the Test",
+      "excerpt": "Going beyond rules-based personalization, Ally Fashion are putting breakout eCommerce AI leader, Particular Audience, to the test. Particular Audience provides a unique platform capable of adapting every product list on an eCommerce site from search results to merchandise pages and product recommendations - every product tile becomes dynamic to shopper intent and preference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-deepminds-ai-agent-muzero-could-turbocharge-youtube.md",
+      "title": "DeepMind's AI agent MuZero could turbocharge YouTube",
+      "excerpt": "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-55403473",
+      "originalUrl": "https://www.bbc.com/news/technology-55403473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9AB/production/_116213574_deepm.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55403473",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55403473",
+      "publishedDateTime": "2020-12-23T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
+      "title": "How to drive brand awareness and marketing with natural language processing",
+      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T08:06:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics.md",
+      "title": "Google told its AI research scientists to ‘strike a positive tone’ on sensitive topics",
+      "excerpt": "Google this year tightened control over its scientists’ papers, requesting authors to refrain from portraying its technology negatively.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/",
+      "originalUrl": "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/",
+      "publishedDateTime": "2020-12-23T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
+      "title": "New York temporarily bans facial recognition in schools",
+      "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "publishedDateTime": "2020-12-23T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
       "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
       "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
@@ -52,49 +312,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
-      "title": "Google told its scientists to 'strike a positive tone' in AI research - documents",
-      "excerpt": "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
-      "originalUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
-      "publishedDateTime": "2020-12-23T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -490,21 +707,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools.md",
-      "title": "New York Issues First-In-Nation Moratorium On Facial Recognition In Schools",
-      "excerpt": "New York Gov. Andrew Cuomo signed a bill Tuesday temporarily banning the use of facial recognition in schools, making it the first state to take such a step. The law suspends facial recognition and other biometric technology in both public and private schools until July 2022,",
+      "path": "_news/2020-12-23-muzero-mastering-go-chess-shogi-and-atari-without-rules.md",
+      "title": "MuZero: Mastering Go, chess, shogi and Atari without rules",
+      "excerpt": "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/",
-      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/",
+      "webUrl": "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules",
+      "originalUrl": "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28584fc8e8b87dee3cdb8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4169%26cropY1%3D211%26cropY2%3D2555",
-          "width": 1200,
-          "height": 675,
+          "url": "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw",
+          "width": 512,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -512,16 +729,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/22/new-york-issues-first-in-nation-moratorium-on-facial-recognition-in-schools/amp/",
-      "publishedDateTime": "2020-12-22T16:08:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "DeepMind",
+        "domain": "deepmind.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -537,7 +754,49 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources.md",
+      "title": "Exclusive: Apple targets car production by 2024 and eyes 'next level' battery technology - sources",
+      "excerpt": "Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the matter told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY?il=0",
+      "originalUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-idUSKBN28V2PY?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28V2PY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY",
+      "publishedDateTime": "2020-12-22T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -906,7 +1165,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -960,7 +1219,7 @@
       "originalUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1000,240 +1259,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-is-that-aibo-a-good-dog-sony-to-review-ethics-of-all-ai-products.md",
-      "title": "Is that Aibo a good dog? Sony to review ethics of all AI products",
-      "excerpt": "But even as it increases convenience, AI could unintentionally employ discriminatory algorithms, leading to embarrassing problems. Sony will start screening its AI-infused products for ethical risks as early as spring,",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
-      "originalUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F3%252F1%252F31381362-3-eng-GB%252FCropped-1608663127AIBO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
-      "title": "Diving into Japan’s top AI/ML startups",
-      "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
-      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-horizon-robotics-a-chinese-rival-to-nvidia-seeks-to-raise-over-700m.md",
-      "title": "Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M",
-      "excerpt": "In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
-      "originalUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/horizon-robotics-e1608616778526.jpeg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
-      "publishedDateTime": "2020-12-21T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-apple-reportedly-aiming-to-launch-self-driving-cars-by-2024.md",
-      "title": "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024",
-      "excerpt": "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
-      "originalUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hqqi6njbxxweyncc7jwi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
-      "publishedDateTime": "2020-12-21T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-how-face-masks-can-disrupt-facial-recognition-and-daily-life.md",
-      "title": "How face masks can disrupt facial recognition — and daily life",
-      "excerpt": "Thanks to preventative measures to reduce COVID-19 transmission — including social distancing and wearing face masks — the possibility of meaningful public interaction is all but gone. “For those of you who don’t always recognize a friend or acquaintance wearing a mask,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
-      "originalUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/face-masks-43.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
-      "publishedDateTime": "2020-12-21T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

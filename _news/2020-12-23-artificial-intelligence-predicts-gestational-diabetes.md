@@ -43,6 +43,36 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Data-Centric, AI-First Market Trends And Predictions For 2021"
+    excerpt: "AI Ethics, transparency and responsible AI are going to become table stakes. The use of marketplaces as a consumption model for the best-of-breed AI/ML ecosystem will thrive. I believe 2021 is truly going to be the coming-out party for AI/ML ecosystem."
+    publishedDateTime: 2020-12-23T13:32:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Predictions for AI-powered digital healthcare in 2021"
+    excerpt: "Oncology diagnosis inclusing digital pathology, telehealth and physician access are just some of the areas where AI can have outsize impact in 2021"
+    publishedDateTime: 2020-12-23T15:27:00Z
+    webUrl: "https://medcitynews.com/2020/12/predictions-for-ai-powered-digital-healthcare-in-2021/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1279175030.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "AI Predictions for 2021"
     excerpt: "Artificial intelligence and machine learning continue to make waves in the industry and 2021 looks to further that trend. Experts in the field see humans and machines working together to eliminate biases in algorithms while making work easier to manage through the automation of simple tasks and more."
     publishedDateTime: 2020-12-22T16:33:00Z

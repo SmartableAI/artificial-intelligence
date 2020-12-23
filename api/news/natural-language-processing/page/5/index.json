@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-04-history-of-voice-recognition-from-audrey-to-siri.md",
+      "title": "History of voice recognition: from Audrey to Siri",
+      "excerpt": "Looking back on the development of speech recognition technology is like watching a child grow up, progressing from the baby-talk level of recognizing single syllables, to building a vocabulary of thousands of words, to answering questions with quick ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008",
+      "originalUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008?amp=1",
+      "publishedDateTime": "2020-11-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend.md",
+      "title": "Creating an intelligent ticket routing solution using Slack, Amazon AppFlow, and Amazon Comprehend",
+      "excerpt": "Support tickets, customer feedback forms, user surveys, product feedback, and forum posts are some of the documents that businesses collect from their customers and employees. The applications used to collect these case documents typically include incident management systems, social media channels, customer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/1-DiagramArchitecture-786x630.jpg",
+          "width": 786,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:49:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-samsung-will-shut-down-s-translator-soon.md",
+      "title": "Samsung Will Shut Down S Translator Soon",
+      "excerpt": "Samsung has announced plans to shut down S Translator. The outdated language translation service will reach its end of life on December 1, 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "originalUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Samsung-Logo-2019-AM-AH-1.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "publishedDateTime": "2020-11-03T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-changing-the-scope-of-financial-services-with-natural-language-processing.md",
       "title": "Changing the scope of financial services with natural language processing",
       "excerpt": "This problem is a classic application of natural language processing (NLP) that can be bootstrapped by a skilled human credit analyst providing a glossary of possible mappings in advance. Efficient document analysis with natural language processing A lot ...",

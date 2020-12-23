@@ -73,20 +73,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Apple targets self-driving car by 2024 -sources"
-    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
-    publishedDateTime: 2020-12-22T04:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
-        width: 6026
-        height: 4017
-        isCached: true
   - title: "Self-Driving Car Market 2020 | Size, Market Share, Leading Players and Forecast to 2024"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2020-12-23T07:01:00Z
@@ -197,6 +183,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Breaking Down the Financial Impact of Self-Driving Cars"
+    excerpt: "The expectations over driverless cars are stratospherically high. For one, there’s the fascination with the technology and the presumption of an easier commute: The self-driving car will take us to work while we surf the Internet, read files and review ..."
+    publishedDateTime: 2020-12-23T12:00:00Z
+    webUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html"
+    ampWebUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/driverless-audi.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "CNBC Traders Weigh In On Apple's Self-Driving Vehicle Potential"
     excerpt: "On CNBC's \"Fast Money Halftime Report,\" the traders gave their thoughts on the recent report suggesting Apple Inc. (NASDAQ: AAPL) could enter the self-driving vehicle industry. Here are the takeaways: Apple's stock was trading up 2.68% at $131.67 on ..."
     publishedDateTime: 2020-12-22T17:53:00Z
@@ -213,22 +215,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Apple plans self-driving car 'in 2024 with next-level battery technology'"
-    excerpt: "It has been a bumpy ride for Apple’s Project Titan, but sources suggest a passenger vehicle may not be far off"
-    publishedDateTime: 2020-12-22T01:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology?fbclid=IwAR3p_uGTTujKq8n6DZhSageQTI57XX0fjD3fksEo58UbbeYcGPGq1cDl3Cw"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Report: Apple aims to get its self-driving car on the road by 2024"
     excerpt: "Apple Inc. is aiming to produce an electric car by 2024 and it may feature a “breakthrough” battery design that makes it cheaper to run and gives it longer range that existing vehicles of its type. That’s according to an exclusive report in Reuters today,"
     publishedDateTime: 2020-12-22T02:15:00Z
@@ -243,6 +229,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
+    excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."
+    publishedDateTime: 2020-12-23T13:48:00Z
+    webUrl: "https://mybighornbasin.com/scotts-car-corner-apple-to-come-out-with-a-self-driving-car/"
+    type: article
+    provider:
+      name: Big Horn Radio Network
+      domain: mybighornbasin.com
+    quality: 39
+    images:
+      - url: "https://mybighornbasin.com/wp-content/uploads/2020/12/vaccine-pexels-1.jpg"
+        width: 418
+        height: 596
+        isCached: true
   - title: "Apple's Self-Driving Car To Debut In 2021"
     excerpt: "The Apple Car is alive and well. Apple (NASDAQ:AAPL) has announced that its long-awaited self-driving car is still in development and the company expects it to debut in 2021. Apple said back in 2017 that it had been granted permission to test its autonomous vehicle on public roads in California,"
     publishedDateTime: 2020-12-22T13:32:00Z
@@ -252,6 +252,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Top-ranked analyst Toni Sacconaghi on Apple getting into self-driving cars"
+    excerpt: "The world's most valuable company is getting even bigger. Apple's stock is extending its big run this week on a report that it's hoping to start producing a passenger vehicle by 2024. Tim Higgins, reporter at the Wall Street Journal,"
+    publishedDateTime: 2020-12-23T13:52:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/23/top-ranked-analyst-toni-sacconaghi-on-apple-getting-into-self-driving-cars.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 32
   - title: "Apple Is Reportedly Advancing Plans to Develop a Self-Driving Car — Here's What It Means for the Sector"
     excerpt: "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters."
     publishedDateTime: 2020-12-22T23:07:00Z
@@ -267,20 +276,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/12/106673753-1598035076175-tim.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Google's Self-Driving Car Will Change Everything"
-    excerpt: "The hype around driverless cars has grown rapidly over ... computer-processing capabilities and sophisticated artificial intelligence systems are becoming more advanced and more affordable every ..."
-    publishedDateTime: 2020-12-19T00:00:00Z
-    webUrl: "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
-    images:
-      - url: "https://www.investopedia.com/thmb/phBjf6KuW6GPLjQkDSfjOfLG1fI=/680x440/filters:fill(auto,1)/google-car_ap353779913372-5bfc376146e0fb0051c0d8d7.jpg"
-        width: 680
-        height: 440
         isCached: true
   - title: "Moving from self-driving passenger vehicles to safer cargo transport"
     excerpt: "A year ago, most of the buzz around autonomous vehicles centered on passenger-carrying robotaxis. The COVID-19 pandemic temporarily grounded several AV test fleets. But it also brought new attention to the potential of using autonomous technology for transporting not just people,"
@@ -321,20 +316,6 @@ related:
         width: 400
         height: 359
         isCached: true
-  - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
-    excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
-    publishedDateTime: 2020-12-21T21:09:00Z
-    webUrl: "https://www.greencarreports.com/news/1130736_electric-self-driving-apple-car-reportedly-to-use-next-level-battery-tech-in-2024"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 19
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
-        width: 1632
-        height: 1188
-        isCached: true
   - title: "Apple Reportedly Gets Into Self-Driving Car Space"
     excerpt: "Apple targeting 2024 to produce a self-driving vehicle with its own battery technology. Cheddar is joined by Mike Brown, technology reporter at Inverse with more on how Apple plans to compete with companies like Tesla."
     publishedDateTime: 2020-12-22T00:00:00Z
@@ -367,23 +348,7 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 3
-  - title: "Apple 'plans to develop self-driving passenger car by 2024 and eyes breakthrough monocell battery technology to extend its range before it needs to be recharged'"
-    excerpt: "Apple is moving forward with self-driving car technology, targeting 2024 to produce a passenger vehicle. The car reportedly will be powered by breakthrough 'monocell' battery technology."
-    publishedDateTime: 2020-12-21T21:41:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9076953/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/21/20/36181330-0-image-a-2_1608584361624.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
-secured: "rNyttUFKjIFf8cX09uxo0zchFiLds1K9vrGKdlBmh8dTn8y4CSlvMFsUDEyGYPVcOdK/gej0UEGLJAQ4kpgwZmM80AcP69pQjN2xgoTSCP3JzQgYtYTza8lnz4vu85oavk0DtkXwfgST3H8esCjXmSQPmBFHGbf8C8HMElSnt6u9EKhNbKdahxYJxF0bjUAlBe9AjhV3TnBYKtjlhTTRSkxUSLNZsYY8fJqOc8Swse2CdOQYRnQTiDLYQxVAGpIUXNtAavdF7wuCYXAAHBalh4kYajZJnGy7GIh6DfmcWZqgx/en3i0dCNL6jC/v9Xy08CK5ox8ZCF8nE1p6c3E4MSg680z2r19f2o1ZyMM7PUk=;R3ucCXDtdT2QMiVFHBvcjA=="
+secured: "Eakrb2BefMZaUTLB1cOQKEHfqjud47ApanyWYMl5iyBWN93WZFxS0fs4hbAO5BQyFGpU05hklctW3Hf0QwcskdEgrsCXUST5kFkBCCBBub2cGdVxmvSK59YFb1m2eWwPce+zo04Drzl9Bwl2LGog556TBSYshAsJ1VsUIfgafvIaB8e1nzZCTTdwFoKH1cBjA7Nn9ZREItwx49cjxIlkWCCr1K6yhCR2KhoOUCyAaToJmf6SRVTTWhSCgvp0cHTpKYhkTUt6OdLlzjGuteelTKFdHdXcpmY3NpsYkLcWFYtCyrvV2ktyY652+3i1zYkOIYropk0zem3jKCjgtcLWtdXbllT5MtUpkg/+QyqgnH43K+hpTwXQW5RusYOxPSCG5KnCCerIuq9qB8ttCH70oHaaZFWPnZ64Ir8W0IREaVxpGOWZ67itiAjKI44uhVk5i4p9Q7k+AOcFB3l8lahRElEnGWnjXwQ2LdlJffW5fdbW3WsGBgBm6KgQwcDqXrvqbb+tWsibnr5ckHtDEA+yKA==;AqkEWtfq73MXTeP37L2EhA=="
 ---
 

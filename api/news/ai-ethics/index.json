@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-23-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
-      "title": "Google told its scientists to 'strike a positive tone' in AI research - documents",
-      "excerpt": "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
-      "originalUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
-      "publishedDateTime": "2020-12-23T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-22-10-ai-predictions-for-2021.md",
       "title": "10 AI Predictions For 2021",
       "excerpt": "4. One of the leading AI chip startups will be acquired by a major semiconductor company for over $2B. Silicon chips purpose-built for AI workloads are the future of the semiconductor industry. Intel’s $2 billion acquisition of Habana Labs last year was ...",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1481,6 +1438,61 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics.md",
+      "title": "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",
+      "excerpt": "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
+      "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/",
+      "publishedDateTime": "2020-12-04T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Facebook AI",
+        "AI Hardware"
       ]
     }
   ],

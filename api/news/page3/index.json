@@ -2,6 +2,343 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-21-why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises.md",
+      "title": "Why Covid Will Make AI Go Mainstream In 2021: Top 3 Trends For Enterprises",
+      "excerpt": "Artificial Intelligence will transform the future of Pharma Drug Discovery, Work from Home, and Edge Computing in 2021. Find out why this will be the year when AI sees widespread use across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d64beeb2ee80897aea726%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D552%26cropY2%3D3185",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "publishedDateTime": "2020-12-21T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom.md",
+      "title": "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom",
+      "excerpt": "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/79839520.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms",
+      "publishedDateTime": "2020-12-21T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
+      "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
+      "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "publishedDateTime": "2020-12-21T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-reliance-general-insurance-uses-microsoft-azure-ai-tech-for-rapid-claim-settlement.md",
+      "title": "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement",
+      "excerpt": "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996",
+      "originalUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG",
+          "width": 735,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1",
+      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1",
+      "publishedDateTime": "2020-12-21T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autocar Pro",
+        "domain": "autocarpro.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-enterprise-artificial-intelligence-market-to-see-booming-growth-ibm-aws-oracle.md",
+      "title": "Enterprise Artificial Intelligence Market to See Booming Growth | IBM, AWS, Oracle",
+      "excerpt": "Latest released the research study on Global Enterprise Artificial Intelligence Market offers a detailed overview of the factors influencing the global business scope Enterprise Artificial Intelligence Market research report shows the latest market insights current situation analysis with upcoming trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2213942/enterprise-artificial-intelligence-market-to-see-booming",
+      "originalUrl": "https://www.openpr.com/news/2213942/enterprise-artificial-intelligence-market-to-see-booming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc21560470_g.jpg",
+          "width": 800,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2213942/enterprise-artificial-intelligence-market-to-see-booming",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213942/enterprise-artificial-intelligence-market-to-see-booming",
+      "publishedDateTime": "2020-12-21T01:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-tesla-full-self-driving-subscription-coming-really-soon.md",
+      "title": "Tesla Full Self-Driving subscription coming really soon",
+      "excerpt": "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
+      "originalUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg",
+          "width": 1680,
+          "height": 944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
+      "publishedDateTime": "2020-12-20T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need.md",
+      "title": "How A Startup Is Using AI To Help You Find The Market Research You Need",
+      "excerpt": "AI-powered fast search gives individuals the ability to find and share insights and information quicker than any legacy Intranet technology could.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdf800d45a8fea94b931eca%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/",
+      "publishedDateTime": "2020-12-20T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling.md",
       "title": "Self-Driving Cars And The Polanyi Paradox Of Knowing Versus Telling",
       "excerpt": "Questioning the act of knowing and the act of telling, which comes up for humans, animals, and ... [+] self-driving cars. We can know more than we can tell. That’s an assertion made by philosopher Michael Polanyi in his 1966 book entitled The Tacit ...",
@@ -50,58 +387,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-some-uk-stores-are-using-facial-recognition-to-track-shoppers.md",
-      "title": "Some UK Stores Are Using Facial Recognition to Track Shoppers",
-      "excerpt": "Branches of the British grocer Southern Co-op are using surveillance technology to look for potential shoplifters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?source=techstories.org",
-      "originalUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/?source=techstories.org",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fdbda52fe02cb1be125fd70/191:100/w_1280,c_limit/Business-Facial-Recognition-Grocery-Stores-UK-499556448.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -932,316 +1217,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says.md",
-      "title": "AI, ML can bolster cybersecurity, and vice versa, professor says",
-      "excerpt": "Howard University professor talks about his research in emerging technologies.  The following is an edited transcript of their conversation. Karen Roby: I know that your, your focus a lot is on AI, machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/d761e067-abc3-4f1b-9710-d5d0353ba5c6/thumbnail/1200x675/f4905e10df5b7ab57ac881b8a88de52a/20201215-howarduni-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
-      "publishedDateTime": "2020-12-18T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-us-plans-major-expansion-of-facial-recognition-authority-at-airports.md",
-      "title": "US plans major expansion of facial recognition authority at airports",
-      "excerpt": "US Customs and Border Protection has filed for a significant expansion in its authority to conduct facial recognition at airports. On November 19th, the agency submitted a filing to the Federal Register seeking to expand the ongoing biometric exit program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "originalUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/LN_n6S12cK_P45z1SZJ7UeGAsnI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68547533/acastro_180730_1777_facial_recognition_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "publishedDateTime": "2020-12-18T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-ai-controlled-a-us-military-aircraft-for-the-first-time.md",
-      "title": "AI controlled a US military aircraft for the first time",
-      "excerpt": "AI has controlled a US military aircraft for the first time, serving as a co-pilot aboard a U-2 spy plane in a milestone test for the Air Force.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html",
-      "originalUrl": "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F88a387b0-4136-11eb-b7ff-d535d526638c&client=amp-blogside-v2&signature=746051fd7fa46351f3d53bca721d6e884784658e",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html",
-      "publishedDateTime": "2020-12-18T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year.md",
-      "title": "Nvidia’s Inception program tracks 7,000 AI startups, up 25% in a year",
-      "excerpt": "Nvidia's Inception program is tracking over 7,000 AI startups, up 25% in a year. That's a lot of growth in a very tough climate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
-      "originalUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-nv-inception-milestone-logo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
-      "publishedDateTime": "2020-12-18T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise.md",
-      "title": "Microsoft Teams: Switch on new AI-powered noise suppression to cut out unwanted background noise",
-      "excerpt": "Microsoft has trained its algorithm to identify more than 150 annoying background noises and stop them from interrupting your calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/11f374da-de9f-4b49-9eea-e107a9dc680e/resize/1200x/b6f2c41a1543fc1da0acaf993562f29f/mother-and-child-video-call-family.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "publishedDateTime": "2020-12-18T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-the-ai-blob-opera-and-other-technology-news.md",
-      "title": "The AI blob opera and other technology news",
-      "excerpt": "Google’s blob opera can make totally new sounds thanks to artificial intelligence trained on 16 hours of real life singing",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/technology-55260839",
-      "originalUrl": "https://www.bbc.com/news/av/technology-55260839",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p091vb4p.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

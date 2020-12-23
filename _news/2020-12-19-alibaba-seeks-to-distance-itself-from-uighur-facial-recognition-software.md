@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities"
-    excerpt: "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ..."
-    publishedDateTime: 2020-12-18T21:45:00Z
-    webUrl: "https://ipvm.com/reports/alibaba-uyghur"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 139
-    images:
-      - url: "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg"
-        width: 903
-        height: 1177
-        isCached: true
-  - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
-    excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
-    publishedDateTime: 2020-12-21T16:41:00Z
-    webUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-to-Reform-Police-Use-of-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
   - title: "Alibaba facial recognition accused of seeking out Uighur minority individuals"
     excerpt: "The technology giant was developed with the capacity to spot members of this ethnic group, says IPVM. Alibaba facial recognition technology can specifically id"
     publishedDateTime: 2020-12-22T09:00:00Z

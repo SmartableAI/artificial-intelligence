@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-22-deep-learning-in-the-emergency-department.md",
+      "title": "Deep learning in the emergency department",
+      "excerpt": "Using a deep-learning model designed for high-dimensional data, KAUST researchers have shown that it is possible to predict emergency department overcrowding from complex hospital records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/kauo-dli112220.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/kauo-dli112220.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-practical-strategies-to-minimize-bias-in-machine-learning.md",
       "title": "Practical strategies to minimize bias in machine learning",
       "excerpt": "But the question isn’t if a machine learning model will systematically discriminate against people, it’s who, when, and how. There are several practical strategies that you can adopt to ...",
@@ -1393,58 +1436,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ai-startup-abacusai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models.md",
-      "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
-      "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg",
-          "width": 1600,
-          "height": 1068,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "publishedDateTime": "2020-11-18T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

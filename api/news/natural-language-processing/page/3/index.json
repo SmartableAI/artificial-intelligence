@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-27-natural-language-processing-nlp-market-key-findings-latest-technology-industry-expansion-strategies-till-2027.md",
+      "title": "Natural Language Processing (NLP) Market Key Findings, Latest Technology, Industry Expansion Strategies till 2027",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-findings-latest-technology-industry-expansion-strategies-till-2027-2020-11-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-findings-latest-technology-industry-expansion-strategies-till-2027-2020-11-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-27T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-speech-recognition-market-growth-analysis-by-application-scope-and-regional-demand-over-2020-2027.md",
+      "title": "Speech Recognition Market Growth Analysis by Application Scope and Regional Demand Over 2020-2027",
+      "excerpt": "Allied Market Research Published Latest Report titled, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use (Consumer Electronics, Healthcare, Enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "originalUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb26571497_g.jpg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "publishedDateTime": "2020-11-26T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare.md",
+      "title": "4 Ways John Snow Labs is Raising the Bar for NLP in Healthcare",
+      "excerpt": "Ways John Snow Labs is Raising the Bar for NLP in Healthcare By David Talby, CTO, John Snow Labs - Natural Language Processing (NLP) has been a technology to watch over the past few years, but in 2020 it emerged as",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
+      "originalUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/news_new/sliderimage/49a3t.image300x350123654.jpg",
+          "width": 300,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-iit-kharagpur-innovation-hub-on-ai-ml-to-translate-research-to-industrially-scalable-products.md",
       "title": "IIT Kharagpur Innovation Hub On AI, ML To Translate Research To Industrially Scalable Products",
       "excerpt": "IIT Kharagpur has set up a technology innovation hub on artificial intelligence (AI) and machine learning (ML) to translate academic research to industrially scalable products and processes, a spokesperson said.",
@@ -1273,166 +1412,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-google-clouds-new-ai-suite-hits-on-doctors-admin-headaches.md",
-      "title": "Google Cloud's new AI suite hits on doctors' admin headaches",
-      "excerpt": "Google Cloud will become a top cloud partner for hospitals looking to ease administrative headaches driving burnout among their doctors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
-      "originalUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fae92e31e8d50001981354a?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
-      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
-      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
-          "width": 900,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:58:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend.md",
-      "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
-      "excerpt": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/09/AWS-Finance-and-Global-Business-2.jpg",
-          "width": 800,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T12:42:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

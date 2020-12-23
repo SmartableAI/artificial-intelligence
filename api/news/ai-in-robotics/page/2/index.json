@@ -543,17 +543,17 @@
       "title": "Getting there: Structured data, semantics, robotics, and the future of AI",
       "excerpt": "Leveraging structure in data is key to making progress in AI, says AI prodigy Gary Marcus. A forward-looking view on Software 2.0, AI chips, robotics, and the future of AI",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
+      "webUrl": "https://montrealartificialintelligence.com/aidebate2.html",
       "originalUrl": "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/04/6d4aad17-133e-45ec-beed-b696a2fcb14e/1-l35pu2edyfpmhbm4c348pw.jpg",
-          "width": 1000,
-          "height": 666,
+          "url": "https://montrealartificialintelligence.com/aidebate2mosaic1440x720v8.jpg",
+          "width": 1440,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -561,8 +561,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-04T12:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -586,7 +586,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI",
         "AI in Robotics"
       ]

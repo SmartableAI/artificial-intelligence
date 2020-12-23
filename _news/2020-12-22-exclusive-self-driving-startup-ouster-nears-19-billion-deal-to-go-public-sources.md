@@ -2,11 +2,11 @@
 category: news
 title: "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources"
 excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
-publishedDateTime: 2020-12-22T05:05:00Z
-originalUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive-idUSKBN28W00B"
-webUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive-idUSKBN28W00B"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W00B"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W00B"
+publishedDateTime: 2020-12-22T06:59:00Z
+originalUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
+webUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28W06E"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W06E"
 type: article
 quality: 47
 heat: -1
@@ -25,80 +25,89 @@ topics:
   - AI
 
 related:
-  - title: "Ouster, maker of self-driving tech, agrees $1.9 bln deal to go public"
-    excerpt: "(Reuters) - Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp. The deal values ..."
-    publishedDateTime: 2020-12-22T12:28:00Z
-    webUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28W1D3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W1D3"
+  - title: "Exclusive: Apple targets car production by 2024 and eyes 'next level' battery technology - sources"
+    excerpt: "Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the matter told Reuters."
+    publishedDateTime: 2020-12-22T22:23:00Z
+    webUrl: "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY?il=0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545432002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Ouster, maker of self-driving tech, agrees $1.9 billion deal to go public"
-    excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp."
-    publishedDateTime: 2020-12-22T12:52:00Z
-    webUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn/ouster-maker-of-self-driving-tech-agrees-1-9-bln-deal-to-go-public-idUSKBN28W1D3?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1D3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1D3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 73
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545437645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Ouster, maker of self-driving tech, agrees $1.9 billion deal to go public"
-    excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp."
-    publishedDateTime: 2020-12-22T18:23:00Z
-    webUrl: "https://www.reuters.com/article/ctech-us-ouster-m-a-colonnade-acqsn-idCAKBN28W1D3-OCATC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 73
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545437645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "EXCLUSIVE-Self-driving startup Ouster nears $1.9 bln deal to go public -sources"
-    excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
-    publishedDateTime: 2020-12-22T00:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/exclusive-self-driving-startup-ouster-nears-%241.9-bln-deal-to-go-public-sources-2020-12-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-self-driving-startup-ouster-nears-%241.9-bln-deal-to-go-public-sources-2020-12-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-self-driving-startup-ouster-nears-%241.9-bln-deal-to-go-public-sources-2020-12-21?amp"
+    quality: 138
+  - title: "Apple (AAPL) Car May Debut in 2024 With New Battery Technology"
+    excerpt: "Apple AAPL is rumored to boost its driverless car initiative with plans to produce self-driving car technology and introduce the consumer vehicle that could include its own breakthrough battery technology by 2024,"
+    publishedDateTime: 2020-12-22T14:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/apple-aapl-car-may-debut-in-2024-with-new-battery-technology-2020-12-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/apple-aapl-car-may-debut-in-2024-with-new-battery-technology-2020-12-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-aapl-car-may-debut-in-2024-with-new-battery-technology-2020-12-22?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 50
-  - title: "Self-driving tech makes new moves"
-    excerpt: "Walmart and Amazon are making progress on self-driving tech that could make driverless vehicles more mainstream in 2021."
-    publishedDateTime: 2020-12-19T04:30:00Z
-    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-makes-new-moves-5345722/"
+    quality: 54
+  - title: "Apple targets self-driving car by 2024 -sources"
+    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQEE1aPNeVx86g/storylineheaderimage-shrink_400_400/0/1608138571287?e=1608444000&v=beta&t=XKDE79ozf7669TCZRXTZ4Mw1srmeUcfZ7sMBMQhB-Lk"
-        width: 400
-        height: 266
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
+        width: 6026
+        height: 4017
+        isCached: true
+  - title: "Apple plans self-driving car 'in 2024 with next-level battery technology'"
+    excerpt: "It has been a bumpy ride for Apple’s Project Titan, but sources suggest a passenger vehicle may not be far off"
+    publishedDateTime: 2020-12-22T01:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology?fbclid=IwAR3p_uGTTujKq8n6DZhSageQTI57XX0fjD3fksEo58UbbeYcGPGq1cDl3Cw"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
+    excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
+    publishedDateTime: 2020-12-21T21:09:00Z
+    webUrl: "https://www.greencarreports.com/news/1130736_electric-self-driving-apple-car-reportedly-to-use-next-level-battery-tech-in-2024"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 19
+    images:
+      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
+        width: 1632
+        height: 1188
+        isCached: true
+  - title: "Apple 'plans to develop self-driving passenger car by 2024 and eyes breakthrough monocell battery technology to extend its range before it needs to be recharged'"
+    excerpt: "Apple is moving forward with self-driving car technology, targeting 2024 to produce a passenger vehicle. The car reportedly will be powered by breakthrough 'monocell' battery technology."
+    publishedDateTime: 2020-12-21T21:41:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9076953/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/21/20/36181330-0-image-a-2_1608584361624.jpg"
+        width: 636
+        height: 382
         isCached: true
 
-secured: "8rTLTzWt91kG2beXjH1pp6Puic6TBmsL5LTqyMS0KKr1oOcEsr342HJmWD5nbxAHyk4kPhufXok6iZqRMeEEBrtNl1LJQTRQwjwCQDyB5ve8IPByi1pg5v7x482L8sKe0Dpyv/Awrj4bAMjV1j41CaDOvVGRumzPoUVM3TR8WdQGCvVP8rkwMQYmsDEfJVTdU7Ov+Rf+IoiAMQmn4PQ6+b8qbDCw1wF0QtScb1CNeScDrNcIhUu7sEVb7qWIffPrMXEiB/XA/Cy2qydXTNjVpj2mEfVQQiy349oWTB4Ga82uzw1s1v27RfKsQr0jAYk0EPGs/YsOoizFyhFgW4VcVuG5FMVkllC51aW/YkpV9KU=;fVInjS4WTZchoAj2rMGceQ=="
+secured: "PmgSWc4vfSxGftUy7F+7AEe5fVlPhw1hlFiqjnRnrai+ryjtSG9yxKiHfBCUsWR1JoaOUU3LrUOyamLkpvHCWIGBdVqcLzQ930PiaamENJ7H/Dikw0s1hDekehUpSHsuK/iMh+ZMN0omeTjxWk4k+r1KvVXmP41AcnakhJ/yotqZyqQ5jVZu/HW6RR8H2GHAN2ypwKkc+fAJ33oEg5L14rW8gJLNpAvxfvRCo7CklNIss12INcOx1rtFdBPx8+gADWkGyJZMl/uKTbvHFgI/r3FkdKW3YNT4bhE122ZYLhC3X+JO2g8uNH+c5RkkcsPv47Hmnry1MccsT813p9Q1JQBhaaaeEhVJb8ue0+hNP5c=;oV9SMxZ9C74dFS8rpCA36A=="
 ---
 

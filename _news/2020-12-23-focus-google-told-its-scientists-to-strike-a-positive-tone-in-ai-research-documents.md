@@ -26,17 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
-    excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
-    publishedDateTime: 2020-12-23T12:47:00Z
-    webUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
+  - title: "Google told its AI research scientists to ‘strike a positive tone’ on sensitive topics"
+    excerpt: "Google this year tightened control over its scientists’ papers, requesting authors to refrain from portraying its technology negatively."
+    publishedDateTime: 2020-12-23T15:46:00Z
+    webUrl: "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google told its scientists to 'strike a positive tone' in AI research, documents show"
+    excerpt: "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said."
+    publishedDateTime: 2020-12-23T16:39:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/google-told-its-scientists-strike-positive-tone-ai-research-documents-n1252240"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252240"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252240"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 80
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_52/3343176/200508-google-office-london-2018-ac-625p_3aaf504e1ed0fe8c6c294d97e971904f.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
+    excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
+    publishedDateTime: 2020-12-23T11:36:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X1CB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
 
 secured: "lemyxobgRGwXG9Fi6L0uLEvq3gjShd5Oxrh5TcJmoRcg9k/qCmO/A24PczGYIxaG5jqMw9meZON3LDbMEqfTaiLWjOiTroie91AEfKJVmP9EBhIghH5eQJWFh0IMz6GbbYA7tDe+dFIq5ghrTdLEmzxNN5Vfi8yMI5MXl1iBdidlg9LMvmdCWthMhvS86LGwRmZojbKUXpJcfgvw0p2SkMf61YPxNp15CYE9tP5nhO1SCpzH2N8+OhbkNZPoOxRtDiu5LHz/tEv+Xlahlz61wvfsIwZgAZEDTnFMfVg0rL+nicr1d194xz6RITN0/6tjAC6iDIvjQN1YevX54SVs9qzM5jPuwo2z5EHAexSlGTM=;XJbF7NWXz6R2gE641DHA9A=="
 ---

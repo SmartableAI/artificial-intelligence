@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to count and map craters on the moon"
+    excerpt: "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,"
+    publishedDateTime: 2020-12-23T15:29:00Z
+    webUrl: "https://phys.org/news/2020-12-ai-craters-moon.html"
+    ampWebUrl: "https://phys.org/news/2020-12-ai-craters-moon.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg"
+        width: 2380
+        height: 2400
+        isCached: true
   - title: "Researchers use artificial intelligence to ID mosquitoes"
     excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers have shown the effectiveness of an artificial intelligence system -- known as a Convoluted Neural Network -- to classify mosquito sex,"
     publishedDateTime: 2020-12-20T00:16:00Z
