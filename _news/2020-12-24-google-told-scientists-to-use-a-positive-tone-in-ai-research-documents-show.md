@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google reportedly asked employees to ‘strike a positive tone’ in research paper"
+    excerpt: "The search giant’s publication process has been in the spotlight since the firing of AI ethicist Timnit Gebru in early December."
+    publishedDateTime: 2020-12-23T22:03:00Z
+    webUrl: "https://www.theverge.com/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 70
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/BUS68g1pLqbHjTuQi8RCEJlSt5A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68575060/acastro_180130_1777_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
     publishedDateTime: 2020-12-23T11:36:00Z
@@ -105,6 +121,6 @@ related:
         height: 567
         isCached: true
 
-secured: "sDJ2YtP79Y+BcCbGSlGC8kmeZt5urx9EDS941aeiZu8a3LzFJgs0/BtvqNIN8UMbvRSACY0Ax6LZXdYszMp4LKRTNiBELpZB1WAWmxXz2famSFTqXU8FxH+kw7zf9KCD0aLkT34Cxze9K8SYTE8i2O7Hr/r0iG72594rmqiOuHRXWud9qa1u4xfZRL4z2mdz183EusFW+b+JemwvO2iLM5II4cbY2ehj+JvZ70kyCLCqQjwQGvWGk8NFlsjfzGeJmdXNQQKc5MXGNmtRCzZbF/oR2EKuKZvlmFovPm1dRBSAh7FIAlaqy0JmM9egfVipRWXGcmPRE3V1u0/Ot0l9rhpoPcoA+tXBO6D8y0+LATo=;Bz7GfliNWUtbWgaVRqPvwg=="
+secured: "MA5gsNM0ao2vvo5p1QsX0V0O1T+qFSoMik7Q7nheaA3R2mLdmqopHEWnGUUt3LX3rVVjARayWXiz9MiHZr9fx31cGYLQnBP0wAzSGHjXKI5xXDmzbaah2gNxCkW24C3TYudDBhqUtKVtLPAj1Zrbaz3HY45E5z6NX8/oD2XtNwaN0sWVgf3Ey/BwzvGe8lQSUUr6Fl/x1x6p60NjpbgacW0zpRH9ioxA0XXBrryPlAwzUHZSXfBazkoM0X3IpFc1iop22+BL0a0olU54n7cF79e58Y+UV+2Fftw/yllm5p9j4HEvCuDz58m27+PcqVduoPEBMOBOsv3W15R7OWU1bdke0im6PqjlPNZH+OP5NPgR8RflcjDKkxGhu6SGHMIkEOGi3YLYPbYFrXbASxtFmzCktpT2/xuO5zFbqIfdsiEvP0FQ7Hkz0yOFeezEj8hey3IjW0KBSsadvHMZjH6ZADAHzeAHJhyMxok8UczvSdPm3zkGIRGRF17nbBomNRGD7lMxJrj7zg2Qo2ARyvLjGg==;xXkUHSmfPMSnOtTJ6v/13w=="
 ---
 

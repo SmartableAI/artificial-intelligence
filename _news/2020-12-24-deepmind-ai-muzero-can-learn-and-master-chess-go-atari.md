@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-ch
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "DeepMind just taught AI how to win a game without knowing the rules"
+    excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
+    publishedDateTime: 2020-12-23T21:34:00Z
+    webUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/"
+    ampWebUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 74
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
+        width: 1599
+        height: 1066
+        isCached: true
   - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
     excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
     publishedDateTime: 2020-12-23T20:28:00Z
@@ -140,6 +156,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "z9fSYaP/9A/1EPo4se34PkrYjuCx66KT4poO6qpxfi3ZVCXHr1ttZ1xiNmaCqi4im3mwVil4vb0vjA1Jd6Z3+Yp5eyAUMyx0bOcH+Wpnxoc78zBpcvFeJnCFYF6JzhRbGLpQ3Dsy/bFwDtJkjK4GtZMGxbFM/Jo6WYgWXAv/+qcfLFpWuerQaMpU76BilcSpC/jykj2jndlSINPdLYOmN+GqWRXrNHql+ijlGIMQyKyzpEiCIHy8swjJAwGhHAB4sByiDENYBmp2IbVAZs6l/QRR6IXKpx/doNGf4qeNY6l7ZJ9fes6najA+AQtxJJmd+sKYws7ByTqMc0eZ2sFaF441tpx+Yuon47nHSuz9z+8=;ibsHnMopsZEe82agHUGRtw=="
+secured: "P9IE4KSDXPNDQTJoxLtet50sI7eeaM2Ouxf3+oNmdCIk4yuKI9bzHPDMBlqUG5tjkcbvZEtk0wLgJqVJlAUlC8kuB/uuORE3KRL16AQdmvgQnbzBr1npRBYasLTt2ifCZB8bhjJWdMYxAfpTeqN/LahSl5SwF+EUnEMzPJW8ao28gv6PaeTfkSoswwm6Pv1Obf7li6jtyVEt5mhL609lCVN5C5O42rQaafoef4BpA4uCPFiJAqgXtxqzUq2zqozCKSdHpfe9voomNQAhc9nGSvHNOkZSivSWdiMR485Hx3GvA+m0Iuy+qjUO2R50h75GNgKb9z7QxfUxI5N48bNIb7sWP5RhXu5vZ9wJMkWKnB4Vz5HgrSLHn5NszOp57z5bi5ra/rENA3G2+iYYLFp2R7qYnxi6nE1avHwE4c2DXqljTq7B5CnlvWUgdsaTf+xic4X73ZVavvjnipiudmXT+iy+VZTJ7ecKAejIN+ZAdvi3GRrsSMzhA/5WX9jWV5O3poaUMc7TUuvGA8UcAGgaZA==;0PuQ6MrrmkWRZ8N4mrYu/g=="
 ---
 

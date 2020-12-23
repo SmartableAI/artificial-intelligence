@@ -90,6 +90,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Artificial Intelligence Can Judge Spotify Users For Their Bad Playlists After Wrapped List Release"
+    excerpt: "In a unique twist to breaking down music opinions, digital publication ThePudding.cool has used artificial intelligence to judge users' music ... Once logged in, the robot won’t post or change anything about the Spotify user account, however, it can ..."
+    publishedDateTime: 2020-12-23T21:06:00Z
+    webUrl: "https://www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585"
+    ampWebUrl: "https://www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/music-7916311920.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Forget Spotify Wrapped, this AI skewers your streaming music tastes"
     excerpt: "Instead of some snooty human wanting to “educate” you on appropriate musical tastes, you can now let an AI simply tear those tastes down. The AI-powered “Judge Your Spotify” bot goes through your Spotify history before summarily launching a verbal assault on your pathetic tastes."
     publishedDateTime: 2020-12-23T12:23:00Z

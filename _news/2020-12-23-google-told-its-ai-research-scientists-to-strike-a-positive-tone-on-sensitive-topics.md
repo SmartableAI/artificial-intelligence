@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Google reportedly asked employees to ‘strike a positive tone’ in research paper"
+    excerpt: "The search giant’s publication process has been in the spotlight since the firing of AI ethicist Timnit Gebru in early December."
+    publishedDateTime: 2020-12-23T22:03:00Z
+    webUrl: "https://www.theverge.com/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 70
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/BUS68g1pLqbHjTuQi8RCEJlSt5A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68575060/acastro_180130_1777_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
     publishedDateTime: 2020-12-23T11:36:00Z

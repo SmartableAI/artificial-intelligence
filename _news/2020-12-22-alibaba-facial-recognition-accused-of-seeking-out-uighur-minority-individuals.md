@@ -9,7 +9,7 @@ ampWebUrl: "https://www.qrcodepress.com/alibaba-facial-recognition-accused-of-se
 cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/alibaba-facial-recognition-accused-of-seeking-out-uighur-minority-individuals/8538723/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13797760/16x9/991/557/d3e1beceb66f9ee912da61e69dfc72d1/Pd/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
         width: 991
         height: 557
-        isCached: true
-  - title: "Alibaba Seeks to Distance Itself from Uighur Facial-Recognition Software"
-    excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
-    publishedDateTime: 2020-12-19T06:02:00Z
-    webUrl: "https://english.aawsat.com/home/article/2691311/alibaba-seeks-distance-itself-uighur-facial-recognition-software"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 23
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/12/19/alibaba.jpg?itok=pw3y_NMh"
-        width: 480
-        height: 320
         isCached: true
 
 secured: "jw8gknt57bWstYoDLzL4ITKmw7vHeci52KEB39tQdQS2loD8fXYNiiwU3yq/FA5zSBiaiaZDamKVCEFpG8usYJI6hNrwfj1tljKpu8VbufdRRW8/h+oQXhWilYaFXWu2PyXNNfER0piqdsw+znpMAs5CrehXdknwxGotI6H+VbtoaUzJ08LKTVdV7ArE9/6YSyp1wS2qe1mwb4rzpnQ4ObdEYMpY1iS6fGeWDJHDnyiiyYAx2MHba0w0dTEyO+TTm3xbklOsrsPedmA4/bo9PyQpoJphQS/Z/Q1pr5hiAv8rPIOtVh3dJUxSEXrJtzLWkbRwxMSE3/y9nMiCr2Jv2HXvyU9cntzF6rBAWvMnYZgmY4fHkGz3LVYuCtTKId7uFfpsIhrIubbQ9/SMCGG1vauXWYQ7qi7BaeBdZJK5oMfUGNoJ1UYRQYK7XxqBqnNqperIE0FImRqx469Ya412W5A0XPUVQg6tdRuDyc3tGZAM/I6ioeO9Qfm8/0GL5eXEbSbsCfnx1kXitzvTUtblCQ==;+VCTmuyiVuyuD4bYVzn85A=="

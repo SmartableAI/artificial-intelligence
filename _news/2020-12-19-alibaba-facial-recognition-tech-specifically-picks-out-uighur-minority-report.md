@@ -56,20 +56,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Alibaba Seeks to Distance Itself from Uighur Facial-Recognition Software"
-    excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
-    publishedDateTime: 2020-12-19T06:02:00Z
-    webUrl: "https://english.aawsat.com/home/article/2691311/alibaba-seeks-distance-itself-uighur-facial-recognition-software"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 23
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/12/19/alibaba.jpg?itok=pw3y_NMh"
-        width: 480
-        height: 320
-        isCached: true
 
 secured: "TOPVFydiRuyEtBkecdFbEqRCbdLZqFfZ008wadlMQvwLngcc2QzO0ZfJj//t65e42Cc+59lBGjgZg6IMy5DyFAzE5shpXTMRICqr4FNyAtsxEKNCxiD6++2VCMJK9Lv/FzLokXHQWjWce3JpX5TFbCVYERMmn7630e1ZmSfyXLkogVQsmgE2A4qm35VVzObah4LPzfxlRLRH8Bi3kA1Ma0Fm29fNNymB4DrYnRIhqJWe9+HtIX3IlzKl0VgTt4mY3W+7uJtzYp1YCPwJqglj+QOJFhsy0ZuSA9NLcxgd3eT4ewUEzHHAt2zyK6Lp+GM+dBKvzHlLZoUdO7eouP2GJXW0cfSwRALtG32Vxxrbuok=;kE7yaoB0t+wBUCiJebBb9g=="
 ---

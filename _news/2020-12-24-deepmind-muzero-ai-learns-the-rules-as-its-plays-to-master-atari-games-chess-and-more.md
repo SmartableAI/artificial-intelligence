@@ -121,6 +121,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "DeepMind just taught AI how to win a game without knowing the rules"
+    excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
+    publishedDateTime: 2020-12-23T21:34:00Z
+    webUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/"
+    ampWebUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 74
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
+        width: 1599
+        height: 1066
+        isCached: true
   - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
     excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."
     publishedDateTime: 2020-12-23T16:06:00Z
@@ -136,6 +152,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "fRM5f9XfDueOQG1nKJR/C+6e+Jli2aMxtrge48Md1geX9yS0HOxwoOAKvcNukvoALP27tdGWhuxwR5pYQ2gbxuJjgnqMJyU6DaAJJ58Ea+ppa4cfyv3we+UTAgB9YBNPXJNhQfyfT6XxnE9mQR8ijjEgdtTw/r6PxrdMxJG0IY0ctagwKLdl2wgs0qj9zSKHppWlAncGcaIht5X62IULmWKLvFMWbLgLTMxzvPPfnQ08QOnBeSvnHkTR1Hq2VDrrKPw8T6FQTBlmbvOScV8A8/YWLeyYVTxd6h4djjeSV6H3GcSWDzHivyU+ZV1m9qrHpBBYFYXY98g/6626mO/tJq+IBoFnFF/hjBwiQYH4QZA=;Osg4O7TrxaqMhMVzBxdJSA=="
+secured: "LjU2+lnTlMe3TyRgkuY93lOB1pG77kZKQvb7XKlFcIxCJRciTybPED6UDMKa7TzVRDJ22eZ9mD92DCWB0rpywET1uW2zbrNE8x+BZjD2cOA5HvzhkTOr3Lgj9ytdXdKKtpV+d2x4FDzoBDdJttFaBOyZBRPAyMiF+R1i8PSE4I1zOZ039lW2T8zkIYFX2lbJ2lOQy5Qg959eGg4Dgcoi8hYer/ABlYzgnDYIlxSYzUY3e6XGh5A9QMMF1ZzV3pbDzA08g6RthA3PVKjpJZnREJZp4NBhSGFI/MIAJ/mDfFVDu4UHo0s4zKt6mlAPtbwIC704Kkyp7VEj4klq4l68yUlYGcifp5moqxUuS9u4JXz9d7PoW9B8Uv0t6kZhE2vugr9f5h2xY3/0DTJwWG6FoRz7qwqnXuP6U9FngufV9L607J4mWgWrwcqdKTq7C26xlRYkSTAoysPqfu32YTDdObwDI431aampU4r7jXx5Z7SycOoKb5qYE+AXXWvf6b1fVXmvha8fSK4Vf0cJRjX65A==;oXG+5cwqbxQ/mvp+z54cSQ=="
 ---
 

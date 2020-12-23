@@ -18,6 +18,19 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
+    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
+    publishedDateTime: 2020-12-23T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18916127/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-se"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18916127"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18916127"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "T1M4RRrkRhpxGdjM+fcAnnCgOrGjv/3nje8YPqgU0Wh5WopalRTbNm/8VKp4QDPG2VJ1q22GUEzW85wMkxT8Zlj5KDIq0Jr9IoAvsWGjuEvSrtHY+2/s59kBWSNPIBdqEqzuKJfhTyD5B1snL8k8fNXtJv6ACnmFfel1UyAYIfKLG8oSibVHYVcmF5NRl2iNjsfuMDT/VN+SNkfQv5jG0ZvUabGimioa1ALnfNxxar216Buc57m0BHeMTxIPt7js8662pYfVenHbzZgWQMx4E3+bD/eE4w1QkklcF2sQ3vyjL6aGWdj3xMEdF1BGhHrKI8WJabRO98pgziPYIoSBzibb+SwNex2nnz5txhCjTPg=;JSTIW1v+LMLXILOEEDMnwQ=="
 ---
 

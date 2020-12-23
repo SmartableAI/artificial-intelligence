@@ -269,6 +269,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "New York imposes temporary ban on facial recognition tech in schools"
+    excerpt: "New York appears to be the first state in the nation to impose a temporary ban on the use of facial recognition technology in schools."
+    publishedDateTime: 2020-12-23T22:16:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/new-york-facial-recognition-schools"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/new-york-facial-recognition-schools?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/new-york-facial-recognition-schools?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
   - title: "Cuomo signs voter registration, facial recognition bills for New York"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
     publishedDateTime: 2020-12-22T22:14:00Z

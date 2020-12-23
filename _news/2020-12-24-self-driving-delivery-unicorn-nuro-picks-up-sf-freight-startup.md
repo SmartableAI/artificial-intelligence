@@ -37,6 +37,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nuro gets first California OK to charge money for self-driving services"
+    excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
+    publishedDateTime: 2020-12-23T21:28:00Z
+    webUrl: "https://www.reuters.com/article/idCAKBN28X2IR-OCATC?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545607745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1FJ"
+        width: 676
+        height: 545
+        isCached: true
+  - title: "Self-driving startup Nuro cleared to commercialize service in Calif.; firm makes acquisition"
+    excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
+    publishedDateTime: 2020-12-23T22:12:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-nuro-cleared-commercialize-service-calif-firm-makes"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 13
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/Nuro-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "3F+LUoj6l5VBibjE2an6XTD63BliylgCWR7sL5JIR67gY0xhZuO4mhgi3IwYVxRCLwdXufv3GqB9NuO6Wwq9V/s/EmtX0CymiYl4tSmB0PMy+lE3a30VBWDvkFigLm1jWHbf00ngsVqPbVFGi6VAJ8Rb6MrFI5IYuFmwtpGSibkTVwaiWXvODdwNus+XFWzn34EARTc2DO+0o0qaQvSb9Lf7GafrV2ZgzVTx4CcazaUsXwIH3ew4h680E1hRFtVNEpLjrtGAVIOx85/EYJkP7Ydn/vqvwwESNJtynjleXK93GN6+OO9Oz7qWIadnGjE2cSS8tLrUaZazWu0/SsMOVaMqbHHVvbATh0iMbWYgbs6pDwnpiwsTYmn5Ubf1AGFOEIw1L3HpPHAJA8GlnUKvrWl5mSr8vdDf1LzvYPMmZyK4voAj2hZb8GuWfIoSDtS9iu5H7xl/kjfPxpDWCIGfY7HcqII2xFyZ3h9KBHFalPdxWH9KemqykORnwHVIH/vrE+lTjF7XygnvnYfYcpJmbw==;gETZ6UM3HzwOnKVoVXqg4Q=="
 ---

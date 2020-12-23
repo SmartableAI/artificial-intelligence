@@ -78,6 +78,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Artificial Intelligence Can Judge Spotify Users For Their Bad Playlists After Wrapped List Release"
+    excerpt: "In a unique twist to breaking down music opinions, digital publication ThePudding.cool has used artificial intelligence to judge users' music ... Once logged in, the robot won’t post or change anything about the Spotify user account, however, it can ..."
+    publishedDateTime: 2020-12-23T21:06:00Z
+    webUrl: "https://www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585"
+    ampWebUrl: "https://www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/music-7916311920.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pudding.cool ‘artificial intelligence bot’ rips Spotify 2020 playlists — with hilarious results"
     excerpt: "AN ARTIFICIAL intelligence bot has been created to rip music lover’s Spotify 2020 playlists. Digital publication “The Pudding” has created a “How Bad Is Your Spotify”"
     publishedDateTime: 2020-12-23T19:58:00Z

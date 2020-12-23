@@ -78,6 +78,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Artificial Intelligence Can Judge Spotify Users For Their Bad Playlists After Wrapped List Release"
+    excerpt: "In a unique twist to breaking down music opinions, digital publication ThePudding.cool has used artificial intelligence to judge users' music ... Once logged in, the robot won’t post or change anything about the Spotify user account, however, it can ..."
+    publishedDateTime: 2020-12-23T21:06:00Z
+    webUrl: "https://www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585"
+    ampWebUrl: "https://www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-can-judge-spotify-users-their-bad-playlists-after-wrapped-3108585?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/music-7916311920.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pudding.cool ‘artificial intelligence bot’ rips Spotify 2020 playlists — with hilarious results"
     excerpt: "AN ARTIFICIAL intelligence bot has been created to rip music lover’s Spotify 2020 playlists. Digital publication “The Pudding” has created a “How Bad Is Your Spotify”"
     publishedDateTime: 2020-12-23T19:58:00Z
@@ -109,6 +125,6 @@ related:
         height: 720
         isCached: true
 
-secured: "woNrkwsRY7xjaLsvRD3jgkPULcPjqcGJvpqkaAQoDF5E7OYqpRDhLZRdGjQtexxQNLlBmZS0Ceih6eZoOjKCq9MluYQO1xUYQ7vHIPfdLcm+zFyQaANOHAsKvvMp6MgMWr+aUSGuJ8QD/fv5bUoclQQJfGTBDQFOEiUhfh2BBX5awq1xuysjb/LaThn8RIYFbdUi/cZLyY5XjW6OyMaF1/2h0k2HlPzne6fu4E0lKtHDaNsu1cB9rak9/8aMvqouqPbRUahEpDj8qvhBHfz6egUp4TNUdVBhVdXC7o709INlnR0VHDQ/RvgciUwsvvkFs4gHZe4kkZwqdXkZO9l+HDBptxU4eJU5gdRZRFObfN8=;lsWSCXcyeTK8cKsJCodDnw=="
+secured: "6jGztX/9uz3ITgKSAaJXcfPNSojjfLmgxTiTK2BzuZCUkdb5J24X5ZFlLeQkI33TihUhwjcbCSWx1I0W5+mauxkT9n9/1hWINTDO/3uTpiATxNbRPOz5I6rKsplGDalr8ZqMYy7LcVXVaIp+vEN8V5wqi5qtseAxslkbZ7Q0Ny6+NwMpg5wLTDfq9SIyTZumKL9pX9aZYq7Me47pMFmR3XH8SOtaVNYuuxONHJPdFolZ6PfLywrM6gQHl1vgR8U8ThTmLK58h4odekG5eYHwNfiKlrntMEnghZfyqKHSNTfdw/G+cwzx16yDO++VQtu4Ilo0VXv7iCm9CtuEQBuKaK1dN5s77TGXCfHCq6fTgu2jJnJSn5MuWp9/iv4HJRybI1DFABHkEHLUXVDX56+irBSr9KUoJkNuRcUAwp0hi7NIqIolrJxYjoFO61Pdd7CJSNS2jRfdpiBP5oJ9tBn2lLgGUUoSVsPtiSmKOWHw3E/JD0ydMMfp/5ahYY+Nukl4Itj7BUOxCWboTUcNDku/sQ==;tFwJfBZRjRo15RaSQPR45A=="
 ---
 

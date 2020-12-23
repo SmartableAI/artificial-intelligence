@@ -256,6 +256,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
+    publishedDateTime: 2020-12-23T22:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Top-ranked analyst Toni Sacconaghi on Apple getting into self-driving cars"
     excerpt: "The world's most valuable company is getting even bigger. Apple's stock is extending its big run this week on a report that it's hoping to start producing a passenger vehicle by 2024. Tim Higgins, reporter at the Wall Street Journal,"
     publishedDateTime: 2020-12-23T13:52:00Z
