@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-20
 ampWebUrl: "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/My-Post-6.png?w=1200&strip=all"
@@ -46,6 +47,6 @@ related:
         height: 419
         isCached: true
 
-secured: "uzq1ykBeCtVqaD+0R4aukeN+ZE3/YUzRBz8+988sZFyOtqFayl9Ap5pceoms1k51AZLM2td283xlNSADYUvpjFtR7AWi7YoIUjNdTZR0mCOzjXyyXXIcrhJqP3WDlhYtwu9wpr2fQLbN6gC+8K+L9kxXlIlaiUCd0oVxLyikOzYt3d8Gv6D48l3EfzGlfzDVn8DjmoSA0DdulhzBCHBIXYiEPmBDYsWUmQ8b47j99NWiab7m1mf3IzylEYy3ndiH0PMP388hx/niHjbyB5YH+kdoBSFT4WcYLYJ1pqlUJhZQZH6gP9LV6g8tw8vJOB/qMqAjVYRDpB8PU+RterkzhUkEW1tj4pQXjG6qPYkqTj0=;PhnXeDf4Wry3T6iCdrVDsQ=="
+secured: "mHvSPJqA32De2fWNhPneQoOSDoPwmny3MDk8KzfrNqV5Jqvz3H4LjosF5Ya76676ZrYsw1sCwDY2BKnBmd2nKFsJCWJ39YxHY3Mn+c/AgRfNnh7maa3roIxo0QMYC+92QZ1LT5yQVU5cchbK7S2g4WTRbDhQBAy1dLWgCAbobHz1lkdTVVqYha1mMZPzrlbfNbAFWTcRgC8FRDEasl12rYD9wjsmjlRuAfI0FdLy8uMJXaEbzazwHTe7/lKvJp2l7TcT/HNGT+1afz7sDa/JlXf93eqyrjxbpFjGYF6C8tcqyroZe4B54yiYe5g6jz4tYAlZc+Ib3RRmhZc9nFFQr0rO/fA6P1i9WhhUnQWKwUYrtg2CZQBKyj0IREmJWvLeFch4zQIc/VXs6xvEgAh8De1Z94QXL2WG4Ei9gxuQipj2gnYPuoDrr5VC/rdOx71zU09b7x7aJsoIhz73k612QHvLZvLE0v02bnCLOikA6kQCKRi73RCqhWdcxgw24URS8aLXsWNpzsrkld96pelCUA==;XK1787bPS+dup+EaXYznZQ=="
 ---
 

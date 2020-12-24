@@ -42,18 +42,18 @@ related:
   - title: "50-Plus Biggest AWS Announcements From re:Invent 2020"
     excerpt: "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference."
     publishedDateTime: 2020-12-23T19:39:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19"
+    webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020"
     type: article
     provider:
       name: CRN
       domain: crn.com
-    quality: 41
+    quality: 39
     images:
       - url: "https://www.crn.com/resources/0261-106238be6393-16ccc5ad5fc4-1000/aws-sign.jpg"
         width: 609
         height: 456
         isCached: true
 
-secured: "RvjLF9W0vEeWvmtGz0dyoTFa9IFV2znpezTNTdpXOReTDq9mZBFEG2YbYtEz0qtqQYSn9v66ko6/zTx88EBC8igI9d1Iy6qU767Et9SKdhNZWQLvZ+Bzuem4RoW3akHdxHM2IPaV5GahhHoa2su5Hv8x0a8w8PQ+D6dpkvNKfP5MZjNwWCDYetcSIY3LUyVsiq//OICg+mX3nVioe6/FidDbq6boiZ8qSct1TZTp37e2tGK6R0j7t4+6diQyPUB4h6zjZ4Nk2z97wG56uS0v+PNamscQZxOYgAMfdmgyw6HAU8uYifUExf3V8TwshhuJ0HRjYOONvkk2e7pOF8EM0oVgxAvPmnNnWGLmMiX9Yuw=;7SJnKX+ZPiJyHl/qXFbLgQ=="
+secured: "X/ekDxNsJWRMxNR683hlYY92ZMcwjdaGUHm8ENh1lo0IXIi6BS2pM1ZV/Syg3eVKIHvoBuzmhDtcpZQR6k+KoIAeqnz1EpTMqX7Z9IPyGk7r0gUWHoE9SdpILhuZ9Xe4wnXBA6Hkv5V2P/rAKfuLS3SIOIJIIC2j0cqwpS1roQI/H8Yr6RdWYEGybprDmFoQPG3WcmgtZlgYxKsyYTJo8TOX4BQXTyPgZZUee75jZaF5sYD4h1seE7p6brxeQwzS2aDW4tjSUEUiRTajvWltlInZRQ5d+Ox/9QMrTTy9UW4fw63+nnz5abPirhj1PW8OrKbHa7dhqNOZ5br6+eLB6YiNgTiPrjnThFJg1PbBEu0lX7i4hwqK8OUq9Wf87Raz4m5l7RmJ73d7011mmptsnRwCy2uaV8iOGYoS/UNraapglei2cBKHcMj8Qd2YAPpmir9TeoQ+WwWOjngviDzHSbs7fU1I+HSIbiro90NxvMgPl9otTilnwcN4+5+NSWpAJLRPZIXvxanctM99DSQr6g==;tz6dAZ/x7SvgvMlIzM1HOQ=="
 ---
 

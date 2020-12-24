@@ -2,6 +2,117 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-09-global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-2280.md",
+      "title": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200-Day Moving Average of $22.80",
+      "excerpt": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) passed above its 200-day moving average during trading on Tuesday . The stock has a 200-day moving average of $22.80 and traded as high as $26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
+      "publishedDateTime": "2020-12-09T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution.md",
+      "title": "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution",
+      "excerpt": "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-thomson-reuters-taps-aws-to-power-digital-transformation.md",
+      "title": "Thomson Reuters Taps AWS to Power Digital Transformation",
+      "excerpt": "(NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of business information services, has successfully completed a large scale migration to AWS – a critical part of their digital transformation strategy – which will enable the company to innovate faster,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/thomson-reuters-taps-aws-to-power-digital-transformation/",
+      "originalUrl": "https://www.financialbuzz.com/thomson-reuters-taps-aws-to-power-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-02-higher.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.2% Higher",
       "excerpt": "Shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) traded up 0.2% during mid-day trading on Tuesday . The stock traded as high as $48.63 and last traded at $48.55. 27,",
@@ -1021,153 +1132,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project.md",
-      "title": "Apple leak claims AI boss now leading Titan self-driving car project",
-      "excerpt": "Apple’s Project Titan, the codename for the autonomous driving division we’ve been hearing about for years, recently underwent a big change in leadership, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/",
-      "originalUrl": "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/apple_logo_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/amp/",
-      "publishedDateTime": "2020-12-08T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud.md",
-      "title": "Intel & Consilient Join Forces to Use Federated Learning to Fight Financial Fraud",
-      "excerpt": "Consilient, a newly formed company dedicated to establishing a next-generation system for anti-money laundering and countering the financing of terrorism (AML/CFT), launched a new secure, federated learning platform powered by Intel® Software Guard Extensions (Intel® SGX).",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud/",
-      "originalUrl": "https://www.unite.ai/intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/consilients-federated-learning-framework.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims.md",
-      "title": "Huawei Tested Facial Recognition System That Identifies Uighurs, Report Claims",
-      "excerpt": "Human rights groups say the Chinese government has deployed a network of invasive surveillance technologies to track the Muslim ethnic group in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims/",
-      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcfef0de1a692d0d7afa0fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D244%26cropY2%3D3754",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

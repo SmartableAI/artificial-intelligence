@@ -63,6 +63,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "California grants first permit for commercial use of self-driving cars to Nuro"
+    excerpt: "California-based robotics company Nuro can start using its self-driving cars for commercial use on some streets near its Bay Area headquarters after receiving a permit from the California ..."
+    publishedDateTime: 2020-12-24T17:26:00Z
+    webUrl: "https://thehill.com/policy/technology/531592-california-grants-first-permit-for-commercial-use-of-self-driving-cars-to"
+    ampWebUrl: "https://thehill.com/policy/technology/531592-california-grants-first-permit-for-commercial-use-of-self-driving-cars-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/531592-california-grants-first-permit-for-commercial-use-of-self-driving-cars-to?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 40
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/traffic.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
     excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
     publishedDateTime: 2020-12-23T22:12:00Z

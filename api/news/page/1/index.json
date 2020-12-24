@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime.md",
+      "title": "Why AI and security pros need to work together to fight cybercrime",
+      "excerpt": "Cybercriminals sometimes use AI to their benefit. In order to defeat these cyber bad guys, security pros and AI should focus on what they do best.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "originalUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/01/21590d4d-6013-4049-b3b1-d972e3d73979/resize/1200x/7b9a22c91ecb9318663b276bd819b0b0/ai-ml-2.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "publishedDateTime": "2020-12-24T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day.md",
+      "title": "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day",
+      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
+      "publishedDateTime": "2020-12-24T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
       "title": "Robotics company gets OK to charge money for self-driving services",
       "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
@@ -10,7 +97,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -54,7 +141,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -94,7 +181,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1158,100 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas.md",
-      "title": "AI-driven energy startup Octopus hits $2Bn mark after $200M investment from Tokyo Gas",
-      "excerpt": "Octopus will now launch as a brand in Japan with its trademark 100% renewable electricity operation which uses an innovative AI and data-based platform to balance loads around the grid.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/",
-      "originalUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/octopus-energy-Jackson.jpg?w=650",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/amp/",
-      "publishedDateTime": "2020-12-23T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-stays-out-of-schools.md",
-      "title": "Why Biden nominee Miguel Cardona should make sure facial recognition stays out of schools",
-      "excerpt": "The man Biden intends to nominate to lead the Education Department cares deeply about racial and class inequality. This is one way to show it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_52/3437707/201222-miguel-cardona-illo-2x1-jm-1057_5a1c83eb5d2179f470c9ab925385d35f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1252139",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1252139",
-      "publishedDateTime": "2020-12-23T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

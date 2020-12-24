@@ -9,7 +9,7 @@ ampWebUrl: "https://dunyanews.tv/amp/english/579822.php"
 cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php"
 type: article
 quality: 76
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/9d7aa3e/2147483647/strip/true/crop/507x338+47+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2Ff0%2Fe445847443dd95667c40214f4eca%2F1-8sy60adipovneysfuydeiq.gif"
         width: 600
         height: 338
+        isCached: true
+  - title: "California grants first permit for commercial use of self-driving cars to Nuro"
+    excerpt: "California-based robotics company Nuro can start using its self-driving cars for commercial use on some streets near its Bay Area headquarters after receiving a permit from the California ..."
+    publishedDateTime: 2020-12-24T17:26:00Z
+    webUrl: "https://thehill.com/policy/technology/531592-california-grants-first-permit-for-commercial-use-of-self-driving-cars-to"
+    ampWebUrl: "https://thehill.com/policy/technology/531592-california-grants-first-permit-for-commercial-use-of-self-driving-cars-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/531592-california-grants-first-permit-for-commercial-use-of-self-driving-cars-to?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 40
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/traffic.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
     excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
