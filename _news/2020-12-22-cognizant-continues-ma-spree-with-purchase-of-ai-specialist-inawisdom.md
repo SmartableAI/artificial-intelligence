@@ -41,6 +41,15 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
+    excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+    publishedDateTime: 2020-12-21T10:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Cognizant acquires Inawisdom to modernise data with AI, ML"
     excerpt: "Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum."
     publishedDateTime: 2020-12-21T12:48:00Z
@@ -52,15 +61,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-    excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
-    publishedDateTime: 2020-12-21T10:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 53
   - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
     excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"
     publishedDateTime: 2020-12-21T15:22:00Z

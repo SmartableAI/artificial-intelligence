@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-15-roblox-acquires-loomai-for-realistic-avatars-and-delays-ipo-to-2021.md",
+      "title": "Roblox acquires Loom.ai for realistic avatars and delays IPO to 2021",
+      "excerpt": "Roblox has acquired Loom.ai for an undisclosed price to enable its users to create realistic 3D avatars. Roblox also delayed its IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
+      "originalUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ready-Player-Two-Roblox-Event.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
+      "publishedDateTime": "2020-12-14T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-big-brother-in-disguise-the-rise-of-a-new-technological-world-order.md",
       "title": "Big Brother in Disguise: The Rise of a New, Technological World Order",
       "excerpt": "You had to live—did live, from habit that became instinct—in the assumption that every sound you made was overheard, and, except in darkness, every movement scrutinized.”—George Orwell, 1984 It had the potential for disaster.",
@@ -1182,49 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan.md",
-      "title": "10 years on, missing boy re-united with family by face recognition tool DARPAN",
-      "excerpt": "The boy from Madhya Pradesh was found at a children's home in Howrah, West Bengal, a press release said here. He went missing on October 7, 2010 from",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/articleshow/79722468.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/articleshow/79722468.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79645643,width-242,height-136/79645643.jpg",
-          "width": 3872,
-          "height": 2583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms",
-      "publishedDateTime": "2020-12-14T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

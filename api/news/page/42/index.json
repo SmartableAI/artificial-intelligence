@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-11-20-afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains.md",
+      "title": "Afresh raises $13 million for AI that optimizes grocery supply chains",
+      "excerpt": "Afresh, a startup developing an AI platform that optimizes grocery supply chains, has raised $13 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/",
+      "originalUrl": "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Store2-e1605763831945.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/",
+      "publishedDateTime": "2020-11-19T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers.md",
       "title": "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers",
       "excerpt": "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic.",
@@ -1130,49 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
-      "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
-      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

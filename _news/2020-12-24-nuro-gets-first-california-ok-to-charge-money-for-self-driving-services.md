@@ -2,11 +2,11 @@
 category: news
 title: "Nuro gets first California OK to charge money for self-driving services"
 excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
-publishedDateTime: 2020-12-24T02:01:00Z
-originalUrl: "https://www.reuters.com/article/idCAKBN28X2IR-OCATC?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/idCAKBN28X2IR-OCATC?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
+publishedDateTime: 2020-12-24T02:45:00Z
+originalUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
+webUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X2IR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X2IR"
 type: article
 quality: 74
 heat: -1
@@ -87,6 +87,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nQ0sLy+01QdQj0uQjmIwHIF7iRPr9avTZplFLCqQRdFV8ORDoCnTF5wVuGIwnwt3HItTag48MV1cJv8v8OriN/onbliZT2QE6SIaHdCfWYQP6DNmZEfzTJ1Sx//oZWwEUTWdpsqycvMqyfbTcGBGUtRpCaG7bSzE00xbD+4F+SmDEWvIbfklyk+UBJJ/STKiClb79f6qD1A5DUvLx5+sZHEKy+FiU7irkOUBebcc2m6jQ3M33sK4GMdS6mtmyRgXsT04ckEVDL6lVWjHMYyBaEJdp4UcakQ13D/f1dr3tmZiaMJe7Ss3KzEQL9sHLYgWx3X2ZTCIfUv4U8xxo92UmTdtQllTAxlEZ9gJxhaXKDQ=;tm4bWnC/oJ03Vufrp4I/tA=="
+secured: "P3LQdhwPvZk+9KucYJC/IOU8HFgkO7QAsPsDf5nNA+bLBplHrdj2JngPct1rWUZCkVLybg1CNiIe3EkFGPo3D0ZbBXzVWGd5DIMYyI80+IqTG+Tf5XIlhXV4r37eeWg4VLvsZEKuaw1qYZcSkgphB6bnuZoh7hAqI99ogDHPwl9jyjpsC6hoxrmOP06PfGpWy5OZeOfZFNvbwCunx3qEu6vw5MYpIf11BA5haNJqyujL1N5dc2Yqhg1ziLcHZ3vu/EIeOt2LkR++jI5p7O1xZsYLO5Z4dH6Z2N9Lix9UzXHfyI3pj3ROEAukBBOQbwbAFeC/Yvawi+s+x47J89QwfzjU/a/G8C6vntARVFE58zw=;cvqZjHqIoT4RnijMhUECIQ=="
 ---
 

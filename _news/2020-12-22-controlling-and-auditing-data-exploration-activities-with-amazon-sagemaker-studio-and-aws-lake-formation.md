@@ -43,20 +43,6 @@ related:
         width: 277
         height: 256
         isCached: true
-  - title: "AWS Announces Amazon SageMaker Edge Manager"
-    excerpt: "AWS announced a new capability of SageMaker called Amazon SageMaker Edge Manager. This new capability in SageMaker makes it easy for customers to prepare, run, monitor, and update machine learning models on fleets of edge devices such as smart cameras,"
-    publishedDateTime: 2020-12-19T15:23:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-edge-manager/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/12/amazon-sagemaker-edge-manager/en/headerimage/croppted-Amazon+SageMaker+Edge+Manager-1608126225867.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VSilQKR188YtgDR34VomAs4F6onrFvFyaPNtLkJIQK1TbXomT6sTjmAqj8WkSlzD0shk5CRPEFsmTYeijramXCJaUnZryzzCzHuVPwJIClziP9dfT5JKadlbQirRcvN4bi7Qyzs+G1srPHnilwxR2NN3tWGXScMKhZvJmbWoCRoeUiEg/BwC5/15y/jJd01ZbGGYuGKBfRZJTQ7WFg8g4/0xot1NObP5at6Yr/PDUcCncchSrygYPl5rtasgjshd7nNKNP5uNIFkh7IzUk0rxABqxZ7MtYUt4MqLWr2nryoDIDMMkaDS2zqR3ulPsmq7RXE3XJQbFlcJKCDKAuD9q4hAqGi68y37bcHUQ6kZ8AY=;PHXUaGINHScQOLN7KmRjhw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-21T10:00:00Z
 originalUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
 webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
 type: article
-quality: 53
+quality: 57
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
+  - AI in Finance
 
 related:
   - title: "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom"

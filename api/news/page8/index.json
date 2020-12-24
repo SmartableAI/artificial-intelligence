@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-15-why-do-many-self-driving-cars-look-like-toasters-on-wheels.md",
+      "title": "Why Do Many Self-Driving Cars Look Like Toasters on Wheels?",
+      "excerpt": "Without any need for steering wheels or pedals, the cubes give passengers room to maneuver inside. The latest entrant, from Zoox, can hold 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
+      "originalUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd7a8484c7927c6dddd2eba/master/pass/Business-Zoox-Autonomous-Vehicle.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
+      "publishedDateTime": "2020-12-15T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-artificial-intelligence-may-be-the-defining-technology-of-our-times.md",
       "title": "Artificial Intelligence May be the \"Defining Technology of Our Times\"",
       "excerpt": "Artificial intelligence is reshaping our environment, finding use in healthcare, customer service, data analytics, autonomous driving, and many other industries. JP Morgan analysts believe the market could grow to $58 billion by 2021.",
@@ -1146,57 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-roblox-acquires-loomai-for-realistic-avatars-and-delays-ipo-to-2021.md",
-      "title": "Roblox acquires Loom.ai for realistic avatars and delays IPO to 2021",
-      "excerpt": "Roblox has acquired Loom.ai for an undisclosed price to enable its users to create realistic 3D avatars. Roblox also delayed its IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ready-Player-Two-Roblox-Event.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
-      "publishedDateTime": "2020-12-14T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

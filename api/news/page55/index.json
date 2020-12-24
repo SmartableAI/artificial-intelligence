@@ -2,6 +2,57 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-11-13-ultimate-python-and-ai-certification-bundle-discounted-97.md",
+      "title": "Ultimate Python and AI certification bundle discounted 97%",
+      "excerpt": "This bundle includes courses on AI in Python, data wrangling and visualization, a Keras boot camp, an introduction to Python, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "originalUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/27/e9daa63b-a3ce-43fb-b035-5f07df27d40a/resize/1200x/38106f4b0c3857ab2f1a06bbdd779cad/sarinyapinngam.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "publishedDateTime": "2020-11-12T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-bickey-russell-finds-inspiration-from-his-native-bangladesh.md",
       "title": "Bickey Russell finds inspiration from his native Bangladesh",
       "excerpt": "Welcome to the latest edition of “My Path to Google,” where we talk to Googlers, interns and alumni about how they got to Google, what their roles are like and even some tips on how to prepare for interviews.Having spent his childhood between London, Milan and Dhaka, Bangladesh, Bickey Russell began",
@@ -1160,58 +1211,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
-      "title": "Databricks launches SQL Analytics",
-      "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "originalUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/fa46ec20-a94a-473e-b79f-68241df6be90/sql-editor-with-query.png",
-          "width": 3838,
-          "height": 2004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "publishedDateTime": "2020-11-11T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

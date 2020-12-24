@@ -2,6 +2,57 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-11-18-google-has-created-an-ai-powered-nightmare-creature-generator.md",
+      "title": "Google has created an AI-powered nightmare creature generator",
+      "excerpt": "Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
+      "originalUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/TC-beast.jpg?w=1024",
+          "width": 1024,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
+      "publishedDateTime": "2020-11-17T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-incorporating-your-enterprise-knowledge-graph-into-amazon-kendra.md",
       "title": "Incorporating your enterprise knowledge graph into Amazon Kendra",
       "excerpt": "For many organizations, consolidating information assets and making them available to employees when needed remains a challenge. Commonly used technology like spreadsheets, relational databases, and NoSQL databases exacerbate this issue by creating more and more unconnected, unstructured data. Knowledge",
@@ -1096,49 +1147,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-blackberry-qnx-to-power-plus-self-driving-trucks.md",
-      "title": "BlackBerry QNX to power Plus self-driving trucks",
-      "excerpt": "Plus have now announced they will be the first automated truck developer to make use of BlackBerry QNX for their next-generation self-driving systems. Plus will license the BlackBerry QNX OS for Safety software for their Class 8 trucks which are expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
-      "originalUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://crackberry.com/sites/crackberry.com/files/styles/large/public/article_images/2020/11/plus_automated_trucks_blackberry_safety_security-16.jpg",
-          "width": 903,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
-      "cdnAmpWebUrl": "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
-      "publishedDateTime": "2020-11-17T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CrackBerry.com",
-        "domain": "crackberry.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

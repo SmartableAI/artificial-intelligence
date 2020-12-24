@@ -33,10 +33,10 @@ images:
 related:
   - title: "Nuro gets first California OK to charge money for self-driving services"
     excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
-    publishedDateTime: 2020-12-24T02:01:00Z
-    webUrl: "https://www.reuters.com/article/idCAKBN28X2IR-OCATC?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
+    publishedDateTime: 2020-12-24T02:45:00Z
+    webUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X2IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X2IR"
     type: article
     provider:
       name: Reuters

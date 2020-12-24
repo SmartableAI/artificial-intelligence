@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-12-07-what-to-consider-when-using-bert-and-gpt-models-for-nlp.md",
+      "title": "What to consider when using BERT and GPT models for NLP",
+      "excerpt": "Last time on the NLP blog series, we explored how BERT and GPT models change the game for NLP. BERT and GPT models have a lot of exciting potential applications, such as natural language generation (NLG) (useful for automating communication, report writing, summarizations), conversational assistant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-1-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T10:18:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-apples-2021-chip-strategy-will-create-a-massively-parallel-universe.md",
       "title": "Apple’s 2021 chip strategy will create a massively parallel universe",
       "excerpt": "Apple's Macs will soon march into data centers, equipped with multi-core CPU, GPU, and AI capabilities in tiny, power-efficient form factors.",
@@ -1168,49 +1220,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-allcloud-announces-strategic-collaboration-agreement-with-aws.md",
-      "title": "AllCloud Announces Strategic Collaboration Agreement with AWS",
-      "excerpt": "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -45,7 +45,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 53
+    quality: 57
   - title: "Cognizant continues M&A spree with purchase of AI specialist Inawisdom"
     excerpt: "Cognizant Technology Solutions Corp has acquired Inawisdom Ltd, a United Kingdom-based privately held firm that uses frontier"
     publishedDateTime: 2020-12-22T07:28:00Z

@@ -2,6 +2,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-24-3-ai-stocks-to-snap-up-for-explosive-returns-in-2021.md",
+      "title": "3 AI Stocks to Snap Up for Explosive Returns in 2021",
+      "excerpt": "In 2019, the company acquired software and hardware startup, FWDNXT in a bid to deliver high ... on democratization of AI by development of conversational AI, ML, data sciences, robotics, and IoT. Moreover, Microsoft’s Azure contains AI-driven tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23",
+      "originalUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp",
+      "publishedDateTime": "2020-12-23T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft.md",
       "title": "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft",
       "excerpt": "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,",
@@ -335,10 +371,10 @@
     {
       "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
       "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
-      "excerpt": "Microsoft is bringing together Azure, analytics, collaboration and gaming technologies to build out a 'serious gaming initiative' for military and commercial customers.",
+      "excerpt": "Another way the Softies describe the mission of the Studio Alpha team is that it's creating a wargaming and simulation platform for Azure decision making that is data-driven, AI-driven and tech-driven. Microsoft's first public customer (or \"partner,\" if ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "webUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -355,9 +391,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
-      "publishedDateTime": "2020-12-15T11:13:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "publishedDateTime": "2020-12-15T13:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1397,58 +1433,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients.md",
-      "title": "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients",
-      "excerpt": "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/",
-      "originalUrl": "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T09:00:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
