@@ -219,6 +219,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NY becomes first state to put moratorium on facial recognition technology in schools"
+    excerpt: "ROCHESTER, N.Y. (WHEC)— New York State has become the first state to temporarily ban the use of facial recognition systems in schools. Governor Cuomo signed the measure into law Wednesday as part of a group of bills the governor signed off on ..."
+    publishedDateTime: 2020-12-24T11:54:00Z
+    webUrl: "https://www.whec.com/news/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools/5959961/"
+    ampWebUrl: "https://amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html"
+    cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html"
+    type: article
+    provider:
+      name: WHEC
+      domain: whec.com
+    quality: 52
+    images:
+      - url: "https://www.whec.com/whecimages/repository/2020-12/NY_becomes_first_state_to_put_moratorium_on_facial_recognition_technology_in_schools-syndImport-055157.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
     publishedDateTime: 2020-12-23T14:24:00Z

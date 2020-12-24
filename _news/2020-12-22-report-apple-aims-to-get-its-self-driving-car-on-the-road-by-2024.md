@@ -261,6 +261,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
+    excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"
+    publishedDateTime: 2020-12-24T12:33:00Z
+    webUrl: "https://www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/"
+    ampWebUrl: "https://www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/amp/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 34
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/12/VP-COMP-APPLE-CAR.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Top-ranked analyst Toni Sacconaghi on Apple getting into self-driving cars"
     excerpt: "The world's most valuable company is getting even bigger. Apple's stock is extending its big run this week on a report that it's hoping to start producing a passenger vehicle by 2024. Tim Higgins, reporter at the Wall Street Journal,"
     publishedDateTime: 2020-12-23T13:52:00Z

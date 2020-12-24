@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Nuro gets first California OK to charge money for self-driving services"
-excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
-publishedDateTime: 2020-12-24T02:45:00Z
-originalUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
-webUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X2IR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X2IR"
+excerpt: "(Reuters) - Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service. Relying on a remote human ..."
+publishedDateTime: 2020-12-24T10:44:00Z
+originalUrl: "https://www.reuters.com/article/us-nuro-california-idUKKBN28X2IR"
+webUrl: "https://www.reuters.com/article/us-nuro-california-idUKKBN28X2IR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X2IR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X2IR"
 type: article
 quality: 74
 heat: -1
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/1_9IoN3j6ndt5nxBKUJZWqbA-e1575988061611.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Nuro gets permit to start commercial self-driving deliveries in California"
+    excerpt: "Almost three years after revealing its autonomous delivery vehicle, robotics startup Nuro has been given the green light for commercial operations in California. Initially, service needs will be met by fully autonomous Prius vehicles,"
+    publishedDateTime: 2020-12-24T11:52:00Z
+    webUrl: "https://newatlas.com/automotive/nuro-commercial-autonomous-delivery-california/"
+    ampWebUrl: "https://newatlas.com/automotive/nuro-commercial-autonomous-delivery-california/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/nuro-commercial-autonomous-delivery-california/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 72
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/9d7aa3e/2147483647/strip/true/crop/507x338+47+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2Ff0%2Fe445847443dd95667c40214f4eca%2F1-8sy60adipovneysfuydeiq.gif"
+        width: 600
+        height: 338
         isCached: true
   - title: "Self-driving delivery unicorn Nuro picks up S.F. freight startup"
     excerpt: "About six weeks after scoring $500 million in new funding, self-driving local delivery unicorn Nuro Inc. has acquired Ike Robotics Inc., a San Francisco startup that focuses on autonomous freight hauling. The price that Mountain View-based Nuro ..."
@@ -87,6 +103,6 @@ related:
         height: 600
         isCached: true
 
-secured: "P3LQdhwPvZk+9KucYJC/IOU8HFgkO7QAsPsDf5nNA+bLBplHrdj2JngPct1rWUZCkVLybg1CNiIe3EkFGPo3D0ZbBXzVWGd5DIMYyI80+IqTG+Tf5XIlhXV4r37eeWg4VLvsZEKuaw1qYZcSkgphB6bnuZoh7hAqI99ogDHPwl9jyjpsC6hoxrmOP06PfGpWy5OZeOfZFNvbwCunx3qEu6vw5MYpIf11BA5haNJqyujL1N5dc2Yqhg1ziLcHZ3vu/EIeOt2LkR++jI5p7O1xZsYLO5Z4dH6Z2N9Lix9UzXHfyI3pj3ROEAukBBOQbwbAFeC/Yvawi+s+x47J89QwfzjU/a/G8C6vntARVFE58zw=;cvqZjHqIoT4RnijMhUECIQ=="
+secured: "pkSWKelXitmSf1yI9BKA4rxHROnFwvx0kHNunqymYFA70GMhqWyPwRuQqSHHgOJXHzSA7qeVDkLq9lRTY+lM/9Sa1CQx5OQSBfnN8EFbuahrSAU/jzWUJLcqugaPqHqKRVXrlwWJElNtPgu0yvynRo2y7oPZW5Cjcva0WyFtTexzxlT2U+mQ3QUIAgDLHHy0vwb2CR+8TdezEQRsyn5uVNh+Mz9HGIQWvUUZem0hL8Taxt55RbzqLT3ZeI8DJb7UIqFExO1BEfkpxKQ01HEVWiKre/x4+WaY4ScxEsScYDi+y5GmCwswXI0+8mKCgmvmKLKgjzDLPPDASXU+/Mmb9ISWZUHu4UC5ikLY3Yl6h/0=;y4I/wI/6ok3VmPmAlJnu9A=="
 ---
 

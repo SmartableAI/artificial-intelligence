@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-    excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
-    publishedDateTime: 2020-12-21T10:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
   - title: "Cognizant acquires Inawisdom to modernise data with AI, ML"
     excerpt: "Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum."
     publishedDateTime: 2020-12-21T12:48:00Z
@@ -48,6 +39,15 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
+    excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+    publishedDateTime: 2020-12-21T10:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
   - title: "Cognizant continues M&A spree with purchase of AI specialist Inawisdom"
     excerpt: "Cognizant Technology Solutions Corp has acquired Inawisdom Ltd, a United Kingdom-based privately held firm that uses frontier"
     publishedDateTime: 2020-12-22T07:28:00Z

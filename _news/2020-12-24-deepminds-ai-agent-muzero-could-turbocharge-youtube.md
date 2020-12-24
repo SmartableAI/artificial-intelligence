@@ -2,27 +2,23 @@
 category: news
 title: "DeepMind's AI agent MuZero could turbocharge YouTube"
 excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
-publishedDateTime: 2020-12-23T16:09:00Z
-originalUrl: "https://www.bbc.com/news/technology-55403473"
-webUrl: "https://www.bbc.com/news/technology-55403473"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-55403473"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55403473"
+publishedDateTime: 2020-12-23T16:00:00Z
+originalUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+webUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55403473"
 type: article
-quality: 104
+quality: 74
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9AB/production/_116213574_deepm.jpg"
@@ -186,6 +182,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "iYdu4wgxh+h+KQhfSJ+JUlkdt+YFlsziQXBiccuOsWE5XmZ9MrdrOwKiy9VUwZ2+AchQ6CThzsLo+1GzCLeJHRRLMaMYVlk4o+SWJH3Flmrq7LM0NEV9b60bN6scEKtILIagHrJOjEm6JhFJq028AxDfa0HLKW1Q0iHvcoFI/OTCM8Y9LtfHWbkiqhCIXOZR57YpaJ9O8DD49zjIJhwe1iXyo88NpIM1oUHE7VOWnwNhwjgHkVSmHC+1YbPIdulbfgUjReWf5jYV/MCyOuQQeoEZor928qfBrhZQ2Eh5S1AYNTVylwiWaM1p1tOFH34xwz1Rygxglvof8i2gETFC/bVG1B4lS5eKAq5ptjifON4/4B0CfP/Ve66yQ9O0uRLneKk01JXjz6jzowxW1w6X6uzLombnhgPoTO60Nv7oeJpGQW1eML8qwyV3IMNu0c+wT8ebhm63V9slWMkxWajCkldicQo0QRmFhT1O4T1F3jqQrMgsnZ8KBGBnX3XYkjVXgIkY6ZY1OCwXVop4I4EksA==;XkKrVRPaEL5kdMgFCmDPag=="
+secured: "QzMjKahLQghjAtxaqlXnxR8Xi7Zl9bUqCheE8LQdlsyiqrjaX8rEum7L1sGzKi+GOyBYNMVCLpUeSzsOXx9YGT3RwQO2iZ/Tb7Orq14kgSeyZvn7c6pdp9vLYaUFmOIJbdgMPDQt7yF+IBRd/8W9mup4uws8qVQbk+EpSpEhA7Eexmy8nw1DIYww7C+LpuDjGib0tGR2cMTlj/yCGWzZsPmJto4zyS/miFDv/sIVuLkTBGN6y+ibWZrWPgZ5NRLimbxnI8aJdzWW2UxFDLDVjSmSRP6OLeQTbRnhxdZOwTldXvocSg+q/o+fMHxKMqDBGJFt8Nz0pzkFls8TGmT0Pq/erZ1Sdd1peOqyG7HbK9A=;/JLvAa3bLBFkNAn5sueaWg=="
 ---
 

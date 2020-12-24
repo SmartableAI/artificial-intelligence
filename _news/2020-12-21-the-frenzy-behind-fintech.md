@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "(Source: bkeconomy) Fintech Service Provider Leapstack Secures B+ Round Financing ... Established in 2016, Leapstack is an AI-focused Insurtech, aiming to offer a risk-control solution for insurers and insurance brokers. At present, Leapstack has ..."
-    publishedDateTime: 2020-12-19T23:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
+  - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020"
+    excerpt: "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop"
+    publishedDateTime: 2020-12-24T12:00:00Z
+    webUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/12/Jiming-Temple-Nanjing-China-kenneth-yang-unsplash-600x535.jpg"
-        width: 600
-        height: 535
+      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_1digital-banking-2021_122220-568x322.jpg"
+        width: 660
+        height: 336
+        isCached: true
+  - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
+    excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"
+    publishedDateTime: 2020-12-23T18:29:00Z
+    webUrl: "https://www.investmentnews.com/adoption-the-next-innovation-forecasting-fintech-2021-beyond-200508"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 23
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/12/tech-staffers-around-computer_opt.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
     excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
@@ -59,6 +73,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "FinTech 2021: 20 Articles for FinTech Experts"
+    excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."
+    publishedDateTime: 2020-12-23T17:51:00Z
+    webUrl: "https://www.finextra.com/blogposting/19700/fintech-2021-20-articles-for-fintech-experts"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "XfgcLKSQoEH52dz/uD6hXlQ7FNvZNFipGaNPsquFtD1EzVAsIwfmo2VqvClrVtL9rnavjnnv+h+zGhT5Qg2hieyZ2qTmfSNUgAyBHs1MDuKFMpi2YOWA8lbRQw2+zkoOtC898WFG/fsFi62EvY0XAzFq1TmfWqjvLKd0osgws3esrWGAkU+DGKnwCVce+jYzgBNk8b93nWCkhzCb/rb8x91NAQDuKvamWfX7ZqkptIo6xJm6REa+MdLwJj8VlBYfHWGlq0IBkOkjvlxMfIXhCPjnNafKE+eCIHZqK6V5fJpw0mVh5Ow2n+MtKoGg5nzBhHOjMX2a9kX9rRMGBBZj7HhdL30EWqkvv7WrwtKKibE=;xyB6naNe6fUqqby03dE28g=="
 ---

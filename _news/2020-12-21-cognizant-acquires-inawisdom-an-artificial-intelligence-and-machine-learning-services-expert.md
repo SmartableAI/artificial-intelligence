@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-21T10:00:00Z
 originalUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
 webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
 type: article
-quality: 57
+quality: 53
 heat: -1
 published: false
 
@@ -17,8 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - AWS AI
-  - AI in Finance
 
 related:
   - title: "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom"
@@ -72,6 +70,6 @@ related:
       domain: channelweb.co.uk
     quality: 19
 
-secured: "jqFF5iMj1W4PzHEtGt4sAB25FO/Dl/5cYLdmxKqJhxqBYRANp/8K7TmYUdQP/bfdyqWosXkQ1uXiK7wRE1iE9Ch+1JTWCdsf68CnrLUj0hkAx8tYgj3yJuSYxuHpcudltW0w+g/iQ7hX9hm30IHjhHpjHTqVOefph/moY+NMgR8hgZ6n/V9vbWK3SUS+DeFa51rQdygw0lzuoqXDkEAau6fSlJwqtSodp3SqWXSnATkUpjBQYv7G5m8v/j7CMVY9dko2f1cs+ob0cxU1cDxFKzloT29a2ra5MUVcz7Zb88YfhGaWwNIb2KA5jzHMVO8u0ZvPIkU2LnCopMjM0hgXMgQQA9kva+5ra885BLkVQIY=;fkWUlfyOhm/LrTCqhMgSyA=="
+secured: "C5FR6kdhD+WQz+M6zx00rUIGWq1wM+rqGrXYPObatx18NGwy0U+og40UEtNKyLmpbr8bmOEJz0qwfbrUlBbOKWLhUahF2xWcid0dllYzjHcF1GavYDri3Nf2Q65wcS5dkmpm20+Id3zFDwBGeNJdSJH5VtHZxoZxnZq3i5wsVyCFOL3PbweB69XX+Eoo203D4FfLYA7TlLf0cnaCUTWLEaIftjx4iReQruEFVcc19zDogRhSMO5zDD3KGmKzVf9tlqrYW1gsR6h8aumSvq2DYB+rijaJWp1b19r6kLdxKTxEwWIewMVpoyGwr/WoZDrYdscrOmRYVckGP72Zjk/5Ley2tO2pLbh8D61CpPt89/o=;hYWo7HxjSZ0zVXAhKxkxgw=="
 ---
 

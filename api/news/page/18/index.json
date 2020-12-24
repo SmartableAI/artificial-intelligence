@@ -2,6 +2,59 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-08-exploring-azure-spatial-analysis-containers.md",
+      "title": "Exploring Azure Spatial Analysis containers",
+      "excerpt": "Azure’s Cognitive Services are a quick and easy way to add machine learning to many different types of applications. Available as REST APIs, they can be quickly hooked into your code using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.html",
+      "originalUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/rackspace-article-1200x800-100832023-large.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600193/exploring-azure-spatial-analysis-containers.amp.html",
+      "publishedDateTime": "2020-12-08T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-doordash-ipo-how-to-get-a-job-in-consulting-ai-in-accounting.md",
       "title": "DoorDash IPO — How to get a job in consulting — AI in accounting",
       "excerpt": "The top finance stories for December 8, including the latest news on how to get a job at FTI Consulting.",
@@ -1111,59 +1164,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-spectrms-conversational-marketing-platform-unlocks-revenue.md",
-      "title": "Spectrm’s conversational marketing platform unlocks revenue",
-      "excerpt": "What makes a conversation good? When a fantastic conversation ends, both parties leave happier and better off for taking the time to chat and learn in the first place. Although these are just a few of the many qualities that make a conversation good,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "originalUrl": "https://www.engadget.com/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F47152950-38b4-11eb-bb7f-22a23816d60e&client=amp-blogside-v2&signature=8e1a71dfc921e937c4190bb9e6e6869807e5d714",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "publishedDateTime": "2020-12-07T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

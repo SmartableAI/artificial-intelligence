@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artific
 webUrl: "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Russian beautician reportedly fights for life after wild dogs tear off her face"
+    excerpt: "A 20-year-old Russian beautician was mauled by a pack of wild dogs that tore off her face, chomped flesh from her limbs and ripped off all her clothes in subfreezing eastern Siberia, according to"
+    publishedDateTime: 2020-12-24T11:57:00Z
+    webUrl: "https://nypost.com/2020/12/24/russian-beautician-fights-for-life-after-wild-dogs-tear-off-her-face-report/"
+    ampWebUrl: "https://nypost.com/2020/12/24/russian-beautician-fights-for-life-after-wild-dogs-tear-off-her-face-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/24/russian-beautician-fights-for-life-after-wild-dogs-tear-off-her-face-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 40
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/russian-dog-attack.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "iAgVvI8OVC5l80Kjywkw5tEu2oGlXHOF82pgqoRNwwKY0Bi1g1rHxyrpiB3edInvcapmXzW5w1DMCsmOCcczIutxiM1YCrIvrRJ6qAegBii2Yr5oHrWNvJGiipYDAND8ITOxp2egCgNep8oGV8Z+li7lvl5mi09pIqbMdED3aowQIzRx7e0VG/y0PAIP6133xS0beuTEnwjJvDECoue14+G6MLorzVAejb7JCYBbr+sVTEIpIAZFdcBtanJPcQrbplD4EN//OE7qyTK5OVRgIp8vtgKPk0R1+yF+kMN8LkIhl/NKTzm1LZLJlbZWEHGUy2dXIpSMkjM4Jtd3xIn5BUwZ4BAn0nJuJhp30djmQCA+d0neOe7/fyswoffeEb94xd5CysIZHb2jzbQ2eOUjMrPuyQyc17EAy6qLD/1Le3hXZGqkD+ZWUULGIy+cKmhATOwi1hXdyXO8z1ObIZ46PlEI4JJ3oWK86edttwjnq7+fj6B78tws4U6kSokAuQddj1mXBylkT4bxcfyUAHZxBA==;T4Y4hYodwZi5ENN5l+6APA=="
 ---

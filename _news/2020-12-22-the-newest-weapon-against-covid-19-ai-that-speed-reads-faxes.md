@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "AI in Education Market Opportunities And Strategies To 2025: COVID-19 Implications and Growth"
+    excerpt: "Dec (Heraldkeepers) -- Artificial intelligence (AI) may be a computer virus to imitate the human intelligence and enhancement of"
+    publishedDateTime: 2020-12-24T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Comparing Google AI and human intelligence for the forecasting of COVID-19"
     excerpt: "Junko Kurita et al. from Japan have compared Google AI forecasting with a statistical model by human intelligence and recently presented it in a preprint medRxiv* paper."
     publishedDateTime: 2020-12-22T10:02:00Z

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "(Source: bkeconomy) Fintech Service Provider Leapstack Secures B+ Round Financing ... Established in 2016, Leapstack is an AI-focused Insurtech, aiming to offer a risk-control solution for insurers and insurance brokers. At present, Leapstack has ..."
-    publishedDateTime: 2020-12-19T23:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170463-china-weiyangx-fintech-review-185/amp/"
+  - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020"
+    excerpt: "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop"
+    publishedDateTime: 2020-12-24T12:00:00Z
+    webUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/12/Jiming-Temple-Nanjing-China-kenneth-yang-unsplash-600x535.jpg"
-        width: 600
-        height: 535
+      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_1digital-banking-2021_122220-568x322.jpg"
+        width: 660
+        height: 336
         isCached: true
   - title: "The frenzy behind fintech"
     excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
@@ -59,6 +59,29 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
+    excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"
+    publishedDateTime: 2020-12-23T18:29:00Z
+    webUrl: "https://www.investmentnews.com/adoption-the-next-innovation-forecasting-fintech-2021-beyond-200508"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 23
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/12/tech-staffers-around-computer_opt.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "FinTech 2021: 20 Articles for FinTech Experts"
+    excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."
+    publishedDateTime: 2020-12-23T17:51:00Z
+    webUrl: "https://www.finextra.com/blogposting/19700/fintech-2021-20-articles-for-fintech-experts"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "JdeYmj3Io2Zv1VTL3F8jszpogUA0IMi8hfONjDSyIXX+aKPPRijMPDDnB+h3CY++xljJVWl+G3fsGBCTkePvq9hHIN8J+0POhUeFVf0+jg2du5Z9PkstnFUl1QB11g5swaTN+pAlumwAGk87UC9MOYSU39t2jM+PiwMAxlnruFliNiD+PaswoBIHR4kgi4G7sgHDc6HDaz4IDEBSZVMbYf69xRpsUciQ0kD2Pbc2+uapFxssSLQH/EyR1rtwfJbc7TcTB1ZzU65xVAmj+b9/+wwN+iCx/ClXXpwxLWWZ1kYHGieUBv0oCzQV435HRg7FcDdpLbdzmw1P9rnjf6aQiFS8dCxdmL7qGqnI5QKOvqzkhVAsGRMys1czbB2J8wYYWYtg4jlbGNIhrB7/iCkQDRajvzSbf1ZcQ33Tx6FOaIHPbB5IzLbRJF+XU0g8qtf2WNyjq1DjC2ObOl9iaNnw3lqSjM1O9/dDdX44e8EyMpvL+p5QQOJkuAXa7ha4zpMb03RmGP6N31Pq6m0+tNj1Eg==;EbwkrdP4uSil7W4iSfAGXg=="
 ---

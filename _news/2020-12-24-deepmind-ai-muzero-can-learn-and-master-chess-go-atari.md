@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "DeepMind's AI agent MuZero could turbocharge YouTube"
-    excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
-    publishedDateTime: 2020-12-23T16:09:00Z
-    webUrl: "https://www.bbc.com/news/technology-55403473"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-55403473"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55403473"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9AB/production/_116213574_deepm.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "DeepMind's latest AI can master games without being told their rules"
     excerpt: "Alphabet's DeepMind came out with AlphaGo, an AI which consistently beat the best human Go players. DeepMind then created AlphaZero, which could play Go, chess and shogi with a single algorithm. DeepMind's latest AI,"
     publishedDateTime: 2020-12-23T16:14:00Z
@@ -140,6 +124,22 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
         width: 1599
         height: 1066
+        isCached: true
+  - title: "DeepMind's AI agent MuZero could turbocharge YouTube"
+    excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
+    publishedDateTime: 2020-12-23T16:00:00Z
+    webUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55403473"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9AB/production/_116213574_deepm.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
     excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."

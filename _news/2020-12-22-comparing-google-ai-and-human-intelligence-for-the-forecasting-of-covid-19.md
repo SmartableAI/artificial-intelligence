@@ -58,6 +58,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "AI in Education Market Opportunities And Strategies To 2025: COVID-19 Implications and Growth"
+    excerpt: "Dec (Heraldkeepers) -- Artificial intelligence (AI) may be a computer virus to imitate the human intelligence and enhancement of"
+    publishedDateTime: 2020-12-24T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "COVID-19 Impact Analysis for Artificial Intelligence and Cognitive Computing Market 2020 | Size, Opportunities & Forecast To 2026 Market.biz"
     excerpt: "Artificial Intelligence and Cognitive Computing Market 2020 Projected to Witness Vigorous Expansion by 2026. The Artificial Intelligence and Cognitive Computing Market research report discussed the current and future trends of the market in both current and emerging markets."
     publishedDateTime: 2020-12-23T11:17:00Z

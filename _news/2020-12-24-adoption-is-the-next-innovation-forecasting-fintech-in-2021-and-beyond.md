@@ -7,7 +7,7 @@ originalUrl: "https://www.investmentnews.com/adoption-the-next-innovation-foreca
 webUrl: "https://www.investmentnews.com/adoption-the-next-innovation-forecasting-fintech-2021-beyond-200508"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Innovators Partner to Turn NLP into Dollars"
-    excerpt: "CHICAGO & SAN FRANCISCO--(BUSINESS WIRE)--Vectorspace AI in partnership with CloudQuant announce the availability of novel datasets that reveal relationships between global equity products. Vectorspace AI datasets are designed to boost precision ..."
-    publishedDateTime: 2020-12-21T11:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201221005087/en/FinTech-Innovators-Partner-to-Turn-NLP-into-Dollars"
+  - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020"
+    excerpt: "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop"
+    publishedDateTime: 2020-12-24T12:00:00Z
+    webUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
-  - title: "Temenos Wins Major Awards at IBS Intelligence Global FinTech Innovation Awards 2020"
-    excerpt: "Varo is the first consumer fintech granted a national bank charter in the US ... Temenos offers cloud-native, cloud-agnostic and AI-driven front office, core banking, payments and fund administration software enabling banks to deliver frictionless ..."
-    publishedDateTime: 2020-12-22T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-financial-technology-cloud-computing-e2eb0063fa544df089d5bb2207eff590"
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_1digital-banking-2021_122220-568x322.jpg"
+        width: 660
+        height: 336
+        isCached: true
+  - title: "The frenzy behind fintech"
+    excerpt: "Open banking and contactless payments are just the tip of the iceberg of the growing Fintech phenomenon. Kirtan Desai, co-founder at BankOnUs, speaks"
+    publishedDateTime: 2020-12-20T21:46:00Z
+    webUrl: "https://www.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    ampWebUrl: "https://amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business-and-technology-review/the-frenzy-behind-fintech"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
+    excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
+    publishedDateTime: 2020-12-21T11:34:00Z
+    webUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech"
+    ampWebUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
     quality: 18
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageus3n-1608548321321.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
+  - title: "FinTech 2021: 20 Articles for FinTech Experts"
+    excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."
+    publishedDateTime: 2020-12-23T17:51:00Z
+    webUrl: "https://www.finextra.com/blogposting/19700/fintech-2021-20-articles-for-fintech-experts"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "4awFEMXiy8mLmmLlhhl1X9fc3j0wBnqEqy9blZvyoFYLVHhO0RWQsmInow7hct1Hc9ee7KDm0FNBZrjphIaTZzOCq1WKZwSPQ11Of5nZ9Jnf8bt5GydwEYIwW8+KKzXglNwUYl+IrZRB5qgXP4DqGaSkh08F5ynCgvXn1n6HzOCrlI4EFVctzPRNEJWberTkDmMncoEvqKAX44jm1bTmse5fUniUx/+X6qqMI4Qkwe1GC+pPp6yUqhGi8YaUBrODKOlL4Flz26lMgoUuiO7hGf2BguCr7CW3fUZbjljF1yCmDtvvCzF/0ZDJWOpeOEmbKOzDKgzzT7eRNrLbWkx9lxFWCdZHPya/GGpMw0pLt1inYL3AiMDCkGcDUW0HhwGi8tsfZ/y4KOVwnEjtksD6x1WsUjrKgMFKgL9mKMBigT57mZcp8GBcIBry7zroTHcJhzUvm62uGD6MCK3SOLysQYfR8a6jn4eF3SMQZpVk3g4JrzxK5rLf56CVHo36IqCEhrqtb3vJ4V1xVY7LFtY74g==;qPRcgrM6uPce6Xkk6GlUxg=="
 ---
