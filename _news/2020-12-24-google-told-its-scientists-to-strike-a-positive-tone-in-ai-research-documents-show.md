@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252240"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252240"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2"
         width: 600
         height: 360
+        isCached: true
+  - title: "Google told its scientists to 'strike a positive tone' in AI research"
+    excerpt: "Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
+    publishedDateTime: 2020-12-23T22:40:00Z
+    webUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
+        width: 1000
+        height: 666
         isCached: true
   - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."

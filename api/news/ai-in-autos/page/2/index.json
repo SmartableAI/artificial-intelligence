@@ -1032,6 +1032,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
+      "title": "Google AI researcher’s exit sparks ethics, bias concerns",
+      "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped ... of problems facing the company heading into the new year. Waymo signs sublease deal for big Silicon Valley expansion Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "originalUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702",
+          "width": 1024,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "publishedDateTime": "2020-12-05T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public.md",
       "title": "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public",
       "excerpt": "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30",
@@ -1410,52 +1454,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning.md",
-      "title": "AWS DeepRacer trains and engages tens of thousands of people on machine learning",
-      "excerpt": "Ever since the launch of Amazon Web Services Inc.’s DeepRacer in 2018, tens of thousands of developers from around the world have been getting hands-on experience with reinforcement learning in the AWS Management Console by building their AWS DeepRacer models and competing in the AWS DeepRacer League for a chance to be crowned the AWS DeepRacer League Champion at Amazon’s yearly re:Invent conference.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Mike-Miller.png",
-          "width": 3762,
-          "height": 2120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T15:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AWS AI",
-        "AI in Finance"
       ]
     }
   ],

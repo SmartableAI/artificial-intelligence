@@ -106,6 +106,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Google told its scientists to 'strike a positive tone' in AI research"
+    excerpt: "Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
+    publishedDateTime: 2020-12-23T22:40:00Z
+    webUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."
     publishedDateTime: 2020-12-23T11:01:00Z
@@ -121,6 +135,6 @@ related:
         height: 567
         isCached: true
 
-secured: "SP69VDHM7lbYFLBkl4h0iBrXEotr5F2HDFyjyNYDvc7JNIjicVc3omyd5g+SAzVY+Typ+xARIEKc54oAocPVQsNfVWhmjTdAzAdT5oTnjWGqRLehenr6+LNrJkzsORIv+8/SVnr3lmGpTEzWB/yjxpdfY/XOCcO0nIWC2wBnF9OtIJR420cw+nXhyyGLBz6/aNobLqoG3MXuYF5YMP0Ov59qTJ13zuav/oURXEX/ojs9IfAQiLACFLICiPs3UBouGekvk9KpCN9zeFujTW54oEJmOlO/4QQeuUabV2GwBr35UePJSI2I0gZb9EYyu5SeCs3zzUpDOE1P9E4E3fh3Ki/+toThtuHkIA7qengVqjs=;mKV+dkINqr+d/TdDZVecvQ=="
+secured: "XSyfmxEWbCabfcVsjvHeVe7LPiQeRsKJkTyl+Wrr2baKbUbUCZlYnCSJBpUZnXheI5G8JKbcUoQCVkAJPv4IkCjq6SJ1X/0N6pMXMSulkoN6JMFGP1Ypfba8/rGXEuqlP5aG2Dp00E/6YuWt3qEbbZFA9oMFiGn/JzGWf/aSUMNQo/FWLb1o+22djFpim+lJnJH968x3d2Eum3ASPv0GRv7UFDmyepYqMgTLQieOT8pPpXFCWf3mnBjHcPTpXjxVrQmFN/pvA3iuqx4cUbnUptODsuhC04sONajw5I7qtYuLaMeJqY4BuhaYbMzOBSv/Z9Y0rL5GVtB0gpeSfXUWgo5xUCS05L69wZ3J6znX3bxY05Dk60jewHtSIjC0naXwTUm02M6k+O6Jx6IionbcDVr1kywoZ5qjcF4Ow+EOgcWuP33KHlcTy8x43lmd027Tc4SiHAYktfhKF0y/mNXXYbuagBAur0cuy8dnyBp1Mh6C25N93rTB+IBWccuWE3mA/jRfwHNHpWbga1Di69JWxQ==;wN0LdQb/TWnYkQ/Mh3E0OQ=="
 ---
 

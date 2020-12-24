@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-ch
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53786/content/hero-muzero-background.jpg"
         width: 708
         height: 398
+        isCached: true
+  - title: "DeepMind’s new MuZero AI develops ‘superhuman’ chess skills by making plans"
+    excerpt: "Google LLC’s DeepMind artificial intelligence research unit today detailed MuZero, a deep learning system that can master Go, chess and other games even if it’s not told the playing rules. MuZero’s impressive game-solving skills stem from its ability to plan what’s the best course of action in a given scenario."
+    publishedDateTime: 2020-12-23T23:22:00Z
+    webUrl: "https://siliconangle.com/2020/12/23/deepminds-new-muzero-ai-develops-superhuman-chess-skills-making-plans/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/deepmind.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
     excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."

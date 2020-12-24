@@ -1,29 +1,27 @@
 ---
 category: news
-title: "DeepMind just taught AI how to win a game without knowing the rules"
-excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
-publishedDateTime: 2020-12-23T21:34:00Z
-originalUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/"
-webUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/"
-ampWebUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
-cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
+title: "DeepMind’s new MuZero AI develops ‘superhuman’ chess skills by making plans"
+excerpt: "Google LLC’s DeepMind artificial intelligence research unit today detailed MuZero, a deep learning system that can master Go, chess and other games even if it’s not told the playing rules. MuZero’s impressive game-solving skills stem from its ability to plan what’s the best course of action in a given scenario."
+publishedDateTime: 2020-12-23T23:22:00Z
+originalUrl: "https://siliconangle.com/2020/12/23/deepminds-new-muzero-ai-develops-superhuman-chess-skills-making-plans/"
+webUrl: "https://siliconangle.com/2020/12/23/deepminds-new-muzero-ai-develops-superhuman-chess-skills-making-plans/"
 type: article
-quality: 74
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: bgr.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
-    width: 1599
-    height: 1066
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/deepmind.jpg"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -121,6 +119,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "DeepMind just taught AI how to win a game without knowing the rules"
+    excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
+    publishedDateTime: 2020-12-23T21:34:00Z
+    webUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/"
+    ampWebUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 74
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
+        width: 1599
+        height: 1066
+        isCached: true
   - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
     excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
     publishedDateTime: 2020-12-23T20:28:00Z
@@ -137,20 +151,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "DeepMind’s new MuZero AI develops ‘superhuman’ chess skills by making plans"
-    excerpt: "Google LLC’s DeepMind artificial intelligence research unit today detailed MuZero, a deep learning system that can master Go, chess and other games even if it’s not told the playing rules. MuZero’s impressive game-solving skills stem from its ability to plan what’s the best course of action in a given scenario."
-    publishedDateTime: 2020-12-23T23:22:00Z
-    webUrl: "https://siliconangle.com/2020/12/23/deepminds-new-muzero-ai-develops-superhuman-chess-skills-making-plans/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/deepmind.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
     excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."
     publishedDateTime: 2020-12-23T16:06:00Z
@@ -166,6 +166,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "Rn7nZNMRiOISr0O/IAgDf1ZV2jli9+TkPga/cViLR4q3QrEjmQsHae4smEG7GaFdcWwNMxVxO62sjeUsH0X9a7NnG/FumPoq1tb7fvWYccEMGpnZdUjrCBfzsvfOp4fBMaoZlMyHvnhZj+E9463J4lkTDR8tAHdiwwJLmTgbCV54YACaZs/9AJ1K+I9XQ/EAc1IWI1zxbICN+g4H6T5nijYQkEXs3QnLPjjFZ8XWL/C6vr5rZ/rgc3zUphMPjLKLZpskX7uVXLrTBRmA7qdM4LqpidR333nBBHL2cZXvgojfZ6R+swn5fPMhFyy1tiFo6OE2ivg3eIBNoI0DJeSetYgdg5BPi+lF6LLVzK0QEQPs5UpNC6AoT+/mP71O0xeEd7vC41+fcrG6lYqNJIViHcjq8pEj4H2LTBFwGO+rjaZ+Fe/YstmSobSyXjPZDe1R7I3Oh4lBw1ancj2KFummczOUntJmGVfdF4H6BJHWLghUDzMv0X9CN/AInadgMmcN81arcqjrdzYrFtm/j3gD9g==;2qvRlKfyQYSHl1BVNHY19Q=="
+secured: "PfwSyCDsjFzZjiVbrvfU7kszk7N1l5oVEGlrMx2yaluRiorldLd14boi16HtNR4n2tLYfkMzWewme9MlEjLhXdgk9xj4wnXdvGOwaYoSyqVvlE7htnm7r5ZLexvYuKaqwxifkLqErwTIlFuJdTbOVvaMpq9iUkEAjqNCFzi8e/zkfKRufF+Q+3cJRbF+eTxyfmrsdcWmgDG2Rdgqw78SOcJjWltkEyQRCU0CplXjNaFoUvm3scBaUBUxdRY3ql2kmfqFwQDSMCFR6g7gWlk+N+/XqPRGTsgF1oJ8oaSsu6JyjKr9Yer1AxS0MBmxkKaB+xr87gZcjFb+r+E5t+ii5VHqHmR4gnEVeJu8f+373S8=;yc1mKSw8acXvZWPWLG789w=="
 ---
 

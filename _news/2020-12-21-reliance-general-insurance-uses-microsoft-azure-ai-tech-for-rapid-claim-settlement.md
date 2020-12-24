@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Ups Security of Azure AD, Identity"
+    excerpt: "A roundup of Microsoft's recent security news and updates that focus on protecting identity. Microsoft's latest security announcements have focused on securing Azure AD and Identity. Updates include stronger compromise prevention for Azure AD,"
+    publishedDateTime: 2020-12-22T23:07:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-ups-security-of-azure-ad-identity-/d/d-id/1339793"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 71
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Reliance partners with Microsoft News Today"
     excerpt: "Chennai: Reliance General Insurance (RGI) a 100 per cent subsidiary of Reliance Capital has brought in speed and acceleration to its vehicle claim process by introducing 'RAPID' equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
     publishedDateTime: 2020-12-23T11:02:00Z
@@ -43,17 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft designing its own chips for servers, surface PCs"
-    excerpt: "Building on decades of x86 ecosystem innovation, we are committed to providing customers the world’s best CPUs and new products from GPUs to AI chips,” Intel said in a statement. “In this expanding market, we expect to gain share in many areas like ..."
-    publishedDateTime: 2020-12-19T08:10:00Z
-    webUrl: "https://www.hindustantimes.com/business-news/microsoft-designing-its-own-chips-for-servers-surface-pcs/story-im4YFP0ljGcJL8YFbEvwRL.html"
-    ampWebUrl: "https://m.hindustantimes.com/business-news/microsoft-designing-its-own-chips-for-servers-surface-pcs/story-im4YFP0ljGcJL8YFbEvwRL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/business-news/microsoft-designing-its-own-chips-for-servers-surface-pcs/story-im4YFP0ljGcJL8YFbEvwRL_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
   - title: "Reimagining the Future of Post with Microsoft Azure"
     excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
     publishedDateTime: 2020-12-22T06:30:00Z

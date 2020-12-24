@@ -1,31 +1,28 @@
 ---
 category: news
-title: "Reimagining the Future of Post with Microsoft Azure"
-excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
-publishedDateTime: 2020-12-22T06:30:00Z
-originalUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
-webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
+title: "Microsoft Ups Security of Azure AD, Identity"
+excerpt: "A roundup of Microsoft's recent security news and updates that focus on protecting identity. Microsoft's latest security announcements have focused on securing Azure AD and Identity. Updates include stronger compromise prevention for Azure AD,"
+publishedDateTime: 2020-12-22T23:07:00Z
+originalUrl: "https://www.darkreading.com/threat-intelligence/microsoft-ups-security-of-azure-ad-identity-/d/d-id/1339793"
+webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-ups-security-of-azure-ad-identity-/d/d-id/1339793"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Dark Reading
+  domain: darkreading.com
 
 topics:
   - Microsoft AI
   - AI
+  - AI in Security
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
-    width: 552
-    height: 372
+  - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -45,20 +42,6 @@ related:
         width: 735
         height: 489
         isCached: true
-  - title: "Microsoft Ups Security of Azure AD, Identity"
-    excerpt: "A roundup of Microsoft's recent security news and updates that focus on protecting identity. Microsoft's latest security announcements have focused on securing Azure AD and Identity. Updates include stronger compromise prevention for Azure AD,"
-    publishedDateTime: 2020-12-22T23:07:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-ups-security-of-azure-ad-identity-/d/d-id/1339793"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 71
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Reliance partners with Microsoft News Today"
     excerpt: "Chennai: Reliance General Insurance (RGI) a 100 per cent subsidiary of Reliance Capital has brought in speed and acceleration to its vehicle claim process by introducing 'RAPID' equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
     publishedDateTime: 2020-12-23T11:02:00Z
@@ -75,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Reimagining the Future of Post with Microsoft Azure"
+    excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
+    publishedDateTime: 2020-12-22T06:30:00Z
+    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
+        width: 552
+        height: 372
+        isCached: true
   - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
     excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
     publishedDateTime: 2020-12-22T12:30:00Z
@@ -90,6 +87,6 @@ related:
         height: 419
         isCached: true
 
-secured: "wjffdNzGYwo/D4yHhUVRCThNNpZ5qVs+bNgJBpQ9vP+Tmo5woDZjj5sCnLZSycbw8x6oevIpg9vW7Bymy2Pv3f76FEACQpQo/oNZYbuQxGx10990q3CrWgRKiDK4IQfSeEKTJHRyAk476U9hDztTYpVFWd/UiTkJ2eqXj4VLcKw+MzJGVoih3F9DYqeCH0bUtqtyPeoiwH17bTLQqJuF2K+S2js5c7jGt93TqIxNQiedqxVgN3topbWkoNAqff/zfALeShqFKTilmCadq9VT1LjvubgdxcQx4qHblid7CjtMLwdH550gEcQttk+gx6gCFicRJpzaVN2ac4PG4jBkorfGALCkUY8UD3fvyvASYjfQOV0ebktTjgbSLxsA+TpdrKR9en1qMTWVmDzV47Vgd563ggPaABg0dWW4nSg0EVEZd8q/4dEuO52fZNvobnk0wMFb06p+nDx5z0z6xh0hr+mSCdyi2mWqHvFWNnxImn2GNoO3BFn2n/9PB6xSRgh++4ImcXxj2qebIRIx5ooVpg==;19nmOVjxB1/mPA9g8RGHOA=="
+secured: "DLhZEL7TqxhBpex8CtxKSr8lQse4fO8IF5nCnreRyyY+7oHLcw5GGtgZWmTsQ1RyV9Sgze46U8iEtDJoSFzMcBo/1iPTVqOeLzrmkhj4Z5OY/0YKZVvhljjQrgnhwZI+4LqTFTgav2+ndEHCXGcZAmaX9n7nktIzW20SDMTf/nKr5K8vy9Y+sSZBtrYPbdKDqml6qi3JZBBJ283KJqCrUsHb/m8yMoo99nyMIx5udWlhqrcHytKgbzpKZD0Lf1B3aEWFg65ukH0M6Snj8wFW8PNpjOmvzYxELooAZcgZCSvtasfeZ5Xyo3mnMzxBVtavCwltTrwwruVMxEyX0x1bfw7L8GF91s6WjUbwdNMwnw0=;r8/AWnb2h90+QF3QwlpIPg=="
 ---
 

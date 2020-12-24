@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
-      "title": "Google AI researcher’s exit sparks ethics, bias concerns",
-      "excerpt": "Jeff Dean, Google’s chief of AI research, reiterated Google’s position ... including a deal to manipulate sales with rival Facebook. Texas Attorney General Ken Paxton announced the suit ...",
+      "path": "_news/2020-12-05-ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics.md",
+      "title": "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",
+      "excerpt": "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else.",
       "sourceUrl": null,
-      "webUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
-      "originalUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "webUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
+      "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280",
-          "width": 1280,
-          "height": 878,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
-      "cdnAmpWebUrl": "https://www-ozarksfirst-com.cdn.ampproject.org/c/s/www.ozarksfirst.com/local-news/finance-and-business/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
-      "publishedDateTime": "2020-12-04T14:03:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/",
+      "publishedDateTime": "2020-12-04T15:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ozarks First",
-        "domain": "ozarksfirst.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,11 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Natural Language Processing",
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Facebook AI",
+        "AI Hardware"
       ]
     },
     {

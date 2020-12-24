@@ -24,11 +24,11 @@ topics:
   - AI
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f053e7cc-79d7-4c08-951d-dd7fc1fc8b58/ai-debate-2-screen-shot-1.jpg"
-    width: 1898
-    height: 1064
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f068ec2f-b729-41a5-95d5-03bf2c6ff732/screen-shot-2020-12-23-at-4-16-01-pm.png"
+    width: 3360
+    height: 2100
     isCached: true
 
-secured: "XlAyWnsJoCLPqQRtMoRaxJwon/pfMrtl/aYCzBH8gfEXiFrZ4G0jUUZdLfhx2YBClmO2iCy784mUk+jBCb98EEvdVh0QmlJBcChQ56SqBf26qKPjGvc8c8GRpZIcVp+KBPskrd3lFsA9uDRTUWk8E2sQuPtUMrbgI+E40E1MsYH5YkBHLJsIHOoy8Rf8wbt0Zzqeu5/LcmFsrm3//3O99B4VbBmUg+CJnyu8HljlX3kLZBhCp6gW9B376DW7zsb0xFYKA8N8PLCcAR3yiPtRrZphBsuruygCnsB3RpMFdVvRdO9XG/QjASEhxcPpDXz9+QU1cIB/P/l50Y3Ik/eT6H7uLIZNHGAYJWV3sJw3dtw=;BmNBR9wOBvIhjJdxGoH+4Q=="
+secured: "NiTcZub6PQC63PizRehkUxud6answ2xq/qhxLI8kuyhHR+8T+jLzZvW6L3xYVPldJIRi7olil0kUSf8JT4ZmTyC/VuMjR7Hu+8c2p6aNZG0q8SXuoLM28/0aRZc4MjibJq4h07EGxgvmD0US79XpGBLH1Gp9M5SL8K6B2ZiM+OVgnUt4nyv++wgqceSDLf6BbIx+kBhSjkxq+NjSENjhhYLqdxm+WUloVHjWhkeSysROE2BtdJHkgYjUYs41bn4kpPAM5Owcx7rDGmYyQnxkuOBZxaLc3spae2hGWe4VmqFhYpQ2a8blu6moT4w7J0uR+dPqXnNtAzcFSrIYfitY3/u1ZKoPVxJguP05pSr0BK8=;5gW6876VEF5tIY8AUG5vOw=="
 ---
 

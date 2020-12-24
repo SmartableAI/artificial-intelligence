@@ -117,6 +117,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Google told its scientists to 'strike a positive tone' in AI research"
+    excerpt: "Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
+    publishedDateTime: 2020-12-23T22:40:00Z
+    webUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
+        width: 1000
+        height: 666
+        isCached: true
 
 secured: "lemyxobgRGwXG9Fi6L0uLEvq3gjShd5Oxrh5TcJmoRcg9k/qCmO/A24PczGYIxaG5jqMw9meZON3LDbMEqfTaiLWjOiTroie91AEfKJVmP9EBhIghH5eQJWFh0IMz6GbbYA7tDe+dFIq5ghrTdLEmzxNN5Vfi8yMI5MXl1iBdidlg9LMvmdCWthMhvS86LGwRmZojbKUXpJcfgvw0p2SkMf61YPxNp15CYE9tP5nhO1SCpzH2N8+OhbkNZPoOxRtDiu5LHz/tEv+Xlahlz61wvfsIwZgAZEDTnFMfVg0rL+nicr1d194xz6RITN0/6tjAC6iDIvjQN1YevX54SVs9qzM5jPuwo2z5EHAexSlGTM=;XJbF7NWXz6R2gE641DHA9A=="
 ---

@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
-excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
-publishedDateTime: 2020-12-23T18:13:00Z
-originalUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
-webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
-ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+title: "Google told its scientists to 'strike a positive tone' in AI research"
+excerpt: "Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
+publishedDateTime: 2020-12-23T22:40:00Z
+originalUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
+webUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
 type: article
-quality: 60
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: IT News For Australia Business
+  domain: itnews.com.au
 
 topics:
-  - AI Ethics
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
+    width: 1000
+    height: 666
     isCached: true
 
 related:
@@ -87,6 +84,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 66
+  - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
+    excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
+    publishedDateTime: 2020-12-23T18:13:00Z
+    webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
+    ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 60
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google told scientists to use 'a positive tone' in AI research, documents show"
     excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
     publishedDateTime: 2020-12-23T19:16:00Z
@@ -103,20 +116,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Google told its scientists to 'strike a positive tone' in AI research"
-    excerpt: "Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
-    publishedDateTime: 2020-12-23T22:40:00Z
-    webUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."
     publishedDateTime: 2020-12-23T11:01:00Z
@@ -132,6 +131,6 @@ related:
         height: 567
         isCached: true
 
-secured: "IckY+//XAnhZbT0eVHq5IBIlKup4M1R3oUFRs54sXuUid+KD2iT0tEaGCTDUhpWL17Ku0SNYKG8gtybF5nq2f9y2o4OHCy4MG1p75TvqBEs4/7pUgPjxdUaCESGPDO4rifGUPxG5mXYwktnMe0r9MgXr0wYdwlSmPBryuWxTU+1WqgkVJ+J4tfqjagsBvnGhSsoOQpxxzpROFomFk3GZ7w7YjZBTJPeFy49nQLJdrFJ8OkrpgmaWCry1y0sMOem2DxM6T3J2F3JZSE/OTOxM+Zy4EOwKWNd+4JgSvkN1JR5lcIWb1qtNNpN5b9AqDyCev5+i66sWzaYY+peqre/aUI9yP97kbysEvnm8hxcMY1XmlVAr15Hlt4cakqbBqDvkMomJTw3J9xNBE7MBfvN6ojB+oWeZ3VT5hWFcvf8DigS/jrosybBetYCzCboTJZTbPiFYjmmdLf4N04/b4KYdi09cqnu92iPPmmMDj/3B1V1jQNZ7uAai0miRkDumnVkmrf6avXiON+nAeFplsV6jTQ==;k3Bfk3e5EpfnztM0AZKFNg=="
+secured: "U1tO7GR2Cp0yPCwCpjwjUN06WCsWZUHaWOxzwyvXNQvUWoQesm0V662QFIB6GL5G35lkVrtPEqgTXLzsHqtZxjV6Jqrjq6Os0fxDhN+Z4JTO+aUCvEKX1PiquW+W99O/DzHu9ECcfVe4Qpcl4dgHQDQ2t9u4AN56C0dqZ7kuzW4gM6zFLvIZ+LLdLHOjFUI6ZGyR22nYQbaWS6YBWHoQm51n5uL4n8IZg7Pdm1vFLBtKoHfH01XGhKl4IT2JX9gdP3iWsgi9LRNHnHvTrGeTNCc5smWu7Rv4Dmdx83TgzPs/mB568w0wSLcKu2h37n29lLtyc/I1SCTSQmcPfC3swcZsO4vqM6rKEeXdQ1LsYzU=;nueZVplGOzCn9XbLD000VQ=="
 ---
 

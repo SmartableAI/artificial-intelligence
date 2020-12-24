@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-22T04:48:00Z
 originalUrl: "https://www.ciol.com/iit-madras-nptel-invite-applications-free-online-course-artificial-intelligence/"
 webUrl: "https://www.ciol.com/iit-madras-nptel-invite-applications-free-online-course-artificial-intelligence/"
 type: article
-quality: 7
+quality: 9
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "IIT Delhi Offers Free Online Course on Artificial Intelligence: How to Apply"

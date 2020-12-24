@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 155
 published: true
 
 provider:

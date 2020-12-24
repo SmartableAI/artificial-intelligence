@@ -44,9 +44,9 @@ related:
   - title: "Nuro gets first California OK to charge money for self-driving services"
     excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
     publishedDateTime: 2020-12-23T21:28:00Z
-    webUrl: "https://www.reuters.com/article/idCAKBN28X2IR-OCATC?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
+    webUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X2IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X2IR"
     type: article
     provider:
       name: Reuters
@@ -69,6 +69,6 @@ related:
       domain: bizjournals.com
     quality: 24
 
-secured: "sgeuZKDnudyVElxRjLqx+O+YRzV+NGv9fK0QsZ8Wgt5n60VbBQdEwuBIVKHRMY2it4vm+NtLGv6upmiVFc6vJEhOJsvXvbxyRUHRAa7ZOnmwtpSGLlhvFJdnKIFsHE7uKPIibSebZCrCjC+2dWo5wE4Z2Ar2VMlEhTK+tVEzbUkjGXPUgyGMNP6Hmcp8+i4EIB8Y3GdyrW0KSCIzJnAdtdnsHvSPULMCowe21j5IFiU2XrIpWL5hbHnAhTE9FBp0MHcxmqT9qvfMCVkgpTuUZ0Cx4FERUfnegUNACvj9zpo6YV1UQnD76L/0a6sm9mH5u6raAc5H0JUA/9Ufmb1IE/WmNvrVyRNF2gC/EKJmsok=;MYXsQ/ysdvm2Pd5kdWVugw=="
+secured: "WtSEr+B7YB+qUn9VZTZgIJOg4HkqZh/igIG1mI63H0OWVGVQIG9/PCsP2fwxF+BSc8Utp6kGbH94pKKZ94JVl3sWyNA6vkZ7EOzxhOL39fGhweIKcs7lp8zTA5zjEYZInybSDXh4BubzgcmBWe14aF3w7RVBrR/TnOmFQpDOz2InOmNvL7Q0zTPeh0KCvGFz0ShGREAqxjCWRsuDNZFCFxcF4a2qhM/sCqYwwpUjf91yrUdcOA9PtPEwcubx4+/rMi82FqyU5aOItmWPRn5Y4RHiId3Bz2N33+x6z66ykAWO5CCUH3yF+zNPs1RJKD7KEv4SXivqKmbCJl83QD9k6h6rj5NA/oPEpxukngoswUyVKFXOYb7mI0LJjTdQg/SJdqem6A8I37yWYgbso5icpDMHwaLmQO7zbyRSiSUw0smsYFPlu5R8SfgjhZ27cEleW3OSZbtQITyW6fUNKlzMWAMj2bIQC6Q000//vXnUin6K6RBs7G2d8eT9JFcjg3UqKljfEPvYbQsMjZyC0QGHgw==;Gha8wZIt2zU5TLDYnzS84Q=="
 ---
 
