@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
-excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
-publishedDateTime: 2020-12-23T11:36:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X1CB"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB"
+title: "Google scientists reportedly told to make AI look more 'positive' in research papers"
+excerpt: "Alphabet has been asking its scientists to ensure artificial intelligence technology looks more \"positive\" in their research papers, a report Wednesday by Reuters said. A new review procedure is reportedly in place so researchers consult with Google's legal,"
+publishedDateTime: 2020-12-24T01:20:00Z
+originalUrl: "https://www.cnet.com/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+webUrl: "https://www.cnet.com/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
 type: article
-quality: 66
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CNET
+  domain: cnet.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI Ethics
+
+images:
+  - url: "https://cnet3.cbsistatic.com/img/Q_VnGcvrL2Sqhng_3xo4M9IN2A0=/1200x630/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research"
@@ -74,22 +78,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google scientists reportedly told to make AI look more 'positive' in research papers"
-    excerpt: "Alphabet has been asking its scientists to ensure artificial intelligence technology looks more \"positive\" in their research papers, a report Wednesday by Reuters said. A new review procedure is reportedly in place so researchers consult with Google's legal,"
-    publishedDateTime: 2020-12-24T01:20:00Z
-    webUrl: "https://www.cnet.com/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 80
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/Q_VnGcvrL2Sqhng_3xo4M9IN2A0=/1200x630/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google reportedly asked employees to ‘strike a positive tone’ in research paper"
     excerpt: "The search giant’s publication process has been in the spotlight since the firing of AI ethicist Timnit Gebru in early December."
     publishedDateTime: 2020-12-23T22:03:00Z
@@ -106,6 +94,17 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
+    excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
+    publishedDateTime: 2020-12-23T11:36:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X1CB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
   - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
     excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
     publishedDateTime: 2020-12-23T18:13:00Z
@@ -167,6 +166,6 @@ related:
         height: 567
         isCached: true
 
-secured: "4Nh+KgkiqWSEbK2IGZio7EnJg2/g1m4crQkF9SHhPY2+wgFt2IST4L3vSS0dC+izkQbH6bZy921mEAHoKVF0IDfk/P+AxRqUcLCsp/8aldLlESVgShF//paQ6MlayicPdLH/rwXFYCWaZaHz1RDRe43q85TKpQaaV/2Eu6p1Iyua/jr/HkZ3w2b8DMOY6OPktTwonntTsdFb1angCwgDsNFFxgiIrxBi3UbMXRM/f/+yIjw4aI86LZ9IigCJLv4FB4Dpv22Jj2/1Y0MhPVKI1nJ5FwGqlmRYtUCggbNWyJyXvv5cFvJmRGlxEDLinN/wUTnJ5lc3jwjWj2YqDr8hZyK2B0F8fBS5a1YcjlRTnJqdjmQUrFYE15L6YSM+09F0J9uQoooxUIBMQpBD2M0FO1ZQBAkT63Vv9MaEOGrWl3r9/KBwuykwd8VdkYryM4vsz1yCWDOxGVOfe7ApOlkuA5xii9NOToUeRODRf/DBMOZBlMF4qvE7LPUGxcqfTB24Xuh3aFhgcnr6Rhw9KETbWA==;ERaDFsV4WdVt1TX5x3sX1Q=="
+secured: "lBBccMDMtJ9L0IWTm5b/vUTG4WGceN1ZsFYM+B/uC8EGz5kXM1kk1j3ZQM3j00AdztdocpM+GuDXIW6liubcRH1py5qxn+pZYTr3dVw2VNQyfdzqImeexyUJ/ewIU2lpz8HMG+pD4IWMt8hL3ktIhsoq7GpSnXwOQbLOw87QHHEgvkFG/z/NgJe/dPkGTTPe/37gUVraJCY2/W04o/KHpoFCAyE+R+UbrsTQzFKg3R4uynFzhGSxTeCrv11hO7054NZ9nsGxJxTTo+4KfEI/iG+Dsims5/0XjvjBF19j1bjnDxcqenSsQAVVjmRAhbJcFL9LHT7kawi30DtN96foQFBbkE29jNARJEHsLNhaxKc=;/0JGqq0j7M8EPo0p0NjxBA=="
 ---
 

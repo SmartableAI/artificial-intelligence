@@ -342,20 +342,6 @@ related:
       name: Cheddar
       domain: cheddar.com
     quality: 4
-  - title: "Texnologia reports a self-driving car launched by Zoox which has the potential to become Amazon’s first robotaxi"
-    excerpt: "Amazon brought forward a company named Zoox which is said to be a self-driving company and this company launched its first robotaxi after six years of gnarly prototypes and secrecy. This autonomous vehicle is very similar to other cars that were launched by the manufacturers of Silicon valley start-ups and due to its great and detailed polishing and finishing Amazon considers this car to become the cornerstone of a fledgling autonomous ride-hailing service and this makes it stand out."
-    publishedDateTime: 2020-12-19T10:06:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-business-corporate-news-driverless-cars-products-and-services-c9abc89743d025392e40e7f409d4c5b7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "BgtqXYpNUwQUvKt9HJ1lnHpsg7FmZiSw4Fm3pVgQIcvNJiXWlqKpOjXgZzIatpBVAFQLmK0tnz19IT+BPFZP2ClUqFVL3dlaqvQcJs9ekFnscOUAmxAIooUwgpUR+NAv3dJR+7Mk8TffEXtAr//pv6Kn3YhKmN+ktI+BW2IdZFvxvKJgDptudwfVxoliJVX3qi0KvfXMA92UXntmW341isHYLOdeGmbXOpLpFlnbWU409boOLg3blClnkBo5B2eft73gXiR+e0oKb9zHFP61Ag3ZThYqPrNnOHN+SJRo2NLE9wRuzV0206S34VH4UtBnTukQ917zG9vjVFCa7pgQQ6QRXlJNvbhSNi8ZK6xaQ60=;pUCo6KdlXuzNWiTfStHnJg=="
 ---

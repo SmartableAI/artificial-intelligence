@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research"
+    excerpt: "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team."
+    publishedDateTime: 2020-12-24T02:23:00Z
+    webUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406"
+    ampWebUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 84
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuuqhcmntzmazuwchdbo.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research, documents show"
     excerpt: "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said."
     publishedDateTime: 2020-12-23T16:39:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google scientists reportedly told to make AI look more 'positive' in research papers"
+    excerpt: "Alphabet has been asking its scientists to ensure artificial intelligence technology looks more \"positive\" in their research papers, a report Wednesday by Reuters said. A new review procedure is reportedly in place so researchers consult with Google's legal,"
+    publishedDateTime: 2020-12-24T01:20:00Z
+    webUrl: "https://www.cnet.com/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 80
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/Q_VnGcvrL2Sqhng_3xo4M9IN2A0=/1200x630/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"

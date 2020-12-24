@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "IVS Inc. (Intelligent Video & Sound) Introduces Artificial Intelligence CCTV Solution"
-    excerpt: "IVS Inc., a leader in smart CCTV solutions, announces specialized video and sound analysis technology based on artificial intelligence and deep learning, which can detect and identify abnormal sounds,"
-    publishedDateTime: 2020-12-19T10:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-south-korea-3dc29b09167c44f2b59c343a3947e683"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "SGyAD+SFzGONgNc/GcMxh5yf8rqbRl6dBZbGqZOZ1ESRew9gfg7r0fsm8iVh80+lEnNcEAQWlNzPHQ75990mM4uG3hjnqb7Z0cAEuPQBDJGsopVVwlPUA2IiMUiSkv5PYGON8TYDU8yIaz0sD7aBYcz4Ws9Vi2TbuxZ+hzWqziebGRs4F8TzkJ+CFc+ACBHwqditBkCWhspUTMh7uLM4kakO3HeeE7mW/0yftGcKAl/ZuqaiFoS0qb0LqfaL+y+KDtBu4i3H+qYJRXpWZcAhKOSi+LyS6rp+dzVrUDTW9Bl8i+0Q2C1z0Dynf1N31ui/MaKVYDAqjxaOLbT0Y97lIRwryQXK0SqhZvS4u/KsHWI=;tos/YC+CDO9c3sMfkj7LsQ=="
 ---
 

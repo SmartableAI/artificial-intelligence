@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-ev
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "NVIDIA Opens AI Storefront in AWS Marketplace"
+    excerpt: "The use of the AWS Marketplace democratizes AI capabilities. The year 2020 will be remembered for a lot of things, among them a global pandemic, social justice and a historic election. These grabbed center stage because they have huge societal implications."
+    publishedDateTime: 2020-12-24T02:35:00Z
+    webUrl: "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws-marketplace"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 88
+    images:
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/12/AWS.Marketplace.jpg?alias=social_image"
+        width: 560
+        height: 300
+        isCached: true
   - title: "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector"
     excerpt: "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ..."
     publishedDateTime: 2020-12-21T20:59:00Z

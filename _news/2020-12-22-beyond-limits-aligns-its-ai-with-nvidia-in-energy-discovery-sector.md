@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "NVIDIA Opens AI Storefront in AWS Marketplace"
+    excerpt: "The use of the AWS Marketplace democratizes AI capabilities. The year 2020 will be remembered for a lot of things, among them a global pandemic, social justice and a historic election. These grabbed center stage because they have huge societal implications."
+    publishedDateTime: 2020-12-24T02:35:00Z
+    webUrl: "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws-marketplace"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 88
+    images:
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/12/AWS.Marketplace.jpg?alias=social_image"
+        width: 560
+        height: 300
+        isCached: true
   - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
     excerpt: "You’ll often read that it’s only a matter of time before AI steals all our jobs. But the idea of humanoid machines is nothing new. It began with the “heartless” Tin Man from The Wizard of Oz. By the 1950s,"
     publishedDateTime: 2020-12-19T12:00:00Z

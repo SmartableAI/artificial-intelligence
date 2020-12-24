@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research"
+    excerpt: "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team."
+    publishedDateTime: 2020-12-24T02:23:00Z
+    webUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406"
+    ampWebUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 84
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuuqhcmntzmazuwchdbo.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research, documents show"
     excerpt: "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said."
     publishedDateTime: 2020-12-23T16:39:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google scientists reportedly told to make AI look more 'positive' in research papers"
+    excerpt: "Alphabet has been asking its scientists to ensure artificial intelligence technology looks more \"positive\" in their research papers, a report Wednesday by Reuters said. A new review procedure is reportedly in place so researchers consult with Google's legal,"
+    publishedDateTime: 2020-12-24T01:20:00Z
+    webUrl: "https://www.cnet.com/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 80
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/Q_VnGcvrL2Sqhng_3xo4M9IN2A0=/1200x630/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google reportedly asked employees to ‘strike a positive tone’ in research paper"
     excerpt: "The search giant’s publication process has been in the spotlight since the firing of AI ethicist Timnit Gebru in early December."
@@ -131,6 +163,6 @@ related:
         height: 567
         isCached: true
 
-secured: "U1tO7GR2Cp0yPCwCpjwjUN06WCsWZUHaWOxzwyvXNQvUWoQesm0V662QFIB6GL5G35lkVrtPEqgTXLzsHqtZxjV6Jqrjq6Os0fxDhN+Z4JTO+aUCvEKX1PiquW+W99O/DzHu9ECcfVe4Qpcl4dgHQDQ2t9u4AN56C0dqZ7kuzW4gM6zFLvIZ+LLdLHOjFUI6ZGyR22nYQbaWS6YBWHoQm51n5uL4n8IZg7Pdm1vFLBtKoHfH01XGhKl4IT2JX9gdP3iWsgi9LRNHnHvTrGeTNCc5smWu7Rv4Dmdx83TgzPs/mB568w0wSLcKu2h37n29lLtyc/I1SCTSQmcPfC3swcZsO4vqM6rKEeXdQ1LsYzU=;nueZVplGOzCn9XbLD000VQ=="
+secured: "GTT4oMtD+87hj0r7/U5ONwMooC5B1lpduTQHDfpOK4lzvwcSCUtsNcvSfH29MMXYGXaHamYa8nIofSyA7dyp+hV07ntqExOnibeWUNUXJ+k0uV9/1nleqZsiMj+GhvtR96Ih1TTRIJWBtCG9wf+G4VaL5kog1+RXowx6k11s0MUNAdwhYNiOCufFbbpWEhNUEZd1lGbbquPULd2/fhfmxjIJWFDxwMdPnDJXDRqkBH4KWvfsfCcN6k1wx9grjmEaDBlH7waKslPR+xq46IaSJ0dmZrn78YRI1AJ9POtRgudCCptYsjh1nEoDQlm7GNmAellBEPVreKyh8MfWiZQg4c2Ggp8T2DvXNHkPgem46RAZI7eFDGY3Ttwpj1ybr3iyJJ3O13bX2zHyCAO41njzHG7hqhud6NlflFDqwr/CiSxLfO+B/c5Rj6k4EzlkC0DXaHcdMNssMGaFbmMMWCUOb9KkzlTLEux7c51Lg7V1NlBD/N1mP2lMnqAG1BF790t8aC2FmEnwoYQuobSGZzPVkQ==;bEEJWTENK8yvbEyg8j8wlw=="
 ---
 

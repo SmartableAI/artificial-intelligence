@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
-excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
-publishedDateTime: 2020-12-23T11:36:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X1CB"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB"
+title: "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research"
+excerpt: "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team."
+publishedDateTime: 2020-12-24T02:23:00Z
+originalUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406"
+webUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406"
+ampWebUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 84
+heat: 174
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Gizmodo
+  domain: gizmodo.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI Ethics
+
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuuqhcmntzmazuwchdbo.jpg"
+    width: 800
+    height: 449
+    isCached: true
 
 related:
-  - title: "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research"
-    excerpt: "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team."
-    publishedDateTime: 2020-12-24T02:23:00Z
-    webUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406"
-    ampWebUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 84
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuuqhcmntzmazuwchdbo.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research, documents show"
     excerpt: "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said."
     publishedDateTime: 2020-12-23T16:39:00Z
@@ -106,6 +94,17 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
+    excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
+    publishedDateTime: 2020-12-23T11:36:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X1CB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
   - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
     excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
     publishedDateTime: 2020-12-23T18:13:00Z
@@ -167,6 +166,6 @@ related:
         height: 567
         isCached: true
 
-secured: "4Nh+KgkiqWSEbK2IGZio7EnJg2/g1m4crQkF9SHhPY2+wgFt2IST4L3vSS0dC+izkQbH6bZy921mEAHoKVF0IDfk/P+AxRqUcLCsp/8aldLlESVgShF//paQ6MlayicPdLH/rwXFYCWaZaHz1RDRe43q85TKpQaaV/2Eu6p1Iyua/jr/HkZ3w2b8DMOY6OPktTwonntTsdFb1angCwgDsNFFxgiIrxBi3UbMXRM/f/+yIjw4aI86LZ9IigCJLv4FB4Dpv22Jj2/1Y0MhPVKI1nJ5FwGqlmRYtUCggbNWyJyXvv5cFvJmRGlxEDLinN/wUTnJ5lc3jwjWj2YqDr8hZyK2B0F8fBS5a1YcjlRTnJqdjmQUrFYE15L6YSM+09F0J9uQoooxUIBMQpBD2M0FO1ZQBAkT63Vv9MaEOGrWl3r9/KBwuykwd8VdkYryM4vsz1yCWDOxGVOfe7ApOlkuA5xii9NOToUeRODRf/DBMOZBlMF4qvE7LPUGxcqfTB24Xuh3aFhgcnr6Rhw9KETbWA==;ERaDFsV4WdVt1TX5x3sX1Q=="
+secured: "rJlZlLePKg1ez+htvPJnVH8yBQpTouFMjxC/+y3S7Eh4yKwrvnVCvAO8o7WvFQGTPV8LjiGq3Qk6BtE2dtX2WyvtTNySOASzQe33ADqOo8nr8YlLzic4oadkxHlfXYvzgGaoqv5JxN/cRHGURUtvEHB6aPCEcTTDr2eo/AW5hw0QOGQskHMXFgjpVn4lvHaGm0Gxi2kj78jQIf1TtKe4l5cvFTecdaoW3HQLgYQWeAeP79bzoiA+LsXYFlfgNAPG7h4p7TmMcCHoHgpRD2ruqqZ7qLQycByOaaLxAhQf0iac/IDANrwfHlRgyIeK6mdqgb/m+kk1m0b97ZNUSGSaaLFCJYjaTuDHwZkiN5Dwmi4=;AX9c9rrc/qyLcGeKS2+chA=="
 ---
 
