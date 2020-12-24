@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-09-baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing.md",
+      "title": "Baidu is testing its robot axis without a safety driver in Beijing",
+      "excerpt": "Baidu has just received permission to test its autonomous taxis with no security drivers on the streets of Beijing. A first for the Chinese capital. The company has been testing its robot axis in China since 2018,",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/",
+      "originalUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2020/12/baidu-apollo-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/",
+      "publishedDateTime": "2020-12-09T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-eu-boosts-evaxions-artificial-intelligence-vaccine-research.md",
       "title": "EU Boosts Evaxion’s Artificial Intelligence Vaccine Research",
       "excerpt": "EIB signs €20 million (DKK 149 million) loan agreement with Danish research and development company Evaxion Biotech A/S. Evaxion will use financing for research and development into its proprietary artificial intelligence platforms used to identify novel vaccine and immunotherapy targets.",
@@ -1086,49 +1129,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket.md",
-      "title": "Xanadu's PennyLane brings Quantum Machine Learning to Customers with Amazon Braket",
-      "excerpt": "PRNewswire/ - PennyLane, Xanadu's open-source software for differentiable quantum computing is now integrated with Amazon Braket, a fully managed",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

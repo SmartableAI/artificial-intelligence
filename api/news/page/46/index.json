@@ -2,6 +2,58 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-11-18-ibm-acquires-instana-builds-out-application-monitoring-tools.md",
+      "title": "IBM acquires Instana, builds out application monitoring tools",
+      "excerpt": "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "publishedDateTime": "2020-11-18T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-rapid-robotics-raises-55m-for-pre-programmed-manufacturing-robots.md",
       "title": "Rapid Robotics raises $5.5M for pre-programmed manufacturing robots",
       "excerpt": "Bay Area-based Rapid Robotics today announced it has raised $5.5 million in seed funding in a round led by Greycroft and Bee Partners. The announcement comes during what has been a solid several months for robotics funding,",
@@ -1123,49 +1175,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-plaza-las-vegas-turning-to-artificial-intelligence-for-added-security.md",
-      "title": "Plaza Las Vegas turning to artificial intelligence for added security",
-      "excerpt": "After months of violent incidents on the Las Vegas Strip and downtown The Plaza hotel-casino is turning to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
-      "originalUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/81b751f/2147483647/strip/true/crop/1166x656+0+8/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5f%2F79%2F1e0f07ad4f8ba8e43d8c70829010%2Fpatscan.PNG",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
-      "publishedDateTime": "2020-11-17T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTNV Las Vegas",
-        "domain": "ktnv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

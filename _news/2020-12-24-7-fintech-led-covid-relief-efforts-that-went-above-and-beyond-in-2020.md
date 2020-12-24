@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-effo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20201221/ARTICLE/201229908/AR/0/AR-201229908.jpg&NCS_modified=20201220154424&MaxH=225&imageVersion=16by9"
         width: 400
         height: 225
+        isCached: true
+  - title: "The TRADE’s Crystal Ball 2021: FinTech, RegTech and crypto"
+    excerpt: "Gaze into The TRADE's crystal ball for insights from FinTech and RegTech providers, as well as participants in the crypto space on their predictions for the year ahead."
+    publishedDateTime: 2020-12-24T11:46:00Z
+    webUrl: "https://www.thetradenews.com/the-trades-crystal-ball-2021-fintech-regtech-and-crypto/"
+    type: article
+    provider:
+      name: The TRADE
+      domain: thetradenews.com
+    quality: 24
+    images:
+      - url: "https://www.thetradenews.com/wp-content/uploads/2020/12/LiTDX-260x260-1-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
     excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"

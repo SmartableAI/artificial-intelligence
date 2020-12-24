@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-10-humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
+      "title": "Humanoid Robot Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
+      "excerpt": "Global Humanoid Robot Market is valued at approximately USD 1,107 million in 2019 and is anticipated to grow with a healthy growth rate of more than 35% over the forecast period 2020-2027. Humanoid robots are the robots that usually be similar to the body shape and attributes of humans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-this-ai-powered-growth-tools-helps-in-getting-instagram-followers.md",
       "title": "This AI-Powered Growth Tools Helps In Getting Instagram Followers",
       "excerpt": "What is SocialMeep? SocialMeep is an AI-powered Instagram growth and automation tool that gets you real, organic Instagram followers. SocialMeep helps you increase your brand or business reach allowing you to grow your audience and revenue. Along with ...",
@@ -1156,59 +1208,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson.md",
-      "title": "IBM creates knowledgeable NLP system and adds AI governance capabilities to Watson",
-      "excerpt": "IBM has unveiled a slew of announcements designed to help businesses scale their use of AI. The company also announced the rollout of new capabilities for its Watson platform. IBM researchers have built a hybrid question-answering system called Neuro-Symbolic-QA (NSQA) that for the first time uses neurosymbolic AI to allow an AI system to offer \"and\"/ \"or\" to its recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "publishedDateTime": "2020-12-09T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

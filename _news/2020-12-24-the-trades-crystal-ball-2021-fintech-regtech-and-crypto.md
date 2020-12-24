@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
-excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
-publishedDateTime: 2020-12-21T11:34:00Z
-originalUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech"
-webUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech"
-ampWebUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
+title: "The TRADE’s Crystal Ball 2021: FinTech, RegTech and crypto"
+excerpt: "Gaze into The TRADE's crystal ball for insights from FinTech and RegTech providers, as well as participants in the crypto space on their predictions for the year ahead."
+publishedDateTime: 2020-12-24T11:46:00Z
+originalUrl: "https://www.thetradenews.com/the-trades-crystal-ball-2021-fintech-regtech-and-crypto/"
+webUrl: "https://www.thetradenews.com/the-trades-crystal-ball-2021-fintech-regtech-and-crypto/"
 type: article
-quality: 18
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Your Story
-  domain: yourstory.com
+  name: The TRADE
+  domain: thetradenews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageus3n-1608548321321.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-    width: 800
-    height: 400
+  - url: "https://www.thetradenews.com/wp-content/uploads/2020/12/LiTDX-260x260-1-300x300.jpg"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -59,20 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "The TRADE’s Crystal Ball 2021: FinTech, RegTech and crypto"
-    excerpt: "Gaze into The TRADE's crystal ball for insights from FinTech and RegTech providers, as well as participants in the crypto space on their predictions for the year ahead."
-    publishedDateTime: 2020-12-24T11:46:00Z
-    webUrl: "https://www.thetradenews.com/the-trades-crystal-ball-2021-fintech-regtech-and-crypto/"
-    type: article
-    provider:
-      name: The TRADE
-      domain: thetradenews.com
-    quality: 24
-    images:
-      - url: "https://www.thetradenews.com/wp-content/uploads/2020/12/LiTDX-260x260-1-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
     excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"
     publishedDateTime: 2020-12-23T18:29:00Z
@@ -87,6 +71,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
+    excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
+    publishedDateTime: 2020-12-21T11:34:00Z
+    webUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech"
+    ampWebUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 18
+    images:
+      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageus3n-1608548321321.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "FinTech 2021: 20 Articles for FinTech Experts"
     excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."
     publishedDateTime: 2020-12-23T17:51:00Z
@@ -97,6 +97,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "JdeYmj3Io2Zv1VTL3F8jszpogUA0IMi8hfONjDSyIXX+aKPPRijMPDDnB+h3CY++xljJVWl+G3fsGBCTkePvq9hHIN8J+0POhUeFVf0+jg2du5Z9PkstnFUl1QB11g5swaTN+pAlumwAGk87UC9MOYSU39t2jM+PiwMAxlnruFliNiD+PaswoBIHR4kgi4G7sgHDc6HDaz4IDEBSZVMbYf69xRpsUciQ0kD2Pbc2+uapFxssSLQH/EyR1rtwfJbc7TcTB1ZzU65xVAmj+b9/+wwN+iCx/ClXXpwxLWWZ1kYHGieUBv0oCzQV435HRg7FcDdpLbdzmw1P9rnjf6aQiFS8dCxdmL7qGqnI5QKOvqzkhVAsGRMys1czbB2J8wYYWYtg4jlbGNIhrB7/iCkQDRajvzSbf1ZcQ33Tx6FOaIHPbB5IzLbRJF+XU0g8qtf2WNyjq1DjC2ObOl9iaNnw3lqSjM1O9/dDdX44e8EyMpvL+p5QQOJkuAXa7ha4zpMb03RmGP6N31Pq6m0+tNj1Eg==;EbwkrdP4uSil7W4iSfAGXg=="
+secured: "caR3UMLKCRstxuAWjZo4ihkfOMWVQO2GAc9QX9q7nL6WEnMf6IO4Rh9PRBBQvUqZv21f231yL2/qOHe641HpPuKJog3I3SLzxpQmxfTBPTGQ32BJtmWXo91dIt+rfFO5gpmA82+UPhJO8UTX86BcN7Foi4OIfjIrTdzJ9RScZ/dUhhfci7vBKTry12T3VfhnxSHLr7uv+C/9WJAoNhasswfDCqa1qwZzdhYRoEpNAv65Vt7qYamGN0I/rAsw8ByL1F7NvUobaaNoNJfk8vCMTnChdwzE6E8LMk1qFY2LSlOtwowpJMvz6eSPwg4qfWsDBOyy3IYsj2oLUWSGyYlsBpmhbUHnbH20LfzkaDB9Sn8=;G5cE4I2Vm44OmKK1J/cbIg=="
 ---
 

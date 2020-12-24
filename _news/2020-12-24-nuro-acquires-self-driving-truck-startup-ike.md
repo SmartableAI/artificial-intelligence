@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.md",
+      "title": "Stocks making the biggest moves in the premarket: FireEye, Alibaba, C3.ai & more",
+      "excerpt": "FireEye (FEYE) – The cybersecurity firm's stock is 2% lower in premarket trading, after rising for four straight sessions and eight of the past 10, gaining more than 78% over the latter stretch. Shares of this and other cybersecurity firms have been rising,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102749210-RTR4JTRA.jpg?v=1537909227",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
+      "publishedDateTime": "2020-12-24T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime.md",
       "title": "Why AI and security pros need to work together to fight cybercrime",
       "excerpt": "Cybercriminals sometimes use AI to their benefit. In order to defeat these cyber bad guys, security pros and AI should focus on what they do best.",
@@ -97,7 +148,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -451,7 +502,7 @@
       "originalUrl": "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -699,17 +750,17 @@
       "title": "AI Debate 2: Night of a thousand AI scholars",
       "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,",
       "sourceUrl": null,
-      "webUrl": "https://montrealartificialintelligence.com/aidebate2.html",
+      "webUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
       "originalUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://montrealartificialintelligence.com/aidebate2mosaic1440x720v8.jpg",
-          "width": 1440,
-          "height": 720,
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f068ec2f-b729-41a5-95d5-03bf2c6ff732/screen-shot-2020-12-23-at-4-16-01-pm.png",
+          "width": 3360,
+          "height": 2100,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -717,8 +768,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
       "publishedDateTime": "2020-12-23T13:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -726,7 +777,7 @@
         "domain": "zdnet.com",
         "images": [
           {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -806,7 +857,7 @@
       "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -946,7 +997,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1196,57 +1247,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-tiktok-parent-bytedance-hiring-for-ai-drug-discovery-team.md",
-      "title": "TikTok parent ByteDance hiring for AI drug discovery team",
-      "excerpt": "ByteDance, TikTok’s Chinese parent company, is entering the health industry as it seeks to diversify a business dependent on advertising and livestreaming sales. The company, which prides itself on content algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "originalUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/06/33602814_7750651a44_o-e1608724710523.jpg?w=800",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "publishedDateTime": "2020-12-23T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

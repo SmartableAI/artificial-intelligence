@@ -2,6 +2,57 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-11-14-this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners.md",
+      "title": "This Week In XR: Hopin Scores Series B, Snaps Buy Voca.ai, VR Award Winners",
+      "excerpt": "Hopin raises $125 M series B. The round was led by IVP with existing investors Accel and DFJ Growth, and Tiger Global joining in. The online events platform's valuation is over two billion dollars. Snap Acquires Voca.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faed1b64d170f383dbd192a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/amp/",
+      "publishedDateTime": "2020-11-13T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-fg-inaugurates-robotics-artificial-intelligence-centre.md",
       "title": "FG inaugurates robotics, artificial intelligence centre",
       "excerpt": "Okechukwu Nnodim, AbujaThe Federal Government on Friday inaugurated the National Centre for Artificial Intelligence and Robotics.Minister of Communications and Digital Economy, Isa",
@@ -1163,50 +1214,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-global-computer-vision-in-the-healthcare-market-report.md",
-      "title": "Global Computer Vision In The Healthcare Market Report",
-      "excerpt": "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "originalUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb13143184_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "publishedDateTime": "2020-11-13T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

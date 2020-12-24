@@ -57,6 +57,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The TRADE’s Crystal Ball 2021: FinTech, RegTech and crypto"
+    excerpt: "Gaze into The TRADE's crystal ball for insights from FinTech and RegTech providers, as well as participants in the crypto space on their predictions for the year ahead."
+    publishedDateTime: 2020-12-24T11:46:00Z
+    webUrl: "https://www.thetradenews.com/the-trades-crystal-ball-2021-fintech-regtech-and-crypto/"
+    type: article
+    provider:
+      name: The TRADE
+      domain: thetradenews.com
+    quality: 24
+    images:
+      - url: "https://www.thetradenews.com/wp-content/uploads/2020/12/LiTDX-260x260-1-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
     excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
     publishedDateTime: 2020-12-21T11:34:00Z
