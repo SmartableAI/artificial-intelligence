@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/technology/123802762/the-ghost-of-christma
 webUrl: "https://www.stuff.co.nz/technology/123802762/the-ghost-of-christmas-future-how-artificial-intelligence-santa-could-destroy-the-world"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "We asked an AI to write the Queen's Christmas speech"
+    excerpt: "Next, WIRED turned to Melissa Terras, professor of Digital Cultural Heritage at the University of Edinburgh and a Turing Institute fellow, and David Beavan, a senior research ... he read on Facebook groups,” she says. “That’s what AI is right now.”"
+    publishedDateTime: 2020-12-24T09:23:00Z
+    webUrl: "https://www.wired.co.uk/article/ai-queens-speech-christmas-day"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://wi-images.condecdn.net/image/Q6GoyOkPB3P/crop/1440/0.5235602094240838/f/wired-queen-ai.jpg"
+        width: 1440
+        height: 753
+        isCached: true
   - title: "This Hilarious AI-Generated Holiday Song Is the Christmas Jam We Didn't Know We Needed"
     excerpt: "YouTuber Chase Holfelder has the internet laughing with his AI-generated song, \"Rudolph, The All Gracious King,\" inspired by Mariah Carey's Christmas album."
     publishedDateTime: 2020-12-22T19:54:00Z

@@ -2,31 +2,21 @@
 category: news
 title: "Baidu Rockets Higher on Electric Vehicle Plans"
 excerpt: "Baidu, which is widely considered to be China's leader in artificial intelligence (AI) and self-driving cars, has reportedly engaged in discussions with automakers about its plans. Baidu hasn't ..."
-publishedDateTime: 2020-12-15T19:12:00Z
-originalUrl: "https://www.fool.com/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
-webUrl: "https://www.fool.com/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
+publishedDateTime: 2020-12-15T19:08:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15"
+webUrl: "https://www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15"
+ampWebUrl: "https://www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-rockets-higher-on-electric-vehicle-plans-2020-12-15?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604991%2Fbaidu-apollo-go-robotaxi-in-cangzhou-china.jpg&w=1200&op=resize"
-    width: 1200
-    height: 798
-    isCached: true
-
-secured: "YuLDw6SRtd96NIqkY3MklA+bzuiV4HDnrEVbnU2pVYIGrfrnKD9O98/vGIn6jDJavyHgLUlUkJJjPlCXeGiwa8oVn5gwKm+A1POS8h1lDvydn5CvHMYKlb8Cb/PtmPTLhwR0YcsNlyNWn0YTLHYVhak38gziEqtOijhQ3Z5BwM96s+Ys9kMFJDnbD/DZaQSkxar8FXcSQ9yqHnF824dWfkW8JCcLw5DZZFeDnm+iJpz6nYNE/EhL+OxsuQ2C4b7Mpt6kamaM0p1KbAbKjDcsTOc1xZ48A3YgkebpjQ0AYT9Ut9qVMI0RhV9T+a/7AMMptTwqNVHlmM9dU2vXWget8bKE2CVIyGR1sShmUXaiKgo=;zaAtLrRK/VGsKU/XANaYTw=="
+secured: "G8i5PC7nvFnzRrnwY0jDHR+kT/vGj3Ju8vfPbG91PZVtlv/j5DlHqy7FVXJgVBm3YVAz1idxFHWCZFeoBjivEOqj3W3j2X6kAYgfMXpIhtbJfdSdOlQrVNbBgsG81n7LSWXpqHn4giCnSn9EpBAlAbO8RYJ2raGhbxZ8bROAkm2HmJBkCPphpBrbCu/wmGArl1eV0FiojuLkv3LWLeHVxvRHsQ9Arkrz4Cgl5TWcp4mg8vI+llan9z9hu+6vh4edXFEGkKNvF2/F6N7rxIDXynkCjv6x/S541eouoEs9ORcdF+PkhRjW7AIO8C6U6MSOjBMSR1M8RIHe0NLJCaA2xillrPvjxa/tVLwoZpE0140=;KGqu3R/7J9+KNfQ7IAQZPA=="
 ---
 

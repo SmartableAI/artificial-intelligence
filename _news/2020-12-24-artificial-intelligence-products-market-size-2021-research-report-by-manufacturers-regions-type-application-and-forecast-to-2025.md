@@ -1,26 +1,31 @@
 ---
 category: news
-title: "Global Learning Analytics Market Size USD 7956.6 Million by 2026 at CAGR 20.8% | Valuates Reports"
-excerpt: "The global Learning Analytics Market size is projected to reach USD 7956.6 Million by 2026, from USD 2560.5 Million in 2020, at a CAGR of 20.8% during 2021-2026. Major factors driving the growth of the Learning analytics market size are,"
-publishedDateTime: 2020-12-21T17:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-learning-analytics-market-size-usd-7956-6-million-by-2026-at-cagr-20-8-valuates-reports-1029911396"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-learning-analytics-market-size-usd-7956-6-million-by-2026-at-cagr-20-8-valuates-reports-1029911396"
+title: "Artificial Intelligence Products Market Size 2021 Research Report by Manufacturers, Regions, Type, Application and Forecast to 2025"
+excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. “Artificial Intelligence Products"
+publishedDateTime: 2020-12-24T10:57:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-size-2021-research-report-by-manufacturers-regions-type-application-and-forecast-to-2025-2020-12-24"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-size-2021-research-report-by-manufacturers-regions-type-application-and-forecast-to-2025-2020-12-24"
 type: article
-quality: 21
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026"
@@ -121,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Products Market Size 2021 Research Report by Manufacturers, Regions, Type, Application and Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. “Artificial Intelligence Products"
-    publishedDateTime: 2020-12-24T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-size-2021-research-report-by-manufacturers-regions-type-application-and-forecast-to-2025-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ai In Fintech Market Size, Share, Growth, Trends, Analysis and Forecast - 2025"
     excerpt: "AI in Fintech market size is expected to grow from USD 959.3 Million in 2016 to USD 7,305.6 Million by 2025, at a (CAGR) of 40%. AI in the fintech market is said to have the potential to grow in the coming years due to technological changes that improve ..."
     publishedDateTime: 2020-12-23T11:17:00Z
@@ -182,7 +173,16 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Global Learning Analytics Market Size USD 7956.6 Million by 2026 at CAGR 20.8% | Valuates Reports"
+    excerpt: "The global Learning Analytics Market size is projected to reach USD 7956.6 Million by 2026, from USD 2560.5 Million in 2020, at a CAGR of 20.8% during 2021-2026. Major factors driving the growth of the Learning analytics market size are,"
+    publishedDateTime: 2020-12-21T17:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-learning-analytics-market-size-usd-7956-6-million-by-2026-at-cagr-20-8-valuates-reports-1029911396"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
-secured: "2Zvsxmm7FcPKreq9M8l+xICd2zq6mt+fw6WG2LV1I659MIxE2xTKE38CCgoyCQgNuOm5u6lAuNxlCE1PrM9+or0ZcK6sevHbldib4EivKmCaz6HJRKanb9Y4zFPNnb//u28Y76S3P9AYxMaVku1QHHWcj/vfQ55TNTtJ1w5a2OiI04TzjnK1aZOXHoobnQ2EEJYE5aumOcAzRVwQD0UvM23o6cMAX6CdppxLBOvfFFSgAk0MYr8F2Z3etOi0GSG+SnKRhRLBG7VvtFj7HlojmTU6sdXmt4gZgF4bBHJ+NnKDujPDZu30/u7zKlHClODWsM9lcz8ccsXXSax2m+sGQv88k0XRQUZJPhE7nnoSuwE=;1j577KumXsA03mN2pxjPmw=="
+secured: "EHgbhikFlWEVkglLi1a9hUCZHJbambEQhWYj7CPu5fxKMC0lJcFc5f7JRi4SKYx/fEx4EPqZcrsejVYc92/rcCPVmd94Era7cq11kkO6V1xLIJXRph34E+/UGEvfrP+S6kYVANWN+6JbZwVj5CsryUXBcz6Gl+VDSQofj8r+o1ujbN8BdXZ7MLsqF9eezg69BMk7UiJO6h3wED8KNNqpPpKX7wngmbN7tJJdV8ea9C19YHzW4qFLQGca49wPcJ1jia73/uZ2U+ox5gA8xpXNN5fEAUljS9JmEzOJicf0LSTgk+cK0pUydHPhyVQ2n8TscohHy9L4zArxNV3eVEPIGy6yul+DIYV+AY97fL4+IoM=;7dbATbhcwANIZPduSPdmFA=="
 ---
 

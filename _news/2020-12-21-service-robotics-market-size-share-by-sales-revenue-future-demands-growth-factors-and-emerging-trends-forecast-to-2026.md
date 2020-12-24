@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
 type: article
 quality: 75
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Products Market Size 2021 Research Report by Manufacturers, Regions, Type, Application and Forecast to 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. “Artificial Intelligence Products"
+    publishedDateTime: 2020-12-24T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-size-2021-research-report-by-manufacturers-regions-type-application-and-forecast-to-2025-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1024
     height: 614
     isCached: true
-
-related:
-  - title: "SoftBank-backed Chinese warehouse solutions startup bags $100m in series C+ round"
-    excerpt: "Founded in 2014, Quicktron develops robot intelligent warehousing solutions based on artificial intelligence. AD. Remove this ad space by subscribing. Support independent journalism. Its business covers the research and development, production, sales ..."
-    publishedDateTime: 2020-12-19T18:09:00Z
-    webUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-665320"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 29
 
 secured: "ZkI/NQwP6xLjKKWD1GJGfsvLvG3r10eYwADZlw5Z35tWb5k/ImyNYvKt9rq7/S3LBAzw4aILMh2fmdpnh783tbxhRVZ4CC/wRFzElxcyGXo8NSWU03eZmEnHApO2W3DsOptR4+NKLhavdB+fVY1R/K3RmqT7cTfXJxmUdoDefunTx6uSyRVRP+oc6MYEBtSbaxClNsXGkBpz7Eee/Cqv034NvVkdW2BXeZEuWcq8qp7SfCsrQLumL6akq3OIoa+16DiMdbnV32Tcz/j6Q6wAJddZF1KogWJCCac08zSar3oe4sPuP0MP7iQfbIeOHyUBeUPK2he8wqu3ZJMctIXeiReiTO+0A5EV8lc4LAZre1pnXlRI5FeD5Bmy0yIWzssFYAUL1bPGI77C+EXil1fxP6XeDTazwsVJ+pI51q65S3ZV4QBzxrYt2nXV5T7MC6uq7KiN/vBWWzRhPffnZpxtcmaLs/1AQtc3vGi7XqN+ZTaBI6RHtijx7CSdHfaz59e+aMtSktzJe/urEtvSK28guA==;IE7DI9ja0982h5lxb/yvjg=="
 ---

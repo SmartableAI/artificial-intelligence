@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Products Market Size 2021 Research Report by Manufacturers, Regions, Type, Application and Forecast to 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. “Artificial Intelligence Products"
+    publishedDateTime: 2020-12-24T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-size-2021-research-report-by-manufacturers-regions-type-application-and-forecast-to-2025-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai In Social Media Market Industry Analysis, Growth, Trends and Forecast - 2025"
     excerpt: "AI in social media market to grow from USD 0 6 billion in 2018 to USD 2 2 billion by 2025 at a Compound Annual Growth Rate CAGR of 28 during the forecast period It is expected that AI technology"
     publishedDateTime: 2020-12-23T11:33:00Z
