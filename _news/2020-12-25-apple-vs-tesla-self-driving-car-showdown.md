@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Tesla To Offer Full Self-Driving As A Subscription"
-excerpt: "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow."
-publishedDateTime: 2020-12-23T16:35:00Z
-originalUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/"
-webUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/"
-ampWebUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+title: "Apple Vs. Tesla: Self-Driving Car Showdown"
+excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
+publishedDateTime: 2020-12-24T19:55:00Z
+originalUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
+webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
-    width: 1024
-    height: 555
-    isCached: true
 
 related:
   - title: "Tesla Full Self-Driving subscription coming really soon"
@@ -230,6 +222,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Tesla To Offer Full Self-Driving As A Subscription"
+    excerpt: "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow."
+    publishedDateTime: 2020-12-23T16:35:00Z
+    webUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Elon Musk Confirms Tesla Full Self-Driving Subscriptions Coming Early 2021"
     excerpt: "You will also be able to buy FSD outright, and it seems Tesla would prefer you did that instead of paying a monthly subscription fee."
     publishedDateTime: 2020-12-23T15:33:00Z
@@ -301,16 +309,7 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
-    excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
-    publishedDateTime: 2020-12-24T19:55:00Z
-    webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
-secured: "LtB8LEMiQ+BrTS8VhJb1f36LntQMU64KS+u1MLW0LSWvUdf59sYR3vCiNbELUFJrsAtZCnQDhvVMfw4oRcWWxewG0ENe6fGYjf6twgXSR7CN1CDl7fedBZToIe5joLfsPQOrljHnPAtAgDUv6/fg3zEPydRvL5xYDCilwhSxuUnxXaBrVV2xYLNKF276GVoz/9BBV8tm96eL0bRPZ/MWRrHMXolv6GNggq9tJd9QqJUrAfOEFoLtMMXClUf0gOwclqIXRLxj1p4CkTqg43PQ30aqF419mBMqnZS6FdGqRZcbuGbBZjbT2X/8MV7QzUQxpZrJc7Su0rpRdPFOfJLpgLpDU35GsNbQlO6kJrGwt/X4nIrYStQWQqP3d3LQXkqaCCKwcdsRAJhEcxiiBi2wuWo70b1FswKdV+7GSrZECErZ5a0qZvTYl6jP0VZssZgWanGa5xXMNzz0PRQt4uwY0baQYFWB3iYYokJIOV9zMkUFuQkbSxlqOb1ieUA2fo8ZZr0zIT2mwh/Oi6hZcfBV0g==;SON9syaFFHVlgyWfGhYwxA=="
+secured: "zhuxYQtt34Pb7w5kxnv+HGk0Q4Dag1co+vmcYIt6KRRJLR2hxkIMvJQzsU4NPHzPALoSrhXtFaQCATT7+QoKKpX4dqIe8zHTq5RpeEBAIsaIqjYBshaJdKtd2Ld56CovBnOLB6DPbG3oOi+0/wKxsi4k8yO4wg54rUoNdY0IECZUhpNrLstnuuI4hYpZXOhRPh4i1zXGSkxKp9LeLd1TTcI4lpmahHsJ+BWyiK39sRaETh5pbttMiMdj9Gu3GStP+5fbfXpojW6aWAwjfvoZT2+SZflogPQyaT4Ahf2LcGpfWGplsa+lW1L+3yey4KCqDUw//HjSitXC7/PsFrJ7VdIztQEzidl4XiUi64Z2PEs=;ADuKTLiEULATul4Fgi7Qpw=="
 ---
 

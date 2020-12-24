@@ -301,6 +301,15 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 32
+  - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
+    excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
+    publishedDateTime: 2020-12-24T19:55:00Z
+    webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "u/Qj+ZxASDFwQd9OGBbKYoGbRMpb7Svt3+4yt3PeNdMsD+1KN1bwtzklhJwMPFpiN/1HG2E0onZvZ980RhEO4M05G0UJBCOqsLSZQCCtrz9QV8WKhFSJcLK+OnUd9HJv/k9Ft88HAshqY30lAjBU+wSpmo/YnyiGhf14uG78RjcpFnDEZ42hqmsgp+tD3Ob8UCDWk0xsIWuybbTCAPRL5uKEsO8MmvtBu0kVXf+cSzsNQJBy2ra65t39s5ONuAXO3NT7pODNiA+uHx2k3DthLx/SNtVCBkkAorhcXixi40vi7nVWNfOIjSkYbrCK7MMybSP3aiBL02Il8ZHPBurPXc/8s9Fn8nEI6EdeBAG1NQU=;CN+OyFMtGKSUm58Z3z5ZWQ=="
 ---

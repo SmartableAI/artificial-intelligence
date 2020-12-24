@@ -301,6 +301,15 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
+    excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
+    publishedDateTime: 2020-12-24T19:55:00Z
+    webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "ijX+Wnuw7lW53hF/j9ioCb2iU2EpU1EMO6oQjTDK/l2OzNQWYRJ8uDYIrsvS7yv4AU1RUM+2KslVClRDkAbj6fJjKE7Y54BYztNzqXhGHQwDhkcanWCJ6wGuIfCrCFGDZY4IoxRSnq0deWiooGKnctw1vGNe8q6n0F79UeOajlA3V7CkshyyqUb6btL6Kw56301717QUlNx5hUwWSIdcnJdjEjrh50994B0ElwD4qyRxddG1flYpiY/+YipNnLaG+Pf/rDM1Wa8L9e/H9Dwk/8MUa0ylxof/W5GKcmM1KuB+45poyGg5axkXyNXie2Yhv12MBE/pNKPErgr1oBQlBF8WwhBBeu+w6mBavAbTlgcyWxzN/zp0ETHc2hUYOZLVHM7M5To/oidhpJX+eMg877kz5AvfWF12ytce+K03d9VeeG2h9B4RrXYyU3bPeWhb39tlBr/eM79Pj+qlH3Hw0n/62rKNiuSMGFxAHWmfVkFxgDcrpa7BchJqw58iZenEsZrQdi/ARkZbAxHcyQ03Qw==;WG0uTNUFaQN74LAgFhIHZg=="
 ---

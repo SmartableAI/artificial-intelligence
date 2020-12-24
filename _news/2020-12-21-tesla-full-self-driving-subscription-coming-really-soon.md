@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-comin
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
 type: article
 quality: 89
-heat: 270
+heat: 280
 published: true
 
 provider:
@@ -305,6 +305,15 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
+    excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
+    publishedDateTime: 2020-12-24T19:55:00Z
+    webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "eBRioi0nm8g4R3oAafMwqvp/Oc44M6CCI7zsWH4DORq/bt33WhBLAVggwxcbBZGgueE2Li0LJig7uiLdbT8dJo7esA+P/M7zyIFZzPU1VkThwPPIf1ISmTlx5vb21c9BHq+5av/HFX/zJuOgpo+AxkiJNECCYg2sGNX0+o2BhwxdPwvW3bI11p5qzDunFxTrCzivW+OUx7juA8Cee6I6Ypn++rouIBRt2vnUvs9vo7M/XVybdNdQZnbVxab9D5WHN26qOJjDEaZmpyib6iPIXhNROoWpitB9x+o0/s12Z9WhpG/cOB+PtNfITJFgz/ei5Zy87OK1zsyb9WMkMgdjcFLWz1gqzoR2U65eIX49lbkOwtG05M6YKznzmo007zghACBcgVuZup/yxORFihQeStvBHFXmMZIdkZ/HPZhRs04j6+ntetnNRzYsCVN1/c454zcqYBkmmLN/nNdDRQ2EuedQ3VX6sL/sn+YOXkeP7zVkfrK/yUJlJcHTXdxjU8TbQj5kJuRrA0RWKn8yJ4E7WA==;6wuqbST6d3bOBPskzfbONg=="
 ---
