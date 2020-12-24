@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -45,26 +45,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
-    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,"
-    publishedDateTime: 2020-12-23T14:10:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
-    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
-    publishedDateTime: 2020-12-23T20:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18916127/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-se"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18916127"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18916127"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "8XVVokF0Gjmu+t4Bf962VwryQEpps3D7bUyRxhUUXFcGcfmEVczWKA5OUMm+gFV2+IvNooUAtmWg0PfSDhV8AJbfO3wUi6w4jY1hbmxSNvFy+Y4WbwbhuzP7UBnicR7bI8cSJO7tN03oM/XiB+agHE/y1PEIWiEsiD/PpBZQafjRLFFeYNW1luIbQnqEBIPypbVxfjKA1LLs5MaTdZR0kgJAfxRYkWZf1FamQfyh3MJamiv16gM7vEGS2mnI4SoBsONpf1s10KLA5ax60MQqgVzZfwjs6SVuHQYTvL/BoUMT4qb8g73v3nIx5oc98s65JLU0AuivaHNGzUEQKptCffw9sdoBOzpDPZa/sldL30EmKXFizGP5M6kgieVDRfc+4JoVHFfhx48kGlSLC+VGg6sYds4JMQ2tySbMjIYhdznxH8pvAamsM4R/eDy/kCoGY5wUH381FkGgszxg+iUhb4YkfliOerASMbbeNyNEkjfWPg0ClxIALHNCyvD1ujy7YLmDPwFHk/5nbcjQzHgM9g==;h6Pq7wJceapawrVTKEMKvQ=="
 ---

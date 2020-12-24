@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Encourage AI adoption by moving shadow AI into the daylight"
-excerpt: "\"This is particularly important as AI begins to spread throughout all aspects of an organization, including marketing, research, legal, HR, and even recruiting.\" A good place to start AI policy and procedure enactment is to look at IT policies and ..."
-publishedDateTime: 2020-12-24T13:25:00Z
-originalUrl: "https://www.techrepublic.com/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
-webUrl: "https://www.techrepublic.com/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
+excerpt: "This is the challenge of shadow artificial intelligence (AI), which enables end business users and standalone data science departments to develop AI data models and applications independently, but not necessarily with important checkpoints for security,"
+publishedDateTime: 2020-12-24T15:30:00Z
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 848
     isCached: true
 
-secured: "vmXAPrvTwkcMsyejHb74bIOH36dGA/A6FdIo3QbdeP3gkZkcAE3l6k2uXOeGIp4u/6xaabrz8kK6WnL4vlupKy1HLd3X1aZgDScIKa7gMmhZ7cR4m2tWN/EyAIBtVDQcB3FE2WpXkFJXO2W3wZFCLp3rrFe54aJr3vdg6yOXnTyI6RHv7wj8Jjnc5yJNjfM28SVv5LsvCXVaUA5wEFLMsfPRPe2DwbonXLhQKlQl+DTkxjtbkhPT4AUHTbcly1w+GaKEXTGHp5hmk19UK7qTNxIqNP9dYWj1SfZMSmy8ABMxgUjyjQCypd47xI28jPB/548KeYH9EcSx7Gw3MOXUA3OefQVRdLY8xMel67ZBXMY=;6hBNuk9tebucK3PBClfXNA=="
+secured: "EqF6Ox+NMHEBrj0W46SaFPvXoTVTbCdTaiQzdEvxVtISCpQu5rE9Bm3bqsRTPe+3JAjGrCY5kkke0MUuYta83ph+OS0XijNBzSigjHMechAMuwhf1KpQb5ydcDvVvm0k+++gB4Pn+7lM0k9wdG2lIiLa9H3TMc28mYTCmEMl4Q8QIHnaAqxe0150RLL01IKcr4xW77CD/dp/GEz83DgfwjYn2eKNmwplgTaX+dykonknVtsxCuTcvSLU/wNqbLHbUDTtOwggt8JPYQTX2bZGqHIl2VGF1KtoJ+xQLpG+9k9lOAWyEzO77AiOc/PB3VIXY77R3qxPWpS+TL4IKD31OdDVSw88QqXlwDlNgADPwQY=;FBSRcTEZ+MCdaweH7KF2Bw=="
 ---
 

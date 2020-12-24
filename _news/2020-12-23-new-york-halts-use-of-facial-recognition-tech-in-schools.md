@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New York Halts Use Of Facial Recognition Tech In Schools"
-excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
-publishedDateTime: 2020-12-23T01:57:00Z
-originalUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
-webUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+excerpt: "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses."
+publishedDateTime: 2020-12-23T02:03:00Z
+originalUrl: "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+webUrl: "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
 ampWebUrl: "https://www.law360.com/amp/articles/1340315"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315"
 type: article
@@ -305,6 +305,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "27bMteCGv1A6fwXjXripXO9ELriSN51khsPXBHAVORA+6MUeTpRIsa41/7q3bf2oJhAIZAgxSQNdtG87nVvXdE6OtF8kBEDeHOHDW9Loj2yvpAgFuXyZ91iL+kGVnQF6yu86kz+qrCvHXJTYxHOsyv8in0/+K21g+AwlooAwd+mBQ0NGCi9w3a0QCGApm61ipXUqq7Xx0DwuUqoFz9/kumsp14hi5kkT7+CBbcwJMICnBqgGgBliqqTV+Lt3Zjqww3YcGq6JxKoZ72x+eOPyUJWkr8xXBdTR5Tv1QBeLCdLOreGpKAZ+e5ZJ2M+fnJGDequ0tulOl4vxr12sHKADQA8jrsv7gqvX9/fTszluIv4=;kv5+ykfWWy8bytd3lMGLJw=="
+secured: "s7kzN8iiHa9wG9mX802mMYbABYVOLimwc9cNZj6JK3zaLuEtQEsCdUfbZDBXB8omV0z05WFbotpRajD1UFJTi8jdk2sHZi9BG5IS926byiLHCRcpOnCGJV7ICMwb+qQYmS9xtLYctnSfbd15EFJPn5rd8ApQZ8Bf9sWeWKylpNtPrFmYmr3fdvqVEtEy4vVEyr97OVas3JWsyPKeZTDZ6gdaquQJSFwcGcNt/BAyGLKZWOG9wdAqcXidMp3x69jZik+6/azZn/An9WntQLD19YHhBQytltJ8zTakHte+I3sqIMcaVO6M+x0O6e/kCytx4iQzWG7DH/VdiqbXTuZiVvochar7zoKwcrST6BAal1A=;OUdr6D0CNcApwUAl4nG/qA=="
 ---
 

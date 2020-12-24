@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "The Latin America Machine Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
+    publishedDateTime: 2020-12-24T15:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-share-size-2021-trends-forecast-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai In Fintech Market Size, Share, Growth, Trends, Analysis and Forecast - 2025"
     excerpt: "AI in Fintech market size is expected to grow from USD 959.3 Million in 2016 to USD 7,305.6 Million by 2025, at a (CAGR) of 40%. AI in the fintech market is said to have the potential to grow in the coming years due to technological changes that improve ..."
     publishedDateTime: 2020-12-23T11:17:00Z

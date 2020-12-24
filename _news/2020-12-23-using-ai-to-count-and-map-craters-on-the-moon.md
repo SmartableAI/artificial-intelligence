@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Researchers use artificial intelligence to ID mosquitoes"
-    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers have shown the effectiveness of an artificial intelligence system -- known as a Convoluted Neural Network -- to classify mosquito sex,"
-    publishedDateTime: 2020-12-20T00:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Global Hearing Aid Market Outlook to 2023 - Rising Demand for Artificial intelligence - ResearchAndMarkets.com"
     excerpt: "The “Global Hearing Aid Market Outlook to 2023 - by Hearing Aid Devices and Hearing Implants, by Region, by Type of Distribution channel r"
     publishedDateTime: 2020-12-21T09:37:00Z

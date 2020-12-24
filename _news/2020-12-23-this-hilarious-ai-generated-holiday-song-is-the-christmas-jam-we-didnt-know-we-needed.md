@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "We asked an AI to write the Queen's Christmas speech"
-    excerpt: "Next, WIRED turned to Melissa Terras, professor of Digital Cultural Heritage at the University of Edinburgh and a Turing Institute fellow, and David Beavan, a senior research ... he read on Facebook groups,” she says. “That’s what AI is right now.”"
-    publishedDateTime: 2020-12-24T09:23:00Z
-    webUrl: "https://www.wired.co.uk/article/ai-queens-speech-christmas-day"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/Q6GoyOkPB3P/crop/1440/0.5235602094240838/f/wired-queen-ai.jpg"
-        width: 1440
-        height: 753
-        isCached: true
   - title: "The ghost of Christmas future: how artificial intelligence Santa could destroy the world"
     excerpt: "Artificial intelligence creates new jobs and professions, but it also destroys many old ones. What about journalism though? Our reporter, Miltiades Schmidt, wonders whether or not he too might one day be replaced by a robot."
     publishedDateTime: 2020-12-23T00:46:00Z

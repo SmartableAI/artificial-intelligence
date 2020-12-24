@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nuro acquires self-driving truck startup Ike"
-    excerpt: "Ike, a self-driving truck company, has been acquired for autonomous delivery vehicle startup Nuro for an undusclosed."
-    publishedDateTime: 2020-12-23T17:12:00Z
-    webUrl: "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/"
-    ampWebUrl: "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/"
+  - title: "Robotics company gets OK to charge money for self-driving services"
+    excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
+    publishedDateTime: 2020-12-24T16:56:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services"
+    ampWebUrl: "https://dunyanews.tv/amp/english/579822.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/1_9IoN3j6ndt5nxBKUJZWqbA-e1575988061611.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1"
+        width: 556
+        height: 370
         isCached: true
   - title: "Nuro gets first California OK to charge money for self-driving services"
     excerpt: "(Reuters) - Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service. Relying on a remote human ..."
@@ -63,17 +63,6 @@ related:
         width: 676
         height: 545
         isCached: true
-  - title: "Self-driving delivery unicorn Nuro picks up S.F. freight startup"
-    excerpt: "About six weeks after scoring $500 million in new funding, self-driving local delivery unicorn Nuro Inc. has acquired Ike Robotics Inc., a San Francisco startup that focuses on autonomous freight hauling. The price that Mountain View-based Nuro ..."
-    publishedDateTime: 2020-12-23T18:59:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/12/23/nuro-acquires-ike-robotics.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/23/nuro-acquires-ike-robotics.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/23/nuro-acquires-ike-robotics.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
     excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
     publishedDateTime: 2020-12-23T22:12:00Z
@@ -116,6 +105,26 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
+    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,"
+    publishedDateTime: 2020-12-23T14:10:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
+    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
+    publishedDateTime: 2020-12-23T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18916127/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-se"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18916127"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18916127"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "uoIjflOVnzrw7dHlfd6rePlT31mSCPNkciSNAm/N4HeQWdmbLo2jBNDpTuxVbRo7aopzq7XmBwFbjExgWbS8/rVISPss/42W9GuK0cJCctTeTpWNSZpVxwnhHdCQfWsACxP+GNY/GHkzaIYs+j1a0u/RyPt3ALiUjVS8jvTSj9Sw0MKQYcKhZZmY/cbwoT+pNuL2IkpvsobgsBV6PgD/Il7B4qQUwbMpjk/mjkVCdNneVJo0CJQsgkHI7n5C+8zxZt5aZt61bcio4s2lMBFj/2mjl2k2ELUIK1x6TlxX+U8IbnGy1uiHO1gdrvvCkdr1OJ2r6gSdJKEN5AlR1NqZh4Zt1Vx93ukGxdc+nGu1bpkVJz1B2Be/8hIJA22P7RaiA3CcFAPBpJpX/zjxgHUd/ZClH6fuhXh71N+RWhuz+7FLOjYetbjZLUkiMd1u/DIBnp7K6tJOVN9Avvse8XRnY/i8iiBbjidD7v7CIIoY709+D132rYAlzPVIavBf3Y4B5VfY1FwdaYphboUXes6v6w==;PZS6qixaJLHU0zHz8Kmf9w=="
 ---

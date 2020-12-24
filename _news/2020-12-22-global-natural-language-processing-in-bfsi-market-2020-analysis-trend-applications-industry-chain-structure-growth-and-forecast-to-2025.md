@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market Report With Top Countries data, opportunities and growth Forecast to 2026 - Marketdesk"
-    excerpt: "The latest research study titled Global Artificial Intelligence in Diabetes ManagementMarket Research Report 2021 by Marketdesk contains all analytical and statistical brief summary regarding market summary,"
-    publishedDateTime: 2020-12-24T09:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-report-with-top-countries-data-opportunities-and-growth-forecast-to-2026---marketdesk-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Computing Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
     excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2020-12-22T12:07:00Z

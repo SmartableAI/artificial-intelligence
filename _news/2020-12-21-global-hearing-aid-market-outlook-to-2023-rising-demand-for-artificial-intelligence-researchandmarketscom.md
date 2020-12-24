@@ -50,15 +50,6 @@ related:
         width: 2380
         height: 2400
         isCached: true
-  - title: "Researchers use artificial intelligence to ID mosquitoes"
-    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers have shown the effectiveness of an artificial intelligence system -- known as a Convoluted Neural Network -- to classify mosquito sex,"
-    publishedDateTime: 2020-12-20T00:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "JJXjSa6/EZ1w227jyw9h7fuAm3zkoYAYRvf+mEAgYehUMuiRM3dKNLD6NmmaKW44qQRJYgDRHMITAcLaeYlwWS2knRcbiyGzXdjO9F+SgQjFKmql1gBXYSVQ6XdDVlemhz3y/XDJDxFuqRXmV7ewTvq0BtwVsfu6HvM7xHj5DWAS9Fa2bV1TOZKCgIrXBN3qDFYkoAvSpGsQ6tdwVIo/bPFL4VjKeT99GKrcolKsMpbf6os+iC87mDVL2+Uve7qtV305ZmN2Zz2OKAGZliJXWQEb/bHYQsaNU37JqfYQqRJ//fXqHuCOAxZooqPDC81r9dc5AhH5eoEPcH1FhuW5PTh6lkVwhuAabHY6EOg1PHU=;KKOhAKHAYnF+H7wSa2H9rw=="
 ---

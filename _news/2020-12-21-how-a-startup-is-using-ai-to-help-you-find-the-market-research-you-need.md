@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/20/how-a-startup-is-using-ai-to-help-you-find-the-market-research-you-need/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 2380
         height: 2400
         isCached: true
-  - title: "Researchers use artificial intelligence to ID mosquitoes"
-    excerpt: "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers have shown the effectiveness of an artificial intelligence system -- known as a Convoluted Neural Network -- to classify mosquito sex,"
-    publishedDateTime: 2020-12-20T00:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201217145223.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Global Hearing Aid Market Outlook to 2023 - Rising Demand for Artificial intelligence - ResearchAndMarkets.com"
     excerpt: "The “Global Hearing Aid Market Outlook to 2023 - by Hearing Aid Devices and Hearing Implants, by Region, by Type of Distribution channel r"
     publishedDateTime: 2020-12-21T09:37:00Z

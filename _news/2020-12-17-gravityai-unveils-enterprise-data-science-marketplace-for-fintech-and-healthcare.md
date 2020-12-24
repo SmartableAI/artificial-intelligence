@@ -1,27 +1,25 @@
 ---
 category: news
 title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
-publishedDateTime: 2020-12-17T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
-webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
+excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
+publishedDateTime: 2020-12-17T15:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
-    width: 958
-    height: 502
-    isCached: true
-
-secured: "6bymBCvP5E8MtDpZRVh0lWkRQi+KkrY9kwjlP/2IkY3oxqgveeXrq+xjmM7jkSSk/6As8/NJ+3mgk9gYdi+zrnNVb/m47u0/5bVxZYfexWfafw0tWEqHgSF8fjvYMRcolKayF3Cr2UQyBvSOmqpmLoqoHyRL6UsrGqeXrIqFUXPpY+MNLz/ZTpmk637oYRv7vldhMLVs2VSY2LP9039C9pRYVqSqijZDHCEvPVdBVTA3G9DAPmbGVG04QtgUDSQLnbxEKRLYgVY+a6s2WaTYm+Z/Ns4qi7WjvRjydAcYKu/RD6JUGnHR9yzR44BarWVGKHOWHSHRiytxF/mN1Hpzb5d18M0Pw4pZFCwN3bNFRWQ=;FBsxUBRaJO6xTZCykO2DsA=="
+secured: "SjulwCLGHqeztMYLiOEyBpg37G5Kj1w7i9sSl6sR2jWDyaZreKGEeudyiDJPGGs36T61jd5kxJOH6lM5P+3b5QzZYUIjAHURk/oOHcqNL+Fw91iaBBrI4GHYx7N8LYRRggRdLvGMTlN1wkxGKNAaTm36EllCfehUvolEJav3QcQ6fxEZqou/HUt88qONYMYaEyc0hHeGlN8Szx5xj9eWQKvrP4CMAzupexhd8rBc2+0XdiDkdL6K2ucVnQHhK4/qGFOUqwr3RK6TbodQ/1hzkerGfYGjaxC5Zrisyxhrexdz68OAcYZeDWpRUIalBabG8+DDD1KFSTcZh5MPKoJfV9IUNYxPfISKLVT+d5dYX8s=;MK3hV8O3s7G00I3JYMx+wQ=="
 ---
 

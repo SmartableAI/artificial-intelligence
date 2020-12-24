@@ -362,7 +362,7 @@
       "originalUrl": "https://www.techrepublic.com/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -749,19 +749,19 @@
     {
       "path": "_news/2020-12-18-researchers-use-artificial-intelligence-to-id-mosquitos.md",
       "title": "Researchers use artificial intelligence to ID mosquitos",
-      "excerpt": "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,",
+      "excerpt": "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system--known as a Convoluted Neural Network--to classify mosquito sex,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg",
-          "width": 2592,
-          "height": 1944,
+          "url": "https://www.eurekalert.org/multimedia/pub/web/251352_web.jpg",
+          "width": 1440,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -769,13 +769,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
-      "publishedDateTime": "2020-12-17T11:02:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T11:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

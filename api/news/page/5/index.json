@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-18-synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work.md",
+      "title": "Synthetic Data Promises Fair AI And Privacy Compliance, But How Exactly Does It Work?",
+      "excerpt": "Synthetic data, itself a product of sophisticated generative AI, offers a way out of privacy risks and bias issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbfe69619113630a107f3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4077%26cropY1%3D283%26cropY2%3D2577",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/12/17/synthetic-data-promises-fair-ai-and-privacy-compliance-but-how-exactly-does-it-work/amp/",
+      "publishedDateTime": "2020-12-17T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-kangaroo-court-ai-education-machine-learning.md",
+      "title": "Kangaroo Court: AI Education – Machine Learning",
+      "excerpt": "The past five years have witnessed a steady growth in both the testing and application of AI solutions for both legal ops and litigation teams. Whilst many of these applications are early stage, some are beginning to see enterprise-wide adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
+      "originalUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aceds.org/wp-content/uploads/2020/10/Kangaroo-Court_Blog-3-1030x515-1.png",
+          "width": 1030,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ACEDS",
+        "domain": "aceds.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-google-ai-team-demands-changes-after-dr-timnit-gebrus-departure.md",
+      "title": "Google AI team demands changes after Dr. Timnit Gebru's departure",
+      "excerpt": "Two weeks after the departure of AI researcher Dr. Timnit Gebru, Google’s Ethical AI team has issued a list of demands to its management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-ethical-ai-team-letter-174518115.html",
+      "originalUrl": "https://www.engadget.com/google-ethical-ai-team-letter-174518115.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F6dd60fa0-74fb-11ea-bf7f-7fb473523e83&client=amp-blogside-v2&signature=729ca1927b897fbd0725d08b45ec058dcc6ac7b6",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-ethical-ai-team-letter-174518115.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ethical-ai-team-letter-174518115.html",
+      "publishedDateTime": "2020-12-17T16:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform.md",
       "title": "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform",
       "excerpt": "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward.",
@@ -361,19 +507,19 @@
     {
       "path": "_news/2020-12-18-researchers-use-artificial-intelligence-to-id-mosquitos.md",
       "title": "Researchers use artificial intelligence to ID mosquitos",
-      "excerpt": "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,",
+      "excerpt": "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system--known as a Convoluted Neural Network--to classify mosquito sex,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/p-rua121020.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg",
-          "width": 2592,
-          "height": 1944,
+          "url": "https://www.eurekalert.org/multimedia/pub/web/251352_web.jpg",
+          "width": 1440,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -381,13 +527,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
-      "publishedDateTime": "2020-12-17T11:02:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T11:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -760,34 +906,34 @@
     {
       "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
       "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
-      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their",
+      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook",
-          "width": 958,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T07:15:00-08:00",
+      "publishedDateTime": "2020-12-17T07:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1111,144 +1257,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-global-artificial-intelligence-in-healthcare-market-forecast-to-2027.md",
-      "title": "Global Artificial Intelligence in Healthcare Market – Forecast to 2027",
-      "excerpt": "WiseGuyReports.com adds \"Global Artificial Intelligence in Healthcare Market Research Report 2020 Analysis and Forecast 2027\" reports to its database. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1608137550.jpeg",
-          "width": 278,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18827297",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18827297",
-      "publishedDateTime": "2020-12-16T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-with-ai-maturing-are-humans-still-needed-to-fight-cybercrime.md",
-      "title": "With AI maturing, are humans still needed to fight cybercrime?",
-      "excerpt": "Cybercriminals are clever, and AI cannot always account for that. This is where cybersecurity and AI professionals come in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "originalUrl": "https://www.techrepublic.com/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/06/ef0111ce-ea65-4960-a59e-9a56cbae842a/resize/1200x/509cfce7c60248092f686616d40569d1/istock-1132912672.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "publishedDateTime": "2020-12-16T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-new-ai-chips-managed-services-among-flood-from-aws-at-reinvent-2020.md",
-      "title": "New AI Chips, Managed Services Among Flood from AWS at re:Invent 2020",
-      "excerpt": "AI Trends’ Staff  Amazon Web Services CEO Andy Jassy delivered a three-hour keynote at a virtual event on Dec. 1, the AWS re:Invent 2020 event. Jassy, who has been with Amazon for over 23 years, and who is now seen as the most likely successor to Amazon founder Jeff Bezos,",
-      "sourceUrl": null,
-      "webUrl": "https://internetofbusiness.com/new-ai-chips-managed-services-among-flood-from-aws-reinvent-2020/",
-      "originalUrl": "https://internetofbusiness.com/new-ai-chips-managed-services-among-flood-from-aws-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://internetofbusiness.com/wp-content/uploads/2020/12/12-11AmazonAWSlogo-2.jpg",
-          "width": 550,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Internet of Business",
-        "domain": "internetofbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],
