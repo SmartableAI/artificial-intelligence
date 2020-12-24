@@ -4,19 +4,17 @@ title: "AI Debate 2: Night of a thousand AI scholars"
 excerpt: "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,"
 publishedDateTime: 2020-12-23T21:49:00Z
 originalUrl: "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
-webUrl: "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+webUrl: "https://montrealartificialintelligence.com/aidebate2.html"
 type: article
-quality: 87
-heat: 87
+quality: 167
+heat: 167
 published: true
 
 provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f068ec2f-b729-41a5-95d5-03bf2c6ff732/screen-shot-2020-12-23-at-4-16-01-pm.png"
-    width: 3360
-    height: 2100
+  - url: "https://montrealartificialintelligence.com/aidebate2mosaic1440x720v8.jpg"
+    width: 1440
+    height: 720
     isCached: true
 
-secured: "Fk8sXZv6BMFtNxEike19OL6moWljdo8SPleMuj0jbAKpanuLuwwEF+MnclaLPMtTE0R9VX0WLYW1GFgYDSnb3Ia71OiU2p8jMP0KQxCq7xRhtHie+dexWHYcaqkR+5xMVfiXC78i+z3aoskegIt87tODRzcy2oquPt4YUYzejxCtVFhWVHnTm8nSXwGG3ru33dAD4/RCOQWM3hbb2Dhahk8R8von6ucJ2jnCotlxOxwZ9Ak8qFeWFV7L3rHIfewLuz04a3rmkaMfg5/zVMPKJ3G1wYPdEMCh8SzhkQ5peIxRizKDZh3/8tJ+U2tdwB4hr06aaiIAJ1xCnQ/uwECpACcK/8NMNeiu/uiq0m+ObAo=;endyiCztsKvT3FSHksR7Ow=="
+secured: "uNSD3vC/ISkzMHs3tP8dAiImRqJokX/QUn9QSvMKWhAShw22FcVj3wCPaVQdpVVk6gCrCyl6r0Ix7OXR6tWfDP1DPTqVeb/Tfp3iPGVfNO5oJM5PNWcEwrwCdFkcyQK2nOJj7jMbvBT/4yz89mpsXrJ8TEYySqrpZevX5ecqs/cSaMGYunCJAzQ6HMtfE0fZu6dsBQY5yQ/29H7yAbup1vGuWXPN1y6cxWToeZ7oj7Xwu5FBfbs2OH/G4P9w43RtTnC3UsRIQPDbQasHwVH1muwXcg502gRHPmp1gmRTSzF6qFFQuSony+P06tdyk06cM/3ZQXjBK/VtBVQ5ls577c7Wfc9KySDVCJW46olkOS0=;0gnK/0KClMQ0I0cVJOjeYg=="
 ---
 

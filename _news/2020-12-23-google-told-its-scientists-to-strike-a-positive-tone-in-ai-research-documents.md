@@ -58,6 +58,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Google told scientists to use 'a positive tone' in AI research, documents show"
+    excerpt: "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research."
+    publishedDateTime: 2020-12-24T13:50:00Z
+    webUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/5fe492abedf8920018093a2c?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Google told its AI research scientists to ‘strike a positive tone’ on sensitive topics"
     excerpt: "Google this year tightened control over its scientists’ papers, requesting authors to refrain from portraying its technology negatively."
     publishedDateTime: 2020-12-23T15:46:00Z
@@ -121,22 +137,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Google told scientists to use 'a positive tone' in AI research, documents show"
-    excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
-    publishedDateTime: 2020-12-23T19:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2"
-        width: 600
-        height: 360
         isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation."

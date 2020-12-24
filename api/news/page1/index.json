@@ -2,6 +2,211 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-24-national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future.md",
+      "title": "National Grid sees machine learning as the brains behind the utility business of the future",
+      "excerpt": "If the portfolio of a corporate venture capital firm can be taken as a signal for the strategic priorities of their parent companies, then National Grid has high hopes for automation as the future of the utility industry.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
+      "originalUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1171442301.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
+      "publishedDateTime": "2020-12-24T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight.md",
+      "title": "Encourage AI adoption by moving shadow AI into the daylight",
+      "excerpt": "\"This is particularly important as AI begins to spread throughout all aspects of an organization, including marketing, research, legal, HR, and even recruiting.\" A good place to start AI policy and procedure enactment is to look at IT policies and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/",
+      "originalUrl": "https://www.techrepublic.com/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/encourage-ai-adoption-by-moving-shadow-ai-into-the-daylight/",
+      "publishedDateTime": "2020-12-24T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-google-develops-an-ai-that-can-learn-both-chess-and-pac-man.md",
+      "title": "Google develops an AI that can learn both chess and Pac-Man",
+      "excerpt": "We've developed AIs that can tackle these games, too, but they have had to take a very different approach to the ones that conquered chess and Go. At least until now. Today, however, Google's DeepMind division published a paper describing the structure of an AI that can tackle both chess and Atari classics.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2020/12/google-develops-an-ai-that-can-learn-both-chess-and-pac-man/",
+      "originalUrl": "https://arstechnica.com/science/2020/12/google-develops-an-ai-that-can-learn-both-chess-and-pac-man/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/3536942268_68d718be1f_b-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-is-c3ai-stock-a-buy-after-almost-quadrupling-since-its-ipo.md",
+      "title": "Is C3.ai Stock a Buy After Almost Quadrupling Since Its IPO?",
+      "excerpt": "IPO share price action is any indication, investors think C3.ai is an incredibly promising company. After pricing at $42 per share, the stock has quickly skyrocketed above",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F605390%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
+      "publishedDateTime": "2020-12-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020.md",
       "title": "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020",
       "excerpt": "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop",
@@ -258,17 +463,17 @@
       "title": "AI Debate 2: Night of a thousand AI scholars",
       "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "webUrl": "https://montrealartificialintelligence.com/aidebate2.html",
       "originalUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f068ec2f-b729-41a5-95d5-03bf2c6ff732/screen-shot-2020-12-23-at-4-16-01-pm.png",
-          "width": 3360,
-          "height": 2100,
+          "url": "https://montrealartificialintelligence.com/aidebate2mosaic1440x720v8.jpg",
+          "width": 1440,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -276,8 +481,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-23T13:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -285,7 +490,7 @@
         "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -505,7 +710,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -713,7 +918,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1037,202 +1242,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
-      "title": "Koo Kwang-mo's robotics push starts to pay off",
-      "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202012/49f47f19d777441eb7b1b39e349401ac.jpg",
-          "width": 980,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "publishedDateTime": "2020-12-22T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-roast-your-own-spotify-listens-with-this-snarky-ai.md",
-      "title": "Roast your own Spotify listens with this snarky AI",
-      "excerpt": "If you want to be judged, you open a page titled “How Bad is Your Spotify” and you log in with your Spotify account. (It might take a couple refreshes on the “Loading your music library” page.) This absolute jerk of an AI then drags you mercilessly while it pulls your playlists and top tracks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "originalUrl": "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/hamXm1ANrHMEOELR53wT_VXLWQs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68569960/acastro_180213_1777_0004.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "publishedDateTime": "2020-12-22T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources.md",
-      "title": "Exclusive: Apple targets car production by 2024 and eyes 'next level' battery technology - sources",
-      "excerpt": "Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the matter told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY?il=0",
-      "originalUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-idUSKBN28V2PY?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545461268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1HR",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28V2PY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY",
-      "publishedDateTime": "2020-12-22T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts.md",
-      "title": "AI Is More Than A Buzzword And Being Deployed Now On Ships And Golf Carts",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as more than ever, organizations are adopting artificial intelligence (AI) to bring efficiency, productivity gains, and a return on investment and how the cloud has become integral in advancing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2607be8d7635dd433bbb2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "publishedDateTime": "2020-12-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

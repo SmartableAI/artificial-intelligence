@@ -84,6 +84,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
+    excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
+    publishedDateTime: 2020-12-23T22:12:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-nuro-cleared-commercialize-service-calif"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Nuro-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Self-driving startup Nuro cleared to commercialize service in Calif.; firm makes acquisition"
     excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
     publishedDateTime: 2020-12-23T22:12:00Z

@@ -2,6 +2,211 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-12-07-how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021.md",
+      "title": "How will companies use AI hiring software in the Great Rehire of 2021?",
+      "excerpt": "With record numbers of candidates looking to work remotely, recruiters will have to expand beyond their usual geographic footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/hiring.faces_.GettyImages-1145150839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
+      "publishedDateTime": "2020-12-07T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-mohsen-fakhrizadeh-machine-gun-with-ai-used-to-kill-iran-scientist.md",
+      "title": "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist",
+      "excerpt": "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
+      "originalUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/475A/production/_115866281_mediaitem115672686.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359",
+      "publishedDateTime": "2020-12-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal.md",
+      "title": "Amazon’s self-driving Zoox vehicle spotted ahead of next week’s reveal",
+      "excerpt": "The first vehicle from Amazon-owned self-driving startup Zoox has been spotted on the streets of San Francisco ahead of its reveal next week.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/",
+      "originalUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/zoox-spotted-car-autonomous-unveiling-ev-future-self-driving-796x448.png",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/",
+      "publishedDateTime": "2020-12-07T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami.md",
+      "title": "Ford and Argo AI kick off charitable food delivery pilot in Miami",
+      "excerpt": "Ford and self-driving car startup Argo AI are conducting a pilot in Miami to deliver school supplies to families",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/1_oicU5rThFycr0IEq7Asj3A-e1607120859779.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/amp/",
+      "publishedDateTime": "2020-12-07T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-retina-ai-health-inc-welcomes-nwamaka-imasogie-as-chief-product-officer.md",
       "title": "RETINA-AI Health, Inc. Welcomes Nwamaka Imasogie as Chief Product Officer",
       "excerpt": "AI Health, Inc. as Chief Product Officer. She joins from Microsoft’s Healthcare AI and Research team where she was Principal Software Engineer. Nwamaka has a passion for healthcare and is driven to build technology that will save lives.",
@@ -993,196 +1198,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-coronavirus-triggered-a-healthcare-ai-boom-was-it-worth-it.md",
-      "title": "Coronavirus triggered a healthcare AI boom. Was it worth it?",
-      "excerpt": "In late January, scientists at DeepMind, Google’s London-based AI unit, gathered to discuss whether there was anything they could do to help fight the brewing coronavirus pandemic. At the time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/ai-healthcare-boom-deepmind?utm_mailing=WI_NEWS_Daily_011220",
-      "originalUrl": "https://www.wired.co.uk/article/ai-healthcare-boom-deepmind?utm_mailing=WI_NEWS_Daily_011220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wi-images.condecdn.net/image/3W71A1LRapa/crop/1440/0.5235602094240838/f/wired-protein.jpg",
-          "width": 1440,
-          "height": 753,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-05T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-tesla-cuts-full-self-driving-upgrade-price-by-1000-for-some-customers.md",
-      "title": "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers",
-      "excerpt": "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "originalUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "publishedDateTime": "2020-12-05T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science.md",
-      "title": "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science",
-      "excerpt": "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
-      "originalUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fbfcbc658-3650-11eb-ab48-f271d195f66f.jpg?crop=1600%2C900%2C0%2C0&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-05T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-more-than-1500-google-employees-sign-petition-condemning-firing-of-black-ai-ethicist-timnit-gebru.md",
-      "title": "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru",
-      "excerpt": "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
-      "originalUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
-      "publishedDateTime": "2020-12-05T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

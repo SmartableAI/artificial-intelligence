@@ -1,25 +1,27 @@
 ---
 category: news
 title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
-publishedDateTime: 2020-12-17T15:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
-webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
+publishedDateTime: 2020-12-17T15:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
+webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Healthcare
 
-secured: "5GF6d1Auzq+vB8SUBq7UxZU1kJlrk6qHbYjljoiWbkJ7SKyF9pFvEOHoT/KvUOzkfuv5w+FLhMXmNG/wf1z35chUkzecmryQQ/PktTnP9hs+yQD0znaX6ISwzVfd5ORqTs8XST0gVZbUVkuoDKgSiSGDX/pZy5i/Bhpaq+cbKpDe3ryeO4CVys+Zo1JRczWw1/MsMzT2Iacay/qLoPgPjJmEBQrw5rkVksPdyvM2WUkDdn0uS/jY6KufL0rc3XYr87iecddkVSuv/KtTUee0yAus98K1gJDTNex8J8q/07QKPI4OyRxpuXsu4+UN6jvYLVBhvEQALb4G7fBpQO0E8m/fPht5VaU+gdDbSUSGiaE=;P8Y5ot6xPRapsyo+Q4Cfsw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
+    width: 958
+    height: 502
+    isCached: true
+
+secured: "6bymBCvP5E8MtDpZRVh0lWkRQi+KkrY9kwjlP/2IkY3oxqgveeXrq+xjmM7jkSSk/6As8/NJ+3mgk9gYdi+zrnNVb/m47u0/5bVxZYfexWfafw0tWEqHgSF8fjvYMRcolKayF3Cr2UQyBvSOmqpmLoqoHyRL6UsrGqeXrIqFUXPpY+MNLz/ZTpmk637oYRv7vldhMLVs2VSY2LP9039C9pRYVqSqijZDHCEvPVdBVTA3G9DAPmbGVG04QtgUDSQLnbxEKRLYgVY+a6s2WaTYm+Z/Ns4qi7WjvRjydAcYKu/RD6JUGnHR9yzR44BarWVGKHOWHSHRiytxF/mN1Hpzb5d18M0Pw4pZFCwN3bNFRWQ=;FBsxUBRaJO6xTZCykO2DsA=="
 ---
 

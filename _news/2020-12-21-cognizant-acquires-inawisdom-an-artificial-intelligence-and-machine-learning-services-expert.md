@@ -15,8 +15,8 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 related:
   - title: "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom"
@@ -70,6 +70,6 @@ related:
       domain: channelweb.co.uk
     quality: 19
 
-secured: "C5FR6kdhD+WQz+M6zx00rUIGWq1wM+rqGrXYPObatx18NGwy0U+og40UEtNKyLmpbr8bmOEJz0qwfbrUlBbOKWLhUahF2xWcid0dllYzjHcF1GavYDri3Nf2Q65wcS5dkmpm20+Id3zFDwBGeNJdSJH5VtHZxoZxnZq3i5wsVyCFOL3PbweB69XX+Eoo203D4FfLYA7TlLf0cnaCUTWLEaIftjx4iReQruEFVcc19zDogRhSMO5zDD3KGmKzVf9tlqrYW1gsR6h8aumSvq2DYB+rijaJWp1b19r6kLdxKTxEwWIewMVpoyGwr/WoZDrYdscrOmRYVckGP72Zjk/5Ley2tO2pLbh8D61CpPt89/o=;hYWo7HxjSZ0zVXAhKxkxgw=="
+secured: "COCjgPFBpInBAQMGgG7cZIpCZOhuhmoY50s0xwYoheSO6SuvDUedRjk4kePypZXYkSf9f1qf64vTxjQI6ene6aHam2UjkA54D/dQfUkYLEBnn08caC95IvP+mIqiS1p3ZMp+R2BjKbxHrfUsBmWb+E/A3KqlSmIPwlkZlmBSkNOU7PctC8Kds3mlx9s/5iNLnHj2Fxlip5Ufd0LZqRQiAAmY4lioBdP/inwRDDd1ptS48ew3ob9JhIin5Ui+v//5uzyy5EPvRCmjftkWibrwuv8n3I6nZhKCoB9VRknstc1clIc0MK9UlrSX/cDXs5G81/SZF0V7eXHOR24g4vX87W2LyjvbtGb9rzm+jdWUavw=;Zq8y83dK5bKhYMnxI9xqag=="
 ---
 

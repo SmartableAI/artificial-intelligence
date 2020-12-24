@@ -2,6 +2,195 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-15-artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Artificial Intelligence Chipsets Report\" provides data, information, brief analysis, company profiles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T21:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-microsoft-launches-new-data-governance-service-azure-purview-in-public-preview.md",
+      "title": "Microsoft Launches New Data Governance Service Azure Purview in Public Preview",
+      "excerpt": "showing how Chaos Engineering can benefit from AI. Recently Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/",
+      "originalUrl": "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T21:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-can-ai-help-indian-railways-improve-passenger-experience-and-safety.md",
+      "title": "Can AI Help Indian Railways Improve Passenger Experience And Safety?",
+      "excerpt": "Notably, the more obvious and immediate problems that AI can solve for the railways have been conspicuously missing from the discussion. However, the government seems to be enthusiastic about the prospect AI offers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361673",
+      "originalUrl": "https://www.entrepreneur.com/article/361673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608011313-train-1209291-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361673",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361673",
+      "publishedDateTime": "2020-12-14T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources",
+      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/baidu-auto/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSL8N2IR1UR",
+      "originalUrl": "https://www.reuters.com/article/baidu-auto/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSL8N2IR1UR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2IR1UR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2IR1UR",
+      "publishedDateTime": "2020-12-14T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking.md",
       "title": "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking",
       "excerpt": "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research.",
@@ -1037,204 +1226,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-after-an-amazing-year-for-science-whats-next.md",
-      "title": "After An Amazing Year For Science, What’s Next?",
-      "excerpt": "I’ve written about AI’s use in battling the pandemic already but arguably its biggest breakthrough in life sciences this year came at Google’s DeepMind AI lab in London. It has now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
-      "originalUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd776b192162aafb68c1685%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
-      "publishedDateTime": "2020-12-14T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-truera-raises-12-million-for-its-ai-explainability-platform.md",
-      "title": "Truera raises $12 million for its AI explainability platform",
-      "excerpt": "Truera, a startup developing an AI explainability platform, has raised $12 million in venture capital financing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/",
-      "publishedDateTime": "2020-12-14T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-how-ai-helps-advance-immunotherapy-and-precision-medicine.md",
-      "title": "How AI Helps Advance Immunotherapy And Precision Medicine",
-      "excerpt": "Tel-Aviv-based Nucleai is developing AI software for image analysis and modeling of pathology data to assist in the development of more effective drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd6e2725e35c8349497ccdb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
-      "publishedDateTime": "2020-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-how-rolls-royce-seeks-to-ensure-the-ethical-integrity-of-its-ai-black-boxes.md",
-      "title": "How Rolls-Royce seeks to ensure the ethical integrity of its AI black boxes",
-      "excerpt": "Royce has created a ‘five checks AI philosophy’ that aims to externally interrogate whether its AI systems are acting fairly.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
-      "originalUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-12/1E234A2D-6A42-4D06-9866-6F37D9E47CD9.jpeg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
-      "publishedDateTime": "2020-12-14T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

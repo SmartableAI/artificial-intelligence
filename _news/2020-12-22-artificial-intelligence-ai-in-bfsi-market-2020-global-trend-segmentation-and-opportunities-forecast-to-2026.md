@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-12-21"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
+    excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
+    publishedDateTime: 2020-12-24T13:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2021-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2023-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

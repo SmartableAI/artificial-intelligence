@@ -1,33 +1,32 @@
 ---
 category: news
 title: "Google told scientists to use 'a positive tone' in AI research, documents show"
-excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
-publishedDateTime: 2020-12-23T19:16:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+excerpt: "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research."
+publishedDateTime: 2020-12-24T13:50:00Z
+originalUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
+webUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
+ampWebUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
 type: article
-quality: 55
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2"
-    width: 600
-    height: 360
+  - url: "https://i.insider.com/5fe492abedf8920018093a2c?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 562
     isCached: true
 
 related:
@@ -183,6 +182,6 @@ related:
         height: 567
         isCached: true
 
-secured: "MA5gsNM0ao2vvo5p1QsX0V0O1T+qFSoMik7Q7nheaA3R2mLdmqopHEWnGUUt3LX3rVVjARayWXiz9MiHZr9fx31cGYLQnBP0wAzSGHjXKI5xXDmzbaah2gNxCkW24C3TYudDBhqUtKVtLPAj1Zrbaz3HY45E5z6NX8/oD2XtNwaN0sWVgf3Ey/BwzvGe8lQSUUr6Fl/x1x6p60NjpbgacW0zpRH9ioxA0XXBrryPlAwzUHZSXfBazkoM0X3IpFc1iop22+BL0a0olU54n7cF79e58Y+UV+2Fftw/yllm5p9j4HEvCuDz58m27+PcqVduoPEBMOBOsv3W15R7OWU1bdke0im6PqjlPNZH+OP5NPgR8RflcjDKkxGhu6SGHMIkEOGi3YLYPbYFrXbASxtFmzCktpT2/xuO5zFbqIfdsiEvP0FQ7Hkz0yOFeezEj8hey3IjW0KBSsadvHMZjH6ZADAHzeAHJhyMxok8UczvSdPm3zkGIRGRF17nbBomNRGD7lMxJrj7zg2Qo2ARyvLjGg==;xXkUHSmfPMSnOtTJ6v/13w=="
+secured: "tRx7daxIbBzHqyqkmh2smI0Pz7tZ9dtAGXnH9VINthPKasqCzzPPboPf9dPeuTEjrKePQWslwD/Ce5yMB5+Iz+DhBvpZW0tVPwGj4pVDH0BihH93qlJtQq9FLz8WxnvG4mmQTrDxyTR79RvhCBiRQTihqYaMg3409Nm9R4L/Q9LPtuLIdThldGD5TQV1MlFecfof6fWbq/lIkCKXR42GBFzHt5tWG/pLKIRtumLPIJdA8J709EOOOBbhZ0M7Tq6U1Q2cRL5ChUy4Ots029Sjw2dxr5Hqh+XHCIcmW983ds7ur1A3wrB7hwlGjLxc+5ZrkISxFXEHmDF21g8q76KPVf4slwdAgEE0xoQX6gacjtg=;fi7F19xhKoph9nUsqRTLEw=="
 ---
 

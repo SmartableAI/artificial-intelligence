@@ -595,10 +595,10 @@
     {
       "path": "_news/2020-12-15-insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research.md",
       "title": "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research",
-      "excerpt": "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has",
+      "excerpt": "--(BUSINESS WIRE)--Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been named a strong performer in the report, The Forrester New Wave™: Computer Vision ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research-1029894667",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research-1029894667",
+      "webUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
+      "originalUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -608,21 +608,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T07:31:00-08:00",
+      "publishedDateTime": "2020-12-15T07:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
