@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-11-24-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
+      "title": "How Archaeologists Are Using Deep Learning to Dig Deeper",
+      "excerpt": "Dr. Caspari hopes that their creation will give archaeologists a way to find new tombs and to identify important sites so that they can be protected from looters. Other convolutional neural networks are beginning to automate a variety of repetitive tasks that are usually foisted on to graduate students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/merlin_180180867_e06b03e9-8617-426b-add7-98e70a1f46fd-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.amp.html",
+      "publishedDateTime": "2020-11-23T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-preludedx-announces-partnership-with-americas-choice-provider-network.md",
       "title": "PreludeDx™ Announces Partnership with America's Choice Provider Network",
       "excerpt": "\"DCISionRT combines the latest innovations in molecular biology with artificial intelligence and machine ... surgery alone or surgery with radiation therapy is appropriate.\" ACPN contracts ...",
@@ -1128,58 +1180,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
-      "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
-      "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359653",
-      "originalUrl": "https://www.entrepreneur.com/article/359653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359653",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653",
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -36,15 +36,6 @@ related:
       name: Dealerscope
       domain: dealerscope.com
     quality: 39
-  - title: "Check out LG's autonomous disinfecting robot"
-    excerpt: "The company is using its experience in building robot vacuumes, as well as artificial intelligence and autonomous vehicles, to build a robot that can kill germs and viruses using ultraviolet light. The robot uses autonomous tech to navigate around furniture in high-traffic areas (such as restaurants and hotels) and sanitize touchable surfaces in just 15-30 minutes."
-    publishedDateTime: 2020-12-19T12:23:00Z
-    webUrl: "https://www.esquireme.com/content/50204-check-out-lgs-autonomous-disinfecting-robot"
-    type: article
-    provider:
-      name: Esquire Middle East
-      domain: esquireme.com
-    quality: 19
 
 secured: "AVzR78GZJRQ2jKKavN8iY3C1VGtbqUpDyG/qGlML1xd7QQRuE500VXMH0nacl89JWJ7tX72ZQA+KqCDdvDBE1DHmNnZ+tdAvpT/uDfkzfEE7SAwjdbAPqU5/nHudRqLor0LTFEVhWzcZqDU6gnaYbMEHj4MbRruSBlg7QDXU6MdnxAJYHWWWgHuxGiBkQkEN9E503Y5HOC2erA6EIpj19l8l6GjGIbgdsQeOifBFS2carMS85YBuvJRQ3hN1OoA8djkCWRH51Se4w4aAlIhkNNQur1qcqDkglPQ0E/9xOgktsgkFK1TOKDOFqZ1+xu5xRPDa9eZhzsey52Woq6j9kdInG+Wy8UMVQMtGFhKfU7mXqS5I/Tm4Cnblg16bN0NjnpTF8zHxcqIbwmF8hPp58IMedyzwS56q19qsfo6dvIpJ9SBoBjZ29WMBKlUcCkny49Dme0gc9zH/dh0X6D76wnIhFmsz0Y4oKy976tRJ+BSVkKmNI+EpPtv8AXUng1LNxrfT2BOTuk3X2YS8CoC+Tw==;Sw55B/mUYbERZAkSRrFCMA=="
 ---

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI Debate 2: Night of a thousand AI scholars"
-excerpt: "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,"
-publishedDateTime: 2020-12-23T21:49:00Z
-originalUrl: "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
-webUrl: "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+excerpt: "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman, Fei-Fei Li, and Judea Pearl."
+publishedDateTime: 2020-12-23T23:05:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,14 +21,15 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f068ec2f-b729-41a5-95d5-03bf2c6ff732/screen-shot-2020-12-23-at-4-16-01-pm.png"
-    width: 3360
-    height: 2100
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f053e7cc-79d7-4c08-951d-dd7fc1fc8b58/ai-debate-2-screen-shot-1.jpg"
+    width: 1898
+    height: 1064
     isCached: true
 
-secured: "JKOpMNwnK4SxNY9mXN59/SFkSuqKjf8okcp+uGvEkmHg0LPhMhIjLdMZowm2QlE+Mdp3ZLVcyMXt2dLecdgeU6Fs1kLm+57BVuvNzB2NT8FU/5wYass4f6rTMeZh9iSAI7l+9dnRlH5jf3jKCVMjUoM2YRoPM9rjb1kZoE+1W7cJKuT70NPpl5C3+5U010fUhv0++8pWCMGHWAHysiCCalE8vSr2g4A8MEvwJx3i74gAlN8vjQ5SfdMx1zRsLB4m5WGqKWr7aTx/2DbAwRAZP0UwIOrAarfMaBA1xaD0oLf6HYHF7DwfbrEtEl2RVnzbSlXjVvaiX5kKysEOpbFHFE8/T23F8YAu6meR9xLRBQs=;pgLdWUe2Qt+Cz3t1yMxpfg=="
+secured: "0JNHceWhgfnDA7ykqzCm8YTpjNfx9lHfBWvped2yOH+jwwkVea7fuMDKEuRIVYQ4I4RCnU4tneNNvQfjoBoFXvAtVz1mSrFL+EJ+hcnb3Rw99VKI1Q32cT1Nj/2IJLIQM4slWpkARUgKabvxgIxQk+K2zMA8ZsDE+x95zOQq+F8FxFDhxJwxEMoxiV1IcvbWEHspNb76IvoKLMBuCnliOSuMBJcej+yGIlsgFTrcdU8BBjN0DPIwlgR7V6XgcIexkX7dUCNuJEiJKFWiBO5j//9T4w8f+u5Z6SyZPOOceWl27IiXEmo67DVwf3KK5usNFQzw614qH5pr9VjspZlNlA6K7j1JhOksp0FYQsIfIAk=;acjfZFALhMrH8CO26cOZwg=="
 ---
 

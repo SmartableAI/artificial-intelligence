@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws
 webUrl: "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws-marketplace"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
-    excerpt: "You’ll often read that it’s only a matter of time before AI steals all our jobs. But the idea of humanoid machines is nothing new. It began with the “heartless” Tin Man from The Wizard of Oz. By the 1950s,"
-    publishedDateTime: 2020-12-19T12:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough-2020-12-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector"
     excerpt: "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ..."
     publishedDateTime: 2020-12-21T20:59:00Z
@@ -52,6 +41,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "ahXuhIaSw551S21J9r4BwnSUOqVu6dTanFPRtTM7u04tWGz5qaKTR7Ri/IYiVJ0Og8/3O/pUpWPxtSzq9A5hN425qLP65p76ljsnzIEDpksHcHjMkEZP8l6zuLKV3RjSf4CwvPt1Y5CS/7rxaGqYdTjycJRg6fVDH39PDOnfdW6C3rzDNR+mxwPrLy7wv1ptzhDgEMs6RUTL3eT7uhLzXCd98chvD2g+N2i7/r9FkP0hLqD4Xzo8ftp0Yzmu7rIccuhLzc0KjH9wLBc9Mw6OkL+gm24e16KkFAn7RrXNmfpx6uHJ4pIvbbAynYbLT52OvzIikA+KYNVYfrDbI41TKt0M0syDmU3700bpQ5UQNGg=;R6ETFzjzORWrjnY1jVYEZA=="
+secured: "BgH7GUf8GNA0rvWY6TwZfoPSqiMplwz9gr6Kaqc/dBqbbq72Xi0jMkyBEYURJdwOUoVKL6uPCinuSOOUyC9CsMBqRSFkZOHOP8e3fKQVJBexSMWckFaxifln/lr6Mbj10fVuhsEhyfY0eyCeKblnlL8bbapoOcZ91Q20NIl308awrNoTCPAjI1v9ZynyvtCq3qgD5nkgU5ZUjukgFIIvnXSVMTIahdCXvgBqOj3KB2zrC+jR8a1XikQLEBkasAFoAa1MtRh1eUgl20NZgkjZ61TJgTe3Ss58Ce54c2vdmwUsPeHDWa3nFmk0vUK3qcdXydnK5xbYl+QobzuuKGdGhryzx3IZbbujGRdU+4sXHl2C/fv11eJUR3MEIKU2W8vfyVpaDUm8wBvfACHJc8jsMH3WVsYTfivxZZiFh4tdlaypr5FSExnvaTfUqSi9Kqs+R6QNEIzADA3QH5gUWGe29AICGvOkXeYHlDYO1joyOlRSxqyF2xsTYVR/7s5D+qIeBiQVWIQE7e3UoWA4q7qg6g==;PuM7cfa2QmWmZgjGyjpFmw=="
 ---
 
