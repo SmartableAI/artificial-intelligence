@@ -41,20 +41,6 @@ related:
         width: 845
         height: 460
         isCached: true
-  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
-    publishedDateTime: 2020-12-19T13:51:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13797760/16x9/991/557/d3e1beceb66f9ee912da61e69dfc72d1/Pd/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
-        width: 991
-        height: 557
-        isCached: true
 
 secured: "eIbOwYgMHZN/SkIcpHvcFFKZGIBlSzocNoWvZ3kxEqPJcy5gdQR7KEaB2gs7ClUy9x9dq8MnoRTqBW7tQzOKXpM8hqiDTcFDmhoAQKa4kxlN95J9e8Qt5YZ6coXSJqw/Vj38CGt2sc44C95rPJ7ALfFqDoHdxPNOw8sW1mDifP8AGHZ1qQvzqSXGNmNdBeXqaGZLAVWRIvRPzL57+ktSeFmVPaP3S7Nqc1OEgg6D8F2jKPF3rSjh1QPQOaPVogBaLC/sBhC/u0JLKiMC7P9wdQXl7UqgU+VzgowSnLWGRAWRmsTzZnugp2zPdY54NoC8g9T9j/YadsSrJXs04XOwTkV/7GqAJgg7qqxN2uGbg/jM33Ch0jFG7/eQocISASbKp4Bxix0HoMipYh4wX5zrKpnYXrsX0eauVfrKuSMTTz2/UGbaenfnpEV1CAN3Hhu5cQ1Fhgz8OGwVN1E/fO4T3/gpQ6grqoxabiuZqmTcO/ew/5vnusUd7ITMYd+ymukGvCFIsnQOdIliUfpIO4D7VA==;8e4XHPdzHNxX6R6r1Yn37A=="
 ---

@@ -32,20 +32,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Hospitals in California running out of room in face of COVID-19 surge"
-    excerpt: "The children's parents say the five teens didn’t hesitate for a moment to help their kids and deserve all the recognition in the world. The two planets passed so close to each other - still millions of miles apart - that their alignment appeared like a ..."
-    publishedDateTime: 2020-12-22T10:58:00Z
-    webUrl: "https://www.1011now.com/video/2020/12/22/hospitals-california-running-out-room-face-covid-surge/"
-    type: article
-    provider:
-      name: 1011 Now
-      domain: 1011now.com
-    quality: 24
-    images:
-      - url: "https://gray-koln-prod.cdn.arcpublishing.com/resizer/kJfJKpiLryNb7NM3zzhwOjrQOX0=/980x0/smart/do0bihdskp9dy.cloudfront.net/12-22-2020/t_544ca58946504226921e763b90d19409_name_file_1280x720_2000_v3_1_.jpg"
-        width: 980
-        height: 551
-        isCached: true
 
 secured: "zJcezMJ8EgvbmvYYc5f1dA/AiGyVgpLaGKEwddgVb2x/t21MD+IgAGQuScN11r17LOozhvZBSsxdbC90I3nueTfJH9q8j9JmUUa9Np52YfQrvE+ZJnjh9wehTTykGlMc8b2VjW7JXK+sc9MrquyzWyE8kX7j7Wrm1lFxG0H7SvU/QWe8XjmZ6iYlr+7e1ZbXnkIcqsMcf7h96toWEkhmFtTCX7fZyvS8C2kneJJyEGMq6I3aVmwHaH0Z6ebav1KlhyhmjnJgIssOKLMVbGMfdpOrqXnU9o6219RZL4rfJCtNJeAHTERUy9Htk3D4zYQhsL9eKMaFrvyy0HuuHlbUVwvqi1sv4EKVhgPxYjrk0KdQFKS3NlNpCQOzu7iWg2ZW9z8YgeN258QNdURcqXYWO/IfKGXEhKReoeaH0KM4GlZ7L2xK7iSgLJRbDSUCJVa05xXAKAa6OOzti3sTgmBPdhWv3wX4Gxw38RMhh//X8NnoCCN+FaiMKJG5GQPpTFIdW5V3gwDPAuM4o2b/Iit7AQ==;3N++CbJj7MLU7U0VIpZIMg=="
 ---

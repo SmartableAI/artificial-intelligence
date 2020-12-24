@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-08-diving-into-deep-learning.md",
-      "title": "Diving into Deep Learning",
-      "excerpt": "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets).",
-      "sourceUrl": null,
-      "webUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
-      "originalUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
-      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
-      "publishedDateTime": "2020-12-08T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance.md",
       "title": "Ping An Uses Artificial Intelligence to Detect Greenwashing and Assess Impact of Climate Risk Disclosure Transparency on Financial Performance",
       "excerpt": "8, 2020 /PRNewswire/ -- Natural Language Processing (NLP) technology, used to analyze language from company disclosures, can help to detect potential \"greenwashing\" by high emission companies ...",
@@ -1459,6 +1415,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-speech-recognition-market-growth-analysis-by-application-scope-and-regional-demand-over-2020-2027.md",
+      "title": "Speech Recognition Market Growth Analysis by Application Scope and Regional Demand Over 2020-2027",
+      "excerpt": "Allied Market Research Published Latest Report titled, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use (Consumer Electronics, Healthcare, Enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "originalUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb26571497_g.jpg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "publishedDateTime": "2020-11-26T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

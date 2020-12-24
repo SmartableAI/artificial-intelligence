@@ -2,11 +2,11 @@
 category: news
 title: "Nuro gets first California OK to charge money for self-driving services"
 excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
-publishedDateTime: 2020-12-23T21:28:00Z
-originalUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
-webUrl: "https://www.reuters.com/article/us-nuro-california-idINKBN28X2IR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X2IR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X2IR"
+publishedDateTime: 2020-12-24T02:01:00Z
+originalUrl: "https://www.reuters.com/article/idCAKBN28X2IR-OCATC?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/idCAKBN28X2IR-OCATC?edition-redirect=ca"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28X2IR-OCATC"
 type: article
 quality: 74
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545607745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1FJ"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545626055&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1FJ"
     width: 676
     height: 545
     isCached: true
@@ -87,6 +87,6 @@ related:
         height: 600
         isCached: true
 
-secured: "2Ttv2ESU5GWPBmdSwAq7qEtiZQ8Lyz3X3VoPQ6qscF9blE3NSYc2wioFR/PxKPzn484FYR4Y3Ji8hUoc+sKS6+lItSzQY0Y6Z4UxNH0OUYJVzMVwvv8msZtUbVA80qTeyGAIrNCI/U3qxDyxHZwRiOUaTeV6g7MV2jPNd+7lY7aPegnSpKMUWcbpciFCm0Szd6AEVUCtP6MHrdAV5HUiJKpYBIQAH07svESQZKuur5BQRLztcwJTKeZRs+6zJq9+AIF7TA9Sry4LD9fGZLCu0z+j7g5tieIDmwFvaNCpQ/dDP6Ooiiz4hUlUFAMw3PWPY5N7mj4U7EC9Hgm+JLN6xs7xdqJ+dVu+TvFKxRYk4zs=;BLwaTmgIr1zmprlqaFCBrw=="
+secured: "nQ0sLy+01QdQj0uQjmIwHIF7iRPr9avTZplFLCqQRdFV8ORDoCnTF5wVuGIwnwt3HItTag48MV1cJv8v8OriN/onbliZT2QE6SIaHdCfWYQP6DNmZEfzTJ1Sx//oZWwEUTWdpsqycvMqyfbTcGBGUtRpCaG7bSzE00xbD+4F+SmDEWvIbfklyk+UBJJ/STKiClb79f6qD1A5DUvLx5+sZHEKy+FiU7irkOUBebcc2m6jQ3M33sK4GMdS6mtmyRgXsT04ckEVDL6lVWjHMYyBaEJdp4UcakQ13D/f1dr3tmZiaMJe7Ss3KzEQL9sHLYgWx3X2ZTCIfUv4U8xxo92UmTdtQllTAxlEZ9gJxhaXKDQ=;tm4bWnC/oJ03Vufrp4I/tA=="
 ---
 

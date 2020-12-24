@@ -325,6 +325,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "It’s time for self-driving cars to really take off... but not for people"
+    excerpt: "In 2021 we will see autonomous driving finally find its fit – and it’s not in personal travel. Billed as the first everyday consumer application of AI, self-driving has simultaneously inspired its champions and proved a worry for its investors."
+    publishedDateTime: 2020-12-24T06:18:00Z
+    webUrl: "https://www.wired.co.uk/article/self-driving-cars-deliveries"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 23
+    images:
+      - url: "https://wi-images.condecdn.net/image/wWPoAMqzQEY/crop/1440/0.5235602094240838/f/1120wiredworldtransportuse03a.jpg"
+        width: 1440
+        height: 753
+        isCached: true
   - title: "Apple Reportedly Gets Into Self-Driving Car Space"
     excerpt: "Apple targeting 2024 to produce a self-driving vehicle with its own battery technology. Cheddar is joined by Mike Brown, technology reporter at Inverse with more on how Apple plans to compete with companies like Tesla."
     publishedDateTime: 2020-12-22T00:00:00Z

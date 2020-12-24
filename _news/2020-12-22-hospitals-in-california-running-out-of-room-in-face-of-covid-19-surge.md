@@ -25,28 +25,41 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Machine Learning Tools Help Predict COVID-19 Outcomes"
-    excerpt: "As cases soar across the country, researchers are leveraging the power of artificial intelligence and machine learning to predict COVID-19 outcomes."
-    publishedDateTime: 2020-12-21T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-predict-covid-19-outcomes"
+  - title: "Nuro R2 self-driving delivery cars receive California deployment permit"
+    excerpt: "The media frenzy around self-driving vehicles has mostly been drowned out by this year’s more pressing concerns. That said, the need for contactless ways to transport goods has actually become even more important exactly because of those concerns."
+    publishedDateTime: 2020-12-24T06:26:00Z
+    webUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/"
+    ampWebUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/amp/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/nuro-r2.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Hyro Unveils Conversational AI Solution to Help Hospitals Avoid Being Overwhelmed by Patients Seeking COVID-19 Vaccinations"
-    excerpt: "PRNewswire/ -- Hyro, developer of plug-and-play conversational artificial-intelligence (AI) solutions, today announced it has begun equipping U.S."
-    publishedDateTime: 2020-12-22T13:32:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hyro-unveils-conversational-ai-solution-to-help-hospitals-avoid-being-overwhelmed-by-patients-seeking-covid-19-vaccinations-301197312.html"
+  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
+    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,"
+    publishedDateTime: 2020-12-23T14:10:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
+    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
+    publishedDateTime: 2020-12-23T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18916127/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-se"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18916127"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18916127"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "crufEqhgcrvyU7wZbVXV+uDQ3xFVRVbI/+bGGQCaEFPbJTzFXLGzMUEvnW5Mm1B4S/Bspxksegopzs6T0L4yXHnP+MCgvn3HVH0oLCthg5wEgg17GSc3EAQn3PXbRheJnoPT7QW/V8XVOeqXL2pgclhj6TYejfI0ltRCG1C4CE+sTpb1OJO1YnKjC/+3CfnILCWtBZFOkDmBkN3ltYJz1D+OxDTYjG1brznyrZIBoBl/YAwu9UGV85qkUYR4jmlVaua28weWim50BioRnxa+J6Ua//PiijWRFmwVXjpBCCKkxFLaczuAfPQ0bC/anyz+ACAW6URuqO3TWzCEqH0JNqTpcwiJ5Du1cMS7zYrvC0Y=;EV2OHEjEcUMqJ+y1UqysfQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.qrcodepress.com/alibaba-facial-recognition-accused-of-se
 cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/alibaba-facial-recognition-accused-of-seeking-out-uighur-minority-individuals/8538723/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: QR Code Press
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-614202874.jpg"
         width: 594
         height: 396
-        isCached: true
-  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
-    publishedDateTime: 2020-12-19T13:51:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13797760/16x9/991/557/d3e1beceb66f9ee912da61e69dfc72d1/Pd/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
-        width: 991
-        height: 557
         isCached: true
 
 secured: "jw8gknt57bWstYoDLzL4ITKmw7vHeci52KEB39tQdQS2loD8fXYNiiwU3yq/FA5zSBiaiaZDamKVCEFpG8usYJI6hNrwfj1tljKpu8VbufdRRW8/h+oQXhWilYaFXWu2PyXNNfER0piqdsw+znpMAs5CrehXdknwxGotI6H+VbtoaUzJ08LKTVdV7ArE9/6YSyp1wS2qe1mwb4rzpnQ4ObdEYMpY1iS6fGeWDJHDnyiiyYAx2MHba0w0dTEyO+TTm3xbklOsrsPedmA4/bo9PyQpoJphQS/Z/Q1pr5hiAv8rPIOtVh3dJUxSEXrJtzLWkbRwxMSE3/y9nMiCr2Jv2HXvyU9cntzF6rBAWvMnYZgmY4fHkGz3LVYuCtTKId7uFfpsIhrIubbQ9/SMCGG1vauXWYQ7qi7BaeBdZJK5oMfUGNoJ1UYRQYK7XxqBqnNqperIE0FImRqx469Ya412W5A0XPUVQg6tdRuDyc3tGZAM/I6ioeO9Qfm8/0GL5eXEbSbsCfnx1kXitzvTUtblCQ==;+VCTmuyiVuyuD4bYVzn85A=="

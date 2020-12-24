@@ -333,6 +333,20 @@ related:
         width: 400
         height: 359
         isCached: true
+  - title: "It’s time for self-driving cars to really take off... but not for people"
+    excerpt: "In 2021 we will see autonomous driving finally find its fit – and it’s not in personal travel. Billed as the first everyday consumer application of AI, self-driving has simultaneously inspired its champions and proved a worry for its investors."
+    publishedDateTime: 2020-12-24T06:18:00Z
+    webUrl: "https://www.wired.co.uk/article/self-driving-cars-deliveries"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 23
+    images:
+      - url: "https://wi-images.condecdn.net/image/wWPoAMqzQEY/crop/1440/0.5235602094240838/f/1120wiredworldtransportuse03a.jpg"
+        width: 1440
+        height: 753
+        isCached: true
   - title: "Apple's Self-Driving Car Could Be in Production as Soon as 2024 — Reuters"
     excerpt: "Reuters. -- A key component of the project, which the iPhone maker hasn't yet been made public, is the battery design that is said could reduce costs and increase vehicle range, according to an unidentified source."
     publishedDateTime: 2020-12-21T15:41:00Z
