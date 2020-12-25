@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-11-how-ai-can-help-surmount-bi-shortcomings.md",
+      "title": "How AI Can Help Surmount BI Shortcomings",
+      "excerpt": "If business leaders can reconfigure their thinking about BI and AI tools so that BI, AI and human employees can do what they are best at, enterprises can become far more efficient and innovate at much faster speeds than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4ed34a0fa20006cf423a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/",
+      "publishedDateTime": "2020-12-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising.md",
       "title": "Deciphering The Next Frontier For Artificial Intelligence In Marketing And Advertising",
       "excerpt": "The role of AI in the marketing and advertising world has always been, and will continue to be, completely transformative.",
@@ -1135,39 +1186,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-artificial-intelligence-strategies-are-new-bedrock-for-portfolio-management.md",
-      "title": "Artificial Intelligence Strategies Are New Bedrock for Portfolio Management",
-      "excerpt": "Artificial intelligence can be deployed to help investors navigate the post-coronavirus backdrop. Whereas popular",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/n18739264/artificial-intelligence-strategies-are-new-bedrock-for-portfolio-management",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/n18739264/artificial-intelligence-strategies-are-new-bedrock-for-portfolio-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18739264",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18739264",
-      "publishedDateTime": "2020-12-10T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

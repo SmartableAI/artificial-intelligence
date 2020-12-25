@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-12-02-deepmind-ai-breakthrough-in-protein-folding-will-accelerate-medical-discoveries.md",
+      "title": "DeepMind AI breakthrough in protein folding will accelerate medical discoveries",
+      "excerpt": "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
+      "originalUrl": "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/03/06/4e3a6121-5f6c-42e5-a44e-01592172263b/deepmind-coronavirus-protein-image.png",
+          "width": 1668,
+          "height": 1403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
+      "publishedDateTime": "2020-12-01T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
       "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
       "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
@@ -1124,48 +1176,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-infineon-to-set-up-global-ai-hub-in-singapore.md",
-      "title": "Infineon to set up global AI hub in Singapore",
-      "excerpt": "Part of the German chipmaker's digital transformation efforts, the facility will launch 25 artificial intelligence projects in Singapore where it also plans to partner local organisations to offer AI courses and certifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "originalUrl": "https://www.zdnet.com/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "publishedDateTime": "2020-12-01T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

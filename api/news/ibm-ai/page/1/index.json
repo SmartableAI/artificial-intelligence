@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-4-cutting-edge-ai-stocks-to-buy.md",
+      "title": "4 Cutting-Edge AI Stocks to Buy",
+      "excerpt": "Artificial intelligence is the new frontier in technology and these AI stocks have the cutting edge of the science and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/",
+      "originalUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/amp/",
+      "publishedDateTime": "2020-12-16T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-ibm-says-managers-that-use-ai-will-usurp-those-that-dont.md",
       "title": "IBM says managers that use AI will usurp those that don't",
       "excerpt": "AI won't replace managers but managers that know how to use it will usurp those that don't, according to IBM. The comments were made to CNBC by the tech giant's senior VP of cloud and data, Rob Thomas,",
@@ -1387,58 +1430,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-ibm-takes-the-next-step-with-cloud-pak-for-data.md",
-      "title": "IBM takes the next step with Cloud Pak for Data",
-      "excerpt": "Ever since IBM unveiled Cloud Pak for Data as a cloud ... (Watson Studio); and AI outcomes tracking (Explainable AI (formerly Watson OpenScale). Beyond these building blocks are nearly 30 services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/21/7fd6f1d6-f2f9-4102-9b3d-5c4225480509/ibm-cloud-pak.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "publishedDateTime": "2020-11-23T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],
