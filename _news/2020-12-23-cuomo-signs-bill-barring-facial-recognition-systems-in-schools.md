@@ -252,16 +252,19 @@ related:
         height: 450
         isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
-    publishedDateTime: 2020-12-23T14:24:00Z
-    webUrl: "https://www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html"
-    ampWebUrl: "https://www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html?outputType=amp"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
+    publishedDateTime: 2020-12-23T02:57:00Z
+    webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "New York Halts Use Of Facial Recognition Tech In Schools"
     excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
     publishedDateTime: 2020-12-23T10:35:00Z

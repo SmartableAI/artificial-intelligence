@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
+  - title: "ChrysCapital-backed Infogain Acquires AI & Analytics Pioneer Absolutdata"
+    excerpt: "Infogain, a Silicon Valley-based leader in human-centered digital platform and software engineering services, today announced its acquisition of Absolutdata, a San Francisco Bay Area-based AI and Advanced Analytics company serving Global 500 clients."
+    publishedDateTime: 2020-12-25T07:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-745c03f2c9754335bcde689b1a8fbe84"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Dnr76b/CQld/9rOZn7Z09vFLE7V9Bb20WaJTYAuiEW80vIQzlunbUcM3hTSzYmq12gWfF/85eVNtGAs8xB697xCccVj3JRc6lbuQSBLnISn8pa+6OgRATtaYHUN2Jvr5+HV5z5BDuhsvnuEPTG8jbwcI17KBHQfZfYteNyyUlwhStwCpUN4X0AJ0c3FuMNS2ErEHha7OSXMrDQg2SaRR9KG+3ZUXi/+nvsWJPnk1oifDHqz2LTyLo/7jTg+bQemr+IH8EVQNwx/Tn2ZCzD0ZUksfFbARVQJPPzAZKxXFg/aJIm1p0WAySuLarKUvE8AvtTZINwvWrNlPPP43MiGkYP/yGt55W0D74dxhZgrjiVA=;HJymi0orU8P+r5UyWVBo5g=="
 ---

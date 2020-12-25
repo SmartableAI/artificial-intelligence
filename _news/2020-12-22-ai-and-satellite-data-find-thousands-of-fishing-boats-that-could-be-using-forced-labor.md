@@ -46,6 +46,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Using AI to count and map craters on the moon"
+    excerpt: "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,"
+    publishedDateTime: 2020-12-23T15:29:00Z
+    webUrl: "https://phys.org/news/2020-12-ai-craters-moon.html"
+    ampWebUrl: "https://phys.org/news/2020-12-ai-craters-moon.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg"
+        width: 2380
+        height: 2400
+        isCached: true
   - title: "Thousands of ocean fishing boats could be using forced labor – we used AI and satellite data to find them"
     excerpt: "Fishing on the high seas is a bit of a mystery, economically speaking. These areas of open ocean beyond the territorial jurisdiction of any nation are generally considered high-effort, low-payoff fishing grounds,"
     publishedDateTime: 2020-12-22T13:56:00Z

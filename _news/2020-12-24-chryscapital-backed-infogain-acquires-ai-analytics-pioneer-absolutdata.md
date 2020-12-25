@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "ChrysCapital-backed Infogain Acquires AI & Analytics Pioneer Absolutdata"
+    excerpt: "Infogain, a Silicon Valley-based leader in human-centered digital platform and software engineering services, today announced its acquisition of Absolutdata, a San Francisco Bay Area-based AI and Advanced Analytics company serving Global 500 clients."
+    publishedDateTime: 2020-12-25T07:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-745c03f2c9754335bcde689b1a8fbe84"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI and Analytics Pioneer Absolutdata Acquired by ChrysCapital-Backed Infogain"
     excerpt: "Absolutdata, a leader in delivering scalable business impact through AI-powered solutions, advanced analytics and data science services, today announced it has been acquired by Infogain, a ChrysCapital portfolio company that is a leader in human-centered digital platform and software engineering services."
     publishedDateTime: 2020-12-24T07:02:00Z

@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Using AI to count and map craters on the moon"
+    excerpt: "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,"
+    publishedDateTime: 2020-12-23T15:29:00Z
+    webUrl: "https://phys.org/news/2020-12-ai-craters-moon.html"
+    ampWebUrl: "https://phys.org/news/2020-12-ai-craters-moon.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg"
+        width: 2380
+        height: 2400
+        isCached: true
 
 secured: "q8ySsTxtNLdSnTa5daRMTiCKtY1CQcjBoXLgKEzNV/uk7D5NYC/zIfqZH6/9bSesSz7UTUx8ryB4Ieh/IO58ELbtOzR8+l26JF87ZSM9kI07DPXtYc9/G+pKuHmAS3z2vKMQ+3Llp/qi9yDybmhI16S+OShdS6UA0wRTNueug+WTw5XZ+u8D2mO60e5SXqJrzX8SD/94gX5P5n0TDbZH7orl748gyXqSXtt0wTjAqYF7ntvSOlJJLexdskqK3iSNFgZL/w+Mo8T6qMBGgBS46010gEa1Ht0+1M07ByZlf0W9Q8cZT0cxdc2Zz3dctDMrthvB/iukpWyMP3PaiSQD/KoraCJ1ovPB323TZ8x3kedWTe3DgtNBQ+meie12FNMRneZClVNKTdc/2h6qGyWIR07zLqBnT8NBryzx8a7OlaWWO+L21sOV9+l1zP1Idg47il2Nn0uXW/2RkJ0uLWucXZSAvrexfrN1YpbA5eQyuwUNaIz6SQ/xui1fo4hQbds0L1TcCvpK7i8HJoAqhX+jCw==;4IuFZXudh9/VZOUiV0WyYg=="
 ---

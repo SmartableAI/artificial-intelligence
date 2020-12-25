@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Cuomo signs facial recognition, voter registration bills"
-excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
-publishedDateTime: 2020-12-23T14:24:00Z
-originalUrl: "https://www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html"
-webUrl: "https://www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html"
-ampWebUrl: "https://www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html?outputType=amp"
-cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/state/2020/12/cuomo-signs-facial-recognition-voter-registration-bills.html?outputType=amp"
+excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
+publishedDateTime: 2020-12-23T02:57:00Z
+originalUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
+webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: syracuse.com
-  domain: syracuse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "New York temporarily bans facial recognition in schools"
@@ -321,6 +325,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "7SnXOgHrqzDsb/rfyCqnXfrtBv+4OxyRKh53/LJ4NfkKivXKbIJp9buheHPW2+UVx6Zl1gM3o0s+duM4DV3Jl/lyLaXaw4kZudVnf3oHqjpevAWM3m0wihbLurr3w+p02aUD1e4fH0VbTScuoV+hofg/EFvu/M72sYMCUkPrAyUCUH1Vn4uaxvUSihbwZBrKwXeFiix+1EML7O0gJ6pJV7GW7lsJxDvuBngZEB3t7mMhK+2yv9GJVpI0hkr0cxxoTXhDycnRIDAfWoJVP0VUAzjl8JHVf9Jj7yiXtMjfgJDkORWigjmNUx1LL3w7ggfdfUVVnWbsjV1rXoGYovTHBB60xl1LdXBVg7E2/0pJPZ56MQkJ16KmYLJ/qF3EtzaNBjJUswKRcciGpOCVyCIWWpleROoupi9nmlSnLOfofWq07czU1MImleIWxwkn+ftVf4CUEpX1CrQwdxZvzeJhFj5+aC4M+z9yql3pwsrJUy06vi+alS9LXDgDF+eQbFHei3XX1SLEs5TV82yDubYwNg==;YkYkWdqHMLX+ife9VHIATA=="
+secured: "ym8NRZQBqa1r8RDmuzC8DyXEf+ukbd9sXfydl8UYYkGWx9JgaD6LG5j258myyLPYBwFWwSaxbzMUxzJ4jCelxU85g8Jmuz2Fw+47rqqTmeV4VW7LFC3G5+x3AA9FPGKu7P2rDPdvPUxb2HRtd1dkq2kita3zQhgYqfOBcZOyKR0vvrU+6RAhNczVSfhmN4qj4g8U8mPiDX5aBOpuD9/xOm0QBNOKxtWzVZBVu6MMZHb/7Uxl4N7/uiMY4zfWWWyZEhESGSxBHP6u3SUWt6NiJmEV+atDvxKN8+/0HeMzQOQiVLR/5asM02PSPCp0SS7g5ao2jdpWx9p5pwm1b7HDnUhjvn8aCDlL5lMFGAl7viw=;UI8ZQGQQFxbP9rBSd3cP9Q=="
 ---
 

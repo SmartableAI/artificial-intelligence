@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Artificial intelligence sets sights on the sun"
-excerpt: "Scientists employed a neural network to learn the characteristics of high-quality images of the ground-based full-disk images of the sun and estimate the deviation of real observations from an ideal reference."
-publishedDateTime: 2020-12-14T16:25:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/sios-ais121420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/sios-ais121420.php"
+excerpt: "Scientists from the University of Graz and the Kanzelhöhe Solar Observatory (Austria) and their colleagues from the Skolkovo Institute of Science and Technology (Skoltech) developed a new method based on deep learning for stable classification and quantification of image quality in ground-based full-disk solar images."
+publishedDateTime: 2020-12-14T18:35:00Z
+originalUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.html"
+webUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.html"
+ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "wfhFOpgCDr6XF8ks01Mj6fmLNgOJegIgf3tQY70Nh7e0f5POedPgLV8aahLW84rUM+SJTW9wU3L38aXxs/PAjtpZ03XDs7XwUSFecMe9hDTKfG7H0KJdESdUeeEZgZs25Q5tFCou0bdUWR19XpDwv1AGydBCDiGglTgHB3FWR0u2HgteKOrQ/6xExVrj7GXpAzfdf89iHk3WwG5Qqy5y2pS0IBYHlGr5s4WuC/5/huyH/+dIloba9agR/FTm256QPhHp57hVpNm8f7rsyXWL36GJj+yvtsdqMSSOXL7/UnoKUhwxwXcf4EYyqPCZqunNwMcy+yvuTBPbQvscPi5wTksm9oFLweYXsoOj8akw4uo=;zeNuEtPN2B3TERwrqwuPrA=="
+secured: "9RmiS1cwenD7aj1/RY2POBV2JNBeRKVpQb/kItUG4Csj+9an8r9/Dm9Q9vzddcwfrPLxvy4v6bv+gq+iBbiPtkhIjCsWwv2k74TCrktX5Riy0xroWKpSLmbruh+pyrjnTBi/nqH1nwMXuhtVMNDOQlDtOSBF2wZf25kn+MDxsVQYRZl6Ylxz+CUUr/RDmAgUb+RfGt7WdEf+WcTf53hQ/YYP3cCf+AiNdFHCYkPB+H0arPWMzbianKHMApUHGNE1uJ2ZTrEuuBTB9RnDRTaBQGORd0J4VsM3+iF/FQjFL3nSEv8joGJZX5He4jH49pcIKFF7gKJfIygBS81AzmpG7eCfR1e66HuVYNMRQ+tPZauwzcd7z2O/m7Sr8U/J+szreT7BaOvkf8u/hN0M657i1+EvmPsEehyAmRmZ/Q9iNcvXVQ170pbKFvsg2E6FGrfkRc5aMjRYIAngMl15j6llikJgNv4d/dcATfPaxstGDV1gnTf8PIQ9bdvWefk6pgVEce7+W6m8BPOxy7Y4ffEMng==;j1P7G97IoPPwt82DzlbagA=="
 ---
 

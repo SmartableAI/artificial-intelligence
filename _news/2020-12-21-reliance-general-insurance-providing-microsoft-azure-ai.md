@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft working at In-House chip for replacing Intel Processors on Surface Laptops"
-    excerpt: "Microsoft is working on in-house processors designs for use in server computers. It is also exploring another chip that will power the Surface computers."
-    publishedDateTime: 2020-12-20T16:53:00Z
-    webUrl: "https://www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/"
-    ampWebUrl: "https://www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/?amp"
-    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/gadgets/microsoft-working-at-in-house-chip-for-replacing-intel-processors-on-surface-laptops-301222/?amp"
-    type: article
-    provider:
-      name: The Indian Wire
-      domain: theindianwire.com
-    quality: 69
-    images:
-      - url: "https://www.theindianwire.com/wp-content/uploads/2020/12/345.jpg"
-        width: 688
-        height: 387
-        isCached: true
   - title: "Microsoft is reportedly developing its own Arm server chips"
     excerpt: "The rapid development in recent years of artificial intelligence has also encouraged chip designers - and the cloud giants that want to dominate that area - to develop architectures more appropriate for the mathematical demands of AI. Microsoft is also ..."
     publishedDateTime: 2020-12-21T12:29:00Z
