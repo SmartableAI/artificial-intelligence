@@ -35,6 +35,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "ChrysCapital-backed Infogain Acquires AI & Analytics Pioneer Absolutdata"
+    excerpt: "Absolutdata significantly enhances Infogain's ability to engineer superior business outcomes for its clients through cutting-edge AI and Analytics </p> <p>LOS GATOS, Calif.–(BUSINESS WIRE)– –Infogain,"
+    publishedDateTime: 2020-12-25T16:15:00Z
+    webUrl: "https://menafn.com/1101338434/ChrysCapital-backed-Infogain-Acquires-AI-Analytics-Pioneer-Absolutdata"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?54628"
+        width: 433
+        height: 250
+        isCached: true
   - title: "AI and Analytics Pioneer Absolutdata Acquired by ChrysCapital-Backed Infogain"
     excerpt: "Absolutdata, a leader in delivering scalable business impact through AI-powered solutions, advanced analytics and data science services, today announced it has been acquired by Infogain, a ChrysCapital portfolio company that is a leader in human-centered digital platform and software engineering services."
     publishedDateTime: 2020-12-24T07:02:00Z

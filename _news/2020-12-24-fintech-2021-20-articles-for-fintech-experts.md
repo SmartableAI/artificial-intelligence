@@ -20,16 +20,21 @@ topics:
 
 related:
   - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020"
-    excerpt: "While millions have suffered personal and professional upheaval as a direct result of the Covid-19 pandemic, 2020 has also seen individuals, NGOs, governments and the corporate world collaborating to keep the gears of the economy churning—however jerkily—throughout the crisis."
+    excerpt: "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop"
     publishedDateTime: 2020-12-24T12:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24"
-    ampWebUrl: "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp"
+    webUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_10-questions-checking_121720-568x322.jpg"
+        width: 660
+        height: 336
+        isCached: true
   - title: "The TRADE’s Crystal Ball 2021: FinTech, RegTech and crypto"
     excerpt: "Gaze into The TRADE's crystal ball for insights from FinTech and RegTech providers, as well as participants in the crypto space on their predictions for the year ahead."
     publishedDateTime: 2020-12-24T11:46:00Z

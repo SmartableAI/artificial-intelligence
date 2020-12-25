@@ -1247,6 +1247,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-10-cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing.md",
+      "title": "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net 'Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers CAMBRIDGE ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T23:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-facial-recognition-is-running-amok-in-china-the-people-are-pushing-back.md",
       "title": "Facial Recognition Is Running Amok in China. The People Are Pushing Back.",
       "excerpt": "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ...",
@@ -1455,49 +1498,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution.md",
-      "title": "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution",
-      "excerpt": "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook",
-          "width": 1262,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T04:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

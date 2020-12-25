@@ -2,6 +2,93 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-11-13-google-clouds-new-ai-suite-hits-on-doctors-admin-headaches.md",
+      "title": "Google Cloud's new AI suite hits on doctors' admin headaches",
+      "excerpt": "Google Cloud will become a top cloud partner for hospitals looking to ease administrative headaches driving burnout among their doctors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
+      "originalUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fae92e31e8d50001981354a?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-the-case-for-mathematical-optimization-in-health-care-building-a-strong-foundation-for-artificial-intelligence.md",
+      "title": "The Case For Mathematical Optimization In Health Care: Building A Strong Foundation For Artificial Intelligence",
+      "excerpt": "Enthusiasm for the potential impact of AI on hospital operations is often based on its impact in other industries. However, non-health care companies invest in AI after having digitized and optimized their operations with a variety of older mathematical methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
+      "originalUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Health Affairs",
+        "domain": "healthaffairs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-facebook-is-now-using-ai-to-sort-content-for-quicker-moderation.md",
       "title": "Facebook is now using AI to sort content for quicker moderation",
       "excerpt": "Facebook has always made it clear it wants artificial intelligence to handle more moderation duties on its platforms. Today, it announced its latest step toward that goal: putting machine learning in charge of its moderation queue.",
@@ -1084,93 +1171,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-airbus-is-to-produce-pilotless-planes-but-will-they-take-off.md",
-      "title": "Airbus is to produce pilotless planes, but will they take off?",
-      "excerpt": "Read more November 23, 2017 Would you entrust your life to a driverless car ... for the country well known for its love of artificial intelligence. However, Airbus’ decision to set up base ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
-      "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.alphr.com/wp-content/uploads/2017/11/airbus_is_to_produce_pilotless_planes_but_will_they_take_off_-_1-scaled.jpg?fit=569%2C320&ssl=1",
-          "width": 569,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alphr",
-        "domain": "alphr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.moneyweek.com/image/private/s--c8ThaiIG--/v1583342977/covers-etc/989-Cover.jpg",
-          "width": 600,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2020-11-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

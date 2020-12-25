@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-21-high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19.md",
+      "title": "High-tech helper: Austin robot assists hospitals in the fight against COVID-19",
+      "excerpt": "Moxi the robot works full time and delivers PPE, coronavirus and other lab samples and COVID-19 tests. She’s also picks up and delivers anything dropped off for patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/",
+      "originalUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2020/12/Moxi2photocreditDanielCavazos.jpg?w=1280",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/amp/",
+      "publishedDateTime": "2020-12-20T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
       "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
       "excerpt": "Big tech companies are getting into the custom chip-making game in the hunt for improved performance and lower costs, shifting the balance of power in the industry.",
@@ -1207,49 +1250,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions.md",
-      "title": "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions",
-      "excerpt": "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

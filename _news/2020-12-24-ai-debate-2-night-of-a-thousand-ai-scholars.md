@@ -1,26 +1,35 @@
 ---
 category: news
 title: "AI Debate 2: Night of a thousand AI scholars"
-excerpt: "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,"
-publishedDateTime: 2020-12-23T21:49:00Z
-originalUrl: "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
-webUrl: "https://montrealartificialintelligence.com/aidebate2.html"
+excerpt: "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman, Fei-Fei Li, and Judea Pearl."
+publishedDateTime: 2020-12-23T23:05:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/"
 type: article
-quality: 147
-heat: 147
+quality: 89
+heat: 89
 published: true
 
 provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
-secured: "TPG1DlyIKIVmLx5Yxb7G9btNGG79bvXBlXmqPdMabI3hNY+bVutRBJRy+yQbIXgfLXh3tMaRvvS/y0uesmdZCWk5s9q+C50Q2jNYUSCuxJNbBUiFCKHlrNzDkmsrK7/2W0eiNXbZp+5cNmk+3vNYZEFESx1rdhcsXQ5X1oPy+f//w2yBLpZXyV/wi9UQHQTzvQaKrd0CSUWNMqmKcp0iOgXRAULqtfWGaixWLvGSFn0ZrmVxDRl8QEKIjXH5cSRWU1KFyII6/WAGjCJ1Q7hyixzh8evS4EKmqjt6HFZrB7WgIw4PZ4dXViVZrUwsI5ZgCfxttoXS5JSL+WcGRbpbj7J4Q7uzAYST4vo/E4lmFmBs0+KvHULIwtc3ZBbyQU2yF/l1Pcqvthm+EqBGKSRcdyHXUQHo5ijHAXCiwiG/2W9LFTE7N4P9G0h4Pwdf83WlUr9XPyHqd25uZff6fFSaHMCJoH2oBWfhbBLo+9QGvRxK+Rz+6QsHbQ6lEFxDCerlluIB+UfWPDZlsZS2fW4kNyw+mKdRk8E3RTQpBhN1zFI=;YawLhoQRWHvemQjpCNi02g=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f053e7cc-79d7-4c08-951d-dd7fc1fc8b58/ai-debate-2-screen-shot-1.jpg"
+    width: 1898
+    height: 1064
+    isCached: true
+
+secured: "5FRYinA5B2bHcwyM7bNxSf0r2ZxV8/+meZYFePUE1y/z1a50skFTL5Zldy/EHK0btYlOiQYpEwipIpToyWiHs0ekCN7DAHyq+CXxUhEhnjEuqEtrCbcbhH6wcWTn1bUT1iTyHLxgNAWDqLTYlyeJ12VuVQxfuR4rUxqxIWAEm3srP/SejU8OUKa221PfPi9NKUliKF3nN7zJazVU7QQu9iLY3r6qunraGf5vdd+6FKHp9XECQM5VjktiBvOWzkrBPA8+4iVk7f7R+sedy+lAuSpZxHSLoeIE4GYXicFkeSpSs3nJkg7BsCXqH7miVv5DlFIjJMI0kpGklRD0GncUTgDcA9YpxDj6c7gsxkj/Lus=;cwvFJ0g6DErOfo12SP6Fhw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-18-pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions.md",
+      "title": "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions",
+      "excerpt": "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-v7-labs-raises-3m-to-help-ai-teams-automate-training-data-workflows.md",
       "title": "V7 Labs raises $3M to help AI teams ‘automate’ training data workflows",
       "excerpt": "V7 Labs, the makers of a computer vision platform that helps AI teams “automate” and future-proof their training data workflows as advances in AI continue, has picked up $3 million in funding. Leading the seed round is Amadeus Capital Partners,",
@@ -1176,50 +1219,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
-      "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
-      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

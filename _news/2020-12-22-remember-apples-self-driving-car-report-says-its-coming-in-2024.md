@@ -303,20 +303,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Moving from self-driving passenger vehicles to safer cargo transport"
-    excerpt: "A year ago, most of the buzz around autonomous vehicles centered on passenger-carrying robotaxis. The COVID-19 pandemic temporarily grounded several AV test fleets. But it also brought new attention to the potential of using autonomous technology for transporting not just people,"
-    publishedDateTime: 2020-12-21T00:00:00Z
-    webUrl: "https://www.autonews.com/shift/moving-self-driving-passenger-vehicles-safer-cargo-transport"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple Moves Forward With Plan for Self-Driving Vehicles"
     excerpt: "Apple is reportedly planning to produce autonomous cars by 2024, using its own breakthrough battery technology."
     publishedDateTime: 2020-12-22T16:37:00Z

@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
+      "title": "BlueScope Steel completes data and analytics overhaul",
+      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
+          "width": 570,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-using-a-test-framework-to-design-better-experiences-with-amazon-lex.md",
+      "title": "Using a test framework to design better experiences with Amazon Lex",
+      "excerpt": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/ML-972-1.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T18:07:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-mlcommons-debuts-with-public-86000-hour-speech-data-set-for-ai-researchers.md",
       "title": "MLCommons debuts with public 86,000-hour speech data set for AI researchers",
       "excerpt": "If you want to make a machine learning system, you need data for it, but that data isn’t always easy to come by. MLCommons aims to unite disparate companies and organizations in the creation of large public databases for AI training,",
@@ -1115,102 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
-      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
-      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "publishedDateTime": "2020-12-04T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Mining Review",
-        "domain": "globalminingreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
-      "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
-      "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "publishedDateTime": "2020-12-04T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

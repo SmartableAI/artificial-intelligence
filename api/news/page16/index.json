@@ -2,6 +2,91 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-09-computer-vision-software-market.md",
+      "title": "Computer Vision Software Market",
+      "excerpt": "The Global Computer Vision Software Market analysis report published on ReportsnReports.com is a detailed study of market size, share, and dynamics covered in XX pages and is an illustrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
+      "originalUrl": "https://www.openpr.com/news/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
+      "publishedDateTime": "2020-12-09T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-artificial-intelligence-just-revealed-a-potential-concern-for-covid-vaccine-makers.md",
+      "title": "Artificial Intelligence Just Revealed a Potential Concern for COVID Vaccine Makers",
+      "excerpt": "Machine learning and artificial intelligence are solving problems that we never thought possible. Just this week, a unit of Alphabet -owned Google -- DeepMind -- used the approach to solve a mystery about how proteins fold that had vexed scientists for 50 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603651%2Fcovid-19-vaccine-vials.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "publishedDateTime": "2020-12-09T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker.md",
       "title": "Adobe launches AI tools to track omnichannel, spot anomalies quicker",
       "excerpt": "The goal of the AI tools is to combine data from repositories as wide ranging as point-of-sale to website and apps to call center and loyalty programs.",
@@ -1043,101 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-amazon-aws-unveils-redshift-ml-to-bring-machine-learning-to-more-builders.md",
-      "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
-      "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd0807e5b1bc70001e40372",
-      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd0807e5b1bc70001e40372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/67005e73-7204-4f99-ab6e-f7386f61aaa0/amazon-aws-2020-redshift-ml.png",
-          "width": 1929,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
-      "publishedDateTime": "2020-12-08T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-the-rise-of-the-ai-economy.md",
-      "title": "The rise of the AI economy",
-      "excerpt": "We have made significant progress in AI capability-building in the past few years through government initiatives and private sector investments. NITI Aayog’s national strategy for AI envisages ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/opinion/op-ed/the-rise-of-the-ai-economy/article33282408.ece",
-      "originalUrl": "https://www.thehindu.com/opinion/op-ed/the-rise-of-the-ai-economy/article33282408.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/nijwj6/article32650574.ece/ALTERNATES/LANDSCAPE_615/AI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

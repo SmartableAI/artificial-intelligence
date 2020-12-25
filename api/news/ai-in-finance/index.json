@@ -4,25 +4,43 @@
     {
       "path": "_news/2020-12-24-7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020.md",
       "title": "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020",
-      "excerpt": "While millions have suffered personal and professional upheaval as a direct result of the Covid-19 pandemic, 2020 has also seen individuals, NGOs, governments and the corporate world collaborating to keep the gears of the economy churning—however jerkily—throughout the crisis.",
+      "excerpt": "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24",
-      "originalUrl": "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24",
+      "webUrl": "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/",
+      "originalUrl": "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_10-questions-checking_121720-568x322.jpg",
+          "width": 660,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp",
+      "ampWebUrl": "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp",
       "publishedDateTime": "2020-12-24T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

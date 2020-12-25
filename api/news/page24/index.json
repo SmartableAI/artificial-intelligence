@@ -2,6 +2,109 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-12-04-intels-controlflag-taps-ai-to-automatically-detect-errors-in-code.md",
+      "title": "Intel’s ControlFlag taps AI to automatically detect errors in code",
+      "excerpt": "Intel's new AI-powered ControlFlag tool can automatically detect code errors that humans miss, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/",
+      "originalUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/",
+      "publishedDateTime": "2020-12-03T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-how-bert-and-gpt-models-change-the-game-for-nlp.md",
+      "title": "How BERT and GPT models change the game for NLP",
+      "excerpt": "AI that can compose Shakespearean sonnets. AI that can design a webpage based on a simple user description. AI that can summarize a description of quantum computing for an eighth grader. Since the launch of the GPT-3 language model this year, natural language processing (NLP) and machine learning enthusiast",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T11:35:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-slack-what-the-277-billion-deal-means-for-the-cloud-and-salesforcecom.md",
       "title": "Slack: What The $27.7 Billion Deal Means For The Cloud And Salesforce.com",
       "excerpt": "Salesforce.com announced its biggest acquisition ever: the $27.7 purchase of Slack, which operates a fast-growing collaboration platform. This is the 8th largest M&A deal in tech history. The origins of Slack go back to 2009.",
@@ -1080,83 +1183,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-himax-ultralow-power-we-i-plus-endpoint-ai-development-board-available-at-sparkfun-to-enable-ai.md",
-      "title": "Himax Ultralow Power WE-I Plus Endpoint AI Development Board available at SparkFun to enable AI ...",
-      "excerpt": "High performance Endpoint AI solution with ultralow power consumption The WE-I Plus processor is designed to accommodate a wide selection of TinyML Neural Network models with programmable DSP running up to 400MHz clock and 2MB internal SRAM.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-4e6bf5efc22032dae67be27a2cbfffbb",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-4e6bf5efc22032dae67be27a2cbfffbb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
-      "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
-      "excerpt": "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T23:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
