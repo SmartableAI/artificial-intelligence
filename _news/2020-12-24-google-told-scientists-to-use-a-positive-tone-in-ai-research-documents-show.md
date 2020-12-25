@@ -3,8 +3,8 @@ category: news
 title: "Google told scientists to use 'a positive tone' in AI research, documents show"
 excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
 publishedDateTime: 2020-12-23T19:16:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+originalUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone?fbclid=IwAR26T4BmtYd1KBb9EFPByI6wDPiOVkdShRUJIgbJgJ5Kdt6GqVJrg-DUq28"
+webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone?fbclid=IwAR26T4BmtYd1KBb9EFPByI6wDPiOVkdShRUJIgbJgJ5Kdt6GqVJrg-DUq28"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
 type: article
@@ -182,6 +182,6 @@ related:
         height: 567
         isCached: true
 
-secured: "EhGVw0NL3zDcCSbYMlg1/qowQpyzDlnOfOG+BHJv/Okr2BRCWTJBt3yZzaH/W5I3C135va37v0M0D50nbTUOzodWpMvumr63f0w4g46DJI/BlXWUyqJcNyMQ/VTN+mhAwC9SQ4HhrKjp6Hmxl9p4MjLC5jEkKd+No832GYS+DJqFF92Ay6a3aU+hIN+31qK1NZzi74qQ5Bwy3vgFDm8dHWd39RoMXwd6qGnF1kM+dNvXaVH+/A/sD+wpHi4OIOO7fc5lVCbsd4NEJvPYQtKS6Y7tus4XhuxIkFcdduTiKTFDn0yJAdQHXpwQAn0H/2PB9H6qndDrHiZScXbD4bAJUPjv7iwEoEHWRX9jebgRZBGs7mIYOY7KnbWABb7PDxYdRr1gKhzpDcScc5IicuD5C2RHdpBoBndX3MT/mu023ektLvaoHSkVn94gi52l+/Xib3v7I5ensHsT8D66vZqEm6SnAUJw7S+5gXY8Ejsu8FTgGtMv91vrfUJQAF/yeColyRFci+oFCtZh1kOBwkrtUg==;T87Gr2gdKgT4evn0QXcplw=="
+secured: "x8su9OTo2eHw5T+xcn0ZRYos8oYl9aH6e5vi0zgIemnn368ZgLzq8ueTc+t/aSPiwjVm4bYA2MXzfj/F3rNhMzmMid0P3SizbjGD6JlBwGvbjzbVvD5fLGbJuSdrVGtmLswxpFX4Ur7wfxYqcTIZmlSsM+pXhI8DVtPo3Ih9QIEe/KnFQxab16Oe1jdBRaHFhGwg90WNnLp8wZwLlpZZKFAKBWzlbPMKWH9/C+4lyYDEkW7uOwdZOsXsKWJMZl1Fnn6pzX0YjRLgHMORI1WO4KGg3278ig+DXdKPdacAUE2oqHPzXoCspGK6/RsW2HgtABc3ex3bWnHTOgtjWs5JOlESHOskHendfqPK9aur6c8=;mm1KI/Lixg4Ws7AxXK7tCw=="
 ---
 

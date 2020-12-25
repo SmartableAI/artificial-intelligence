@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Full Self-Driving subscription coming really soon"
-    excerpt: "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ..."
-    publishedDateTime: 2020-12-21T02:17:00Z
-    webUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/"
-    ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg"
-        width: 1680
-        height: 944
-        isCached: true
   - title: "The Morning After: Tesla's self-driving subscription slides to 2021"
     excerpt: "If, say, a friend of yours is still in need of last-minute shopping information, or you just want to double check what’s out there, the Engadget Holiday Gift Guides for 2020 are here to help."
     publishedDateTime: 2020-12-21T12:28:00Z
@@ -121,54 +105,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple aiming to build self-driving car by 2024"
-    excerpt: "Apple is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the"
-    publishedDateTime: 2020-12-21T21:33:00Z
-    webUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/"
-    ampWebUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/apple-self-driving-car.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple Takes On Tesla With 'Breakthrough' Self-Driving Car"
-    excerpt: "Apple Inc. is set to take on Elon Musk’s electric vehicle company, Tesla, as it aims to produce a “breakthrough” self-driving car in 2024. In 2014, the company famous for it"
-    publishedDateTime: 2020-12-22T03:55:00Z
-    webUrl: "https://www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255"
-    ampWebUrl: "https://www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/14/apple-is-adding-labels-to-its-apps-so.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Self Driving Apple Car Coming In 2024, New Report Indicates"
-    excerpt: "The Apple car may be back on the table after rumors surfaced this week indicating the American technology company is developing a battery-electric vehicle that will enter production in 2024. According to Reuters,"
-    publishedDateTime: 2020-12-22T16:44:00Z
-    webUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/"
-    ampWebUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
-    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 59
-    images:
-      - url: "https://gmauthority.com/blog/wp-content/uploads/2019/03/Apple-Logo-grey-logo-white-background-1024x538.jpeg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Tesla To Offer Full Self-Driving As A Subscription"
     excerpt: "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow."
     publishedDateTime: 2020-12-23T16:35:00Z
@@ -201,52 +137,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Cramer on reports that Apple is moving ahead on self-driving car initiative"
-    excerpt: "According to a report from Reuters, Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle. The report sent the stock higher in extended hours trading on Monday."
-    publishedDateTime: 2020-12-22T15:08:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/22/cramer-apple-self-driving-car-tesla-squawk-street.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 52
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106193847-1571685003084img_3993r.jpg?v=1571685072"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Apple Is Reportedly Releasing a Self-Driving Car in 2024"
-    excerpt: "According to a Reuters exclusive, tech giant Apple is planning to produce a self-driving passenger car to be released as soon as 2024 — despite several layoffs hitting the company’s automobile efforts over the last couple of years."
-    publishedDateTime: 2020-12-21T22:04:00Z
-    webUrl: "https://futurism.com/the-byte/apple-self-driving-car-2024"
-    ampWebUrl: "https://futurism.com/apple-self-driving-car-2024/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/apple-self-driving-car-2024/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2020/12/apple-self-driving-car-2024-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-    excerpt: "In 2019, Baidu partnered with Chinese state-owned ... and other driver-assistance features. Its new self-driving technology uses the “Orin” processing chip. Vehicles using the system are ..."
-    publishedDateTime: 2020-12-23T20:16:00Z
-    webUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
-    ampWebUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
     excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."
     publishedDateTime: 2020-12-21T15:23:00Z
@@ -256,22 +146,6 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 32
-  - title: "Elon Musk Promises You Can Pay For 'Full Self-Driving' Subscription In 2021 Even Though It Won't Really Exist Then"
-    excerpt: "For many Tesla owners and fans, the deceptively-named Full Self-Driving (FSD) system that Tesla CEO Elon Musk has been promising is a very exciting and desirable thing. Of course, it’s also a $ ..."
-    publishedDateTime: 2020-12-22T19:01:00Z
-    webUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969"
-    ampWebUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 22
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pnqlrn8y8nuiwgh49v4p.png"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
     excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
     publishedDateTime: 2020-12-24T19:55:00Z

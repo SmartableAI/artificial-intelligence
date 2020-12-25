@@ -137,7 +137,7 @@ related:
   - title: "Google told scientists to use 'a positive tone' in AI research, documents show"
     excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
     publishedDateTime: 2020-12-23T19:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+    webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone?fbclid=IwAR26T4BmtYd1KBb9EFPByI6wDPiOVkdShRUJIgbJgJ5Kdt6GqVJrg-DUq28"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
     type: article

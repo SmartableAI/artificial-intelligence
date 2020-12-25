@@ -2,11 +2,11 @@
 category: news
 title: "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources"
 excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
-publishedDateTime: 2020-12-22T06:59:00Z
-originalUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
-webUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28W06E"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W06E"
+publishedDateTime: 2020-12-22T05:05:00Z
+originalUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive-idUSKBN28W00B"
+webUrl: "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive-idUSKBN28W00B"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W00B"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W00B"
 type: article
 quality: 47
 heat: -1
@@ -113,6 +113,6 @@ related:
         height: 382
         isCached: true
 
-secured: "PmgSWc4vfSxGftUy7F+7AEe5fVlPhw1hlFiqjnRnrai+ryjtSG9yxKiHfBCUsWR1JoaOUU3LrUOyamLkpvHCWIGBdVqcLzQ930PiaamENJ7H/Dikw0s1hDekehUpSHsuK/iMh+ZMN0omeTjxWk4k+r1KvVXmP41AcnakhJ/yotqZyqQ5jVZu/HW6RR8H2GHAN2ypwKkc+fAJ33oEg5L14rW8gJLNpAvxfvRCo7CklNIss12INcOx1rtFdBPx8+gADWkGyJZMl/uKTbvHFgI/r3FkdKW3YNT4bhE122ZYLhC3X+JO2g8uNH+c5RkkcsPv47Hmnry1MccsT813p9Q1JQBhaaaeEhVJb8ue0+hNP5c=;oV9SMxZ9C74dFS8rpCA36A=="
+secured: "lqh8fcVF4c5mSmnGX7osDqpFEK511S9j0DH6xr1hJ9/Fi1jAvx+n+DyZ8tWPxonATn9O1JsoHXsQ56zyo7TzzG1XmA3g7FX2ngj+aPCivXHcGtRoJkRZ8jAw4G9KTLK3O7JrHV52BZjy3Pa+ACqTJSmVUC01Cw17KtgqJE+ocYX7mX58r43CbpKbhnc3qgVbovKip76OhWjvOjAo6BR4v7LRxw4mG1bR34PxUk5m7D0eqqLCrgPTI6iNJvJOr7ZnPSbFG27+o2LNnSdcmbNbMQWHXR2NUGuJT61Wgmd1MINxlhy7ooLIQV00ILaZYo9i1m5CuFZGM0MiMPjmDkTJxGDyEUP9EO0QIPsYeYWjGtY=;p2DtcgUexX10jAMvIy0njA=="
 ---
 

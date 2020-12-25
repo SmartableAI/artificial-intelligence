@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-
 ampWebUrl: "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "7ef4cVG4paiI+mRc04FuLqt+YSz9U7Jp10lvAMdXQegfqBr3dfjG0fCSKCCL9T1D4GuJ/GRDJTeT95SEpZEqhJxFZ/NqmOQjHwuF0/RafSR2bSEwxtujWsvc/2E9DLNAsJJjIKPCDYbtjPyEA5XSG65OXj+CIIz3cW/fcXe2JFM+ycqDmODQvuC+8OuyOPZqGwFU6NoIsXhbmlHQ/vb4SsVpDb9K1y0bTTeXbaw2IFTmhps0ygOvV/Yad5dEo6ajwrNXJ4GFjnE1P6c1qYszVavCnScKM7Wdnls1a8Z/eVFp+RMtzDmVqrY6+tOAhKLQHAYznblMuv864IjAaA1WN7a1XEAsle5vZOJeHsJJpkc=;THsPCQiD1kow7o9to79uew=="
+secured: "KtPzBisFBqcJ8nYvvl44qlSHTJPUqGDlKWlw+igN+jU8c/rCv6mGXEwRaqxIpZJ8DJcSnPP3h93MkZzJZbcL46GIV/pTFrswLuJP1/ToFZWQkuzMvXJEBVS/RQZtgPDS+IXhqHX9VKqjBztYUdCq/t5vYMwNCGVUEz99z+TiU2kq/XK1oywPZBDBUXQTlik5lY0NDrY5tWIcrz+5svbkxl2lsJTaFojZBQw5TQ9SCdtVOjGlLrEbm5QqEJQPq29KswQM0H/FH4pRj+iAEx9P8zSZPJSxEw/NLwFRicXCW85UU7TpWrfdWsVnaSoi+dzN1C6HfJwLb+2/FQR73yW8xXKBG5bqCNzGFbRgeNr5nm5uinpXfnzRXCqvyQfO/EoSF9rVhyJoLhRRHvoTjLPhUMIuN6HuWBQ0Nru2aZuI+nc89d7zRRqoAid2uSm1gI7qodjmwIACxX6upHA9JLTMZa86cDR7kKL1XNazZFtbURqjNH6jmx5zT2L8HEPiJCUJhaTkgtCMNGm45LFsGkYbCQ==;rfkBJJIlcmThpEg4UCLnUg=="
 ---
 

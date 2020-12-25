@@ -45,6 +45,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Apple aiming to build self-driving car by 2024"
+    excerpt: "Apple is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the"
+    publishedDateTime: 2020-12-21T21:33:00Z
+    webUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/"
+    ampWebUrl: "https://nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/apple-aiming-to-build-self-driving-car-by-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/apple-self-driving-car.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Apple Aims to Build Self-Driving Car: Report"
     excerpt: "Get Report is planning to produce a passenger vehicle in 2024 that has both self-driving technology and uses Apple’s own battery technology, according to a published report. Reuters reported Monday, citing people familiar with the matter,"
     publishedDateTime: 2020-12-21T22:33:00Z
@@ -61,6 +77,36 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Self Driving Apple Car Coming In 2024, New Report Indicates"
+    excerpt: "The Apple car may be back on the table after rumors surfaced this week indicating the American technology company is developing a battery-electric vehicle that will enter production in 2024. According to Reuters,"
+    publishedDateTime: 2020-12-22T16:44:00Z
+    webUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/"
+    ampWebUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
+    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 59
+    images:
+      - url: "https://gmauthority.com/blog/wp-content/uploads/2019/03/Apple-Logo-grey-logo-white-background-1024x538.jpeg"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "Cramer on reports that Apple is moving ahead on self-driving car initiative"
+    excerpt: "According to a report from Reuters, Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle. The report sent the stock higher in extended hours trading on Monday."
+    publishedDateTime: 2020-12-22T15:08:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/22/cramer-apple-self-driving-car-tesla-squawk-street.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 52
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106193847-1571685003084img_3993r.jpg?v=1571685072"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Self-Driving Car Market 2020 | Size, Market Share, Leading Players and Forecast to 2024"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2020-12-23T07:01:00Z
@@ -74,6 +120,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Apple Is Reportedly Releasing a Self-Driving Car in 2024"
+    excerpt: "According to a Reuters exclusive, tech giant Apple is planning to produce a self-driving passenger car to be released as soon as 2024 — despite several layoffs hitting the company’s automobile efforts over the last couple of years."
+    publishedDateTime: 2020-12-21T22:04:00Z
+    webUrl: "https://futurism.com/the-byte/apple-self-driving-car-2024"
+    ampWebUrl: "https://futurism.com/apple-self-driving-car-2024/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/apple-self-driving-car-2024/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2020/12/apple-self-driving-car-2024-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Apple is Trying to Launch a Self-Driving Electric Car in 2024"
     excerpt: "Protect the Old – About 10% of Vaccination Effort Can Prevent 90% of the Deaths Making Flu Vaccination Over Twice as Effective With a Pro-Active Public Health System"
@@ -202,6 +264,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/apple-inc-508812_1920_32.jpg"
         width: 1920
         height: 1440
+        isCached: true
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "In 2019, Baidu partnered with Chinese state-owned ... and other driver-assistance features. Its new self-driving technology uses the “Orin” processing chip. Vehicles using the system are ..."
+    publishedDateTime: 2020-12-23T20:16:00Z
+    webUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
+    ampWebUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Apple Is Planning an Electric Self-Driving Car Featuring Game-Changing Battery"
     excerpt: "At the center of Apple’s renewed strategy is a new “monocell” battery design that could significantly reduce the cost of batteries and increase the vehicle’s range, according to a second source familiar with the matter."
@@ -355,6 +433,6 @@ related:
       domain: morningstar.com
     quality: 3
 
-secured: "i8QgmzMxMWrpFIlofpr9SpfE8PrJ9gn00h/QJi6D2gzdMj2n223dFB/5wSaZjlKMuh2Yp2T1L802wPunNhwSkGbDtcglkVqC3PTkhpi+E3UdLi1nSw9bklDNBSYlVrvPa3yVAt28d04BbYOmGfkE5upG8J/f1PTAW/slkDu2lPmMIqg7QhLK/5Q6jLTxtX52nPrjQ80SfZ2IYNUduozjaz/yV+m+qWds5AwI4miBsN06cDH8adzymC6AefOazHJQD6L85VRlY2sFuESCiFsgQGhWT5sOhoH8gjW3RiI3zAuuP8a9dFKojx+70D9MQaNtH3+z9umengT47kgvIMdrLu+RfPyhOpbZ1VGdU6Yqt38=;8efVayLgU236mZLGDoHetA=="
+secured: "AT1FkMGlDas7X4zVkSevjf59ZsNKpibTjjGs3/bJIzBfVHrYpy63pzxW6PXpX4HoM+Q4Prt4oCp2F2RSzM8z/QN7RvPn96Hoj7i5SfFhHSZfEbi927KcNdXSQvw25ynoYmz1N9fssw5zVLegGvUaBRZ0O50I9fAK7SmAtPo2l7f4LwnwDk7tqxNvMiz1lXK0L5i9auzXYHELb7PmNrG8R6yR+2toHgDnPfZblswrhbFfJ2LX6ezoNenOxH1Eev8G/fTfGPmb+REsyNDWJXd3vxrLj4ZmkgYz+UEVYYDvGpct7RiJ+M+ItDzhgekXFc3sScVURuzigyNTr93SXx7zmYt4tDpjWeSgfztCauSyr/Rzaoxb31h9Y0Hfn+bpOsBkodmKG6wsyFZjt9bdZ172+CdsSeDGpHRmEMmw4oa3108bWDnQup4fxQ2HuUmk/r+Mj2DKBk/IJ0z4GltLomqjcM8fx1Z8nLRxQTTo0lIAnWrrna10a5VJq/qW8JY5ZkvLeIEuzG5lPfRCL+R/IHGgLQ==;W/tmCnBJgUeztbxpUjX2tw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net 'Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers CAMBRIDGE ..."
-publishedDateTime: 2020-12-10T07:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029"
+excerpt: "Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computersCAMBRIDGE, England, Dec. 10, 2020"
+publishedDateTime: 2020-12-10T07:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880031"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880031"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "/POpU28EKPAqNXe2V1HaRtHCUB413vBllxu49n0j/rPokGn1/wIt06rog1HgTPf+b9mZ9PNsRgctduFA2CUOTO4RMEvl195mMeiUMKQo1FhrPauEJHztlkGVIneNmPcMVALMvY15HOg45/RnmXZsUk0zNcaKeDg4lc/dKLS5cNlb2445cDaib49errXcZIs+5vNuoL76CAnbHsUP3buy71vSEFFNThZDq6U/ydpfi3fF79mtAL1dunLOJBc5/Pa5T0Dgp++9Cty15wDzCQ6R1ST5CBuNE8fWRr0t4a4blr4L0b9uZXrJb8A1ERkkJhtww/2Hp8qztHnXtHGPHqLrJdxohSbth17x05JqEQNCI6U=;77ZYAijMcYW4QafAV0JNZA=="
+secured: "M7arRgGytRqcRRsZFDr2+kRyc6OeSysGHy2g+R2pQXZe5jk6KV4K1r4Tbcxv+vVb2wkTfIf4njpV0esJUdQBv55W9wI8qCstUIWfhM9pyVFWSOUQKxJrp5bWfqt6iV2wXliniSN2jpQ8+nYNw/L16p57gxAg0kC3hGinhaRLvK9dLHncyadh2TU468Ce0Ao2oJrqvP4nDjofPqfJY7NVETcyyahpnlnsw5AWbAmxba1tBem7KxZv7btkoT2IqjAYm3eK2oPCwjLkVmPwBzTSouCzP8IHVD8vbq262yHXLsvP4k+PXUEwdJ6AVPPg0cDBSRbin2/te9koNU9MpbTHh1aPwz3CQ8r4OoWQWK1fm3M=;mcqHfLFQyvzZA+yEbZYzLw=="
 ---
 

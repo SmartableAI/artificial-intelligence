@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Challenges in building an app to interpret Indian sign language"
-    excerpt: "The big challenge with sign language is that it’s not universal,' says Jayasudan Munsamy. It varies from country to country and even in different regions of a large country"
-    publishedDateTime: 2020-12-21T02:02:00Z
-    webUrl: "https://www.livemint.com/news/business-of-life/challenges-in-building-an-app-to-interpret-indian-sign-language-11608476748623.html"
-    ampWebUrl: "https://www.livemint.com/news/business-of-life/challenges-in-building-an-app-to-interpret-indian-sign-language/amp-11608476748623.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/challenges-in-building-an-app-to-interpret-indian-sign-language/amp-11608476748623.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2020/12/20/600x338/BOLlanguage_1608476832278_1608476840355.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "With Machine Learning, Indian American Scientist Discovers New Way to Filter Fake News"
     excerpt: "Using machine learning, a team of U.S. researchers led by Indian American computer scientist Anshumali Shrivastava at Rice University has discovered an efficient way for social media"
     publishedDateTime: 2020-12-22T02:00:00Z
