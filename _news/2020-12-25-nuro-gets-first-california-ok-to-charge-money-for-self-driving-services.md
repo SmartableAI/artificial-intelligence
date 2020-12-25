@@ -1,33 +1,46 @@
 ---
 category: news
-title: "Robotics company gets OK to charge money for self-driving services"
-excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
-publishedDateTime: 2020-12-24T16:56:00Z
-originalUrl: "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services"
-webUrl: "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services"
-ampWebUrl: "https://dunyanews.tv/amp/english/579822.php"
-cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php"
+title: "Nuro Gets First California OK to Charge Money for Self-Driving Services"
+excerpt: "Silicon Valley startup Nuro on Wednesday received the first ever permit to commercially deploy its self-driving vehicles in California, allowing the firm to charge a fee and receive compensation for its driverless delivery service."
+publishedDateTime: 2020-12-25T05:39:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california?context=amp"
 type: article
-quality: 76
-heat: 167
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Dunya News
-  domain: dunyanews.tv
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
-
-images:
-  - url: "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1"
-    width: 556
-    height: 370
-    isCached: true
 
 related:
+  - title: "Robotics company gets OK to charge money for self-driving services"
+    excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
+    publishedDateTime: 2020-12-24T16:56:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services"
+    ampWebUrl: "https://dunyanews.tv/amp/english/579822.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 76
+    images:
+      - url: "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1"
+        width: 556
+        height: 370
+        isCached: true
   - title: "Nuro gets first California OK to charge money for self-driving services"
     excerpt: "(Reuters) - Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service. Relying on a remote human ..."
     publishedDateTime: 2020-12-24T10:44:00Z
@@ -60,17 +73,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Nuro Gets First California OK to Charge Money for Self-Driving Services"
-    excerpt: "Silicon Valley startup Nuro on Wednesday received the first ever permit to commercially deploy its self-driving vehicles in California, allowing the firm to charge a fee and receive compensation for its driverless delivery service."
-    publishedDateTime: 2020-12-25T05:39:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "California grants first permit for commercial use of self-driving cars to Nuro"
     excerpt: "California-based robotics company Nuro can start using its self-driving cars for commercial use on some streets near its Bay Area headquarters after receiving a permit from the California ..."
     publishedDateTime: 2020-12-24T17:26:00Z
@@ -150,6 +152,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "BD9urrxRaWy+2/R48+W2LzlwFi/aVs+a4LEcSRb6pzFvD+QXhy8TB4bgyj1qjwRgLvJvOP6is4vOGv7DUZLZoGnKSlOCz7QYjEnS13Wu0eOXVAnnTjkrznFJd0aYc8F/4uWXWhqPvz+pj1lbfdK6GqfG3im5+EzyfYyzhtyvMw2LSy9Qb8wogS9OUyW7yFnXPJqFlz/kIHg6DI/0CKRpEeNMQPwGQ74JVtzIuFB57dm7gIJ8BzMzXOfL/wx/twyxsXcmr/RyJx/wbsxAb0Wh/6PodQyp09FhHnZIXHPohYJcHRvtBPAq3OIUsmhGtDIKZtDa+J7aRTfI06zNNG7pQRV14D2FbM+rcIUZa+8slzM=;81Ul5v9x674dDuEVZVnOPg=="
+secured: "rMMJHkG66m8A3JrmVmd/zQWIRgZcJLwe0f7dFR8hrAzDt+kv8cf4YeOiZXZ/cfPCaV4QGgVZfEq2l8yAIr/ZeIyraturbEv5FcCoVKi0EX5pf0chktclObIgZkxuCEmcXN30Luxixl+dOHf/lvCC0/5WLBnOnLMfL99iuE5swpGYREivm6sejfyXLOP/BTbgyKg4J+vG3zN4URIrc8vGDmI87OPEss2CdnnVRZmWikUzFiyWugrVOcOV94lKTTZKAxA2Qob4ZNjRyq5NiO1MhTrkOBE5FrXhi9cJwk8DApkViIp19U0uPYAGDkNY6jZaMg5H7uPhUYk4JeLIogB5S/m+74W45P1QMB3zYIdl3jt1quONpCgUKFzMlp5smEEV7vJI658DcWierzKOuFySYfCgWyTUnuWQqXMMMOx0MGh5CM2Wfybz4CXreGIFyTP2GXouFiyvcDvjCb5v7iBURwCO5KM7nonsQ6pimbh8cOwodVB4s+AY5sRhahgT1EQFq0O63CGdPZfMZSWRPXE7tQ==;/6T1tPbx/436XhSP980BFA=="
 ---
 

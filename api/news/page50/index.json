@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-11-17-baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray.md",
+      "title": "Baidu to Buy Chinese Livestreaming Giant in Big Social Foray",
+      "excerpt": "Baidu Inc. agreed to buy Joyy Inc.’s livestreaming business ... intelligence technology and betting on commercializing AI through smart speakers and self-driving cars. In September, its smart speaker unit received its first independent financing round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7bMQ7gTztuk/v2/360x-1.png",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
+      "publishedDateTime": "2020-11-16T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-new-medical-ai-can-take-vitals-without-waking-up-patients.md",
       "title": "New medical AI can take vitals without waking up patients",
       "excerpt": "Using deep learning to predict patient vitals as they sleep could lead to healthier patients and less burnout for nurses, researchers say.",
@@ -1169,57 +1221,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/",
       "publishedDateTime": "2020-11-16T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy.md",
-      "title": "The Role Of AI In Carbon Reduction And Increased Efficiency For Energy",
-      "excerpt": "Transitioning the energy industry from primarily oil and gas to more renewable sources won’t happen overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cfa1d1eff46907fd8eea1%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/amp/",
-      "publishedDateTime": "2020-11-16T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

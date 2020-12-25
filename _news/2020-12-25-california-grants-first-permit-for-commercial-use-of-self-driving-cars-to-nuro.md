@@ -75,6 +75,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Nuro Gets First California OK to Charge Money for Self-Driving Services"
+    excerpt: "Silicon Valley startup Nuro on Wednesday received the first ever permit to commercially deploy its self-driving vehicles in California, allowing the firm to charge a fee and receive compensation for its driverless delivery service."
+    publishedDateTime: 2020-12-25T05:39:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-23/nuro-gets-first-ever-permit-for-commercial-use-of-autonomous-vehicles-in-california?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
     excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
     publishedDateTime: 2020-12-23T22:12:00Z

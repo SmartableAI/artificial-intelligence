@@ -2,6 +2,58 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-11-06-america-enters-the-era-of-technopolitik.md",
+      "title": "America Enters the Era of Technopolitik",
+      "excerpt": "The U.S. has long relied on a geographic network of friends, but the future of multilateralism looks very different.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iExXFozC.O3o/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "publishedDateTime": "2020-11-06T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-ai-accurately-detects-radiographic-sacroiliitis-in-axial-spondyloarthritis.md",
       "title": "AI accurately detects radiographic sacroiliitis in axial spondyloarthritis",
       "excerpt": "This study set out to develop and validate an artificial neural network model that uses AI technology to detect definite radiographic sacroiliitis as a manifestation of AxSpA. \"Conventional X-ray ...",
@@ -1066,49 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-ima-life-accelerating-its-digital-innovation-selects-falkonrys-operational-ai.md",
-      "title": "IMA Life, Accelerating its Digital Innovation, Selects Falkonry’s Operational AI",
-      "excerpt": "IMA Life, a world leader in the field of aseptic processing and freeze drying solutions, has partnered with Falkonry, the innovation leader in Operational AI, to accelerate IMA digital innovation using Falkonry Clue and Falkonry Workbench.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
-      "originalUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/3bea4930-9df9-47c5-a341-8e369fc2d89d/Falkonry-Nov5-2020-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

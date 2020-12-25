@@ -1,39 +1,36 @@
 ---
 category: news
-title: "This Hilarious AI-Generated Holiday Song Is the Christmas Jam We Didn't Know We Needed"
-excerpt: "YouTuber Chase Holfelder has the internet laughing with his AI-generated song, \"Rudolph, The All Gracious King,\" inspired by Mariah Carey's Christmas album."
-publishedDateTime: 2020-12-22T19:54:00Z
-originalUrl: "https://cafemom.com/news/rudolph-all-gracious-king-ai-generated-christmas-song"
-webUrl: "https://cafemom.com/news/rudolph-all-gracious-king-ai-generated-christmas-song"
+title: "‘The Voice Of Christmas’ Johnny Mathis On Singing Christmas Songs And The Role Of Holiday Music In 2020"
+excerpt: "Crooner Johnny Mathis, 85, looks back on his six studio albums of Christmas music and the role of holiday songs despite pandemic in 2020."
+publishedDateTime: 2020-12-25T05:37:00Z
+originalUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/"
+webUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/"
+ampWebUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/"
 type: article
-quality: 9
-heat: -1
-published: false
+quality: 58
+heat: 98
+published: true
 
 provider:
-  name: The Stir
-  domain: cafemom.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe572d487b385118f25327e%2F0x0.jpg"
+    width: 720
+    height: 540
+    isCached: true
+
 related:
-  - title: "‘The Voice Of Christmas’ Johnny Mathis On Singing Christmas Songs And The Role Of Holiday Music In 2020"
-    excerpt: "Crooner Johnny Mathis, 85, looks back on his six studio albums of Christmas music and the role of holiday songs despite pandemic in 2020."
-    publishedDateTime: 2020-12-25T05:37:00Z
-    webUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe572d487b385118f25327e%2F0x0.jpg"
-        width: 720
-        height: 540
-        isCached: true
   - title: "Neural network constructs new, terrifying Christmas classic, \"Rudolph, the All-Gracious King\""
     excerpt: "What happens when you combine neural networks, Christmas carols, and Mariah Carey? A total yuletide abomination, that's what."
     publishedDateTime: 2020-12-22T22:14:00Z
@@ -78,7 +75,16 @@ related:
         width: 1420
         height: 800
         isCached: true
+  - title: "This Hilarious AI-Generated Holiday Song Is the Christmas Jam We Didn't Know We Needed"
+    excerpt: "YouTuber Chase Holfelder has the internet laughing with his AI-generated song, \"Rudolph, The All Gracious King,\" inspired by Mariah Carey's Christmas album."
+    publishedDateTime: 2020-12-22T19:54:00Z
+    webUrl: "https://cafemom.com/news/rudolph-all-gracious-king-ai-generated-christmas-song"
+    type: article
+    provider:
+      name: The Stir
+      domain: cafemom.com
+    quality: 9
 
-secured: "5j29W2ySq9ROFa7WxWQ6c5b9MDDZs4SwpfhHi6DW3xDmPahQneaIqTvx3dW1f7aFcMCBBwnrvFHlmIVLK51y3Xs5axctijxBYochumRHm+QbSw3y2x8Ot4m6uoNwmy1fURu7phFnMYGXxSZFPheYQh7IiBJVHvuVQOUswFsEKw5mLhXpjfl32fWzzhRjxVycO3JysFwwQzvQDSityIAVstF1MwGo7QGXYSVU5uuky/GQ9YuhFo1FG1xfA5AghPUC4l2aR0FhpkIrr1BHYMTD9Ef/0AZCytE2N9FZyn/zctOv27K+EaKa0r8taUSmTneXsbs6loERiy3ntUP2Ykwzq0YGT3IA16VKkH7LIecp7WnZzRE4SXAwrX/M3q0wKQFcYd6KnF+hNUMdSTqRTq5U0j3cfplc58dDmA0faDeS2XDoP9G5cOImOvI5sH2MqlfWD75svDssyXy3h2KJhNqWwvXg7vg6AR+gcpucqGJDVAU8Ys+gjl62z4dFw02og0sKFalUHtuF6186FM3rMwXNsw==;VvEdIo5VG5YqrM3NIq2tHg=="
+secured: "OtEOEDgxXmBhpiXkjxAQrylt5SdPqYLPVyvJSaCtVZmegd789Otave1ROhizMOsXIgvTxainq5gUOTs/p4IVoidiJLFke7DfHlSehNPm40xkIWND6ybvcy+pvxxqA51tAq/28oHfnSzlxkhlFp+0qsn5qcK4piCMnyeD++As21THI56PPU2CzQDJ5uFIpqdYmsI+25hOnU7Knl92QunIeb1HJUdA/Y+nGqMFJQ/U9xBiWPyb46s3K+7wD7YvoWtU9pmR9wlUBvTvlKhj/OqrTYvexRw/YBqWAczhDWd8VFGTcHn73JOsL3EEVq/ypAT4nRWULhcsxJodn0zG89tJ6cPc4v4mo9ksJqrcPGaMTMQ=;0dlOArAEy8iI/vqp4MzJTw=="
 ---
 

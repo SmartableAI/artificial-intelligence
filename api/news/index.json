@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020.md",
+      "title": "‘The Voice Of Christmas’ Johnny Mathis On Singing Christmas Songs And The Role Of Holiday Music In 2020",
+      "excerpt": "Crooner Johnny Mathis, 85, looks back on his six studio albums of Christmas music and the role of holiday songs despite pandemic in 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/",
+      "originalUrl": "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe572d487b385118f25327e%2F0x0.jpg",
+          "width": 720,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/",
+      "publishedDateTime": "2020-12-24T21:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.md",
       "title": "Stocks making the biggest moves in the premarket: FireEye, Alibaba, C3.ai & more",
       "excerpt": "FireEye (FEYE) – The cybersecurity firm's stock is 2% lower in premarket trading, after rising for four straight sessions and eight of the past 10, gaining more than 78% over the latter stretch. Shares of this and other cybersecurity firms have been rising,",
@@ -148,7 +200,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -748,19 +800,19 @@
     {
       "path": "_news/2020-12-24-ai-debate-2-night-of-a-thousand-ai-scholars.md",
       "title": "AI Debate 2: Night of a thousand AI scholars",
-      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman, Fei-Fei Li, and Judea Pearl.",
+      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "webUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "originalUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f053e7cc-79d7-4c08-951d-dd7fc1fc8b58/ai-debate-2-screen-shot-1.jpg",
-          "width": 1898,
-          "height": 1064,
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f068ec2f-b729-41a5-95d5-03bf2c6ff732/screen-shot-2020-12-23-at-4-16-01-pm.png",
+          "width": 3360,
+          "height": 2100,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -768,9 +820,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "publishedDateTime": "2020-12-23T15:05:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "publishedDateTime": "2020-12-23T13:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -793,7 +845,6 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1195,59 +1246,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
-      "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
-      "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "publishedDateTime": "2020-12-23T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

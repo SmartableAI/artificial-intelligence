@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-18-v7-labs-raises-3m-to-help-ai-teams-automate-training-data-workflows.md",
+      "title": "V7 Labs raises $3M to help AI teams ‘automate’ training data workflows",
+      "excerpt": "V7 Labs, the makers of a computer vision platform that helps AI teams “automate” and future-proof their training data workflows as advances in AI continue, has picked up $3 million in funding. Leading the seed round is Amadeus Capital Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/18/v7-labs/",
+      "originalUrl": "https://techcrunch.com/2020/12/18/v7-labs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/bina-lab-flood-recognition.jpg?w=680",
+          "width": 680,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/18/v7-labs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/18/v7-labs/amp/",
+      "publishedDateTime": "2020-12-18T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics.md",
       "title": "CoachHub nabs $30 million for talent development platform that meshes AI with analytics",
       "excerpt": "CoachHub, a digital coaching platform that leans on AI and analytics, has raised $30 million in a round of funding led by Draper Esprit.",
@@ -1169,58 +1220,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-blaize-creates-pc-revolution-for-ai-on-smart-edge-devices.md",
-      "title": "Blaize Creates ‘PC Revolution’ For AI On Smart Edge Devices",
-      "excerpt": "A PC Revolution for AI may still be a little way off, but a new ubiquity and accessibility is coming to these software tools and the future development of smart cities could well depend upon them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdb6934df7272f1e50885c4%2F0x0.jpg",
-          "width": 640,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/amp/",
-      "publishedDateTime": "2020-12-17T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
