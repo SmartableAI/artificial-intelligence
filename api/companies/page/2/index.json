@@ -23,7 +23,7 @@
       "twitter": {
         "username": "Upstart",
         "url": "https://twitter.com/Upstart",
-        "followers": 8805
+        "followers": 8806
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -197,7 +197,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 3405
+        "followers": 3408
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -244,7 +244,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 39661
+        "followers": 39663
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -407,7 +407,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 8768
+        "followers": 8769
       },
       "yearFounded": 0,
       "locations": [
@@ -441,44 +441,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/zscaler.md",
-      "title": "Zscaler",
-      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
-      "type": "profile",
-      "name": "Zscaler",
-      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "website": "https://www.zscaler.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zscaler"
-      },
-      "twitter": {
-        "username": "zscaler",
-        "url": "https://twitter.com/zscaler",
-        "followers": 8929
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zscaler",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/datarobot.md",
       "title": "DataRobot",
       "excerpt": "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes.",
@@ -498,7 +460,7 @@
       "twitter": {
         "username": "DataRobot",
         "url": "https://twitter.com/DataRobot",
-        "followers": 17181
+        "followers": 17183
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -552,7 +514,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 9110
+        "followers": 9111
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -606,7 +568,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 10108
+        "followers": 10109
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -659,7 +621,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 21005
+        "followers": 21008
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -714,7 +676,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25605
+        "followers": 25604
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -792,82 +754,6 @@
           "width": 400,
           "height": 400,
           "title": "Babylon Health",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/activecampaign.md",
-      "title": "ActiveCampaign",
-      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
-      "type": "profile",
-      "name": "ActiveCampaign",
-      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "website": "https://www.activecampaign.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/activecampaign"
-      },
-      "twitter": {
-        "username": "ActiveCampaign",
-        "url": "https://twitter.com/ActiveCampaign",
-        "followers": 10879
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Chicago, IL"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "ActiveCampaign",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 16964
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
           "isCached": true
         }
       ],
@@ -952,7 +838,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 30661
+        "followers": 30659
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1139,6 +1025,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 16964
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 101,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/ada.md",
       "title": "Ada Health",
       "excerpt": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
@@ -1158,7 +1082,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 4377
+        "followers": 4380
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1216,7 +1140,7 @@
       "twitter": {
         "username": "benevolent_ai",
         "url": "https://twitter.com/benevolent_ai",
-        "followers": 6419
+        "followers": 6420
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1475,7 +1399,7 @@
       "twitter": {
         "username": "fundbox",
         "url": "https://twitter.com/fundbox",
-        "followers": 7766
+        "followers": 7767
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1531,7 +1455,7 @@
       "twitter": {
         "username": "InsilicoMeds",
         "url": "https://twitter.com/InsilicoMeds",
-        "followers": 3374
+        "followers": 3375
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1590,7 +1514,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5282
+        "followers": 5280
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1647,7 +1571,7 @@
       "twitter": {
         "username": "RecursionPharma",
         "url": "https://twitter.com/RecursionPharma",
-        "followers": 3783
+        "followers": 3782
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1681,6 +1605,218 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tempus.md",
+      "title": "Tempus",
+      "excerpt": "Tempus is a technology company that is building the world’s largest library of molecular and clinical data and an operating system to make that data accessible and useful, in an effort to bring the power of artificial intelligence to healthcare.  We enable physicians to make real time, data driven decisions and deliver personalized care for patients through our interactive analytical and machine learning platform. Our goal is for each patient to benefit from the treatment of others who came before by providing the health care industry with tools that learn as we gather more data. For more information, visit tempus.com and on Twitter (@TempusLabs).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tempus/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tempus/",
+      "type": "profile",
+      "name": "Tempus",
+      "otherNames": [
+        "Tempus Labs"
+      ],
+      "overview": "Tempus is a technology company that is building the world’s largest library of molecular and clinical data and an operating system to make that data accessible and useful, in an effort to bring the power of artificial intelligence to healthcare.  We enable physicians to make real time, data driven decisions and deliver personalized care for patients through our interactive analytical and machine learning platform. Our goal is for each patient to benefit from the treatment of others who came before by providing the health care industry with tools that learn as we gather more data. For more information, visit tempus.com and on Twitter (@TempusLabs).",
+      "website": "https://www.tempus.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tempus-health",
+        "followers": 12290
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tempus-3"
+      },
+      "twitter": {
+        "username": "tempuslabs",
+        "url": "https://www.twitter.com/tempuslabs",
+        "followers": 3421
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Chicago, IL"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Vq12pj50s0w"
+        }
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1154066113317285889/IFoETg00_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Tempus",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsYEwltlLFzw/company-logo_200_200/0?e=1594857600&v=beta&t=4QibS8tNUJadb3fhRviDqj8MlZMxXO17PKnIg-Fmte8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collections/ai-companies-for-cancer-treatment.md",
+      "title": "AI Companies for Cancer Treatment",
+      "excerpt": "Here is a list of AI companies focusing on cancer discovery and treatment.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/ai-companies-for-cancer-treatment/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/collections/ai-companies-for-cancer-treatment/",
+      "type": "collection",
+      "name": "AI Companies for Cancer Treatment",
+      "overview": "Here is a list of AI companies focusing on cancer discovery and treatment.",
+      "yearFounded": 0,
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Deep Lens",
+          "excerpt": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+          "type": "profile",
+          "name": "Deep Lens",
+          "overview": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Healthcare"
+          ],
+          "heat": 77,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Deep Lens",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_200_200/0?e=1594857600&v=beta&t=b8v2Fneb0bMouSAv-SuBaRm-zVivHKqHZbOmORGfNks",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Enlitic",
+          "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+          "type": "profile",
+          "name": "Enlitic",
+          "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Healthcare",
+            "Computer Vision",
+            "Natural Language Processing"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Enlitic",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "FDNA",
+          "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+          "type": "profile",
+          "name": "FDNA",
+          "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Healthcare"
+          ],
+          "heat": 32,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "FDNA",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Flatiron Health",
+          "excerpt": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
+          "type": "profile",
+          "name": "Flatiron Health",
+          "overview": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Healthcare"
+          ],
+          "heat": 87,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1283060855542874112/NxUqjdpi_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Flatiron Health",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEhAJpV71WHPw/company-logo_200_200/0?e=1594857600&v=beta&t=_i9wKp3TiVbAp5FVc1byaHD1yWtTF2u0dIviStlUAlk",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Deep Lens",
+          "isCached": true
         }
       ],
       "content": "\r\n"

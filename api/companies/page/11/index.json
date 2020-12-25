@@ -68,7 +68,7 @@
       "twitter": {
         "username": "Invoca",
         "url": "https://twitter.com/Invoca",
-        "followers": 4487
+        "followers": 4488
       },
       "size": "201-500 employees",
       "yearFounded": 2008,
@@ -154,6 +154,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/korbit.ai.md",
+      "title": "Korbit.ai",
+      "excerpt": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/korbit.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/korbit.ai/",
+      "type": "profile",
+      "name": "Korbit.ai",
+      "overview": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
+      "website": "https://www.korbit.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/korbit-ai"
+      },
+      "twitter": {
+        "username": "korbit_ai",
+        "url": "https://twitter.com/korbit_ai",
+        "followers": 257
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Montréal, Québec"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1312115717517516801/bg0_nWql_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Korbit.ai",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -344,7 +382,7 @@
       "twitter": {
         "username": "moveworks",
         "url": "https://twitter.com/moveworks",
-        "followers": 2766
+        "followers": 2765
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -489,64 +527,26 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tubularlabs.md",
-      "title": "Tubular Labs",
-      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "path": "_companies/tanium.md",
+      "title": "Tanium",
+      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
       "type": "profile",
-      "name": "Tubular Labs",
-      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "website": "https://www.reflektion.com/",
+      "name": "Tanium",
+      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "website": "https://www.tanium.com",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tubular-labs"
+        "url": "https://www.crunchbase.com/organization/tanium"
       },
       "twitter": {
-        "username": "TubularLabs",
-        "url": "https://twitter.com/TubularLabs",
-        "followers": 3897
+        "username": "Tanium",
+        "url": "https://twitter.com/Tanium",
+        "followers": 6119
       },
       "yearFounded": 0,
       "locations": [
-        "Mountain View, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tubular Labs",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
-      "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
-      },
-      "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2479
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
+        "Emeryville, CA"
       ],
       "topics": [
         "AI",
@@ -555,10 +555,10 @@
       "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Vectra",
+          "title": "Tanium",
           "isCached": true
         }
       ],
@@ -658,44 +658,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/chorus.ai.md",
-      "title": "Chorus.ai",
-      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
-      "type": "profile",
-      "name": "Chorus.ai",
-      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "website": "https://www.chorus.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/chorus-ai"
-      },
-      "twitter": {
-        "username": "chorus_ai",
-        "url": "https://twitter.com/chorus_ai",
-        "followers": 6812
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco and Tel Aviv"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 20,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Chorus.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/narrative.md",
       "title": "Narrative",
       "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
@@ -771,7 +733,7 @@
       "twitter": {
         "username": "narrativesci",
         "url": "https://twitter.com/narrativesci",
-        "followers": 7216
+        "followers": 7217
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -993,7 +955,7 @@
       "twitter": {
         "username": "AInsights",
         "url": "https://twitter.com/AInsights",
-        "followers": 4690
+        "followers": 4689
       },
       "size": "51-200 employees",
       "yearFounded": 2007,
@@ -1026,38 +988,76 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/6sense.md",
-      "title": "6sense",
-      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
+      "path": "_companies/chorus.ai.md",
+      "title": "Chorus.ai",
+      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
       "type": "profile",
-      "name": "6sense",
-      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "website": "https://www.6sense.com/",
+      "name": "Chorus.ai",
+      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "website": "https://www.chorus.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/6sense"
+        "url": "https://www.crunchbase.com/organization/chorus-ai"
       },
       "twitter": {
-        "username": "6senseInc",
-        "url": "https://twitter.com/6senseInc",
-        "followers": 19133
+        "username": "chorus_ai",
+        "url": "https://twitter.com/chorus_ai",
+        "followers": 6812
       },
       "yearFounded": 0,
       "locations": [
-        "San Francisco"
+        "San Francisco and Tel Aviv"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 6,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Chorus.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/activecampaign.md",
+      "title": "ActiveCampaign",
+      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
+      "type": "profile",
+      "name": "ActiveCampaign",
+      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "website": "https://www.activecampaign.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/activecampaign"
+      },
+      "twitter": {
+        "username": "ActiveCampaign",
+        "url": "https://twitter.com/ActiveCampaign",
+        "followers": 10879
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Chicago, IL"
       ],
       "topics": [
         "AI",
         "AI in Marketing"
       ],
-      "heat": 6,
+      "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "6sense",
+          "title": "ActiveCampaign",
           "isCached": true
         }
       ],
@@ -1148,7 +1148,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 50342
+        "followers": 50345
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,

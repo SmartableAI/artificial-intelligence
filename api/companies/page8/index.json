@@ -4,70 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_companies/eigentech.md",
-      "title": "Eigen Technologies",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/eigentech/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/eigentech/",
-      "type": "profile",
-      "name": "Eigen Technologies",
-      "overview": "",
-      "website": "https://www.eigentech.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/eigen-technologies"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/einstein.ai.md",
-      "title": "Salesforce Einstein",
-      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/einstein.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/einstein.ai/",
-      "type": "profile",
-      "name": "Salesforce Einstein",
-      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "website": "https://einstein.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/einstein"
-      },
-      "twitter": {
-        "username": "einstein_ai",
-        "url": "https://twitter.com/einstein_ai",
-        "followers": 147
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce Einstein",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/embodied.me.md",
       "title": "Embodied",
       "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
@@ -511,7 +447,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27309
+        "followers": 27310
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -718,44 +654,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/korbit.ai.md",
-      "title": "Korbit.ai",
-      "excerpt": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/korbit.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/korbit.ai/",
-      "type": "profile",
-      "name": "Korbit.ai",
-      "overview": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
-      "website": "https://www.korbit.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/korbit-ai"
-      },
-      "twitter": {
-        "username": "korbit_ai",
-        "url": "https://twitter.com/korbit_ai",
-        "followers": 257
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Montréal, Québec"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1312115717517516801/bg0_nWql_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Korbit.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/kreditech.md",
       "title": "Kreditech",
       "excerpt": "Kreditech Group’s mission is building better access to credit through technology. Combining non-traditional data sources and machine learning,  the Company is aiming to provide access to better credit and a higher convenience for digital banking services. The product offerings include consumer loans, a digital wallet and a personal finance manager designed to help customers manage their credit score and plan their spending.  Kreditech also offers a “credit as a service” model, allowing partners to integrate its credit products as payment method or funding source.  Founded in 2012 and headquartered in Hamburg, Germany, Kreditech has processed four million loan applications through its subsidiaries. The company is led by David Chan (CEO) and is financially backed by world-class investors including J.C. Flowers, Peter Thiel, and the Worldbank’s IFC.",
@@ -891,7 +789,7 @@
       "twitter": {
         "username": "labgeni_us",
         "url": "https://twitter.com/labgeni_us",
-        "followers": 2235
+        "followers": 2234
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1160,44 +1058,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
-      "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
-      },
-      "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1320
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Metabiota",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/mov.ai.md",
       "title": "MOV.AI",
       "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
@@ -1326,7 +1186,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3453
+        "followers": 3454
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1414,6 +1274,215 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nutrino.md",
+      "title": "Nutrino",
+      "excerpt": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nutrino/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/nutrino/",
+      "type": "profile",
+      "name": "Nutrino",
+      "overview": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
+      "website": "https://www.nutrinohealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nutrino",
+        "followers": 1309
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nutrino"
+      },
+      "twitter": {
+        "username": "NutrinoCo",
+        "url": "https://twitter.com/NutrinoCo",
+        "followers": 7
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Tel-Aviv, ."
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ynhELhRZO1s"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/647537901971095552/Y083_A7n_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Nutrino",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nuviainc.md",
+      "title": "NUVIA",
+      "excerpt": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nuviainc/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/nuviainc/",
+      "type": "profile",
+      "name": "NUVIA",
+      "overview": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
+      "website": "https://nuviainc.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nuviainc/",
+        "followers": 1673
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nuvia-ed93"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2019,
+      "locations": [
+        "Santa Clara , CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=J6ciNns9pxk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_AhIXI9JVnA/company-logo_200_200/0?e=1594857600&v=beta&t=dKNMNCBXLzYmywhm0DxDHcVDhVYnAKR3mqciYu5zfNM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/orcam.md",
+      "title": "OrCam Technologies",
+      "excerpt": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/orcam/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/orcam/",
+      "type": "profile",
+      "name": "OrCam Technologies",
+      "overview": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
+      "website": "https://www.orcam.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/orcam",
+        "followers": 4818
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/orcam-technologies"
+      },
+      "twitter": {
+        "username": "OrCam",
+        "url": "https://twitter.com/OrCam",
+        "followers": 10537
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Jerusalem, Jerusalem Region"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=jx2zOrCTvcA"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1162985248256380928/Mw9wWZI2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "OrCam Technologies",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/parashift.io.md",
+      "title": "Parashift AG",
+      "excerpt": "Accelerating paradigm shifts in the financial industry by leveraging new technologies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/parashift.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/parashift.io/",
+      "type": "profile",
+      "name": "Parashift AG",
+      "overview": "Accelerating paradigm shifts in the financial industry by leveraging new technologies.",
+      "website": "https://parashift.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/parashiftag/",
+        "followers": 376
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/parashift-ag"
+      },
+      "twitter": {
+        "username": "parashift_ai",
+        "url": "https://twitter.com/parashift_ai",
+        "followers": 122
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Sissach, Baselland"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1210138673569837056/mmkNyiRi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Parashift AG",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEJPRXWlGJWVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFzrPP5_28l7Nt45o9MAL0zt870NxVkzcx6TRXFeKLs",
           "width": 400,
           "height": 400,
           "title": "logo",

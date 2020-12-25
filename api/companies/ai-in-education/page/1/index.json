@@ -88,7 +88,7 @@
         "AI",
         "AI in Education"
       ],
-      "heat": 77,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
@@ -126,51 +126,13 @@
         "AI",
         "AI in Education"
       ],
-      "heat": 64,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Squirrel AI Learning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/korbit.ai.md",
-      "title": "Korbit.ai",
-      "excerpt": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/korbit.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/korbit.ai/",
-      "type": "profile",
-      "name": "Korbit.ai",
-      "overview": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
-      "website": "https://www.korbit.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/korbit-ai"
-      },
-      "twitter": {
-        "username": "korbit_ai",
-        "url": "https://twitter.com/korbit_ai",
-        "followers": 257
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Montréal, Québec"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1312115717517516801/bg0_nWql_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Korbit.ai",
           "isCached": true
         }
       ],
@@ -202,6 +164,44 @@
           "height": 400,
           "title": "Yuanfudao",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/korbit.ai.md",
+      "title": "Korbit.ai",
+      "excerpt": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/korbit.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/korbit.ai/",
+      "type": "profile",
+      "name": "Korbit.ai",
+      "overview": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
+      "website": "https://www.korbit.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/korbit-ai"
+      },
+      "twitter": {
+        "username": "korbit_ai",
+        "url": "https://twitter.com/korbit_ai",
+        "followers": 257
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Montréal, Québec"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1312115717517516801/bg0_nWql_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Korbit.ai",
+          "isCached": true
         }
       ],
       "content": "\r\n"

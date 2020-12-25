@@ -4,165 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_companies/netguardians.ch.md",
-      "title": "NetGuardians",
-      "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/netguardians.ch/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/netguardians.ch/",
-      "type": "profile",
-      "name": "NetGuardians",
-      "overview": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "website": "https://netguardians.ch/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/netguardians/",
-        "followers": 3764
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/netguardians"
-      },
-      "twitter": {
-        "username": "netguardians",
-        "url": "https://twitter.com/netguardians",
-        "followers": 1508
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "Yverdon, Vaud"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 57,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "NetGuardians",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1594857600&v=beta&t=Rbmg26H88Yy5LTjE_R-GDY2tykYTwtwUGZILkdLpwVA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/noodle.ai.md",
-      "title": "Noodle.ai",
-      "excerpt": "Noodle.ai is your source for Enterprise AI®. We’re on a mission to create a world without waste. We believe in AI for radical efficiency and extraordinary good. We push the limits of data science to give business leaders a view into the past and future, so that they can stop wasting time and resources now, helping you plan, make, and move goods and resources for manufacturers and complex supply chains.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/noodle.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/noodle.ai/",
-      "type": "profile",
-      "name": "Noodle.ai",
-      "otherNames": [
-        "Noodle Analytics, Inc."
-      ],
-      "overview": "Noodle.ai is your source for Enterprise AI®. We’re on a mission to create a world without waste. We believe in AI for radical efficiency and extraordinary good. We push the limits of data science to give business leaders a view into the past and future, so that they can stop wasting time and resources now, helping you plan, make, and move goods and resources for manufacturers and complex supply chains.",
-      "website": "https://noodle.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/noodle-ai/",
-        "followers": 15189
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/noodle-analytics-inc-noodle-ai"
-      },
-      "twitter": {
-        "username": "noodleai",
-        "url": "https://twitter.com/noodleai",
-        "followers": 1400
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1325914056104964096/7-NwPyR0_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Noodle.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZxlcjlPLDrg/company-logo_200_200/0?e=1594857600&v=beta&t=iBpJAM7fr1JSHWA_glLCxjgCHhD3YqXB83j9QicCdOs",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/observe.ai.md",
-      "title": "Observe.AI",
-      "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/observe.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/observe.ai/",
-      "type": "profile",
-      "name": "Observe.AI",
-      "overview": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
-      "website": "https://observe.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/observe-ai"
-      },
-      "twitter": {
-        "username": "observeai",
-        "url": "https://twitter.com/observeai",
-        "followers": 550
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
-        }
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1117913972412305413/-MiJoy8U_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Observe.AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/pinpoint.md",
       "title": "Pinpoint",
       "excerpt": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
@@ -784,6 +625,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/squirrelai.md",
+      "title": "Squirrel AI Learning",
+      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/squirrelai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/squirrelai/",
+      "type": "profile",
+      "name": "Squirrel AI Learning",
+      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "website": "https://www.squirrelai.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
+      },
+      "twitter": {
+        "username": "SquirrelAI_Edu",
+        "url": "https://twitter.com/SquirrelAI_Edu",
+        "followers": 455
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Shanghai"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Squirrel AI Learning",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/suki.ai.md",
       "title": "Suki",
       "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
@@ -943,6 +822,44 @@
           "width": 400,
           "height": 400,
           "title": "Trint",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tubularlabs.md",
+      "title": "Tubular Labs",
+      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "type": "profile",
+      "name": "Tubular Labs",
+      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tubular-labs"
+      },
+      "twitter": {
+        "username": "TubularLabs",
+        "url": "https://twitter.com/TubularLabs",
+        "followers": 3897
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tubular Labs",
           "isCached": true
         }
       ],
@@ -1548,6 +1465,62 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGQdbr_zkjBrQ/company-logo_200_200/0?e=1594857600&v=beta&t=gdlt9WD_SDGSwtntJIJgRhw2cclxV1uht-4-Vk17Rwk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aivahealth.md",
+      "title": "Aiva Health",
+      "excerpt": "We strive to make every search interaction meaningful & rewarding with developer-friendly, enterprise-grade APIs. Need help? Reach us at support@algolia.com.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aivahealth/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aivahealth/",
+      "type": "profile",
+      "name": "Aiva Health",
+      "overview": "We strive to make every search interaction meaningful & rewarding with developer-friendly, enterprise-grade APIs. Need help? Reach us at support@algolia.com.",
+      "website": "https://aivahealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aiva-health/",
+        "followers": 325
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aiva-health"
+      },
+      "twitter": {
+        "username": "aiva_health",
+        "url": "https://twitter.com/aiva_health",
+        "followers": 75
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Los Angeles, CA",
+        "Los Angeles, California"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=WrteXpQ5n7Q"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045184013072121856/k9eIX6oV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aiva Health",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFjr6O7zkurrg/company-logo_200_200/0?e=1594857600&v=beta&t=wm6cxtNr6U--ltfpzs1hf4mMDOemV61jxVvMsNhJBxM",
           "width": 400,
           "height": 400,
           "title": "logo",
