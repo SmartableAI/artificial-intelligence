@@ -468,6 +468,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-08-uber-is-selling-its-self-driving-car-business-to-aurora.md",
+      "title": "Uber is selling its self-driving car business to Aurora",
+      "excerpt": "Washington, DC (CNN Business)Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "originalUrl": "https://www.cnn.com/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181102172906-20181102-uber-self-driving-car-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "publishedDateTime": "2020-12-07T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference.md",
       "title": "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference",
       "excerpt": "Powered by artificial intelligence and behavioral economics, Lemonade set out to replace brokers and bureaucracy with bots and machine learning, aiming for zero paperwork and instant everything.",
@@ -1139,49 +1191,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-the-lumbee-have-waited-a-long-time-for-federal-recognition-this-month-will-be-critical.md",
-      "title": "The Lumbee have waited a long time for federal recognition. This month will be critical.",
-      "excerpt": "The Lumbee Tribe of North Carolina has been seeking federal recognition for more than 100 years. Could Congress include recognition among must-pass legislation this month?",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcclatchydc.com/news/politics-government/article247604590.html",
-      "originalUrl": "https://www.mcclatchydc.com/news/politics-government/article247604590.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/6e5bb225-9df7-4376-887f-68e67e50b930/0987d950-1942-4050-9faf-7081e65b3233/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.mcclatchydc.com/news/politics-government/article247604590.html",
-      "cdnAmpWebUrl": "https://amp-mcclatchydc-com.cdn.ampproject.org/c/s/amp.mcclatchydc.com/news/politics-government/article247604590.html",
-      "publishedDateTime": "2020-12-07T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "McClatchyDC",
-        "domain": "mcclatchydc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

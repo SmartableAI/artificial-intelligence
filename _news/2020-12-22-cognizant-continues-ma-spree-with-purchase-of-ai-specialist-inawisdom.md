@@ -53,14 +53,19 @@ related:
       domain: sify.com
     quality: 54
   - title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-    excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
-    publishedDateTime: 2020-12-21T10:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+    excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+    publishedDateTime: 2020-12-21T10:03:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 53
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
     excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"
     publishedDateTime: 2020-12-21T15:22:00Z

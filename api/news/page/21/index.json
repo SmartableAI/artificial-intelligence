@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-07-how-aws-is-staking-its-claim-on-tomorrows-contact-centers.md",
+      "title": "How AWS is staking its claim on tomorrow’s contact centers",
+      "excerpt": "AWS unveiled several new ML-based feature updates for its Amazon Connect cloud contact center service that will simplify call agents workloads",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "originalUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1626983506-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "publishedDateTime": "2020-12-06T20:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders.md",
       "title": "CSIRO's Data61 researchers develop AI helmet to prevent seizure disorders",
       "excerpt": "Researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61 have developed an implantable artificial intelligence monitoring and seizure detection helmet system designed to prevent seizure disorders for patients who have undergone decompressive brain surgery.",
@@ -1139,57 +1182,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-mlcommons-debuts-with-public-86000-hour-speech-data-set-for-ai-researchers.md",
-      "title": "MLCommons debuts with public 86,000-hour speech data set for AI researchers",
-      "excerpt": "If you want to make a machine learning system, you need data for it, but that data isn’t always easy to come by. MLCommons aims to unite disparate companies and organizations in the creation of large public databases for AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/MLCommons.png?w=1024",
-          "width": 1024,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
-      "publishedDateTime": "2020-12-04T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
