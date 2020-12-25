@@ -548,43 +548,25 @@
     {
       "path": "_news/2020-12-24-7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020.md",
       "title": "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020",
-      "excerpt": "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop",
+      "excerpt": "While millions have suffered personal and professional upheaval as a direct result of the Covid-19 pandemic, 2020 has also seen individuals, NGOs, governments and the corporate world collaborating to keep the gears of the economy churning—however jerkily—throughout the crisis.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/",
-      "originalUrl": "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/",
+      "webUrl": "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24",
+      "originalUrl": "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_1digital-banking-2021_122220-568x322.jpg",
-          "width": 660,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp",
       "publishedDateTime": "2020-12-24T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -800,19 +782,19 @@
     {
       "path": "_news/2020-12-24-ai-debate-2-night-of-a-thousand-ai-scholars.md",
       "title": "AI Debate 2: Night of a thousand AI scholars",
-      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman, Fei-Fei Li, and Judea Pearl.",
+      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "webUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "originalUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f053e7cc-79d7-4c08-951d-dd7fc1fc8b58/ai-debate-2-screen-shot-1.jpg",
-          "width": 1898,
-          "height": 1064,
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f068ec2f-b729-41a5-95d5-03bf2c6ff732/screen-shot-2020-12-23-at-4-16-01-pm.png",
+          "width": 3360,
+          "height": 2100,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -820,9 +802,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "publishedDateTime": "2020-12-23T15:05:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "publishedDateTime": "2020-12-23T13:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -845,7 +827,6 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },

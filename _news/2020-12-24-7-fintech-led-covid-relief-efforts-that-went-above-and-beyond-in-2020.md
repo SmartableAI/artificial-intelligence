@@ -1,34 +1,24 @@
 ---
 category: news
 title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020"
-excerpt: "A time of pine-scented candles, Secret Santa gift exchanges and “looking back at 2020” listicles. To state the obvious, this holiday season looks a little different than in years past. Instead of shop"
+excerpt: "While millions have suffered personal and professional upheaval as a direct result of the Covid-19 pandemic, 2020 has also seen individuals, NGOs, governments and the corporate world collaborating to keep the gears of the economy churning—however jerkily—throughout the crisis."
 publishedDateTime: 2020-12-24T12:00:00Z
-originalUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/"
-webUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/"
-ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
+originalUrl: "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24"
+webUrl: "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24"
+ampWebUrl: "https://www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-2020-12-24?amp"
 type: article
-quality: 74
-heat: 124
+quality: 54
+heat: 104
 published: true
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_1digital-banking-2021_122220-568x322.jpg"
-    width: 660
-    height: 336
-    isCached: true
 
 related:
   - title: "The frenzy behind fintech"
@@ -101,6 +91,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "qOW+6KWk3sup0VNm3/tsIflk6ZumPZkveeJenDrXUwor1weyGpFpLiIkFJhlY+OdbzB5Z5oiJffRq+N7+v94WrlibV06P3aXqNYVitS/NvOrp+NQk9q9kDSwlwb9OYpv+T2BQdJBF1k+dUahNib/LaE6WwvjwrhRk7D8bRyDpYvCbtSFuApmd18YzkSg26q3q+RjHj4lmmTeVgQDvusCr0Dg0QxLt7dMYHasXQpyBs9Wp8HHtGqb++3shqcKz/rxvGx4L31INCppRXVTSYm8vQgNk8My4ynzp4v4q1geKu8N02PqdQmoRq0L7Mvrl7yXxndY1tBvwwWzyxg1mgtFYOwQWzb4/Fl0FyV5FNxOC3Q04l0l4beryRnGn0pIKyp6EnmjSSVlgzTgseSEuqHWLOqYB5LrUFKyOAdz1SM0gEQUDsxyFRWUYpJ52Ukau8W1Xh9mn6CIxwp/EZOIp4Xab+n8yWKlB/EoXGLZOerDJZmfv+DvEtMwxbTOCGMqCBhP6KVHUaKYHYvsjw+UUW0cCQ==;24VPvVPl8HteTRBTqiIyWQ=="
+secured: "6SMJjmtGNKXB6OgXGCD1pTYg9zlfXmR4RZBTXr0FpZYLVu5ZjoszS+gUaNZqAqwNOFcMqhiaan2mEEf3Sg2HliNNUjGt6ZlABUBFqyZLostBcdg+rCxylA0YND3kWIWJSD4iKKln1oW/rKSHzWLppwbAcKdDsaFFQqh6iln6zSd095QfH/UnMySCQv6TCEP5hVd+lOa/zkcgmas4j32SW+hTJhmjqzeVylaqN6xsavqktZ6TNU/roSjMfHwHGHVjDnxmM3gr1gAIeZe0viyQkQFdEVMOGU6q6BC5G2xUDtQk4d6topJYH0CXH/8PCaBVXl7veo5VI7tGJzM0Kq3C4XhXg3LcSW8Qrwu29WeEKiM=;RposPE/KoyuvMEQUtjt4MA=="
 ---
 

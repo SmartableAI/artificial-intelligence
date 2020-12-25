@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-subscription-comin
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F12%252F20%252F4e%252Fba6566c6d4e2470a85815d9b9b3f5dcd.5f4b7.jpg%252F1200x630.jpg?signature=U3Nf-zCE7RTFZerpgw6doPX7eIw="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla is going to release Full Self-Driving monthly subscription in early 2021"
-    excerpt: "Elon Musk has confirmed that Tesla plans to release its Full Self-Driving software package as a monthly subscription service as soon as “early 2021”. Be ready for a surprisingly high price. Earlier this year,"
-    publishedDateTime: 2020-12-20T17:57:00Z
-    webUrl: "https://electrek.co/2020/12/20/tesla-full-self-driving-monthly-subscription-early-2021/"
-    ampWebUrl: "https://electrek.co/2020/12/20/tesla-full-self-driving-monthly-subscription-early-2021/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/20/tesla-full-self-driving-monthly-subscription-early-2021/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 85
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Elon Musk: Tesla Full Self Driving subscription coming in 2021"
     excerpt: "Tesla could start offering its pricey self-driving system as a monthly subscription next year, according to Elon Musk."

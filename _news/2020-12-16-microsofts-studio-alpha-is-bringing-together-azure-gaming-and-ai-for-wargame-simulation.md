@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation"
-excerpt: "Another way the Softies describe the mission of the Studio Alpha team is that it's creating a wargaming and simulation platform for Azure decision making that is data-driven, AI-driven and tech-driven. Microsoft's first public customer (or \"partner,\" if ..."
-publishedDateTime: 2020-12-15T21:37:00Z
-originalUrl: "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
-webUrl: "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+excerpt: "Microsoft is bringing together Azure, analytics, collaboration and gaming technologies to build out a 'serious gaming initiative' for military and commercial customers."
+publishedDateTime: 2020-12-15T19:13:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 969
     isCached: true
 
-secured: "4RoFZXPiKOQvxWTGStKzbtnD7HgOIW0hKWnjBqNtCSNn3cqUsKEE9642IsgOh2XiiyytMIWebwiFzWTpAUwUjXVbg0b7k9uWbsyx7c0Z+oPE1oRJ3DY+hW1/Sqv83cgCQWG8LIYZ9a7KzZFDqSq8+J4GQL8nczK6bh3y8ohP39Bm2J+h0ADYrHESp0soH/97aQpy5f4mxti08BWo0pZKHS/bv5tPTV5iEfWD6oEuOQ4QPK6VXsYLM0mX3SZwNU7KBnyACXy3HnOJulRkQ2t5qPwcY1cL8u8NkpU6cpUgA81IyUdBzXswrLlg5m80F3F/JDnuHYpd8s7Pmizow696abAIkuvMcwDoinZXR5j6fsk=;jZiSFcST+kaTNlprztFLvA=="
+secured: "rThx1aDJHJ3GcvxJbB1b6P4ihSpDtTHV7a/Hr5bj7/84EDhup5YBuDnDYsusGY9CzrbZZWNXFYGbW86n5KGyPnz1n+wBpi0XD8za2CXybPCEqGfOAqsX4V59jAdOoEeGVhOPShRyGzHX77RJUBZKn2RwzVZNecaoN4/p4Foe5hWCqmgtLH/2yJFG1hIj8fIPsWPmv3ZLuC+K/zlPRso2J7H5GZgQqItXloBoaB9YvVHyQykqdy6MJsaYCjqT7sRap86MC5gKSNERzWxBJZ6vMxOXFuYITHsl7ybEhVN+zTPwrr8q12ZzvI2oQTk/2pvWn2j1o3WkfB73NiIJViNml1MKp/xdoJi1jpS4HLZoaz8=;Gixl3a8BrISO/YhNuih2yg=="
 ---
 
