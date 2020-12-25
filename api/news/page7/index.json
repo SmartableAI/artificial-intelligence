@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-12-16-amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards.md",
-      "title": "AMAX workstations gain new NVIDIA RTX A6000 GPU cards",
-      "excerpt": "Server and workstation vendor AMAX has announced support for NVIDIA's professional-grade RTX A6000 GPU card in its workstations. The company, which aims its AceleMax workstations at artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/software/virtual-desktop/358156/amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards",
-      "originalUrl": "https://www.itpro.co.uk/software/virtual-desktop/358156/amax-workstations-gain-new-nvidia-rtx-a6000-gpu-cards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1608127394/itpro/PowerMax-DL-E110A-IMG.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos.md",
       "title": "Gun Detection AI is Being Trained With Homemade ‘Active Shooter’ Videos",
       "excerpt": "However, due to sensitivity, little footage from the start of shootings is readily available ... The possibility is enough for Meredith Whittaker, faculty director of the AI Now Institute at New York University, to reject the use of the technology outright.",
@@ -1232,6 +1180,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report.md",
+      "title": "Global Artificial Intelligence in Law Market 2021: Market Growth, Trends, Revenue, Share and Demands Research Report",
+      "excerpt": "The report outlines the competitive framework of the “Artificial Intelligence in Law Market” industry detailing the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T19:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

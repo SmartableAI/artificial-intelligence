@@ -198,6 +198,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 33
+  - title: "Global Artificial Intelligence-Emotion Recognition Market 2020: Industry Size, Outlook, Share, Demand, Manufacturers and 2024 Forecast Research’s"
+    excerpt: "The report outlines the competitive framework of the “ Artificial Intelligence-Emotion Recognition Market ” industry detailing the SWOT analysis and Artificial Intelligence-Emotion Recognition market share dominance of the prominent players."
+    publishedDateTime: 2020-12-23T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-2020-industry-size-outlook-share-demand-manufacturers-and-2024-forecast-researchs-2020-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Learning Analytics Market Size USD 7956.6 Million by 2026 at CAGR 20.8% | Valuates Reports"
     excerpt: "The global Learning Analytics Market size is projected to reach USD 7956.6 Million by 2026, from USD 2560.5 Million in 2020, at a CAGR of 20.8% during 2021-2026. Major factors driving the growth of the Learning analytics market size are,"
     publishedDateTime: 2020-12-21T17:12:00Z

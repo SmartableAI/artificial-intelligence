@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The global collaborative robots (cobots) market is projected to be worth USD 18 billion by 2030, growing at a CAGR of 34.4%, claims Roots Analysis"
-    excerpt: "For more information please click on the following link: https://www.rootsanalysis.com/reports/collaborative-robots-market.html The report ... technologies), such as advanced grippers, artificial intelligence, machine learning, vision technology and ..."
-    publishedDateTime: 2020-12-21T05:22:00Z
-    webUrl: "https://www.openpr.com/news/2213708/the-global-collaborative-robots-cobots-market-is-projected"
-    ampWebUrl: "https://www.openpr.com/amp/2213708/the-global-collaborative-robots-cobots-market-is-projected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213708/the-global-collaborative-robots-cobots-market-is-projected"
+  - title: "Speech to Speech Translation Market Inclinations & Development Status Highlighted During Forecast Period 2020-2025"
+    excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The speech to speech translation market is expected to record a CAGR of 9."
+    publishedDateTime: 2020-12-24T09:18:00Z
+    webUrl: "https://menafn.com/1101332177/Speech-to-Speech-Translation-Market-Inclinations-Development-Status-Highlighted-During-Forecast-Period-2020-2025"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
     images:
-      - url: "https://cdn.openpr.com/T/c/Tc21247747_g.jpg"
-        width: 500
-        height: 400
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?436730"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "z7UUB9CWwes06PBUoUpcFHqvTJQcDvsWSToy6lO0CvtQyYg8zx9YsGEP7YUZXNkK8i/MScxEGretEVSb+CfPrp5sc2/jb+vHy1Zx32r+GP7au8u8+EFcBksRlb5hGw63n35Z32/RqYLJcIdQF/chJCXMeKQr4EMKYNS56G9AlelYxGQj8BXeVxBnUtlKtMQzOun2w48Hb4KbPOs+LwISBjbQzvb/V24c0ngRUD2FjGgtFqP+Su7cJpnuQwjvOALzMcGniFF5a5aWfXwG7gZoNA6SpWg75m640xEKVvsLxLow+IQ3psWagBj7iWeKkS5Kv7oSZFO6sNMolMkJErK9J6c37VCzqP3RQs1EXvFGQJs=;0io2sV8EVyhB37s88bzF4Q=="

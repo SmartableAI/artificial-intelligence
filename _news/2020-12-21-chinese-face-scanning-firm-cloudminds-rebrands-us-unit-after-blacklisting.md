@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 683
     isCached: true
-
-related:
-  - title: "SoftBank-backed face-scan firm rebrands U.S. unit to add distance after blacklisting - sources"
-    excerpt: "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm, two people with knowledge of the matter said, and is selling face-scanning temperature monitors through T-Mobile US."
-    publishedDateTime: 2020-12-21T06:15:00Z
-    webUrl: "https://www.reuters.com/article/uk-softbank-group-cloudminds-idUKKBN28V0GQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28V0GQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28V0GQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545258956&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK06Z"
-        width: 851
-        height: 545
-        isCached: true
 
 secured: "sPVTxpynJKk2Nan0ObaBEqr4ImzaNnEXxxGVl09aPqCgAv6c3xWzpQKljEa5Fgl+ocBv/6mnIxo933DB6ZU7NDGWsTHs15ct2xG6JquQ20fYVabIT/racYUJJNoaGeDYTYpvcOWDgG6rcqKfp0By2X6m+NysPbWWoyEjZtDd+HogA7mVQNsrL8/GxRWZpJixmeoLTmiIVarlwr3AUYvCYRaMmH5fi8Z6rmXSOQFDx9scYc68EhgyTj4QXq3asMOKDJvH3bA6K6j1LzCC/A19fr8l8w7rDgj6vXd0fqk8dIxR/lDV1qC6jQMPR68X+DIO/Z12sTyjTh7m5TV/y+JzH0Ai042ny7j5sYT98bWlBOOq6rtAQSzW7vfsERZBn9JaYKveLjsHGI2q7Kl3yTruMy9/z0quEYD4asMuIDRoFXkks/J9dIY0X1ZdJNyjXqHjo21yKSnlN/T5h3nA28kyqgs3Z6PWIcKJi1Qwk5i8yYTMcf9K1JS6Or1y7fi2F38f/uFVsgrfeB74h7RkoaN1og==;QGYq3mTLqmO8Aow8bxLnrQ=="
 ---

@@ -91,6 +91,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "'How Bad Is Your Spotify' Artificial Intelligence Bot Mercilessly Roasts Your Taste in Music"
+    excerpt: "It might be artificial, but this new robot is intelligently cracking on your taste in music. The all-new A.I. (artificial intelligence) bot, \"How Bad Is Your Spotify?, is designed to make fun of ..."
+    publishedDateTime: 2020-12-25T21:20:00Z
+    webUrl: "https://people.com/music/spotify-bot-roasts-your-taste-in-music/"
+    ampWebUrl: "https://people.com/music/spotify-bot-roasts-your-taste-in-music/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/spotify-bot-roasts-your-taste-in-music/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 48
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F04%2F20%2Fgettyimages-1207622366.jpg"
+        width: 1500
+        height: 781
+        isCached: true
   - title: "Pudding.cool ‘artificial intelligence bot’ rips Spotify 2020 playlists — with hilarious results"
     excerpt: "AN ARTIFICIAL intelligence bot has been created to rip music lover’s Spotify 2020 playlists. Digital publication “The Pudding” has created a “How Bad Is Your Spotify”"
     publishedDateTime: 2020-12-23T19:58:00Z

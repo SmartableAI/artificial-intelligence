@@ -1,32 +1,29 @@
 ---
 category: news
-title: "I Defeated the AI That Roasts Your Spotify Taste"
-excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
-publishedDateTime: 2020-12-23T20:19:00Z
-originalUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
-webUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
-ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+title: "'How Bad Is Your Spotify' Artificial Intelligence Bot Mercilessly Roasts Your Taste in Music"
+excerpt: "It might be artificial, but this new robot is intelligently cracking on your taste in music. The all-new A.I. (artificial intelligence) bot, \"How Bad Is Your Spotify?, is designed to make fun of ..."
+publishedDateTime: 2020-12-25T21:20:00Z
+originalUrl: "https://people.com/music/spotify-bot-roasts-your-taste-in-music/"
+webUrl: "https://people.com/music/spotify-bot-roasts-your-taste-in-music/"
+ampWebUrl: "https://people.com/music/spotify-bot-roasts-your-taste-in-music/?amp=true"
+cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/spotify-bot-roasts-your-taste-in-music/?amp=true"
 type: article
-quality: 87
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: People
+  domain: people.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg"
-    width: 800
-    height: 450
+  - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F04%2F20%2Fgettyimages-1207622366.jpg"
+    width: 1500
+    height: 781
     isCached: true
 
 related:
@@ -62,6 +59,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "I Defeated the AI That Roasts Your Spotify Taste"
+    excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
+    publishedDateTime: 2020-12-23T20:19:00Z
+    webUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
+    ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Let this eerily accurate AI dunk on your Spotify habits"
     excerpt: "If you're a Spotify user, you might have checked out your 2020 listening data with Spotify Wrapped. It's a straightforward celebration of your year in music and podcasts, a judgement-free overview of what you listened to."
     publishedDateTime: 2020-12-23T18:01:00Z
@@ -77,22 +90,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4770c3f0-4543-11eb-b3ee-de2d0bcc6528&client=amp-blogside-v2&signature=f12a39d50e4969bd9c7dc493532ab89e56841875"
         width: 600
         height: 350
-        isCached: true
-  - title: "'How Bad Is Your Spotify' Artificial Intelligence Bot Mercilessly Roasts Your Taste in Music"
-    excerpt: "It might be artificial, but this new robot is intelligently cracking on your taste in music. The all-new A.I. (artificial intelligence) bot, \"How Bad Is Your Spotify?, is designed to make fun of ..."
-    publishedDateTime: 2020-12-25T21:20:00Z
-    webUrl: "https://people.com/music/spotify-bot-roasts-your-taste-in-music/"
-    ampWebUrl: "https://people.com/music/spotify-bot-roasts-your-taste-in-music/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/spotify-bot-roasts-your-taste-in-music/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 48
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F04%2F20%2Fgettyimages-1207622366.jpg"
-        width: 1500
-        height: 781
         isCached: true
   - title: "Artificial Intelligence Can Judge Spotify Users For Their Bad Playlists After Wrapped List Release"
     excerpt: "In a unique twist to breaking down music opinions, digital publication ThePudding.cool has used artificial intelligence to judge users' music ... Once logged in, the robot won’t post or change anything about the Spotify user account, however, it can ..."
@@ -141,6 +138,6 @@ related:
         height: 720
         isCached: true
 
-secured: "6jGztX/9uz3ITgKSAaJXcfPNSojjfLmgxTiTK2BzuZCUkdb5J24X5ZFlLeQkI33TihUhwjcbCSWx1I0W5+mauxkT9n9/1hWINTDO/3uTpiATxNbRPOz5I6rKsplGDalr8ZqMYy7LcVXVaIp+vEN8V5wqi5qtseAxslkbZ7Q0Ny6+NwMpg5wLTDfq9SIyTZumKL9pX9aZYq7Me47pMFmR3XH8SOtaVNYuuxONHJPdFolZ6PfLywrM6gQHl1vgR8U8ThTmLK58h4odekG5eYHwNfiKlrntMEnghZfyqKHSNTfdw/G+cwzx16yDO++VQtu4Ilo0VXv7iCm9CtuEQBuKaK1dN5s77TGXCfHCq6fTgu2jJnJSn5MuWp9/iv4HJRybI1DFABHkEHLUXVDX56+irBSr9KUoJkNuRcUAwp0hi7NIqIolrJxYjoFO61Pdd7CJSNS2jRfdpiBP5oJ9tBn2lLgGUUoSVsPtiSmKOWHw3E/JD0ydMMfp/5ahYY+Nukl4Itj7BUOxCWboTUcNDku/sQ==;tFwJfBZRjRo15RaSQPR45A=="
+secured: "ybMOzJSiWDt7HttMjN+q9bRuVzby1S8k8aQ8X4LMdNuE8fYk1yBHlOT2BEN8mgQQI+ojDVRYSrZnC5lT6F9wBh/SKkkDI31U8QfrLPtyNeW988j/Og0myqICFGjRMhjbNJDjRZB9mUK7u+tPlas7NT3LxUTMdBExLHo8ud0ABwryXHxQvjyWqkZHOY8CGwFBQnrInBNFz78uen69PLPotda8y5RN9OsnMYQyMX6lfYSqAr/WA9RoHmyRm+wI33U6GBD+qLPH8ZyPhtpcVNzbO8nx6IlxxuYOOZeothG+ao7UquwnjIhxnYgOOBUwg5BmCJlmRqf7xzKzGeuOSht2dkJp5B2v5jvFISX7QSCiGb4=;nrbmK1ennOtnWq8k/Zu0mg=="
 ---
 

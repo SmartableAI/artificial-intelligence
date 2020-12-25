@@ -33,15 +33,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 66
-  - title: "Diving into Japan’s top AI/ML startups"
-    excerpt: "To learn more, we heard from three rising AI/ML startups in Japan at the forefront of the country’s AI/ML growth. The following responses have been edited for brevity and clarity. Umitron, founded by Ken Fujiwara,"
-    publishedDateTime: 2020-12-21T06:33:00Z
-    webUrl: "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-659747"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 64
 
 secured: "heQIm2R+3ZEU8wi89Ufd1G7JUaIPNB1XQL7FyJaakSJiLFZCuNh2CSwun28peSHB6/GtIu0wPsvLBFLlJPlyj08zAC8QoCz2/wVTWUqclf5GDF4rhedgHlGCej+fyV8k3wU85yocblgky8kN+8V8pi70Zy3dhCNnN164fXdcaoMzgqc34uujPTAUKYxdOvcxS0J9O52hSns27JC3ts4eJacOPQyXPir9zc8ilS893D4mcGG8TQb/GRKHzmD8WzGrSlIyicB9EwL6r7cS2Th1ly0ALCD+zmGMPqNp9K+Mn7AMaPaKAmQPbe3aTk60af9du4lt5rwEZY9J2UCi8HyVgpVrZxKfgvYtqvTREQ4I+sr/uuq26t27StfdAzpt1QLnOrSEmbx/eUNPT7FvbxdopYi1MJaD+OHfDAYy4pHtbleJzMxQN/zeAtlFvkfYjGukQ1foMxW7NxbXTSV3hAfGsJWuDxIoiimsrOdzeNo6rONOpEhWzKpCdoAlEuj7xG+euunRVLzvFM7RO+AKxMi/jA==;YDyy+Wd09g1+BTpsy7s9QQ=="
 ---

@@ -2,48 +2,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_news/2020-11-06-prop-25-fails-california-voters-reject-initiative-to-replace-cash-bail-system.md",
-      "title": "Prop 25 Fails: California Voters Reject Initiative To Replace Cash Bail System",
-      "excerpt": "Proposition 25 would uphold a state law passed last year that ended pre-trial detention and cash bail for people accused of most misdemeanors. Those accused of the most violent and serious crimes would remain locked up.",
-      "sourceUrl": null,
-      "webUrl": "https://laist.com/elections/2020/results/proposition-25-cash-bail-replacement.php",
-      "originalUrl": "https://laist.com/elections/2020/results/proposition-25-cash-bail-replacement.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://laistassets.scprdev.org/i/ba451bf8a544f447f40dbf94f2172b0d/5fa18cd6bef47b0008898548-eight.jpg",
-          "width": 974,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LAist",
-        "domain": "laist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-06-ai-enables-accurate-detection-of-radiographic-sacroiliitis-in-people-with-axial-spondyloarthritis.md",
       "title": "AI enables accurate detection of radiographic sacroiliitis in people with axial spondyloarthritis",
       "excerpt": "called an artificial neural network, enables accurate detection of definite radiographic sacroiliitis in people with axial spondyloarthritis, an advance that could be useful for both diagnosis in ...",
@@ -1227,6 +1185,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-ai-pioneer-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
+      "title": "AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”",
+      "excerpt": "That professor was Geoffrey Hinton, and the technique they used was called deep learning. Hinton had actually been working with deep learning since the 1980s, but its effectiveness had been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "publishedDateTime": "2020-11-04T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-12-10-global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmarketscom.md",
-      "title": "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com",
-      "excerpt": "Focus on Medical Image Processing, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The ‘Deep Learning Market: Focus on Medical Image Processing, 2020-2030’ report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec",
-      "originalUrl": "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
       "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
       "excerpt": "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ...",
@@ -1172,6 +1129,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-qa-aws-looks-to-support-healthcare-startups-through-tailored-acceleration-initiatives.md",
+      "title": "Q&A: AWS looks to support healthcare startups through tailored acceleration initiatives",
+      "excerpt": "Over the past year alone, Amazon has provided more than a billion dollars in credits through AWS Activate program to help startups grow and scale their businesses, and they are launching a new program called AWS Health Accelerator to address the specific needs of healthcare startups.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/09/qa-aws-looks-to-support-healthcare-startups-through-tailored-acceleration-initiatives-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/09/qa-aws-looks-to-support-healthcare-startups-through-tailored-acceleration-initiatives-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Manpreet-Mattu-Michael-Jackson-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 920
         height: 482
         isCached: true
-  - title: "Next Big Thing In Wearable AI Market, Which will hit USD 53,726.5 Mn By 2030 at 16.8% CAGR -Market.Biz"
-    excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Wearable AI Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats, Business opportunities,"
-    publishedDateTime: 2020-12-21T06:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-information-technology-8bc6a16423fea8f80993ae5005fc33b4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "8ETvrNhvJ0tUR1Ydo9qx1Zi3G0LAGFWRVr4ZM6LH1HEs0xRgLXH3DsyBJAfLLvfJVTnDeXK3CHENMODzrMPEFnGXut3Xn3Xy8IU3sGPjp3DLUK1/d4maXo+5GsYjNzNme3nwvv9i2Gr5iO69sz56qwdPSOBRkhUx/hXQklv9NBjw4fUz/J64UqtQPfaYuNfKj7kxQyXB2GcxM8C9vnr6KHcy3c+CWXDzdDiPQXivmZZSIUzwOxRDtCx8k5n/AlAimkrcJ4HI6vS7FKsG5V3bVj3wOPvHp2aA3ZawbxIJWpp4QjOHaeTA0uvszXZ6WwhFZX40I2/8E9Xh1hr7sOy+Pk/alhgK9/nLIcMqdmOqG/A=;J8SBNVlYMg0ADxQuAqHLMQ=="
 ---
