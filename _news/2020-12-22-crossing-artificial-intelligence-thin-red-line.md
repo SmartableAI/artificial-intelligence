@@ -35,7 +35,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt-600x518.jpeg"
         width: 600

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple"
-    excerpt: "Big tech companies are getting into the custom chip-making game in the hunt for improved performance and lower costs, shifting the balance of power in the industry."
-    publishedDateTime: 2020-12-20T10:35:00Z
-    webUrl: "https://www.wsj.com/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201"
-    ampWebUrl: "https://www.wsj.com/amp/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple-11608460201"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 86
-    images:
-      - url: "https://images.wsj.net/im-274391/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Chip giants Intel and Nvidia face new threats from Amazon to Google to Apple"
     excerpt: "Custom chip making has exploded at large tech companies, driven by expanding balance sheets and the growth of AI"
     publishedDateTime: 2020-12-21T10:03:00Z

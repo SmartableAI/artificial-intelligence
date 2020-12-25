@@ -8,7 +8,7 @@ webUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-ar
 ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt-600x518.jpeg"
@@ -42,6 +43,6 @@ related:
         height: 423
         isCached: true
 
-secured: "c/6yLsvUR+Qu0O1kFALWmOrU9bk9CMLknECfD4ozCGKsPOC/4Ml81kMkw5WAFJgucd8hNNeIm7xUlIlssO5LI8kVyFgZFOyz1udrTy/L2ERZ2rnwnagQNJFp/krFIFzW8FgSjXI5tgJWl/dWMOQ4AEBxTjrcygAlPUGsJY9Z6RAvwrETmxLQC5x73k30bsKTZwGIodHD9ihwATLsoTTraj1h99STSxnxVI9JeBu2akoh+T2DRnVrY8WXdIqUy75qpp93igoT8isFMmti9W7NcaI16uB2VLrtoWc5hYUk+GDNmBUwx4Vouk2lCRB1j1Q9gVJ3XZyeHZjXvkAKutN1Yw3bJUXapwNo5Ox0hJX3uXc=;PDv//BFDFeq6JFxrFJGhwQ=="
+secured: "86wOJjI5AGFXdLkDbBcQkqvJH6zjyEFp9U82GPFrjzhlo5VzXqwNsE1EhKDba5RZOFA2Ir+E52IRE8ZxOYRcrWLNQvz8p6lT+yoZz7uS30uUNkG3t5USHd/Nb3upiPhtiLsEhht6USngsxMnSb+Sa92NsdWQb72/Hd5Z6EYmJ+QzXPlxJ/gGzBkBkt5C9cBV57fLzZMqOb4RDF5OoLg+0kXh+lSnb2gWNEnoB1QrniSzZSi/0yfwZyEDTKq4QOcn7UY7735sS7n0sTDAQw+hiIO1nFQUqMeCrLPV0/gAL0w2LJYxcyp7PNw3UnMd3QGUNWmpajy33+NTx2JIVFUAN3iPUhV8gWsQsuCcsQ6+061r92bPybIs3iMTgKxqzz5Xq119iOiS4qfute+T1dMzh+MSHSf3eI1SzlmAoL2eibgqVc6pMPDQ1BKrywEDhn4cS53oaTDzS5fm0SueyRCYJMYOgrLJX5Jvsknh+v//IF8eqeQYklA5GPGwf1/xLe3Bd8/MDqpIaYY09cTP2gh7tA==;rEi3aLbf0IzI8K0TixWl5Q=="
 ---
 

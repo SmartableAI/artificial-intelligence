@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New York Halts Use Of Facial Recognition Tech In Schools"
-excerpt: "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses."
-publishedDateTime: 2020-12-23T02:06:00Z
-originalUrl: "https://www.law360.com/articles/1340315"
-webUrl: "https://www.law360.com/articles/1340315"
+excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
+publishedDateTime: 2020-12-23T10:35:00Z
+originalUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+webUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
 ampWebUrl: "https://www.law360.com/amp/articles/1340315"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315"
 type: article
@@ -321,6 +321,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "C9RxkTWAViTAGJRpfPJBaGhRbsmGMucugVVFv7CyQywfi83ZE4vTYxh/VmTeYu6YFpJPG2xfEHyt1RdfqgJvkpUbYhK8diT3LRzKPV3F67qIhJQmw4WvFAaxcAxubjh6sY/SEByEDXXvtzetKVuwO3GV4ovk93ztIG7An03ojH5E9ziOKSc5z3libjp0dMabQVgCqfjitwFafd00cWF53SDLMSRCKhPwgN6efJgVVgyUH9XcexwmIXW6Bt7hCBCDGuP6kzQr5RzXTmf3MNM1uDJ+jA1jPZLSBP2sa0gq+l+2Ct3O0gVpkQ8bmZwlWsjYzvpkv1COop1J0wKrVTSXy6Mwh5L8dJYIRAhGrzEmJ6I=;gXOc+wnrtMAQ2p1/OFAZNA=="
+secured: "wkPhgjZCDMVuiQolV2bNExGkVcsLpBtjJDZG0TRRc60pQhhicaZwU5HlCJuQ9+epN7QR2gc9kO+8pnYp9Uloc87NxTJVGM8Ru4SlgXRMbm3Qu938HZICGUT9AjNPrmc1P17nrJzgA5kLzxH8GmSyTHTbs7UxMagD1ylF5CpALwLH5yrtfX8zGfIZ3oEe6KaUfm+fcVxL152KS+iICIS1QXafpR0aaOgn949my6ey9lJZlHYJeKYIGT6AS27MzglaiwgG0dSNGjoX2Msry413HpFQcijeMjH5FVUAMK5GJPYnaVwbQBok9dFOvgdZvTytQy4EJc7Gp1R5L4ZqFk9EsoFxilfWp7YzQRuoBiCFQy8=;xogRtAcg8zPZj87ZrzplAg=="
 ---
 
