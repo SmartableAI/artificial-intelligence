@@ -63,38 +63,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Tesla full self-driving manages San Francisco's famously curvy Lombard Street"
-    excerpt: "Tesla released an early version of its full self-driving mode (known as FSD) for a small, select group of Tesla drivers with the advanced driving system, Autopilot, already loaded onto their cars.  One prominent Tesla vlogger known as Tesla Raj put the autonomous driving mode (it's not fully autonomous,"
-    publishedDateTime: 2020-12-20T19:22:00Z
-    webUrl: "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement/"
-    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-autonomous-improvement.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 86
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F12%252F20%252Ff9%252F0772d5a7260a472fb8a7ec27be9ff5e7.7de80.png%252F1200x630.png?signature=BBg862TYMYO2EVeBGN_FEiagGoc="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Full self-driving mode will open to all Tesla owners with monthly subscription"
-    excerpt: "SEE ALSO: Tesla full self-driving manages San Francisco's famously curvy Lombard Street But for Tesla drivers leasing or using FSD only at certain times, the more flexible plan could be worth it."
-    publishedDateTime: 2020-12-20T20:47:00Z
-    webUrl: "https://mashable.com/article/tesla-full-self-driving-subscription/"
-    ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-subscription.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-subscription.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 85
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F12%252F20%252F4e%252Fba6566c6d4e2470a85815d9b9b3f5dcd.5f4b7.jpg%252F1200x630.jpg?signature=U3Nf-zCE7RTFZerpgw6doPX7eIw="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk: Tesla Full Self Driving subscription coming in 2021"
     excerpt: "Tesla could start offering its pricey self-driving system as a monthly subscription next year, according to Elon Musk."
     publishedDateTime: 2020-12-21T14:41:00Z

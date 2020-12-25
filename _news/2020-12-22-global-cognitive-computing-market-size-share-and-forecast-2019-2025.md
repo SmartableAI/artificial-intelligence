@@ -163,6 +163,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
+  - title: "Europe Machine Learning Market Share, Size 2021 Analysis, Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "The Europe Machine Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
+    publishedDateTime: 2020-12-24T14:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-share-size-2021-analysis-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai In Telecommunication Market Analysis, Trends, Growth, Share and Forecast - 2025"
     excerpt: "and translation between languages. This technology has the potential to transform the operations and functions of a variety of industries due to its tremendous potential to achieve breakthroughs for a variety of ideas. Get Sample Copy of Ai In ..."
     publishedDateTime: 2020-12-23T11:49:00Z
@@ -197,6 +211,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 21
+  - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development"
+    publishedDateTime: 2020-12-25T12:10:00Z
+    webUrl: "https://menafn.com/1101337563/Latin-America-Machine-Learning-Market-Share-Size-2021-Trends-Forecast-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?544070"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "2nUujD0yrpMhxzlB4TiOzvmp3JvTtxRkIxAyMcwFsSYkkUNj13/m5VhpinCvLc484qiZaAKhUuKKiYC20NhNrhxCwywdRmAq1aSycqdlSyE7ytZ32i0+B7Mb5UwFWDp4cVgcr5LqSBt+W0NHOMeqYfv1Q8ykGRn8k8vs0afXwLCAlhc/dvTEIhtiAqilrdAl1qVghrQsrZJVX+tlUxhlzcSF6kE+jgXNDb265pvYV6tGkXXGG10zfIf+P0oTnSPfUzvPGiWRwJtQ0INrmHX/gXHO8AhPvx9rGL878iAfV6aNAPjwieHApiVczzFDuGQEAqVeuPo2x0T3RoL4mlhMTBOonEY4HQ+SzYod23GR2sQ=;EJIZTm7Ld9K3oDoS36n6Kw=="
 ---
