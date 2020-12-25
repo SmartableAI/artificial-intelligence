@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/24/stocks-making-the-biggest-moves-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html"
 type: article
 quality: 82
-heat: 92
+heat: 93
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IMEkKR55r3qnCqf1ZcsJFFZQl1tmp01jz7ZYTfdAcFs/Qo7qFgKm5PgPbRWSkz3EYQFwYvBZ5HzmF4x8sMyDoCfdyfMryuJ/hn51V4oFe9Gt5bTv3Lx3WgC895QFW1xjYDrqRkDPrCKilo6JH1xwulvcm4ridBL556UoRM1Bp7JrMelioDQrg45kor4hlsnEIRUAQp8pR+1OCLe5+PH0rVWJ/CtJUOVZehduXlRhxHghpS9eKplkGOxJfnSXuk2CqEuioEQoBL5196x+cbnPpxvlpvsQkrwuia1SoNPPS7YHOMs0vkrcIItZzhIIfSvkn6t3A1EBjuknLNzQII81meYNwkW59E0ATj0oDfyQrYE=;yHIZ3c91srvPULkHCNYwyw=="
+secured: "HuNKq1OFVbaOe7hvK8OrkfSnjYiz5R0wV48n64FgnG9wtwtSglSicw2s+HHrUI2I+pxZ+mhKKhquvqzdANCZLC5OVW8BCBRmV8ZLpmnT978GkwAjRIN94ZqG716SFF9oz6jwT1p1BhzRR7nK4VeW8E/Hj9kmiFY3uJzIjBz1ZAVSei2a9MklLRTyXScp1GYxi61xl6nhQvaAO5AgidH72fWpTKmARWexi0evXyhAKHzH9ph618tBmH8raud0xBLmZywR4lnYlBHFjff6/Pg80w2I3s7K0Or+JJ9e4cdwIdIDyuWkh6nkahFVAj8W9YSZ/PXcTxQXpRd1iKjLqcssOBb5201nQ+NKtdtmcEeeSpgUvD3tlpCUwkE5WuSVEt43r7fPRpI7LeVyWAcnexHvWfpZ7+ToLmFlclT9wqqTkBEeK09SCaGHDRkvkCeHXO+FZWDCOyECpV7snMlY9CYiLNKRByTpDQ3UaRcKqGqU+UVIjYV9b3T6OUUiWiI5Dfb55GS89UvjSviN5/dPWuBLcw==;uK2xM2Q7LDOVrjVS8fd5TA=="
 ---
 

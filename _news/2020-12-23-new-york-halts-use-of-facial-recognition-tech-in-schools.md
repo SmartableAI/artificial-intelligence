@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New York Halts Use Of Facial Recognition Tech In Schools"
-excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
-publishedDateTime: 2020-12-23T10:35:00Z
-originalUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
-webUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+excerpt: "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses."
+publishedDateTime: 2020-12-23T02:06:00Z
+originalUrl: "https://www.law360.com/articles/1340315"
+webUrl: "https://www.law360.com/articles/1340315"
 ampWebUrl: "https://www.law360.com/amp/articles/1340315"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315"
 type: article
@@ -63,6 +63,22 @@ related:
     provider:
       name: Times Union
       domain: timesunion.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Cuomo signs facial recognition, voter registration bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
+    publishedDateTime: 2020-12-22T15:59:00Z
+    webUrl: "https://www.chron.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 59
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -305,6 +321,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "qCVfWUj7EHJm+8tJl5zV007jPseeogmqpW6AX3FrIqYEg7rYbMH0w4pcCfVMz4txnNdo0Ph1YvZa7L9nXs9UbKYB2gHBmscpKJIl9ID63fU+XW2JmMg/keyLqV8Bul3WKFA6s/udzcesDulqi+TBBEjGVSwJ++0VYaoZUJT3thgm82KPFvn8RW9ph+UYbv5i5jU6oOCpRAos9gtrJtEIjlHpOLnuuh0hgE2gCNjPapU9tCdAc17hq6QNqFTDvdmRq2Pn/DHp5vo+HGjSFffzXpJAyXmNhapG/+zYvVMNn5thuCucLktCyasE68O3b7UpsxKLBS6J/40sZuUNIFs6pz9nac7k3LvKyWmlPuRH+F0=;hcfqZrph+qNflNXrvxDkRA=="
+secured: "C9RxkTWAViTAGJRpfPJBaGhRbsmGMucugVVFv7CyQywfi83ZE4vTYxh/VmTeYu6YFpJPG2xfEHyt1RdfqgJvkpUbYhK8diT3LRzKPV3F67qIhJQmw4WvFAaxcAxubjh6sY/SEByEDXXvtzetKVuwO3GV4ovk93ztIG7An03ojH5E9ziOKSc5z3libjp0dMabQVgCqfjitwFafd00cWF53SDLMSRCKhPwgN6efJgVVgyUH9XcexwmIXW6Bt7hCBCDGuP6kzQr5RzXTmf3MNM1uDJ+jA1jPZLSBP2sa0gq+l+2Ct3O0gVpkQ8bmZwlWsjYzvpkv1COop1J0wKrVTSXy6Mwh5L8dJYIRAhGrzEmJ6I=;gXOc+wnrtMAQ2p1/OFAZNA=="
 ---
 

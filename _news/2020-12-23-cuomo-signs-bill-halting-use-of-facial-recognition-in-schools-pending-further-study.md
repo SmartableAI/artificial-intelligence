@@ -73,6 +73,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Cuomo signs facial recognition, voter registration bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
+    publishedDateTime: 2020-12-22T15:59:00Z
+    webUrl: "https://www.chron.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "New Orleans to Reform Police Use of Facial Recognition Tech"
     excerpt: "The city has banned police from using facial recognition software and several other types of surveillance technology, requiring officers to issue summonses for a wide range of minor offenses rather than make arrests."
     publishedDateTime: 2020-12-21T16:41:00Z
@@ -261,9 +277,9 @@ related:
       domain: syracuse.com
     quality: 39
   - title: "New York Halts Use Of Facial Recognition Tech In Schools"
-    excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
-    publishedDateTime: 2020-12-23T10:35:00Z
-    webUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+    excerpt: "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses."
+    publishedDateTime: 2020-12-23T02:06:00Z
+    webUrl: "https://www.law360.com/articles/1340315"
     ampWebUrl: "https://www.law360.com/amp/articles/1340315"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315"
     type: article

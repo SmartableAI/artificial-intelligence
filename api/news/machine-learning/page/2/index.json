@@ -650,11 +650,11 @@
       "title": "Amazon unveils dozens of machine learning tools",
       "excerpt": "Invent, the company announced new capabilities for Amazon SageMaker, the general availability of Amazon Neptune ML, and more.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/amazon-unveils-dozens-of-machine-learning-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -668,8 +668,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
       "publishedDateTime": "2020-12-09T08:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -693,9 +693,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {

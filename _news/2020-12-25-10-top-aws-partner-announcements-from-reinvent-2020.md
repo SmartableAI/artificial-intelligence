@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Recap of AWS re:Invent 2020"
-    excerpt: "This year the annual re:invent conference organized by AWS was virtual, free and three weeks long. During multiple keynotes and sessions, AWS announced new features, improvements and cloud services. Below is a review of the main announcements impacting compute,"
-    publishedDateTime: 2020-12-20T09:00:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/aws-reinvent-2020/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2020/12/aws-reinvent-2020/en/headerimage/header-1608374405335.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "50-Plus Biggest AWS Announcements From re:Invent 2020"
     excerpt: "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference."
     publishedDateTime: 2020-12-23T19:39:00Z

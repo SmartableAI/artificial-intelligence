@@ -2,6 +2,92 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-01-ai-and-position-sensing-drive-robotics-expansion.md",
+      "title": "AI and Position-Sensing Drive Robotics Expansion",
+      "excerpt": "Advancements in artificial intelligence and improved positional awareness have driven an expansion of robotics use in a variety of application areas",
+      "sourceUrl": null,
+      "webUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
+      "originalUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chemengonline.com/wp-content/uploads/2020/12/che_1220_hires-12-fig-2.jpg",
+          "width": 600,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Magazine",
+        "domain": "chemengonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-the-ceo-behind-deepmind-the-ai-company-finding-cures-for-illnesses.md",
+      "title": "The CEO behind Deepmind, the AI company finding cures for illnesses",
+      "excerpt": "As DeepMind, the British artificial intelligence (AI) firm owned by Google, claims to have solved one of science's toughest and most enduring mysteries, the ‘protein folding problem’, you can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9003813/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9003813/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/12/01/02/36290672-0-image-a-15_1606790342926.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9003813/amp/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9003813/amp/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
+      "publishedDateTime": "2020-11-30T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-amazon-is-launching-new-industrial-ai-tools-to-help-companies-monitor-productivity-and-worker-safety.md",
       "title": "Amazon is launching new industrial AI tools to help companies monitor productivity and worker safety",
       "excerpt": "Amazon AWS is launching a series of industrial machine learning tools aimed at helping companies use artificial intelligence to monitor factory workers and machines, the company announced in a ...",
@@ -1067,100 +1153,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-one-of-biologys-biggest-mysteries-largely-solved-by-ai.md",
-      "title": "One of biology's biggest mysteries 'largely solved' by AI",
-      "excerpt": "One of biology's biggest mysteries has been solved using artificial intelligence, experts have announced. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/science-environment-55133972",
-      "originalUrl": "https://www.bbc.com/news/science-environment-55133972",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FFAA/production/_115705456_t1053onexpv02.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/science-environment-55133972",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-55133972",
-      "publishedDateTime": "2020-11-30T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-new-system-optimizes-the-shape-of-robots-for-traversing-various-terrain-types.md",
-      "title": "New system optimizes the shape of robots for traversing various terrain types",
-      "excerpt": "So you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person? Or six, like an ant?",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
-      "originalUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/newsystemopt.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
-      "publishedDateTime": "2020-11-30T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

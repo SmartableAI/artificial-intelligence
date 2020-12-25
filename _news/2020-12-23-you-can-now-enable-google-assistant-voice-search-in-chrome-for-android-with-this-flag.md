@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/you-can-now-enable-google-assistant-voice
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/you-can-now-enable-google-assistant-voice-search-in-chrome-for-android-with-this-flag/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

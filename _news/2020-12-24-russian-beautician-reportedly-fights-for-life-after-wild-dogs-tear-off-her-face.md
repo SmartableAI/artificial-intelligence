@@ -41,6 +41,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Meet Russia’s New Killer Robot"
+    excerpt: "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ..."
+    publishedDateTime: 2020-12-23T00:00:00Z
+    webUrl: "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 39
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "lGOHIfrJABtIepUS6AdlrV0KfAOQi3MphY/QV93RwMkS10DtVFmPTnDt00UQhyTkZl54HXWK0UmzQstf4LPg4nM5JFv2fj8CA3DR6BEoVq1ynhJ4gG9l6kuiE8OjuJylC26RT90wtPvRmbb/zMbr84TyRd19LykFx3t16HSJSrARY7Rtz3iqSLaHE1wFSezexLkoEssvnBycrv2p2Szck5U8MrjjYZVt5dF8UegtbuSYV0UqjIh9b4kUAffHKoUoAizMjIbg7mHdCeX6T9sZ9vBJOaV/q58HxMnJ+2VIruM1h7pbG1FqTUkMe7TN/OGW0DulZgha3t7bYhQJqPAu/zheOOA8c05Iip7g/TtCHw0=;YIa5L7tAk8w6l/W2J7WYHA=="
 ---

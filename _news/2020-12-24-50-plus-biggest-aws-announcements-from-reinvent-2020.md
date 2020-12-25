@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announce
 webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Recap of AWS re:Invent 2020"
-    excerpt: "This year the annual re:invent conference organized by AWS was virtual, free and three weeks long. During multiple keynotes and sessions, AWS announced new features, improvements and cloud services. Below is a review of the main announcements impacting compute,"
-    publishedDateTime: 2020-12-20T09:00:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/aws-reinvent-2020/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2020/12/aws-reinvent-2020/en/headerimage/header-1608374405335.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "10 Top AWS Partner Announcements From re:Invent 2020"
     excerpt: "Amazon Web Services Partner Network members from AllCloud to Lemongrass to World Wide Technology boosted their AWS profiles with new offerings and designations tied to the cloud computing provider."
     publishedDateTime: 2020-12-24T16:11:00Z
@@ -54,6 +40,6 @@ related:
         height: 456
         isCached: true
 
-secured: "Q4hjQZJ2CY/klmLKxAze/w0QYnu6tZEw9zDrJCYozuVGfWY1vKwMZ+eU+V/weEo+KVvAMsSuEZ5hNHPPKqIV5EJP3KTRrxogPCpW4hJIssNK7KpZAMdvFnL4QCGyQrFV/ZcC1JScqiJmewLBAu7YSW1EPFDpgswbkzPrlkLOSq6Wn27T5pbcf2MD8vxhISbfYw3C1tXYSrLTJHRR4wq23Bh34P/+cmW9Ou7dGlcCkc4uSG90qNkFXFsANyQOEb+zhDYtlS18/wSUoUy3smGxwnx+3Fbd0PLkpy9F2jpvRk1cFYSu3DJC2kfoPylvitePP7WQbHTbOsQdVianmXNjVsUCZ1KDC0OkKS8TfIW+Vl8=;uUvLnmbo3/W7+NwIDENBLQ=="
+secured: "9xH+5qiyVCYFBOiXpzQT+Wul83REnYo7cUEdW8uXVnrqiU9B53u0svF7WlXGOE1vliuHpwGrQVFXLmvApPQjcyWR2W4MiEMsUHckiQoSsd7mfl552GbZlPq9NnKjU22j8h6nFbSMhccw2ugVbl4MnhVc89n7w0k4UTu1dGC23/EE97n0zoNgLIXJsmgxyAO0Pn1mgOQlNI5oNhAF0BUPbH7xgO8RuQSmdnoaRQJbb99h0BSOyJu1g9Jo6VHKzJvhmchIzabuzHa6JYK2IoG6+F2XZbivEUxR/2N1ttc7r5Sp85+rETbZTBmMZ5CeW+t2DZG5VfnC5nxVvF4zQV3me9yfzHuhuhII8EqOTq4l1ZQ=;t5FIibHKWewtekrAvOoqqw=="
 ---
 
