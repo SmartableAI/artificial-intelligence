@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/24/is-c3ai-stock-a-buy-af
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
