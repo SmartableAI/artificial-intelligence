@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-11-26-who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now.md",
+      "title": "Who will your algorithm harm next? Why businesses need to start thinking about evil AI now",
+      "excerpt": "Building AI systems that are ethical is no longer a box-ticking exercise, and could deliver a key competitive advantage to the businesses that embrace responsible technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "originalUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/03/26/df8e2dc9-750c-48d0-96d1-e773830a900a/thumbnail/1200x675/f36a16e7b4dd0d52f29f0dded0d20a88/how-you-can-build-an-ethical-ai-project-5c99faee2f64e300dd74a9aa-1-mar-26-2019-12-32-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "publishedDateTime": "2020-11-26T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-teslas-air-suspension-work-for-full-self-driving-will-be-a-killer-cybertruck-feature.md",
       "title": "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature",
       "excerpt": "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,",
@@ -1048,57 +1100,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-based-hr-tech-startup-pulsifi-bags-18-mn-in-angel-funding.md",
-      "title": "AI-Based HR Tech Startup Pulsifi Bags $1.8 Mn In Angel Funding",
-      "excerpt": "AI-driven HR tech startup Pulsifi on Wednesday announced that it has raised $1.8 million in angel funding. Apart from the existing investors, new investors such as Aaron Chen, founder of KVC group of companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360395",
-      "originalUrl": "https://www.entrepreneur.com/article/360395",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606310468-CEO-Jay.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360395",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360395",
-      "publishedDateTime": "2020-11-25T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

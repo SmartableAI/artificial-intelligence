@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18896219"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18896219"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Enhances Store Safety and the Customer Experience"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-12-21T13:45:00Z
-    webUrl: "https://www.cio.com/resources/212213/ai-enhances-store-safety-and-the-customer-experience"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "NFI Enhances Customer Experience with Greenscreens.ai"
     excerpt: "Greenscreens.ai, a leader in dynamic pricing for the freight market, announced today that NFI Industries, a leading supply chain solutions provider, has successfully implemented the Greenscreens.ai solution."
     publishedDateTime: 2020-12-23T16:14:00Z

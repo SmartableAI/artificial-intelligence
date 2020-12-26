@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Nuro gets first California OK to charge money for self-driving services"
-excerpt: "(Reuters) - Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service. Relying on a remote human ..."
-publishedDateTime: 2020-12-24T10:44:00Z
-originalUrl: "https://www.reuters.com/article/us-nuro-california-idUKKBN28X2IR"
-webUrl: "https://www.reuters.com/article/us-nuro-california-idUKKBN28X2IR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X2IR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X2IR"
+excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
+publishedDateTime: 2020-12-24T14:09:00Z
+originalUrl: "https://www.reuters.com/article/us-nuro-california-idUSKBN28X2IR"
+webUrl: "https://www.reuters.com/article/us-nuro-california-idUSKBN28X2IR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X2IR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X2IR"
 type: article
 quality: 74
 heat: -1
@@ -153,6 +153,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "e/KNZo1NnoGfH1dkeAfbLa+9vUzifSR0zQQoNUzJONOPDAzpfQgsy03TUT1/WXG5bDRTrOPyAD3kEsG48j8MwtF4IRzQiwNqZbpDFBIrQeeNBEACvNsx4jsw/2JQLtAFdBg+l+fhEm3k1elNsLA0VS2b2HZdQ71hUh/HHbAuraU9d2eLMeBzxpn8Rd21k7V4VLBxmFmghXvSYRWl2e4FtuO/+4mOB9GgrN5quuzJvV8YXNjrP2MPNsRxFPXTrK1HQQeOwvMMuEqjJX7LExSqK5C4WIwsv9/KTxxNrhsWwr5KAvHTM5YXj/G2MMoZETvH+hOZeDw8N7ooUxSfFN4NmgZcZFP3SoqaRo10HFtBzg3FBAB/p9bYMSVfvD+vQXkDFBdBFnNII+qPXTFavMYWwdyCu3Gnj9+pEh4a3DjHoVk/pMPtLZuFi20zlZUx3bB5MHJLbEmfu7otyYsFEdjlE5WSlbUc0CLo1DxG2Cznd01y6b9gzRVE0mk6SmtVTJ7fkRyqoSYOEeG4Iv63ViiO7w==;MTjsH8v3rg/XpdXlNdOgvw=="
+secured: "9mBa+Fx1u04c49bkRyNhsO5ihg2K3Fbl8v5ecJkS++z85OjNs5b5o1sY71WE3llabCMrwoUE3y3RefUS69sSBJe4H1p3SaQln5KpgPo+VDsWLhCmpKcEqfW8u1SMd+vh+YdlyGdfvONivs90zuQkByz7ZjSgvhPn6c4Ju6WeMUzeGgygMaAgzQSgBkN5VJr5OzQQQKRkgsVsXc6siuOjB7a6TrrhNwNIEPV0b5/BRfCSwq67/HjT1N1Kd2+DRtReRUdC7rYrN/h5GlZAEqeId1ElWXj2v7pjVEcLmeHu7HrIJgcnRUgDZUg1Q9F8q01IATErveKH0YIyAzlDUyZLNlNSjQC896a3nSc+rt5mebk=;cmME27PMXgO3sADeNLHC8Q=="
 ---
 

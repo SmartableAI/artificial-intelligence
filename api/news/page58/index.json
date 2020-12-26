@@ -2,6 +2,58 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-11-12-training-facial-recognition-on-some-new-furry-friends-bears.md",
+      "title": "Training Facial Recognition on Some New Furry Friends: Bears",
+      "excerpt": "Mr. Miller said. Could artificial intelligence used for face recognition be harnessed to discern one bear face from another? At Knight Inlet in British Columbia, Canada, Melanie Clapham was pondering the same question. Dr. Clapham, a postdoctoral ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/11/science/11SCI-AI-BEARS/11SCI-AI-BEARS-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
+      "publishedDateTime": "2020-11-11T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-android-studio-41-new-features-for-devs.md",
       "title": "Android Studio 4.1 – New features for devs",
       "excerpt": "Android developers. There are some interesting inclusions this time around, so read on to see what you need to know! One of the most interesting updates comes to the Android emulator, which is now built right into the IDE itself.",
@@ -1189,57 +1241,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-honda-says-will-be-first-to-mass-produce-level-3-autonomous-cars.md",
-      "title": "Honda says will be first to mass produce level 3 autonomous cars",
-      "excerpt": "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-honda-autonomous-level3/honda-says-will-be-first-to-mass-produce-level-3-autonomous-cars-idUSKBN27R0LV",
-      "originalUrl": "https://www.reuters.com/article/honda-autonomous-level3-idUSKBN27R0M7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY",
-          "width": 801,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27R0M7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7",
-      "publishedDateTime": "2020-11-11T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

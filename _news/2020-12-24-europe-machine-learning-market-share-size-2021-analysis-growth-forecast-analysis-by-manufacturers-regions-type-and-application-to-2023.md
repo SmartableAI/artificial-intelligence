@@ -93,20 +93,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026"
-    excerpt: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026 . Posted on Dec 21 2020 8:04 AM \"Top Players i"
-    publishedDateTime: 2020-12-21T13:54:00Z
-    webUrl: "https://menafn.com/1101316047/Natural-Language-Processing-Market-Key-Drivers-Industry-Share-and-Future-Growth-Demand-Analysis-by-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
     excerpt: "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development"
     publishedDateTime: 2020-12-25T12:10:00Z

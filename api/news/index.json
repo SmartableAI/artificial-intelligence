@@ -497,57 +497,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-24-google-develops-an-ai-that-can-learn-both-chess-and-pac-man.md",
-      "title": "Google develops an AI that can learn both chess and Pac-Man",
-      "excerpt": "We've developed AIs that can tackle these games, too, but they have had to take a very different approach to the ones that conquered chess and Go. At least until now. Today, however, Google's DeepMind division published a paper describing the structure of an AI that can tackle both chess and Atari classics.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2020/12/google-develops-an-ai-that-can-learn-both-chess-and-pac-man/",
-      "originalUrl": "https://arstechnica.com/science/2020/12/google-develops-an-ai-that-can-learn-both-chess-and-pac-man/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/3536942268_68d718be1f_b-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-24T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-24-is-c3ai-stock-a-buy-after-almost-quadrupling-since-its-ipo.md",
       "title": "Is C3.ai Stock a Buy After Almost Quadrupling Since Its IPO?",
       "excerpt": "IPO share price action is any indication, investors think C3.ai is an incredibly promising company. After pricing at $42 per share, the stock has quickly skyrocketed above",
@@ -711,7 +660,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1247,6 +1196,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test.md",
+      "title": "Ally Fashion, 145 Store Footprint Retailer, to Put Next-Gen AI Tech to the Test",
+      "excerpt": "Going beyond rules-based personalization, Ally Fashion are putting breakout eCommerce AI leader, Particular Audience, to the test. Particular Audience provides a unique platform capable of adapting every product list on an eCommerce site from search results to merchandise pages and product recommendations - every product tile becomes dynamic to shopper intent and preference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

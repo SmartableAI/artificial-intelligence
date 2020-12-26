@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-22-horizon-robotics-a-chinese-rival-to-nvidia-seeks-to-raise-over-700m.md",
-      "title": "Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M",
-      "excerpt": "In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
-      "originalUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/horizon-robotics-e1608616778526.jpeg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
-      "publishedDateTime": "2020-12-21T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-22-apple-reportedly-aiming-to-launch-self-driving-cars-by-2024.md",
       "title": "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024",
       "excerpt": "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology.",
@@ -114,7 +62,7 @@
       "originalUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -363,7 +311,7 @@
       "originalUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -592,6 +540,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-elon-musk-says-tesla-will-release-its-full-self-driving-feature-as-a-subscription-in-early-2021.md",
+      "title": "Elon Musk says Tesla will release its 'full self-driving' feature as a subscription in early 2021",
+      "excerpt": "The company's \"full self-driving\" package will be available as a subscription starting in early 2021, Tesla CEO Elon Musk in a Sunday tweet. Tesla cars come standard with Autopilot, a driver-assistance feature that can brake, accelerate, and steer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12",
+      "originalUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe0c832d366e600180994ff?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp",
+      "publishedDateTime": "2020-12-21T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },

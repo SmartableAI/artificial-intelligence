@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Study examines how masks disrupt facial perception"
-    excerpt: "The identification of people wearing masks has often presented a unique challenge during the pandemic. A new study by researchers from Ben-Gurion University of the Negev (BGU) in Israel and York University in Canada reveals the impact of this predicament and its potentially significant repercussions."
-    publishedDateTime: 2020-12-21T13:53:00Z
-    webUrl: "https://www.news-medical.net/news/20201221/Study-examines-how-masks-disrupt-facial-perception.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201221/Study-examines-how-masks-disrupt-facial-perception.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201221/Study-examines-how-masks-disrupt-facial-perception.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "qr5CtAkjeVDNdiRihaIlggWjK0QRl52Tpz1S/jziy3VcesHcsr5PrYzxoU47cf1IFc+nQyLPOHhIG6+aWKKL5Q36ISV+Bxm2lCKoLEe2GDxF39zRFqc/l8XCBcpB9Anxp9bU8QbiolXk/cSlPgFkLOeE4882BovhWn+FI55ksCOUJ0R24D7s67mLpby7dwyg1cEGV5L5FuxoTRlOZr7Zv+H8Fcm+mzxsxO3+0vNPWL1SqIk7arrlI1A72i2duhxVzAYFSffFVjhHIcOEqd6vcgyUf97OQgt1vdZH0cfHsxRAJIXTD2A5xeWQS78heYfrvZqRQpcrH6Qly42JAlcEvwTQG67my8URxsb5WK86dCEPK3VJxLmVp7XiDNbg5PNHKeVJuCUQbo982epR+WDnwiZbXgMJzVhRYFlIQxp/klrq0t5IvAWvWhSkHXC1DzV5BltG//Ia7/11uRU3mVodjw6Dg/QeLW5vKDvQNUTTxbZhapPmWNBXgY9AG0oOpTESoP89lCAGfqOnmY8Btaa9nw==;6/Vlgd4dqa7eejrAn+fXNQ=="
 ---

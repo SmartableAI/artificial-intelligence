@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-09-the-best-foodie-gift-boxes-and-subscriptions-to-send-this-year.md",
+      "title": "The best foodie gift boxes and subscriptions to send this year",
+      "excerpt": "There are countless curated food and booze gift boxes to choose from in 2020, but not all are created equal. This year has required a healthy mix of calm, cunning and creativity to say the least. At the risk of belaboring a well-worn point,",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.cnet.com/news/best-food-gift-baskets-to-send-by-mail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
       "excerpt": "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ...",
@@ -1106,49 +1157,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-machine-learning-identifies-brain-signature-of-depression.md",
-      "title": "Machine Learning Identifies Brain Signature of Depression",
-      "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between brain regions in people with major depressive disorder – even when different protocols are used to detect these brain networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-identifies-brain-signature-of-depression-343725.jpg?v=11012306",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "publishedDateTime": "2020-12-08T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

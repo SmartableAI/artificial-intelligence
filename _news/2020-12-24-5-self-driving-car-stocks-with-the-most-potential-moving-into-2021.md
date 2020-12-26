@@ -1,22 +1,20 @@
 ---
 category: news
 title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
-publishedDateTime: 2020-12-23T22:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
-webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
+publishedDateTime: 2020-12-23T19:55:00Z
+originalUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
+webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
+ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
@@ -441,6 +439,6 @@ related:
       domain: morningstar.com
     quality: 3
 
-secured: "FUeHE6fxBj5IueXwApJ5qPwbAyhV8XkF2jRZ4FhD1akRFx93ZIk+Ptb2JhhXg0+Q8DiFE3sEzjhubCtX/Dp8goRDSfmAuVZovnkt46ThEuJz1nONDmo6HFRR5VQCHtoKEVBIMtNTgiBxlLFA92piQhHjrtvSUHKw+J3M082HrSqGDqb68UwEP2hxT14i590RYIh4OCplzEJOH2ueNXpX4vXOHRKnb/2mufM91QgFYoaa9qqcLRrDJxTqEKxZSvi2QXEe8u+rW9ekI+xEcxgpAWCmjteMN7bdXzJwm5u/z8pGo2axiv6Ek2dGSBY0sBj5srFxDWF3QK9s6IcsF9JPbsEC52qOzAW1SFALrQZT4dXx6V84T3RkuAmhpoV/D2OdPhYrolNTsL7GSeKL7SxD6Tb8JI0F7CPxQQvM1uFEUMgrf5NOegDUtUGbrQFPpl/2I0WuFjss060I6+5YhhqCNTu8U16OxAc/NqVuFmWR2KsRIpjHtrLyns1CVUeuo5l17aKgUIRCu5W7NRep6XfKDw==;blLu4DBAw2NWP34cu11pUw=="
+secured: "gRjasl1Dx6X2CUDtXp2SZ7vpDxxqQPlpagDTVzGR7OahAZNrLdkJqaH07clkMW7GLcWzd7Urm0lXhV16IQPQ1aqZKv8R1Zi649Oj4sKUIwE9+IAWsvsWpii8bQUF64+pzXx3uVlFmSw5d94n+3F+wUNkKCr83IK0VBAmaZYMlearC2D2DNuwLHduEBiTQKrWMKOLELBS1wXLgpqR06mc0B/iic2xz6oDasX9BugMOUpiTbfDERfhtWj2M6XcSvgMur0pHkBc8ln9eNZaq/Y3bVeH1qQR+5j+RU7rJTQt0GYNuhOjW3Tcbr+9ClbuUrscl+g9NNWfgQw5HT3rs6Gs0dZl47hJrt0runN0pPWa9Yg=;juaLyf33p4KWfFTFKB2xqw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/"
 type: article
 quality: 74
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
         width: 1119
         height: 630
-        isCached: true
-  - title: "Study examines how masks disrupt facial perception"
-    excerpt: "The identification of people wearing masks has often presented a unique challenge during the pandemic. A new study by researchers from Ben-Gurion University of the Negev (BGU) in Israel and York University in Canada reveals the impact of this predicament and its potentially significant repercussions."
-    publishedDateTime: 2020-12-21T13:53:00Z
-    webUrl: "https://www.news-medical.net/news/20201221/Study-examines-how-masks-disrupt-facial-perception.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201221/Study-examines-how-masks-disrupt-facial-perception.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201221/Study-examines-how-masks-disrupt-facial-perception.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "20B9d26UMEOZefEUN1mDKWcnhiFDFXhRpC08lWuG2bOYyKxn8LUNGKKnVAwd0DQafFjOwCXUyOnffjV8/xsNYWPlJONaThqBHnAbrOcEgaClK+l6W9pSpfp8/+N5koC5uBuFwlbRlXzS2oFLyjjNbn//9EgsQ6RE/cLpFToadffRspnFsdvObhmHfnqCD+iSGEVKRxaQqlUJwKLZwVHfjU3kzxAv7korkG1DissSgpPsNDdwV6jUMsGNIL61/nHyiuvY4r1CxdxjgpqVBwKcovRGmDYiV3TJtTZ3GTR0Bz4bKviVcomGi/Bwyc70S+pjRgA+5GJPDAmouZXJojXfPQsujtsR4t6VjXTVqtPxIQn2Pa6t9G1umcqSOAjNFSCx2xIXqLsx/wghF6sH7b9Enf2eY3U3M7GEFeKnWLxyMteVjHM1gN1zoQYH5J9ms0zJCN9gtwbt5LpAGI8Q6Vj9xOL06v8qXy1a82qWc74ubZ6UahT0QAz3dfT8tAaXSR/RxCqa3VQCWRQ78CiXXSj0sg==;vQrj0PWnJybUOz8sco+lKw=="

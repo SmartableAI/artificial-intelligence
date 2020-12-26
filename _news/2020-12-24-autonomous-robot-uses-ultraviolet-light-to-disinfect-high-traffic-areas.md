@@ -7,7 +7,7 @@ originalUrl: "https://www.vision-systems.com/embedded/article/14189534/covid-19-
 webUrl: "https://www.vision-systems.com/embedded/article/14189534/covid-19-automated-disinfection-robot-lg-electronics"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "LG Announces Autonomous Disinfecting Robots"
-    excerpt: "Newest addition to LG’s Cloi family of robots will help retailers deliver peace of mind. Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep ..."
-    publishedDateTime: 2020-12-21T14:05:00Z
-    webUrl: "https://dealerscope.com/lg-announces-autonomous-disinfecting-robots"
-    ampWebUrl: "https://dealerscope.com/lg-announces-autonomous-disinfecting-robots?amp"
-    cdnAmpWebUrl: "https://dealerscope-com.cdn.ampproject.org/c/s/dealerscope.com/lg-announces-autonomous-disinfecting-robots?amp"
-    type: article
-    provider:
-      name: Dealerscope
-      domain: dealerscope.com
-    quality: 39
 
 secured: "AVzR78GZJRQ2jKKavN8iY3C1VGtbqUpDyG/qGlML1xd7QQRuE500VXMH0nacl89JWJ7tX72ZQA+KqCDdvDBE1DHmNnZ+tdAvpT/uDfkzfEE7SAwjdbAPqU5/nHudRqLor0LTFEVhWzcZqDU6gnaYbMEHj4MbRruSBlg7QDXU6MdnxAJYHWWWgHuxGiBkQkEN9E503Y5HOC2erA6EIpj19l8l6GjGIbgdsQeOifBFS2carMS85YBuvJRQ3hN1OoA8djkCWRH51Se4w4aAlIhkNNQur1qcqDkglPQ0E/9xOgktsgkFK1TOKDOFqZ1+xu5xRPDa9eZhzsey52Woq6j9kdInG+Wy8UMVQMtGFhKfU7mXqS5I/Tm4Cnblg16bN0NjnpTF8zHxcqIbwmF8hPp58IMedyzwS56q19qsfo6dvIpJ9SBoBjZ29WMBKlUcCkny49Dme0gc9zH/dh0X6D76wnIhFmsz0Y4oKy976tRJ+BSVkKmNI+EpPtv8AXUng1LNxrfT2BOTuk3X2YS8CoC+Tw==;Sw55B/mUYbERZAkSRrFCMA=="
 ---

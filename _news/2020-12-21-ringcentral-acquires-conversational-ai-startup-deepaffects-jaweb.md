@@ -7,7 +7,7 @@ originalUrl: "https://elmoudjaweb.com/ringcentral-acquires-conversational-ai-sta
 webUrl: "https://elmoudjaweb.com/ringcentral-acquires-conversational-ai-startup-deepaffects-jaweb/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "RingCentral acquires conversational AI startup DeepAffects"
-    excerpt: "RingCentral, which creates cloud-based enterprise communication and collaboration tools, has acquired conversational AI startup DeepAffects."
-    publishedDateTime: 2020-12-21T14:37:00Z
-    webUrl: "https://venturebeat.com/2020/12/21/ringcentral-acquires-conversational-ai-startup-deepaffects/"
-    ampWebUrl: "https://venturebeat.com/2020/12/21/ringcentral-acquires-conversational-ai-startup-deepaffects/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/ringcentral-acquires-conversational-ai-startup-deepaffects/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/RingCentralFeat.png?w=1200&strip=all"
-        width: 1200
-        height: 682
-        isCached: true
   - title: "RingCentral Acquires DeepAffects Conversational Intelligence Pioneer to Enable Smarter Video Meetings"
     excerpt: "(NYSE: RNG), a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions, today announced that it has acquired DeepAffects, a leading conversational intelligence pioneer that uses artificial intelligence (AI) to analyze business conversations and extract meaningful insights."
     publishedDateTime: 2020-12-21T17:00:00Z

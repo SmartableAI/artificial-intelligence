@@ -1,12 +1,10 @@
 ---
 category: news
 title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
-excerpt: "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c"
-publishedDateTime: 2020-12-07T15:17:00Z
-originalUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+excerpt: "It will also use Amazon Rekognition software to tag every frame of its movie and TV library, \"making it easier for MGM’s partners to find and license film and TV shows for their lineups.\""
+publishedDateTime: 2020-12-07T15:15:00Z
+originalUrl: "https://www.hollywoodreporter.com/index.php/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+webUrl: "https://www.hollywoodreporter.com/index.php/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
 type: article
 
 provider:
@@ -18,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
-    width: 1024
-    height: 577
+  - url: "https://www.hollywoodreporter.com/assets/1607629907/images/brand/writerimage-thr.jpg?12226c175ff89cc6f5c5"
+    width: 383
+    height: 383
     isCached: true
 
-secured: "SZ017Aei5NfupU+IL1nr/BtJF0SfSSK8loyXgjd1YvpHqMpLKsT5089zvRR6k4GiHyc3MmsTPjgrxfwWuZ6CCamgCFm3hb2iZWV1j5DmplBoqNCv2UHUdzYdY3W9u2gYBss6knaVnv0d6Z2VdJggmmP/9ApBdzIR3fuHjgQh6AKae78dGzMhQKFwjeJJ1wQZ5A7VozE0aoxXxKNd07gLFGuYkki+M2DKMdzX6dOua5GcNK8Q7bY5uwFb98W7nHXoUoS48jj6oOaz6K5uvi6/5w6djyqSGu1CKXFJwjtMnoEcpSR+57sSqREYlSpvXXV0TM2MU+3diQ843CID26wUY5z7SuPAu2apMvO/2AY5WDB1B4d2GigNMWYHGe6ZJFMfJ1KscuFgGCwgCsvis7qWhF1aOy+N1fR+ZWqAGRAPN/8FvajIlXM2pcXsyVVZ2RDKOQg3ySZkFVlb0ol6iPDfap3tXWOBEHriq6EWNqFOewrfY6Iu+70FV+85QeRhy7j9ntuARxhMEOlGrRJPKZnt6A==;Hg+P+SwBSBs5JiWJ5BtHTQ=="
+secured: "NGy1n/KBqSGb1VSnZwOURiD03clyW9iemaDR/Qqr4UZa8Wbs2OeWA717uursHAo+IVtNkwDeKzcqZsSFAeL1IhN9YhY+z7FSTTB6nHkTD55bNoSMLhRRsmWFdSrei150azfCeIxyCkKwXePFl4aNY+OjgHNhW8J+/TgYxYG5FfjgtLseyxKHejSC9JHTO2x5+idH3Ns041qDEaj1fBb6zLB2BgSb9JF3k6Lxul89dMIXAVtUNSKLjb0MWjI4+itGKpmcKeb1b/eGCaMXjSWJ+mBitT3Fl7p1qQNOIcqMFVgHmWFM/mdWIqsiKuUgAexZfKTpVTnSy9Ub+oF/GE1FVMeBZD5YqjpC/DSQboEJ+rk=;xoC51EypRsXSy7dSWStbqQ=="
 ---
 

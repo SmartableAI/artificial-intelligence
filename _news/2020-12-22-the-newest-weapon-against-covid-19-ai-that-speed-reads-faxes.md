@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-rea
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9-1.jpg"
         width: 1758
         height: 1061
-        isCached: true
-  - title: "AI, Machine Learning Tools Help Predict COVID-19 Outcomes"
-    excerpt: "As cases soar across the country, researchers are leveraging the power of artificial intelligence and machine learning to predict COVID-19 outcomes."
-    publishedDateTime: 2020-12-21T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-machine-learning-tools-help-predict-covid-19-outcomes"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "5//zlrecEdL1LUOiyezcc0DScF04CWDeldNZiJbCHTVWbpIjHnaTJ3LP730mNB7rHJhaHSjAGhkRuHF7L02AvydOb64K72hQAtR8wl/9c+KOeNrlKFlg1drbvxtII4cGKxVcj+uXT4VdFz66w988Q6R2NJcDKC2MUvLXdKS4fV0J10FPkSUlKt6xuodHmlagotKkilELpQ5Y02yumt6J2WaIrmXnYY70h3S52ADRA70yLHcUIjyv11b2lR16nhHppaYK8t3QPQxv6eYBzrPuQnhnq8Jzc+zKvzMPsMmhudyBmmRD5Xw94LU60L7ULHOhBXUqn4eMwzOLzVUSYIDOrf5clLHj8PlBWSN7lYQ4uoY2eAQOZoy1M6YGxd1C5a75K4JBkv8zX9/xJsdVJNPi9t7bdnkYb82/WPuwEVyLxk1vj+crsEYRIsmW+5G+4LKwn42W2+/v7vhVRar9dulzoqkdGZeju6PDobX8NW5iT0J6ASgTCE7zie2KJaSXYM3tDiIQxySSI2aAFVRu/Xo8rQ==;qbN0umHTSwyGQ0ZK/v0w4Q=="
