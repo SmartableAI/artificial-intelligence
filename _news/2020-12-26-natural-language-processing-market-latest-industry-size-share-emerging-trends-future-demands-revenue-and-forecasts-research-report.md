@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Retail and E-commerce Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
+    excerpt: "The report on the global AI in retail and E-commerce market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global AI in retail and E-commerce market to grow with a CAGR of 42."
+    publishedDateTime: 2020-12-26T17:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Computing Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
     excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2020-12-22T12:07:00Z

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial intelligence predicts gestational diabetes in Chinese women"
+    excerpt: "Machine learning, a form of artificial intelligence, can predict which women are at high risk of developing gestational diabetes and lead to earlier intervention, according to a new study published in the Endocrine Society's Journal of Clinical Endocrinology & Metabolism."
+    publishedDateTime: 2020-12-22T15:32:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-gestational-diabetes-chinese.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 37
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-pregnancy.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "H1y3C2RcaBSTxwpZ26/qf8yy4zSllMEGV6Iys9Dc4yw5vObNjXAbZa2SPpxmBI/eCIB/iL+KbKboKx682ppkyc3DUGgoUk+nxdTBfBO3pt/uuqA28OPmZIQIryrNlVNrV+ZvXFZtqrUpJkrM7eVFJn4NWMVZFdTahyTe4TfdM4t8B69OBzWDKYjkYKw0sheJi1oj+5DveRoksmqFLobV1z/Kb4pAekxt5flWMxNo3tIW+R7/7M9M5q0Vn+gtW2Gw0AyuNC0X972hwMshAdBsMImQLmPv92cWMJH6vI8SoMlRQdmJFn3EOO9DzkMSMNxXBg2gvDQQeXYXQHUui/tu9H4Jf9ZV8a9wMgTdh3uxfRl9+t7MCF5B0QOYewClCUyvBYVqAmqnyRRaYiUZdXJ+r/hahJCMqTgNFV+x4OwAvIwUx0HwwyvNy0jeFZiFutbo0/J4JW1ISayuL9yECcFfyiTV4j0FrY9PbNEHHflr8VeqjYmyvl2Djilv00mAN2BNHAugtBBDGZPzXuiLGIQ33Q==;z1O6yX/DD9UrouyG1Qg6OQ=="
 ---

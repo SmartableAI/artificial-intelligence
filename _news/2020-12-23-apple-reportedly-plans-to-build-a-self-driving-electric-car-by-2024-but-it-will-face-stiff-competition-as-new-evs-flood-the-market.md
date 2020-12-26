@@ -100,22 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple plans self-driving electric car by 2024: Report"
-    excerpt: "Tech giant Apple is planning to venture into the automobile sector. According to a report in Reuters, the iPhone maker is working on a concept to develop a self-driving car. The report said that Apple could launch the proposed car by 2024. It said that ..."
-    publishedDateTime: 2020-12-22T06:50:00Z
-    webUrl: "https://www.indiatvnews.com/auto/apple-plans-self-driving-electric-car-by-2024-673116"
-    ampWebUrl: "https://www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/appleelectriccar-1608619658.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Breaking Down the Financial Impact of Self-Driving Cars"
     excerpt: "The expectations over driverless cars are stratospherically high. For one, there’s the fascination with the technology and the presumption of an easier commute: The self-driving car will take us to work while we surf the Internet, read files and review ..."
     publishedDateTime: 2020-12-23T12:00:00Z

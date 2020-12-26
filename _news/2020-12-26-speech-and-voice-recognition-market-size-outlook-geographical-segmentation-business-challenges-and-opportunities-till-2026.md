@@ -44,34 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Consulting Services Market 2020 SWOT Study, Sales Analysis, Technological Innovations and Competitive Landscape to 2025"
-    excerpt: "Global AI Consulting Services Market 2020 by Company, Type and Application, Forecast to 2025 published via MarketsandResearch.biz covers the market landscape and its growth over the upcoming years and discussion of the prominent companies effective in this market."
-    publishedDateTime: 2020-12-22T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-consulting-services-market-2020-swot-study-sales-analysis-technological-innovations-and-competitive-landscape-to-2025-2020-12-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing in BFSI Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
-    excerpt: "Global Natural Language Processing in BFSI Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
-    publishedDateTime: 2020-12-22T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2020-analysis-trend-applications-industry-chain-structure-growth-and-forecast-to-2025-2020-12-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Education Market Grows as Top Vendors Third Space Learning Forecast 2023"
     excerpt: "Market Overview Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period)."
     publishedDateTime: 2020-12-22T11:25:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-
 webUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video"
 type: article
 quality: 69
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -83,22 +83,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Apple plans self-driving electric car by 2024: Report"
-    excerpt: "Tech giant Apple is planning to venture into the automobile sector. According to a report in Reuters, the iPhone maker is working on a concept to develop a self-driving car. The report said that Apple could launch the proposed car by 2024. It said that ..."
-    publishedDateTime: 2020-12-22T06:50:00Z
-    webUrl: "https://www.indiatvnews.com/auto/apple-plans-self-driving-electric-car-by-2024-673116"
-    ampWebUrl: "https://www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/apple-plans-self-driving-electric-car-by-2024-673116"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/appleelectriccar-1608619658.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Apple reportedly plans to build a self-driving electric car by 2024, but it will face stiff competition as new EVs flood the market"
     excerpt: "By the time Apple's rumored electric car launches, dozens of new EVs — from sports cars, to SUVs, and trucks — will also be on the market."

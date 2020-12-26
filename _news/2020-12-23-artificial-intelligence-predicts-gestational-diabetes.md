@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-g
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-gestational-diabetes-198992-1.htm"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medindia
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence predicts gestational diabetes in Chinese women"
+    excerpt: "Machine learning, a form of artificial intelligence, can predict which women are at high risk of developing gestational diabetes and lead to earlier intervention, according to a new study published in the Endocrine Society's Journal of Clinical Endocrinology & Metabolism."
+    publishedDateTime: 2020-12-22T15:32:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-gestational-diabetes-chinese.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 37
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-pregnancy.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AI model identifies women at high risk for gestational diabetes, study finds"
     excerpt: "Researchers in China used machine learning, a form of AI, to develop a model that can predict whether ... identify women at high risk of diabetes in early pregnancy and start interventions such as diet changes sooner,\" said Huang, a researcher at the ..."
     publishedDateTime: 2020-12-22T14:50:00Z

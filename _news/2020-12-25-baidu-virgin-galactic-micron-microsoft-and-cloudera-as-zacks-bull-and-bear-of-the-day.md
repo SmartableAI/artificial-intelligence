@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microso
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://www.nyoooz.com/df-images/chennai/df-chennai-2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Reimagining the Future of Post with Microsoft Azure"
-    excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
-    publishedDateTime: 2020-12-22T06:30:00Z
-    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
-        width: 552
-        height: 372
         isCached: true
 
 secured: "EJP+OsfnsnZMPpw863ZlMyKSZvVGtcbSatOrOkGTPRWs+svhUQHPzJfkvu0g8hgDpN0xyq/rddqFPN/rr2V073lhXM0ICebWfVh7zQiTYHeLnVzZoWVbZ7AImwLQ9b/Bj1KdAP96p8eVMOueMHMW1CUyexZ2OZzbwGocsMn0eSy1ZtiS1yo9RB+Q0ET56pqf7BY2t2Nwq7cHZtWov0qAzu+G9kH0UBCLnzADQCu3N3ijHnl6G6h2tScFgNmDvb6gXM57lNFQ1Smm1nxqGM2Ne865vdqq8Rx2P9F7Kwt+WgUShJE/jECQ6vTuCnXFyUtly22lDGujod6VwmzpG9FQ9XZG5LBF7VsMU2Fz/NA95p8=;1YTJtrtvuc1fnieklR+uug=="
