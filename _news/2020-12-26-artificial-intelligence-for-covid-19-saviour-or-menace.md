@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-26T08:49:00Z
 originalUrl: "https://www.analyticsinsight.net/is-artificial-intelligence-saviour-for-covid-19/"
 webUrl: "https://www.analyticsinsight.net/is-artificial-intelligence-saviour-for-covid-19/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-14.jpg"
@@ -57,6 +58,6 @@ related:
         height: 1061
         isCached: true
 
-secured: "s3lI0FkZppL5TjBqpchRsR8XUDtQHBTUss+ZyiZSg8TNgij5+fgUlqRr4JnkzOUJz5mEZdm0ClUZzuMEKHtnnWk0T9SiqtbB0aAP/BpaeRvV/JgPx2/zvjINCa1euH64OGwdn5q0VIP6S5dm5a0dLG8kZYm2Yy/0A4Z5Z4GAbhHhg5oi/YFf6j9NneY2NYTq+jCKEDrEi/dibZ2YayYNmBbaVp7W6bAsYLisbCQRVmSQdbHVZbF8Nahz2JRS5Jyf3en/b02rsn6djYbeUATwh7A2myUe/mgMPzggozAOAssZF6VxbLHcy3S5YzDZxyPH2vdf42aTsbR4HuIAKc1a84DyuOUE3nhgXMCGL9ZcQUI=;cL/whXIddNwOMVSfFL02nA=="
+secured: "HtAzJUFBo9uN8f6SnxUbT8RlPORwwCGWnExJ4TOo2D48PXsqPybFhZnw4xERXrb8zPjcnvbLELG9zypkh53P0EJwSgvVzAsEpdjZWAH2hxqhgNb4VDsDbcgsWq/CCHPcZbeSNZIYOIbnRMQ9VSwGRkbWFaZpPFl9ECI9rI4a7WQovkrLp5tF8u5Wi5tUAno2EefI32WsdDvTUfVqwV2LsjiwHDf5t4KmQSKdmQbRrg0WvR7QPiZ5iOHGNuIgi/3JhaZ0NZCiqHKTcfN35ISYyGqX0WhuBquSIyUUEY7D/m7KC4DbA2UZcZVeV64tBunrhQwR2mC6GWa1PY7pXV6yx4Io+U8MBx2yZrXpSHNzwYcVUxgZrSzfKpti4dvuxcuqp1t8ElrjZY7Hac5D93wwwgNdJsr3OqEbxwPQbcDrZo2uVnjmL0I6XBqmE8uXM3Bi0nDq/YnBqbOdEEA+fNHdgw2wdpdQtDcPlo/ptcWFHEg1nr8qRTCS0oJQc/TSBK2nkFlnvwSwu/jqzXAO4XYmBA==;IFLOYHBu4aNaZ41Dp5/H9g=="
 ---
 

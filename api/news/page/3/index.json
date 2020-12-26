@@ -251,7 +251,7 @@
       "originalUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1180,7 +1180,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "Facebook AI"
       ]
     },
     {

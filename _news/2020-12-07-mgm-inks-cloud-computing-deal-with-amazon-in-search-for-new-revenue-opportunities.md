@@ -2,9 +2,11 @@
 category: news
 title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
 excerpt: "It will also use Amazon Rekognition software to tag every frame of its movie and TV library, \"making it easier for MGM’s partners to find and license film and TV shows for their lineups.\""
-publishedDateTime: 2020-12-07T15:15:00Z
-originalUrl: "https://www.hollywoodreporter.com/index.php/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-webUrl: "https://www.hollywoodreporter.com/index.php/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+publishedDateTime: 2020-12-07T14:55:00Z
+originalUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
 type: article
 
 provider:
@@ -16,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.hollywoodreporter.com/assets/1607629907/images/brand/writerimage-thr.jpg?12226c175ff89cc6f5c5"
-    width: 383
-    height: 383
+  - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
+    width: 1024
+    height: 577
     isCached: true
 
-secured: "NGy1n/KBqSGb1VSnZwOURiD03clyW9iemaDR/Qqr4UZa8Wbs2OeWA717uursHAo+IVtNkwDeKzcqZsSFAeL1IhN9YhY+z7FSTTB6nHkTD55bNoSMLhRRsmWFdSrei150azfCeIxyCkKwXePFl4aNY+OjgHNhW8J+/TgYxYG5FfjgtLseyxKHejSC9JHTO2x5+idH3Ns041qDEaj1fBb6zLB2BgSb9JF3k6Lxul89dMIXAVtUNSKLjb0MWjI4+itGKpmcKeb1b/eGCaMXjSWJ+mBitT3Fl7p1qQNOIcqMFVgHmWFM/mdWIqsiKuUgAexZfKTpVTnSy9Ub+oF/GE1FVMeBZD5YqjpC/DSQboEJ+rk=;xoC51EypRsXSy7dSWStbqQ=="
+secured: "h7z5sFkPjaSqbdy2XvH8nCDIhWF6YNgcyODn4qmXosM2dom8v/CdlucJ517KNxbxtVdkgdqDAGE5IeC4LtlLabv59Y+xlIjhJ1GikBlCsnmopoHjuGiRyELBALUMi+FEkF78G6woPwd06Mh0bMsdkdZCFE+sRQvqdQrAtpHyBAIwcasmPovLrfLEQlXUjFwZIPH9M1ZhSqjgsMTt1oNrApT1W6OehyyT+PfjNKD2lVgP2efzfwIL6E5MpjEijgrsG1BhnRtWFJtWgDNKVIXNaOP7sxDdUzsYwPYw4/EyF9/2VwQeUv9SNq5fkX8BD4x4L7Rrz7fjgNsqi/A+6RcrQMRalEuNJ1wvmmn769McQoU=;kfdbvyfxq5Ot8bSWSglW3Q=="
 ---
 

@@ -148,7 +148,7 @@
       "originalUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1213,34 +1213,34 @@
     {
       "path": "_news/2020-12-10-outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast.md",
       "title": "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast",
-      "excerpt": "DUBLIN, Dec. 9, 2020 /PRNewswire/ -- The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been ...",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Dec. 9, 2020 /PRNewswire/ -- The \"Europe Computer Vision Market by Product Type, Component, Application ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast-1029879243",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast-1029879243",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T14:16:00-08:00",
+      "publishedDateTime": "2020-12-09T14:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

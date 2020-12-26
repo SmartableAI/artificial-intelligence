@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google reportedly tightens grip on research into ‘sensitive topics’"
+    excerpt: "Google is currently under fire for apparently pushing out a researcher whose work warned of bias in AI, and now a report from Reuters says others doing such work at the company have been asked to “strike a positive tone” and undergo additional reviews for research touching on"
+    publishedDateTime: 2020-12-24T01:47:00Z
+    webUrl: "https://techcrunch.com/2020/12/23/google-reportedly-tightens-grip-on-research-into-sensitive-topics/"
+    ampWebUrl: "https://techcrunch.com/2020/12/23/google-reportedly-tightens-grip-on-research-into-sensitive-topics/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/google-reportedly-tightens-grip-on-research-into-sensitive-topics/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://img.vidible.tv/prod/2018-09/27/5bac337dbf4885293903f4f0/5bac78c99ca31960e99f55c4_o_U_v1.png?w=550&h=310"
+        width: 550
+        height: 310
+        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
     publishedDateTime: 2020-12-23T11:36:00Z

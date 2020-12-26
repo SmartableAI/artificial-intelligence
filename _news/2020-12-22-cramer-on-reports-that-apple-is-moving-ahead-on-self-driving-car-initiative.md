@@ -123,6 +123,17 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
+    publishedDateTime: 2020-12-23T19:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
+    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Self-Driving Car Market 2020 | Size, Market Share, Leading Players and Forecast to 2024"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2020-12-23T07:01:00Z
@@ -333,15 +344,6 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
-  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
-    publishedDateTime: 2020-12-23T22:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 34
   - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
     excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-23T17:25:00Z
 originalUrl: "https://www.medscape.com/viewarticle/941552"
 webUrl: "https://www.medscape.com/viewarticle/941552"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI Ethics
   - AI in Healthcare
+  - Facebook AI
 
 images:
   - url: "https://img.medscape.com/thumbnail_library/medicine_machine_thumb.jpg"

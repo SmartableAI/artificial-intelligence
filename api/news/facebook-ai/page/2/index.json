@@ -2,6 +2,188 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say.md",
+      "title": "IBM is moving to cut thousands of jobs, reports and workers say",
+      "excerpt": "RESEARCH TRIANGLE PARK – IBM is planning to ... clients on their journey to adopting an open hybrid cloud platform and AI capability, and we are reinvesting in our business,” a spokesperson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2020/11/20/ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say/",
+      "originalUrl": "https://www.wraltechwire.com/2020/11/20/ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2020/11/keyboard-417090_1280-e1605871366735-1024x577.jpg",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-facebook-says-its-getting-better-at-using-ai-to-take-down-hate-speech.md",
+      "title": "Facebook says it's getting better at using AI to take down hate speech",
+      "excerpt": "(CNN)Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "originalUrl": "https://edition.cnn.com/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118174256-facebook-on-smartphone-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "publishedDateTime": "2020-11-19T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-3-rising-aiml-startups-from-south-korea.md",
+      "title": "3 rising AI/ML startups from South Korea",
+      "excerpt": "The South Korean government announced a renewed focus on artificial intelligence early this year ... areas in natural language processing (NLP) research, and it has not been studied much.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea",
+      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb.md",
+      "title": "Facebook says AI has fueled a hate speech crackdown – Jaweb",
+      "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facebook-says-AI-has-fueled-a-hate-speech-crackdown-–.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
+      "publishedDateTime": "2020-11-19T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown.md",
       "title": "Facebook says AI has fueled a hate speech crackdown",
       "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
@@ -1281,62 +1463,7 @@
         "Facebook AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
-      "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos",
-        "Facebook AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 3
 }
