@@ -26,22 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement"
-    excerpt: "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
-    publishedDateTime: 2020-12-21T09:26:00Z
-    webUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996"
-    ampWebUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
+  - title: "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day"
+    excerpt: "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR."
+    publishedDateTime: 2020-12-24T17:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
     type: article
     provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 83
-    images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG"
-        width: 735
-        height: 489
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Reliance partners with Microsoft News Today"
     excerpt: "Chennai: Reliance General Insurance (RGI) a 100 per cent subsidiary of Reliance Capital has brought in speed and acceleration to its vehicle claim process by introducing 'RAPID' equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
     publishedDateTime: 2020-12-23T11:02:00Z
@@ -71,20 +66,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
         width: 552
         height: 372
-        isCached: true
-  - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
-    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
-    publishedDateTime: 2020-12-22T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-us-military-training-and-simulations-2020-research-report-featuring-google-ibm--microsoft-301197438.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
 
 secured: "DLhZEL7TqxhBpex8CtxKSr8lQse4fO8IF5nCnreRyyY+7oHLcw5GGtgZWmTsQ1RyV9Sgze46U8iEtDJoSFzMcBo/1iPTVqOeLzrmkhj4Z5OY/0YKZVvhljjQrgnhwZI+4LqTFTgav2+ndEHCXGcZAmaX9n7nktIzW20SDMTf/nKr5K8vy9Y+sSZBtrYPbdKDqml6qi3JZBBJ283KJqCrUsHb/m8yMoo99nyMIx5udWlhqrcHytKgbzpKZD0Lf1B3aEWFg65ukH0M6Snj8wFW8PNpjOmvzYxELooAZcgZCSvtasfeZ5Xyo3mnMzxBVtavCwltTrwwruVMxEyX0x1bfw7L8GF91s6WjUbwdNMwnw0=;r8/AWnb2h90+QF3QwlpIPg=="

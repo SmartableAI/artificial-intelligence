@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-17-the-perfect-cheeto-how-pepsico-is-using-microsofts-project-bonsai-to-raise-the-snack-bar.md",
+      "title": "The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar",
+      "excerpt": "The post The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai-for-business/pepsico-perfect-cheeto/",
+      "originalUrl": "https://blogs.microsoft.com/ai-for-business/pepsico-perfect-cheeto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2020/12/cheetosconveyer-1024x384.jpg",
+          "width": 1024,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T08:30:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-google-waives-15-billion-deepmind-loan-as-ai-costs-mount.md",
       "title": "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount",
       "excerpt": "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development.",
@@ -1172,57 +1224,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation.md",
-      "title": "Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation",
-      "excerpt": "Using Xeon CPUs and software built with the OneAPI model, animation studio Laika is leveraging AI to accelerate repetitive production tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/B037EB54-C6AF-456B-8C8C-66AC56FFCD06_1_201_a.jpeg?w=1200&strip=all",
-          "width": 859,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
-      "publishedDateTime": "2020-12-16T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

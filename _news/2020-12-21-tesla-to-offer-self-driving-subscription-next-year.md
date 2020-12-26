@@ -134,6 +134,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
+    publishedDateTime: 2020-12-23T19:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
+    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
     excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."
     publishedDateTime: 2020-12-21T15:23:00Z

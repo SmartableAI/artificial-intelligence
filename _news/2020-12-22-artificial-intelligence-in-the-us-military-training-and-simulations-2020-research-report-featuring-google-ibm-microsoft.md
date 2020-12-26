@@ -25,66 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement"
-    excerpt: "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
-    publishedDateTime: 2020-12-21T09:26:00Z
-    webUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996"
-    ampWebUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
+  - title: "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House"
+    excerpt: "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources."
+    publishedDateTime: 2020-12-21T15:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21"
     type: article
     provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 83
-    images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG"
-        width: 735
-        height: 489
-        isCached: true
-  - title: "Microsoft Ups Security of Azure AD, Identity"
-    excerpt: "A roundup of Microsoft's recent security news and updates that focus on protecting identity. Microsoft's latest security announcements have focused on securing Azure AD and Identity. Updates include stronger compromise prevention for Azure AD,"
-    publishedDateTime: 2020-12-22T23:07:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-ups-security-of-azure-ad-identity-/d/d-id/1339793"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "Microsoft develping ARM chips for servers, Surface PCs - report"
+    excerpt: "Microsoft has started designing ARM processors for data centres, Bloomberg reported, citing sources. The company plans to run half of its Azure cloud services on hardware based on ARM architecture. A spokesperson for Microsoft said the company is continuously investing in research and development,"
+    publishedDateTime: 2020-12-22T12:44:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-develping-arm-chips-for-servers-surface-pcs-report--1366724"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 71
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Reliance partners with Microsoft News Today"
-    excerpt: "Chennai: Reliance General Insurance (RGI) a 100 per cent subsidiary of Reliance Capital has brought in speed and acceleration to its vehicle claim process by introducing 'RAPID' equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
-    publishedDateTime: 2020-12-23T11:02:00Z
-    webUrl: "https://www.nyoooz.com/news/chennai/1534521/reliance-partners-with-microsoft-news-today/"
-    ampWebUrl: "https://www.nyoooz.com/amp/news/chennai/1534521/reliance-partners-with-microsoft-news-today/"
-    cdnAmpWebUrl: "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/chennai/1534521/reliance-partners-with-microsoft-news-today/"
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 59
-    images:
-      - url: "https://www.nyoooz.com/df-images/chennai/df-chennai-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Reimagining the Future of Post with Microsoft Azure"
-    excerpt: "Other companies that have already stepped up and revamped their postal operations using Microsoft technology include Finland’s 380-year-old postal office, Posti, which uses Microsoft Azure and AI to make processes more efficient and prevent postal delays ..."
-    publishedDateTime: 2020-12-22T06:30:00Z
-    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
-        width: 552
-        height: 372
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 36
 
 secured: "0cblV5ByK/ZnF9lndQ5CSnbTCDviuQA00U+7iOyPq9eK+Qlh8VUEukNFV7iiA2eaNjku1vv2YDF1/zK9l3GFXOJ9r0TWI8Kw6F9OjZ84Wbwf15zdheLABQV47wh9+BFOiwRDkGcPjCIPlz8ZQ4aAykhW835rdtj95bUPdCCQoz69IBDSdiOEIGWhj2kRhXnkx56nYO1JNsbYexaFxA6BYvBABpgtSEfMx6+8k4uUW7VdBRe7PHzYtZBhI/jvMgfDQUUWREnNlEQjXfzFuqEjVhDkGE1Q8yyesV3DF1Q5Zj8OJHu6VoPx+21c0VLaRCwX15lGWFspGEcmWWseuZIewsrB7zniyCjDaePh6fyDY7c=;f1d6cf5Y7obr9U3ncvDwkQ=="
 ---

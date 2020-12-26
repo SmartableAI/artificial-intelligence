@@ -2,6 +2,49 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-11-05-yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update.md",
+      "title": "Yext Answers Expands Global Footprint with New Japanese Language Expansion, Powered by \"Andromeda\" Search Algorithm Update",
+      "excerpt": "PRNewswire/ -- Yext, Inc. (NYSE: YEXT), the Search Experience Cloud company, today announced that Yext Answers, its revolutionary site search product, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1327269/Yext_Blog.jpg?p=facebook",
+          "width": 1560,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
       "title": "These Factory Robots May Point the Way to 5G’s Future",
       "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",
@@ -1109,51 +1152,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
-      "title": "AWS launches next-gen GPU instances for machine learning",
-      "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "originalUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg",
-          "width": 3648,
-          "height": 2736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AWS AI"
       ]
     }
   ],

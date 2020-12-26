@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facia
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -270,9 +270,9 @@ related:
         height: 450
         isCached: true
   - title: "New York Halts Use Of Facial Recognition Tech In Schools"
-    excerpt: "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses."
-    publishedDateTime: 2020-12-23T02:03:00Z
-    webUrl: "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
+    excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
+    publishedDateTime: 2020-12-23T10:35:00Z
+    webUrl: "https://www.law360.com/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools"
     ampWebUrl: "https://www.law360.com/amp/articles/1340315"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315"
     type: article
@@ -305,6 +305,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 39
+  - title: "A State Becomes the First to Suspend Facial Recognition Technology in Schools"
+    excerpt: "New York Gov. Andrew Cuomo said there are “serious and legitimate privacy concerns” with the technology—but only prohibited its use until 2022. New York banned the use of facial recognition software in schools this week, becoming the first state to ..."
+    publishedDateTime: 2020-12-24T19:04:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/12/state-becomes-first-suspend-facial-recognition-technology-schools/171036/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 36
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/12/24/NGbiometrics20201224/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Cuomo signs bill halting use of facial recognition in schools pending further study"
     excerpt: "Gov. Andrew M. Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools and issuing recommendations."
     publishedDateTime: 2020-12-23T06:42:00Z

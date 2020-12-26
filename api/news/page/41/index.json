@@ -2,6 +2,48 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-11-21-making-sense-of-the-ai-landscape.md",
+      "title": "Making Sense of the AI Landscape",
+      "excerpt": "As more and more companies incorporate AI tools into their operations, business leaders need to find ways to adapt. But the term “AI” in fact covers a huge spectrum of different things.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
+      "originalUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
+      "publishedDateTime": "2020-11-20T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-12-million-raised.md",
       "title": "Update: Twin Science & Robotics to Close Seedrs Campaign With Nearly £1.2 Million Raised",
       "excerpt": "Twin Science & Robotics, a new educational experience that up skills children with physical and digital products, is set to close its equity crowdfunding campaign on Seedrs with nearly £1.2 million raised.",
@@ -1135,51 +1177,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-startup-circle-how-is-doceree-using-ai-and-machine-learning-to-revolutionize-the-pharma-industry.md",
-      "title": "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?",
-      "excerpt": "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
-      "originalUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciol.com/wp-content/uploads/2020/11/docree.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
-      "publishedDateTime": "2020-11-19T23:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

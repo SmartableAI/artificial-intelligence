@@ -2,6 +2,48 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-11-14-ey-india-acquires-ai-startup.md",
+      "title": "EY India acquires AI startup",
+      "excerpt": "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, up-skilling and re-skilling talent.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg",
+          "width": 412,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms",
+      "publishedDateTime": "2020-11-13T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix.md",
       "title": "Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix",
       "excerpt": "If you’re a Formula 1 (F1) fan, have you ever wondered why F1 teams have very different performances between qualifying and practice sessions? Why do they have multiple practice sessions in the first place? Can practice session results actually tell something about the upcoming qualifying race? In this",
@@ -1185,57 +1227,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system.md",
-      "title": "Red Light Waiting Times Cut, Safety Boosted By AI-Based Control System",
-      "excerpt": "NoTraffic’s AI-based autonomous traffic management system exchanges the simple timing of lights for operating them based on what’s actually happening on the road to reduce wait times and boost safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeb014092c8ad78f9c4323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D11%26cropY2%3D574",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/",
-      "publishedDateTime": "2020-11-13T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

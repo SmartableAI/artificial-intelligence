@@ -1,29 +1,27 @@
 ---
 category: news
-title: "New York issues 2-year moratorium on facial recognition in schools"
-excerpt: "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ..."
-publishedDateTime: 2020-12-23T17:04:00Z
-originalUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/"
-webUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/"
-ampWebUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
-cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
+title: "A State Becomes the First to Suspend Facial Recognition Technology in Schools"
+excerpt: "New York Gov. Andrew Cuomo said there are “serious and legitimate privacy concerns” with the technology—but only prohibited its use until 2022. New York banned the use of facial recognition software in schools this week, becoming the first state to ..."
+publishedDateTime: 2020-12-24T19:04:00Z
+originalUrl: "https://www.nextgov.com/emerging-tech/2020/12/state-becomes-first-suspend-facial-recognition-technology-schools/171036/"
+webUrl: "https://www.nextgov.com/emerging-tech/2020/12/state-becomes-first-suspend-facial-recognition-technology-schools/171036/"
 type: article
-quality: 59
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: The Daily Dot
-  domain: dailydot.com
+  name: Nextgov
+  domain: nextgov.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg"
-    width: 3838
-    height: 1919
+  - url: "https://cdn.nextgov.com/media/img/upload/2020/12/24/NGbiometrics20201224/open-graph.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -154,6 +152,22 @@ related:
       - url: "https://s3.amazonaws.com/wp-media-es/2020/12/22143205/GettyImages-1187951204.jpg"
         width: 2309
         height: 1299
+        isCached: true
+  - title: "New York issues 2-year moratorium on facial recognition in schools"
+    excerpt: "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ..."
+    publishedDateTime: 2020-12-23T17:04:00Z
+    webUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/"
+    ampWebUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg"
+        width: 3838
+        height: 1919
         isCached: true
   - title: "New York to Bar Facial Recognition Tech in Schools"
     excerpt: "The bill, sponsored by Assemblywoman Monica P. Wallace, would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
@@ -301,20 +315,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 39
-  - title: "A State Becomes the First to Suspend Facial Recognition Technology in Schools"
-    excerpt: "New York Gov. Andrew Cuomo said there are “serious and legitimate privacy concerns” with the technology—but only prohibited its use until 2022. New York banned the use of facial recognition software in schools this week, becoming the first state to ..."
-    publishedDateTime: 2020-12-24T19:04:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/12/state-becomes-first-suspend-facial-recognition-technology-schools/171036/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/12/24/NGbiometrics20201224/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Cuomo signs bill halting use of facial recognition in schools pending further study"
     excerpt: "Gov. Andrew M. Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools and issuing recommendations."
     publishedDateTime: 2020-12-23T06:42:00Z
@@ -339,6 +339,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "kX3uoSr9i3KUy1edjEWoisuzWtTTp505tRu14rceh4NWAd0tHUdbsdiwuGjNvdJOc+pK2Nh6pWwEa9aMDPBv9oaSYoi+IHX1I6NlGaU8u6fiVkINDocv/84c/uJbMFobF1UfnYB2DwYxC9wVZL+MCM4ObeyG1AOg5xCZg8V81/n8t9wuPSsgyYOWcx+F/269am1gPFOSagLCYYwSz0WNN3CyK7eaM2k+S2wEYtd6ALnZrp1mXlKHMjmS7xky2ijbfwn8ZexJRApeDvd9vQh5ON8R4AnI8Ezpx6wynuq46VpvWjCQ0AdYgZlQSdUFQAVY2S29FVLqpwXCr23mwZ91j52K00GNjOAVUnO0i7buKJ6DuYIb00i+OKUjspQ7dCuEE8Jz1oIJgBmkUkFB71hceaW6lQrvVco/ZEydwxgS3DLrb7knc3bzSpdt67ssGhpOtAbWIvp5ZfmpknMFgA2SzTOBzw+3I+ZVqfs5LlESxpLERVfRKZucC+ufMBr9TfzyCukCHC4pkvpBIlD48uiYzw==;drbTsAk2j5CR6XOQePTJnw=="
+secured: "lCR15sqLfVqLX2kZDSDseTj/l5w6zXnRckn9WFQWXmpKbStjpHAhfjfrpQxx0gy4MSASt6IGr+X2swtzqGL7qq1/Xsdu5JSN+DG33HXnIePrsUZiJ2VrzJsnq/E6LQseXfbaWXTwCAZjRdbYYBrmlqNyaN00dk0lMjt2y1ap34/6zmM9FD413r2SWiYFka42ADDjWnovi2qXJ7ebACr+Dh+7xy1xYizVEV49I4D9XsJ9sdALvLWEAFRHc0OtLjBLcenhnQSmq1cGRztdAyaceo6lr8LEtB9Wz6FxCc4vgm3zvxtL4A+4C4d0ByBeTn3Ti1K1CAY+gxqLvf0/z6kr2aFu2EuYQmMxV6l4Wv1WyBs=;ThBsBNefs4mL4n+/XTuZXw=="
 ---
 

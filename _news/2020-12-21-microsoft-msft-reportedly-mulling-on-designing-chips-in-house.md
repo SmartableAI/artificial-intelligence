@@ -20,19 +20,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft starts developing own chips for datacentres – report"
-    excerpt: "Meanwhile, new specialised computing demand, for example that coming out of the increased deployment of AI, would be best served by chips designed to optimise for the special use cases rather than by general-purpose solutions. Another key incentive ..."
-    publishedDateTime: 2020-12-21T10:09:00Z
-    webUrl: "https://telecoms.com/507954/microsoft-starts-developing-own-chips-for-datacentres-report/"
+  - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
+    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
+    publishedDateTime: 2020-12-22T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-us-military-training-and-simulations-2020-research-report-featuring-google-ibm--microsoft-301197438.html"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 56
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
     images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Microsoft develping ARM chips for servers, Surface PCs - report"
     excerpt: "Microsoft has started designing ARM processors for data centres, Bloomberg reported, citing sources. The company plans to run half of its Azure cloud services on hardware based on ARM architecture. A spokesperson for Microsoft said the company is continuously investing in research and development,"

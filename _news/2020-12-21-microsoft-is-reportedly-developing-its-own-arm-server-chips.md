@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Reliance General Insurance providing Microsoft Azure AI"
-    excerpt: "Mumbai, Dec 21 (UNI) Reliance General Insurance (RGI), a 100 pc subsidiary of Reliance Capital, has brought in speed and acceleration to its vehicle claim process by introducing ‘RAPID’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
-    publishedDateTime: 2020-12-21T09:50:00Z
-    webUrl: "https://uniindia.com/reliance-general-insurance-providing-microsoft-azure-ai/business-economy/news/2270078.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 69
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/2020/12/2020_12$largeimg21_Dec_2020_161712233.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "7X3rCmalvd+blcNtgMaqrfqL3LZPjMDlAWxZrx8ANKPVUCylSd0RwKrNOJTLKUsCVliIDlyTVBUYKmkpWRsw2nA9g7lM+xtc8dt9lzfTiXPyhsD+hdVHLb+zZUanFsA8uO8FilPIABgYbh4iG5eMDNFkzRJWlbj1/OsHdxJ0Tv+J5zA862m3MdWe7q78g+eywAz6gybSr44FJNBrf93TB+DrHZHA2PeQ0RE780NDpaFbLAvskaohhkmgHvuetr6n/+WAxMTdlBdwiYIhPAS6AENfKs1cTGjiE+7HifVsMQuoxfxj1gHUmtATMeVsgBThEHJu7HDZFzBcdTQ266vP4c8IC3wjqjXqsYe9pJAtaJTB5Oqn3ClbiQSG7+Ll704xzoYJtNvcdvfKiX0VMcknuk/2rCnZtoDD34zFstbmIBOUJr8+az1lPYScmtJYup1AXcGlfPWQzlteCs3ANeQgy3P5gt7F2ONK4C1bexa7XIW1N2YknAsVbEQRfa0hx5v+LcpG/+xrWs3iMugKd8QcWw==;2dSStGMrvgEjAJRga+pVWQ=="
 ---

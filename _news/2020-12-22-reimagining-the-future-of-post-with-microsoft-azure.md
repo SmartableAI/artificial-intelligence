@@ -29,22 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement"
-    excerpt: "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
-    publishedDateTime: 2020-12-21T09:26:00Z
-    webUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996"
-    ampWebUrl: "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1"
+  - title: "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day"
+    excerpt: "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR."
+    publishedDateTime: 2020-12-24T17:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
     type: article
     provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 83
-    images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG"
-        width: 735
-        height: 489
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Microsoft Ups Security of Azure AD, Identity"
     excerpt: "A roundup of Microsoft's recent security news and updates that focus on protecting identity. Microsoft's latest security announcements have focused on securing Azure AD and Identity. Updates include stronger compromise prevention for Azure AD,"
     publishedDateTime: 2020-12-22T23:07:00Z
@@ -74,20 +69,6 @@ related:
       - url: "https://www.nyoooz.com/df-images/chennai/df-chennai-2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
-    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
-    publishedDateTime: 2020-12-22T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-us-military-training-and-simulations-2020-research-report-featuring-google-ibm--microsoft-301197438.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
 
 secured: "wjffdNzGYwo/D4yHhUVRCThNNpZ5qVs+bNgJBpQ9vP+Tmo5woDZjj5sCnLZSycbw8x6oevIpg9vW7Bymy2Pv3f76FEACQpQo/oNZYbuQxGx10990q3CrWgRKiDK4IQfSeEKTJHRyAk476U9hDztTYpVFWd/UiTkJ2eqXj4VLcKw+MzJGVoih3F9DYqeCH0bUtqtyPeoiwH17bTLQqJuF2K+S2js5c7jGt93TqIxNQiedqxVgN3topbWkoNAqff/zfALeShqFKTilmCadq9VT1LjvubgdxcQx4qHblid7CjtMLwdH550gEcQttk+gx6gCFicRJpzaVN2ac4PG4jBkorfGALCkUY8UD3fvyvASYjfQOV0ebktTjgbSLxsA+TpdrKR9en1qMTWVmDzV47Vgd563ggPaABg0dWW4nSg0EVEZd8q/4dEuO52fZNvobnk0wMFb06p+nDx5z0z6xh0hr+mSCdyi2mWqHvFWNnxImn2GNoO3BFn2n/9PB6xSRgh++4ImcXxj2qebIRIx5ooVpg==;19nmOVjxB1/mPA9g8RGHOA=="

@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-10-the-dark-side-of-big-techs-funding-for-ai-research.md",
+      "title": "The Dark Side of Big Tech’s Funding for AI Research",
+      "excerpt": "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "originalUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "publishedDateTime": "2020-12-10T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-1-fintech-stock-to-buy-before-2021.md",
       "title": "1 Fintech Stock to Buy Before 2021",
       "excerpt": "However, the peculiar nature of the pandemic has actually been something of a boon to disruptive fintech stocks. Because people have had to stay home, retailers and banks have had to reach their customers digitally.",
@@ -1138,49 +1190,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-what-are-the-advantages-of-ibm-power-systems-for-your-business.md",
-      "title": "What are the Advantages of IBM Power Systems for Your Business?",
-      "excerpt": "Incorporating these systems into your everyday operations not only offers increased levels of flexibility but also helps future-proof your company, allowing for easy integration of IoT, AI, and Watson. Security Benefits. IBM Power Systems already has an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],
