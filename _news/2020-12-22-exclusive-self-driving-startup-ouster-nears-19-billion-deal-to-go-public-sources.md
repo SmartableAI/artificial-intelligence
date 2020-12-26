@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Apple targets self-driving car by 2024 -sources"
-    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
-    publishedDateTime: 2020-12-22T04:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
-        width: 6026
-        height: 4017
-        isCached: true
 
 secured: "lqh8fcVF4c5mSmnGX7osDqpFEK511S9j0DH6xr1hJ9/Fi1jAvx+n+DyZ8tWPxonATn9O1JsoHXsQ56zyo7TzzG1XmA3g7FX2ngj+aPCivXHcGtRoJkRZ8jAw4G9KTLK3O7JrHV52BZjy3Pa+ACqTJSmVUC01Cw17KtgqJE+ocYX7mX58r43CbpKbhnc3qgVbovKip76OhWjvOjAo6BR4v7LRxw4mG1bR34PxUk5m7D0eqqLCrgPTI6iNJvJOr7ZnPSbFG27+o2LNnSdcmbNbMQWHXR2NUGuJT61Wgmd1MINxlhy7ooLIQV00ILaZYo9i1m5CuFZGM0MiMPjmDkTJxGDyEUP9EO0QIPsYeYWjGtY=;p2DtcgUexX10jAMvIy0njA=="
 ---

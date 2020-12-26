@@ -1,30 +1,20 @@
 ---
 category: news
 title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-excerpt: "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ..."
-publishedDateTime: 2020-12-07T15:10:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2020-12-07T15:56:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain"
+webUrl: "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "vFcG3sUfyC1pzjgf061ynM1jVJIN8GRfvccGy1F0cOdMWvMIvRtvAtABTo/AShbu5sWzQR0mTY7s8yIfPqr+RHM595478y5lW61iARcHuSm1U9deZvsropkrHPwctJVIFgNXtai1gyPGNS1fDBNqTkvHfMgP4lBjzv6VcEof8fgsPvJDZP0QHm/uWgmPh1S/Pjj8Rz7nii5nTG/8xa6qEOiXo49tOjz/HKA1Yq6DWLp3Vca0dCXVptctiHuacPoBW/IUiQIUXQtLnKmg5D9eO4rjbw/drQEJvBsFyZMBFYIq0939oj3fd+DDNguHL09O17a0KjWThcsZwG//dALomMHoUE38g7cP9NNbecekz4w=;BysRthGXLtE3VR6tGE7Zcw=="
+secured: "PHWSoRqMlPLnDA47tq10rJgCT2CfYoadoGb3E5ruYnu7FawmDCBpwEPg5VsNUBlYXqVYXVAq/bNgmqRzjHv/gpa2fD1Zn+4vE4YqRl/dEegonwzsdqRa4+y7CDWsF1hubujgQ/4zQsGPf7V7eQTLSuYSNxMm1uGkY+SyxtykeegQv0n2l3EnPMmsOL15Y4pEvQ7Czt+EDp7untY8BilAeCcZtXUtZkSIYDHE0VI4HGRXNPSlKLf0YEXtKztW/V5odWp079HC93DW1Z/QRWXBUcHb8RMl8EDcc3TDQtP1/3Y1aH4MM0HqmEm3wXtzdq1p2kugYgODaGjpuDqcbXbpW17X0lJDXK7m38nVsb+0K2s=;wMNKPoTGh8qjG67zBzeDwQ=="
 ---
 

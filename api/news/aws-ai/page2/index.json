@@ -1128,6 +1128,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain.md",
+      "title": "AWS Announces Partnership with MGM to Modernize its Media Supply Chain",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
       "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
       "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
@@ -1171,21 +1205,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-07-aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain.md",
-      "title": "AWS Announces Partnership with MGM to Modernize its Media Supply Chain",
-      "excerpt": "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ...",
+      "path": "_news/2020-12-07-mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities.md",
+      "title": "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\"",
+      "excerpt": "It will also use Amazon Rekognition software to tag every frame of its movie and TV library, \"making it easier for MGM’s partners to find and license film and TV shows for their lineups.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
+      "webUrl": "https://www.hollywoodreporter.com/index.php/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
+      "originalUrl": "https://www.hollywoodreporter.com/index.php/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.hollywoodreporter.com/assets/1607629907/images/brand/writerimage-thr.jpg?12226c175ff89cc6f5c5",
+          "width": 383,
+          "height": 383,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1195,59 +1229,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities.md",
-      "title": "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\"",
-      "excerpt": "It will also use Amazon Rekognition software to tag every frame of its movie and TV library, \"making it easier for MGM’s partners to find and license film and TV shows for their lineups.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "originalUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "publishedDateTime": "2020-12-07T06:55:00-08:00",
+      "publishedDateTime": "2020-12-07T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hollywood Reporter",

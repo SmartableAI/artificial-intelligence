@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY"
 type: article
 quality: 158
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Apple targets self-driving car by 2024 -sources"
-    excerpt: "Posted . Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger veh"
-    publishedDateTime: 2020-12-22T04:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMi0?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fe14ab8e4b04f7ff7c2dd7b-1608600877118?location=LANDSCAPE"
-        width: 6026
-        height: 4017
-        isCached: true
   - title: "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources"
     excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
     publishedDateTime: 2020-12-22T05:05:00Z

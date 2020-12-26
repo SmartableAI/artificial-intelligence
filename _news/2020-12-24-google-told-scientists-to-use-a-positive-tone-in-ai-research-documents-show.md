@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Google told scientists to use 'a positive tone' in AI research, documents show"
-excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
-publishedDateTime: 2020-12-23T19:16:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+excerpt: "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research."
+publishedDateTime: 2020-12-24T13:50:00Z
+originalUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
+webUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
+ampWebUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
 type: article
-quality: 53
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2"
-    width: 600
-    height: 360
+  - url: "https://i.insider.com/5fe492abedf8920018093a2c?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 562
     isCached: true
 
 related:
@@ -198,6 +198,6 @@ related:
         height: 567
         isCached: true
 
-secured: "45jN+yZczQrvLuU0PlcUQAtYvh8qLYzfSYvwzzZFFAbSI3vBer4sLuiEVVPSFlh2/Oqtz27HNuxVqDxL1Yac6xaePRVxIpqA99RN4crevKI3UGMqhbAaA6Ie7FOi9Jed6/jjNARsncpwb3eB3oaEEpVc0E3nX+b08xD53iy2pgzhwy8krqNIEiR+/fzxIwNchJt/R3nk/3HcVG4o1sZlr3x5Yn/tA/ny7yLyYzmiuX7JXhmLsLWj6gRrJBdkmIEl4Ja9Mf0vlzg6QSVX94AXRFyy1PUHo2PQoOOB2gZM/L5ksIwHPpWPiGqeRgpL11sjXfOyQY1NFb7tH1KQO7LlhG7CvnsPzOm/jMR0XBA5aHgwaQlX/EOFz6k0a+ICDMBB80a7VjgvzLcbgIf8sUsxYNXjavLA+cR5rXoVUAqKOk4xQDFVaM+gSI7is+SzQs+6q3u6ddXVXc1C4Ttwqu2SlQ9oFbrGoRHZqV6oXku8McnfLOXIMhNgBNivSfZdS9WCRPGr/VFjNjNv3pIvNBSk/Q==;61UKj82232CmMqb1ET5oYg=="
+secured: "BVCNWPAH9+3RiuDcOzBmYsyZ9iYw7nVluTYcoXvS6+5z79hCM99WZ3bIYt8mjCbjufWxfqkJ48xAa/jXA1weM9g2w/gidrKzqp/6dZL7VQNjBIODpugGm3YFeKO55hOiRQyTmibwuxd136muLxIPWD/kJv5jqXythRmwf+OWh5liKDf6py68w/SHFPJKuPTgj/FwC4q/p5q8E8x3GarLXdgtfcQ4TJVxAU1wvzjw/hlZF4qvGc9o0BFJI7vGoy50CAaK9ksajHuQfznYE8F0ZsaF0EOgBJIIUqqTVxvo2bzWQtlxFu1WCLmIfr/xPFVfR2XYpslHLUCY7RtPIGWR7a8qHByd5l9kZ9d9ltHNtUE=;8qCE/2EJuiMfZNb8SD4BQQ=="
 ---
 

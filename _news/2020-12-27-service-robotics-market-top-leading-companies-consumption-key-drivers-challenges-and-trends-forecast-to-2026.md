@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
-excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,"
-publishedDateTime: 2020-12-23T14:10:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
+title: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+excerpt: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026  <p>Top Players in Service Robotics Market are Lely International, Aethon Inc, Honda Motor Co."
+publishedDateTime: 2020-12-26T20:43:00Z
+originalUrl: "https://menafn.com/1101342149/Service-Robotics-Market-Top-Leading-Companies-Consumption-Key-Drivers-Challenges-and-Trends-Forecast-to-2026"
+webUrl: "https://menafn.com/1101342149/Service-Robotics-Market-Top-Leading-Companies-Consumption-Key-Drivers-Challenges-and-Trends-Forecast-to-2026"
 type: article
-quality: 0
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?909209"
+    width: 395
+    height: 250
+    isCached: true
 
 related:
   - title: "Robotics company gets OK to charge money for self-driving services"
@@ -94,20 +100,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
-    excerpt: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026  <p>Top Players in Service Robotics Market are Lely International, Aethon Inc, Honda Motor Co."
-    publishedDateTime: 2020-12-26T20:43:00Z
-    webUrl: "https://menafn.com/1101342149/Service-Robotics-Market-Top-Leading-Companies-Consumption-Key-Drivers-Challenges-and-Trends-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?909209"
-        width: 395
-        height: 250
-        isCached: true
   - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
     excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
     publishedDateTime: 2020-12-23T22:12:00Z
@@ -151,6 +143,15 @@ related:
         height: 600
         isCached: true
   - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
+    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,"
+    publishedDateTime: 2020-12-23T14:10:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
     excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
     publishedDateTime: 2020-12-23T20:10:00Z
     webUrl: "https://www.benzinga.com/pressreleases/20/12/g18916127/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-se"
@@ -162,6 +163,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "T1M4RRrkRhpxGdjM+fcAnnCgOrGjv/3nje8YPqgU0Wh5WopalRTbNm/8VKp4QDPG2VJ1q22GUEzW85wMkxT8Zlj5KDIq0Jr9IoAvsWGjuEvSrtHY+2/s59kBWSNPIBdqEqzuKJfhTyD5B1snL8k8fNXtJv6ACnmFfel1UyAYIfKLG8oSibVHYVcmF5NRl2iNjsfuMDT/VN+SNkfQv5jG0ZvUabGimioa1ALnfNxxar216Buc57m0BHeMTxIPt7js8662pYfVenHbzZgWQMx4E3+bD/eE4w1QkklcF2sQ3vyjL6aGWdj3xMEdF1BGhHrKI8WJabRO98pgziPYIoSBzibb+SwNex2nnz5txhCjTPg=;JSTIW1v+LMLXILOEEDMnwQ=="
+secured: "fOoVCDckC0umROI63GfBgd8BoyGhEWeVuvf7XYEa3uuBqIjL4tbP348q6jpKoVlXUJ3/LwUJ5sj6efK1xAMvCwfGyAXUS73D8cxT84nbMfMZ/0ckZXc0VA6QM91sGzsnT9/UAzL7O7I9SS17ZsJCxyBstXv+3mrorf+wmW2gwF+XliCuafaWXZsJarLjZEAJ297wS+BnSdDoVRFL7F/LUJS7kXbb9Mego3rN5t1JNI/ZcuniUuOGVSJAiheaEDOdqsnkew/vZkUfDvpvI58NgyqxBpYrfuRbs5jq7AuQrDxfu+mT59ktDZo7Wp1x7WtfRfBL1J4LK7l5udLxq9fpqXxAGUoUlLG6+Id+BK8uvHE=;gyukA1MFVC7aF39jyYJRsQ=="
 ---
 

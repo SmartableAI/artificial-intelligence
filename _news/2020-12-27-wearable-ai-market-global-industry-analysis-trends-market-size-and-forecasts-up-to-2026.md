@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Machine Learning Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
-excerpt: "The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global machine learning market to grow with a healthy CAGR over the forecast period from 2020-2026."
-publishedDateTime: 2020-12-26T15:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
-webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
+title: "Wearable AI Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
+excerpt: "The report on the global wearable AI market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global wearable AI market to grow with a healthy CAGR over the forecast period from 2020-2026."
+publishedDateTime: 2020-12-26T16:13:00Z
+originalUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
+webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
 type: article
-quality: 56
+quality: 57
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -43,15 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wearable AI Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
-    excerpt: "The report on the global wearable AI market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global wearable AI market to grow with a healthy CAGR over the forecast period from 2020-2026."
-    publishedDateTime: 2020-12-26T16:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
+  - title: "Machine Learning Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
+    excerpt: "The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global machine learning market to grow with a healthy CAGR over the forecast period from 2020-2026."
+    publishedDateTime: 2020-12-26T15:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -114,6 +113,6 @@ related:
         height: 250
         isCached: true
 
-secured: "dVRkoRGxSSez53Xh+xkNPYTef0Eih5VEimOfcbas2bdr65R4fOKCcddIx6NkNeJWQNBqvmH8fTF1n0imA/SP230sajB05+fIJxb7wyAMql15rpa9WbL+BIW1goX6bImQkAy36FrW/S8Y2A8JbW4FljUsP0pPq7CnHNIVXXQFC5DkI3bTkPFk3F6Arv149oJ0V66jUqe74BNPgF4pavrtE2FAFwuHufoOtqp+takdSZo6NH6IxSMlGxDAgvvk/tmPinNNH3/qZfaR1lRqwDEpmjuI3ht0RCBywTSYj2ck6e4zg3///1oau8XVaOfuMJDVMA5GSzfdflFw5+r25hqnbMaJIC3DS6n+DywHZdQ73BY=;c70OmM+j/lyw5Ree2IFb8w=="
+secured: "XSUkUSzJ0uzJmIt+MxgJlwq73i69eDu4qGQtigSRSgSgMuESjQe+d+wHCEEJFaSppf5N8sRZ4QvzKmgw7R+uC2h4iDEJNcM8VyNhnAhk3mcVpWp0boJrDVVtvunzq5L9lhC3vKUnuYrCvX+uV31crUlvixWPeqhGi1Rn8lBKyr1QiUvNacQbDvszp5Q/sUQedbMS5wZcXFgS6lKmhmsn9eO0VJh4kj2dgtqayPC0+HCbkt44PIrzMzO/pTV6b0WLY/hw9nQhUiG6kOBLs6XG/pk0MnrC7wje4iLztj3LASrr/87zsaGNUHv+YRAfv2JFQKoYnIFvHCR5pseb/ALJELbQFJsH5U64Na0U6NEYjiI=;HnKWKtAlcHJTEHYsC8VLHA=="
 ---
 

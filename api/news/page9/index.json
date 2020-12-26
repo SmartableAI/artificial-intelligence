@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-16-aws-decommoditizing-compute-with-reinvent-2020-announcements.md",
+      "title": "AWS Decommoditizing Compute With Re:Invent 2020 Announcements",
+      "excerpt": "The AWS re:Invent event marks the last and largest conference ... For the reader that hasn't followed the Artificial Intelligence (AI) market as closely, Habana Labs is an Intel company that designs and delivers AI processors for training and inference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/15/aws-decommoditizing-compute-with-reinvent-2020-announcements/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/15/aws-decommoditizing-compute-with-reinvent-2020-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd91335968b46008096796b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D624%26cropY1%3D18%26cropY2%3D311",
+          "width": 624,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/15/aws-decommoditizing-compute-with-reinvent-2020-announcements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/15/aws-decommoditizing-compute-with-reinvent-2020-announcements/amp/",
+      "publishedDateTime": "2020-12-15T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-baidu-rockets-higher-on-electric-vehicle-plans.md",
       "title": "Baidu Rockets Higher on Electric Vehicle Plans",
       "excerpt": "Baidu, which is widely considered to be China's leader in artificial intelligence (AI) and self-driving cars, has reportedly engaged in discussions with automakers about its plans. Baidu hasn't ...",
@@ -1161,50 +1213,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-new-sagemaker-features-cut-machine-learning-curve.md",
-      "title": "New SageMaker features cut machine learning curve",
-      "excerpt": "Amazon Web Services (AWS) has announced nine new capabilities for its machine learning (ML) service, Amazon SageMaker, to make it easier for developers to automate and scale ML workflow.  Key among these is an increased effort to eliminate the kind of racial and demographic bias that has damaged the reputation of artificial intelligence and machine learning tools",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/new-sagemaker-features-cut-machine-learning-curve/",
-      "originalUrl": "https://gadget.co.za/new-sagemaker-features-cut-machine-learning-curve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/amazon-sagemaker.jpg?resize=800%2C400&#038;ssl=1",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

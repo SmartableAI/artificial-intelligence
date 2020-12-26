@@ -73,17 +73,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-    excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
-    publishedDateTime: 2020-12-23T19:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Nuro Gets First California OK to Charge Money for Self-Driving Services"
     excerpt: "Silicon Valley startup Nuro on Wednesday received the first ever permit to commercially deploy its self-driving vehicles in California, allowing the firm to charge a fee and receive compensation for its driverless delivery service."
     publishedDateTime: 2020-12-25T05:39:00Z
@@ -110,6 +99,20 @@ related:
       - url: "https://thehill.com/sites/default/files/blogs/traffic.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+    excerpt: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026  <p>Top Players in Service Robotics Market are Lely International, Aethon Inc, Honda Motor Co."
+    publishedDateTime: 2020-12-26T20:43:00Z
+    webUrl: "https://menafn.com/1101342149/Service-Robotics-Market-Top-Leading-Companies-Consumption-Key-Drivers-Challenges-and-Trends-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?909209"
+        width: 395
+        height: 250
         isCached: true
   - title: "Nuro gets permission to run its self-driving delivery vehicles on California’s roads"
     excerpt: "The announcement came just hours after Nuro said it had acquired a company called Ike Robotics Inc., a self-driving truck startup that focuses on delivering long haul freight. Nuro is one of the ..."

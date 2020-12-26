@@ -9,7 +9,7 @@ ampWebUrl: "https://insideevs.com/news/462012/elon-musk-confirms-fsd-subscriptio
 cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/462012/elon-musk-confirms-fsd-subscription-model/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla To Offer Full Self-Driving As A Subscription"
+    excerpt: "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow."
+    publishedDateTime: 2020-12-23T16:35:00Z
+    webUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Elon Musk Promises You Can Pay For 'Full Self-Driving' Subscription In 2021 Even Though It Won't Really Exist Then"
     excerpt: "For many Tesla owners and fans, the deceptively-named Full Self-Driving (FSD) system that Tesla CEO Elon Musk has been promising is a very exciting and desirable thing. Of course, it’s also a $ ..."
     publishedDateTime: 2020-12-22T19:01:00Z

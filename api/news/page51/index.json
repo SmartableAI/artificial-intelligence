@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-11-17-national-ai-ethics-going-to-cabinet.md",
+      "title": "National AI ethics going to cabinet",
+      "excerpt": "AI ethics principles have been approved by the NDESC, which is chaired by the prime minister, said Ms Vunnaporn. The NDESC office plans to ask the cabinet to endorse these guidelines for public ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/business/2020635/national-ai-ethics-going-to-cabinet",
+      "originalUrl": "https://www.bangkokpost.com/business/2020635/national-ai-ethics-going-to-cabinet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-facial-recognition-system-at-airport-still-not-operational.md",
       "title": "Facial recognition system at airport still not operational",
       "excerpt": "Taxpayers shelled out nearly $1 million for a state-of-the-art security system at the Frederick Douglass-Greater Rochester International Airport but two years after it was installed, it’s still not operational.",
@@ -1192,49 +1235,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-indian-artificial-intelligence-ai-industry-market-growth-trends-analysis-share-and-forecast-2025.md",
-      "title": "Indian Artificial Intelligence (Ai) Industry Market Growth, Trends Analysis, Share and Forecast - 2025",
-      "excerpt": "artificial Intelligence (AI) is poised to transform the world, with integration of intelligent machines allowing high-level cognitive processes ... healthcare sector, Microsoft Corp. is taking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
-      "originalUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb16933502_g.jpg",
-          "width": 626,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
-      "publishedDateTime": "2020-11-16T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
