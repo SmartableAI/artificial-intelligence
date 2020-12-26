@@ -20,15 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House"
-    excerpt: "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources."
-    publishedDateTime: 2020-12-21T15:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
   - title: "Artificial Intelligence in the US Military Training and Simulations, 2020 Research Report Featuring Google, IBM & Microsoft"
     excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to"
     publishedDateTime: 2020-12-22T12:30:00Z

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-excerpt: "Pintec Technology Holdings Ltd., a leading independent fintech solutions provider, announced today that it has cooperated with China Mobile Communications Corp.' s subsidiary Aspire Holdings Ltd. to jointly develop advanced fintech solutions,"
+excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
 publishedDateTime: 2020-12-18T10:10:00Z
-originalUrl: "https://www.nasdaq.com/press-release/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech"
-webUrl: "https://www.nasdaq.com/press-release/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech"
+originalUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "W9PIJM15gNxgvUmz7S6rQ2vP1OPYy9oWHafiSzqfgS3vw6Ak/mqCW6eMGZfL2UZsEedQ3rUT1xAalZJhJfHdf9s1rP0Q404S2rGdh0SevVDj2g11aPxZ0ooqZZQ5JtxQnGg9zvYaNe0o8xrzdE5YigdDTG7u1iRms/UIAOO/LkEO2kxn9EpSTbBdy5jNYJ9OpeDKNk7yp6ni+ZmwzKDe52JxtjvbylNSylFUiNV1GtX976ghHt7BB5Hrc4eJSQXmejzwyxCtKoR1kcZO03CSA577sL0MG1/VxW7QTRw0lGX3U+qC8pOkEI6e9GG8DZD1pPGf2ceYN+loJTmT1ucCTB1tvDBd+9ceeX3/wVZ4FVk=;n99ul5JbSLV9iiq4Afd4mg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "D1dpLYUTxT9tC3UumMHtyNRE1YvtzpDld9F283uP0Ten5UZWdc+gRCLhONWu8l6LuEEhYhXm6n40RFudpoeWQQlfZaVDJdI0paad1MHyIMdgmKweZqTL0EBElTtZc68m7UOz7SCN/0YtZagG+IdEkY6g0EpbT1BL7MNBOUMm5z+1aTSjb6VZr6Y0AQHkkc+MIe17/S2XYE5i08+6ILfZsFoNQUdvWFYUBePKONHHNtOpLSJgtwxGnG6xcnoMOxU5oGc5+8jVn7g5Pkw3ZMTfU1YSZVW5/ppVK7wM+YLNibSQxpaL8BT3Rp7INaPjZuAziR2zimh4mks6OtpIYtBfx05jqXO8iIGfiP3GZRXGxTQ=;1xq0oMLChoIhvl759G9BxA=="
 ---
 

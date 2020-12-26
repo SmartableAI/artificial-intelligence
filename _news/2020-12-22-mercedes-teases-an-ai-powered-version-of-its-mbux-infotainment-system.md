@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-teas
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "An impressive start to the new year: Mercedes-Benz unveils the MBUX Hyperscreen"
-    excerpt: "The world premiere of the MBUX Hyperscreen grants insights into the MBUX Hyperscreen’s role as the digital core of Mercedes-EQ’s top model, the progressive luxury saloon EQS. The digital communication format addresses journalists and multipliers and can be joined live on Mercedes me media."
-    publishedDateTime: 2020-12-21T15:58:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/an-impressive-start-to-the-new-year-mercedes-benz-unveils-the-mbux-hyperscreen/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 0
 
 secured: "0SexVag2mTNGo0dummBRZaM+tfqbRfWDPEuWDYUldpLFhKUdecUrf9DQhw7/1p+se9AgLo4/UPrTTORHLnnqErvnHPuwzgo5oSeXS+tfbeIUmsvN9G2BFdCkHYpMbRwx5VoClRx6gpuTIoF0Jw7NA7DIcwY3m4MfEFn6kNmOkx6WwPZCMNrFNxHoAesAH4xdRkKcC1WuVSK6We1Cd+52REA8g9WW4n7Zj43XpXz9nIt9aSrEd4j6nqvGm3MO/jH7h9y1Gtgiv/ctly4v44GCoJXBXZ+XKqSCf2rxEY9S204koqZsB1E2lSDbxyxy2tA8aTEXk7MJt+7Jo1PN9UyRVDD4VGQlIko63fhTADAUwAk20pBrXuD3x6HTmbjFx0E8NCloUC1sPrC8Agba6o8wWF7XtV/iGI7dfYiICxq1+OA+R03EePX9JpyPxVD8glV1SVD/f6ZWC2ISQBDggf3nd31kwnVGVd60kjjaUeqOtQ61zORyKkehtgj4aqWCM1/O/x04tDlrV0rT7gsKHPZRNg==;yB6+rNLV7h3sab601EfULw=="
 ---

@@ -1,20 +1,22 @@
 ---
 category: news
 title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
-publishedDateTime: 2020-12-23T19:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
+publishedDateTime: 2020-12-23T22:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -429,16 +431,7 @@ related:
       name: Cheddar
       domain: cheddar.com
     quality: 4
-  - title: "Apple's Self-Driving Car Could Be in Production as Soon as 2024 — Reuters"
-    excerpt: "Reuters. -- A key component of the project, which the iPhone maker hasn't yet been made public, is the battery design that is said could reduce costs and increase vehicle range, according to an unidentified source."
-    publishedDateTime: 2020-12-21T15:41:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202012219190/apples-self-driving-car-could-be-in-production-as-soon-as-2024-reuters"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 3
 
-secured: "gRjasl1Dx6X2CUDtXp2SZ7vpDxxqQPlpagDTVzGR7OahAZNrLdkJqaH07clkMW7GLcWzd7Urm0lXhV16IQPQ1aqZKv8R1Zi649Oj4sKUIwE9+IAWsvsWpii8bQUF64+pzXx3uVlFmSw5d94n+3F+wUNkKCr83IK0VBAmaZYMlearC2D2DNuwLHduEBiTQKrWMKOLELBS1wXLgpqR06mc0B/iic2xz6oDasX9BugMOUpiTbfDERfhtWj2M6XcSvgMur0pHkBc8ln9eNZaq/Y3bVeH1qQR+5j+RU7rJTQt0GYNuhOjW3Tcbr+9ClbuUrscl+g9NNWfgQw5HT3rs6Gs0dZl47hJrt0runN0pPWa9Yg=;juaLyf33p4KWfFTFKB2xqw=="
+secured: "GV8MKX4ZAloE4NvBw0wH0leA79ObPt8UYrr0oWhiE5LGDKgWs7fY6A3PR/vVtvEQfx+Yja3lvqxUrUawzFqbBOFVaimExMZt+bzndPHWF2q25enS2wiF9adnOoGAh6nDDxmXYt4X8kWIsQedHrLqh9JcS6WEheP6pTRrWYf4saEijS2sxKgtBHEc0D3GnqT+Qavu7vITSWecSpzMbjnSvKvlZ0/jAhHdEulHQO9cXWhB3qkY8Y72KIV3dRgo1lCPqEv9JZcrWVPUB2jejSc7Pcn8yvofcquQ24EX0b50mT/rIQdQGyRMoHp2Gk7uYruXgLsFD/alC1bO/Ttdt51pOxV8OOBR+Ji9X+AIviQUCNPW6tf/HzDTNnNnPh2mbjYTOI4bsjwjNi3tKSFOGuU4JkXVkdGhmkroS28Ub0vKZQZumRbQGmOjVi7Xa/8OuxOxb/gsP0GoPcsC4GvKHim69Z6aWMmI3miQIKbwuStxry/df76OYyykeMtpScb/Ifjb0I2EEcgj8NqbS+4vLYsMMA==;UT94LIqryFHBuwBF60EgEA=="
 ---
 

@@ -3,11 +3,11 @@ category: news
 title: "50-Plus Biggest AWS Announcements From re:Invent 2020"
 excerpt: "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference."
 publishedDateTime: 2020-12-23T19:39:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19"
-webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19"
+originalUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020"
+webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: crn.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AWS AI
+  - AI
 
 images:
   - url: "https://www.crn.com/resources/0261-106238be6393-16ccc5ad5fc4-1000/aws-sign.jpg"
@@ -40,7 +39,16 @@ related:
         width: 609
         height: 456
         isCached: true
+  - title: "Provectus Named a Launch Partner for AWS’ New ML Services at re:Invent 2020"
+    excerpt: "Provectus and AWS formed a strategic relationship in 2018, focused on helping clients empower their businesses through the use of AI/ML and AWS cloud technology. Provectus is an AWS Premier Consulting Partner,"
+    publishedDateTime: 2020-12-26T08:16:00Z
+    webUrl: "https://www.pr.com/press-release/827939"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 34
 
-secured: "IqhvHKHbJdq3Aw4fq/UbnaA0BadDJ+LnxDD4nC8NTUmMGp5/IsDTK5B2QhKvoFpRtH4uRvu/nyzx85Hq4NU/pPX9ZJfSbCHLwUgKl96Pc1kUnDRSDSpY0wTpsOctO/W1dRbh8oILamcmnDtKN/KP8aSASyn/RfeCT07uj7qmKGcvOq+BJgZhSufkfFkXXyHNtRIeE0nmpCqryNqXA8Ud//6drjphzSNN9PshAuHLfeLxEVmO/5ZrM2UE9wdpRmEqNlMOgXgU2GhqeoOfavu6LyjRUf9JFnFkdMiBA7/t9bY4BIZawWMAIe9kPvDmz02S1uebigSATDcwynWkQeE98Vk9F/iSAY7hi1SGdSNpLjM=;+B7l6hMUfMx2Ssv2hhtAOQ=="
+secured: "/IQFXBh5RX0U/mqMxoVb4EF3l0nEbYNDZmFHPnHPMZwdnVKWM18DhDH8YVWNZfMl8okflVhN0fTNiYj5/erSLqWtuwr+729K8Io078bF+Z8aJXVFtogWAoKUAtUlL/WGdwTtJ8SAfYBBtipiZngTUdnnxyGnVhA6Ha9+X2xzYQyThPXK7AqPwPcRZ4I5FgdehfyaEZV6OPl64RxaiE2dfWSByfPx9BxTJxdxKyO0Oq6rLOAE+d9GukFw14PFDh6kb2XKCd2Uc6eS775lFcKz4MY8rJXKLvNzg8oKJDHSaJ+5/l6FTXXgPMQtiPfuC4vq4xrQN/yMfhDe8BrOpWBsKiTdtl3Hu+/JHey1BUUVm/o=;RFsbsCzyYvEPf/2xpDxhCQ=="
 ---
 

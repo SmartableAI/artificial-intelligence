@@ -9,7 +9,7 @@ ampWebUrl: "https://www.masslive.com/politics/2020/12/massachusetts-police-refor
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/massachusetts-police-reform-bill-senate-redrafts-facial-recognition-proposal-after-gov-charlie-baker-rejects-restrictions.html?outputType=amp"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How the Massachusetts police reform bill would actually affect law enforcement use of facial recognition technology"
-    excerpt: "I’m not going to sign a bill into law that bans facial recognition,” Baker told the State House News Service earlier this month, after sending the entire bill back to legislators, threatening a veto unless a number of changes were made,"
-    publishedDateTime: 2020-12-21T15:41:00Z
-    webUrl: "https://www.boston.com/news/politics/2020/12/21/massachusetts-police-reform-bill-facial-recognition-technology"
-    ampWebUrl: "https://www.boston.com/news/politics/2020/12/21/massachusetts-police-reform-bill-facial-recognition-technology/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/12/21/massachusetts-police-reform-bill-facial-recognition-technology/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 37
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2020/12/1217brown4WEB-5fe0b73223d10-850x478.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "Massachusetts police reform: Gov. Charlie Baker ‘looks forward’ to signing bill after Senate redrafts facial recognition restrictions"
     excerpt: "Gov. Charlie Baker’s office said he’d sign a massive police reform bill after the Massachusetts Senate made a series of concessions, including regulations allowing use of facial recognition technology in limited cases."
     publishedDateTime: 2020-12-22T11:30:00Z

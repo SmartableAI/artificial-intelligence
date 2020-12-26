@@ -42,15 +42,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "An impressive start to the new year: Mercedes-Benz unveils the MBUX Hyperscreen"
-    excerpt: "The world premiere of the MBUX Hyperscreen grants insights into the MBUX Hyperscreen’s role as the digital core of Mercedes-EQ’s top model, the progressive luxury saloon EQS. The digital communication format addresses journalists and multipliers and can be joined live on Mercedes me media."
-    publishedDateTime: 2020-12-21T15:58:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/an-impressive-start-to-the-new-year-mercedes-benz-unveils-the-mbux-hyperscreen/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 0
 
 secured: "h6DFQUlsPamy8oQ1WgBJi7gZJhGsQVobMFQiwFuo/1cf7Eobk9rxMfJCXHDuYD6cibMyl6YRW9gBZy03JTJaavRhBsgQhKNVOVGFj/+lLsv8xwoLEOeXr9HQNEAHck3TEXq/IO23aKv3b/FW1AKyHmrKtdXLpxyKVo7nadK7X4XJc1cbW1/2qThA4b1KR4gd7ktwwVVGkfuB5zZbA6BCOAZd2Beo420neADYcsSBV5A1ig1cX2F9BsAgH/0KqiLpdo1NankLBvys9MYOVC37+4Eeo3BShzDu7rjpK+3vlzeVAnwZc0+bRUHGxpNVh1Jewi/B8lEJtxWc9xWRMN11fHaujXpl9LAlD8v/uQXwEp11r2SPAmM6DZ/NbXBDI0azrO+4zaqSzpDV2jpkO8J9jdTDlsfTTkTBjFTg0PGmgjd77arWm3WZO34DhoEPS+2aNPD4mvzbDRVwXmhp+HeKnBcgGTzcVfCVcKyrD1GayStzSS5RtGnrRCvar3/9DJXtvttPtc6sMrPFCW6DFHr+4A==;nB8cn25RozUgxkIcyT0hCg=="
 ---

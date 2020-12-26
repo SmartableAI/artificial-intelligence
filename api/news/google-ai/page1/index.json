@@ -413,33 +413,24 @@
     {
       "path": "_news/2020-12-09-himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution.md",
       "title": "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution",
-      "excerpt": "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,",
+      "excerpt": "Himax Technologies, Inc., a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709",
+      "webUrl": "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion",
+      "originalUrl": "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T01:02:00-08:00",
+      "publishedDateTime": "2020-12-09T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

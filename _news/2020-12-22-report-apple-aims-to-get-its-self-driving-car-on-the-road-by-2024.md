@@ -119,17 +119,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-    excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
-    publishedDateTime: 2020-12-23T19:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Cramer on reports that Apple is moving ahead on self-driving car initiative"
     excerpt: "According to a report from Reuters, Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle. The report sent the stock higher in extended hours trading on Monday."
     publishedDateTime: 2020-12-22T15:08:00Z
@@ -341,6 +330,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
+    publishedDateTime: 2020-12-23T22:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
     excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"
     publishedDateTime: 2020-12-24T12:33:00Z
@@ -430,15 +428,6 @@ related:
       name: Cheddar
       domain: cheddar.com
     quality: 4
-  - title: "Apple's Self-Driving Car Could Be in Production as Soon as 2024 — Reuters"
-    excerpt: "Reuters. -- A key component of the project, which the iPhone maker hasn't yet been made public, is the battery design that is said could reduce costs and increase vehicle range, according to an unidentified source."
-    publishedDateTime: 2020-12-21T15:41:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202012219190/apples-self-driving-car-could-be-in-production-as-soon-as-2024-reuters"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 3
 
 secured: "AjCwuoWXYaMMJLkF3w4SpMRcJLsm4B9peg4icjbYrZLe5C5h8nP1rkj4XIJ34MK1sWU9RLj9KACpcmcn1Lfr/9nyVLU7XImIcONrJCY9lElTBG7expvyB86WXe+X0Oo3LpnzILOntr8C1g/+fmAUFZaX2nNdUGP7i9vApkBn6Fh2FZQC6k/ympcWRRxUvoCCgFPHBjuC1gxNqOy65P/roGiSxNCnrROHnM3LiJH06kHtCkvPAbIcoQVfH6JUHZ7HwZoe8Q++OcD9IyYtbE5OCLx0sTCS5FEzJJU3FnHayIQXTzQ9aCQ6u/A3bl4TYaef1gDl5tzSwUhQI8SkVlFua4Aoy5doAHFr4kdw/tWGKOXiOWSgTVGxy5T2AWrn4sg1qnAmbPpHjX/c361EsyYsqc7pFkvkN5/Z9x2+UAKiNF8fz5/n6xdEZ21mDWUlhnRM4RfZfpo7hvod2KFy5/oYm/hMD9GbhE1xlqKFiCjkFjVHBNB3mCrqnfBxiglupecUiG8UxoPlS92fAJOF/PPJ5g==;PhbyBgfSWLh+QyUX8UztCQ=="
 ---

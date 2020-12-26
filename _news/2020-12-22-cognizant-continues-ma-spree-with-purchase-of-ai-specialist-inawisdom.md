@@ -24,17 +24,6 @@ images:
     height: 506
     isCached: true
 
-related:
-  - title: "Fast-growing UK AWS partner Inawisdom gobbled up by Cognizant"
-    excerpt: "Cognizant continues $1bn acquisition drive with purchase of Ipswich-based AI specialist, which has gone from zero to £10m turnover in less than five years"
-    publishedDateTime: 2020-12-21T15:22:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4025255/fast-growing-uk-aws-partner-inawisdom-gobbled-cognizant"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 19
-
 secured: "g6i+yrx/DlDZz6SNR1NkxomwzDalM7HjQf9eX3qRxMYFbRwPRpqhzVjhp1suiWKDE7SM0QUY6VOmFzv2JL5KzNu/o7+E8Xp5BExEmmQl6lYQLsgjEYziHl5n192+yDN+P1/fVgvlWhCKFWKhzb5IUhTEGPtlt6XAXXXkRGwtN2FvMHJ9UcBIZjYCGlGxbAODJTRrlLE11E5VycfoScTOy5G7gl2OFjAqhw0mYyLCBfG1wnLesWUdAriIuuqrWjm4eBSvaKKCURLU6ZJFhZyK4xsJIHR4katpdEJqdNIyh49lNlUBRzgtlZDSV2lTjcBPQKx8HFzmcucQvQUzyA4VSBJd5IeCU24I1+vzpEvRYBoG6rvOtuS31XhF+V0Ihk1LNSEk19mL+vtvMKxAZ1EsTg4S0Ae4IBzHxuGNQMvZu5fkHkxvMYFD7+XzKFkwfYrumfFOfL220BOwYN1rZCNBSopwgERIy9jsCYKzOQBGDwb8XSwjatHjhND+MsPz4afSCaFTGbpP1+yoPnWJpOOMPw==;YPDfMUQ24DH8nUvOnYPk1Q=="
 ---
 

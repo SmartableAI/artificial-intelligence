@@ -42,6 +42,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Artificial Intelligence for COVID-19: Saviour or Menace?"
+    excerpt: "If AI tools cannot be proven to discern one pneumonia from another, premature use of such technologies could increase misdiagnosis and sabotage clinical care for patients. Clinical trials are essential to understand how AI can support Covid-19 patients."
+    publishedDateTime: 2020-12-26T08:49:00Z
+    webUrl: "https://www.analyticsinsight.net/is-artificial-intelligence-saviour-for-covid-19/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-14.jpg"
+        width: 1910
+        height: 1306
+        isCached: true
 
 secured: "NBydMxYhibmxdTd0PJNFjWyfHXw9DGocrzMIUYRaDpg7kK5FAkYKctQ7yISqxsTV7uUa4hnrCalwVjucZOIeB5F73CfY4n91ugOJwzWn6oFClMylnnP8PJG4oAcjLQnQeuXgFWl4hClN2ilDcKYbGU/5KRlamJpyH3MF2yFoVck2wiYri4F3UJD77w6CpmMO/hob49MZaOBJJ3CesLv1FK+uZ/2xuSwQc4wmleKul0/d9izJeKIE+dLhc1QUjpAarhmy7RBgjuwRslCh0E+wexO7S0O+Jji6CT7VClEtszCPdFHgqWbbueLDpu4kLPyn/pt6TkM1cvP0U1Ain2XRweZpv/+DT6kLJuPxhtWh6APMlf9a776KYSjKUolV33I+srp6OxVpJeSZNGI8imlqyPmC6LVcxAXVAgFA18E+ZihemMf9Xx59qJBDIsjSES4krUPLtaRCHXnwqpvg6HFvH5Lv6mvA2zK7WUbPfgFFKs0YT8ewOJkFVkIRmJRVO+cCmuTw5iZP3N9Wj8U25p7uZw==;DeoGSPNnw2immnviUEMp6Q=="
 ---

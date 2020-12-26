@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How the Massachusetts police reform bill would actually affect law enforcement use of facial recognition technology"
-    excerpt: "I’m not going to sign a bill into law that bans facial recognition,” Baker told the State House News Service earlier this month, after sending the entire bill back to legislators, threatening a veto unless a number of changes were made,"
-    publishedDateTime: 2020-12-21T15:41:00Z
-    webUrl: "https://www.boston.com/news/politics/2020/12/21/massachusetts-police-reform-bill-facial-recognition-technology"
-    ampWebUrl: "https://www.boston.com/news/politics/2020/12/21/massachusetts-police-reform-bill-facial-recognition-technology/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/12/21/massachusetts-police-reform-bill-facial-recognition-technology/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 37
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2020/12/1217brown4WEB-5fe0b73223d10-850x478.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "Massachusetts police reform bill: Senate redrafts facial recognition proposal after Gov. Charlie Baker rejects restrictions"
     excerpt: "Massachusetts lawmakers went back to the drawing board after Gov. Charlie Baker rejected a provision to limit facial recognition technology."
     publishedDateTime: 2020-12-22T02:02:00Z

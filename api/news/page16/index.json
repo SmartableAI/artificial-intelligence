@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-10-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
+      "excerpt": "Amazon SageMaker Feature Store delivers a purpose-built data store for storing, updating, retrieving, and sharing machine learning features Amazon SageMaker Pipelines gives developers the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201208005335/en/AWS-Announces-Nine-New-Amazon-SageMaker-Capabilities",
+      "originalUrl": "https://www.businesswire.com/news/home/20201208005335/en/AWS-Announces-Nine-New-Amazon-SageMaker-Capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy.md",
       "title": "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy",
       "excerpt": "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,",
@@ -882,49 +916,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution.md",
-      "title": "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution",
-      "excerpt": "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-09-thomson-reuters-taps-aws-to-power-digital-transformation.md",
       "title": "Thomson Reuters Taps AWS to Power Digital Transformation",
       "excerpt": "(NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of business information services, has successfully completed a large scale migration to AWS – a critical part of their digital transformation strategy – which will enable the company to innovate faster,",
@@ -955,6 +946,40 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution.md",
+      "title": "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution",
+      "excerpt": "Himax Technologies, Inc., a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion",
+      "originalUrl": "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1092,49 +1117,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-a-preview-of-swindons-future-superfast-broadband-driverless-cars-and-an-institute-of-technology.md",
-      "title": "A preview of Swindon's future: Superfast broadband, driverless cars, and an Institute of Technology",
-      "excerpt": "THE TechSwindon summit itself previewed an exciting future for the town with superfast broadband and a new tech institute on the way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.swindonadvertiser.co.uk/news/local/18929381.preview-swindons-future-superfast-broadband-driverless-cars-institute-technology/",
-      "originalUrl": "https://www.swindonadvertiser.co.uk/news/local/18929381.preview-swindons-future-superfast-broadband-driverless-cars-institute-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.swindonadvertiser.co.uk/resources/images/12117621/",
-          "width": 1747,
-          "height": 1240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T21:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Swindon Advertiser",
-        "domain": "swindonadvertiser.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
