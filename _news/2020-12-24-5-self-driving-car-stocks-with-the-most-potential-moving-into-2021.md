@@ -1,20 +1,22 @@
 ---
 category: news
 title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
-publishedDateTime: 2020-12-23T19:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
+publishedDateTime: 2020-12-23T22:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -381,17 +383,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Remember Apple's self-driving car? Report says it's coming in 2024"
-    excerpt: "Unlike #Waymo's and #Zoox's plans for #robotaxis, #Apple is reportedly planning to produce a mass-market #selfdriving electric consumer vehicle. #SiliconValley #tech #autotech #automotive"
-    publishedDateTime: 2020-12-21T19:25:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.html?page=all"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/21/report-apple-plans-self-driving-car-by-2024.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Apple Moves Forward With Plan for Self-Driving Vehicles"
     excerpt: "Apple is reportedly planning to produce autonomous cars by 2024, using its own breakthrough battery technology."
     publishedDateTime: 2020-12-22T16:37:00Z
@@ -430,6 +421,6 @@ related:
       domain: cheddar.com
     quality: 4
 
-secured: "Cm7Oc1ffgB7LL2xtoOHMmxlBwwvWFCf/Q17TPMBTTbJWrhlmUpUsPzVZJmia1U/WjDhamGibyK7qOaqy1En0U9lwKBaqTQWfWyufieZEDebz57+X4+zalMuRkmbvHyEVm+JOYRZ26SDJk9Aj+mmB/cf6pzMEjwpr1sILS9CfKxWDI8Bar3o14DT1EbRXDb4tNaexCUKswiYcY5W7NKX9G0mWq0/dWNBHgbBU1cPgwdUiazavSl/zq7wedFnqvHj6yRFKahOMvgapxie4BqdwULh0CYqW+ZvUaIPDVh0vmJ77K7Q9sLDgAwjlblkgApEeCCmCZEmRjb29jWfxrsTEzr0nRE5T93HG3LZjzUtTDVk=;kLaEK+HgVziRAPGaaKK9qA=="
+secured: "AxJ0H+ahX4+wWEIJnan/h7cvKL6gF7OL+85fXVmytdXQ7/LT+tm/tLpYhdb+vd/edH+Jfc61PM6hIfXWII+1or6se1oxMeRTEX4mpBABML4XlsAnOUymxRUDh/mI83VKM1lW/JRi2MpfgRRgAJyis0/Unk3R8MB9S7l8xpwr0v4HfYAu706qOUk++GZk4pvVkewQqH19YXkm3hLxqwROrexBbremZ7A0vSRxKLNEFaEOLaDUx6w/7CaigzBr/MspetNxT6zinInEVtbK03r3Wj/LbIhw5UqDOu7P21iSe5gJXvJ/sg0V4qxpSqnwVPgoagR8tuQGR9Eb6g5aN05OvdEC6flHHfH8y2ZsxHLR89bnTA2yCr6GVJ5aUx4djJFOxTQjop1v+INWJck+UOIyWJn/OYqYPjhTQp2mUES3G/SoyXMIZDINvDjWDTklbocHTB75wv1RDfbs2OjvFbHqgf1p78vJoNDZ0AqRTp73UL1mVO9TrLvtsuAfvvPGlyfrdDqssT9AQQbrKPAKZmPlbw==;Hagh1BT3WBiVCmWpiCl5eQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2020/12/mercedes-eqs-to-offer-full-width-m
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/mercedes-eqs-to-offer-full-width-mbux-hyperscreen-with-artificial-intelligence/amp/"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1024
     height: 555
     isCached: true
-
-related:
-  - title: "Mercedes teases an AI-powered version of its MBUX infotainment system"
-    excerpt: "When the new Mercedes EQS sedan hits the road next year, it will feature a new and improved version of the automaker’s MBUX infotainment called the MBUX Hyperscreen as an optional upgrade. The company says the ultrawide screen spans the entire front dashboard of the upcoming EV and adds AI to the mix to make using the system more intuitive."
-    publishedDateTime: 2020-12-21T20:47:00Z
-    webUrl: "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html"
-    ampWebUrl: "https://www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fee6f0f50-43cb-11eb-94eb-df4c84d9d453&client=amp-blogside-v2&signature=5244a6d8187979bfeadbace8c67d51749b3b2789"
-        width: 600
-        height: 350
-        isCached: true
 
 secured: "h6DFQUlsPamy8oQ1WgBJi7gZJhGsQVobMFQiwFuo/1cf7Eobk9rxMfJCXHDuYD6cibMyl6YRW9gBZy03JTJaavRhBsgQhKNVOVGFj/+lLsv8xwoLEOeXr9HQNEAHck3TEXq/IO23aKv3b/FW1AKyHmrKtdXLpxyKVo7nadK7X4XJc1cbW1/2qThA4b1KR4gd7ktwwVVGkfuB5zZbA6BCOAZd2Beo420neADYcsSBV5A1ig1cX2F9BsAgH/0KqiLpdo1NankLBvys9MYOVC37+4Eeo3BShzDu7rjpK+3vlzeVAnwZc0+bRUHGxpNVh1Jewi/B8lEJtxWc9xWRMN11fHaujXpl9LAlD8v/uQXwEp11r2SPAmM6DZ/NbXBDI0azrO+4zaqSzpDV2jpkO8J9jdTDlsfTTkTBjFTg0PGmgjd77arWm3WZO34DhoEPS+2aNPD4mvzbDRVwXmhp+HeKnBcgGTzcVfCVcKyrD1GayStzSS5RtGnrRCvar3/9DJXtvttPtc6sMrPFCW6DFHr+4A==;nB8cn25RozUgxkIcyT0hCg=="
 ---
