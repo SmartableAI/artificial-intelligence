@@ -66,22 +66,6 @@ related:
         width: 6026
         height: 4017
         isCached: true
-  - title: "Apple plans self-driving car 'in 2024 with next-level battery technology'"
-    excerpt: "It has been a bumpy ride for Apple’s Project Titan, but sources suggest a passenger vehicle may not be far off"
-    publishedDateTime: 2020-12-22T01:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology?fbclid=IwAR3p_uGTTujKq8n6DZhSageQTI57XX0fjD3fksEo58UbbeYcGPGq1cDl3Cw"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "lqh8fcVF4c5mSmnGX7osDqpFEK511S9j0DH6xr1hJ9/Fi1jAvx+n+DyZ8tWPxonATn9O1JsoHXsQ56zyo7TzzG1XmA3g7FX2ngj+aPCivXHcGtRoJkRZ8jAw4G9KTLK3O7JrHV52BZjy3Pa+ACqTJSmVUC01Cw17KtgqJE+ocYX7mX58r43CbpKbhnc3qgVbovKip76OhWjvOjAo6BR4v7LRxw4mG1bR34PxUk5m7D0eqqLCrgPTI6iNJvJOr7ZnPSbFG27+o2LNnSdcmbNbMQWHXR2NUGuJT61Wgmd1MINxlhy7ooLIQV00ILaZYo9i1m5CuFZGM0MiMPjmDkTJxGDyEUP9EO0QIPsYeYWjGtY=;p2DtcgUexX10jAMvIy0njA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial-Recognition-Rules.html?AMP"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts police reform bill: Senate redrafts facial recognition proposal after Gov. Charlie Baker rejects restrictions"
-    excerpt: "Massachusetts lawmakers went back to the drawing board after Gov. Charlie Baker rejected a provision to limit facial recognition technology."
-    publishedDateTime: 2020-12-22T02:02:00Z
-    webUrl: "https://www.masslive.com/politics/2020/12/massachusetts-police-reform-bill-senate-redrafts-facial-recognition-proposal-after-gov-charlie-baker-rejects-restrictions.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/12/massachusetts-police-reform-bill-senate-redrafts-facial-recognition-proposal-after-gov-charlie-baker-rejects-restrictions.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/massachusetts-police-reform-bill-senate-redrafts-facial-recognition-proposal-after-gov-charlie-baker-rejects-restrictions.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 33
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OLGHJCMC65EOXCM3KDSJS34ELY.jpg"
-        width: 3803
-        height: 2875
-        isCached: true
   - title: "Massachusetts police reform: Gov. Charlie Baker ‘looks forward’ to signing bill after Senate redrafts facial recognition restrictions"
     excerpt: "Gov. Charlie Baker’s office said he’d sign a massive police reform bill after the Massachusetts Senate made a series of concessions, including regulations allowing use of facial recognition technology in limited cases."
     publishedDateTime: 2020-12-22T11:30:00Z

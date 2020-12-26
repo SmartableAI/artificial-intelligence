@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024"
-    excerpt: "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology."
-    publishedDateTime: 2020-12-22T01:07:00Z
-    webUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693"
-    ampWebUrl: "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hqqi6njbxxweyncc7jwi.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Apple Said to Be Planning Self-Driving Electric Car"
     excerpt: "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc."
     publishedDateTime: 2020-12-22T23:42:00Z
@@ -77,6 +61,17 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "4 LIDAR Stocks to Benefit From Self-Driving Car Revolution"
+    excerpt: "With driverless technology being one of the hottest investment ideas in the auto market, the best way to tap the AV revolution would be to invest in the core technology that has made self-driving cars a reality."
+    publishedDateTime: 2020-12-23T14:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Cramer on reports that Apple is moving ahead on self-driving car initiative"
     excerpt: "According to a report from Reuters, Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle. The report sent the stock higher in extended hours trading on Monday."
     publishedDateTime: 2020-12-22T15:08:00Z
@@ -105,22 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple is Trying to Launch a Self-Driving Electric Car in 2024"
-    excerpt: "Protect the Old – About 10% of Vaccination Effort Can Prevent 90% of the Deaths Making Flu Vaccination Over Twice as Effective With a Pro-Active Public Health System"
-    publishedDateTime: 2020-12-22T01:17:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/apple-is-trying-to-launch-a-self-driving-electric-car-in-2024.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Apple plans self-driving electric car by 2024: Report"
     excerpt: "Tech giant Apple is planning to venture into the automobile sector. According to a report in Reuters, the iPhone maker is working on a concept to develop a self-driving car. The report said that Apple could launch the proposed car by 2024. It said that ..."
     publishedDateTime: 2020-12-22T06:50:00Z
@@ -136,22 +115,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/appleelectriccar-1608619658.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Apple’s self-driving electric car will be on roads in 2024"
-    excerpt: "Apple is wants to begin production on a new breed of electric, self-driving vehicle as early as 2024. The technology giant has been working on some type of car project since back in 2014, but with almost six years of silence it was thought that perhaps the work was going into its CarPlay technology."
-    publishedDateTime: 2020-12-22T07:45:00Z
-    webUrl: "https://www.esquireme.com/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    type: article
-    provider:
-      name: Esquire Middle East
-      domain: esquireme.com
-    quality: 44
-    images:
-      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/22/Apple-Car-2024-news.jpg?itok=BqJQ3wsU"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Breaking Down the Financial Impact of Self-Driving Cars"
     excerpt: "The expectations over driverless cars are stratospherically high. For one, there’s the fascination with the technology and the presumption of an easier commute: The self-driving car will take us to work while we surf the Internet, read files and review ..."
@@ -185,6 +148,22 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Volkswagen CEO is 'looking forward' to Apple's upcoming self-driving car"
+    excerpt: "Volkswagon's CEO, Herbert Diess, posted on LinkedIn that he welcomes Apple's Project Titan as a competitor in the autonomous car market. On Monday, it was reported that Apple could release its own ..."
+    publishedDateTime: 2020-12-23T16:47:00Z
+    webUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car"
+    ampWebUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 43
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/39516-75720-5ae145c766a97c82b0b66d78-xl.jpg"
+        width: 1200
+        height: 695
+        isCached: true
   - title: "Apple Is Planning an Electric Self-Driving Car Featuring Game-Changing Battery"
     excerpt: "At the center of Apple’s renewed strategy is a new “monocell” battery design that could significantly reduce the cost of batteries and increase the vehicle’s range, according to a second source familiar with the matter."
     publishedDateTime: 2020-12-22T17:06:00Z
@@ -200,20 +179,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2020/12/GettyImages-1144596495.jpg?quality=80&strip"
         width: 3600
         height: 2492
-        isCached: true
-  - title: "Report: Apple aims to get its self-driving car on the road by 2024"
-    excerpt: "Apple Inc. is aiming to produce an electric car by 2024 and it may feature a “breakthrough” battery design that makes it cheaper to run and gives it longer range that existing vehicles of its type. That’s according to an exclusive report in Reuters today,"
-    publishedDateTime: 2020-12-22T02:15:00Z
-    webUrl: "https://siliconangle.com/2020/12/21/report-apple-aims-get-self-driving-car-road-2024/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/26251083984_405189cae1_o.jpg"
-        width: 640
-        height: 400
         isCached: true
   - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
     excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."
@@ -237,15 +202,6 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
-  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
-    publishedDateTime: 2020-12-23T22:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 34
   - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
     excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"
@@ -272,50 +228,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 32
-  - title: "Apple Is Reportedly Advancing Plans to Develop a Self-Driving Car — Here's What It Means for the Sector"
-    excerpt: "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters."
-    publishedDateTime: 2020-12-22T23:07:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
+  - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
+    excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
+    publishedDateTime: 2020-12-24T19:55:00Z
+    webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 28
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106673753-1598035076175-tim.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple Moves Forward With Plan for Self-Driving Vehicles"
-    excerpt: "Apple is reportedly planning to produce autonomous cars by 2024, using its own breakthrough battery technology."
-    publishedDateTime: 2020-12-22T16:37:00Z
-    webUrl: "https://www.investopedia.com/apple-moves-forward-with-plan-for-self-driving-vehicles-5093423"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
-    images:
-      - url: "https://www.investopedia.com/thmb/-Ku8jMQqY1AXhQr-8GOqkG8yQYQ=/400x359/filters:fill(auto,1)/driverless-car-56a5ba855f9b58b7d0de2794.jpg"
-        width: 400
-        height: 359
-        isCached: true
-  - title: "It’s time for self-driving cars to really take off... but not for people"
-    excerpt: "In 2021 we will see autonomous driving finally find its fit – and it’s not in personal travel. Billed as the first everyday consumer application of AI, self-driving has simultaneously inspired its champions and proved a worry for its investors."
-    publishedDateTime: 2020-12-24T06:18:00Z
-    webUrl: "https://www.wired.co.uk/article/self-driving-cars-deliveries"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 23
-    images:
-      - url: "https://wi-images.condecdn.net/image/wWPoAMqzQEY/crop/1440/0.5235602094240838/f/1120wiredworldtransportuse03a.jpg"
-        width: 1440
-        height: 753
-        isCached: true
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "Vd00Oi9cbGo7XPUj7fDC3HlFtPWKWyyGvrfvZKJ6ioOcrKmcUDKytlQjvFz/pfOhs6P5hge+LYD1sr0pjqAKnRg3Wf/Wfv4/NL0SgWU9c2hs6X+FD2b5hrPPDPgXKHknfRvpydxkic+KGm0x6RQQZnTvnNYxWJEtQZ/tRpyBrHwbfP9zJx6fu0moDwZhhg83Dsi17Pj5ENtZE2+tNgTzJhPrbUbK16l1y93/qiLV7YF7JxVv6XVUaylg4PbOMHryHsCDfHvbpFT6RujP8rf7yOAI7I4RMiH29wTgnmyd19qC0re1E9/msn/pLpWWdOlgvZFtcTcLQnmLLdtgx2/YzL4AhklqA5cPKtKxLB8WJV6iZEBidnzRjSNjJe4Ogausvq225OdvbB9v2qhyY/aTOSvxEaF4voz1nIYJj7NOHQtp9A7h0Q1qe7C89250WFIXcwucW/jOOu14/rQzhbgZRfEnEO8Y+5JIW1hFUP3ykmRbPLik1te08MTy01gLAZgntTcS6FaPx+2d4Iu6KOTLNQ==;+6DINKKJU7FgrJLpXfm6ng=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-27-a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai.md",
+      "title": "A crewless boat is recreating the Mayflower’s 400-year-old journey, with the help of AI",
+      "excerpt": "The vessel, docked in the harbor of Plymouth, England, will rely on the latest navigation technology when it sets out to sea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/",
+      "originalUrl": "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2020/12/Mayflower-400-CBS-News-Photo.jpg?w=1280",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/amp/",
+      "publishedDateTime": "2020-12-26T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
       "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
       "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
@@ -1447,49 +1490,6 @@
       "provider": {
         "name": "Medgadget",
         "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-ai-predicts-highest-risk-us-counties-during-covid-19-surge.md",
-      "title": "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge",
-      "excerpt": "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data",
-      "sourceUrl": null,
-      "webUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/",
-      "originalUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/",
-      "cdnAmpWebUrl": "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/",
-      "publishedDateTime": "2020-11-20T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Direct Relief",
-        "domain": "directrelief.org",
         "images": null,
         "publishers": null,
         "authors": null

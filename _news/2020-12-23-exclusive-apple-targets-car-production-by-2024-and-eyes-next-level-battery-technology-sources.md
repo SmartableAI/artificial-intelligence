@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY"
 type: article
 quality: 158
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -66,22 +66,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Apple plans self-driving car 'in 2024 with next-level battery technology'"
-    excerpt: "It has been a bumpy ride for Apple’s Project Titan, but sources suggest a passenger vehicle may not be far off"
-    publishedDateTime: 2020-12-22T01:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology?fbclid=IwAR3p_uGTTujKq8n6DZhSageQTI57XX0fjD3fksEo58UbbeYcGPGq1cDl3Cw"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "cbcHG22aA4/VySYrv891ffaj0RbBBfUx3GVullAvWktEBNyeE6nT7PfMx68soiBD3DPSaUrzMuwgvUkavFDoaxIR8eF7/NZyzj85I0RYjDl8SdKxd3x3AynlXKeFgVEvsl7IgvGVjkgmXAI9hAzM7Wmtpx+mI0XKJD1ycn5T7SkSopHRjw4sBDUfMUhm/s10OyG3ox5hjFmTWH2f54uMBk7hn4xUtqdFYkiXCBaLdPoebrErdrZDrOxadE4xlwmYTYtKT6R0dL/0Zc4Z2amFiIAkjqR2vy3c8tkhUjWEnnr49eb1YPxtE1X0F2LpIUZ6hFJ22L9MOZLtXjRu83yPw9fSuGK+Itu3Zb6MpOQb2XtpxCagwMHgCqN5nR070u5ismuKvK5HqxWK0g5KLOl0kB65yBWKQi3pd/sEqvqJS+t8akHqt/3ya+7C4pxsKvFMvaJlmo1+E7Ix6bWnNRJ+3C971Ham0Rtf9f24BAC5Lq4JtMxKcNypx8PhWRwN3dWu2RMI1bNNb8/lwGjTRGybKa4BjzVXEjz5cfSlnupNIs4=;cBzi5PVqvl4tSVv09e8hjg=="
 ---

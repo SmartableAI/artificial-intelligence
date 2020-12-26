@@ -62,22 +62,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Apple plans self-driving car 'in 2024 with next-level battery technology'"
-    excerpt: "It has been a bumpy ride for Apple’s Project Titan, but sources suggest a passenger vehicle may not be far off"
-    publishedDateTime: 2020-12-22T01:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology?fbclid=IwAR3p_uGTTujKq8n6DZhSageQTI57XX0fjD3fksEo58UbbeYcGPGq1cDl3Cw"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "dIW1EmORUAzaqn1PSMra3d8zHeRvLmB4ho0tkGzlmJ0+MRiEsxmpEBThbd8oMVdR/avggjHwcBqXf3QGJ96q6rKNB54fjLdTkUoE5/9NQGTtYTu2GXYaaWiRRKTdSw0r76PX4uSv81uz/p7A9JoXajaq7hoc4ep6DwCxyHv1iDO/S9z28KM9Ua5rgS0S2ukM89hrOncOds6kWzAeX1QisRrEeJ4RG4qz1p3TpurcQvk95+KxctYOOEcGl996Jb1FH+UPE7/OhHxdnvVGXG9FZlFQnSu3Fsr+3DIf5wrsJU1XZmCquBacaEEc0z3KWrxNIgrjuKEfCfOSuy//Lq0akbPBpvBLUZhjh8ghY06Ka5A=;Gcp8foPTLna8ENPjNeK5Sg=="
 ---
