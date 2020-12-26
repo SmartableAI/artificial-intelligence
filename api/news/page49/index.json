@@ -2,6 +2,238 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-11-17-artificial-intelligence-technology-solutions-receives-rosa-order-from-large-construction-company.md",
+      "title": "Artificial Intelligence Technology Solutions Receives ROSA Order from Large Construction Company",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) has received an order from a large construction company for what RAD expects as the first of many ROSA units to be deployed at the client’s managed properties across the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections.md",
+      "title": "Beyond Smart Cities: How Drones And Robotics Revolutionize Building Inspections",
+      "excerpt": "H3 Dynamics, a cloud-based inspection services platform uses drones and ground robots as the eyes and ears of engineers currently grounded by the pandemic, and long hampered by last century norms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaafd12c9bea733d9babce%2F0x0.jpg",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
+      "publishedDateTime": "2020-11-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-hover-raises-60-million-to-streamline-home-inspections-with-computer-vision.md",
+      "title": "Hover raises $60 million to streamline home inspections with computer vision",
+      "excerpt": "Hover, a startup developing AI-powered apps that create 3D models of homes from smartphone photos, today raised $60 million. The 200-employee company says the proceeds will be used to deepen ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/2c7ec2b7-e7a5-49c4-b46e-f5cfb66f61f7-e1603297784170.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/",
+      "publishedDateTime": "2020-11-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-artificial-neural-network-market-share-industry-size-opportunity-analysis-forecast-2019-2025.md",
+      "title": "Artificial Neural Network Market Share, Industry Size, Opportunity, Analysis, Forecast 2019-2025",
+      "excerpt": "Artificial Neural Networks (ANNs) are part of a computing system designed to simulate the way the human brain analyzes and processes information. It is the basis of artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2188929/artificial-neural-network-market-share-industry-size",
+      "originalUrl": "https://www.openpr.com/news/2188929/artificial-neural-network-market-share-industry-size",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb17952669_g.jpg",
+          "width": 800,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2188929/artificial-neural-network-market-share-industry-size",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188929/artificial-neural-network-market-share-industry-size",
+      "publishedDateTime": "2020-11-17T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-blackberry-qnx-to-power-plus-self-driving-trucks.md",
+      "title": "BlackBerry QNX to power Plus self-driving trucks",
+      "excerpt": "Plus have now announced they will be the first automated truck developer to make use of BlackBerry QNX for their next-generation self-driving systems. Plus will license the BlackBerry QNX OS for Safety software for their Class 8 trucks which are expected ...",
+      "sourceUrl": null,
+      "webUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
+      "originalUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://crackberry.com/sites/crackberry.com/files/styles/large/public/article_images/2020/11/plus_automated_trucks_blackberry_safety_security-16.jpg",
+          "width": 903,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
+      "cdnAmpWebUrl": "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
+      "publishedDateTime": "2020-11-17T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CrackBerry.com",
+        "domain": "crackberry.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19.md",
       "title": "AI discovered an old arthritis drug that can help elderly people survive COVID-19",
       "excerpt": "A new study found a medication identified as a potential COVID-19 treatment reduced deaths by 71% in elderly patients with moderate or severe illness.",
@@ -933,231 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2027",
-      "excerpt": "The global artificial intelligence in healthcare market is anticipated to record a CAGR of 45.3% over the forecast period i.e. 2019-2027. On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-twitter-facebook-ceos-defend-election-actions-promise-more.md",
-      "title": "Twitter, Facebook CEOs defend election actions, promise more",
-      "excerpt": "Facebook CEO Mark Zuckerberg ... the company this week in a dispute over a research paper examining the societal dangers of an emerging branch of AI. SAN FRANCISCO, Calif. (KRON) -- Twitter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/",
-      "originalUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/11/AP20322576166686.jpg?w=1280",
-          "width": 1280,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/amp/",
-      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/amp/",
-      "publishedDateTime": "2020-11-16T21:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRQE",
-        "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facebook-increasingly-reliant-on-ai-to-predict-suicide-risk.md",
-      "title": "Facebook Increasingly Reliant on A.I. To Predict Suicide Risk",
-      "excerpt": "Mason Marks isn't surprised that Facebook is employing AI this way. He's a medical doctor and research fellow at Yale and NYU law schools, and recently wrote about Facebook's system. \"Ever since ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2018/11/17/668408122/facebook-increasingly-reliant-on-a-i-to-predict-suicide-risk",
-      "originalUrl": "https://www.npr.org/2018/11/17/668408122/facebook-increasingly-reliant-on-a-i-to-predict-suicide-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2018/11/16/rts25zzv_wide-81e74d8f13d02e9cabdf149f4bbd4d6836205e7e.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime.md",
-      "title": "e-Book: Machine learning will (eventually) help win the war against financial crime",
-      "excerpt": "This e-Book, from Compliance Week and Guidehouse Inc., explores how the adoption of machine learning in fighting financial crime will likely explode as technology solutions become more effective and efficient—driven by work-stream prioritization ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
-      "originalUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/pictures/web/b/e/m/cybr21rrisk_7_hp_390x260_617137.png",
-          "width": 391,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Compliance Week",
-        "domain": "complianceweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning.md",
-      "title": "HUAWEI CLOUD Named a Leader in Predictive Analytics and Machine Learning",
-      "excerpt": "HUAWEI CLOUD was listed in the Leaders segment based on its scores in current offering and strategy, according to The Forrester Wave™: Predictive Analytics and Machine Learning in China, Q4 2020 report.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "publishedDateTime": "2020-11-16T18:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

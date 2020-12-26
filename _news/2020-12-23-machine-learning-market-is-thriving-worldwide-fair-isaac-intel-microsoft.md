@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Microsoft is reportedly developing its own Arm server chips"
-    excerpt: "The rapid development in recent years of artificial intelligence has also encouraged chip designers - and the cloud giants that want to dominate that area - to develop architectures more appropriate for the mathematical demands of AI. Microsoft is also ..."
-    publishedDateTime: 2020-12-21T12:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reportedly-developing-its-own-arm-server-chips/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 56
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ktMIXMYw85h4qmIu9nV1r+L2HBV8xNrPVnVeaahSE6ckQuc7gV9H9crLQjOXW3Vs1wrWkk/ID701QwGOFwqS0vt/YzDvfnyTg56WElNYmM1qfewpg+8gcSAs/mSVEY0D+bSY3fwVDnw6gM9TwxIZAY4R9t4tjwnA1YOeomK/rL5ROKhkEAiS3hSUS//ne7+ENuuvQLtBZ5f1UGsSbzFTmBzx/JqQezP3ddh5RvV8rggWFPAcsfZwZ32bZtSSX9cpapHlHdbCb/3Iv/FnaHWZSKS3GZgO4/rinpBe2RaCeWmH//FEN8ixYQ37yNlMhCVVoVXU6WLlifkvCYWtGzceB+FywCkqqUzBRANR5S453T0=;BvO8rV4SDxHz6djn1UZYuA=="
 ---

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-24-ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test.md",
+      "title": "Ally Fashion, 145 Store Footprint Retailer, to Put Next-Gen AI Tech to the Test",
+      "excerpt": "Going beyond rules-based personalization, Ally Fashion are putting breakout eCommerce AI leader, Particular Audience, to the test. Particular Audience provides a unique platform capable of adapting every product list on an eCommerce site from search results to merchandise pages and product recommendations - every product tile becomes dynamic to shopper intent and preference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
+      "title": "How to drive brand awareness and marketing with natural language processing",
+      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T08:06:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
       "title": "New York temporarily bans facial recognition in schools",
       "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
@@ -661,7 +765,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -808,6 +912,51 @@
       ]
     },
     {
+      "path": "_news/2020-12-22-artificial-intelligence-ai-chipsets-market-size-usd-91185-million-by-2025-at-cagr-452-valuates-reports.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Size USD 91,185 Million by 2025 at CAGR 45.2% | Valuates Reports",
+      "excerpt": "PRNewswire/ -- The AI Chipset Market is Segmented by Type (GPU, ASIC, FPGA, CPU), by Application (NLP, Robotic, Computer Vision, Network Security),",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets-market-size-usd-91-185-million-by-2025-at-cagr-45-2--valuates-reports-301197519.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets-market-size-usd-91-185-million-by-2025-at-cagr-45-2--valuates-reports-301197519.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
+          "width": 920,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-amazon-aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker.md",
       "title": "Amazon AWS says ‘Very, very sophisticated practitioners of machine learning’ are moving to SageMaker",
       "excerpt": "The infrastructure software is catching on with some of the most demanding machine learning scientists at big firms such as Lyft and Intuit, and also taking over Amazon dot com's internal ML development.",
@@ -913,6 +1062,109 @@
       ]
     },
     {
+      "path": "_news/2020-12-22-the-newest-weapon-against-covid-19-ai-that-speed-reads-faxes.md",
+      "title": "The Newest Weapon Against Covid-19: AI That Speed-Reads Faxes",
+      "excerpt": "Local health departments rely on the old-fangled tech to track cases. A hastily developed machine-learning program gives it an assist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/",
+      "originalUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe125e4fe6cb52eb1cc8aec/master/pass/Business-AI-Fax-Machines-Covid-153151104.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp",
+      "publishedDateTime": "2020-12-22T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-global-cognitive-computing-market-size-share-and-forecast-2019-2025.md",
+      "title": "Global Cognitive Computing Market Size, Share and Forecast 2019-2025",
+      "excerpt": "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-is-that-aibo-a-good-dog-sony-to-review-ethics-of-all-ai-products.md",
       "title": "Is that Aibo a good dog? Sony to review ethics of all AI products",
       "excerpt": "But even as it increases convenience, AI could unintentionally employ discriminatory algorithms, leading to embarrassing problems. Sony will start screening its AI-infused products for ethical risks as early as spring,",
@@ -997,256 +1249,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-horizon-robotics-a-chinese-rival-to-nvidia-seeks-to-raise-over-700m.md",
-      "title": "Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M",
-      "excerpt": "In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
-      "originalUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/horizon-robotics-e1608616778526.jpeg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
-      "publishedDateTime": "2020-12-21T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-apple-reportedly-aiming-to-launch-self-driving-cars-by-2024.md",
-      "title": "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024",
-      "excerpt": "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
-      "originalUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hqqi6njbxxweyncc7jwi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
-      "publishedDateTime": "2020-12-21T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-how-face-masks-can-disrupt-facial-recognition-and-daily-life.md",
-      "title": "How face masks can disrupt facial recognition — and daily life",
-      "excerpt": "Thanks to preventative measures to reduce COVID-19 transmission — including social distancing and wearing face masks — the possibility of meaningful public interaction is all but gone. “For those of you who don’t always recognize a friend or acquaintance wearing a mask,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
-      "originalUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/face-masks-43.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
-      "publishedDateTime": "2020-12-21T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models.md",
-      "title": "DeepMind researchers claim neural networks can outperform neurosymbolic models",
-      "excerpt": "But researchers at DeepMind claim neural networks can outperform neurosymbolic models under the right testing conditions. In a preprint paper, coauthors describe an architecture for spatio ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/",
-      "originalUrl": "https://venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models-on-visual-tasks/amp/",
-      "publishedDateTime": "2020-12-21T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-ai-and-satellite-data-could-help-end-slavery-on-the-high-seas.md",
-      "title": "AI and Satellite Data Could Help End Slavery on the High Seas",
-      "excerpt": "Slavery is rampant on fishing vessels around the world. A new study aims to use satellite and machine learning to track ships that traffic laborers. The findings estimate up to 100,000 people were forced to labor on fishing vessels between 2012 and 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400",
-      "originalUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dl5oyjxzztz5sqggtzsc.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp",
-      "cdnAmpWebUrl": "https://earther-gizmodo-com.cdn.ampproject.org/c/s/earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp",
-      "publishedDateTime": "2020-12-21T14:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

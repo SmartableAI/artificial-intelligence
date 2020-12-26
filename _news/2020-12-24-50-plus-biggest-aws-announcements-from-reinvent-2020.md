@@ -3,11 +3,11 @@ category: news
 title: "50-Plus Biggest AWS Announcements From re:Invent 2020"
 excerpt: "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference."
 publishedDateTime: 2020-12-23T19:39:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19"
-webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19"
+originalUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020"
+webUrl: "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: crn.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AWS AI
+  - AI
 
 images:
   - url: "https://www.crn.com/resources/0261-106238be6393-16ccc5ad5fc4-1000/aws-sign.jpg"
@@ -41,6 +40,6 @@ related:
         height: 456
         isCached: true
 
-secured: "OMS5elWBs0dKT1VUJvdteq9v6ViPeEAGXuGoUsVPwf5zMQXxqGknsFKVLX1TXciahSrGvKPyh9ZxQQVNQFvlcA3mLba+R6f9PuK3/PEQc1qPgcv6ySS2Cna1igtIWSRp1KZU+Jes3SowgIo0DA8WmrHC46Pi96nyGGj6l0lhvPppkwXJWmEgczWXjdG751n7FEwzv736k1yCnvGcw1gQnDnAcTDp5wfWYJ3aUMsqWUsgmTdBof4m+TJ2gwUBq9oaItLt1fR+GDD2gLiyBJL7u8XRQ5zuDarEkr3fxaxP18gEh2H8X64Lt07xmxNXIg4WY5Bn/w8Fce+1alt50CgiJQOmAz5AOmM0dRjr4dq8Duc=;5YSBLIl0NYUXnC4UcNcrIw=="
+secured: "rPiZRNM+XWQYNUShkRrPM723mpIijBg2mNaAAGcnWQKzJRh2J6oYQNgJCF6f5dHtJrX6+gK2IEASCWcYWlyUts0wQ75LrLDpBhYLaQh8Ks68fy1lsVMyJqhlqLKhbebjY+2Ba5ZEI4WaM30IQoZNSuDCIorcm9qldFhSnAkmWcd2QnSpb3G65BB9X2gHuEdyBVTBa6IagCPVV8CfSSHnJiix4+27GFkrXZ+PLmvhjgqrIRo3Kd+f945ekeogfT86qE+kn8vmuyjdCMDLM1vg+cSRsmB8whmvbNgoTgtSE6dlh3w+plijOtPFJJjoELsaIaK/8qVOmXxcqPLP1cmDvwzmsYu9S6s6tDRskJx/5kQ=;uQ15jEcpM4b6ZdibjDtJew=="
 ---
 

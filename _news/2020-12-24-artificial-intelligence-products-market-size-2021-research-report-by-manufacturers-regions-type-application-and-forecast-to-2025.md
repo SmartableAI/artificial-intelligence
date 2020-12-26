@@ -28,52 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2020-12-21T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21"
+  - title: "AI in Education Market Opportunities And Strategies To 2025: COVID-19 Implications and Growth"
+    excerpt: "Dec (Heraldkeepers) -- Artificial intelligence (AI) may be a computer virus to imitate the human intelligence and enhancement of"
+    publishedDateTime: 2020-12-24T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Computing Market Size, Share and Forecast 2019-2025"
-    excerpt: "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
-    publishedDateTime: 2020-12-22T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22"
+  - title: "Artificial Intelligence (AI) in BFSI Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "New Study Reports “Artificial Intelligence (AI) in BFSI Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. This report provides in depth study of \"Artificial Intelligence (AI) in BFSI Market\" using SWOT analysis i."
+    publishedDateTime: 2020-12-21T20:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-12-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Global Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
-    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence (AI) in Manufacturing Market Upcoming Trends, Growth Drivers"
-    publishedDateTime: 2020-12-23T09:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-global-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2020-12-23"
+  - title: "Global AI Consulting Services Market 2020 SWOT Study, Sales Analysis, Technological Innovations and Competitive Landscape to 2025"
+    excerpt: "Global AI Consulting Services Market 2020 by Company, Type and Application, Forecast to 2025 published via MarketsandResearch.biz covers the market landscape and its growth over the upcoming years and discussion of the prominent companies effective in this market."
+    publishedDateTime: 2020-12-22T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-consulting-services-market-2020-swot-study-sales-analysis-technological-innovations-and-competitive-landscape-to-2025-2020-12-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
-    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1."
-    publishedDateTime: 2020-12-23T06:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-12-23"
+  - title: "Global Natural Language Processing in BFSI Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
+    excerpt: "Global Natural Language Processing in BFSI Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
+    publishedDateTime: 2020-12-22T06:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2020-analysis-trend-applications-industry-chain-structure-growth-and-forecast-to-2025-2020-12-21"
     type: article
     provider:
       name: MarketWatch
@@ -84,97 +84,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US Computer Vision Market Size : Industry Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2027"
-    excerpt: "U.S. Computer Vision Market is estimated to grow from USD 4.04 Billion in 2019 to USD 6.97 Billion by 2027, at a CAGR of 7.1% during 2020-2027 Rising need for application-specific computer vision systems,"
-    publishedDateTime: 2020-12-22T23:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-computer-vision-market-size-industry-growth-factors-applications-regional-analysis-key-players-and-forecasts-by-2027-2020-12-22"
+  - title: "Artificial Intelligence in Education Market Grows as Top Vendors Third Space Learning Forecast 2023"
+    excerpt: "Market Overview Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period)."
+    publishedDateTime: 2020-12-22T11:25:00Z
+    webUrl: "https://www.dcvelocity.com/articles/48916-artificial-intelligence-in-education-market-grows-as-top-vendors-third-space-learning-forecast-2023"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Latest Industry Trends, Future Growth, Regional Overview and Growth Forecast Outlook till 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 21, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ..."
-    publishedDateTime: 2020-12-21T12:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-industry-trends-future-growth-regional-overview-and-growth-forecast-outlook-till-2026-2020-12-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: DC Velocity
+      domain: dcvelocity.com
     quality: 40
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Infrastructure Market: Recent Study including Growth Factors, Applications, Regional Analysis, Key Players and Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “AI Infrastructure Market” has"
-    publishedDateTime: 2020-12-21T13:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-recent-study-including-growth-factors-applications-regional-analysis-key-players-and-forecast-to-2025-2020-12-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
-    excerpt: "The Latin America Machine Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
-    publishedDateTime: 2020-12-24T15:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-share-size-2021-trends-forecast-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ai In Fintech Market Size, Share, Growth, Trends, Analysis and Forecast - 2025"
-    excerpt: "AI in Fintech market size is expected to grow from USD 959.3 Million in 2016 to USD 7,305.6 Million by 2025, at a (CAGR) of 40%. AI in the fintech market is said to have the potential to grow in the coming years due to technological changes that improve ..."
-    publishedDateTime: 2020-12-23T11:17:00Z
-    webUrl: "https://www.openpr.com/news/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Ai In Social Media Market Industry Analysis, Growth, Trends and Forecast - 2025"
-    excerpt: "AI in social media market to grow from USD 0 6 billion in 2018 to USD 2 2 billion by 2025 at a Compound Annual Growth Rate CAGR of 28 during the forecast period It is expected that AI technology"
-    publishedDateTime: 2020-12-23T11:33:00Z
-    webUrl: "https://www.openpr.com/news/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Europe Machine Learning Market Share, Size 2021 Analysis, Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
-    excerpt: "The Europe Machine Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
-    publishedDateTime: 2020-12-24T14:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-share-size-2021-analysis-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/e74781d4-6f6c-4aca-ace6-95456cd76c15.jpg?crop=true&height=430&t=1608224017&width=640"
+        width: 600
+        height: 338
         isCached: true
   - title: "Ai In Telecommunication Market Analysis, Trends, Growth, Share and Forecast - 2025"
     excerpt: "and translation between languages. This technology has the potential to transform the operations and functions of a variety of industries due to its tremendous potential to achieve breakthroughs for a variety of ideas. Get Sample Copy of Ai In ..."
@@ -187,57 +109,57 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 33
-  - title: "Global Artificial Intelligence-Emotion Recognition Market 2020: Industry Size, Outlook, Share, Demand, Manufacturers and 2024 Forecast Research’s"
-    excerpt: "The report outlines the competitive framework of the “ Artificial Intelligence-Emotion Recognition Market ” industry detailing the SWOT analysis and Artificial Intelligence-Emotion Recognition market share dominance of the prominent players."
-    publishedDateTime: 2020-12-23T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-2020-industry-size-outlook-share-demand-manufacturers-and-2024-forecast-researchs-2020-12-23"
+  - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
+    excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
+    publishedDateTime: 2020-12-24T13:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2021-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2023-2020-12-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026"
-    excerpt: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026 . Posted on Dec 21 2020 8:04 AM \"Top Players i"
-    publishedDateTime: 2020-12-21T13:54:00Z
-    webUrl: "https://menafn.com/1101316047/Natural-Language-Processing-Market-Key-Drivers-Industry-Share-and-Future-Growth-Demand-Analysis-by-2026"
+  - title: "COVID-19 Impact Analysis for Artificial Intelligence and Cognitive Computing Market 2020 | Size, Opportunities & Forecast To 2026 Market.biz"
+    excerpt: "Artificial Intelligence and Cognitive Computing Market 2020 Projected to Witness Vigorous Expansion by 2026. The Artificial Intelligence and Cognitive Computing Market research report discussed the current and future trends of the market in both current and emerging markets."
+    publishedDateTime: 2020-12-23T11:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-analysis-for-artificial-intelligence-and-cognitive-computing-market-2020-size-opportunities-forecast-to-2026-marketbiz-2020-12-23"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Learning Analytics Market Size USD 7956.6 Million by 2026 at CAGR 20.8% | Valuates Reports"
-    excerpt: "The global Learning Analytics Market size is projected to reach USD 7956.6 Million by 2026, from USD 2560.5 Million in 2020, at a CAGR of 20.8% during 2021-2026. Major factors driving the growth of the Learning analytics market size are,"
-    publishedDateTime: 2020-12-21T17:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-learning-analytics-market-size-usd-7956-6-million-by-2026-at-cagr-20-8-valuates-reports-1029911396"
+  - title: "Artificial Intelligence in Diabetes Management Market Report With Top Countries data, opportunities and growth Forecast to 2026 - Marketdesk"
+    excerpt: "The latest research study titled Global Artificial Intelligence in Diabetes ManagementMarket Research Report 2021 by Marketdesk contains all analytical and statistical brief summary regarding market summary,"
+    publishedDateTime: 2020-12-24T09:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-report-with-top-countries-data-opportunities-and-growth-forecast-to-2026---marketdesk-2020-12-24"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
-  - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
-    excerpt: "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development"
-    publishedDateTime: 2020-12-25T12:10:00Z
-    webUrl: "https://menafn.com/1101337563/Latin-America-Machine-Learning-Market-Share-Size-2021-Trends-Forecast-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?544070"
-        width: 375
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Hyro Unveils Conversational AI Solution to Help Hospitals Avoid Being Overwhelmed by Patients Seeking COVID-19 Vaccinations"
+    excerpt: "PRNewswire/ -- Hyro, developer of plug-and-play conversational artificial-intelligence (AI) solutions, today announced it has begun equipping U.S."
+    publishedDateTime: 2020-12-22T13:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hyro-unveils-conversational-ai-solution-to-help-hospitals-avoid-being-overwhelmed-by-patients-seeking-covid-19-vaccinations-301197312.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "EHgbhikFlWEVkglLi1a9hUCZHJbambEQhWYj7CPu5fxKMC0lJcFc5f7JRi4SKYx/fEx4EPqZcrsejVYc92/rcCPVmd94Era7cq11kkO6V1xLIJXRph34E+/UGEvfrP+S6kYVANWN+6JbZwVj5CsryUXBcz6Gl+VDSQofj8r+o1ujbN8BdXZ7MLsqF9eezg69BMk7UiJO6h3wED8KNNqpPpKX7wngmbN7tJJdV8ea9C19YHzW4qFLQGca49wPcJ1jia73/uZ2U+ox5gA8xpXNN5fEAUljS9JmEzOJicf0LSTgk+cK0pUydHPhyVQ2n8TscohHy9L4zArxNV3eVEPIGy6yul+DIYV+AY97fL4+IoM=;7dbATbhcwANIZPduSPdmFA=="
 ---

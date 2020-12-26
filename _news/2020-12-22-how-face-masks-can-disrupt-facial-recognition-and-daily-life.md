@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/"
 type: article
 quality: 74
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
         width: 1119
         height: 630
-        isCached: true
-  - title: "Do I know you? Researchers evaluate how masks disrupt facial perception"
-    excerpt: "The identification of people wearing masks has often presented a unique challenge during the pandemic. A new study by researchers from Ben-Gurion University of the Negev (BGU) in Israel and York University in Canada reveals the impact of this predicament and its potentially significant repercussions."
-    publishedDateTime: 2020-12-21T12:46:00Z
-    webUrl: "https://medicalxpress.com/news/2020-12-masks-disrupt-facial-perception.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-12-masks-disrupt-facial-perception.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-masks-disrupt-facial-perception.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/doiknowyoure.jpg"
-        width: 1123
-        height: 960
         isCached: true
   - title: "Study examines how masks disrupt facial perception"
     excerpt: "The identification of people wearing masks has often presented a unique challenge during the pandemic. A new study by researchers from Ben-Gurion University of the Negev (BGU) in Israel and York University in Canada reveals the impact of this predicament and its potentially significant repercussions."

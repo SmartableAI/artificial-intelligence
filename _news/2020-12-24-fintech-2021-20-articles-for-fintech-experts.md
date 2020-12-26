@@ -35,6 +35,17 @@ related:
         width: 660
         height: 336
         isCached: true
+  - title: "Ai In Fintech Market Size, Share, Growth, Trends, Analysis and Forecast - 2025"
+    excerpt: "AI in Fintech market size is expected to grow from USD 959.3 Million in 2016 to USD 7,305.6 Million by 2025, at a (CAGR) of 40%. AI in the fintech market is said to have the potential to grow in the coming years due to technological changes that improve ..."
+    publishedDateTime: 2020-12-23T11:17:00Z
+    webUrl: "https://www.openpr.com/news/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
   - title: "The TRADE’s Crystal Ball 2021: FinTech, RegTech and crypto"
     excerpt: "Gaze into The TRADE's crystal ball for insights from FinTech and RegTech providers, as well as participants in the crypto space on their predictions for the year ahead."
     publishedDateTime: 2020-12-24T11:46:00Z
@@ -62,22 +73,6 @@ related:
       - url: "https://s32566.pcdn.co/wp-content/uploads/2020/12/tech-staffers-around-computer_opt.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
-    excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
-    publishedDateTime: 2020-12-21T11:34:00Z
-    webUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech"
-    ampWebUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 18
-    images:
-      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageus3n-1608548321321.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "b5T3vpcsL4gv+BpomeuLbA2HXORvAtlbF8XhqLDu9wzoC5xxqxLkdNtqT4IgCpBcmWKRrTBbp7I4YFkXAydTuYXfMC7kQSh27cV+R/uTxtFl4TmA8EgLikc3DymkH/i8p1Oe+6HqyfVY7UlyHf6uXcl0mmjm4yBNtKQMGC+l2g7gpfmFyQy2GGHXIVPuBsdOLq1flJhvwqDluPnpkDb4//BZ36ltPGPtjZbBTjBUokAuPhF4FDgb4VQm+dUmXwAqRHaMtCtt6iBJh0e1FgTfSnEmW1SHrttuivxuHyunaIsNA41jcGkGrTJ251RedII04MaVzt6u/PkCb2XNFGRx2N8o+uF9e43t9tXjW03WSBM=;ZfcmseshS1fSOxk/6O736w=="

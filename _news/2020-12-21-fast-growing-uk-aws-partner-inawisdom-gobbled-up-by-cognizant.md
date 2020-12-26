@@ -19,33 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom"
-    excerpt: "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum."
-    publishedDateTime: 2020-12-21T11:10:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 66
-    images:
-      - url: "https://www.businessinsider.in/thumb/79839520.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
-  - title: "Cognizant acquires Inawisdom to modernise data with AI, ML"
-    excerpt: "Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum."
-    publishedDateTime: 2020-12-21T12:48:00Z
-    webUrl: "https://www.sify.com/news/cognizant-acquires-inawisdom-to-modernise-data-with-ai-ml-news-education-umvkPEcceaicb.html"
-    ampWebUrl: "https://www.sify.com/news/cognizant-acquires-inawisdom-to-modernise-data-with-ai-ml-news-education-umvkPEcceaicb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/cognizant-acquires-inawisdom-to-modernise-data-with-ai-ml-news-education-umvkPEcceaicb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
   - title: "Cognizant continues M&A spree with purchase of AI specialist Inawisdom"
     excerpt: "Cognizant Technology Solutions Corp has acquired Inawisdom Ltd, a United Kingdom-based privately held firm that uses frontier"
     publishedDateTime: 2020-12-22T07:28:00Z

@@ -41,6 +41,17 @@ related:
         width: 660
         height: 336
         isCached: true
+  - title: "Ai In Fintech Market Size, Share, Growth, Trends, Analysis and Forecast - 2025"
+    excerpt: "AI in Fintech market size is expected to grow from USD 959.3 Million in 2016 to USD 7,305.6 Million by 2025, at a (CAGR) of 40%. AI in the fintech market is said to have the potential to grow in the coming years due to technological changes that improve ..."
+    publishedDateTime: 2020-12-23T11:17:00Z
+    webUrl: "https://www.openpr.com/news/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
   - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
     excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"
     publishedDateTime: 2020-12-23T18:29:00Z
@@ -54,22 +65,6 @@ related:
       - url: "https://s32566.pcdn.co/wp-content/uploads/2020/12/tech-staffers-around-computer_opt.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Apply for Max Life Innovation Labs 2.0 and help build innovative solutions to transform the future of fintech and insurtech"
-    excerpt: "After a successful first edition of the Max Life Innovation Labs in 2019, Max Life Insurance Company Ltd. has announced the launch of the second edition of its flagship insu"
-    publishedDateTime: 2020-12-21T11:34:00Z
-    webUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech"
-    ampWebUrl: "https://yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/max-life-innovation-labs-help-build-innovative-solutions-transform-future-fintech-insurtech/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 18
-    images:
-      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageus3n-1608548321321.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
         isCached: true
   - title: "FinTech 2021: 20 Articles for FinTech Experts"
     excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."

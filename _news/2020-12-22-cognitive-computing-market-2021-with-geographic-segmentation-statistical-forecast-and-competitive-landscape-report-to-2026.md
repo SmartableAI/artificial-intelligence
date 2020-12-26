@@ -29,57 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in BFSI Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-    excerpt: "New Study Reports “Artificial Intelligence (AI) in BFSI Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. This report provides in depth study of \"Artificial Intelligence (AI) in BFSI Market\" using SWOT analysis i."
-    publishedDateTime: 2020-12-21T20:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-12-21"
+  - title: "Global Cognitive Computing Market Size, Share and Forecast 2019-2025"
+    excerpt: "Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
+    publishedDateTime: 2020-12-22T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-forecast-2019-2025-2020-12-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Consulting Services Market 2020 SWOT Study, Sales Analysis, Technological Innovations and Competitive Landscape to 2025"
-    excerpt: "Global AI Consulting Services Market 2020 by Company, Type and Application, Forecast to 2025 published via MarketsandResearch.biz covers the market landscape and its growth over the upcoming years and discussion of the prominent companies effective in this market."
-    publishedDateTime: 2020-12-22T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-consulting-services-market-2020-swot-study-sales-analysis-technological-innovations-and-competitive-landscape-to-2025-2020-12-21"
+  - title: "Asia-Pacific Machine Learning Market Size, Share 2021 Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others.Machine learning is no longer a novelty in Asia-Pacific countries. Business sectors having realised its potential are using machine learning technologies to draw maximum ..."
+    publishedDateTime: 2020-12-24T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-size-share-2021-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing in BFSI Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
-    excerpt: "Global Natural Language Processing in BFSI Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
-    publishedDateTime: 2020-12-22T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2020-analysis-trend-applications-industry-chain-structure-growth-and-forecast-to-2025-2020-12-21"
+  - title: "Global Artificial Intelligence-Emotion Recognition Market 2020: Industry Size, Outlook, Share, Demand, Manufacturers and 2024 Forecast Research’s"
+    excerpt: "The report outlines the competitive framework of the “ Artificial Intelligence-Emotion Recognition Market ” industry detailing the SWOT analysis and Artificial Intelligence-Emotion Recognition market share dominance of the prominent players."
+    publishedDateTime: 2020-12-23T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-2020-industry-size-outlook-share-demand-manufacturers-and-2024-forecast-researchs-2020-12-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
-    excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
-    publishedDateTime: 2020-12-24T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2021-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2023-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

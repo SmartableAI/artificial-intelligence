@@ -37,6 +37,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Apple vs Tesla? Apple Self-Driving Car To Hit Market In 2024, Says Reuters"
+    excerpt: "The Apple and Tesla logos.. Project Titan lives? We have not heard a lot from Apple’s self-driving car project, dubb"
+    publishedDateTime: 2020-12-21T21:22:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe111abcd65b06171600516%2F0x0.jpg"
+        width: 1200
+        height: 578
+        isCached: true
   - title: "Apple Said to Be Planning Self-Driving Electric Car"
     excerpt: "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc."
     publishedDateTime: 2020-12-22T23:42:00Z
@@ -323,6 +339,15 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 34
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
+    publishedDateTime: 2020-12-23T22:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
   - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
     excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"

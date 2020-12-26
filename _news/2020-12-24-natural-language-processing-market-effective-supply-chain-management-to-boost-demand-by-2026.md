@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-effective-supply-chain-management-to-boost-demand-by-2026-2020-12-24"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Diabetes Management Market Report With Top Countries data, opportunities and growth Forecast to 2026 - Marketdesk"
-    excerpt: "The latest research study titled Global Artificial Intelligence in Diabetes ManagementMarket Research Report 2021 by Marketdesk contains all analytical and statistical brief summary regarding market summary,"
-    publishedDateTime: 2020-12-24T09:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-report-with-top-countries-data-opportunities-and-growth-forecast-to-2026---marketdesk-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eFB2b6XyOwqBxk6CH4TW+oH0PpR+gXkeMKrZdOBfNApu+Bzv8meaLc79K/7Mhg7ULqR5qFv+ByZ0BDNLkwhC3p/biNWUl3hgFnoV4w8Uz2Zi8rG9gYlT4+U+0X/bkNJhDxEpw3qcjaDmS6lP2rR5XzFWO6uO/h7RNlc3tKRw1ZXaPqt7ZFHFhWf2a8+RC24iXMEYbaKQfTvvFpKsiPE4VlGYwuCo0wrzQSgQrAltenFJsIMmodOSEwnaLdd3sPLy+v+jToK+ri/UKlpiHby+B1Zj/r9h7wcVcPcWZx/CAyDbkeCdUO2aWEynBqup1hfzHOqq0forPExGU2aSfmowIEOoFHZUr0Pu83XYzAwi/dc=;gCke/QXcdosTuhEGjPHF5Q=="
 ---

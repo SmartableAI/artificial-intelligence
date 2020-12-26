@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Morning After: Tesla's self-driving subscription slides to 2021"
-    excerpt: "If, say, a friend of yours is still in need of last-minute shopping information, or you just want to double check what’s out there, the Engadget Holiday Gift Guides for 2020 are here to help."
-    publishedDateTime: 2020-12-21T12:28:00Z
-    webUrl: "https://www.engadget.com/tesla-fd-subscription-tma-122520244.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-fd-subscription-tma-122520244.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fd-subscription-tma-122520244.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F36fb7560-4386-11eb-9bff-cde63905018f&client=amp-blogside-v2&signature=0374e1be309989630418c16e17c4b07f74e6dc19"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Apple vs Tesla? Apple Self-Driving Car To Hit Market In 2024, Says Reuters"
-    excerpt: "The Apple and Tesla logos.. Project Titan lives? We have not heard a lot from Apple’s self-driving car project, dubb"
-    publishedDateTime: 2020-12-21T21:22:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/21/apple-vs-tesla-apple-self-driving-car-to-hit-market-in-2024-says-reuters/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe111abcd65b06171600516%2F0x0.jpg"
-        width: 1200
-        height: 578
-        isCached: true
   - title: "Elon Musk: Tesla Full Self Driving subscription coming in 2021"
     excerpt: "Tesla could start offering its pricey self-driving system as a monthly subscription next year, according to Elon Musk."
     publishedDateTime: 2020-12-21T14:41:00Z
@@ -102,6 +70,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Apple Takes On Tesla With 'Breakthrough' Self-Driving Car"
+    excerpt: "Apple Inc. is set to take on Elon Musk’s electric vehicle company, Tesla, as it aims to produce a “breakthrough” self-driving car in 2024. In 2014, the company famous for it"
+    publishedDateTime: 2020-12-22T03:55:00Z
+    webUrl: "https://www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255"
+    ampWebUrl: "https://www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-takes-tesla-breakthrough-self-driving-car-3107255?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/14/apple-is-adding-labels-to-its-apps-so.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla To Offer Full Self-Driving As A Subscription"
     excerpt: "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow."
     publishedDateTime: 2020-12-23T16:35:00Z
@@ -134,17 +118,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-    excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
-    publishedDateTime: 2020-12-23T19:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Tesla’s full self-driving mode could be available as a subscription in 2021"
     excerpt: "Full self-driving mode on Teslas is definitely one of the defining features of the electric car, but with multiple price hikes over the past couple of years, the feature can seem like an unnecessary expense."
     publishedDateTime: 2020-12-21T15:23:00Z
@@ -154,6 +127,22 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 32
+  - title: "Elon Musk Promises You Can Pay For 'Full Self-Driving' Subscription In 2021 Even Though It Won't Really Exist Then"
+    excerpt: "For many Tesla owners and fans, the deceptively-named Full Self-Driving (FSD) system that Tesla CEO Elon Musk has been promising is a very exciting and desirable thing. Of course, it’s also a $ ..."
+    publishedDateTime: 2020-12-22T19:01:00Z
+    webUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969"
+    ampWebUrl: "https://jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-promises-you-can-pay-for-full-self-driving-su-1845934969/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 22
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pnqlrn8y8nuiwgh49v4p.png"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
     excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
     publishedDateTime: 2020-12-24T19:55:00Z
