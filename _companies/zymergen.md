@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zymergen"
   url: "https://twitter.com/zymergen"
-  followers: 4813
+  followers: 4816
 
 size: 201-500 employees
 yearFounded: 2013
