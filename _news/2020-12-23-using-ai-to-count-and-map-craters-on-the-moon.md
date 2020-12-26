@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-12-ai-craters-moon.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Phys.org
@@ -26,37 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Satellite Data Could Help End Slavery on the High Seas"
-    excerpt: "Slavery is rampant on fishing vessels around the world. A new study aims to use satellite and machine learning to track ships that traffic laborers. The findings estimate up to 100,000 people were forced to labor on fishing vessels between 2012 and 2018."
-    publishedDateTime: 2020-12-21T22:19:00Z
-    webUrl: "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400"
-    ampWebUrl: "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp"
-    cdnAmpWebUrl: "https://earther-gizmodo-com.cdn.ampproject.org/c/s/earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp"
+  - title: "Future of AI and Machine Learning"
+    excerpt: "We used the term “future” in the title but to me, the presence of artificial intelligence and machine learning has proved to be a necessity, especially in Corona times."
+    publishedDateTime: 2020-12-24T12:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/pick-a-pen/future-of-ai-and-machine-learning-28539/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dl5oyjxzztz5sqggtzsc.jpg"
-        width: 800
-        height: 450
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
-  - title: "AI and satellite data find thousands of fishing boats that could be using forced labor"
-    excerpt: "I am an environmental data scientist who leverages data and analytical techniques to answer critical questions about natural resource management. Back in 2018, my colleagues at the Environmental Market Solutions Lab found that high-seas fishing often appears to be an almost entirely unprofitable endeavor."
-    publishedDateTime: 2020-12-21T21:45:00Z
-    webUrl: "https://qz.com/1948736/ai-finds-thousands-of-fishing-boats-likely-using-forced-labor/"
-    ampWebUrl: "https://qz.com/1948736/ai-finds-thousands-of-fishing-boats-likely-using-forced-labor/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1948736/ai-finds-thousands-of-fishing-boats-likely-using-forced-labor/amp/"
+  - title: "Fintech Lending Apps are Increasingly Using AI and Machine Learning to Accurately Determine Borrower’s Creditworthiness, According to Researchers"
+    excerpt: "Recent research documents that, once powered by artificial intelligence and machine learning, these alternative data sources are often superior than traditional credit assessment methods, and can advance financial inclusion, by, for example, enabling more ..."
+    publishedDateTime: 2020-12-24T23:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 79
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2014/05/bluefin-atlantic-tuna-overfishing.jpeg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt-600x518.jpeg"
+        width: 600
+        height: 518
+        isCached: true
+  - title: "Service providers see more network automation, AI from the core to the edge"
+    excerpt: "Two of the largest service providers in the US are using AI and machine learning in a variety of ways. Here's a quick glimpse of what they've talked about doing lately with improved network monitoring and testing and what's ahead as the network edge becomes more responsive to an influx of users,"
+    publishedDateTime: 2020-12-24T16:44:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/service-providers-see-more-network-automation-ai-from-core-to-edge/d/d-id/766329"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 35
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "Thousands of ocean fishing boats could be using forced labor – we used AI and satellite data to find them"
     excerpt: "Fishing on the high seas is a bit of a mystery, economically speaking. These areas of open ocean beyond the territorial jurisdiction of any nation are generally considered high-effort, low-payoff fishing grounds,"

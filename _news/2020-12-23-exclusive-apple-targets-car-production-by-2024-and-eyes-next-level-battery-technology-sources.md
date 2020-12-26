@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY"
 type: article
 quality: 158
-heat: 218
+heat: 198
 published: true
 
 provider:
@@ -81,36 +81,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53"
         width: 600
         height: 360
-        isCached: true
-  - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
-    excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
-    publishedDateTime: 2020-12-21T21:09:00Z
-    webUrl: "https://www.greencarreports.com/news/1130736_electric-self-driving-apple-car-reportedly-to-use-next-level-battery-tech-in-2024"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 19
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
-        width: 1632
-        height: 1188
-        isCached: true
-  - title: "Apple 'plans to develop self-driving passenger car by 2024 and eyes breakthrough monocell battery technology to extend its range before it needs to be recharged'"
-    excerpt: "Apple is moving forward with self-driving car technology, targeting 2024 to produce a passenger vehicle. The car reportedly will be powered by breakthrough 'monocell' battery technology."
-    publishedDateTime: 2020-12-21T21:41:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9076953/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/21/20/36181330-0-image-a-2_1608584361624.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "cbcHG22aA4/VySYrv891ffaj0RbBBfUx3GVullAvWktEBNyeE6nT7PfMx68soiBD3DPSaUrzMuwgvUkavFDoaxIR8eF7/NZyzj85I0RYjDl8SdKxd3x3AynlXKeFgVEvsl7IgvGVjkgmXAI9hAzM7Wmtpx+mI0XKJD1ycn5T7SkSopHRjw4sBDUfMUhm/s10OyG3ox5hjFmTWH2f54uMBk7hn4xUtqdFYkiXCBaLdPoebrErdrZDrOxadE4xlwmYTYtKT6R0dL/0Zc4Z2amFiIAkjqR2vy3c8tkhUjWEnnr49eb1YPxtE1X0F2LpIUZ6hFJ22L9MOZLtXjRu83yPw9fSuGK+Itu3Zb6MpOQb2XtpxCagwMHgCqN5nR070u5ismuKvK5HqxWK0g5KLOl0kB65yBWKQi3pd/sEqvqJS+t8akHqt/3ya+7C4pxsKvFMvaJlmo1+E7Ix6bWnNRJ+3C971Ham0Rtf9f24BAC5Lq4JtMxKcNypx8PhWRwN3dWu2RMI1bNNb8/lwGjTRGybKa4BjzVXEjz5cfSlnupNIs4=;cBzi5PVqvl4tSVv09e8hjg=="

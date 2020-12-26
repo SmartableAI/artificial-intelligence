@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-in
 cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-crosses-above-two-hundred-day-moving-average-of-23-39.html/amp"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ) Shares Up 0.5%"
+    excerpt: "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ)’s share price shot up 0.5% during trading on Tuesday . The company traded as high as $27.20 and last traded at $27.18. 47,403 shares traded hands during trading,"
+    publishedDateTime: 2020-12-25T01:03:00Z
+    webUrl: "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html"
+    ampWebUrl: "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp"
+    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp"
+    type: article
+    provider:
+      name: modernreaders.com
+      domain: modernreaders.com
+    quality: 68
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
+        width: 450
+        height: 323
+        isCached: true
 
 secured: "Tsk7zxQbdYe5KFViF4e2QM6QeZ2d5yhFKCd1bPeehNt1zAJAMhD++SKVn5Znd/fCIe1EPFQVYQRqzZBiS2D0FWPp/3ci0xxfkBg2AAcVW2bsm7zWiYivmxm6OWHsPxpwXfVd/3q+Y/no2pXF32Kqt6nEXW33EixN5rexYu7oX2vUKYEBSNNg7oiZ6q2LvNgyGZYv/sxo66TGwOuw6JXntNkqV/7SXuIm//e+5EJmJZS+XI2TPqNt8l9fgepoUYUac2XbBqZIz+vvFkMcFlm8LR2C2CPPXD5uBwvojzkC2Iuiz+xm0Um1noG5gEJhQuMHwcWPKq5rEozb1ofEYagln8XVj8jYUfwVMOngfvLhIvU=;FGSFylqJOKjqThpAphGqWQ=="
 ---

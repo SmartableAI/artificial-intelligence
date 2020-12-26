@@ -83,36 +83,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Electric self-driving Apple car reportedly to use next-level battery tech in 2024"
-    excerpt: "Apple is planning to launch an electric car in 2024 with radical new battery tech, Reuters reported Monday. Despite an apparent slowdown in what is sometimes referred to as \"Project Titan,\" the iPhone maker is moving ahead with plans for a complete car that will be sold to consumers,"
-    publishedDateTime: 2020-12-21T21:09:00Z
-    webUrl: "https://www.greencarreports.com/news/1130736_electric-self-driving-apple-car-reportedly-to-use-next-level-battery-tech-in-2024"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 19
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
-        width: 1632
-        height: 1188
-        isCached: true
-  - title: "Apple 'plans to develop self-driving passenger car by 2024 and eyes breakthrough monocell battery technology to extend its range before it needs to be recharged'"
-    excerpt: "Apple is moving forward with self-driving car technology, targeting 2024 to produce a passenger vehicle. The car reportedly will be powered by breakthrough 'monocell' battery technology."
-    publishedDateTime: 2020-12-21T21:41:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9076953/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9076953/amp/Apple-targets-car-production-2024-eyes-level-battery-technology-sources.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/21/20/36181330-0-image-a-2_1608584361624.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "awK3wWhKfriG69+OnMtBKr0xNBh3tcZ8Gw8ACcbVBfoEMlSblq7MTQsGKbIXdRI75re1wz3Rra+gd3Sjt2LkvAgvDpfokJYaVJ5QK1USxEZ0l/3EmOFJBsX66Q+1W9eZgaK63Ip4qeoCR7XZmnuDpQWx9HrTcbaAvTBhYrp9Kav3RRfUf2qZ4Y/T3EDZwCLO00tO731rGBv97r501jwPeDec00UYQ8vP0eLCrDVAOxaGshkA7NozDNaSmK9UaLPmX+50igCpylMtxfLaJ75L6DF8pJnmgnQQJkBgwUuIDnYbR/2jl7d3dO+H2qLB3aSwkZZRxYa38uNqoJBPq1ku1b+SXeoLB4krFNDR8CCSeiiKBKSx+q6NiGWHAFWZnbJgbyKQxw8MolIC/V2aRTgsHavGI4duWePvcrYYUj2sEWuIIBvUxqCK4sVy9icMxWKb3D6c29MY/x+FdAnyBuf+deDsM9v93ZheR24T+omK0ZQyG6npxovBznn1Ypwrf5HQJ02l+gaB2D30d9YUmen4MQ==;KYu1bK3wLIA/RG9VsCRYkQ=="
 ---
