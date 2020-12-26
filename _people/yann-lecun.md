@@ -3,7 +3,7 @@ name: "Yann LeCun"
 bio: "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience."
 location: New York
 type: "profile"
-heat: 284
+heat: 270
 
 affiliation:
   name: New York University
@@ -14,7 +14,7 @@ website: http://yann.lecun.com/
 twitter:
   username: ylecun
   url: https://twitter.com/ylecun
-  followers: 238127
+  followers: 238135
 
 googleScholar:
   url: https://scholar.google.com/citations?user=WLN3QrAAAAAJ
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Yann LeCun"
 
-secured: "iHGVJZ7yy6URAAzMfjpJBZE1K36rYBjBS2HQrUoaE+BonKGTbdHI6P1hqlXNrYkdhQmGxkVl/tDXwDT+8vR1K3ypHvQ9lTrV6p36LKQjkXOqCdrQZJpeRf+PVSFKxe80KGA8lRW2B7TX+QkgIaAFDFzgW3WAQbv3dB66BR+R63yWc6XsiLRAP31wV71AHQ44qli9N5lroGJTF0sO9qS+ZHjh+usAI5WwjK/CHk71wKdBo0ij3XM7OJZ7hX46HhM1ROIDcnS934lbXMxqLglKnNVXo3ZqUhhSg+J8jzyhDDcsXe2TInl2zrHApmrrPFP4Je3d5GNzI9oAclkpzvW4xIP1udmBiXbtTisSA0xVl9Pom772IJoNqgdOaL4S+nazcXDt0hDCvLxymvzXRmoMEtOlr+V/CzST4Srv7JeKzDk=;42BhjemsXMqJEJu67HMQCA=="
+secured: "sUV0jrwaRE2mOb6ytzT4Z+RcyQv33XLrgWteirwtkV/erizVGaIls31zMMC8fT+Ex80JYTjvNqFuDkpajJ5Hk2XJjU7rl+V+aIkyJMtCOc30UAw5cEl3qIg5r98KPck62ff5HyNoGMAjoTrIWG7XQemjslU0RYYUx9W2xEAQNb7xKms0vQ+QWO9UytcR/pEp48nIXwQal5G9EQGorwVf3rOOIz0JGbECDVKUtEzzn3di1lrZNtiGJBTgsPQJHvHhi5xKcRKeLC6VKHt3TCei10EfsEjlJ983GMT+kkMflPiUK9Ich1Q5dy+kwk0RC+i33SByGm06WqZQU2yznCg3NdOjc/XN+ax+4RwoYjyp2j1Bnu5VUTpEsJwlz54Wbe43hkU0R1qdq6IAAgPD81/9wvJmfJPyytrEaL6O7pEm8fc=;lA0xZnap9zp5zEljre4qUQ=="
 ---
 
