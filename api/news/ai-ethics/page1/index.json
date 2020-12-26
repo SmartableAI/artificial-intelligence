@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-27-ai-research-survey-finds-machine-learning-needs-a-culture-change.md",
+      "title": "AI research survey finds machine learning needs a culture change",
+      "excerpt": "Machine learning has a problem with data mismanagement and a culture where anything goes, according to a recent AI research survey.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
+      "originalUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/b9355a07-e2bb-4f05-9662-bdce9c625cb4-e1586377374664.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/amp/",
+      "publishedDateTime": "2020-12-26T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-an-ai-reporters-favorite-books-of-2020.md",
       "title": "An AI reporter’s favorite books of 2020",
       "excerpt": "Reading The Big Nine also helped deepen my understanding of what could go wrong if companies like Amazon, Facebook ... age of AI. While occasionally drawing on insights from their own research ...",
@@ -1429,58 +1482,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
-      "title": "Google widely criticized after parting ways with a leading voice in AI ethics",
-      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "originalUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "publishedDateTime": "2020-12-04T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

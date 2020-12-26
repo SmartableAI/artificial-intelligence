@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-27-ai-research-survey-finds-machine-learning-needs-a-culture-change.md",
+      "title": "AI research survey finds machine learning needs a culture change",
+      "excerpt": "Machine learning has a problem with data mismanagement and a culture where anything goes, according to a recent AI research survey.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
+      "originalUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/b9355a07-e2bb-4f05-9662-bdce9c625cb4-e1586377374664.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/amp/",
+      "publishedDateTime": "2020-12-26T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future.md",
       "title": "National Grid sees machine learning as the brains behind the utility business of the future",
       "excerpt": "If the portfolio of a corporate venture capital firm can be taken as a signal for the strategic priorities of their parent companies, then National Grid has high hopes for automation as the future of the utility industry.",
@@ -167,7 +220,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-12-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -272,7 +325,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1421,50 +1474,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-startup-rolls-out-compute-in-memory-chip-for-deep-learning.md",
-      "title": "Startup Rolls Out Compute-in-Memory Chip for Deep Learning",
-      "excerpt": "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T00:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

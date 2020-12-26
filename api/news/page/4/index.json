@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-21-bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning.md",
+      "title": "Bolt raises $75 million to fight ecommerce fraud with machine learning",
+      "excerpt": "Its machine learning algorithms analyze over 200 variables on each transaction, and a dedicated team reviews every declined transaction. Customers flagged as potentially malicious are afforded the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/https___specials-images.forbesimg.com_imageserve_5f103274ae07b50006534ccd_0x0.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
+      "publishedDateTime": "2020-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-chinas-new-data-privacy-law-will-state-how-facial-recognition-can-be-used.md",
+      "title": "China’s new data privacy law ‘will state how facial recognition can be used’",
+      "excerpt": "Personal Information Protection Law will allow use of facial biometrics only for specific purposes and when ‘sufficiently necessary’, legislative body says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "originalUrl": "https://www.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/21/d670789e-4367-11eb-be92-09cd005df0bf_image_hires_193039.jpg?itok=POA13Q6F&v=1608550249",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "publishedDateTime": "2020-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-the-morning-after-teslas-self-driving-subscription-slides-to-2021.md",
       "title": "The Morning After: Tesla's self-driving subscription slides to 2021",
       "excerpt": "If, say, a friend of yours is still in need of last-minute shopping information, or you just want to double check what’s out there, the Engadget Holiday Gift Guides for 2020 are here to help.",
@@ -1115,110 +1219,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more.md",
-      "title": "Predicting 2021 in cybersecurity: DDoS attacks, 5G speed, AI security, and more",
-      "excerpt": "Talk here about some predictions for 2021 as we round out, fortunately, this year 2020. Let's start with 5G. Of course, we're moving now from that hype phase to reality, and we're starting to see 5G inching its way in a little bit more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/6032b612-5e42-4f1b-a34a-7a7780f492a8/thumbnail/1200x675/b9ae690b5f7b685be658c631eaf05eec/20201215-2021predict-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
-      "publishedDateTime": "2020-12-18T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-what-to-expect-in-the-nlp-space-in-2021.md",
-      "title": "What to expect in the NLP space in 2021",
-      "excerpt": "2020 has been a great year for the advancement of Natural Language Processing (NLP). We have seen a large number of organizations, from small ventures to massive enterprises, adopt NLP into their business solutions and data pipelines. With this high rate of adoption comes the next set of innovations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/nlp-2021-forecast-leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T08:56:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
       ]
     }
   ],

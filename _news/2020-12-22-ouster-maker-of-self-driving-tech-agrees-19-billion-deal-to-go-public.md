@@ -63,17 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "EXCLUSIVE-Self-driving startup Ouster nears $1.9 bln deal to go public -sources"
-    excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
-    publishedDateTime: 2020-12-22T00:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/exclusive-self-driving-startup-ouster-nears-%241.9-bln-deal-to-go-public-sources-2020-12-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-self-driving-startup-ouster-nears-%241.9-bln-deal-to-go-public-sources-2020-12-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-self-driving-startup-ouster-nears-%241.9-bln-deal-to-go-public-sources-2020-12-21?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 50
 
 secured: "QVGb11TmFG8otk4Xp5TNvuG6TCfCWS6QNA/lWcLM1NO47Gsgus81vyxP4m692+AZGsn3c2J79xVUBQc1YKOLK++jM99ZwQJYasULRjTuvf882AS2jiasEvZwN9Jnx3y7NDvED1TUNA/hkNGfgGlTrwtUMyvLlF8PPJM0BLmgCf4XaiYVZphl3FAavdvHFEsYbRWRw+mN8+4Al1nhn8sqJe3TtlZDGDsFHFgexyEf+rygHseczdWWBSTkRVIphlbLNzKWyeIP+8JOwYmaDP3bqn1KwcSvPAjHhcGdD+HQJNsij6ZxclkpBYUXHyrSJivWQOGeD75xK7D7y11C3g/eVZIljlqIjrTwloJGwxMy/8U=;Ct0L7W5H+8vQB6HtIYqj9w=="
 ---

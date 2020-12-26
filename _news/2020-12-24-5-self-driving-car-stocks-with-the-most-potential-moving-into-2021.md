@@ -1,20 +1,22 @@
 ---
 category: news
 title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-excerpt: "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully autonomous vehicle on the streets."
-publishedDateTime: 2020-12-23T19:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181"
-ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp"
+excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
+publishedDateTime: 2020-12-23T22:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -126,22 +128,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/appleelectriccar-1608619658.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Apple reportedly plans production of electric car in 2024"
-    excerpt: "Apple will reportedly manufacture and sell its own electric car within four years, the result of a years-long and secretive effort to enter the market. The tech giant is planning to produce a vehicle with “breakthrough battery technology” in 2024,"
-    publishedDateTime: 2020-12-21T23:18:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/21/apple-reportedly-plans-production-electric-car-2024/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/21/TELEMMGLPICT000190616575_trans_NvBQzQNjv4BqdNLuJDSj-bduoIdVkVeVwdhwat7RjkF5CleLcJsFAQc.jpeg"
-        width: 2501
-        height: 1563
         isCached: true
   - title: "Apple’s self-driving electric car will be on roads in 2024"
     excerpt: "Apple is wants to begin production on a new breed of electric, self-driving vehicle as early as 2024. The technology giant has been working on some type of car project since back in 2014, but with almost six years of silence it was thought that perhaps the work was going into its CarPlay technology."
@@ -329,16 +315,7 @@ related:
         width: 1440
         height: 753
         isCached: true
-  - title: "Apple Reportedly Gets Into Self-Driving Car Space"
-    excerpt: "Apple targeting 2024 to produce a self-driving vehicle with its own battery technology. Cheddar is joined by Mike Brown, technology reporter at Inverse with more on how Apple plans to compete with companies like Tesla."
-    publishedDateTime: 2020-12-22T00:00:00Z
-    webUrl: "https://cheddar.com/media/apple-reportedly-gets-into-self-driving-car-space"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 4
 
-secured: "B+2QuIlke6h6GQFlx4sjP9aKET6dH3oSw42qB//nLjmU7dfTHSdX9odLtFWUO8PNHSEgmIRHNtzD3GuwrrwHMUVUNWZFq/tyqED2bm3vZxOeI42DT4p2V26zaW+WEB9221G1TuENFuIN0PdFeNVME/y+ODhq01rcvIMUD8EwVKqAMQs5SSU0RDJ9V5fNRHSzRC8ldXWlglJU7geNL9y1NGtV+2Ved9XNDUMNdtRhh4CogehIaj0/p1HefXOIx44f/F2WxzkMrejq73Cy6LFezsu2hVsmAyNboXHfqotCSO4mqmRcx4y0NMOXYl5E7FEU1TQ3rbS0oQulWh6DkbwHe/IKJTT5wKt+7jFm0MkHpJo=;e5tyOL4JRqg6pFqYdjFTXw=="
+secured: "PLz19nAMR6ahiWtQ/iqR8TzFNUxCbz/tilgPwViUqdgTZf/B0gF79Fmhd5UAYcJsqqL/BGUDg3rY38X0Nu7nUsZFZ9FYmMO0pDrc73RTStjKetprcu4mWx1tVuRVZyW+/uvqUucnN03iR2VNjJ+IAVgxQaqTSGlPK6K+pD3fB3O2jaNhGfTdS2lqNNs+ooyOsDWwOi/UKumP5oF3JVhq7LFxfXJSVQsrvqguWN6QvXrzOdz7TDyy/uB3DLpgUl3bUiVaGsvh+QK/nI4P5LGtYQoo806isxAkrj7PnI8p4+4i+pw+vWagoDQNj1wjvWjJ319OqgCXrhiXXBSNx9alj8yZnmcUnu5JTiVmwl0q4yu7/Slo2yUrtT7XubWeOWScQWPsQza6mXZyQxFr+X0U9yBv3ZC8SF9L4vewAoSbb+ryIuJpLzh3aevdFcQ+PvQtvEheo0vPIdp01uD6jvLXnu0rbuVQnjSKwwZJlHHm4WXMdiWGXiky5H19xhisT/nURCqTX64DKOyb2VfXSLv9DA==;jNKlJVECwTtMhdp4lKxPyA=="
 ---
 

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Massachusetts Passes Bill With Facial Recognition Rules"
+    excerpt: "Gov. Charlie Baker’s office said he’d sign a massive police reform bill after the Massachusetts Senate made a series of concessions, including regulations allowing use of facial recognition technology in limited cases."
+    publishedDateTime: 2020-12-22T16:48:00Z
+    webUrl: "https://www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial-Recognition-Rules.html"
+    ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial-Recognition-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Passes-Bill-With-Facial-Recognition-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Massachusetts police reform bill: Senate redrafts facial recognition proposal after Gov. Charlie Baker rejects restrictions"
     excerpt: "Massachusetts lawmakers went back to the drawing board after Gov. Charlie Baker rejected a provision to limit facial recognition technology."
     publishedDateTime: 2020-12-22T02:02:00Z

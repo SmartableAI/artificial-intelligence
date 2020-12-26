@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-14-new-ai-scrabble-mod-only-allows-words-that-dont-exist.md",
+      "title": "New AI Scrabble mod only allows words that don’t exist",
+      "excerpt": "Thanks to a new AI version of the classic board game, his distressing knowledge of the dictionary will be of no use at all — because real words no longer count. The BLABRECS system is the brainchild of Max Kreminski,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-14T124347.274-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
+      "publishedDateTime": "2020-12-14T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa.md",
+      "title": "Tonko bill to expand K-12 AI education passes in NDAA",
+      "excerpt": "Congressman Paul Tonko, one of a handful of engineers currently serving in Congress, announced his Artificial Intelligence Education Act has passed the House as part of this year’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "originalUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/saratogian.com/content/tncms/assets/v3/editorial/e/ee/eee4a3e4-445f-11ea-90a2-1b4c80ce84f5/5e347ffcdaa11.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "cdnAmpWebUrl": "https://www-saratogian-com.cdn.ampproject.org/c/s/www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "publishedDateTime": "2020-12-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Saratogian",
+        "domain": "saratogian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
       "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
       "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
@@ -1136,110 +1231,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-is-googles-healthcare-play-a-dark-horse.md",
-      "title": "Is Google's Healthcare Play a Dark Horse?",
-      "excerpt": "Healthcare could be the industry where Alphabet finds its next big product, and the company's strategy is painting a clear picture of where it might materialize. Image source: . As of January 2020, Alphabet had bought more digital health start-ups than any other company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604158%2Fgettyimages-1278542600.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "publishedDateTime": "2020-12-12T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-google-showed-us-the-danger-of-letting-corporations-lead-ai-research.md",
-      "title": "Google showed us the danger of letting corporations lead AI research",
-      "excerpt": "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/",
-      "originalUrl": "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/",
-      "publishedDateTime": "2020-12-12T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

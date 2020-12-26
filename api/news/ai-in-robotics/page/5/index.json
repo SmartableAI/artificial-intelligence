@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-14-fg-inaugurates-robotics-artificial-intelligence-centre.md",
+      "title": "FG inaugurates robotics, artificial intelligence centre",
+      "excerpt": "Okechukwu Nnodim, AbujaThe Federal Government on Friday inaugurated the National Centre for Artificial Intelligence and Robotics.Minister of Communications and Digital Economy, Isa",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/",
+      "originalUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2016/11/12194043/Dr.-Isa-Ali-Pantami.jpg",
+          "width": 600,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1",
+      "publishedDateTime": "2020-11-13T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-a-covid-19-surge-of-depression-and-anxiety-is-being-treated-by-robots.md",
       "title": "A Covid-19 surge of depression and anxiety is being treated by robots",
       "excerpt": "Robots can't do that yet ... Investment in U.S.-based, AI-powered digital health start-ups it has tracked since 2011 are above $10 billion, with investment in mental/behavioral health AI reaching ...",
@@ -1405,50 +1448,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots.md",
-      "title": "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!",
-      "excerpt": "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
-      "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg",
-          "width": 510,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yanko Design",
-        "domain": "yankodesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-19-predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more.md",
+      "title": "Predicting 2021 in cybersecurity: DDoS attacks, 5G speed, AI security, and more",
+      "excerpt": "Talk here about some predictions for 2021 as we round out, fortunately, this year 2020. Let's start with 5G. Of course, we're moving now from that hype phase to reality, and we're starting to see 5G inching its way in a little bit more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/6032b612-5e42-4f1b-a34a-7a7780f492a8/thumbnail/1200x675/b9ae690b5f7b685be658c631eaf05eec/20201215-2021predict-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "publishedDateTime": "2020-12-18T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-what-to-expect-in-the-nlp-space-in-2021.md",
+      "title": "What to expect in the NLP space in 2021",
+      "excerpt": "2020 has been a great year for the advancement of Natural Language Processing (NLP). We have seen a large number of organizations, from small ventures to massive enterprises, adopt NLP into their business solutions and data pipelines. With this high rate of adoption comes the next set of innovations",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/nlp-2021-forecast-leadspace-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T08:56:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-tips-for-applying-an-intersectional-framework-to-ai-development.md",
       "title": "Tips for applying an intersectional framework to AI development",
       "excerpt": "Ultimately, there isn’t a “one-size-fits-all” approach to building intersectional AI. At The Trevor Project, our team has outlined a methodology based on what we do, what we know today and the specific communities we serve.",
@@ -1109,110 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform.md",
-      "title": "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform",
-      "excerpt": "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "originalUrl": "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tHasCRNvhLb5akDB52Swkc-1200-80.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "publishedDateTime": "2020-12-17T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-has-ai-adoption-plateaued-or-is-it-just-catching-its-breath.md",
-      "title": "Has AI adoption plateaued, or is it just catching its breath?",
-      "excerpt": "While AI adoption in the enterprise has slowed, major breakthroughs in AI research this year show the technology is still moving forward.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
-      "originalUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/plateau.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
-      "publishedDateTime": "2020-12-17T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
