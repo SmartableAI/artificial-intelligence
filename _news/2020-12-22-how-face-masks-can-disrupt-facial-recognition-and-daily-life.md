@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

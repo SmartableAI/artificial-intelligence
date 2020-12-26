@@ -1,30 +1,26 @@
 ---
 category: news
 title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-excerpt: "In 2019, Baidu partnered with Chinese state-owned ... and other driver-assistance features. Its new self-driving technology uses the “Orin” processing chip. Vehicles using the system are ..."
-publishedDateTime: 2020-12-23T20:16:00Z
-originalUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
-webUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
-ampWebUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
+publishedDateTime: 2020-12-23T22:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024"
@@ -429,6 +425,6 @@ related:
       domain: morningstar.com
     quality: 3
 
-secured: "MhCHlybhnuQaZDw0ePVd2rsmcHcflA5uKWLsY2NgN01rCky7hC44pgxEUl8T9ztlbJ4klSB5no78oslkscEo7G0CI13wOBiwAqNsXOVKLiB5lPjY7aqEw2QoxRaaF28G+UwKwn6EXy1y1ijplRCrUGkWfCFZv9KHAX7Mev3Ynu86fAoljklFdl/ss1fLKo7yLrp6OnKopy8k4VFnpKAAgHvOfGu6In1/1whgwuuf9AikJDumFGzVLnF7/VNRkgQfUw1ga+hwF/IWBUfSGxQySeEH1A22upcBfEDxQ9tddKb8N0YTj4mFi7dgE+VohvxLEPV3pJZOo/CENOs8KK5Hhca6ISGkj52LSgUh8uIju+g=;mYqkG1zLc4DOAZRaZvDZuw=="
+secured: "7oC2xleuAR0nYr8J85hkyx3iC1Gelcp4QGD4jWOAj/90UjKKnGLLEnNOdBe1O+Yq0JBg5+eKCIpQ8y3uV7fL8zoVPZdIha66w2xWaoiBWTzumqCkdFfrJSPe/8q9GWYk8SYBzJP5Y1XLeF+Jq/5svzx+2tSgjGb35iddXw2xI/NqSC4D+iPsVHRUywx9NHMdHftZ0RE3skWMwgbA/fPsEhObpCHyFwD/Ke5VOjxGwVGEp8N/b8se4qJ7GxKYIzAWW4lgJrliYhZyNrPeKoFnyzl4BKp63YQZXfBx4aon9pEYTVfbn9ZR/l2h76jnK2XAxeyP/cjreKgbnCq9x7KLTFIfMhFQXWpYk5PHB3vSnYWyTaTwElRVIQn2LrJqVk3QZxPZ1riyaWTNZz4g+ROf+BSH1TxYX4ax6NBmLogBv9exfYIkV+9XU1NdthkFtnRniVYLO6rygpmy3qrtwKmdBWHQhI8VulAif6TSZEIcfoilL657lIJbzOENKGFk+9obTl+6VhyUW7cqC1ThRQc3Rg==;751ezRrnTQtSHBKMZR7Cew=="
 ---
 

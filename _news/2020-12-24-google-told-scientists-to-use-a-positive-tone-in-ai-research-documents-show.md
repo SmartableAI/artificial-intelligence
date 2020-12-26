@@ -3,8 +3,8 @@ category: news
 title: "Google told scientists to use 'a positive tone' in AI research, documents show"
 excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
 publishedDateTime: 2020-12-23T19:16:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone?fbclid=IwAR26T4BmtYd1KBb9EFPByI6wDPiOVkdShRUJIgbJgJ5Kdt6GqVJrg-DUq28"
-webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone?fbclid=IwAR26T4BmtYd1KBb9EFPByI6wDPiOVkdShRUJIgbJgJ5Kdt6GqVJrg-DUq28"
+originalUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
 type: article
@@ -182,6 +182,6 @@ related:
         height: 567
         isCached: true
 
-secured: "x8su9OTo2eHw5T+xcn0ZRYos8oYl9aH6e5vi0zgIemnn368ZgLzq8ueTc+t/aSPiwjVm4bYA2MXzfj/F3rNhMzmMid0P3SizbjGD6JlBwGvbjzbVvD5fLGbJuSdrVGtmLswxpFX4Ur7wfxYqcTIZmlSsM+pXhI8DVtPo3Ih9QIEe/KnFQxab16Oe1jdBRaHFhGwg90WNnLp8wZwLlpZZKFAKBWzlbPMKWH9/C+4lyYDEkW7uOwdZOsXsKWJMZl1Fnn6pzX0YjRLgHMORI1WO4KGg3278ig+DXdKPdacAUE2oqHPzXoCspGK6/RsW2HgtABc3ex3bWnHTOgtjWs5JOlESHOskHendfqPK9aur6c8=;mm1KI/Lixg4Ws7AxXK7tCw=="
+secured: "v9RDtHT+d4DGTV7ECOQ8IicpXpwcCEOXg1olk8xhdClD8OxJYmOn/2FKXTGWqHXrrm0NEwgfOX5fdaRrXsreT+1doAVcAlbwtqs8NPOy4xk1MVzKNMym0lnVgkPEt0kMQ1MMRc78NzCvHLHEyQXJ7ezIhfBY7BgwMwAmlRmC6rH59lOIhWmjlI1IE5r3UjDtFNonaMrkgyQFunZX4xLmrqnb5T35Aeq5jC6uVNUMjKzSwaCu+CmzKs7DWZMjiS3svxvBpObMBpRpZ2CIrtgsQWCH6oQi3ZVAoILMLPqc9sjm/C06fVIY37yOFAXNN8vuY/kye4TmS1yn6uCrICF20crbxOBLkqR9M/Brr+IsySs=;zXxoMqTC+L7BqRxqdMt9Fw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-dri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/"
 type: article
 quality: 99
-heat: 100
+heat: 99
 published: true
 
 provider:
