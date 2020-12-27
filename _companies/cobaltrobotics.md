@@ -4,7 +4,7 @@ otherNames:
   - "Cobalt"
 overview: "At Cobalt Robotics, we build service robots that are maximally helpful for the better of everyone and creates safer, more secure and productive work environments starting with physical security and facilities management. Our unique Robots-as-a-Service (RaaS) model and human-in-the-loop approach create more effective operations at a fraction of the cost of traditional solutions. Organizations in every industry can benefit from Cobalt’s end-to-end service, which manages everything from hardware and software to people and onboarding."
 type: "profile"
-heat: 57
+heat: 41
 
 website: https://www.cobaltrobotics.com/
 
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=68rBm8bm9AA"
 
-secured: "AYA7f/jV7Stkbd6Nd3QqIgj/eknT90NWb+LIdyanXCH4yCChC+Pqmhuthk1EqZC24EsT9SKOJDXE2sX8mZ862wUVfA1ZGnxxKLJ0r1YvVgc8X+sTv+S75tfidUn1yFoZ8Dgh/CfLGI2e6jpj3bdqxR7nWE6U0ZqKGz5AA14taPpKunKsqxfcHjXrv0CvlvNlodi7y8QANxHakoD+TA/7YS5EsFZuAWA0zDHfU+eSsvPHhMTACNezycvAsfzRtmgKXP+LYwz0RkCK+FcEkp+YO0caZbYORJgCR4oDn6J7AFrdhvwadaGYGooVAtmnrqdOjZ76S9Njn82RgwCTBjNHC7Z+TBBiCsGCD+dx64iJE2EvznlrDb6+0xAi1eR//pKPXUIlNO6O559lGJWQ2avT/lM0k7voyLoc0Tw4kUE5qM0=;kC4okzGWUfesrrz20Vj88w=="
+secured: "qXJYsObLAJQ035/1IqZANgFPd2LSW0q44GNbCCzC5qm6yO4JTaLVktHS6TAGrzsWKaOg2lYOyfyeisPMED8GyXFAS7lmdbWuhVyd6l02bJO5cnvkGUKzsfmnEa/SRaBdXm7MDNqLKLh+zWlXBne0h7it6WeV8OIHx2bI6doOY0o/G1oWEdDKtc/YRtv8zbeEoEpatbK+TBRAQxKRPgnzk1ko2p31z255sqUyXn1wfBjfLN4tZMj54Z0jzfPWni+E65ptBdGEvBIJKalBGaWgBZpo7qwgTcFJI6abLB5yVrdpuKDu43Y1+FFDlMoQ020ZBmDF1yebEl80zIeSA0jbz43myL2Mb9wWKjvm6tQHJFfgJVoqAGxInnwABVBWT4PIqMCYrhm2JSUbqj+yQ72ZvoeMifVQf/lr1aG91ygI5IA=;9Zc258aAeDLBogvVzVTWoA=="
 ---
 

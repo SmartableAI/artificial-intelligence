@@ -2,7 +2,7 @@
 name: "Uptake Technologies"
 overview: "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50"
 type: "profile"
-heat: 20
+heat: 31
 
 website: https://www.uptake.com/
 
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Uptake Technologies"
 
-secured: "t2p43JsbBNVswsOkfmurGz3Jl4THCnek6q/ILw4r9rKA7bJd3MXPh5m+dtx6Fh97EWLUZe9EVjKYgua9X5xWEhGgAFZpi3DUDGn/2EbdYTJtuxNRCKzqt+4fyKjIQpJk9bxm0/1J40bvQQ78AimfWX/CAYinv0XXGjL3ZE0B3kAuZtJBUN26FrI4OMQW/+AItuhvaMa/v3Y5mh2KQSoPCbRKa1QWvh/gyTatAgIuuWBjZhR2PojGB983dTjFOuBrpuuTe54gaJ4aCIc5YJCOQ1ttyW2ajMdk+5UfcEBBdmsrBlSi/qqV7tJtm64fsAsQ6wc5GywajBnDh/yrRe/kDo7y6ktfyVCj6TLVgj/hMQKVyLp/eIB+aFhlh47Lyyo2cI7OpDi323BGcmjmkvDdr0mz/yZz57DLeNTm/dUotqw=;/sNDgMxPR4HZx8ctkDZimg=="
+secured: "vvZn+ehVEzayhjNCPqgQqrP5obBf8dUTZv4CCvLRmlpAizV/y9COjZ2aNhhsLMR5NLI7oK+TUo6Q6sdphydGOKHFSmEiYLMQQHCV4L0JO0AusslS2ZzO6rPERA/URjsPcbjmZhZ2KI9G4PBlIrNWCbcw/RcrsBwk5WBmzljjlONJrnnWv5TDB/7NvlkmWtY+RB0klPgHqCBvRiFlUn9wkcYXmuZetwCybgz1uiG956sbpo2HHIIB5yqbmvxLD6aK4Ut8I9U6cX74EC+cFvnJMnqSReKpkD/bdq3GGyQ7meSqvJ8AoBDRUmnPSk+QvsS3B3wZHBeXT6267oYElam1Ye8UsS4rpNdL46k+y9bNyr/o414lBHubZAuaGRHoVd3d1LVPnkU5G/ZzHS0+w+oU/Veir5mg8z3bZGOQH6KvtLQ=;MZLSAT7fdhp+IYgoSdVAoQ=="
 ---
 
