@@ -1,31 +1,27 @@
 ---
 category: news
-title: "MuZero: Mastering Go, chess, shogi and Atari without rules"
-excerpt: "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms."
-publishedDateTime: 2020-12-23T00:00:00Z
-originalUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
-webUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
+title: "DeepMind’s New AI Is Able To Learn The Rules Of A Game As It Plays"
+excerpt: "Alphabet’s subsidiary DeepMind has recently developed an AI system capable of learning the rules of a game as it plays. While DeepMind has created impressive AI models that can master games like Chess,"
+publishedDateTime: 2020-12-27T07:52:00Z
+originalUrl: "https://www.unite.ai/deepminds-new-ai-is-able-to-learn-the-rules-of-a-game-as-it-plays/"
+webUrl: "https://www.unite.ai/deepminds-new-ai-is-able-to-learn-the-rules-of-a-game-as-it-plays/"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: DeepMind
-  domain: deepmind.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: unite
+  domain: unite.ai
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw"
-    width: 512
-    height: 288
+  - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/chess-433071_1280.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -109,6 +105,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "MuZero: Mastering Go, chess, shogi and Atari without rules"
+    excerpt: "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms."
+    publishedDateTime: 2020-12-23T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw"
+        width: 512
+        height: 288
+        isCached: true
   - title: "DeepMind just taught AI how to win a game without knowing the rules"
     excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
     publishedDateTime: 2020-12-23T21:34:00Z
@@ -157,20 +167,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "DeepMind’s New AI Is Able To Learn The Rules Of A Game As It Plays"
-    excerpt: "Alphabet’s subsidiary DeepMind has recently developed an AI system capable of learning the rules of a game as it plays. While DeepMind has created impressive AI models that can master games like Chess,"
-    publishedDateTime: 2020-12-27T07:52:00Z
-    webUrl: "https://www.unite.ai/deepminds-new-ai-is-able-to-learn-the-rules-of-a-game-as-it-plays/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/chess-433071_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "DeepMind’s new MuZero AI develops ‘superhuman’ chess skills by making plans"
     excerpt: "Google LLC’s DeepMind artificial intelligence research unit today detailed MuZero, a deep learning system that can master Go, chess and other games even if it’s not told the playing rules. MuZero’s impressive game-solving skills stem from its ability to plan what’s the best course of action in a given scenario."
     publishedDateTime: 2020-12-23T23:22:00Z
@@ -200,6 +196,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "ocRJYdvmlDZKmxxYV+StmvgDscljnsSisbDzeKcrbDa0Qa/ByJ2ny+NIri6oWEXsEZk5OFo4b3tGON+ojSU9EE2DQ/U0Zqt7LneZ+qNZZVXRzBWPtlZoQwOiP09/o5Gg2mzoxSAzqXPzrBE7CYF6s/BTV+iTBTlW4iTTASR9aCHzkutcKAaM3Po8ZMuGPn6JDUkwmzHWEqz4aNmnLdBtjTcIR3iMjjVVTqePfPB2a7+7zzmoqSaxWUACZCT4jqNijPJ3iDoyS1gWX2kFKDwG5R7kCQF9WIxATr2brOpe+zaFnd3flv80N8oaP3s+vF3ZwSxO5QTd4FAuLStT0sk7o/xWyC0sspFIMoELvwL4XDc=;7HMcuQCIWd5xadO2J0cAqA=="
+secured: "McKuRnrJ/3Tj0/dO321vMKoAjfEy4dslFhzSZ1OEvN4slXUlNmVnVKxEcgiHzpU7ZSxobRdo2FcOgmKgw4bk/fBFhn8DlzeWSWHYwV6bEANwDENKvOh4rgeaolxVcuwsKJn+HGfQPvRoxC5d4uUvh3eYOZbZWflFuvrCQpvMb4g3E52Hq0wW0oyQuAT3aJrb3YWLjYYWv2+ikQdYj0tC05xJUWDUC6/3Bva/59I5yAJvqf2/vMjXYuTBm/ziqPSypiYQNC5u/9SSo5J0ybgOyc54Etk9z5TQ3JasrkoikaNV8vhsP7aOz9O2DhJu05lzxsnuXwVTfLEj5FSASo1y05H34js2KMzTuASDdzz3pEQ=;V8x4UXV+xuvRGnTqdb149A=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-12-09-the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-ruining-our-lives.md",
+      "title": "The trouble with AI: Why we need new laws to stop algorithms ruining our lives",
+      "excerpt": "Ethical guidelines are the only tool to date to control AI systems. They're not doing much for our rights, finds a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "originalUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/4f4c61fa-86b7-4529-b079-3600abdc6ea8/thumbnail/1200x675/14bdca55e9ff64c6339770573420cf2f/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "publishedDateTime": "2020-12-08T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
       "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
       "excerpt": "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ...",
@@ -1113,58 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot.md",
-      "title": "Iranian nuclear scientist allegedly assassinated via killer robot",
-      "excerpt": "A top nuclear scientist with the Islamic Revolutionary Guard Corps (IRGC), a branch of Iran’s military services, was assassinated on 27 November in what the Iranian government is calling an assassination via AI-powered machine gun.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/skyassassination-796x405.jpg",
-          "width": 796,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/",
-      "publishedDateTime": "2020-12-08T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

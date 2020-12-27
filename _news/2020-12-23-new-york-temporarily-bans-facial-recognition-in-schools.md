@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facia
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28584fc8e8b87dee3cdb8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4169%26cropY1%3D211%26cropY2%3D2555"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
-    publishedDateTime: 2020-12-22T15:59:00Z
-    webUrl: "https://www.chron.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Cuomo signs bill barring facial recognition systems in schools"
     excerpt: "The bill would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."

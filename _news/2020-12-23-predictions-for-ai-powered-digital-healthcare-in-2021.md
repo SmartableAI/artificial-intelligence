@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Predictions for 2021"
-    excerpt: "Artificial intelligence and machine learning continue to make waves in the industry and 2021 looks to further that trend. Experts in the field see humans and machines working together to eliminate biases in algorithms while making work easier to manage through the automation of simple tasks and more."
-    publishedDateTime: 2020-12-22T16:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AI-Predictions-for-2021-144500.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Application Market 2020 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2025"
     excerpt: "The latest report entitled Global Artificial Intelligence Application Market Growth (Status and Outlook) 2020-2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
     publishedDateTime: 2020-12-23T04:12:00Z

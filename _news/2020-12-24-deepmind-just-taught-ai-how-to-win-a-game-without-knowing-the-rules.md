@@ -153,6 +153,20 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "DeepMind’s New AI Is Able To Learn The Rules Of A Game As It Plays"
+    excerpt: "Alphabet’s subsidiary DeepMind has recently developed an AI system capable of learning the rules of a game as it plays. While DeepMind has created impressive AI models that can master games like Chess,"
+    publishedDateTime: 2020-12-27T07:52:00Z
+    webUrl: "https://www.unite.ai/deepminds-new-ai-is-able-to-learn-the-rules-of-a-game-as-it-plays/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/chess-433071_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "DeepMind’s new MuZero AI develops ‘superhuman’ chess skills by making plans"
     excerpt: "Google LLC’s DeepMind artificial intelligence research unit today detailed MuZero, a deep learning system that can master Go, chess and other games even if it’s not told the playing rules. MuZero’s impressive game-solving skills stem from its ability to plan what’s the best course of action in a given scenario."
     publishedDateTime: 2020-12-23T23:22:00Z

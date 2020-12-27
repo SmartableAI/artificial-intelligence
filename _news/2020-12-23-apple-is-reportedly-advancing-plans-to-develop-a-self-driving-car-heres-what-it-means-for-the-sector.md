@@ -59,20 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple Moves Forward With Plan for Self-Driving Vehicles"
-    excerpt: "Apple is reportedly planning to produce autonomous cars by 2024, using its own breakthrough battery technology."
-    publishedDateTime: 2020-12-22T16:37:00Z
-    webUrl: "https://www.investopedia.com/apple-moves-forward-with-plan-for-self-driving-vehicles-5093423"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 24
-    images:
-      - url: "https://www.investopedia.com/thmb/-Ku8jMQqY1AXhQr-8GOqkG8yQYQ=/400x359/filters:fill(auto,1)/driverless-car-56a5ba855f9b58b7d0de2794.jpg"
-        width: 400
-        height: 359
-        isCached: true
 
 secured: "JNkBJfDy/2m2RvXXS9Mv7tWFvulnh4sBvqk8Ha/WMlyfzP8Ahh5XXmOYp98OwQqpZ5QJ5pnQ02jhhcMBHMhYct+CWWT6vytBDafqZPiTHMXZf7nyDr/K8VdrKkD9jJ9u+SXoMKaSwx+eA1KAU76qZtHaD3kw9r5K3UxVQz83idGjgMBz6JHvi/GboVHFYslCbxYeIkD4vCsGaB76Tba2DVLsru3NhMlfNMj0eYvCaGcL1DxW1u89fgna0b8EmamOG0VWEBk7FzVexTfZo/Gyrs5hnR6QMZJB51aXwR2dL3Sn8lQumOFbq+TeSQxWmneGZDhNO2HJ2b3CW8csNzBvf16HDqX/5wGFyEhrv/jxpHC4O/JxUvc6c5uoJNSRuOIxic2EUOTHuBIRtJTn2vG5TWistsq2ciWqRKUdTCDagWS5KO/YzNwkkUN0DUm8WJ7hnV9SBLT8Mt79Moy9M+7uJeEXIZfXfJ/JH1QZFA2tTHBwbDWMkpILB0CP26sCdyrQnRRlPKCEw2khQPPPLXNfnQ==;GQia7BOWSCuRRleVhXLuxQ=="
 ---

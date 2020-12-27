@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self Driving Apple Car Coming In 2024, New Report Indicates"
-    excerpt: "The Apple car may be back on the table after rumors surfaced this week indicating the American technology company is developing a battery-electric vehicle that will enter production in 2024. According to Reuters,"
-    publishedDateTime: 2020-12-22T16:44:00Z
-    webUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/"
-    ampWebUrl: "https://gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
-    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/12/self-driving-apple-car-coming-in-2024-new-report-indicates/amp/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 59
-    images:
-      - url: "https://gmauthority.com/blog/wp-content/uploads/2019/03/Apple-Logo-grey-logo-white-background-1024x538.jpeg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "4 LIDAR Stocks to Benefit From Self-Driving Car Revolution"
     excerpt: "With driverless technology being one of the hottest investment ideas in the auto market, the best way to tap the AV revolution would be to invest in the core technology that has made self-driving cars a reality."
     publishedDateTime: 2020-12-23T14:42:00Z
@@ -70,20 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Cramer on reports that Apple is moving ahead on self-driving car initiative"
-    excerpt: "According to a report from Reuters, Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle. The report sent the stock higher in extended hours trading on Monday."
-    publishedDateTime: 2020-12-22T15:08:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/22/cramer-apple-self-driving-car-tesla-squawk-street.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 52
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106193847-1571685003084img_3993r.jpg?v=1571685072"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Apple reportedly plans to build a self-driving electric car by 2024, but it will face stiff competition as new EVs flood the market"
     excerpt: "By the time Apple's rumored electric car launches, dozens of new EVs — from sports cars, to SUVs, and trucks — will also be on the market."
     publishedDateTime: 2020-12-22T22:18:00Z
@@ -147,22 +117,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/39516-75720-5ae145c766a97c82b0b66d78-xl.jpg"
         width: 1200
         height: 695
-        isCached: true
-  - title: "Apple Is Planning an Electric Self-Driving Car Featuring Game-Changing Battery"
-    excerpt: "At the center of Apple’s renewed strategy is a new “monocell” battery design that could significantly reduce the cost of batteries and increase the vehicle’s range, according to a second source familiar with the matter."
-    publishedDateTime: 2020-12-22T17:06:00Z
-    webUrl: "https://observer.com/2020/12/apple-electric-self-driving-car-2024/"
-    ampWebUrl: "https://observer.com/2020/12/apple-electric-self-driving-car-2024/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/12/apple-electric-self-driving-car-2024/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 40
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/12/GettyImages-1144596495.jpg?quality=80&strip"
-        width: 3600
-        height: 2492
         isCached: true
   - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
     excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-interna
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition?amp"
 type: article
 quality: 61
-heat: 81
+heat: 82
 published: true
 
 provider:

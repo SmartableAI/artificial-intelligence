@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Grasping an object - model describes complete movement planning in the brain"
-excerpt: "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key."
-publishedDateTime: 2020-12-07T15:35:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
+excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object Every day we effortlessly ..."
+publishedDateTime: 2020-12-07T10:02:00Z
+originalUrl: "https://idw-online.de/de/news759379"
+webUrl: "https://idw-online.de/de/news759379"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
     isCached: true
 
-secured: "/t4WrYRPZ5GIt2QnHpLL4S+lE7X/tdhAGzqYZnFarD2sbOQ7qHmlzRvIbIWC2jTVx4FtNkLKTtWOQD3ux/+drlx0d0zZF1Td8S2J9uFG9XkIGc0xyjmvuX5aK4I4p4zLhOQ59r1U2y0v25saaW4lUqZ+llx5ziM1MRIMhypTEGR5uO6xbwGTmDiqFRK9RZIJDYYab8kf6V91v3pYtpmb2MBNMO9zcgAua8n0d7Qu3VhExIZTmtaWAcdk/qbZBdvCyLkXx3Ugop3Vrafs0Jxr10aUrF+Erf2vnmxDbH0M6pDogW9bYc/Iu2HUMWwdF0EDaRBq5QV7vGS/YXVsq3f+Og8tMBXy++KCdhpmWCkSEiI=;jqkLuUFsh8WHIZjUhcJA/w=="
+secured: "L/2yqR0pYptevWWK1zIlCzg+7MTji1ME6wakMXmitrmIdO1N00fFOUpoo4MfXzYzQMF/yCegXAvK0anQPMdzm8mWoQrs46mM+enOwXEBh1PTBaazfkZcpXWAgDqpsUW1GIn/nfWEEcYr6BT7MshgDpwSryGx8AEiiPWqW/+LltRe9mYGQpuOxhWpEZoPleAu6x3zxEPLb7u9HTHr4F+YujwpnFxU/HnMJZG1Ss6GISFmkP8yhexoJpPoYd8QmUX4loLXfNgGSrnlHWEWA+EGl8orXUQSrtE0cUHK0esC/gpX8RaA3QHRR6ncNvLHBjUNBbLWtEuGiSEtIzdhCEgPiWw4a30750m8NA4jBM3qfcE=;Ku2TBl/8L9b58H6+GGauRg=="
 ---
 

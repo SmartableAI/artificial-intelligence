@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
-      "title": "AWS Announces Plans to Launch a Second Region in India",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-05-amazon-translate-now-enables-you-to-mark-content-to-not-get-translated.md",
       "title": "Amazon Translate now enables you to mark content to not get translated",
       "excerpt": "While performing machine translations, you may have situations where you wish to preserve specific sections of text from being translated, such as names, unique identifiers, or codes. We at the Amazon Translate team are excited to announce a tag modifications that allows you to specify what text should",

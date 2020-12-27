@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Predictions for 2021"
-    excerpt: "Artificial intelligence and machine learning continue to make waves in the industry and 2021 looks to further that trend. Experts in the field see humans and machines working together to eliminate biases in algorithms while making work easier to manage through the automation of simple tasks and more."
-    publishedDateTime: 2020-12-22T16:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AI-Predictions-for-2021-144500.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UQFc+q6OwzrwFzCQ8L2rIMndl+Y+9S4gIjZlNLkOTJ0rzcuMi6btEZMkl3VGWDw2iS+twmj6nf30GU4G/UVN59McMlljIU4wk9EpgCc1ZxbluIFWwhh7fPEhdYOiuUI16ancanLGQfaOXvySz9aUCR1vhoOc9K4z2zQY//9KX6yViKVSRXxFqF8rLE8gwbzp/rNXIFa5/ubLxATYhr4etlho5tu9wTuhsHzPjCXoo/h0mGS7kzBOFirbFubQyOQ56sKcwoAODfjSGkjsWuWPvORRWms83Dnl/1k1UcFtDfQaCnAWqveuBNLRK/WqCBtc3igUmD2Lt5BxElCH5xX8XLllcS/t6n1XuxGCj0yOsBM=;ZJFlMcu85n0Gj2M/qNl5bg=="
 ---

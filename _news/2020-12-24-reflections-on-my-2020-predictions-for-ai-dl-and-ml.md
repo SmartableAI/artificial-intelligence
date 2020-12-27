@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
     quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Predictions for 2021"
-    excerpt: "Artificial intelligence and machine learning continue to make waves in the industry and 2021 looks to further that trend. Experts in the field see humans and machines working together to eliminate biases in algorithms while making work easier to manage through the automation of simple tasks and more."
-    publishedDateTime: 2020-12-22T16:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AI-Predictions-for-2021-144500.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
         isCached: true

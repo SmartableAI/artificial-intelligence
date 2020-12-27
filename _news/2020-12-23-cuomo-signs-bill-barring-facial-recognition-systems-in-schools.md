@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
-    publishedDateTime: 2020-12-22T15:59:00Z
-    webUrl: "https://www.chron.com/news/article/Cuomo-signs-facial-recognition-voter-15822810.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuomo-signs-facial-recognition-voter-15822810.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Gov. Cuomo signs facial recognition, voter registration bills"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely"
     publishedDateTime: 2020-12-23T05:28:00Z
