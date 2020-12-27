@@ -79,6 +79,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "DeepMind’s big losses, and the questions around running an AI lab"
+    excerpt: "Guest Last week, on the heels of DeepMind’s breakthrough in using AI to predict protein-folding came the news that the UK-based AI company is still costing its parent company Alphabet Inc hundreds of millions of dollars in losses each year."
+    publishedDateTime: 2020-12-27T22:26:00Z
+    webUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/"
+    ampWebUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them"
     excerpt: "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,"
     publishedDateTime: 2020-12-23T18:53:00Z

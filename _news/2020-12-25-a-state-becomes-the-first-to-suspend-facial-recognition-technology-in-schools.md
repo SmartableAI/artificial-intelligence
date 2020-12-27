@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Gov. Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely"
-    publishedDateTime: 2020-12-23T05:28:00Z
-    webUrl: "https://www.mytwintiers.com/news-cat/regional-news-news/gov-cuomo-signs-facial-recognition-voter-registration-bills/"
-    ampWebUrl: "https://www.mytwintiers.com/news-cat/regional-news-news/gov-cuomo-signs-facial-recognition-voter-registration-bills/amp/"
-    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/regional-news-news/gov-cuomo-signs-facial-recognition-voter-registration-bills/amp/"
-    type: article
-    provider:
-      name: MyTwinTiers.com
-      domain: mytwintiers.com
-    quality: 59
-    images:
-      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2020/12/Governor-Cuomo-Andrew-Cuomo-NYS-1-1-2.jpg?w=1280"
-        width: 872
-        height: 489
-        isCached: true
   - title: "New York issues 2-year moratorium on facial recognition in schools"
     excerpt: "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ..."
     publishedDateTime: 2020-12-23T17:04:00Z
@@ -141,20 +125,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 39
-  - title: "Cuomo signs bill halting use of facial recognition in schools pending further study"
-    excerpt: "Gov. Andrew M. Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools and issuing recommendations."
-    publishedDateTime: 2020-12-23T06:42:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 33
-    images:
-      - url: "https://s.hdnux.com/photos/53/06/13/11297525/5/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
 
 secured: "+VxLmrJxRSKnxo6BwloHFSXSjjzEltA0AQ/ZAFM2f3Lg6yQyT4GmoQCjEhDglY1+uQgbqMQowxCg5ITYi/se8cr6HII4iqSBZRp5OvUhD2qO25o0NlP/xTeDua/MH5BcNMzJmNlSa78PeP8dESO8TS37x1YbAlmGbnF+HuB5G4FwrCj1Iaw/Ye9rNgYvOfRWQWniRZKofbzhFfz+nmKfuQgmvveBJvsjmGNb3L0GVPvu2pqu0aGvFT/qJKYUE+17R8bmEkc0UjDy5TDDKPpXRrlYhjZXCMDj9VH1nV2nHIriDboxDTTuGMbVUinoZHLAPpptc7wYIFpWDXjOHSqX2UeKscCa5H+ERTuivHZAGrhevVWpqOSkE8/JtRDzr0j2i0DGXCZh0oYQ41u9fOGWcz6N//1jjaNRnBy7EijnyjwoLN/xGnI+OyIiwWArjQDe9CKibFfDPuq/8fBYSV/hL7360Y6AiJL9pXLKh+xHtoRm3qOymIytDbKdS9H3xNi3phVQWyIGQWr+i5audM1qmQ==;ZTMvkGtIYrCGiA9+0MvkFg=="
 ---

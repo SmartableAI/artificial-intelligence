@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-ch
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
 type: article
 quality: 104
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe9a26a30-44ca-11eb-af9e-fbbada99bdf7&client=amp-blogside-v2&signature=86dc1078e2e85e46497c6ab2082a714f60cbab7a"
         width: 600
         height: 350
+        isCached: true
+  - title: "DeepMind’s big losses, and the questions around running an AI lab"
+    excerpt: "Guest Last week, on the heels of DeepMind’s breakthrough in using AI to predict protein-folding came the news that the UK-based AI company is still costing its parent company Alphabet Inc hundreds of millions of dollars in losses each year."
+    publishedDateTime: 2020-12-27T22:26:00Z
+    webUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/"
+    ampWebUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "DeepMind’s MuZero picks up the rules of games as it plays"
     excerpt: "In a paper published in the journal Science late last year, Google parent company Alphabet’s DeepMind detailed AlphaZero, an AI system that could teach itself how to master the game of chess ..."

@@ -38,6 +38,17 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "AI-powered bionic hand promises lifelike dexterity"
+    excerpt: "Engineers have created a prosthetic that's meant to be more mobile and affordable than other robotic limbs. It's a hand powered by artificial intelligence that gives amputees control over each finger,"
+    publishedDateTime: 2020-12-27T21:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/ai-powered-bionic-hand-promises-lifelike-dexterity/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/ai-powered-bionic-hand-promises-lifelike-dexterity/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ai-powered-bionic-hand-promises-lifelike-dexterity/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "koxYCMX2GFj9mWUKVsS1Ow9j7qw4o+hKmLZU2asYHau4ao46EJOH8cyDCqAV2SbJsvE3K3TGCfsoS9Vk2316rbJPPTlkRGmCbSM9D/Jjt2paLIi2anzF3JT091bMWNKuC+yzrtRLqGXcw1ThAqYWtZHFhrL1Dh3VtI8Vmb+jDbHYY5DNZ/P4FrkcOdtIo1Osy+dUedcJ1c5HdceODDVY+7aTCZeTADHmh0XTbxwT9qx+Dfhkwjx/wFebUbFeh3xmkfkdQuEdOUEMkH8LBprBnbDAsQ7QT25bI66nK7bGMQjCQ5TLWJoRkBs4Y4Ykpwps29d9LoR4ciTVHsptI5kIUnERA8HW6rKrCbLa4tQwJv0=;gezNaXlDdtN730+6rE38WQ=="
 ---

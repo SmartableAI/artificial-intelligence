@@ -30,19 +30,12 @@ related:
   - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
     excerpt: "In 2019, Baidu partnered with Chinese state-owned ... and other driver-assistance features. Its new self-driving technology uses the “Orin” processing chip. Vehicles using the system are ..."
     publishedDateTime: 2020-12-23T22:12:00Z
-    webUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
-    ampWebUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "rHB9SPKTeJe+WuI2tClp4pjxm1HJji7rbHTgqq9NEy5EQW88RH7FLh8C0QrH3woTFW6CrE9ZMKNJafNVMa1x9zMVZDDgqpQ2Ed7yoHk6GeBX9LpzKoXZZrT0tWY3d9WlLfm2LN40FN/sRIkBBMD7IEhBCaZ/dkjBUtQTI2Jjt5Qn9hsu4QcxVHqQ5TLooAArEI4zH0iig1a+W75NCHpFggFdbzqPVDsqG2SbCcZu1izV3lbatvIfPd6QPzJiznCjgI9g4zTEFx5NLbgF7DUcvpL8RjooN6NWoF6BYeuw7fM7Rjv+dr74erkXGL6RNE6W3GEQ90UwSNXMRruKtpRZOQrLpzUtu0kMDlS1bOuDnUQ=;UzQYWHauoD0NlBbThsrSoA=="
 ---

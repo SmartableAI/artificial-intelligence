@@ -3,28 +3,24 @@ category: news
 title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
 excerpt: "In 2019, Baidu partnered with Chinese state-owned ... and other driver-assistance features. Its new self-driving technology uses the “Orin” processing chip. Vehicles using the system are ..."
 publishedDateTime: 2020-12-23T22:12:00Z
-originalUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
-webUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
-ampWebUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+originalUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
+webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Malaysia approves first testing route for self-driving cars in Cyberjaya"
@@ -44,6 +40,6 @@ related:
         height: 310
         isCached: true
 
-secured: "Bsw5Q3VnQBB8Mp99ZQhNqPVYxlNStdL8CzOD6veNfHXyhhfDRQov4qKm4r27uxxXGSr1GQ7tLV0DHll2HwJ+MkdMLMikmWNHgXDlycLhNF8XnAYJoFKag+ZVscpUsy1D1SFJi+ocClvi90k7CNxheaLBbVv5z2UBWai9Lw5+gv52900lPOaFMRgWsz04roNtdQpsju9xvcmCS/s1zizP+pSdym49j4bhGjfKEEa66i7aoQ8lVvFrsNbOKJXXRTw/u4bz++ns3zkbGcTP0qK6rk1nQHlnSogcbaLWTpVaPq6rrJ/3MwpMMCqoE9lJbWXuVohzGr7LCDphhOXB5M973QZ5fZqr1SwLha0z0v2bBN4=;LE1xdEkYuX0pksqcJx+KlQ=="
+secured: "OLRcI8byuAHonySVYfvzafOiiNUMLb3xtnp/9MDT5MktqrsNI1wTRHUX6mtiTlSLkAycyX8/HAWHjlsbGfDvLZ1AMg8QRPsxjUJJ+ri8Di2fo+GZ2xWfzLzohT4SttSi52s3+0kIi24o9P5x4Csq2xiWcRqlpLJJ/9sckB5eoJtvdSk8vEcAiHiQoxC+mwwdmk+pHZn6OgPevaNVdRWoH8WdxUuIjWbcVTp/if1V7FJQFFbsR5vcQ0qlIzlOecoUltlS9QFJtuQS8IaPk65HLigCoEH5gd5iKBUd1pnxs3NTqXT39Y/cLphjZYm//iXDgudIMzvIktFHKxqwjWutsT8kOOUDYTItT8FQI+u+NrQ=;qAUuEQMtsw16i/30Xb2Gdg=="
 ---
 
