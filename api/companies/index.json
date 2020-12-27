@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6736904
+        "followers": 6737225
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3528615
+        "followers": 3528696
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9176410
+        "followers": 9176490
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1556814
+        "followers": 1556787
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -360,7 +360,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 107037
+        "followers": 107038
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -394,6 +394,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/appannie.md",
+      "title": "App Annie",
+      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
+      "type": "profile",
+      "name": "App Annie",
+      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "website": "https://www.appannie.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/app-annie"
+      },
+      "twitter": {
+        "username": "appannie",
+        "url": "https://twitter.com/appannie",
+        "followers": 64293
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 334,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "App Annie",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/openai.md",
       "title": "OpenAI",
       "excerpt": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
@@ -413,7 +451,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 494368
+        "followers": 494375
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -437,44 +475,6 @@
           "width": 400,
           "height": 400,
           "title": "OpenAI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/appannie.md",
-      "title": "App Annie",
-      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
-      "type": "profile",
-      "name": "App Annie",
-      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "website": "https://www.appannie.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/app-annie"
-      },
-      "twitter": {
-        "username": "appannie",
-        "url": "https://twitter.com/appannie",
-        "followers": 64275
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 305,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "App Annie",
           "isCached": true
         }
       ],
@@ -543,7 +543,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1050927
+        "followers": 1050929
       },
       "yearFounded": 0,
       "locations": [
@@ -553,7 +553,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 267,
+      "heat": 241,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
@@ -723,7 +723,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 3130
+        "followers": 3131
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -784,7 +784,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 33778
+        "followers": 33783
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -835,7 +835,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 15685
+        "followers": 15690
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -954,7 +954,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 14852
+        "followers": 14854
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1010,7 +1010,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 22002
+        "followers": 22004
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1063,7 +1063,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 532167
+        "followers": 532172
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -1105,7 +1105,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 22657
+        "followers": 22653
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1151,7 +1151,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 61504
+        "followers": 61501
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1204,7 +1204,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 7843
+        "followers": 7846
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1348,7 +1348,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 305,
+          "heat": 334,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -1393,7 +1393,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 9121
+        "followers": 9122
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1447,7 +1447,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 4816
+        "followers": 4818
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1506,7 +1506,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 65737
+        "followers": 65736
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -1566,7 +1566,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 17683
+        "followers": 17686
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1629,7 +1629,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 39687
+        "followers": 39690
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -1794,7 +1794,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 21013
+        "followers": 21011
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
