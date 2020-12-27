@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
-excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
-publishedDateTime: 2020-12-27T04:16:00Z
-originalUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
-webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
+title: "Artificial Intelligence in Telecommunication Market Growing at Steady CAGR to 2026"
+excerpt: "CMI announced that it’s published an exclusive report namely Global Artificial Intelligence in Telecommunication"
+publishedDateTime: 2020-12-24T02:07:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-growing-at-steady-cagr-to-2026-2020-12-24"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-growing-at-steady-cagr-to-2026-2020-12-24"
 type: article
-quality: 0
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - IBM AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
-    height: 250
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -34,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Growing at Steady CAGR to 2026"
-    excerpt: "CMI announced that it’s published an exclusive report namely Global Artificial Intelligence in Telecommunication"
-    publishedDateTime: 2020-12-24T02:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-growing-at-steady-cagr-to-2026-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -134,7 +124,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
+    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
+    publishedDateTime: 2020-12-27T04:16:00Z
+    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
-secured: "OLP8ZfDT5qQPHhu/U3M410mYlEjcSGyOpGv4yEBmmsLwYK86rqryp/OMddyKSZ9+yXyT38YFbBF38ZzQzAdBVk2Bf+REq9xSu+AV8E0tfGET4R9JMPBPlFNIraRByDxepbf0RFZdn6k2jrrxLmmjtwoJewh8fNe4B4Z37B0ipL07QhPZb8+hUP9N17TwpcYsZRmZgFGQL+I6cPhQtaXzKFUggzQ0xHSDIq6KrOIe1bIdww9iggnVKCEvRa250BfTCe0uEEZE0zytwMyO+ZvGBn49DEZ4rSUzz9n69J/apKYu9JuPtWuBuJUwua6cmtZjkUid3TQqCiHYTBV5kOcC4llgix0fhfqkdWR2DkXflfw=;nqU3wK7wYIHLrKGM+9cM5w=="
+secured: "WhjIGPNVNay/tJwYKjNcE4MLtQE8jUE19dDns3/3NIqVIlh8D1M7Rq8O26sWSmBF1niyPdLY1iowNUJ4lYzPk6ylN/fs6cqW/2XsVySvu0ipCg83NAd9hb6AAjx0ZzmsI35C9jJt/4lGBwZmFHsVgvUVPi0y6oH6PTJddjL3cyhSZciitNSk0zzCj2ixWg1XG/gzlpJnELRnHQdCHdjpMbfyW54SemMlRISI7ER7dd6Xv5IM6fM6kYxzfI3zqVzQU7bsy+b/qSehf9L9oseVDb3qppdrOIpcwq0PG3CRxdfjCvdrzCv/kWQ87lWfufAzIu0lDDrbczJqmd0ullXKPpULDcm20tWReKwvnAIraGg=;z0xuQqshu5ySfqPQQlQ1eQ=="
 ---
 

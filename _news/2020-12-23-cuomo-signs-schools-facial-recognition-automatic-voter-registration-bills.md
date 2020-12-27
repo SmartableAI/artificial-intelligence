@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cuomo halts use of facial recognition in schools"
-    excerpt: "Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools. The legislation places a moratorium on schools purchasing and using biometric identifying technology until at least July 1,"
-    publishedDateTime: 2020-12-22T13:41:00Z
-    webUrl: "https://www.timesunion.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
     publishedDateTime: 2020-12-22T15:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-12-ai-craters-moon.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Thousands of ocean fishing boats could be using forced labor – we used AI and satellite data to find them"
-    excerpt: "Fishing on the high seas is a bit of a mystery, economically speaking. These areas of open ocean beyond the territorial jurisdiction of any nation are generally considered high-effort, low-payoff fishing grounds,"
-    publishedDateTime: 2020-12-22T13:56:00Z
-    webUrl: "https://phys.org/news/2020-12-thousands-ocean-fishing-boats-labor.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 0
 
 secured: "G5rwqQCnSJu82QgG/RgMoHCdsbtthyRrPKSpx+8t6EuhpxafAMqreFMumb53fIIqjECmyeSkqNkaEI5nT/M7lxnTr1iIOS3Ec5rHrUcjL5s5qY1p7CIxMR8Rh9cxhuQmZJaXdtOm8mciiqgYAZkhbFGPI5zntRFnA2Jy+LYlPnZm7dag6pkmdclyLIYSstv8U7z7RqXgP8SsOlm8Esgf4QD3586sdoukdar2s5Onb+TxwOc4qXqlHN7Zv6zse1vj0JglX5BoVa6NtFJCC51I83AqaVD+bPWD+3GIdcBr/E31ynJMSRATMsNb3uQjJI+NTnAYwVAfZqXVpYQmZB07jFW5/IJVI5n5zEr0liJ2nNtrNultDlRbDk834jPXtO+QwK+mJQJ388fT49s+d5442az19h2Qsu2rWKSuZXNEUu1Us84mDMbVsgWZsFSDhObmwPLCT2fBpOtCDw8p+oYiAr1GJEHjwylkGAFrEigA7rLMGIgmmv7bBCqXoelc9VC3ey7RvcX7s23DkUSmAWDZdg==;olx0lE+lyum30Hbr+pJ00g=="
 ---

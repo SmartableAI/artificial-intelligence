@@ -72,15 +72,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Thousands of ocean fishing boats could be using forced labor – we used AI and satellite data to find them"
-    excerpt: "Fishing on the high seas is a bit of a mystery, economically speaking. These areas of open ocean beyond the territorial jurisdiction of any nation are generally considered high-effort, low-payoff fishing grounds,"
-    publishedDateTime: 2020-12-22T13:56:00Z
-    webUrl: "https://phys.org/news/2020-12-thousands-ocean-fishing-boats-labor.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 0
 
 secured: "86wOJjI5AGFXdLkDbBcQkqvJH6zjyEFp9U82GPFrjzhlo5VzXqwNsE1EhKDba5RZOFA2Ir+E52IRE8ZxOYRcrWLNQvz8p6lT+yoZz7uS30uUNkG3t5USHd/Nb3upiPhtiLsEhht6USngsxMnSb+Sa92NsdWQb72/Hd5Z6EYmJ+QzXPlxJ/gGzBkBkt5C9cBV57fLzZMqOb4RDF5OoLg+0kXh+lSnb2gWNEnoB1QrniSzZSi/0yfwZyEDTKq4QOcn7UY7735sS7n0sTDAQw+hiIO1nFQUqMeCrLPV0/gAL0w2LJYxcyp7PNw3UnMd3QGUNWmpajy33+NTx2JIVFUAN3iPUhV8gWsQsuCcsQ6+061r92bPybIs3iMTgKxqzz5Xq119iOiS4qfute+T1dMzh+MSHSf3eI1SzlmAoL2eibgqVc6pMPDQ1BKrywEDhn4cS53oaTDzS5fm0SueyRCYJMYOgrLJX5Jvsknh+v//IF8eqeQYklA5GPGwf1/xLe3Bd8/MDqpIaYY09cTP2gh7tA==;rEi3aLbf0IzI8K0TixWl5Q=="
 ---

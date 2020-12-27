@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market Growing at Steady CAGR to 2026"
+    excerpt: "CMI announced that it’s published an exclusive report namely Global Artificial Intelligence in Telecommunication"
+    publishedDateTime: 2020-12-24T02:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-growing-at-steady-cagr-to-2026-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai In Telecommunication Market Analysis, Trends, Growth, Share and Forecast - 2025"
     excerpt: "and translation between languages. This technology has the potential to transform the operations and functions of a variety of industries due to its tremendous potential to achieve breakthroughs for a variety of ideas. Get Sample Copy of Ai In ..."
     publishedDateTime: 2020-12-23T11:49:00Z
@@ -109,15 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hyro Unveils Conversational AI Solution to Help Hospitals Avoid Being Overwhelmed by Patients Seeking COVID-19 Vaccinations"
-    excerpt: "PRNewswire/ -- Hyro, developer of plug-and-play conversational artificial-intelligence (AI) solutions, today announced it has begun equipping U.S."
-    publishedDateTime: 2020-12-22T13:32:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hyro-unveils-conversational-ai-solution-to-help-hospitals-avoid-being-overwhelmed-by-patients-seeking-covid-19-vaccinations-301197312.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
   - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
     excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
     publishedDateTime: 2020-12-27T04:16:00Z

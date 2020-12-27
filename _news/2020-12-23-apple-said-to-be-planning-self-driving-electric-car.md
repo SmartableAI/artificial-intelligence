@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-
 webUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video"
 type: article
 quality: 69
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -178,15 +178,6 @@ related:
         width: 418
         height: 596
         isCached: true
-  - title: "Apple's Self-Driving Car To Debut In 2021"
-    excerpt: "The Apple Car is alive and well. Apple (NASDAQ:AAPL) has announced that its long-awaited self-driving car is still in development and the company expects it to debut in 2021. Apple said back in 2017 that it had been granted permission to test its autonomous vehicle on public roads in California,"
-    publishedDateTime: 2020-12-22T13:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/apples-self-driving-car-to-debut-in-2021-2020-12-22-71974543"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
     excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"
     publishedDateTime: 2020-12-24T12:33:00Z

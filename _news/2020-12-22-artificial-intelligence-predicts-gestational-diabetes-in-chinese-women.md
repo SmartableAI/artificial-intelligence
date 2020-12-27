@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "AI model identifies women at high risk for gestational diabetes, study finds"
-    excerpt: "Researchers in China used machine learning, a form of AI, to develop a model that can predict whether ... identify women at high risk of diabetes in early pregnancy and start interventions such as diet changes sooner,\" said Huang, a researcher at the ..."
-    publishedDateTime: 2020-12-22T14:50:00Z
-    webUrl: "https://www.upi.com/Health_News/2020/12/22/AI-model-identifies-women-at-high-risk-for-gestational-diabetes-study-finds/9881608646617/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 14
 
 secured: "k2pPG80SAbmYnjq2/ZhIZaI7qoOzRPdDTd2BJzJigZr/98aSzIaV3jiomquOMcJn1QDIcSUfMlPh/4xL5t+j7S7MxUHK7WOPY2q7fY53HEv7PuL7wVo05SfFXMF3X9JWmmhX0o4fN1hSTQ1YcnJNCYxACfJR12AMHxGzuGn6Igu03u/kCVj6+B53wgAASpkEZIWUru55H09UbRUAQAqlVrLH9cGwLOdX84bnffqLSKX5zlQqsHQrSCBXuYvFdFGQ2GeMtu8EXwRjnX7rS9V1KJdXUvuGMaT3XWM8DbAYGt9Df0ZjzJOtlujbtqhPh19lLTLEtJOAj8v0Bc+Yspp1VEVmNEuRDtEQuZZL5xWMOcKEpJubYBDPa8/WXGttF6Z+vJjioHIbBKzbiKZht9qYCysgx3rNJMWT5QBfqrWnZhnpPKBFiwJ4j9ut08lfWmTurZ7IvDIiYWPSv5pjRevzywxr4l1C8nPMip5mpg3kli8j7t4W7sabiVHwz0p655uIkwVcq/r8l/H0KO5TSrbvMg==;wdF+cCWyyXlFTTPwiozk0A=="
 ---

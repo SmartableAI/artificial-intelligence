@@ -190,15 +190,6 @@ related:
         width: 418
         height: 596
         isCached: true
-  - title: "Apple's Self-Driving Car To Debut In 2021"
-    excerpt: "The Apple Car is alive and well. Apple (NASDAQ:AAPL) has announced that its long-awaited self-driving car is still in development and the company expects it to debut in 2021. Apple said back in 2017 that it had been granted permission to test its autonomous vehicle on public roads in California,"
-    publishedDateTime: 2020-12-22T13:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/apples-self-driving-car-to-debut-in-2021-2020-12-22-71974543"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Top-ranked analyst Toni Sacconaghi on Apple getting into self-driving cars"
     excerpt: "The world's most valuable company is getting even bigger. Apple's stock is extending its big run this week on a report that it's hoping to start producing a passenger vehicle by 2024. Tim Higgins, reporter at the Wall Street Journal,"
     publishedDateTime: 2020-12-23T13:52:00Z

@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "10 AI Predictions For 2021"
-    excerpt: "4. One of the leading AI chip startups will be acquired by a major semiconductor company for over $2B. Silicon chips purpose-built for AI workloads are the future of the semiconductor industry. Intel’s $2 billion acquisition of Habana Labs last year was ..."
-    publishedDateTime: 2020-12-22T14:02:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/12/22/10-ai-predictions-for-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe105376eeb6a87ecd36aae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D976%26cropY1%3D0%26cropY2%3D549"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Data-Centric, AI-First Market Trends And Predictions For 2021"
     excerpt: "AI Ethics, transparency and responsible AI are going to become table stakes. The use of marketplaces as a consumption model for the best-of-breed AI/ML ecosystem will thrive. I believe 2021 is truly going to be the coming-out party for AI/ML ecosystem."
     publishedDateTime: 2020-12-23T13:32:00Z

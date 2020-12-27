@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facia
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/"
 type: article
 quality: 89
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28584fc8e8b87dee3cdb8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4169%26cropY1%3D211%26cropY2%3D2555"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cuomo halts use of facial recognition in schools"
-    excerpt: "Cuomo signed a bill Tuesday suspending the use of facial recognition and other kinds of biometric technology in schools, directing a study of whether its use is appropriate in schools. The legislation places a moratorium on schools purchasing and using biometric identifying technology until at least July 1,"
-    publishedDateTime: 2020-12-22T13:41:00Z
-    webUrl: "https://www.timesunion.com/news/article/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Cuomo-halts-use-of-facial-recognition-in-schools-15822151.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer."
