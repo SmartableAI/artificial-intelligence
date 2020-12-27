@@ -3,27 +3,18 @@ category: news
 title: "Beyond the Boombox: The Race to Artificial Intelligence"
 excerpt: "A “boombox” was an oversized, battery-powered, portable music machine; it is an artifact of a very particular time in American culture, re"
 publishedDateTime: 2020-12-25T10:00:00Z
-originalUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
-webUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
+originalUrl: "https://www.moneyshow.com/articles/dailyguru-55707/"
+webUrl: "https://www.moneyshow.com/articles/dailyguru-55707/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: MoneyShow.com
   domain: moneyshow.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
-images:
-  - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_06_lrg.jpg"
-    width: 555
-    height: 370
-    isCached: true
-
-secured: "02bL9UxQFM4EeSMuvznM6T+O/rFMvn0rqaMta1By4cC7r7f6CLWaBORR9BsQTR878hbCIg7qz4rLldkY5B/VjNgKr45aDuyhgcY4/9LWScPto8qgVU7KB3f1z9i4TsGVdZuEYcWJdPmrl36IZJsyNHsDsKHxEyJuf0dxgvkfez+s/Sa4mrfJPmmDIuBWIHvBMxPdbL3H2mbejaXid1gMwTqhrwnXEQOyn5YE4phdzR3piQ0Qei4p0FB1oXtyEpR79eVdlYIAJLvGjc9V2CNnSDsmNjO6KM1tUbnlTd8hrAgN/sNUPHQ25Oj/0FOADQBQwqIXY5oGCHl6HoytoIStdAYBQDuq8hK1w+SkHk+ojlnGrSh7GdPrDwSNQab7Ad/M8EWcaSkQsSLRh764bqQwqdUbYcowPR68WeL++x65ltfIsTwBIwtNnhka93QD4b4dfFnzrCYJvFr8BQocAhr/FR1i5rXn/BsmiHA/9ojSbRe2/YVxRR5lIQrhLQmRDPclSVLbk+vG3s5G9cSeN109Bg==;wxbwhMaacYJRNMLLu/CT3w=="
+secured: "z7ihxUki+WNURs5xCpEbB5RxRyZiPzOXPePJcQ6IGNCdvTl2x2W1ll5lC+Amr9ws36xFxetjCWuErYFGW9shnpg327E4oFk9blG6KMC4U65vdru8aamMErjCBDPb23yiqYR5Yd5B9UfASuKK3z63ZNuAy0k53dC5KLS6N5MuNe6kTEjmQ6Oy1eWik9K2mHuZ3tvBJVYI6G/1WegULcidSXAC3uR586couaQufHTXh3bi4wZ1gIjgmqzE+8BeBbLAmzgT4GuQ9QA9oZkw1MOVzKuddZeWLq0VFBrf8prNAjO6oTd8H5Bo1zjoxLcT3f0NkDZ79tdxUni0weSK+dtc9GB6S32yh2hyRxQjQJOhq28djzRcpfXon57Gr1AiPBm1uptPDA/PmAZ9l3dOsOcMGfxYI32p4ZMrP1z/s4TtcwqZDGYxobzz/T3nqM1Uk7w5jQJyGwNcncqmJe7k3+F2PezI+DacJK4SGAUK+j7fRl2HtRRNLSAhQfEKLIJXuEgjBwGTAhQkrUbV1w4YzqTiyA==;E0/dOO3akDZ7BWHU/UQ/zA=="
 ---
 

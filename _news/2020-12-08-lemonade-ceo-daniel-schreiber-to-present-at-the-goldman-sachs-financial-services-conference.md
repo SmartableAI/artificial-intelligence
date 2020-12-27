@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference"
-excerpt: "Powered by artificial intelligence and behavioral economics, Lemonade set out to replace brokers and bureaucracy with bots and machine learning, aiming for zero paperwork and instant everything."
-publishedDateTime: 2020-12-07T23:26:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
-webUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
+excerpt: "Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U.S. Financial Services Conference on Wednesday, December 9, 2020. The presentation is expected to begin at approximately 9:20 am ET."
+publishedDateTime: 2020-12-07T22:44:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/lifestyle-technology-business-north-america-personal-insurance-dc84f464b8984fe1a8adb8de935f06d6"
+webUrl: "https://apnews.com/press-release/business-wire/lifestyle-technology-business-north-america-personal-insurance-dc84f464b8984fe1a8adb8de935f06d6"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "3ZGtVwEcBSyAN1FcJSwSLJyqpMms/jTvPrSryy0UeYM1woS2Ulye5b9m/hqEAlQ7PpsbiLix9GJp+lXuXRACn+F6Mf6l97J5kJC5su/kf5CvbQaMoVKuPi/l+LNyBun5JHiVtglu5jAQyqpyj3WK1Son+Zl7SBEw8Ilo9Fuh0p317k0ujeosgPskdQqJXJfSH/NpJ8eAv4/R/8h372IEHfAbbM/89xCbvi5Vqg05xAmVVRS0U8h8YpczCq6gUzplzONK6uQ3N97Ywxy6RN+IzWonFu6Tye6G+0n0/X953pzAObAi53SykhxjwaoHeBBGA241d3OWSOQjAbOZ3CwaLR+AmIeJvFulu9MUFL0blnw=;OdoR64qQp9IKhXB2g0ULgw=="
+secured: "21sp8m6hKNJT4kBvGa6Zp0zKAoDyZFMtxbtXyJQceO87evd/lyypATEqp6nz01kHOA6I4hOlhJnb/ws4HWxQKJ+5Q/gYZT/rErA9hgwuHRrvVW9kkWUZtVkSdh3pSBd/3IPGSrvxgjG/GelyYZyVoL73ob/H5Vrisz2qA4i5OyqnYDTz+fZN3jvzNgyIqXwAUfHTHNu3nnvWHGaxOhy/1+9V/jmxuoRL9rcvpv95xWxolO9XXxMgeAnDXYyWUixWjrcHQDN8PxROUGbMOez78dYszkZ15S3NRy/qgtX7U3UPV5SWJEr8CO3+QaIv5xWhjtWBBFRW6Cqm1g1sUM2Zzdq/eBeQk8tenCXrJlgXOlU=;7xmhrlB7bExRqGikk9VL0A=="
 ---
 
