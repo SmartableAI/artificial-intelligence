@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Grasping an object - model describes complete movement planning in the brain"
-excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object Every day we effortlessly ..."
-publishedDateTime: 2020-12-07T10:02:00Z
-originalUrl: "https://idw-online.de/de/news759379"
-webUrl: "https://idw-online.de/de/news759379"
+excerpt: "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key."
+publishedDateTime: 2020-12-07T15:35:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
 type: article
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://files.idw-online.de/corona_idw.png"
-    width: 615
-    height: 284
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "L/2yqR0pYptevWWK1zIlCzg+7MTji1ME6wakMXmitrmIdO1N00fFOUpoo4MfXzYzQMF/yCegXAvK0anQPMdzm8mWoQrs46mM+enOwXEBh1PTBaazfkZcpXWAgDqpsUW1GIn/nfWEEcYr6BT7MshgDpwSryGx8AEiiPWqW/+LltRe9mYGQpuOxhWpEZoPleAu6x3zxEPLb7u9HTHr4F+YujwpnFxU/HnMJZG1Ss6GISFmkP8yhexoJpPoYd8QmUX4loLXfNgGSrnlHWEWA+EGl8orXUQSrtE0cUHK0esC/gpX8RaA3QHRR6ncNvLHBjUNBbLWtEuGiSEtIzdhCEgPiWw4a30750m8NA4jBM3qfcE=;Ku2TBl/8L9b58H6+GGauRg=="
+secured: "wXfgypuTT+u3Nh41JfJGkhZkk74s4JHafOzY7Eb6Y8XBN877OB0ydfGosM1WvT2pqmITiuZW/huWKH1g5Oyy6YpaQq0+sL/J1fC7s7jk/pA70KfRgdS799mFvYUx4cTZEJRJs04BAuDns/l4z/j2bbAox8O7WgHrT1w4ty8pmGdvwZpPnQK36l+MYXL4TORkZ+c8LFzL63qSmmVG/ERlquuThz2VAiK8mIVyN/Bhd8ISKaUWtej4KDE1IwbVmRww1RhLe1ibAa0TZfugk+4C92Y/K70SG7agx5GU86y8POVDn5lbM7KeeSirkXr38XkmzHbGAEFhP1xdJYoPdtYauiSGdJVgEOCA9U9UlYvNLJ8=;/5Y+YANwHPnykN4AVsi4xQ=="
 ---
 

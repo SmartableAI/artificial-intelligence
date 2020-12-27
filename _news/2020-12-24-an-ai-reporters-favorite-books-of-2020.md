@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Global Artificial Intelligence for Healthcare IT Research Report 2020"
-    excerpt: "The \"Artificial Intelligence for Healthcare IT, Global, 2020\" report has been added to ResearchAndMarkets.com's offering. This research"
-    publishedDateTime: 2020-12-22T18:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-for-healthcare-it-research-report-2020-301197701.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "4LZ95E+QSdV8E8XufP6+mD1lQa1dSm8dnC0Uirgq3LwP3eYRj/h2kkw/JsNVsVIpwVzrbLZMnHWYISYqCL4FpEaBxsjc/RJ33gneLdGV0vvPiGCQzcADduT6e+5P2+WBwtUzBLqZgRNETWBn8+wQ+6CbrdjWrWmDrySYqSeYzEfbG7PnqGx+KRPSJ62uS/PcvX+yEeXh/rYlYDGfLP7VyLC15XueDDRj0GOIDsOQ+txCyVBIpmnfIwKXLT3ZnI/0CYO0bvhIxwG3kbsCQob7P7ClNUHb78US0uLPbZU6VSX0ldKCJhGtkJQ1YA7S+IVf5iOxPTHPJ3LyzJ4oGSI9HiVPWDF7dVHIOivkHQxSg5S+RNU0btB0MoOtd84DMDHGK+LivEEokkMFyUtHGC7l5v9tsc6mDMoOUlEssZNtpiyTt87fVBnNni6bDmOG4CypgMfUXIsjSpeV+ss+s6GZ7IOu1mUT+V7BwQCIfZsaZoSCrMqcAMzkXDHx2y9s99NyEeOHJsmMyc86hYGQhmgaQg==;yHmZACvr+UqlxqEpEzfABg=="
 ---

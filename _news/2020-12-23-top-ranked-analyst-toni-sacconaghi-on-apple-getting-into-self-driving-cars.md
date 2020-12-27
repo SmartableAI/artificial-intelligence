@@ -94,22 +94,6 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "CNBC Traders Weigh In On Apple's Self-Driving Vehicle Potential"
-    excerpt: "On CNBC's \"Fast Money Halftime Report,\" the traders gave their thoughts on the recent report suggesting Apple Inc. (NASDAQ: AAPL) could enter the self-driving vehicle industry. Here are the takeaways: Apple's stock was trading up 2.68% at $131.67 on ..."
-    publishedDateTime: 2020-12-22T17:53:00Z
-    webUrl: "https://www.benzinga.com/tech/20/12/18897927/cnbc-traders-weigh-in-on-apples-self-driving-vehicle-potential"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18897927"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18897927"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/apple-inc-508812_1920_32.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "Volkswagen CEO is 'looking forward' to Apple's upcoming self-driving car"
     excerpt: "Volkswagon's CEO, Herbert Diess, posted on LinkedIn that he welcomes Apple's Project Titan as a competitor in the autonomous car market. On Monday, it was reported that Apple could release its own ..."
     publishedDateTime: 2020-12-23T16:47:00Z

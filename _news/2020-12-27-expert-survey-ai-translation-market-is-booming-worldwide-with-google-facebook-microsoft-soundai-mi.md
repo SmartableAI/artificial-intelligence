@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2217216/expert-survey-ai-translation-mark
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with"
 type: article
 quality: 60
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 750
     height: 422
     isCached: true
-
-related:
-  - title: "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft"
-    excerpt: "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,"
-    publishedDateTime: 2020-12-22T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1Ykas/uW8Vg5q7VSFE7kcX0p4B1uZDXec1WYWc2PxsnIEv6+EpL/+lLkV2H3SNcnWmma3VwKcHC2wz4SabQbDyaNhK+wvJQwkSh/GDR0U5xkR1MVvhTUzBw/m5rbdGMAxeIguE/XeVGY8+jcVpF1G1IJ3yfIbJKy4D7itFKLLwpEK4JKBcz1x7Os45Z2BuXkrdxhRlCJzKQQLjKoNrgoBOsAqvVUiH3lTIC9gfzIZwIvico3dCuu0RfiI1xcN/LqZsdjRLrnoJrX1SwKCn4z0qazXUoPQ2GTYuB6FUHrKyu2R5hvSIBLkLm7W57JYELm6wesc5Wrs8CumJPo5iJQCbdbCr+nyQ2vmLPCRWQwx8ygwce47Y0dLFAyo10r1Mx92+fudnwmHeJB2olPEbt8MoQV5Awl7pi0DExbDeqs84vlgLAc1FKA+Q3o7DQqmMZtcuKufyQSMI8si6kq7TanKhLEP0ZvyZ/DobXM4vWiNqLZ3CwP7AHC7FoHmhwtTE38UOLXGxPJDG+W8Q3yKIhUzg==;OLD03LQpp0otSt+WMHfP7Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-div
 webUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-division-to-aurora-after-years-of-turmoil-deadly-accident/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 345
     isCached: true
 
-related:
-  - title: "Ouster, maker of self-driving tech, agrees $1.9 billion deal to go public"
-    excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp."
-    publishedDateTime: 2020-12-22T18:23:00Z
-    webUrl: "https://www.reuters.com/article/ctech-us-ouster-m-a-colonnade-acqsn-idCAKBN28W1D3-OCATC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 73
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545437645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE"
-        width: 817
-        height: 545
-        isCached: true
-
-secured: "dEwCrHhv9xIYixIqQhWyIq07V2L/7Sj7RYHpK/j7rYXW4j/XNrVl0qdk/6ehMteiuDgGFfI31fY8RSQqvrprsHyal2vLTigUo08lstUY1yt9tQc11l8PSDKb/PI8W0rzZZhJAelIhMhkWpRfbES1CgtJEraCm2WoZxppHBebdkAzLfZ5PoeH/Hf0x+0+en4OjmmvAITEqXi/841bBsYriy1bpDOxjqCDd3P8KzJ4hoigPkdBvVjh1VO+/J/qlWV9WaVYDIXvDiQFcs+7rIvYSYcrOtjQzwXBJREpD7pr2SPIrRKTzlSsT3VV3lECDoREs1JqwBlkKGkViD1r2mnYq/+IqqEADwkjXbKqAHzBjzA=;OpBNKb983Kqs4c9d7eTRdw=="
+secured: "z+Ng4rsPC4ZSmT9Amd0HJH+r04Qn35eq/TmrsbAisslA+WFJxBKfVKHrhciT6C6NYf6UgQUVPPYPs/k6tthi74I50o6ZYNHZeL5AkFyFdDJk2bd5aI74KZdtChs+gd78gUgykH0kQzRo3V1u4f/11hQ9uz4J+ZqRJ16m2DnihQbqG0g2cgmAsQiKBeemliyAKnje5gT333a5ZobEoU7C6IHhyxN0/TdcV8yOgL9DW2D4/xakVHSY0CUygfK9Xcnu2gd9V+IAE/uyzFRpvIMj71IQPjvpJuMrjSFYKVmhckGip5FVd5dF8tc0+UivezQVzqQJmznNkBnN3PcQx9OxMhBx/nVe4nLlxK+XDQ9jTB1J5wyEQxHd+9ou9+9DG8MObdQKFiHvgHZ3DSytq2a1smLggdk1miNjIbrNVW3argMNAZCtgnYrpvUnw7d0083LqkY79dLZkkNIf95rCUhWb54hul8f2FufkBrHKn1sbVtE0ZfpvEPCIMTmMCORpui83PPE1iR6yApGy7qVK9S+vg==;sLiTJpiFA/L9fbDZfGFNRg=="
 ---
 
