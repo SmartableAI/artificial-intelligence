@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Education Market Grows as Top Vendors Third Space Learning Forecast 2023"
-    excerpt: "Market Overview Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period)."
-    publishedDateTime: 2020-12-22T11:25:00Z
-    webUrl: "https://www.dcvelocity.com/articles/48916-artificial-intelligence-in-education-market-grows-as-top-vendors-third-space-learning-forecast-2023"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 40
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/e74781d4-6f6c-4aca-ace6-95456cd76c15.jpg?crop=true&height=430&t=1608224017&width=640"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Ai In Telecommunication Market Analysis, Trends, Growth, Share and Forecast - 2025"
     excerpt: "and translation between languages. This technology has the potential to transform the operations and functions of a variety of industries due to its tremendous potential to achieve breakthroughs for a variety of ideas. Get Sample Copy of Ai In ..."
     publishedDateTime: 2020-12-23T11:49:00Z
@@ -132,6 +118,20 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 0
+  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
+    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
+    publishedDateTime: 2020-12-27T04:16:00Z
+    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "EHgbhikFlWEVkglLi1a9hUCZHJbambEQhWYj7CPu5fxKMC0lJcFc5f7JRi4SKYx/fEx4EPqZcrsejVYc92/rcCPVmd94Era7cq11kkO6V1xLIJXRph34E+/UGEvfrP+S6kYVANWN+6JbZwVj5CsryUXBcz6Gl+VDSQofj8r+o1ujbN8BdXZ7MLsqF9eezg69BMk7UiJO6h3wED8KNNqpPpKX7wngmbN7tJJdV8ea9C19YHzW4qFLQGca49wPcJ1jia73/uZ2U+ox5gA8xpXNN5fEAUljS9JmEzOJicf0LSTgk+cK0pUydHPhyVQ2n8TscohHy9L4zArxNV3eVEPIGy6yul+DIYV+AY97fL4+IoM=;7dbATbhcwANIZPduSPdmFA=="
 ---

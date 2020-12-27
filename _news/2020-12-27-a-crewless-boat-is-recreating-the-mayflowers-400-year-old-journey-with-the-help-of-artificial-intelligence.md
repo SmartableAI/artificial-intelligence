@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence-powered boat to recreate Mayflower journey"
+    excerpt: "“We’ve got all sorts of cameras… We’ve got global positioning systems on either side,” robotics expert Brett Phaneuf said. What it won’t have, he said, is “people space.” Instead the ship will be guided by artificial intelligence designed by IB"
+    publishedDateTime: 2020-12-27T03:29:00Z
+    webUrl: "https://www.winknews.com/2020/12/26/artificial-intelligence-powered-boat-to-recreate-mayflower-journey/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 39
+    images:
+      - url: "https://cdn.winknews.com/wp-content/uploads/2020/12/1226-satmo-mayflowerrecreation-616355-640x360-1.jpg"
+        width: 1025
+        height: 626
+        isCached: true
   - title: "Crewless ship powered by AI to recreate Mayflower’s 400-year-old journey"
     excerpt: "The year 2020 marks four centuries since the Mayflower carried some of the first European settlers across the Atlantic ocean to North America. To commemorate the anniversary, another vessel is recreating that voyage,"
     publishedDateTime: 2020-12-26T14:05:00Z

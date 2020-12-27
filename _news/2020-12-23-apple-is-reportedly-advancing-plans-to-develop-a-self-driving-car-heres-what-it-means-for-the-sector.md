@@ -43,6 +43,22 @@ related:
         width: 620
         height: 310
         isCached: true
+  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
+    excerpt: "In 2019, Baidu partnered with Chinese state-owned ... and other driver-assistance features. Its new self-driving technology uses the “Orin” processing chip. Vehicles using the system are ..."
+    publishedDateTime: 2020-12-23T22:12:00Z
+    webUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/"
+    ampWebUrl: "https://investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Apple Moves Forward With Plan for Self-Driving Vehicles"
     excerpt: "Apple is reportedly planning to produce autonomous cars by 2024, using its own breakthrough battery technology."
     publishedDateTime: 2020-12-22T16:37:00Z

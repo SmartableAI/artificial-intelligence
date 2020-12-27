@@ -9,7 +9,7 @@ ampWebUrl: "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-r
 cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/amp/"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence-powered boat to recreate Mayflower journey"
+    excerpt: "“We’ve got all sorts of cameras… We’ve got global positioning systems on either side,” robotics expert Brett Phaneuf said. What it won’t have, he said, is “people space.” Instead the ship will be guided by artificial intelligence designed by IB"
+    publishedDateTime: 2020-12-27T03:29:00Z
+    webUrl: "https://www.winknews.com/2020/12/26/artificial-intelligence-powered-boat-to-recreate-mayflower-journey/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 39
+    images:
+      - url: "https://cdn.winknews.com/wp-content/uploads/2020/12/1226-satmo-mayflowerrecreation-616355-640x360-1.jpg"
+        width: 1025
+        height: 626
+        isCached: true
   - title: "A crewless boat is recreating the Mayflower's 400-year-old journey, with the help of artificial intelligence"
     excerpt: "The vessel, docked in the harbor of Plymouth, England, will rely on the latest navigation technology when it sets out to sea — but it won't be carrying a crew or captain."
     publishedDateTime: 2020-12-26T16:08:00Z

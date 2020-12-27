@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Education Market Grows as Top Vendors Third Space Learning Forecast 2023"
-    excerpt: "Market Overview Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period)."
-    publishedDateTime: 2020-12-22T11:25:00Z
-    webUrl: "https://www.dcvelocity.com/articles/48916-artificial-intelligence-in-education-market-grows-as-top-vendors-third-space-learning-forecast-2023"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 40
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/e74781d4-6f6c-4aca-ace6-95456cd76c15.jpg?crop=true&height=430&t=1608224017&width=640"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Artificial Intelligence Products Market Size 2021 Research Report by Manufacturers, Regions, Type, Application and Forecast to 2025"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. “Artificial Intelligence Products"
     publishedDateTime: 2020-12-24T10:57:00Z
@@ -132,6 +118,20 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 0
+  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
+    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
+    publishedDateTime: 2020-12-27T04:16:00Z
+    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "8yO+WYYXyvFQ4mJUDIWly2mBv79U7eHn7uUkNHUQDlMN18I0kg0ZOID3NXhKCnESp6j03nZHmaJBudDH+gF4lgwlcavF7EyFCVjlG5SjB9C0KAHCYKr6GVCdyP8A8m7ZtS0GCoKw/s4slKkBo1mw3KO18XZT9p0jPJLIg8qSbn7MoF02IwPfhMKHB8qBvhjI38gHRyrRC+wKbWOan3XkbGgLi2NpcqmQvGF9NcSG3eBsG4kfO91/0kDY/w7pEqzfhuh21m4hAWOFsyfk7f1OB/XMtka7B9gVceU5f/VPrlkHa12C7C8knvRgt4IRt1tKECjT7D8r64VVYFR5AhcHoXGCfrJTlW+6DUcj9rzDM6Y=;232B1x5ebgYouF1HlIKUww=="
 ---

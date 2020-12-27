@@ -1,27 +1,30 @@
 ---
 category: news
-title: "From Bean To Bar, Haiti's Cocoa Wants International Recognition"
-excerpt: "Although small in the face of South America's giants, Haiti is slowly developing its cocoa industry, earning better incomes for thousands of farmers and refuting the stereotype that culinary art is the preserve of wealthy countries."
-publishedDateTime: 2020-12-27T01:38:00Z
-originalUrl: "https://www.ibtimes.com/bean-bar-haitis-cocoa-wants-international-recognition-3109967"
-webUrl: "https://www.ibtimes.com/bean-bar-haitis-cocoa-wants-international-recognition-3109967"
+title: "From Bean to Bar, Haiti's Cocoa Wants International Recognition"
+excerpt: "PORT-AU-PRINCE, HAITI - Although small in the face of South America's giants, Haiti is slowly developing its cocoa industry, earning better incomes for thousands of farmers and refuting the stereotype that culinary art is the preserve of wealthy countries ..."
+publishedDateTime: 2020-12-27T04:07:00Z
+originalUrl: "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition"
+webUrl: "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition"
+ampWebUrl: "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition?amp"
+cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition?amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Voice of America
+  domain: voanews.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/26/a-worker-sorts-cocoa-beans-in-the-workshop.jpg"
-    width: 1024
-    height: 682
+  - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/afp-image/2020/12/e8550679772b86189f6398787c6762e7ac296a28.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -41,7 +44,18 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Why is it not just a matter of recognition?"
+    excerpt: "Pakistan cannot afford to recognize IsraelBy Wazir Zafar HassanThe posture of Arab states towards Israel is becoming soft. They want to establish relations with Israel. After a move by the"
+    publishedDateTime: 2020-12-25T17:30:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/"
+    ampWebUrl: "https://www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/amp/"
+    cdnAmpWebUrl: "https://www-pakistantoday-com-pk.cdn.ampproject.org/c/s/www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/amp/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 24
 
-secured: "d+yN6lut07CYgro4wYUIKykHXicvQNLddc6VCgUbTaKNqVFIoJdNGSadJY/rIT9FMpustYjn6uOxMwuktOHML6K6ur64JJ4ve5xVfeuScE7+uA+BzSQgvBLsqhaBAPCrFUxCri3iP3mUSnQnfw0ndl6qxhAjCeeE2zpiIym0+mESA4wOPwnhCqEKWH8N3xbGs6ynszKVRhcXe/LwA4ebeFLp5NbxwpRk25E65OerbPNqHKgtzFt+wJEl7JZjsTZNEuZbU9ezRk0TZpuDntXuoGGoMvsKik6dbM76W0g+Zh0a0OFzUu02GivE+KzdcMjrM2KXU6OqdrbirqDOLUk+6iIealb6QB2/ZeBdOfuolLU=;yzg4CJJYOpXHa2+2NHxGEQ=="
+secured: "+nuMw7r48cybqba5HDJHaiwl0c4WxertH+6pVO3XCFuU27FSq5Hjqs5kd93pSJYiNetkllPwPuMv8XCNugQksW3dRySvrYEl4vmUTZVutqd1yfXnXWBg6Kl5dRhqTm2yJ26hakolWP9zQrb5B6yU6js/L+5Ilt0yt+ABFwSMt5tWAgqBEfEDUZyuhW5r8JwhQBBKzoAH8pSbOnQwLK2082MKOIDifBkTxQbHY3KsbqogemTVBJK+xRbl3uM7Gqp0nbq6ghOreJBogidPPoXWOmxldunl8KmWpPqAFsHpUvXh15tLeJoGNILQ1BlcHMk4k6uvdBaGRzMHsj5mZCGcS4Qn567uNk1wgZ5jpvIKmRE=;5WzpZ9jNnAKU6Sr7aTVAtA=="
 ---
 
