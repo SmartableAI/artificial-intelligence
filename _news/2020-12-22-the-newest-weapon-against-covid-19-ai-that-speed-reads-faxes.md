@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-rea
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Comparing Google AI and human intelligence for the forecasting of COVID-19"
-    excerpt: "Junko Kurita et al. from Japan have compared Google AI forecasting with a statistical model by human intelligence and recently presented it in a preprint medRxiv* paper."
-    publishedDateTime: 2020-12-22T10:02:00Z
-    webUrl: "https://www.news-medical.net/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9-1.jpg"
-        width: 1758
-        height: 1061
-        isCached: true
   - title: "Artificial Intelligence for COVID-19: Saviour or Menace?"
     excerpt: "If AI tools cannot be proven to discern one pneumonia from another, premature use of such technologies could increase misdiagnosis and sabotage clinical care for patients. Clinical trials are essential to understand how AI can support Covid-19 patients."
     publishedDateTime: 2020-12-26T08:49:00Z

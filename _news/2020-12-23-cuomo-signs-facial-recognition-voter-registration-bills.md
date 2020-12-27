@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Cuomo signs facial recognition, voter registration bills"
-excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
-publishedDateTime: 2020-12-23T02:57:00Z
-originalUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
-webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
+title: "Cuomo Signs Facial Recognition, Voter Registration Bills"
+excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday."
+publishedDateTime: 2020-12-22T22:10:00Z
+originalUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills"
+webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "New York temporarily bans facial recognition in schools"
@@ -323,6 +321,6 @@ related:
       domain: triblive.com
     quality: 19
 
-secured: "ym8NRZQBqa1r8RDmuzC8DyXEf+ukbd9sXfydl8UYYkGWx9JgaD6LG5j258myyLPYBwFWwSaxbzMUxzJ4jCelxU85g8Jmuz2Fw+47rqqTmeV4VW7LFC3G5+x3AA9FPGKu7P2rDPdvPUxb2HRtd1dkq2kita3zQhgYqfOBcZOyKR0vvrU+6RAhNczVSfhmN4qj4g8U8mPiDX5aBOpuD9/xOm0QBNOKxtWzVZBVu6MMZHb/7Uxl4N7/uiMY4zfWWWyZEhESGSxBHP6u3SUWt6NiJmEV+atDvxKN8+/0HeMzQOQiVLR/5asM02PSPCp0SS7g5ao2jdpWx9p5pwm1b7HDnUhjvn8aCDlL5lMFGAl7viw=;UI8ZQGQQFxbP9rBSd3cP9Q=="
+secured: "imDpylCTSsgW0Us/4rRSil1CeVBWlQHB7F+11zoZ8Q9xMufWZJ47B3yVZir1DxWGGNCPad6a8e6UM4ct3qxfGu2efnr/heIHqZf5UUCUYRd7ud/0z3FFdDCp+lkKlZsE5ky7ph833cE1iFVVZi1NLGbDedJ7mATvfaLa0hIbMEd2nG+XuI5Xi152tdp54CdiP+GuNqFe+yyNrWGbjTFS+rPTvUKwsEBATMMQ44exudyGFTjmJwqO51iVPcMRogTeKY9bmSYCeenbVr8x3hBAAURBDGIa4sNz/OzQx+/xKQjHz951ne2mIglulraqk6xv0rhfOhEvmvuWAdVPRBLCXYnF+M7rvQ9PjjEd8vgBI/o=;Eq0ZEX9gUBSYDnA5LB31/Q=="
 ---
 

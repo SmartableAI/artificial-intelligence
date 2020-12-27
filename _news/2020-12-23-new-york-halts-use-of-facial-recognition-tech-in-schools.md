@@ -245,20 +245,15 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
-    publishedDateTime: 2020-12-23T02:57:00Z
-    webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
+  - title: "Cuomo Signs Facial Recognition, Voter Registration Bills"
+    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday."
+    publishedDateTime: 2020-12-22T22:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Cuomo signs facial recognition, voter registration bills"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this ..."
     publishedDateTime: 2020-12-23T18:31:00Z

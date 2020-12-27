@@ -41,22 +41,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Comparing Google AI and human intelligence for the forecasting of COVID-19"
-    excerpt: "Junko Kurita et al. from Japan have compared Google AI forecasting with a statistical model by human intelligence and recently presented it in a preprint medRxiv* paper."
-    publishedDateTime: 2020-12-22T10:02:00Z
-    webUrl: "https://www.news-medical.net/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201222/Comparing-Google-AI-and-human-intelligence-for-the-forecasting-of-COVID-19.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2020/12/Capture9-1.jpg"
-        width: 1758
-        height: 1061
-        isCached: true
 
 secured: "HtAzJUFBo9uN8f6SnxUbT8RlPORwwCGWnExJ4TOo2D48PXsqPybFhZnw4xERXrb8zPjcnvbLELG9zypkh53P0EJwSgvVzAsEpdjZWAH2hxqhgNb4VDsDbcgsWq/CCHPcZbeSNZIYOIbnRMQ9VSwGRkbWFaZpPFl9ECI9rI4a7WQovkrLp5tF8u5Wi5tUAno2EefI32WsdDvTUfVqwV2LsjiwHDf5t4KmQSKdmQbRrg0WvR7QPiZ5iOHGNuIgi/3JhaZ0NZCiqHKTcfN35ISYyGqX0WhuBquSIyUUEY7D/m7KC4DbA2UZcZVeV64tBunrhQwR2mC6GWa1PY7pXV6yx4Io+U8MBx2yZrXpSHNzwYcVUxgZrSzfKpti4dvuxcuqp1t8ElrjZY7Hac5D93wwwgNdJsr3OqEbxwPQbcDrZo2uVnjmL0I6XBqmE8uXM3Bi0nDq/YnBqbOdEEA+fNHdgw2wdpdQtDcPlo/ptcWFHEg1nr8qRTCS0oJQc/TSBK2nkFlnvwSwu/jqzXAO4XYmBA==;IFLOYHBu4aNaZ41Dp5/H9g=="
 ---
