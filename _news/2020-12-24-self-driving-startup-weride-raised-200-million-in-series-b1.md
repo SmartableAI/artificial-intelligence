@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2020/12/24/self-driving-startup-weride-raised-2
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/12/24/self-driving-startup-weride-raised-200-million-in-series-b1/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1080
     height: 720
     isCached: true
-
-related:
-  - title: "Chinese autonomous driving startup WeRide bags $200M in funding"
-    excerpt: "WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the next-generation level 4 driving"
-    publishedDateTime: 2020-12-23T03:19:00Z
-    webUrl: "https://techcrunch.com/2020/12/22/weride-200-million-funding/"
-    ampWebUrl: "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/weride.jpeg?w=1024"
-        width: 1024
-        height: 614
-        isCached: true
 
 secured: "ocGUwNU/Z1f4ABfd3KlYB58wRv3GVKJYfqKcPCLzsdPUx97iQ6KTNCyAiZ3rVGtVnoFtnXeUi49brQwz2HDr4lyWOU6C5jOshlmtu1OEh8t5LeJbir2aG8topfP6k8z/k4tL31qXrHNnX4CjSjE77GEihhP/FMYE+9Pp1RPL/BtUbyqEjOrCX6vxzlfMuz6ikpPXamTxhx7xW/Sq4qAjMtHIeYA2WFO23jrlTHQPGHb6sv+ZTK/CNUhCmyG91AgMBcS6bNG/4jscNehHlnbsfrF2eowFARdt2OUcmrSUPkP0atrJhhNeZns+z1AbU1LUhbDvlwO7/wi+zHnBPITGGyZ5DVN/53YOuilED/0JN1Q8gZ8ppd9f3VPxAB+AjDvG9aghwbHrHRJEZDUeRW1f4zLBYyW9MxMCTvgfv7E/q7R4IpwWubbQyjOTx6/wND23MXUcrSF+pPRawbNfPwa/xyTvxrVWlevTBfxGlAIEn+/X/Pzuue8fZE2Ewvi+wACDSVjSKQIuTtZG50tQizrUuQ==;N1F4doC9+ILzv9yy3nmV7Q=="
 ---

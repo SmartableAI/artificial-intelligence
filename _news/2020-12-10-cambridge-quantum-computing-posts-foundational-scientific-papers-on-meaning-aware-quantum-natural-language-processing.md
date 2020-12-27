@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net 'Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers CAMBRIDGE ..."
-publishedDateTime: 2020-12-10T07:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029"
+excerpt: "Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers CAMBRIDGE, England, Dec. 10, 2020 /PRNewswire/ -- Cambridge Quantum Computing (CQC ..."
+publishedDateTime: 2020-12-10T07:31:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html"
+webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "7vWZbnFjx7eIQDod+mUmzn5qDinmRleddcV1xYP/b/kSDptIA7ar/+zJzZW9GiG6ySKTpHQ4CSbhV2EBsmiFvslTqglJv2C3ONaTRzqHvZz1h8ipoUEfrYHi6aS08c+rkjAH+lmg9nzP2emG3i+l1sFuWf05lVGr81gbfO3tglXC9f0fYTcpn94xh+O+JhzG+DLIPYDbQ42aUsfr7WzkW2NFSpEmCxNWc4IkiVBKUPZumbE+COFL3qzOV1S8sl9F56Urk98S9V7wQUjzMFC6cXeDqeDyxjooQqpydr4Ih6JRURrYqs497XMzk/6YFCBSkT4V8IJM7SGCppMTHuzJUnEzB9eJrFf2MGl0YMdg3Cw=;G2oc1Bt+EPPCz3+a7hhRsw=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "jNUCj7eJXQCrv3bvffQs1sJ9lM6DShksF0HRbKvperTCZRSvpTaauW2PQSc7q01hgqC3rqAIahASAQM66qgz5RMgZDYNcvwcXhQMIJNiymjtveg2cG2aJC6xsz7OaJrxvLJRVv5tjRuAQ/rksusABU5SgLAUwOlro1QLS9svv1pijNvJfbt40UZCahHGIzAcx4LVwEjgmAqAn+hBMpOBEW8yiZglFRrdRZgsaOtLuMSJG8apUXqak0A/37R/WIb8JNyu7WblKRGYHtTrb5Th7PGCuDGqnT4jf7YzyUGVdm6rVmGP6Z6gd67P6vry2k6eklEY3UIdOPAQ5M4ZN75F/PuYUYSomZQAlp8JrdGtf/Y=;4wCc6uS7PPJ3S+yHEWR+TA=="
 ---
 

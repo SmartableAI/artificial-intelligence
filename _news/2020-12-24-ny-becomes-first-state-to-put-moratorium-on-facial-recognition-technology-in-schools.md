@@ -91,52 +91,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "UPDATE: Lockport school district will follow new law barring facial recognition"
-    excerpt: "Lockport City School District is barred, at least for a while, from using its facial recognition-based surveillance system under legislation signed by Gov. Andrew Cuomo on Tuesday."
-    publishedDateTime: 2020-12-23T03:15:00Z
-    webUrl: "https://www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/update-lockport-school-district-will-follow-new-law-barring-facial-recognition/article_c7219b52-4498-11eb-a450-7f9dda533dcc.amp.html"
-    type: article
-    provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/e/7e/e7ec7c62-4498-11eb-9330-171be70a2582/5fe25ec9d8afe.image.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "NY Set to Start Automatic Voter Registration, Ban Schools from Using Face Recognition"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this year passed those bills this summer. Several bills that ..."
-    publishedDateTime: 2020-12-23T04:52:00Z
-    webUrl: "https://www.nbcnewyork.com/news/tech/ny-set-to-start-automatic-voter-registration-ban-schools-from-using-face-recognition/2796543/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/tech/ny-set-to-start-automatic-voter-registration-ban-schools-from-using-face-recognition/2796543/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/ny-set-to-start-automatic-voter-registration-ban-schools-from-using-face-recognition/2796543/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 52
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/GettyImages-1230127180.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
-    publishedDateTime: 2020-12-23T01:57:00Z
-    webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "New York Halts Use Of Facial Recognition Tech In Schools"
     excerpt: "Law360 (December 22, 2020, 8:57 PM EST) -- New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the ..."
     publishedDateTime: 2020-12-23T10:35:00Z

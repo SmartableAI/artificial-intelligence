@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24"
 type: article
 quality: 57
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Natural Language Processing Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025."
+    publishedDateTime: 2020-12-27T09:50:00Z
+    webUrl: "https://menafn.com/1101344808/Natural-Language-Processing-Market-Insights-By-GrowthResearch-Methodology-Emerging-Trends-and-Forecast-By-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "AZcCfRnGcfFtGUuEr10bhT16ZktxtDXn/hMBcfXoH8t2pcGsH7OtLfBT2KCRVl3vJZ4SvH6KGNOveDamNNKz3Rv+wlXVb52T8Vd6Jd4LTOzHkVSg3YT8JF0WypNzy5SbCr2yLT3Lg1dKXtjhl8SDBFdfToJ5inWRBPziYxlhyLPnjtgfNmW8l4zo6EbDS60cHMOYP1YQUArqf1YCYn1BOmzkSR5fayJv7d3VbXtciOp/pt60lQl0SezyqAGE7mhIPF2DGr8nQPkNaumwbUnZ6fNsP0CHWwxo0Q+yXOWhZvgocJTWkOER6ixEX79nqcOA8nQlT4/MPwHAchiaos1GEtFblHF79Mf4QS9zamfLx9E=;oCqGq/dTbZHwz3fGQWZwhw=="
 ---

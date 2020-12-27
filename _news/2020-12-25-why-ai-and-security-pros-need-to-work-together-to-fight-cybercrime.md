@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-ai-and-security-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "After cyber and data, Israel now aims to conquer AI"
-    excerpt: "and 1,000 graphic processing units (GPU), at the level similar to NVIDIA’s A100 GPU server. In addition, the specs include dedicated AI acceleration units from various manufacturers, which will provide at least one petaFLOP performance and a rapid ..."
-    publishedDateTime: 2020-12-23T04:23:00Z
-    webUrl: "https://www.geektime.com/after-cyber-and-data-israel-now-aims-to-conquer-ai/"
-    ampWebUrl: "https://www.geektime.com/after-cyber-and-data-israel-now-aims-to-conquer-ai/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/after-cyber-and-data-israel-now-aims-to-conquer-ai/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 39
 
 secured: "9SwrgMeYIp4gHP/WVVpmA1mwpM4ap/RkIv7wOSVheMPv41gAjP8RSHPJkNx+cDgzkatn3NIQxX6WIouge92TwuJ19cQrJu7WBWfoxq55qQBG6suGlAAW76S1NTosdlfj7Y8z/E7ndpZRZDsmBY54ccNj3HhN3uDvkEMPhH/YfqZpLWip43eT7A3wdgmdw6SykPcfGC/eq2zy3sjXz83XjXCQ5fU6eM1VxtYZH2ir7eUwuMG6Fqx44LLtuqcU8tAdgC3YsStLwgW8mq7WvgQof1VtfSBbeyBCt27Vp2axmzq//iPiwP/XVUVJF5xrihmnjQJmgpXQLACvgpEaPEWz/yfUVuCgXdJHZRoFWMt7E2+G4wjHXxSPy5EzL2TpPSNNsYYR4mXEPp1+PiUWSPKFRgfpk9dpP2Y2Bqp58OSynVlE6YZ8SI5xA6MV0poRZ5blD241oRn4CCvdm7Bruimg8mIFsMrKBE1rrhhzU2Iby4d5YcyYQP+Dl4DI3rEd39qn6HwDOmaxMNGxFo4ke8K+uw==;VmSMIQD7rdielacwH+KwiA=="
 ---

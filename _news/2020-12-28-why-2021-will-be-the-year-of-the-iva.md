@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-27T18:28:00Z
 originalUrl: "https://www.business2community.com/business-innovation/why-2021-will-be-the-year-of-the-iva-02372717"
 webUrl: "https://www.business2community.com/business-innovation/why-2021-will-be-the-year-of-the-iva-02372717"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Business 2 Community

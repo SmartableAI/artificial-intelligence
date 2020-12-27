@@ -407,7 +407,7 @@
       "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -591,57 +591,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-24-ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test.md",
-      "title": "Ally Fashion, 145 Store Footprint Retailer, to Put Next-Gen AI Tech to the Test",
-      "excerpt": "Going beyond rules-based personalization, Ally Fashion are putting breakout eCommerce AI leader, Particular Audience, to the test. Particular Audience provides a unique platform capable of adapting every product list on an eCommerce site from search results to merchandise pages and product recommendations - every product tile becomes dynamic to shopper intent and preference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ally-fashion-145-store-footprint-retailer-to-put-next-gen-ai-tech-to-the-test-2020-12-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-24-tesla-to-offer-full-self-driving-as-a-subscription.md",
       "title": "Tesla To Offer Full Self-Driving As A Subscription",
       "excerpt": "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow.",
@@ -746,7 +695,7 @@
       "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1232,6 +1181,57 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-chinese-autonomous-driving-startup-weride-bags-200m-in-funding.md",
+      "title": "Chinese autonomous driving startup WeRide bags $200M in funding",
+      "excerpt": "WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the next-generation level 4 driving",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
+      "originalUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/weride.jpeg?w=1024",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
+      "publishedDateTime": "2020-12-22T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-27T18:26:00Z
 originalUrl: "https://www.greeleytribune.com/2020/12/27/greeley-central-speech-and-debate-coach-sarah-french-wins-national-award/"
 webUrl: "https://www.greeleytribune.com/2020/12/27/greeley-central-speech-and-debate-coach-sarah-french-wins-national-award/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Greeley Tribune

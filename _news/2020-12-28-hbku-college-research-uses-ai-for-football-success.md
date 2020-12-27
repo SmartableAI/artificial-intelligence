@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-27T18:34:00Z
 originalUrl: "https://www.gulf-times.com/story/681228/HBKU-College-research-uses-AI-for-football-success"
 webUrl: "https://www.gulf-times.com/story/681228/HBKU-College-research-uses-AI-for-football-success"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Gulf Times
