@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-24-what-alphago-can-teach-us-about-how-people-learn.md",
+      "title": "What AlphaGo Can Teach Us About How People Learn",
+      "excerpt": "At DeepMind, a subsidiary of Alphabet, Silver has led the development of techniques that let computers learn for themselves how to solve problems that once seemed intractable. Most famously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
+      "originalUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe26be462dc9f2effae991b/master/pass/Business-Alpha-Go-David_Silver.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-alphago-teach-how-people-learn/amp",
+      "publishedDateTime": "2020-12-23T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-deepmind-ai-muzero-can-learn-and-master-chess-go-atari.md",
       "title": "DeepMind AI MuZero can learn AND master Chess, Go, Atari",
       "excerpt": "Today the machine learning algorithm MuZero was detailed in a feature research paper in Nature. MuZero expands on the abilities of systems like AlphaGo, AlphaGo Zero, and AlphaZero. Each new algorithm allowed a smart machine to become better at mastering ...",
@@ -1380,60 +1432,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-why-enterprises-are-turning-from-tensorflow-to-pytorch.md",
-      "title": "Why enterprises are turning from TensorFlow to PyTorch",
-      "excerpt": "The deep learning framework PyTorch has infiltrated the enterprise thanks to its relative ease of use. Three companies tell us why they chose PyTorch over Google’s renowned TensorFlow framework.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
-      "originalUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
-      "publishedDateTime": "2020-12-02T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

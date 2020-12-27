@@ -2,6 +2,203 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-13-ultimate-python-and-ai-certification-bundle-discounted-97.md",
+      "title": "Ultimate Python and AI certification bundle discounted 97%",
+      "excerpt": "This bundle includes courses on AI in Python, data wrangling and visualization, a Keras boot camp, an introduction to Python, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "originalUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/27/e9daa63b-a3ce-43fb-b035-5f07df27d40a/resize/1200x/38106f4b0c3857ab2f1a06bbdd779cad/sarinyapinngam.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "publishedDateTime": "2020-11-12T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-bickey-russell-finds-inspiration-from-his-native-bangladesh.md",
+      "title": "Bickey Russell finds inspiration from his native Bangladesh",
+      "excerpt": "Welcome to the latest edition of “My Path to Google,” where we talk to Googlers, interns and alumni about how they got to Google, what their roles are like and even some tips on how to prepare for interviews.Having spent his childhood between London, Milan and Dhaka, Bangladesh, Bickey Russell began",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "originalUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mptg_x_1.0.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "publishedDateTime": "2020-11-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-snap-to-acquire-israeli-startup-vocaai-for-70mn-report.md",
+      "title": "Snap to acquire Israeli startup Voca.ai for $70mn: Report",
+      "excerpt": "Snap Inc, the parent company of popular messaging app Snapchat, is acquiring an Israeli startup called Voca.ai which builds Artificial Intelligence-based virtual agents to help businesses support customer service,",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/",
+      "originalUrl": "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2020/11/e65193aaa0daab6ecdba2183aa65610e.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/",
+      "publishedDateTime": "2020-11-12T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-djay-pro-ai-for-macs-latest-update-takes-advantage-of-apples-m1-chip.md",
+      "title": "Djay Pro AI for Mac's latest update takes advantage of Apple's M1 chip",
+      "excerpt": "Djay Pro AI for Mac leverages Apple's M1 chip to enhance its Neural Mix audio separation tools with effects, crossfading and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/algoriddim-djay-pro-ai-for-mac-neural-mix-apple-m1-chip-150027988.html",
+      "originalUrl": "https://www.engadget.com/algoriddim-djay-pro-ai-for-mac-neural-mix-apple-m1-chip-150027988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4e9ffce0-2455-11eb-af17-206744df9630&client=amp-blogside-v2&signature=486226bd520d45273bffe3c636b30e062aee63cf",
+          "width": 1050,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds.md",
       "title": "Inside the world’s first AI-powered satellite — and its fight against clouds",
       "excerpt": "Intel, Ubotica, and the ESA recently launched the first AI-enabled satellite into Earth's orbit. The team told TNW about their hopes for the mission.",
@@ -1014,196 +1211,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
-      "title": "Databricks launches SQL Analytics",
-      "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "originalUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/fa46ec20-a94a-473e-b79f-68241df6be90/sql-editor-with-query.png",
-          "width": 3838,
-          "height": 2004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "publishedDateTime": "2020-11-11T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-cognitive-systems-market-study-an-emerging-hint-of-opportunity-ibm-accenture-hp-microsoft.md",
-      "title": "Cognitive Systems Market Study: An Emerging Hint of Opportunity | IBM, Accenture, HP, Microsoft",
-      "excerpt": "Cognitive Systems market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Cognitive Systems market will be able to gain the upper hand as they ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101116409/Cognitive-Systems-Market-Study-An-Emerging-Hint-of-Opportunity-IBM-Accenture-HP-Microsoft",
-      "originalUrl": "https://menafn.com/1101116409/Cognitive-Systems-Market-Study-An-Emerging-Hint-of-Opportunity-IBM-Accenture-HP-Microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134028",
-          "width": 640,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-pope-francis-pray-that-robots-dont-turn-against-us.md",
-      "title": "Pope Francis: Pray that robots don’t turn against us",
-      "excerpt": "“Artificial intelligence is at the heart of the epochal change we are experiencing. Robotics can make a better world possible if it is joined to the common good.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/",
-      "originalUrl": "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/pope-francis.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/",
-      "publishedDateTime": "2020-11-11T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-apps-are-now-putting-the-parole-agent-in-your-pocket.md",
-      "title": "Apps Are Now Putting the Parole Agent in Your Pocket",
-      "excerpt": "Instead, he suggests states provide people with social workers, therapy, and access to housing ... calls a “game of life app,” that combines remote monitoring, artificial intelligence, and biometric data from users. “One of the really critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/",
-      "originalUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa5a934e4fe02a20082e954/master/pass/business_parole_480339746.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apps-putting-parole-agent-your-pocket/amp",
-      "publishedDateTime": "2020-11-11T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

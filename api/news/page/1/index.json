@@ -211,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -592,7 +592,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -800,7 +800,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1060,7 +1060,7 @@
       "originalUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1091,6 +1091,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-what-alphago-can-teach-us-about-how-people-learn.md",
+      "title": "What AlphaGo Can Teach Us About How People Learn",
+      "excerpt": "At DeepMind, a subsidiary of Alphabet, Silver has led the development of techniques that let computers learn for themselves how to solve problems that once seemed intractable. Most famously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
+      "originalUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe26be462dc9f2effae991b/master/pass/Business-Alpha-Go-David_Silver.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-alphago-teach-how-people-learn/amp",
+      "publishedDateTime": "2020-12-23T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1181,57 +1233,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-chatroulette-is-on-the-rise-againwith-help-from-ai.md",
-      "title": "Chatroulette Is On the Rise Again—With Help From AI",
-      "excerpt": "The hottest app of early 2010 faded quickly when it was flooded with unwanted nudity. Smarter content moderation is helping to revive it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
-      "originalUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fe37578abb4491ff39c28bf/master/pass/Backchannel-YIR-Chatroulette-AI.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatroulette-rise-again-help-ai/amp",
-      "publishedDateTime": "2020-12-23T16:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

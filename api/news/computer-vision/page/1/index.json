@@ -915,6 +915,93 @@
       ]
     },
     {
+      "path": "_news/2020-12-13-radarcat-gives-computers-a-sense-of-touch.md",
+      "title": "RadarCat Gives Computers A Sense Of Touch",
+      "excerpt": "Can Skynet be far behind? Again, this could provide robots with a sense of touch, in a manner of speaking, that rivals our own human capacity for object recognition. This has applications for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/10/21/radarcat-gives-computers-a-sense-of-touch/",
+      "originalUrl": "https://hackaday.com/2016/10/21/radarcat-gives-computers-a-sense-of-touch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/10/radarcat-in-action.gif",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-image-recognition-software-market-next-big-thing-major-giants-qualcomm-technologies-inc-nec-corporation-microsoft.md",
+      "title": "Image Recognition Software Market Next Big Thing | Major Giants: Qualcomm Technologies, Inc., NEC Corporation, Microsoft",
+      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition, Optical Character Recognition), Industry Vertical (Banking, Financial Services, and Insurance (BFSI), Media & Entertainment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "originalUrl": "https://www.openpr.com/news/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc12730861_g.jpg",
+          "width": 640,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "publishedDateTime": "2020-12-12T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system.md",
       "title": "Privacy advocates poop on UK supermarket’s facial recognition system",
       "excerpt": "The Southern Co-op supermarket's use of facial recognition to reduce crime has sparked concerns that it could wrongly flag innocent people as criminals.",
@@ -1347,92 +1434,6 @@
         "AI",
         "Computer Vision",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-computer-vision-software-market.md",
-      "title": "Computer Vision Software Market",
-      "excerpt": "The Global Computer Vision Software Market analysis report published on ReportsnReports.com is a detailed study of market size, share, and dynamics covered in XX pages and is an illustrative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
-      "originalUrl": "https://www.openpr.com/news/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2205799/computer-vision-software-market-how-will-grow-the-market-in-next",
-      "publishedDateTime": "2020-12-09T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users.md",
-      "title": "Logitech Circle View Doorbell with facial recognition is made for Apple users",
-      "excerpt": "Logitech has introduced Circle View Doorbell, a new video doorbell for connected homes. This device was designed exclusively for use with Apple HomeKit, the first wired video doorbell to feature",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
-      "originalUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/logitech_circle_view_doorbell_main.jpg",
-          "width": 1440,
-          "height": 937,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
-      "publishedDateTime": "2020-12-08T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

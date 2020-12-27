@@ -43,22 +43,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Apple’s self-driving electric car will be on roads in 2024"
-    excerpt: "Apple is wants to begin production on a new breed of electric, self-driving vehicle as early as 2024. The technology giant has been working on some type of car project since back in 2014, but with almost six years of silence it was thought that perhaps the work was going into its CarPlay technology."
-    publishedDateTime: 2020-12-22T07:45:00Z
-    webUrl: "https://www.esquireme.com/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    type: article
-    provider:
-      name: Esquire Middle East
-      domain: esquireme.com
-    quality: 44
-    images:
-      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/22/Apple-Car-2024-news.jpg?itok=BqJQ3wsU"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple Moves Forward With Plan for Self-Driving Vehicles"
     excerpt: "Apple is reportedly planning to produce autonomous cars by 2024, using its own breakthrough battery technology."
     publishedDateTime: 2020-12-22T16:37:00Z

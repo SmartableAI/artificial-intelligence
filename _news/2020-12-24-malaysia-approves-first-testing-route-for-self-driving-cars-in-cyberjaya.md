@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s self-driving electric car will be on roads in 2024"
-    excerpt: "Apple is wants to begin production on a new breed of electric, self-driving vehicle as early as 2024. The technology giant has been working on some type of car project since back in 2014, but with almost six years of silence it was thought that perhaps the work was going into its CarPlay technology."
-    publishedDateTime: 2020-12-22T07:45:00Z
-    webUrl: "https://www.esquireme.com/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50246-apples-self-driving-electric-car-will-be-on-roads-in-2024"
-    type: article
-    provider:
-      name: Esquire Middle East
-      domain: esquireme.com
-    quality: 44
-    images:
-      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/22/Apple-Car-2024-news.jpg?itok=BqJQ3wsU"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple Is Reportedly Advancing Plans to Develop a Self-Driving Car — Here's What It Means for the Sector"
     excerpt: "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters."
     publishedDateTime: 2020-12-22T23:07:00Z

@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com"
-excerpt: "Focus on Medical Image Processing, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The ‘Deep Learning Market: Focus on Medical Image Processing, 2020-2030’ report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
-publishedDateTime: 2020-12-10T11:36:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec"
-webUrl: "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec"
+excerpt: "The \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing ..."
+publishedDateTime: 2020-12-10T11:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18728995"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18728995"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "k1emX/i0KD/buC+BcPbVAx57E/6vRafXzXwrKclH/0L9AcG6tKF3XhtN70JUh8CAKS0+r22aSQk0A8NTahh0e45Y8BizAiU/gIOG83k6mjk6q4WENmhwhY1M6SshcWirrslzN6cdd9grs3Zvn8ylVnAKtMP//DFpnxxJ2nqXvysfFyOFHf2dmirqhgi37KtK3XrmpwDy47HuLnlwTMg9wDnBIrvPyKf0XTP2CS0ZO5KqJzakR4Z+z+2qBxOldJUR8tHor4KrLB8MrVq0CJFUbz1EHEIt68XHc02ioLpX4Sv60tWE7TYKxwqJwU19J84WIjf8ROAEF2UzZwlLRv70cP3v+Gj7EWSfPF2c1LyrKAU=;YberQg24UQocD+9gg1GZNQ=="
+secured: "UsbWkOBrWZaRZj9bW/vXjyKPRUeUWhRWzRB8e56Ked91X4fz7i5QSalUugk1XYCzfVZLb8/WwPSty1NLAiJvAVxkk0h6xBDQMNiq/s+c26j78bLMkJVDJsmZqjp8L63hYk4JTSkT4d3ZLmvd7V8cdw3/eag/v2zdn0KLkXjhzrmC4kKRSbwiF2z2uu2KeiEqeS9ecAJNQOS+77mbt55ibTmCclKAmj9fxoiCab6avRjH8HX2GsqseqDQejqnDCl/2/vBX/H7ZocBdsI6c1Su+B9GJJG0575mEKkAZwj9MGeMnQ0dl7w272h/K6gmEkG74aVxtz5uk+vferAHv8g+YEWiCa/iSj1iZlJkSl/vonc=;2zF+YIAdAF2D7s/EOZTPMw=="
 ---
 
