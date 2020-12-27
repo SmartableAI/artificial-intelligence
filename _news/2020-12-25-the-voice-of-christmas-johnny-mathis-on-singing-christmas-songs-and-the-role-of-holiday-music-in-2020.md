@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1420
         height: 800
         isCached: true
-  - title: "This Hilarious AI-Generated Holiday Song Is the Christmas Jam We Didn't Know We Needed"
-    excerpt: "YouTuber Chase Holfelder has the internet laughing with his AI-generated song, \"Rudolph, The All Gracious King,\" inspired by Mariah Carey's Christmas album."
-    publishedDateTime: 2020-12-22T19:54:00Z
-    webUrl: "https://cafemom.com/news/rudolph-all-gracious-king-ai-generated-christmas-song"
-    type: article
-    provider:
-      name: The Stir
-      domain: cafemom.com
-    quality: 9
 
 secured: "h2UGaVBi1XV/slRZrFVoydm+UrYDwAYpvGhv1JhORBTD9DRSVBSzuBCWezy0H+EQGv6hXHWnm3Izm240MNu/bV9vBWzO63vPgITC1vybQzNGO130EibFlAxwqD05rlQ8twBfUC6p571bX6HjhYpu4CMTL2s8uT/HLz1lZ4TrPwvNYODJLrRNsoazQB2bU4X9g3IqLOOAfNkdqUdbEM1n7PI51YwOtlx6YXLNUhF+D3C8MoD31wqRZUiBGnX5aLZQPD5/EeHX8ONQmclPVnrogUhBTuy5pOL3RpXBGDS8Gaky2LEMqGGDvYRS75bGJZM8PtTNTAE/+GQxMK8jgQvvDGcRkKT6jl86HL1UJFt3HZtMRqddZG1jkWLH4hTsFJgxZBxM7Ykwg35K0ZgPniFCHan25wFLQpuHdS1rrj+nQlCjERwHTsEYUb9Sl4bLoahCW+cVmh16lb6zFaDfWZnLNnhFvWqm2BLjS7Xpsu9TNDuZ+tvm5ebKE3Bgwljuq9jul4ke008wqmGUuADso7uG7A==;T5Gx8oTks2IbqL/+O8XaIA=="
 ---

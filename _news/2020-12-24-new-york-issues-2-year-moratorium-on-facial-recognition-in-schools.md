@@ -91,22 +91,6 @@ related:
         width: 872
         height: 489
         isCached: true
-  - title: "New York bans facial recognition in schools until at least 2022"
-    excerpt: "States agencies will seek feedback from teachers, parents and school-safety experts to develop governance for the technology’s possible future use."
-    publishedDateTime: 2020-12-22T20:18:00Z
-    webUrl: "https://edscoop.com/new-york-facial-recognition-ban/"
-    ampWebUrl: "https://edscoop.com/new-york-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/new-york-facial-recognition-ban/?amp"
-    type: article
-    provider:
-      name: edscoop.com
-      domain: edscoop.com
-    quality: 59
-    images:
-      - url: "https://s3.amazonaws.com/wp-media-es/2020/12/22143205/GettyImages-1187951204.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "New York to Bar Facial Recognition Tech in Schools"
     excerpt: "The bill, sponsored by Assemblywoman Monica P. Wallace, would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
     publishedDateTime: 2020-12-23T16:30:00Z

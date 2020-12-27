@@ -83,22 +83,6 @@ related:
         width: 872
         height: 489
         isCached: true
-  - title: "New York bans facial recognition in schools until at least 2022"
-    excerpt: "States agencies will seek feedback from teachers, parents and school-safety experts to develop governance for the technology’s possible future use."
-    publishedDateTime: 2020-12-22T20:18:00Z
-    webUrl: "https://edscoop.com/new-york-facial-recognition-ban/"
-    ampWebUrl: "https://edscoop.com/new-york-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/new-york-facial-recognition-ban/?amp"
-    type: article
-    provider:
-      name: edscoop.com
-      domain: edscoop.com
-    quality: 59
-    images:
-      - url: "https://s3.amazonaws.com/wp-media-es/2020/12/22143205/GettyImages-1187951204.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "New York issues 2-year moratorium on facial recognition in schools"
     excerpt: "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ..."
     publishedDateTime: 2020-12-23T17:04:00Z

@@ -70,15 +70,6 @@ related:
         width: 1440
         height: 753
         isCached: true
-  - title: "This Hilarious AI-Generated Holiday Song Is the Christmas Jam We Didn't Know We Needed"
-    excerpt: "YouTuber Chase Holfelder has the internet laughing with his AI-generated song, \"Rudolph, The All Gracious King,\" inspired by Mariah Carey's Christmas album."
-    publishedDateTime: 2020-12-22T19:54:00Z
-    webUrl: "https://cafemom.com/news/rudolph-all-gracious-king-ai-generated-christmas-song"
-    type: article
-    provider:
-      name: The Stir
-      domain: cafemom.com
-    quality: 9
 
 secured: "dJbpqlW4bwAZI5bAdtGUnveIpujPDxPfmONBVULxfWYkHehLAx0PbfJlwBsi4HfQGE0AgE/ecBezqssnVdyBYr/7owVLMbCMxtmlJ/t+V4GCozxaRW1viKS+IDglJ2+WbLVX4QrpbXGSHarUh1pX8HEFYwAneskEniKvdwLbZhOgd36UUshg1Qzk34uTBEjMKyRPsqin+g60BDxsvW7OXT1Zt9ngxbayGwZv6LHihyNTBcGIhmuAq+pen0sAvJw2llKtTE1bcTZHNaJWrS3RImaPXflMMpIvnllqqZNB4Iq9VB0SyiLl5fkIFsmgvnqiDYZvjypUq97AuSlCF0exJ5OT37lpY+sk3N6JOI/WWCVz6AcrRayF+xYDNMWxDaro5fG+O5s5QBtjrP6niSrq1fwxkiizOVQvEs/j1rU2YpGqfMwKbcaKeoX9XoYmsrDXE+ZJmU8aQGsaId17gy1DM4rAioi8v3zUexTfWcPrVj1KgfPdgN4gqtUcHrr71ueZLrUy4Dr622bteXRpP/fdiw==;W8mj21T7oDX6AzCm9/XD9A=="
 ---
