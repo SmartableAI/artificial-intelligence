@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-amazon-zoox-introduces-self-driving-robot-taxi.md",
+      "title": "Amazon Zoox introduces self-driving robot taxi",
+      "excerpt": "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
+      "originalUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg",
+          "width": 736,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
+      "publishedDateTime": "2020-12-15T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources",
+      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
+      "originalUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2IR1UR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2IR1UR",
+      "publishedDateTime": "2020-12-14T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-big-brother-in-disguise-the-rise-of-a-new-technological-world-order.md",
       "title": "Big Brother in Disguise: The Rise of a New, Technological World Order",
       "excerpt": "You had to live—did live, from habit that became instinct—in the assumption that every sound you made was overheard, and, except in darkness, every movement scrutinized.”—George Orwell, 1984 It had the potential for disaster.",
@@ -1342,110 +1429,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-uber-is-selling-its-self-driving-car-business-to-aurora.md",
-      "title": "Uber is selling its self-driving car business to Aurora",
-      "excerpt": "Washington, DC (CNN Business)Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/12/07/cars/uber-sells-self-driving/index.html",
-      "originalUrl": "https://www.cnn.com/2020/12/07/cars/uber-sells-self-driving/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181102172906-20181102-uber-self-driving-car-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/cars/uber-sells-self-driving/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/cars/uber-sells-self-driving/index.html",
-      "publishedDateTime": "2020-12-07T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-fords-autonomous-cars-are-delivering-fresh-produce-in-miami.md",
-      "title": "Ford's autonomous cars are delivering fresh produce in Miami",
-      "excerpt": "Ford and Argo AI have launched a pilot that uses self-driving cars to deliver fresh produce to Miami-area students learning at home during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
-      "originalUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4b10add0-389c-11eb-b7d7-58c367381a24&client=amp-blogside-v2&signature=24c8c350119fc36ad9047a5f18cf73643e230d9b",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
-      "publishedDateTime": "2020-12-07T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

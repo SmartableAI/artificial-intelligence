@@ -41,22 +41,6 @@ related:
         width: 720
         height: 540
         isCached: true
-  - title: "Neural network constructs new, terrifying Christmas classic, \"Rudolph, the All-Gracious King\""
-    excerpt: "What happens when you combine neural networks, Christmas carols, and Mariah Carey? A total yuletide abomination, that's what."
-    publishedDateTime: 2020-12-22T22:14:00Z
-    webUrl: "https://news.avclub.com/neural-network-constructs-new-terrifying-christmas-cla-1845934946"
-    ampWebUrl: "https://news.avclub.com/neural-network-constructs-new-terrifying-christmas-cla-1845934946/amp"
-    cdnAmpWebUrl: "https://news-avclub-com.cdn.ampproject.org/c/s/news.avclub.com/neural-network-constructs-new-terrifying-christmas-cla-1845934946/amp"
-    type: article
-    provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 48
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tsuwsc9rqkhjg1sziz9j.png"
-        width: 800
-        height: 447
-        isCached: true
   - title: "The ghost of Christmas future: how artificial intelligence Santa could destroy the world"
     excerpt: "Artificial intelligence creates new jobs and professions, but it also destroys many old ones. What about journalism though? Our reporter, Miltiades Schmidt, wonders whether or not he too might one day be replaced by a robot."
     publishedDateTime: 2020-12-23T00:46:00Z

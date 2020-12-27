@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment.md",
+      "title": "AI: This COVID machine-learning tool helps swamped hospitals pick the right treatment",
+      "excerpt": "A Barcelona hospital's artificial-intelligence tool analyzes trillions of pieces of data to predict likely patient outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
+      "originalUrl": "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
+      "publishedDateTime": "2020-12-15T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-new-sagemaker-features-cut-machine-learning-curve.md",
       "title": "New SageMaker features cut machine learning curve",
       "excerpt": "Amazon Web Services (AWS) has announced nine new capabilities for its machine learning (ML) service, Amazon SageMaker, to make it easier for developers to automate and scale ML workflow.  Key among these is an increased effort to eliminate the kind of racial and demographic bias that has damaged the reputation of artificial intelligence and machine learning tools",
@@ -1370,49 +1413,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-machine-learning-identifies-brain-signature-of-depression.md",
-      "title": "Machine Learning Identifies Brain Signature of Depression",
-      "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between brain regions in people with major depressive disorder – even when different protocols are used to detect these brain networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-identifies-brain-signature-of-depression-343725.jpg?v=11012306",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "publishedDateTime": "2020-12-08T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
