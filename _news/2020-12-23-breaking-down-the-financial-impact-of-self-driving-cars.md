@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Said to Be Planning Self-Driving Electric Car"
-    excerpt: "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc."
-    publishedDateTime: 2020-12-22T23:42:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video"
+  - title: "Vacation Home Boon Expected Due To Self-Driving Cars"
+    excerpt: "The advent of self-driving cars will make it easier for traveling to your vacation home and thus spur more vacation home purchases."
+    publishedDateTime: 2020-12-27T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98412a34c08f100c98f5c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4893%26cropY1%3D248%26cropY2%3D3000"
+        width: 1200
+        height: 675
         isCached: true
   - title: "4 LIDAR Stocks to Benefit From Self-Driving Car Revolution"
     excerpt: "With driverless technology being one of the hottest investment ideas in the auto market, the best way to tap the AV revolution would be to invest in the core technology that has made self-driving cars a reality."
@@ -52,36 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Self-Driving Car Market 2020 | Size, Market Share, Leading Players and Forecast to 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-12-23T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-size-market-share-leading-players-and-forecast-to-2024-2020-12-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Volkswagen CEO is 'looking forward' to Apple's upcoming self-driving car"
-    excerpt: "Volkswagon's CEO, Herbert Diess, posted on LinkedIn that he welcomes Apple's Project Titan as a competitor in the autonomous car market. On Monday, it was reported that Apple could release its own ..."
-    publishedDateTime: 2020-12-23T16:47:00Z
-    webUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car"
-    ampWebUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 43
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/39516-75720-5ae145c766a97c82b0b66d78-xl.jpg"
-        width: 1200
-        height: 695
-        isCached: true
   - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
     excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."
     publishedDateTime: 2020-12-23T13:48:00Z
@@ -112,24 +84,34 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Top-ranked analyst Toni Sacconaghi on Apple getting into self-driving cars"
-    excerpt: "The world's most valuable company is getting even bigger. Apple's stock is extending its big run this week on a report that it's hoping to start producing a passenger vehicle by 2024. Tim Higgins, reporter at the Wall Street Journal,"
-    publishedDateTime: 2020-12-23T13:52:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/23/top-ranked-analyst-toni-sacconaghi-on-apple-getting-into-self-driving-cars.html"
+  - title: "It’s time for self-driving cars to really take off... but not for people"
+    excerpt: "In 2021 we will see autonomous driving finally find its fit – and it’s not in personal travel. Billed as the first everyday consumer application of AI, self-driving has simultaneously inspired its champions and proved a worry for its investors."
+    publishedDateTime: 2020-12-24T06:18:00Z
+    webUrl: "https://www.wired.co.uk/article/self-driving-cars-deliveries"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 32
-  - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
-    excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
-    publishedDateTime: 2020-12-24T19:55:00Z
-    webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 23
+    images:
+      - url: "https://wi-images.condecdn.net/image/wWPoAMqzQEY/crop/1440/0.5235602094240838/f/1120wiredworldtransportuse03a.jpg"
+        width: 1440
+        height: 753
+        isCached: true
+  - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
+    excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."
+    publishedDateTime: 2020-12-27T07:07:00Z
+    webUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-division-to-aurora-after-years-of-turmoil-deadly-accident/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: Entorno Inteligente
+      domain: entornointeligente.com
+    quality: 14
+    images:
+      - url: "https://www.entornointeligente.com/wp-content/uploads/2020/12/uber_sells_self_driving_car_division_to_aurora_after_years_of_turmoil_2C_deadly_accident.jpg"
+        width: 460
+        height: 345
+        isCached: true
 
 secured: "+NxVU+zYSMebUIzFPYtJ6l1zEIkemc5ozMSZBZZtAEffy4+whl/pFyLQ1OESa4ooVt7PyW6IhivsqOxiGQxbk25b2/KymInhHgIxKb5/EciXtI5Wkh5TiHrN5U9FQdFTFrP6606gGHctq5WY6EHQFJKEU5Gs9H3Jz8Fd487iTFLDQBvrNRHhpxu94QPnYIrsaX1hYh8DtNwOmv3wUZcjsQt4ZYylk3r2xiy73uCej2DBdeboEQPDf7j2yAEWFUZP7T2bIgMi3ybIjfGSxQSqoSZduhnwqFKwddxcyPxu54vGi+wKDftcEiWf9mUfrwdLzY3MczWhCeuv6RihCIVTNC5WY5soSrr5+sFPgObxc7E=;KNK9sftpwyt6RGB2fbLCPA=="
 ---

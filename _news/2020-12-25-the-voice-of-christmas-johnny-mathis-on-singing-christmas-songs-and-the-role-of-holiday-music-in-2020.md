@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Forbes
@@ -44,20 +44,6 @@ related:
       - url: "https://wi-images.condecdn.net/image/Q6GoyOkPB3P/crop/1440/0.5235602094240838/f/wired-queen-ai.jpg"
         width: 1440
         height: 753
-        isCached: true
-  - title: "The ghost of Christmas future: how artificial intelligence Santa could destroy the world"
-    excerpt: "Artificial intelligence creates new jobs and professions, but it also destroys many old ones. What about journalism though? Our reporter, Miltiades Schmidt, wonders whether or not he too might one day be replaced by a robot."
-    publishedDateTime: 2020-12-23T00:46:00Z
-    webUrl: "https://www.stuff.co.nz/technology/123802762/the-ghost-of-christmas-future-how-artificial-intelligence-santa-could-destroy-the-world"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 28
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/5/e/c/image.related.StuffLandscapeSixteenByNine.1420x800.21pitm.png/1608684322558.jpg"
-        width: 1420
-        height: 800
         isCached: true
 
 secured: "h2UGaVBi1XV/slRZrFVoydm+UrYDwAYpvGhv1JhORBTD9DRSVBSzuBCWezy0H+EQGv6hXHWnm3Izm240MNu/bV9vBWzO63vPgITC1vybQzNGO130EibFlAxwqD05rlQ8twBfUC6p571bX6HjhYpu4CMTL2s8uT/HLz1lZ4TrPwvNYODJLrRNsoazQB2bU4X9g3IqLOOAfNkdqUdbEM1n7PI51YwOtlx6YXLNUhF+D3C8MoD31wqRZUiBGnX5aLZQPD5/EeHX8ONQmclPVnrogUhBTuy5pOL3RpXBGDS8Gaky2LEMqGGDvYRS75bGJZM8PtTNTAE/+GQxMK8jgQvvDGcRkKT6jl86HL1UJFt3HZtMRqddZG1jkWLH4hTsFJgxZBxM7Ykwg35K0ZgPniFCHan25wFLQpuHdS1rrj+nQlCjERwHTsEYUb9Sl4bLoahCW+cVmh16lb6zFaDfWZnLNnhFvWqm2BLjS7Xpsu9TNDuZ+tvm5ebKE3Bgwljuq9jul4ke008wqmGUuADso7uG7A==;T5Gx8oTks2IbqL/+O8XaIA=="

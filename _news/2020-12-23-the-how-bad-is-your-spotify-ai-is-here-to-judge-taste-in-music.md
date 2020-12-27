@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Newsweek
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Roast your own Spotify listens with this snarky AI"
-    excerpt: "If you want to be judged, you open a page titled “How Bad is Your Spotify” and you log in with your Spotify account. (It might take a couple refreshes on the “Loading your music library” page.) This absolute jerk of an AI then drags you mercilessly while it pulls your playlists and top tracks."
-    publishedDateTime: 2020-12-23T00:33:00Z
-    webUrl: "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/hamXm1ANrHMEOELR53wT_VXLWQs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68569960/acastro_180213_1777_0004.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "I Defeated the AI That Roasts Your Spotify Taste"
     excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
     publishedDateTime: 2020-12-23T20:19:00Z

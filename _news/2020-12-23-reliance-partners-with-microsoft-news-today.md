@@ -38,20 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "Microsoft Ups Security of Azure AD, Identity"
-    excerpt: "A roundup of Microsoft's recent security news and updates that focus on protecting identity. Microsoft's latest security announcements have focused on securing Azure AD and Identity. Updates include stronger compromise prevention for Azure AD,"
-    publishedDateTime: 2020-12-22T23:07:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-ups-security-of-azure-ad-identity-/d/d-id/1339793"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 71
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "oP6vHcjyK3v5IE+S1RZtMMWsfyV0gSPfcuRsP8KdHbVw+4x/vsV5/rLoKkzE4HuIMAt3zuKGTHEMJegHX9NT5x5AjI/Y2ZJGzGpR3/qKEse1Di38eXv6BQt6gI9pF2zVFiPkV5JxZ2RjYFXs6xFOFx1tQOInh2yhGM+PRTzf9tXKZvFAao3rRGH27HlxQUOU8hhiHAbVMfCHQMsO425e+ZQTNQ02GGqUcz2Jbw+t7qa6h5O6owlQdG96tEMq3bg40ju1pYodJUYnN/o6Gtm3uWUuyCgfJT4/Sn5C+nAyqC0vh+RM/s/FBIpROMafLgOPHGoxE5gFIV5/oUVFqn0PGuiSK1iOuNDUruQDExQJ64M=;spmlqnlrz9GttjbGwq+djQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-27-how-machines-are-changing-the-way-companies-talk.md",
+      "title": "How machines are changing the way companies talk",
+      "excerpt": "Businesses are changing the words they use in order to appeal to AI analysts and traders who assess SEC regulatory filings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
+      "originalUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
+      "publishedDateTime": "2020-12-27T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-from-bean-to-bar-haitis-cocoa-wants-international-recognition.md",
       "title": "From Bean to Bar, Haiti's Cocoa Wants International Recognition",
       "excerpt": "PORT-AU-PRINCE, HAITI - Although small in the face of South America's giants, Haiti is slowly developing its cocoa industry, earning better incomes for thousands of farmers and refuting the stereotype that culinary art is the preserve of wealthy countries ...",
@@ -97,58 +149,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020.md",
-      "title": "‘The Voice Of Christmas’ Johnny Mathis On Singing Christmas Songs And The Role Of Holiday Music In 2020",
-      "excerpt": "Crooner Johnny Mathis, 85, looks back on his six studio albums of Christmas music and the role of holiday songs despite pandemic in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/",
-      "originalUrl": "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe572d487b385118f25327e%2F0x0.jpg",
-          "width": 720,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/",
-      "publishedDateTime": "2020-12-24T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {

@@ -19,116 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Apple Said to Be Planning Self-Driving Electric Car"
-    excerpt: "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc."
-    publishedDateTime: 2020-12-22T23:42:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video"
+  - title: "Tesla To Offer Full Self-Driving As A Subscription"
+    excerpt: "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow."
+    publishedDateTime: 2020-12-23T16:35:00Z
+    webUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg"
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
+  - title: "Elon Musk Confirms Tesla Full Self-Driving Subscriptions Coming Early 2021"
+    excerpt: "You will also be able to buy FSD outright, and it seems Tesla would prefer you did that instead of paying a monthly subscription fee."
+    publishedDateTime: 2020-12-23T15:33:00Z
+    webUrl: "https://insideevs.com/news/462012/elon-musk-confirms-fsd-subscription-model/"
+    ampWebUrl: "https://insideevs.com/news/462012/elon-musk-confirms-fsd-subscription-model/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/462012/elon-musk-confirms-fsd-subscription-model/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 57
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "4 LIDAR Stocks to Benefit From Self-Driving Car Revolution"
-    excerpt: "With driverless technology being one of the hottest investment ideas in the auto market, the best way to tap the AV revolution would be to invest in the core technology that has made self-driving cars a reality."
-    publishedDateTime: 2020-12-23T14:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Self-Driving Car Market 2020 | Size, Market Share, Leading Players and Forecast to 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-12-23T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-size-market-share-leading-players-and-forecast-to-2024-2020-12-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Breaking Down the Financial Impact of Self-Driving Cars"
-    excerpt: "The expectations over driverless cars are stratospherically high. For one, there’s the fascination with the technology and the presumption of an easier commute: The self-driving car will take us to work while we surf the Internet, read files and review ..."
-    publishedDateTime: 2020-12-23T12:00:00Z
-    webUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html"
-    ampWebUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/driverless-audi.jpg"
-        width: 770
-        height: 513
-        isCached: true
-  - title: "Volkswagen CEO is 'looking forward' to Apple's upcoming self-driving car"
-    excerpt: "Volkswagon's CEO, Herbert Diess, posted on LinkedIn that he welcomes Apple's Project Titan as a competitor in the autonomous car market. On Monday, it was reported that Apple could release its own ..."
-    publishedDateTime: 2020-12-23T16:47:00Z
-    webUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car"
-    ampWebUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 43
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/39516-75720-5ae145c766a97c82b0b66d78-xl.jpg"
-        width: 1200
-        height: 695
-        isCached: true
-  - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
-    excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."
-    publishedDateTime: 2020-12-23T13:48:00Z
-    webUrl: "https://mybighornbasin.com/scotts-car-corner-apple-to-come-out-with-a-self-driving-car/"
-    type: article
-    provider:
-      name: Big Horn Radio Network
-      domain: mybighornbasin.com
-    quality: 39
-    images:
-      - url: "https://mybighornbasin.com/wp-content/uploads/2020/12/vaccine-pexels-1.jpg"
-        width: 418
-        height: 596
-        isCached: true
-  - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
-    excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"
-    publishedDateTime: 2020-12-24T12:33:00Z
-    webUrl: "https://www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/"
-    ampWebUrl: "https://www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/amp/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 34
-    images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/12/VP-COMP-APPLE-CAR.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Top-ranked analyst Toni Sacconaghi on Apple getting into self-driving cars"
-    excerpt: "The world's most valuable company is getting even bigger. Apple's stock is extending its big run this week on a report that it's hoping to start producing a passenger vehicle by 2024. Tim Higgins, reporter at the Wall Street Journal,"
-    publishedDateTime: 2020-12-23T13:52:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/23/top-ranked-analyst-toni-sacconaghi-on-apple-getting-into-self-driving-cars.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 32
 
 secured: "zhuxYQtt34Pb7w5kxnv+HGk0Q4Dag1co+vmcYIt6KRRJLR2hxkIMvJQzsU4NPHzPALoSrhXtFaQCATT7+QoKKpX4dqIe8zHTq5RpeEBAIsaIqjYBshaJdKtd2Ld56CovBnOLB6DPbG3oOi+0/wKxsi4k8yO4wg54rUoNdY0IECZUhpNrLstnuuI4hYpZXOhRPh4i1zXGSkxKp9LeLd1TTcI4lpmahHsJ+BWyiK39sRaETh5pbttMiMdj9Gu3GStP+5fbfXpojW6aWAwjfvoZT2+SZflogPQyaT4Ahf2LcGpfWGplsa+lW1L+3yey4KCqDUw//HjSitXC7/PsFrJ7VdIztQEzidl4XiUi64Z2PEs=;ADuKTLiEULATul4Fgi7Qpw=="
 ---

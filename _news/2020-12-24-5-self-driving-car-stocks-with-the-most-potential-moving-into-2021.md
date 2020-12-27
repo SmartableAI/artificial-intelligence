@@ -43,23 +43,7 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Apple Is Reportedly Advancing Plans to Develop a Self-Driving Car — Here's What It Means for the Sector"
-    excerpt: "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters."
-    publishedDateTime: 2020-12-22T23:07:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 28
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106673753-1598035076175-tim.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "RdROp8QN4TJsLqoKVoGKaVs6tLifkT5w7wJ2xOWg5GC75BFAS8kNn+1nrydHbK9gFCigJdng/OagFvvfOAX8rv4+tfiwTDhCvmkOAPy9FM+TAJ2vWhJXK3RaPtHWP57uvpuVW0zHvl6yGFU0u80KYsTDd9nRw4gXS2QMjCE7yPAtcIEuaK0ysSW7a7ObIceIksPBzxjClsymSIHo7n3kBVmnGVN2fxT1Nrw/qhLIgOG+dqoybxOn9MTr72U7hDk3iEaN5x4/hQySNphds8ATxcJo7xTs+n7t8AozgsAIVpQkO9AaukkirkEplnrDeBwQ3+dnyLESDV2Ds7s/Ya1zgf2H/NREiq2fl6tK+Q1F+bg=;gLRquO2NIWsG3UwDvSC8aA=="
+secured: "GBmL4DbNq4n3NplgwhcI+78pyZIX3wP+8lJkGHIZsY/Ed4wobP5GXM5eFr58nJXqafmeW295OguVUP31/ysLZVNuXzg1eMvktaICL0n64A62mIRaiAAaGs7HZ9Ovs0szD7DShCFetEBPHyt8++0jCTyP5g5HoLpM268ZYTZVJvZMXLGcx3V5P37urCNilmrRoXfPgg9Xb4ycHD2gxfZ/F4viGw2/gz3W3+EBFzZZSOu9RXtYmVg2lZYV4tmUPu84Azc2JrHlYiSQEciAs4O4fihJ+VaTRMmgi6VEbjK8FMzisSRXEwt+CEvXT2SKpGa6qU5qhgOTDAIOPmcA5XwXBKsr5nsCwAYDHw9Uoalyu60=;vW8SNIzQFZc7L8pgCuAcCA=="
 ---
 

@@ -29,111 +29,62 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Said to Be Planning Self-Driving Electric Car"
-    excerpt: "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc."
-    publishedDateTime: 2020-12-22T23:42:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video"
+  - title: "Machine Learning as a Service (MLaaS) Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
+    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1."
+    publishedDateTime: 2020-12-23T06:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-12-23"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "4 LIDAR Stocks to Benefit From Self-Driving Car Revolution"
-    excerpt: "With driverless technology being one of the hottest investment ideas in the auto market, the best way to tap the AV revolution would be to invest in the core technology that has made self-driving cars a reality."
-    publishedDateTime: 2020-12-23T14:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Breaking Down the Financial Impact of Self-Driving Cars"
-    excerpt: "The expectations over driverless cars are stratospherically high. For one, there’s the fascination with the technology and the presumption of an easier commute: The self-driving car will take us to work while we surf the Internet, read files and review ..."
-    publishedDateTime: 2020-12-23T12:00:00Z
-    webUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html"
-    ampWebUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/driverless-audi.jpg"
-        width: 770
-        height: 513
-        isCached: true
-  - title: "Volkswagen CEO is 'looking forward' to Apple's upcoming self-driving car"
-    excerpt: "Volkswagon's CEO, Herbert Diess, posted on LinkedIn that he welcomes Apple's Project Titan as a competitor in the autonomous car market. On Monday, it was reported that Apple could release its own ..."
-    publishedDateTime: 2020-12-23T16:47:00Z
-    webUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car"
-    ampWebUrl: "https://appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/23/volkswagen-ceo-is-looking-forward-to-apples-upcoming-self-driving-car/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 43
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/39516-75720-5ae145c766a97c82b0b66d78-xl.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 695
+        height: 630
         isCached: true
-  - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
-    excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."
-    publishedDateTime: 2020-12-23T13:48:00Z
-    webUrl: "https://mybighornbasin.com/scotts-car-corner-apple-to-come-out-with-a-self-driving-car/"
+  - title: "Asia-Pacific Machine Learning Market Size, Share 2021 Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others.Machine learning is no longer a novelty in Asia-Pacific countries. Business sectors having realised its potential are using machine learning technologies to draw maximum ..."
+    publishedDateTime: 2020-12-24T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-size-share-2021-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
     type: article
     provider:
-      name: Big Horn Radio Network
-      domain: mybighornbasin.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://mybighornbasin.com/wp-content/uploads/2020/12/vaccine-pexels-1.jpg"
-        width: 418
-        height: 596
-        isCached: true
-  - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
-    excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"
-    publishedDateTime: 2020-12-24T12:33:00Z
-    webUrl: "https://www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/"
-    ampWebUrl: "https://www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/6326376/apple-car-concept-video-self-driving-car-2024/amp/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 34
-    images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/12/VP-COMP-APPLE-CAR.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Top-ranked analyst Toni Sacconaghi on Apple getting into self-driving cars"
-    excerpt: "The world's most valuable company is getting even bigger. Apple's stock is extending its big run this week on a report that it's hoping to start producing a passenger vehicle by 2024. Tim Higgins, reporter at the Wall Street Journal,"
-    publishedDateTime: 2020-12-23T13:52:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/23/top-ranked-analyst-toni-sacconaghi-on-apple-getting-into-self-driving-cars.html"
+  - title: "Artificial Intelligence Market By Leading Players, Future Applications, Trending Regions and Industry Share Estimate by 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-12-26T12:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-leading-players-future-applications-trending-regions-and-industry-share-estimate-by-2026-2020-12-26"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 32
-  - title: "Apple Vs. Tesla: Self-Driving Car Showdown"
-    excerpt: "Apple (NASDAQ:AAPL) made a splash recently when it announced that the company plans to have a self-driving car available for sale in 2024. This seems like an attack on Tesla (NASDAQ:TSLA), which ..."
-    publishedDateTime: 2020-12-24T19:55:00Z
-    webUrl: "https://seekingalpha.com/article/4396148-apple-vs-tesla-self-driving-car-showdown"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence-Emotion Recognition Market 2020: Industry Size, Outlook, Share, Demand, Manufacturers and 2024 Forecast Research’s"
+    excerpt: "The report outlines the competitive framework of the “ Artificial Intelligence-Emotion Recognition Market ” industry detailing the SWOT analysis and Artificial Intelligence-Emotion Recognition market share dominance of the prominent players."
+    publishedDateTime: 2020-12-23T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-2020-industry-size-outlook-share-demand-manufacturers-and-2024-forecast-researchs-2020-12-23"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WAvKFVrzmQQtMZQArFIwFzgJqVcfdPUswua+iiL2rrkFWifvfIk0OVhXB0HSRZhU1A1NdvFzcUhN7nBb26iBTop/7MKxsIU0RosmyHiTKa8abdPmqF1QYnfBeSSSO4cxMTBl9hRGsWTgQq/Rtv1rhHSDQG86WAXRk/71M5N8cS4MZFY2o85U3KnKBL/qnz0zHfrodRXsTTPojr3QBahq4aasakWsBHXbSpzUFoVFjDClht/XkqWEGzsbo0JEp+EG5LQQHMik4cpEuWrAOAjGaPZCp9KHunW4DmEGe7R9A4QDoeDR+gYuOlUzQwVl+PFhZTQj22LJPLh2vD/nzSYC0WVNDRjhQ72UEkjb5xLvlz0=;zQ72BMPwXvJj6lu7qg8SDQ=="
 ---

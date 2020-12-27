@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Roast your own Spotify listens with this snarky AI"
-    excerpt: "If you want to be judged, you open a page titled “How Bad is Your Spotify” and you log in with your Spotify account. (It might take a couple refreshes on the “Loading your music library” page.) This absolute jerk of an AI then drags you mercilessly while it pulls your playlists and top tracks."
-    publishedDateTime: 2020-12-23T00:33:00Z
-    webUrl: "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/hamXm1ANrHMEOELR53wT_VXLWQs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68569960/acastro_180213_1777_0004.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "The 'How Bad Is Your Spotify' AI Is Here to Judge Taste in Music"
     excerpt: "Look no further than the \"How Bad Is Your Spotify\" app that will cruelly rag on your taste in music. The A.I., created by digital culture publication The Pudding, is akin to a meaner, less thorough yet still fun version of Spotify's popular Wrapped function,"
     publishedDateTime: 2020-12-23T09:42:00Z

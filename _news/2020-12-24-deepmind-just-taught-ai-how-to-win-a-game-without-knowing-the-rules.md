@@ -107,20 +107,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "MuZero: Mastering Go, chess, shogi and Atari without rules"
-    excerpt: "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms."
-    publishedDateTime: 2020-12-23T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw"
-        width: 512
-        height: 288
-        isCached: true
   - title: "DeepMind's AI agent MuZero could turbocharge YouTube"
     excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
     publishedDateTime: 2020-12-23T16:00:00Z

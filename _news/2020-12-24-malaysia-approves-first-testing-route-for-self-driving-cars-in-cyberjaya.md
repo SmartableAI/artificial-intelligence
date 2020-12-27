@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Apple Is Reportedly Advancing Plans to Develop a Self-Driving Car — Here's What It Means for the Sector"
-    excerpt: "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters."
-    publishedDateTime: 2020-12-22T23:07:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector/2796124/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 28
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106673753-1598035076175-tim.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "rHB9SPKTeJe+WuI2tClp4pjxm1HJji7rbHTgqq9NEy5EQW88RH7FLh8C0QrH3woTFW6CrE9ZMKNJafNVMa1x9zMVZDDgqpQ2Ed7yoHk6GeBX9LpzKoXZZrT0tWY3d9WlLfm2LN40FN/sRIkBBMD7IEhBCaZ/dkjBUtQTI2Jjt5Qn9hsu4QcxVHqQ5TLooAArEI4zH0iig1a+W75NCHpFggFdbzqPVDsqG2SbCcZu1izV3lbatvIfPd6QPzJiznCjgI9g4zTEFx5NLbgF7DUcvpL8RjooN6NWoF6BYeuw7fM7Rjv+dr74erkXGL6RNE6W3GEQ90UwSNXMRruKtpRZOQrLpzUtu0kMDlS1bOuDnUQ=;UzQYWHauoD0NlBbThsrSoA=="

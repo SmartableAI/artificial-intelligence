@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-25T10:00:00Z
 originalUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
 webUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_06_lrg.jpg"
@@ -23,6 +24,6 @@ images:
     height: 370
     isCached: true
 
-secured: "rNscnUz800Ef9GYikQsrw5wYfy//DOQFjxqshHjSiMrwunYjXqcTgfScEtDUp3C+v5VExjRVdbuFf05EdrbNUWGnhWNy4BNr284iMLqo/Mp1L4kvyeSkZTdSqUS/2QgoXt3/P31Ia7XEtOjeLhXgeyQQCD1OreBaPujjZmd70prpPLlE9zBJ1a8vlInD49aufYzpnfDDOUDPlsle9IJn862k/buw9qKPGR/n2B80HLXD+OYIshe/UpEQuWN+n8NXkROS8BBpG5qK+NVGVW1qVpftue/UrFzAf5it+rhXT+k5iLbdxS5Qk8BEzVCuteXL+2B0rA0KxjcpEQcmmJOLkKL3v+eLc43LpYpZEcjPdjk=;TwVM1htESGUtncoy/iSivw=="
+secured: "02bL9UxQFM4EeSMuvznM6T+O/rFMvn0rqaMta1By4cC7r7f6CLWaBORR9BsQTR878hbCIg7qz4rLldkY5B/VjNgKr45aDuyhgcY4/9LWScPto8qgVU7KB3f1z9i4TsGVdZuEYcWJdPmrl36IZJsyNHsDsKHxEyJuf0dxgvkfez+s/Sa4mrfJPmmDIuBWIHvBMxPdbL3H2mbejaXid1gMwTqhrwnXEQOyn5YE4phdzR3piQ0Qei4p0FB1oXtyEpR79eVdlYIAJLvGjc9V2CNnSDsmNjO6KM1tUbnlTd8hrAgN/sNUPHQ25Oj/0FOADQBQwqIXY5oGCHl6HoytoIStdAYBQDuq8hK1w+SkHk+ojlnGrSh7GdPrDwSNQab7Ad/M8EWcaSkQsSLRh764bqQwqdUbYcowPR68WeL++x65ltfIsTwBIwtNnhka93QD4b4dfFnzrCYJvFr8BQocAhr/FR1i5rXn/BsmiHA/9ojSbRe2/YVxRR5lIQrhLQmRDPclSVLbk+vG3s5G9cSeN109Bg==;wxbwhMaacYJRNMLLu/CT3w=="
 ---
 

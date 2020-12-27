@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-ch
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
 type: article
 quality: 104
-heat: 215
+heat: 205
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "MuZero: Mastering Go, chess, shogi and Atari without rules"
-    excerpt: "Planning winning strategies in unknown environments is a step forward in the pursuit of general-purpose algorithms."
-    publishedDateTime: 2020-12-23T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/1_D5dKtTSzSN2-CemHJHMiQzJVV5slBcVZMkBQKZQUV80JvlsKPRpuInNpCoxg5uMSNB3k0lg1ZmmSRQ-sq5THfQJW5VcqovJVKXMw"
-        width: 512
-        height: 288
         isCached: true
   - title: "DeepMind just taught AI how to win a game without knowing the rules"
     excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"

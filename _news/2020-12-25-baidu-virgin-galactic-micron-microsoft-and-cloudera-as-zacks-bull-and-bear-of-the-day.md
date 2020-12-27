@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microso
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Ups Security of Azure AD, Identity"
-    excerpt: "A roundup of Microsoft's recent security news and updates that focus on protecting identity. Microsoft's latest security announcements have focused on securing Azure AD and Identity. Updates include stronger compromise prevention for Azure AD,"
-    publishedDateTime: 2020-12-22T23:07:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-ups-security-of-azure-ad-identity-/d/d-id/1339793"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 71
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Reliance partners with Microsoft News Today"
     excerpt: "Chennai: Reliance General Insurance (RGI) a 100 per cent subsidiary of Reliance Capital has brought in speed and acceleration to its vehicle claim process by introducing 'RAPID' equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities."
     publishedDateTime: 2020-12-23T11:02:00Z
