@@ -45,19 +45,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Predictions for AI-powered digital healthcare in 2021"
-    excerpt: "Oncology diagnosis inclusing digital pathology, telehealth and physician access are just some of the areas where AI can have outsize impact in 2021"
-    publishedDateTime: 2020-12-23T15:27:00Z
-    webUrl: "https://medcitynews.com/2020/12/predictions-for-ai-powered-digital-healthcare-in-2021/"
+  - title: "Neural’s AI predictions for 2021"
+    excerpt: "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables."
+    publishedDateTime: 2020-12-28T08:09:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1279175030.jpg"
-        width: 724
-        height: 483
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
 
 secured: "7IpoAvFr3LhwgwJl8gYwJ9dKBrUQSdknyf0B//lLmOnbUp1ob1x45Y5uds1SwIlZ6kjSlfkMMMgW/OnAHXz0APr5YIgy9O3lohysu8ESSiVbLBwmfDSg8DIZbGJ0hqDxbopr/VVKBuAV3pKhjtNpBL2n9pN2/C8JflXbaiPMAY+dixWLpHeOAKS8TsQPQOUYwKCd6yAeXcDuIzPnUg5hop1rTRX+QmadqgF84UIG+jiK+6MEZ9PulBt+3Yr3QUtd1GOgjrBzW4eDc5S29gfVPZ8lXb9ypNKmIIbPIiEMw8rRbGNAzxKDS+pSiB32yPwrvGcnj2RmLmbECM5OiAzEJEUTDNvDtrhptp2dCvkS8js=;5o50nn6VZgsmxclAssDp2w=="

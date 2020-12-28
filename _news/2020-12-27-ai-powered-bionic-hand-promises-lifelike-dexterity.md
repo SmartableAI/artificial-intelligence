@@ -7,7 +7,7 @@ originalUrl: "https://www.news-journal.com/news/business/ai-powered-bionic-hand-
 webUrl: "https://www.news-journal.com/news/business/ai-powered-bionic-hand-promises-lifelike-dexterity/article_af0768f2-461f-11eb-b90e-2b92e911b96a.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered bionic hand promises lifelike dexterity"
-    excerpt: "The hand is undergoing FDA testing, and this month the company is testing the technology with the people it is intended to help. In today’s world of brain-powered bionic limbs, highly functioning prosthetics are too expensive to reach many people who could benefit from them,"
-    publishedDateTime: 2020-12-23T15:28:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/23/innovations-bionic-hand-ai/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JIKLMB73FZAYDANBM3FQJXIK7I.jpg&w=1440"
-        width: 1280
-        height: 851
-        isCached: true
   - title: "AI-powered bionic hand promises lifelike dexterity"
     excerpt: "Engineers have created a prosthetic that's meant to be more mobile and affordable than other robotic limbs. It's a hand powered by artificial intelligence that gives amputees control over each finger,"
     publishedDateTime: 2020-12-27T21:31:00Z

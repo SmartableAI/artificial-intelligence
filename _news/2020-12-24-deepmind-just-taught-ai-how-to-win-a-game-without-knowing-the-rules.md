@@ -75,54 +75,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "DeepMind's latest AI can master games without being told their rules"
-    excerpt: "Alphabet's DeepMind came out with AlphaGo, an AI which consistently beat the best human Go players. DeepMind then created AlphaZero, which could play Go, chess and shogi with a single algorithm. DeepMind's latest AI,"
-    publishedDateTime: 2020-12-23T16:14:00Z
-    webUrl: "https://www.engadget.com/deepmind-muzero-160024950.html"
-    ampWebUrl: "https://www.engadget.com/amp/deepmind-muzero-160024950.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-muzero-160024950.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe9a26a30-44ca-11eb-af9e-fbbada99bdf7&client=amp-blogside-v2&signature=86dc1078e2e85e46497c6ab2082a714f60cbab7a"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "DeepMind’s MuZero picks up the rules of games as it plays"
-    excerpt: "In a paper published in the journal Science late last year, Google parent company Alphabet’s DeepMind detailed AlphaZero, an AI system that could teach itself how to master the game of chess ..."
-    publishedDateTime: 2020-12-23T16:02:00Z
-    webUrl: "https://venturebeat.com/2020/12/23/deepminds-muzero-picks-up-the-rules-of-games-as-it-plays/"
-    ampWebUrl: "https://venturebeat.com/2020/12/23/deepminds-muzero-picks-up-the-rules-of-games-as-it-plays/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/deepminds-muzero-picks-up-the-rules-of-games-as-it-plays/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
-        width: 1198
-        height: 600
-        isCached: true
-  - title: "DeepMind's AI agent MuZero could turbocharge YouTube"
-    excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
-    publishedDateTime: 2020-12-23T16:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55403473"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9AB/production/_116213574_deepm.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
     excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
     publishedDateTime: 2020-12-23T20:28:00Z
@@ -166,20 +118,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/deepmind.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
-    excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."
-    publishedDateTime: 2020-12-23T16:06:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/google-deepmind-ai-muzero-b1778275.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 50
-    images:
-      - url: "https://static.independent.co.uk/2020/12/23/15/MuZero_Blog_full%20image.jpg"
-        width: 3295
-        height: 2480
         isCached: true
 
 secured: "Rn7nZNMRiOISr0O/IAgDf1ZV2jli9+TkPga/cViLR4q3QrEjmQsHae4smEG7GaFdcWwNMxVxO62sjeUsH0X9a7NnG/FumPoq1tb7fvWYccEMGpnZdUjrCBfzsvfOp4fBMaoZlMyHvnhZj+E9463J4lkTDR8tAHdiwwJLmTgbCV54YACaZs/9AJ1K+I9XQ/EAc1IWI1zxbICN+g4H6T5nijYQkEXs3QnLPjjFZ8XWL/C6vr5rZ/rgc3zUphMPjLKLZpskX7uVXLrTBRmA7qdM4LqpidR333nBBHL2cZXvgojfZ6R+swn5fPMhFyy1tiFo6OE2ivg3eIBNoI0DJeSetYgdg5BPi+lF6LLVzK0QEQPs5UpNC6AoT+/mP71O0xeEd7vC41+fcrG6lYqNJIViHcjq8pEj4H2LTBFwGO+rjaZ+Fe/YstmSobSyXjPZDe1R7I3Oh4lBw1ancj2KFummczOUntJmGVfdF4H6BJHWLghUDzMv0X9CN/AInadgMmcN81arcqjrdzYrFtm/j3gD9g==;2qvRlKfyQYSHl1BVNHY19Q=="

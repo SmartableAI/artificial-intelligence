@@ -7,7 +7,7 @@ originalUrl: "https://www.lightreading.com/aiautomation/service-providers-see-mo
 webUrl: "https://www.lightreading.com/aiautomation/service-providers-see-more-network-automation-ai-from-core-to-edge/d/d-id/766329"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 600
     height: 600
     isCached: true
-
-related:
-  - title: "Using AI to count and map craters on the moon"
-    excerpt: "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,"
-    publishedDateTime: 2020-12-23T15:29:00Z
-    webUrl: "https://phys.org/news/2020-12-ai-craters-moon.html"
-    ampWebUrl: "https://phys.org/news/2020-12-ai-craters-moon.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg"
-        width: 2380
-        height: 2400
-        isCached: true
-  - title: "Future of AI and Machine Learning"
-    excerpt: "We used the term “future” in the title but to me, the presence of artificial intelligence and machine learning has proved to be a necessity, especially in Corona times."
-    publishedDateTime: 2020-12-24T12:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/pick-a-pen/future-of-ai-and-machine-learning-28539/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Fintech Lending Apps are Increasingly Using AI and Machine Learning to Accurately Determine Borrower’s Creditworthiness, According to Researchers"
-    excerpt: "Recent research documents that, once powered by artificial intelligence and machine learning, these alternative data sources are often superior than traditional credit assessment methods, and can advance financial inclusion, by, for example, enabling more ..."
-    publishedDateTime: 2020-12-24T23:53:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt-600x518.jpeg"
-        width: 600
-        height: 518
-        isCached: true
 
 secured: "MEcKFQT721IRqTQx1WJtx/H8PNzwaQ7YLTqmD/FfqcvSxy3YFte54ONpVtC8H6DhVKiuIlA6kjyqT8L3Wl+241GStnAiAWqFdTjFXNbQBdvzCdzEmtO4YEchgVsgEMNocqDAqRZl78GsImxawLIuyPGmFnPotsiS8P/PEK52/XcNGT5ZWCopDREYmvtqkW2RP4ZovZ0WwaVKvt/wO+gTR6JkcPTAeTnOiHKmNlFy0xwuHD2MEN1xhPbmH/7fWCFkahe//+ZbjMx+b6Fu8UxiJGcQQAeFKZcjuuWLGwZRcMiymewmRst6hVM0Y63fMdYUT+Dtl5p5ExllwhiEUHN1sieSmrwS2kGFlZ//ztc6HYQ=;LgP7boJVVecYJtUlK+U6kg=="
 ---

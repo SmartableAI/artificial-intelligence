@@ -41,22 +41,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Google told its scientists to 'strike a positive tone' in AI research, documents show"
-    excerpt: "The “sensitive topics” process adds a round of scrutiny to Google’s standard review of papers for pitfalls such as disclosing of trade secrets, eight current and former employees said."
-    publishedDateTime: 2020-12-23T16:39:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/google-told-its-scientists-strike-positive-tone-ai-research-documents-n1252240"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252240"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252240"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 84
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_52/3343176/200508-google-office-london-2018-ac-625p_3aaf504e1ed0fe8c6c294d97e971904f.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Google told scientists to use 'a positive tone' in AI research, documents show"
     excerpt: "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research."
     publishedDateTime: 2020-12-24T13:50:00Z
@@ -72,22 +56,6 @@ related:
       - url: "https://i.insider.com/5fe492abedf8920018093a2c?width=750&format=jpeg&auto=webp"
         width: 750
         height: 562
-        isCached: true
-  - title: "Google told its AI research scientists to ‘strike a positive tone’ on sensitive topics"
-    excerpt: "Google this year tightened control over its scientists’ papers, requesting authors to refrain from portraying its technology negatively."
-    publishedDateTime: 2020-12-23T15:46:00Z
-    webUrl: "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/"
-    ampWebUrl: "https://venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/google-told-its-ai-research-scientists-to-strike-a-positive-tone-on-sensitive-topics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Google scientists reportedly told to make AI look more 'positive' in research papers"
     excerpt: "Alphabet has been asking its scientists to ensure artificial intelligence technology looks more \"positive\" in their research papers, a report Wednesday by Reuters said. A new review procedure is reportedly in place so researchers consult with Google's legal,"

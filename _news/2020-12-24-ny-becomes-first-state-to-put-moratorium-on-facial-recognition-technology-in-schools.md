@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York temporarily bans facial recognition in schools"
-    excerpt: "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ..."
-    publishedDateTime: 2020-12-23T15:30:00Z
-    webUrl: "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New York issues 2-year moratorium on facial recognition in schools"
     excerpt: "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ..."
     publishedDateTime: 2020-12-23T17:04:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg"
         width: 3838
         height: 1919
-        isCached: true
-  - title: "New York to Bar Facial Recognition Tech in Schools"
-    excerpt: "The bill, sponsored by Assemblywoman Monica P. Wallace, would require the Lockport City School District to turn off the 300 digital cameras it installed to feed images to facial recognition software in its buildings."
-    publishedDateTime: 2020-12-23T16:30:00Z
-    webUrl: "https://www.govtech.com/policy/New-York-to-Bar-Facial-Recognition-Tech-in-Schools.html"
-    ampWebUrl: "https://www.govtech.com/policy/New-York-to-Bar-Facial-Recognition-Tech-in-Schools.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/New-York-to-Bar-Facial-Recognition-Tech-in-Schools.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
-        width: 1119
-        height: 630
         isCached: true
   - title: "Cuomo signs facial recognition, voter registration bills"
     excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this ..."

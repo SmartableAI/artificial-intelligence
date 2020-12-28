@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-ques
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 166
 published: true
 
 provider:
@@ -64,38 +64,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "DeepMind's latest AI can master games without being told their rules"
-    excerpt: "Alphabet's DeepMind came out with AlphaGo, an AI which consistently beat the best human Go players. DeepMind then created AlphaZero, which could play Go, chess and shogi with a single algorithm. DeepMind's latest AI,"
-    publishedDateTime: 2020-12-23T16:14:00Z
-    webUrl: "https://www.engadget.com/deepmind-muzero-160024950.html"
-    ampWebUrl: "https://www.engadget.com/amp/deepmind-muzero-160024950.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-muzero-160024950.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe9a26a30-44ca-11eb-af9e-fbbada99bdf7&client=amp-blogside-v2&signature=86dc1078e2e85e46497c6ab2082a714f60cbab7a"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "DeepMind’s MuZero picks up the rules of games as it plays"
-    excerpt: "In a paper published in the journal Science late last year, Google parent company Alphabet’s DeepMind detailed AlphaZero, an AI system that could teach itself how to master the game of chess ..."
-    publishedDateTime: 2020-12-23T16:02:00Z
-    webUrl: "https://venturebeat.com/2020/12/23/deepminds-muzero-picks-up-the-rules-of-games-as-it-plays/"
-    ampWebUrl: "https://venturebeat.com/2020/12/23/deepminds-muzero-picks-up-the-rules-of-games-as-it-plays/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/deepminds-muzero-picks-up-the-rules-of-games-as-it-plays/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
-        width: 1198
-        height: 600
-        isCached: true
   - title: "DeepMind just taught AI how to win a game without knowing the rules"
     excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
     publishedDateTime: 2020-12-23T21:34:00Z
@@ -111,22 +79,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
         width: 1599
         height: 1066
-        isCached: true
-  - title: "DeepMind's AI agent MuZero could turbocharge YouTube"
-    excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved mastery in dozens of old Atari video games,"
-    publishedDateTime: 2020-12-23T16:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55403473"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9AB/production/_116213574_deepm.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
     excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
@@ -171,20 +123,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/deepmind.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Google DeepMind unveils AI that can master chess without even knowing the rules"
-    excerpt: "DeepMind has developed an AI algorithm capable of mastering Go, chess and video games without being given the rules, marking another major breakthrough for Google’s artificial intelligence division. The MuZero algorithm follows on from AlphaGo ..."
-    publishedDateTime: 2020-12-23T16:06:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/google-deepmind-ai-muzero-b1778275.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 50
-    images:
-      - url: "https://static.independent.co.uk/2020/12/23/15/MuZero_Blog_full%20image.jpg"
-        width: 3295
-        height: 2480
         isCached: true
 
 secured: "16f4TPYYDzkrWn57IC4rkMfpv6INXx1hpLNDwoOfxzcpmHihKapo0fuxiasgNMpudQoyExDlk1cbbkpFcliIubFRVUkSSAeStCyZ/mmjKan+XinBMzBWFNg9nv5A062Wd1aEZNLsuPeBNglLgf1thvtZV2l09aHhmiLwEDg+X6dFzbeCmWAzy4k0y69JtagN07KZMX9lf2nzHBuI0coksiI+jtgEp1Ktm6vLmBUWoxv8WAoHmlcyVoC7fDWkN0k5uFzdy2pXBD+Cng1vGExWXYfywXMd47Bg/78TRtZ5M6KgIyp89TavoBG6gn0HAQHD7729NjT+nEzsHB1C0fivlCf9e5Q8indokslSU/qkMIdLkmFJZ9p+DyIihcbpsBSH2A7bnIAerejILugxhI99jvd7J9o1IW0b21wUoXsLhE4Sjh2QGCydncgmXXvyrdhpvFgvkDXY9q0L/jOWzbHMiqWPM8vmM+32TyDWlsoLQYEVCsZpYkaX15Y4jaAeMFlS6hw395Hh0VlHohdg1Sra7g==;WwSrgimEGQ6sa/SNQ5T2yg=="

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-27T20:06:00Z
 originalUrl: "https://www.wboc.com/story/43102715/beating-the-odds-during-covid-19-fourier-intelligence-gallops-ahead-and-raises-100-million-in-series-c-financing-round"
 webUrl: "https://www.wboc.com/story/43102715/beating-the-odds-during-covid-19-fourier-intelligence-gallops-ahead-and-raises-100-million-in-series-c-financing-round"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://EINPRESSWIRE.images.worldnow.com/images/20202965_G.png?lastEditedDate=1609070492000"

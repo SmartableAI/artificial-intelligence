@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Future of AI and Machine Learning"
+    excerpt: "We used the term “future” in the title but to me, the presence of artificial intelligence and machine learning has proved to be a necessity, especially in Corona times."
+    publishedDateTime: 2020-12-24T12:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/pick-a-pen/future-of-ai-and-machine-learning-28539/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "5 reasons why AI could be the future of finance"
     excerpt: "The role of the Chief Financial Officer (CFO) has expanded beyond the traditional gatekeeper to financial resources, chief accounting officer and head recordkeeper."
     publishedDateTime: 2020-12-27T11:35:00Z

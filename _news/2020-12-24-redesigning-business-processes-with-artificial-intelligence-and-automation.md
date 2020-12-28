@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "How Data and AI Will Keep Your Customers Happy and Engaged"
-    excerpt: "By working together, data and AI can build a more in-depth, robust customer engagement system for a business. Customer engagement is among one of the hallmarks of successful businesses in the twenty-first century."
-    publishedDateTime: 2020-12-23T23:11:00Z
-    webUrl: "https://www.chron.com/business/article/How-Data-and-AI-Will-Keep-Your-Customers-Happy-15825606.php"
+  - title: "How digital transformation and AI can help businesses navigate volatility"
+    excerpt: "By Will Lovatt, GM EMEA at PROS The world is currently an extremely volatile place. Brexit, COVID-19 and civil unrest continue to change the landscape in which businesses find themselves in, navigating through the ups and downs,"
+    publishedDateTime: 2020-12-28T08:38:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-digital-transformation-and-ai-can-help-businesses-navigate-volatility/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-digital-transformation-and-ai-can-help-businesses-navigate-volatility/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-digital-transformation-and-ai-can-help-businesses-navigate-volatility/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 58
     images:
-      - url: "https://s.hdnux.com/photos/01/15/72/22/20423865/5/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/02/bank-9.jpg"
+        width: 1000
+        height: 504
         isCached: true
 
 secured: "1UAa6Qmx6+t7oROR7E4xAF7mFPFQjbzMA5HyQErgr+73Sg8kcA2f3wqu0zD3RqZuUklLsvOTFtK+GnpoCkdHY5ZQvLc2DF6wYM5muXnmSNALKQ8TiEwbfxUUP3C9YgBDU7wfr5JJQac5u6U0j9xGDZv7lKeX4uydXTRUJyQ/cHYLMweXqb/RJv28TI3b6huzrbly5pqmRrsdf1JV37LdDrEeiSp74JpIDPW5sjzr7Mkq/8Ynuj8t8v1gAm7D3002k/PvArHE7Z9RD2TQ3o8/nP4hwXMbd+rjp1VFgy/rhT0UzdPQLOSmVZXd9w4UkzMHYUWh5dUmsi88pRGxDv+svaoJGQFBgihZpQCgyAndnus=;qWim1vDtxzZ0Hkny8beOfw=="
