@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "DeepMind just taught AI how to win a game without knowing the rules"
-    excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
-    publishedDateTime: 2020-12-23T21:34:00Z
-    webUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/"
-    ampWebUrl: "https://bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/12/23/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 74
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
-        width: 1599
-        height: 1066
-        isCached: true
   - title: "DeepMind’s New AI Is Able To Learn The Rules Of A Game As It Plays"
     excerpt: "Alphabet’s subsidiary DeepMind has recently developed an AI system capable of learning the rules of a game as it plays. While DeepMind has created impressive AI models that can master games like Chess,"
     publishedDateTime: 2020-12-27T07:52:00Z

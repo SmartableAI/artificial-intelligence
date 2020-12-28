@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-28-healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025.md",
+      "title": "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025",
+      "excerpt": "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-how-nvidias-ampere-gpus-could-drive-growth.md",
+      "title": "How NVIDIA's Ampere GPUs Could Drive Growth",
+      "excerpt": "GPUs are the core of the chipmaker's accelerated computing products. They bring market-leading performance and energy efficiency to various industries, from graphics and design to data science and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606194%2Fnvidia-a100-gpu1.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "publishedDateTime": "2020-12-28T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-sonys-ai-powered-recipe-app-cooking-robot-to-assist-chefs-worldwide.md",
       "title": "Sony’s AI-powered recipe app, cooking robot to assist chef’s worldwide",
       "excerpt": "The tech giant’s recipe creation app will aid top-level chefs in their creative process of ingredient pairing, recipe design and menu creation.",
@@ -450,7 +554,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -546,7 +650,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -638,6 +742,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-120-million-payouts-massive-egos-and-prison-time-the-inside-story-of-google-and-ubers-war-to-own-self-driving-cars.md",
+      "title": "$120 million payouts, massive egos, and prison time: The inside story of Google and Uber's war to own self-driving-cars",
+      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 On January 7, 2016, Anthony Levandowski emailed Larry Page to wish him a happy new year and to gripe, once again, about the state of the search giant's self-driving-car research project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
+      "originalUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe3abefedf8920018093966?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
+      "publishedDateTime": "2020-12-27T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -988,7 +1144,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1042,7 +1198,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1082,143 +1238,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
-      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
-      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
-      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
-      "publishedDateTime": "2020-12-25T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-changing-landscape-seven-online-learning-trends-to-watch-out-in-2021.md",
-      "title": "Changing landscape – Seven online learning trends to watch out in 2021",
-      "excerpt": "As per Statista, today India has around 700 million ... Evolving technologies like Artificial Intelligence (AI), Augmented Reality (AR), and Virtual Reality (VR) will completely reinvent the ...",
-      "sourceUrl": null,
-      "webUrl": "https://de.statista.com/statistik/studie/id/50489/dokument/artificial-intelligence/",
-      "originalUrl": "https://yourstory.com/2020/12/changing-landscape-online-learning-trends-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/Study/50000/50489_cover.png",
-          "width": 429,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-25T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-05.md",
-      "title": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ) Shares Up 0.5%",
-      "excerpt": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ)’s share price shot up 0.5% during trading on Tuesday . The company traded as high as $27.20 and last traded at $27.18. 47,403 shares traded hands during trading,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp",
-      "publishedDateTime": "2020-12-24T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

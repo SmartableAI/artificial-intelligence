@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-21-ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them.md",
+      "title": "AI will take away lots of jobs. And we are nowhere near ready to replace them",
+      "excerpt": "The government, said the committee, must start actively explaining how data is being used, rather than expect the public to find out. The report stressed that to enable a better deployment of AI, the government should urgently appoint a dedicated leader.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "originalUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/12/11/c04a10b1-906a-4231-b402-a811eadccee2/thumbnail/1200x675/ab72407c06211c42c14c61cd2c430a83/automation-lowcode-and-nocode-tools-crea-5fd2019dcaad46044ff21da6-1-dec-11-2020-12-25-53-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "publishedDateTime": "2020-12-21T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-elon-musk-tesla-full-self-driving-subscription-coming-in-2021.md",
+      "title": "Elon Musk: Tesla Full Self Driving subscription coming in 2021",
+      "excerpt": "Tesla could start offering its pricey self-driving system as a monthly subscription next year, according to Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
+      "publishedDateTime": "2020-12-21T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-ringcentral-acquires-conversational-ai-startup-deepaffects.md",
       "title": "RingCentral acquires conversational AI startup DeepAffects",
       "excerpt": "RingCentral, which creates cloud-based enterprise communication and collaboration tools, has acquired conversational AI startup DeepAffects.",
@@ -516,19 +611,19 @@
     {
       "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
       "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
+      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
+      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -538,11 +633,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T02:03:00-08:00",
+      "publishedDateTime": "2020-12-21T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -552,6 +647,7 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI",
         "Machine Learning"
       ]
@@ -1135,91 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-element-ai-sold-for-230-million-as-founders-saw-value-mostly-wiped-out-document-reveals.md",
-      "title": "Element AI sold for $230-million as founders saw value mostly wiped out, document reveals",
-      "excerpt": "Tides turned fast for former domestic darling that just four years ago burst onto the tech scene promising to anchor a thriving domestic AI sector",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/Xe89nLDKykN61L6kb2S375e9ryQ=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/K5O5GVZWYJPNPDA6JF46EDBN7A.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-alibaba-facial-recognition-tech-picks-out-uyghur-minorities.md",
-      "title": "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities",
-      "excerpt": "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipvm.com/reports/alibaba-uyghur",
-      "originalUrl": "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg",
-          "width": 903,
-          "height": 1177,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

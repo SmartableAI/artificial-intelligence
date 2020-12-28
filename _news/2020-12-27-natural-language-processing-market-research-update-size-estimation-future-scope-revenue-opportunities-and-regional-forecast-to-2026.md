@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wearable AI Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
-    excerpt: "The report on the global wearable AI market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global wearable AI market to grow with a healthy CAGR over the forecast period from 2020-2026."
-    publishedDateTime: 2020-12-26T16:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
     excerpt: "The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global machine learning market to grow with a healthy CAGR over the forecast period from 2020-2026."
     publishedDateTime: 2020-12-26T15:57:00Z
@@ -76,20 +62,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mobile Artificial Intelligence Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
-    excerpt: "Market Overview The mobile artificial intelligence market was valued at USD 2.14 billion in 2019 and is expected to reach USD 9.68 billion by 2025, at a CAGR of 28.65% over the forecast period 2020 - 2025."
-    publishedDateTime: 2020-12-28T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2025-2020-12-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

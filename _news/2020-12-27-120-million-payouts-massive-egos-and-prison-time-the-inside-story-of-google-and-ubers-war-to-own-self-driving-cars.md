@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/google-uber-self-driving-cars-levand
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -44,6 +44,20 @@ related:
       - url: "https://i.insider.com/5fe3845bedf8920018093880?width=600&format=jpeg&auto=webp"
         width: 600
         height: 402
+        isCached: true
+  - title: "Inside Travis Kalanick and Larry Page's mulit-billion war to own self-driving-cars. An engineer's $120 million payout, coup attempts and jail."
+    excerpt: "Together, Anthony Levandowski and Chris Urmson launched the self-driving industry. Their rivalry threatened to tear it apart."
+    publishedDateTime: 2020-12-28T13:54:00Z
+    webUrl: "https://www.businessinsider.com/google-waymo-self-driving-uber-atg-levandowski-urmson-davies-driven-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/5fe4df7aa644880018193553?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "vUqGQMcIREu4ElkVorg+HTd/advicBQHg3O0Csapr+5WFjaN6CU9ijtPo4XElm6oSXjYxWk9oKmVdXgzFnZE3KqzyFoQykhaA+F3wnkCHRqLbd9dFQD/z1/W526DAphmD6h7qgpLrE8Ilpjp4pGDAT8lLho5BvnavwV4auODfDQuqXaq3ywxPb7q3k5lLey3/gDhIauHQWOWY69T1IHNtIYT+SJ/ZpXdx8q2LWexCOq8OgUErAllUrRzDM400/P1VjLpEk0hhRSQa55rzwxemUrftjXDToNbSc8jTmQz4d9RMsIiaZsR+sAIbFM8hEagxeP3BcJpJFm47nle0G5bLArvnyBjAAso5PA5wy9iHqWtAYNAeNpprsUzB31EORLlOQzHpuc5QVulyfhEUgp6czVPzhDLVsy+9yRTKLVBKS4X25bOSPVc17tZuuspfkgAlFxcJbNWmvqRgqv0MIQPrB6UY//iKQIFuUZJGf6MBLkvV/wnBmB6VzrlUHHdZUGHMUK3vbvn0qaTKI9/jllbDA==;4/hn4P4jwdg54TqJvZLFHw=="

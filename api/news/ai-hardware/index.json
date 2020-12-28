@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-28-how-nvidias-ampere-gpus-could-drive-growth.md",
+      "title": "How NVIDIA's Ampere GPUs Could Drive Growth",
+      "excerpt": "GPUs are the core of the chipmaker's accelerated computing products. They bring market-leading performance and energy efficiency to various industries, from graphics and design to data science and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606194%2Fnvidia-a100-gpu1.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "publishedDateTime": "2020-12-28T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-these-3-tech-stocks-gained-over-50-in-2020-heres-why-theyre-still-buys-in-2021.md",
       "title": "These 3 Tech Stocks Gained Over 50% in 2020: Here's Why They're Still Buys in 2021",
       "excerpt": "The S&P 500 has gained about 14% in 2020, but many technology stocks easily outpaced the market this year as investors looked to this sector as a haven during the pandemic. NVIDIA ( NASDAQ:NVDA), Atlassian ( NASDAQ:TEAM),",
@@ -1001,6 +1053,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-14-deep-learning-gpu-cluster.md",
+      "title": "Deep Learning GPU Cluster",
+      "excerpt": "In this whitepaper, “Deep Learning GPU Cluster,” our friends over at Lambda walk you through the Lambda Echelon multi-node cluster reference design: a node design, a rack design, and an entire cluster level architecture. This document is for technical ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
+      "originalUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/12/Echelon2.png",
+          "width": 700,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-sensex-nifty-end-higher-burger-king-more-than-doubles-in-market-debut.md",
       "title": "Sensex, Nifty end higher; Burger King more than doubles in market debut",
       "excerpt": "Indian shares ended higher on Monday after scaling record peaks earlier in the session, with Burger King India soaring more than 100% in its market debut and gains in drugmaker Cipla helping boost the Nifty.",
@@ -1382,103 +1478,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
-      "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
-      "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Chetan-Kapoor-and-Eitan-Medina-AWS-re-Invent-2020.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality.md",
-      "title": "Think Silicon Announces a New Scalable Multi-Core GPU Product Suite with Extended Graphics and Video Functionality",
-      "excerpt": "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA (R) pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

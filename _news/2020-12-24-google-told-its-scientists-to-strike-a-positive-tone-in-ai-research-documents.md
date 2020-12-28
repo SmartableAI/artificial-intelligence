@@ -91,36 +91,6 @@ related:
         width: 550
         height: 310
         isCached: true
-  - title: "Google reportedly asked employees to ‘strike a positive tone’ in research paper"
-    excerpt: "The search giant’s publication process has been in the spotlight since the firing of AI ethicist Timnit Gebru in early December."
-    publishedDateTime: 2020-12-23T22:03:00Z
-    webUrl: "https://www.theverge.com/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 70
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/BUS68g1pLqbHjTuQi8RCEJlSt5A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68575060/acastro_180130_1777_0003.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Google told its scientists to 'strike a positive tone' in AI research"
-    excerpt: "Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
-    publishedDateTime: 2020-12-23T22:40:00Z
-    webUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "aUsLdJbW4cmi8hFrz5TrdBxs79ymZDSJ1FKTcRIV4o+FsgPAUuBQql9YYZkzEO72usvdJ5DM6Fvam43ToBhoAM03DTXiAEgN40QIlrokrvmPnSFX+zlCcY3c9rTHJ7RSWNPqFMVfBf8gCQhyeVa+v5hJRqLTpicgLlKrxWGL7523XUCXr6wZ4+umgi94hFhcctBt0Em+TEtGHeZSYiZxdtpyaPOqbHvTdQ1dTMW1PVtywUjzmXsb2U3inqt3+wj4wh0nmHopxRh30+6cTBCxlebRjt5KvD49qE1QsCZYMTpUN1rEnCRWG42pUa9uIaAFuho+yqVSB5O7/wcA8s8RLH66ZRFEhTLJJh8taCb+/ew=;Fop1NuqDJgc6Qer8HqWTug=="
 ---

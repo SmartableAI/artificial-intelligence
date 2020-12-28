@@ -114,34 +114,6 @@ related:
         width: 395
         height: 250
         isCached: true
-  - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
-    excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
-    publishedDateTime: 2020-12-23T22:12:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-nuro-cleared-commercialize-service-calif"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Nuro-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-driving startup Nuro cleared to commercialize service in Calif.; firm makes acquisition"
-    excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
-    publishedDateTime: 2020-12-23T22:12:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-nuro-cleared-commercialize-service-calif-firm-makes"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 13
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/Nuro-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "ZRGfB1xi6JRGnRsQAPT90I8RmvLF0b0danPVwfXMq2Q7KMKNLd1FRrJR+AIPY5ApM5wTKgNMtAPmaARifH8GL8P2XgxI/DtWmpajlIChdYKNn7KmADRvWsg60+KzX9RRFPDbynck+rUPhXkOyV1UpIbQhEahgTqNtR6YeN9FjZO3/3Vy2QSU6m2Q5k3ypiGchG5nVe8IU+s7TQxUgcPXzkxS2W7waZMlP5uEN78BqKdlnX+sA1axIgEBV1eYq4pRqlZ+ExQxVhuFoIc4wWYpSKESHsrgMoS8JDXdH/JIdKuLXLrCugVDEcghNjE/IrZNH/ruC/sjzcC5/kTPrXJRih2QdXbRvf9Vj8g9o50jwTBdlmM6ekhckruC6AQjg/8S+uxLnrSUs0YvJpxVLCauetM0W5sSNfZU1Kd1m3vD2lc8+feyaIADN0hO6wxV2wvtmn31q8jNF7y/GORAMR8U8YGJ181KBz+msqIXJqpwD/GW8I0pib1G7S6Z2F640JTa92W0ni2XWdsoubluCQlVUg==;Q55I1fSOKLdyPxljsVMR6A=="
 ---

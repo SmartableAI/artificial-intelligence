@@ -103,20 +103,6 @@ related:
         width: 395
         height: 250
         isCached: true
-  - title: "Self-driving startup Nuro cleared to commercialize service in Calif."
-    excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
-    publishedDateTime: 2020-12-23T22:12:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-nuro-cleared-commercialize-service-calif"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Nuro-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Nuro gets permission to run its self-driving delivery vehicles on California’s roads"
     excerpt: "The announcement came just hours after Nuro said it had acquired a company called Ike Robotics Inc., a self-driving truck startup that focuses on delivering long haul freight. Nuro is one of the ..."
     publishedDateTime: 2020-12-24T01:30:00Z
@@ -130,20 +116,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/nuro-800x533.jpeg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Self-driving startup Nuro cleared to commercialize service in Calif.; firm makes acquisition"
-    excerpt: "The California Department of Motor Vehicles embarked on a new era of autonomous driving Wednesday, granting a permit to self-driving delivery startup Nuro -- a move that allows the company to launch commercial operations in two counties."
-    publishedDateTime: 2020-12-23T22:12:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-nuro-cleared-commercialize-service-calif-firm-makes"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 13
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/Nuro-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "rMMJHkG66m8A3JrmVmd/zQWIRgZcJLwe0f7dFR8hrAzDt+kv8cf4YeOiZXZ/cfPCaV4QGgVZfEq2l8yAIr/ZeIyraturbEv5FcCoVKi0EX5pf0chktclObIgZkxuCEmcXN30Luxixl+dOHf/lvCC0/5WLBnOnLMfL99iuE5swpGYREivm6sejfyXLOP/BTbgyKg4J+vG3zN4URIrc8vGDmI87OPEss2CdnnVRZmWikUzFiyWugrVOcOV94lKTTZKAxA2Qob4ZNjRyq5NiO1MhTrkOBE5FrXhi9cJwk8DApkViIp19U0uPYAGDkNY6jZaMg5H7uPhUYk4JeLIogB5S/m+74W45P1QMB3zYIdl3jt1quONpCgUKFzMlp5smEEV7vJI658DcWierzKOuFySYfCgWyTUnuWQqXMMMOx0MGh5CM2Wfybz4CXreGIFyTP2GXouFiyvcDvjCb5v7iBURwCO5KM7nonsQ6pimbh8cOwodVB4s+AY5sRhahgT1EQFq0O63CGdPZfMZSWRPXE7tQ==;/6T1tPbx/436XhSP980BFA=="

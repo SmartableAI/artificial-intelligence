@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-24-reflections-on-my-2020-predictions-for-ai-dl-and-ml.md",
+      "title": "Reflections On My 2020 Predictions For AI, DL, And ML",
+      "excerpt": "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
+      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
+      "publishedDateTime": "2020-12-23T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them.md",
+      "title": "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them",
+      "excerpt": "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/",
+      "originalUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/",
+      "publishedDateTime": "2020-12-23T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast.md",
       "title": "How Foxconn built an end-to-end forecasting solution in two months with Amazon Forecast",
       "excerpt": "This is a guest post by Foxconn. The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post.&nbsp; In their own words, “Established in Taiwan in 1974, Hon Hai Technology Group (Foxconn) is the world’s largest electronics",
@@ -881,49 +985,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
-      "title": "Cuomo signs facial recognition, voter registration bills",
-      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T17:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
       "title": "Koo Kwang-mo's robotics push starts to pay off",
       "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
@@ -1121,89 +1182,29 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts.md",
-      "title": "AI Is More Than A Buzzword And Being Deployed Now On Ships And Golf Carts",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as more than ever, organizations are adopting artificial intelligence (AI) to bring efficiency, productivity gains, and a return on investment and how the cloud has become integral in advancing AI.",
+      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
+      "title": "Cuomo Signs Facial Recognition, Voter Registration Bills",
+      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
+      "webUrl": "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills",
+      "originalUrl": "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2607be8d7635dd433bbb2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "publishedDateTime": "2020-12-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft.md",
-      "title": "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft",
-      "excerpt": "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T10:24:00-08:00",
+      "publishedDateTime": "2020-12-22T14:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1219,9 +1220,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

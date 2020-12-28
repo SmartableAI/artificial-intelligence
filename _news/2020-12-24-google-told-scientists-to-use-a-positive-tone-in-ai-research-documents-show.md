@@ -78,22 +78,6 @@ related:
         width: 550
         height: 310
         isCached: true
-  - title: "Google reportedly asked employees to ‘strike a positive tone’ in research paper"
-    excerpt: "The search giant’s publication process has been in the spotlight since the firing of AI ethicist Timnit Gebru in early December."
-    publishedDateTime: 2020-12-23T22:03:00Z
-    webUrl: "https://www.theverge.com/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 70
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/BUS68g1pLqbHjTuQi8RCEJlSt5A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68575060/acastro_180130_1777_0003.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation."
     publishedDateTime: 2020-12-24T06:27:00Z
@@ -109,20 +93,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/kqb50b/article33385595.ece/ALTERNATES/LANDSCAPE_615/google-three-lawsuitsjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Google told its scientists to 'strike a positive tone' in AI research"
-    excerpt: "Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
-    publishedDateTime: 2020-12-23T22:40:00Z
-    webUrl: "https://www.itnews.com.au/news/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-559349"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
-        width: 1000
-        height: 666
         isCached: true
 
 secured: "6upqjL73CCb/zhyRdEFPEOOTH4ZBfEXs0wPTfjNhGJH2PzlevIseBxpaPY/1ekm2ESPZQni/Y3H807xbvG7tCJ51sWxFlAeca9PIQ/+EtXrQz5dH4A31VPYugpqkZSCgW1KqaU1f84H0NkKtI5ueRiR1lftQOlvP6kI9T9ByeXJBQamEXbC1UEkvfaiquxF2baAtj0ph8xbeQk6fiomQJXxs3LHjGbs9wLKNngFVmgjwvVReqQZF5hsqA2c9qyYqnd3QhdrbcsXG5iiTty3boq9P4Dq/rCXjCkWe2VmrQfbWopa7nVl+MBqLvYDmwhtIu4IP6AoLf0s6tPpfU1q85WQGIyNrTt0JeteNfvX5XhbsD5tbArKE/ud+LgSm7G100AsZzJy+WS0StyYUHzJVhNQMgjjzB1xsimFCe3xmkDuw+gg5rFWpru18JDxwAGQutG1hoYZ4pZsRab98RxNFd9sviarMugRAmD/2ur47TrSq8de1sN+voHS6rJAomDGsHa0A5KH1rjkLaciMKVhiiA==;Fu72Sti7U3jTiBy9ZS1fMg=="

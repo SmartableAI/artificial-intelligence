@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Cuomo signs facial recognition, voter registration bills"
-excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
-publishedDateTime: 2020-12-23T01:57:00Z
-originalUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
-webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
+title: "Cuomo Signs Facial Recognition, Voter Registration Bills"
+excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday."
+publishedDateTime: 2020-12-22T22:10:00Z
+originalUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills"
+webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "79h8YH0JEYR29lvIWFJJ0xVqAjOLSTM2j8eQ0sKK3ChESMAwQW4GoCfPl2cJUUP/TgrVpbhtNKIA2mGsbVrtTzEGE9ZF/EwmIWUVJLgR/QKutkap30HGP6+wqA12TBkuRSstVhX78HOo2hQV5OrVLRX0UtG4xbv1XqcVg0UvrJnu+YNHYoC2NZX9AOl7EOoKCpAhYeche9Z2DUblbhZJmyPMy1RPkZd/wWAJUOgqEWUf8U3ZDVH/X5mE4wuE165xLocTksEG35pASo1cyJjguvnOWqH8DbYRIKUR/O5qgibOoNG1J1oeBjIEeFJuRE4OaDdmfioqO9PW2ejqlryZnI5ESQifL2gtnEP3DS/E+k0=;NCMvlaPjKSjDxRVjLFyUHg=="
+secured: "EybMJqEZaGqf/0fiFC7PMsH7leQLWFUpxubwRUtWux1BnBowqasfQwZPtticVWSPJHV6AjOSV22GIkhpj34zdi2L+xU8sjM9w5AgPPeXxIQvvFfV/1L1kbe8hS67Ex21/jGpab1oDqxf3kEd5a2Mp5lcSZWkSdIzNsIcNOS5V2czfBPRxwCXyZnomu6N3bGX//SrqpW0OKMUzuDUpCs1jmJbQmdIi20Q9xOQGDjkoaTKKTd2tJoasb3Yv42e2ViUjvm0i0Y2lGYktbQVlAqkbULe5yQaUtWdMIzyGKY0S1cJU8pcxRcDAvbeCi9W3GeRPdamw8qHZnA8EmaRjaJgI2SyflJBeZnTQ1Z1waQE+no=;yb0FrWGRCAk42X7JowKOhA=="
 ---
 

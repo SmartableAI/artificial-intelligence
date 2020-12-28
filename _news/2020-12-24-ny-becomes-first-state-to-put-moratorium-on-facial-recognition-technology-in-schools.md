@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.whec.com/articles/ny-becomes-first-state-to-put-moratori
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: WHEC
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York imposes temporary ban on facial recognition tech in schools"
-    excerpt: "New York appears to be the first state in the nation to impose a temporary ban on the use of facial recognition technology in schools."
-    publishedDateTime: 2020-12-23T22:16:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/new-york-facial-recognition-schools"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/new-york-facial-recognition-schools?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/new-york-facial-recognition-schools?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
   - title: "A State Becomes the First to Suspend Facial Recognition Technology in Schools"
     excerpt: "New York Gov. Andrew Cuomo said there are “serious and legitimate privacy concerns” with the technology—but only prohibited its use until 2022. New York banned the use of facial recognition software in schools this week, becoming the first state to ..."
     publishedDateTime: 2020-12-24T19:04:00Z

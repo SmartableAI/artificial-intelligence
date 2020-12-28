@@ -45,6 +45,20 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Inside Travis Kalanick and Larry Page's mulit-billion war to own self-driving-cars. An engineer's $120 million payout, coup attempts and jail."
+    excerpt: "Together, Anthony Levandowski and Chris Urmson launched the self-driving industry. Their rivalry threatened to tear it apart."
+    publishedDateTime: 2020-12-28T13:54:00Z
+    webUrl: "https://www.businessinsider.com/google-waymo-self-driving-uber-atg-levandowski-urmson-davies-driven-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/5fe4df7aa644880018193553?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "6upR7Bj4tKsUm/xPWhwLj5cyzYpfDPw10KBs/B7myKDI2VyHQaK4nS7rYr4gjQdPexmLQ0JuEOlvnSmoIcm5oFvcOC6kBZ9+JwTopnN2vb2fYeAdo2SWACfzrbYGnbSwaoRnTaVe4VyPF18A/WjOWoadUhzOXd8Sk9EddAxssERFZgW50NZKDlpWcz6oXagIE1od3CTYZ4ELBQGiuCFPXevKmcvWfbDS8TVqsqjxBPhTVnc9JReb9BHe/8ltcMO3vahziYX22d6jK2rK+ufQLSopggvBpxNHiEDHaXO2OVwPFwOQeWc5pQoumeauqEXvuqKT1nmnOlvHusaa3nazs9TQKHic1FvWxGH7Fpf2UlqBIHo8ccV/qTGgiGVY6ct5u+8/cJER2vEUdsM5Re/Nki8ARAkYNf8oh7aaPj88qZ7PKZm01J/nV+rHW1OTsB3EC7dXnX2o39q+79Ul/Q43Ce8EvjHF56lnh4I7cOHut9gkhHRLHtzPRctpcnAfLjgOmP/7tq3inzEBNEEXNaI2ZQ==;8aQ4+X/KU/aXIX1wsPgTfA=="
 ---

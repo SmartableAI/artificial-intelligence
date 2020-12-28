@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
+      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
+      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "publishedDateTime": "2020-12-25T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-changing-landscape-seven-online-learning-trends-to-watch-out-in-2021.md",
+      "title": "Changing landscape – Seven online learning trends to watch out in 2021",
+      "excerpt": "As per Statista, today India has around 700 million ... Evolving technologies like Artificial Intelligence (AI), Augmented Reality (AR), and Virtual Reality (VR) will completely reinvent the ...",
+      "sourceUrl": null,
+      "webUrl": "https://de.statista.com/statistik/studie/id/50489/dokument/artificial-intelligence/",
+      "originalUrl": "https://yourstory.com/2020/12/changing-landscape-online-learning-trends-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/Study/50000/50489_cover.png",
+          "width": 429,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-25T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-05.md",
+      "title": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ) Shares Up 0.5%",
+      "excerpt": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ)’s share price shot up 0.5% during trading on Tuesday . The company traded as high as $27.20 and last traded at $27.18. 47,403 shares traded hands during trading,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp",
+      "publishedDateTime": "2020-12-24T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.md",
       "title": "Stocks making the biggest moves in the premarket: FireEye, Alibaba, C3.ai & more",
       "excerpt": "FireEye (FEYE) – The cybersecurity firm's stock is 2% lower in premarket trading, after rising for four straight sessions and eight of the past 10, gaining more than 78% over the latter stretch. Shares of this and other cybersecurity firms have been rising,",
@@ -148,7 +285,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -590,49 +727,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-24-ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools.md",
-      "title": "NY becomes first state to put moratorium on facial recognition technology in schools",
-      "excerpt": "ROCHESTER, N.Y. (WHEC)— New York State has become the first state to temporarily ban the use of facial recognition systems in schools. Governor Cuomo signed the measure into law Wednesday as part of a group of bills the governor signed off on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.whec.com/news/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools/5959961/",
-      "originalUrl": "https://www.whec.com/news/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools/5959961/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whec.com/whecimages/repository/2020-12/NY_becomes_first_state_to_put_moratorium_on_facial_recognition_technology_in_schools-syndImport-055157.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html",
-      "cdnAmpWebUrl": "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html",
-      "publishedDateTime": "2020-12-24T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHEC",
-        "domain": "whec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-24-artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast.md",
       "title": "Artificial Intelligence Market 2021 | Trade Analysis, Trends, Drivers, Challenges, Growth Forecast",
       "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
@@ -895,7 +989,7 @@
       "originalUrl": "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1086,8 +1180,8 @@
       "title": "50-Plus Biggest AWS Announcements From re:Invent 2020",
       "excerpt": "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1120,112 +1214,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-reflections-on-my-2020-predictions-for-ai-dl-and-ml.md",
-      "title": "Reflections On My 2020 Predictions For AI, DL, And ML",
-      "excerpt": "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
-      "publishedDateTime": "2020-12-23T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them.md",
-      "title": "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them",
-      "excerpt": "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/",
-      "originalUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/",
-      "publishedDateTime": "2020-12-23T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
+        "AWS AI",
         "AI"
       ]
     }

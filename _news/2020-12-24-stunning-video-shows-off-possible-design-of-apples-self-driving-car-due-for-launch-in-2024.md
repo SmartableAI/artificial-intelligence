@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
-    publishedDateTime: 2020-12-23T22:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-1029918033"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "It’s time for self-driving cars to really take off... but not for people"
     excerpt: "In 2021 we will see autonomous driving finally find its fit – and it’s not in personal travel. Billed as the first everyday consumer application of AI, self-driving has simultaneously inspired its champions and proved a worry for its investors."
     publishedDateTime: 2020-12-24T06:18:00Z

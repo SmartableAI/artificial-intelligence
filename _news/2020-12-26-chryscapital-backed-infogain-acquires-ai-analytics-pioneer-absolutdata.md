@@ -50,20 +50,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI and Analytics Pioneer Absolutdata Acquired by ChrysCapital-Backed Infogain"
-    excerpt: "Absolutdata, a leader in delivering scalable business impact through AI-powered solutions, advanced analytics and data science services, today announced it has been acquired by Infogain, a ChrysCapital portfolio company that is a leader in human-centered digital platform and software engineering services."
-    publishedDateTime: 2020-12-24T07:02:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201224cg32837/ai-and-analytics-pioneer-absolutdata-acquired-by-chryscapital-backed-infogain"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/794351/Absolutdata_logo_2018_Logo.jpg"
-        width: 400
-        height: 293
-        isCached: true
 
 secured: "C+F1y331tcYnqjR73rifoZaMJQAwPjo0JBVftUNRv6Upcd/Aw7R2BnuYz0a1xQjR8fuEGuyoZWvsK9b2XNWL5fwnl9VDGgSOJjYeiYaQGVF/mbVL28/c40OKlBiKKQ6L23jBVa8JHyyaRxk7fqdEoD7GieGy+PPBkZ6ZYxfmJrjuSLgxupch9f3KOULCXHM4vIdx4JEfLT63h0nOJ98iOnM26qQeo3aIuaKJxfDRQ4zJcduhWv8iZtC+dMcA9O2b5GbtVsvD7EU0IGVA5eRcfyPTdg2jocJdA/OymEvHmya+HV40lRr2tl468sFpx+MV9ujtjyVC3FbeOxTICX2dui4CR4WKq7bWwiryNWaDR3c=;xfdzE91gARHUiyTP0QWEOQ=="
 ---
