@@ -184,20 +184,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
-    excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."
-    publishedDateTime: 2020-12-23T11:01:00Z
-    webUrl: "https://news.trust.org/item/20201223100201-vtv65"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 33
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/2802caac-7fc6-429c-8d6f-5fcbbe960fa0/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 567
-        isCached: true
 
 secured: "XSyfmxEWbCabfcVsjvHeVe7LPiQeRsKJkTyl+Wrr2baKbUbUCZlYnCSJBpUZnXheI5G8JKbcUoQCVkAJPv4IkCjq6SJ1X/0N6pMXMSulkoN6JMFGP1Ypfba8/rGXEuqlP5aG2Dp00E/6YuWt3qEbbZFA9oMFiGn/JzGWf/aSUMNQo/FWLb1o+22djFpim+lJnJH968x3d2Eum3ASPv0GRv7UFDmyepYqMgTLQieOT8pPpXFCWf3mnBjHcPTpXjxVrQmFN/pvA3iuqx4cUbnUptODsuhC04sONajw5I7qtYuLaMeJqY4BuhaYbMzOBSv/Z9Y0rL5GVtB0gpeSfXUWgo5xUCS05L69wZ3J6znX3bxY05Dk60jewHtSIjC0naXwTUm02M6k+O6Jx6IionbcDVr1kywoZ5qjcF4Ow+EOgcWuP33KHlcTy8x43lmd027Tc4SiHAYktfhKF0y/mNXXYbuagBAur0cuy8dnyBp1Mh6C25N93rTB+IBWccuWE3mA/jRfwHNHpWbga1Di69JWxQ==;wN0LdQb/TWnYkQ/Mh3E0OQ=="
 ---

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 'How Bad Is Your Spotify' AI Is Here to Judge Taste in Music"
-    excerpt: "Look no further than the \"How Bad Is Your Spotify\" app that will cruelly rag on your taste in music. The A.I., created by digital culture publication The Pudding, is akin to a meaner, less thorough yet still fun version of Spotify's popular Wrapped function,"
-    publishedDateTime: 2020-12-23T09:42:00Z
-    webUrl: "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878"
-    ampWebUrl: "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 87
-    images:
-      - url: "https://d.newsweek.com/en/full/1691346/spotify-getty.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "I Defeated the AI That Roasts Your Spotify Taste"
     excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
     publishedDateTime: 2020-12-23T20:19:00Z
@@ -119,6 +103,20 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/12/ad-pudding-cool-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "‘How Bad is Your Spotify?’ How to get an AI bot to shame you for your music taste, and who created it"
+    excerpt: "The AI robot will tell you which songs you listen to 'too much' and which artists you obsess over 'to an uncomfortable extent'"
+    publishedDateTime: 2020-12-28T02:11:00Z
+    webUrl: "https://inews.co.uk/culture/music/how-bad-is-your-spotify-ai-bot-app-musical-taste-explained-807273"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 22
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2020/12/PRI_177149910.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "W30e9RhAAqLHi0Lk3dABMFiBDVqL36b/m505+o9boqHte5ka/Xvvc5F+NLnmNSgZQYOgugjOyEqexeFF2PkNOpw/1ooZtuqzujLsfKkUvYR0yRYTn+0gRFheeJyaX8HTM3x7qH25WBAzYAqyGGVKJWXYuD5LpfRzz6SdJuS8Qli3wPFkSuQuiqPKqM2ei+PWymm5d6jNs+E7huE7+Dq1vOlOxxkSIxMPbTdZrAmaCujClDNIvKLGm4tRILpfWXi+rJ+9Bq2shklgXF+JrSc0UleNzqmP+rom22aMKiZvWakBMx2j2+3M5h3SzAO9PbW/7u1aV+Q2Qf2RJV3RPXuPqMRfMdwvb+lqoZ6MHOdeTnIlVtBVvq86xxpDz22vsvP0m2yAjaxsiljJRF0y6SPPC3alJ2nzs9LuGW4gBcOjjlOAe+lRANUp9mnw7gSnVFC//jk2CY6pVxeqD33LYYQL+kJlgTijxE8p0NlIE6gnticLP5hRCrMMKcsCgWveaaN08N6LdtVkWIhHPdQh4T4xnA==;CMLT8swnY9BF3kkGbz0G0Q=="

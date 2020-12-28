@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-21-russian-army-tests-artificial-intelligence-equipped-target-robots.md",
+      "title": "Russian Army Tests Artificial Intelligence Equipped Target Robots",
+      "excerpt": "Artificial intelligence (AI) based mobile target robots that dodge shooters’ bullets have been tested for the first time in Patriot Park shooting range near Moscow. The AI-based robots are dressed as soldiers and carry dummy guns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
+      "originalUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-tesla-full-self-driving-subscription-coming-really-soon.md",
       "title": "Tesla Full Self-Driving subscription coming really soon",
       "excerpt": "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ...",
@@ -1190,58 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise.md",
-      "title": "Microsoft Teams: Switch on new AI-powered noise suppression to cut out unwanted background noise",
-      "excerpt": "Microsoft has trained its algorithm to identify more than 150 annoying background noises and stop them from interrupting your calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/11f374da-de9f-4b49-9eea-e107a9dc680e/resize/1200x/b6f2c41a1543fc1da0acaf993562f29f/mother-and-child-video-call-family.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
-      "publishedDateTime": "2020-12-18T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
 type: article
 quality: 84
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -182,20 +182,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/2020-12-23T110821Z_1_LYNXMPEGBM0PT_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
         width: 1000
         height: 666
-        isCached: true
-  - title: "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents"
-    excerpt: "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from ..."
-    publishedDateTime: 2020-12-23T11:01:00Z
-    webUrl: "https://news.trust.org/item/20201223100201-vtv65"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 33
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/2802caac-7fc6-429c-8d6f-5fcbbe960fa0/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 567
         isCached: true
 
 secured: "PDTNefISw1FcNFD2QwVrWMOkIJgA9FzzJkNKgc7cM3ZlOF0PG5rn1Y8gDtiE7mOwgw8z2+NTJ36dWC+A+vvXOSvaVEZ8vDSd9qZ+ugnaXkMfp74kNOqplxSko8J9gAQR3v9Otnei0ErrzPXA4b5lTH3D6ToQ5XDiXaLSoWL3mLrpHKI0o7gHSgezML9MXhl7d+Qrm2rscFmX2C6bIEoZk1Vw0gelq5UTI3BFMkqF27GC41QiwPhuwoczxpRIpGph9SYVqx7SkCCSyhfHDpCwYQXu+VOa3C14+X5rFP3Wb9v7Ntjq5FTYXm35KHxynjAkUZluV0+O7WzvWOB3BY5nOiPRKt9eeTVzmeeMSBavqQ4m+a1CiVFYnj3bnY2SOAtRYdwLRRa4q7yYvJUbIAwuj4Pdu22Otl9W/pKwl+JKfEB7GeI8pfw4WelNYIkBQxbcc9sxdLF45lDAlGHSLxu21rQvLv2OsKL+l3CcyH5wWcsvtx/3/Dr2G1jvdujAS7AJRW0EYMHHYIxXCIo13SfHQg==;3ZN4fykG7ll6c9ksHtJ5nA=="

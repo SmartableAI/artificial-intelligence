@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 'How Bad Is Your Spotify' AI Is Here to Judge Taste in Music"
-    excerpt: "Look no further than the \"How Bad Is Your Spotify\" app that will cruelly rag on your taste in music. The A.I., created by digital culture publication The Pudding, is akin to a meaner, less thorough yet still fun version of Spotify's popular Wrapped function,"
-    publishedDateTime: 2020-12-23T09:42:00Z
-    webUrl: "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878"
-    ampWebUrl: "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 87
-    images:
-      - url: "https://d.newsweek.com/en/full/1691346/spotify-getty.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "I Defeated the AI That Roasts Your Spotify Taste"
     excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
     publishedDateTime: 2020-12-23T20:19:00Z
@@ -123,6 +107,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/12/p-1-forget-spotify-wrapped-this-ai-skewers-your-streaming-music-tastes.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "‘How Bad is Your Spotify?’ How to get an AI bot to shame you for your music taste, and who created it"
+    excerpt: "The AI robot will tell you which songs you listen to 'too much' and which artists you obsess over 'to an uncomfortable extent'"
+    publishedDateTime: 2020-12-28T02:11:00Z
+    webUrl: "https://inews.co.uk/culture/music/how-bad-is-your-spotify-ai-bot-app-musical-taste-explained-807273"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 22
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2020/12/PRI_177149910.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "ApITDVtfLK7k4g5HrVxIC8CZB8wMrnf9wOnXWF/zsDE2mnXYGj6aaVGOkB+Ri8MQD4vXfulSVePZxu+QpH70Xlq7A1W5KWeagl32gDkoEKZZNiCjplfXWgo0Xw2QyTClBeoD1WSKN0Y5tdv8ZIszUio+6AnCehs/Z2vAxQA+2ftv/DwId9DMApkhecdsNOXaRtZqKbnqdd2qse3NA5fj+E66A84szpb1QkWbXAqM4xJcyI+C1V3pTJp06OuGp2OIzhd51NrxqDPIHiuGoQGFrlz0U0/zAMWndaZfFp8XnpyUeTojdVZ0WqSyMsUYj0zSM0ZGmA4GxYPW0kE91baocE4oRozQ51wKpNKhkfZM5jt7sRyHjyJBRp6SP58nHNkGR6CYY1gYyI/O7YXDkPIYTcL3z3xL3Y10gxVveP+TmnyqCwFgJ1UaaNjJC5GHttYxxqLBGDT+F+BleYBOMgRBFeD8JGkB3xImuJrLoro0c7TSC0eRDv5/oLqdCF2Y66Jpk7oa3AGQabatOs7jJOzgLA==;3WdIrsYoa8G699DLwRJoDw=="

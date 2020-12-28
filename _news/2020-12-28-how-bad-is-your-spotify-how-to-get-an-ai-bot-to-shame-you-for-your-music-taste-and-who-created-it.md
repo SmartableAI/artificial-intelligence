@@ -1,35 +1,45 @@
 ---
 category: news
-title: "I Defeated the AI That Roasts Your Spotify Taste"
-excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
-publishedDateTime: 2020-12-23T20:19:00Z
-originalUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
-webUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
-ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+title: "‘How Bad is Your Spotify?’ How to get an AI bot to shame you for your music taste, and who created it"
+excerpt: "The AI robot will tell you which songs you listen to 'too much' and which artists you obsess over 'to an uncomfortable extent'"
+publishedDateTime: 2020-12-28T02:11:00Z
+originalUrl: "https://inews.co.uk/culture/music/how-bad-is-your-spotify-ai-bot-app-musical-taste-explained-807273"
+webUrl: "https://inews.co.uk/culture/music/how-bad-is-your-spotify-ai-bot-app-musical-taste-explained-807273"
 type: article
-quality: 87
-heat: 147
-published: true
+quality: 22
+heat: -1
+published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: i
+  domain: inews.co.uk
 
 topics:
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg"
-    width: 800
-    height: 450
+  - url: "https://i.inews.co.uk/content/uploads/2020/12/PRI_177149910.jpg"
+    width: 2500
+    height: 1666
     isCached: true
 
 related:
+  - title: "I Defeated the AI That Roasts Your Spotify Taste"
+    excerpt: "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,"
+    publishedDateTime: 2020-12-23T20:19:00Z
+    webUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439"
+    ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Let this eerily accurate AI dunk on your Spotify habits"
     excerpt: "If you're a Spotify user, you might have checked out your 2020 listening data with Spotify Wrapped. It's a straightforward celebration of your year in music and podcasts, a judgement-free overview of what you listened to."
     publishedDateTime: 2020-12-23T18:01:00Z
@@ -108,21 +118,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘How Bad is Your Spotify?’ How to get an AI bot to shame you for your music taste, and who created it"
-    excerpt: "The AI robot will tell you which songs you listen to 'too much' and which artists you obsess over 'to an uncomfortable extent'"
-    publishedDateTime: 2020-12-28T02:11:00Z
-    webUrl: "https://inews.co.uk/culture/music/how-bad-is-your-spotify-ai-bot-app-musical-taste-explained-807273"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 22
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2020/12/PRI_177149910.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
 
-secured: "6jGztX/9uz3ITgKSAaJXcfPNSojjfLmgxTiTK2BzuZCUkdb5J24X5ZFlLeQkI33TihUhwjcbCSWx1I0W5+mauxkT9n9/1hWINTDO/3uTpiATxNbRPOz5I6rKsplGDalr8ZqMYy7LcVXVaIp+vEN8V5wqi5qtseAxslkbZ7Q0Ny6+NwMpg5wLTDfq9SIyTZumKL9pX9aZYq7Me47pMFmR3XH8SOtaVNYuuxONHJPdFolZ6PfLywrM6gQHl1vgR8U8ThTmLK58h4odekG5eYHwNfiKlrntMEnghZfyqKHSNTfdw/G+cwzx16yDO++VQtu4Ilo0VXv7iCm9CtuEQBuKaK1dN5s77TGXCfHCq6fTgu2jJnJSn5MuWp9/iv4HJRybI1DFABHkEHLUXVDX56+irBSr9KUoJkNuRcUAwp0hi7NIqIolrJxYjoFO61Pdd7CJSNS2jRfdpiBP5oJ9tBn2lLgGUUoSVsPtiSmKOWHw3E/JD0ydMMfp/5ahYY+Nukl4Itj7BUOxCWboTUcNDku/sQ==;tFwJfBZRjRo15RaSQPR45A=="
+secured: "uvzxDB/Z0gcuKXOjgbhgk5SSAhdwZSrBvGJoZh2z2fVNJQ2+B9Zzl2S9nxgOFoS10tXBv0c2D0cUKwbZl/nfXPnb6neHf0rDr8DPJ+Wj4ZV+cR99/ekXC+rIkY8I3eCtBZKijwqpXlop9BsGS90zyTzwB5m7Z6T+4C7yttsr/WHuz14GjcveMxYQTjDxyJRBOko6UboqCk1OmmqE2VAhvjupkoI7aUqDUn7M/BCGtvFQfXWi4Bo8ph6MNlb9kQs23kNZZ58E5N6jhXAEsH9Xls43MgtZuOPYe3jAjFQDWIxDL/lXe2qxv/kmFf0KZeTSIL8pN0KFWyiKJ37aEw+ICmZZAJKdcxbaYa/DPubhAfU=;itkDVXPbBrNktB8HCw2Pkg=="
 ---
 

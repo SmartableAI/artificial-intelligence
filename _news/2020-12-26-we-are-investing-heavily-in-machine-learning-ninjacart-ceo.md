@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/were-investing-heavil
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/were-investing-heavily-in-machine-learning-ninjacart-ceo/article33423097.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "2020 Updates on Deep Learning: Key Indicators of Market Growth with Upcoming Opportunities"
-    excerpt: "A new study on the global Deep Learning market has been published by AllTheResearch (ATR). It offers detailed information on key market dynamics, including drivers, trends, and challenges for the global Deep Learning market as well as its structure."
-    publishedDateTime: 2020-12-23T09:22:00Z
-    webUrl: "https://www.openpr.com/news/2215731/2020-updates-on-deep-learning-key-indicators-of-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2215731/2020-updates-on-deep-learning-key-indicators-of-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215731/2020-updates-on-deep-learning-key-indicators-of-market-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
 
 secured: "9txLP4iNoKJPof7a8Sp6nXDl0199FeJRUgqTVOx8M5OZSWyQpLpcp+AqGFafUJcb7EBBXkO7u1mPJUEskA+Wvq7/33dUnO1jgCZsayv+8CHAUNx2457yaijBcOf+7bhmxUHqRzUqQuyDD1ggQp4MdVDT6IpvsUv7NENbnR3U9zlVAv8PheB/Yh4qpbMA+eOypYUrtFdKKkiQEXOhNThf4rloucrnCn/R8VBWxQ2mJQrIPjbCg8Hxof1ydQT/chhfmJtwEkrZX0bC1yeaP1EpagHmII1DxpfkuuhFA/lKfHnISxayA/5+fnqTC1nOcJneJ4XRzkMgUidTmwQem5n6TGNjcLpBBsN1B7aDlm5QDX7O8P2gYLuSWGwXGgUbmob/fGLbfQN2cf1pqxrsgSSp0Pf5XVh9gyLkewB5zB2iTHDHtkGWXAYHsesmq/lGP9Pe0eyh50OCwwRouOKXZTbVptjfIy9JeA+4c1YKv9mWQoo/1rUyIx8IsHbDYOCpbuxpbTrNRUlPirNlMB/ADdNjKQ==;pbYcbGHNUOlwgQnCqghaqQ=="
 ---
