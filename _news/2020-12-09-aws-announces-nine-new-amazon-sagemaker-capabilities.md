@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-publishedDateTime: 2020-12-09T05:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
+publishedDateTime: 2020-12-08T19:35:00Z
+originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "7cPe3qCCshVcZLIZ4QZniCpbnlHlnMWmt0wBrTD3otQGg3VRzTURUSQqiL9arnfQ/LBS62nNpQNR1iOCZvkB0r09XlJR6VuOEWeQ6HktgHzPv8bWNanVCBv8MabrDOG8Jhj8sutNGpwoJSIUCKbc9dhblV8URD4X+7xjpmCwst7CKaR7qP4nCUIqukKtRdhwu4W3rhMOIijVhzK2D1aAHlFdQUuMc+QlbU5KeBr+0UPOLlKl2gQ4SfIb7WGmT1LpNvuILPdr2io7D6WSHvYtsmRnXnQdjNhYBqJXryl46uuItvb101JJ/32/dCIONS7x78ZvEcH+gCj00T8j+YxtKMkqBWdPG6vrBzK2R8CZY+c=;i+Voyiik0xVdww1sBIx5NQ=="
+secured: "g8NGq72R11WVh/KtwK53qcR5Fu0vy2x7HWWRQkLIyBenUGsdA3m2oeqqdIgm5Sfb9aniZ33LCx85PB9c8TITDVDuWI+FhV3H/2BAFQ6OzJWrprMhLoaB/W9dp7uzSeltSp5krP0f/0s6okoitNaK7EnklMqF7pBXn5776pMEdIVPwmJ3az4U5zcx90/vCP8wkD3XdpM+TrCs+kGkW2btJt348SIM8iXpVm0YSxBffH/x49p/GTAEBj+r+WNp98u3+CZl0lBBCCjV9S+XSv/WbXAFLDceJkxIcURLH0bTWPghjLVByaTanItJIojAmL7WRokfcuWaPAX64ODgoqUt2m6XtfCf9SzK/mQ21jcEG2s=;+6ffps5bPGOQmy0T/4Ff4g=="
 ---
 

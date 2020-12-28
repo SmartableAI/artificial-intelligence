@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Cuomo Signs Facial Recognition, Voter Registration Bills"
-excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday."
-publishedDateTime: 2020-12-22T22:10:00Z
-originalUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills"
-webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills"
+title: "Cuomo signs facial recognition, voter registration bills"
+excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who"
+publishedDateTime: 2020-12-23T01:57:00Z
+originalUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
+webUrl: "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "EybMJqEZaGqf/0fiFC7PMsH7leQLWFUpxubwRUtWux1BnBowqasfQwZPtticVWSPJHV6AjOSV22GIkhpj34zdi2L+xU8sjM9w5AgPPeXxIQvvFfV/1L1kbe8hS67Ex21/jGpab1oDqxf3kEd5a2Mp5lcSZWkSdIzNsIcNOS5V2czfBPRxwCXyZnomu6N3bGX//SrqpW0OKMUzuDUpCs1jmJbQmdIi20Q9xOQGDjkoaTKKTd2tJoasb3Yv42e2ViUjvm0i0Y2lGYktbQVlAqkbULe5yQaUtWdMIzyGKY0S1cJU8pcxRcDAvbeCi9W3GeRPdamw8qHZnA8EmaRjaJgI2SyflJBeZnTQ1Z1waQE+no=;yb0FrWGRCAk42X7JowKOhA=="
+images:
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "IzOdwK5B9DYNizcBdGHx4MovYR4dQMuNc7hk6i50u2zzxS+hRx+7AMNjEaB2rw0cmQrzs8+5e5yfZF3txZQL1jhUPBtOgHiMYcrA4GG2p2JfRwmJVG7TxUbKxs+yw9rLZq+iRc4fcbdz7bUBARE9v5Sm5925S4kWOSZaDHxDAj1OJ9Elutn2MQ43EguzwCEmvE5lu6UaT+M5yqyGAngH8Qr1wE/XAOv6gA5F5AxbP3MyCbjLqtutTkS5/5M1/DY+WB8oWYehKYkJqARxsXciw3gQ9EflHOl/hsnBNpPoZiT+C8dcm+Tk25m/B5ocp3JOKl7/Q3hmf7iIluFS8eyDBphHAJPdoIRN8HkI6J9mbOE=;oTMPdUD5mzvEppAQNYlrvA=="
 ---
 

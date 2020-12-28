@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-21-microsoft-msft-reportedly-mulling-on-designing-chips-in-house.md",
+      "title": "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House",
+      "excerpt": "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them.md",
       "title": "AI will take away lots of jobs. And we are nowhere near ready to replace them",
       "excerpt": "The government, said the committee, must start actively explaining how data is being used, rather than expect the public to find out. The report stressed that to enable a better deployment of AI, the government should urgently appoint a dedicated leader.",
@@ -611,24 +646,15 @@
     {
       "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
       "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in",
+      "excerpt": "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "webUrl": "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services",
+      "originalUrl": "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -636,8 +662,8 @@
       "publishedDateTime": "2020-12-21T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -647,9 +673,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1180,57 +1205,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you.md",
-      "title": "Fable Studio unveils two AI-based virtual beings who can talk to you",
-      "excerpt": "Fable Studio has announced two new conversational AI virtual beings, or artificial people. Their names are Charlie and Beck.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/",
-      "originalUrl": "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/fable-CharlieFinal.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/fable-studio-unveils-two-ai-based-virtual-beings-who-can-talk-to-you/amp/",
-      "publishedDateTime": "2020-12-18T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

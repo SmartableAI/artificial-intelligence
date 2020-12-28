@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-pr
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 501
     isCached: true
 
-secured: "gLHVAjEG3kxXEvy+Y91zH+OnRYmO7+S9b9KuaWnIhsmSeWrwqvuyVJIfKa86cEDrfoZyHFyFGjZXZtog8pPovkQnq/vFGXvjDlViEcNA3rdww1TR8U9FNsXGn43cFFFcrFQPjp2+foJcNvdTdTrOK/AFy8H/97ayxeUZ91w1/udUUxefXzcgbgpQDnPpRIOT8+xc1lcXOWCy1UgcZB5jLO6ga3JS0Uc40PKNXRK6kQFDseqvjKKhD2RgxZEcr/TJYoq5CsNzfvSdCqAjH0UqwL5axDcXcgH3XRQwj3drMZ7bA072KcR5x8GJjV2BfLanwlaK3k67MjX3plUr5N6R4DAJj65Wpr3MElM0ly5IPaY=;nGS7yB3fO4IBMh8JyvhLGQ=="
+secured: "Q+HxJEpb8IKoYZtzGsT7p0qkBt3Vppeiu15mz7rxJJS3SoGwMuRLD2h79BB1r5zz0RNwxDairDzWOcir+ruVWPHira2X6aaSS9pmB4/B3BgSTCX7pt+fl747NBtgkrWrLe0JN+sjDEzzNLWpN/RaZTkZsPjb98yXMluG7ELDR0xeZsxV2/Ymd2cK3g9uaCSMHFVURR398Wo+he/0XlWQ8Tf2/NuEWKCD8sOtZGzkKaE2k185WLDCktMIGC8f5RAHazjCKW82U53Kuhpll2cZgBVQbJyo91BRgbMSvpYvvZhVyd/MaqHpLtP/FZILl74ZIkvl2P05yNFU140tIru8PO9kat5zstLBPN2P4NAZ3OVpNHvkny75xa4KWkgon05oJs+HuaTcKaoCy49kNqDEM+MHDShOfETvZyM4Yu0WKexy4UXYZqFqSYgFIZA2Dsy1lrtdccB6XHH3/0FY2VFL5kenpBV79H6KcXq3q5OBkq6VgXsyCEWv57LHqJHxX+Iy4tqZqp38vwn9wqiS20JJeg==;C5tMnkwwSpcNimWsCTOVlw=="
 ---
 

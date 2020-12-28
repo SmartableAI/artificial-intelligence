@@ -2,6 +2,110 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-11-14-uber-could-soon-pawn-off-its-scandal-ridden-self-driving-vehicle-branch-to-startup-aurora.md",
+      "title": "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Startup Aurora",
+      "excerpt": "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
+      "originalUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
+      "publishedDateTime": "2020-11-14T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-uber-is-reportedly-in-talks-to-sell-its-self-driving-unit.md",
+      "title": "Uber is reportedly in talks to sell its self-driving unit",
+      "excerpt": "After years of development and some shocking incidents, the next step for Uber’s self-driving unit could be a sale. As first reported by TechCrunch and later Reuters, anonymous sources say Uber ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
+      "originalUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-02%2F5430acb0-4849-11ea-bbd7-fbd5befa7a93&client=amp-blogside-v2&signature=2cfe9b6f341db4e0e9a10ae572671c025ad82408",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
+      "publishedDateTime": "2020-11-14T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
       "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
       "excerpt": "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ...",
@@ -1092,111 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon.md",
-      "title": "Amazon begins shifting Alexa’s cloud AI to its own silicon",
-      "excerpt": "On Thursday, an Amazon AWS blog post announced that the company has moved most of the cloud processing for its Alexa personal assistant off of Nvidia GPUs and onto its own Inferentia Application Specific Integrated Circuit (ASIC).",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
-      "originalUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/InferentiaSmall-640x380.jpg",
-          "width": 640,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-a-covid-19-surge-of-depression-and-anxiety-is-being-treated-by-robots.md",
-      "title": "A Covid-19 surge of depression and anxiety is being treated by robots",
-      "excerpt": "Robots can't do that yet ... Investment in U.S.-based, AI-powered digital health start-ups it has tracked since 2011 are above $10 billion, with investment in mental/behavioral health AI reaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "publishedDateTime": "2020-11-13T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

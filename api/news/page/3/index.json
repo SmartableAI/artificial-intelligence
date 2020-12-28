@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-24-50-plus-biggest-aws-announcements-from-reinvent-2020.md",
+      "title": "50-Plus Biggest AWS Announcements From re:Invent 2020",
+      "excerpt": "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0261-106238be6393-16ccc5ad5fc4-1000/aws-sign.jpg",
+          "width": 609,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-reflections-on-my-2020-predictions-for-ai-dl-and-ml.md",
       "title": "Reflections On My 2020 Predictions For AI, DL, And ML",
       "excerpt": "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI.",
@@ -985,6 +1029,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
+      "title": "Cuomo signs facial recognition, voter registration bills",
+      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
       "title": "Koo Kwang-mo's robotics push starts to pay off",
       "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
@@ -1127,100 +1214,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources.md",
-      "title": "Exclusive: Apple targets car production by 2024 and eyes 'next level' battery technology - sources",
-      "excerpt": "Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the matter told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY?il=0",
-      "originalUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-idUSKBN28V2PY?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545461268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1HR",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28V2PY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY",
-      "publishedDateTime": "2020-12-22T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
-      "title": "Cuomo Signs Facial Recognition, Voter Registration Bills",
-      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills",
-      "originalUrl": "https://www.usnews.com/news/best-states/new-york/articles/2020-12-22/cuomo-signs-facial-recognition-voter-registration-bills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

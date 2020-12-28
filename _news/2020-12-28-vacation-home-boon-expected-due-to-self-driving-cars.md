@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "5 Self-Driving Car Stocks With Massive Upside Potential in 2021"
+    excerpt: "Higher levels of autonomy have the potential to reduce risky and dangerous driver behaviors. Favorable regulatory framework and increasing government funding are expected to play a crucial role in accelerating the self-driving car market’s growth in the coming years."
+    publishedDateTime: 2020-12-28T15:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Stunning video shows off possible design of Apple’s self-driving car due for launch in 2024"
     excerpt: "AN Apple fan has crafted a stunning video showcasing what could end up being the design of Apple’s self-driving car. YouTube user ConceptCreator put together impressive 3D renders of the"
     publishedDateTime: 2020-12-24T12:33:00Z

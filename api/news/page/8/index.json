@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-17-deepmind-ai-unit-lost-649-million-last-year-and-had-a-15-billion-debt-waived-by-alphabet.md",
+      "title": "DeepMind A.I. unit lost $649 million last year and had a $1.5 billion debt waived by Alphabet",
+      "excerpt": "DeepMind made a loss of £477 million ($649 million) in 2019, up from £470 million in 2018, according to documents filed with the U.K.'s Companies House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 263,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1529477891",
+          "width": 4189,
+          "height": 2792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html",
+      "publishedDateTime": "2020-12-17T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-climate-change-falls-down-the-agenda-at-ai-lab-deepmind-after-energy-heads-leave.md",
       "title": "Climate change falls down the agenda at A.I. lab DeepMind after energy heads leave",
       "excerpt": "The DeepMind Energy unit, which has attracted its fair share of attention over the years, has vanished and none of the company’s staff mention it on their LinkedIn profiles. At one point, DeepMind wanted to use its AI technology to optimize National Grid,",
@@ -1169,59 +1221,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu.md",
-      "title": "Healthcare AI Implementation For Emerging Markets: Lessons Learned From The U.S. And EU",
-      "excerpt": "Emerging markets are at the cusp of implementing and developing their own framework for AI implementation in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd91dfadbb0cd572336c3af%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/amp/",
-      "publishedDateTime": "2020-12-16T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

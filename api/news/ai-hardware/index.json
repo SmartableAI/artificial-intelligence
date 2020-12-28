@@ -1053,6 +1053,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-hlrs-hawk-supercomputer-to-receive-gpu-powered-ai-upgrade.md",
+      "title": "HLRS’ Hawk Supercomputer to Receive GPU-Powered AI Upgrade",
+      "excerpt": "Just ten months ago, the High-Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its debut on the Top500 list last month as the 16th most powerful publicly ranked supercomputer in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/2020/12/14/hlrs-hawk-supercomputer-to-receive-nvidia-powered-ai-upgrade/",
+      "originalUrl": "https://www.hpcwire.com/2020/12/14/hlrs-hawk-supercomputer-to-receive-nvidia-powered-ai-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/hawk.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-deep-learning-gpu-cluster.md",
       "title": "Deep Learning GPU Cluster",
       "excerpt": "In this whitepaper, “Deep Learning GPU Cluster,” our friends over at Lambda walk you through the Lambda Echelon multi-node cluster reference design: a node design, a rack design, and an entire cluster level architecture. This document is for technical ...",
@@ -1433,58 +1476,6 @@
         "name": "TheStreet.com",
         "domain": "thestreet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering.md",
-      "title": "SambaNova claims AI performance rivaling Nvidia, unveils as-a-service offering",
-      "excerpt": "The computer maker has made its custom machine generally available for purchase, but also is offering it on a rental basis for $10,000 per month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/09/6d50980a-c9bd-4308-add7-5cdbfa6639d2/sambanova-cofounders-kunlerodrigochris-2019-06-14.jpg",
-          "width": 3008,
-          "height": 2006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/",
-      "publishedDateTime": "2020-12-09T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

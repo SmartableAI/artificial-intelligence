@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "DeepMind’s new MuZero AI develops ‘superhuman’ chess skills by making plans"
-    excerpt: "Google LLC’s DeepMind artificial intelligence research unit today detailed MuZero, a deep learning system that can master Go, chess and other games even if it’s not told the playing rules. MuZero’s impressive game-solving skills stem from its ability to plan what’s the best course of action in a given scenario."
-    publishedDateTime: 2020-12-23T23:22:00Z
-    webUrl: "https://siliconangle.com/2020/12/23/deepminds-new-muzero-ai-develops-superhuman-chess-skills-making-plans/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/deepmind.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "M86IWccZ8Az+lTMf50f0y7DABjpQtVraojbVi2bYz4bYr8Jrnaq+ZMPSO7jgBMtzu9RN2PrSQU2r6UP5sCUACUuFRW1WoNMfrTILRVe5/LorCjCyMeW5SKY+6H7UbCvm4gCsngirYf9HpwvJ3xRY28KvSeG9C0irEDj1AtKmNuzOCBzHpF9wTBdM0PoCQe0IR99k6XEAANWsNhVJUnj85HlaQxztM0RMyLNVPJlka5suisoaCeqjxR0AxMsqU6gEgefIen44HV6BBbwONyn12jAcMHCjPoiacf1FX+MQEfi3GsiGdhsOXPvd1S1su5wkK+LbvVDSwQyjKUpMBjMie1O9t84lxrmd5B/OtkhzTm4dyJC0FU3fpsxMEdfW8N5q2tP/YevA/XtTK5xXyR7wmasca3UlIMZS7L1EK6tuHgu1V0/j6cgv4OQBANYndhOPHbT3VH6IYrCGzcr192PnFHUeGUBqb3uZVA1fkXo70yffHD35OfkHKblxMsHyyh39432loVwRQGlmuOkX/UYP2g==;RIKRqLhCcI0ito/ymfEdHg=="
 ---
