@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-16-ibm-says-managers-that-use-ai-will-usurp-those-that-dont.md",
+      "title": "IBM says managers that use AI will usurp those that don't",
+      "excerpt": "AI won't replace managers but managers that know how to use it will usurp those that don't, according to IBM. The comments were made to CNBC by the tech giant's senior VP of cloud and data, Rob Thomas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/careers-training/358152/ibm-suggests-managers-who-know-about-ai-will-usurp-those",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/careers-training/358152/ibm-suggests-managers-who-know-about-ai-will-usurp-those",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1608118907/itpro/IBMTrees_shutterstock.jpg",
+          "width": 1000,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-the-four-mistakes-that-kill-artificial-intelligence-projects.md",
       "title": "The Four Mistakes That Kill Artificial Intelligence Projects",
       "excerpt": "By Joey Bertschler, data analyst for Uniworld.io: artificial intelligence for B2B and B2C. I came across a Quora question recently that asked, “What makes AI projects fail?” It’s a valid question: The vast majority of artificial intelligence (AI) projects fail,",
@@ -1185,58 +1237,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-helps-protect-australian-wildlife-in-fire-affected-areas.md",
-      "title": "AI helps protect Australian wildlife in fire-affected areas",
-      "excerpt": "Over the next six months, more than 600 sensor cameras will be deployed in bushfire-affected areas across Australia, monitoring and evaluating the surviving wildlife populations. This nationwide effort is part of An Eye on Recovery, a large-scale collaborative camera sensor project, run by the World",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
-      "originalUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RSwwfau_14310.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
-      "publishedDateTime": "2020-12-15T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

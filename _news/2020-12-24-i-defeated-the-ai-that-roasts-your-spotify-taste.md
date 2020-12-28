@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Let this eerily accurate AI dunk on your Spotify habits"
-    excerpt: "If you're a Spotify user, you might have checked out your 2020 listening data with Spotify Wrapped. It's a straightforward celebration of your year in music and podcasts, a judgement-free overview of what you listened to."
-    publishedDateTime: 2020-12-23T18:01:00Z
-    webUrl: "https://www.engadget.com/spotify-bot-music-taste-2020-174949741.html"
-    ampWebUrl: "https://www.engadget.com/amp/spotify-bot-music-taste-2020-174949741.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/spotify-bot-music-taste-2020-174949741.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4770c3f0-4543-11eb-b3ee-de2d0bcc6528&client=amp-blogside-v2&signature=f12a39d50e4969bd9c7dc493532ab89e56841875"
-        width: 600
-        height: 350
-        isCached: true
   - title: "'How Bad Is Your Spotify' Artificial Intelligence Bot Mercilessly Roasts Your Taste in Music"
     excerpt: "It might be artificial, but this new robot is intelligently cracking on your taste in music. The all-new A.I. (artificial intelligence) bot, \"How Bad Is Your Spotify?, is designed to make fun of ..."
     publishedDateTime: 2020-12-25T21:20:00Z

@@ -41,7 +41,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg"
         width: 796

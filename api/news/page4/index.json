@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
+      "title": "Diving into Japan’s top AI/ML startups",
+      "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-horizon-robotics-a-chinese-rival-to-nvidia-seeks-to-raise-over-700m.md",
       "title": "Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M",
       "excerpt": "In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles,",
@@ -1181,59 +1225,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises.md",
-      "title": "Why Covid Will Make AI Go Mainstream In 2021: Top 3 Trends For Enterprises",
-      "excerpt": "Artificial Intelligence will transform the future of Pharma Drug Discovery, Work from Home, and Edge Computing in 2021. Find out why this will be the year when AI sees widespread use across industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d64beeb2ee80897aea726%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D552%26cropY2%3D3185",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
-      "publishedDateTime": "2020-12-21T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Facebook AI"
       ]
     }
   ],

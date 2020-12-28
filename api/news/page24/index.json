@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
+      "title": "BlueScope Steel completes data and analytics overhaul",
+      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
+          "width": 570,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-using-a-test-framework-to-design-better-experiences-with-amazon-lex.md",
       "title": "Using a test framework to design better experiences with Amazon Lex",
       "excerpt": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test,",
@@ -1167,50 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
-      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
-      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "publishedDateTime": "2020-12-04T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Mining Review",
-        "domain": "globalminingreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

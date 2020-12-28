@@ -94,22 +94,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
-    excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
-    publishedDateTime: 2020-12-23T18:13:00Z
-    webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
-    ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 60
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation."
     publishedDateTime: 2020-12-24T06:27:00Z

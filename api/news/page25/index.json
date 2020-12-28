@@ -2,6 +2,50 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
+      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
+      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "publishedDateTime": "2020-12-04T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Mining Review",
+        "domain": "globalminingreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
       "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
       "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
@@ -1158,57 +1202,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-intels-controlflag-taps-ai-to-automatically-detect-errors-in-code.md",
-      "title": "Intel’s ControlFlag taps AI to automatically detect errors in code",
-      "excerpt": "Intel's new AI-powered ControlFlag tool can automatically detect code errors that humans miss, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/",
-      "publishedDateTime": "2020-12-03T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

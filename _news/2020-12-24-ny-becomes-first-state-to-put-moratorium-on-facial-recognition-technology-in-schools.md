@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.whec.com/articles/ny-becomes-first-state-to-put-moratori
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: WHEC
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York issues 2-year moratorium on facial recognition in schools"
-    excerpt: "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ..."
-    publishedDateTime: 2020-12-23T17:04:00Z
-    webUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/"
-    ampWebUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg"
-        width: 3838
-        height: 1919
-        isCached: true
-  - title: "Cuomo signs facial recognition, voter registration bills"
-    excerpt: "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who have largely met virtually this ..."
-    publishedDateTime: 2020-12-23T18:31:00Z
-    webUrl: "https://brooklyneagle.com/articles/2020/12/23/cuomo-signs-facial-recognition-voter-registration-bills/"
-    type: article
-    provider:
-      name: Brooklyn Daily Eagle
-      domain: brooklyneagle.com
-    quality: 39
-    images:
-      - url: "https://brooklyneagle.com/wp-content/uploads/2020/12/AP20348652112849-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "New York imposes temporary ban on facial recognition tech in schools"
     excerpt: "New York appears to be the first state in the nation to impose a temporary ban on the use of facial recognition technology in schools."
     publishedDateTime: 2020-12-23T22:16:00Z

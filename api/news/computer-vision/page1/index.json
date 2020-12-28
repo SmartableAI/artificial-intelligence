@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-24-ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools.md",
+      "title": "NY becomes first state to put moratorium on facial recognition technology in schools",
+      "excerpt": "ROCHESTER, N.Y. (WHEC)— New York State has become the first state to temporarily ban the use of facial recognition systems in schools. Governor Cuomo signed the measure into law Wednesday as part of a group of bills the governor signed off on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.whec.com/news/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools/5959961/",
+      "originalUrl": "https://www.whec.com/news/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools/5959961/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.whec.com/whecimages/repository/2020-12/NY_becomes_first_state_to_put_moratorium_on_facial_recognition_technology_in_schools-syndImport-055157.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html",
+      "cdnAmpWebUrl": "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/ny-becomes-first-state-to-put-moratorium-on-facial-recognition-technology-in-schools-5959961.html",
+      "publishedDateTime": "2020-12-24T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHEC",
+        "domain": "whec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-new-york-issues-2-year-moratorium-on-facial-recognition-in-schools.md",
       "title": "New York issues 2-year moratorium on facial recognition in schools",
       "excerpt": "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ...",
@@ -1352,49 +1395,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
-      "title": "Moraine Valley Grad's Written Work Receives National Recognition",
-      "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
-      "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984",
-          "width": 701,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
-      "publishedDateTime": "2020-12-10T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
         "images": null,
         "publishers": null,
         "authors": null

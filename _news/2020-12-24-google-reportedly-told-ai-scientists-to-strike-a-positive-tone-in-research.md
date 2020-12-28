@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -93,22 +93,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/BUS68g1pLqbHjTuQi8RCEJlSt5A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68575060/acastro_180130_1777_0003.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Google reportedly told scientists to take ‘positive tone’ on AI research"
-    excerpt: "Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in"
-    publishedDateTime: 2020-12-23T18:13:00Z
-    webUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/"
-    ampWebUrl: "https://nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/23/google-told-scientists-to-take-positive-tone-on-ai-research-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 60
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-monitoring-ai-researchers.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation."

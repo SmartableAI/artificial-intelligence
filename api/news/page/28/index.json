@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
+      "title": "Google AI is now piloting Loon's internet-beaming balloons",
+      "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "originalUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "publishedDateTime": "2020-12-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-how-ai-works-an-introduction-coming-to-a-school-near-you.md",
       "title": "How AI works: An introduction coming to a school near you",
       "excerpt": "Students from elementary to high school can take a course in AI and its societal and ethical implications offered within the year by the Microsoft and Code.org partnership.",
@@ -1127,57 +1178,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ai-transcription-sucks-heres-the-workaround.md",
-      "title": "AI transcription sucks (here's the workaround)",
-      "excerpt": "For now, I'm still paying for people-powered transcription services. Speech to text has been a huge challenge for AI developers, and it's a puzzle that's being closely watched in a variety of industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-transcription-sucks-but-heres-a-workaround/",
-      "originalUrl": "https://www.zdnet.com/article/ai-transcription-sucks-but-heres-a-workaround/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/02/4ba7f352-6d24-4a68-896b-e379d872c0aa/sound-wave.jpg",
-          "width": 1280,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-transcription-sucks-but-heres-a-workaround/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-transcription-sucks-but-heres-a-workaround/",
-      "publishedDateTime": "2020-12-02T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

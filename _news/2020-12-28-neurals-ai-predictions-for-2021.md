@@ -8,7 +8,7 @@ webUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-202
 ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg"
@@ -62,6 +63,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OYo3BGWEREpPzprCpQdkiOUv1hTw/pXQwYirc1LnXt1d6s1TkUPCcnzd/4cXaMiCqCgrpPZM1b3Lvh1SiECB+0pOblWYzLcEExYof/vmUHvL395ZXAqZmtOqG+2hUQ5Qc/q9Pl0BbFDhCyC3CAukCKhMGjm9tZJ3wiNXXdK0XTpLTyv2fv3tYXFwP6w26nrjO35xsmLoUPc4LpF0bDovJLQxILrFBMkg4A3r+lKc1fsumvCeCHH4BYJxwHlBvl/WYEiWkvpt8/XzQSP/jLNVB4lUZxAzXefnWxYJ2DKB9aLPasHoIb6mv0XNvwUagu4KvNudybawXmIW2cfkxLBbRPy/Pd6yqPwTPDf+i0hS1/o=;EOM99DMkra3iNN8nLTPuvA=="
+secured: "DveMWHUuCFdt9g0XdQe0IWXBmTBT2vboqj3XslmeMWL4z/UU2EIxcwlBAuxZiBXmkE5BNBlU3FZiEPY2Yb+simn+zRko136Hn6P7lY4lTcN/2iUDbLr4RMLeByYzwNsOX6xJvuW9asgo//1TARMrCMrON03Qj3XgdFX4EKYayZXUSP3eWI7Jzi7S37BISmd1ukKjPAYBYbSsWuz5S3SQ5yFfZZzTGlwIdUOQss3iIOMdmFETPl+MA/8Eg9xgTykxRRitlqQnyEFywKEx7LvZSWSKeHs1BrJiM9btsHCr5o7TJ0fk9Nk+TQanDnP9A/25XI4RrduMxu3Sw0yMgdqOxxMD8I2emfkDOG3wVbBuH9wrW8mkkEoBm7G8K1IuJqak2qIEAJwmVWmuCMlvE/zxKUxPDBnXrJ1qtakpjKfF8fBZPU9QMiKbw1IWyaiPtMzyxTRiUYc+wHBoFuY+9Q6ysNXYl48DumGEveGFiel492NYC6s8VfByyUX9R3JnXdMja8fPorptU7pwYi1syOulDg==;inYjapYOnAxGfSEQRV4q4g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-effo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -45,29 +45,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
-    excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"
-    publishedDateTime: 2020-12-23T18:29:00Z
-    webUrl: "https://www.investmentnews.com/adoption-the-next-innovation-forecasting-fintech-2021-beyond-200508"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 23
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/12/tech-staffers-around-computer_opt.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "FinTech 2021: 20 Articles for FinTech Experts"
-    excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."
-    publishedDateTime: 2020-12-23T17:51:00Z
-    webUrl: "https://www.finextra.com/blogposting/19700/fintech-2021-20-articles-for-fintech-experts"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "JMLfUuFFjPSiJHtLHuFOLzhyNfeghjWUjGzZfdERgl2N521ogeTdvcSdOVI1rFjM3zh6srb78FtJXqasaXOwfIRXezQjvFnhfme3KAgZN+pVlxlxPHSKuxNfL0t09m6TO8hblslj9+Aotu7LK48i7aGVf92EQ/M28lo4SHmS5LumbHZmNw9ak5qr2o/9Nk9ZvAIneXV06z4vnRq1nZOtFR1C5Ka1Uqj+AYS23lViS1hCOD0AqplG6CyufyN2AuFT8rIJa8djG/tEvA6gTkiESYe6os7UCVf/W3TnJJ2aA4JH5UkMU0FvOOqiGM3T5HGlM0DVj4vGxByzNTsv3bp9jLciQYofp89hlPEkP2xN9A6okLv+UnJB1J1KWgBfxgbcVac0AeE1eeGzrsuM0jRJXUxiHodVrsmyaa5VUEK2UcHyMPOfB81cNc7TUcsrMJlQyG5lxckrJCDj7MYsd3zftXoeR9/MM7nN6FXvn73if2N8hBb/BY9/+P3vMW6yQvcgRl2p4EhK1k9waKOHhVe8EQ==;LzUI22y4brzNmUx6H5nulA=="
 ---

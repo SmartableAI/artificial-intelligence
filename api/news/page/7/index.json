@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-17-focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk.md",
+      "title": "Focusing on disaster response with Amazon Augmented AI and Mechanical Turk",
+      "excerpt": "It’s easy to distinguish a lake from a flood. But when you’re looking at an aerial photograph, factors like angle, altitude, cloud cover, and context can make the task more difficult. And when you need to identify 100,000 aerial images in order to give first responders the information they need to accelerate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/16/Flood.jpg",
+          "width": 803,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T12:32:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-machine-learning-boosts-the-search-for-superhard-materials.md",
       "title": "Machine learning boosts the search for 'superhard' materials",
       "excerpt": "Superhard materials are in high demand in industry, from energy production to aerospace, but finding suitable new materials has largely been a matter of trial and error based on classical materials such as diamonds.",
@@ -1151,58 +1203,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-in-self-driving-amazon-invests-while-walmart-partners.md",
-      "title": "In Self-Driving, Amazon Invests While Walmart Partners",
-      "excerpt": "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

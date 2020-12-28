@@ -41,29 +41,6 @@ related:
         width: 660
         height: 336
         isCached: true
-  - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
-    excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"
-    publishedDateTime: 2020-12-23T18:29:00Z
-    webUrl: "https://www.investmentnews.com/adoption-the-next-innovation-forecasting-fintech-2021-beyond-200508"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 23
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/12/tech-staffers-around-computer_opt.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "FinTech 2021: 20 Articles for FinTech Experts"
-    excerpt: "In this list, we summarized 20 recommendable articles to help you navigate to 2021. FinTech Global Trends 2021 The global FinTech ecosystem continued to grow and develop during 2020, despite slight funding cool down."
-    publishedDateTime: 2020-12-23T17:51:00Z
-    webUrl: "https://www.finextra.com/blogposting/19700/fintech-2021-20-articles-for-fintech-experts"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "Y7xyTve2gXiqv+oJZWR33vGhtBt63DApL6zZ4tacRPcgi7CNsEGLZJ0+LzpU1HCqWnUJ1evv5df3FcfI6V3pzx26DQhj2RPZqeXd81Sfm2WQfJy4yuSg7SCCkH9YzsZwfb9O6btir+XoWZljsfaIeIwI9+fkEczhNCRUpIreqcGzQ/OQSeejca2wUUGFbWslLSlnTetgazn+HBXDNzZWumgYOXqb6WjnSWAkk24D9vS+6HQiHnpqCUnH7XIVMJzGx4jeGyYf/Y1OUaTMs7r0BT0p3lWVTJFMZA/uvXeTDx7EgzL/epbi38abyxBzZEhCBuK8RO/Ui9jrf43FpmPnG1VWDqUGJWznICXUnDFi+Se+qUX6e61KwsLLVOhZwPXECTy+H619lBA1A9W0bK3FUZVvsMaEKwA+3MtfJK/5CLZSLW3V/bca+cAbVZ+p5FGiReLGpXMA3JCf/7QfFBFbMP/yMHGi5/2BitHRXWyKgzmjyMSnYgx3paf8Sxoe9fXfH2EH0ndpC/n/LvDY6SBjZw==;ss5pHKliLoqs5Xph19YxFA=="
 ---
