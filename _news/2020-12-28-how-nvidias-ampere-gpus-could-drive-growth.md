@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpu
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

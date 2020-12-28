@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
-excerpt: "The \"Self-Driving Car - Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted"
-publishedDateTime: 2020-12-28T12:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18936070/global-self-driving-car-market-outlook-report-2019-2027-researchandmarkets-com"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18936070/global-self-driving-car-market-outlook-report-2019-2027-researchandmarkets-com"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18936070"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18936070"
+excerpt: "The \"Self-Driving Car - Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
+publishedDateTime: 2020-12-28T06:21:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201228005153/global-self-driving-car-market-outlook-report-2019-2027-researchandmarketscom"
+webUrl: "https://www.morningstar.com/news/business-wire/20201228005153/global-self-driving-car-market-outlook-report-2019-2027-researchandmarketscom"
 type: article
-quality: 19
-heat: 19
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "7LrasGF9N0WkzH7p7hADGx4YJJhMDIiElSlu1cK659zZRvQ/dyGP6fewXPAOzUittA0p/rUYTXWGJpfrfpriZLMd8UhVP90lV+qyY5NaNaLxwbTa1LcC+Wislxs1sMzxhgv4y4gMruBc4+f4Rt8Oly4Qq1EqAnNi3JBf00KdXxFnPN2WPNasatwBkNthAJz3AwVSJsnK7haKB96fM9FSHvvi3hKdCVK6uvVjhMBVibsZHTeCQTcD+58z8EmXxYJqRGqfdF1aooTEAdHnLw0yQ8lc5t/czPIgZwvGuCa+KrQvahKqOG3NpMmRrAuneF1rLP/LeYXy+Ivyro8ZA35IDtLlVt4tHjAVX2dvOLCXrRU=;EZP6A6wEIhJkjemEhXbz5g=="
+secured: "EDAnHPmlJd2J74DHQ8n/8ZwnHanEWAs9IlnmWArIdfQs/oozmMrcpNxrbUDcIdrvU3IaiO+zbHo6Euf5SobTesZRfUi/xisC+gwhAcPp8vQzCWtvLEjHbKqBrY/9v+sZcXhMpfe+MML+pVbPP88Cn2hMnUA8QtR2Xe/rK84QRgm8gB6oemKEJnnlHCpWxTrP4FsSHul9H2b4btZAxw1vYa6lQsxtElepl4K30ltpOv2g1MXQQY8wAA1Ds5xcXH2x5eXNBEFLJ/Kif/RDccFl6wQqHXSla9yj2T++USlGfugdC2I5qDcTvZp+Av8RDb6kJLbMxpuAfo+xiWqBHlosdF7NLmpK7vHJ+z5MER245Pg=;dZnEn/UGiyarQzKxuj9RzA=="
 ---
 

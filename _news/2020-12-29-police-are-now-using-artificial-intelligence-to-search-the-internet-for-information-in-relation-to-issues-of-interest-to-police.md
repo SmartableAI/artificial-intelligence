@@ -3,8 +3,8 @@ category: news
 title: "Police are now using artificial intelligence to search the internet for information in relation to issues of interest to police"
 excerpt: "This comes as an independent review of the police response to the Christchurch mosque shootings - made a raft of recommendations into how police could improve future responses. Former intelligence analyst Paul Buchanan says he doesn't understand why this technology hasn't been used earlier."
 publishedDateTime: 2020-12-28T18:43:00Z
-originalUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726&tst"
-webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726&tst"
+originalUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726"
+webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726"
 type: article
 quality: 0
 heat: -1
@@ -34,7 +34,21 @@ related:
         width: 1200
         height: 1500
         isCached: true
+  - title: "How COVID-19 is driving AI in the mortgage industry"
+    excerpt: "With the move toward a remote workforce and the real estate market booming, integrating artificial intelligence can create a competitive advantage."
+    publishedDateTime: 2020-12-28T19:46:00Z
+    webUrl: "https://www.housingwire.com/articles/how-covid-19-is-driving-ai-in-the-mortgage-industry/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 37
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_228678481-e1595368662513.jpeg?resize=1024,717"
+        width: 1024
+        height: 717
+        isCached: true
 
-secured: "l6kHt4LfDiSdiewyGOtRlF/xmo/XhIYMUA3/PA5iUazslfi+ALVqCwQlh3I/+BoBgk/GLQjJ5KVdGeqcClPtw7dymIyG/AxFM1i6ktlX3TtyR2437349Qxigct/17DvS5SuTRSPCfPyWZGwq6EzfCmhlQgUTcN/B8MhMe7aPcKZUj3uMWyswwFJ1OGzZGii6UYAkilnkTMdeL12Bjwc4yot9FjNhXYSBr0x+fNIeQof/rDoTggdpS7GIiCKq+Jr9EVI5DeYlQrkBubhxrPpykB/kjR4O6EMkTc5ORf4nhte7jH5vxsaOzcTU5jb6rtokCfX7lu3jj51uIvJ4wnO+LWIL6o7W9RYWEJOcGDKvrxE=;xvUlrbDW0QzysVpB2FkAuA=="
+secured: "HX/4biTp2VgTPv6cuwSwtVpo3FVA7TzcPc2T5NGz9QtdCzgfJ2IBq/v4DeDlfAFLidlppYLO0QDR4Qg9CpxmqTpu11uEc2xsyQcqsnuM73bKjTLL1bV5UCRlUD0LBP9HsX/mPWnfgIsImO2jZAKVXtWuOOJ+NClV9p8qT70nHpaEzUzWOYVHmE6A+d8ZdbQarZMrsQpWXDLerINRYDJtjSRssLj1+E6VQ9SoGWcnRKNzdqTx4QAXysij2jxxdhwYSc49Xu2uemPhFyMk13iozZjkwxRk3AvDyH4x7dF8QRrJV9Cea73ABiWtLWHFHOI0mK9nH849MrZZ7qEBBlgK4QFpRZADXEE7WP2c6G2imqE=;omnWDtSY68VvEZ3cILhK9g=="
 ---
 

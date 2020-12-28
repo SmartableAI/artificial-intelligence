@@ -1,0 +1,47 @@
+---
+category: news
+title: "LG adds voice controls to new InstaView refrigerators to boost hygiene"
+excerpt: "LG likes to make a splash with its refrigerators as much as it does its fancy televisions. Remember the craft ice balls from 2019? And what about the | Trusted Reviews"
+publishedDateTime: 2020-12-28T19:13:00Z
+originalUrl: "https://www.trustedreviews.com/news/lg-adds-voice-controls-to-new-instaview-refrigerators-to-boost-hygiene-4115456"
+webUrl: "https://www.trustedreviews.com/news/lg-adds-voice-controls-to-new-instaview-refrigerators-to-boost-hygiene-4115456"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Trusted Reviews
+  domain: trustedreviews.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/12/Screenshot-2020-12-28-at-12.28.27-PM.png"
+    width: 1394
+    height: 924
+    isCached: true
+
+related:
+  - title: "LG InstaView refrigerators get voice-controlled doors for 2021"
+    excerpt: "The list of kitchen appliances you can talk to (and reasonably expect some sort of response) gets longer, with LG’s newest – and fanciest – refrigerators adding voice-controlled"
+    publishedDateTime: 2020-12-28T17:10:00Z
+    webUrl: "https://www.slashgear.com/lg-instaview-refrigerators-get-voice-controlled-doors-for-2021-28652655/"
+    ampWebUrl: "https://www.slashgear.com/lg-instaview-refrigerators-get-voice-controlled-doors-for-2021-28652655/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/lg-instaview-refrigerators-get-voice-controlled-doors-for-2021-28652655/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/InstaView-Ref-Lifestyle-06_revised.jpg"
+        width: 1680
+        height: 1049
+        isCached: true
+
+secured: "pUD8RRua8Gw8ZqxfBTChxnvDbSPfh0gffPzAUlX3Lk6VIRtlNDGHCfTPvc110z3g8M+WcdjuYewxsczhrA+5SlQVSb/pfo34/fppheJm6rBC5jefSsBqjhTEi4Ra54r7G/YZIKfmTIuEpbZAeQfASg4CXvPAPngcsfuGvwA2mIulPWjxGvHIcd47rGdjGmqrT5y1DPYqo/j/eLbMe0VBsfpQFHEaZRlzz6/YBT5O0ui5TwhOFmBsoT1XbpWBoHMfYMDUVFQ1SmNnJ3wKmi07L09YYX3u/D/VXns/SZmiId4cSB+AqLKsq9QdDamRxjBwW8efYFSamg0N6LjspITOPQVv5nB0+J2s+ko0yQOtHjs=;HVOw5Hx9zNvQAPhwGS1EBQ=="
+---
+

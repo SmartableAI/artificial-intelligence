@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,10 +31,24 @@ images:
     isCached: true
 
 related:
+  - title: "How COVID-19 is driving AI in the mortgage industry"
+    excerpt: "With the move toward a remote workforce and the real estate market booming, integrating artificial intelligence can create a competitive advantage."
+    publishedDateTime: 2020-12-28T19:46:00Z
+    webUrl: "https://www.housingwire.com/articles/how-covid-19-is-driving-ai-in-the-mortgage-industry/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 37
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_228678481-e1595368662513.jpeg?resize=1024,717"
+        width: 1024
+        height: 717
+        isCached: true
   - title: "Police are now using artificial intelligence to search the internet for information in relation to issues of interest to police"
     excerpt: "This comes as an independent review of the police response to the Christchurch mosque shootings - made a raft of recommendations into how police could improve future responses. Former intelligence analyst Paul Buchanan says he doesn't understand why this technology hasn't been used earlier."
     publishedDateTime: 2020-12-28T18:43:00Z
-    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726&tst"
+    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726"
     type: article
     provider:
       name: NZCity

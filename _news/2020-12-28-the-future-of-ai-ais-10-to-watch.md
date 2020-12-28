@@ -47,13 +47,13 @@ related:
         height: 218
         isCached: true
   - title: "5 questions on the future of the Pentagon’s top AI office"
-    excerpt: "The chief AI strategist joined C4ISRNET to talk about progress the Joint Artificial Intelligence Center made this year and the significance of upcoming changes."
-    publishedDateTime: 2020-12-28T18:40:00Z
-    webUrl: "https://www.armytimes.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
+    excerpt: "WASHINGTON — This year, the Pentagon’s top artificial intelligence office kicked off its first joint war fighting initiative, realigned the organization to meet new department needs and got a new director. If the fiscal 2021 defense policy bill, known ..."
+    publishedDateTime: 2020-12-28T18:39:00Z
+    webUrl: "https://www.federaltimes.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
     type: article
     provider:
-      name: Army Times
-      domain: armytimes.com
+      name: Federal Times
+      domain: federaltimes.com
     quality: 37
     images:
       - url: "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg"
