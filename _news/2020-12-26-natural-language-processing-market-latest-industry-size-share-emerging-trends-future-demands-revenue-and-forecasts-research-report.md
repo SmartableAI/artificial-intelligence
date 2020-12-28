@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Artificial Intelligence Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
+    excerpt: "Market Overview The mobile artificial intelligence market was valued at USD 2.14 billion in 2019 and is expected to reach USD 9.68 billion by 2025, at a CAGR of 28.65% over the forecast period 2020 - 2025."
+    publishedDateTime: 2020-12-28T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2025-2020-12-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
     excerpt: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026 . Posted on Dec"
     publishedDateTime: 2020-12-26T23:42:00Z

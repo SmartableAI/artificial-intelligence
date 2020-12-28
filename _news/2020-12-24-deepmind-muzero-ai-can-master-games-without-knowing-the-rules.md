@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind AI MuZero can learn AND master Chess, Go, Atari"
-    excerpt: "Today the machine learning algorithm MuZero was detailed in a feature research paper in Nature. MuZero expands on the abilities of systems like AlphaGo, AlphaGo Zero, and AlphaZero. Each new algorithm allowed a smart machine to become better at mastering ..."
-    publishedDateTime: 2020-12-23T20:22:00Z
-    webUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/"
-    ampWebUrl: "https://www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-muzero-can-learn-and-master-chess-go-atari-23652360/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/muzero235.jpg"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "DeepMind just taught AI how to win a game without knowing the rules"
     excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
     publishedDateTime: 2020-12-23T21:34:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=70&strip=all"
         width: 1599
         height: 1066
-        isCached: true
-  - title: "DeepMind MuZero AI Learns The Rules As Its Plays To Master Atari Games, Chess, And More"
-    excerpt: "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules."
-    publishedDateTime: 2020-12-23T20:28:00Z
-    webUrl: "https://hothardware.com/news/muzero-deepmind-ai"
-    ampWebUrl: "https://amp.hothardware.com/news/muzero-deepmind-ai"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/muzero-deepmind-ai"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53786/content/hero-muzero-background.jpg"
-        width: 708
-        height: 398
         isCached: true
   - title: "DeepMind’s New AI Is Able To Learn The Rules Of A Game As It Plays"
     excerpt: "Alphabet’s subsidiary DeepMind has recently developed an AI system capable of learning the rules of a game as it plays. While DeepMind has created impressive AI models that can master games like Chess,"

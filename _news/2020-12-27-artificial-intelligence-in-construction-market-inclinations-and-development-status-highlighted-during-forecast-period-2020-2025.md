@@ -29,37 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Reflections On My 2020 Predictions For AI, DL, And ML"
-    excerpt: "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI."
-    publishedDateTime: 2020-12-23T19:31:00Z
-    webUrl: "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/"
-    ampWebUrl: "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/"
+  - title: "13 acquisitions highlight Big Tech’s AI talent grab in 2020"
+    excerpt: "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes."
+    publishedDateTime: 2020-12-25T15:07:00Z
+    webUrl: "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Neural’s AI predictions for 2021"
-    excerpt: "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables."
-    publishedDateTime: 2020-12-28T08:09:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 91
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg"
-        width: 796
-        height: 417
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "7IpoAvFr3LhwgwJl8gYwJ9dKBrUQSdknyf0B//lLmOnbUp1ob1x45Y5uds1SwIlZ6kjSlfkMMMgW/OnAHXz0APr5YIgy9O3lohysu8ESSiVbLBwmfDSg8DIZbGJ0hqDxbopr/VVKBuAV3pKhjtNpBL2n9pN2/C8JflXbaiPMAY+dixWLpHeOAKS8TsQPQOUYwKCd6yAeXcDuIzPnUg5hop1rTRX+QmadqgF84UIG+jiK+6MEZ9PulBt+3Yr3QUtd1GOgjrBzW4eDc5S29gfVPZ8lXb9ypNKmIIbPIiEMw8rRbGNAzxKDS+pSiB32yPwrvGcnj2RmLmbECM5OiAzEJEUTDNvDtrhptp2dCvkS8js=;5o50nn6VZgsmxclAssDp2w=="

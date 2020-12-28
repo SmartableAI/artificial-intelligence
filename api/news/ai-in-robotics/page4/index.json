@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-21-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-12-million-raised.md",
+      "title": "Update: Twin Science & Robotics to Close Seedrs Campaign With Nearly £1.2 Million Raised",
+      "excerpt": "Twin Science & Robotics, a new educational experience that up skills children with physical and digital products, is set to close its equity crowdfunding campaign on Seedrs with nearly £1.2 million raised.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/twin-science-robotics-1-600x426.jpg",
+          "width": 600,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
+      "publishedDateTime": "2020-11-20T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-military-robots-market-to-show-strong-growth-demand-qinetiq-endeavor-robotics-irobot-cobham-plc.md",
       "title": "Military Robots Market To Show Strong Growth & Demand | Qinetiq, Endeavor Robotics (iRobot), Cobham PLC",
       "excerpt": "Global Military Robots Market is valued approximately at USD 21.4 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 12.92% over the forecast period 2020-2027 ... According to Artificial Intelligence and National Security ...",
@@ -1346,49 +1389,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
-      "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
-      "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "originalUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "publishedDateTime": "2020-11-15T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

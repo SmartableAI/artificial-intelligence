@@ -83,6 +83,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
+    publishedDateTime: 2020-12-28T09:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934434/artificial-intelligence-in-healthcare-diagnosis-market-forecast-to-2027-covid-19-impact-and-global"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
     excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
     publishedDateTime: 2020-12-24T13:41:00Z
@@ -125,6 +136,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
+    excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2020-12-28T09:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934351/global-education-and-learning-analytics-market-report-2020-2025-what-has-been-the-impact-of-covid-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934351"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934351"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "OLP8ZfDT5qQPHhu/U3M410mYlEjcSGyOpGv4yEBmmsLwYK86rqryp/OMddyKSZ9+yXyT38YFbBF38ZzQzAdBVk2Bf+REq9xSu+AV8E0tfGET4R9JMPBPlFNIraRByDxepbf0RFZdn6k2jrrxLmmjtwoJewh8fNe4B4Z37B0ipL07QhPZb8+hUP9N17TwpcYsZRmZgFGQL+I6cPhQtaXzKFUggzQ0xHSDIq6KrOIe1bIdww9iggnVKCEvRa250BfTCe0uEEZE0zytwMyO+ZvGBn49DEZ4rSUzz9n69J/apKYu9JuPtWuBuJUwua6cmtZjkUid3TQqCiHYTBV5kOcC4llgix0fhfqkdWR2DkXflfw=;nqU3wK7wYIHLrKGM+9cM5w=="
 ---

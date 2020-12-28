@@ -88,6 +88,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
+    publishedDateTime: 2020-12-28T09:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934434/artificial-intelligence-in-healthcare-diagnosis-market-forecast-to-2027-covid-19-impact-and-global"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
     excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
     publishedDateTime: 2020-12-24T13:41:00Z
@@ -116,6 +127,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
+    excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2020-12-28T09:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934351/global-education-and-learning-analytics-market-report-2020-2025-what-has-been-the-impact-of-covid-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934351"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934351"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
   - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
     excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
     publishedDateTime: 2020-12-27T04:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-led-covid-relief-effo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-led-covid-relief-efforts-that-went-above-and-beyond/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Trends To Look Out For In 2021"
+    excerpt: "Across various sectors, people have embraced the challenges and developed new innovative solutions. Fintech is no exception."
+    publishedDateTime: 2020-12-28T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f183ef5d9a66f0007158953%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The TRADE’s Crystal Ball 2021: FinTech, RegTech and crypto"
     excerpt: "Gaze into The TRADE's crystal ball for insights from FinTech and RegTech providers, as well as participants in the crypto space on their predictions for the year ahead."
     publishedDateTime: 2020-12-24T11:46:00Z

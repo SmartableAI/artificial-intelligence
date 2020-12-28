@@ -2,6 +2,353 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-11-27-dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products.md",
+      "title": "Dyson plans £3 billion investment in robotics and AI to create new products",
+      "excerpt": "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html",
+      "originalUrl": "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.belfasttelegraph.co.uk/news/uk/02227/39797835.ece/AUTOCROP/w1240h700/bpanews_a3da0697-6e0e-4619-8bfb-ca1f4080ed1a_1",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html",
+      "cdnAmpWebUrl": "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html",
+      "publishedDateTime": "2020-11-26T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Belfast Telegraph",
+        "domain": "belfasttelegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-tensorflow-turns-5-five-reasons-why-it-is-the-most-popular-ml-framework.md",
+      "title": "TensorFlow Turns 5 - Five Reasons Why It Is The Most Popular ML Framework",
+      "excerpt": "TensorFlow played a crucial role in the growth of machine learning and artificial intelligence. Thank you TensorFlow for enabling and empowering developers, and wish you a happy anniversary!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc09cf1950179a3f5f74874%2F0x0.jpg",
+          "width": 813,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
+      "publishedDateTime": "2020-11-26T22:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-deep-learning-helps-determine-a-womans-risk-of-breast-cancer.md",
+      "title": "Deep learning helps determine a woman’s risk of breast cancer",
+      "excerpt": "Using deep learning to recognize imaging biomarkers in mammograms presents an opportunity to detect the early warning signs of breast cancer in women who may not be considered at-risk, allowing intervention strategies to begin early, potentially improving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1494638654.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "publishedDateTime": "2020-11-26T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
+      "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
+      "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilR5j0VZWcoo/v0/360x-1.jpg",
+          "width": 360,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "publishedDateTime": "2020-11-26T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-chinas-industrial-profits-surge-at-fastest-pace-in-nine-years.md",
+      "title": "China’s Industrial Profits Surge at Fastest Pace in Nine Years",
+      "excerpt": "Profits at Chinese industrial enterprises surged at the fastest pace in a single month in almost nine years in October, a further sign the economic recovery is gathering pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0rVggcxRr5U/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "publishedDateTime": "2020-11-26T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.md",
+      "title": "Quotation of the Day: ‘Love Letter to Detroit,’ on Vellum and Chrome",
+      "excerpt": "Quotation of the Day for Friday, November 27, 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.amp.html",
+      "publishedDateTime": "2020-11-26T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-bank-of-canada-says-recent-covid-19-vaccine-news-is-promising-recovery-to-be-tough.md",
+      "title": "Bank of Canada says recent COVID-19 vaccine news is promising, recovery to be tough",
+      "excerpt": "Recent news about coronavirus vaccines is promising even as cases continue to increase, Bank of Canada Governor Tiff Macklem said on Thursday, reiterating that the recovery would be tough.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
+      "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1BR",
+          "width": 886,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2862DA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA",
+      "publishedDateTime": "2020-11-26T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-brazils-bolsonaro-says-he-will-not-take-coronavirus-vaccine.md",
       "title": "Brazil's Bolsonaro says he will not take coronavirus vaccine",
       "excerpt": "Brazilian President Jair Bolsonaro said on Thursday evening that he will not take a coronavirus vaccine, the latest in a series of statements he has made expressing skepticism toward coronavirus vaccination programs.",
@@ -873,307 +1220,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more.md",
-      "title": "7 big data goals for 2021: AI, DevOps, hybrid cloud, and more",
-      "excerpt": "If you're thinking about your big data for next year, here are some goals you should have in mind. In 2021, corporate big data leaders will be looking to improve data quality and turnaround of big data projects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/03/be6e2ec5-94d4-4af1-8d1e-67cb98f0405b/resize/1200x/2d3d59de9e7a930e590aad9592a89fdb/istock-1140691245.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "publishedDateTime": "2020-11-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable.md",
-      "title": "Working from home: Making those Zoom calls and Microsoft Teams meetings a bit more comfortable",
-      "excerpt": "But I'm not leaving the house for meetings or attending events and conferences. They're all online too, and while I have enough screen space on my desk with a 15\" laptop and two 27\" monitors, I sometimes fancy a change of scene and a different way of working.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "originalUrl": "https://www.zdnet.com/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/24/658279f6-37ed-457c-98f6-9a79814fc57e/pa552.jpg",
-          "width": 1500,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "publishedDateTime": "2020-11-26T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
-      "title": "How archaeologists are using deep learning to dig deeper",
-      "excerpt": "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-26T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-innovation-key-highlights-of-covid-19-impact-on-the-artificial-intelligence-in-agriculture-market.md",
-      "title": "Innovation: Key Highlights of COVID-19 impact on the Artificial Intelligence in Agriculture Market",
-      "excerpt": "Research Dive :A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-a011c3d1cc23a3a5e540fff1bd89754f",
-      "originalUrl": "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-a011c3d1cc23a3a5e540fff1bd89754f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-revisiting-ethical-ai-part-two-on-data-management-privacy-and-the-misunderstood-topic-of-bias.md",
-      "title": "Revisiting ethical AI, part two - on data management, privacy, and the misunderstood topic of bias",
-      "excerpt": "No, you can't program your AI for empathy or ethics. But you can certainly confront the problem of bias. In part two of revisiting AI ethics, we examine how bias, data management, and privacy should be addressed. In Part 1, I proposed that the term \"AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/revisiting-ethical-ai-part-two-data-management-privacy-and-misunderstood-topic-bias",
-      "originalUrl": "https://diginomica.com/revisiting-ethical-ai-part-two-data-management-privacy-and-misunderstood-topic-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare.md",
-      "title": "4 Ways John Snow Labs is Raising the Bar for NLP in Healthcare",
-      "excerpt": "Ways John Snow Labs is Raising the Bar for NLP in Healthcare By David Talby, CTO, John Snow Labs - Natural Language Processing (NLP) has been a technology to watch over the past few years, but in 2020 it emerged as",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
-      "originalUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/news_new/sliderimage/49a3t.image300x350123654.jpg",
-          "width": 300,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm.md",
-      "title": "Emerald Jewellery unveils AI enabled mobile application platform for jewellery B2B business in collaboration with IBM",
-      "excerpt": "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind Artificial Intelligence (AI) enabled mobile application platform powering the B2B business of Emerald Jewellery in India.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

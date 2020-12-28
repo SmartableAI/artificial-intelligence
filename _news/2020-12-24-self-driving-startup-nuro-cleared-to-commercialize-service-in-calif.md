@@ -142,17 +142,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
-    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
-    publishedDateTime: 2020-12-23T20:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18916127/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-se"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18916127"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18916127"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "+RaSqF+MvJlLukjsP+oFBp9WkzL8Uw0efhnZAO/PwtD93eIq3y69GQDNo9TE2iCA7GBeq/1zPQCJW6iWw31DlC0ylyK5urcoPVNH/XHyEd822DXDdPjNILpxKD+vxWSTxepRTdDlqC8EhtLaXkLehqkdCPi3vCDI8PcGRo48+djWymzzHJI50Ukfx0PEPZ9MOPnQZRa9ge66vCbFmcoLwMLZnQ7vvv7CsK2/L3wQsJACUQKteNuBYzz7IldW4RZzlyVaFVu+YuZYKXw9VqX23rT5jw7qFMLPVlVmxRgMPJUj9G5TW4mn1Suu5dGKYrAvIDmzlAVNoQJBwEIll7ihd+JSZ7y79dGYQi0gAWd39+wjVrxYMC2rg2rFaPvcWzKnutTFCVLXHupQquk5Qpn0T2yr24jMULWYbKGMaE3wjUl86PFA9d0QcYruyz1aHJUhE826kK6jC/pdHd33NaCPbeUV2zptxxR+wwMHFtLabUZ4PKOxX/kc+Ghd8bBDf3CVQTFaeNP5KTNsoYM7k2RtzQ==;sXJMoZVUgCFhq8mgrRKwFg=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 660
         height: 336
         isCached: true
+  - title: "Fintech Trends To Look Out For In 2021"
+    excerpt: "Across various sectors, people have embraced the challenges and developed new innovative solutions. Fintech is no exception."
+    publishedDateTime: 2020-12-28T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f183ef5d9a66f0007158953%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Y7xyTve2gXiqv+oJZWR33vGhtBt63DApL6zZ4tacRPcgi7CNsEGLZJ0+LzpU1HCqWnUJ1evv5df3FcfI6V3pzx26DQhj2RPZqeXd81Sfm2WQfJy4yuSg7SCCkH9YzsZwfb9O6btir+XoWZljsfaIeIwI9+fkEczhNCRUpIreqcGzQ/OQSeejca2wUUGFbWslLSlnTetgazn+HBXDNzZWumgYOXqb6WjnSWAkk24D9vS+6HQiHnpqCUnH7XIVMJzGx4jeGyYf/Y1OUaTMs7r0BT0p3lWVTJFMZA/uvXeTDx7EgzL/epbi38abyxBzZEhCBuK8RO/Ui9jrf43FpmPnG1VWDqUGJWznICXUnDFi+Se+qUX6e61KwsLLVOhZwPXECTy+H619lBA1A9W0bK3FUZVvsMaEKwA+3MtfJK/5CLZSLW3V/bca+cAbVZ+p5FGiReLGpXMA3JCf/7QfFBFbMP/yMHGi5/2BitHRXWyKgzmjyMSnYgx3paf8Sxoe9fXfH2EH0ndpC/n/LvDY6SBjZw==;ss5pHKliLoqs5Xph19YxFA=="
 ---

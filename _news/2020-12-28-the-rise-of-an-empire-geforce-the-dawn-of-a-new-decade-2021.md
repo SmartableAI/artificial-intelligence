@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-28T09:32:00Z
 originalUrl: "https://analyticsindiamag.com/the-rise-of-an-empire-geforce-the-dawn-of-a-new-decade-2021/"
 webUrl: "https://analyticsindiamag.com/the-rise-of-an-empire-geforce-the-dawn-of-a-new-decade-2021/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/GEForces-Future-Forward-Mission-To-The-Dawn-Of-A-New-Decade-2021.jpg"
@@ -24,6 +25,6 @@ images:
     height: 743
     isCached: true
 
-secured: "qrp2ECk3mGzyZpX9UME/yn1Imel0wHFSLh3KQf6jyermcQn3VXEhRVoeswUTvdm68PS6q8u02St2JOIxzse9XxwbmLSK4//aoeQWJFtoJ982GAJ+PGEY21ZtpqoaCWEXmjygZXEzfG7G3ZEhRRo8XBgfrYbOTzIghd6Gay4EQBZTIDNTeVGFWZZcx3Y9XzmG+EWtainHNU6SWaFWFoKojByJbYeF/1sxBOu5K8EnOt1Mozu0vDYujpm2Q/vAIxW7XvUUx/WlowL7D5q/+PTRl/fwxrmxgXTtECYfAK6NKRY624AWFlYjtuL4mF6Rci6PCHMaMublG3JuoomXmtbTJ2zJrxin1hjh0LcET0+qZ5E=;jHVgOZP8U5E1iymz9sRsug=="
+secured: "qlEb/CboM9UQ77IKDwyXsr3ms91Abxv3gaD62ZzRHI+o0dofCtz4y5zLG+JggL0KqassGaANv9PznFRLfiLJ2C2sIz0EPY23ltgrAWLC636mEwTwYW8lNhGMMWYbIPJY3+VB/GGGlkZpo7CPmZ9MyvY1fPTMcqnnrYQ/99QCNHKsR8g1Je/bxLwcKriOI343yEQ9gDkrUnF7lmESkQdkT/X4j83nXrR6O4EdVKpHNgIsz1Rq/9Na2aqNxEBP6AYSHSgJtDx3bHp9J7dwlZz0Z9qtQFGNNoAaYi2Z01zgSBPa02gDJhhiqRD5MmksucADjjaaxIeZ5DLuewGKMWhpQNhNVkXkbfV/2/8MiSvZqakv0C4tVuivrXv/4SeTV5JhjJS+XykD2dZkEOhqtkKTrpBhLMveV10ezZtWS+jcx/7fB52qcSLTFAhDzFNcdBAJmvQyvbqPeM4VO0EPqDkBYeJ1ii2+MFOVEy/R1eF8jlxfQHhdlrzPvzVkl8FEbqE1utewMgZAt9MYUZA6gaAu+Q==;08DsobMBjhakUl7uzJvqAg=="
 ---
 
