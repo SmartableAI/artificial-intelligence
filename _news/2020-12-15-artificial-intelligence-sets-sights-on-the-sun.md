@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Artificial intelligence sets sights on the sun"
-excerpt: "Scientists from the University of Graz and the Kanzelhöhe Solar Observatory (Austria) and their colleagues from the Skolkovo Institute of Science and Technology (Skoltech) developed a new method based on deep learning for stable classification and quantification of image quality in ground-based full-disk solar images."
-publishedDateTime: 2020-12-14T18:35:00Z
-originalUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.html"
-webUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.html"
-ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
+title: "Artificial Intelligence Sets Sights On The Sun"
+excerpt: "The Sun is the only star where we can discern surface details and study plasma under extreme conditions. The solar surface and atmospheric layers are strongly influenced by the emerging magnetic field."
+publishedDateTime: 2020-12-14T21:06:00Z
+originalUrl: "https://www.scoop.co.nz/stories/SC2012/S00026/artificial-intelligence-sets-sights-on-the-sun.htm"
+webUrl: "https://www.scoop.co.nz/stories/SC2012/S00026/artificial-intelligence-sets-sights-on-the-sun.htm"
+ampWebUrl: "https://m.scoop.co.nz/stories/SC2012/S00026/artificial-intelligence-sets-sights-on-the-sun.htm"
+cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2012/S00026/artificial-intelligence-sets-sights-on-the-sun.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Scoop
+  domain: scoop.co.nz
 
 topics:
   - Machine Learning
   - AI
 
-secured: "9RmiS1cwenD7aj1/RY2POBV2JNBeRKVpQb/kItUG4Csj+9an8r9/Dm9Q9vzddcwfrPLxvy4v6bv+gq+iBbiPtkhIjCsWwv2k74TCrktX5Riy0xroWKpSLmbruh+pyrjnTBi/nqH1nwMXuhtVMNDOQlDtOSBF2wZf25kn+MDxsVQYRZl6Ylxz+CUUr/RDmAgUb+RfGt7WdEf+WcTf53hQ/YYP3cCf+AiNdFHCYkPB+H0arPWMzbianKHMApUHGNE1uJ2ZTrEuuBTB9RnDRTaBQGORd0J4VsM3+iF/FQjFL3nSEv8joGJZX5He4jH49pcIKFF7gKJfIygBS81AzmpG7eCfR1e66HuVYNMRQ+tPZauwzcd7z2O/m7Sr8U/J+szreT7BaOvkf8u/hN0M657i1+EvmPsEehyAmRmZ/Q9iNcvXVQ170pbKFvsg2E6FGrfkRc5aMjRYIAngMl15j6llikJgNv4d/dcATfPaxstGDV1gnTf8PIQ9bdvWefk6pgVEce7+W6m8BPOxy7Y4ffEMng==;j1P7G97IoPPwt82DzlbagA=="
+secured: "8SJEXXCFbgHwZWMAGBeNcQ+TT2+b2rvImzOwQSOAnMHVT1PP+/U0pjNvMEx7FSYfd4D3y26tOk96YFq0DszMo1wUNTROX3rGlj6l4B6Z4wPXkOxfBn7ucOvziNdiPR4islGkbFK2aq+I3FzLX0eAU/poGcfyN4mnUKWsZQKGkIm2c9oNLDdHfvVv5d3Zc/b2dFmBL9+Nf17aJKw+86Tn2asQTPwkih6QJOrmkrzbVJkhFJefxtAqJJP/BmxHsIYx76vAsTAghkOVB5IWyzVTocTtKkRhREEb2p7Sr+/+aWKJlCMY69Q1z8ZzPEZqRV1CfGWBr7tbuhWcf5dyuHX4fy21DUqKJWQwWX2HYpESzWw=;+ubNA8VZ4VL2omoWjUTfDA=="
 ---
 

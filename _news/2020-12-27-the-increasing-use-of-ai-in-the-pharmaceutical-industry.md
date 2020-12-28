@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 1500
     isCached: true
+
+related:
+  - title: "Police are now using artificial intelligence to search the internet for information in relation to issues of interest to police"
+    excerpt: "This comes as an independent review of the police response to the Christchurch mosque shootings - made a raft of recommendations into how police could improve future responses. Former intelligence analyst Paul Buchanan says he doesn't understand why this technology hasn't been used earlier."
+    publishedDateTime: 2020-12-28T18:43:00Z
+    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726&tst"
+    type: article
+    provider:
+      name: NZCity
+      domain: nzcity.co.nz
+    quality: 0
 
 secured: "XBcYzeoBK22qo1ePW2eQtazgoIDtGmkQe/QHcNBUV5jr4VcBisWG1s6ISq/qTE67Er0mLBfkm1rEiuK4rKQlTGm5xWma5CPXEYuQ8kC4KUTcxwvH9K6gNSf8Q6eFIW2cUvlTMVPPiOcZc2phj3rvOsUEsGqK4lpgOjpZ9Z62lFskjl6FQzArzOp5yAtwJ/oaSCH2TM76jkHpEpzfQU1FBhrDq/kq4zbLDgXuwyIeBPXhU/WK93Jmcl5khjUqJbjXo4q6yv+XgnC1pF3I4rd+9WGisuVfV4rd90OOxRI3hUg8xRraRZDglMalkEYMYHEH1g46epRI+lvxRDCDao4V9rydpXSSMIM6fFrOE54TJPFgJyM2ZPWgvNrYxaypU0oOVkNPs159WDpf7xBBUtfCjjuDAmACXa+nNB4nxKqAQ30EQsb4PH2/SQHHCjCYrJMSsFGiyPjO2spIdqlH4zq8wdC+Oe2eZ9Q8DC0OdY+zxyWgZnzbcOhXK8e15DbMhdkudah8E9ek/NfNDd61Msasnw==;6zP2aCKRHyCbnHrPPHEtpQ=="
 ---

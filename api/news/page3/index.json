@@ -2,12 +2,191 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-24-chatroulette-is-on-the-rise-againwith-help-from-ai.md",
+      "title": "Chatroulette Is On the Rise Again—With Help From AI",
+      "excerpt": "The hottest app of early 2010 faded quickly when it was flooded with unwanted nudity. Smarter content moderation is helping to revive it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
+      "originalUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe37578abb4491ff39c28bf/master/pass/Backchannel-YIR-Chatroulette-AI.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatroulette-rise-again-help-ai/amp",
+      "publishedDateTime": "2020-12-23T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-ai-debate-2-night-of-a-thousand-ai-scholars.md",
+      "title": "AI Debate 2: Night of a thousand AI scholars",
+      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,",
+      "sourceUrl": null,
+      "webUrl": "https://montrealartificialintelligence.com/aidebate2.html",
+      "originalUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-i-defeated-the-ai-that-roasts-your-spotify-taste.md",
+      "title": "I Defeated the AI That Roasts Your Spotify Taste",
+      "excerpt": "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439",
+      "originalUrl": "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp",
+      "publishedDateTime": "2020-12-23T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader.md",
+      "title": "OMNIQ AI-Based Machine Vision Safety System Selected for Security and Protection of a Non-U.S. Government Leader",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-50-plus-biggest-aws-announcements-from-reinvent-2020.md",
       "title": "50-Plus Biggest AWS Announcements From re:Invent 2020",
       "excerpt": "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -40,9 +219,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1025,195 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
-      "title": "Cuomo signs facial recognition, voter registration bills",
-      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T17:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
-      "title": "Koo Kwang-mo's robotics push starts to pay off",
-      "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202012/49f47f19d777441eb7b1b39e349401ac.jpg",
-          "width": 980,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "publishedDateTime": "2020-12-22T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-roast-your-own-spotify-listens-with-this-snarky-ai.md",
-      "title": "Roast your own Spotify listens with this snarky AI",
-      "excerpt": "If you want to be judged, you open a page titled “How Bad is Your Spotify” and you log in with your Spotify account. (It might take a couple refreshes on the “Loading your music library” page.) This absolute jerk of an AI then drags you mercilessly while it pulls your playlists and top tracks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "originalUrl": "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/hamXm1ANrHMEOELR53wT_VXLWQs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68569960/acastro_180213_1777_0004.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "publishedDateTime": "2020-12-22T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-apple-said-to-be-planning-self-driving-electric-car.md",
-      "title": "Apple Said to Be Planning Self-Driving Electric Car",
-      "excerpt": "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T15:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

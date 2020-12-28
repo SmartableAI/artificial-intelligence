@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/hyderabad-based-start-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hexagon arm sets up country’s first AI community centre in Hyderabad"
+    excerpt: "An Artificial Intelligence community centre that will offer courses free of cost to school students and engineering graduates as a step towards democratising AI knowledge cum skill has been established in the city by Hexagon Capability Center India (HCCI)."
+    publishedDateTime: 2020-12-28T18:23:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/hexagon-arm-sets-up-countrys-first-ai-community-centre-in-hyderabad/article33440148.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/hexagon-arm-sets-up-countrys-first-ai-community-centre-in-hyderabad/article33440148.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/hexagon-arm-sets-up-countrys-first-ai-community-centre-in-hyderabad/article33440148.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/news/cities/Hyderabad/ce8pkj/article33440156.ece/ALTERNATES/LANDSCAPE_615/hy28Hexa"
+        width: 615
+        height: 384
+        isCached: true
   - title: "From sanitisation to disinfection, Hyderabad based start-up’s robot disinfectant all set to fight Covid-19"
     excerpt: "As a part of its fight against the Corona pandemic, a Hyderabad-based start-up ‘H-Bots Robotics’ has come up with a robotic disinfectant named ‘ACCORD’. Speaking to ANI, Kishan, the founder and Chief Executive Officer of H-Bots said that Robotics has played an equal role to any other field of work that contributed in the ongoing pandemic situation."
     publishedDateTime: 2020-12-27T04:33:00Z

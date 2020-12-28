@@ -104,20 +104,6 @@ related:
         width: 395
         height: 250
         isCached: true
-  - title: "Nuro gets permission to run its self-driving delivery vehicles on California’s roads"
-    excerpt: "The announcement came just hours after Nuro said it had acquired a company called Ike Robotics Inc., a self-driving truck startup that focuses on delivering long haul freight. Nuro is one of the ..."
-    publishedDateTime: 2020-12-24T01:30:00Z
-    webUrl: "https://siliconangle.com/2020/12/23/nuro-gets-permission-run-self-driving-delivery-vehicles-californias-roads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/nuro-800x533.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "uoIjflOVnzrw7dHlfd6rePlT31mSCPNkciSNAm/N4HeQWdmbLo2jBNDpTuxVbRo7aopzq7XmBwFbjExgWbS8/rVISPss/42W9GuK0cJCctTeTpWNSZpVxwnhHdCQfWsACxP+GNY/GHkzaIYs+j1a0u/RyPt3ALiUjVS8jvTSj9Sw0MKQYcKhZZmY/cbwoT+pNuL2IkpvsobgsBV6PgD/Il7B4qQUwbMpjk/mjkVCdNneVJo0CJQsgkHI7n5C+8zxZt5aZt61bcio4s2lMBFj/2mjl2k2ELUIK1x6TlxX+U8IbnGy1uiHO1gdrvvCkdr1OJ2r6gSdJKEN5AlR1NqZh4Zt1Vx93ukGxdc+nGu1bpkVJz1B2Be/8hIJA22P7RaiA3CcFAPBpJpX/zjxgHUd/ZClH6fuhXh71N+RWhuz+7FLOjYetbjZLUkiMd1u/DIBnp7K6tJOVN9Avvse8XRnY/i8iiBbjidD7v7CIIoY709+D132rYAlzPVIavBf3Y4B5VfY1FwdaYphboUXes6v6w==;PZS6qixaJLHU0zHz8Kmf9w=="
 ---

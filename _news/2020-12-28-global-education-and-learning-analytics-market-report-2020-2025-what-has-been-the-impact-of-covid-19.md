@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Growing at Steady CAGR to 2026"
-    excerpt: "CMI announced that it’s published an exclusive report namely Global Artificial Intelligence in Telecommunication"
-    publishedDateTime: 2020-12-24T02:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-growing-at-steady-cagr-to-2026-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Book on AI to combat Covid-19"
     excerpt: "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added."
     publishedDateTime: 2020-12-27T22:12:00Z

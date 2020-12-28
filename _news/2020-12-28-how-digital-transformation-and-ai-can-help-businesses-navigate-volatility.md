@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-digital-transformation-a
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-digital-transformation-and-ai-can-help-businesses-navigate-volatility/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1000
     height: 504
     isCached: true
-
-related:
-  - title: "Redesigning Business Processes with Artificial Intelligence and Automation"
-    excerpt: "The number of intelligent automation engagements has increased by 75% in the last 12 months, with industry-specific"
-    publishedDateTime: 2020-12-24T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18920088/redesigning-business-processes-with-artificial-intelligence-and-automation"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18920088"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18920088"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
 
 secured: "zgvf78Y3D9279EbdfQkYllqpha5jxI/YmlD+dv3VyEJh7KlKSMRcu1UP8dmGkePV2/GQ8+469u/rPrV6TE6GsAz9dOolOjZ1xstPEv/gC2Ub4lN7EHcscV6kS11OMJPoyTLHoAUTC7F1sUoo24lim0zwIQKWTb8pyb9bnSOP5aam6Bx2uRxBUQ//OW99A85Jm/MvaKGAxdkNPspf5h6nHcuiHTwo1HSxTL8vWnrLzK64BAqNxB3FU9I6X1Xf8xYIedYkZoapi2PSGkOcyygxt50oqxaIsEhkgOp8TS1Ft1YPs3kMVeNbhgzWSB74otuGsy1gaEpJ+KhBMG9psfvGYs3eX4A2WADwrncuAeZ1BkHPrZhdXufcJfOi1ol+a+ufrPpp7JT8rFPahCXNGgno4fQuCcVIE/2ttFGu5Sd5pYDSj+W3goA4Uk2lu5PSGfC8zY+fbg34UtuGMkmjaX2jHuQUrd3b61ivLG9/Yg/qN8tpDdCwoK8ze7gmbzqaa3ISBHB+8pTRwCh9oPncJ1VWIw==;bchZc2DR2Mm+IOgdFr/ijw=="
 ---

@@ -2,6 +2,164 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-27-responsible-ai-programs-to-follow-and-implement-breakout-year-2021.md",
+      "title": "Responsible AI Programs To Follow And Implement— Breakout Year 2021",
+      "excerpt": "Throughout this examination of AI usage, what about the considerations on accountability, responsibility, transparency, fairness, equity and inclusion, ethics, explainability, interpretability, trustworthiness and reliability, robustness, bias and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe76805adb337277fcc9d07%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/amp/",
+      "publishedDateTime": "2020-12-26T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-ai-research-survey-finds-machine-learning-needs-a-culture-change.md",
+      "title": "AI research survey finds machine learning needs a culture change",
+      "excerpt": "Machine learning has a problem with data mismanagement and a culture where anything goes, according to a recent AI research survey.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
+      "originalUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/b9355a07-e2bb-4f05-9662-bdce9c625cb4-e1586377374664.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/amp/",
+      "publishedDateTime": "2020-12-26T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026.md",
+      "title": "Service Robotics Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026",
+      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-26T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
       "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
       "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
@@ -250,7 +408,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -285,7 +443,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -529,6 +687,57 @@
       ]
     },
     {
+      "path": "_news/2020-12-24-google-told-scientists-to-use-a-positive-tone-in-ai-research-documents-show.md",
+      "title": "Google told scientists to use 'a positive tone' in AI research, documents show",
+      "excerpt": "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
+      "originalUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe492abedf8920018093a2c?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
+      "publishedDateTime": "2020-12-24T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-is-c3ai-stock-a-buy-after-almost-quadrupling-since-its-ipo.md",
       "title": "Is C3.ai Stock a Buy After Almost Quadrupling Since Its IPO?",
       "excerpt": "IPO share price action is any indication, investors think C3.ai is an incredibly promising company. After pricing at $42 per share, the stock has quickly skyrocketed above",
@@ -588,7 +797,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/readersblog/pick-a-pen/future-of-ai-and-machine-learning-28539/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -683,7 +892,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1029,185 +1238,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-chatroulette-is-on-the-rise-againwith-help-from-ai.md",
-      "title": "Chatroulette Is On the Rise Again—With Help From AI",
-      "excerpt": "The hottest app of early 2010 faded quickly when it was flooded with unwanted nudity. Smarter content moderation is helping to revive it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
-      "originalUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fe37578abb4491ff39c28bf/master/pass/Backchannel-YIR-Chatroulette-AI.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatroulette-rise-again-help-ai/amp",
-      "publishedDateTime": "2020-12-23T16:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-ai-debate-2-night-of-a-thousand-ai-scholars.md",
-      "title": "AI Debate 2: Night of a thousand AI scholars",
-      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman,",
-      "sourceUrl": null,
-      "webUrl": "https://montrealartificialintelligence.com/aidebate2.html",
-      "originalUrl": "https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-i-defeated-the-ai-that-roasts-your-spotify-taste.md",
-      "title": "I Defeated the AI That Roasts Your Spotify Taste",
-      "excerpt": "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439",
-      "originalUrl": "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yglh805ylwvpi0kbrsp8.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp",
-      "publishedDateTime": "2020-12-23T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader.md",
-      "title": "OMNIQ AI-Based Machine Vision Safety System Selected for Security and Protection of a Non-U.S. Government Leader",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

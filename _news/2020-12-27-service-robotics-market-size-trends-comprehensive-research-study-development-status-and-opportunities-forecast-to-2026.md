@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
+    excerpt: "Wiseguyreports.Com Publish New Market Research Report On \"Artificial Intelligence (AI) in Agriculture Market 2020"
+    publishedDateTime: 2020-12-28T16:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-12-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

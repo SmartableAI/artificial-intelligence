@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research"
-    excerpt: "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team."
-    publishedDateTime: 2020-12-24T02:23:00Z
-    webUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406"
-    ampWebUrl: "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 84
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuuqhcmntzmazuwchdbo.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Google told scientists to use 'a positive tone' in AI research, documents show"
     excerpt: "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research."
     publishedDateTime: 2020-12-24T13:50:00Z
@@ -59,37 +43,19 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Google scientists reportedly told to make AI look more 'positive' in research papers"
-    excerpt: "Alphabet has been asking its scientists to ensure artificial intelligence technology looks more \"positive\" in their research papers, a report Wednesday by Reuters said. A new review procedure is reportedly in place so researchers consult with Google's legal,"
-    publishedDateTime: 2020-12-24T01:20:00Z
-    webUrl: "https://www.cnet.com/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-scientists-reportedly-told-to-make-ai-look-more-positive-in-research-papers/"
+  - title: "Google tightens grip on research on “sensitive topics”"
+    excerpt: "Google currently faced some backlash and is under fire for pushing out a researcher whose work pointed out the bias in AI. Addition review required."
+    publishedDateTime: 2020-12-26T02:45:00Z
+    webUrl: "https://techstory.in/google-tightens-grip-on-research-on-sensitive-topics/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 80
+      name: tech
+      domain: techstory.in
+    quality: 24
     images:
-      - url: "https://cnet3.cbsistatic.com/img/Q_VnGcvrL2Sqhng_3xo4M9IN2A0=/1200x630/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg"
+      - url: "https://techstory.in/wp-content/uploads/2020/12/saupload_google2.0.0.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Google reportedly tightens grip on research into ‘sensitive topics’"
-    excerpt: "Google is currently under fire for apparently pushing out a researcher whose work warned of bias in AI, and now a report from Reuters says others doing such work at the company have been asked to “strike a positive tone” and undergo additional reviews for research touching on"
-    publishedDateTime: 2020-12-24T01:47:00Z
-    webUrl: "https://techcrunch.com/2020/12/23/google-reportedly-tightens-grip-on-research-into-sensitive-topics/"
-    ampWebUrl: "https://techcrunch.com/2020/12/23/google-reportedly-tightens-grip-on-research-into-sensitive-topics/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/google-reportedly-tightens-grip-on-research-into-sensitive-topics/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://img.vidible.tv/prod/2018-09/27/5bac337dbf4885293903f4f0/5bac78c99ca31960e99f55c4_o_U_v1.png?w=550&h=310"
-        width: 550
-        height: 310
+        height: 800
         isCached: true
 
 secured: "aUsLdJbW4cmi8hFrz5TrdBxs79ymZDSJ1FKTcRIV4o+FsgPAUuBQql9YYZkzEO72usvdJ5DM6Fvam43ToBhoAM03DTXiAEgN40QIlrokrvmPnSFX+zlCcY3c9rTHJ7RSWNPqFMVfBf8gCQhyeVa+v5hJRqLTpicgLlKrxWGL7523XUCXr6wZ4+umgi94hFhcctBt0Em+TEtGHeZSYiZxdtpyaPOqbHvTdQ1dTMW1PVtywUjzmXsb2U3inqt3+wj4wh0nmHopxRh30+6cTBCxlebRjt5KvD49qE1QsCZYMTpUN1rEnCRWG42pUa9uIaAFuho+yqVSB5O7/wcA8s8RLH66ZRFEhTLJJh8taCb+/ew=;Fop1NuqDJgc6Qer8HqWTug=="

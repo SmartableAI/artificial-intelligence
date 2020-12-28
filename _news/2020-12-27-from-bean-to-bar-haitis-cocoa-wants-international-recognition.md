@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-interna
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition?amp"
 type: article
 quality: 61
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "18 Malaysians who have received international recognition in 2020"
-    excerpt: "It is time to take a closer look at the winners, inductees, and finalists that make the world a better place, and Malaysia proud."
-    publishedDateTime: 2020-12-24T02:34:00Z
-    webUrl: "https://www.prestigeonline.com/my/people-events/people/malaysians-internation-awards-recognitions-2020/"
-    ampWebUrl: "https://www.prestigeonline.com/my/people-events/people/malaysians-internation-awards-recognitions-2020/amp/"
-    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/my/people-events/people/malaysians-internation-awards-recognitions-2020/amp/"
-    type: article
-    provider:
-      name: Prestige Online
-      domain: prestigeonline.com
-    quality: 44
-    images:
-      - url: "https://www.prestigeonline.com/my/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Why is it not just a matter of recognition?"
     excerpt: "Pakistan cannot afford to recognize IsraelBy Wazir Zafar HassanThe posture of Arab states towards Israel is becoming soft. They want to establish relations with Israel. After a move by the"
     publishedDateTime: 2020-12-25T17:30:00Z

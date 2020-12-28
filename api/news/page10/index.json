@@ -2,6 +2,205 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
+      "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
+      "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T20:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-the-trouble-with-facial-recognition-doesnt-justify-a-ban.md",
+      "title": "The Trouble With Facial Recognition Doesn’t Justify a Ban",
+      "excerpt": "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click",
+      "originalUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-272359/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
+      "publishedDateTime": "2020-12-15T20:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report.md",
+      "title": "Global Artificial Intelligence in Law Market 2021: Market Growth, Trends, Revenue, Share and Demands Research Report",
+      "excerpt": "The report outlines the competitive framework of the “Artificial Intelligence in Law Market” industry detailing the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T19:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-sony-ai-launches-new-project-dedicated-to-gastronomy-research.md",
+      "title": "Sony AI launches new project dedicated to gastronomy research",
+      "excerpt": "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "originalUrl": "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "publishedDateTime": "2020-12-15T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-amazon-alexa-gets-real-time-translation-functionality.md",
       "title": "Amazon Alexa gets real-time translation functionality",
       "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
@@ -246,6 +445,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
+      "title": "Accurate neural network computer vision without the 'black box'",
+      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-aws-decommoditizing-compute-with-reinvent-2020-announcements.md",
       "title": "AWS Decommoditizing Compute With Re:Invent 2020 Announcements",
       "excerpt": "The AWS re:Invent event marks the last and largest conference ... For the reader that hasn't followed the Artificial Intelligence (AI) market as closely, Habana Labs is an Intel company that designs and delivers AI processors for training and inference.",
@@ -450,50 +693,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
-      "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg",
-          "width": 720,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1041,189 +1240,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-it-takes-a-lot-of-energy-for-machines-to-learn-why-ai-is-so-power-hungry.md",
-      "title": "It takes a lot of energy for machines to learn: Why AI is so power-hungry",
-      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
-      "originalUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
-      "publishedDateTime": "2020-12-15T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research.md",
-      "title": "BERG Deepens Research Collaboration With AdventHealth To Advance Aging, Metabolism and Nash Research",
-      "excerpt": "PRNewswire/ -- BERG, a clinical-stage biotech that employs patient biology and artificial intelligence (AI) to research diseases and develop",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082030/BERG_Logo.jpg?p=facebook",
-          "width": 2865,
-          "height": 1499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-nvidias-chips-have-powered-nearly-every-major-ai-breakthrough.md",
-      "title": "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough",
-      "excerpt": "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
-      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
-      "publishedDateTime": "2020-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-amazon-zoox-introduces-self-driving-robot-taxi.md",
-      "title": "Amazon Zoox introduces self-driving robot taxi",
-      "excerpt": "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
-      "originalUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg",
-          "width": 736,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
-      "publishedDateTime": "2020-12-15T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microso
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI in Autos
   - AI
   - Microsoft AI
+
+related:
+  - title: "Microsoft - Top 10 AI Tech Stocks Buying Levels Analysis"
+    excerpt: "Top 10 AI Stocks individual analysis i.e. for Google, Amazon, Apple etc. Microsoft is currently trading on an EC of 55 up from 50, basically awaiting earnings to play catch up to the stocks earlier spectacular bull run from a low of $131 to a high of $232."
+    publishedDateTime: 2020-12-28T14:53:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68182.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 54
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2020/Nov/Microsoft-20.jpg"
+        width: 800
+        height: 546
+        isCached: true
 
 secured: "EJP+OsfnsnZMPpw863ZlMyKSZvVGtcbSatOrOkGTPRWs+svhUQHPzJfkvu0g8hgDpN0xyq/rddqFPN/rr2V073lhXM0ICebWfVh7zQiTYHeLnVzZoWVbZ7AImwLQ9b/Bj1KdAP96p8eVMOueMHMW1CUyexZ2OZzbwGocsMn0eSy1ZtiS1yo9RB+Q0ET56pqf7BY2t2Nwq7cHZtWov0qAzu+G9kH0UBCLnzADQCu3N3ijHnl6G6h2tScFgNmDvb6gXM57lNFQ1Smm1nxqGM2Ne865vdqq8Rx2P9F7Kwt+WgUShJE/jECQ6vTuCnXFyUtly22lDGujod6VwmzpG9FQ9XZG5LBF7VsMU2Fz/NA95p8=;1YTJtrtvuc1fnieklR+uug=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Growing at Steady CAGR to 2026"
-    excerpt: "CMI announced that it’s published an exclusive report namely Global Artificial Intelligence in Telecommunication"
-    publishedDateTime: 2020-12-24T02:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-growing-at-steady-cagr-to-2026-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Products Market Size 2021 Research Report by Manufacturers, Regions, Type, Application and Forecast to 2025"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. “Artificial Intelligence Products"
     publishedDateTime: 2020-12-24T10:57:00Z

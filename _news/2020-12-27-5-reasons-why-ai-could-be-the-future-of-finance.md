@@ -39,6 +39,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "5 questions on the future of the Pentagon’s top AI office"
+    excerpt: "The chief AI strategist joined C4ISRNET to talk about progress the Joint Artificial Intelligence Center made this year and the significance of upcoming changes."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.armytimes.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
+    type: article
+    provider:
+      name: Army Times
+      domain: armytimes.com
+    quality: 37
+    images:
+      - url: "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Future of AI: AI's 10 To Watch"
     excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
     publishedDateTime: 2020-12-28T00:07:00Z
