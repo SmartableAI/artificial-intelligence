@@ -2,7 +2,7 @@
 name: "Bloomsbury AI"
 overview: "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise."
 type: "profile"
-heat: 50
+heat: 31
 
 website: http://bloomsbury.ai/
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=N0mRn1bQyzU"
 
-secured: "qO5MzgClJwW8ISW2FfOGbGECx5YaCLobdmutoEhCTJcaoXsJ2mPFw3tf0TNvWeyiQqWZdKKk6oVPfnR9U3vcJ7Vnnpg2STGHdPJLNJerPctEiwsIvsWUSdcNKrENI7gmx4v0vuDPgkRQA6CuG5zBT5VfP9XiKL5caOc+EMTDEeD+M2bPJxkbmdO0TQFvldhzmr3dS6df2cED7vABtKZ57CMoHZwVG22DRLshTMYjA8V6vjwAwSX4mA7EGHGzCH5UQB1VSjuDOBFBCcPRZ91rNcn9kEFWE1oEbbiEIm1bMquX4WDWS4DFQjKtbx7qHS2ldoKbaUxlKK8e9W0NS+PW+MCzP0EasgCLqpvbMvnf9GKA1tT8cDTdu0HZhfsLQDplsdgzhBAB3iS9O60Qo8YzTA==;ciaYlWxurxYHd+nXrbw5Wg=="
+secured: "Qfj36/lroM7GAQOpTi1UK2kTXfYDsUt6x5D0tYF72PpJZEytqAM+6BNicSfBhNyq4oO4Zu9q7qs94sIPjU094OmtuAYsX7xLqNSGq5Q36zq30F6a4ss4YuYrvCBvc1hn7X7CokYusZ0hJTni/2TkATeIRt5EAsOfsMgfsUclpYriWcB7+5/rJ/JHdibugF9xEvKzLhyF5BvZw+HDWmOQ+cKKYBA3DkxbgEhGzdzClR/pkiT62GBPtfIJ6HNSIYFAiRHwkGb1Li5gw48t4/tg2PzM01EZbYA4cymn6o3PU9ZNhyI7OqS0X+P7KgsnnNy2/76hOb74Qx/MNU/9iVh0ioyQRwpWMc2IHgzBs0dLzpd33nxJXZ4VrHU9fDO8diCXoI/0WyZGwibLOzZsDOAlsA==;WJyk04/QrnOOjaKIzNROLQ=="
 ---
 
