@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "It’s time for self-driving cars to really take off... but not for people"
-    excerpt: "In 2021 we will see autonomous driving finally find its fit – and it’s not in personal travel. Billed as the first everyday consumer application of AI, self-driving has simultaneously inspired its champions and proved a worry for its investors."
-    publishedDateTime: 2020-12-24T06:18:00Z
-    webUrl: "https://www.wired.co.uk/article/self-driving-cars-deliveries"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 23
-    images:
-      - url: "https://wi-images.condecdn.net/image/wWPoAMqzQEY/crop/1440/0.5235602094240838/f/1120wiredworldtransportuse03a.jpg"
-        width: 1440
-        height: 753
-        isCached: true
 
 secured: "z+Ng4rsPC4ZSmT9Amd0HJH+r04Qn35eq/TmrsbAisslA+WFJxBKfVKHrhciT6C6NYf6UgQUVPPYPs/k6tthi74I50o6ZYNHZeL5AkFyFdDJk2bd5aI74KZdtChs+gd78gUgykH0kQzRo3V1u4f/11hQ9uz4J+ZqRJ16m2DnihQbqG0g2cgmAsQiKBeemliyAKnje5gT333a5ZobEoU7C6IHhyxN0/TdcV8yOgL9DW2D4/xakVHSY0CUygfK9Xcnu2gd9V+IAE/uyzFRpvIMj71IQPjvpJuMrjSFYKVmhckGip5FVd5dF8tc0+UivezQVzqQJmznNkBnN3PcQx9OxMhBx/nVe4nLlxK+XDQ9jTB1J5wyEQxHd+9ou9+9DG8MObdQKFiHvgHZ3DSytq2a1smLggdk1miNjIbrNVW3argMNAZCtgnYrpvUnw7d0083LqkY79dLZkkNIf95rCUhWb54hul8f2FufkBrHKn1sbVtE0ZfpvEPCIMTmMCORpui83PPE1iR6yApGy7qVK9S+vg==;sLiTJpiFA/L9fbDZfGFNRg=="
 ---

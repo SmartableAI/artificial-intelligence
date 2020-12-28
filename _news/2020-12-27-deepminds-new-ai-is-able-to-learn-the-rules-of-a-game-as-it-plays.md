@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind MuZero AI can master games without knowing the rules"
-    excerpt: "The holy grail of AI has always been to enable computers to learn the way humans do. The most powerful AIs today, however, still rely on having certain known rules, like rules for a game of chess"
-    publishedDateTime: 2020-12-24T05:44:00Z
-    webUrl: "https://www.slashgear.com/deepmind-muzero-ai-can-master-games-without-knowing-the-rules-23652402/"
-    ampWebUrl: "https://www.slashgear.com/deepmind-muzero-ai-can-master-games-without-knowing-the-rules-23652402/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-muzero-ai-can-master-games-without-knowing-the-rules-23652402/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/muzero-1.jpg"
-        width: 1280
-        height: 800
-        isCached: true
 
 secured: "M86IWccZ8Az+lTMf50f0y7DABjpQtVraojbVi2bYz4bYr8Jrnaq+ZMPSO7jgBMtzu9RN2PrSQU2r6UP5sCUACUuFRW1WoNMfrTILRVe5/LorCjCyMeW5SKY+6H7UbCvm4gCsngirYf9HpwvJ3xRY28KvSeG9C0irEDj1AtKmNuzOCBzHpF9wTBdM0PoCQe0IR99k6XEAANWsNhVJUnj85HlaQxztM0RMyLNVPJlka5suisoaCeqjxR0AxMsqU6gEgefIen44HV6BBbwONyn12jAcMHCjPoiacf1FX+MQEfi3GsiGdhsOXPvd1S1su5wkK+LbvVDSwQyjKUpMBjMie1O9t84lxrmd5B/OtkhzTm4dyJC0FU3fpsxMEdfW8N5q2tP/YevA/XtTK5xXyR7wmasca3UlIMZS7L1EK6tuHgu1V0/j6cgv4OQBANYndhOPHbT3VH6IYrCGzcr192PnFHUeGUBqb3uZVA1fkXo70yffHD35OfkHKblxMsHyyh39432loVwRQGlmuOkX/UYP2g==;RIKRqLhCcI0ito/ymfEdHg=="
 ---

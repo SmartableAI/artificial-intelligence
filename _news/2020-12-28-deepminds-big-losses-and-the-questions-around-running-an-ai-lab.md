@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-ques
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind MuZero AI can master games without knowing the rules"
-    excerpt: "The holy grail of AI has always been to enable computers to learn the way humans do. The most powerful AIs today, however, still rely on having certain known rules, like rules for a game of chess"
-    publishedDateTime: 2020-12-24T05:44:00Z
-    webUrl: "https://www.slashgear.com/deepmind-muzero-ai-can-master-games-without-knowing-the-rules-23652402/"
-    ampWebUrl: "https://www.slashgear.com/deepmind-muzero-ai-can-master-games-without-knowing-the-rules-23652402/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-muzero-ai-can-master-games-without-knowing-the-rules-23652402/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/muzero-1.jpg"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "DeepMind’s New AI Is Able To Learn The Rules Of A Game As It Plays"
     excerpt: "Alphabet’s subsidiary DeepMind has recently developed an AI system capable of learning the rules of a game as it plays. While DeepMind has created impressive AI models that can master games like Chess,"
     publishedDateTime: 2020-12-27T07:52:00Z

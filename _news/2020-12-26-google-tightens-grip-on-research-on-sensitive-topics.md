@@ -41,22 +41,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
-    excerpt: "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation."
-    publishedDateTime: 2020-12-24T06:27:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/kqb50b/article33385595.ece/ALTERNATES/LANDSCAPE_615/google-three-lawsuitsjpg"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "s7gk+2olJXAo7h5jbM0q3jrglW9pQ1I4Sw2VQzry7jRcgXiUzObpaPyGc48dryNYwti44y3iilMpa6SvutfGjy7310gpgtVypVVdgFN0DInoHFa2ErL3TBWyyi31cztqP0K0v09LN0DIS0se4kaNYK4Io1QJi/m668lLdVk2lMdzWWI26RbGvSiakf58Fd0pD0v0Tyi9AFUVij3XAPpN70D4oSTZSkBMtRCQEublHQHTijhAdE6uI/umnvroarU4cGAiD3rujgOiE1j1Euc4XFNqaJPa7hDIoIdEmqSK6HP5lQHVtpoNPZRE1x30G1qjqTTYDeDPGGD0ldcMi/d+R2KKn3y4GMOyCbET6ramRE8=;ARRXcN46ekvPHDSPAALhuw=="
 ---

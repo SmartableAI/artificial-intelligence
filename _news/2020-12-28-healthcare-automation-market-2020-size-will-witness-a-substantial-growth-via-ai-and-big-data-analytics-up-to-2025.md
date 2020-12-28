@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-automation-ma
 webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI and Analytics Pioneer Absolutdata Acquired by ChrysCapital-Backed Infogain"
-    excerpt: "Absolutdata, a leader in delivering scalable business impact through AI-powered solutions, advanced analytics and data science services, today announced it has been acquired by Infogain, a ChrysCapital portfolio company that is a leader in human-centered digital platform and software engineering services."
-    publishedDateTime: 2020-12-24T07:02:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201224cg32837/ai-and-analytics-pioneer-absolutdata-acquired-by-chryscapital-backed-infogain"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/794351/Absolutdata_logo_2018_Logo.jpg"
-        width: 400
-        height: 293
         isCached: true
   - title: "Big Data Analytics, AI, and Collaborative Combat Driving the Evolution of Land-based EO/IR CONOPS, 2019–2029"
     excerpt: "Reportlinker.com announces the release of the report \"Big Data Analytics, AI, and Collaborative Combat Driving the Evolution"

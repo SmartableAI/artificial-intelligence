@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-20-top-marketers-highlight-5-common-themes-about-the-impact-of-2020-on-business.md",
+      "title": "Top marketers highlight 5 common themes about the impact of 2020 on business",
+      "excerpt": "CMO at IBM Watson Advertising and Weather, emphasized that messaging be as relevant as possible during times of uncertainty, noting how IBM’s clients are leveraging their technology to do just this. “We’re using AI to help clients be more responsive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickz.com/top-marketers-highlight-5-common-themes-about-the-impact-of-2020-on-business",
+      "originalUrl": "https://www.clickz.com/top-marketers-highlight-5-common-themes-about-the-impact-of-2020-on-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.clickz.com/wp-content/uploads/2020/12/Online-retail-COVID-19-1-1200x630-1-scaled.jpg",
+          "width": 768,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickz.com/top-marketers-highlight-5-common-themes-about-the-impact-of-2020-on-business/264519/amp/",
+      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/top-marketers-highlight-5-common-themes-about-the-impact-of-2020-on-business/264519/amp/",
+      "publishedDateTime": "2020-12-19T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClickZ",
+        "domain": "clickz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-what-to-expect-in-the-nlp-space-in-2021.md",
       "title": "What to expect in the NLP space in 2021",
       "excerpt": "2020 has been a great year for the advancement of Natural Language Processing (NLP). We have seen a large number of organizations, from small ventures to massive enterprises, adopt NLP into their business solutions and data pipelines. With this high rate of adoption comes the next set of innovations",
@@ -1379,57 +1422,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-admed-unlocks-answers-to-health-questions-with-watson-assistant.md",
-      "title": "AdMed unlocks answers to health questions with Watson Assistant",
-      "excerpt": "It can be challenging to communicate accurate scientific information, especially in times where the COVID-19 pandemic is by far the most searched topic on Google, impacting everything from our news to the economy. Having so much information available also leads to the rapid spread of all sorts of misinformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/Watson_Blog_Healthcare_Leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T10:20:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

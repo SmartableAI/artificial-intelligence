@@ -1,18 +1,18 @@
 ---
 category: news
 title: "5 questions on the future of the Pentagon’s top AI office"
-excerpt: "WASHINGTON — This year, the Pentagon’s top artificial intelligence office kicked off its first joint war fighting initiative, realigned the organization to meet new department needs and got a new director. If the fiscal 2021 defense policy bill, known ..."
-publishedDateTime: 2020-12-28T18:39:00Z
-originalUrl: "https://www.federaltimes.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
-webUrl: "https://www.federaltimes.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
+excerpt: "The chief AI strategist joined C4ISRNET to talk about progress the Joint Artificial Intelligence Center made this year and the significance of upcoming changes."
+publishedDateTime: 2020-12-28T22:57:00Z
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Federal Times
-  domain: federaltimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI
@@ -62,6 +62,6 @@ related:
       domain: ieee.org
     quality: 17
 
-secured: "Ua2AUvW87d3k7ZIhiYJ0o43hrGBmIe1oBAMBYbdeGSIJI+E9+Gz4Dp/1jaKwQTlMuBx2MyZ9gE7WBU6RiTzFTrvfUX/sn6ZFpx4+RmI1XZ1jSXKv6xzgviyDqa5T05S33XL8FPINUkwkzZJXUz2aWHklme/YWOXcN9HHVCLSDF9h/34tY+R/2NkWDPv/MWh9n0wVRlbdxaZztVhapOvNT6waA0p00/XaIUt0xECC/k/qHxSmwIYrQjxhCPIfji3wQkbrgrfcnkwYgz21eKH652JMYekbVQt7V1tHia4hQIiTLOkznRrInYNw7FRGyuXDmip3ER985xW44/ell341Gubbi+6c+sXaOAdxsz77VJc=;8Ab7TeudymKQ/kr1z9Wc4w=="
+secured: "Oa2ZbfsOJIJ5fvgYVTANhajGYqQvKN3SbKucxuC8jD4qnL5hqcCAi3lcLorEzuslD/hCbMqFa+YUfBekMdD4nVex4I04+USg0ubn3BY9vee9NlkTXgFN5bzjN/7dcwGUOLFqllbQrKN7b6lm0XhxybT+ZD1hgg645mYtks851Fb5QBs1sV999CAxes1LR8uiI6CzNMjFKb+KBgrWXEVDFOYy5H4SlB6gfQxj2rZdv9eATUbeeiexYi/7E8TTtsUkXeNMH0gmHZRDkcfxn/lAJkiVnAEwyMPH9VcpcMiq0q+to8h2kq/Di3OoL+9sOusXBcMQbA1wRhu4LomHCR2pRBaidWvaTQexghOmtHfSRBY=;5Gv2CwViVAzlP1qc7VzBTA=="
 ---
 

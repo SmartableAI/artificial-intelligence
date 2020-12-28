@@ -60,8 +60,8 @@
       "title": "50-Plus Biggest AWS Announcements From re:Invent 2020",
       "excerpt": "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/19",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -94,9 +94,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {

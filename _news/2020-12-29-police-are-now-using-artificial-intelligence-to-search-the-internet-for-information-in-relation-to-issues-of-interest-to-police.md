@@ -48,6 +48,15 @@ related:
         width: 1024
         height: 717
         isCached: true
+  - title: "Police are tackling the issue of extremists exploiting social media, by increasing their artificial intelligence technology"
+    excerpt: "It's believed the unit will focus on mainstream social media channels like Facebook and YouTube. Former intelligence analyst Paul Buchanan says it's better late than never. He says Police are finally using technology that has been sitting in front of them,"
+    publishedDateTime: 2020-12-28T22:48:00Z
+    webUrl: "https://home.nzcity.co.nz/finance/article.aspx?id=324726"
+    type: article
+    provider:
+      name: NZCity
+      domain: nzcity.co.nz
+    quality: 0
 
 secured: "HX/4biTp2VgTPv6cuwSwtVpo3FVA7TzcPc2T5NGz9QtdCzgfJ2IBq/v4DeDlfAFLidlppYLO0QDR4Qg9CpxmqTpu11uEc2xsyQcqsnuM73bKjTLL1bV5UCRlUD0LBP9HsX/mPWnfgIsImO2jZAKVXtWuOOJ+NClV9p8qT70nHpaEzUzWOYVHmE6A+d8ZdbQarZMrsQpWXDLerINRYDJtjSRssLj1+E6VQ9SoGWcnRKNzdqTx4QAXysij2jxxdhwYSc49Xu2uemPhFyMk13iozZjkwxRk3AvDyH4x7dF8QRrJV9Cea73ABiWtLWHFHOI0mK9nH849MrZZ7qEBBlgK4QFpRZADXEE7WP2c6G2imqE=;omnWDtSY68VvEZ3cILhK9g=="
 ---

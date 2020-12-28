@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2020/11/R2101F_REID.jpg"

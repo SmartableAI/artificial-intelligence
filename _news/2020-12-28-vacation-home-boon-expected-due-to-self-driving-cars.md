@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/12/VP-COMP-APPLE-CAR.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
-        isCached: true
-  - title: "It’s time for self-driving cars to really take off... but not for people"
-    excerpt: "In 2021 we will see autonomous driving finally find its fit – and it’s not in personal travel. Billed as the first everyday consumer application of AI, self-driving has simultaneously inspired its champions and proved a worry for its investors."
-    publishedDateTime: 2020-12-24T06:18:00Z
-    webUrl: "https://www.wired.co.uk/article/self-driving-cars-deliveries"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 23
-    images:
-      - url: "https://wi-images.condecdn.net/image/wWPoAMqzQEY/crop/1440/0.5235602094240838/f/1120wiredworldtransportuse03a.jpg"
-        width: 1440
-        height: 753
         isCached: true
   - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
     excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."

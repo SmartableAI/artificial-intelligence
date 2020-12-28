@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
     excerpt: "This comes as an independent review of the police response to the Christchurch mosque shootings - made a raft of recommendations into how police could improve future responses. Former intelligence analyst Paul Buchanan says he doesn't understand why this technology hasn't been used earlier."
     publishedDateTime: 2020-12-28T18:43:00Z
     webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726"
+    type: article
+    provider:
+      name: NZCity
+      domain: nzcity.co.nz
+    quality: 0
+  - title: "Police are tackling the issue of extremists exploiting social media, by increasing their artificial intelligence technology"
+    excerpt: "It's believed the unit will focus on mainstream social media channels like Facebook and YouTube. Former intelligence analyst Paul Buchanan says it's better late than never. He says Police are finally using technology that has been sitting in front of them,"
+    publishedDateTime: 2020-12-28T22:48:00Z
+    webUrl: "https://home.nzcity.co.nz/finance/article.aspx?id=324726"
     type: article
     provider:
       name: NZCity
