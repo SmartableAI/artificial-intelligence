@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questio
 ampWebUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
 type: article
-quality: 104
-heat: -1
-published: false
+quality: 106
+heat: 206
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
@@ -94,22 +95,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
         width: 1198
         height: 600
-        isCached: true
-  - title: "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them"
-    excerpt: "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,"
-    publishedDateTime: 2020-12-23T18:53:00Z
-    webUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/"
-    ampWebUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "DeepMind just taught AI how to win a game without knowing the rules"
     excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
@@ -202,6 +187,6 @@ related:
         height: 2480
         isCached: true
 
-secured: "0+FzERbXK3PenGC4GNFO2/gHuSWXLcpAkOvULyuOeYF8Rntqyx4SpiqinHgk02Ec0dY2e9GyIPms5AXlrgMpWjFTnhgKA4g/Jtsp5L0+vBJpicBWsFKUdLFvT+72PtcTTnwzLdGmm7z5tRPP4GX3j4aAqum5OzIaJeXTKvKmI8YRDnP+1opqv2wOIDQqcPGCM9Lu+3yXwOFmErQZQiCbLGoDknk+P42n+Kb+0lvn2wU+SQFzlubTXuXUgcWzYSJ9G2Pwts+OZ5gh6mImbPIz7dJVK8sGYz193U5jiuiQ5HHYpIl2jmrbDFVpta1XmHv98DJoeai8Lwu5NU/OneNNwz3LXICgHikP35KETzFfMhE=;qZ+ydEOxImZaDJ/Trmq5KQ=="
+secured: "YXVqxYQYZ3uBfuDDqNOyK2B2fD4IydnIn0xNhrrsMUeMymeUGXjcrdgb6OnF6q9YnNyDltFBeeYt5RajacgAMf4QptDuu8iQfk9f5uPOXgTkTu6ftOLutPWI5LOpVEg/2Pt4R98hl4J+ZaL+Ai/lXfq9xgNV6LYAxwGdZyNBW1296OXDhI+Pdd72A8QhpO7+NeatG7VSjhAqbFYSVZhxWcRoe9y061amGFtC2NZ4QPTztpwF/y4dQQvgGmD90n0UWPmJKI5HXSolSBYGbCrlCMC/8sl6P3pquXPU7PsZ6cQTvYdio5rCc8opDItNl2WT8eOwkSdAruWu8F6FZERjE3J7DcpRHnX3OvrPDjOSiuoW2/DbZPdhc3Vh2avYfMjstg9iwS0ufA+PYPezjadDDhidEdlhFo+ZrN3TmpWZBWaf+ZMCNt3uiOY3Sf8m51hcXDaLxPQFhJl+A8L7AiUb/feC8+QGNmSjXoFrharOFV993FpRwnfjN4L/lPLs9BW/dn/k9sALNUAYbcOTqAGBEA==;g8KBrZdK7GVQ9pbT6yispA=="
 ---
 

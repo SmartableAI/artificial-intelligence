@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s big losses, and the questions around running an AI lab"
+    excerpt: "Guest Last week, on the heels of DeepMind’s breakthrough in using AI to predict protein-folding came the news that the UK-based AI company is still costing its parent company Alphabet Inc hundreds of millions of dollars in losses each year."
+    publishedDateTime: 2020-12-27T22:26:00Z
+    webUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/"
+    ampWebUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind AI MuZero can learn AND master Chess, Go, Atari"
     excerpt: "Today the machine learning algorithm MuZero was detailed in a feature research paper in Nature. MuZero expands on the abilities of systems like AlphaGo, AlphaGo Zero, and AlphaZero. Each new algorithm allowed a smart machine to become better at mastering ..."
     publishedDateTime: 2020-12-23T20:22:00Z
@@ -78,38 +94,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe9a26a30-44ca-11eb-af9e-fbbada99bdf7&client=amp-blogside-v2&signature=86dc1078e2e85e46497c6ab2082a714f60cbab7a"
         width: 600
         height: 350
-        isCached: true
-  - title: "DeepMind’s big losses, and the questions around running an AI lab"
-    excerpt: "Guest Last week, on the heels of DeepMind’s breakthrough in using AI to predict protein-folding came the news that the UK-based AI company is still costing its parent company Alphabet Inc hundreds of millions of dollars in losses each year."
-    publishedDateTime: 2020-12-27T22:26:00Z
-    webUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/"
-    ampWebUrl: "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them"
-    excerpt: "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,"
-    publishedDateTime: 2020-12-23T18:53:00Z
-    webUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/"
-    ampWebUrl: "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "DeepMind just taught AI how to win a game without knowing the rules"
     excerpt: "Alphabet’s AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that"
