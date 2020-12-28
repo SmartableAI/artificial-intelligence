@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Data-Centric, AI-First Market Trends And Predictions For 2021"
-    excerpt: "AI Ethics, transparency and responsible AI are going to become table stakes. The use of marketplaces as a consumption model for the best-of-breed AI/ML ecosystem will thrive. I believe 2021 is truly going to be the coming-out party for AI/ML ecosystem."
-    publishedDateTime: 2020-12-23T13:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Artificial Intelligence in Construction Market Inclinations and Development Status Highlighted During Forecast Period 2020-2025"
     excerpt: "The AI in Construction Market was valued at USD 466.9 million in 2019, and it is projected to be worth USD 2312.8 million by 2025, registering a CAGR of 33.87% during the period 2020 to 2025. According to the Association of Equipment Manufacturers (AEM),"
     publishedDateTime: 2020-12-26T22:46:00Z

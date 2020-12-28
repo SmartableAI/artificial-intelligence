@@ -56,24 +56,15 @@
     {
       "path": "_news/2020-12-18-pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions.md",
       "title": "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions",
-      "excerpt": "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it",
+      "excerpt": "Pintec Technology Holdings Ltd., a leading independent fintech solutions provider, announced today that it has cooperated with China Mobile Communications Corp.' s subsidiary Aspire Holdings Ltd. to jointly develop advanced fintech solutions,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html",
+      "webUrl": "https://www.nasdaq.com/press-release/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech",
+      "originalUrl": "https://www.nasdaq.com/press-release/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -81,8 +72,8 @@
       "publishedDateTime": "2020-12-18T02:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

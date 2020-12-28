@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-26-these-3-tech-stocks-gained-over-50-in-2020-heres-why-theyre-still-buys-in-2021.md",
+      "title": "These 3 Tech Stocks Gained Over 50% in 2020: Here's Why They're Still Buys in 2021",
+      "excerpt": "The S&P 500 has gained about 14% in 2020, but many technology stocks easily outpaced the market this year as investors looked to this sector as a haven during the pandemic. NVIDIA",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?time=1608988801",
+      "originalUrl": "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?time=1608988801",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?amp",
+      "publishedDateTime": "2020-12-26T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-nvidia-opens-ai-storefront-in-aws-marketplace.md",
       "title": "NVIDIA Opens AI Storefront in AWS Marketplace",
       "excerpt": "The use of the AWS Marketplace democratizes AI capabilities. The year 2020 will be remembered for a lot of things, among them a global pandemic, social justice and a historic election. These grabbed center stage because they have huge societal implications.",
@@ -1444,59 +1478,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief.md",
-      "title": "Apple Shifts Leadership of Self-Driving Car Division to AI Chief",
-      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "publishedDateTime": "2020-12-08T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

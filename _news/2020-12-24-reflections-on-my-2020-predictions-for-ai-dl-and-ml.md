@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data-Centric, AI-First Market Trends And Predictions For 2021"
-    excerpt: "AI Ethics, transparency and responsible AI are going to become table stakes. The use of marketplaces as a consumption model for the best-of-breed AI/ML ecosystem will thrive. I believe 2021 is truly going to be the coming-out party for AI/ML ecosystem."
-    publishedDateTime: 2020-12-23T13:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/23/data-centric-ai-first-market-trends-andpredictions-for-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Predictions for AI-powered digital healthcare in 2021"
     excerpt: "Oncology diagnosis inclusing digital pathology, telehealth and physician access are just some of the areas where AI can have outsize impact in 2021"
     publishedDateTime: 2020-12-23T15:27:00Z

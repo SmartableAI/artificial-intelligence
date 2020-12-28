@@ -23,6 +23,19 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Redesigning Business Processes with Artificial Intelligence and Automation"
+    excerpt: "The number of intelligent automation engagements has increased by 75% in the last 12 months, with industry-specific"
+    publishedDateTime: 2020-12-24T02:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18920088/redesigning-business-processes-with-artificial-intelligence-and-automation"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18920088"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18920088"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+
 secured: "yhvJ5Sr/Qln/idTcrqFTlcnlTvqk+9FBB3D5qHe1nB8AefMRb+efKiumPoW1/BPpsrxU5Uc3kR27c/dsZQGfJu0UD9S9yu/7K60YWAasulKuDa5DYWd/+GTd12D2nTwG9Yx9lyoVoX9xHmbEVVqTBX76xOzSdYRwHKt5X7MMLboDwYK7//W2pqhWKalFB9e9zKjdZcuRrqxBXhwHHkLRkK+UFu5HqkBH1uvSRV6ATsltFGc5cDl69JWIjneuXvSb0fWO+QrWLl42JlgBEFWiIHqS4YGObXlWu9rrPfveyPRwJjOyuH/nDVhOlzezOf5U2HwJURCQ4h/AqSzBVAhWJYxJ51IsvcpV23yLQy5QYAYYMz0oe70nDsf/s79mZkEY8gJrlkL6uRgJCaEJopgmr9MkNuV33q36L1husYijfcSOLwPY6NqWrN70BegJvowFC11OwBjX+2kduJYFggMNDi+kD4ByahOCx5QJk+ydhHucYeNPOv8+DCJYQWdILqIs4XpnyjO7v8dSs0quHZf8oA==;73W3/eIVRnq4iTsAO6hP9A=="
 ---
 

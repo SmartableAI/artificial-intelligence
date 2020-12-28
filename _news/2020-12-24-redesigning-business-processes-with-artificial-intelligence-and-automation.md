@@ -20,19 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "Drones and AI detect soybean maturity with high accuracy"
-    excerpt: "In a new study from the University of Illinois, researchers predict soybean maturity date within two days using drone images and artificial intelligence, greatly reducing the need for boots on the ground."
-    publishedDateTime: 2020-12-23T14:50:00Z
-    webUrl: "https://www.agrinews-pubs.com/news/science/2020/12/23/drones-and-ai-detect-soybean-maturity-with-high-accuracy/"
+  - title: "How Data and AI Will Keep Your Customers Happy and Engaged"
+    excerpt: "By working together, data and AI can build a more in-depth, robust customer engagement system for a business. Customer engagement is among one of the hallmarks of successful businesses in the twenty-first century."
+    publishedDateTime: 2020-12-23T23:11:00Z
+    webUrl: "https://www.chron.com/business/article/How-Data-and-AI-Will-Keep-Your-Customers-Happy-15825606.php"
     type: article
     provider:
-      name: AGRINEWS
-      domain: agrinews-pubs.com
-    quality: 39
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
     images:
-      - url: "https://www.agrinews-pubs.com/resizer/pX0j5oE-7MZKq7HaRxiJGvM_fPg=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/shawmedia/KX7ITKRNA5BJBNY5HLIX6ABEHA.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/01/15/72/22/20423865/5/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "1UAa6Qmx6+t7oROR7E4xAF7mFPFQjbzMA5HyQErgr+73Sg8kcA2f3wqu0zD3RqZuUklLsvOTFtK+GnpoCkdHY5ZQvLc2DF6wYM5muXnmSNALKQ8TiEwbfxUUP3C9YgBDU7wfr5JJQac5u6U0j9xGDZv7lKeX4uydXTRUJyQ/cHYLMweXqb/RJv28TI3b6huzrbly5pqmRrsdf1JV37LdDrEeiSp74JpIDPW5sjzr7Mkq/8Ynuj8t8v1gAm7D3002k/PvArHE7Z9RD2TQ3o8/nP4hwXMbd+rjp1VFgy/rhT0UzdPQLOSmVZXd9w4UkzMHYUWh5dUmsi88pRGxDv+svaoJGQFBgihZpQCgyAndnus=;qWim1vDtxzZ0Hkny8beOfw=="

@@ -143,15 +143,6 @@ related:
         height: 533
         isCached: true
   - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
-    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,"
-    publishedDateTime: 2020-12-23T14:10:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
     excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
     publishedDateTime: 2020-12-23T20:10:00Z
     webUrl: "https://www.benzinga.com/pressreleases/20/12/g18916127/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-se"

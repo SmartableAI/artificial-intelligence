@@ -2,6 +2,108 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-16-if-ai-is-our-future-what-can-we-learn-from-the-past.md",
+      "title": "If AI Is Our Future, What Can We Learn From The Past?",
+      "excerpt": "The power of AI to solve large-scale problems perhaps met no greater test than COVID-19. Around the world, medical experts have leveraged AI to drastically reduce the time scale of finding and developing a new vaccine to treat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2020/12/16/if-ai-is-our-future-what-can-we-learn-from-the-past/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2020/12/16/if-ai-is-our-future-what-can-we-learn-from-the-past/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd9ee7b029c832d83da732d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D12000%26cropY1%3D958%26cropY2%3D7712",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/12/16/if-ai-is-our-future-what-can-we-learn-from-the-past/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/12/16/if-ai-is-our-future-what-can-we-learn-from-the-past/amp/",
+      "publishedDateTime": "2020-12-16T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-adp-adds-more-ai-tools-to-its-datacloud-for-hr-data-comparisons.md",
+      "title": "ADP adds more AI tools to its DataCloud for HR data, comparisons",
+      "excerpt": "ADP DataCloud leverages anonymized and aggregated data from more than 740,000 companies for headcount, compensation and retention benchmarks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/adp-adds-more-ai-tools-to-its-datacloud-for-hr-data-comparisons/",
+      "originalUrl": "https://www.zdnet.com/article/adp-adds-more-ai-tools-to-its-datacloud-for-hr-data-comparisons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/975a21b6-5b42-4d2f-a4f4-9b6eb980e94e/storyboard.png",
+          "width": 1920,
+          "height": 1836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adp-adds-more-ai-tools-to-its-datacloud-for-hr-data-comparisons/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adp-adds-more-ai-tools-to-its-datacloud-for-hr-data-comparisons/",
+      "publishedDateTime": "2020-12-16T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers.md",
       "title": "Ping An launches artificial intelligence assisted clinical decision support system for gastroesophageal cancers",
       "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,",
@@ -1133,92 +1235,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research.md",
-      "title": "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research",
-      "excerpt": "--(BUSINESS WIRE)--Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been named a strong performer in the report, The Forrester New Wave™: Computer Vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
-      "originalUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation.md",
-      "title": "AI ‘pre-cog’ predicts which Twitter users will spread disinformation",
-      "excerpt": "Researchers used the system to forecast which social media users will share disinformation in the future and also revealed the language that they use.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/dorseyminrotiyreport-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
-      "publishedDateTime": "2020-12-15T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

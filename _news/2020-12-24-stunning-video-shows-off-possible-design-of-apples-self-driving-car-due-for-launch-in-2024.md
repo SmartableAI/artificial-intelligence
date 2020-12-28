@@ -43,31 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "4 LIDAR Stocks to Benefit From Self-Driving Car Revolution"
-    excerpt: "With driverless technology being one of the hottest investment ideas in the auto market, the best way to tap the AV revolution would be to invest in the core technology that has made self-driving cars a reality."
-    publishedDateTime: 2020-12-23T14:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-lidar-stocks-to-benefit-from-self-driving-car-revolution-2020-12-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
-    excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."
-    publishedDateTime: 2020-12-23T13:48:00Z
-    webUrl: "https://mybighornbasin.com/scotts-car-corner-apple-to-come-out-with-a-self-driving-car/"
-    type: article
-    provider:
-      name: Big Horn Radio Network
-      domain: mybighornbasin.com
-    quality: 39
-    images:
-      - url: "https://mybighornbasin.com/wp-content/uploads/2020/12/vaccine-pexels-1.jpg"
-        width: 418
-        height: 596
-        isCached: true
   - title: "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021"
     excerpt: "Stock Market News, Stock Advice & Trading Tips Investors seeking exposure to the driverless car revolution now have the"
     publishedDateTime: 2020-12-23T22:23:00Z

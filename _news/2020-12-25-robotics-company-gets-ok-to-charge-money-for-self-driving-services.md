@@ -9,7 +9,7 @@ ampWebUrl: "https://dunyanews.tv/amp/english/579822.php"
 cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php"
 type: article
 quality: 76
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -143,15 +143,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
-    excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,"
-    publishedDateTime: 2020-12-23T14:10:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8117216/nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch-self-driving-delivery-service-in-the-state"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
   - title: "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch Self-Driving Delivery Service in the State"
     excerpt: "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling"
     publishedDateTime: 2020-12-23T20:10:00Z

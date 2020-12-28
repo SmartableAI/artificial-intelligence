@@ -3,12 +3,14 @@ category: news
 title: "These 3 Tech Stocks Gained Over 50% in 2020: Here's Why They're Still Buys in 2021"
 excerpt: "The S&P 500 has gained about 14% in 2020, but many technology stocks easily outpaced the market this year as investors looked to this sector as a haven during the pandemic. NVIDIA"
 publishedDateTime: 2020-12-26T13:11:00Z
-originalUrl: "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26"
-webUrl: "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26"
+originalUrl: "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?time=1608988801"
+webUrl: "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?time=1608988801"
+ampWebUrl: "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?amp"
 type: article
-quality: 43
-heat: 43
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
   name: Nasdaq
@@ -34,6 +36,6 @@ related:
         height: 300
         isCached: true
 
-secured: "ZFsCYXo2h83+SApQ/mCr4rNtXQ9DkYgkl8LB8USnVDIGBwW5ql7sbLF28lFZdvOvAil36C1S02hHmpysQNIroSZDrZOSPJgcpQbObHee1v9ZQmnzv2rZeuS1ZpbPn6qWf9rSR9Eyz44Wq6shByZj7AuOtiftaNCZEZ+CEqIG9Vv5HIwCXM7ya9I2OfdhO0JnDb9eQ/M2p1AaCrsSer32CPmhqZGRwRddmY2U6bIOlB+gc0Ha9+wgAo83rsFLK483M9L6uXcz3UJAgn+fAJDXo7KhBoXFDXCFgHZLEWbNHXlgFc+MPC2mwmZZC7UTIB2b9Nj2pKzpIG29Go0vgd1Zyuo8ZBKivTp46JJepgw14Mc=;Zu9QcUTLDphgf0eDYQ6KJw=="
+secured: "ygr8QqZ1+l6ToH+YVPNT+vhPW8UEblVNyaCYobv6sDmeqfVqfPLxnBTOWv4cIkZwG506GvuPIG0Lz9/FZQA+0T5Jh6aFR2X+sxX//YsKahQvkN7J/t0hsGpIlEUj9JpVba9lJx0b1XIOA7/O0JxKktVi56nEUKFN7Y2HAM8GjSU+M5Ed+vGaQe4kSCCm+9R6WCwH2n6zh8nkfQLJldyw33AL9n3ZgarttIWthQqE0eM0iWaauThW87EPu8gUOOIDFHzWbKkT/ZGm5RkshwcSaznSn0PzXak5J3lJ2dCB8HFKPBT3QBFVe2qlTATaJoA3Oe8GPhtaDnak9nB/hmy6po5U0qs+GKxyRbmTOtRoGjc=;X1jw4analTaNTWy5S/OclA=="
 ---
 
