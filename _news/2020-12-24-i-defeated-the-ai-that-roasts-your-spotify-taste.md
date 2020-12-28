@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/i-defeated-the-ai-that-roasts-your-spotify-taste-1845941439/amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/12/ad-pudding-cool-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Forget Spotify Wrapped, this AI skewers your streaming music tastes"
-    excerpt: "Instead of some snooty human wanting to “educate” you on appropriate musical tastes, you can now let an AI simply tear those tastes down. The AI-powered “Judge Your Spotify” bot goes through your Spotify history before summarily launching a verbal assault on your pathetic tastes."
-    publishedDateTime: 2020-12-23T12:23:00Z
-    webUrl: "https://www.fastcompany.com/90589897/forget-spotify-wrapped-this-ai-skewers-your-streaming-music-tastes"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/12/p-1-forget-spotify-wrapped-this-ai-skewers-your-streaming-music-tastes.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "‘How Bad is Your Spotify?’ How to get an AI bot to shame you for your music taste, and who created it"
     excerpt: "The AI robot will tell you which songs you listen to 'too much' and which artists you obsess over 'to an uncomfortable extent'"

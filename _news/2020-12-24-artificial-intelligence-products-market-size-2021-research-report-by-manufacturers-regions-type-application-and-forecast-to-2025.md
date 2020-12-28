@@ -72,17 +72,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Ai In Telecommunication Market Analysis, Trends, Growth, Share and Forecast - 2025"
-    excerpt: "and translation between languages. This technology has the potential to transform the operations and functions of a variety of industries due to its tremendous potential to achieve breakthroughs for a variety of ideas. Get Sample Copy of Ai In ..."
-    publishedDateTime: 2020-12-23T11:49:00Z
-    webUrl: "https://www.openpr.com/news/2215900/ai-in-telecommunication-market-analysis-trends-growth-share"
-    ampWebUrl: "https://www.openpr.com/amp/2215900/ai-in-telecommunication-market-analysis-trends-growth-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215900/ai-in-telecommunication-market-analysis-trends-growth-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
   - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
     excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
     publishedDateTime: 2020-12-24T13:41:00Z
@@ -92,20 +81,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-19 Impact Analysis for Artificial Intelligence and Cognitive Computing Market 2020 | Size, Opportunities & Forecast To 2026 Market.biz"
-    excerpt: "Artificial Intelligence and Cognitive Computing Market 2020 Projected to Witness Vigorous Expansion by 2026. The Artificial Intelligence and Cognitive Computing Market research report discussed the current and future trends of the market in both current and emerging markets."
-    publishedDateTime: 2020-12-23T11:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-analysis-for-artificial-intelligence-and-cognitive-computing-market-2020-size-opportunities-forecast-to-2026-marketbiz-2020-12-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -141,17 +141,6 @@ related:
         height: 933
         isCached: true
   - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
-    excerpt: "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,"
-    publishedDateTime: 2020-12-23T11:36:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X1CB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-  - title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
     excerpt: "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation."
     publishedDateTime: 2020-12-24T06:27:00Z
     webUrl: "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece"

@@ -54,22 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Breaking Down the Financial Impact of Self-Driving Cars"
-    excerpt: "The expectations over driverless cars are stratospherically high. For one, there’s the fascination with the technology and the presumption of an easier commute: The self-driving car will take us to work while we surf the Internet, read files and review ..."
-    publishedDateTime: 2020-12-23T12:00:00Z
-    webUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html"
-    ampWebUrl: "https://www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/archive/gov-driverless-car-state-local-revenue.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/driverless-audi.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Scott’s Car Corner: Apple To Come Out With a Self Driving Car"
     excerpt: "Well, it seems Apple is getting into the car game. Famous for their phones and related tech, now they are planning on producing a self-driving car in 2024, according to Reuters. The car which is called the Apple EV will run off Apple's monocell battery technology."
     publishedDateTime: 2020-12-23T13:48:00Z

@@ -41,17 +41,6 @@ related:
         width: 660
         height: 336
         isCached: true
-  - title: "Ai In Fintech Market Size, Share, Growth, Trends, Analysis and Forecast - 2025"
-    excerpt: "AI in Fintech market size is expected to grow from USD 959.3 Million in 2016 to USD 7,305.6 Million by 2025, at a (CAGR) of 40%. AI in the fintech market is said to have the potential to grow in the coming years due to technological changes that improve ..."
-    publishedDateTime: 2020-12-23T11:17:00Z
-    webUrl: "https://www.openpr.com/news/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215868/ai-in-fintech-market-size-share-growth-trends-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "‘Adoption is the next innovation’: Forecasting fintech in 2021 and beyond"
     excerpt: "This year accelerated advisers' adoption of a number of technologies, with many fintech leaders noting: “Adoption is the next innovation.”"
     publishedDateTime: 2020-12-23T18:29:00Z

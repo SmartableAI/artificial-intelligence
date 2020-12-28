@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Grasping an object - model describes complete movement planning in the brain"
-excerpt: "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key."
-publishedDateTime: 2020-12-07T15:35:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
+excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object Every day we effortlessly ..."
+publishedDateTime: 2020-12-07T10:02:00Z
+originalUrl: "https://idw-online.de/de/news759379"
+webUrl: "https://idw-online.de/de/news759379"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
     isCached: true
 
-secured: "7JeV0utJcqi48EonNnghbUuew0FRZXNqr4KzcH/RiGnaHQTr9DT30ZFhFXa7DSGhDL37IKrb/jwR7iIIlr0PpJ9UpcmKJ7D0+fZjcWvxZvuACc7p34GrCgfhpnAgEqwDv4HXwuVEVKKrcJmWXunzJQ15RznBEiHsWzm9As7dSlfxsM+EnqhuM2wKhaSMqfnb4HKygikIm9ZIsIOuNiYQeZjQwYy0wZ26ABEL6AoUCAs9ffru2+uWPtwUizAK03jI3TUgAJeGIP1D4no9tn041jSxr/N4tBx2mZL6oA6eFV+2cA/7q4BpPioCeTt+fF/bKZWnenvKLL0qnVCtG6/jSG0Waobdke+FKRMhiIVmceo=;i8Mj7bO2ek1pyu/egv4FuQ=="
+secured: "nlTjnU/I48gZKFgwtL33v/kEdxWWis1nUk7YEQAMP6bDfV0RWK+OxoGAF0b/x4LK87aZbgimoKD4efSBiN5THU5FzDhIy0aXlb/5JQWf2M5L8aKtLyuDXS9Z3xHqwo7qGQjjUnxnDTT8XzKwzv91xzE59xRKAxqyNKrg3o4dUs9xvLAi2/Xb3CunFwHl09rYttDdiALznWHtFXfo+hUdM6iCwzyqGwmR+cKXjLDIvNK06KayYDnDoikFSOp393hDL+TAvhh7QCkIWfOUlUSGPCXPwys7D6e4s0t0YGx4so7McmBuT2jT8bXvhzWQqlDunKnbx+o/Lw0j2viNmPCHKfIAixV2MWv1O73W8Or3yCg=;l4DE6eyz7fPChTB+qdWv7Q=="
 ---
 

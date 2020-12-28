@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
-publishedDateTime: 2020-12-21T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
-webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
+excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+publishedDateTime: 2020-12-21T10:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
-    width: 1198
-    height: 628
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "s9SJbKNEFLK5MpgHTUhrNMfWKSwPCmdSUL2/Mc3C6bavb34XRYp0Ur60zKDaIJTDi7Km950MCFe2vLFxV9jgLEOgmRck7ofiQAC9/hs5+/Bl0LQSATUqIEGVuK46DzCJ/cHaKRE/tG5l9bc5KFYzsq6MIWxEJt7kFNcB/NkXG99jnsSsVviEG7++7dSqKdsEptw7wMHWoYeDUFXT4smposoIR1E9BqLwWkp6h5R8o4oCO50JDKseQwkCrC43hYwfgsAwr9jBZWpk7EyonISeCnlzYhy1N/cYBPFloXc61wMSigm4g4Jul31EQLU7Dlw1Af1fmh2i3xwUje6ISCnVW/TSASqGCOgOIxSEnv4wJK0=;aHccuso+GbOvT0kp0iUwSA=="
+secured: "QSy9CEjgZJbyN5P1PdBVTbU8ftjv0yfuT3+AQwUQzUQuTDJdLCA8ShXneXsLO2VcgJVxrsoob5gkLAfpj8fxi5iPeAoYSLvA6NJjjx4uqxBifedp2gixprnLr1aPws37cO49Rtn+UotsdJGW+qw4pEag30FtnT5Q3NZmlqrJ9RXpa0bWOkSIRI3FIfMlMZpKJKe3BDOcYODOYvSfqrqFtD6JZreixOQcxCf9i7W1I+U48bGrF1G/Z3kUuwHA0MrTZwBJBGEGOyYvMtVwh9e0qvxfIDg9SKmUBHRaq5SI2w2B+vMC7SAwYrqhfRQnTFfltRrZPTKkaKunwdRfAqDaTGEYGuNmLHnryZNLFlPD9ZE=;DPw5vrHyl0nPvig6CnYekw=="
 ---
 

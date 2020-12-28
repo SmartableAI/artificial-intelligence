@@ -54,17 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ai In Social Media Market Industry Analysis, Growth, Trends and Forecast - 2025"
-    excerpt: "AI in social media market to grow from USD 0 6 billion in 2018 to USD 2 2 billion by 2025 at a Compound Annual Growth Rate CAGR of 28 during the forecast period It is expected that AI technology"
-    publishedDateTime: 2020-12-23T11:33:00Z
-    webUrl: "https://www.openpr.com/news/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215873/ai-in-social-media-market-industry-analysis-growth-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "Europe Machine Learning Market Share, Size 2021 Analysis, Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
     excerpt: "The Europe Machine Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
     publishedDateTime: 2020-12-24T14:38:00Z
@@ -79,17 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in IoT Market Business overview, Upcoming Trends, Growth, Analysis and Forecast - 2025"
-    excerpt: "AI in IoT market size to grow from USD 5 1 billion in 2019 to USD 16 2 billion by 2025 at a Compound Annual Growth Rate CAGR of 26 IoT enables businesses around the world to collect huge amounts"
-    publishedDateTime: 2020-12-23T11:17:00Z
-    webUrl: "https://www.openpr.com/news/2215855/ai-in-iot-market-business-overview-upcoming-trends-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2215855/ai-in-iot-market-business-overview-upcoming-trends-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2215855/ai-in-iot-market-business-overview-upcoming-trends-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
   - title: "Natural Language Processing Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
     excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025."
     publishedDateTime: 2020-12-27T09:50:00Z
