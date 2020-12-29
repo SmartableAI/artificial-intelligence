@@ -25,30 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day"
-    excerpt: "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR."
-    publishedDateTime: 2020-12-24T17:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp"
+  - title: "Expert Survey: AI Translation Market is Booming Worldwide with Google, Facebook, Microsoft, SoundAI, MI"
+    excerpt: "Latest Research Study on Global AI Translation Market published by AMA offers a detailed overview of the factors influencing the global business scope Global AI Translation Market research report shows the latest market insights with upcoming trends and breakdown of"
+    publishedDateTime: 2020-12-27T05:38:00Z
+    webUrl: "https://www.openpr.com/news/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
-  - title: "Top 10 Reasons to Become Microsoft Azure Certified Professional"
-    excerpt: "Cloud Computing services have grown to become a necessity for businesses quicker than anybody had expected. Microsoft's Azure is a popular cloud-based service which offers hybrid compatibility that ha"
-    publishedDateTime: 2020-12-29T07:46:00Z
-    webUrl: "https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html"
-    type: article
-    provider:
-      name: India West
-      domain: indiawest.com
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 60
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/d4/dd485450-49a9-11eb-8289-0bae536421e9/5feadecb7b998.image.png?resize=1019%2C630"
-        width: 1019
-        height: 630
+      - url: "https://cdn.openpr.com/T/c/Tc27795245_g.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "5k9pgdAYbGkYpTbwE10p678lNlbEUjtFnyrSGdbPkGFUZETRdsXQoYW1cAqDn4hDr+LibBcwsdedHhPw+TqZ7XgcwD3HWEvFkDUjGo1X13UzVxHAHz1W6a/QkUAIS+BoYjYOqRBmHJUdR/k5zZEbJTBrd3PBtXVRQ1NulNgXbuqTxyr2dMZbcOCUmVqLW42xBQnU4zNHfmoOfxnzKAvL36ysPiwNAnMrdVwb7h3tsUZq+aNfNVlAx72Frk9KfAphCmofj2y+TaOSUc/V7c+9aXuiQd5/G9Bxq25oAGNuQvw1jm2JXS/799FCGmbNUnY9oBnLUsmfOsYV3TDjQEGxqD15O8viwy2zj2/3xMO0FdegX2mduCoLChGphYKDPvHFTHQh5I9WEMJwZJ5zPDaY95caHS6mahfDxxTbpZCHY4mS09dJN2IusVBVrziQD78mn+tH6VUHbsIYUHSUiswkVGjf1b6g2nhNmtOe1mwWZwlYIcaT0/6ZS9cbeA+n82vuLgXjslb6ISEoO3V3u6sQTQ==;E9iyeiS77b6A1Rz8zulakg=="

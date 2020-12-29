@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 106
+    quality: 108
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&strip=all"
         width: 1200
@@ -53,7 +53,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 79
+    quality: 96
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
         width: 1024
@@ -75,7 +75,23 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
+    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
+    publishedDateTime: 2020-12-29T09:09:00Z
+    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 76
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "yw0wBJAm1NNbmRuDrhaEVdTkEa+urnSAuMDQvsf9gHmVCB8f77LgupcuwNWAxEhwrRG/WcUPFsxbj1XXfrWwhWWnqIHUk8F1RwDs3n+4rKR0GobLB2kiE0l6Atroqxkc7jGN8LIXB1/lIgv3dO+M0PgOU8vJeNMAfVOgJsoZCSuFo0IgybDBo86BQcv2eLAEkSEzDgCKIGRtjp+9dZOLR5GBr0G4PYsXYDzAmPEoQescJ9yHP/6mi5SsIKSWoW+x3n0TgZpyt+0dn6z0CC82YrbYejSsB+BAUBqIEOjCdIap8QyjiLgcTmKKzsby5dfB7kLXkKcBm1um3AcrRtkmjX+0Rcfw3WD4h2VBBnlvU+k=;FTxU3RvSPj1a5B10C4xD9Q=="
+secured: "6EVIj9kK1aAw6ty9babmZ43ZFPF3UxSATyd9zB/YTucpRBOUsq+kiKNkIllf837gfp9o0vYVPlmofsJWRH+O+VIN6ptX6WvgfU6nXaX7nIT0j+zb8No6IAh2YeMlCQPLZrvuliNvwAbF0szXGECaL/E8IfvPmuFXMpTrvJ1XBKJ9mtq5wX0odGxIS0i8rIId332jlG28M8z2N8BY9yiTG0yryfBpcpLa6rTW81jxxVZc8uewVCACXbuo3QqwocY3w7MbbHinNaL7zKQpgm7q4W/QZ5u/Wi7Hb5Yh6EemdbVtR0soI/sPXQQFgDP7fGKNLXCSoRywAhMCYRSk2ZS5GaaBL3EImd+kxskfMC2LpqYeK/Yt1s8jvGb+h8IBvfVP95iEuVkQcQSeZzw0g3YKmmPPwEy8N60CQ2haimf7FL0ke32EZ9TUerJa+YH+JzSybmP7WIFHHDWSR2di/gnbKQI0fEv/Gc+R/FRDQGmZidY781RPLpmgIzc4qt1zIn9i21rzkE38dEWhtSg7jK/BqA==;iP8USXhacTACEDp8LdqUow=="
 ---
 

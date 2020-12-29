@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at
 ampWebUrl: "https://techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/amp/"
 type: article
-quality: 79
+quality: 96
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
@@ -40,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 106
+    quality: 108
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&strip=all"
         width: 1200
@@ -62,6 +63,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
+    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
+    publishedDateTime: 2020-12-29T09:09:00Z
+    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 76
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "British chipmaker Graphcore raises $222m as AI rivalry heats up"
     excerpt: "UK chipmaker Graphcore has raised $222m (£164m) in fresh funding as it gears up for growing demand for its technology."
     publishedDateTime: 2020-12-29T08:48:00Z
@@ -79,6 +96,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "538w6jp0vTKO+ZaYToBus/St4R/e3DeF0PyVpJFt07t2vqZ+OputXY2NvofWIeMU3gW9If6by3TKmm0b35Ar9wySJEX1svCfHrJl29GxOcXRrPApFenCFqrdBKEXnZB2GQlgmK1h0Cf9sCrHg6DMognip/RAR4Q99NLEo1vQWBEkU/wBEXkKhdA00Cj/suw2mdUqDoqYUBmAzUy77dJ2Q4o6B7GfxuE9hNlPhe36J90ANQ+5iq3QeZyrpVP5Y3BJOpDHPT/7+TaYTfsUD8OjJOIF0mecSih3JXW/phA0GbSt2brlXLWPzbCyuZPXb2lTevplTpmFGP1sYK89Qi8toTGpsAC9ql1qEkEi9M/qzTc=;zIHAYX6XqQHC0oiOBKP1Zw=="
+secured: "WoWq0QMJzw8b8grkiosLsHdfk29JPalhjNBavO91f5JPcRjXRImkBv3Tzy44E5HguffuYXK6CpR5xGpW3vPsN5zy6M7PvJ9GH266/VzlguS34dJi4p+CCr9YtvCJCupSw3lfvXg+jzTAc+lbmJsMPr4aNnOdfIjLg+j7grR2ELQbtv3rVNNZR4ZzE/meq9whEPglnYQfa2xMypQ9zefdtQ+ah84YPU3suoZHs2jBt31JM0m+V2Vz3+QEzXpDv8Zwa71rwGZgxFXQWO5GEsDxYgnGSBaycwsRGP9IQecwHkWZvSlG80MBIBQMRpipnflTvOqvE+VstYMylWfGz8RRCaojraJmm8o3ReA6yGMLt+XHJ/bshqQNm/VtG2Nfr15wmgEGuNTNc8+tZVATsTwv7VgFVZQrrtSgs4LWsehp/aWgh5OlXZIZ8FVRmNrrjslqTKbsfWHXCvv9M6VssZPjoMkCweqSSRyq9cJZbVaNpyr+TgadIbgpRRYpgMA7+be7iLOvOwGgyta5feACmK4SEQ==;Sd2TQfo+b1jQvkga41YmxA=="
 ---
 
