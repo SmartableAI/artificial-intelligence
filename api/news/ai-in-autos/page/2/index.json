@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-16-amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi.md",
+      "title": "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi",
+      "excerpt": "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16",
+      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp",
+      "publishedDateTime": "2020-12-16T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more.md",
       "title": "Tesla Full Self-Driving in hacked AR view looks fascinating, and more",
       "excerpt": "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!",
@@ -1384,49 +1418,6 @@
       "provider": {
         "name": "Automotive News",
         "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-fords-self-driving-vehicles-deliver-food-school-supplies-to-families-in-need.md",
-      "title": "Ford's self-driving vehicles deliver food, school supplies to families in need",
-      "excerpt": "As Ford Motor Co. prepares to launch a commercial fleet of self-driving vehicles, it's learning from recent experiences using autonomous vehicles to deliver food and school supplies to families in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/ford/2020/12/07/ford-using-self-driving-vehicles-deliver-food-families-need/6479794002/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/ford/2020/12/07/ford-using-self-driving-vehicles-deliver-food-families-need/6479794002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/PDTN/675877de-f94c-4f1e-a40a-9b3d7a935687-Ford_Education_Fund_1.jpeg?auto=webp&crop=6239,3509,x1,y483&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/6479794002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6479794002",
-      "publishedDateTime": "2020-12-09T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null

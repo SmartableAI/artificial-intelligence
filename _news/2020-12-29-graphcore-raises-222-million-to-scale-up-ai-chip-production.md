@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/"
 type: article
 quality: 108
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_12/1200z740_1609255316_2020-11-20-14-55-35_ac6d23e161ea039615fc6200b6c8b803.jpg"
         width: 1200
         height: 740
+        isCached: true
+  - title: "Nvidia Rival Graphcore Raises $222 Million for AI Chips With Potential IPO on the Horizon"
+    excerpt: "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,"
+    publishedDateTime: 2020-12-29T11:53:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 65
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/104712662-graphcore_founders.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Graphcore raises $222m as it considers path to float"
     excerpt: "Tech firm Graphcore has raised $222m (£164m) as it battles to conquer the market for artificial intelligence microchips, making the company one of Britain's best-funded start-ups"

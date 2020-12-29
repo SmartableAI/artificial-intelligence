@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/black-man-facial-recognition-technol
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
-    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
-    publishedDateTime: 2020-12-29T16:27:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9095719/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "s4HSS0BnixHlGzoq4aJU+GeD8qFvnTk1Zbr7k5TINwZj+0ZKSE+ajs7Bp96jJYA7G6G9AC4IFUe58+iX6UJyu3eQjDbslZT0XwHC6piOsR+VTAcpCp0tjOqj3mdFYja7uVTgZjXFhLNAn/oZk1+EDK/8KL8inDpMNsGQt7dsLJvD5k2MPsCm2iOZx+fzQ2rPvHeiy2qjN1ssigWUD3HXPMmjs5+cV2oBuJ17tTZAcDb43dktZt7uvHEESnYOmbdtgjwKY57PblyptsjxRt8zAYjAS9WTF51p1Vz1gWzF9pl3sviybyGG8rMkyAV5pn2Dwb+s/VJ1EIZLo4XdfJY0LY0Hc5iz/g2ILDJGg5b17d2lu/MDg3tunTuz/9l6zSIPbKU10X1mbj9vtoHqlNYiaAS1Fc5ua7d3DkIS5tQ69rAc9Zprq9jNMD9+JMdPFoupDcIl7pNS77DAgQHOYg0dc1FGXr9eOJMSYxn11MzTFRvjzkblGsafWz8e+Jmwe4ab3bwyd+grledbpF4U5ppEKg==;JVSbM55hBnXdFKZ+8l2+8w=="
 ---

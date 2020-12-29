@@ -153,7 +153,23 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Nvidia Rival Graphcore Raises $222 Million for AI Chips With Potential IPO on the Horizon"
+    excerpt: "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,"
+    publishedDateTime: 2020-12-29T11:53:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 65
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/104712662-graphcore_founders.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "0+aX8pu3o6FMts83sPZ0p8VPRRt+kIj1CLZn7xPSLQl9WvODGHPn3yOKe3xL2m/AAkvdMuUMV/yWifVeY5HToQb4FG8J/pucmybkrdVdPjJbcHVSK3HDUsze9ZkNXmJKhc7alRfNo05s0bOB6MGYDwPpSGeG5pmV0/vKKS8/BTvPRv5IGAIxoN6AyklTnSrON7buFXWyXn7WSsF/WA+y1nMNXw5hML/IdONiYkYFOJiUjODLiXQC9MvKYigWOENW+oLfFRfdh/EdQVGd1gIqaGDZL99O2P3x/KZxFRV3sAAHFSKH/32bg229OuNeakgpnqwJm4/k3/2uEpgGgmwBuVpofaPQOp3HjkWUereinGk=;Kw/0pqvyRjJNpnZVBuoBew=="
+secured: "tebvTSnzT+yTe6wYTgm5H8Twf0cBI1MFtlxoMzWCjkfgmVVguBB7oiejn71Hb5amFKFu8jiqBGLhF26VLL85JF8lCHnzke9Y4FSIt0CTOncZiAqyWiQL2ANNvM8BMBQcXWHWF8zY8pwd+IZT8AQQ157iKvOIa9ypHohYbiGKrO6wM7pm3b8DH09MzsXLArjbvH5qeSj6JASarSJQOdjzaJ0ksO7wV2EG3PpxXxeMglFR3qU37Zi4LZUfoXQ3j1Zuv3EjY5njYDXDWMHQROSXiJA+X1i3Us/mbNLDWpdttWaPajmOi768DrZOxyauCWzASl1RTZDzM5NyptQ8lrrhGQ9EbsIyEqp9a5Nh2sl4sTwkJ8Uggh3+4ReGlzIo+HET+TSi00zbJ5567ZSmafOJK6EZUkD6jHouu5fiac8pbv3N8M+ty22hibcTCE/5Oa5NBUHKNAPTn8gOsBXobAzEFCvu91FaIXN14eJGKQu+dSJlL7ervrmgjM07LC4q9T78gBN8md8E7UcUilw+EP4Z8g==;3pxm+UhONt1q4e1/+/kx1g=="
 ---
 

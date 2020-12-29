@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Patent Issued for Passive Authentication Through Voice Data Analysis (USPTO 10,867,612)"
-    excerpt: "United Services Automobile Association has been issued patent number 10,867,612, according to news reporting originating out of Alexandria, Virginia, by NewsRx editors. The patent’ s inventors are Pollack,"
-    publishedDateTime: 2020-12-25T02:08:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/patent-issued-for-passive-authentication-through-voice-data-analysis-uspto-10867612"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 0
-
 secured: "fL2dMVssZffO00Ayv5G9K18RAEBQ72i+qCuGm9/HSwytKZ0BT4W96rafJP1YDFCvseTH8whuyNSewlTY/QMMZM/I5iwQs8ydrBr/ys3+ghATVfKi1p+v5NASCT0frKRRRBNMgLgYdTgeWji//a1OVXT5EEvZs9SOmSt63NdIS4XJxgubsKPxb6bbLZkY4UbsVguDECrLhKk59H6WUH6jRqdYM/36NNOGqgNn1QoeccHEYZ+3uP37YE1Niy2vkQ9tGCcKxLlFsj+7XuXrQSVULu2PkAaJVym2hyitoiTaWtLx4an3zpGeRM+xDOzP+s54nE9hxJ/Y4ZCaBmGC7Gi5PTmA/tl9zX9R5y0wn6xOtR4=;7dKQ/etTqxXV6guPTgZqZQ=="
 ---
 

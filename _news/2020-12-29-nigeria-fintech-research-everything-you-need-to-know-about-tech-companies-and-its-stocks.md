@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 624
         isCached: true
+  - title: "The Top Trends In The Fintech Sector In 2021"
+    excerpt: "Fintech has made normal users fall in love with the ease and convenience of banking and finance. The sector is set up for a major uplift in 2021 and we are going to help you know more in this regard."
+    publishedDateTime: 2020-12-29T17:55:00Z
+    webUrl: "https://icoexaminer.com/blog/the-top-trends-in-the-fintech-sector-in-2021/"
+    type: article
+    provider:
+      name: ICOExaminer
+      domain: icoexaminer.com
+    quality: 24
+    images:
+      - url: "https://icoexaminer.com/wp-content/uploads/2018/10/usdt-300x302.jpg"
+        width: 300
+        height: 302
+        isCached: true
   - title: "Faulty technology is hamstringing the Fintech industry costing investors millions: why the industry needs to invest in their online platforms"
     excerpt: "By Antony Edwards, COO, Eggplant The finance industry is one rife with technology fuelled innovation and as such, the Fintech business is booming. Over the last 5 years startups with consumer convenience in mind have sprung up to challenge traditional high street bank offerings."
     publishedDateTime: 2020-12-28T12:15:00Z

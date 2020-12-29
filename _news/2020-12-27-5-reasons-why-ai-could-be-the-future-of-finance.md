@@ -7,8 +7,8 @@ originalUrl: "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-c
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-could-be-the-future-of-finance-1141847"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Ghanaweb.com
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Future of AI: AI's 10 To Watch"
+    excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
+    publishedDateTime: 2020-12-28T00:07:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9309122"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 17
 
 secured: "khbVipWOv5fILEMhTo1qH0+BJtMOP8EhVwvZQ8Zes7Fw0os9B9lTD6ezMQ5YjHWdRAFDKs1IB0JO71RnYS8Cr3e0vLu/EtIa8CMSxJXtqob4RAe9x3b1cxFR9po1hU6+M/1nWe9Wl+z9krZzxXZw6qa4Qm9YUj6AaDaE+s2w1dTZbhNcGFtitOcZ296geDblFOFPPHcozH1/kBfUzc1LI/dQD8HHsFDRDACFcniePXQAD7yK0gXcIpkNIQrrSFrElA+GNbrxAgZ6bW0NdiRYlZfnNsIx/H0hzL51qZx8yMlsL+kRDzr85uMWFhKNHvY5Qbj4vwZXDZHpmIbqGMFi4guSIJqB7b09YSgMV45JBLM=;OKEshgBJrcPL67uIRHLM6g=="
 ---

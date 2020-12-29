@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Top Trends In The Fintech Sector In 2021"
+    excerpt: "Fintech has made normal users fall in love with the ease and convenience of banking and finance. The sector is set up for a major uplift in 2021 and we are going to help you know more in this regard."
+    publishedDateTime: 2020-12-29T17:55:00Z
+    webUrl: "https://icoexaminer.com/blog/the-top-trends-in-the-fintech-sector-in-2021/"
+    type: article
+    provider:
+      name: ICOExaminer
+      domain: icoexaminer.com
+    quality: 24
+    images:
+      - url: "https://icoexaminer.com/wp-content/uploads/2018/10/usdt-300x302.jpg"
+        width: 300
+        height: 302
+        isCached: true
   - title: "Nigeria: Fintech Research - Everything You Need to Know About Tech Companies and Its Stocks"
     excerpt: "The tech industry comprises companies that sell devices, software, hardware, artificial intelligence, and other information technology (IT) products. These companies have always been profitable in terms of stock value."
     publishedDateTime: 2020-12-29T11:15:00Z

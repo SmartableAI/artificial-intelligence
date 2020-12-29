@@ -3,12 +3,10 @@ category: news
 title: "New Jersey man sues for wrongful arrest after facial recognition bust"
 excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
 publishedDateTime: 2020-12-29T16:27:00Z
-originalUrl: "https://www.dailymail.co.uk/news/article-9095719/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-webUrl: "https://www.dailymail.co.uk/news/article-9095719/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-ampWebUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
+originalUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
+webUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -27,23 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "A Black man spent 10 days in jail after he was misidentified by facial recognition, a new lawsuit claims"
-    excerpt: "The man's attorney claims police used excessive force, false imprisonment, and cruel and unusual punishment."
-    publishedDateTime: 2020-12-29T10:59:00Z
-    webUrl: "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp"
+  - title: "Another Arrest, and Jail Time, Because of a Bad Facial Recognition Match"
+    excerpt: "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition."
+    publishedDateTime: 2020-12-29T17:23:00Z
+    webUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: New York Times
+      domain: nytimes.com
+    quality: 103
     images:
-      - url: "https://i.insider.com/5feb06f5a64488001819396e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static01.nyt.com/images/2020/12/29/business/29facialrecog1/29facialrecog1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Lawsuit Claims Facial Recognition AI Sent the Wrong Man to Jail"
+    excerpt: "New Jersey police are under fire after wrongfully accusing and arresting a suspect based on nothing more than faulty facial recognition software that’s since been banned in the state."
+    publishedDateTime: 2020-12-29T18:34:00Z
+    webUrl: "https://futurism.com/the-byte/lawsuit-claims-facial-recognition-ai-sent-wrong-man-jail"
+    ampWebUrl: "https://futurism.com/lawsuit-claims-facial-recognition-ai-sent-wrong-man-jail/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/lawsuit-claims-facial-recognition-ai-sent-wrong-man-jail/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2020/12/lawsuit-claims-ai-sent-wrong-man-jail-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Why is it not just a matter of recognition?"
+    excerpt: "Pakistan cannot afford to recognize IsraelBy Wazir Zafar HassanThe posture of Arab states towards Israel is becoming soft. They want to establish relations with Israel. After a move by the"
+    publishedDateTime: 2020-12-25T17:30:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/"
+    ampWebUrl: "https://www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/amp/"
+    cdnAmpWebUrl: "https://www-pakistantoday-com-pk.cdn.ampproject.org/c/s/www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/amp/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 24
+  - title: "New Jersey man who spent 10 days in jail sues police after facial recognition software which was later banned led to his false arrest for shoplifting candy and ramming cop car"
+    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
+    publishedDateTime: 2020-12-29T16:39:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9095719/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 22
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
+        width: 636
+        height: 382
         isCached: true
 
-secured: "9/piJs/1f8D+Y9890ZoUN3GReFWvN+hhwNG6J5c14MyHsuZLMeToMLEJXmT/SR90fja417YsRxEz6UFJEfddeR1VYCR2AqJQ4jb7gtmxQTGhPJx2cJBID03B/Syzd2hqnpj4txm32Dg420OI7y1weAl4k9swr5F4AB7q3F3oagGppx11iSiS6Bqo1a+u3GzRc3DbceZEsbLOr4Fz0Uhs2TdYRTG3NUva/V2dVROD+/6yOIYGww7QJZmzitV4nHX2fAif9AeFdSzM53E9LhLEgMCWNdLU/mcyir6jcLxPa5bINUy29exsxG3LYWBg+2TvuISIdXYCQAuKZ+XpTkx0mduZm8sqH6DIe1GWxStM0V0=;x41hHJ/gpxllvLi6xp3PFg=="
+secured: "H20RIjQiYubSQ6rYhrjIKdGOhHJ5rwpnEbrMk1SjxvaBVEozv36l2XdLbBwrVjUSjb2Mq16HPgT0eppt3SljhF5l0bZnzOyjgZORzuwiMKzyxj0XmmsYiHR075wifqWSESzVv4ynTBh9Yu1tKJwD3kQxGPyleL4NrxGC45LEsY4mXMfco0F2FGD/iJPY3ejjsl1EyZ3XHDLqDjtfcOVdJgV15lZJrlEz9CSDd6tGGYYaptGgBRXqyiqBi0SgZffwv+tlOCxZI1ds4gvs0bCOJZBl9Xq0akBvs2feyAcLVllZj/NcMCa9Olv3d69iEjDEQYVuCQbm+t/qMVMA/sOUpN7r1fZZlZZgtvSoWxAuyro=;HEsSbvLb6txklGv3G12oJw=="
 ---
 

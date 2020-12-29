@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match.md",
+      "title": "Another Arrest, and Jail Time, Because of a Bad Facial Recognition Match",
+      "excerpt": "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/29/business/29facialrecog1/29facialrecog1-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html",
+      "publishedDateTime": "2020-12-29T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-a-black-man-spent-10-days-in-jail-after-he-was-misidentified-by-facial-recognition-a-new-lawsuit-claims.md",
       "title": "A Black man spent 10 days in jail after he was misidentified by facial recognition, a new lawsuit claims",
       "excerpt": "The man's attorney claims police used excessive force, false imprisonment, and cruel and unusual punishment.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -51,50 +103,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-from-bean-to-bar-haitis-cocoa-wants-international-recognition.md",
-      "title": "From Bean to Bar, Haiti's Cocoa Wants International Recognition",
-      "excerpt": "PORT-AU-PRINCE, HAITI - Although small in the face of South America's giants, Haiti is slowly developing its cocoa industry, earning better incomes for thousands of farmers and refuting the stereotype that culinary art is the preserve of wealthy countries ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition",
-      "originalUrl": "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im-media.voltron.voanews.com/Drupal/01live-166/afp-image/2020/12/e8550679772b86189f6398787c6762e7ac296a28.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition?amp",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/americas/bean-bar-haitis-cocoa-wants-international-recognition?amp",
-      "publishedDateTime": "2020-12-26T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
