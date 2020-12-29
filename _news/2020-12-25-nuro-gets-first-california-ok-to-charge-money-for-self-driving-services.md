@@ -57,22 +57,6 @@ related:
         width: 676
         height: 545
         isCached: true
-  - title: "Nuro gets permit to start commercial self-driving deliveries in California"
-    excerpt: "Almost three years after revealing its autonomous delivery vehicle, robotics startup Nuro has been given the green light for commercial operations in California. Initially, service needs will be met by fully autonomous Prius vehicles,"
-    publishedDateTime: 2020-12-24T11:52:00Z
-    webUrl: "https://newatlas.com/automotive/nuro-commercial-autonomous-delivery-california/"
-    ampWebUrl: "https://newatlas.com/automotive/nuro-commercial-autonomous-delivery-california/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/nuro-commercial-autonomous-delivery-california/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 72
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/9d7aa3e/2147483647/strip/true/crop/507x338+47+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2Ff0%2Fe445847443dd95667c40214f4eca%2F1-8sy60adipovneysfuydeiq.gif"
-        width: 600
-        height: 338
-        isCached: true
   - title: "California grants first permit for commercial use of self-driving cars to Nuro"
     excerpt: "California-based robotics company Nuro can start using its self-driving cars for commercial use on some streets near its Bay Area headquarters after receiving a permit from the California ..."
     publishedDateTime: 2020-12-24T17:26:00Z

@@ -42,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "First Artificial Intelligence community Centre launched in Hyderabad"
+    excerpt: "The nation’s first Artificial Intelligence Community Centre, HexArt, was launched here on Monday by IT and EC secretary Jayesh Ranjan. The centre, its sponsors said, is dedicated to the city and the state."
+    publishedDateTime: 2020-12-29T04:04:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/291220/first-artificial-intelligence-community-centre-launched-in-hyderabad.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/291220/first-artificial-intelligence-community-centre-launched-in-hyderabad.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/291220/first-artificial-intelligence-community-centre-launched-in-hyderabad.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 57
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-m0bvodrdhd6cnhmr7ko6bal3v0-20190814041135.Medi.jpeg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "From sanitisation to disinfection, Hyderabad based start-up’s robot disinfectant all set to fight Covid-19"
     excerpt: "As a part of its fight against the Corona pandemic, a Hyderabad-based start-up ‘H-Bots Robotics’ has come up with a robotic disinfectant named ‘ACCORD’. Speaking to ANI, Kishan, the founder and Chief Executive Officer of H-Bots said that Robotics has played an equal role to any other field of work that contributed in the ongoing pandemic situation."
     publishedDateTime: 2020-12-27T04:33:00Z

@@ -22,89 +22,59 @@ topics:
   - AI in Education
 
 related:
-  - title: "AI in Education Market Opportunities And Strategies To 2025: COVID-19 Implications and Growth"
-    excerpt: "Dec (Heraldkeepers) -- Artificial intelligence (AI) may be a computer virus to imitate the human intelligence and enhancement of"
-    publishedDateTime: 2020-12-24T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24"
+  - title: "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025"
+    excerpt: "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs."
+    publishedDateTime: 2020-12-28T14:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Book on AI to combat Covid-19"
-    excerpt: "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added."
-    publishedDateTime: 2020-12-27T22:12:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
+  - title: "Wearable AI Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
+    excerpt: "The report on the global wearable AI market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global wearable AI market to grow with a healthy CAGR over the forecast period from 2020-2026."
+    publishedDateTime: 2020-12-26T16:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 57
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg"
-        width: 600
-        height: 390
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
-    excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
-    publishedDateTime: 2020-12-28T09:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934434/artificial-intelligence-in-healthcare-diagnosis-market-forecast-to-2027-covid-19-impact-and-global"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
+  - title: "Mobile Artificial Intelligence Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
+    excerpt: "Market Overview The mobile artificial intelligence market was valued at USD 2.14 billion in 2019 and is expected to reach USD 9.68 billion by 2025, at a CAGR of 28.65% over the forecast period 2020 - 2025."
+    publishedDateTime: 2020-12-28T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2025-2020-12-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big Data Analytics, AI, and Collaborative Combat Driving the Evolution of Land-based EO/IR CONOPS, 2019–2029"
+    excerpt: "Reportlinker.com announces the release of the report \"Big Data Analytics, AI, and Collaborative Combat Driving the Evolution"
+    publishedDateTime: 2020-12-28T10:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934678/big-data-analytics-ai-and-collaborative-combat-driving-the-evolution-of-land-based-eoir-conops-201"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934678"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934678"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 35
-  - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
-    excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
-    publishedDateTime: 2020-12-24T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2021-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2023-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Outlook, Geographical Segmentation, Business Challenges and Opportunities till 2026"
-    excerpt: "Dec 26, 2020 (The Expresswire) -- The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2020-12-26T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-outlook-geographical-segmentation-business-challenges-and-opportunities-till-2026-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
-    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
-    publishedDateTime: 2020-12-27T04:16:00Z
-    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
+    quality: 18
 
 secured: "NdGr0FTvlODyn6qSNDX9zPMjgYh7ChXneZw5OhslW9loS6Iry5h6JsJ/tdl7mGabWPT/LYZSNO1KjbetpjmhTxxWNoYJGheOVwBCPC9LXpHgDtD1XWZM+3jVOfksZ4InAxcFa5TlK5RukY8eRrGIluBW/+/hw3T1vFV/VpFUjTFplQNCvnRf3XONIDfUylQoqOXFk4JvRVkea3R0ehnKAFH3EHHzXigOs3vudHlo43MWDW1zpQ/OlNmnXzxSC73hUVg+D5ossweZuKHPklak1DYxLoIuzYNl9ShrzPeRd52QmgTSZumrtXIX5nWgshOQqPY097BjU4o6cY5JZ0g99tBh2jZP4IsZRfA9CQkAmDA=;bXueVLspO8/yfhmqgkLkVg=="
 ---

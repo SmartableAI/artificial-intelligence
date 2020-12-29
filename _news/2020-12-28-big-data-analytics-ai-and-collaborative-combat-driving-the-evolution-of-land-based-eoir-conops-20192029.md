@@ -62,6 +62,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
+    excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2020-12-28T09:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934351/global-education-and-learning-analytics-market-report-2020-2025-what-has-been-the-impact-of-covid-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934351"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934351"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "UvQk5hXsidbEVFWa1dzd3dKjOXwri8YkGFuv3N+Gh4SvQ7H/QM+cwW2lA4EeHxxFJUYuflj49W8EtYBpn1S77ZEfzIM4ZVByYIqykzaoNtKFJRowKsFMUrFnqq/JwwVg8ds612hFSZ29YkVdgclMEepLR3x0xOi531VNiSUgDJCcE6NER9xYdjmeTNcx8juFod/RqRwKyaBJ+DJq9vPckyAhx60x/MVRQwwTc7/YBIsVbMsNdPmwOCHemWe0RvggLJlY3zSKmeTFR3YvI2XV4b4+Os7Q8wVsYw+fu13/99O/qjc1k0wLptIPZIBrsx5LazrYRzXBGLo3kM8sIixQAZRel+Pxzh3Z7aUyi887afc=;aVq2UCiZEC5wrnF2Df8vng=="
 ---

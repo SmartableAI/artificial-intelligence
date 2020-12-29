@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/dark-data-a-golden-opportuni
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/dark-data-a-golden-opportunity-for-the-fintech-industry/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Trends To Look Out For In 2021"
+    excerpt: "Across various sectors, people have embraced the challenges and developed new innovative solutions. Fintech is no exception."
+    publishedDateTime: 2020-12-28T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f183ef5d9a66f0007158953%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Faulty technology is hamstringing the Fintech industry costing investors millions: why the industry needs to invest in their online platforms"
     excerpt: "By Antony Edwards, COO, Eggplant The finance industry is one rife with technology fuelled innovation and as such, the Fintech business is booming. Over the last 5 years startups with consumer convenience in mind have sprung up to challenge traditional high street bank offerings."
     publishedDateTime: 2020-12-28T12:15:00Z

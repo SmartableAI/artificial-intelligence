@@ -7,8 +7,8 @@ originalUrl: "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-c
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-could-be-the-future-of-finance-1141847"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Ghanaweb.com
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Future of AI and Machine Learning"
-    excerpt: "We used the term “future” in the title but to me, the presence of artificial intelligence and machine learning has proved to be a necessity, especially in Corona times."
-    publishedDateTime: 2020-12-24T12:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/pick-a-pen/future-of-ai-and-machine-learning-28539/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
   - title: "5 questions on the future of the Pentagon’s top AI office"
     excerpt: "The chief AI strategist joined C4ISRNET to talk about progress the Joint Artificial Intelligence Center made this year and the significance of upcoming changes."
     publishedDateTime: 2020-12-28T22:57:00Z

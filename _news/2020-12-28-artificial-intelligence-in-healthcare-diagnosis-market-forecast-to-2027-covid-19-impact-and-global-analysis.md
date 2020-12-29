@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "AI in Education Market Opportunities And Strategies To 2025: COVID-19 Implications and Growth"
-    excerpt: "Dec (Heraldkeepers) -- Artificial intelligence (AI) may be a computer virus to imitate the human intelligence and enhancement of"
-    publishedDateTime: 2020-12-24T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24"
+  - title: "HCG, Wipro develop AI-driven Covigilent to diagnose Covid through cough"
+    excerpt: "As a social responsibility, HCG, a specialist in cancer care, and Wipro have jointly developed Covigilent, an advanced artificial intelligence powered cough analysis rapid screening tool"
+    publishedDateTime: 2020-12-25T00:46:00Z
+    webUrl: "https://www.thehansindia.com/bengaluru/hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough-663571"
+    ampWebUrl: "https://www.thehansindia.com/amp/bengaluru/hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough-663571"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/bengaluru/hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough-663571"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://assets.thehansindia.com/h-upload/2020/12/24/1020550-covid.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Book on AI to combat Covid-19"
     excerpt: "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added."
@@ -50,59 +52,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2021 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2023"
-    excerpt: "The report includes an overview of the key players and active research projects in the domain. It covers different entities ranging from established semiconductor players and specialized neuromorphic solution providers,"
-    publishedDateTime: 2020-12-24T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2021-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2023-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Outlook, Geographical Segmentation, Business Challenges and Opportunities till 2026"
-    excerpt: "Dec 26, 2020 (The Expresswire) -- The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2020-12-26T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-outlook-geographical-segmentation-business-challenges-and-opportunities-till-2026-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
-    excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2020-12-28T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934351/global-education-and-learning-analytics-market-report-2020-2025-what-has-been-the-impact-of-covid-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934351"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934351"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
-    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
-    publishedDateTime: 2020-12-27T04:16:00Z
-    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "0MMWrtyfy4G2HERNfTOqjfsmd60TukleSpMyDPGbRifPzn0Cqk/gLkYQFZ9vvkRbdeLEOK8OtlKwolHeMTQskv5z+kDoIcO0MBMZchG5G3XZO7RImIXlA8Jsw1jv4slg2zLF0l3f9/8Usu2fDaJtQRz41rWaa3QOOD5KVLl0/LHkwgPoHJDt1mNNZvJCHFso8uBlML3on7kE6PWz1aIem1NEQy0KstC3vN7SDQKpVZQsOYtauC/HhCv+D00WKwvqyWFOF7ttR8kev55RWdeSoxLGAz8b6h7Bq6pkaaPgWYpOyMFoDfYW0/ry3DWk8RVoQK8GAhh2L1j/TQ3eDyIWb+PmRUaMkrigFGDUpJSwZkA=;gb8Z6IEHPgjPrWRTVUdnHA=="

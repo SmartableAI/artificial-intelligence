@@ -2,11 +2,11 @@
 category: news
 title: "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources"
 excerpt: "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,"
-publishedDateTime: 2020-12-22T05:09:00Z
-originalUrl: "https://www.reuters.com/article/uk-ouster-m-a-colonnade-acqsn-exclusive-idUKKBN28W003"
-webUrl: "https://www.reuters.com/article/uk-ouster-m-a-colonnade-acqsn-exclusive-idUKKBN28W003"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W003"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W003"
+publishedDateTime: 2020-12-22T06:59:00Z
+originalUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
+webUrl: "https://www.reuters.com/article/ouster-m-a-colonnade-acqsn-idINKBN28W06E"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28W06E"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W06E"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "8ZSASKa1BemV1h+YGLbLfks9MZTTITOesuVDegpKI/2Q3twRGBdfn1MaFNiSEFIsy87+fnVX3oGJypX/dycDizU9Ne5UvmjVo21RGe1Jh4lGrAAhLfI2muxB0vJ/mdbWBJCzMczDnrqzgPnd/YhJ4NB8unDKSC+3rGHJbstjjteHcJ/Ygn6tzd4eVwEkSPNb06aHSEzDSE9tgQAxWMuZgs5ugRz6QXrZnb3PVL+XvUdGiTZuyy2vYdTiqgwKZdW4USAtSYKlHvrrU7pLUy5husmVORV/fwXT3kzFkFktrn6qXdV2DhP5OY/fBVHi9QVK4yE8l9d8FQg3D5PBBD05eUZNgs8eC9R9B8VWjoq0+as=;x/CFHo8KegsiONJbc2xEXA=="
+secured: "aPd/ZBFFvdsgLSeimzl7ccBl21uUH4yDJqTbc3Y3BDytrlF/4dytqNBWlqVZdR6ZlAOF+Uqmvnh+++/k0SHH4sqx2HRg1cSGiqs//q+sybK4DA9u3HiJsEkH1xl1Xv/nuA6au9ru+O+5O6g67NIBgBekPJp70AcRiFWlBa0qOYispmQ5yN0x2lrZO6wjyYKi5+wdphR3Vfo7ggI+murMCFGwKQ0AMeeTgJqf40tc9Z4ezgDqY702Th68fnJArCP0VON5hMmLMQHZhliw7s1c++WQNMaUsBgTZWQlgzw02FDaXduDrKPDuMuoyeoK2lCBMnXgr8cf8c9+TTwpeCu8Eou1Jx0gTSCsXdmo0v1DMYo=;GG43BY/haA6A7d/GZgKpQA=="
 ---
 
