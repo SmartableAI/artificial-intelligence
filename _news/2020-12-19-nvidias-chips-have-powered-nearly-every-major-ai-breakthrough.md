@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 related:
   - title: "NVIDIA Opens AI Storefront in AWS Marketplace"

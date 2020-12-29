@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intelligent Virtual Assistant (IVA) Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
+    publishedDateTime: 2020-12-29T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-12-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "K4fPyMy+qfqA+pyHwPO1JpfWyi3ta94G/Dih8M6CAFzfBrlsZAjAnPW+esbYENaY5txoenGN5EhX4DVLlSxKVEuJUFHfinq6KvqOttUWettcczNgtyvmACuzef8Rf4vhRHU6JHbpAGMBRnj6mQbK/jjFh7GFYk5cL/yHl0wTwQuPsKC4r7pfQXCgHeGOhK06LHQlUjZs9nN2LET9Bt/4l5FITPgKwz/fiJT6lsXxdOVEKxhySWJ4XX2JgLi7ByZ4D2j9FFFPXxXL8DpNIV4MgGOzqTKr4CKE7+Ex7UWSG1SADnfyPyY3gAoeuptxGsf2/5Kws2EQTK9efBSTEfWEFt/FZYP4nRvowwRVvqQ5M40=;/Ja6G4yLKjaNxBdEYDbkcw=="
 ---

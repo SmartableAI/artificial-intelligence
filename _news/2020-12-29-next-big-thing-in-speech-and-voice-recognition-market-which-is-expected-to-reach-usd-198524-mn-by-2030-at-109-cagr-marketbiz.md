@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/wired-release/technology-business
 webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-new-products-and-services-10a1f86840d8faa6f5e5f0fd1e57a6f4"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Face Recognition Systems Market Size is Projected to Reach USD In Million by 2030 || NEC Corporation, Safran Group, Gemalto"
+    excerpt: "The latest research report provides a complete assessment of the Global Face Recognition Systems market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2020-12-29T14:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-is-projected-to-reach-usd-in-million-by-2030-nec-corporation-safran-group-gemalto-2020-12-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JpaTG392C4aKm7/dFM8S95Lb+FKoUYNmkkogJL7tglkEyl0NlphMrtSk6unIvm1TU+hS5bCprvc6AQMy76EEKSVuDHP486FmeAEQG96yaiTM47/IyLpt2ABSVybLBxlIvqxutQEFxPjaHdYl7qFigp4aKE2sACdlSycTQqZeAqQjuBYoXDHn+OrclqfkXXFNIZG9MEoHExZWahuI0hNCxZpqPOcyZc9esQp6m6iDWKbsxKI33mOxh2p8KqSVrds/WH9AJE0oeUnFbEN/SduLT9LAWKLDTki9Doce+BwVxc29JQWOvy4e2SEpO9X8COCEDgxf30O7DB05eYx3Eo1H2uAhNsleXJdnblpm5E2tmHA=;HsHfyBA1/wIAxZ50HvKhOQ=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Exclusive-China search giant Baidu considers making own electric vehicles -sources"
-excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ..."
-publishedDateTime: 2020-12-15T17:27:00Z
-originalUrl: "https://uk.reuters.com/article/us-baidu-auto-exclusive-idUKKBN28P0F2"
-webUrl: "https://uk.reuters.com/article/us-baidu-auto-exclusive-idUKKBN28P0F2"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
+title: "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources"
+excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as growth plateaus in its core search business, where revenue ..."
+publishedDateTime: 2020-12-16T11:53:00Z
+originalUrl: "https://cn.reuters.com/article/baidu-auto-idCNL1N2IV1GR"
+webUrl: "https://cn.reuters.com/article/baidu-auto-idCNL1N2IV1GR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2IV1GR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2IV1GR"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "BUhjze52os/gWsEmyN03IB+2LwEaH3NYGOmWKeGTWuk45cu5d2eBZC6G8+7C/V95P+aQFeHCsWNiVTAXLLcESDjV2AVD0TvslrZh2ZvMkikX6I40L/ZFZa/W/a9IbS79hLEl5c5t+C5YKn5BHaxpobIME+I4y872gNHjgr4Hk12sjVxOQNLQVMy9oI0ldUW1NEa6+V4pv4AFfgWi501k2xYfuRAnKatFd2RvtOVhapqf1lQHDOeYIWSgZF+Vq5w09HA6jajkppU6hphLvjcl6Y9gNZzhLkjZS7TVy3zzuc3zucmGwhJnGKXNYATJjhEuOtdv+IuBb55YdJ0nBuyMSKo23eDuabH9DcIIdI4t8oQ=;lUpwRQXzU+37kDb4w/7tgg=="
+secured: "8dh3FqDlo05Od0cXMyRqyKrWfUP3Sj78lCkClyoTvBgVUkkeFFFY9MIbzcuVVgskMEGeSfYoyYyxWd6UPOhdKiUP5X0z/n/X2g9vjtXlbuJzty7U02RgT9fL4NmAEgGYLfGt1eSw4v/CvrZhiZKDKUDZ/uyeip1p83qWgDn2cJiRoHCe9K3NO1U6vEMKpODginPfyxVd3ttdvcDFTSwxOvpcY7MdhHhtHI9LqKtXL9Omm/IUkcOA9adVTip0ssItypEc3rOCWcLsqMx/Jj5H8VyDNSNFdbpGUCdCOpTn5JKLSf/FHdaqyL4Gj5487z85iWOOmZvYb4KJ/JkBq4uUTBdBQM/Dkox5if7eEqB22cI=;YG1gm+d7ozxYiNZ2BOSKbA=="
 ---
 

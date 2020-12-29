@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Chipmaker Graphcore Raises $222m"
+    excerpt: "Graphcore, the UK-based AI chipmaker, has raised $222 million, a Series E in new funding, as it braces itself for the tougher competition from US rival Nvidia."
+    publishedDateTime: 2020-12-29T12:58:00Z
+    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/"
+    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2795aed6bf81fc2905a5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
     excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
     publishedDateTime: 2020-12-29T09:09:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "AI chipmaker Graphcore is worth almost $3 billion after a massive $222 million fundraise"
+    excerpt: "The firm joins a cohort of British startups thought to be mulling IPOs in the new year."
+    publishedDateTime: 2020-12-29T14:02:00Z
+    webUrl: "https://www.businessinsider.com/ai-chipmaker-graphcore-worth-almost-3bn-after-latest-fundraise-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/5eeb47eb191824744e7af2f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "British chipmaker Graphcore raises $222m as AI rivalry heats up"
     excerpt: "UK chipmaker Graphcore has raised $222m (£164m) in fresh funding as it gears up for growing demand for its technology."

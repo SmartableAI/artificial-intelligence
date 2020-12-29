@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intelligent Virtual Assistant (IVA) Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
+    publishedDateTime: 2020-12-29T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-12-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
     excerpt: "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development"
     publishedDateTime: 2020-12-25T12:10:00Z

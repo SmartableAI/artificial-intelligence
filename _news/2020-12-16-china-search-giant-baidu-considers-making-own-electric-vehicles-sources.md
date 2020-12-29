@@ -1,28 +1,28 @@
 ---
 category: news
 title: "China search giant Baidu considers making own electric vehicles: Sources"
-excerpt: "self-driving cars: Survey Baidu operates autonomous taxi service Go Robotaxi with safety drivers on board in Beijing, Changsha and Cangzhou, and plans to expand to 30 cities in three years."
-publishedDateTime: 2020-12-16T01:21:00Z
-originalUrl: "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources"
-webUrl: "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources"
-ampWebUrl: "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources?amp"
+excerpt: "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ..."
+publishedDateTime: 2020-12-16T03:06:00Z
+originalUrl: "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html"
+webUrl: "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html"
+ampWebUrl: "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/20201216_baidulogo_reuters.jpg?itok=KZWytHeH"
-    width: 763
-    height: 509
+  - url: "https://images.moneycontrol.com/static-mcnews/2018/07/baidu-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     isCached: true
 
-secured: "17bFN0/JE0UnnM0LMr2gzgtXvZh2lTzrDXSpXNCnOWc3nfYbL5RFbElD8IQQ7x1gpIW31HzoktY5wO1gx5mDs5DCNxo1CH18PW1pEQQNVrwsFwfalqhJqnwrGgVx+iVu6vmYAb1COV6V1T+jUdq99ZQWmjdtKb8hPzAHEclq1WBP30SQooI5zBuWMbpaAfeRyOF+Cg8ybza3HDZS2+5EG+0hP264BB54n8JrH26I63UuOMWvuubIgauUWUmS9ZJM5WoiQXjATQmMou9IE8kD1gt5HqZHXPj7lyimPFQJS4EjFK6prvY25g0LjM6qPywjPbQ1UfvLeE2ASzA0tXjYyMwTDLBm9RKDwmP5yO3slq0=;pB2zqcf6lsiXUBkUc/Iafw=="
+secured: "MYGqCCiKpM/2bP6RSzpgD8ztfHGzxn05aq8ZaBUgbEf2s+vibZvWV9p0eTdHDTzgKHRsDfwSYd+XPeUXkVn4+7i3Ql6w1y7rrm7ayTD5lEFaZLIY5R4bp4XCzqdvILiQVV17r30eqe45WigHzV8EfDcE0Mi50E+AUnzP68uD5UoT3xOUFUfKCEnPoobmbNIQbuEYefxATE1dNwV+QvF/0+SLu7IDVfQ3QGS7s7e/F0oNI//Jq6wnJLUYCEmVPm+j1YAp5DPfAIK7/MbB3Dg+VImOXmM9noffoNh0B9d/FaZB6fO9T2ZYArEnb3JlsTuhScFQEE333lVhXijKkpqNcmtStLCgwHHVTOUXPs9WUSg=;ZOCdqEB1VP3I/tYzHJjIuQ=="
 ---
 

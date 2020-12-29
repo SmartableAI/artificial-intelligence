@@ -24,31 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Coop. taps into Artificial Intelligence"
-    excerpt: "(TMCC) has launched a first-of-its-kind initiative in the sector in India by introducing Artificial Intelligence-powered banking experience. They have tied up with Interface, a global Intelligent Virtual Assistant (IVA) provider for financial institutions."
-    publishedDateTime: 2020-12-25T02:21:00Z
-    webUrl: "https://www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece/amp/"
+  - title: "Artificial intelligence transforms today’s hearing aids"
+    excerpt: "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more."
+    publishedDateTime: 2020-12-29T13:44:00Z
+    webUrl: "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/"
+    ampWebUrl: "https://amp.news-press.com/amp/4007932001"
+    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
+      name: News-Press
+      domain: news-press.com
+    quality: 72
     images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/PFTM/8c57808c-00db-4b43-b9ae-de53dd5b5883-GettyImages-1284869697.jpg?auto=webp&crop=723,407,x0,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "The Future of AI: AI's 10 To Watch"
-    excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
-    publishedDateTime: 2020-12-28T00:07:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9309122"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 17
 
 secured: "s1y2yOJjl6TIbzSNNjvpNhXuZvjbUIZ2+Qa3Fd7WejgXZC2/FrSIHjsDXkj6ElPWeIynaULOMevjeEdSmV087n2xR1WqRaWLE+dWQsF6vh2qiH38X6RZ7IswHKxHG0Bt2cKNLwZfUv0cZP3nH5L4vduB6YrA3uafxnNcVRrWl3BS4TA5iR80WfzyTSuZY+41HvY4sekOZ7uYtgTo6WPWVZHiDQWqHVQDJjGnFkptZf/povBdbGQzFNDncDYShWXGH/lX0+VB/NkZP3zIJ52d5f11Iqq+4YrcQdEqAntc33kFNTaVXUgN2UxhVmErFeBoYuFGnopYgjF/XdY84SRrmHxdaoXeqxvrJHCADRxcFqw=;q3CJ9MRJREeUy4maQBN4Kg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/national/karnataka/coop-taps-into-arti
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Hindu
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Transformed Sports In 2020"
-    excerpt: "Analytics India Magazine collated a list of how different aspects of sports significantly transformed in 2020 due to the use of AI."
-    publishedDateTime: 2020-12-28T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-transformed-sports-in-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/tim-gouw-VvQSzMJ_h0U-unsplash-scaled.jpg"
-        width: 2560
-        height: 1711
-        isCached: true
   - title: "The Future of AI: AI's 10 To Watch"
     excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
     publishedDateTime: 2020-12-28T00:07:00Z

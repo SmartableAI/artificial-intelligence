@@ -150,6 +150,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-big-blue-shines-a-light-on-the-future-of-tape-storage.md",
+      "title": "Big Blue Shines A Light On The Future Of Tape Storage",
+      "excerpt": "A decade later IBM sold its X86-based server business to Lenovo for $2.3 billion and in the intervening years has put a keen focus on hybrid clouds and artificial intelligence, buying Red Hat for $34 billion and continuing to invest its Watson portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2020/12/17/big-blue-shines-a-light-on-the-future-of-tape-storage/",
+      "originalUrl": "https://www.nextplatform.com/2020/12/17/big-blue-shines-a-light-on-the-future-of-tape-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/IBM-demo-system.png",
+          "width": 1070,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/12/17/big-blue-shines-a-light-on-the-future-of-tape-storage/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/17/big-blue-shines-a-light-on-the-future-of-tape-storage/amp/",
+      "publishedDateTime": "2020-12-17T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-4-cutting-edge-ai-stocks-to-buy.md",
       "title": "4 Cutting-Edge AI Stocks to Buy",
       "excerpt": "Artificial intelligence is the new frontier in technology and these AI stocks have the cutting edge of the science and applications.",
@@ -1381,49 +1424,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-ibm-smart-lineup-decisions-for-nfl-week-12.md",
-      "title": "IBM Smart Lineup Decisions for NFL Week 12",
-      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1126%2Fr781106_1296x729_16%2D9.jpg",
-          "width": 1298,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "publishedDateTime": "2020-11-27T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ESPN",
-        "domain": "espn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

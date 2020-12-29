@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
