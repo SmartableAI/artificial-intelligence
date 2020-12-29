@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
+      "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas.md",
+      "title": "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS",
+      "excerpt": "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-how-watson-assistant-helped-uams-answer-the-publics-health-questions.md",
       "title": "How Watson Assistant helped UAMS answer the public’s health questions",
       "excerpt": "The University of Arkansas for Medical Sciences (UAMS) is the state’s only health sciences university. Located in Little Rock, Arkansas, its mission is to improve the health, health care and well-being of Arkansans and of others in the region, nation and the world. When the outbreak of COVID-19 spiked",
@@ -1275,111 +1372,6 @@
       ],
       "topics": [
         "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-inspiring-ais-future-leaders-a-discussion-with-rashida-hodge.md",
-      "title": "Inspiring AI’s Future Leaders: A Discussion With Rashida Hodge",
-      "excerpt": "In her current role at IBM, Hodge leads product integration of artificial intelligence and other emerging technologies for key IBM clients in North America .",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c8e22121f2b9de44b40c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "publishedDateTime": "2020-11-03T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-how-to-make-artificial-intelligence-less-biased.md",
-      "title": "How to Make Artificial Intelligence Less Biased",
-      "excerpt": "AI systems can unfairly penalize certain segments of the population—especially women and minorities. Researchers and tech companies are figuring out how to address that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "originalUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "publishedDateTime": "2020-11-03T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "IBM AI"
       ]
     }

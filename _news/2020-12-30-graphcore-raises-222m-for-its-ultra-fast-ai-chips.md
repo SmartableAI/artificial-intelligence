@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-29T19:02:00Z
 originalUrl: "https://siliconangle.com/2020/12/29/graphcore-raises-222m-ultra-fast-ai-chips/"
 webUrl: "https://siliconangle.com/2020/12/29/graphcore-raises-222m-ultra-fast-ai-chips/"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/graphcore.png"
@@ -183,6 +184,6 @@ related:
         height: 434
         isCached: true
 
-secured: "UA7mxDPEfzhk+ikLYO0xW2eG4QuSmS2u+i9x5a+3F2t1zkUCONcuRwj0xglryEGk0ZoQ1VtZIfEcireE0iiJTdUSkPSdxLe7Zj1dJCJ/lsADP7IWBP/Ycpkjy/8wdz8asYS+IWtnNIVOr1068cvOc5AIltWXSrdqplE8vQX8yV0yAKJW+rdyf1uxewXksuMJZWbOrr9qpQR+uMQ44fsgdXYMzG2HqPSlyu9gbOoDqQgMna24e2ekJd6QxRqZ8Sluel6/HqruoukS5mlF1e+D+1k3EfpS8IYSVL/Z5sWe9+I0m3kLmbOrq194+s2Z6NfKMSWTpJEe61CLq4C7zdUcGJCCosmf6EVYglBNkPl+Eg8=;vIQwdtXHPY9L9Am7wUy9eQ=="
+secured: "aqFhMb5/LFsanSqvonShwZuh+ZFPXc1WqP2uhKPvsZf1aqHzlXao53GbXNIE1QSUVm/Iuq1ROU1apGiwnqWKbk6SI32glyvRpy+TtMJ1wBbRa8Y9CpQ8sFRJZU6lV8kRXratatRU8sAdnG297u/5okmkHKJsZTxMNZnlUlR7JcpHIIoKGsAprmvnIVqyDd1OkCSnkST+lBIUEZkvWyModmhcxYVHwG7dgOo0JWLzDuVZmHGlCd3lWSLxggoth0r/wrbwa8w2XZiICNhECrEyubNXUPdkOd9ckigC21KKvxsE93TNTYUK381bY2wA5lOZ2eQY7TigcdBvzjHQmJcnefY3KzvtHV5Wu9mqGRuOls4x+G3peLzxh7peBlOGa1nzhkqSG5BX4Wuvh3eQMfYq6tAvFhQiax/M8o+hRytiSQGV8SAqoOw2R0paPeqc6myJ6E7JP2H7bIbBZXPVSmZUa/lOkb0A/cZbaSy9g1rOnGblnAy70dFUT/ABnTNSqGawCFjiWhahuQGez4yfCSJXGA==;WfWfZ8ShYCNNlc963EKOWQ=="
 ---
 

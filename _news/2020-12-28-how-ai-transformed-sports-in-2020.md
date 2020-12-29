@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence transforms today’s hearing aids"
-    excerpt: "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more."
-    publishedDateTime: 2020-12-29T13:44:00Z
-    webUrl: "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/"
-    ampWebUrl: "https://amp.news-press.com/amp/4007932001"
-    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001"
+  - title: "Here’s what happened in the world of artificial intelligence in 2020"
+    excerpt: "The year 2020 was long and treacherous, but the biggest bright spot for me was the official launch of Neural. That’s our AI sub-brand here at TNW and the section you’re reading this article in. More specifically,"
+    publishedDateTime: 2020-12-29T22:04:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
     type: article
     provider:
-      name: News-Press
-      domain: news-press.com
-    quality: 72
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/PFTM/8c57808c-00db-4b43-b9ae-de53dd5b5883-GettyImages-1284869697.jpg?auto=webp&crop=723,407,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2020roboarm-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
+  - title: "The Future of AI: AI's 10 To Watch"
+    excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
+    publishedDateTime: 2020-12-28T00:07:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9309122"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 17
 
 secured: "s1y2yOJjl6TIbzSNNjvpNhXuZvjbUIZ2+Qa3Fd7WejgXZC2/FrSIHjsDXkj6ElPWeIynaULOMevjeEdSmV087n2xR1WqRaWLE+dWQsF6vh2qiH38X6RZ7IswHKxHG0Bt2cKNLwZfUv0cZP3nH5L4vduB6YrA3uafxnNcVRrWl3BS4TA5iR80WfzyTSuZY+41HvY4sekOZ7uYtgTo6WPWVZHiDQWqHVQDJjGnFkptZf/povBdbGQzFNDncDYShWXGH/lX0+VB/NkZP3zIJ52d5f11Iqq+4YrcQdEqAntc33kFNTaVXUgN2UxhVmErFeBoYuFGnopYgjF/XdY84SRrmHxdaoXeqxvrJHCADRxcFqw=;q3CJ9MRJREeUy4maQBN4Kg=="
 ---

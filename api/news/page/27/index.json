@@ -2,6 +2,237 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-05-government-to-seek-advice-on-facial-recognition-tech-laws.md",
+      "title": "Government to seek advice on facial recognition tech laws",
+      "excerpt": "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html",
+      "originalUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html",
+      "publishedDateTime": "2020-12-04T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-governments-and-artificial-intelligence-policy-and-investment.md",
+      "title": "Governments And Artificial Intelligence, Policy And Investment",
+      "excerpt": "Over the last couple of years, it has become increasingly clear that many democratic governments have been taking a closer look at artificial intelligence (AI), both from a policy standpoint and as something to help their economies of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/",
+      "publishedDateTime": "2020-12-04T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience.md",
+      "title": "Web Summit: Terminus Group introduces the first AI CITY to global audience",
+      "excerpt": "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations.md",
+      "title": "How Artificial Intelligence Could Widen the Gap Between Rich and Poor Nations",
+      "excerpt": "New technologies like artificial intelligence, machine learning, robotics, big data, and networks are expected to revolutionize production processes, but they could also have a major impact on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/",
+      "originalUrl": "https://www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.imf.org/wp-content/uploads/2020/12/eng-ai-divergence-blog-nov-11-chart-1-1024x939.png",
+          "width": 1024,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/amp/",
+      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/amp/",
+      "publishedDateTime": "2020-12-04T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hellenic Shipping News Worldwide",
+        "domain": "hellenicshippingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-has-intuitive-surgical-only-scratched-the-surface-of-robotics.md",
+      "title": "Has Intuitive Surgical Only Scratched The Surface of Robotics?",
+      "excerpt": "Robotics-assisted surgery will keep growing for decades, and despite its hefty price, this stock is just getting started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "publishedDateTime": "2020-12-04T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-how-ai-is-making-an-impact-on-the-surveillance-world.md",
       "title": "How AI Is Making An Impact On The Surveillance World",
       "excerpt": "Numerous states are adopting sophisticated AI surveillance technologies -- some legitimate, some violating human rights and some of which fall into a gray area.",
@@ -940,257 +1171,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-automated-model-refresh-with-streaming-data.md",
-      "title": "Automated model refresh with streaming data",
-      "excerpt": "In today’s world, being able to quickly bring on-premises machine learning (ML) models to the cloud is an integral part of any cloud migration journey. This post provides a step-by-step guide for launching a solution that facilitates the migration journey for large-scale ML workflows. This solution was",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-model-refresh-with-streaming-data/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-model-refresh-with-streaming-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1505-1-509x630.jpg",
-          "width": 509,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T19:32:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment.md",
-      "title": "OctoML Announces Early Access for Its Machine Learning Platform for Automated Model Optimization and Deployment",
-      "excerpt": "Today at the Apache TVM and Deep Learning Compilation Conference, OctoML, the MLOps automation company for superior model performance, portability and productivity, announced early access to Octomizer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T18:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
-      "title": "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
-      "originalUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
-          "width": 960,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
-      "publishedDateTime": "2020-12-03T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-a-prominent-ai-ethics-researcher-says-google-fired-her.md",
-      "title": "A Prominent AI Ethics Researcher Says Google Fired Her",
-      "excerpt": "Timnit Gebru is a leader among those examining the societal impacts of the technology. She had also criticized the company's diversity efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
-      "originalUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 454,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fc950d9319157d9f1bd0ceb/master/pass/Business-Timnit%20Gebru-1028811892.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
-      "publishedDateTime": "2020-12-03T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-signing-order-on-principles-for-us-government-ai-use.md",
-      "title": "Trump signing order on principles for U.S. government AI use",
-      "excerpt": "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28D357",
-      "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28D357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D357",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357",
-      "publishedDateTime": "2020-12-03T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

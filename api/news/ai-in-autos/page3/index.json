@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief-report-says.md",
+      "title": "Apple shifts leadership of self-driving car division to AI chief, report says",
+      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says",
+      "originalUrl": "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-fords-self-driving-vehicles-deliver-food-school-supplies-to-families-in-need.md",
       "title": "Ford's self-driving vehicles deliver food, school supplies to families in need",
       "excerpt": "As Ford Motor Co. prepares to launch a commercial fleet of self-driving vehicles, it's learning from recent experiences using autonomous vehicles to deliver food and school supplies to families in ...",
@@ -1405,49 +1448,6 @@
         "AI in Autos",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-automakers-unveil-proposals-to-speed-us-self-driving-deployment.md",
-      "title": "Automakers unveil proposals to speed U.S. self-driving deployment",
-      "excerpt": "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "publishedDateTime": "2020-12-02T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

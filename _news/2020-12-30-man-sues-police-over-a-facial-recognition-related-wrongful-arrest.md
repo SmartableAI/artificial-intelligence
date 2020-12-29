@@ -80,6 +80,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
+    excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
+    publishedDateTime: 2020-12-29T21:27:00Z
+    webUrl: "https://threatpost.com/lawsuit-claims-flawed-facial-recognition-led-to-mans-wrongful-arrest/162663/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 54
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/12101942/Facial-Recognition-2.jpg"
+        width: 750
+        height: 499
+        isCached: true
   - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
     publishedDateTime: 2020-12-29T16:27:00Z
@@ -122,6 +136,6 @@ related:
         height: 382
         isCached: true
 
-secured: "NqUPl4M0J45vCyJ7FVsKXc1bcFohfcM1UiwTcHzN+bwMkqrxe1iP9KJ07AGm2T4+3ckSiTJrVLi1oq+iarhpzdkIMvm0X8fLNMSKkIqIUebT0PmcMs5h/ScjmgzaVlhw/GqPFUHMLxg5jNDCLjzY+Q/O9GE7JnXAEwnDgpSjtvSu9pJbHZz7o4k5K9g68X9pCjIcguwCRxU83OkXx0wz30TnVbwhqjnn+6FBioHSRKD4PLUsegbGHF2N2CDrvUJEp4B64TLu0hgU2GRW7xzcgWOLjMy5EO8Sf608SVHkgo3/TSp70tf6TZqWgeOAMuRY3SB2dles3UZlnw+zjUJAQ4d28oSPG7k9mWXeO+PhKDc=;Z5BnuSi3s92Ac7cWZaD8+g=="
+secured: "NRewzmPga9AsJ3z7WyCyBYzIvb7krlBHqBkyBrZskR1rhYBRBW4bT+ZdJ4rKTbnW/s1cO2DSZnaQvf5WgTBnTL37oWuuRilFrrVhIFv25nx2vHFDUwk1lNR6W9T8pzy0iMoc4ArYeCvKqJIO1ukKlWVjUAQQbMcAf12ixLTSsr/KL4f2JwVpyiEaanIxF06RMoDBcyq2pVgYdglUXAAJPCVZxiepGUROj16auHvyBZ0N44ahRRjxf+ITXkE4eyPgnZBEbQjXaQBGYYa69faqH4FUTbeMXeVVR1E9NgE7TeLxYw4b+1ArcS1xjF2MV2j/nDxpi7yb29DHK4Tbr51cVe3Ks9bXhAiRCyFv0N+ZnyX1YFCRfCGLh7mDohFloURVbBiRfpmKe+a6yl3gyyxSWYn0KtSq9GXkfbtFVwrmdAv530piSs8i7WY51uNgNOEpk/cqoT/7kiUsQyeIRFE+V/qX4tDQOEbocAG5r31PPa72GINk/Lr0O8sgvDVcGUdAksqZhdWG1qlXtXrhsNrefg==;/NRmmuA1CAWWVOPCIAU8tA=="
 ---
 

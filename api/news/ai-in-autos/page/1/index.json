@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-tesla-offers-3-months-of-free-full-self-driving-package-as-unprecedented-end-of-quarter-incentive.md",
+      "title": "Tesla offers 3 months of free Full Self-Driving package as unprecedented end-of-quarter incentive",
+      "excerpt": "Tesla is offering three months of a free Full Self-Driving (FSD) package as an unprecedented end-of-quarter incentive to deliver more vehicles, according to sources. Over the years, Tesla has come up with several incentives to encourage buyers to take delivery by the end of a quarter in order to boost its earnings.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/",
+      "originalUrl": "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Model-X-hero-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/amp/",
+      "publishedDateTime": "2020-12-29T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-zacks-analyst-blog-highlights-baidu-tesla-general-motors-ford-and-volkswagen.md",
       "title": "The Zacks Analyst Blog Highlights: Baidu, Tesla, General Motors, Ford and Volkswagen",
       "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Baidu Inc.",
@@ -1357,51 +1409,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

@@ -114,6 +114,20 @@ related:
         width: 395
         height: 250
         isCached: true
+  - title: "Global Contact Center AI Software Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
+    excerpt: "Global Contact Center AI Software Market Growth (Status and Outlook) 2020-2025 is the latest market report rolled out by MarketandResearch.biz, one of the world’s leading market research firms. The report contains a detailed description of all the major market components such as global status and trend,"
+    publishedDateTime: 2020-12-29T21:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-contact-center-ai-software-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-12-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
     excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The global facial recognition market was valued at USD 4."
     publishedDateTime: 2020-12-28T22:42:00Z

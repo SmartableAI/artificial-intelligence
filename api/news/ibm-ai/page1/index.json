@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-20-5-companies-owned-by-ibm.md",
+      "title": "5 Companies Owned by IBM",
+      "excerpt": "which will enable IBM to expand the capabilities of its Watson artificial intelligence (AI) system. AI machine learning systems such as Watson require large amounts of data from which they are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
+      "originalUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/BwRRso7Oa0D_Z0tRTwIibhYH8tY=/1783x1265/filters:fill(auto,1)/ibm-logo-3-56a81a2c3df78cf7729c1f61.jpg",
+          "width": 1783,
+          "height": 1265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investopedia.com/amp/companies-owned-by-ibm-5092453",
+      "cdnAmpWebUrl": "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/companies-owned-by-ibm-5092453",
+      "publishedDateTime": "2020-12-19T15:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-top-marketers-highlight-5-common-themes-about-the-impact-of-2020-on-business.md",
       "title": "Top marketers highlight 5 common themes about the impact of 2020 on business",
       "excerpt": "CMO at IBM Watson Advertising and Weather, emphasized that messaging be as relevant as possible during times of uncertainty, noting how IBM’s clients are leveraging their technology to do just this. “We’re using AI to help clients be more responsive ...",
@@ -223,6 +266,58 @@
         "name": "The Next Platform",
         "domain": "nextplatform.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027-live-now.md",
+      "title": "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now",
+      "excerpt": "Answer: Emergence of AI (Artificial Intelligence ... across several healthcare facilities are propelling the growth of global IBM Watson services market. Answer: Key participants of global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1318,103 +1413,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
-      "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
-      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
-      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas.md",
-      "title": "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS",
-      "excerpt": "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

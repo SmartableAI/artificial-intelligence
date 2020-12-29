@@ -2,6 +2,233 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-12-02-qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse.md",
+      "title": "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse",
+      "excerpt": "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
+      "originalUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
+      "publishedDateTime": "2020-12-02T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-facial-recognition-software-getting-better-with-mask-wearers-says-study.md",
+      "title": "Facial recognition software getting better with mask wearers, says study",
+      "excerpt": "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/",
+      "originalUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/",
+      "publishedDateTime": "2020-12-02T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
+      "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-artificial-intelligence-in-healthcare-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2029",
+      "excerpt": "(MENAFN - America News Hour) The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101222196/Artificial-Intelligence-in-Healthcare-Market-2021-Global-Industry-Size-Demand-Growth-Analysis-Share-Revenue-and-Forecast-2029",
+      "originalUrl": "https://menafn.com/1101222196/Artificial-Intelligence-in-Healthcare-Market-2021-Global-Industry-Size-Demand-Growth-Analysis-Share-Revenue-and-Forecast-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?643381",
+          "width": 414,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-industry-forecasts-to-2025.md",
+      "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Forecasts to 2025",
+      "excerpt": "A New Market Study, titled 'Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and Challenges' has been featured on WiseGuyReports.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101222392/Global-Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-Industry-Forecasts-to-2025",
+      "originalUrl": "https://menafn.com/1101222392/Global-Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-Industry-Forecasts-to-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?231090",
+          "width": 373,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-servicenows-ai-chief-on-solving-the-last-mile-problem-for-enterprise-ai.md",
       "title": "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI",
       "excerpt": "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise.",
@@ -944,247 +1171,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-24.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) Shares Up 2.4%",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) shot up 2.4% during trading on Tuesday . The company traded as high as $32.46 and last traded at $32.40. 1,041,867 shares traded hands during mid-day trading,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp",
-      "publishedDateTime": "2020-12-02T00:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success.md",
-      "title": "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success",
-      "excerpt": "The online meet-up ' 10X Extension in Luxembourg ' held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:   (Graphic: Business Wire) The meet-up was organized for the purpose of business matching between the startups of the Seoul Fintech Lab that wish to enter the European market and investors and financiers in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success/article_d8343a16-1e9e-543b-bbea-6fca15633df2.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success/article_d8343a16-1e9e-543b-bbea-6fca15633df2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/01/001cdcb4-5558-50ff-9281-772eb269301e/5fc75176aef04.image.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads.md",
-      "title": "Qualcomm’s Snapdragon 888 harnesses ‘fusion AI’ to offset processor workloads",
-      "excerpt": "To make mobile AI more powerful, Qualcomm has focused on removing physical boundaries in accelerator technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/11/30/577ea1b6-fc17-4b65-a205-3cf6f0fae1ad/screenshot-2020-11-30-at-13-46-36.png",
-          "width": 2096,
-          "height": 1266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
-      "publishedDateTime": "2020-12-01T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-massachusetts-lawmakers-pass-state-wide-police-ban-on-facial-recognition.md",
-      "title": "Massachusetts lawmakers pass state-wide police ban on facial recognition",
-      "excerpt": "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "originalUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "publishedDateTime": "2020-12-01T22:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video.md",
-      "title": "Google’s AI experiment syncs every ‘Bad Guy’ song cover in an endless video",
-      "excerpt": "We’ve seen some cool AI-based musical experiments from Google’s team recently, including a virtual piano and a voice-to-music converter. The company’s latest experiment is a bit different: an infinite version of Billie Eilish’s hit song,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-02-at-10.33.59-AM-e1606885653487-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/amp/",
-      "publishedDateTime": "2020-12-01T21:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

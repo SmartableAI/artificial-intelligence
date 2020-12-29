@@ -2,6 +2,154 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-17-monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor.md",
+      "title": "Monitoring in-production ML models at large scale using Amazon SageMaker Model Monitor",
+      "excerpt": "Machine learning (ML) models are impacting business decisions of organizations around the globe, from retail and financial services to autonomous vehicles and space exploration. For these organizations, training and deploying ML models into production is only one step towards achieving business goals.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/15/ML-1764-1.jpg",
+          "width": 800,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T11:56:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-researchers-use-artificial-intelligence-to-id-mosquitos.md",
+      "title": "Researchers use artificial intelligence to ID mosquitos",
+      "excerpt": "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
+      "publishedDateTime": "2020-12-17T11:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.md",
+      "title": "Intel debuts 'Clover Falls' companion chip for better laptop AI",
+      "excerpt": "Intel launches 'Clover Falls,' a companion chip that will help commercial laptops sense and adapt to their surroundings and strengthen Intel's 'Evo' PC platform message.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.html",
+      "originalUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/12/intel-platform-approach-100871412-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html",
+      "publishedDateTime": "2020-12-17T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence.md",
       "title": "It Is Time To Stop Talking About Moore’s Law When Discussing Artificial Intelligence",
       "excerpt": "That is scale-out, and is what continues to push forward the frontiers of AI. It also has nothing to do with Moore’s Law. Unfortunately, too many people have heard about the law as part of technology culture,",
@@ -531,6 +679,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027-live-now.md",
+      "title": "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now",
+      "excerpt": "Answer: Emergence of AI (Artificial Intelligence ... across several healthcare facilities are propelling the growth of global IBM Watson services market. Answer: Key participants of global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-climate-change-falls-down-the-agenda-at-ai-lab-deepmind-after-energy-heads-leave.md",
       "title": "Climate change falls down the agenda at A.I. lab DeepMind after energy heads leave",
       "excerpt": "The DeepMind Energy unit, which has attracted its fair share of attention over the years, has vanished and none of the company’s staff mention it on their LinkedIn profiles. At one point, DeepMind wanted to use its AI technology to optimize National Grid,",
@@ -986,206 +1186,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl.md",
-      "title": "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL",
-      "excerpt": "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/Solution.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T12:05:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-brain-controlled-gaming-exists-though-ethical-questions-loom-over-the-tech.md",
-      "title": "Brain-controlled gaming exists, though ethical questions loom over the tech",
-      "excerpt": "Celebrities and tech companies ranging from the game developer Valve to Elon Musk are invested in its revolutionary potential. But even as BCI research holds remarkable promise for Copeland and those like him,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
-      "originalUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRG3FCQEOZEVXE4JZOAOOANZRI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
-      "publishedDateTime": "2020-12-16T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-see-walmarts-self-driving-delivery-trucks-in-action.md",
-      "title": "See Walmart's self-driving delivery trucks in action",
-      "excerpt": "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
-      "originalUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
-      "publishedDateTime": "2020-12-16T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
-      "title": "Exclusive-China search giant Baidu considers making own electric vehicles -sources",
-      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/baidu-auto-exclusive-idUKKBN28P165",
-      "originalUrl": "https://uk.reuters.com/article/baidu-auto-exclusive-idUKKBN28P165",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2",
-      "publishedDateTime": "2020-12-16T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -89,6 +89,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
+    excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
+    publishedDateTime: 2020-12-29T21:27:00Z
+    webUrl: "https://threatpost.com/lawsuit-claims-flawed-facial-recognition-led-to-mans-wrongful-arrest/162663/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 54
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/12101942/Facial-Recognition-2.jpg"
+        width: 750
+        height: 499
+        isCached: true
   - title: "Why is it not just a matter of recognition?"
     excerpt: "Pakistan cannot afford to recognize IsraelBy Wazir Zafar HassanThe posture of Arab states towards Israel is becoming soft. They want to establish relations with Israel. After a move by the"
     publishedDateTime: 2020-12-25T17:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-mis
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
 type: article
 quality: 103
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://wp-assets.futurism.com/2020/12/lawsuit-claims-ai-sent-wrong-man-jail-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
+    excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
+    publishedDateTime: 2020-12-29T21:27:00Z
+    webUrl: "https://threatpost.com/lawsuit-claims-flawed-facial-recognition-led-to-mans-wrongful-arrest/162663/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 54
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/12101942/Facial-Recognition-2.jpg"
+        width: 750
+        height: 499
         isCached: true
   - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."

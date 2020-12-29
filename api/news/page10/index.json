@@ -2,6 +2,206 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-16-training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl.md",
+      "title": "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL",
+      "excerpt": "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/Solution.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T12:05:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-brain-controlled-gaming-exists-though-ethical-questions-loom-over-the-tech.md",
+      "title": "Brain-controlled gaming exists, though ethical questions loom over the tech",
+      "excerpt": "Celebrities and tech companies ranging from the game developer Valve to Elon Musk are invested in its revolutionary potential. But even as BCI research holds remarkable promise for Copeland and those like him,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
+      "originalUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRG3FCQEOZEVXE4JZOAOOANZRI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-see-walmarts-self-driving-delivery-trucks-in-action.md",
+      "title": "See Walmart's self-driving delivery trucks in action",
+      "excerpt": "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "publishedDateTime": "2020-12-16T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "Exclusive-China search giant Baidu considers making own electric vehicles -sources",
+      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/baidu-auto-exclusive-idUKKBN28P165",
+      "originalUrl": "https://uk.reuters.com/article/baidu-auto-exclusive-idUKKBN28P165",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2",
+      "publishedDateTime": "2020-12-16T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy.md",
       "title": "From whistleblower laws to unions: How Google’s AI ethics meltdown could shape policy",
       "excerpt": "Unionization of AI ethics researchers and stronger whistleblower protections are being discussed two week after Google fired Timnit Gebru.",
@@ -1037,214 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more.md",
-      "title": "Tesla Full Self-Driving in hacked AR view looks fascinating, and more",
-      "excerpt": "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
-      "originalUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
-      "publishedDateTime": "2020-12-16T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-ibm-says-managers-that-use-ai-will-usurp-those-that-dont.md",
-      "title": "IBM says managers that use AI will usurp those that don't",
-      "excerpt": "AI won't replace managers but managers that know how to use it will usurp those that don't, according to IBM. The comments were made to CNBC by the tech giant's senior VP of cloud and data, Rob Thomas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/careers-training/358152/ibm-suggests-managers-who-know-about-ai-will-usurp-those",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/careers-training/358152/ibm-suggests-managers-who-know-about-ai-will-usurp-those",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1608118907/itpro/IBMTrees_shutterstock.jpg",
-          "width": 1000,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-the-four-mistakes-that-kill-artificial-intelligence-projects.md",
-      "title": "The Four Mistakes That Kill Artificial Intelligence Projects",
-      "excerpt": "By Joey Bertschler, data analyst for Uniworld.io: artificial intelligence for B2B and B2C. I came across a Quora question recently that asked, “What makes AI projects fail?” It’s a valid question: The vast majority of artificial intelligence (AI) projects fail,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd9017bfb580cfe3fe8ef74%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/amp/",
-      "publishedDateTime": "2020-12-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-fun-machine-learning-experiment-creates-a-vocal-opera-in-your-browser.md",
-      "title": "Fun machine learning experiment creates a vocal opera in your browser",
-      "excerpt": "Google's Arts and Culture lab has launched a clever browser experiment in collaboration with David Li. The Blob Opera puts four operatic voices at your disposal to create glorious AI-driven performances.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "originalUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/afd589d/2147483647/strip/true/crop/1071x714+65+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9e%2F02%2F996578d848038d6c195522c0ef87%2F01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "publishedDateTime": "2020-12-16T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?909209"
         width: 395
         height: 250
+        isCached: true
+  - title: "Global Contact Center AI Software Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
+    excerpt: "Global Contact Center AI Software Market Growth (Status and Outlook) 2020-2025 is the latest market report rolled out by MarketandResearch.biz, one of the world’s leading market research firms. The report contains a detailed description of all the major market components such as global status and trend,"
+    publishedDateTime: 2020-12-29T21:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-contact-center-ai-software-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-12-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Speech and Voice Recognition Market Size, Outlook, Geographical Segmentation, Business Challenges and Opportunities till 2026"
     excerpt: "Dec 26, 2020 (The Expresswire) -- The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."

@@ -2,6 +2,258 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-11-20-uber-shops-for-self-driving-partners-or-even-selling-its-project.md",
+      "title": "Uber Shops For Self-Driving Partners Or Even Selling Its Project",
+      "excerpt": "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/",
+      "publishedDateTime": "2020-11-19T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-us-regulators-open-process-to-ensure-self-driving-car-safety.md",
+      "title": "U.S. regulators open process to ensure self-driving car safety",
+      "excerpt": "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
+      "originalUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM",
+      "publishedDateTime": "2020-11-19T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-facebook-says-its-getting-better-at-using-ai-to-take-down-hate-speech.md",
+      "title": "Facebook says it's getting better at using AI to take down hate speech",
+      "excerpt": "(CNN)Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "originalUrl": "https://edition.cnn.com/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118174256-facebook-on-smartphone-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html",
+      "publishedDateTime": "2020-11-19T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post.md",
+      "title": "Nvidia RTX 2080, 2070, 2060 Black Friday Deals (2020): Top Early GPU Sales Monitored by The Consumer Post",
+      "excerpt": "Save on Nvidia RTX graphics card deals at the early Black Friday 2020 sale, including RTX 2080 ti, 2080 super, 2070 super, 2060 super & more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post-1029826464",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post-1029826464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Nvidia-RTX-2080-2070-2060-Black-Friday-Deals-2020-Top-Early-GPU-Sales-Monitored-by-The-Consumer-Post-1029826464",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nvidia-RTX-2080-2070-2060-Black-Friday-Deals-2020-Top-Early-GPU-Sales-Monitored-by-The-Consumer-Post-1029826464",
+      "publishedDateTime": "2020-11-19T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-arm-expands-access-to-endpoint-ai-for-iot-devices.md",
+      "title": "Arm expands access to endpoint AI for IoT devices",
+      "excerpt": "The rise of smartphones and the growing presence of IoT devices share one undeniable similarity, the fact that the Arm ecosystem is the driving force behind both. The chip designer is in a unique position to drive innovation and adoption of IoT due to the fact that Arm technology touches 70 percent of the world's population as 180bn Arm-based chips have been shipped since the company was founded 30 years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "originalUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
+          "width": 600,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "publishedDateTime": "2020-11-19T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-3-rising-aiml-startups-from-south-korea.md",
       "title": "3 rising AI/ML startups from South Korea",
       "excerpt": "The South Korean government announced a renewed focus on artificial intelligence early this year ... areas in natural language processing (NLP) research, and it has not been studied much.",
@@ -936,260 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions.md",
-      "title": "DLT Solutions Bolsters Hybrid Cloud, AI, Security and Other Software Offerings for the U.S. Public Sector with IBM Solutions",
-      "excerpt": "IBM Cloud Paks integrate the power of IBM Watson enabling clients to infuse AI into their systems to help automate complex processes, optimize employees' time and create more meaningful customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions-2020-11-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions-2020-11-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-uber-looks-to-partner-with-self-driving-companies-ceo-says.md",
-      "title": "Uber Looks to Partner With Self-Driving Companies, CEO Says",
-      "excerpt": "The remarks come days after a media report said the company was in discussions to sell its autonomous-vehicle unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601521%2Fgettyimages-994728156.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "publishedDateTime": "2020-11-19T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-natural-language-processings-impact-on-marketing.md",
-      "title": "Natural Language Processing's Impact on Marketing",
-      "excerpt": "So what does the surge in NLP use cases and technologies mean for AI in marketing? It’s huge if you ask Paul Roetzer, CEO and founder of the PR 20/20 and the Marketing Artificial Intelligence Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/9b53e77ff6714bfa8801c955a1e1bfc5.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "publishedDateTime": "2020-11-19T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-zapata-raises-38-million-for-quantum-machine-learning.md",
-      "title": "Zapata raises $38 million for quantum machine learning",
-      "excerpt": "Zapata Computing has raised $38 million for its quantum computing enterprise software platform. The figure, which brings its total funding to over $64 million, will be put toward Zapata’s core ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/i.ytimg.com/vi/5h_i4Po9Wds/hqdefault.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "publishedDateTime": "2020-11-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-the-new-m1-macs-make-cutting-edge-machine-learning-workstations.md",
-      "title": "The new M1 Macs make cutting-edge, machine-learning workstations",
-      "excerpt": "When you think of programming machine-learning PCs, hard-core developers dreams turn to high-priced powerhouse machines running Linux. But a recent benchmark by TensorFlow programmers showed that Macs powered by Apple's new M1 chip can give these boxes a run for their money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "originalUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/12/1e1a25bd-00e5-4234-9946-12c7f553eb0b/thumbnail/1200x675/8fcd7ac18ce1610fca957b4c1e46af19/20201111-j2-m1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "publishedDateTime": "2020-11-19T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

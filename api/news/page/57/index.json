@@ -2,6 +2,238 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-14-uber-reportedly-may-sell-its-self-driving-car-division-to-rival-aurora.md",
+      "title": "Uber reportedly may sell its self-driving car division to rival Aurora",
+      "excerpt": "Uber is in talks to sell its autonomous vehicle unit to startup competitor Aurora Innovation, TechCrunch reported. If it comes to pass, the sale of Uber Advanced Technologies Group (UberATG), would mark the end of a bumpy road for a division of Uber that was valued at $7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
+      "originalUrl": "https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/1XMcOjiwPbJUbvLh6RtxKtpxphM=/0x0:2376x1782/1400x933/filters:focal(1101x896:1481x1276):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67789235/UberSF_TA_1.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
+      "publishedDateTime": "2020-11-14T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-uber-could-soon-pawn-off-its-scandal-ridden-self-driving-vehicle-branch-to-startup-aurora.md",
+      "title": "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Startup Aurora",
+      "excerpt": "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
+      "originalUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
+      "publishedDateTime": "2020-11-14T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-uber-is-reportedly-in-talks-to-sell-its-self-driving-unit.md",
+      "title": "Uber is reportedly in talks to sell its self-driving unit",
+      "excerpt": "After years of development and some shocking incidents, the next step for Uber’s self-driving unit could be a sale. As first reported by TechCrunch and later Reuters, anonymous sources say Uber ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
+      "originalUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-02%2F5430acb0-4849-11ea-bbd7-fbd5befa7a93&client=amp-blogside-v2&signature=2cfe9b6f341db4e0e9a10ae572671c025ad82408",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
+      "publishedDateTime": "2020-11-14T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
+      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
+      "excerpt": "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
+      "originalUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
+      "publishedDateTime": "2020-11-14T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies.md",
+      "title": "EY India acquires IIT alumni backed AI startup Spotmentor Technologies",
+      "excerpt": "EY India has acquired an artificial intelligence backed human resource technology startup Spotmentor Technologies. The company, however, did not disclose the financial transaction involved in the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/india_startup_505_141120045507.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html",
+      "publishedDateTime": "2020-11-14T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-google-ml-framework-tensorflow-hits-160mn-downloads.md",
       "title": "Google ML framework TensorFlow hits 160mn downloads",
       "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open ...",
@@ -974,250 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
-      "title": "Computer vision app allows easier monitoring of diabetes",
-      "excerpt": "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201113124045.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201113124045.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon.md",
-      "title": "Amazon begins shifting Alexa’s cloud AI to its own silicon",
-      "excerpt": "On Thursday, an Amazon AWS blog post announced that the company has moved most of the cloud processing for its Alexa personal assistant off of Nvidia GPUs and onto its own Inferentia Application Specific Integrated Circuit (ASIC).",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
-      "originalUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/InferentiaSmall-640x380.jpg",
-          "width": 640,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-a-covid-19-surge-of-depression-and-anxiety-is-being-treated-by-robots.md",
-      "title": "A Covid-19 surge of depression and anxiety is being treated by robots",
-      "excerpt": "Robots can't do that yet ... Investment in U.S.-based, AI-powered digital health start-ups it has tracked since 2011 are above $10 billion, with investment in mental/behavioral health AI reaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "publishedDateTime": "2020-11-13T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-speech-and-voice-recognition-market-opportunity-assessment.md",
-      "title": "Speech and Voice Recognition Market Opportunity Assessment",
-      "excerpt": "The Speech and Voice Recognition report provides CAGR values along with its fluctuations for the specific forecast period. The Speech and Voice Recognition report has been generated by taking into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2187632/speech-and-voice-recognition-market-opportunity-assessment",
-      "originalUrl": "https://www.openpr.com/news/2187632/speech-and-voice-recognition-market-opportunity-assessment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb13285808_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2187632/speech-and-voice-recognition-market-opportunity-assessment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187632/speech-and-voice-recognition-market-opportunity-assessment",
-      "publishedDateTime": "2020-11-13T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library.md",
-      "title": "PyTorch Developer Day brings a number updates to the machine learning library",
-      "excerpt": "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "originalUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png",
-          "width": 498,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

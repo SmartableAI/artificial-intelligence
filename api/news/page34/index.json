@@ -2,6 +2,220 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-01-servicenow-now-set-to-acquire-ai-focused-startup-element-ai.md",
+      "title": "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI",
+      "excerpt": "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01",
+      "originalUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp",
+      "publishedDateTime": "2020-12-01T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation.md",
+      "title": "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation",
+      "excerpt": "Baidu has been granted 2,682 AI-related patents and has filed a total of 9,364 AI-related patent applications as of October 2020, ranking No. 1 in applications for the third consecutive year. Baidu’s patent applications were followed by Tencent (8,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-deepmind-cracks-50-year-old-protein-folding-problem.md",
+      "title": "DeepMind cracks 50-year-old ‘protein folding problem’",
+      "excerpt": "Deepmind, the UK-based AI company and a subsidiary of Alphabet, has produced a solution to the grand challenge of protein structure prediction. The breakthrough could accelerate biological research, unlocking new possibilities in drug discovery and disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
+      "originalUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/14550/protein-concept.jpg?crop=0,0.21556387848522682,0,0.292863087806908&cropmode=percentage&width=1200&height=450&rnd=132513011150000000",
+          "width": 1200,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-cyber-security-cloud-launches-wafcharm-on-microsoft-azure.md",
+      "title": "Cyber Security Cloud Launches WafCharm on Microsoft Azure",
+      "excerpt": "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls.md",
+      "title": "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls",
+      "excerpt": "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/",
+      "publishedDateTime": "2020-12-01T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works.md",
       "title": "Microsoft teams up with Code.org to teach students how AI works",
       "excerpt": "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation.",
@@ -934,240 +1148,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-veritone-aiware-supports-nvidia-cuda-platform-for-gpu-aiml.md",
-      "title": "Veritone aiWARE Supports NVIDIA CUDA Platform for GPU AI/ML",
-      "excerpt": "Veritone aiWARE announced that it now supports the NVIDIA CUDA platform, which will enable organizations to run intensive artificial intelligence (AI) and machine learning (ML) tasks on NVIDIA GPUs, Veritone reported on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
-      "originalUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://executivegov-media.s3.amazonaws.com/2020/11/30/08/5d/27/de/b1/be/83/d4/technology_2020118.png",
-          "width": 272,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese.md",
-      "title": "Amazon Transcribe streaming adds support for Japanese, Korean, and Brazilian Portuguese",
-      "excerpt": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy to add speech-to-text capabilities to your applications. Today, we’re excited to launch Japanese, Korean, and Brazilian Portuguese language support for Amazon Transcribe streaming. To deliver streaming transcriptions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T13:10:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion.md",
-      "title": "Facebook Nears Purchase of Startup in Deal That Values It at $1 Billion",
-      "excerpt": "Facebook is nearing a deal to buy Kustomer, which specializes in customer-service platforms and chatbots, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "originalUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=hp_lead_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-265924/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "publishedDateTime": "2020-11-30T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum.md",
-      "title": "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum",
-      "excerpt": "DUBLIN, Nov. 30, 2020 /PRNewswire/ -- The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic Tool; Application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18581940/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbr",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18581940/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18581940",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18581940",
-      "publishedDateTime": "2020-11-30T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-raytheon-intelligence-space-and-c3ai-form-alliance-to-accelerate-military-ai-adoption.md",
-      "title": "Raytheon Intelligence & Space and C3.ai Form Alliance to Accelerate Military AI Adoption",
-      "excerpt": "Faster availability of AI will improve military readiness Business Wire REDWOOD CITY, Cali",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intelligence-space-and-c3-ai-form-alliance-to-accelerate-military-ai-adoption",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intelligence-space-and-c3-ai-form-alliance-to-accelerate-military-ai-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

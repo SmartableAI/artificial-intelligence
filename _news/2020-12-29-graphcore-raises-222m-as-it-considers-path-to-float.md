@@ -177,13 +177,13 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/graphcore.png"
         width: 795
         height: 445
         isCached: true
 
-secured: "gsNiOKYr4XMEUsKTl2ld9BP/UEPmY5E6cTQ9FX6hxZMYyMd1xEh6U5kNeRpg0RIGt1diDpSm3K6OoGjTt7vJrM14EiuI4rxtLUW1q1R2V4HTkq8OO6tQZWFfDjRHtDHUr1PCUkII4hmLFQSSs3dkP3KfjXqFgjyWpg33DbMa2rdo9N/KNhwgu5R67wT+9y0Ojaeli2DM1p974ymskAAMjmPn/w1Kax2xjx5AAri2ar9ZkiVAOjYb0/n1EPOt+pUZJeIjd/wI12q0KS+xoI9MY7q4QUOk04u4ZtpXWuaB0QAvCAMitGgb8dHPXK3LHFz8qI4XKLsRI5CRp7VuD5HJpjrf2rjA2frXhbXAnATl/6Q=;lI2AvvFxxtzhHdl55lXD4g=="
+secured: "yiqNnqQMypD9bRCXqY3uMqUDEMzAKPzcQhaKcjNPp0CRZx/PLe+lOS8L9QVQBhyVDW9F+qcqwY+y0MXBKboCYcM9y2bL/k/ZHYWLvcQvglsNay3tIMARf8z/dIZEpabqXye8WhArrj8E3l+0BgD2N2VnOa7xpbpHexDH2MyvXBZoEttZopWUkhmxmThf28TZva2FPLkgWJ8IUtgP4Syu5mjFurfdwbaAdMUksd8zE1WAWCf6Z1xdMJis0iP0zcaxs+tHKqh9T96WOtDYmPlmHUDnTu/WgysooJPC5ds+KESqihhQkLORnANI9FAwhuGtLiqUkV8fsZaWEbmW7gd6J7YqHXQEcjBw73PsX896Uam38SRxsoiKvBwsaJ7OHEJS7i5ClDCdv+snRr6h1ghvAaMqiX1fDFLDYbQUmglZ1EQ4Ad27OSYO8bRSHhXp77yyFKVTHn5JYpki93CzJ886oa9Ykvk9dZBn1eDUSv0uHdINJ4cCP5z5atbB1GXed2Qf2Bt4KNMBZqQJJB4fNUSbzQ==;dXOnU6IBA4qaB44Pb/aeUQ=="
 ---
 

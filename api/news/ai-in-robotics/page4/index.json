@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-23-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-robots-invade-the-construction-site.md",
       "title": "Robots invade the construction site",
       "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
@@ -1342,49 +1385,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-making-sense-of-the-ai-landscape.md",
-      "title": "Making Sense of the AI Landscape",
-      "excerpt": "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1",
-      "originalUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
-      "publishedDateTime": "2020-11-16T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

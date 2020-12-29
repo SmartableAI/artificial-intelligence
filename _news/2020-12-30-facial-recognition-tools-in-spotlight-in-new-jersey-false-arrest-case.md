@@ -79,6 +79,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
+    excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
+    publishedDateTime: 2020-12-29T21:27:00Z
+    webUrl: "https://threatpost.com/lawsuit-claims-flawed-facial-recognition-led-to-mans-wrongful-arrest/162663/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 54
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/12101942/Facial-Recognition-2.jpg"
+        width: 750
+        height: 499
+        isCached: true
   - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
     publishedDateTime: 2020-12-29T16:27:00Z
@@ -121,6 +135,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ksXFIMXfzZBNKnq8FPIWeNUqDd3AUzvwE3Rcnk7iI3rMm7OoHLJfv1LDOoUgj3G+vLHiSiQyYw5oPPYi00rC3EcoavNHSMJF6ahYTRHriIX1hz5Osco7BytJuyks0+AYtrs7ARk2igbp+3olCrg3mIbmUmiR5hzzJdmkqqG1z7Et9WvNSm226kHDOSvoavrwSA+rSV4cf6DJ6R2YU4OiM8/E88MoXSzkkqCAp/sCJAMj57Ax/XtdBAp40tdU7XXUVk14NC+s1+5CGe9U5VAMtWwOPVXfXy/3D/nBL4hosSw95Hu2/sODAC+PeoW4zJfoc1DSJWRqWRS+sLeZxRlxhAFNLFklbQ4hVi/i3PS708s=;gi6TsvIYxWx5eQGzOSKZ7g=="
+secured: "ZyLcfUUk67z2skyc6acmweRiF+SV+9RbYOfY/8uR4UdM/Zy11fLZGghEy/QC/m0gfTnIix0eioBWOzK/GJA9vzddPOZVHMt+Og7sy5Dy6zB6znCJ1A2C/pNS82f5mbqwQn9OJxcYcFgGJOA4pVDhQJ4XJsjiX38/P3tRIxEQoMCs2uBALh+ZBHUmwJEOYP8F3gFgMdtiifZatD2vSJjZwIctBZYH4e3Ohco4QsSgKp0iw2O++FuidNBcQ8OXtnNrgLhu5eL+fbjqVMMjWD+C/GFekutquwObWZJZ2h0iD78T9xKTYj0hMLTq7U8Jiz/LO6JeHsqc5fzE99UKPDHA1fc/6tIEwIIeZTo0W9itgcRoXg3mTCTCTHHk1sJecgY6wA+z9O1+aC+gJZIJQzYcdDW/PNt/ipstT44dIbY3VmWu8l6n/j6tkhs9bKW5ux2k3CGahU6KxtRlayczdziqJ8Qt3h8DR6CYXNPaAlXvljx/K8p5L7OXzQwi3QViAhu7R4Lmpk7QFe4BbbsxIF2Ibw==;lZs0zCioAmdoRhU+X1Kqqg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.news-press.com/amp/4007932001"
 cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "How AI Transformed Sports In 2020"
-    excerpt: "Analytics India Magazine collated a list of how different aspects of sports significantly transformed in 2020 due to the use of AI."
-    publishedDateTime: 2020-12-28T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-transformed-sports-in-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/tim-gouw-VvQSzMJ_h0U-unsplash-scaled.jpg"
-        width: 2560
-        height: 1711
-        isCached: true
 
 secured: "q+toHi0Efld95BhthdyzLz3h0kIHSkfW2Wnfm43NbGV1haiPbx3T40IEnG36CP2ihc2fGJP2jq0GZgjJOi1EAvP+Crl6skISBpunwG59mfe6OtD+EMDtro7LppRUlevXsV9lXRmmgcS85d6A91uLlQ7tBjD37iUO3IUOdOrcGTmSoAaLsy+s9TJRMZ9+sGl9d7ch2VUdY8kzGsVAbYfESuI72zXQBcs3ZZuE5YN5e2lq2SrEgXoIj7cGPaDdwonfm0Iy5Kx9LEQPz4U2m7O4klJoEcvpWM2jb6LIUqUlddFHw/Ie79kz25AIqt3avpE+dYitxJR505t8J3IbyQdBPQo0EwTP2stT85DougZAw+d7LU62dUFt1/RsPpk8+oKoJ9VzkriMdNVaH0bAIj/hLm6sKHSt6ARBu91QkwXwe6KB4YGa70F+fyHWEwPvBcYkWkPwfXnRXdLBStHyp25aZmjRy7OqC60OEz36bFUXU6hpCkeH//6GenZo1xFwisQi5o/v+2ISGs6IRjTXU+OTQg==;aFx2EluZ5JW7gkrgeHJJaQ=="
 ---
