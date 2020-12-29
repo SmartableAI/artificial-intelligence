@@ -2,6 +2,40 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-11-06-7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era.md",
+      "title": "7 Autonomous Vehicle Stocks to Buy As Transpiration Enters a New Era",
+      "excerpt": "Baidu is primarily known as the “Google of ... GM’s autonomous vehicle unit Cruise announced on Oct. 15 that it was granted self-driving permission in San Francisco. The permit allows Cruise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
+      "originalUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
+      "publishedDateTime": "2020-11-06T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round.md",
       "title": "Toyota-backed startup Pony.ai raises $267 million in new funding round",
       "excerpt": "Pony.ai, backed by Toyota Motor Corp, said on Friday it raised $267 million in the initial phase of its latest funding round at $5.3 billion valuation, as the self-driving startup seeks to boost its presence in the United States and China.",
@@ -1147,50 +1181,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
-      "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
-      "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles ... The Government now also provides very substantial services for institutions to verify their customers through ...",
-      "sourceUrl": null,
-      "webUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
-      "originalUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
-      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
-      "publishedDateTime": "2020-11-05T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamic Business",
-        "domain": "dynamicbusiness.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

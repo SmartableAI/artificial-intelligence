@@ -43,20 +43,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Brexit deal: Boris Johnson's speech in full"
-    excerpt: "But this treaty explicitly envisages that such action should only happen infrequently and the concepts of uniformity and harmonisation are banished in favour of mutual respect and mutual recognition and free trade. And for squaring that circle, for finding ..."
-    publishedDateTime: 2020-12-24T16:51:00Z
-    webUrl: "https://www.itv.com/news/2020-12-24/brexit-deal-boris-johnsons-speech-in-full"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/2aJJTGPObaCy7AbR5niz8z/0e9cfff72450b0c9321b7e834ef2dcd0/sproutshero.jpg"
-        width: 680
-        height: 382
-        isCached: true
   - title: "Boris Johnson’s speech in full: Every word of Brexit deal announcement as he hails UK ‘taking back control’"
     excerpt: "We have taken back control of laws and our destiny. We have taken back control of every jot and tittle of our regulation in a way that is complete and unfettered.'"
     publishedDateTime: 2020-12-24T18:20:00Z

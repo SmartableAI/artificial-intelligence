@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+    excerpt: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026  <p>Top Players in Service Robotics Market are Lely International, Aethon Inc, Honda Motor Co."
+    publishedDateTime: 2020-12-26T20:43:00Z
+    webUrl: "https://menafn.com/1101342149/Service-Robotics-Market-Top-Leading-Companies-Consumption-Key-Drivers-Challenges-and-Trends-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?909209"
+        width: 395
+        height: 250
+        isCached: true
   - title: "Facial Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
     excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The global facial recognition market was valued at USD 4."
     publishedDateTime: 2020-12-28T22:42:00Z

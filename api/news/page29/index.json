@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-12-03-meldcx-unveils-sami-digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision.md",
+      "title": "meldCX unveils SAMi® - digitizing clean-up in public spaces with AI and computer vision",
+      "excerpt": "To help businesses meet new hygiene standards efficiently and affordably, meldCX, an enterprise software solution provider, has created SAMi(®) ( a new surface",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/ac/8acef392-25fe-5470-b964-e12fc105099c/5fc81d0699c60.image.jpg?resize=400%2C225",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk.md",
       "title": "How AI-powered video compression could make an honest man out of Elon Musk",
       "excerpt": "LIDAR is a fool’s errand. Anyone relying on LIDAR is doomed. Doomed! Expensive sensors that are unnecessary. It’s like having a whole bunch of expensive appendices. Like, one appendix is bad, well now you have a whole bunch of them,",
@@ -1145,40 +1188,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-servicenows-ai-chief-on-solving-the-last-mile-problem-for-enterprise-ai.md",
-      "title": "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI",
-      "excerpt": "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
-      "originalUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

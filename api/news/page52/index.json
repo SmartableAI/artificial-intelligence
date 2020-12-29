@@ -2,6 +2,48 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-11-17-artificial-intelligence-technology-solutions-receives-rosa-order-from-large-construction-company.md",
+      "title": "Artificial Intelligence Technology Solutions Receives ROSA Order from Large Construction Company",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) has received an order from a large construction company for what RAD expects as the first of many ROSA units to be deployed at the client’s managed properties across the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections.md",
       "title": "Beyond Smart Cities: How Drones And Robotics Revolutionize Building Inspections",
       "excerpt": "H3 Dynamics, a cloud-based inspection services platform uses drones and ground robots as the eyes and ears of engineers currently grounded by the pandemic, and long hampered by last century norms.",
@@ -1123,58 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2027",
-      "excerpt": "The global artificial intelligence in healthcare market is anticipated to record a CAGR of 45.3% over the forecast period i.e. 2019-2027. On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

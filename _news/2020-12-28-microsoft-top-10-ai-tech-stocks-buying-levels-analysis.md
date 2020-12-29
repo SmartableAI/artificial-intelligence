@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "Top 10 Reasons to Become Microsoft Azure Certified Professional"
+    excerpt: "Cloud Computing services have grown to become a necessity for businesses quicker than anybody had expected. Microsoft's Azure is a popular cloud-based service which offers hybrid compatibility that ha"
+    publishedDateTime: 2020-12-29T07:46:00Z
+    webUrl: "https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/d4/dd485450-49a9-11eb-8289-0bae536421e9/5feadecb7b998.image.png?resize=1019%2C630"
+        width: 1019
+        height: 630
+        isCached: true
 
 secured: "5k9pgdAYbGkYpTbwE10p678lNlbEUjtFnyrSGdbPkGFUZETRdsXQoYW1cAqDn4hDr+LibBcwsdedHhPw+TqZ7XgcwD3HWEvFkDUjGo1X13UzVxHAHz1W6a/QkUAIS+BoYjYOqRBmHJUdR/k5zZEbJTBrd3PBtXVRQ1NulNgXbuqTxyr2dMZbcOCUmVqLW42xBQnU4zNHfmoOfxnzKAvL36ysPiwNAnMrdVwb7h3tsUZq+aNfNVlAx72Frk9KfAphCmofj2y+TaOSUc/V7c+9aXuiQd5/G9Bxq25oAGNuQvw1jm2JXS/799FCGmbNUnY9oBnLUsmfOsYV3TDjQEGxqD15O8viwy2zj2/3xMO0FdegX2mduCoLChGphYKDPvHFTHQh5I9WEMJwZJ5zPDaY95caHS6mahfDxxTbpZCHY4mS09dJN2IusVBVrziQD78mn+tH6VUHbsIYUHSUiswkVGjf1b6g2nhNmtOe1mwWZwlYIcaT0/6ZS9cbeA+n82vuLgXjslb6ISEoO3V3u6sQTQ==;E9iyeiS77b6A1Rz8zulakg=="
 ---

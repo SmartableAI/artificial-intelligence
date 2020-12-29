@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-20-in-2021-it-leaders-will-contend-with-back-to-work-tech-ai-and-zero-trust.md",
+      "title": "In 2021, IT Leaders Will Contend With Back-to-Work Tech, AI and Zero-Trust",
+      "excerpt": "Back-to-work technology: No one knows when the COVID-19 pandemic will end, but more businesses were reopening their doors to employees and customers in the fall of 2020, and that’s set to accelerate next year.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust",
+      "originalUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202011/BTQ420_Trends2021_hero1.jpg?itok=w04SEQqS",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust?amp",
+      "publishedDateTime": "2020-11-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers.md",
       "title": "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers",
       "excerpt": "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic.",
@@ -1339,58 +1382,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released.md",
-      "title": "Equitable tech: AI-enabled platform to reduce bias in datasets released",
-      "excerpt": "The platform could promote equity in academic admissions, credit score assessment, hiring, academic admissions, and more, according to Synthesized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "originalUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "publishedDateTime": "2020-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

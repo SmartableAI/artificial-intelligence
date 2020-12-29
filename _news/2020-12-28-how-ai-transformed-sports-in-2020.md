@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "An AI reporter’s favorite books of 2020"
-    excerpt: "Reading The Big Nine also helped deepen my understanding of what could go wrong if companies like Amazon, Facebook ... age of AI. While occasionally drawing on insights from their own research ..."
-    publishedDateTime: 2020-12-24T15:56:00Z
-    webUrl: "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/"
-    ampWebUrl: "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/"
+  - title: "Coop. taps into Artificial Intelligence"
+    excerpt: "(TMCC) has launched a first-of-its-kind initiative in the sector in India by introducing Artificial Intelligence-powered banking experience. They have tied up with Interface, a global Intelligent Virtual Assistant (IVA) provider for financial institutions."
+    publishedDateTime: 2020-12-25T02:21:00Z
+    webUrl: "https://www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/My-Post-6.png?w=1200&strip=all"
-        width: 1200
-        height: 628
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
         isCached: true
+  - title: "The Future of AI: AI's 10 To Watch"
+    excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
+    publishedDateTime: 2020-12-28T00:07:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9309122"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 17
 
 secured: "s1y2yOJjl6TIbzSNNjvpNhXuZvjbUIZ2+Qa3Fd7WejgXZC2/FrSIHjsDXkj6ElPWeIynaULOMevjeEdSmV087n2xR1WqRaWLE+dWQsF6vh2qiH38X6RZ7IswHKxHG0Bt2cKNLwZfUv0cZP3nH5L4vduB6YrA3uafxnNcVRrWl3BS4TA5iR80WfzyTSuZY+41HvY4sekOZ7uYtgTo6WPWVZHiDQWqHVQDJjGnFkptZf/povBdbGQzFNDncDYShWXGH/lX0+VB/NkZP3zIJ52d5f11Iqq+4YrcQdEqAntc33kFNTaVXUgN2UxhVmErFeBoYuFGnopYgjF/XdY84SRrmHxdaoXeqxvrJHCADRxcFqw=;q3CJ9MRJREeUy4maQBN4Kg=="
 ---

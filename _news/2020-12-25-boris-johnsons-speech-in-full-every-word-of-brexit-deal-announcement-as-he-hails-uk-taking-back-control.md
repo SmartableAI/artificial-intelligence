@@ -57,20 +57,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Brexit deal: Boris Johnson's speech in full"
-    excerpt: "But this treaty explicitly envisages that such action should only happen infrequently and the concepts of uniformity and harmonisation are banished in favour of mutual respect and mutual recognition and free trade. And for squaring that circle, for finding ..."
-    publishedDateTime: 2020-12-24T16:51:00Z
-    webUrl: "https://www.itv.com/news/2020-12-24/brexit-deal-boris-johnsons-speech-in-full"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/2aJJTGPObaCy7AbR5niz8z/0e9cfff72450b0c9321b7e834ef2dcd0/sproutshero.jpg"
-        width: 680
-        height: 382
-        isCached: true
 
 secured: "9lHTLLzR9Gd2cAN9gRj+sDlqy+Lz1WKJ7jlm+t9v1uOly3xfoVimch14R51QB0fLT8tiGmX13qgNAwPIzrumRFiXRS89nVqW3Rrgmv15NYiJrUkFBFs3BX4k0gn/JCS4k9h2OQJoyzpuOcycc86rUC1a4UebTRHBOr277dxg762off3hN/fgvty57uTlK81bo6Uoqn20AW4ilHgbRxRTjurC2hidz8lZAFPDeuuwUo41BDrHR46oBibD+Ycmhjx6xZboNO8CnLvLgWflF+Fj2ZfbZcDGOAvE2zmPoMtnjKGiTN/4MBXeGeQzXRg9LZgqPBnEVtFEXjLhxts8bM+w+tiuxaTZ+fMRmKDwD7EpbSQ=;rLm/qISDR5szoOhvtJB0dA=="
 ---

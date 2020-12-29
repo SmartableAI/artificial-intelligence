@@ -18,33 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "5 reasons why AI could be the future of finance"
-    excerpt: "The role of the Chief Financial Officer (CFO) has expanded beyond the traditional gatekeeper to financial resources, chief accounting officer and head recordkeeper."
-    publishedDateTime: 2020-12-27T11:35:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-could-be-the-future-of-finance-1141847"
+  - title: "Coop. taps into Artificial Intelligence"
+    excerpt: "(TMCC) has launched a first-of-its-kind initiative in the sector in India by introducing Artificial Intelligence-powered banking experience. They have tied up with Interface, a global Intelligent Virtual Assistant (IVA) provider for financial institutions."
+    publishedDateTime: 2020-12-25T02:21:00Z
+    webUrl: "https://www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/coop-taps-into-artificial-intelligence/article33415289.ece/amp/"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 54
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/806/80627721.jpg"
-        width: 480
-        height: 218
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "5 questions on the future of the Pentagon’s top AI office"
-    excerpt: "The chief AI strategist joined C4ISRNET to talk about progress the Joint Artificial Intelligence Center made this year and the significance of upcoming changes."
-    publishedDateTime: 2020-12-28T22:57:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
+  - title: "How AI Transformed Sports In 2020"
+    excerpt: "Analytics India Magazine collated a list of how different aspects of sports significantly transformed in 2020 due to the use of AI."
+    publishedDateTime: 2020-12-28T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-ai-transformed-sports-in-2020/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 37
     images:
-      - url: "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/tim-gouw-VvQSzMJ_h0U-unsplash-scaled.jpg"
+        width: 2560
+        height: 1711
         isCached: true
 
 secured: "+5z9vmUVevbdd0HSELvjuGGry1PoGLGIWxWOkgKMuzEMK+KfhI/G1UytAT9vKh2y7m1YVmLH8GhVniC9VhE0WhGXoMn6LFslVcByu2a6ufOg8IC8HV6HL0RBi5Hja3G4cdcbzPx8Hdn2q5QErzRsFzUc9t9EdaXtkzGGFZ5tcSLRCDfDeDfvg9JslHZpyMJlfrDtIFD9dAfeYIvmxjMf83aGFkaKxI9VPwDSqwfpaMbSGm2Uh48tca08WC1bFahUPTsPXsIgJhqhT4JKTRjEhe2gC9nU4c0hDxSn+219m1Mt68PdCe2TpS42GDpPkloqKJ7NgMM55PeTLPjtJtgm0p+syRl5tyJYDRPCdJznnaE=;1bX3wHPSkXnpuyDxoCPu/w=="

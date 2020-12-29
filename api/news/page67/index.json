@@ -2,6 +2,49 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-11-07-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and-more.md",
+      "title": "Q3 2020: Tech Growth Earnings Review - Pinterest, Snap, Microsoft And More",
+      "excerpt": "Azure Machine Learning, Azure Space and Microsoft Cloud for Healthcare. Azure saw a slight acceleration of 1% this quarter. Gross margins on Commercial Cloud are an impressive 71% when including ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4386137-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and",
+      "originalUrl": "https://seekingalpha.com/article/4386137-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2020/11/4/45714056-16044931103416512_origin.jpg",
+          "width": 845,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-am-meets-ai-how-markforged-connects-industrial-3d-printers-for-smarter-manufacturing.md",
       "title": "AM Meets AI: How Markforged Connects Industrial 3D Printers For Smarter Manufacturing",
       "excerpt": "Markforged is introducing the Digital Forge, a cloud-based platform connecting 3D printers for industrial-scale smart production.",
@@ -1117,40 +1160,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era.md",
-      "title": "7 Autonomous Vehicle Stocks to Buy As Transpiration Enters a New Era",
-      "excerpt": "Baidu is primarily known as the “Google of ... GM’s autonomous vehicle unit Cruise announced on Oct. 15 that it was granted self-driving permission in San Francisco. The permit allows Cruise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
-      "originalUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
-      "publishedDateTime": "2020-11-06T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

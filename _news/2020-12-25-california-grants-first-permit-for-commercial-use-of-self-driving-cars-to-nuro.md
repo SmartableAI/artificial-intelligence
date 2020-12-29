@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics company gets OK to charge money for self-driving services"
-    excerpt: "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service."
-    publishedDateTime: 2020-12-24T16:56:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services"
-    ampWebUrl: "https://dunyanews.tv/amp/english/579822.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 76
-    images:
-      - url: "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1"
-        width: 556
-        height: 370
-        isCached: true
   - title: "Nuro Gets First California OK to Charge Money for Self-Driving Services"
     excerpt: "Silicon Valley startup Nuro on Wednesday received the first ever permit to commercially deploy its self-driving vehicles in California, allowing the firm to charge a fee and receive compensation for its driverless delivery service."
     publishedDateTime: 2020-12-25T05:39:00Z
@@ -54,20 +38,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
-  - title: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
-    excerpt: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026  <p>Top Players in Service Robotics Market are Lely International, Aethon Inc, Honda Motor Co."
-    publishedDateTime: 2020-12-26T20:43:00Z
-    webUrl: "https://menafn.com/1101342149/Service-Robotics-Market-Top-Leading-Companies-Consumption-Key-Drivers-Challenges-and-Trends-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?909209"
-        width: 395
-        height: 250
-        isCached: true
 
 secured: "VKONQfUzWTpCxS0d3ELXYa2jLrMqQr/0sl7suyAHgwwF8jHNUgUipCeS9wcp9mp8I1Tmu0i70IfdnaDAlkiDg63p/f7GaIm3CU1O83brTi1bjdHT5s/zvuAGmaOljEsCbUqp4c+kt7Iszm6qPUyaOy8YB7jNTvqHWvi2rmQs1M7hBzKkkaTEv5Qc+dRmdT+YmGbGdiYvRaHARR59Q3EOLSbjtB+IJM7NKjAPYUUpNkmsjhZ7J+VqgNQzkHHPjDjkCXh6VTjzGl5N1C/s0OAOrSY30zyu4+yby2VxnkVmei1MeHDajzdsy6VzOnZqBJDSYuBe3ro2dRT7dZm2CYRSbO4Q/fButax6FR79VtUwMrZa/cKi0PGOLSTfuznDxNrviPv2rCeuGv6UF/rCg6GhrAUJzGX/6mwFAt3IewEz65fCgJv5Cdz2fSGQcEHAmEprTe1dJqk+21OjuW9ggyHiOYLwpcrW6JZp8ZkCa4GzYL9F1UaZDOtweQm6UG/iS9XGMro1rsvx172EoDb0w+bB6g==;BSkM0OkrLjqY8cjyVEKn3w=="
 ---

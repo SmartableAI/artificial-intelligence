@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Exclusive: China search giant Baidu considers making own electric vehicles - sources"
-excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu's push to diversify income streams as ..."
-publishedDateTime: 2020-12-15T11:03:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/exclusive--china-search-giant-baidu-considers-making-own-electric-vehicles---sources-13777204"
-webUrl: "https://www.channelnewsasia.com/news/business/exclusive--china-search-giant-baidu-considers-making-own-electric-vehicles---sources-13777204"
+title: "Exclusive-China search giant Baidu considers making own electric vehicles -sources"
+excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ..."
+publishedDateTime: 2020-12-15T10:43:00Z
+originalUrl: "https://uk.reuters.com/article/baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUKKBN28P165"
+webUrl: "https://uk.reuters.com/article/baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUKKBN28P165"
+ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
+cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
 type: article
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13778692/16x9/991/557/a72ac91f7135b63646325a98fcbb1d7/xr/a-logo-of-baidu-is-seen-during-the-world-internet-conference--wic--in-wuzhen-1.jpg"
-    width: 991
-    height: 557
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "7HXjy+YPaYHAV/14Bi603BEHMecOx9/bi9Ni3aIoRPpQSsCZIcKt5U6ITm/aDcGHgfyGjT3LbTQ1/1+bxyEcuA3XCC9LngI9W6pmINcIvWqHy6SS8vd/YvzQ69vLbVUxAkTebgmfZR1N0S9RwKmHGlo+F1G+aeTtEJ0CBIK83MCfsBFYE7jjNIxDql1iXw6/lNk7MLJgxAA3JSuoydu/SAjM0ix47a6QP9XeGWt+qB5lAjgq1geze7n/RGyboehdSnG00s98P5huSkIlg1x9Krcszgtzw2UNTk5nPvUtM0ETC8G1qdWQft6jZ7O5G2nRsnFU9ZLtMUFyfwRX6/6M2P5ANnNIFz7H4g/79EIFwhk=;v5ycO0pgPUcnfq27IHAwYA=="
+secured: "uv5mk/gJvbUYh2m0Q/BqgL784Yqt0YDq219gT7nlrm2jcDwgHZVI8hFIoZfJ/YVvMzzdkM7P8BpYXY5BwcXKANLz6BVrqUpngFTOgwXvTqSzQOgCYUwn/FHpexYVfJiXOspEQeRx3N4TrMzWPoR9RPtv9kVVGr8LgO7QWzYK8FPYh6spJJEhgz/FZbQJkQGhvBTnPhCq5I5i7IPuoTmBXpw+LjOutuwHYNP+sZrbJxSJi/VlhH3g/cF65R90p+ZHvC4zVxqH4ecpjSgMqjrde7K5xTUTDTVCTh5zrJfj/lWXoKcsfLSQcQbpBK5bNZ8MYoRrgZMnm8uHzQc6UzOpQfohsy5KjlsMjJXmY32ee9k=;bXDBUirb6vldwJIezF9UoQ=="
 ---
 
