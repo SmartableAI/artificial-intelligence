@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimryan1/2020/12/25/the-voice-of-christmas-johnny-mathis-on-singing-christmas-songs-and-the-role-of-holiday-music-in-2020/amp/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 720
     height: 540
     isCached: true
-
-related:
-  - title: "We asked an AI to write the Queen's Christmas speech"
-    excerpt: "Next, WIRED turned to Melissa Terras, professor of Digital Cultural Heritage at the University of Edinburgh and a Turing Institute fellow, and David Beavan, a senior research ... he read on Facebook groups,” she says. “That’s what AI is right now.”"
-    publishedDateTime: 2020-12-24T09:23:00Z
-    webUrl: "https://www.wired.co.uk/article/ai-queens-speech-christmas-day"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/Q6GoyOkPB3P/crop/1440/0.5235602094240838/f/wired-queen-ai.jpg"
-        width: 1440
-        height: 753
-        isCached: true
 
 secured: "h2UGaVBi1XV/slRZrFVoydm+UrYDwAYpvGhv1JhORBTD9DRSVBSzuBCWezy0H+EQGv6hXHWnm3Izm240MNu/bV9vBWzO63vPgITC1vybQzNGO130EibFlAxwqD05rlQ8twBfUC6p571bX6HjhYpu4CMTL2s8uT/HLz1lZ4TrPwvNYODJLrRNsoazQB2bU4X9g3IqLOOAfNkdqUdbEM1n7PI51YwOtlx6YXLNUhF+D3C8MoD31wqRZUiBGnX5aLZQPD5/EeHX8ONQmclPVnrogUhBTuy5pOL3RpXBGDS8Gaky2LEMqGGDvYRS75bGJZM8PtTNTAE/+GQxMK8jgQvvDGcRkKT6jl86HL1UJFt3HZtMRqddZG1jkWLH4hTsFJgxZBxM7Ykwg35K0ZgPniFCHan25wFLQpuHdS1rrj+nQlCjERwHTsEYUb9Sl4bLoahCW+cVmh16lb6zFaDfWZnLNnhFvWqm2BLjS7Xpsu9TNDuZ+tvm5ebKE3Bgwljuq9jul4ke008wqmGUuADso7uG7A==;T5Gx8oTks2IbqL/+O8XaIA=="
 ---

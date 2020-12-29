@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-08-baidu-apollo-gets-green-light-for-fully-driverless-road-tests-in-beijing.md",
+      "title": "Baidu Apollo gets green light for fully driverless road tests in Beijing",
+      "excerpt": "AutoX announced the roll out a fleet of autonomous RoboTaxis in downtown Shenzhen, representing the first time such vehicles have been deployed in China without safety drivers or remote operators.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/",
+      "originalUrl": "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true",
+      "publishedDateTime": "2020-12-08T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-uber-abandons-dreams-of-self-driving-domination-sells-self-driving-unit.md",
       "title": "Uber abandons dreams of self-driving domination, sells self-driving unit",
       "excerpt": "Aurora, one of the nation's leading self-driving startups, will become the new owner of Uber's self-driving division, Aurora announced on Monday. In addition to turning over Uber's self-driving ...",
@@ -1383,58 +1426,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks.md",
-      "title": "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks",
-      "excerpt": "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "originalUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "publishedDateTime": "2020-11-30T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

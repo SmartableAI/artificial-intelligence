@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-24-nvidia-opens-ai-storefront-in-aws-marketplace.md",
+      "title": "NVIDIA Opens AI Storefront in AWS Marketplace",
+      "excerpt": "The use of the AWS Marketplace democratizes AI capabilities. The year 2020 will be remembered for a lot of things, among them a global pandemic, social justice and a historic election. These grabbed center stage because they have huge societal implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws-marketplace",
+      "originalUrl": "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/12/AWS.Marketplace.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T18:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-google-reportedly-told-ai-scientists-to-strike-a-positive-tone-in-research.md",
       "title": "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research",
       "excerpt": "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team.",
@@ -1152,57 +1206,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-chinese-autonomous-driving-startup-weride-bags-200m-in-funding.md",
-      "title": "Chinese autonomous driving startup WeRide bags $200M in funding",
-      "excerpt": "WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the next-generation level 4 driving",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
-      "originalUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/weride.jpeg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
-      "publishedDateTime": "2020-12-22T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

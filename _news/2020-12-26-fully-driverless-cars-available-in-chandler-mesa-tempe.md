@@ -26,8 +26,8 @@ images:
 
 related:
   - title: "Steam Engines to Driverless Trains: What Next for India?"
-    excerpt: "With discussions around automation and artificial intelligence (AI) being the flavor of the day, we hear so much about driverless cars, trucks, and buses. But s"
-    publishedDateTime: 2020-12-27T07:14:00Z
+    excerpt: "With discussions around automation and artificial intelligence (AI) being the flavor of the day, we hear so much about driverless cars, trucks, and buses. But seldom do we talk about driverless ..."
+    publishedDateTime: 2020-12-27T07:12:00Z
     webUrl: "https://www.cxotoday.com/ai/steam-engines-to-driverless-trains-what-next/"
     type: article
     provider:

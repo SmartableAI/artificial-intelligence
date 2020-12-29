@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
     images:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
-        height: 250
-        isCached: true
-  - title: "Speech to Speech Translation Market Inclinations & Development Status Highlighted During Forecast Period 2020-2025"
-    excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The speech to speech translation market is expected to record a CAGR of 9."
-    publishedDateTime: 2020-12-24T09:18:00Z
-    webUrl: "https://menafn.com/1101332177/Speech-to-Speech-Translation-Market-Inclinations-Development-Status-Highlighted-During-Forecast-Period-2020-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?436730"
-        width: 375
         height: 250
         isCached: true
   - title: "Self-Driving Car Market Share, Size 2021 with Geographic Segmentation, Statistical Forecast and Competitive Analysis Report to 2023"

@@ -2,6 +2,100 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-15-can-ai-help-indian-railways-improve-passenger-experience-and-safety.md",
+      "title": "Can AI Help Indian Railways Improve Passenger Experience And Safety?",
+      "excerpt": "Notably, the more obvious and immediate problems that AI can solve for the railways have been conspicuously missing from the discussion. However, the government seems to be enthusiastic about the prospect AI offers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361673",
+      "originalUrl": "https://www.entrepreneur.com/article/361673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608011313-train-1209291-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361673",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361673",
+      "publishedDateTime": "2020-12-14T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources",
+      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
+      "originalUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2IR1UR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2IR1UR",
+      "publishedDateTime": "2020-12-14T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking.md",
       "title": "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking",
       "excerpt": "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research.",
@@ -1123,102 +1217,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-after-an-amazing-year-for-science-whats-next.md",
-      "title": "After An Amazing Year For Science, What’s Next?",
-      "excerpt": "I’ve written about AI’s use in battling the pandemic already but arguably its biggest breakthrough in life sciences this year came at Google’s DeepMind AI lab in London. It has now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
-      "originalUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd776b192162aafb68c1685%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
-      "publishedDateTime": "2020-12-14T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-deep-learning-gpu-cluster.md",
-      "title": "Deep Learning GPU Cluster",
-      "excerpt": "In this whitepaper, “Deep Learning GPU Cluster,” our friends over at Lambda walk you through the Lambda Echelon multi-node cluster reference design: a node design, a rack design, and an entire cluster level architecture. This document is for technical ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
-      "originalUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/12/Echelon2.png",
-          "width": 700,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

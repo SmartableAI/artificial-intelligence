@@ -1340,6 +1340,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-11-leverage-ai-innovation-with-gpu-optimized-solutions.md",
+      "title": "Leverage AI Innovation with GPU-Optimized Solutions",
+      "excerpt": "The ability to break computationally-intensive assignments into pieces and begin solving them simultaneously is the main reason why GPU computing is the ideal fit for AI, deep learning, and other highly analytical workloads. NVIDIA’s industry-leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions/leverage-ai-innovation-gpu-optimized-solutions/",
+      "originalUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions/leverage-ai-innovation-gpu-optimized-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions/leverage-ai-innovation-gpu-optimized-solutions/?amp",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/hpe-solutions/leverage-ai-innovation-gpu-optimized-solutions/?amp",
+      "publishedDateTime": "2020-12-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans.md",
       "title": "Smarter Cars: Auto Makers Experiment With Chips That Think Like Humans",
       "excerpt": "Experimental computer chips that try to mimic the way human brains work could accelerate the use of voice and gesture commands in cars, researchers say.",
@@ -1443,49 +1477,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-c3ai-on-ipo-using-nvidia-gpus-and-competitive-strengths.md",
-      "title": "C3.ai on IPO, Using Nvidia GPUs and Competitive Strengths",
-      "excerpt": "CEO Tom Siebel joined TheStreet to discuss the company's trading debut, its use of Nvidia GPU's and its biggest competitive strengths in comparison to rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "originalUrl": "https://www.thestreet.com/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/7E6sbUJ2-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "publishedDateTime": "2020-12-09T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

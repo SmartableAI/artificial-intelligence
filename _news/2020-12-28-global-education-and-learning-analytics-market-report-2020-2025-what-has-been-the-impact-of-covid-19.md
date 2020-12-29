@@ -52,20 +52,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Artificial Intelligence Products Market Size 2021 Research Report by Manufacturers, Regions, Type, Application and Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. “Artificial Intelligence Products"
-    publishedDateTime: 2020-12-24T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-size-2021-research-report-by-manufacturers-regions-type-application-and-forecast-to-2025-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
     excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
     publishedDateTime: 2020-12-28T09:53:00Z
@@ -86,20 +72,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market Report With Top Countries data, opportunities and growth Forecast to 2026 - Marketdesk"
-    excerpt: "The latest research study titled Global Artificial Intelligence in Diabetes ManagementMarket Research Report 2021 by Marketdesk contains all analytical and statistical brief summary regarding market summary,"
-    publishedDateTime: 2020-12-24T09:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-report-with-top-countries-data-opportunities-and-growth-forecast-to-2026---marketdesk-2020-12-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

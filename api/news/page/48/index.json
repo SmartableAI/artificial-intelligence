@@ -2,6 +2,144 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-11-19-ai-startup-graphcore-says-most-of-the-world-wont-train-ai-just-distill-it.md",
+      "title": "AI startup Graphcore says most of the world won't train AI, just distill it",
+      "excerpt": "Also: AI chip startup Graphcore enters the system business claiming economics vastly better than Nvidia's Graphcore is known for building both custom chips to power AI, known as accelerators, and also full computer systems to house those chips, with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/18/db32f0bd-4ae9-4771-882c-313031c3980d/graphcore-2020-hbm-memory-is-wrong-way-to-go.png",
+          "width": 2925,
+          "height": 1875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
+      "publishedDateTime": "2020-11-18T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-ping-an-bank-wins-gartner-innovation-award-for-financial-services.md",
+      "title": "Ping An Bank Wins Gartner Innovation Award for Financial Services",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... scene models and machine learning models to achieve the full process of closed-loop ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "publishedDateTime": "2020-11-18T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
+      "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
+      "excerpt": "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-googles-ai-tool-turns-doodles-into-3d-creatures.md",
       "title": "Google’s AI Tool Turns Doodles Into 3D Creatures",
       "excerpt": "Chimera Painter can help video game artists 'create fleshed-out versions of creature outlines,' Google says, but anyone can try the demo online right now.",
@@ -1087,145 +1225,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rachel-malarich-is-planting-a-better-future-tree-by-tree.md",
-      "title": "Rachel Malarich is planting a better future, tree by tree",
-      "excerpt": "Everyone has a tree story, Rachel Malarich says—and one of hers takes place on the limbs of a eucalyptus tree. Rachel and her cousins spent summers in central California climbing the 100-foot tall trees and hanging out between the waxy blue leaves—an experience she remembers as awe-inspiring. Now, as",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
-      "originalUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_3_1.max-1300x1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
-      "publishedDateTime": "2020-11-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-stem-cell-imaging-through-convolutional-neural-networks-current-issues-and-future-directions-in-artificial-intelligence-technology.md",
-      "title": "Stem cell imaging through convolutional neural networks: current issues and future directions in artificial intelligence technology",
-      "excerpt": "2 Inclusion Criteria 1. Articles contain the keywords “artificial intelligence”, “machine learning”, “deep learning,” “convolutional neural network,” “induced pluripotent stem cell,” “hematopoietic stem cell,” “biomedical imaging ...",
-      "sourceUrl": null,
-      "webUrl": "https://peerj.com/articles/10346/",
-      "originalUrl": "https://peerj.com/articles/10346/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dfzljdn9uc3pi.cloudfront.net/2020/10346/1/fig-4-1x.jpg",
-          "width": 600,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PeerJ",
-        "domain": "peerj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system.md",
-      "title": "LAPD bars detectives’ use of Clearview AI facial recognition system",
-      "excerpt": "Critics say facial-recognition systems that use images from outside the criminal justice system are racially biased.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/",
-      "originalUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailybreeze.com/wp-content/uploads/2020/11/LDN-Z-CLEARVIEW-AI-1.jpg?w=1024&h=446",
-          "width": 1024,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/",
-      "cdnAmpWebUrl": "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/",
-      "publishedDateTime": "2020-11-18T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Breeze",
-        "domain": "dailybreeze.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

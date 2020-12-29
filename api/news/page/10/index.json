@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-16-ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers.md",
+      "title": "Ping An launches artificial intelligence assisted clinical decision support system for gastroesophageal cancers",
+      "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023.md",
       "title": "Artificial Intelligence in Supply Chain Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023",
       "excerpt": "Kenneth Research has recently added a market research study on Artificial Intelligence in Supply Chain Market 2023",
@@ -501,6 +535,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "China search giant Baidu considers making own electric vehicles: Sources",
+      "excerpt": "self-driving cars: Survey Baidu operates autonomous taxi service Go Robotaxi with safety drivers on board in Beijing, Changsha and Cangzhou, and plans to expand to 30 cities in three years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources",
+      "originalUrl": "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/20201216_baidulogo_reuters.jpg?itok=KZWytHeH",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources?amp",
+      "publishedDateTime": "2020-12-15T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1133,110 +1210,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation.md",
-      "title": "AI ‘pre-cog’ predicts which Twitter users will spread disinformation",
-      "excerpt": "Researchers used the system to forecast which social media users will share disinformation in the future and also revealed the language that they use.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/dorseyminrotiyreport-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
-      "publishedDateTime": "2020-12-15T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-chinese-web-giant-baidu-may-fancy-building-its-own-cars-report-says.md",
-      "title": "Chinese web giant Baidu may fancy building its own cars, report says",
-      "excerpt": "Known as \"China's Google,\" Baidu is reportedly interested in not just developing self-driving software, but its own vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/baidu-china-building-cars/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/baidu-china-building-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/DffVxQ58xMv1VNvdgGae9Q2yTBg=/2019/09/27/809b83bf-7d39-4f0a-8de4-472ac3330a59/ogi-apollo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/baidu-china-building-cars/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/baidu-china-building-cars/",
-      "publishedDateTime": "2020-12-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

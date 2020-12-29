@@ -123,20 +123,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Speech to Speech Translation Market Inclinations & Development Status Highlighted During Forecast Period 2020-2025"
-    excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The speech to speech translation market is expected to record a CAGR of 9."
-    publishedDateTime: 2020-12-24T09:18:00Z
-    webUrl: "https://menafn.com/1101332177/Speech-to-Speech-Translation-Market-Inclinations-Development-Status-Highlighted-During-Forecast-Period-2020-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?436730"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "ZKM70Fo4d7sOv798gT0QnOVitP1NLwTqxyJ62pRColZqe+1uhdHyiKqAnox/gVwwxw0Iy85aaUwt6cfGw2X4v8RANS3lRu77lPSKuKjzZHHKwvlOk4kpPcAwC+X3TLhpiHjDoQiUxjQkQqTZKbcGWAnAFt9ENBj3QngxwBSgFwbcUllgh0pycoJRAyyQTIQrhQ6ML4tFsqADsU6MXh38MVIeZURE0WtawU52+G2WBjMY4wo4KC2I8JPrGq340XwazJ6XDw5wQ/sJrNJyrmQQ0yDFQu2qc71yBZG+G+TiT7GTAQOVFuAolizWX/Bm4gxkaM6aB+7e0rPvuh95nbMJ75Ol8aPUcmKlmcnZFc5ZbfU=;f+bPDW7jEwnlfPUyebXccQ=="
 ---
