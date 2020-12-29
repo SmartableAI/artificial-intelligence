@@ -37,6 +37,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Book on AI to combat Covid-19"
+    excerpt: "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added."
+    publishedDateTime: 2020-12-27T22:12:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "First Artificial Intelligence community Centre launched in Hyderabad"
     excerpt: "The nation’s first Artificial Intelligence Community Centre, HexArt, was launched here on Monday by IT and EC secretary Jayesh Ranjan. The centre, its sponsors said, is dedicated to the city and the state."
     publishedDateTime: 2020-12-29T04:04:00Z

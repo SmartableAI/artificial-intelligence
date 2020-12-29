@@ -1,27 +1,29 @@
 ---
 category: news
 title: "2020 AI Global Awards Recognize Standout Global Leaders in Responsible and Ethical AI"
-excerpt: "PRNewswire/ -- AI Global, a non-profit dedicated to promoting responsible and ethical adoption of Artificial Intelligence today announced the recipients of its 2020 Responsible AI Awards. The Responsible AI Awards program acknowledges global technology innovators,"
-publishedDateTime: 2020-12-29T14:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/2020-ai-global-awards-recognize-standout-global-leaders-in-responsible-and-ethical-ai-1029923216"
-webUrl: "https://markets.businessinsider.com/news/stocks/2020-ai-global-awards-recognize-standout-global-leaders-in-responsible-and-ethical-ai-1029923216"
+excerpt: "PRNewswire/ -- AI Global, a non-profit dedicated to promoting responsible and ethical adoption of Artificial Intelligence today announced the recipients"
+publishedDateTime: 2020-12-29T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/2020-ai-global-awards-recognize-standout-global-leaders-in-responsible-and-ethical-ai-301198870.html"
+webUrl: "https://www.prnewswire.com/news-releases/2020-ai-global-awards-recognize-standout-global-leaders-in-responsible-and-ethical-ai-301198870.html"
 type: article
-quality: 57
-heat: 57
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
-secured: "Vy1KYM7CYWs0wVz36u5J5O2gJgPCxevf0hnUDjN3QpNGG4bkRB4eQDXxJfl+G585Wp1Hgrn2g08T8cZtVPZ/EWsLiUnAC63xvRi8l+i3Bl/4MItdT0tNx5DYCUjzx9o+DMFDKx1rew4XakV3wfdJ1XtPs7d3U6kzh9gg3fo4M5LlbgK0GjhW4BMAVqQ5UK3jb2qvLTZGsw18R/V377clGztnsV1Zy76Fs6U5P/kdoyROnPF3FEiJ5hwUHcMRRwD+nJ+C5S6vd1golVmxUAR7ngbZiMxOQ3xyoFrUG8qCki924zSGA8TmpVcepdRvo/7TtKUWkzVeDcCFYQr47VjhMHtDHemitC6728O7LDnC8OU=;LOHltnruF2xM7QLS4rHJ8g=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "7F7qw14YAopoBL6NB2xvSNYXVNyDbGo0NK24mlWbKi19rVnwJr1jn5HbdDmmyyId+Tpb5tLeVwm0AlKLCXYW8yk3lkgaHvZpA2k7+/+WXupFeq6qTDn0t80U+P7FR2S7W/dt3u1o8aPM5eeU737Wghq1pdAu8UdrNh8BsTR1pnIjQ73Tcd0vlWLhIAJlrotbEFLZnAvKt+TPSTElXk0wP7nctrO1WuUYvjZUrQFTCQjSaYFdYrFnxR1l8lUI8xSjlVSAAUCV8K0fghdZnCSWdwMYiqjOYpY5o8BMmPOZvqdP2HD8SS9vVRSXwSuhOgG9S2Ji2XYGHoUU6GEKTG3UNdOt6pjlB+fBXmLS7JGIM8I=;VdZi/z9U3UzLvkm64QwSrQ=="
 ---
 

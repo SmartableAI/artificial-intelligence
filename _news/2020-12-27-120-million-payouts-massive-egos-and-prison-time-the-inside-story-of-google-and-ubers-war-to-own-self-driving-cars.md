@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-uber-self-driving-cars-levand
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i.insider.com/5fe4df7aa644880018193553?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
-    excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."
-    publishedDateTime: 2020-12-27T07:07:00Z
-    webUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-division-to-aurora-after-years-of-turmoil-deadly-accident/"
-    type: article
-    provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 14
-    images:
-      - url: "https://www.entornointeligente.com/wp-content/uploads/2020/12/uber_sells_self_driving_car_division_to_aurora_after_years_of_turmoil_2C_deadly_accident.jpg"
-        width: 460
-        height: 345
         isCached: true
 
 secured: "vUqGQMcIREu4ElkVorg+HTd/advicBQHg3O0Csapr+5WFjaN6CU9ijtPo4XElm6oSXjYxWk9oKmVdXgzFnZE3KqzyFoQykhaA+F3wnkCHRqLbd9dFQD/z1/W526DAphmD6h7qgpLrE8Ilpjp4pGDAT8lLho5BvnavwV4auODfDQuqXaq3ywxPb7q3k5lLey3/gDhIauHQWOWY69T1IHNtIYT+SJ/ZpXdx8q2LWexCOq8OgUErAllUrRzDM400/P1VjLpEk0hhRSQa55rzwxemUrftjXDToNbSc8jTmQz4d9RMsIiaZsR+sAIbFM8hEagxeP3BcJpJFm47nle0G5bLArvnyBjAAso5PA5wy9iHqWtAYNAeNpprsUzB31EORLlOQzHpuc5QVulyfhEUgp6czVPzhDLVsy+9yRTKLVBKS4X25bOSPVc17tZuuspfkgAlFxcJbNWmvqRgqv0MIQPrB6UY//iKQIFuUZJGf6MBLkvV/wnBmB6VzrlUHHdZUGHMUK3vbvn0qaTKI9/jllbDA==;4/hn4P4jwdg54TqJvZLFHw=="

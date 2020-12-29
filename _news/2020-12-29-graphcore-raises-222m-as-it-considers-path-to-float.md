@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Graphcore raises $222m as it considers path to float"
-excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
+excerpt: "Tech firm Graphcore has raised $222m (£164m) as it battles to conquer the market for artificial intelligence microchips, making the company one of Britain's best-funded start-ups"
 publishedDateTime: 2020-12-29T12:07:00Z
-originalUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
-webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+originalUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
+webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
 type: article
@@ -137,7 +137,23 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "UK-based Graphcore raises funds to develop AI chip"
+    excerpt: "Graphcore, a UK-based manufacturer of artificial intelligence microchips, has raised US$222mln (£165mln) from new and existing investors. The company, which originated in a pub in Bath and is now based in Bristol,"
+    publishedDateTime: 2020-12-29T15:26:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/937439/"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/937439"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/937439"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 74
+    images:
+      - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_12/1200z740_1609255316_2020-11-20-14-55-35_ac6d23e161ea039615fc6200b6c8b803.jpg"
+        width: 1200
+        height: 740
+        isCached: true
 
-secured: "bzeDriENo3WWPqKUNfY+RouTe8D7ZcLN1RWcx/F2/7x5pDAWVgrM+bYrCtXK31zyNca7pxc5LZE+/0Lh427xmS9TF2TfjCBhs90KwdtdZLE3nNwLrjL7OqRr0hQ4zV0rG5CIvp+NcLt9lbmthNyo1XL09IwhuQ+mNIx+X7xznsJpG96bNL8KY4qAOq8+WbYQmKrDM64aZFLTeG/fPDxznXsz70XOUokAFhzHtBU1r22ofPtcRV01NHDn6q/+OXvH0JeyxWcMobr4wD2FZ2GBz/3AhPAFE5y/HTshrFAIUEwPfbkVSiMfm+B3pHNwUyCwEWO8NtE21QumRpAYoKFnHv8xVzhijmbKSh5iXowAxXx9NhRbzaZb9BdNXhT8aJvPKXQuCQStu5YJM7e00oFgGFmlPC+pPuHARreOHtbEP8C6OnFY0C/gAhGGhZ1VxAD5ihl91b1Re713Eb8KeFcHiCt2GqYoRAnSc+9+882kQcrcsPiJvU1+9Jrjhg63Np6i4TExwmm5kRUsUWe2xV+sng==;wHY3eGBqr78fM+fLXnPK5g=="
+secured: "0+aX8pu3o6FMts83sPZ0p8VPRRt+kIj1CLZn7xPSLQl9WvODGHPn3yOKe3xL2m/AAkvdMuUMV/yWifVeY5HToQb4FG8J/pucmybkrdVdPjJbcHVSK3HDUsze9ZkNXmJKhc7alRfNo05s0bOB6MGYDwPpSGeG5pmV0/vKKS8/BTvPRv5IGAIxoN6AyklTnSrON7buFXWyXn7WSsF/WA+y1nMNXw5hML/IdONiYkYFOJiUjODLiXQC9MvKYigWOENW+oLfFRfdh/EdQVGd1gIqaGDZL99O2P3x/KZxFRV3sAAHFSKH/32bg229OuNeakgpnqwJm4/k3/2uEpgGgmwBuVpofaPQOp3HjkWUereinGk=;Kw/0pqvyRjJNpnZVBuoBew=="
 ---
 

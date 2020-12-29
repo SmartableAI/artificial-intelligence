@@ -801,60 +801,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-artificial-intelligence-may-be-the-defining-technology-of-our-times.md",
-      "title": "Artificial Intelligence May be the \"Defining Technology of Our Times\"",
-      "excerpt": "Artificial intelligence is reshaping our environment, finding use in healthcare, customer service, data analytics, autonomous driving, and many other industries. JP Morgan analysts believe the market could grow to $58 billion by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-new-sagemaker-features-cut-machine-learning-curve.md",
       "title": "New SageMaker features cut machine learning curve",
       "excerpt": "Amazon Web Services (AWS) has announced nine new capabilities for its machine learning (ML) service, Amazon SageMaker, to make it easier for developers to automate and scale ML workflow.  Key among these is an increased effort to eliminate the kind of racial and demographic bias that has damaged the reputation of artificial intelligence and machine learning tools",
@@ -1468,6 +1414,50 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative.md",
+      "title": "AWS accelerates AI and ML in the public sector with the Rapid Adoption Assistance Initiative",
+      "excerpt": "It provides a direct, scalable and automated mechanism for all the public sector partners to reach out to AWS experts within our team for assistance in building and deploying machine learning workloads on behalf of the agencies,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/09/aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/09/aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Wilfred-Justin-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T15:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

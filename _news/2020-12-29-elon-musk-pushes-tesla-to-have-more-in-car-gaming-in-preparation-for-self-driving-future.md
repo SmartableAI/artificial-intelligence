@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98412a34c08f100c98f5c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4893%26cropY1%3D248%26cropY2%3D3000"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Watch Tesla Model S Full Self-Driving Beta Tackle The Snow"
+    excerpt: "This is what we're thinking when we ask how quickly (or how long) it will take before tech like Tesla's FSD will actually be able to pilot cars on its own."
+    publishedDateTime: 2020-12-29T15:43:00Z
+    webUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/"
+    ampWebUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/7x73V/s1/tesla-model-s-fsd-beta-snow.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ILhiKWWNUvT/LzJfxKToQFLVs8OhkfpYqP1jgJ9NHgjxE8+AJ2V+CFMBcVzl9YOHtemcLuK6YSep42G3a9iqRpi5f9MUHGMzevYTbLAKZgWrUQBbZ/AlrvbttHit6oVrmDfA+ghzhEndBUZxYBplQao22sFkuQOJASWf/s1h4eGnatOZ6BZv0CEVTjswcrgplLmb9G8TAgyVWdparljVzohZid6Ew1nlRpK7odYxzVqK7wtEOtmYf3lPfVKIu02lz+mR0dw6Qh96HXMdsajIwRf2TJGoTeWQ/Z06fupuI2AOJY4/GlcYqK5In7jbiaiaH6ylIAc9nsq11zDRnotk3KYHS6uMxZNCSotHl7GbnlWiurFg9iPdRVCWGNAq1V2Ri02/IbdhJToWfsy2xYntdMDxI9HYHxGfdnNqPQNOOQubm/sh2lau+YoqdqtRESQ0rHWq+4MtW4gv8yUgEoIqckM0RFkeVMA8Eg9JMxyT3VRYn5yzmYDTMdGMB7OPJDZMcSBIMtVzqSTejebXsT45DA==;DO9gpG9Ndcw2u3/DuecACw=="

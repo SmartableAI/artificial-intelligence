@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars.md",
+      "title": "Largest Ever Cyber Hack Provides Vital Lessons For Self-Driving Cars",
+      "excerpt": "Learning valuable cybersecurity lessons from the recent SolarWinds debacle and using those lessons for the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea5d030b6c5fc034334221%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5991%26cropY1%3D266%26cropY2%3D3074",
+          "width": 1199,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-12-29T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-elon-musk-pushes-tesla-to-have-more-in-car-gaming-in-preparation-for-self-driving-future.md",
       "title": "Elon Musk pushes Tesla to have more in-car gaming in preparation for self-driving future",
       "excerpt": "CEO Elon Musk is pushing Tesla to have more in-car games and entertainment, which he sees as 'critical' in a self-driving future.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -96,7 +148,7 @@
       "originalUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -552,6 +604,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-apple-and-others-are-coming-for-tesla.md",
+      "title": "Apple and Others Are Coming for Tesla",
+      "excerpt": "Google parent Alphabet has a self-driving car business, Waymo. Baidu, the Google of China, is also thought to be planning an EV. Baidu might be looking at the valuation NIO and other Chinese EV ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "originalUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-270718/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "publishedDateTime": "2020-12-22T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1297,110 +1392,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more.md",
-      "title": "Tesla Full Self-Driving in hacked AR view looks fascinating, and more",
-      "excerpt": "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
-      "originalUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
-      "publishedDateTime": "2020-12-16T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
-      "title": "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources",
-      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as growth plateaus in its core search business, where revenue ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/baidu-auto-idCNL1N2IV1GR",
-      "originalUrl": "https://cn.reuters.com/article/baidu-auto-idCNL1N2IV1GR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2IV1GR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2IV1GR",
-      "publishedDateTime": "2020-12-16T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

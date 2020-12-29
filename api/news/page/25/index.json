@@ -2,6 +2,186 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-07-natural-language-processing-market-2020-global-industry-analysis-size-share-growth-trends-key-players-and-forecast-to-2023.md",
+      "title": "Natural Language Processing Market 2020 Global Industry Analysis, Size, Share, Growth, Trends, Key Players and Forecast to 2023",
+      "excerpt": "\"Worldwide Natural Language Processing Market report examines the itemized investigation of key drivers impacting market development, openings, the difficulties and the dangers looked by key ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "originalUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-how-aws-is-staking-its-claim-on-tomorrows-contact-centers.md",
+      "title": "How AWS is staking its claim on tomorrow’s contact centers",
+      "excerpt": "AWS unveiled several new ML-based feature updates for its Amazon Connect cloud contact center service that will simplify call agents workloads",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "originalUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1626983506-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
+      "publishedDateTime": "2020-12-06T20:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders.md",
+      "title": "CSIRO's Data61 researchers develop AI helmet to prevent seizure disorders",
+      "excerpt": "Researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61 have developed an implantable artificial intelligence monitoring and seizure detection helmet system designed to prevent seizure disorders for patients who have undergone decompressive brain surgery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
+      "originalUrl": "https://www.zdnet.com/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/07/4bc325fa-5454-4d6b-8093-c9ae2a8f2abd/csiro-data61-brain-seizures.png",
+          "width": 2066,
+          "height": 1144,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
+      "publishedDateTime": "2020-12-06T18:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-ai-will-empower-scientists-rather-than-replace-them-expert-says.md",
+      "title": "AI will empower scientists rather than replace them, expert says",
+      "excerpt": "Google’s DeepMind AI team solved a long-running biological problem. Scientists are not about to lose their jobs to more sophisticated artificial intelligence – instead it will help them work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/12/07/ai-will-empower-scientists-rather-than-replace-them-expert-says/",
+      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/12/07/ai-will-empower-scientists-rather-than-replace-them-expert-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.expressandstar.com/resizer/Ttc5NfvTilsHQup-r4ApS2PvzN4=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/37QUOSPE3VBKPF3SBS6OTBFRYQ.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-06T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express & Star",
+        "domain": "expressandstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-elon-musk-makes-clear-his-stance-on-self-driving-cars-ai-oversight-and-his-ad-for-mars.md",
       "title": "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'",
       "excerpt": "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space.",
@@ -993,196 +1173,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
-      "title": "BlueScope Steel completes data and analytics overhaul",
-      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
-          "width": 570,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-using-a-test-framework-to-design-better-experiences-with-amazon-lex.md",
-      "title": "Using a test framework to design better experiences with Amazon Lex",
-      "excerpt": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/ML-972-1.jpg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T18:07:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-mlcommons-debuts-with-public-86000-hour-speech-data-set-for-ai-researchers.md",
-      "title": "MLCommons debuts with public 86,000-hour speech data set for AI researchers",
-      "excerpt": "If you want to make a machine learning system, you need data for it, but that data isn’t always easy to come by. MLCommons aims to unite disparate companies and organizations in the creation of large public databases for AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/MLCommons.png?w=1024",
-          "width": 1024,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
-      "publishedDateTime": "2020-12-04T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility.md",
-      "title": "Intel Develops $50 3D Printed OpenBot to Advance Robotics Accessibility",
-      "excerpt": "A curated collection of industry and product deep-dives. Edouard Moens de Hase talks to us today about Aerosint. For the last few years, they have been working on improving powder bed fusion. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
-      "originalUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3dprint.com/wp-content/uploads/2020/08/openbot4_intel_3dprint_smartphone.jpg",
-          "width": 1015,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
-      "cdnAmpWebUrl": "https://3dprint-com.cdn.ampproject.org/c/s/3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
-      "publishedDateTime": "2020-12-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "3dprint.com",
-        "domain": "3dprint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

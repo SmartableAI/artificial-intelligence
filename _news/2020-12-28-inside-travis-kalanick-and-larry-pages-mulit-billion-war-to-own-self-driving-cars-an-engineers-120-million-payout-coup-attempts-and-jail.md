@@ -59,20 +59,6 @@ related:
         width: 600
         height: 402
         isCached: true
-  - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
-    excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."
-    publishedDateTime: 2020-12-27T07:07:00Z
-    webUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-division-to-aurora-after-years-of-turmoil-deadly-accident/"
-    type: article
-    provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 14
-    images:
-      - url: "https://www.entornointeligente.com/wp-content/uploads/2020/12/uber_sells_self_driving_car_division_to_aurora_after_years_of_turmoil_2C_deadly_accident.jpg"
-        width: 460
-        height: 345
-        isCached: true
 
 secured: "XyNkFew7I8a61zE7FSJKo5o1SE+ayZO2QO94Sv9/hqg2E82cK+ILC3PgaDXHL+zwLO+5PjpqtkIILBwRtdgvfQ7abRoEI4ik57i/GHRXSbujETxSLpzlJ+dvlXUYPoZHYdaPaZR74UjuSuTJVCR7Ir4YKA8+7AD7zMGHmszcrbxLIWgxMSY+AkUslirQuVMws3QUzFLIKWx2RwoNxklsoWQDlpL8DZ+n2cfDwsgL3hfzBR9SmJa/0TXUyCB01+tbahu1pwqR1LyFqpqu6guSkE5ttIQpAAC8+xfW8mYYzpy8YTs7/gPb151+Q67TW4FRLMHc1CTNr2FQIRBpZ4S3mcEwvxVOBN/HVVuwH8abNXYIRdLJXQRGzeryUZhl9fPKHd4rS3gZQYgaRilKhXzFNUUjOSMVY3KWiv9k+6Ys4Qii7LiiEe9uiyyZvHNffXi3ea3FCgJEhtOponZVGDRkC98RtGFLf1BzolC2c3qTSV2e20j0DIG23FvmdI5SKzGfhCDzCIehAdL+ZKxpvHXnGA==;RYpIj6zUcBLzKjMyi/ax1g=="
 ---

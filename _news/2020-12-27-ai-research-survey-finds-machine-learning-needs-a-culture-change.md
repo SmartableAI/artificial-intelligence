@@ -14,7 +14,7 @@ provider:
   name: VentureBeat
   domain: venturebeat.com
   images:
-    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -40,6 +40,6 @@ related:
         height: 600
         isCached: true
 
-secured: "1Zy0Dt0VzBpPS1PakOQwBj0rz9GjRhtoA4cTZM664MR8F3D12FrhCPkfDBT/itPNVmNZaZ+lNKoeCATB8XwDy2g2dIzPqIU1M8b9IzkGi7JT0HQI90mcfBRKyLuIrkIdXk7VWofLPNiGJ9l/1y32qHpxur/pmOC5LykiH46LMLmbV9zgVF0d/IMSdhrhnW2ulPLqY2aEpRBeuNQXtMrPk+D1fSDF5X77OvPA/s6BSwfYJJbYkt4k4JdAS7d22Z5xLUQ7dXxJxfe7F+1yp93NfboVIVGcyfpJxOzm3XE5WYUtN4kucKLFasdiBTkhx5sXPZKDdWX1LJtri/AhUate1MatcxfE68zuXSeH6T1ZqLycCOlfkPUWfESgmgAIwxz3PbSdNi7Q+vNEjNP/G4kPGlXWSDyGi8XJuTYeE5gQiRSj/mtBkzGHIHSZAtZbGH8z19wVI5PtYJ5IAoDvfe87dLUDu+tGHMObaS/r+axClzx69Mo/agaUwjPrnGL6mGZ1oU+de8N8X5bXEysNgyt0Jqyo7eq7yem932GtCilNxrY=;aVbiJDnyhx4sKjPyigL18w=="
+secured: "zL6MqFSqJHKqDC7OLCwL1jcCb3tsitbzmeEbBs13EYttkwd/T+HGz1N+qp6/w46Nj5ikyfUeGssTT5GJ/KA7A9QDz1SK6foXDAUVLt2IlbPNWlYdQ+I/4bOA6aymsG8mgU39rMwkpHTo3VpkDJLcMlsUwqt2DmDuCh2MNEwvXGeSQOY+YxWXNFRj78oswbQsc/oIKRlDGt86sStIc565GY+tn48wspmE4jHhSJz8izhwJW9eJZtmiPeI+I2oJrhBIxfM8XN56kvK/Xxec1EsgcxPJpX6coI77L2q6p98/KqVthcmfmYPQX4orjJ96u6OhJ+6TzcDoVYiP0gjrYm82PKJNrXBtkMURohQj9sshBBwfbnOPCDHJJSoSILObNY6HFU3y+a+bd9U1N5SwXwEY647EDpj+jjJmbAKAvP2Dzz72QBdHwdIsC7khbErMp8rH7AdEvGeEv4MC+T0wfZ6DlNOaUSYuRukms0uXQIFmd530+ktQTi/+TvOEA+uYQT85UkwF8eSo2nLUSSAPvJeK3YhBKyszuR5GgXXs3yhGhI=;rPDAHiDcXPlfYtWF4ofU7w=="
 ---
 

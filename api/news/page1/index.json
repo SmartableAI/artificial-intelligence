@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars.md",
+      "title": "Largest Ever Cyber Hack Provides Vital Lessons For Self-Driving Cars",
+      "excerpt": "Learning valuable cybersecurity lessons from the recent SolarWinds debacle and using those lessons for the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea5d030b6c5fc034334221%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5991%26cropY1%3D266%26cropY2%3D3074",
+          "width": 1199,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-12-29T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-artificial-intelligence-transforms-todays-hearing-aids.md",
       "title": "Artificial intelligence transforms today’s hearing aids",
       "excerpt": "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more.",
@@ -251,7 +303,7 @@
       "originalUrl": "https://electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -303,7 +355,7 @@
       "originalUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -355,7 +407,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -452,7 +504,7 @@
       "originalUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -648,7 +700,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -700,7 +752,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -889,7 +941,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1180,50 +1232,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting.md",
-      "title": "Zoho’s 2021 finance trends predicts surge in cloud-based and AI-driven accounting",
-      "excerpt": "Zoho Corporation, a global technology company offering the most extensive suite of business software applications in the industry, today delivers its predictions for finance and accounting in 2021. Zoho suggests that artificial intelligence will become well-entrenched in accounting and finance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "originalUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/graphicstock-business-people-reading-graphs-and-charts_SCehK9CcWb.jpg",
-          "width": 750,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "publishedDateTime": "2020-12-28T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

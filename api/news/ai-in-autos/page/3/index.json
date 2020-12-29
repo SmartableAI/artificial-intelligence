@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-09-a-preview-of-swindons-future-superfast-broadband-driverless-cars-and-an-institute-of-technology.md",
+      "title": "A preview of Swindon's future: Superfast broadband, driverless cars, and an Institute of Technology",
+      "excerpt": "THE TechSwindon summit itself previewed an exciting future for the town with superfast broadband and a new tech institute on the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.swindonadvertiser.co.uk/news/local/18929381.preview-swindons-future-superfast-broadband-driverless-cars-institute-technology/",
+      "originalUrl": "https://www.swindonadvertiser.co.uk/news/local/18929381.preview-swindons-future-superfast-broadband-driverless-cars-institute-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.swindonadvertiser.co.uk/resources/images/12117621/",
+          "width": 1747,
+          "height": 1240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T21:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Swindon Advertiser",
+        "domain": "swindonadvertiser.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apple-reportedly-hands-over-its-self-driving-car-project-to-executive-who-oversees-siri.md",
+      "title": "Apple reportedly hands over its self-driving car project to executive who oversees Siri",
+      "excerpt": "Apple is shuffling its leadership that oversees its secretive self-driving car project ... the company’s head of artificial intelligence, who also oversees voice-based digital assistant Siri.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "originalUrl": "https://www.theverge.com/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kMQkk177iqz3S9pEuDwI0tzzAIQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68480487/acastro_180604_1777_apple_wwdc_0004.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "publishedDateTime": "2020-12-08T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apple-self-driving-car-unit-now-overseen-by-john-giannandrea-report.md",
+      "title": "Apple Self-Driving Car Unit Now Overseen By John Giannandrea [Report]",
+      "excerpt": "Apple's self-driving car unit is now being overseen by AI executive John Giannandrea, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report",
+      "originalUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.iclarified.com/images/news/78905/78905/78905-640.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report/amp",
+      "cdnAmpWebUrl": "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report/amp",
+      "publishedDateTime": "2020-12-08T17:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iClarified",
+        "domain": "iclarified.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-apples-self-driving-car-program-has-a-new-boss-report-says.md",
       "title": "Apple's self-driving car program has a new boss, report says",
       "excerpt": "Things have been pretty quiet over at Apple's self-driving car program, aka Project Titan, for a while now. With Apple being notoriously tight-lipped about future products, we don't know a ton about the program,",
@@ -1320,145 +1458,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility.md",
-      "title": "Waymo self-driving cars set out for Ohio snow at new testing facility",
-      "excerpt": "Alphabet's Waymo division is ready to take on the Buckeye State as it announced on Tuesday a new facility in East Liberty, Ohio, to house its self-driving car prototypes. There, Waymo plans to put its Waymo Driver system to work on driving a car entirely by itself,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/Sy2VeNw5UQrGG1C43PGSDFmjVNk=/2020/12/01/90826b96-460e-4aab-b8bc-35016493224a/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "publishedDateTime": "2020-12-01T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully.md",
-      "title": "As Algorithms Take Over More of the Economy, We Should Cede Control (Very) Carefully",
-      "excerpt": "As they proliferate, experts say, we need to make sure they don’t collude against us in damaging ways. Fears of malevolent artificial intelligence plotting humanity’s downfall are a staple of science fiction. But there are plenty of nearer-term ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
-      "originalUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/11/stocks-economy-algorithms-AI-1.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
-      "publishedDateTime": "2020-12-01T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
-      "title": "7 Machine Learning Stocks for a Smarter Future",
-      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
-      "originalUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600c.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
-      "publishedDateTime": "2020-12-01T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

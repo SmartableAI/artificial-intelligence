@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-28-zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting.md",
+      "title": "Zoho’s 2021 finance trends predicts surge in cloud-based and AI-driven accounting",
+      "excerpt": "Zoho Corporation, a global technology company offering the most extensive suite of business software applications in the industry, today delivers its predictions for finance and accounting in 2021. Zoho suggests that artificial intelligence will become well-entrenched in accounting and finance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "originalUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/graphicstock-business-people-reading-graphs-and-charts_SCehK9CcWb.jpg",
+          "width": 750,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "publishedDateTime": "2020-12-28T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
       "title": "Neural’s AI predictions for 2021",
       "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
@@ -356,7 +400,7 @@
       "originalUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -503,7 +547,7 @@
       "originalUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -648,7 +692,7 @@
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1148,58 +1192,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime.md",
-      "title": "Why AI and security pros need to work together to fight cybercrime",
-      "excerpt": "Cybercriminals sometimes use AI to their benefit. In order to defeat these cyber bad guys, security pros and AI should focus on what they do best.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "originalUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/01/21590d4d-6013-4049-b3b1-d972e3d73979/resize/1200x/7b9a22c91ecb9318663b276bd819b0b0/ai-ml-2.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "publishedDateTime": "2020-12-24T09:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

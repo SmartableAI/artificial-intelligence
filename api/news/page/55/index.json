@@ -2,6 +2,205 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-11-16-the-eyes-have-it-the-future-of-human-machine-relations.md",
+      "title": "The Eyes Have It: The Future Of Human-Machine Relations",
+      "excerpt": "This kind of eye contact is all about making the daily work of employees more convenient, ergonomically-friendly, and even fun by controlling applications based on user intention – via eye tracking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad41a2529cdb75bc46e53e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/amp/",
+      "publishedDateTime": "2020-11-16T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-amd-goes-after-nvidia-with-new-gpu-for-the-datacenter.md",
+      "title": "AMD Goes After NVIDIA With New GPU For The Datacenter",
+      "excerpt": "AMD announced its first data center GPU to compete in high-performance computing (HPC) and Artificial Intelligence (AI). Last year, the company announced that it would bifurcate its GPU technology into two architectures: CDNA for computation and RDNA for graphics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb27a2cf774c190ebedca0d%2F0x0.jpg",
+          "width": 899,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/",
+      "publishedDateTime": "2020-11-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-amd-launches-instinct-mi100-accelerator-chips-for-scientific-research.md",
+      "title": "AMD launches Instinct MI100 accelerator chips for scientific research",
+      "excerpt": "and AI processing so scientists can work on heavy-duty computing tasks, such as coronavirus research. Santa Clara, California-based AMD said the chip is the world’s fastest HPC GPU and the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/amd-instinct-.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/amp/",
+      "publishedDateTime": "2020-11-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-indian-artificial-intelligence-ai-industry-market-growth-trends-analysis-share-and-forecast-2025.md",
+      "title": "Indian Artificial Intelligence (Ai) Industry Market Growth, Trends Analysis, Share and Forecast - 2025",
+      "excerpt": "artificial Intelligence (AI) is poised to transform the world, with integration of intelligent machines allowing high-level cognitive processes ... healthcare sector, Microsoft Corp. is taking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "originalUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb16933502_g.jpg",
+          "width": 626,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "publishedDateTime": "2020-11-16T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal.md",
       "title": "Adapting To The New AI Landscape And Planning Tomorrow's New Normal",
       "excerpt": "As pressure to do AI right and unlock the value it promises increases, it's time to think differently to navigate the uncharted digital waters ahead.",
@@ -978,197 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-training-facial-recognition-on-some-new-furry-friends-bears.md",
-      "title": "Training facial recognition on some new furry friends: Bears",
-      "excerpt": "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html",
-      "originalUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/mLYmwT6KaOKcZ5Rrcvt1Da_8caY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5K3O4A4ZYZCEIP3IU3344F66OQ.jpg",
-          "width": 1200,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-15T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows.md",
-      "title": "It’s Managers, Not Workers, Who Are Losing Jobs To AI And Robots, Study Shows",
-      "excerpt": "This is a class of people we did not expect robots to have an effect. Because managers, by definition, supervise other human beings, so we really cannot replace their functions until the singularity occurs with artificial general intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb00928262a4a4cc9aaf465%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
-      "publishedDateTime": "2020-11-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-computer-vision-mobile-app-can-regularly-monitor-diabetes.md",
-      "title": "Computer vision mobile app can regularly monitor diabetes",
-      "excerpt": "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,",
-      "sourceUrl": null,
-      "webUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
-      "originalUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
-      "publishedDateTime": "2020-11-15T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-google-previews-tensorflow-lite.md",
-      "title": "Google previews TensorFlow Lite",
-      "excerpt": "The company announced the developer preview of TensorFlow Lite. The new solution is a lightweight version of TensorFlow, the open-source software library for machine intelligence. “TensorFlow ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/embedded-devices/google-previews-tensorflow-lite/",
-      "originalUrl": "https://sdtimes.com/embedded-devices/google-previews-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/11/tensorflow.jpg",
-          "width": 1224,
-          "height": 1160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

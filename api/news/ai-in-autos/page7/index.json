@@ -2,6 +2,135 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-04-chinese-carmaker-invests-in-fremont-self-driving-tech-unicorn-ponyai.md",
+      "title": "Chinese carmaker invests in Fremont self-driving tech unicorn Pony.ai",
+      "excerpt": "Pony.ai, a self-driving tech unicorn led by former Baidu and Google self-driving car executives, on Tuesday announced a strategic investment from Chinese state-owned vehicle manufacturer FAW Group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
+      "originalUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
+      "publishedDateTime": "2020-11-03T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-artificial-intelligence-creates-a-bad-christmas-song.md",
+      "title": "Artificial intelligence creates a (bad) Christmas song",
+      "excerpt": "The \"neural karaoke\" project from the University of Toronto is a demonstration of what artificial intelligence ... day be able to drive around in her self-driving car while she schedules an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/5/5/55272_01_artificial-intelligence-creates-bad-christmas-song_full.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/amp.html",
+      "publishedDateTime": "2020-11-03T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-googles-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election.md",
+      "title": "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election",
+      "excerpt": "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11",
+      "originalUrl": "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa17cdb69331a0011bc6f36?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp",
+      "publishedDateTime": "2020-11-03T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.md",
       "title": "Concordia researchers dig deep into the software powering self-driving cars",
       "excerpt": "Peeking under the hood of a self-driving car will only tell you so much ... Developed by Chinese tech giant Baidu, the Apollo system is a leader in the ADS field. Its app-based Apollo Go Robotaxi service is already operating in a limited capacity on ...",

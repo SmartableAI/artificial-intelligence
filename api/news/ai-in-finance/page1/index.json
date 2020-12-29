@@ -114,7 +114,7 @@
       "originalUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -202,21 +202,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
-      "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in",
+      "path": "_news/2020-12-21-fintech-innovators-partner-to-turn-nlp-into-dollars.md",
+      "title": "FinTech Innovators Partner to Turn NLP into Dollars",
+      "excerpt": "In an industry where innovation happens in real time, this partnership helps our clients access highly curated NLP datasets in a research ready format using CloudQuant’s Liberator data API.” Vectorspace AI provides high value correlation matrix datasets to enable researchers the ability to accelerate their date-driven innovation and discoveries using patent protected NLP/NLU.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7df1431608264ba686484026572ea7d4",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7df1431608264ba686484026572ea7d4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -226,11 +226,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T02:00:00-08:00",
+      "publishedDateTime": "2020-12-21T04:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -242,7 +242,7 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Natural Language Processing"
       ]
     },
     {

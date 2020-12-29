@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Fintech Lending Apps are Increasingly Using AI and Machine Learning to Accurately Determine Borrower’s Creditworthiness, According to Researchers"
-    excerpt: "Recent research documents that, once powered by artificial intelligence and machine learning, these alternative data sources are often superior than traditional credit assessment methods, and can advance financial inclusion, by, for example, enabling more ..."
-    publishedDateTime: 2020-12-24T23:53:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170603-fintech-lending-apps-are-increasingly-using-ai-and-machine-learning-to-accurately-determine-borrowers-creditworthiness-according-to-researchers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt-600x518.jpeg"
-        width: 600
-        height: 518
-        isCached: true
 
 secured: "Kvr4/fH5xPMY68QF+tgrN6iHl2/QRx5HlyYGAQO7TN9Sv475wD7qd+0TRuUhXEGVc5nGKaMee0DPRvU2wTI8E9LnpZxXSPX0TViEf5YwWsqAdfGBdi351o8Qdt2uw3AYGU1WlrwoQxCWJzfaHGUPic7dk98DeYbs2y3cfRWj71YDpZ+kfydNBU2ZMcINafQet9jX8jAxmPAp0mv0nm3Nz1QXpmnUbDNMGLd4SB5GO7Y+IO9n8Dg/1d6e1DifQk3SQEgZcDfpErhEZRRWdG7WZwwPlxZpOlTw4cvIJBgdWo7qKWaaVvi4SWzKU4jPJleQ3JSfGbe8ukvTmmTVUdKc7Izr6kIDtJse5BUZjglAfmhqwEqrRDWFk2ZTg7za3vI4DiNRhJAIGSb37kilYs5i3cXbUyry5WvkIfcotQbpRE0/2yXXlR4Tz8xH/xAjz1kQKYSt+n7OOd/IFaAnEaumJ7RQnZuh8q5u60f6rkXsJ5pvKCu+MmTBimsjdykG1oodESTuEtmg36T3LPJCB1eC+A==;zVEaPDHx/CNLMViy7C89jg=="
 ---

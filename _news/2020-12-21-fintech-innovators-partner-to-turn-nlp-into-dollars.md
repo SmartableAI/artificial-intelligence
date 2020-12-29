@@ -1,35 +1,27 @@
 ---
 category: news
 title: "FinTech Innovators Partner to Turn NLP into Dollars"
-excerpt: "CHICAGO & SAN FRANCISCO--(BUSINESS WIRE)--Vectorspace AI in partnership with CloudQuant announce the availability of novel datasets that reveal relationships between global equity products. Vectorspace AI datasets are designed to boost precision ..."
-publishedDateTime: 2020-12-21T11:28:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201221005087/en/FinTech-Innovators-Partner-to-Turn-NLP-into-Dollars"
-webUrl: "https://www.businesswire.com/news/home/20201221005087/en/FinTech-Innovators-Partner-to-Turn-NLP-into-Dollars"
+excerpt: "In an industry where innovation happens in real time, this partnership helps our clients access highly curated NLP datasets in a research ready format using CloudQuant’s Liberator data API.” Vectorspace AI provides high value correlation matrix datasets to enable researchers the ability to accelerate their date-driven innovation and discoveries using patent protected NLP/NLU."
+publishedDateTime: 2020-12-21T12:39:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7df1431608264ba686484026572ea7d4"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7df1431608264ba686484026572ea7d4"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - Natural Language Processing
 
-related:
-  - title: "CloudQuant LLC: FinTech Innovators Partner to Turn NLP into Dollars"
-    excerpt: "Vectorspace AI in partnership with CloudQuant announce the availability of novel datasets that reveal relationships between global equity products. Vectorspace AI datasets are designed to boost precision, accuracy, signal or alpha based on Natural Language ..."
-    publishedDateTime: 2020-12-21T11:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51565878-cloudquant-llc-fintech-innovators-partner-to-turn-nlp-into-dollars-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 21
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "JdwnDLpbR0uewdg79EJaX9eRYbO/ePjwLR1T5ZkOoQxjijORlU/DS3TJlB2RergxRJH9lyJbz0jejb9nP0MSXRXRG+78nwkPdX+9xEXzZkt1BdCXZrIMqgztuYzhl5v8k9iVZOfd/r3/T2p83ok1U7bG7XdVArRCwBMksmN2Cb2jSr+w792q1mljWn8JU34YSh+gOHCrGa82PvOoHMW6q7lwBvjsnafYbWS2ROBcLsf8nnVknVm3YcviCg8zp0dSFfuk7xU+m/IwalB8desvlsg+NhpK50UDZHXbKY7M1vAloFNrXhKJZJU/eWk/YGKwLx+erPw/eJNonLMIuqdEXLqB4xuSr4k+0rTr58T/VlCesPK6IQj8X96JpmW0BPwCy1/lnCMdIgWRAbiQ4e6tql9mL4JGgQd3iNf048uC5Imb4biu+unn90BqkaCqXPatj2j/zS0w/jQ38g0lZxiPTiiq4c8Y3AxsPGTWYeL0pt7bIZbt/9Tx4corhRUOTpFmUw15bIdDcSm7OfIrLUxKrQ==;SObPaKvH9QcGySuGQ85KNQ=="
+secured: "/ezgTqlyqN7UiOI8NXMw4aQMX4RD0ocVfh14OzW3/dieSHyW/R3a9zSc3jGu+dCV8Z2CwAUqwPzsnzDMpI6ygiheEto5zn+GAgOp6211uaguGV+j1XhfLXaM2LeTzNsqzkF2zpvzTXzJoqYUFBBSXl8VxsW03IHZwzT9aIArh27fKm3oQGFFIQGgt9BhBpwRaL0RNGb7V3jRsb8iQFA9bse25jLkxwfic4h9IXV4E+BUyvZmONvARe2vf1WyPMsDG78IjF8VLbENjRVrpzvz19TQ4B6wM9AQLvVaNluc2Ro5IhGVqw87KqBJHEG0f7kNbXpcO8bvekja87nB+CjPHClWC5UC0hazU3f0LdFj7iQ=;OC0Cx1gtml0opFqn5dpgpw=="
 ---
 

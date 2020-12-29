@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-21-microsoft-msft-reportedly-mulling-on-designing-chips-in-house.md",
+      "title": "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House",
+      "excerpt": "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them.md",
+      "title": "AI will take away lots of jobs. And we are nowhere near ready to replace them",
+      "excerpt": "The government, said the committee, must start actively explaining how data is being used, rather than expect the public to find out. The report stressed that to enable a better deployment of AI, the government should urgently appoint a dedicated leader.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "originalUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/12/11/c04a10b1-906a-4231-b402-a811eadccee2/thumbnail/1200x675/ab72407c06211c42c14c61cd2c430a83/automation-lowcode-and-nocode-tools-crea-5fd2019dcaad46044ff21da6-1-dec-11-2020-12-25-53-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "publishedDateTime": "2020-12-21T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-elon-musk-tesla-full-self-driving-subscription-coming-in-2021.md",
       "title": "Elon Musk: Tesla Full Self Driving subscription coming in 2021",
       "excerpt": "Tesla could start offering its pricey self-driving system as a monthly subscription next year, according to Elon Musk.",
@@ -248,6 +335,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-fintech-innovators-partner-to-turn-nlp-into-dollars.md",
+      "title": "FinTech Innovators Partner to Turn NLP into Dollars",
+      "excerpt": "In an industry where innovation happens in real time, this partnership helps our clients access highly curated NLP datasets in a research ready format using CloudQuant’s Liberator data API.” Vectorspace AI provides high value correlation matrix datasets to enable researchers the ability to accelerate their date-driven innovation and discoveries using patent protected NLP/NLU.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7df1431608264ba686484026572ea7d4",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7df1431608264ba686484026572ea7d4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -559,19 +690,19 @@
     {
       "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
       "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in",
+      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -581,11 +712,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T02:00:00-08:00",
+      "publishedDateTime": "2020-12-21T02:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -595,7 +726,6 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -1074,137 +1204,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla.md",
-      "title": "ARK Autonomous Technology & Robotics ETF: Triple-Digit Gains Including Tesla",
-      "excerpt": "ARKQ's underlying objective is well positioned to profit from advancements in new technologies in the energy, automation, manufacturing, materials, and transportation sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4395453-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla",
-      "originalUrl": "https://seekingalpha.com/article/4395453-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.seekingalpha.com/uploads/2020/12/17/saupload_MsLjLqyJfr14D57VrhIFoiC8XHytQPd_IMFrhHf43PTTPySp2wdgam7pwUi_QUfAug5Eq9o60OaykBpT1QRaK_8PDWwc2zR_mpr4NAE_w1440_thumb1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars.md",
-      "title": "ETU “LETI” Held Russia’s First Olympics in AI for Self-Driving Cars",
-      "excerpt": "On December 6, the ETU “LETI” robotarium hosted the finals of the Autonomous Driving Olympics. It is the first Russian competition to develop artificial intelligence technologies for",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/",
-      "originalUrl": "https://indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/?amp",
-      "publishedDateTime": "2020-12-19T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama.md",
-      "title": "Building and deploying an object detection computer vision application at the edge with AWS Panorama",
-      "excerpt": "Computer vision (CV) is sought after technology among companies looking to take advantage of machine learning (ML) to improve their business processes. Enterprises have access to large amounts of video assets from their existing cameras, but the data remains largely untapped without the right tools to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/18/1-Parking-Lot.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T16:18:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

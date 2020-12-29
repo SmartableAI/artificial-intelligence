@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch Tesla Model S Full Self-Driving Beta Tackle The Snow"
+    excerpt: "This is what we're thinking when we ask how quickly (or how long) it will take before tech like Tesla's FSD will actually be able to pilot cars on its own."
+    publishedDateTime: 2020-12-29T15:43:00Z
+    webUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/"
+    ampWebUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/7x73V/s1/tesla-model-s-fsd-beta-snow.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "BJDXEplJscustnbSdCS3PvMrUEcI7hANWJyLwpmxovN1vSyfWwm3SAO+r2uZs+Wp1Us0qrM88qrHiQ9hoZ87XsccNtixSzHvjam7K+GYSU2h1Eq0CBN0yMyCCB+KD3t1p22ozcmGqU6HkJ8DLW9xNeaPj+MmZ2wJPK3AeJiLd9V9L7IU71BXALqsT47fJAGhZ2njtAgvnnZ6MlqqfSpGEb0W3W0b5D+IiwQ+Bd+sZyq7ZM/PsthzumvOGdIgERn5sCw/w33w1z5ryzIW93De+cROQk4I17ZUVuRYf1MptcwStNhJwVD+cevI30VEzgE/5ZMUESL6c0IqDJ+7SKCfhinPcqjUywYvuVNL6SWM56M7BU+nJW894qxZkGd1fzdz+APTH7ybQLrIAM6YTLo12uDi1ckp75+25Yu8xzJT8rSVb52ngwF+iy6TIUBAFkU0CJerhjETPD1q1Xis7assjILx9uK4jv8OUoy4CEF7OMYZpDZ+4BclURZWLP8RmV/GGB8qB28pSudUQPOvNhrEOw==;SpKd7AEO1YGLIDvO+QqoWA=="
 ---

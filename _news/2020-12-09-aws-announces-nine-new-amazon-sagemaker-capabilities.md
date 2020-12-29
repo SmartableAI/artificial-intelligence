@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-publishedDateTime: 2020-12-09T05:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
+publishedDateTime: 2020-12-08T19:35:00Z
+originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "cYE83acbs/JTTymgldCClM6L4IICTZ+gvWSa7CCrtiGa9LgpyDJyhldVDNxO3XqWl8NDFkZvqAqk9Hh5FSJpHcv4XFCUdkK98yk8pPn+B91WYHvXqfQ+K++VcTejAyBIiyMMM1tHrVgX+UdWdjoaVQaPPMkK+/WuI0ntp7BvB91pv7jpFtIr0C+5VfRU4K9b0AnBtrKvdhrKrUT07oxXQe6ub2eiQKglkGYns+jDDKXdYs4TfeGA0an891phbRI0gxKzkolcPcF+09SDqvexCu+QnXfjSLJKe6uIl5FaR4I+pY9yPzgbknrm/Q+fGjx8BhjvAXhnsDs75MI9w/tpG117MEscTwfmTPlIsko/Oco=;CNvsfcfhH0GCW+tOIxspbw=="
+secured: "vXsizuQHV+6KGicZ/j0OkuDOTZBqIWMTikdQp26ZbWC5xgYryAWOxWutyKqaWrA9bL2cUOkofBbszn7oKQYaeIndp3YSQK0dUBCM2o4ZgbZDoZIU1UOVrZoMJLIhVqGhywoozzQcY4cytRHLlVMGrh9UxZ9rOiKxG30ly+H2Q1yBDousv2EfMNop+8VAi6iLX+N6p4WgX4FQYjyDVHVdmiQE4sXGNfeBbsq09BoIfXpRyJSS3uPLsFZ3CC1pXK1hcIpem6D1bJi00CFwm1WwgLJIKpFUT8qEgM5OcS9d1bLjGZF37V9OvhKsVbaSESnbgjEG5Wq3yXLETQTQ5gH2yYY083acGBs0QM20xr1MjvA=;vWUJR6Dvf8iJPpCc1ERDVg=="
 ---
 

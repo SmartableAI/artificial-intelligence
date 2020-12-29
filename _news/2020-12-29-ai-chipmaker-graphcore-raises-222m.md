@@ -125,10 +125,26 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "UK-based Graphcore raises funds to develop AI chip"
+    excerpt: "Graphcore, a UK-based manufacturer of artificial intelligence microchips, has raised US$222mln (£165mln) from new and existing investors. The company, which originated in a pub in Bath and is now based in Bristol,"
+    publishedDateTime: 2020-12-29T15:26:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/937439/"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/937439"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/937439"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 74
+    images:
+      - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_12/1200z740_1609255316_2020-11-20-14-55-35_ac6d23e161ea039615fc6200b6c8b803.jpg"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Graphcore raises $222m as it considers path to float"
-    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
+    excerpt: "Tech firm Graphcore has raised $222m (£164m) as it battles to conquer the market for artificial intelligence microchips, making the company one of Britain's best-funded start-ups"
     publishedDateTime: 2020-12-29T12:07:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
     ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     type: article
@@ -142,6 +158,6 @@ related:
         height: 434
         isCached: true
 
-secured: "Oi12/xfI3UgiPw86/5cIamVnkDpnz4ONvOkp1+ScMXypt08HRM6ptPtCo9RjVdbvBe6LpmbJtAS43dSQTRV3XfJni1ahdnZzNzSQeWIYl6jU5KfvPV6nC0hpcBWg8wLelBlu1VQIJoCjWjVf98+ukGsgeG8IrWI3SBZ9ZrD9y1Ul+CxGen1Ic9QqOCv50+GaElX6KGc9iogkNcs0Ut/4mLmi7jCIBdQsOkhtT+c1h1HhcDs7Vo37eyMJyP2TPcu8TqFlgXqi5RSt4NFiIs9H1sHN1NEd3U9Etq/3c6r4Tppj8X2ZuTYGsCpQ446E5R9H5yDcJnijeR8LNisQUsQcVIok4U4H5ygmSXGDRs9B1Ig=;fj6TRz2xlGkKIvG5B0FWiA=="
+secured: "S6u2s51Ji4ihuztU8+GWI+9vF7fhtI1PTwB0d6tDFvF6I6AhLi+RheziEZPhxWzfSk9bMk9aSdegcIr+XeCGrg2EBGeNMjYbG3wET9pBFEFsxGU2kUfpRyQJDzfIwljr6uc/Q6AHjoCurl7yujMCTNdgDwPi5bDqmL06tu6BZrNWzF9ekO2cgCx0DTBJIazH0ifrlAsbIoDWgDS75sYg+PeAjpah3XBk3Ka1kJw8JZHu3NhbzTHaV/X5z07XXNpYGwIuJQ9gb9rt4vJtxIko/MK0PYAJ7asF3bWbhemAP4f14gBoRMj2iIl3v5FuA4HIiU6JuWBXp1mg9TUWzoNEAu/tHUfkJeVCYUDld8s2QdpLMF9TLMKcOnWzYKRi+W8eSrmZMS29o9lJBspEOy0zm3k7LrBOEnZkLZZv63Ln9DU85KhuYfoqZETJfIvNyezu5T8c7G6YHrTKRbOEze9rR/M9IsaifNw9p9fnFTDFTg1TYhuMJRmyPcU19X2L6n8w2EeEOjiUAr3GquTxvrsBHA==;hq0eM7fmVSSEuk8aPFYKhA=="
 ---
 

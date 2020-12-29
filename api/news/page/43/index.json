@@ -2,6 +2,204 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-11-23-two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail.md",
+      "title": "Two Companies, Everseen And Pactum, Show Artificial Intelligence's Impact On Walmart And All Retail",
+      "excerpt": "Retail is big and that makes it an ideal testing ground for artificial intelligence. What's being deployed in Walmart now from Everseen and Pactum is a window into where artificial intelligence is going now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
+      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9d5d18abba8a5b0f2b474%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
+      "publishedDateTime": "2020-11-23T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-mit-neural-network-knows-when-it-can-be-trusted.md",
+      "title": "MIT neural network knows when it can be trusted",
+      "excerpt": "Deep learning neural networks are artificial intelligence systems that are being used for increasingly important decisions. Deep learning neural networks are used for tasks as varied as autonomous",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
+      "originalUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/ai-certainty.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
+      "publishedDateTime": "2020-11-23T04:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis.md",
+      "title": "Entertainment Robots Market 2020 is expected to see magnificent spike in CAGR with Global Industry Brief Analysis",
+      "excerpt": "The Entertainment Robots Market is estimated to record a significant growth throughout the forecast period. The ICT",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-graphic-processing-unit-gpu-market-to-reach-20085-bn-globally-by-2027-at-336-cagr-amr.md",
+      "title": "Graphic Processing Unit (GPU) Market to Reach $200.85 Bn, Globally, by 2027 at 33.6% CAGR: AMR",
+      "excerpt": "Allied Market Research recently published a report, \"Graphic Processing Unit (GPU) Market by Type (Dedicated, Integrated, and Hybrid),",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/graphic-processing-unit-gpu-market-to-reach-200-85-bn-globally-by-2027-at-33-6-cagr-amr-301178807.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/graphic-processing-unit-gpu-market-to-reach-200-85-bn-globally-by-2027-at-33-6-cagr-amr-301178807.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
+          "width": 2000,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-the-7-most-promising-government-led-ai-solutions.md",
       "title": "The 7 Most Promising Government Led AI Solutions",
       "excerpt": "From the US to Canada, and Denmark to Estonia, massive governmental initiatives are being mobilized to boost AI solutions across sectors. The efforts that nations put forth now on the digital front will define our globe's leaders and laggards in digitalization.",
@@ -1015,169 +1213,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality.md",
-      "title": "Scandit Expands into the Japanese Market to Enable Digital Transformation Through Computer Vision and Augmented Reality",
-      "excerpt": "Scandit is a unique computer vision and machine learning platform combining leading-edge barcode scanning, text recognition (OCR), object recognition, and AR for any camera-equipped smart device - from familiar smartphones to drones, wearables, and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "originalUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realwire.com",
-        "domain": "realwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-mumbai-bmc-introduces-face-recognition-in-hospital-to-prevent-covid-19-spread.md",
-      "title": "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread",
-      "excerpt": "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "originalUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg",
-          "width": 670,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "publishedDateTime": "2020-11-21T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-deep-learning-in-the-emergency-department.md",
-      "title": "Deep learning in the emergency department",
-      "excerpt": "Using a deep-learning model designed for high-dimensional data, KAUST researchers have shown that it is possible to predict emergency department overcrowding from complex hospital records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/kauo-dli112220.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/kauo-dli112220.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-how-artificial-intelligence-could-save-healthcare.md",
-      "title": "How Artificial Intelligence Could Save Healthcare",
-      "excerpt": "The problem of high healthcare spending, in other words, is a problem of high labor cost. To solve it, we’ll need to bring in the machines. “Machine learning and artificial intelligence drive a lot more productivity with a smaller number of people and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/how-artificial-intelligence-could-save-healthcare",
-      "originalUrl": "https://www.mddionline.com/business/how-artificial-intelligence-could-save-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/artificial-intelligence_GDJ-PIXABAY.png",
-          "width": 640,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
