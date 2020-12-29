@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
+    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
+    publishedDateTime: 2020-12-29T12:13:00Z
+    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Big Data Analytics, AI, and Collaborative Combat Driving the Evolution of Land-based EO/IR CONOPS, 2019–2029"
     excerpt: "Reportlinker.com announces the release of the report \"Big Data Analytics, AI, and Collaborative Combat Driving the Evolution"
     publishedDateTime: 2020-12-28T10:28:00Z

@@ -70,7 +70,7 @@ related:
     provider:
       name: Elmoudjaweb
       domain: elmoudjaweb.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
         width: 1200
@@ -91,6 +91,22 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/12/Simon-Knowles-and-Nigel-Toon-scaled.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Graphcore raises $222m as it considers path to float"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
+    publishedDateTime: 2020-12-29T12:07:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
+        width: 694
+        height: 434
         isCached: true
 
 secured: "cbfzjp0wxdLv2SbJVSO3q1IYlEjQEmQXN0cswSLLDevr1SuXBlG4LwivEJDLNqNmDoHlYuVr15gVAjnybqVMXWJMQ0GR5f7hUAReL5Rq5woSjjqrx5H4eTRI64uJnWt1/p4qFPELs8cAnh9Ig10fiM2BUFj+Gn0Aqxak8z7hoyTZEaPOBs1/dmfY3FSQJiMXUvJp0hMgQRyVMAYYjL74DaTxB8ceokw52iaZVZJfKaufAuq+1wgX4q2X+qyCM+yzNERCd6Mbe23MJ6PEhU0g1m6dwAwjY6lNVuVBdzzVopXaM5t9eD8bVb69gXi6jh+6a+wewxIfG5/ee7/QfUvmppLAP3Cn/m/20pcyemmjqMHrEUWgxm5ugh4wRhlWNHi035QfMHp3LqiRuJp6VnuvuvAjxBB+FM8Y5udyUa1VJcp/v/pfPC7nBkSLrC1Y0h3OLG4B3VxG0B52qgf7ttg6k2NcwRh350/L6/6Es4uFnm+wzTeYHnuUM2RVUQ2phZnAvorSnYpd5J2qDibpws6PoA==;RX0VPh7Y78s37gvVU7V+Lg=="

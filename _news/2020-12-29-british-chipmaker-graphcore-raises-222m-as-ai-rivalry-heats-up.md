@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
+    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
+    publishedDateTime: 2020-12-29T09:09:00Z
+    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 78
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI chipmaker Graphcore raises $222m as it takes on Nvidia"
     excerpt: "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),"
     publishedDateTime: 2020-12-29T07:08:00Z
@@ -75,21 +91,21 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
-    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
-    publishedDateTime: 2020-12-29T09:09:00Z
-    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+  - title: "Graphcore raises $222m as it considers path to float"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
+    publishedDateTime: 2020-12-29T12:07:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 76
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
+        width: 694
+        height: 434
         isCached: true
 
 secured: "6EVIj9kK1aAw6ty9babmZ43ZFPF3UxSATyd9zB/YTucpRBOUsq+kiKNkIllf837gfp9o0vYVPlmofsJWRH+O+VIN6ptX6WvgfU6nXaX7nIT0j+zb8No6IAh2YeMlCQPLZrvuliNvwAbF0szXGECaL/E8IfvPmuFXMpTrvJ1XBKJ9mtq5wX0odGxIS0i8rIId332jlG28M8z2N8BY9yiTG0yryfBpcpLa6rTW81jxxVZc8uewVCACXbuo3QqwocY3w7MbbHinNaL7zKQpgm7q4W/QZ5u/Wi7Hb5Yh6EemdbVtR0soI/sPXQQFgDP7fGKNLXCSoRywAhMCYRSk2ZS5GaaBL3EImd+kxskfMC2LpqYeK/Yt1s8jvGb+h8IBvfVP95iEuVkQcQSeZzw0g3YKmmPPwEy8N60CQ2haimf7FL0ke32EZ9TUerJa+YH+JzSybmP7WIFHHDWSR2di/gnbKQI0fEv/Gc+R/FRDQGmZidY781RPLpmgIzc4qt1zIn9i21rzkE38dEWhtSg7jK/BqA==;iP8USXhacTACEDp8LdqUow=="

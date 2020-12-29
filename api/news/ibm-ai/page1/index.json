@@ -297,6 +297,42 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-natural-language-processing-market-growing-at-a-cagr-210-key-player-google-aws-facebook-apple-intel.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 21.0% | Key Player Google, AWS, Facebook, Apple, Intel",
+      "excerpt": "MarketsandMarkets forecasts the global Natural Language Processing (NLP) Market size to grow from USD 10.2 billion in 2019 to USD 26.4 billion by 2024, at a Compound Annual Growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18803760/natural-language-processing-market-growing-at-a-cagr-21-0-key-player-google-aws-facebook-apple-in",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18803760/natural-language-processing-market-growing-at-a-cagr-21-0-key-player-google-aws-facebook-apple-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18803760",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18803760",
+      "publishedDateTime": "2020-12-15T13:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi.md",
       "title": "How IBM researchers enabled AI platform Watson to understand native Hindi",
       "excerpt": "With this, Watson Discovery can understand documents written in Devanagari and extract their meaning, without having to resort to any translation to English",
@@ -1377,40 +1413,6 @@
       "provider": {
         "name": "ESPN",
         "domain": "espn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm.md",
-      "title": "Emerald Jewellery unveils AI enabled mobile application platform for jewellery B2B business in collaboration with IBM",
-      "excerpt": "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind Artificial Intelligence (AI) enabled mobile application platform powering the B2B business of Emerald Jewellery in India.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

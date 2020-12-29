@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-publishedDateTime: 2020-12-09T05:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and ..."
+publishedDateTime: 2020-12-08T18:34:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-nine-new-amazon-sagemaker-capabilities/article_fbd5454d-394d-54cd-b69e-a32d82037a32.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-announces-nine-new-amazon-sagemaker-capabilities/article_fbd5454d-394d-54cd-b69e-a32d82037a32.html"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "0Y9FU8wu00D0TnDfVrUAv0r2fUyYLDCxK4SlEa4Qri/4z5btcLfJckpCKnFFm9EUdd3Her1xS6NhnfH2bCR1q1Ov/VCu2Zi6SSR+zXf9cFs0tB8x1quMuumjxqSssvuD9SD0LnZSggeB9ZuZ3pucjpxFflPOJlpN0QTYAn6jE3Afs5xfr5BEe8gJvT+cHI5tGB14WHoGBGgvRhg65440wjfbaMZyIP0if1AXBNwlthjKS79AunGCKsYqkF9tjG+Q1IUgbHcA9RB+fUcNlEaP1mT77T/pUlEitJSV9mrFS0Uk4haoFBndPVPczeKgDzhFxIkcsK8ZX8s7GtphJSXTbWbvUHL/bGwKUeOUFN9cgYA=;MGCv6DZqJr6k2KhpUqvQlg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "mJTemMeWekz9FL2t/vjbI0pbCFLIxboE8qjTOGTByzvkmuErsD9sNr2xNMDOYbhrzmXpAo6bvGg1PBuJzRzBREsyzVWEkJe0n+fkOlHLpJFDUn0zWpcfBh95sx8TdM7qvS0FqxvlCwh8bXiB9XQlQEyg/pJmEvfWU0ay+WRCRbXPh63jjO+7yqQetZV3Z0Sryah21mO6va+OYPR53Ehh4uuHU0EtFoQTZXdm/ar2ZzPStZBQ8lVqxfQSNHXwmzbWjOPM59IWZAdozLWRGtS1F0JWOA+EyhOUdcZFhwLg5fG1WTgINN7OKCcMCSng0kVnq4rVgrXjH2sPDEfEKCHR32IS4CFgo9wN18vn9BcHRHo=;iCxNPR85BIb9ADXptTg+QA=="
 ---
 

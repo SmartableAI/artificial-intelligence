@@ -8,7 +8,7 @@ webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chi
 ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI Hardware
   - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
@@ -92,7 +93,23 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Graphcore raises $222m as it considers path to float"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
+    publishedDateTime: 2020-12-29T12:07:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
+        width: 694
+        height: 434
+        isCached: true
 
-secured: "HOSJbtdJ9PSIckxx9WCDqMPsHKVYuywRPWmjFOYS9PLBskT+6UJqEigm8ltz23WKHmLiXU0Djv3hrsmZjdqv9qINSF8Q2icAza4SJWt9pPDfDtVkzQOIBxUXZ/ZMIzpjlUw9rm+ivt5Pwo+AlqYNmaCMa1tyAvCuJY3hVXwQIyoo/xm9lnr9YaO8hAFvSl7vSZdvGRE1k7vsZk3ryPFkZRw2XLvkWllrThbdBlpfEK0nbK02VfxWctFhbWev66Ny5TimMMPZmjqqR6dQfIAVVWGBiznmO4MoTO0EaAKcpSWIJ2Nehv/G0M6P/EUVWd6veY4s25dgkroYycW1j/iIRvP1cOfrOIKaL82H6wUdeR4=;MFtlNGXuUhQ0eIsnNJk/9A=="
+secured: "tnRWeFid4MmNBV8zaW2Hr9EjwJhWgzJveZXx2q/WqC8iUQkzq8Dz22K9i/8L5Mam3wp+KQpuhAy/LV7Zz3sVvrJZXRmqZOBi6jbczEw9dEQ29sAJbz+F2FmY5J+37BkR4IKfZsuLyULkZ0J2n0CAAE+cKkdlBgAvB0iu/vMZVno9uNtJMKbUsHJArhiGwKXhOkMRtLJP9SLi3z7wiyR7bKrBDG/tXIfXV1KP/c8iSNYO9SnDIhdC2FIX3++uWUTnmyUe+yny6OspBHwS/HjKfsm4faO+0m+3p8+VgkBpFho7N4xY+lTxh3eCvOsE6FXanDKwSa7jltfTTIeaQgD+pHgUBWomDQNDW414bVz3aLD/aLgOkU3Mjg9VbxfQjRqZnLfhG0aFaGUzzDRUpDejIB6Z/HfbrFLd4jh8z5QlOlh6l1eYiFUv6AmqO15ymoHqGchEtDe/ojvGISxVAfzpTc/DJLxhGH1YBP0g/5z/zj8qg/dk6ng8gq0sqGVgsmXlVbrvkAfm48YZirMqYPtFLw==;eXu0KXBfppWFmJ0odFF7Rw=="
 ---
 

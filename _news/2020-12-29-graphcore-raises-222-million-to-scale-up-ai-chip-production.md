@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -49,6 +49,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
+    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
+    publishedDateTime: 2020-12-29T09:09:00Z
+    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 78
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI chipmaker Graphcore raises $222m as it takes on Nvidia"
     excerpt: "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),"
     publishedDateTime: 2020-12-29T07:08:00Z
@@ -65,22 +81,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
-    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
-    publishedDateTime: 2020-12-29T09:09:00Z
-    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 76
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "British chipmaker Graphcore raises $222m as AI rivalry heats up"
     excerpt: "UK chipmaker Graphcore has raised $222m (£164m) in fresh funding as it gears up for growing demand for its technology."
     publishedDateTime: 2020-12-29T08:48:00Z
@@ -96,6 +96,22 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/12/Simon-Knowles-and-Nigel-Toon-scaled.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Graphcore raises $222m as it considers path to float"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
+    publishedDateTime: 2020-12-29T12:07:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
+        width: 694
+        height: 434
         isCached: true
 
 secured: "akmRhw0ljWfW2kJiuWFO7ohSGwhD22lNzc3p9ug2F6XtNSAjgmqwObSLWkxp79lXEkk2TqJF7YQgBR5HMgM6oAvAb9hrGsOE4pG3mgA76tWpdMh3fxAPQWuui7DQzy9NJ7EvNb0dpw/XVQCtmEZ6Swbs1iCrejcHzQdFX7VemQLuL44uOymp2rmc1bf7zt+0Nua3Jw/Gg6mj61e/kFqLN3U/F2atxjweLWRKqHx+Ly3Xxq06Fuk8P0awer5zER8urLS5pGzOKIW4Wl4i7dEoBdov3bdFdbglnJUmShK4J8B5/KOEggVTeGIMNfmw8SvZnmNRUcc3EB59v8TnSBxxDJ4bw+OgIyyMR8BxYR8or9LXfvF+0pvQMI1eFX+o3UKL5/aSVUBUroVYJKD+4SsvH1rODIuB8MuByRD0geh4Ge23fQtCgK8Er73Z6ipzH/GFqiaUIQbHKHnQApZBjJ2X0ftgQXc0ilE4wOuRGCVPai2Y7NLhVM3tmmBD16JnXHFvE+BBe0B+aDSP8xmXglWV6Q==;WdZ1BWmVePTQyH8Mx2yYGQ=="

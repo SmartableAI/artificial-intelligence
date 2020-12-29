@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
+    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
+    publishedDateTime: 2020-12-29T09:09:00Z
+    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 78
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI chipmaker Graphcore raises $222m as it takes on Nvidia"
     excerpt: "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),"
     publishedDateTime: 2020-12-29T07:08:00Z
@@ -63,22 +79,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
-    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
-    publishedDateTime: 2020-12-29T09:09:00Z
-    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 76
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "British chipmaker Graphcore raises $222m as AI rivalry heats up"
     excerpt: "UK chipmaker Graphcore has raised $222m (£164m) in fresh funding as it gears up for growing demand for its technology."
     publishedDateTime: 2020-12-29T08:48:00Z
@@ -94,6 +94,22 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/12/Simon-Knowles-and-Nigel-Toon-scaled.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Graphcore raises $222m as it considers path to float"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
+    publishedDateTime: 2020-12-29T12:07:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
+        width: 694
+        height: 434
         isCached: true
 
 secured: "WoWq0QMJzw8b8grkiosLsHdfk29JPalhjNBavO91f5JPcRjXRImkBv3Tzy44E5HguffuYXK6CpR5xGpW3vPsN5zy6M7PvJ9GH266/VzlguS34dJi4p+CCr9YtvCJCupSw3lfvXg+jzTAc+lbmJsMPr4aNnOdfIjLg+j7grR2ELQbtv3rVNNZR4ZzE/meq9whEPglnYQfa2xMypQ9zefdtQ+ah84YPU3suoZHs2jBt31JM0m+V2Vz3+QEzXpDv8Zwa71rwGZgxFXQWO5GEsDxYgnGSBaycwsRGP9IQecwHkWZvSlG80MBIBQMRpipnflTvOqvE+VstYMylWfGz8RRCaojraJmm8o3ReA6yGMLt+XHJ/bshqQNm/VtG2Nfr15wmgEGuNTNc8+tZVATsTwv7VgFVZQrrtSgs4LWsehp/aWgh5OlXZIZ8FVRmNrrjslqTKbsfWHXCvv9M6VssZPjoMkCweqSSRyq9cJZbVaNpyr+TgadIbgpRRYpgMA7+be7iLOvOwGgyta5feACmK4SEQ==;Sd2TQfo+b1jQvkga41YmxA=="

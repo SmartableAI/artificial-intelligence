@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -21,35 +21,30 @@ topics:
   - AI
 
 related:
-  - title: "Vacation Home Boon Expected Due To Self-Driving Cars"
-    excerpt: "The advent of self-driving cars will make it easier for traveling to your vacation home and thus spur more vacation home purchases."
-    publishedDateTime: 2020-12-27T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
+  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Self-Driving Car - Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted"
+    publishedDateTime: 2020-12-28T12:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18936070/global-self-driving-car-market-outlook-report-2019-2027-researchandmarkets-com"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18936070"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18936070"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98412a34c08f100c98f5c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4893%26cropY1%3D248%26cropY2%3D3000"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
-    excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."
-    publishedDateTime: 2020-12-27T07:07:00Z
-    webUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-division-to-aurora-after-years-of-turmoil-deadly-accident/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
+    publishedDateTime: 2020-12-29T07:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-north-america-south-america-72b2bc25587f46b38746bc62c3bb7048"
     type: article
     provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 14
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://www.entornointeligente.com/wp-content/uploads/2020/12/uber_sells_self_driving_car_division_to_aurora_after_years_of_turmoil_2C_deadly_accident.jpg"
-        width: 460
-        height: 345
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "qDJL040Ro4Wplv8lHNDTCeEc6uCJIqZhT4NixDSb6lflUbFLPd5iZU0xtbcg0+AGyG1DRfE5naXOy0yRMFjZWHwj10kWDGIXPWptCwnzr6Q+4i/fl4OhJFiyVJuMHbofMSRP5xZugJiAAAhash1nhADC8wfJ/mrZZprFbcxW4w7GRlJLmrZJQPW9oYrggwQAPMBJ6nXML1eYbEX8Lb0G+dxLCsq+M8lllKJsDzsMq6tZzuY6Z4rJbXsMQ0oh4kW2GX+i5qZHuUGDPMioNnwoi8VuCcivdnAvixw41xcBrVDCOz+836propB4ZZoFK30Bb/j/xuW/Q1cc5EaF3vGWOLHiZhHJ9//S0ZWR+GYC66k=;f8Sbu31ybpoEXCB8iB7XeA=="

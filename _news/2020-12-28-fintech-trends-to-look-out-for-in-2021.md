@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/04/tech-16.jpg"
         width: 1000
         height: 624
+        isCached: true
+  - title: "Nigeria: Fintech Research - Everything You Need to Know About Tech Companies and Its Stocks"
+    excerpt: "The tech industry comprises companies that sell devices, software, hardware, artificial intelligence, and other information technology (IT) products. These companies have always been profitable in terms of stock value."
+    publishedDateTime: 2020-12-29T11:15:00Z
+    webUrl: "https://allafrica.com/stories/202012290365.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 14
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
   - title: "Faulty technology is hamstringing the Fintech industry costing investors millions: why the industry needs to invest in their online platforms"
     excerpt: "By Antony Edwards, COO, Eggplant The finance industry is one rife with technology fuelled innovation and as such, the Fintech business is booming. Over the last 5 years startups with consumer convenience in mind have sprung up to challenge traditional high street bank offerings."

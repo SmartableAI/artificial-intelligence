@@ -25,33 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Vacation Home Boon Expected Due To Self-Driving Cars"
-    excerpt: "The advent of self-driving cars will make it easier for traveling to your vacation home and thus spur more vacation home purchases."
-    publishedDateTime: 2020-12-27T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/"
+  - title: "$120 million payouts, massive egos, and prison time: The inside story of Google and Uber's war to own self-driving-cars"
+    excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 On January 7, 2016, Anthony Levandowski emailed Larry Page to wish him a happy new year and to gripe, once again, about the state of the search giant's self-driving-car research project."
+    publishedDateTime: 2020-12-27T14:04:00Z
+    webUrl: "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98412a34c08f100c98f5c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4893%26cropY1%3D248%26cropY2%3D3000"
-        width: 1200
-        height: 675
+      - url: "https://i.insider.com/5fe3abefedf8920018093966?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
-  - title: "5 Self-Driving Car Stocks With Massive Upside Potential in 2021"
-    excerpt: "Higher levels of autonomy have the potential to reduce risky and dangerous driver behaviors. Favorable regulatory framework and increasing government funding are expected to play a crucial role in accelerating the self-driving car market’s growth in the coming years."
-    publishedDateTime: 2020-12-28T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
+  - title: "The inside story of how bitter rivalries and petty fights derailed Google's self-driving supremacy and cost Uber its shot at the crown"
+    excerpt: "Together, Anthony Levandowski and Chris Urmson launched the self-driving industry. Their rivalry threatened to tear it apart."
+    publishedDateTime: 2020-12-27T13:08:00Z
+    webUrl: "https://www.businessinsider.com/google-waymo-self-driving-uber-atg-levandowski-urmson-davies-driven-2020-12"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/5fe3845bedf8920018093880?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 402
+        isCached: true
+  - title: "Inside Travis Kalanick and Larry Page's mulit-billion war to own self-driving-cars. An engineer's $120 million payout, coup attempts and jail."
+    excerpt: "Together, Anthony Levandowski and Chris Urmson launched the self-driving industry. Their rivalry threatened to tear it apart."
+    publishedDateTime: 2020-12-28T13:54:00Z
+    webUrl: "https://www.businessinsider.com/google-waymo-self-driving-uber-atg-levandowski-urmson-davies-driven-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/5fe4df7aa644880018193553?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "z+Ng4rsPC4ZSmT9Amd0HJH+r04Qn35eq/TmrsbAisslA+WFJxBKfVKHrhciT6C6NYf6UgQUVPPYPs/k6tthi74I50o6ZYNHZeL5AkFyFdDJk2bd5aI74KZdtChs+gd78gUgykH0kQzRo3V1u4f/11hQ9uz4J+ZqRJ16m2DnihQbqG0g2cgmAsQiKBeemliyAKnje5gT333a5ZobEoU7C6IHhyxN0/TdcV8yOgL9DW2D4/xakVHSY0CUygfK9Xcnu2gd9V+IAE/uyzFRpvIMj71IQPjvpJuMrjSFYKVmhckGip5FVd5dF8tc0+UivezQVzqQJmznNkBnN3PcQx9OxMhBx/nVe4nLlxK+XDQ9jTB1J5wyEQxHd+9ou9+9DG8MObdQKFiHvgHZ3DSytq2a1smLggdk1miNjIbrNVW3argMNAZCtgnYrpvUnw7d0083LqkY79dLZkkNIf95rCUhWb54hul8f2FufkBrHKn1sbVtE0ZfpvEPCIMTmMCORpui83PPE1iR6yApGy7qVK9S+vg==;sLiTJpiFA/L9fbDZfGFNRg=="
 ---

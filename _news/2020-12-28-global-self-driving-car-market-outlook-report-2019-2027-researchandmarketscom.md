@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18936070"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18936070"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "5 Self-Driving Car Stocks With Massive Upside Potential in 2021"
+    excerpt: "Higher levels of autonomy have the potential to reduce risky and dangerous driver behaviors. Favorable regulatory framework and increasing government funding are expected to play a crucial role in accelerating the self-driving car market’s growth in the coming years."
+    publishedDateTime: 2020-12-28T15:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
     excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
     publishedDateTime: 2020-12-29T07:33:00Z

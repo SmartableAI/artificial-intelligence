@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
+excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
 publishedDateTime: 2020-12-21T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
-webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
+originalUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
-    width: 1198
-    height: 628
-    isCached: true
-
-secured: "gqUtXAzbeKjvN/7Mw3B+mPmcTlSNii/NxxE1/5rynU/pycSdieF3BU2Cr60tX1FGdXQ6jgBrBubohsqLNNvsPmVcG0UlV0EEahokTiYWpHr52hVw/aohhiTs/m8yzEHsY8g9D2Avu1JyzlkOkp1ocJOIqK6ePqbC+x5+1+JKSxP3THMVRnB0OJLzxIuG9GNto153TLHc3OiUOPthcVB6AxRm8I24jYE6GZnLNXXb7IEp6igNOo2e3dxuZbq3U+Q3jy8d/1hE8g3HRxUzAGV82qajd/HnpErktsnaAJna4xoxyoXvUo4sI0KYBVrMR5QMVMbGSP1TXw0S8JHU68KyPtdYZXwNUj3dISYhZuX6SOQ=;dh9um8cfHE8ZWsCmlj0k+g=="
+secured: "GZArJbKneHYznOolaM4RlmEUxXHy6v5RFXHoCl3DxXL9HlzX2/1jxvI2p73WafD7FXh57sUQ0QHi2b6D2MINjqusCYyKzMDbrv6z+aScTH4TABbbJR5409e63fbZw/dGP556s4p1x/hlbWRLBXkw9zGcLmHLVHWe3ea4eRmvJe03bzsRCovclub/oIi43qzaeUSZ1bP5FZ3i64XoRetYg8j9r78hRcMt2NWrMhnlt5XXRx1/0DhMKlp3jiWuJOJwmt0qk4UGcC8AQjefR5tqvoDO4a9sADdjB7wqr+Fq+B6NlRRFgx5zuZQHtbehBL1SUc4QUeM91kpKV/jIFLO8kgYjeMmVsYag+pSGuEgmNw8=;EM2NAiQ8g/vZs22evgFPOw=="
 ---
 

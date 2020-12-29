@@ -48,6 +48,20 @@ related:
         width: 1024
         height: 717
         isCached: true
+  - title: "The Evolution of Artificial Intelligence in Video Games"
+    excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."
+    publishedDateTime: 2020-12-29T11:41:00Z
+    webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-in-video-games/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/The-evolution-of-Artificial-Intelligence-in-video-games.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Police are tackling the issue of extremists exploiting social media, by increasing their artificial intelligence technology"
     excerpt: "It's believed the unit will focus on mainstream social media channels like Facebook and YouTube. Former intelligence analyst Paul Buchanan says it's better late than never. He says Police are finally using technology that has been sitting in front of them,"
     publishedDateTime: 2020-12-28T22:48:00Z
