@@ -1,26 +1,26 @@
 ---
 category: news
-title: "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources"
-excerpt: "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ..."
-publishedDateTime: 2020-12-15T05:36:00Z
-originalUrl: "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR"
-webUrl: "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2IR1UR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2IR1UR"
+title: "Exclusive: China search giant Baidu considers making own electric vehicles - sources"
+excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu's push to diversify income streams as ..."
+publishedDateTime: 2020-12-15T11:03:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/exclusive--china-search-giant-baidu-considers-making-own-electric-vehicles---sources-13777204"
+webUrl: "https://www.channelnewsasia.com/news/business/exclusive--china-search-giant-baidu-considers-making-own-electric-vehicles---sources-13777204"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "YKpjbYXL7wD/s5BRt7nWE3WpMOLyDPbWgNhukf0gqm36FhSDF/jlZQezmQfopRjR2tWvLWyYX8nRWiapK+KSfFGS9eA+2RX3qNObxUXyv4YogrZ6nDqvOGphjl11zziyP18ohR0LkiMNaBQhAbFR9rGIyzdxDSl3SaNUSSEqToqCF6gWuForiChdgB8Dg2dywmi+WHDIfP3QZ+IghfcNKFXlyfMBsbY9i9VKd3cidG4I3mAoKcCW8n4nZeZkIeXGIJEmjQpYU85Ikayu7Qaga+KbKdMqH2FJrF3PfNFqt+eZKjAqJjUbqNKrN98GE7Acr37DGjVjgkQlt5m4Z6ehl295k8PHlVymXMdamQbSY3w=;MK2FTwYqKcQD5XgRtJGhwQ=="
+images:
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13778692/16x9/991/557/a72ac91f7135b63646325a98fcbb1d7/xr/a-logo-of-baidu-is-seen-during-the-world-internet-conference--wic--in-wuzhen-1.jpg"
+    width: 991
+    height: 557
+    isCached: true
+
+secured: "7HXjy+YPaYHAV/14Bi603BEHMecOx9/bi9Ni3aIoRPpQSsCZIcKt5U6ITm/aDcGHgfyGjT3LbTQ1/1+bxyEcuA3XCC9LngI9W6pmINcIvWqHy6SS8vd/YvzQ69vLbVUxAkTebgmfZR1N0S9RwKmHGlo+F1G+aeTtEJ0CBIK83MCfsBFYE7jjNIxDql1iXw6/lNk7MLJgxAA3JSuoydu/SAjM0ix47a6QP9XeGWt+qB5lAjgq1geze7n/RGyboehdSnG00s98P5huSkIlg1x9Krcszgtzw2UNTk5nPvUtM0ETC8G1qdWQft6jZ7O5G2nRsnFU9ZLtMUFyfwRX6/6M2P5ANnNIFz7H4g/79EIFwhk=;v5ycO0pgPUcnfq27IHAwYA=="
 ---
 

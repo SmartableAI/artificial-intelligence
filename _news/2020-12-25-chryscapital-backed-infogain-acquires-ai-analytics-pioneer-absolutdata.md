@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-745c03f2c9754335bcde689b1a8fbe84"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChrysCapital-backed Infogain Acquires AI & Analytics Pioneer Absolutdata"
-    excerpt: "Absolutdata significantly enhances Infogain's ability to engineer superior business outcomes for its clients through cutting-edge AI and Analytics Infogain, a"
-    publishedDateTime: 2020-12-24T13:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18922643/chryscapital-backed-infogain-acquires-ai-analytics-pioneer-absolutdata"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18922643"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18922643"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
   - title: "ChrysCapital-backed Infogain Acquires AI & Analytics Pioneer Absolutdata"
     excerpt: "Absolutdata significantly enhances Infogain's ability to engineer superior business outcomes for its clients through cutting-edge AI and Analytics </p> <p>LOS GATOS, Calif.–(BUSINESS WIRE)– –Infogain,"
     publishedDateTime: 2020-12-25T16:15:00Z

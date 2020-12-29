@@ -37,6 +37,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "New AI community centre in Hyderabad to encourage self learning in students"
+    excerpt: "The 2,000 sq ft, is air-conditioned and fully equipped with laptops at Mehdipatnam is now open to residents of Hyderabad and the State of Telangana."
+    publishedDateTime: 2020-12-29T06:26:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/dec/29/new-ai-community-centre-in-hyderabad-to-encourage-self-learning-in-students-2242523.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/dec/29/new-ai-community-centre-in-hyderabad-to-encourage-self-learning-in-students-2242523.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2020/dec/29/new-ai-community-centre-in-hyderabad-to-encourage-self-learning-in-students-2242523.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 55
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/29/w600X390/community.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "pIscL2zstU5gH9MVRbLC1KzOpUyxjva4RZdb7O1VfvbOIvku+b+7lt9K3Jtx2yQe7q+G06D1z1igtHc+Hpsa/iZsgknikMrYOEY5G8qPOE9BxbQLPKfGyU2iwlLIxb9jWdf+qk5NsEDsYMU9GcgW8yGiSf5phrzIt0wWzJMnQtcbfe2+cFhW3VvDIAVyygUYtZ1rDeTfxH3sX2yUYC6twG4gXn1Nepd6Y9K60nlh1a/CHqJWhOVL86Z0S4N/5P56u4oGvI6DYwqrwZp+sqDaUK7D4k7eRI4CIUvAhsjq8u0o4KSapOlCvwFg5k2owYkb8tazJO/VDxt2vsHlv3vZu9NRGEF5sR0g2xbHKWwLXxg=;269ys+I+oUNELKwDk5IMNw=="
 ---

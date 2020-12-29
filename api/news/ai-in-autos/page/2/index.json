@@ -310,35 +310,35 @@
     },
     {
       "path": "_news/2020-12-15-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
-      "title": "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources",
-      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "title": "Exclusive: China search giant Baidu considers making own electric vehicles - sources",
+      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu's push to diversify income streams as ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
-      "originalUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
+      "webUrl": "https://www.channelnewsasia.com/news/business/exclusive--china-search-giant-baidu-considers-making-own-electric-vehicles---sources-13777204",
+      "originalUrl": "https://www.channelnewsasia.com/news/business/exclusive--china-search-giant-baidu-considers-making-own-electric-vehicles---sources-13777204",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13778692/16x9/991/557/a72ac91f7135b63646325a98fcbb1d7/xr/a-logo-of-baidu-is-seen-during-the-world-internet-conference--wic--in-wuzhen-1.jpg",
+          "width": 991,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2IR1UR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2IR1UR",
-      "publishedDateTime": "2020-12-14T21:36:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T03:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
