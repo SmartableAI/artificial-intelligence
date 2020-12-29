@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/"
 type: article
 quality: 108
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -160,9 +160,9 @@ related:
         height: 675
         isCached: true
   - title: "Graphcore raises $222m as it considers path to float"
-    excerpt: "Tech firm Graphcore has raised $222m (£164m) as it battles to conquer the market for artificial intelligence microchips, making the company one of Britain's best-funded start-ups"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
     publishedDateTime: 2020-12-29T12:07:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
     ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     type: article
@@ -174,6 +174,20 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
         width: 694
         height: 434
+        isCached: true
+  - title: "Graphcore raises $222M for its ultra-fast AI chips"
+    excerpt: "Graphcore Inc., a British startup taking on Nvidia Corp. in the artificial intelligence chip market, today said that it has closed a hefty $222 million funding round at a unicorn valuation of $2.77 billion."
+    publishedDateTime: 2020-12-29T19:02:00Z
+    webUrl: "https://siliconangle.com/2020/12/29/graphcore-raises-222m-ultra-fast-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/graphcore.png"
+        width: 795
+        height: 445
         isCached: true
 
 secured: "akmRhw0ljWfW2kJiuWFO7ohSGwhD22lNzc3p9ug2F6XtNSAjgmqwObSLWkxp79lXEkk2TqJF7YQgBR5HMgM6oAvAb9hrGsOE4pG3mgA76tWpdMh3fxAPQWuui7DQzy9NJ7EvNb0dpw/XVQCtmEZ6Swbs1iCrejcHzQdFX7VemQLuL44uOymp2rmc1bf7zt+0Nua3Jw/Gg6mj61e/kFqLN3U/F2atxjweLWRKqHx+Ly3Xxq06Fuk8P0awer5zER8urLS5pGzOKIW4Wl4i7dEoBdov3bdFdbglnJUmShK4J8B5/KOEggVTeGIMNfmw8SvZnmNRUcc3EB59v8TnSBxxDJ4bw+OgIyyMR8BxYR8or9LXfvF+0pvQMI1eFX+o3UKL5/aSVUBUroVYJKD+4SsvH1rODIuB8MuByRD0geh4Ge23fQtCgK8Er73Z6ipzH/GFqiaUIQbHKHnQApZBjJ2X0ftgQXc0ilE4wOuRGCVPai2Y7NLhVM3tmmBD16JnXHFvE+BBe0B+aDSP8xmXglWV6Q==;WdZ1BWmVePTQyH8Mx2yYGQ=="

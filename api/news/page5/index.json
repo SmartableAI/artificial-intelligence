@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
+      "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
+      "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
+      "originalUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/1296254/20201222/080245/styles/patch_image/public/carternewtoday___22195027135.jpg?width=984",
+          "width": 495,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
+      "publishedDateTime": "2020-12-22T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
+      "title": "Koo Kwang-mo's robotics push starts to pay off",
+      "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202012/49f47f19d777441eb7b1b39e349401ac.jpg",
+          "width": 980,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
+      "publishedDateTime": "2020-12-22T16:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-roast-your-own-spotify-listens-with-this-snarky-ai.md",
       "title": "Roast your own Spotify listens with this snarky AI",
       "excerpt": "If you want to be judged, you open a page titled “How Bad is Your Spotify” and you log in with your Spotify account. (It might take a couple refreshes on the “Loading your music library” page.) This absolute jerk of an AI then drags you mercilessly while it pulls your playlists and top tracks.",
@@ -1127,91 +1213,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-dispelling-three-popular-myths-about-ai.md",
-      "title": "Dispelling three popular myths about AI",
-      "excerpt": "However, implementing an AI strategy without knowing what you want to achieve can not only be costly but ultimately sets a business up for failure. To learn more about some common misconceptions that may be holding organizations back from yielding the full potential value of their investments in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
-      "originalUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
-          "width": 600,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
-      "publishedDateTime": "2020-12-21T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-congress-unveils-23-trillion-government-spending-and-virus-relief-package.md",
-      "title": "Congress unveils $2.3 trillion government spending and virus relief package",
-      "excerpt": "Congress unveiled a $2.3 trillion spending package Monday just hours before its expected passage in both chambers, funding the government though the end of the fiscal year and providing relief to a co",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package",
-      "originalUrl": "https://thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package?amp",
-      "publishedDateTime": "2020-12-21T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

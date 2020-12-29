@@ -2,19 +2,25 @@
 category: news
 title: "Acryl Launches Advanced Integrated AI (Artificial Intelligence) Service Platform, Jonathan®"
 excerpt: "Acryl, Inc., a leading AI (artificial intelligence) technology company, unveils a pilot service for Jonathan®, an integrated AI platform that can be used in a variety of industries with a spectrum of users from non-experts to professional developers."
-publishedDateTime: 2020-12-18T14:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®"
-webUrl: "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®"
+publishedDateTime: 2020-12-18T14:24:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-seoul-ea4e0f6acac74808b658faa640509a34"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-seoul-ea4e0f6acac74808b658faa640509a34"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "gcY9iPRJF7u2Lz4NLa9hGumGlqxQHp8oaybaPv/9cVfDN3g1GnOFSr4foTNCdOQ/CplADvjGLhjNHHrgCYsc0BEsgDKndGDadSN/2qcSdtb57XU6xslvtbkQY1ckL4+fidThX7N5qWnuAKcKT+JFf650L/RJTHuoDijodGsOcQATTgQz74+foT57697z8mkx7UVCGo3l0pvhNqVn0fnJ3bqyrwBOyp1tlQP1YH49edbS3oZEErN3/VRCpQJI1kBqWfWQYr7Y0wKfCwsnqhM54lbMNq+x76o/Fa6ZKpJFqo3Gg9ddO5niVXHW5tr/wwbEgFJVSZVcMFEyCOvckS4uETrMHheOJFlVuk5eK6/Wl7E=;/Cg6XgcwvH/eD7vORlSt3Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Oyt+aK7SzeijmOgQl8ZUXWJdFH9NF9aRKvjA4v1RyUP6mYNpxpfB4VdCdzjIhYDsrp19tkySSe9EekMrJkzQsYqPQp48/HJ11sOeXn0c3u64VOvu/i71PLwnZtNbxSzNJIrZZ20ewWkRKuOXaP11bFiwJSMkka8J/+5rdAlfLXBiYSUYjWNSFf1dc1wkYd1DGAynFxVrO656cPWoKEgcln+L9OIIaHyH1cR4KOKH5zlh9KAb+dttMETSL1AGxm50JeYoALtRrmG3DPSGzDGipFIT1sCvPUmvRhBnmbsc7A47lKKrmkdUXV8sZvfJvYd5Fj3sSh/wrGGr3VdbWC0HGDafKdFqmEXbUbrqzX31OPA=;GqAdU6RlLJKNNrPzQVttrA=="
 ---
 

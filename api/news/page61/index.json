@@ -2,6 +2,155 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-11-12-telus-makes-foray-into-agriculture-using-ai-to-help-food-chain.md",
+      "title": "Telus Makes Foray Into Agriculture Using AI to Help Food Chain",
+      "excerpt": "One of Canada’s biggest telecommunications companies is making a foray into agriculture, using technologies such as artificial intelligence to help farmers and ranchers optimize efforts across the food chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibifokI9WJVQ/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "publishedDateTime": "2020-11-12T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
+      "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
+      "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "originalUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg",
+          "width": 722,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "publishedDateTime": "2020-11-12T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
+      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
+      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
+          "width": 392,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "publishedDateTime": "2020-11-11T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030.md",
       "title": "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030",
       "excerpt": "Pune, Maharashtra, November 12 2020 (Wiredrelease) Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into meaningful change. It’s not post ...",
@@ -1035,160 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-android-studio-41-new-features-for-devs.md",
-      "title": "Android Studio 4.1 – New features for devs",
-      "excerpt": "Android developers. There are some interesting inclusions this time around, so read on to see what you need to know! One of the most interesting updates comes to the Android emulator, which is now built right into the IDE itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/android-studio-4-1-1177491/",
-      "originalUrl": "https://www.androidauthority.com/android-studio-4-1-1177491/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/01/development-coding-android-studio-java-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/android-studio-4-1-1177491/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/android-studio-4-1-1177491/amp/",
-      "publishedDateTime": "2020-11-11T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-can-ai-nudge-people-to-live-healthier-lives.md",
-      "title": "Can AI Nudge People To Live Healthier Lives?",
-      "excerpt": "Clinicians and health plans can't compel someone to come in for a check-up or eat healthier food. But while health plans may lack the authority to compel action, that doesn't mean they lack effective means to encourage good behaviors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac212d6412dc12ea79b897%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/amp/",
-      "publishedDateTime": "2020-11-11T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted.md",
-      "title": "Alexa is getting chattier as Amazon’s AI guesses what you really wanted",
-      "excerpt": "Alexa is about to get chattier, but Amazon thinks a more vocal AI will be welcome if she can correctly intuit what you might want out of the conversation. While Alexa-powered smart speakers have",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/",
-      "originalUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/amazon-echo-dot-4th-gen-2-1.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/amp/",
-      "publishedDateTime": "2020-11-11T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

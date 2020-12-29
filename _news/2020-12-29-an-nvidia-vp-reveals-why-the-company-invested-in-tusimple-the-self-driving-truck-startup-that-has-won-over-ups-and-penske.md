@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-29T14:08:00Z
 originalUrl: "https://www.businessinsider.com/tusimple-nvidia-investor-waymo-aurora-ups-penske-2020-12"
 webUrl: "https://www.businessinsider.com/tusimple-nvidia-investor-waymo-aurora-ups-penske-2020-12"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/5f63884057b7da001ee123bc?width=700"

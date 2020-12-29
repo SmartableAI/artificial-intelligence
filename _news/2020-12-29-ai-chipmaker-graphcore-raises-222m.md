@@ -158,9 +158,9 @@ related:
         height: 675
         isCached: true
   - title: "Graphcore raises $222m as it considers path to float"
-    excerpt: "Tech firm Graphcore has raised $222m (£164m) as it battles to conquer the market for artificial intelligence microchips, making the company one of Britain's best-funded start-ups"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
     publishedDateTime: 2020-12-29T12:07:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
     ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     type: article
@@ -172,6 +172,20 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
         width: 694
         height: 434
+        isCached: true
+  - title: "Graphcore raises $222M for its ultra-fast AI chips"
+    excerpt: "Graphcore Inc., a British startup taking on Nvidia Corp. in the artificial intelligence chip market, today said that it has closed a hefty $222 million funding round at a unicorn valuation of $2.77 billion."
+    publishedDateTime: 2020-12-29T19:02:00Z
+    webUrl: "https://siliconangle.com/2020/12/29/graphcore-raises-222m-ultra-fast-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/graphcore.png"
+        width: 795
+        height: 445
         isCached: true
 
 secured: "S6u2s51Ji4ihuztU8+GWI+9vF7fhtI1PTwB0d6tDFvF6I6AhLi+RheziEZPhxWzfSk9bMk9aSdegcIr+XeCGrg2EBGeNMjYbG3wET9pBFEFsxGU2kUfpRyQJDzfIwljr6uc/Q6AHjoCurl7yujMCTNdgDwPi5bDqmL06tu6BZrNWzF9ekO2cgCx0DTBJIazH0ifrlAsbIoDWgDS75sYg+PeAjpah3XBk3Ka1kJw8JZHu3NhbzTHaV/X5z07XXNpYGwIuJQ9gb9rt4vJtxIko/MK0PYAJ7asF3bWbhemAP4f14gBoRMj2iIl3v5FuA4HIiU6JuWBXp1mg9TUWzoNEAu/tHUfkJeVCYUDld8s2QdpLMF9TLMKcOnWzYKRi+W8eSrmZMS29o9lJBspEOy0zm3k7LrBOEnZkLZZv63Ln9DU85KhuYfoqZETJfIvNyezu5T8c7G6YHrTKRbOEze9rR/M9IsaifNw9p9fnFTDFTg1TYhuMJRmyPcU19X2L6n8w2EeEOjiUAr3GquTxvrsBHA==;hq0eM7fmVSSEuk8aPFYKhA=="

@@ -43,6 +43,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Man sues police over a facial recognition-related wrongful arrest"
+    excerpt: "A New Jersey man is suing the town of Woodbridge and its police department after he was falsely arrested following an incorrect facial recognition match. Nijeer Parks spent 10 days in jail last year,"
+    publishedDateTime: 2020-12-29T20:21:00Z
+    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
+    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 91
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fd92b4ab0-4a0f-11eb-9ba8-538aae343b4d&client=amp-blogside-v2&signature=ebabf873fa9697080d965a015a3e05c05cfc50f8"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
+    excerpt: "A Black resident is suing authorities who he says arrested him based on a false facial-recognition match, adding scrutiny to the technology’s potential for racial bias."
+    publishedDateTime: 2020-12-29T19:27:00Z
+    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-278977/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
     publishedDateTime: 2020-12-29T16:27:00Z
@@ -85,6 +117,6 @@ related:
         height: 382
         isCached: true
 
-secured: "oPb0WX/cQiTFK9mBJpoPpiSLaCuSIpcgoF43brkkpr4/5ZO7UNBCoLrP/zmD5w+P5tYulhfwLfWqY8h4VvHSBIJM01rDr2FV85Cf9987Suuq+9IAwhxdenJONyuPKuSpPXuFpDJm03kMk6zA9dTAAShP8lTq4qPuMXDv8q2K1D3q3EYbO96t6E+7LLhGb6BWTaQZJ1RdtYSMIrv81l2xVMmbueAGDmLcJPywifridGunf5jIQO4kNhwqV06vPyfdyp5L/0IMgO+nHn66uRUlfaCijUuYz0tEzWQswpTjEorEj4HHrUsj4WsHqCg2YwvNPzMmLb0CdYAeQhVxITeNdcCXCclJWfrE3iudFAVAXy8=;GhG/4BViTQ9Nlj+1LSb9ww=="
+secured: "3kN6zvcQUHA6gEKJZ36WtCqvjgRVnXLubQviFq8E1A4jPoKzl6Q8IR28Z6q7f6NE/DVRS0l8tMOGC3qehGOrbcxFXwWCO4RDQqsdxynftK00uyFtJbQ0hituF+FqQ2Vx0uC1G3w/8MTiIhWS8wxKfdxLLWTJjv/VrSKQu1NBoRIFS+ljhIvJ1iFE0UWWxC+8dUlaYp40u6NtOojIN2JzegFU3XKsi2ob1QHpdujVxNgFIecAjo/Sx7ajskPHglIVPLHBc70rV4oO0otjPEaWJEI4fsgB4nzjIx92NqIuWNqWv9PNyL4Rb83UfXDRLMDzZIH/3wbY7F7RbnNBMjRT574UXbywlTGxT2ZkcN0ahMnnA7AL+zskpdyaXav/aOmAnA/LsOtaWi0yxcd+D+TxFXx2HisnjcFNzejTVpiJEW/7OGtYN2Lg032iZLKWrVsNDUM7v4DRxZBGlOfVNk8iEgwoDT8LbBnP/uDF8jJ8iuUtX/Rr+3fAyDXSAiPtWJe3o+1T4qnED7+ITIrqzFxgsg==;Do3gvOAoorQSu9PUVWce1g=="
 ---
 

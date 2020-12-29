@@ -154,9 +154,9 @@ related:
         height: 740
         isCached: true
   - title: "Graphcore raises $222m as it considers path to float"
-    excerpt: "Tech firm Graphcore has raised $222m (£164m) as it battles to conquer the market for artificial intelligence microchips, making the company one of Britain's best-funded start-ups"
+    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
     publishedDateTime: 2020-12-29T12:07:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
     ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
     type: article
@@ -169,7 +169,21 @@ related:
         width: 694
         height: 434
         isCached: true
+  - title: "Graphcore raises $222M for its ultra-fast AI chips"
+    excerpt: "Graphcore Inc., a British startup taking on Nvidia Corp. in the artificial intelligence chip market, today said that it has closed a hefty $222 million funding round at a unicorn valuation of $2.77 billion."
+    publishedDateTime: 2020-12-29T19:02:00Z
+    webUrl: "https://siliconangle.com/2020/12/29/graphcore-raises-222m-ultra-fast-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/graphcore.png"
+        width: 795
+        height: 445
+        isCached: true
 
-secured: "kI7x/9E+19L+VIfSqroxswZ5GrRQxzEqltSnUYnyA3I5nFCKmxNQpVA+3MX1TflxG3ViNzI1XwBFBd+xt52vg5/g0rCY6ukzHhZuOZUP5YIhESV/k8LHlUxlssz3rUwLOryRALu6vLRU60IrRgORjRHER2d67bCiayZa1KWMyZqU5JZ9+XnCLNfR3qcz4kObIPpz0VMjckIPPqn5fOpsTMRaT1km4BG4NUkGNlFaLe3BVhZulKcgvpWKWzuPe1vwP/O4ysxAIAcXF27UdxcRnC46KtS7FYl8AICOOCSq0U3ADg8ympjs0TpbHNJHPBCdhXFduxBtT1/lWi8syWs/QAnaGycJo8wVcTNP+0/qiUc=;U62X4QRndL2Ce2WOVoq2cg=="
+secured: "Sbz5+wOKuEj6izakaQOttTiUfFsRcb15i37qSkqAsHdTfl6A0Ui45Xi0XmhnehiooTQIpOT52cWATTsEdf0mGuEY0Ws/AVMF6135iC4b4363Gd6gCS37qNDA7agb8vQGxlH3wTAMW1xMKwjwUrOLiyI9mQHRHw7PYfMnO7HE9TnEaZq0SP0qv9gwtSh6g8YYPDATvO25qOwEX/7s0hsDBHugzs4yGzfddeJghDEe8SZmPO+97hsXafJP6GOGgZLhcfnuMwgg5gYl5tc3ZlZxL17hxt91t4leO02x0//lzlxXTAyvyILB50jEgtMoiFm7HGJgFQDOylnXDbujJBVBeb+ZJioZxnit+5JAj2CQM2oQ5H6ND8MqReU3nNRCW1eDA/IFOH9zIbKx0AibeZuHq4yKI4TmA6bodq5A55kpVmKrKpwsLT1VvKY87NNGWNsogLHstA1oboMaE38wntjZ5SOM2IFRT/PMF9Al2PixRrK8kQwj3eTlwSLsDZa8vkrD2lpxTH3kMh3czitNxma5gA==;2l2WM3cMvpaxLX6wNj8VLw=="
 ---
 

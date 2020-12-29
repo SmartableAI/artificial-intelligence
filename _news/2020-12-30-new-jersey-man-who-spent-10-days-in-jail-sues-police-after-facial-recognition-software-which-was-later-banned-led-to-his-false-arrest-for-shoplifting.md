@@ -43,6 +43,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Man sues police over a facial recognition-related wrongful arrest"
+    excerpt: "A New Jersey man is suing the town of Woodbridge and its police department after he was falsely arrested following an incorrect facial recognition match. Nijeer Parks spent 10 days in jail last year,"
+    publishedDateTime: 2020-12-29T20:21:00Z
+    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
+    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 91
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fd92b4ab0-4a0f-11eb-9ba8-538aae343b4d&client=amp-blogside-v2&signature=ebabf873fa9697080d965a015a3e05c05cfc50f8"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
+    excerpt: "A Black resident is suing authorities who he says arrested him based on a false facial-recognition match, adding scrutiny to the technology’s potential for racial bias."
+    publishedDateTime: 2020-12-29T19:27:00Z
+    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-278977/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Lawsuit Claims Facial Recognition AI Sent the Wrong Man to Jail"
     excerpt: "New Jersey police are under fire after wrongfully accusing and arresting a suspect based on nothing more than faulty facial recognition software that’s since been banned in the state."
     publishedDateTime: 2020-12-29T18:34:00Z
@@ -85,6 +117,6 @@ related:
       domain: pakistantoday.com.pk
     quality: 24
 
-secured: "R4OKAgm97ALNv35fuXJkMNvsMbYY7hD+Ymx8hsiyOSI09zb3ATIvaU5sufs5lp4O/Ex6JIsibVDZ1SWJ4pPZq5krGeuhK0QMEumnpEdkN8484dwA6OSh0DNmyY8lV1GQqD7Lq9gvOofd1NqwgxfvlwoLWiYK+OS11faLNYhkVqiwl/rVCSmZS7WAdG73LM00/n9L9T5KkDI9ADi7En5HQAFFCqKO1iF5BHPRtyrhGgNeCrPedIgKMk3irH2RwxPcDtcF/kN8Jcs7HP188Vn9fJ5MYJ9sdQNtWtsSqkmSuUhi0U0GBd4ZiGpwSxB9WOi3ldWn9EPCxX7N0nRWouWQ4T5xsKN2X5ss7FkM8U736EU=;XVRJ5zKyMqDeMw2HLvRShA=="
+secured: "GTkSWHdGaoZJPtfsyXGZZ/Zlt/Wc76hwnQ/3OWnJ9Z8w2LFCchUeCzCDjq7sudcajsqeMYSbH+u9ePATpj6UxqzYu3WA0im1U45B5y11c4keB7jJuKE5WF3rlAHx0aKsfMtDXB3nP1RyQ7gASiuJXvcFO82noCGgC2hxWgP+eaBNIhtCFmVFNoheie+r1odBmJ6xmD3bKV2g4zKTw3UCuAl2YPL+gMUm15kex4ulO5RKogvGmB3EsrOU7J9pu5bbN4tsqe8VT3+Hew2ZtU3IZSedC9fMtss+lGTUy+BJflg4EYf/msUIMdvB0yInjn9YKGEtN7wSRCE6NNEnd+R/A+zPeS0aUTS7lyr1BI1Vg8ize9mE9apPfUe2vir9BI91VHKJKtZj474pI3Ks6EaVq4fWV/SiKH/6gzvarDwbk5gu5w5XxMuI44JuHYNLuuXwgOQCONeELBtMKQ8h4mmcKPV/4LkwuxazZZERA/VK/cMCfapE7qhC6/K/gXnxI2u87xe1Bkb5hqS5ZLlnC/905Q==;U1R3BHKRb1+P3R+ViiU6Lw=="
 ---
 

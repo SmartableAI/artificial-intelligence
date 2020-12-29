@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Graphcore raises $222m as it considers path to float"
-excerpt: "Tech firm Graphcore has raised $222m (£164m) as it battles to conquer the market for artificial intelligence microchips, making the company one of Britain's best-funded start-ups"
+excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
 publishedDateTime: 2020-12-29T12:07:00Z
-originalUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
-webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/?via=indexdotco"
+originalUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
+webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
 type: article
@@ -169,7 +169,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Graphcore raises $222M for its ultra-fast AI chips"
+    excerpt: "Graphcore Inc., a British startup taking on Nvidia Corp. in the artificial intelligence chip market, today said that it has closed a hefty $222 million funding round at a unicorn valuation of $2.77 billion."
+    publishedDateTime: 2020-12-29T19:02:00Z
+    webUrl: "https://siliconangle.com/2020/12/29/graphcore-raises-222m-ultra-fast-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/graphcore.png"
+        width: 795
+        height: 445
+        isCached: true
 
-secured: "tebvTSnzT+yTe6wYTgm5H8Twf0cBI1MFtlxoMzWCjkfgmVVguBB7oiejn71Hb5amFKFu8jiqBGLhF26VLL85JF8lCHnzke9Y4FSIt0CTOncZiAqyWiQL2ANNvM8BMBQcXWHWF8zY8pwd+IZT8AQQ157iKvOIa9ypHohYbiGKrO6wM7pm3b8DH09MzsXLArjbvH5qeSj6JASarSJQOdjzaJ0ksO7wV2EG3PpxXxeMglFR3qU37Zi4LZUfoXQ3j1Zuv3EjY5njYDXDWMHQROSXiJA+X1i3Us/mbNLDWpdttWaPajmOi768DrZOxyauCWzASl1RTZDzM5NyptQ8lrrhGQ9EbsIyEqp9a5Nh2sl4sTwkJ8Uggh3+4ReGlzIo+HET+TSi00zbJ5567ZSmafOJK6EZUkD6jHouu5fiac8pbv3N8M+ty22hibcTCE/5Oa5NBUHKNAPTn8gOsBXobAzEFCvu91FaIXN14eJGKQu+dSJlL7ervrmgjM07LC4q9T78gBN8md8E7UcUilw+EP4Z8g==;3pxm+UhONt1q4e1/+/kx1g=="
+secured: "gsNiOKYr4XMEUsKTl2ld9BP/UEPmY5E6cTQ9FX6hxZMYyMd1xEh6U5kNeRpg0RIGt1diDpSm3K6OoGjTt7vJrM14EiuI4rxtLUW1q1R2V4HTkq8OO6tQZWFfDjRHtDHUr1PCUkII4hmLFQSSs3dkP3KfjXqFgjyWpg33DbMa2rdo9N/KNhwgu5R67wT+9y0Ojaeli2DM1p974ymskAAMjmPn/w1Kax2xjx5AAri2ar9ZkiVAOjYb0/n1EPOt+pUZJeIjd/wI12q0KS+xoI9MY7q4QUOk04u4ZtpXWuaB0QAvCAMitGgb8dHPXK3LHFz8qI4XKLsRI5CRp7VuD5HJpjrf2rjA2frXhbXAnATl/6Q=;lI2AvvFxxtzhHdl55lXD4g=="
 ---
 
