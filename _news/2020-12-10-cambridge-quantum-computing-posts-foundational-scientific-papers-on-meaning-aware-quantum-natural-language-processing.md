@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing"
-excerpt: "Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers CAMBRIDGE, England, Dec. 10, 2020 /PRNewswire/ -- Cambridge Quantum Computing (CQC ..."
-publishedDateTime: 2020-12-10T07:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html"
-webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net 'Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers CAMBRIDGE ..."
+publishedDateTime: 2020-12-10T07:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-1029880029"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "jNUCj7eJXQCrv3bvffQs1sJ9lM6DShksF0HRbKvperTCZRSvpTaauW2PQSc7q01hgqC3rqAIahASAQM66qgz5RMgZDYNcvwcXhQMIJNiymjtveg2cG2aJC6xsz7OaJrxvLJRVv5tjRuAQ/rksusABU5SgLAUwOlro1QLS9svv1pijNvJfbt40UZCahHGIzAcx4LVwEjgmAqAn+hBMpOBEW8yiZglFRrdRZgsaOtLuMSJG8apUXqak0A/37R/WIb8JNyu7WblKRGYHtTrb5Th7PGCuDGqnT4jf7YzyUGVdm6rVmGP6Z6gd67P6vry2k6eklEY3UIdOPAQ5M4ZN75F/PuYUYSomZQAlp8JrdGtf/Y=;4wCc6uS7PPJ3S+yHEWR+TA=="
+secured: "BDJMgUwdgkacmC5l23EQ/I20thWeM1dc8ZNAOEZd21eOLWc2lkHo2iELbmdy/EnW+d+bzCCheT1wPFiCKCXvOATFyGnAstP03KsLx0Yha910A+A4wAOBK1UYOf7QVCXX8eGHs1W+Fasoqul7TOrH+DFsnsXkCeY6EehynfGd6F7wEzINM57DYJjj9xe1Fl11HpkL7IqBKZELCxYUmrfVn7TTzqMxoPY+TdwNU0pqvzmc9P9XtMJqvifT2cpoMq9t0sOrbM1bNRwISyRiTVshyP3TwU2NkSy9cLtV29Ed1E4LMfnCc9YB0H8MCKSyVlT5Qy1nTh+CrCHnTHImKGvtpG9wVIQ3MzEPSrkZ8QzHQCI=;swaU8p10wDK8W6aPreoZTg=="
 ---
 

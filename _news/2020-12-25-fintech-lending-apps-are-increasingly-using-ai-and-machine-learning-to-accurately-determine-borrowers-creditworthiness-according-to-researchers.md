@@ -27,22 +27,6 @@ images:
     height: 518
     isCached: true
 
-related:
-  - title: "Internet of Voice refers to both surfing through the web using voice and commanding smart devices"
-    excerpt: "The rising popularity of the Internet of Voice is set to change things as users can access voice integration through smart IoT devices, which will provide a different kind of user experience."
-    publishedDateTime: 2020-12-24T08:22:00Z
-    webUrl: "https://www.analyticsinsight.net/internet-of-voice-piloting-people-towards-a-no-button-future/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 11
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Internet-Of-Things.jpg"
-        width: 900
-        height: 500
-        isCached: true
-
 secured: "86wOJjI5AGFXdLkDbBcQkqvJH6zjyEFp9U82GPFrjzhlo5VzXqwNsE1EhKDba5RZOFA2Ir+E52IRE8ZxOYRcrWLNQvz8p6lT+yoZz7uS30uUNkG3t5USHd/Nb3upiPhtiLsEhht6USngsxMnSb+Sa92NsdWQb72/Hd5Z6EYmJ+QzXPlxJ/gGzBkBkt5C9cBV57fLzZMqOb4RDF5OoLg+0kXh+lSnb2gWNEnoB1QrniSzZSi/0yfwZyEDTKq4QOcn7UY7735sS7n0sTDAQw+hiIO1nFQUqMeCrLPV0/gAL0w2LJYxcyp7PNw3UnMd3QGUNWmpajy33+NTx2JIVFUAN3iPUhV8gWsQsuCcsQ6+061r92bPybIs3iMTgKxqzz5Xq119iOiS4qfute+T1dMzh+MSHSf3eI1SzlmAoL2eibgqVc6pMPDQ1BKrywEDhn4cS53oaTDzS5fm0SueyRCYJMYOgrLJX5Jvsknh+v//IF8eqeQYklA5GPGwf1/xLe3Bd8/MDqpIaYY09cTP2gh7tA==;rEi3aLbf0IzI8K0TixWl5Q=="
 ---
 

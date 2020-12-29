@@ -30,15 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2021 | Trade Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
-    publishedDateTime: 2020-12-24T08:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24"
+  - title: "Asia-Pacific Machine Learning Market Size, Share 2021 Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others.Machine learning is no longer a novelty in Asia-Pacific countries. Business sectors having realised its potential are using machine learning technologies to draw maximum ..."
+    publishedDateTime: 2020-12-24T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-size-share-2021-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market By Leading Players, Future Applications, Trending Regions and Industry Share Estimate by 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-12-26T12:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-leading-players-future-applications-trending-regions-and-industry-share-estimate-by-2026-2020-12-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -72,15 +86,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Natural Language Processing Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025."
-    publishedDateTime: 2020-12-27T09:50:00Z
-    webUrl: "https://menafn.com/1101344808/Natural-Language-Processing-Market-Insights-By-GrowthResearch-Methodology-Emerging-Trends-and-Forecast-By-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "WTUi/fbQ7g2XKuM/vk29QWR1Y3GncNebmamVU94ta8vx+zP6VdxlxiD0EQKuZRNytDAWIRc/oLZLerqX9oq56Eh9e/n+eJBceUBLGVc6sewFeG0NsOzE0QRiqtjl2KsHm5PA7QvOETXKaC0BXnmn1N1QgZ5ms4Ydg6EeTHaXY9dtKlolb4XpC8uNAE5EVIZdd44YSj5bj37qu2FLdqFycwFrFAmQv9Y818O1lMb5GB0FMDewnCmGmoV2nMTRA8haDCv8j1sjuoflCwzHyKLg7JAhitYnUcFOA1pHbxjO9oHPiyryEN7NEPfgOo7goPBuWekLeciTfcnZfYfb5VEicbuB06Vr9Cmpzp4J77yS834=;+Jsld3T2aybkRcmnnU9kDw=="
 ---

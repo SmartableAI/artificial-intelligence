@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
-publishedDateTime: 2020-12-08T19:35:00Z
-originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
-webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and ..."
+publishedDateTime: 2020-12-08T18:34:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-nine-new-amazon-sagemaker-capabilities/article_fbd5454d-394d-54cd-b69e-a32d82037a32.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-announces-nine-new-amazon-sagemaker-capabilities/article_fbd5454d-394d-54cd-b69e-a32d82037a32.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "LOF1z8fSX/bDyVAgbIiUOKUDw33vM81IS3ukaIWqdwIbX4pa5tqbC8x0EZBWYiA61/1SxKYjAnoGS15oHRvPnHURW9cKMoHY0n0Z0EcfbLmE29+yR5S5Uf7NRN0wlXO78Ww6KZZPSOA7ZwSfiwZMTXF0pmQpYkP46yV87Hsa6oTbzKA0kRuc2xBVHeP9uuMq2C5btH6hdYPLveiIQ1nj3f+Y1UqJnxW3TgQi0GmjZQVWiv9EBa8YSAzdv9/ubsKzkHSOMSe2ZO4OB+2Uw4uBccAjYWmQ3lcnn0+Vhe0AZ+dr71w/a7xOiNbLqgHmB2ZQARU9JOy8yb7KLIbg8ZCexmHxIZkZeOQd4CtZDWdV1a0=;Zg74+O+KXL9ByTQOP3FZqg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "RadAROu/C9qv+p28oUKSeyfwnYcSbJ3MuY+dLcl4i9TZZ0MOcBQIssR6tQMVBVgH89pLAqoGusetmV+D9GbMbAOWtJzvSSy+zxNGL6U1lrqQGFVJshKgm44xPVSUdcV5NVB4DF1yO8PuiO6aICIJA7KPwzSs4VJOuSApgANN8gALkk1pfnRQh+fE/LfY6geTM8u1YrpDDDydf8IoI1+YogVdh5OXq0ECQcXNbs1mGRNBnkZiJeSSdgyZnzEEEnhCIEJpYlHW8yG6Ll8cRD0QE10r7ynXTQCZbi9rDNsnz+Y0nrdmpT6/dtH+0IjVBcpv7sUGKYlPxnls3Yi0gMIQe3+nNe/23XpbYeqkHT8Lhz8=;Fu+Rttlmj+5v9bQN3hPphg=="
 ---
 

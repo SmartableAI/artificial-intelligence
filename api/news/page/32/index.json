@@ -2,6 +2,102 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
+      "title": "7 Machine Learning Stocks for a Smarter Future",
+      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
+      "originalUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600c.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
+      "publishedDateTime": "2020-12-01T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-facial-recognition-is-getting-better-at-making-matches-around-face-masks.md",
+      "title": "Facial recognition is getting better at making matches around face masks",
+      "excerpt": "Scientists agree that face masks are here to stay, and research finds that facial recognition technology is starting to catch up. Since the start of the pandemic, facial recognition providers have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "originalUrl": "https://www.cnet.com/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/xx0OCJhFZ3mvk7oybRnu3nm8vEY=/1200x630/2020/03/19/4efc54e4-464f-4791-a361-055412759011/coronavirus-masks-n95-health-4948.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "publishedDateTime": "2020-12-01T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-how-ai-can-help-to-moderate-content.md",
       "title": "How AI Can Help To Moderate Content",
       "excerpt": "Social Media companies such as Facebook, Twitter, Instagram, etc., have been using a combination of human content moderators and technology to try to limit the amount of harmful content.",
@@ -1050,111 +1146,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-fintech-market-2020-research-study-including-growth-factors-types-and-application-to-2023.md",
-      "title": "Fintech Market 2020 Research Study including Growth Factors, Types and Application to 2023",
-      "excerpt": "Service segment insights The various services provided in the fintech sector are regtech, payment/billing, insurtech, money transfer/remittance, mortgage/real estate, and others (lending, capital market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/fintech-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/fintech-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-shrinking-massive-neural-networks-used-to-model-language.md",
-      "title": "Shrinking massive neural networks used to model language",
-      "excerpt": "Deep learning neural networks can be massive, demanding major computing power. In a test of the “lottery ticket hypothesis,” MIT researchers have found leaner, more efficient subnetworks hidden within BERT models.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-model-language-1201",
-      "originalUrl": "https://news.mit.edu/2020/neural-model-language-1201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-BERT-Lottery-01-Press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

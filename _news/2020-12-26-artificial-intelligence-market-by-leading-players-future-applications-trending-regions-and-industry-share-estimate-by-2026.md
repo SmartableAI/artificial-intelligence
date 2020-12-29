@@ -42,6 +42,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "The Latin America Machine Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
+    publishedDateTime: 2020-12-24T15:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-share-size-2021-trends-forecast-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Machine Learning Market Share, Size 2021 Analysis, Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "The Europe Machine Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
+    publishedDateTime: 2020-12-24T14:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-share-size-2021-analysis-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2023-2020-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latin America Machine Learning Market Share, Size 2021 Trends Forecast Analysis by Manufacturers, Regions, Type and Application to 2023"
+    excerpt: "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development"
+    publishedDateTime: 2020-12-25T12:10:00Z
+    webUrl: "https://menafn.com/1101337563/Latin-America-Machine-Learning-Market-Share-Size-2021-Trends-Forecast-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?544070"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "T5LA3mtNbfHMmAgGe/+AmsLhgw3EWzdO6jHckUh7YB8A8dSI851Em5w6jGZU/p/8DGSaV9L8BQDnq0otMbnzAcwzFxRFXjMvmcPYRqCzulCrtZWoICoH+NnvNlEaDZxBY/QshOA5/oSxAWV8pdME/KIkpyoaW85a84ydcP/CQu4+dqT9FCA/h+5QttWxFUXviZ3k0D44T/wqnRJ8szFeRmTF5ea9oSlRIkFmvFi4lQcuFX1PRCQAKxDK5Ph+0KhmxZH3LgihbWXeCqq9ftCDQBcNnxx9QtHN0S+n5c9G95bhs+Zq9TrsT66a1Wz7UhyX33t8APNgXSYUeBsWo2oQtzrkupTeCUaRN5TS7FUd6v8=;RfrAWwjnmycKmkSgAks0ow=="
 ---

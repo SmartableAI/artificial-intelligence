@@ -126,6 +126,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Self-Driving Car Market Share, Size 2021 with Geographic Segmentation, Statistical Forecast and Competitive Analysis Report to 2023"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-12-29T00:18:00Z
+    webUrl: "https://menafn.com/1101348578/Self-Driving-Car-Market-Share-Size-2021-with-Geographic-Segmentation-Statistical-Forecast-and-Competitive-Analysis-Report-to-2023"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?59884"
+        width: 445
+        height: 250
+        isCached: true
 
 secured: "drMXwYA0sLqqIvMgR82ZKMC7C02hNNumyZqcCSBScIYLRUXRCbjSEBqjVpHxKQvNVhFGm7t4UzakR67JuhW6rM6593tNTvv8+dqFXkCZsiOCEx0+fwBHgUBcmP9WmPUkuPz9GhQz00T0WY1O4LtXlgjbvqcwCy+qBcdmUMQNzT52ta8uJ04v7AyBMQyueMaZnY4z3vz4mVcPM25cdlpENKBsM4YMPmT8gbw/C4JHOhoBSmTdxbR0UKu22zGEaTxTfPsqnrR13AycMLNw8KPSJPr51VpNX0FAvPKE29YkvVj3y5U0kI2r9Qo4Tj3tg9g8yc8y4vbTS9rb6w6FjWhdVb/3HXfMZA1foNF2MIH4tcg=;nVwT2TpI9eRU+U2rbW2bFw=="
 ---
