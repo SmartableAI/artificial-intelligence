@@ -35,7 +35,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 103
+    quality: 203
     images:
       - url: "https://static01.nyt.com/images/2020/12/29/business/29facialrecog1/29facialrecog1-facebookJumbo-v2.jpg"
         width: 1050
@@ -152,6 +152,31 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZM64WG4FNCWDOCRO7LS3WCW4U.jpg"
         width: 900
         height: 579
+        isCached: true
+  - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
+    excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
+    publishedDateTime: 2020-12-30T14:28:00Z
+    webUrl: "https://abc11.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+    ampWebUrl: "https://abc11.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 51
+  - title: "Facial Recognition Technology Cited in False Arrest Case"
+    excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
+    publishedDateTime: 2020-12-30T13:19:00Z
+    webUrl: "https://thecrimereport.org/2020/12/30/facial-recognition-technology-cited-in-false-arrest-case/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
         isCached: true
   - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."

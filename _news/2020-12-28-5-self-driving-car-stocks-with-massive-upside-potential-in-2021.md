@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple's Self-Driving Car Ambitions Will Shake Industry"
+    excerpt: "Apple needs to develop self-driving solutions to expand its device to reach beyond televisions, smartphones, and computers. Every other fast-growing technology firm is doing the same thing. For example,"
+    publishedDateTime: 2020-12-30T13:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/apples-self-driving-car-ambitions-will-shake-industry-2020-12-30-71971532"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
     excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."
     publishedDateTime: 2020-12-27T07:07:00Z

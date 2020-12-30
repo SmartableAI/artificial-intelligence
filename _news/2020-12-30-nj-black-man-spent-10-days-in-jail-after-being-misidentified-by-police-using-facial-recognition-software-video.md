@@ -35,7 +35,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 103
+    quality: 203
     images:
       - url: "https://static01.nyt.com/images/2020/12/29/business/29facialrecog1/29facialrecog1-facebookJumbo-v2.jpg"
         width: 1050
@@ -167,6 +167,31 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
+    excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
+    publishedDateTime: 2020-12-30T14:28:00Z
+    webUrl: "https://abc11.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+    ampWebUrl: "https://abc11.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 51
+  - title: "Facial Recognition Technology Cited in False Arrest Case"
+    excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
+    publishedDateTime: 2020-12-30T13:19:00Z
+    webUrl: "https://thecrimereport.org/2020/12/30/facial-recognition-technology-cited-in-false-arrest-case/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
+        isCached: true
   - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
     publishedDateTime: 2020-12-29T16:27:00Z
@@ -198,6 +223,6 @@ related:
         height: 382
         isCached: true
 
-secured: "S3judqOmZVl7gBYiBRWA24YII3hM5AR0Vn5vapT9p58b60BqeRI8Z5PQDY9a+yTMwv71TeNOHUYTnoN4qlfC8dm3F0H949BuS040hQBDlaaKxhD5Ra3D8S8zn+iG/BJFEyvB7Ae2pZusXKT46M9J618iUbDe4qIQUoTGxLcPjF387IpCWcdZVK7v8p52DAf0RIFGZzF4/BZNDXo2pcNBFLOmNNxrArC12XT8budBicztHnLiUhLNPR/74ubBI0yvujjgnDEEdiDRNYnXMZvixbcqIZyBq9kfJ9xZ6QrbHNUssJZ2aYkzAm6ut0Ac6UL9T66YpJzEyos31AVHu+fheCFuogLvZ/NqVC9goUHNZLo=;kBnsvKGCHiq8l4P8OP4ftg=="
+secured: "QXp0Y1Zz+ToM/Xei7ZPqNrqce2MrlGGkuqu8klHxrCXkobX5uONgkHDMDrhyU7Ma6Gxo6GFcb5Rw8ZFgd28Xe3SmHDqNOVvh2Na263gUru+//LxGMqRZZ2dP4/2IWVlKdfNG49RiLSw/egPEUNfQTxuAzHX9ujxbU1k3sZfBhJq/hitwCHs7NNfRZo5I5ZDf3YGVVX7lGJEXCQRf9SfkzFHAy2ptyjaKXf44gjLhTEB0ThcAnqXD7SlVBkVBIX0Py+VZuXGHkRQITFQcPMtTYQMj73sPSZSjggUIUTe+L1nnhFI1QT5d7KNqI3cE+GjqyMI9D1Gc1ZMAG5VbPKXeMr7JIeCaJe0UE5hcVXtGrFGJSMXUbMvNQz8EZCU8YNy6TD3UNj1F2SWNFFkAfomHMWYIFdO2+3G8B/S5Gse18RG4sUo948PNU+vy8WjWUNRFR2YALFqE6HAxK+GdnmCTFF8VNcgTsdiL11RY26S19EHTv6N7oyrqquBOxSWPn08FQgzw/gFMLMG1p8yrQBWrvw==;/CU89d78kpNvSOA1tByl4w=="
 ---
 

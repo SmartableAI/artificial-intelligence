@@ -56,20 +56,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "An AI Agenda for the New Presidential Administration"
-    excerpt: "The end of the year, the end of one administration and the beginning of another, presents a time to consider what’s important and to set priorities. In the areas in which high-tech issues and the law intersect,"
-    publishedDateTime: 2020-12-28T17:59:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2020/12/28/an-ai-agenda-for-the-new-presidential-administration/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/10/Katherine-B.-Forrest-Article-202010291004.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "auP9TyZCB70nJYyQAWQMPrlHx6UzyEf+2K43fLg/VEQ9DwHPpqr7Jyzujq0moFOMUTZHa9RdtHvmF5md76HWhFQQ/b2SQ/I847NxtTmhBvrzLI5znacbH0gbFe9zfd0kNGvSNJ6BjnjdSL0MS0j8oItM+dr5IGudDuFYWXhm1Qvm6Mhv8GBxWTtaOYX78vnTM0oZHx+H8p02dZG393xEasnxnrkWU9tf5P/9uhBlLFMwILJFdLAhR6v1Ak7wYghjIXA3QfBjtVKhtknEBD8ZBX+Q9zckoWw3ZJzvzgJz60lypB/D6tnk3IkTjHy/8I9LZ91VrZHw/GUM/V1J+RKZ9xVk0ZMftpn3LQ5r6WxSB9oXYo3n5mpA+PqkoDCIh57PlQIKc//gPxWTrtjt+4uw4uHOPI1SL7qvNKHcwsHfVKg9OiVL+dpzfYte+0GFgb2ZvKPi+N7i7uoabf3LeeNI611UB7JQl1ygGCWzYWOIJsWWNqznPfTQG9uWsu43ezuHk7U9OPQn7WW3EeHdnVMURA==;zUQAa7skVEysbbr/h1oLnQ=="
 ---

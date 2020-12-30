@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-29-graphcore-raises-222-million-to-scale-up-ai-chip-production.md",
-      "title": "Graphcore raises $222 million to scale up AI chip production",
-      "excerpt": "Graphcore, a U.K.-based startup developing AI accelerator chips, raised $222 million at a $2.77 billion valuation.",
+      "path": "_news/2020-12-30-the-immense-potential-and-challenges-of-multimodal-ai.md",
+      "title": "The immense potential and challenges of multimodal AI",
+      "excerpt": "Multimodal models -- models that understand the relationships between images, text, and more -- could be the next frontier in AI.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/",
-      "originalUrl": "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/",
+      "webUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/",
-      "publishedDateTime": "2020-12-29T00:55:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/",
+      "publishedDateTime": "2020-12-30T06:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -49,10 +49,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

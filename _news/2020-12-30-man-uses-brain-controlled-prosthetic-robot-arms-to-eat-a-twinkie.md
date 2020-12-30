@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twink
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/?amp"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

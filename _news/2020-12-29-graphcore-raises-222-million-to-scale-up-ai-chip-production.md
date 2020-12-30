@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/"
 type: article
 quality: 108
-heat: 218
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI chipmaker Graphcore raises $222m as it takes on Nvidia"
+    excerpt: "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),"
+    publishedDateTime: 2020-12-29T07:08:00Z
+    webUrl: "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
+    ampWebUrl: "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 176
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "AI Chipmaker Graphcore Raises $222m"
     excerpt: "Graphcore, the UK-based AI chipmaker, has raised $222 million, a Series E in new funding, as it braces itself for the tougher competition from US rival Nvidia."
     publishedDateTime: 2020-12-29T12:58:00Z
@@ -80,22 +96,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI chipmaker Graphcore raises $222m as it takes on Nvidia"
-    excerpt: "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),"
-    publishedDateTime: 2020-12-29T07:08:00Z
-    webUrl: "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
-    ampWebUrl: "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 76
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "AI chipmaker Graphcore is worth almost $3 billion after a massive $222 million fundraise"
     excerpt: "The firm joins a cohort of British startups thought to be mulling IPOs in the new year."

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
-publishedDateTime: 2020-12-08T19:35:00Z
-originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
-webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
+publishedDateTime: 2020-12-09T05:03:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "0WjTwYgThDIwgRIh8It6oqGqANiWQ2w6cmx3irucxfh5v0HS6Ut3VDiulUdAuThvJQtAEQ35t9J6e7tBpP1fVDmOckjCF9h27Vz8XKFFMra5UmbLPDRp5dYTXmfAOYyhAqcSyPsx2db6FTZ3aHkSZlI8NOjURo/IDZZNNujl5oq9Hzd1J8CbtWY4HR0gI05sZuESTj7LtmOb0uuPzwqKmw1hqEnzyQHxS6lNr9IdCzcxJO8eiBSXOJJqf0LpwtPfHMsqDap+IG2Iy5v6sFzAIZGoKmb7Vz9t7kGk1TgzJFPb8Au4VPz3NzkMHO21s6LbPjRGCumz2xYhtTtbsbHGZkGrZjMfvMmIQviQOX2AHYg=;jdpFpNijeb1uNhERAzV/4A=="
+secured: "49qXTrg5Jl2ktumLEgGFVG49yeUZBLRpDUSuskaWAaoKweSBP7i7Ope/VdRWakNLN2/s37ac/qV070GW4nekZTM5MdV/xCIY2BJlCxHKrlMNIDFpln1R7s0u78cTD+Yhc5vihrgdoYuuNaHreAlM1YxDJnY6oMIjqI5w+tN4e8UYeOfNnEpTrwODZao85Bnw/eNxGwneBQAmimu9a3IAXhhmoDEEiqzGACAA4xXmSK6JIyGBCyll3dVlqAlpmIWbJHAnYPpcZ6bLnbzBPWtum90EvKfjwWvKGeAmH9QvAxpOIymoFksiijUvZeBkyqzCS8bedIrvaAWOOqmi2quSY4+XNCravGomZdCvEuTSbmw=;h8Zy/zyRfweKGooC1gDO0Q=="
 ---
 

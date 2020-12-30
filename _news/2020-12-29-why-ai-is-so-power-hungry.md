@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-29T12:43:00Z
 originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
 webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
 type: article
-quality: 69
-heat: 79
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -44,6 +43,6 @@ related:
         height: 380
         isCached: true
 
-secured: "Ioz5YfXKM9/yVoTxYLNFiPtwqKHaZCyXmxpYhg+INfLkkE/QWkA0xQ+Rbdudlm1dVes/wCRct1FwI1eJWBLNfcdI8T76Xtgr297YXJokYwPGBr5ZNE2fiieoB/jmhohQAOMRSh+KTC+OqzzbNGlrKtP1K+pqQnoXktKoAfKgE/CPbv5FLRU66hYAuOZbnsM1iBB/oiNwA+qGXSmJXQfmfXR+Kql8a3wdOQ2A88lpE3uqBqjRjMzqUPBqsQIKQv77DBZNoOMwuXx3b127usGGY4WdyJlk8p4e/ljSJHG4KuogrGeb9bBoili4B7jkhft1tJ9RtiVN8HDT3QOSWj/YPU0fVvSxfNLR3EDh/KBazPM=;8aoMKisQHnD2fv19UW9toA=="
+secured: "OKyFVS3fszK0qH4oR/yH2HgRqaNDycDMhJUNO32OG0Y2E6/aYka/q2tEgGwAnRKauYqAPeAptIqklYdy1ykWItY6TX6Qq/OXFqux71DO9F8EfLd7QarUEaNxqj3ak9FFnJZ6j1CEF9XVoOjkS3XNwOqwgMdW5fJJNk9+GZNZqrsm7zqgyFlknUb5+/FmcvmMTEdVNYpnTTZze1gEncOySIQvcajj9IrUgEy7cFgp0GWIl43iSLV9e79KUUELT7gc5YliBzXqhgepg7YjCwQQIPMbpgLbyKVRjc1onlhZfjmTLtm006wfeFzXNoUnMrqdL8x/bmYU9kkkyP6f2SrlSGfC51OKwdSdwUjVwGo99Ew=;WY/b3q/ggXgcbtxAIOi0yg=="
 ---
 
