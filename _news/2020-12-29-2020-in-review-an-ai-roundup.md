@@ -23,6 +23,17 @@ images:
     height: 302
     isCached: true
 
+related:
+  - title: "2020 in review: Joint AI Center gets a ‘2.0’ and a clear path forward"
+    excerpt: "The JAIC had a year full of major changes, from a new director to a new direction. JAIC 2.0 is now ready to focus on war fighting."
+    publishedDateTime: 2020-12-30T16:21:00Z
+    webUrl: "https://www.fedscoop.com/2020-year-in-review-jaic-makeoever/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 19
+
 secured: "DGgHTEY4CnVT7bchw9SkU4OBS9VGb5kVV7e7OGYOcwzlayrwFIaVMDa3wJuFvmsHA7pPOk9OSEP5/p4xBIQOtdl0aS1mgEQ2ksDU++49+078YAQIjJnBF4vo6F8uXS1SBKNh2mddEroAslQ8KesUrLISnY+ZZ980imY2MVasJAtOivp360cU9Yv5lbUzSndBukq/AImpQFu7f+retJdav8x2+InPbrtwq5F5B0Ku85n/oSXU+ThUKOssQT8HkgrD4+9Z2eyHpD+AMOcXHaDaFIVKXdmLwLf1Bz265KWY6TvLljDMI9hRmfs5cJE25vfCw9se3H1Uy9VngnMgCpk9+9kgaml5sxvBD+CTA912yTs=;etEmRmAsFKhZNC6TuHhyvA=="
 ---
 
