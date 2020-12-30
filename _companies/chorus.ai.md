@@ -2,7 +2,7 @@
 name: "Chorus.ai"
 overview: "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights."
 type: "profile"
-heat: 0
+heat: 57
 
 website: https://www.chorus.ai/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Chorus.ai"
 
-secured: "Qgrk84YrdFuQwtmiZagjgTAimJHby8ZRTx9decHDVB6uavqRrHXqXr+LFi2UvH+yUkM9m061hwlC/CMg7SDAn+IqnN4nKfKnaRBSvJhJA/NuA7hzIj2Mts/D0OEtsUSsS709mFV3i9NZJweHXIik91CF+yuQ71JqFNK4jjaLpFTLfTNFYGD0IuB/IczKTZxdD1nWX0FquBWi2mrDnxZWoOUbT/cZJHgs2rO00pSZw35FX6uUFOkhIR2LF0MDvV3D5Ju2Q6plVbcSc+w9ij3gBzYQblzBG6zw5Jjb8ZtinYZzn1I+5yh4y7y7fgpXykJARFW9FCVY6o2vXjq9mnueO4PNc9ulB9ui+bUq1cGwGiILQx9faujpJgy4kSlkrXmPXeWC95XhMed8OzIHyPKEP7N4GrvNdNGa1bvzYq75iiY=;Aj0ZUuapdj5LMgSqCx1XAA=="
+secured: "NmNOr1UCqpm8vvVSJpH7pfkW4wKw9Q8Ucz3vBAbRdEbGfGFA7DAoTSYJtCYagnn6FBBYayXH1lYW4EJaCZ7UGYYU2sqshpqSgFZsfEn+ZBGyGhKIel8Qw6pmRwT3D+M2bEfpr3QD6673yaKBv8w7ZGDhfMSPiPuKhHfFZNf3nK2OYkI22BBPk2MFTr74ZPjkT3eXeGsVRSVjmVefPIfAifagNqWWk9BebQeJIGzIdrt4QkZURme533vyQBYnwmG3EjPKgZBzdTC0j1QKJdi7msSXtVXO14LOHAngerE/Vbc+ROdwMaxkvuMsiMQL43VkhEi4c6e7gzun30KvQTOF5AKG+E8LjKt4ntO7YHh4J7vpo6lC5EaWUEwRnyUwNTHtp38Q971oaGy0v9p0pc0gHJ7SYeo9LbyyF7UjStHG5Rk=;Ped9nVxYjx4pfomMbdMbuw=="
 ---
 
