@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla uses three free months of 'Full Self-Driving' to push year-end sales"
+    excerpt: "Driving” system that Tesla sells as a $10,000 option isn’t available in subscription form yet, but the car company is already using that idea to boost sales. Reported earlier by Electrek and confirmed in a tweet by Elon Musk,"
+    publishedDateTime: 2020-12-30T01:30:00Z
+    webUrl: "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=c32d614053b5590ce90e5251cb05134f3601ab4c"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Buy a Tesla before 2021 and get Full Self-Driving for free, Elon Musk says"
     excerpt: "Tesla CEO Elon Musk is out here making marketing moves on Twitter as we head into the final few days of 2020. Tuesday evening, Musk tweeted that anyone who purchases a new Tesla will receive three months of the company's Full Self-Driving mode free of charge."
     publishedDateTime: 2020-12-29T23:59:00Z
@@ -106,20 +122,6 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/7x73V/s1/tesla-model-s-fsd-beta-snow.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Nuro OK’d in California to Charge for Self-Driving Services"
-    excerpt: "Robotics company Nuro this week received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley"
-    publishedDateTime: 2020-12-29T19:28:00Z
-    webUrl: "https://www.insurancejournal.com/news/west/2020/12/29/595680.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/02/1_cZ0XKZn5O09e_ZgM5_DiRA.jpg"
-        width: 4000
-        height: 2666
         isCached: true
 
 secured: "LZe+/FwqDWQ9PpsvZaMFeyaf7W8y9x2/vhoWlirwQJkvOSW+0iNYlOC6TmKd56rwV49MvRyaPKxCSRHb80KXuJB6SSlP/3UTjmuVilIeuKja0w4Hof7onokuw333uJEnQchvF+1qbNY0w3ryoiOTvSvRhH2wDYVN1NFyLyn6rnb94nNTF7vB9Wwm+gF8G8l6uLWbzV/lu6pEl3oA2tRyY+eYgX03I190yYaWtlbD15FhPcOvIAx/nAsbIun9GIPYvYnTFD0K4yYQz+9SyfJzyMrPwgROiGr/uBJfPI9heRJK+aAskyKcKVhbK9HNFp+1r34T4ll65LI9oi2zMhrCuXfgXbVw59AyRWiEluYI5zWD6rQpPq2AUwEyqD4oIwANOWBmlgbHse8fdf8v2vLqvF7VBb2h2cWYWLVwRH7eTDfcvAsfyBzbWPD2PF1bprwjnOoLI3eO3sDNx78+eahwd2tUxGDfZt0Rl1QwsxidqyV1fWpQJ0DaRJezqWjwL4VR8DqWISScDpiN8GY4jH+spw==;Oi+qfjBt11T3cr9Ljr9ROg=="

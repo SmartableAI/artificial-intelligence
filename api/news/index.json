@@ -53,21 +53,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-30-buy-a-tesla-before-2021-and-get-full-self-driving-for-free-elon-musk-says.md",
-      "title": "Buy a Tesla before 2021 and get Full Self-Driving for free, Elon Musk says",
-      "excerpt": "Tesla CEO Elon Musk is out here making marketing moves on Twitter as we head into the final few days of 2020. Tuesday evening, Musk tweeted that anyone who purchases a new Tesla will receive three months of the company's Full Self-Driving mode free of charge.",
+      "path": "_news/2020-12-30-tesla-uses-three-free-months-of-full-self-driving-to-push-year-end-sales.md",
+      "title": "Tesla uses three free months of 'Full Self-Driving' to push year-end sales",
+      "excerpt": "Driving” system that Tesla sells as a $10,000 option isn’t available in subscription form yet, but the car company is already using that idea to boost sales. Reported earlier by Electrek and confirmed in a tweet by Elon Musk,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/buy-tesla-full-self-driving-free-elon-musk/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/buy-tesla-full-self-driving-free-elon-musk/",
+      "webUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
+      "originalUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=c32d614053b5590ce90e5251cb05134f3601ab4c",
+          "width": 600,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,16 +75,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/",
-      "publishedDateTime": "2020-12-29T15:59:00-08:00",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
+      "publishedDateTime": "2020-12-29T17:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -101,7 +101,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {

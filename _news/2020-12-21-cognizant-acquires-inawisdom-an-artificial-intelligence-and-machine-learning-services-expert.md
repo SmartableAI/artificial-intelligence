@@ -12,6 +12,7 @@ provider:
   domain: apnews.com
 
 topics:
+  - AI in Finance
   - AI
   - Machine Learning
 
@@ -21,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "QSnjcEnVir6IXIL+EbWZ3yeLe8O4Cm7G5UQxdP5KKIgiUODCmWjaV/1kLl+vOqWz3dKdsda4CCa57qnkx9DiTbtZVPWkOHmIjAp2AAofly4vXuF93LpUyuG5m+V8rjTidPGgFprMjMP1IFzQWSDYgxysC1X04R7GtcJq4Geq0L1KfP9A27PsXjYyLK3l2R3TZW+jv6lcNcpTxbXVpaPkHzz+3lJ05nRYZAzISocDdldeZhRgqg61/IPixwdprsoFTbosfeg8dt122KnzK2bcTeGyyzIL8GT4Qwv+cpYry48H7UtenHpBAQ0IO0rW8ybJlJQGdqTJjXySica1JclWgJxgJELMBUUhdnfxbfP2h/k=;4VNj8Hx0puQt4ZTCwGUj2g=="
+secured: "hNw4FD9TGGR/Ctf9AaNWmnxhqt2W+HJdNk7/d24kKqYFQBUfUU8+rfXn2wnuyG54v6RE4KKYXkvoxXvbos7FDVuCd0RBz5+gYFhSLi8oMPLQ9+C4zbwULrBp7OetfBeYN+rdmtBn6/QrLe0tTF8UBnKrPm8zInmsxwyxLieJaabfRSeDjCBocZf9ZUlkSYvQElCBHOuMb3sa5GBNMdhNg32GGO49I4gGr8FAES81/UjUZtAZFJPb73DqpWgGSHZ0gLcQ1kRxEN2clVCEUkGfXS8DPS1kxXt5H2VJGlJ0nmjz59tdPM5nNKogppiM1j9OhgfUd+KMub4+Wm6m2q2HTrR0GhJDkXsBVoYz9pOOjIY=;Kfzvx5FFX1KpavPK8wqSqQ=="
 ---
 
