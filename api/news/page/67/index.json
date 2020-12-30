@@ -2,48 +2,6 @@
   "page": 67,
   "value": [
     {
-      "path": "_news/2020-11-09-chinese-autonomous-truck-startup-inceptio-raises-120-mln-from-catl-others.md",
-      "title": "Chinese autonomous truck startup Inceptio raises $120 mln from CATL, others",
-      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL1N2HU0DG",
-      "originalUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL1N2HU0DG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HU0DG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HU0DG",
-      "publishedDateTime": "2020-11-08T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor.md",
       "title": "The Best Machine Learning Startups To Work For In 2021 According To Glassdoor",
       "excerpt": "AVORA, Codesmith, FairMarkIT, Protenus and Ravelin are the most likely to be recommended by their employees to friends looking for a machine learning startup to work for in 2021 based on each company's Glassdoor ratings.",
@@ -1194,6 +1152,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-how-secure-is-your-face.md",
+      "title": "How Secure Is Your Face?",
+      "excerpt": "But the technology has other purposes, as well, such as object recognition by assisted and autonomous driving systems in cars or robots, which is why there is so much attention on speed. “You can’t even wait five seconds to recognize something,” said ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/how-secure-is-your-face/",
+      "originalUrl": "https://semiengineering.com/how-secure-is-your-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/11/NIST-facial-recognition.png?fit=1280%2C557&#038;ssl=1",
+          "width": 1280,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

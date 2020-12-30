@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-mis
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://wp-assets.futurism.com/2020/12/lawsuit-claims-ai-sent-wrong-man-jail-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Black Man Jailed for 10 Days After Being Misidentified by Facial Recognition Technology"
+    excerpt: "A New Jersey man has filed a lawsuit against the local police and prosecutors after being wrongfully jailed for theft due to faulty facial recognition software."
+    publishedDateTime: 2020-12-29T23:09:00Z
+    webUrl: "https://www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
+    ampWebUrl: "https://amp.www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
+    type: article
+    provider:
+      name: Complex
+      domain: complex.com
+    quality: 66
+    images:
+      - url: "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/dubnnzx26wxtee3csuvi.jpg"
+        width: 394
+        height: 222
         isCached: true
   - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
     excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."

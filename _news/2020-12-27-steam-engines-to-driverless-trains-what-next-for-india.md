@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Steam Engines to Driverless Trains: What Next for India?"
-excerpt: "With discussions around automation and artificial intelligence (AI) being the flavor of the day, we hear so much about driverless cars, trucks, and buses. But seldom do we talk about driverless ..."
-publishedDateTime: 2020-12-27T07:12:00Z
-originalUrl: "https://www.cxotoday.com/ai/steam-engines-to-driverless-trains-what-next/"
-webUrl: "https://www.cxotoday.com/ai/steam-engines-to-driverless-trains-what-next/"
+excerpt: "With discussions around automation and artificial intelligence (AI) being the flavor of the day, we hear so much about driverless cars, trucks, and buses. But s"
+publishedDateTime: 2020-12-27T07:14:00Z
+originalUrl: "https://www.cxotoday.com/news-analysis/steam-engines-to-driverless-trains-what-next/"
+webUrl: "https://www.cxotoday.com/news-analysis/steam-engines-to-driverless-trains-what-next/"
 type: article
 quality: 54
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 453
         isCached: true
 
-secured: "DB9zTJkgo6J709ACAxmfoDvSY+cnEQmNSrtNwlTUeDJ+mm16+PAORC9f1Fs1rwG7wVtS5i4C0vftrONswE90/ILx0XysJTj8NsHgMdp9jgvBdthePbZNNne9wHon4opV8cmGOzWkzuDXb1Y85Zco7YOqbDpVcFjKYsgFLInVbc9mugdL0zfXMg0V+fpwzePmAYCH0B9J6/llw+sivR+OeinxUWBApGd7JwDY9QfHqdBUWVOn0/nK2qc4TCKHEmPLx+ytIJuKctweIHniVaVxZkSuLuGUZVFwFdEV4levI2S+uUKty7PSVoq4WbIlh4FiQiBZu7tn3tF5QhtlTgRkkMYdA8wH+DOoJrh9ilQozH0=;IZkOSPJGtoAJhwQ7OQ9KbA=="
+secured: "JfBkdlXPdhjM8RJj27zCDIG+42Mk4QQNZoBWvFraOSyRIkpyoEDdApmQUv/RUk3wX9ijobfpYEmSpc18XE/pz4URZb/Q3hIOnxrbYxIyiqv08lZqmY/LuiLNM+Ll1Q5HpDX+GketPI4eEeVQjweaLz8IFyOIWEjg+ciHQ+D/fyzDk9risED6RlcHxSC65GcExXdMEzj6sg7Fkxjki/Xh840F/GMsBsvqu2VF3KO6JGipwJ5Sioe8Ws2T5mK4OURfoGUenqh6DM5SMEumvJqdUIC4BPiwQo1oDi3+ylPJRijw+bShDMX5i1/0g7VMGZbPhG46n5l4OfFBkJibeAz+bCLbIfqVsbeBBgnkMKxkocs=;Tpuve1Hp5xaMaytYV+1wMA=="
 ---
 

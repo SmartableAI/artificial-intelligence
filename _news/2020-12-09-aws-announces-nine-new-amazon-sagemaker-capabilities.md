@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-publishedDateTime: 2020-12-09T05:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
+publishedDateTime: 2020-12-08T19:35:00Z
+originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "swa/xvU3/K0a3vS/P+3Bn2C0CMysWji2HuReN8cGOr+wbY1UfWpTH2D6Se7svhk0r68NdGsAUTB01Xg2B+DtyGGkQgT9hybYA6z/ab7GkEplBknFyMo9RB0imcll82hwB37pM/RICHk09+gjsH7T7KbtnmaRZJ/q4c2zWtuBM2v8MOuz+tzyoA7WgtSdP29KrHdy1MEOFAiaD097xTU16FZLTakRuIdxNHoQCX3G/J187HzkIPmS+fUSIIzk0P1/qhaT8drM8fXQtWcVwq4JoOvUkPTEch+zognhEB327rIa9q3WwTAMliumGyGh+Lj2MtUBHEvecbtdczO/6rb4j5Z3bw2ZgF7g+RzpD8x9Qzc=;bNRhkYmppaPVaGFoJWWQTQ=="
+secured: "cJ6rMqhNfY4rY90qAF+3ckhXTrkFXl5/3pSzdYvwHQvx2balRwEJq1BKcWqJWkZ1WiDPsXDcXwwClcXxS0xa+W4/Zj6fw0g+a4d8Rq+cUsEwCS/LeV3wo72gEdMi7cOpDsXDNbIgpM/hHbjAo/A8O7rPCSHs3WvIWQOSWfzioFSN47EVS7iSC5tB2TY3nslnxzPgiFos/nuvQoIxEExWsw6QQ2rOriOSj61uPzItotdsMuiV1f8TW9S/Rr/Q2fc3/IgtGvo7npikO77cLD6knvLiYjeU9XpiP/pzHELG6QqBPzSst3F3jOd9eUR0l1qkCrA6z8qxamwLiBkcqrmx2hKyZiroyhpYUDJ/qTnut0M=;3rZfItpq6oI4HiDV/+iNiw=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now"
 excerpt: "Answer: Emergence of AI (Artificial Intelligence ... across several healthcare facilities are propelling the growth of global IBM Watson services market. Answer: Key participants of global ..."
 publishedDateTime: 2020-12-17T10:56:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17"
+webUrl: "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "unfS868GX6ePWyJxWsGgsvQBxJQmD6n1LX1zyFdTWXur6VRN8RvgGlNxHLVnlSs3D0LPC7k21fFTxh19QEBAmJuGuZIZwroDTAmzNcANQshkppX3mqsXyO3KGYT8TLtGnzqB/AWKqJ8LpbGn0Vci3um0ksQ4nCJpvO/DEyUzwoFctcIE7ItRpmU0tIAOsyMslV3K7HcAPkVBxi1zz1fQ/zVMYWQtPVzFqfujZwjoubiXe1MVhyaaonoJ7j7NO703hFoVE0E2U9gPol7jqkcIRAT5yDnXri1bxAfFysaR83EAUniAYTBi5a5kTkZ5xWYE4AvHm8Jk/zU3rnJcbOpVJxc83cMYs16nuj7L/KRlvgw=;s+3cDIMTa3felsVnYhbbBA=="
+secured: "qz0vYYMIPfQwC2swLme3hRT/1CTzS2MFsbr7U3iL+VjqnBxMsy+lQ2bgDW0+CqSB5T1B2OzPQPvNpK1dfhNTTKt177she88HEfLojRu7M3TI+rYil+gwRHv/71iyRHh9pwBo/YwZ4ylkemSz3sblPqZvB30OjpXPwcsTVO5TZ2PZxA+RcWv5HZWNILOM40zPItpifVmdVRWTjF8BfubpZyngrBoOkVw9yxmaIaEFyG1OlnyF9X7wsjc7v/9sfWEEpo2KSBASEDtQxJF11XdYAO8HCzzZc8Ql+2UyeW10mU6Mzt1MYzwSWSpmyh660FHCdyHhNx4jQujg7l1CpZcb/hTeiOU7Skhl9G0QJiRBy1I=;Y+a7SbB/Mp9BENbPXYxi9Q=="
 ---
 

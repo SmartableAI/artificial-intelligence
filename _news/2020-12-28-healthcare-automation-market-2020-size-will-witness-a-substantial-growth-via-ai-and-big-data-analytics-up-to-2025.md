@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-automation-ma
 webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
 type: article
 quality: 62
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Global AI Adaptive Radio Intelligence Market 2020 Research Report With COVID-19 Update - Key Players Analysis, Growth Factors and Forecast to 2025"
+    excerpt: "Global AI Adaptive Radio Intelligence Market Growth (Status and Outlook) 2020-2025 interprets market overview, value chain structure, industrial environment, regional analysis, applications, market size,"
+    publishedDateTime: 2020-12-29T23:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-adaptive-radio-intelligence-market-2020-research-report-with-covid-19-update---key-players-analysis-growth-factors-and-forecast-to-2025-2020-12-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
     excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"

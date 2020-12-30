@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi.md",
       "title": "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi",
       "excerpt": "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,",
@@ -113,58 +68,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
-      "title": "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources",
-      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as growth plateaus in its core search business, where revenue ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/baidu-auto-idCNL1N2IV1GR",
-      "originalUrl": "https://cn.reuters.com/article/baidu-auto-idCNL1N2IV1GR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2IV1GR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2IV1GR",
-      "publishedDateTime": "2020-12-16T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -307,19 +210,19 @@
     {
       "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
       "title": "China search giant Baidu considers making own electric vehicles: Sources",
-      "excerpt": "self-driving cars: Survey Baidu operates autonomous taxi service Go Robotaxi with safety drivers on board in Beijing, Changsha and Cangzhou, and plans to expand to 30 cities in three years.",
+      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources",
-      "originalUrl": "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources",
+      "webUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/20201216_baidulogo_reuters.jpg?itok=KZWytHeH",
-          "width": 763,
-          "height": 509,
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/07/baidu-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -327,14 +230,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/china-search-giant-baidu-considers-making-own-electric-vehicles-sources?amp",
-      "publishedDateTime": "2020-12-15T17:21:00-08:00",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
+      "publishedDateTime": "2020-12-15T19:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "Exclusive-China search giant Baidu considers making own electric vehicles -sources",
+      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
+      "sourceUrl": null,
+      "webUrl": "https://lta.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2",
+      "originalUrl": "https://lta.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P0F2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2",
+      "publishedDateTime": "2020-12-15T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1430,6 +1385,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief-report-says.md",
+      "title": "Apple shifts leadership of self-driving car division to AI chief, report says",
+      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says",
+      "originalUrl": "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -89,6 +89,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Black Man Jailed for 10 Days After Being Misidentified by Facial Recognition Technology"
+    excerpt: "A New Jersey man has filed a lawsuit against the local police and prosecutors after being wrongfully jailed for theft due to faulty facial recognition software."
+    publishedDateTime: 2020-12-29T23:09:00Z
+    webUrl: "https://www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
+    ampWebUrl: "https://amp.www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
+    type: article
+    provider:
+      name: Complex
+      domain: complex.com
+    quality: 66
+    images:
+      - url: "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/dubnnzx26wxtee3csuvi.jpg"
+        width: 394
+        height: 222
+        isCached: true
   - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
     publishedDateTime: 2020-12-29T16:27:00Z
@@ -131,6 +147,6 @@ related:
         height: 382
         isCached: true
 
-secured: "7rojveNLYotnxNhhqnQctOhT/6ROEF/haNwpG71BNw7AsYxdjNokSyvXZHBYWID0RSOClj4H2tr7wXIRxNnvBorpCCwH1SR8EqJdLgZ+zyFAkrxi+m7dbN68FdslMjuyTz9fjylindtQWDv0NdW0njsgXdAuZVpGoPbLK0tpZ4jYw2PtpEJ5WUC2/4A3/WL1281yh/45hU5OhrRUOrQRNrhwcQUP3OeF6AGZ3hvhovMjxPGyGy3JdNo+Mc1atdprI/djcL/jRUPgAIwS0TccFuMTDnH0fKb5qywLqQPvm8P4VT8XkXR8Ppe/GHL8lZMjNiOdaAMZTHm+iTl7ehyW36zaVVWQpAHUOf26ssEyPMY=;v1NEdKdY661U8Py3hF4x9w=="
+secured: "4WSceggyrWPuLJNmbC2w9wMz+knAj2eYjR43GTt0itrslsCDxTiHhH2Vl6lcgLi/GXlMgH5DFZSlJO9pI8TiJ9H25xIjHwpHp/h2AX36eSAZT0H6YOlI/Qx8AQa+8ywVeJDCo3WKMNljf5MEWZjqYCqM4Hwob63Cenu9mZtCt1WNZpPj2/x6A5dv//qGCBWd+L+kA8mcberEJCacjAnov8LLlecqwy3QEHG6F7vUehRnYqn4pWes2l0lt+xJp7rj8VY7VEhF6fGMgdMGKF90LacJ5408eV/82bD8r+oDXh5VZRSSK8ibt0AXN6GCuozQLXFoNmEvognP8TC3/gUXVnjRB3fKiyVFo8pOQr7n2SPXVwyhUkm1657eBB89cWh1cdc5UtFzJaXGe+VMHVaaf0BLI2nFuSZRjD1R0n6ssxF2Ri9/fYp2GBFNJP+XXH7OENABt4TbaxmgVbIvdjMoXox8imnjNJ1TJnPPhHkHIqvPzyl0hwmWUmAfOodrv8e4HYtPSdSqDmrL9mYVhRmlJw==;y9QW3X7HBzdxDT2D6T+sKw=="
 ---
 

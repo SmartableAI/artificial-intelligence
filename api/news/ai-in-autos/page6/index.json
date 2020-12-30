@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-11-13-waymo-throws-shade-at-tesla-and-elon-musk-over-self-driving-comments.md",
-      "title": "Waymo throws shade at Tesla and Elon Musk over self-driving comments",
-      "excerpt": "Waymo is throwing shade at Tesla and Elon Musk over comments that the latter has made about the usefulness of the former’s self-driving technology. There are dozens of high-profile companies working on solving self-driving and just as many different approaches,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/",
-      "originalUrl": "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2018/12/waymo_minivan_7.jpg?resize=1024,512",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/",
-      "publishedDateTime": "2020-11-12T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo.md",
       "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
       "excerpt": "The shift away from fossil fuel requires the carmaker to double down on efficiency so it can free up resources to build electric and self-driving cars, Kallenius said. “We are hiring a lot of ...",
@@ -1431,6 +1379,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-tesla-full-self-driving-beta-appears-to-detect-and-avoid-road-debris-in-video.md",
+      "title": "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video",
+      "excerpt": "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/",
+      "originalUrl": "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all",
+          "width": 3584,
+          "height": 1832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/",
+      "publishedDateTime": "2020-11-04T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

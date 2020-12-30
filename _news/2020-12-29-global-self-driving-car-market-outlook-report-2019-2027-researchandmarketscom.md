@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "5 Self-Driving Car Stocks With Massive Upside Potential in 2021"
-    excerpt: "Higher levels of autonomy have the potential to reduce risky and dangerous driver behaviors. Favorable regulatory framework and increasing government funding are expected to play a crucial role in accelerating the self-driving car market’s growth in the coming years."
-    publishedDateTime: 2020-12-28T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
+  - title: "Self-driving Car Market Share, Size 2021 Supply-Demand, Industry Research and End User Analysis, Outlook 2024"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ..."
+    publishedDateTime: 2020-12-28T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-2021-supply-demand-industry-research-and-end-user-analysis-outlook-2024-2020-12-28"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
     excerpt: "The \"Self-Driving Car - Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted"
     publishedDateTime: 2020-12-28T12:21:00Z

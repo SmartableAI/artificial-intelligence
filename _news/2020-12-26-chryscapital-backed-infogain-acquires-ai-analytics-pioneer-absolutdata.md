@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101338434/ChrysCapital-backed-Infogain-Acquire
 webUrl: "https://menafn.com/1101338434/ChrysCapital-backed-Infogain-Acquires-AI-Analytics-Pioneer-Absolutdata"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 433
     height: 250
     isCached: true
-
-related:
-  - title: "ChrysCapital-backed Infogain Acquires AI & Analytics Pioneer Absolutdata"
-    excerpt: "Infogain, a Silicon Valley-based leader in human-centered digital platform and software engineering services, today announced its acquisition of Absolutdata, a San Francisco Bay Area-based AI and Advanced Analytics company serving Global 500 clients."
-    publishedDateTime: 2020-12-25T07:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-745c03f2c9754335bcde689b1a8fbe84"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "C+F1y331tcYnqjR73rifoZaMJQAwPjo0JBVftUNRv6Upcd/Aw7R2BnuYz0a1xQjR8fuEGuyoZWvsK9b2XNWL5fwnl9VDGgSOJjYeiYaQGVF/mbVL28/c40OKlBiKKQ6L23jBVa8JHyyaRxk7fqdEoD7GieGy+PPBkZ6ZYxfmJrjuSLgxupch9f3KOULCXHM4vIdx4JEfLT63h0nOJ98iOnM26qQeo3aIuaKJxfDRQ4zJcduhWv8iZtC+dMcA9O2b5GbtVsvD7EU0IGVA5eRcfyPTdg2jocJdA/OymEvHmya+HV40lRr2tl468sFpx+MV9ujtjyVC3FbeOxTICX2dui4CR4WKq7bWwiryNWaDR3c=;xfdzE91gARHUiyTP0QWEOQ=="
 ---

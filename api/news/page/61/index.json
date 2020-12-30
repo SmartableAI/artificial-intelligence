@@ -2,49 +2,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_news/2020-11-12-aidp-and-andy-khawaja-are-working-to-create-new-ai-defense-technology.md",
-      "title": "AIDP and Andy Khawaja are Working to Create New AI Defense Technology",
-      "excerpt": "Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja are integrating new AI advancements for defense technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-military-technology-weapons-manufacturing-weapons-technology-d969cb461ca54c78a44510bab1787500",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-military-technology-weapons-manufacturing-weapons-technology-d969cb461ca54c78a44510bab1787500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-power-players-meet-28-of-europes-lawmakers-activists-and-lobbyists-hashing-out-the-rules-on-everything-from-driverless-vehicles-to-net-neutrality.md",
       "title": "POWER PLAYERS: Meet 28 of Europe's lawmakers, activists, and lobbyists hashing out the rules on everything from driverless vehicles to net neutrality",
       "excerpt": "Voss has led an EU taskforce focusing on how the EU should tackle the impacts and challenges brought on by artificial intelligence. Dyann Heward-Mills is helping firms keep on top of their data ...",
@@ -1167,6 +1124,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus.md",
+      "title": "Intel unveils GPU for servers with Tencent, Gamestream, and Ubitus",
+      "excerpt": "Intel showed off a long-awaited chip today, the first standalone graphics processing unit (GPU) for the server market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/intel-gpu.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/amp/",
+      "publishedDateTime": "2020-11-11T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

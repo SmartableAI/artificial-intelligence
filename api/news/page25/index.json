@@ -2,50 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-12-07-simplemachines-inc-debuts-mozart-ai-chipdisrupts-ai-chip-landscape.md",
-      "title": "SimpleMachines, Inc. debuts Mozart AI Chip—Disrupts AI Chip Landscape",
-      "excerpt": "SimpleMachines and its new AI chip offer exciting option in the inference market, with radical new compiler approach and TensorFlow support.",
-      "sourceUrl": null,
-      "webUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
-      "originalUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://architosh.com/wp-content/uploads/2020/12/Mozart-angle-L-1.jpg",
-          "width": 1324,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
-      "cdnAmpWebUrl": "https://architosh-com.cdn.ampproject.org/c/s/architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
-      "publishedDateTime": "2020-12-07T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "architosh.com",
-        "domain": "architosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-07-how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021.md",
       "title": "How will companies use AI hiring software in the Great Rehire of 2021?",
       "excerpt": "With record numbers of candidates looking to work remotely, recruiters will have to expand beyond their usual geographic footprint.",
@@ -1181,6 +1137,58 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-neuroscientists-find-a-way-to-make-object-recognition-models-perform-better.md",
+      "title": "Neuroscientists find a way to make object-recognition models perform better",
+      "excerpt": "Many of these convolutional networks perform very well, but in most cases, researchers don’t know exactly how the network is solving the object-recognition task. In 2013, researchers from DiCarlo’s lab showed that some of these neural networks could ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/object-recognition-v1-1203",
+      "originalUrl": "https://news.mit.edu/2020/object-recognition-v1-1203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202012/MIT-BetterComputerVision-01-Press.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-06T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

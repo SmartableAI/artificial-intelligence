@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cybe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1199
     height: 562
     isCached: true
-
-related:
-  - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
-    excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."
-    publishedDateTime: 2020-12-27T07:07:00Z
-    webUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-division-to-aurora-after-years-of-turmoil-deadly-accident/"
-    type: article
-    provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 14
-    images:
-      - url: "https://www.entornointeligente.com/wp-content/uploads/2020/12/uber_sells_self_driving_car_division_to_aurora_after_years_of_turmoil_2C_deadly_accident.jpg"
-        width: 460
-        height: 345
-        isCached: true
 
 secured: "frMfalYV59sqF1J+EbToRM0WhCnJ3C9nWx+FcwcD0cRye8nJ+rbY1+/ndwfPyyLVdL4dbbacdPOcd71aZk2OzZRXFGSkDxDk1q3aI6BRItoFSF71apOBilufoVzfnA8tutJzRfp2PcCDYKzsbv0IZwZuHA4LCVpBkoaLjgUIIgREYJ3CV6wj22yXv/wlQ8uJgLpbZx44BP9tkeweihCFUwBk7HQZROquIcSfybaPiUfkrOt/A27shlqstTISPzqDyBtHIr302Kv9H7DcsAd545bqsEIG2fZ2HomE2T8Vlm2+ssdK36GX5n11+c0+K8azbgu5nUuNWA84+woaU86xkZBFcR0O3o/P/JUTQgRn4UtCraM915BL6OTUgraAq1JkQtl8yNV7oUU85mBqG1tyIvYmos5kAW0dirKyzL+ljcFzjsCEj+3girjN/xAgeC88Z8He6ayo2XtZKxnNWUv/trk11Mjx3aEZWsSiLh0hPxJRkftejmbSVHqaMK6NPKOeH9Ikjxb2jh5vno1M1VxglA==;GNT5dDePcghOQDDaJUiEDw=="
 ---

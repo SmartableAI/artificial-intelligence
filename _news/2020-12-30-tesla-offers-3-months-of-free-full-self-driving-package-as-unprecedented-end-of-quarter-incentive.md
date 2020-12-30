@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/amp/"
 type: article
 quality: 76
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -30,6 +30,102 @@ images:
     height: 628
     isCached: true
 
-secured: "qfW0WURepaYifLj6fIBollghU6RL4T7zgyVPK1ZuKV/GRBG02vD8uefXNptKDl/itgjKiVcxUaI1VDfe0iqRRed64LY7syoA1CjBDKz6X8QzTXOkFhoeESoG4j6TJgy1QhfMtpi0gH1V04xBQNaz4/mqe8AxKy/mIYycd3eXOizVGfSUFjGc+0dMx+oOqthpx8dM4ztWrndKJPMN3hATQFpEZM65R/YkIjVQFWt08Ak9XtWh2mYjBjvrBVm58grrRHUCIgFdmnp4nE5Y6YKmZNqRlv5MkSN25tMcT/U9xRKCnuRzw/QDQOznl9YftS1BNOa0lM/9wHUHbpzZfaPey49tDz2MdLUxAHgS3fV3C8w=;DHjk2Ex0FG4J2vAuiNI3KA=="
+related:
+  - title: "Buy a Tesla before 2021 and get Full Self-Driving for free, Elon Musk says"
+    excerpt: "Tesla CEO Elon Musk is out here making marketing moves on Twitter as we head into the final few days of 2020. Tuesday evening, Musk tweeted that anyone who purchases a new Tesla will receive three months of the company's Full Self-Driving mode free of charge."
+    publishedDateTime: 2020-12-29T23:59:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/buy-tesla-full-self-driving-free-elon-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk pushes Tesla to have more in-car gaming in preparation for self-driving future"
+    excerpt: "CEO Elon Musk is pushing Tesla to have more in-car games and entertainment, which he sees as 'critical' in a self-driving future."
+    publishedDateTime: 2020-12-29T11:17:00Z
+    webUrl: "https://electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/"
+    ampWebUrl: "https://electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 80
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/06/Tesla-arcade.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk promises 3 free months of Tesla's 'self-driving' software for vehicles delivered in the final 3 days of 2020"
+    excerpt: "Driving\" technology, which does not make cars fully autonomous, as a subscription service in early 2021."
+    publishedDateTime: 2020-12-29T23:38:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/5f1713384dca68350c3ae074?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Watch Tesla Model S Full Self-Driving Beta Tackle The Snow"
+    excerpt: "This is what we're thinking when we ask how quickly (or how long) it will take before tech like Tesla's FSD will actually be able to pilot cars on its own."
+    publishedDateTime: 2020-12-29T15:43:00Z
+    webUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/"
+    ampWebUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/7x73V/s1/tesla-model-s-fsd-beta-snow.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla extends Full Self-Driving free trial to buyers in year-end delivery push"
+    excerpt: "Tesla CEO Elon Musk has announced that the company will extend a three-month-long Full Self-Driving trial for buyers to purchase vehicles in its year-end delivery push. “All Tesla cars delivered in the final three days of the year will get three months of the Full Self-Driving option for free."
+    publishedDateTime: 2020-12-29T23:09:00Z
+    webUrl: "https://www.teslarati.com/tesla-fsd-free-trial-2020-year-end-push/"
+    ampWebUrl: "https://www.teslarati.com/tesla-fsd-free-trial-2020-year-end-push/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-free-trial-2020-year-end-push/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 55
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Nuro OK’d in California to Charge for Self-Driving Services"
+    excerpt: "Robotics company Nuro this week received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley"
+    publishedDateTime: 2020-12-29T19:28:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2020/12/29/595680.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/02/1_cZ0XKZn5O09e_ZgM5_DiRA.jpg"
+        width: 4000
+        height: 2666
+        isCached: true
+
+secured: "yQ5x618dQJ3JR2bkV0oaOLqYw1yyYeBZt/nm/cOL3ZE8twgaIAVaErGrcwRcBlzBiHgVqzWLfJXloOJ/g+KrPtaOSpZbQ3ZJLutpJpnEeoYK0oad+Irry7kzVHqUkueABAi12qsFjrWEGKHRp6a8INZrJm+hRfDwD98k7ufO4W8EZe68GQs09JqAWGUgbiZpSUMAiiMOO7NFcMxjBLCggvJtKrU54oCpBf9kPCiWIRoHCvFP5+1whIOTBPwu/gTqyM8Zr+2f0yNZ5QYjMUFNGbaFr0YVVG4DC1xO3hN7OP88rAESHn5LhjBUOBEACgmCnMXQx1NYlT1eppMwMxnoyTR6f3zG3kNfYFGEL1hpzFTjCR8+NH6SegJGZzBx2dw6Sl430bmTSX4YjvFZhTs3v7S933l29Rpl79ssEyfQ0U0NIKLE58zH4v5jCBCTPwlH7gz49eXVkrOmRgpr2Xv7tYp6B97/YEmRvg59/cBP6A6kFmmdigMRmooMwbTBQvR/RazQVBi6Zm1urEAfRDJr3A==;SsfdtpBVRc+p1CQ2Bvac8w=="
 ---
 

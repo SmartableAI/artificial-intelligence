@@ -78,6 +78,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Global AI Adaptive Radio Intelligence Market 2020 Research Report With COVID-19 Update - Key Players Analysis, Growth Factors and Forecast to 2025"
+    excerpt: "Global AI Adaptive Radio Intelligence Market Growth (Status and Outlook) 2020-2025 interprets market overview, value chain structure, industrial environment, regional analysis, applications, market size,"
+    publishedDateTime: 2020-12-29T23:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-adaptive-radio-intelligence-market-2020-research-report-with-covid-19-update---key-players-analysis-growth-factors-and-forecast-to-2025-2020-12-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Big Data Analytics, AI, and Collaborative Combat Driving the Evolution of Land-based EO/IR CONOPS, 2019–2029"
     excerpt: "Reportlinker.com announces the release of the report \"Big Data Analytics, AI, and Collaborative Combat Driving the Evolution"
     publishedDateTime: 2020-12-28T10:28:00Z
