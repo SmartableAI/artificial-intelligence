@@ -3,8 +3,8 @@ category: news
 title: "CIO Leadership: HMG Strategy, the World’s #1 Executive Leadership Network, Looks Ahead to Its ..."
 excerpt: "HMG Strategy, the world's #1 digital platform for connecting technology executives to reimagine the enterprise and reshape the business world, is looking"
 publishedDateTime: 2020-12-23T22:42:00Z
-originalUrl: "https://omaha.com/business/consumer/cio-leadership-hmg-strategy-the-world-s-1-executive-leadership-network-looks-ahead-to-its/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html"
-webUrl: "https://omaha.com/business/consumer/cio-leadership-hmg-strategy-the-world-s-1-executive-leadership-network-looks-ahead-to-its/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html"
+originalUrl: "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html"
+webUrl: "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "u+4l1v2KrncR/cHatQ1mJJmOERnZHwvngZEKM3mBs0xXYzU2tlSlGWyxOZqhWzST8ucNcXNrcShhgAfX7d1d6mPSOk+u2aSvuXywHu+mbGAuV8Mfd413DP8hktUuxx3QHpGdaMWUExrwT6+3ZKsQIH4MpIhLOAABjzAz4WUT179ydYjfGyT30pDPAHychs+1wc9h8OL1dkUZRuHi8HaAD5M+wHXpgLvYopYlmsnC2Srw2Ly9Zr2gKR2OKqqPDLoKfcgaQFq+l0OJ6xAYSHbV/cYFOM/0Zz8UxAuf/KatJbSTxiCoIcZ1HGvBuQsVWrjS0KNdBZUmo+fTJKo2HMq+0WEbjFFMnMpUotK263yXZXs=;KSAy5mSrUJq4fnc/bgRs3g=="
+secured: "GwBBXUmXayiLzcr//+06X2lh7JQ6Pn9nKoMX+/9GPnkfGomEOyeMXlFpr/c/GrlhH64VTPnGtPthALIOtVco8jTg1ItWo7GKKQXy4QmoLl6iqoPLn8nY47SrRV8cyYNo0WAhguQlLVhPlbk6wRquFnBSb6pe3RzGDUPvzJzYCGYEV/9/QuUk3fgdf5bYmaIktMJi7ypTcHI+Pofk5BxGBRQzsofAnS5Drdx9JSLCKw3alOThVN6LnXxui4e0rCt2f/wuLWVUWNkBTxKoyctYmHLhX2l1uUylXYEvPBmkud4c2AMKn85FU2WeM89V2/pOPoD1nAtUOXizUXzDhEv54rA1jMuZY005kB70Jz6TUYI=;9zkFepsZG9QtWcLQgBhOGg=="
 ---
 

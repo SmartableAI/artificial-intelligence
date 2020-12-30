@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Fully driverless cars available in Chandler, Mesa, Tempe"
-    excerpt: "Artificial intelligence packed with centuries’ worth of driving ... And he imagines in that time frame, more people will use driverless taxis, such as those developed by Waymo, which began in 2009 as the Google Self-Driving Car Project."
-    publishedDateTime: 2020-12-25T18:31:00Z
-    webUrl: "https://www.tucsonweekly.com/TheRange/archives/2020/12/25/fully-driverless-cars-available-in-chandler-mesa-tempe"
-    type: article
-    provider:
-      name: Tucson Weekly
-      domain: tucsonweekly.com
-    quality: 54
-    images:
-      - url: "https://media1.fdncms.com/tucsonweekly/imager/u/slideshow/30068832/1200px-waymo_self-driving_car_front_view.gk.jpg"
-        width: 680
-        height: 453
-        isCached: true
 
 secured: "HtfaL1r+TkcR2DoPlTAU+QHU9fvsznaOik2AUREbAQjSHNgn4TAlI1vOKm/1NUg2aftpU6q9VlM1rFDwCEr9k3iOCyzVWXYbFErQ4c3HOUQDRYm0SM3ntQaREMvytFkkM8GX6eCwzbd733jdJBkmI2nizMngDKXn2mg6t8xFQ+LxJ/KXRf+DRIjdgS7GF8/sm9p1hXSqHVBUGXQc6ti8YqKz7zMJc+KUk5uUaPJd92Udwq3LIxV8+KPfemNGQa1gkGkk8cAyZLUpV0IlbbjmNOFPGCKAWSVgx5e7vPFZWLHe6cdJcIPewOk8MKHItJUq4RRvo7zPjOtoWXZSDzkgbDH7V4Xi/L0XLbrTRVfBiz8GMP6mhrqO4mbV9fkkqR9ZdNGnAJVzNBf5DQLue5YonT4EBhA+JdUtPeQ5No06vAsM4wRTbwxsL0gMZunaM/5wB4zWFJMtCaXtEV+HkKYdtUcgdasRIo/L4JdxGC9GZI8iY/++uIfmZiHu4vrvyUcU5CG43AiBkZyxFMUIeWLubw==;XI3Ynj2ZyEaR7dE0QqKCCA=="
 ---

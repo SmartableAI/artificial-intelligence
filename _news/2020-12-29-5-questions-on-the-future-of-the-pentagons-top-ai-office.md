@@ -38,6 +38,15 @@ related:
         width: 480
         height: 218
         isCached: true
+  - title: "The Future of AI: AI's 10 To Watch"
+    excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
+    publishedDateTime: 2020-12-28T00:07:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9309122"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 17
 
 secured: "c76lUXR/AS8GdFdR3PbfJbBP5TkFmCD/LTpM2zlpTFA5kotd1qV60FIXEDaBtQ1b/3e7CyMCwaBY5z7ONjYJMokf7aNsXb5lkHwdFku3uhL20UNVXnffzcLqFzdcUChBTRWOQ6UUbCYUoJTFWCa1iO4LrCDfPWhkqxJkBU+dxwSJtjI4OcZPPYy8YlSGErqsMfRCgVtZsjFErj6y+b+Ji0J/vHQSXjgMbgnM1Xk6jHXYXPZmMcYkL1AadBhbrBUuVIA2Y+SNByNHHEdqTjSDOqhPgcRjYp12MFT+QjmyyzMLa8d3Ux5FhJjD1hyfDmeR8gEK19CnMu78Ed3R0QiMFWtk/ADx/WNJ5lZ0eL8i7inDnM9qmMWt7WRuYm61E8I5nBMZ9PgHF0G3NUeX2Q8JBqbCeqn4tZyyQ0oR/boFQg3tb2c9Fzw+YsySRqK3J8SKGb3MgoNvlboDKlRpcnrnfM198nP8/s9xbIPdVusb2+5Dlw2oEFlCt/3t2Oj9k4IrzdcrvpjMXvmUKoNKFQlhyw==;rC9Kl6vRzqmiUgSj88wRKw=="
 ---

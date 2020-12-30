@@ -24,54 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "The Increasing Use Of AI In The Pharmaceutical Industry"
-    excerpt: "For AI ethics and transparency, we make sure MLOps processes are in place, and Machine learning (ML) models model scoring is established, monitoring and drift detection, the feedback loop is transparently followed. We bring a diverse ML team with diverse ..."
-    publishedDateTime: 2020-12-26T22:01:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/"
+  - title: "The New World Of AI-Based Adaptive Education"
+    excerpt: "AI technologies are now all around us, influencing every aspect of our lives and changing the world in the process"
+    publishedDateTime: 2020-12-30T10:12:00Z
+    webUrl: "https://www.entrepreneur.com/article/362540"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/362540"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 104
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1609323413-AI.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Here’s what happened in the world of artificial intelligence in 2020"
+    excerpt: "The year 2020 was long and treacherous, but the biggest bright spot for me was the official launch of Neural. That’s our AI sub-brand here at TNW and the section you’re reading this article in. More specifically,"
+    publishedDateTime: 2020-12-29T22:04:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe7b0c464ca6c458d7d92a7%2F0x0.jpg"
-        width: 1200
-        height: 1500
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2020roboarm-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
-  - title: "How COVID-19 is driving AI in the mortgage industry"
-    excerpt: "With the move toward a remote workforce and the real estate market booming, integrating artificial intelligence can create a competitive advantage."
-    publishedDateTime: 2020-12-28T19:46:00Z
-    webUrl: "https://www.housingwire.com/articles/how-covid-19-is-driving-ai-in-the-mortgage-industry/"
+  - title: "An AI Agenda for the New Presidential Administration"
+    excerpt: "The end of the year, the end of one administration and the beginning of another, presents a time to consider what’s important and to set priorities. In the areas in which high-tech issues and the law intersect,"
+    publishedDateTime: 2020-12-28T17:59:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2020/12/28/an-ai-agenda-for-the-new-presidential-administration/"
     type: article
     provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 37
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_228678481-e1595368662513.jpeg?resize=1024,717"
-        width: 1024
-        height: 717
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/10/Katherine-B.-Forrest-Article-202010291004.jpg"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Police are now using artificial intelligence to search the internet for information in relation to issues of interest to police"
-    excerpt: "This comes as an independent review of the police response to the Christchurch mosque shootings - made a raft of recommendations into how police could improve future responses. Former intelligence analyst Paul Buchanan says he doesn't understand why this technology hasn't been used earlier."
-    publishedDateTime: 2020-12-28T18:43:00Z
-    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=324726"
-    type: article
-    provider:
-      name: NZCity
-      domain: nzcity.co.nz
-    quality: 0
-  - title: "Police are tackling the issue of extremists exploiting social media, by increasing their artificial intelligence technology"
-    excerpt: "It's believed the unit will focus on mainstream social media channels like Facebook and YouTube. Former intelligence analyst Paul Buchanan says it's better late than never. He says Police are finally using technology that has been sitting in front of them,"
-    publishedDateTime: 2020-12-28T22:48:00Z
-    webUrl: "https://home.nzcity.co.nz/finance/article.aspx?id=324726"
-    type: article
-    provider:
-      name: NZCity
-      domain: nzcity.co.nz
-    quality: 0
 
 secured: "auP9TyZCB70nJYyQAWQMPrlHx6UzyEf+2K43fLg/VEQ9DwHPpqr7Jyzujq0moFOMUTZHa9RdtHvmF5md76HWhFQQ/b2SQ/I847NxtTmhBvrzLI5znacbH0gbFe9zfd0kNGvSNJ6BjnjdSL0MS0j8oItM+dr5IGudDuFYWXhm1Qvm6Mhv8GBxWTtaOYX78vnTM0oZHx+H8p02dZG393xEasnxnrkWU9tf5P/9uhBlLFMwILJFdLAhR6v1Ak7wYghjIXA3QfBjtVKhtknEBD8ZBX+Q9zckoWw3ZJzvzgJz60lypB/D6tnk3IkTjHy/8I9LZ91VrZHw/GUM/V1J+RKZ9xVk0ZMftpn3LQ5r6WxSB9oXYo3n5mpA+PqkoDCIh57PlQIKc//gPxWTrtjt+4uw4uHOPI1SL7qvNKHcwsHfVKg9OiVL+dpzfYte+0GFgb2ZvKPi+N7i7uoabf3LeeNI611UB7JQl1ygGCWzYWOIJsWWNqznPfTQG9uWsu43ezuHk7U9OPQn7WW3EeHdnVMURA==;zUQAa7skVEysbbr/h1oLnQ=="
 ---

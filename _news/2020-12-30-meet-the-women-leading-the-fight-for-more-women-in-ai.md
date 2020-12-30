@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -29,47 +29,6 @@ images:
     width: 736
     height: 414
     isCached: true
-
-related:
-  - title: "Here’s what happened in the world of artificial intelligence in 2020"
-    excerpt: "The year 2020 was long and treacherous, but the biggest bright spot for me was the official launch of Neural. That’s our AI sub-brand here at TNW and the section you’re reading this article in. More specifically,"
-    publishedDateTime: 2020-12-29T22:04:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2020roboarm-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "How AI Transformed Sports In 2020"
-    excerpt: "Analytics India Magazine collated a list of how different aspects of sports significantly transformed in 2020 due to the use of AI."
-    publishedDateTime: 2020-12-28T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-transformed-sports-in-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/tim-gouw-VvQSzMJ_h0U-unsplash-scaled.jpg"
-        width: 2560
-        height: 1711
-        isCached: true
-  - title: "The Future of AI: AI's 10 To Watch"
-    excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
-    publishedDateTime: 2020-12-28T00:07:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9309122"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 17
 
 secured: "+Z43Yw0OAdUVIDG7/r0VIKBUzbGX5TmWxElDRr8OHZG8+ubhNMYbCAqqRisuIpSy9m07ac8cbqHu5QPNKlKnQJDGlLt9JpHj6asOmlXnLEMACQeu9dLT9NhkofyguZrfN8JzOLINk+RGkoDdLQZTvvDgoaZSndPdujzIymI0YrVh32xCoJRhzha4g5Z5YZcYKe4t/UPLo7kTXd4dWMHzFK6V2WhGOfAsaw0kBND6CKB+YFu0kEXUZqf2P6KvdtctFIGtjte6i64ocKvJjG0bOOoBvT9P3eWdHiCSJFiYiOhKnk/0e9t1Q9qgi39wroIRDyEBIxyPEuy9E9iRmtc5A1retqf5asAupSumC9nkJNZPbCKL558Ro5WBvA8Zp5kKVWvP6+Fu/6Qcym1Baxj6VEo/TtiPwkV61AcO/G8Zo/wjMnmcACMBXhLm2ZIrFrVDpyTBjcdT4sjf2ECRPHROHPoMd5cMn6P76t4EzO3LC1hH7KzPKiJ5jA+hkuGAMANTSgThAqJ0XKpjpQAo3vrWlQ==;QZ9cxBaxIlN71dyl7WhPoQ=="
 ---

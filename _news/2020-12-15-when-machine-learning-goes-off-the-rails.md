@@ -3,8 +3,8 @@ category: news
 title: "When Machine Learning Goes Off the Rails"
 excerpt: "What happens when machine learning—computer programs that absorb new information and then change how they make decisions—leads to investment losses, biased hiring or lending, or car accidents? Should businesses allow their smart products and services to autonomously evolve,"
 publishedDateTime: 2020-12-14T22:02:00Z
-originalUrl: "https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails?via=indexdotco"
-webUrl: "https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails?via=indexdotco"
+originalUrl: "https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails"
+webUrl: "https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 1880
     isCached: true
 
-secured: "BNuVAi1lfe9js73aWHK3Np2jkM9TFAS3Nlebjsdx94JYNHNe0vqh3rPWAFdqoHp268J5nbuVVTx8iWR8dxZSlDKaC09r7Iw3JBhTsJZCftQvsSGZiHuuThfc7UoJqwcd0R0b+RUQHUBrdMHzhHAP3z8PXhUVHW8zvqiGVywlLE0Z5W8UiDMf9Ea0BMBloVha+fZftBVJx1q2YYy6kNMBKbr++A5rqCBW9YSg/k9ZLGYw7u096TXRBdrjJWUzMm4dHNf+odxJP0o2FhZ08maWpVmg6lS3pfZIfWHsju+f85dGMJzGUGhC6Om0/v5eWYWNPHto6w+vVQ3fHgxZV3sGEyhDrZAGuuxhtr0WHVeHCRs=;8nIpvbAei1RlOYuWziV9Zw=="
+secured: "8sDNuOs5C6RM0ht6KJ1J5UeMHFcxnntYhKDtm1pGJ19CyMpCV5KaLVt0CcN91emwfXUiqXDPDCsUFZ7DJLHDdRyNsNFXCLLiSnMMr0tvzrfAmwVSeuImKkOcBeyuYpGaPjRK0JWkoEtR8CZaFKOVyKKCJkxHMuC2fmmOf7CDHVjWQesPEg5jvGWa6TgwmEZiZG/QC+2EIx40OOELXPr4WguaKIGdsDQxnBuk43Csn1h0yCWRqQrhmGfvHt5swiNNViIvJ36lQT4qCRsHnz5n9sR074Iv/Z3Uti3RR5fMvZgrEk9ZzK4/5D4ieDM7o0gvV59WIZEE+iqBiYGrB6olpzPbhV8alUGLzTK2WMLBHtE=;p40qHRX6jr23i1vNGFSu9Q=="
 ---
 

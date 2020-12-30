@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_228678481-e1595368662513.jpeg?resize=1024,717"
         width: 1024
         height: 717
-        isCached: true
-  - title: "The Evolution of Artificial Intelligence in Video Games"
-    excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-in-video-games/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/The-evolution-of-Artificial-Intelligence-in-video-games.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Police are now using artificial intelligence to search the internet for information in relation to issues of interest to police"
     excerpt: "This comes as an independent review of the police response to the Christchurch mosque shootings - made a raft of recommendations into how police could improve future responses. Former intelligence analyst Paul Buchanan says he doesn't understand why this technology hasn't been used earlier."

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
-publishedDateTime: 2020-12-21T10:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
+excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+publishedDateTime: 2020-12-21T10:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Tcs1SmMuf5ZI9O1j74eSoMySPnSYVgQ61vfTRNEuf08MtyR9DoDnKi0wqQFXsFrBPebszxwKO6u6tL4O6Qmw/BQWEmntgqa3bf3v8uS0uOVdFbWaSQOxTGvNhe5/7Nz7/+xYVP9Uch5bjRsU1NEPMPVCOiPEOgI8Gc6Hd0sL//q5sCiL27P6+X/mbRgFzVoqB8TRPBTSobmavKsuO08id0071nvARgozIqbk+sXPrdQXQF9TsBItoLrZAmTYhywe8VLl6xOBymvRMuPSJmleFo5edzywjLrQdyvJBsU5lap4z2JaXaP1yVHYxsv9RdV8PwmqE/JQ5Q6AwFiF5UX4s3snlh0ktrs3f4gv7g+phG0=;RtFA8AxfVns03Zhl6EGTfg=="
+secured: "3NIQYKT8s9NTpQkEgbjF3VdAOjtBcsWrIrNpSAd5skwX2qiLF6umR69lGwMT4SWdTqE7FJZS0/2CgGE0g/rMEcLrYolvUuqtZWZ0YCKDagINn7khCHAM7VWnAFgwjm7BwpamJVGV3KsdCxOfV2yMkNXQswhn/RjDTEAePsCr07ktEQ361+hlIr0TyGFp0RP/Eq6Enio8uUB/INcGvL/UMDgzFstHSWd2BK+lqcb6hg0jMIJeZ8gRFunL+JutYOjvvawgYaLSkv57yxYuzMx8wu3SIGoaFi/7S3rq4jsMLI8cZpvgqs/Z/1fppe1NIw3bDyYFmX0GEX1LkWEYmleYWB2hr26dmKboN1ecbSUQU2Q=;jmJ7355VYSO6bTthOtMhFQ=="
 ---
 

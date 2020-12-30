@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Why AI is so power-hungry"
-excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
-publishedDateTime: 2020-12-29T12:43:00Z
-originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
-webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
+excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
+publishedDateTime: 2020-12-29T12:38:00Z
+originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
+webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
 type: article
 quality: 69
 heat: 79
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
+  - Natural Language Processing
   - AI
 
 images:
@@ -44,6 +44,6 @@ related:
         height: 380
         isCached: true
 
-secured: "KqMB4XMZE7fhzCCZq+Bmggyx7f7xLTkLHQSbvhp+kNc+3eDKdFPMZKABtoZqNMTSnz1kKYyraQzlfcOB3gUrclKl5zu/GlZ4LNzu8IJwoEAb8HygB+VkY4B/EgJZr1EYJd0UWJFYJdoxNeZnEP+5MM3pJ3kHvtXC6LM7I3o2B4SkvrAG/hd5qf4H6aVgfdWhbL82LE6oLvuVHDf24Ijtb1bzEepLmx4L0BOLRTwVRpzdGxS2VkVNPWHhhkF0ZDMDXLHAL9EWgMn7cquyuaZQ7Yiq/0wBwm7MK5TAlLZjFTsbFqubfF57wO/fpQ8UT+Hq96X8/hDndl2ixxlQKBOf6vBDk5wbUcEv2Gx5fdWKTgs=;oHmNvmbayfJPfTwnzLOjnQ=="
+secured: "+3uIqrutACqLrZWc4/eYxf/Gf/dfcOaFqMoenPe2eH/XYC9NfO5pldDUjkz82CwWPucZEVf7DnIpcfClmfZ1inu25bJKEZOZnWTV8iC+ms5rzoDWtpONs1pJ10/vNQrZC7upUbP+KD29YHZ9Qr1c8dn59tdTP1vCjwKzLQElXtzrR4vHvYW8FDs/MyFsbrsJ5XMKV+6Xrsg+dEZ98y9d5jjVvBlucZ/DnNZxDISEkNkxo/U745Ii6AnypBgRZKEPxsA69BMzLS5RYBemAfVmSWKUB+tPSIRMY1rdRcb1Vnzocjxvfu9zTXoESdHZubGVYN3/TIxlIp7pqztR3cj4XDZHw/skqJETB4jsrkUDba4=;VXq3liAjRkAnnQbg8bmPEw=="
 ---
 

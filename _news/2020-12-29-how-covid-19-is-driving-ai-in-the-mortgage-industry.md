@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 1500
         isCached: true
-  - title: "The Evolution of Artificial Intelligence in Video Games"
-    excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-in-video-games/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/The-evolution-of-Artificial-Intelligence-in-video-games.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Police are now using artificial intelligence to search the internet for information in relation to issues of interest to police"
     excerpt: "This comes as an independent review of the police response to the Christchurch mosque shootings - made a raft of recommendations into how police could improve future responses. Former intelligence analyst Paul Buchanan says he doesn't understand why this technology hasn't been used earlier."
     publishedDateTime: 2020-12-28T18:43:00Z

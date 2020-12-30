@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-the-new-world-of-ai-based-adaptive-education.md",
+      "title": "The New World Of AI-Based Adaptive Education",
+      "excerpt": "AI technologies are now all around us, influencing every aspect of our lives and changing the world in the process",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362540",
+      "originalUrl": "https://www.entrepreneur.com/article/362540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1609323413-AI.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362540",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540",
+      "publishedDateTime": "2020-12-30T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-covid-19-impact-on-facial-recognition-market-size-growth-analysis-report-2019-2025.md",
       "title": "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025",
       "excerpt": "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies",
@@ -104,7 +156,7 @@
       "originalUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -149,21 +201,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-30-heres-what-happened-in-the-world-of-artificial-intelligence-in-2020.md",
-      "title": "Here’s what happened in the world of artificial intelligence in 2020",
-      "excerpt": "The year 2020 was long and treacherous, but the biggest bright spot for me was the official launch of Neural. That’s our AI sub-brand here at TNW and the section you’re reading this article in. More specifically,",
+      "path": "_news/2020-12-30-meet-the-women-leading-the-fight-for-more-women-in-ai.md",
+      "title": "Meet The Women Leading The Fight For More Women In AI",
+      "excerpt": "The exciting potential of women in AI is that their presence has such a wide reach. Not only is AI one of the most pervasive technologies industry-wise, the data it produces can have significant social impacts on our society.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/",
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2020roboarm-796x417.jpg",
-          "width": 796,
-          "height": 417,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febc497756ba71281a9e2d0%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D879%26cropY1%3D0%26cropY2%3D414",
+          "width": 736,
+          "height": 414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,16 +223,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/",
-      "publishedDateTime": "2020-12-29T14:04:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "publishedDateTime": "2020-12-29T16:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -196,7 +248,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Finance",
         "AI"
       ]
     },
@@ -304,7 +356,7 @@
       "originalUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -536,7 +588,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -588,7 +640,7 @@
       "originalUrl": "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -718,10 +770,10 @@
     {
       "path": "_news/2020-12-29-why-ai-is-so-power-hungry.md",
       "title": "Why AI is so power-hungry",
-      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
+      "excerpt": "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
-      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
+      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -740,7 +792,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T04:43:00-08:00",
+      "publishedDateTime": "2020-12-29T04:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -763,7 +815,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1161,58 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-ai-jobs-in-2021-here-are-some-key-trends.md",
-      "title": "AI jobs in 2021: here are some key trends",
-      "excerpt": "Artificial Intelligence has been a bit of a buzzword this year. Artificial intelligence has been established as the main driver of emerging technologies such as big data, robotics, and the IoT. So, what do the next 12 months look like for AI?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/",
-      "originalUrl": "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1284616756.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/",
-      "publishedDateTime": "2020-12-28T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

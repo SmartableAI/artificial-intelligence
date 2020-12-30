@@ -89,6 +89,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Black Man in NJ Misidentified by Facial Recognition and Falsely Jailed, Lawsuit Claims"
+    excerpt: "A New Jersey man sued police and prosecutors, claiming he was wrongly arrested and jailed after facial recognition software mistakenly linked him to a hotel theft, NBC News reported. Nijeer Parks, 33,"
+    publishedDateTime: 2020-12-30T10:39:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/black-man-in-nj-misidentified-by-facial-recognition-and-falsely-jailed-lawsuit-claims/2804764/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/black-man-in-nj-misidentified-by-facial-recognition-and-falsely-jailed-lawsuit-claims/2804764/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/black-man-in-nj-misidentified-by-facial-recognition-and-falsely-jailed-lawsuit-claims/2804764/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 66
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/6413650923-1080pnbcstations.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Black Man Jailed for 10 Days After Being Misidentified by Facial Recognition Technology"
     excerpt: "A New Jersey man has filed a lawsuit against the local police and prosecutors after being wrongfully jailed for theft due to faulty facial recognition software."
     publishedDateTime: 2020-12-29T23:09:00Z
@@ -165,17 +181,6 @@ related:
         width: 540
         height: 281
         isCached: true
-  - title: "Why is it not just a matter of recognition?"
-    excerpt: "Pakistan cannot afford to recognize IsraelBy Wazir Zafar HassanThe posture of Arab states towards Israel is becoming soft. They want to establish relations with Israel. After a move by the"
-    publishedDateTime: 2020-12-25T17:30:00Z
-    webUrl: "https://www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/"
-    ampWebUrl: "https://www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pakistantoday-com-pk.cdn.ampproject.org/c/s/www.pakistantoday.com.pk/2020/12/25/why-is-it-not-just-a-matter-of-recognition/amp/"
-    type: article
-    provider:
-      name: Pakistan Today
-      domain: pakistantoday.com.pk
-    quality: 24
   - title: "New Jersey man who spent 10 days in jail sues police after facial recognition software which was later banned led to his false arrest for shoplifting candy and ramming cop car"
     excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
     publishedDateTime: 2020-12-29T16:39:00Z

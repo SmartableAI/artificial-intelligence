@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robotics Market 2020 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2024"
+    excerpt: "Market Research Future published a research report on \"Robotics Market Research Report – Global Forecast till 2024\" -"
+    publishedDateTime: 2020-12-30T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2024-2020-12-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Construction Market Inclinations and Development Status Highlighted During Forecast Period 2020-2025"
     excerpt: "The AI in Construction Market was valued at USD 466.9 million in 2019, and it is projected to be worth USD 2312.8 million by 2025, registering a CAGR of 33.87% during the period 2020 to 2025. According to the Association of Equipment Manufacturers (AEM),"
     publishedDateTime: 2020-12-26T22:46:00Z

@@ -835,36 +835,27 @@
     {
       "path": "_news/2020-12-16-fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm.md",
       "title": "Fractal Named a Leader in Computer Vision Consulting by Independent Research Firm",
-      "excerpt": "Fractal, ( fractal.ai ), a global leader in artificial intelligence and analytics, powering decisions in Fortune 500 companies, today announced that it has been named a Leader among Computer Vision Consultancies in the recent report,",
+      "excerpt": "Download the full report. \"We are delighted that Forrester Research has recognized us as a Leader in The Forrester New Wave™ on Computer Vision,\" said Pranay Agrawal, Co-founder and CEO of Fractal.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm-2020-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm-2020-12-16",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm-1029897200",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm-1029897200",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T21:01:00-08:00",
+      "publishedDateTime": "2020-12-16T02:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

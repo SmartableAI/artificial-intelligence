@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "2020 Tesla Purchases Come With $10K Full Self-Driving Package Free for 3 Months"
+    excerpt: "In case you missed Elon Musk's leaked letter to his employees, the CEO is pushing for a last-ditch effort to hit the 500,000-unit delivery goal he set for the company a few years ago."
+    publishedDateTime: 2020-12-30T10:45:00Z
+    webUrl: "https://www.autoevolution.com/news/2020-tesla-purchases-come-with-10k-full-self-driving-package-free-for-3-months-153772.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 35
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/2020-tesla-purchases-come-with-10k-full-self-driving-package-free-for-3-months-153772-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "oXghKJIM6EnND3MunuvbC/QKIqI8dKJQ6FeVGXvdPQbaLTWDDP1CmctQXpbQoeS9L8umd/mq/vMlcAGinmTb+vfhHZHNyJl7HauCu2QaB4VegpXGp4t3MN7ZvbJGJFVz+KK8OhLrlZARVD+BvAYC5ETohEtdUypxHPvL7FA7ON1A+5TKEKl0XyDR+g0zZ4SYwwkQ5EfkUlibzlebKYddMKyVGiFFLfS4tTtDic+Qi51YsbI869/sZDMsYVZnUmZB0orBLg1XYPfnKztUcyLTI2YCRhaSExcnhwMKuBhOhx6IR9LfBUPCnAzVeC8xLd2FBf8TjUb8W6AguTq0J0QMRfd4FDXH8D75NSm8IEqgaqBiDHq5492UA192j0+CJY2iT587aUU75DvcG83J89IA03eO6LsVHK/Hvpi0Lp8QQNHBV8lZ+7xpRcDTsqYn43mhU0LarLRE2MZ5g+ElqsdlF3OceSlL5cUo3q0P0fqzxA5VuqwPP5qs0NhOLm0d14H9A7H+AFJJjD9FomcFX2pqyg==;HuWsBb+YugEmWZjOeID2FQ=="

@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-16-global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report.md",
+      "title": "Global Artificial Intelligence in Law Market 2021: Market Growth, Trends, Revenue, Share and Demands Research Report",
+      "excerpt": "The report outlines the competitive framework of the “Artificial Intelligence in Law Market” industry detailing the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T19:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "China search giant Baidu considers making own electric vehicles: Sources",
+      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/07/baidu-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
+      "publishedDateTime": "2020-12-15T19:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-sony-ai-launches-new-project-dedicated-to-gastronomy-research.md",
       "title": "Sony AI launches new project dedicated to gastronomy research",
       "excerpt": "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,",
@@ -1109,111 +1204,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025.md",
-      "title": "A Data-Driven Guide to Whether a Machine Will Be Doing Your Job By 2025",
-      "excerpt": "Humans and machines will clock the same work hours by 2025 (and other startling findings from the World Economic Forum’s ‘Future of Jobs 2020’ report).",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "originalUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1608041314845-screen-shot-2020-12-02-at-91900-pm.png",
-          "width": 789,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "publishedDateTime": "2020-12-15T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome.md",
-      "title": "Tesla hacker unlocks Autopilot ‘Augmented Vision’ and it’s awesome",
-      "excerpt": "A Tesla hacker has unlocked “Autopilot Augmented Vision,” a new mode in Tesla’s autonomous driving suite, that enables to see what Autopilot can detect in real time. It’s awesome to watch. More than two years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
-      "originalUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Autopilot-Augmeneted-vision-e1608042867540.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
-      "publishedDateTime": "2020-12-15T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
