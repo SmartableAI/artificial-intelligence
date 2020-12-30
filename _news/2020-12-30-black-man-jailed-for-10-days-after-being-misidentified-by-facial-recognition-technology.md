@@ -91,6 +91,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "He spent 10 days in jail after facial recognition software led to the arrest of the wrong man, lawsuit says"
+    excerpt: "A Passaic County man says he spent a year trying to clear his name after Woodbridge police relied on facial recognition software to identify him a suspect."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html"
+    ampWebUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZM64WG4FNCWDOCRO7LS3WCW4U.jpg"
+        width: 900
+        height: 579
+        isCached: true
   - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
     excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
     publishedDateTime: 2020-12-29T21:27:00Z
@@ -147,6 +163,6 @@ related:
         height: 382
         isCached: true
 
-secured: "lrniajT5n6MG2oK4xeT8NtsM51atk+xAzNfO8o72OK1LcxuVlLB1uOvdE1u9qWBhqrHG1TdI8Rc5z0bS3LxYMFL/C0/lytybrYTJMIiz+WYmynDDMq8JyIYpSTVCa21MdrHsB3DxFxUQs0rbs9MiFRoSiwF92wGkmfCWdJ7jbIPrN+TxqaoK6HEBfWomZbSlEhGh06wfBDRdZfq6k/PdIV7JhcV+ZDABsnD/vTyATdmMx+FGRx1q9znId5cPBJpnSMjnXdgMc2kudT01s4T5YZdZWoWuYg3wzYY7sNCSeBzOORpYfhSF1p5UqFARvRg7JvBP0wObKqzNrg3xzwtg0jMTg1lx1WJjiLPdwRKbv9M=;t0iS5valPPPwWKInPyg95Q=="
+secured: "Bb21PWjUEyEYM4mvPbUqURE7sUgF3HhoUZz3Bo4uy0QBGKKodfJ6gqmTGFJjxBUNp7RVal9kUjBea9KMtqKOD6j0el9L6MRAyHQH+0Xpe6URCAMouDv/vTFdB4dPUxLAluYxcBdQk8reTO8w3D8JcqNKaN0OHoImE/kmVFiODgOiBPm2RvhPKJY0m84nHKUj/dwDr6DjfOsL3e+usXI+ppUz+nWQcprZK7EWUoJ/qBRqE/x30CV+wc8j3nUSJud0WUMUiyhMyCPbf1YKNZKY7JLElM55UuZqeqTPKqXLS9ZbnHSV/Bsmdr96HmgO66lB9UuR6I5laT1NCYPjo6StVoRJfmK/eYLjAF7AI0kEHyKBwXsMafG1XxsH54AmFab2SjvtstUNmXHI3DNok7fb1nW+9zYtLCmiXMNwMDXuWdx65UWTUrI5peosZIZhYmp0D1KE7+xjggkfE+lJtKg1AwGN+7FGWg0Gnj8ZhOqPkwiEjrME9W5GhHRr6oDlxOiwF0OWBwkjYQ7GPikK8Qvksg==;VP+fEfvPzcaQbp1sUvZycw=="
 ---
 

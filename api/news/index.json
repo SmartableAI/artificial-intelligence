@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton.md",
+      "title": "Hamilton song written by AI features odd reference to Hillary Clinton",
+      "excerpt": "Hard-core fans of the musical Hamilton can never get enough of the catchy soundtrack (I speak from experience). So they may be happy to know they now have a new song to earworm over. Lin-Manuel Miranda,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
+      "originalUrl": "https://www.cnet.com/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gNYBeg7tlbjadIBTz8JB3juQ3YU=/2020/12/30/36c9f544-7259-44c6-a61b-49153d39d2fb/hamilton.jpg",
+          "width": 1716,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
+      "publishedDateTime": "2020-12-29T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-buy-a-tesla-before-2021-and-get-full-self-driving-for-free-elon-musk-says.md",
       "title": "Buy a Tesla before 2021 and get Full Self-Driving for free, Elon Musk says",
       "excerpt": "Tesla CEO Elon Musk is out here making marketing moves on Twitter as we head into the final few days of 2020. Tuesday evening, Musk tweeted that anyone who purchases a new Tesla will receive three months of the company's Full Self-Driving mode free of charge.",
@@ -201,6 +252,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-30-teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future.md",
+      "title": "Tesla’s Musk Ponders In-Car Gaming Opportunities For The Driverless Future",
+      "excerpt": "Envisioning an autonomous car that you can play games in may be forward looking, but that has never stopped Tesla or others from pondering the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/",
+      "originalUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/12/Tesla-Musk-autonomous-vehicles-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/amp/",
+      "publishedDateTime": "2020-12-29T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs.md",
       "title": "How an important change in web standards impacts your image annotation jobs",
       "excerpt": "Earlier in 2020, widely used browsers like Chrome and Firefox changed their default behavior for rotating images based on image metadata, referred to as EXIF data. Previously, images always displayed in browsers exactly how they’re stored on disk, which is typically unrotated. After the change, images",
@@ -295,7 +389,7 @@
       "originalUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -743,7 +837,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -1128,110 +1222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-lg-instaview-refrigerators-get-voice-controlled-doors-for-2021.md",
-      "title": "LG InstaView refrigerators get voice-controlled doors for 2021",
-      "excerpt": "The list of kitchen appliances you can talk to (and reasonably expect some sort of response) gets longer, with LG’s newest – and fanciest – refrigerators adding voice-controlled",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/lg-instaview-refrigerators-get-voice-controlled-doors-for-2021-28652655/",
-      "originalUrl": "https://www.slashgear.com/lg-instaview-refrigerators-get-voice-controlled-doors-for-2021-28652655/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/InstaView-Ref-Lifestyle-06_revised.jpg",
-          "width": 1680,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/lg-instaview-refrigerators-get-voice-controlled-doors-for-2021-28652655/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/lg-instaview-refrigerators-get-voice-controlled-doors-for-2021-28652655/amp/",
-      "publishedDateTime": "2020-12-28T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025.md",
-      "title": "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025",
-      "excerpt": "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

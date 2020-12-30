@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/"
 type: article
 quality: 108
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/graphcore.png"
         width: 795
         height: 445
+        isCached: true
+  - title: "Chipmaker Graphcore raises $222m in bid to win the artificial intelligence war"
+    excerpt: "A Bristol-based chipmaker hoping to power a new era of artificial intelligence has secured $222 million in fresh funding in an investment round that values it at $2.8 billion.The deal for Graphcore"
+    publishedDateTime: 2020-12-30T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/graphcore-secures-222m-in-fundraising-round-fhx2vnbfq"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 48
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4efb9fe4-49eb-11eb-b1c9-717a40373ea7.jpg?crop=3469%2C1951%2C25%2C26&resize=685"
+        width: 685
+        height: 385
         isCached: true
 
 secured: "akmRhw0ljWfW2kJiuWFO7ohSGwhD22lNzc3p9ug2F6XtNSAjgmqwObSLWkxp79lXEkk2TqJF7YQgBR5HMgM6oAvAb9hrGsOE4pG3mgA76tWpdMh3fxAPQWuui7DQzy9NJ7EvNb0dpw/XVQCtmEZ6Swbs1iCrejcHzQdFX7VemQLuL44uOymp2rmc1bf7zt+0Nua3Jw/Gg6mj61e/kFqLN3U/F2atxjweLWRKqHx+Ly3Xxq06Fuk8P0awer5zER8urLS5pGzOKIW4Wl4i7dEoBdov3bdFdbglnJUmShK4J8B5/KOEggVTeGIMNfmw8SvZnmNRUcc3EB59v8TnSBxxDJ4bw+OgIyyMR8BxYR8or9LXfvF+0pvQMI1eFX+o3UKL5/aSVUBUroVYJKD+4SsvH1rODIuB8MuByRD0geh4Ge23fQtCgK8Er73Z6ipzH/GFqiaUIQbHKHnQApZBjJ2X0ftgQXc0ilE4wOuRGCVPai2Y7NLhVM3tmmBD16JnXHFvE+BBe0B+aDSP8xmXglWV6Q==;WdZ1BWmVePTQyH8Mx2yYGQ=="

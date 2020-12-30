@@ -187,6 +187,20 @@ related:
         width: 795
         height: 445
         isCached: true
+  - title: "Chipmaker Graphcore raises $222m in bid to win the artificial intelligence war"
+    excerpt: "A Bristol-based chipmaker hoping to power a new era of artificial intelligence has secured $222 million in fresh funding in an investment round that values it at $2.8 billion.The deal for Graphcore"
+    publishedDateTime: 2020-12-30T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/graphcore-secures-222m-in-fundraising-round-fhx2vnbfq"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 48
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4efb9fe4-49eb-11eb-b1c9-717a40373ea7.jpg?crop=3469%2C1951%2C25%2C26&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "S6u2s51Ji4ihuztU8+GWI+9vF7fhtI1PTwB0d6tDFvF6I6AhLi+RheziEZPhxWzfSk9bMk9aSdegcIr+XeCGrg2EBGeNMjYbG3wET9pBFEFsxGU2kUfpRyQJDzfIwljr6uc/Q6AHjoCurl7yujMCTNdgDwPi5bDqmL06tu6BZrNWzF9ekO2cgCx0DTBJIazH0ifrlAsbIoDWgDS75sYg+PeAjpah3XBk3Ka1kJw8JZHu3NhbzTHaV/X5z07XXNpYGwIuJQ9gb9rt4vJtxIko/MK0PYAJ7asF3bWbhemAP4f14gBoRMj2iIl3v5FuA4HIiU6JuWBXp1mg9TUWzoNEAu/tHUfkJeVCYUDld8s2QdpLMF9TLMKcOnWzYKRi+W8eSrmZMS29o9lJBspEOy0zm3k7LrBOEnZkLZZv63Ln9DU85KhuYfoqZETJfIvNyezu5T8c7G6YHrTKRbOEze9rR/M9IsaifNw9p9fnFTDFTg1TYhuMJRmyPcU19X2L6n8w2EeEOjiUAr3GquTxvrsBHA==;hq0eM7fmVSSEuk8aPFYKhA=="
 ---

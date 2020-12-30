@@ -101,6 +101,22 @@ related:
         width: 394
         height: 222
         isCached: true
+  - title: "He spent 10 days in jail after facial recognition software led to the arrest of the wrong man, lawsuit says"
+    excerpt: "A Passaic County man says he spent a year trying to clear his name after Woodbridge police relied on facial recognition software to identify him a suspect."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html"
+    ampWebUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZM64WG4FNCWDOCRO7LS3WCW4U.jpg"
+        width: 900
+        height: 579
+        isCached: true
   - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
     excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
     publishedDateTime: 2020-12-29T21:27:00Z

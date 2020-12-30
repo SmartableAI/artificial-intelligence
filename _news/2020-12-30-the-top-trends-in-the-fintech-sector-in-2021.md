@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 624
         isCached: true
+  - title: "Blog: The 2021 BFSI workforce needs an upgrade of fintech"
+    excerpt: "The need for skill upgrades in the tech space gets intensified in light of the possibility that failing to bridge the skill gap can make BFSI companies suffer from a shortage of tech-efficient mid-car"
+    publishedDateTime: 2020-12-30T01:35:00Z
+    webUrl: "https://www.peoplematters.in/blog/life-at-work/the-2021-bfsi-workforce-needs-an-upgrade-of-fintech-28016"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1609165288/ad-ernpuhyd.png"
+        width: 990
+        height: 550
+        isCached: true
   - title: "Nigeria: Fintech Research - Everything You Need to Know About Tech Companies and Its Stocks"
     excerpt: "The tech industry comprises companies that sell devices, software, hardware, artificial intelligence, and other information technology (IT) products. These companies have always been profitable in terms of stock value."
     publishedDateTime: 2020-12-29T11:15:00Z
