@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-prom
 ampWebUrl: "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-27-expert-survey-ai-translation-market-is-booming-worldwide-with-google-facebook-microsoft-soundai-mi.md",
-      "title": "Expert Survey: AI Translation Market is Booming Worldwide with Google, Facebook, Microsoft, SoundAI, MI",
-      "excerpt": "Latest Research Study on Global AI Translation Market published by AMA offers a detailed overview of the factors influencing the global business scope Global AI Translation Market research report shows the latest market insights with upcoming trends and breakdown of",
+      "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
+      "title": "You don’t code? Do machine learning straight from Microsoft Excel",
+      "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with",
-      "originalUrl": "https://www.openpr.com/news/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with",
+      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/T/c/Tc27795245_g.jpg",
-          "width": 750,
-          "height": 422,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2217216/expert-survey-ai-translation-market-is-booming-worldwide-with",
-      "publishedDateTime": "2020-12-26T21:38:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "publishedDateTime": "2020-12-30T10:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Natural Language Processing",
         "AI",
+        "Machine Learning",
         "Microsoft AI"
       ]
     },

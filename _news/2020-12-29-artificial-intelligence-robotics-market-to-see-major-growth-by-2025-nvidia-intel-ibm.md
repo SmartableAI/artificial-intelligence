@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2218051/artificial-intelligence-robotics-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.openpr.com/T/c/Tc29459847_g.jpg"
         width: 417
         height: 455
+        isCached: true
+  - title: "Graviton2: AWS’s Answer to Generic Intel and NVIDIA Chips"
+    excerpt: "Amazon’s cloud arm AWS recently announced C6gn instance powered by Graviton2 at re:Invent 2020. Graviton chips are cheaper than most of NVIDIA and Intel chips."
+    publishedDateTime: 2020-12-30T17:56:00Z
+    webUrl: "https://www.analyticsinsight.net/graviton2-awss-answer-to-generic-intel-and-nvidia-chips/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AWS-Leans-on-Custom-Silicon-for-Processing-Advantage.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "mysJQLKClh/WqcIPRTN8eEf7AjU7MQjc/mj+NWgWc12GJhna82omm4uL8dgk6AvLqjcKwQVIAuDJwtKjdq91mJ6LOEq5D2V5R0aRLZnkiN3KR7MraoUzKiF88fCEcXn8vRdgOYK6EbMJ3ceBCrzamY3Jo291ebjyG5axiXJjRAwhsRV8tOg7EwC7XKJocvq2OgF67vmQwZaHRL+YZu9HR0EpQx7Y6uLSQP5JjUCws7IU+QWKns0G8zTY3olV5rhy7r1lu/yHot9cjbupGz0G7J8e2iW38yOYFuqYQHV14niu7gVQfIyhtESYID3HdDnO88Q9UwuaifCXKWgSdvv02nHEd3G/nDPpVzR7sm+V0XMoUPQ4fRY3Yhwf8cIENwzaru18PYNvwSP62WlmmnNn5UcTSR///f8Vx2YJfo3OxYqX+vIGszBII/NTc7L9iVPrqcW7Vok8tkK4WPYNkUwu3vNpykZHkA3LSlqDcyaStxeh4suWWlDRFVaEjbYo7XC1t4pYh1i/VxIEQ1p+BY36MA==;XoPj9f9XVE80DGOM/OsekQ=="

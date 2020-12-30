@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/black-man-facial-recognition-technol
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology"
+    excerpt: "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days."
+    publishedDateTime: 2020-12-30T18:39:00Z
+    webUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661"
+    ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg"
+        width: 800
+        height: 484
+        isCached: true
 
 secured: "s4HSS0BnixHlGzoq4aJU+GeD8qFvnTk1Zbr7k5TINwZj+0ZKSE+ajs7Bp96jJYA7G6G9AC4IFUe58+iX6UJyu3eQjDbslZT0XwHC6piOsR+VTAcpCp0tjOqj3mdFYja7uVTgZjXFhLNAn/oZk1+EDK/8KL8inDpMNsGQt7dsLJvD5k2MPsCm2iOZx+fzQ2rPvHeiy2qjN1ssigWUD3HXPMmjs5+cV2oBuJ17tTZAcDb43dktZt7uvHEESnYOmbdtgjwKY57PblyptsjxRt8zAYjAS9WTF51p1Vz1gWzF9pl3sviybyGG8rMkyAV5pn2Dwb+s/VJ1EIZLo4XdfJY0LY0Hc5iz/g2ILDJGg5b17d2lu/MDg3tunTuz/9l6zSIPbKU10X1mbj9vtoHqlNYiaAS1Fc5ua7d3DkIS5tQ69rAc9Zprq9jNMD9+JMdPFoupDcIl7pNS77DAgQHOYg0dc1FGXr9eOJMSYxn11MzTFRvjzkblGsafWz8e+Jmwe4ab3bwyd+grledbpF4U5ppEKg==;JVSbM55hBnXdFKZ+8l2+8w=="
 ---

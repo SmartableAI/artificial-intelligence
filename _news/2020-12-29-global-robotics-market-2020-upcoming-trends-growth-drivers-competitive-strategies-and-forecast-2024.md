@@ -43,6 +43,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Graviton2: AWS’s Answer to Generic Intel and NVIDIA Chips"
+    excerpt: "Amazon’s cloud arm AWS recently announced C6gn instance powered by Graviton2 at re:Invent 2020. Graviton chips are cheaper than most of NVIDIA and Intel chips."
+    publishedDateTime: 2020-12-30T17:56:00Z
+    webUrl: "https://www.analyticsinsight.net/graviton2-awss-answer-to-generic-intel-and-nvidia-chips/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AWS-Leans-on-Custom-Silicon-for-Processing-Advantage.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "MEsmbBEObLPomlP1Gw0l49M24MAsl44yPUO0ZSiN4vRpfYufx0Mh7TQe8RtqicUpkXI74goMyH6JhNjSuSNgPRSEx9E7eXVEyrqAgQDwo297Yt9gsuqzwTbO+kjkTjf2d1LKNemuvT7C1L5TZZ8m07mlvr3RQOuvrC4AWGVbX2/aTXKNzcNJ6kVHcudVWAhmop5vf0RYLq2kyR6mTRG/pFB5Bb9LeMqB4KHOMsRit4dsQYlwstwhDNLG2uaOyq/OtdzVKUOMaAmnpeRn0TZx+QNc4zNVYsh+hCHE43ha6Z1DZSK6gG/tRbpNUuE/4rIicmrrEcM52Cl48LB3abe1aiGwTiiBoJHnEIRcZB83EXpaIS5kWk/2S0eaN1goVtI6aLI0TdlBVr0GyMA0dO2QAPZEquD7zH3fWG3DScpA+RuSWvmh6Xd1FuuqPFCkgztRwR2XkO8ERS/JYQggfzfcpQQfcg++wsjdp92McthhWfCYQQ2cWEjuTzoigoNb8rYz3I80e2fJ9H1pIrg5XzIyMg==;jOGNx8ZrxydQ1sGeZKcmcQ=="
 ---
