@@ -1,27 +1,30 @@
 ---
 category: news
-title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
-excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
-publishedDateTime: 2020-12-29T12:13:00Z
-originalUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
-webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
+title: "Artificial Intelligence Market 2020 Share, Trends, Size, Top Manufacturers, Growth opportunities and Forecast to 2025"
+excerpt: "Market Overview The Artificial Intelligence Market in Sports market is expected to grow at a CAGR of 28.72% based on the growing use of technology in most well developed sports, further with the falling prices of these services due to economies of scale they are expected to be used at University and Junior Levels of various sports along with the widening applications of the technology as it evolves every year."
+publishedDateTime: 2020-12-30T19:10:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
-    width: 1000
-    height: 667
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -48,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market 2020 Share, Trends, Size, Top Manufacturers, Growth opportunities and Forecast to 2025"
-    excerpt: "Market Overview The Artificial Intelligence Market in Sports market is expected to grow at a CAGR of 28.72% based on the growing use of technology in most well developed sports, further with the falling prices of these services due to economies of scale they are expected to be used at University and Junior Levels of various sports along with the widening applications of the technology as it evolves every year."
-    publishedDateTime: 2020-12-30T19:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,6 +83,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
+    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
+    publishedDateTime: 2020-12-29T12:13:00Z
+    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Global AI Adaptive Radio Intelligence Market 2020 Research Report With COVID-19 Update - Key Players Analysis, Growth Factors and Forecast to 2025"
     excerpt: "Global AI Adaptive Radio Intelligence Market Growth (Status and Outlook) 2020-2025 interprets market overview, value chain structure, industrial environment, regional analysis, applications, market size,"
@@ -132,6 +135,6 @@ related:
       domain: benzinga.com
     quality: 18
 
-secured: "5Bgkigwafjh50IhoqorkulYowLgP43lcu233ZuIvqcPMzHcg4+SLelHCqFIU2tq5AqeMlA/gcmG6FBClhszqNkRy6dfUCe2oIOJgTEspXhpga//z6iScKNyAtuBNDq5RrWKuuLTZOHSKnO4a7YHUgcvI3LQMrAATlQba4Km1EQR2KsW+WoAXc0uu4+s8+wnONnKUFg9M/yYa11DGAUFy39zsIT/+1gbStsbIjMtsb2LpeXJXAwBZ9QIPI6OAvASJ/0dZhAivQKit0bDD8vA+HtE3VwbMWDT/Iy9O7ZAWWkWE4fFkAQdDu9/FmMzpKjb4w/G8j+yP+H+M8BkHMWVO54xM79PsXuSX4BDJGG68j9tbMeHPjX8ggy20jHRQ9B/xUtxIP80xtDuplpgitXmk/IDKGY1pK0lyJGCKNEMjmtY0/vrLmGQRuwbLoztMulDJDpDAoUKRdeC2qNmMl69iPrZ0aCIMeoB4O2iNuT92sLc7Bu9PLDT5qijs5grr+5INZICJihzdehaBgS3/o1E37w==;wu2RumI/XNfswxQKLYCtTA=="
+secured: "y5U+1CAV23WSdKucl4FH5Qbxl32zdFPk4lIb3MfTh0RWtaExw27DPifaVB4yzdZnyGi7m9fuJbmPVAMsg6MCczh9C41EPDH/Gr1hqQU9PFXmnKWBlFns5OgYGzc5NpAEr6U+WrHRujT4MT+jIjGM6mI05H7ERP7UG4PtaGT2tTB5HPGSWrqRoPS0tMQNaScAA9SzatQvskaHtaBqI/lMYi/yrbUJfJdO51/PfVVGDifl6y45XcjmUOaNHDYHKvamh73zsuAKJuFicOUkbzwvouuJyK0M3cMpq081RSa1r361CZ7mmVmWiGWPzZQmt6q2148rMMPY4Pqjk9dT6xd7hloGhU9GdkY1oOLVkzB0r+I=;aIyY4ELAP5NwmK+egotVpw=="
 ---
 

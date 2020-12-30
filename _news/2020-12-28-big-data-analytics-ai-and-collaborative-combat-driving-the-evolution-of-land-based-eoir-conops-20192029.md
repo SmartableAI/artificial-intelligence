@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2020 Share, Trends, Size, Top Manufacturers, Growth opportunities and Forecast to 2025"
+    excerpt: "Market Overview The Artificial Intelligence Market in Sports market is expected to grow at a CAGR of 28.72% based on the growing use of technology in most well developed sports, further with the falling prices of these services due to economies of scale they are expected to be used at University and Junior Levels of various sports along with the widening applications of the technology as it evolves every year."
+    publishedDateTime: 2020-12-30T19:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Graphics Processing Unit (GPU) Market 2020 Analysis By Industry Growth, Size, Share, Demand and Current Trends Analysis 2025"
     excerpt: "Market Overview The Graphics Processing Unit (GPU) market was valued at USD 20.62 billion in 2019 and is expected to reach USD 104.71 billion by 2025, at a CAGR of 31.1% over the forecast period 2020 - 2025."
     publishedDateTime: 2020-12-30T18:27:00Z

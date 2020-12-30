@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-automation-ma
 webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
 type: article
 quality: 62
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market 2020 Share, Trends, Size, Top Manufacturers, Growth opportunities and Forecast to 2025"
+    excerpt: "Market Overview The Artificial Intelligence Market in Sports market is expected to grow at a CAGR of 28.72% based on the growing use of technology in most well developed sports, further with the falling prices of these services due to economies of scale they are expected to be used at University and Junior Levels of various sports along with the widening applications of the technology as it evolves every year."
+    publishedDateTime: 2020-12-30T19:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

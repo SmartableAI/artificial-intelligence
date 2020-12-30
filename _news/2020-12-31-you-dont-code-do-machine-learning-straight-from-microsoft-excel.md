@@ -3,13 +3,13 @@ category: news
 title: "You don’t code? Do machine learning straight from Microsoft Excel"
 excerpt: "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes."
 publishedDateTime: 2020-12-30T18:01:00Z
-originalUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/"
-webUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/"
+originalUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco"
+webUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco"
 ampWebUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
 type: article
-quality: 123
-heat: 143
+quality: 121
+heat: 141
 published: true
 
 provider:
@@ -21,10 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - Microsoft AI
   - AI
   - Machine Learning
-  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all"
@@ -62,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/3KTViNGMWZxPdvMaW+NrD+CBrOg+PWClNpOcyYOzkdX5NNOAzqPR+Q8tkb4fA7mFW0Jd8WchzTGvgBRZBSGJvVuq3wYQ562q4JwI6rpqxlmVny7D4PvnuyX3UqxGp+gPdBPgIsvuM57sfQZ/EpxeHtiTDgt6uaosmPE42hBSk09jLpUCwka0BLorMR5iqMMnfbe0S5a4aed6fDe+/p7LBWi6u+2Yssn15y3RamZbI/bTwzHpDT3uVzGFpIDpGN8c/Lp2XecdRkZXKQB3uHwbWXk4U4jcjFL0QGgZFF7TsuCY9cIdz1kIWS9KPx8NxPuE3JwppF8SJ1NgV66ukx/squc3Xx8mJP2xpKn5sha+S0=;x4T/Imb0Cy6BHR+DLjVYYg=="
+secured: "Ok5cL0H2AsOF9FMbfLGZV9brmDDs19hv5lrZvTEwCn/Sa2M0q2w77kBRxJgk1M2e2/exBAP0nUzNNRVM+AJVub8DhE0zPH+Hhp8IfwJ8tvLNcd4J1RroGaaS2QvJT+Iv05mEsheKkdW2wJjwFvP85ze4qHyPDnRFWP2U4esCg6egz6tJKRn/6h7c33MLz9HGrOA1bK1O3OxJeq0qWC+K8dhzXKrPIHbfzpPknZ6CkJa4VKw1iKgx9NjsWsMQfdEvxh2qjsQvlDuVgIu+e314naGzAd8UK526+rRSyicymXNmYVAaa/UiOc4z4XddLToVlm6Ry0S8dU90UoM0Utdyat1E5nbSQkqdyKTPkY09JbU=;S9MtnYZoJwGQWDl/HN40+A=="
 ---
 

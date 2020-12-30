@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-11-17-prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction.md",
+      "title": "Prima-Temp Awarded Groundbreaking Patent Using Artificial Intelligence For Ovulation Prediction",
+      "excerpt": "Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its innovative approach to applying artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/bd/fbd33205-c737-534d-9316-43c1cf334291/5fb3fbadcc28c.image.jpg?resize=400%2C222",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-ai-can-help-organizations-to-slash-16-greenhouse-gas-emission-in-next-3-5-yrs-report.md",
       "title": "AI Can Help Organizations To Slash 16% GreenHouse Gas Emission In Next 3-5 Yrs: Report",
       "excerpt": "According to the survey, around 48 per cent of the organizations surveyed are using AI for climate action and have witnessed drop in greenhouse gas emission",
@@ -1114,57 +1157,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-ai-decision-automation-where-it-works-and-where-it-doesnt.md",
-      "title": "AI decision automation: Where it works, and where it doesn't",
-      "excerpt": "Some companies are using AI for end-to-end decision-making, but not all decisions can be made without human intervention. Here are some real-world cases. As artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-decision-automation-where-it-works-and-where-it-doesnt/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-decision-automation-where-it-works-and-where-it-doesnt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/17/ef2d24f5-d94d-4419-b3a6-d0409ade6e70/resize/1200x/b1f36729c5a29c4533e53d420729de85/istock-1245973664.jpg",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-decision-automation-where-it-works-and-where-it-doesnt/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-decision-automation-where-it-works-and-where-it-doesnt/",
-      "publishedDateTime": "2020-11-17T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

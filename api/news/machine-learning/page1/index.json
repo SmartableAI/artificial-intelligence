@@ -6,11 +6,11 @@
       "title": "You don’t code? Do machine learning straight from Microsoft Excel",
       "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
-      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -49,10 +49,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1024,49 +1023,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-18-machine-learning-boosts-the-search-for-superhard-materials.md",
-      "title": "Machine learning boosts the search for 'superhard' materials",
-      "excerpt": "Superhard materials are in high demand in industry, from energy production to aerospace, but finding suitable new materials has largely been a matter of trial and error based on classical materials such as diamonds.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.html",
-      "originalUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/68-machinelearn.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-boosts-superhard-materials.amp",
-      "publishedDateTime": "2020-12-17T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor.md",
       "title": "Monitoring in-production ML models at large scale using Amazon SageMaker Model Monitor",
       "excerpt": "Machine learning (ML) models are impacting business decisions of organizations around the globe, from retail and financial services to autonomous vehicles and space exploration. For these organizations, training and deploying ML models into production is only one step towards achieving business goals.",
@@ -1117,6 +1073,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-machine-learning-boosts-the-search-for-superhard-materials.md",
+      "title": "Machine learning boosts the search for 'superhard' materials",
+      "excerpt": "Superhard materials are in high demand in industry, from energy production to aerospace, but finding suitable new materials has largely been a matter of trial and error based on classical materials such as diamonds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/uoh-mlb121720.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/uoh-mlb121720.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/251976_web.jpg",
+          "width": 650,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1268,6 +1267,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-deep-learning-model-development-for-visual-inspection-system-in-manufacturing.md",
+      "title": "Deep Learning Model Development for Visual Inspection System in Manufacturing",
+      "excerpt": "This article by Sergey Maximenko, Data Science engineer at MobiDev examines how to develop visual inspection software for manufacturing via building deep learning-based algorithms and training. Learn what questions you should ask before choosing a deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://jaxenter.com/deep-learning-inspection-173178.html",
+      "originalUrl": "https://jaxenter.com/deep-learning-inspection-173178.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/09/shutterstock_1096141913.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T12:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-advancing-education-and-speech-recognition-in-nigeria-with-ai-and-machine-learning.md",
       "title": "Advancing education and speech recognition in Nigeria with AI and machine learning",
       "excerpt": "As part of our participation in the ITU Focus Group on Machine Learning for Future Networks including 5G (FG‑ML5G), in March 2019, our WINEST",
@@ -1414,50 +1456,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-how-insurers-can-use-deep-learning-to-boost-performance-marketing.md",
-      "title": "How insurers can use deep learning to boost performance marketing",
-      "excerpt": "With deep learning, insurance companies can drive down the costs of customer acquisition while improving the effectiveness of their advertising, enabling them to win away more new customers in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/",
-      "originalUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/12/Data-analytics-Rawpixels-Shutterstock.jpg",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/?amp=1",
-      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/?amp=1",
-      "publishedDateTime": "2020-12-16T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PropertyCasualty360",
-        "domain": "propertycasualty360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

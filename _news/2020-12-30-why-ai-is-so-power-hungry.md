@@ -29,14 +29,14 @@ images:
 
 related:
   - title: "Why AI is so power-hungry"
-    excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
-    publishedDateTime: 2020-12-29T12:43:00Z
-    webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
+    excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
+    publishedDateTime: 2020-12-29T12:38:00Z
+    webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 71
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg"
         width: 760
