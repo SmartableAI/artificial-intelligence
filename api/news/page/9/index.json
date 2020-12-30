@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-18-machine-learning-boosts-the-search-for-superhard-materials.md",
+      "title": "Machine learning boosts the search for 'superhard' materials",
+      "excerpt": "Superhard materials are in high demand in industry, from energy production to aerospace, but finding suitable new materials has largely been a matter of trial and error based on classical materials such as diamonds.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.html",
+      "originalUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/68-machinelearn.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-boosts-superhard-materials.amp",
+      "publishedDateTime": "2020-12-17T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-amazon-aws-ramps-new-hardware-for-ai.md",
       "title": "Amazon AWS Ramps New Hardware For AI",
       "excerpt": "Amazon continues to build its AI software stack, adding over 200 new features every year for the last three years. Amazon SageMaker Studio makes AI as easy as point and click, reducing the need for in-depth AI expertise.",
@@ -736,8 +779,8 @@
       "title": "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now",
       "excerpt": "Answer: Emergence of AI (Artificial Intelligence ... across several healthcare facilities are propelling the growth of global IBM Watson services market. Answer: Key participants of global ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
+      "webUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1161,49 +1204,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
-      "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
-      "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "originalUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "publishedDateTime": "2020-12-16T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

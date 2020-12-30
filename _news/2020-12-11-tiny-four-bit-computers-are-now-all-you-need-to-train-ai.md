@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://lh5.googleusercontent.com/zQLYOIjEH08BXrs2j4Ii8uG8JzjDPjzeKSI7PAIWs553o4-qOXf2dWp9s2RRO4bAV0xu9qiJA_wMRBohAUYAC1VWtCmLVAZBYvrz7GMKmrp34ycLbND7_bHyKT-ru3ZG1UTjbAOx"

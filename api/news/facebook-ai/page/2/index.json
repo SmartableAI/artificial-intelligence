@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-30-nvidia-launches-monai-framework-to-speed-up-ai-healthcare-training.md",
+      "title": "Nvidia launches Monai framework to speed up AI healthcare training",
+      "excerpt": "Nvidia Corp. is stepping up its efforts in healthcare with today’s launch of its Medical Open Network for AI, or Monai, an open-source framework that’s used to train artificial intelligence-powered models for medical imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
+      "originalUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/image_2020-11-30_085231.png",
+          "width": 1132,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-abu-dhabis-ai-university-appoints-academic-eric-xing-as-president.md",
       "title": "Abu Dhabi’s AI university appoints academic Eric Xing as president",
       "excerpt": "Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence (MBZUAI ... and a visiting research professor at Facebook. He has authored or contributed to more than 370 research papers ...",
@@ -1383,49 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-crime-location-forecasting-is-it-entrapment.md",
-      "title": "Crime Location Forecasting: Is It Entrapment?",
-      "excerpt": "This, combined with the technological advances in media platforms like Facebook and Twitter which use Artificial Intelligence ... Zaia is also a Junior Research Analyst for the Canada Centre ...",
-      "sourceUrl": null,
-      "webUrl": "https://thecrimereport.org/2020/11/06/crime-location-forecasting-is-it-entrapment/",
-      "originalUrl": "https://thecrimereport.org/2020/11/06/crime-location-forecasting-is-it-entrapment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thecrimereport.org/wp-content/uploads/2020/11/surveillance-by-gulgulas-e1604672112758.jpg",
-          "width": 720,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thecrimereport.org",
-        "domain": "thecrimereport.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

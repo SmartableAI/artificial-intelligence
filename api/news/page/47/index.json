@@ -2,6 +2,109 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-11-20-fireeye-acquires-respond-software-for-186m-announces-400m-investment.md",
+      "title": "FireEye acquires Respond Software for $186M, announces $400M investment",
+      "excerpt": "The security sector is ever frothy and acquisitive. Just last week Palo Alto Networks grabbed Expanse for $800 million. Today it was FireEye’s turn, snagging Respond Software, a company that helps customers investigate and understand security incidents,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
+      "originalUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1175886963.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
+      "publishedDateTime": "2020-11-19T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento.md",
+      "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
+      "excerpt": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg",
+          "width": 727,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T15:26:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-let-your-robots-off-the-leash-or-lose-ai-experts.md",
       "title": "Let Your Robots Off The Leash – Or Lose: AI Experts",
       "excerpt": "Army experiments, soldiers tried to micromanage their drones and ground robots, slowing their reaction times and restricting their tactics. Can AIs earn troops’ trust?",
@@ -1130,74 +1233,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-speechmatics-any-context-speech-recognition-engine-launches-on-genesys-appfoundry.md",
-      "title": "Speechmatics’ any-context speech recognition engine launches on Genesys AppFoundry",
-      "excerpt": "Speechmatics announced its any-context speech recognition engine is now available on the Genesys® AppFoundry, the industry’s largest dedicated marketplace focused on customer experience solutions. Through mission-critical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/speechmatics’-any-context-speech-recognition-engine-launches-genesys-appfoundry",
-      "originalUrl": "https://www.cambridgenetwork.co.uk/news/speechmatics’-any-context-speech-recognition-engine-launches-genesys-appfoundry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-focuses-on-ai-cloud-announces-instana-acquisition.md",
-      "title": "IBM Focuses on AI & Cloud, Announces Instana Acquisition",
-      "excerpt": "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp",
-      "publishedDateTime": "2020-11-19T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/04/tech-16.jpg"
         width: 1000
         height: 624
+        isCached: true
+  - title: "Here are 6 of the top performing ASX fintech shares of 2020"
+    excerpt: "Some of the top performing ASX fintech shares in 2020 are buy now, pay later providers such as Afterpay and Sezzle. We take a closer look."
+    publishedDateTime: 2020-12-30T02:16:00Z
+    webUrl: "https://www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/"
+    ampWebUrl: "https://www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/amp/"
+    cdnAmpWebUrl: "https://www-fool-com-au.cdn.ampproject.org/c/s/www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/amp/"
+    type: article
+    provider:
+      name: Motley Fool Australia
+      domain: fool.com.au
+    quality: 44
+    images:
+      - url: "https://www.fool.com.au/wp-content/uploads/2020/12/best-fintech-asx-shares.jpg"
+        width: 2121
+        height: 1193
         isCached: true
   - title: "Blog: The 2021 BFSI workforce needs an upgrade of fintech"
     excerpt: "The need for skill upgrades in the tech space gets intensified in light of the possibility that failing to bridge the skill gap can make BFSI companies suffer from a shortage of tech-efficient mid-car"

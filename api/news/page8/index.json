@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-19-ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says.md",
+      "title": "AI, ML can bolster cybersecurity, and vice versa, professor says",
+      "excerpt": "Howard University professor talks about his research in emerging technologies.  The following is an edited transcript of their conversation. Karen Roby: I know that your, your focus a lot is on AI, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/d761e067-abc3-4f1b-9710-d5d0353ba5c6/thumbnail/1200x675/f4905e10df5b7ab57ac881b8a88de52a/20201215-howarduni-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "publishedDateTime": "2020-12-18T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-us-plans-major-expansion-of-facial-recognition-authority-at-airports.md",
       "title": "US plans major expansion of facial recognition authority at airports",
       "excerpt": "US Customs and Border Protection has filed for a significant expansion in its authority to conduct facial recognition at airports. On November 19th, the agency submitted a filing to the Federal Register seeking to expand the ongoing biometric exit program,",
@@ -1143,49 +1195,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-machine-learning-boosts-the-search-for-superhard-materials.md",
-      "title": "Machine learning boosts the search for 'superhard' materials",
-      "excerpt": "Superhard materials are in high demand in industry, from energy production to aerospace, but finding suitable new materials has largely been a matter of trial and error based on classical materials such as diamonds.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.html",
-      "originalUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/68-machinelearn.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-12-machine-boosts-superhard-materials.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-boosts-superhard-materials.amp",
-      "publishedDateTime": "2020-12-17T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

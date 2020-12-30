@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 624
         isCached: true
+  - title: "Here are 6 of the top performing ASX fintech shares of 2020"
+    excerpt: "Some of the top performing ASX fintech shares in 2020 are buy now, pay later providers such as Afterpay and Sezzle. We take a closer look."
+    publishedDateTime: 2020-12-30T02:16:00Z
+    webUrl: "https://www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/"
+    ampWebUrl: "https://www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/amp/"
+    cdnAmpWebUrl: "https://www-fool-com-au.cdn.ampproject.org/c/s/www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/amp/"
+    type: article
+    provider:
+      name: Motley Fool Australia
+      domain: fool.com.au
+    quality: 44
+    images:
+      - url: "https://www.fool.com.au/wp-content/uploads/2020/12/best-fintech-asx-shares.jpg"
+        width: 2121
+        height: 1193
+        isCached: true
   - title: "The Top Trends In The Fintech Sector In 2021"
     excerpt: "Fintech has made normal users fall in love with the ease and convenience of banking and finance. The sector is set up for a major uplift in 2021 and we are going to help you know more in this regard."
     publishedDateTime: 2020-12-29T17:55:00Z
@@ -102,6 +118,6 @@ related:
         height: 600
         isCached: true
 
-secured: "eXsVxKZgNMGSfospedyex6RKuz3gbHWyMuuh3BnyWcNTY8gKFqZQwbD1BDEVq4JDubWeMHnNLGodG6iB38Zg8v+1jyZGLjnzDO+BhAiQwPTsGBQcGfEm9FJFGoEyHADAgPUZwaSwGIIPy++FBF8CESuT2Z2IwVhLm3p8pHywDOIPr2fxSE3Y7WdgnSoCQ0/sF/RVx7ml4F8FCk0PNJgEdzSfxeCeWTE9rwzaafg2G9n2p8fl8Y5zDQaDvPcn/iWNjCIebVRchkHdfO3el93DDZwIsBahsjlf3ajd/frnhX4YmsehTJr6qCnxhYTHo+qVqdCca8R4QGXQSK6yLJ8TCZ4GHr4PgKeQTQ24Vx3sa00=;ztiYq9P7UVZVNDrYioviAQ=="
+secured: "37Qduly7mooLV1d2t/FL6QWihW7nNSbhlnv3yoqedU3CdvsBqLMjCdwqap2ZjlzDRbzZIZ1nOTIrL/f1mjsGAObhZJArSZ22TcJTRgJPavO4kpO1nxB659zH3Tqd1pyHpGMc/m5qZpm0ro9JpbEBaGYPK5Br09IIqDMP53ch6fQ9Q99civP/lmPqcNcVoe97uOCqhQ9dkCA75eXV6rzTKRY6ClqFvZI6bR2guXZaZ2xCUjPRWExsh/l+djkAyxVOS2+lHxXgFx4G7XDw954oeC5pc3dIBGj8Ywpwx/79ifoLMOcIi4F5OAEGZqIFe690Hh4x/1kA0vIBfdq0Hjx8DqomZRqVbBPwr2DBAuijOgwIYijjqgz06UBvOC6osJNEcL2Gf/0dYXqdOMOxX8Y1010T+86I9Cr/NDN9jrgIfszAJEx8U7Id4evqSQA53m9t62XQJbf5cstFqxGW61H/i/NwkaxVbCxmdJ2GRdDuai/VKrF3fo/robsudrPD+QvG0d2j2I4QtHqcYD4c9O0q/w==;QSNXZMYIVn3/7h7bGTlr5w=="
 ---
 

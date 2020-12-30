@@ -2,6 +2,83 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-11-05-live-out-your-inner-animist-with-animatronic-cat-ears.md",
+      "title": "Live Out Your Inner Animist With Animatronic Cat Ears",
+      "excerpt": "While having a great white shark as your spirit animal may sound cool, we’ve found walking around in public wearing a gigantic set of mechanical jaws to be a bit of a hindrance. [abetusk] doesn ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
+      "originalUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2012/02/cat-ears.jpg",
+          "width": 470,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-pluralsight-inc-class-a-common-stock-ps.md",
+      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
+      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-virtual-incision-goes-small-in-surgical-robotics-and-nabs-ide.md",
       "title": "Virtual Incision Goes Small in Surgical Robotics and Nabs IDE",
       "excerpt": "The Holland, MI-based company said the trial for its miniature surgical robotics platform is set to start in early 2021.",
@@ -1094,113 +1171,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-ocado-has-purchased-two-robotics-firms-to-take-on-amazon.md",
-      "title": "Ocado has purchased two robotics firms to take on Amazon",
-      "excerpt": "UK technology firm Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "originalUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vaU7MVKAUPe295qnhCXfZF-1200-80.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "publishedDateTime": "2020-11-04T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
-      "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos",
-        "Facebook AI"
       ]
     }
   ],

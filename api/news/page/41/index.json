@@ -2,6 +2,101 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-11-25-microsoft-sas-in-deal-to-provide-sas-cloud-on-azure-in-sydney.md",
+      "title": "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney",
+      "excerpt": "Clunies-Ross said in a statement: \"Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation. \"It represents a ...",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html",
+      "originalUrl": "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg",
+          "width": 375,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-ai-can-run-your-work-meetings-now.md",
+      "title": "AI Can Run Your Work Meetings Now",
+      "excerpt": "The idea behind Headroom, which was conceived pre-pandemic, is to improve on both the in-person and virtual problems with meetings, using AI. (Rabinovich used to head ... like interpreting body language from other people on-screen or figuring out if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
+      "originalUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/master/pass/business-ai-workplace-optimization-edit-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
+      "publishedDateTime": "2020-11-24T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-youtubes-new-ai-experiment-automatically-adds-chapters-to-videos.md",
       "title": "YouTube’s new AI experiment automatically adds chapters to videos",
       "excerpt": "The days of having to suffer through an overly long and cringe-worthy YouTube intro are nearly behind us. YouTube has announced a new test that is using machine learning to automatically apply",
@@ -1083,101 +1178,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-artificial-intelligence-could-put-milton-keynes-on-a-par-with-san-francisco-and-singapore.md",
-      "title": "Artificial intelligence could put Milton Keynes on a par with San Francisco and Singapore",
-      "excerpt": "MK has the world’s largest fleet of autonomous delivery robots and was the UK partner for a three-year trial of driverless autonomous vehicles. In the last year alone, Santander’s has begun its £150m investment into a new innovation centre in Central ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "originalUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.miltonkeynes.co.uk/webimg/T0FLMTI3MzE2ODA2.jpg",
-          "width": 532,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milton Keynes Citizen",
-        "domain": "miltonkeynes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-this-ai-chip-claims-to-mimic-the-human-brain.md",
-      "title": "This AI chip claims to mimic the human brain",
-      "excerpt": "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "originalUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CLZPLUtqihEEeJiUsPGteP-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "publishedDateTime": "2020-11-24T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

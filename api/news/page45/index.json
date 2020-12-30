@@ -2,6 +2,92 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-11-22-artificial-intelligence-and-cognitive-computing-market-predicted-to-witness-sustainable-evolution-in-future-microsoft-teradata-ibm-sas.md",
+      "title": "Artificial Intelligence and Cognitive Computing Market Predicted to Witness Sustainable Evolution in Future | Microsoft, Teradata, IBM, SAS",
+      "excerpt": "Global Artificial Intelligence and Cognitive Computing Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101161469/Artificial-Intelligence-and-Cognitive-Computing-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Teradata-IBM-SAS",
+      "originalUrl": "https://menafn.com/1101161469/Artificial-Intelligence-and-Cognitive-Computing-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Teradata-IBM-SAS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?985228",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-21T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024.md",
+      "title": "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024",
+      "excerpt": "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) Click & Get Free Sample Report in Minutes. The grow",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-21T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-a-neural-network-learns-when-it-should-not-be-trusted.md",
       "title": "A neural network learns when it should not be trusted",
       "excerpt": "Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety, such as in autonomous driving or medical diagnosis.",
@@ -1109,100 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
-      "title": "Houston implements facial recognition technology at airports",
-      "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "originalUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "publishedDateTime": "2020-11-20T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-can-artificial-intelligence-give-elephants-a-winning-edge.md",
-      "title": "Can artificial intelligence give elephants a winning edge?",
-      "excerpt": "With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/",
-      "originalUrl": "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/phone_test_cnn_xtY8Ns0DJl.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/amp/",
-      "publishedDateTime": "2020-11-20T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,100 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-01-whos-to-blame-when-a-self-driving-car-has-an-accident.md",
+      "title": "Who’s to blame when a self-driving car has an accident?",
+      "excerpt": "With self-driving cars gaining traction in today’s automobile landscape, the issue of legal liability in the case of an accident has become more relevant. Research in human-vehicle interaction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianmanufacturing.com/features/whos-to-blame-when-a-self-driving-car-has-an-accident/",
+      "originalUrl": "https://www.canadianmanufacturing.com/features/whos-to-blame-when-a-self-driving-car-has-an-accident/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2020/12/Autonomous-driving-Barcelona.jpg",
+          "width": 1424,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T06:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canadian Manufacturing",
+        "domain": "canadianmanufacturing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-tiger-global-backed-hospital-software-maker-olive-ai-reaches-15-billion-value.md",
+      "title": "Tiger Global-Backed Hospital Software Maker Olive AI Reaches $1.5 Billion Value",
+      "excerpt": "An Ohio startup that helps hospitals automate routine tasks is now valued at $1.5 billion after a funding round led by Tiger Global Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-01/hospital-software-maker-olive-ai-reaches-1-5-billion-value",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-01/hospital-software-maker-olive-ai-reaches-1-5-billion-value",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioyewwV5JPTo/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-google-releases-objectron-dataset-for-3d-object-recognition-ai.md",
       "title": "Google Releases Objectron Dataset for 3D Object Recognition AI",
       "excerpt": "Google Research announced the release of Objectron, a machine-learning dataset for 3D object recognition. The dataset contains 15k video segments and 4M images with ground-truth annotations, along with tools for using the data to train AI models.",
@@ -1051,92 +1145,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027.md",
-      "title": "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027",
-      "excerpt": "Dec 01, 2020 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC recently added a new title on 2020-2027 Global Computer Vision Market Report from its database. The report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-tag-aws-reinvent-2018.md",
-      "title": "Tag: AWS re:Invent 2018",
-      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
-      "originalUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },
