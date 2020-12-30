@@ -523,17 +523,17 @@
     {
       "path": "_news/2020-12-16-5-ways-ibm-predicts-ai-and-ad-tech-will-evolve-in-2021.md",
       "title": "5 Ways IBM Predicts AI and Ad Tech Will Evolve in 2021",
-      "excerpt": "With tech giants set to crack down on cookies and third-party trackers in the coming months, the ad-tech industry is in for some major changes. IBM Watson Advertising has bet that artificial ...",
+      "excerpt": "IBM Watson Advertising has bet that artificial intelligence and anonymized behavioral insights will play a central role in that post-cookie future. The company has rolled out a series of product releases this year that aimed to lessen marketers’ reliance on personal data.",
       "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/ibm-predictions-artificial-intelligence-ad-tech-2021/",
-      "originalUrl": "https://www.adweek.com/digital/ibm-predictions-artificial-intelligence-ad-tech-2021/",
+      "webUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/",
+      "originalUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/12/Acquia_WP_122920_HP-640x360.jpg",
+          "url": "https://www.adweek.com/wp-content/uploads/2020/12/Acquia_Brandshare_123020_HP-640x360.png",
           "width": 640,
           "height": 360,
           "title": null,
@@ -543,8 +543,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
+      "ampWebUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
       "publishedDateTime": "2020-12-15T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {

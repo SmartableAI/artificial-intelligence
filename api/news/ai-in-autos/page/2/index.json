@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-17-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "Exclusive-China search giant Baidu considers making own electric vehicles -sources",
+      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/baidu-auto-exclusive-idUKKBN28P165",
+      "originalUrl": "https://uk.reuters.com/article/baidu-auto-exclusive-idUKKBN28P165",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2",
+      "publishedDateTime": "2020-12-16T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
       "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
       "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
@@ -741,21 +793,30 @@
     },
     {
       "path": "_news/2020-12-15-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
-      "title": "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources",
-      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "title": "Exclusive: China search giant Baidu considers making own electric vehicles - sources",
+      "excerpt": "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with knowledge of the matter, the latest move in a race among tech firms to develop smart cars.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
-      "originalUrl": "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR",
+      "webUrl": "https://www.reuters.com/article/us-baidu-auto-exclusive-idUKKBN28P0F2",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-auto-exclusive-idUKKBN28P0F2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2IR1UR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2IR1UR",
-      "publishedDateTime": "2020-12-14T21:36:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28P0F2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P0F2",
+      "publishedDateTime": "2020-12-15T02:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1369,49 +1430,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-the-apple-car-is-now-officially-an-artificial-intelligence-project.md",
-      "title": "The Apple Car Is Now Officially an Artificial Intelligence Project",
-      "excerpt": "This fall has seen a fantastic array of new products from Apple, ranging from new Apple Watches and iPads to the 5G iPhone 12 lineup to the insanely",
-      "sourceUrl": null,
-      "webUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
-      "originalUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/10/19102529/Apple-Concept-Car-2.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
-      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
-      "publishedDateTime": "2020-12-09T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iDrop News",
-        "domain": "idropnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

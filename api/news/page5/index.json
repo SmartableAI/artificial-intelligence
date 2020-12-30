@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-23-tiktok-parent-bytedance-hiring-for-ai-drug-discovery-team.md",
+      "title": "TikTok parent ByteDance hiring for AI drug discovery team",
+      "excerpt": "ByteDance, TikTok’s Chinese parent company, is entering the health industry as it seeks to diversify a business dependent on advertising and livestreaming sales. The company, which prides itself on content algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
+      "originalUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/06/33602814_7750651a44_o-e1608724710523.jpg?w=800",
+          "width": 800,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
+      "publishedDateTime": "2020-12-23T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas.md",
+      "title": "AI-driven energy startup Octopus hits $2Bn mark after $200M investment from Tokyo Gas",
+      "excerpt": "Octopus will now launch as a brand in Japan with its trademark 100% renewable electricity operation which uses an innovative AI and data-based platform to balance loads around the grid.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/",
+      "originalUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/octopus-energy-Jackson.jpg?w=650",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/amp/",
+      "publishedDateTime": "2020-12-23T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-the-how-bad-is-your-spotify-ai-is-here-to-judge-taste-in-music.md",
       "title": "The 'How Bad Is Your Spotify' AI Is Here to Judge Taste in Music",
       "excerpt": "Look no further than the \"How Bad Is Your Spotify\" app that will cruelly rag on your taste in music. The A.I., created by digital culture publication The Pudding, is akin to a meaner, less thorough yet still fun version of Spotify's popular Wrapped function,",
@@ -1115,100 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-the-newest-weapon-against-covid-19-ai-that-speed-reads-faxes.md",
-      "title": "The Newest Weapon Against Covid-19: AI That Speed-Reads Faxes",
-      "excerpt": "Local health departments rely on the old-fangled tech to track cases. A hastily developed machine-learning program gives it an assist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/",
-      "originalUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fe125e4fe6cb52eb1cc8aec/master/pass/Business-AI-Fax-Machines-Covid-153151104.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp",
-      "publishedDateTime": "2020-12-22T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-is-that-aibo-a-good-dog-sony-to-review-ethics-of-all-ai-products.md",
-      "title": "Is that Aibo a good dog? Sony to review ethics of all AI products",
-      "excerpt": "But even as it increases convenience, AI could unintentionally employ discriminatory algorithms, leading to embarrassing problems. Sony will start screening its AI-infused products for ethical risks as early as spring,",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
-      "originalUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F3%252F1%252F31381362-3-eng-GB%252FCropped-1608663127AIBO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Why AI is so power-hungry"
-excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
-publishedDateTime: 2020-12-29T12:38:00Z
-originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
-webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
+excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
+publishedDateTime: 2020-12-29T12:43:00Z
+originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
+webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
 type: article
 quality: 69
 heat: 79
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Ethics
   - AI
 
 images:
@@ -44,6 +44,6 @@ related:
         height: 380
         isCached: true
 
-secured: "+3uIqrutACqLrZWc4/eYxf/Gf/dfcOaFqMoenPe2eH/XYC9NfO5pldDUjkz82CwWPucZEVf7DnIpcfClmfZ1inu25bJKEZOZnWTV8iC+ms5rzoDWtpONs1pJ10/vNQrZC7upUbP+KD29YHZ9Qr1c8dn59tdTP1vCjwKzLQElXtzrR4vHvYW8FDs/MyFsbrsJ5XMKV+6Xrsg+dEZ98y9d5jjVvBlucZ/DnNZxDISEkNkxo/U745Ii6AnypBgRZKEPxsA69BMzLS5RYBemAfVmSWKUB+tPSIRMY1rdRcb1Vnzocjxvfu9zTXoESdHZubGVYN3/TIxlIp7pqztR3cj4XDZHw/skqJETB4jsrkUDba4=;VXq3liAjRkAnnQbg8bmPEw=="
+secured: "Ioz5YfXKM9/yVoTxYLNFiPtwqKHaZCyXmxpYhg+INfLkkE/QWkA0xQ+Rbdudlm1dVes/wCRct1FwI1eJWBLNfcdI8T76Xtgr297YXJokYwPGBr5ZNE2fiieoB/jmhohQAOMRSh+KTC+OqzzbNGlrKtP1K+pqQnoXktKoAfKgE/CPbv5FLRU66hYAuOZbnsM1iBB/oiNwA+qGXSmJXQfmfXR+Kql8a3wdOQ2A88lpE3uqBqjRjMzqUPBqsQIKQv77DBZNoOMwuXx3b127usGGY4WdyJlk8p4e/ljSJHG4KuogrGeb9bBoili4B7jkhft1tJ9RtiVN8HDT3QOSWj/YPU0fVvSxfNLR3EDh/KBazPM=;8aoMKisQHnD2fv19UW9toA=="
 ---
 

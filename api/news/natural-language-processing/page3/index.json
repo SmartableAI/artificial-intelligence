@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-02-servicenows-ai-chief-on-solving-the-last-mile-problem-for-enterprise-ai.md",
-      "title": "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI",
-      "excerpt": "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
-      "originalUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud.md",
       "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
       "excerpt": "(Reuters) - Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the ...",
@@ -1422,6 +1388,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
+      "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
+      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai.md",
+      "title": "Humans Are Still Needed In An AI World: How Your Business Can Best Leverage AI",
+      "excerpt": "With all of these technological advancements attempting to make our daily lives easier, how do these advances specifically affect business leaders and how will this technology shape the way they do business?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb37cc8aac85841b727e82%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "publishedDateTime": "2020-12-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai.md",
+      "title": "The 2021 Enterprise Network: Retiring The Branch, Fueling Transformation And Getting More From AI",
+      "excerpt": "As we turn past events into predictions, the pandemic continues to dominate our thoughts. IT priorities will be about learning from 2020 and adapting to whatever the new year brings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
+      "publishedDateTime": "2020-12-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-new-world-of-ai-based-adaptive-education.md",
       "title": "The New World Of AI-Based Adaptive Education",
       "excerpt": "AI technologies are now all around us, influencing every aspect of our lives and changing the world in the process",
@@ -770,10 +872,10 @@
     {
       "path": "_news/2020-12-29-why-ai-is-so-power-hungry.md",
       "title": "Why AI is so power-hungry",
-      "excerpt": "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?",
+      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
-      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
+      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -792,7 +894,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T04:38:00-08:00",
+      "publishedDateTime": "2020-12-29T04:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -815,7 +917,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1103,108 +1205,6 @@
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business.md",
-      "title": "Artificial Intelligence Is Great For Day-To-Day Stuff, But It Can’t Build A Business",
-      "excerpt": "AI can't build a business the way humans can. getty. Let’s face it, artificial intelligence is probably one of the best management tools to come along since the first commercial",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1efdc398efe2f56e500e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "publishedDateTime": "2020-12-28T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-china-increases-foreign-investment-list-by-10-per-cent-including-ai-semiconductors-and-5g.md",
-      "title": "China increases foreign investment list by 10 per cent including AI, semiconductors and 5G",
-      "excerpt": "A total of 127 areas have been added to the list of industries in which China will seek to encourage foreign investment, taking the total to 1,235 from 1,108.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/29/05f3ef50-497c-11eb-9c55-93e83087d811_image_hires_102432.jpg?itok=aEnRbrmo&v=1609208682",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "publishedDateTime": "2020-12-28T18:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

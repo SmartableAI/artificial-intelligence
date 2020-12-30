@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-29-artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business.md",
+      "title": "Artificial Intelligence Is Great For Day-To-Day Stuff, But It Can’t Build A Business",
+      "excerpt": "AI can't build a business the way humans can. getty. Let’s face it, artificial intelligence is probably one of the best management tools to come along since the first commercial",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1efdc398efe2f56e500e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
+      "publishedDateTime": "2020-12-28T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-china-increases-foreign-investment-list-by-10-per-cent-including-ai-semiconductors-and-5g.md",
+      "title": "China increases foreign investment list by 10 per cent including AI, semiconductors and 5G",
+      "excerpt": "A total of 127 areas have been added to the list of industries in which China will seek to encourage foreign investment, taking the total to 1,235 from 1,108.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/29/05f3ef50-497c-11eb-9c55-93e83087d811_image_hires_102432.jpg?itok=aEnRbrmo&v=1609208682",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "publishedDateTime": "2020-12-28T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-ai-jobs-in-2021-here-are-some-key-trends.md",
       "title": "AI jobs in 2021: here are some key trends",
       "excerpt": "Artificial Intelligence has been a bit of a buzzword this year. Artificial intelligence has been established as the main driver of emerging technologies such as big data, robotics, and the IoT. So, what do the next 12 months look like for AI?",
@@ -1149,92 +1251,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19.md",
-      "title": "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19",
-      "excerpt": "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/12/27/600x338/Screenshot_(85)_1609068071742_1609068081441.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
-      "publishedDateTime": "2020-12-27T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-5-reasons-why-ai-could-be-the-future-of-finance.md",
-      "title": "5 reasons why AI could be the future of finance",
-      "excerpt": "The role of the Chief Financial Officer (CFO) has expanded beyond the traditional gatekeeper to financial resources, chief accounting officer and head recordkeeper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-could-be-the-future-of-finance-1141847",
-      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-could-be-the-future-of-finance-1141847",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ghanaweb.com/imagelib/pics/806/80627721.jpg",
-          "width": 480,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T03:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ghanaweb.com",
-        "domain": "ghanaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
