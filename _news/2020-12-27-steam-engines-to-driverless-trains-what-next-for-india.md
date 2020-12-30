@@ -41,6 +41,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "The Top 10 Patents of 2020: From Social Distancing Tech to Facilitating Driverless Vehicles in 5G Networks"
+    excerpt: "As the world bids good riddance to 2020, this list of the Top 10 Patents of 2020 hopefully serves as a reminder that this year has not been a wasted opportunity for inventors."
+    publishedDateTime: 2020-12-30T21:21:00Z
+    webUrl: "https://www.ipwatchdog.com/2020/12/30/the-top-10-patents-of-2020-from-social-distancing-tech-to-facilitating-driverless-vehicles-in-5g-networks/id=128470/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 21
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2019/12/top-10-Depositphotos_22273619_xl-2015.jpeg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "HtfaL1r+TkcR2DoPlTAU+QHU9fvsznaOik2AUREbAQjSHNgn4TAlI1vOKm/1NUg2aftpU6q9VlM1rFDwCEr9k3iOCyzVWXYbFErQ4c3HOUQDRYm0SM3ntQaREMvytFkkM8GX6eCwzbd733jdJBkmI2nizMngDKXn2mg6t8xFQ+LxJ/KXRf+DRIjdgS7GF8/sm9p1hXSqHVBUGXQc6ti8YqKz7zMJc+KUk5uUaPJd92Udwq3LIxV8+KPfemNGQa1gkGkk8cAyZLUpV0IlbbjmNOFPGCKAWSVgx5e7vPFZWLHe6cdJcIPewOk8MKHItJUq4RRvo7zPjOtoWXZSDzkgbDH7V4Xi/L0XLbrTRVfBiz8GMP6mhrqO4mbV9fkkqR9ZdNGnAJVzNBf5DQLue5YonT4EBhA+JdUtPeQ5No06vAsM4wRTbwxsL0gMZunaM/5wB4zWFJMtCaXtEV+HkKYdtUcgdasRIo/L4JdxGC9GZI8iY/++uIfmZiHu4vrvyUcU5CG43AiBkZyxFMUIeWLubw==;XI3Ynj2ZyEaR7dE0QqKCCA=="
 ---

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Why AI is so power-hungry"
-excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
-publishedDateTime: 2020-12-29T12:38:00Z
-originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
-webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
+excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
+publishedDateTime: 2020-12-29T12:43:00Z
+originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
+webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
 type: article
-quality: 71
-heat: 81
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -19,9 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI Ethics
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg"
@@ -45,6 +43,6 @@ related:
         height: 380
         isCached: true
 
-secured: "T2ERCzqciApBEtZAqAWQn54AuTQVetEqkOlIoW9ol0Ir9e5ByzVHMVOM166yYhlPSZ+MRAkGBfRXP8C2UcIe6SPBKQ4I7vtgbms31wcVEnCxxfrqsocRJEYbGdls6XPl6HElW4gtBXho2OIpGfJsurGjhE2Sw1J1UK/6eQNoTp1x594ZF7Yc+rN/3VKLNZN7Er47jH3iEIoqLQoXFr1DQj1lNiulVCCOfBKUGNvAbdihKQ4VZ8pEqHOlqO3fgMlDl5o7EyKrTXmTJ0D05KhGkbdH1AEUlNRWPb70XIJ5T3OkFey9QNKUnClm0A0uhwE/is53ePm2P1BJP5lPI6+/x4T0+gxyd1Vq9cA0JCkS7bY=;ruTMtNwdH63mfgWU9tFxng=="
+secured: "rgUWxAQ1ayaYy+mOsheThf/JnGMcy7jMxBZhuWK2UGUSRUospG8CU2OuP3S97VU/+or9JlYjHiLx/pyGCfobandV0dCDIRhc1+kwAxq9BXpZeRU3bMf/ESoVN+pxLXoZnPbABoBaTtJcr9hzGpRR1O2phSCn3R711AiCczmPvxwJe+5P3/GqDB7QJtxMNvEL8DsU0Yuw9/mUY5FyXqZybv/jEZlXyPRzeUUuVnSfgXfyfFOCXKTJ82kqiNXs6uKHRaoyCVVyN5wL7opkwzJMmCdiM7Y0tlB0cqKa2ESnIPvR3DA6psxCMxgNEGpthqMKomssf1ekVUzVxCLKp2Q7evb9LXELT0S2hPnMgJsSI7c=;xJR2OvyNUx8MZ/zT79ESzQ=="
 ---
 

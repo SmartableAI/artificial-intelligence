@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-30T14:12:00Z
 originalUrl: "https://www.hpcwire.com/2020/12/30/farewell-2020-bleak-yes-but-a-lot-of-good-happened-too/"
 webUrl: "https://www.hpcwire.com/2020/12/30/farewell-2020-bleak-yes-but-a-lot-of-good-happened-too/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_1810092442.jpg"

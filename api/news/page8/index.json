@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
+      "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
+      "excerpt": "Chip making has long been ruled by big manufacturers and design houses such as Intel Corp., Advanced Micro Devices Inc. and graphics-chip maker Nvidia Corp. Now Amazon.com Inc., Microsoft Corp. and Google are getting into the game in the hunt for improved performance and lower costs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
+      "originalUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-19T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-5-companies-owned-by-ibm.md",
+      "title": "5 Companies Owned by IBM",
+      "excerpt": "which will enable IBM to expand the capabilities of its Watson artificial intelligence (AI) system. AI machine learning systems such as Watson require large amounts of data from which they are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
+      "originalUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/BwRRso7Oa0D_Z0tRTwIibhYH8tY=/1783x1265/filters:fill(auto,1)/ibm-logo-3-56a81a2c3df78cf7729c1f61.jpg",
+          "width": 1783,
+          "height": 1265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investopedia.com/amp/companies-owned-by-ibm-5092453",
+      "cdnAmpWebUrl": "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/companies-owned-by-ibm-5092453",
+      "publishedDateTime": "2020-12-19T15:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-top-marketers-highlight-5-common-themes-about-the-impact-of-2020-on-business.md",
       "title": "Top marketers highlight 5 common themes about the impact of 2020 on business",
       "excerpt": "CMO at IBM Watson Advertising and Weather, emphasized that messaging be as relevant as possible during times of uncertainty, noting how IBM’s clients are leveraging their technology to do just this. “We’re using AI to help clients be more responsive ...",
@@ -1104,108 +1181,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021.md",
-      "title": "This Week In XR: Rec Room Raises Series C, Roblox Acquires Loom.ai, Pushes IPO To 2021",
-      "excerpt": "Roblox acquires Loom.ai and delays IPO until 2021. The company acquired Loom.ai to adapt their avatars for more realistic 3D ones. Loomie announced in an email to its users last n",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdc53476f1da4e0cd7fc9b3%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/amp/",
-      "publishedDateTime": "2020-12-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-application-of-ai-in-the-manufacturing-industry.md",
-      "title": "Application Of AI In the Manufacturing Industry",
-      "excerpt": "Through the AI revolution, large amounts of data can be converted into actionable insights and predictions that can provide impetus to data-driven fields like genetics, robotics, connected and smart s",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361957",
-      "originalUrl": "https://www.entrepreneur.com/article/361957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361957",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957",
-      "publishedDateTime": "2020-12-18T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

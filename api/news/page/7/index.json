@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-22-baby-yoda-robot-uses-ai-to-follow-you-around-like-a-creepy-toddler.md",
+      "title": "Baby Yoda Robot Uses AI to Follow You Around Like a Creepy Toddler",
+      "excerpt": "While you can shell out hundreds of dollars for a startlingly lifelike replica of Grogu, this DIY Baby Yoda does what all the others can’t: automatically follow you everywhere you go like a curious 50-year-old toddler.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
+      "originalUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ge0szw9vewohscvyfg55.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
+      "publishedDateTime": "2020-12-21T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in.md",
+      "title": "Why is machine learning so hard to explain? Making it clear can help with stakeholder buy-in",
+      "excerpt": "Nobody is going to invest in a technology that they don't fully get. Helping them understand how and why it works will encourage adoption. It's hard to get stakeholders to buy into technology they don't understand. In the case of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "originalUrl": "https://www.techrepublic.com/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/07/15/22cae322-e814-4c16-817a-d52d05657fa2/resize/1200x/3e5692cefcdaec47788680cca85c9eb2/airobot.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "publishedDateTime": "2020-12-21T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-elon-musk-says-tesla-will-release-its-full-self-driving-feature-as-a-subscription-in-early-2021.md",
       "title": "Elon Musk says Tesla will release its 'full self-driving' feature as a subscription in early 2021",
       "excerpt": "The company's \"full self-driving\" package will be available as a subscription starting in early 2021, Tesla CEO Elon Musk in a Sunday tweet. Tesla cars come standard with Autopilot, a driver-assistance feature that can brake, accelerate, and steer ...",
@@ -1098,83 +1202,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
-      "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
-      "excerpt": "Chip making has long been ruled by big manufacturers and design houses such as Intel Corp., Advanced Micro Devices Inc. and graphics-chip maker Nvidia Corp. Now Amazon.com Inc., Microsoft Corp. and Google are getting into the game in the hunt for improved performance and lower costs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-5-companies-owned-by-ibm.md",
-      "title": "5 Companies Owned by IBM",
-      "excerpt": "which will enable IBM to expand the capabilities of its Watson artificial intelligence (AI) system. AI machine learning systems such as Watson require large amounts of data from which they are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
-      "originalUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/BwRRso7Oa0D_Z0tRTwIibhYH8tY=/1783x1265/filters:fill(auto,1)/ibm-logo-3-56a81a2c3df78cf7729c1f61.jpg",
-          "width": 1783,
-          "height": 1265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.investopedia.com/amp/companies-owned-by-ibm-5092453",
-      "cdnAmpWebUrl": "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/companies-owned-by-ibm-5092453",
-      "publishedDateTime": "2020-12-19T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

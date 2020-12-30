@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker.md",
+      "title": "Extracting buildings and roads from AWS Open Data using Amazon SageMaker",
+      "excerpt": "Sharing data and computing in the cloud allows data users to focus on data analysis rather than data access. Open Data on AWS&nbsp;helps you discover and share public open datasets in the cloud. The&nbsp;Registry of Open Data on AWS&nbsp;hosts a large amount of public open data. The datasets range from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1363-1.jpg",
+          "width": 800,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T14:32:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs.md",
       "title": "How an important change in web standards impacts your image annotation jobs",
       "excerpt": "Earlier in 2020, widely used browsers like Chrome and Firefox changed their default behavior for rotating images based on image metadata, referred to as EXIF data. Previously, images always displayed in browsers exactly how they’re stored on disk, which is typically unrotated. After the change, images",
@@ -1432,49 +1484,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-after-the-fact-data-governance-is-too-much-trouble-too-late.md",
-      "title": "After-the-fact data governance is too much trouble too late",
-      "excerpt": "Latest dispatch from big data: Randomly stuffing things in a receptacle, digging them out to label them, and then putting them back: Not good. Labeling them first and then putting them in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/02/after-the-fact-data-governance-is-too-much-trouble-too-late-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/02/after-the-fact-data-governance-is-too-much-trouble-too-late-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Rik-Tamm-Daniels-and-Rick-Turnock-AWS-re-Invent-2020.jpg",
-          "width": 1881,
-          "height": 1058,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

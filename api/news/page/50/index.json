@@ -2,6 +2,110 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-11-19-how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving.md",
+      "title": "How The Rick And Morty Butter Robot Is Cooking Up Chaos This Thanksgiving",
+      "excerpt": "Founded by Carnegie Mellon alums on a mission to make robots more fun, the scrappy startup acquired the assets of the defunct ... Since sentience is considered years away on the AI roadmap by many industry experts, I pressed Hanchar to explain how they ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb57b1a4edfc0fbe1001009%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1054%26cropY1%3D52%26cropY2%3D645",
+          "width": 1054,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "publishedDateTime": "2020-11-18T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall.md",
+      "title": "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall",
+      "excerpt": "CrowdStrike, an AWS Advanced Technology Partner ... s single lightweight-agent architecture leverages cloud-scale artificial intelligence (AI) and offers real-time protection and visibility ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall-2020-11-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall-2020-11-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-chatbot-on-mobile-platform-market-is-booming-globally-with-top-key-players-googlemicrosoft-windowsxaiandychatbotduolingo.md",
       "title": "Chatbot On Mobile Platform Market is booming Globally with Top key players: Google,Microsoft Windows,X.ai,Andychatbot,Duolingo",
       "excerpt": "The Global Chatbot On Mobile Platform Market 2020 Research Report is a professional and in-depth study on the current state of Chatbot On Mobile Platform Market. The report provides a basic ...",
@@ -1106,102 +1210,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-lapd-bans-use-of-third-party-facial-recognition-software-for-law-enforcement-work.md",
-      "title": "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work",
-      "excerpt": "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
-      "originalUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg",
-          "width": 708,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/lapd-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban",
-      "publishedDateTime": "2020-11-18T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-4-ai-trends-set-to-accelerate-in-2020.md",
-      "title": "4 AI Trends Set To Accelerate In 2020",
-      "excerpt": "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/",
-      "publishedDateTime": "2020-11-18T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

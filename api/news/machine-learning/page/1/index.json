@@ -6,11 +6,11 @@
       "title": "You don’t code? Do machine learning straight from Microsoft Excel",
       "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco",
+      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -49,9 +49,10 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -59,11 +60,11 @@
       "title": "Why stateful machine learning could help cybersecurity efforts",
       "excerpt": "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "originalUrl": "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -77,8 +78,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "publishedDateTime": "2020-12-29T13:31:00-08:00",
       "updatedDateTime": null,
       "provider": {

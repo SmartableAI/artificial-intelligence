@@ -2,6 +2,108 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-18-this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021.md",
+      "title": "This Week In XR: Rec Room Raises Series C, Roblox Acquires Loom.ai, Pushes IPO To 2021",
+      "excerpt": "Roblox acquires Loom.ai and delays IPO until 2021. The company acquired Loom.ai to adapt their avatars for more realistic 3D ones. Loomie announced in an email to its users last n",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdc53476f1da4e0cd7fc9b3%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/12/18/this-week-in-xr-rec-room-raises-series-c-roblox-acquires-loomai-pushes-ipo-to-2021/amp/",
+      "publishedDateTime": "2020-12-18T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-application-of-ai-in-the-manufacturing-industry.md",
+      "title": "Application Of AI In the Manufacturing Industry",
+      "excerpt": "Through the AI revolution, large amounts of data can be converted into actionable insights and predictions that can provide impetus to data-driven fields like genetics, robotics, connected and smart s",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361957",
+      "originalUrl": "https://www.entrepreneur.com/article/361957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361957",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361957",
+      "publishedDateTime": "2020-12-18T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-healthcare-artificial-intelligence-market-may-see-a-big-move-microsoft-ibm-medtronic.md",
       "title": "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic",
       "excerpt": "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ...",
@@ -1079,111 +1181,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-using-pytorch-to-streamline-machine-learning-projects.md",
-      "title": "Using PyTorch to streamline machine learning projects",
-      "excerpt": "A platform that lets surgeons browse videos of past operations has found a way to make its machine learning more effective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "originalUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/1200x675/a149f22109b892c62588d4d67f218f5e/20200814-owen-karen-weeds.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
-      "publishedDateTime": "2020-12-17T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-anomalo-nabs-595-million-for-ai-data-validation-tools.md",
-      "title": "Anomalo nabs $5.95 million for AI data validation tools",
-      "excerpt": "Anomalo, a provider of data validation and documentation services for developers, today announced that it raised $5.95 million in venture capital. First Round Capital and Foundation Capital participated in the seed funding round,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/",
-      "originalUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/",
-      "publishedDateTime": "2020-12-17T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

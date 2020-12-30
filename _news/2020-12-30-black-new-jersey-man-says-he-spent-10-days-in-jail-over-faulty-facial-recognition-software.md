@@ -3,10 +3,10 @@ category: news
 title: "Black New Jersey Man Says He Spent 10 Days In Jail Over Faulty Facial Recognition Software"
 excerpt: "Nijeer Parks became the third person to come forward as a victim of mistakes made by facial recognition software used widely within police departments and law enforcement agencies, according to his lawsuit and an interview with The New York Times ."
 publishedDateTime: 2020-12-29T22:48:00Z
-originalUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+originalUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
 type: article
 quality: 64
 heat: -1
@@ -164,6 +164,20 @@ related:
       name: ABC 7 Chicago
       domain: abc7chicago.com
     quality: 51
+  - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
+    excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
+    publishedDateTime: 2020-12-30T22:01:00Z
+    webUrl: "https://abc7ny.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+    type: article
+    provider:
+      name: abc7NY
+      domain: abc7ny.com
+    quality: 51
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/9195543_123020-cc-wrongfully-accused-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facial Recognition Technology Cited in False Arrest Case"
     excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
     publishedDateTime: 2020-12-30T13:19:00Z
@@ -223,6 +237,6 @@ related:
         height: 382
         isCached: true
 
-secured: "g6Ty5zEgSoWPM7Vi+gD9aXTW9Pf+R/FDJ//siCgCIxpiid34nvpEGuwiWBMdDKGCq/EMA7F9ZpvZvGmlndqVYYhg+BWWiCwMguOSVAs1tQjnxfTjMz4faZ7cZrTAhQX6NsKpqz/hr+OzNLfmyEZ0qTvM79q70Cub+njcLVlJTHEOjee+jQUudKCowdWY0GtI6EExJ3FmdD82eErNpCULfr2bJi+aIZnQxq3Qf761zfnF2wBlNqRhx2ANHkN+8BrNei/vVRYec65MjxkMJmeRcST/R6q+BXqkeQrMngnit+0FnuTJdGeDzkGv2Pwo5mZDu1g+94/H5lDldPUe924hnsArSRl5ogNpUVvxRrn/fmYimwmiqKQpxoYH3zEebt1AgE71WhGWV/dgdTFA93mZhRjOFyEFwOTm/GXmS+xKhQR9+UdB7HzJVNjV2Pt5lq3kQZQIslNFambYYxAz8zQrx7PYYJXV+gWi6G3BdBEeGyuTgOH+a9bai0q68oB/z0Pwj+8FF86u5/k5M57e6upLnw==;gjvt04Sy+E7e+Knpfeoq5A=="
+secured: "tdl6L1xnrEYC6vnmtLxlGTpLjpIjciwVIxlOhuSF2zy/JzwJs1E2yXLEQ0qtQlluf48dMl0eLI6RbLiFa5uIXlypyRX7PrQn1DaLCN4oqCXbRaOGK6w3T+UnUeEg/s+0nap1mhGdO6b78d+iJr4Co9994v3GbuctZ6Sl0WKbsNNF6HvnDA5RdfEUc3473151jjfPT/+1Ks/QURcbKI1ejgstAPdNOusrOsXCyWc9ZoD0AQjF5dyr2bE1nvbpWvv/eLYad8v0tySBhcyiHDmADGnAA/HG9nWAu9q78qGaFQnOU5XCVf2/NnIlhJEf5NYzeEsL1haF0eLy9Nn4SQTikdz5dO9E3rD7vmXVPSIQ6k0=;aVvI+F3OhF9t+xiuVETrBg=="
 ---
 

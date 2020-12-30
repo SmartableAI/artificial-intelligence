@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 type: article
 quality: 176
-heat: 286
+heat: 296
 published: true
 
 provider:
@@ -153,6 +153,22 @@ related:
       - url: "https://media.nbcnewyork.com/2020/12/104712662-graphcore_founders.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "British Tech Startup Challenges Nvidia As Chip-Makers Jockey For Position AI Development"
+    excerpt: "The startup faces an uphill battle, but if the investor gold rush is any indication has a chance at being a real competitor"
+    publishedDateTime: 2020-12-30T22:18:00Z
+    webUrl: "https://www.ibtimes.com/british-tech-startup-challenges-nvidia-chip-makers-jockey-position-ai-development-3112073"
+    ampWebUrl: "https://www.ibtimes.com/british-tech-startup-challenges-nvidia-chip-makers-jockey-position-ai-development-3112073?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/british-tech-startup-challenges-nvidia-chip-makers-jockey-position-ai-development-3112073?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/tokyo-got-a-boost-as-softbank-soared-almost.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Graphcore raises $222m as it considers path to float"
     excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."

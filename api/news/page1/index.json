@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker.md",
+      "title": "Extracting buildings and roads from AWS Open Data using Amazon SageMaker",
+      "excerpt": "Sharing data and computing in the cloud allows data users to focus on data analysis rather than data access. Open Data on AWS&nbsp;helps you discover and share public open datasets in the cloud. The&nbsp;Registry of Open Data on AWS&nbsp;hosts a large amount of public open data. The datasets range from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1363-1.jpg",
+          "width": 800,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T14:32:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-what-we-expect-at-ces-2021-autonomous-cars-evs-and-a-mind-reading-bike.md",
+      "title": "What we expect at CES 2021: Autonomous cars, EVs, and a mind-reading bike?",
+      "excerpt": "With some of the biggest tech companies dipping their toes into the automotive world, what will we see at CES 2021? Here are a few educated guesses at what to watch out for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
+      "originalUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/sony-vision-s-electric-concept-car-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
+      "publishedDateTime": "2020-12-30T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-the-obligatory-artificial-intelligence-year-end-article-2020-edition.md",
       "title": "The Obligatory Artificial Intelligence Year End Article, 2020 Edition",
       "excerpt": "While it has had a major impact on many areas of society, I don’t feel that it has changed the artificial intelligence (AI ... Departments are beginning to look at the issue. As healthcare has been an early adopter of AI, especially in radiology ...",
@@ -58,11 +162,11 @@
       "title": "You don’t code? Do machine learning straight from Microsoft Excel",
       "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/?via=indexdotco",
+      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -101,9 +205,10 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -757,11 +862,11 @@
       "title": "Why stateful machine learning could help cybersecurity efforts",
       "excerpt": "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "originalUrl": "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -775,8 +880,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "publishedDateTime": "2020-12-29T13:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -856,7 +961,7 @@
       "originalUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -985,7 +1090,7 @@
       "originalUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 333,
+      "heat": 343,
       "tags": null,
       "images": [
         {
@@ -1128,99 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-artificial-intelligence-transforms-todays-hearing-aids.md",
-      "title": "Artificial intelligence transforms today’s hearing aids",
-      "excerpt": "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/",
-      "originalUrl": "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PFTM/8c57808c-00db-4b43-b9ae-de53dd5b5883-GettyImages-1284869697.jpg?auto=webp&crop=723,407,x0,y36&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.news-press.com/amp/4007932001",
-      "cdnAmpWebUrl": "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001",
-      "publishedDateTime": "2020-12-29T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News-Press",
-        "domain": "news-press.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce.md",
-      "title": "The Times, They Are A-Changin': How AI Can Create A Happier, More Productive Workforce",
-      "excerpt": "How To Implement Ethical AI At Your Organization Fifteen years from now, saying, \"I use AI at work,\" will seem as ridiculous as stating, \"I use a mobile phone at work\" would have in 2005. A recent Deloitte study shows that 56% of enterprises are investing in intelligent automation and chat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f189eb53aae764f6d078ef0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/amp/",
-      "publishedDateTime": "2020-12-29T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

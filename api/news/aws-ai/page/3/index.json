@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
+      "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
+      "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "originalUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fqjU6wF6WGeuL5n3M7NMuN-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "publishedDateTime": "2020-12-07T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities.md",
       "title": "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\"",
       "excerpt": "It will also use Amazon Rekognition software to tag every frame of its movie and TV library, \"making it easier for MGM’s partners to find and license film and TV shows for their lineups.\"",
@@ -1329,50 +1372,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-leverages-habana-gaudi-ai-processors.md",
-      "title": "AWS Leverages Habana Gaudi AI Processors",
-      "excerpt": "David Dahan, chief executive officer at Habana Labs, an Intel Company Why It Matters: As the world’s leading cloud provider, AWS is used by developers around the world to train their artificial intelligence (AI) models. However, the increase in ...",
-      "sourceUrl": null,
-      "webUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/",
-      "originalUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsroom.intel.com/wp-content/uploads/sites/11/2020/12/Habana-Labs-HL-205-690x460.jpg",
-          "width": 690,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/",
-      "cdnAmpWebUrl": "https://newsroom-intel-com.cdn.ampproject.org/c/s/newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/",
-      "publishedDateTime": "2020-12-01T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Intel",
-        "domain": "intel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Google AI"
       ]
     }
   ],

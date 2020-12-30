@@ -2,6 +2,111 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-11-05-artificial-intelligence-and-cognitive-computing-market-major-technology-giants-in-buzz-again.md",
+      "title": "Artificial Intelligence and Cognitive Computing Market - Major Technology Giants in Buzz Again",
+      "excerpt": "Healthcare, Retail & Consumer Goods, BFSI, Security, IT & Telecom & Others Regional Analysis for Artificial Intelligence and Cognitive Computing Market: North America (Covered in Chapter 6 and 13), United States, Canada, Mexico, Europe (Covered in Chapter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-portland-maine-bans-police-from-using-facial-recognition-software.md",
+      "title": "Portland, Maine bans police from using facial recognition software",
+      "excerpt": "On Tuesday, citizens of Portland, Maine passed a ballot measure banning use of facial recognition and surveillance technology by law enforcement, the Bangor Daily News reported. The Portland City Council had banned use of this software by police and city ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "originalUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "publishedDateTime": "2020-11-04T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview.md",
       "title": "Google launches Document AI suite of parsing and processing tools in preview",
       "excerpt": "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing.",
@@ -1096,101 +1201,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-gigabyte-and-microsoft-azure-ai-notebook-performance-investigation.md",
-      "title": "GIGABYTE and Microsoft Azure AI Notebook Performance Investigation",
-      "excerpt": "Today we take a look at Microsoft's Azure AI for mobile computing. The issue with gaming notebooks is their size and weight constraints, and while people want to be able to play their beloved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html",
-      "originalUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/content/9/1/9188_02_gigabyte-microsoft-azure-ai-notebook-performance-investigation.png",
-          "width": 620,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html",
-      "publishedDateTime": "2020-11-03T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-inspiring-ais-future-leaders-a-discussion-with-rashida-hodge.md",
-      "title": "Inspiring AI’s Future Leaders: A Discussion With Rashida Hodge",
-      "excerpt": "In her current role at IBM, Hodge leads product integration of artificial intelligence and other emerging technologies for key IBM clients in North America .",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c8e22121f2b9de44b40c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "publishedDateTime": "2020-11-03T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

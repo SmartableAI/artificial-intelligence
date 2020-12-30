@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-18-using-pytorch-to-streamline-machine-learning-projects.md",
+      "title": "Using PyTorch to streamline machine learning projects",
+      "excerpt": "A platform that lets surgeons browse videos of past operations has found a way to make its machine learning more effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "originalUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/1200x675/a149f22109b892c62588d4d67f218f5e/20200814-owen-karen-weeds.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "publishedDateTime": "2020-12-17T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-anomalo-nabs-595-million-for-ai-data-validation-tools.md",
+      "title": "Anomalo nabs $5.95 million for AI data validation tools",
+      "excerpt": "Anomalo, a provider of data validation and documentation services for developers, today announced that it raised $5.95 million in venture capital. First Round Capital and Foundation Capital participated in the seed funding round,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/",
+      "originalUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/",
+      "publishedDateTime": "2020-12-17T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-google-ai-ethics-team-demands-changes-after-dismissal-of-renowned-researcher.md",
       "title": "Google AI ethics team demands changes after dismissal of renowned researcher",
       "excerpt": "It comes after executives admitted to losing the trust of employees amid the departure of renowned researcher Timnit Gebru.",
@@ -1107,104 +1212,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy.md",
-      "title": "From whistleblower laws to unions: How Google’s AI ethics meltdown could shape policy",
-      "excerpt": "Unionization of AI ethics researchers and stronger whistleblower protections are being discussed two week after Google fired Timnit Gebru.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
-      "publishedDateTime": "2020-12-16T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],
