@@ -2,6 +2,246 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-11-16-amd-launches-instinct-mi100-accelerator-chips-for-scientific-research.md",
+      "title": "AMD launches Instinct MI100 accelerator chips for scientific research",
+      "excerpt": "and AI processing so scientists can work on heavy-duty computing tasks, such as coronavirus research. Santa Clara, California-based AMD said the chip is the world’s fastest HPC GPU and the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/amd-instinct-.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/amp/",
+      "publishedDateTime": "2020-11-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-indian-artificial-intelligence-ai-industry-market-growth-trends-analysis-share-and-forecast-2025.md",
+      "title": "Indian Artificial Intelligence (Ai) Industry Market Growth, Trends Analysis, Share and Forecast - 2025",
+      "excerpt": "artificial Intelligence (AI) is poised to transform the world, with integration of intelligent machines allowing high-level cognitive processes ... healthcare sector, Microsoft Corp. is taking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "originalUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb16933502_g.jpg",
+          "width": 626,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "publishedDateTime": "2020-11-16T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal.md",
+      "title": "Adapting To The New AI Landscape And Planning Tomorrow's New Normal",
+      "excerpt": "As pressure to do AI right and unlock the value it promises increases, it's time to think differently to navigate the uncharted digital waters ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeef461f0db0412b89f465%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/",
+      "publishedDateTime": "2020-11-16T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy.md",
+      "title": "The Role Of AI In Carbon Reduction And Increased Efficiency For Energy",
+      "excerpt": "Transitioning the energy industry from primarily oil and gas to more renewable sources won’t happen overnight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cfa1d1eff46907fd8eea1%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/16/the-role-of-ai-in-carbon-reduction-and-increased-efficiency-for-energy/amp/",
+      "publishedDateTime": "2020-11-16T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-deep-learning-global-markets.md",
+      "title": "Deep Learning: Global Markets",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Nov. 16, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
+      "publishedDateTime": "2020-11-16T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform.md",
       "title": "Ataccama announces new AI-driven release of data governance/management platform",
       "excerpt": "Ataccama ONE Gen2, featuring new \"Core AI\" module, seeks to automate large swaths of organizations' increasingly complex data governance and data management burdens. Other main pillars of Gen2's self-driving capability include metadata-centricity and policy management with automated enforcement.",
@@ -928,240 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-computer-vision-mobile-app-can-regularly-monitor-diabetes.md",
-      "title": "Computer vision mobile app can regularly monitor diabetes",
-      "excerpt": "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,",
-      "sourceUrl": null,
-      "webUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
-      "originalUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
-      "publishedDateTime": "2020-11-15T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-google-previews-tensorflow-lite.md",
-      "title": "Google previews TensorFlow Lite",
-      "excerpt": "The company announced the developer preview of TensorFlow Lite. The new solution is a lightweight version of TensorFlow, the open-source software library for machine intelligence. “TensorFlow ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/embedded-devices/google-previews-tensorflow-lite/",
-      "originalUrl": "https://sdtimes.com/embedded-devices/google-previews-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/11/tensorflow.jpg",
-          "width": 1224,
-          "height": 1160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-microsoft-announces-azure-databricks-visual-studio-app-center-and-azure-devops-projects-at-microsoft-connect.md",
-      "title": "Microsoft announces Azure Databricks, Visual Studio App Center and Azure DevOps projects at Microsoft Connect",
-      "excerpt": "Azure IoT Edge is designed to deploy cloud intelligence to IoT devices and provide advanced AI analytics and machine learning at the IoT edge. “Azure IoT Edge enables developers to build and ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/microsoft-announces-azure-databricks-visual-studio-app-center-azure-devops-projects-microsoft-connect/",
-      "originalUrl": "https://sdtimes.com/ai/microsoft-announces-azure-databricks-visual-studio-app-center-azure-devops-projects-microsoft-connect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/11/microsoft-connect-2017.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-the-pessimists-guide-to-the-future-from-virtual-reality-to-driverless-cars.md",
-      "title": "The pessimist’s guide to the future, from virtual reality to driverless cars",
-      "excerpt": "artificial intelligence and even driverless cars. Virtual reality headsets have long been the next big thing, but that’s not based on anything approaching reality. At the beginning of 2017 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
-      "originalUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2018/05/pessimists_guide_to_the_future.jpg?fit=569%2C320&ssl=1",
-          "width": 569,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alphr",
-        "domain": "alphr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-where-are-self-driving-cars-heres-why-theyre-farther-down-the-road.md",
-      "title": "Where are self-driving cars? Here's why they're farther down the road",
-      "excerpt": "Tesla made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your ...",
-      "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/1/f1/1f14a678-15c3-577f-87e7-8883e8dd216b/5fab0a50e4993.image.jpg?resize=1024%2C630",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html",
-      "cdnAmpWebUrl": "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html",
-      "publishedDateTime": "2020-11-14T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

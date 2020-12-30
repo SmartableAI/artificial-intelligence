@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/2020-review-ai-roundup"
 webUrl: "https://www.natlawreview.com/article/2020-review-ai-roundup"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 500
     height: 302
     isCached: true
-
-related:
-  - title: "2020: A Year Full of Amazing AI papers- A Review"
-    excerpt: "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code - louisfb01/Best_AI_paper_2020"
-    publishedDateTime: 2020-12-25T16:10:00Z
-    webUrl: "https://github.com/louisfb01/Best_AI_paper_2020/blob/main/README.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://avatars2.githubusercontent.com/u/70274208?s=400&v=4"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "DGgHTEY4CnVT7bchw9SkU4OBS9VGb5kVV7e7OGYOcwzlayrwFIaVMDa3wJuFvmsHA7pPOk9OSEP5/p4xBIQOtdl0aS1mgEQ2ksDU++49+078YAQIjJnBF4vo6F8uXS1SBKNh2mddEroAslQ8KesUrLISnY+ZZ980imY2MVasJAtOivp360cU9Yv5lbUzSndBukq/AImpQFu7f+retJdav8x2+InPbrtwq5F5B0Ku85n/oSXU+ThUKOssQT8HkgrD4+9Z2eyHpD+AMOcXHaDaFIVKXdmLwLf1Bz265KWY6TvLljDMI9hRmfs5cJE25vfCw9se3H1Uy9VngnMgCpk9+9kgaml5sxvBD+CTA912yTs=;etEmRmAsFKhZNC6TuHhyvA=="
 ---

@@ -29,22 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "13 acquisitions highlight Big Tech’s AI talent grab in 2020"
-    excerpt: "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes."
-    publishedDateTime: 2020-12-25T15:07:00Z
-    webUrl: "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/"
-    ampWebUrl: "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/"
+  - title: "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,"
+    publishedDateTime: 2020-12-28T03:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
+  - title: "Natural Language Processing Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025."
+    publishedDateTime: 2020-12-27T09:50:00Z
+    webUrl: "https://menafn.com/1101344808/Natural-Language-Processing-Market-Insights-By-GrowthResearch-Methodology-Emerging-Trends-and-Forecast-By-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "7IpoAvFr3LhwgwJl8gYwJ9dKBrUQSdknyf0B//lLmOnbUp1ob1x45Y5uds1SwIlZ6kjSlfkMMMgW/OnAHXz0APr5YIgy9O3lohysu8ESSiVbLBwmfDSg8DIZbGJ0hqDxbopr/VVKBuAV3pKhjtNpBL2n9pN2/C8JflXbaiPMAY+dixWLpHeOAKS8TsQPQOUYwKCd6yAeXcDuIzPnUg5hop1rTRX+QmadqgF84UIG+jiK+6MEZ9PulBt+3Yr3QUtd1GOgjrBzW4eDc5S29gfVPZ8lXb9ypNKmIIbPIiEMw8rRbGNAzxKDS+pSiB32yPwrvGcnj2RmLmbECM5OiAzEJEUTDNvDtrhptp2dCvkS8js=;5o50nn6VZgsmxclAssDp2w=="
 ---

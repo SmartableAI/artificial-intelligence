@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-stateful-machine
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:

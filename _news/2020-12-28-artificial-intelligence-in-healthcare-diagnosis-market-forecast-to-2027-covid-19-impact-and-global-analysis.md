@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025"
+    excerpt: "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies"
+    publishedDateTime: 2020-12-30T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc30902512_g.jpg"
+        width: 650
+        height: 350
+        isCached: true
   - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
     excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
     publishedDateTime: 2020-12-29T21:04:00Z
@@ -32,6 +48,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
+  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
+    publishedDateTime: 2020-12-29T07:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-north-america-south-america-72b2bc25587f46b38746bc62c3bb7048"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "0MMWrtyfy4G2HERNfTOqjfsmd60TukleSpMyDPGbRifPzn0Cqk/gLkYQFZ9vvkRbdeLEOK8OtlKwolHeMTQskv5z+kDoIcO0MBMZchG5G3XZO7RImIXlA8Jsw1jv4slg2zLF0l3f9/8Usu2fDaJtQRz41rWaa3QOOD5KVLl0/LHkwgPoHJDt1mNNZvJCHFso8uBlML3on7kE6PWz1aIem1NEQy0KstC3vN7SDQKpVZQsOYtauC/HhCv+D00WKwvqyWFOF7ttR8kev55RWdeSoxLGAz8b6h7Bq6pkaaPgWYpOyMFoDfYW0/ry3DWk8RVoQK8GAhh2L1j/TQ3eDyIWb+PmRUaMkrigFGDUpJSwZkA=;gb8Z6IEHPgjPrWRTVUdnHA=="
 ---

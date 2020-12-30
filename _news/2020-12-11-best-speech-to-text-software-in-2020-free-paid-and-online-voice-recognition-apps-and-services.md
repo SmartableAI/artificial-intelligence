@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Best speech-to-text software in 2020: Free, paid and online voice recognition apps and services"
-excerpt: "While the best speech to text software used to be specifically only for desktops, the development of mobile devices and the explosion of easily accessible apps means that transcription can now also be carried out on a smartphone or tablet."
+excerpt: "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ..."
 publishedDateTime: 2020-12-11T11:20:00Z
-originalUrl: "https://www.techradar.com/news/best-speech-to-text-app"
-webUrl: "https://www.techradar.com/news/best-speech-to-text-app"
+originalUrl: "https://www.techradar.com/au/news/best-speech-to-text-app"
+webUrl: "https://www.techradar.com/au/news/best-speech-to-text-app"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
   name: TechRadar
@@ -28,6 +25,6 @@ images:
     height: 545
     isCached: true
 
-secured: "StpDURU87HadAKXaP6G6n8GmB65yvt+V3yV5c+/pvN2JjBePsu7Dn94kaQo38uj8Dki0Icj8pM9oiQcAl1k0tA0VZEIeVOz1ACV9HIVkbEZ+SrOqRQIrWWoD2LeHMV4VbKm/ijWjD3f7u4/oqXfIqefzinSgLiHuIK8VLqxiJXUvwawGj32ch69mcUepBePv72mbh9PMvPIS771dGl0RGSRNLDB/PhvFgG51yJr2jFgQiBreH6HI8CaX4tkQDLAvC6iIVavdItM6fDxWRvUvY+oyKF1sKDNcyfYWxWZn70Q8NRAInLYNoiKEoQwoU/6A7MsqNk2H64DIl29F/VOsQp6kRNrHx5vsXUhokon64pxsmlQGhB5WKINN0/c+JiGPUzfq7nWLf+tD7IxyYKZ5/JmL7k6c7YlEXJVPNS9WvChVx+VApR5hcMDZ2CrvsprB9UBP3YXY6LpCl/UFbowBo+fVR9eySbJys6npQwAvl5Bv5fWN0uDfq9dgKWhVd1C9KxfPtK4RUNtsXwvMyWk91g==;PRRs8vDkz1FpghHSlfbhVQ=="
+secured: "TYyE44kdGTohChI4Ehy0z11EpRUKaj0V97dmdd2Qgy8iA0lYJNaFfxthi3c3sWTgJdGen6RiP25tjjLsWEEYayVWt/JBDGUQhmT9AiEBR4VhkIN2HEzyTq5/qsgtmJ59WRyGd7kSxWX960QDIg/JJJOAAl3222z5QyhgqVrAfvK1fY7c2SjPNagiB5JnezUC/c9s8OESuJTCmWWzbPdZ1VpZmC7gigVN61llHU3R1puy7xpjOK3Gg/0TvjS8ZidW3dybid1sayv0En46fj+3ES2HXyrDP16GcmuZQOiqB76Pz2xYvbJgaS34N39jOPqAyP61oizHGm76ER74golQNW1ElqvqdZ92RHd0NvMXv3U=;TjSXjpSyoxQqzE9kzxrxkA=="
 ---
 

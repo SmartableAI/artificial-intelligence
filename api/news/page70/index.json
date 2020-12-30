@@ -2,6 +2,249 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-11-05-amazon-translate-now-enables-you-to-mark-content-to-not-get-translated.md",
+      "title": "Amazon Translate now enables you to mark content to not get translated",
+      "excerpt": "While performing machine translations, you may have situations where you wish to preserve specific sections of text from being translated, such as names, unique identifiers, or codes. We at the Amazon Translate team are excited to announce a tag modifications that allows you to specify what text should",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-now-enables-you-to-mark-content-to-not-get-translated/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-now-enables-you-to-mark-content-to-not-get-translated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T15:54:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic.md",
+      "title": "Intelligently connect to customers using machine learning in the COVID-19 pandemic",
+      "excerpt": "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T15:42:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-artificial-intelligence-can-detect-asymptomatic-covid-19-coughs-mit-says-heres-how.md",
+      "title": "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how",
+      "excerpt": "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/coronavirus/article247000912.html",
+      "originalUrl": "https://www.miamiherald.com/news/coronavirus/article247000912.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/coronavirus/article247000912.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article247000912.html",
+      "publishedDateTime": "2020-11-05T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-ima-life-accelerating-its-digital-innovation-selects-falkonrys-operational-ai.md",
+      "title": "IMA Life, Accelerating its Digital Innovation, Selects Falkonry’s Operational AI",
+      "excerpt": "IMA Life, a world leader in the field of aseptic processing and freeze drying solutions, has partnered with Falkonry, the innovation leader in Operational AI, to accelerate IMA digital innovation using Falkonry Clue and Falkonry Workbench.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/3bea4930-9df9-47c5-a341-8e369fc2d89d/Falkonry-Nov5-2020-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-inside-fintech-startup-upstarts-ipo-filing.md",
+      "title": "Inside fintech startup Upstart’s IPO filing",
+      "excerpt": "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
+      "originalUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
+      "publishedDateTime": "2020-11-05T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-what-ai-can-learn-from-parents.md",
       "title": "What AI Can Learn From Parents",
       "excerpt": "Like raising children, training an artificial intelligence means balancing obedience and independence.",
@@ -984,231 +1227,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses.md",
-      "title": "Microsoft adds Hindi to its Text Analytics service to strengthen Sentiment Analysis support for businesses",
-      "excerpt": "Text Analytics is part of the Microsoft Azure Cognitive Services. Using this service, organizations can find out what people think of their brand or topic as this enables analyzing Hindi text for clues about positive, neutral, or negative sentiment.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
-      "originalUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/microsoft-text-analytics-hindi-768x362.jpg",
-          "width": 768,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T21:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
-      "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
-      "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "originalUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "publishedDateTime": "2020-11-04T21:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-how-leveraging-ai-and-machine-learning-can-give-startups-a-competitive-edge.md",
-      "title": "How leveraging AI and machine learning can give startups a competitive edge",
-      "excerpt": "While AI and machine learning are changing the way businesses operate, startups may still struggle to leverage them effectively, with challenges such as cost and a lack of talent among the chief concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge",
-      "originalUrl": "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T18:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
-      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
-      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
-          "width": 1318,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-ai-compilers-and-the-race-to-the-bottom.md",
-      "title": "AI Compilers and the Race to the Bottom",
-      "excerpt": "(Source: Facebook AI) “We have this really high-performance runtime, but a lot of projects don’t care because they aren’t in the data center,” explained Jordan Fix, a research scientist at Facebook. “They need to do AOT compilation, shrink as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
-      "originalUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYTQzZWE0NzM5ZDQucG5nJnZlcnNpb249MDAwMCZzaWc9NDlmMzljMWExNzk2ZjhhYmZhNTE0ODJhZTYzZWUzNmU%253D",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

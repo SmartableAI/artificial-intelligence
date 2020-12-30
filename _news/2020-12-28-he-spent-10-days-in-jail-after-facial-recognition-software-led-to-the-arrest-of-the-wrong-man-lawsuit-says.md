@@ -107,6 +107,22 @@ related:
         width: 394
         height: 222
         isCached: true
+  - title: "Black New Jersey Man Says He Spent 10 Days In Jail Over Faulty Facial Recognition Software"
+    excerpt: "Nijeer Parks became the third person to come forward as a victim of mistakes made by facial recognition software used widely within police departments and law enforcement agencies, according to his lawsuit and an interview with The New York Times ."
+    publishedDateTime: 2020-12-29T22:48:00Z
+    webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+    ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+    cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+    type: article
+    provider:
+      name: Blavity
+      domain: blavity.com
+    quality: 64
+    images:
+      - url: "https://res.cloudinary.com/blavity/image/upload/g_center,w_auto,q_auto:best,g_south_east,x_0/v1609280084/wtgzkl5usa1zbsjonhw1"
+        width: 819
+        height: 460
+        isCached: true
   - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
     excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
     publishedDateTime: 2020-12-29T21:27:00Z
@@ -134,6 +150,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "NJ Black Man Spent 10 Days in Jail After Being Misidentified by Police Using Facial Recognition Software (Video)"
+    excerpt: "A Black New Jersey man is suing the town of Woodbridge, NJ and its police department, alleging he was falsely arrested and jailed for 10 days after facial recognition technology falsely identified him as the perpetrator of a shoplifting."
+    publishedDateTime: 2020-12-29T23:15:00Z
+    webUrl: "https://eurweb.com/2020/12/29/nj-black-man-spent-10-days-in-jail-after-being-misidentified-by-police-using-facial-recognition-software-video/"
+    type: article
+    provider:
+      name: EURweb
+      domain: eurweb.com
+    quality: 33
+    images:
+      - url: "https://eurweb.com/wp-content/uploads/2020/12/safe_image.jpeg"
+        width: 540
+        height: 281
         isCached: true
   - title: "Why is it not just a matter of recognition?"
     excerpt: "Pakistan cannot afford to recognize IsraelBy Wazir Zafar HassanThe posture of Arab states towards Israel is becoming soft. They want to establish relations with Israel. After a move by the"

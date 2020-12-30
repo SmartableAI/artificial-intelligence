@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-03-driving-the-next-generation-of-ai.md",
+      "title": "Driving The Next Generation of AI",
+      "excerpt": "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
+      "originalUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1613001600&v=beta&t=Wz2Px5Ibh7-7pHdKOJ9TuY-fGNj1_adkVDYZ23zdZsE",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
       "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
       "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
@@ -1321,58 +1373,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-this-is-how-conversational-ai-is-helping-businesses.md",
-      "title": "This Is How Conversational AI Is Helping Businesses",
-      "excerpt": "Conversational AI enables AI technologies such as chatbots to interact with users in a human-like manner. By linking the rift between human and computer speech, it creates communication between the tw",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/video/359220",
-      "originalUrl": "https://www.entrepreneur.com/video/359220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604731892-MyPost54.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359220",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220",
-      "publishedDateTime": "2020-11-06T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

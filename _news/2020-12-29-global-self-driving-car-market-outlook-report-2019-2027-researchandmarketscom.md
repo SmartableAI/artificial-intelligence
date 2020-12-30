@@ -25,31 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Market Share, Size 2021 Supply-Demand, Industry Research and End User Analysis, Outlook 2024"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ..."
-    publishedDateTime: 2020-12-28T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-2021-supply-demand-industry-research-and-end-user-analysis-outlook-2024-2020-12-28"
+  - title: "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025"
+    excerpt: "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies"
+    publishedDateTime: 2020-12-30T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/c/Tc30902512_g.jpg"
+        width: 650
+        height: 350
         isCached: true
-  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Self-Driving Car - Global Market Outlook (2019-2027)\" report has been added to ResearchAndMarkets.com's offering. Global Self-Driving Car market accounted"
-    publishedDateTime: 2020-12-28T12:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18936070/global-self-driving-car-market-outlook-report-2019-2027-researchandmarkets-com"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18936070"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18936070"
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
+    publishedDateTime: 2020-12-28T09:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934434/artificial-intelligence-in-healthcare-diagnosis-market-forecast-to-2027-covid-19-impact-and-global"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 19
+    quality: 35
+  - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
+    excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
+    publishedDateTime: 2020-12-29T21:04:00Z
+    webUrl: "https://www.openpr.com/news/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    ampWebUrl: "https://www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
 
 secured: "/4ZvHD9DmZ/kVRYaryKzZ7bYzmykCdpcjVhdkqzBVrkcSItqsahkgiUahRADkMLUfqpnGBljZUTuPY/KYqdrMyMxGK/QZw45uyR5kZXhyWGYMCv9PmHEg3SZw+aa38EHcCf1CWOTUMFBBN4yMsjHZ3uOTFT3ZeycRrDEq33yfldc75KXoLVX8ugLi9xJEHAfnq9NCUALYVbd1DYnPmMPnhJZCy1IIg/nt2VJN7uiNrac4KbMamRkCHrxEtWS/0L0cl+qtzeM7ItfcysW//V1upJmmvpK9m+p8hoUVDW78s7fKO3oRLcIv9gQTVkd+A2uws5kysZu6E/8pcerfw/gCJ6/h9211tCypjFEHa3JDPY=;BGRoq3RGz5ZUSTuL0qL+NQ=="
 ---

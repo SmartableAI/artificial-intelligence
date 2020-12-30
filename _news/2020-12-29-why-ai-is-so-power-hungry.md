@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Why AI is so power-hungry"
-excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
-publishedDateTime: 2020-12-29T12:38:00Z
-originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
-webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
+excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
+publishedDateTime: 2020-12-29T12:43:00Z
+originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
+webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
 type: article
-quality: 71
-heat: 71
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg"
@@ -29,6 +28,22 @@ images:
     height: 380
     isCached: true
 
-secured: "60Lh8nh7KSZerNIl3YqvqFP/eDG2/RqyveIGouVGVf036KO8jAxcfXLQC+UMURH6ojGoFlJvZXMs5SBLOEEP45bd2YmlDOhHTLcGbb8n6nlrqXeOHY+mMQCkKfx5mqHBM1KLrRwmhJw6/ta2YxDslzjYJEM1nIDSphtJ8kHLRiTw/SCH1GcMqRAXFOmFwk0m9cQsM6cPOv6Ci9HSwgltzzcxDdTolm5ayqOvNIUxHeGmNylXPduNB05XiQoXuyU+Il897oFdIOx+A77WZhDepwcGzNx9PxiuBYMVLN2rh7kov/IpW7OQbu8YoU096dqGp1IduNHnoKx5GdoSOilbdRoSF+z2500MI/7Z+nNPb1puAuKYXK5Z5CFCtkMq7QMRStiXZpraODTk2CmpKfqA4YQnKXMfwfoPNA0aw8cv3tX2ffY0LGhRaBExq0PyQ9qFKeIonGJUDXSxP7sItSQwQUTOccP8Aq4Fv8S5H0PibXi+gz/kBw5oNzTKtoQvt5EnKyep6UxUnr2jWYog+TDj+A==;F+kQHjUgDT8Jc2QvR5lq7Q=="
+related:
+  - title: "Why AI is so power-hungry"
+    excerpt: "AI is more computationally intensive because ... the connection weights start to change and pick up patterns in the data. The network eventually becomes accurate. One recent model called ..."
+    publishedDateTime: 2020-12-30T08:57:00Z
+    webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=80"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+
+secured: "KqMB4XMZE7fhzCCZq+Bmggyx7f7xLTkLHQSbvhp+kNc+3eDKdFPMZKABtoZqNMTSnz1kKYyraQzlfcOB3gUrclKl5zu/GlZ4LNzu8IJwoEAb8HygB+VkY4B/EgJZr1EYJd0UWJFYJdoxNeZnEP+5MM3pJ3kHvtXC6LM7I3o2B4SkvrAG/hd5qf4H6aVgfdWhbL82LE6oLvuVHDf24Ijtb1bzEepLmx4L0BOLRTwVRpzdGxS2VkVNPWHhhkF0ZDMDXLHAL9EWgMn7cquyuaZQ7Yiq/0wBwm7MK5TAlLZjFTsbFqubfF57wO/fpQ8UT+Hq96X8/hDndl2ixxlQKBOf6vBDk5wbUcEv2Gx5fdWKTgs=;oHmNvmbayfJPfTwnzLOjnQ=="
 ---
 

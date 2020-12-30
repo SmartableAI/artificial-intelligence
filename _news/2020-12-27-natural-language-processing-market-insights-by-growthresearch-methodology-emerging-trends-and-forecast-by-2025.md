@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Construction Market Inclinations and Development Status Highlighted During Forecast Period 2020-2025"
+    excerpt: "The AI in Construction Market was valued at USD 466.9 million in 2019, and it is projected to be worth USD 2312.8 million by 2025, registering a CAGR of 33.87% during the period 2020 to 2025. According to the Association of Equipment Manufacturers (AEM),"
+    publishedDateTime: 2020-12-26T22:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-2025-2020-12-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sQ/xct1eaPZ1iT9pkyceX9F886m3sYxpy2XgF5JUNjA4DKOPdyRpl+9rsRla9z/tozNgA0kxnQZ3tbhMTjM6GGAHCfO3UQWzIfMbP57RKWC2R9nMAqMBB5v3QRoNIgdCHDJbQ6j5NZvi9U0qegSjTttuIcYUgJBQXbvKUHeZ9IN2cpCkt6YDDFLX88u3gEhioqAYUvXpV8+wOoDS2jxiZahpKYcF6SjMzAnaoVXRas5kGd2mSOnUtqfAapVZ7iOfx0xYZWTSE07fzYb3bG+NCNEea49d8hz9lw125DGhcwQQMSzoUbqXJ7dPkZPLDR5kzYqPkxaNy2WiS3YIpHlzttRFpplKZ73jDzggxWnn+uc=;qVIwetZEhaG1XEwETC2jMA=="
 ---

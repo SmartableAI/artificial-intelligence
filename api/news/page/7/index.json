@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-21-why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises.md",
+      "title": "Why Covid Will Make AI Go Mainstream In 2021: Top 3 Trends For Enterprises",
+      "excerpt": "Artificial Intelligence will transform the future of Pharma Drug Discovery, Work from Home, and Edge Computing in 2021. Find out why this will be the year when AI sees widespread use across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d64beeb2ee80897aea726%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D552%26cropY2%3D3185",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "publishedDateTime": "2020-12-21T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom.md",
+      "title": "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom",
+      "excerpt": "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/articleshow/79839353.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/79839520.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom/amp_articleshow/79839353.cms",
+      "publishedDateTime": "2020-12-21T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
+      "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
+      "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "publishedDateTime": "2020-12-21T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
       "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
       "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
@@ -40,7 +189,6 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -1035,162 +1183,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-what-to-expect-in-the-nlp-space-in-2021.md",
-      "title": "What to expect in the NLP space in 2021",
-      "excerpt": "2020 has been a great year for the advancement of Natural Language Processing (NLP). We have seen a large number of organizations, from small ventures to massive enterprises, adopt NLP into their business solutions and data pipelines. With this high rate of adoption comes the next set of innovations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/nlp-2021-forecast-leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T08:56:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-tips-for-applying-an-intersectional-framework-to-ai-development.md",
-      "title": "Tips for applying an intersectional framework to AI development",
-      "excerpt": "Ultimately, there isn’t a “one-size-fits-all” approach to building intersectional AI. At The Trevor Project, our team has outlined a methodology based on what we do, what we know today and the specific communities we serve.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/",
-      "originalUrl": "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-559572335.jpg?w=1024",
-          "width": 1024,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/18/tips-for-applying-an-intersectional-framework-to-ai-development/amp/",
-      "publishedDateTime": "2020-12-18T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-nvidia-leverages-aws-marketplace-to-advance-gpu-deployment.md",
-      "title": "Nvidia leverages AWS marketplace to advance GPU deployment",
-      "excerpt": "The relationship between Nvidia and AWS is becoming complicated in part because AWS has also signaled its intention to build its own GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/",
-      "originalUrl": "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-aws.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidia-leverages-aws-marketplace-to-advance-gpu-deployment/amp/",
-      "publishedDateTime": "2020-12-18T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

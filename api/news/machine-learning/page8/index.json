@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-10-artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey.md",
+      "title": "Artificial Intelligence and Machine Learning helping insurance companies with cybersecurity: EY",
+      "excerpt": "EY had helped an insurance company tackle the cybersecurity threat and this could be replicated throughout the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg",
+          "width": 412,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
+      "publishedDateTime": "2020-11-09T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-threat-stack-unveils-machine-learning-capabilities-in-the-threat-stack-cloud-security-platform.md",
       "title": "Threat Stack Unveils Machine Learning Capabilities in The Threat Stack Cloud Security PlatformⓇ",
       "excerpt": "Threat Stack, the leader in cloud security and compliance for infrastructure and applications, today announced ThreatML ™, its new machine learning engine that enhances security observability for the Threat Stack Cloud Security Platform Ⓡ,",

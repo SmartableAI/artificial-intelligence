@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-27-the-increasing-use-of-ai-in-the-pharmaceutical-industry.md",
+      "title": "The Increasing Use Of AI In The Pharmaceutical Industry",
+      "excerpt": "For AI ethics and transparency, we make sure MLOps processes are in place, and Machine learning (ML) models model scoring is established, monitoring and drift detection, the feedback loop is transparently followed. We bring a diverse ML team with diverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe7b0c464ca6c458d7d92a7%2F0x0.jpg",
+          "width": 1200,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/",
+      "publishedDateTime": "2020-12-26T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai.md",
+      "title": "A crewless boat is recreating the Mayflower’s 400-year-old journey, with the help of AI",
+      "excerpt": "The vessel, docked in the harbor of Plymouth, England, will rely on the latest navigation technology when it sets out to sea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/",
+      "originalUrl": "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2020/12/Mayflower-400-CBS-News-Photo.jpg?w=1280",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/amp/",
+      "publishedDateTime": "2020-12-26T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-these-3-tech-stocks-gained-over-50-in-2020-heres-why-theyre-still-buys-in-2021.md",
       "title": "These 3 Tech Stocks Gained Over 50% in 2020: Here's Why They're Still Buys in 2021",
       "excerpt": "The S&P 500 has gained about 14% in 2020, but many technology stocks easily outpaced the market this year as investors looked to this sector as a haven during the pandemic. NVIDIA ( NASDAQ:NVDA), Atlassian ( NASDAQ:TEAM),",
@@ -257,8 +352,8 @@
       "title": "Beyond the Boombox: The Race to Artificial Intelligence",
       "excerpt": "A “boombox” was an oversized, battery-powered, portable music machine; it is an artifact of a very particular time in American culture, re",
       "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-55707/",
-      "originalUrl": "https://www.moneyshow.com/articles/dailyguru-55707/",
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/",
+      "originalUrl": "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -291,7 +386,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1121,101 +1215,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya.md",
-      "title": "Malaysia approves first testing route for self-driving cars in Cyberjaya",
-      "excerpt": "Malaysia has greenlit its first testing route for self-driving cars in Cyberjaya, with eMooVit Technology Sdn Bhd to be the first to utilize it.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya",
-      "originalUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/emoovit-cyberjaya-header_4uqp.620.png",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1",
-      "publishedDateTime": "2020-12-23T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-what-alphago-can-teach-us-about-how-people-learn.md",
-      "title": "What AlphaGo Can Teach Us About How People Learn",
-      "excerpt": "At DeepMind, a subsidiary of Alphabet, Silver has led the development of techniques that let computers learn for themselves how to solve problems that once seemed intractable. Most famously ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
-      "originalUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fe26be462dc9f2effae991b/master/pass/Business-Alpha-Go-David_Silver.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-alphago-teach-how-people-learn/amp",
-      "publishedDateTime": "2020-12-23T19:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
