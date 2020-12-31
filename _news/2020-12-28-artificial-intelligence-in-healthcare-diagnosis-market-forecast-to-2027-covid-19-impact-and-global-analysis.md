@@ -62,20 +62,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
-    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
-    publishedDateTime: 2020-12-27T04:16:00Z
-    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "0MMWrtyfy4G2HERNfTOqjfsmd60TukleSpMyDPGbRifPzn0Cqk/gLkYQFZ9vvkRbdeLEOK8OtlKwolHeMTQskv5z+kDoIcO0MBMZchG5G3XZO7RImIXlA8Jsw1jv4slg2zLF0l3f9/8Usu2fDaJtQRz41rWaa3QOOD5KVLl0/LHkwgPoHJDt1mNNZvJCHFso8uBlML3on7kE6PWz1aIem1NEQy0KstC3vN7SDQKpVZQsOYtauC/HhCv+D00WKwvqyWFOF7ttR8kev55RWdeSoxLGAz8b6h7Bq6pkaaPgWYpOyMFoDfYW0/ry3DWk8RVoQK8GAhh2L1j/TQ3eDyIWb+PmRUaMkrigFGDUpJSwZkA=;gb8Z6IEHPgjPrWRTVUdnHA=="
 ---

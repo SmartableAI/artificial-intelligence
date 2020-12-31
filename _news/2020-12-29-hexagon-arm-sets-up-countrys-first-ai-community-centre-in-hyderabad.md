@@ -74,17 +74,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "From sanitisation to disinfection, Hyderabad based start-up’s robot disinfectant all set to fight Covid-19"
-    excerpt: "As a part of its fight against the Corona pandemic, a Hyderabad-based start-up ‘H-Bots Robotics’ has come up with a robotic disinfectant named ‘ACCORD’. Speaking to ANI, Kishan, the founder and Chief Executive Officer of H-Bots said that Robotics has played an equal role to any other field of work that contributed in the ongoing pandemic situation."
-    publishedDateTime: 2020-12-27T04:33:00Z
-    webUrl: "https://www.hindustantimes.com/it-s-viral/from-sanitisation-to-disinfection-hyderabad-based-start-up-s-robot-disinfectant-all-set-to-fight-covid-19/story-UkJQSONd6X3tpV1BdtbinO.html"
-    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/from-sanitisation-to-disinfection-hyderabad-based-start-up-s-robot-disinfectant-all-set-to-fight-covid-19/story-UkJQSONd6X3tpV1BdtbinO_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/from-sanitisation-to-disinfection-hyderabad-based-start-up-s-robot-disinfectant-all-set-to-fight-covid-19/story-UkJQSONd6X3tpV1BdtbinO_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 21
 
 secured: "9KhaELo7LUMly9mziIWTZ/gCFZlUKnqlSIi3cf27P4EdgRnSQEtiZsAukdkOnpZ3UB/1aVvWJvUcjlU0i5viwSjsxLQilToyO5/G9wQaiGMp7vWypcpYzcwN352IdVoA5U8MjdO9f82kiz9BG0+ieSErnYqtaZDAHNsWWDcYvutewGmFVeiWAz3mRnhlswCSVkTM/DthQ5uHsIPcoxmG1xyszbNCOQ9DVAqFI9Gmton3nYwzDgu26wJLGnBvTzYoK7L+YNWYFihgDdjJcxqwnLb0BapykL6JY9WYgjPO1r6ZQiJekYgzwzwe9+MLWJMlJKJfD8jdkbwS6zc/XtqzeCS1r3VGTLStelqe9dQ/pkE=;sJfWT9f8Yn+P+u3tJ96REg=="
 ---

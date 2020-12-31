@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-u
 ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 type: article
-quality: 91
+quality: 93
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"

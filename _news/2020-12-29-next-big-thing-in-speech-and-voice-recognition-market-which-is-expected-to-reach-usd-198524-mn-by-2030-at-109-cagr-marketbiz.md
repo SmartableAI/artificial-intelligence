@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence For IT Operations Platform Market Size Estimated To Reach USD 39.97 Billion By 2027: Grand View Research Inc."
+    excerpt: "Market Research And Consulting.” According to report published by Grand View Research, The Artificial Intelligence for"
+    publishedDateTime: 2020-12-31T19:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18981348/artificial-intelligence-for-it-operations-platform-market-size-estimated-to-reach-usd-39-97-billi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18981348"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18981348"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+    images:
+      - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-ai-for-it-operations-platform-market.png"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "JpaTG392C4aKm7/dFM8S95Lb+FKoUYNmkkogJL7tglkEyl0NlphMrtSk6unIvm1TU+hS5bCprvc6AQMy76EEKSVuDHP486FmeAEQG96yaiTM47/IyLpt2ABSVybLBxlIvqxutQEFxPjaHdYl7qFigp4aKE2sACdlSycTQqZeAqQjuBYoXDHn+OrclqfkXXFNIZG9MEoHExZWahuI0hNCxZpqPOcyZc9esQp6m6iDWKbsxKI33mOxh2p8KqSVrds/WH9AJE0oeUnFbEN/SduLT9LAWKLDTki9Doce+BwVxc29JQWOvy4e2SEpO9X8COCEDgxf30O7DB05eYx3Eo1H2uAhNsleXJdnblpm5E2tmHA=;HsHfyBA1/wIAxZ50HvKhOQ=="
 ---

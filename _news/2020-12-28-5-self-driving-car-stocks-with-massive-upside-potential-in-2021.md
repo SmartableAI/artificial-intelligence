@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Apple’s self-driving car plans might transform the company itself"
+    excerpt: "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business."
+    publishedDateTime: 2020-12-31T20:33:00Z
+    webUrl: "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/"
+    ampWebUrl: "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/apple1mt.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Apple's Self-Driving Car Ambitions Will Shake Industry"
     excerpt: "Apple needs to develop self-driving solutions to expand its device to reach beyond televisions, smartphones, and computers. Every other fast-growing technology firm is doing the same thing. For example,"
     publishedDateTime: 2020-12-30T13:15:00Z

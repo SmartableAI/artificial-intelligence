@@ -63,20 +63,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
-    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
-    publishedDateTime: 2020-12-27T04:16:00Z
-    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "/4ZvHD9DmZ/kVRYaryKzZ7bYzmykCdpcjVhdkqzBVrkcSItqsahkgiUahRADkMLUfqpnGBljZUTuPY/KYqdrMyMxGK/QZw45uyR5kZXhyWGYMCv9PmHEg3SZw+aa38EHcCf1CWOTUMFBBN4yMsjHZ3uOTFT3ZeycRrDEq33yfldc75KXoLVX8ugLi9xJEHAfnq9NCUALYVbd1DYnPmMPnhJZCy1IIg/nt2VJN7uiNrac4KbMamRkCHrxEtWS/0L0cl+qtzeM7ItfcysW//V1upJmmvpK9m+p8hoUVDW78s7fKO3oRLcIv9gQTVkd+A2uws5kysZu6E/8pcerfw/gCJ6/h9211tCypjFEHa3JDPY=;BGRoq3RGz5ZUSTuL0qL+NQ=="
 ---

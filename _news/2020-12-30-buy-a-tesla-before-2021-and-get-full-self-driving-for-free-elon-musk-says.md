@@ -47,6 +47,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
+    excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
+    publishedDateTime: 2020-12-31T19:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk pushes Tesla to have more in-car gaming in preparation for self-driving future"
     excerpt: "CEO Elon Musk is pushing Tesla to have more in-car games and entertainment, which he sees as 'critical' in a self-driving future."
     publishedDateTime: 2020-12-29T11:17:00Z

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence For IT Operations Platform Market Size Estimated To Reach USD 39.97 Billion By 2027: Grand View Research Inc."
+    excerpt: "Market Research And Consulting.” According to report published by Grand View Research, The Artificial Intelligence for"
+    publishedDateTime: 2020-12-31T19:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18981348/artificial-intelligence-for-it-operations-platform-market-size-estimated-to-reach-usd-39-97-billi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18981348"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18981348"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+    images:
+      - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-ai-for-it-operations-platform-market.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Next Big Thing In Speech and Voice Recognition Market, Which Is Expected To Reach USD 19,852.4 Mn By 2030 at 10.9% CAGR -Market.Biz"
     excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Speech and Voice Recognition Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats,"
     publishedDateTime: 2020-12-29T07:39:00Z

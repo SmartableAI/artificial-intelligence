@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/3536942268_68d718be1f_b-760x380.jpg"
