@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-ai-transformed-sports-in-2020/"
 webUrl: "https://analyticsindiamag.com/how-ai-transformed-sports-in-2020/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence transforms today’s hearing aids"
-    excerpt: "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more."
-    publishedDateTime: 2020-12-29T13:44:00Z
-    webUrl: "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/"
-    ampWebUrl: "https://amp.news-press.com/amp/4007932001"
-    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001"
+  - title: "How This AI-Enabled Chatbot Radically Transformed Cancer Care Amid Pandemic"
+    excerpt: "Hospido has developed an AI-enabled chatbot called Cancer Dost, where patients can learn about their cancer treatment course, free of cost."
+    publishedDateTime: 2020-12-29T04:40:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-ai-enabled-chatbot-radically-transformed-cancer-care-amid-pandemic/"
     type: article
     provider:
-      name: News-Press
-      domain: news-press.com
-    quality: 72
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 35
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/PFTM/8c57808c-00db-4b43-b9ae-de53dd5b5883-GettyImages-1284869697.jpg?auto=webp&crop=723,407,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/How-This-AI-Enabled-Chatbot-Radically-Transformed-Cancer-Care-Amid-Pandemic.jpg"
+        width: 1600
+        height: 1200
         isCached: true
 
 secured: "s1y2yOJjl6TIbzSNNjvpNhXuZvjbUIZ2+Qa3Fd7WejgXZC2/FrSIHjsDXkj6ElPWeIynaULOMevjeEdSmV087n2xR1WqRaWLE+dWQsF6vh2qiH38X6RZ7IswHKxHG0Bt2cKNLwZfUv0cZP3nH5L4vduB6YrA3uafxnNcVRrWl3BS4TA5iR80WfzyTSuZY+41HvY4sekOZ7uYtgTo6WPWVZHiDQWqHVQDJjGnFkptZf/povBdbGQzFNDncDYShWXGH/lX0+VB/NkZP3zIJ52d5f11Iqq+4YrcQdEqAntc33kFNTaVXUgN2UxhVmErFeBoYuFGnopYgjF/XdY84SRrmHxdaoXeqxvrJHCADRxcFqw=;q3CJ9MRJREeUy4maQBN4Kg=="

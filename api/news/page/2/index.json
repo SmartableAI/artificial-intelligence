@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-29-artificial-intelligence-transforms-todays-hearing-aids.md",
-      "title": "Artificial intelligence transforms today’s hearing aids",
-      "excerpt": "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more.",
+      "path": "_news/2020-12-30-5-ai-tools-to-help-companies-connect-with-customers-in-2021.md",
+      "title": "5 AI tools to help companies connect with customers in 2021",
+      "excerpt": "As companies look for ways to improve customer engagement, more IT leaders will be turning their focus to artificial intelligence tools in 2021 to help teams stay connected with customers.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/",
-      "originalUrl": "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/",
+      "webUrl": "https://www.techrepublic.com/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PFTM/8c57808c-00db-4b43-b9ae-de53dd5b5883-GettyImages-1284869697.jpg?auto=webp&crop=723,407,x0,y36&format=pjpg&width=1200",
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/12/29/c241c807-3f6b-4a9c-99f5-5efe2c3bceec/resize/1200x900/3493c5602b2a50c620f7d963cacfb961/amplify-new.jpg",
           "width": 1200,
-          "height": 676,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.news-press.com/amp/4007932001",
-      "cdnAmpWebUrl": "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001",
-      "publishedDateTime": "2020-12-29T05:44:00-08:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/",
+      "publishedDateTime": "2020-12-29T09:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News-Press",
-        "domain": "news-press.com",
-        "images": null,
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,6 +49,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars.md",
+      "title": "Largest Ever Cyber Hack Provides Vital Lessons For Self-Driving Cars",
+      "excerpt": "Learning valuable cybersecurity lessons from the recent SolarWinds debacle and using those lessons for the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea5d030b6c5fc034334221%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5991%26cropY1%3D266%26cropY2%3D3074",
+          "width": 1199,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-12-29T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -103,7 +164,7 @@
       "originalUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -140,13 +201,13 @@
     {
       "path": "_news/2020-12-29-why-ai-is-so-power-hungry.md",
       "title": "Why AI is so power-hungry",
-      "excerpt": "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?",
+      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
-      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
+      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -162,7 +223,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T04:38:00-08:00",
+      "publishedDateTime": "2020-12-29T04:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -185,7 +246,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -1179,59 +1239,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
-      "title": "Neural’s AI predictions for 2021",
-      "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "publishedDateTime": "2020-12-28T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

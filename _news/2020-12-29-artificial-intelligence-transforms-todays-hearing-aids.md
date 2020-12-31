@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.news-press.com/amp/4007932001"
 cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001"
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: News-Press
@@ -26,19 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Transformed Sports In 2020"
-    excerpt: "Analytics India Magazine collated a list of how different aspects of sports significantly transformed in 2020 due to the use of AI."
-    publishedDateTime: 2020-12-28T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-transformed-sports-in-2020/"
+  - title: "AI and robot-run farms are transforming agriculture"
+    excerpt: "Ag-tech startup Plenty's vertical farm produces 400 times more food per acre than a flat farm with employed robots and AI."
+    publishedDateTime: 2020-12-31T02:57:00Z
+    webUrl: "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
     images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/tim-gouw-VvQSzMJ_h0U-unsplash-scaled.jpg"
-        width: 2560
-        height: 1711
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/12/plenty-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Fruitful business: how Ripe Robotics is transforming robotics and agriculture"
+    excerpt: "I am a massive risk taker so I was quite happy to quit my job and put all my money into this,” said Hunter Jay, founder and CEO of Ripe Robotics. However Ripe Robotics wasn’t founded on a whim. An analysis of Australia’s strongest industries,"
+    publishedDateTime: 2020-12-27T21:03:00Z
+    webUrl: "https://dynamicbusiness.com.au/featured/fruitful-business-how-ripe-robotics-is-transforming-robotics-and-agriculture.html"
+    ampWebUrl: "https://dynamicbusiness.com.au/featured/fruitful-business-how-ripe-robotics-is-transforming-robotics-and-agriculture.html?amp"
+    cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/fruitful-business-how-ripe-robotics-is-transforming-robotics-and-agriculture.html?amp"
+    type: article
+    provider:
+      name: Dynamic Business
+      domain: dynamicbusiness.com.au
+    quality: 71
+    images:
+      - url: "https://dynamicbusiness.com.au/wp-content/uploads/2020/12/RobotCropped.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "This 2-Acre Vertical Farm Is Managed by AI and Robots and Uses 99% Less Land"
+    excerpt: "This vertical farm takes up two acres of land, but it produces the same amount of food as a 720-acre farm. Could this be the future of farming?"
+    publishedDateTime: 2020-12-29T19:45:00Z
+    webUrl: "https://mymodernmet.com/plenty-vertical-farm/"
+    type: article
+    provider:
+      name: My Modern Met
+      domain: mymodernmet.com
+    quality: 51
+    images:
+      - url: "https://mymodernmet.com/wp/wp-content/uploads/2020/12/plenty-2-acre-vertical-farm-1.png"
+        width: 751
+        height: 501
         isCached: true
 
 secured: "q+toHi0Efld95BhthdyzLz3h0kIHSkfW2Wnfm43NbGV1haiPbx3T40IEnG36CP2ihc2fGJP2jq0GZgjJOi1EAvP+Crl6skISBpunwG59mfe6OtD+EMDtro7LppRUlevXsV9lXRmmgcS85d6A91uLlQ7tBjD37iUO3IUOdOrcGTmSoAaLsy+s9TJRMZ9+sGl9d7ch2VUdY8kzGsVAbYfESuI72zXQBcs3ZZuE5YN5e2lq2SrEgXoIj7cGPaDdwonfm0Iy5Kx9LEQPz4U2m7O4klJoEcvpWM2jb6LIUqUlddFHw/Ie79kz25AIqt3avpE+dYitxJR505t8J3IbyQdBPQo0EwTP2stT85DougZAw+d7LU62dUFt1/RsPpk8+oKoJ9VzkriMdNVaH0bAIj/hLm6sKHSt6ARBu91QkwXwe6KB4YGa70F+fyHWEwPvBcYkWkPwfXnRXdLBStHyp25aZmjRy7OqC60OEz36bFUXU6hpCkeH//6GenZo1xFwisQi5o/v+2ISGs6IRjTXU+OTQg==;aFx2EluZ5JW7gkrgeHJJaQ=="
