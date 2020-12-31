@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
 type: article
 quality: 191
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -32,6 +32,17 @@ images:
     isCached: true
 
 related:
+  - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
+    excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
+    publishedDateTime: 2020-12-31T14:10:00Z
+    webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "An AI Agenda for the New Presidential Administration"
     excerpt: "The end of the year, the end of one administration and the beginning of another, presents a time to consider what’s important and to set priorities. In the areas in which high-tech issues and the law intersect,"
     publishedDateTime: 2020-12-28T17:59:00Z

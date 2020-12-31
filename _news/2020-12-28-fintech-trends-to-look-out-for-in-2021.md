@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://icoexaminer.com/wp-content/uploads/2018/10/usdt-300x302.jpg"
         width: 300
         height: 302
+        isCached: true
+  - title: "Pandemic creates surge for MENA fintech development"
+    excerpt: "The number of Fintech startups have surged in the last 10 years: tech ventures which are positioned to serve and disrupt financial markets and the associated knowledge industries in the Middle East and North Africa (MENA) region."
+    publishedDateTime: 2020-12-31T14:15:00Z
+    webUrl: "https://www.executive-magazine.com/uncategorized/pandemic-creates-surge-for-mena-fintech-development"
+    type: article
+    provider:
+      name: Executive
+      domain: executive-magazine.com
+    quality: 24
+    images:
+      - url: "https://www.executive-magazine.com/wp-content/uploads/2019/07/facebook2.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
     excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further"

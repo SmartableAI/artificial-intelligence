@@ -29,6 +29,22 @@ images:
 related:
   - title: "Tech: Voice-controlled smart fridge opens on command so you don't need to touch the handle"
     excerpt: "Door' fridge - is to be formally unveiled by the Korean firm LG at next month's digital Consumer Electronics Show."
+    publishedDateTime: 2020-12-31T10:06:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9098567/Tech-Voice-controlled-smart-fridge-opens-command-dont-need-touch-handle.html?traffic_source=Connatix"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9098567/amp/Tech-Voice-controlled-smart-fridge-opens-command-dont-need-touch-handle.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9098567/amp/Tech-Voice-controlled-smart-fridge-opens-command-dont-need-touch-handle.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 34
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/30/12/37407028-0-image-a-2_1609331586864.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Tech: Voice-controlled smart fridge opens on command so you don't need to touch the handle"
+    excerpt: "Door' fridge - is to be formally unveiled by the Korean firm LG at next month's digital Consumer Electronics Show."
     publishedDateTime: 2020-12-30T12:16:00Z
     webUrl: "https://www.dailymail.co.uk/sciencetech/article-9098567/amp/Tech-Voice-controlled-smart-fridge-opens-command-dont-need-touch-handle.html"
     type: article

@@ -2,6 +2,144 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-17-4-cutting-edge-ai-stocks-to-buy.md",
+      "title": "4 Cutting-Edge AI Stocks to Buy",
+      "excerpt": "Artificial intelligence is the new frontier in technology and these AI stocks have the cutting edge of the science and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/",
+      "originalUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/amp/",
+      "publishedDateTime": "2020-12-16T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-global-artificial-intelligence-in-healthcare-market-forecast-to-2027.md",
+      "title": "Global Artificial Intelligence in Healthcare Market – Forecast to 2027",
+      "excerpt": "WiseGuyReports.com adds \"Global Artificial Intelligence in Healthcare Market Research Report 2020 Analysis and Forecast 2027\" reports to its database. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1608137550.jpeg",
+          "width": 278,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18827297",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18827297",
+      "publishedDateTime": "2020-12-16T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-software-predictions-for-2020-from-around-the-industry.md",
+      "title": "Software predictions for 2020 from around the industry",
+      "excerpt": "Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
+      "originalUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-with-ai-maturing-are-humans-still-needed-to-fight-cybercrime.md",
       "title": "With AI maturing, are humans still needed to fight cybercrime?",
       "excerpt": "Cybercriminals are clever, and AI cannot always account for that. This is where cybersecurity and AI professionals come in.",
@@ -1064,164 +1202,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu.md",
-      "title": "Healthcare AI Implementation For Emerging Markets: Lessons Learned From The U.S. And EU",
-      "excerpt": "Emerging markets are at the cusp of implementing and developing their own framework for AI implementation in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd91dfadbb0cd572336c3af%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/amp/",
-      "publishedDateTime": "2020-12-16T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-vroom-acquires-ai-enabled-vehicle-information-provider-carstory.md",
-      "title": "Vroom Acquires AI-Enabled Vehicle Information Provider CarStory",
-      "excerpt": "Vroom's announcement that it will purchase AI-enabled info provider CarStory shows how used-car retailers are increasingly relying on data science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/",
-      "originalUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd96040fcae4acbbba931b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/amp/",
-      "publishedDateTime": "2020-12-16T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023.md",
-      "title": "Artificial Intelligence (AI) in Marketing Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2023",
-      "excerpt": "Market Synopsis The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing",
-        "Facebook AI"
       ]
     }
   ],

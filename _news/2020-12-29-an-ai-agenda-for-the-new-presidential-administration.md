@@ -41,6 +41,17 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
+    excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
+    publishedDateTime: 2020-12-31T14:10:00Z
+    webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "m7U6du1e2HytTvLUzX6R9yCk4xFoYwX2C19OBPjhbKPZusrfw01wuTaqM1+nXb6XhGEHE6/pFe0y+xD59CX6FCwqHsRJhenMPkBGySqQifxezsN3e5Nap7PP1+qejWAdqNX+DOpBQoImWNzrfqVXt1BZd2ZJ9c7ltM11KdrtgysZwLZ8FeC8v8dKSsPAWcu4SiHIdhBHt22tFJ5d0ijxmACw0ympDhX6rpv41AChux5PwrMUzdejkgAbb6rcDWd60VgEhxh4/DDGusEzhSUYNQYTa6HAcp7ZvHtiDDUhgUEMP1lcDcKiMl6cTFtpPbcqQQ9cnaBqAwXt1tJMiW/jauVkoLPWMUnlz7aQQFR0BQJh1G3+bW65JC8DwPkgr8o16d2Ew8xe5GvnFkAR5LHy+rJbxJk3EPvF1zYMnaf/y42d0BG7nTBmoCN0dLanCWD8q7GuaBVHfl6Z7FpTg7L8I5sXsIUujV1st6ustSNnmokR3osCiQjb8zcL/eTFMadXwV9R+/MkMx9DLMw5cPfqvg==;GDvUkyBfnHuoxQMoF6AHPQ=="
 ---

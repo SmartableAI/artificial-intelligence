@@ -2,6 +2,161 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-11-23-gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada.md",
+      "title": "Gatik And Loblaw Partner To Bring First-Ever Driverless Deliveries To Canada",
+      "excerpt": "Canada is poised to see driverless commercial delivery of goods come to Toronto, thanks to startup Gatik bagging a $25M infusion of capital plus a partnership with Canada’s largest retailer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
+      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbab97107d4f398e3ecce1d%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1886%26cropY1%3D0%26cropY2%3D1332",
+          "width": 1199,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
+      "publishedDateTime": "2020-11-23T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-ibm-takes-the-next-step-with-cloud-pak-for-data.md",
+      "title": "IBM takes the next step with Cloud Pak for Data",
+      "excerpt": "IBM is in the midst of rolling out Cloud Pak for Data as a managed service on the IBM Cloud. It finally makes this end-to-end environment into the self-service offering that it was designed to be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/21/7fd6f1d6-f2f9-4102-9b3d-5c4225480509/ibm-cloud-pak.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "publishedDateTime": "2020-11-23T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail.md",
+      "title": "Two Companies, Everseen And Pactum, Show Artificial Intelligence's Impact On Walmart And All Retail",
+      "excerpt": "Retail is big and that makes it an ideal testing ground for artificial intelligence. What's being deployed in Walmart now from Everseen and Pactum is a window into where artificial intelligence is going now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
+      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9d5d18abba8a5b0f2b474%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
+      "publishedDateTime": "2020-11-23T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-mit-neural-network-knows-when-it-can-be-trusted.md",
       "title": "MIT neural network knows when it can be trusted",
       "excerpt": "Deep learning neural networks are artificial intelligence systems that are being used for increasingly important decisions. Deep learning neural networks are used for tasks as varied as autonomous",
@@ -1056,145 +1211,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-congress-is-eyeing-face-recognition-and-companies-want-a-say.md",
-      "title": "Congress Is Eyeing Face Recognition, and Companies Want a Say",
-      "excerpt": "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "originalUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "publishedDateTime": "2020-11-22T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-an-introduction-to-tensorflow-lite-development-on-android.md",
-      "title": "An introduction to TensorFlow Lite development on Android",
-      "excerpt": "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "originalUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "publishedDateTime": "2020-11-21T23:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality.md",
-      "title": "Scandit Expands into the Japanese Market to Enable Digital Transformation Through Computer Vision and Augmented Reality",
-      "excerpt": "Scandit is a unique computer vision and machine learning platform combining leading-edge barcode scanning, text recognition (OCR), object recognition, and AR for any camera-equipped smart device - from familiar smartphones to drones, wearables, and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "originalUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realwire.com",
-        "domain": "realwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

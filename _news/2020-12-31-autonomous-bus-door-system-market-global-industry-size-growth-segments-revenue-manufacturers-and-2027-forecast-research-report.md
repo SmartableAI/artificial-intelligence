@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Inclinations and Development Status Highlighted During Forecast Period 2020-2025"
-    excerpt: "The AI in Construction Market was valued at USD 466.9 million in 2019, and it is projected to be worth USD 2312.8 million by 2025, registering a CAGR of 33.87% during the period 2020 to 2025. According to the Association of Equipment Manufacturers (AEM),"
-    publishedDateTime: 2020-12-26T22:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-2025-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Contact Center AI Software Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
     excerpt: "Global Contact Center AI Software Market Growth (Status and Outlook) 2020-2025 is the latest market report rolled out by MarketandResearch.biz, one of the world’s leading market research firms. The report contains a detailed description of all the major market components such as global status and trend,"
     publishedDateTime: 2020-12-29T21:59:00Z
@@ -77,7 +63,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 28
+    quality: 30
   - title: "Facial Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
     excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The global facial recognition market was valued at USD 4."
     publishedDateTime: 2020-12-28T22:42:00Z

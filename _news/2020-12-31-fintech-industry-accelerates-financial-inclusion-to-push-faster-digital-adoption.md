@@ -115,6 +115,20 @@ related:
         width: 300
         height: 302
         isCached: true
+  - title: "Pandemic creates surge for MENA fintech development"
+    excerpt: "The number of Fintech startups have surged in the last 10 years: tech ventures which are positioned to serve and disrupt financial markets and the associated knowledge industries in the Middle East and North Africa (MENA) region."
+    publishedDateTime: 2020-12-31T14:15:00Z
+    webUrl: "https://www.executive-magazine.com/uncategorized/pandemic-creates-surge-for-mena-fintech-development"
+    type: article
+    provider:
+      name: Executive
+      domain: executive-magazine.com
+    quality: 24
+    images:
+      - url: "https://www.executive-magazine.com/wp-content/uploads/2019/07/facebook2.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Nigeria: Fintech Research - Everything You Need to Know About Tech Companies and Its Stocks"
     excerpt: "The tech industry comprises companies that sell devices, software, hardware, artificial intelligence, and other information technology (IT) products. These companies have always been profitable in terms of stock value."
     publishedDateTime: 2020-12-29T11:15:00Z

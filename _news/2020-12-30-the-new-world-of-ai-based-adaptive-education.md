@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362540"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2020roboarm-796x417.jpg"
         width: 796
         height: 417
+        isCached: true
+  - title: "The Building Blocks of Artificial Intelligence"
+    excerpt: "In popular culture, movies and the media often portray AI in a dark and dangerous light. However, experts believe that AI will actually positively augment the human race, though how exactly is still unknown."
+    publishedDateTime: 2020-12-31T14:12:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/building-the-blocks-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 39
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
+        width: 1280
+        height: 675
         isCached: true
   - title: "The Evolution of Artificial Intelligence in Video Games"
     excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."

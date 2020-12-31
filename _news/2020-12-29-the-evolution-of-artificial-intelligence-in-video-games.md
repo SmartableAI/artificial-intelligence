@@ -56,6 +56,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "The Building Blocks of Artificial Intelligence"
+    excerpt: "In popular culture, movies and the media often portray AI in a dark and dangerous light. However, experts believe that AI will actually positively augment the human race, though how exactly is still unknown."
+    publishedDateTime: 2020-12-31T14:12:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/building-the-blocks-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 39
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
+        width: 1280
+        height: 675
+        isCached: true
 
 secured: "auP9TyZCB70nJYyQAWQMPrlHx6UzyEf+2K43fLg/VEQ9DwHPpqr7Jyzujq0moFOMUTZHa9RdtHvmF5md76HWhFQQ/b2SQ/I847NxtTmhBvrzLI5znacbH0gbFe9zfd0kNGvSNJ6BjnjdSL0MS0j8oItM+dr5IGudDuFYWXhm1Qvm6Mhv8GBxWTtaOYX78vnTM0oZHx+H8p02dZG393xEasnxnrkWU9tf5P/9uhBlLFMwILJFdLAhR6v1Ak7wYghjIXA3QfBjtVKhtknEBD8ZBX+Q9zckoWw3ZJzvzgJz60lypB/D6tnk3IkTjHy/8I9LZ91VrZHw/GUM/V1J+RKZ9xVk0ZMftpn3LQ5r6WxSB9oXYo3n5mpA+PqkoDCIh57PlQIKc//gPxWTrtjt+4uw4uHOPI1SL7qvNKHcwsHfVKg9OiVL+dpzfYte+0GFgb2ZvKPi+N7i7uoabf3LeeNI611UB7JQl1ygGCWzYWOIJsWWNqznPfTQG9uWsu43ezuHk7U9OPQn7WW3EeHdnVMURA==;zUQAa7skVEysbbr/h1oLnQ=="
 ---

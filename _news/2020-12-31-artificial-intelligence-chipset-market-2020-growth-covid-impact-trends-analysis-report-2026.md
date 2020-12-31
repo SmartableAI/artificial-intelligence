@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2219615/artificial-intelligence-chipset-mar
 ampWebUrl: "https://www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 related:
   - title: "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
@@ -30,20 +31,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Construction Market Inclinations and Development Status Highlighted During Forecast Period 2020-2025"
-    excerpt: "The AI in Construction Market was valued at USD 466.9 million in 2019, and it is projected to be worth USD 2312.8 million by 2025, registering a CAGR of 33.87% during the period 2020 to 2025. According to the Association of Equipment Manufacturers (AEM),"
-    publishedDateTime: 2020-12-26T22:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-2025-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
