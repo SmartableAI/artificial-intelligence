@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/26/these-3-tech-stocks-ga
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "These 3 Tech Stocks Gained Over 50% in 2020: Here's Why They're Still Buys in 2021"
-    excerpt: "The S&P 500 has gained about 14% in 2020, but many technology stocks easily outpaced the market this year as investors looked to this sector as a haven during the pandemic. NVIDIA"
-    publishedDateTime: 2020-12-26T13:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?time=1608988801"
-    ampWebUrl: "https://www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/these-3-tech-stocks-gained-over-50-in-2020%3A-heres-why-theyre-still-buys-in-2021-2020-12-26?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
 
 secured: "4cMzysjki1Y+NhdDlAf+sOTjcn01aEU4ddQQtDEalLSJAmd8xfwga/9N6TvD+th9MU458qtIzYZJevaK63owlgFZTP3fkWMETKMjiSIm/YRN3S8un9MI8Ck0UzbyVDGZSRTDTeeocBV55JJri6oj9RtXicNExlviM7eoADYq9yuOaJ6It2nlQSMLvyz35UfnXntVAY33CpW4ql6GmqINgClbkEt74ndPjAgGAgHb+3iO2v28Rdm2GYFGrr8euN77GyQbcfFHXo7FeU7yQJtBMnsIHSH7IZmhPFB6Ka60war0UufFIxccwR2E9T94pWH3nbKEeCBdyBnMvVUhgEZuboc1eKRo6pKnVB8lJSRGAO8=;lS6erKEA8XT+2X2xmM6TXg=="
 ---

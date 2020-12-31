@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Tesla Offering Three Months Full Self-Driving Package For Free"
-excerpt: "This latest incentive by Tesla is reportedly available to buyers who can take delivery by the end of the year."
-publishedDateTime: 2020-12-30T14:30:00Z
-originalUrl: "https://www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/"
-webUrl: "https://www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/"
-ampWebUrl: "https://www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/amp/"
+title: "Tesla Offers Free Self-Driving Package For Three Months As Year-End Gift"
+excerpt: "Customers who take delivery of a new Tesla car from December 29th to 31st will receive free Full Self-Driving package for three months"
+publishedDateTime: 2020-12-30T12:30:00Z
+originalUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/"
+webUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/"
+ampWebUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
+cdnAmpWebUrl: "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
 type: article
-quality: 39
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: gaadiwaadi.com
+  domain: gaadiwaadi.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://gaadiwaadi.com/wp-content/uploads/2020/06/Tesla-Model-S-3.jpg"
+    width: 1400
+    height: 797
+    isCached: true
 
 related:
   - title: "Tesla uses three free months of 'Full Self-Driving' to push year-end sales"
@@ -133,22 +139,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Tesla Offers Free Self-Driving Package For Three Months As Year-End Gift"
-    excerpt: "Customers who take delivery of a new Tesla car from December 29th to 31st will receive free Full Self-Driving package for three months"
-    publishedDateTime: 2020-12-30T12:30:00Z
-    webUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/"
-    ampWebUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
-    cdnAmpWebUrl: "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
-    type: article
-    provider:
-      name: gaadiwaadi.com
-      domain: gaadiwaadi.com
-    quality: 58
-    images:
-      - url: "https://gaadiwaadi.com/wp-content/uploads/2020/06/Tesla-Model-S-3.jpg"
-        width: 1400
-        height: 797
-        isCached: true
   - title: "Tesla extends Full Self-Driving free trial to buyers in year-end delivery push"
     excerpt: "Tesla CEO Elon Musk has announced that the company will extend a three-month-long Full Self-Driving trial for buyers to purchase vehicles in its year-end delivery push. “All Tesla cars delivered in the final three days of the year will get three months of the Full Self-Driving option for free."
     publishedDateTime: 2020-12-29T23:09:00Z
@@ -165,6 +155,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla Offering Three Months Full Self-Driving Package For Free"
+    excerpt: "This latest incentive by Tesla is reportedly available to buyers who can take delivery by the end of the year."
+    publishedDateTime: 2020-12-30T14:30:00Z
+    webUrl: "https://www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
   - title: "2020 Tesla Purchases Come With $10K Full Self-Driving Package Free for 3 Months"
     excerpt: "In case you missed Elon Musk's leaked letter to his employees, the CEO is pushing for a last-ditch effort to hit the 500,000-unit delivery goal he set for the company a few years ago."
     publishedDateTime: 2020-12-30T10:45:00Z
@@ -180,6 +181,6 @@ related:
         height: 300
         isCached: true
 
-secured: "0KcN1GNRWORZjLCnfdQdBuaXhnYWiJicGcaBOKZ306UOwu1oN9X18ciLJ9sUslP5G+B4yFoNY10ODPIK9VNfAG7TWXyDfwtChyNFishbkHeSeec09Khr0DIFJqxlHxw6c+ddEukF/1hvsKhGN01Sm4+Wr92E287e1SPrlfpxRHOic6y7yY3BMtqUai1La+KnmuXYSDXIMhkOurCauvj6AF1JWDWc7zgbc3+B0PjuS/UcET3Vsr+pYpA2+ES+r2dM26Mg47te0CTdYv96sU0Ia+Qa9DY45sKAdFQ0+jxg0wrw31NBurhzGlXEfVmlnAEHURmuQJ85SR+N1NmVkxdCUNmGql3gTPYISITeLIV9Qa+w/BAip5cnbTwRY4u5wyhT52/4SQeWxQu+uehr9U2wfTB/R23vd7Ut36tMCBySXYAxVY/jp0TDzRzCsqJYs/P7rTWjvzegXggP6YnkGZPQksDr9sfpUlYbokP0XSnfHsrHy740V4eDyBUP669JbZgtmoLKXrzofLHlGbj5i+v7MQ==;LR6jpOL+ODROShL8F2dkgA=="
+secured: "j9LKVOeynYbv8582Nsk6aAhUvv+qhZh7osUAxPZYn774s8FBYDmfGH8pmkFvTOBIdonJiOSvZhn9jkn6sTPeYi7lvIgd0VgzbWdcJ8Q8q1IMAGXp1PmrU5MPV4Cd/vTvBAdZl8AxVSo+0qBImndlQFBvH1vPDNVIYafdEFphszU0hrfvC1c0kPU66AptwMidGGWr+TXoITBtbkWicF0JCYV/U5yB8ngkh/PeVJCxK2MnxdaP3vhuIwKpZmO0rqR0vk/7Icx5eBP4LJfFX8fgi9nNX5pQw2TYkfS+tqvrs/Vsu27G8FW3T7QiGfJqfgvJsvfY24SUehTfx+cJwpIqkIG4uPpVXMlTuMHSh8VVQeU=;BrkxQI7pozewk+B1rVzuoQ=="
 ---
 

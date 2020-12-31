@@ -3,13 +3,13 @@ category: news
 title: "Why stateful machine learning could help cybersecurity efforts"
 excerpt: "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor."
 publishedDateTime: 2020-12-29T21:31:00Z
-originalUrl: "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-webUrl: "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 300
         isCached: true
 
-secured: "cRiCrq3YlZntAJufYA9O3p+kI9znhG3DobGJp9H+50tUPw5gwfFoT59PuYPZnzA0RP2xNIj3gBNh/KJtyX80QfOm2A2qWW8W5aCmMhxz5jQvnyJ+WXGDMo1h2ufVCMY0k+VNeEh97jJAruBkayNXvZi3LuYodQe2sY2ToH0MSiuTjt5P63M5plJMUWUImokpfsE/w6hOyrLEdEEOfg4D/0436+tQ6skYxI+bWB6z3bbSsiZ/MCbTBsWVSSPeYMQTR11FpCvXN9StPOeTqj2OTQieYLgxyW+2bgZ83vx/b7jBDLa69CAgBWXPefYS5mPjERwLWMgApbaK1WYNKSA9yS0wiIzVM/VjkLu1ABpFhhmdANLv1ceFDOZZ+wuH6fQHbYqySPXDKdq2idWyJnDkL02nC4Ny2MTSzZHKIZU0Gew/YKbfyxh56/7G2GtxHRZvnwnQUx/5KTKrVdyzbfbdQNZPm1oGUvF799MZPbNprfjZRVrYB7vmMlNx6c2q+iBpsnKKwO+ISzDESnZgbVeolQ==;70bOOuDaV8vsUTFwAFGr5Q=="
+secured: "DlvpFy8f+R7a+TjrdqkRRw8JDRi8c3rKczrIdqKMyGVJ+sZat1NrMN/CMrYGoUNmIdZOdMkc+u49oukPLKRY34AQyVGxnZ4wRjbV3gtg77xAHq0ixQO/dfmieHM66YV6Mwrq17xFQcAc2mM49oWVh2kELxMzNuUFjg5FH3DP0EuCiSWW+OfX/ml/Guzh0dbAennQ3fvwx2aEcKkCyti0OoB/kajmWfOOVZ5TtpO/RsBp+QtUuWU3wc2LyeiLd6i5B7RGT1WDgMlNWR4hImZfi6FK1Iyh5OJlNwhbRBLG9YA6l9RYQkExSPnOZHrCQXaYBD3GckVO4vEmVlBMESAbpsGIcdl+1VIrEtn3bmitHrE=;M/vDJPPKKmAJ+IefbOWxkg=="
 ---
 

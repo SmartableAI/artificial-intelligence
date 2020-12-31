@@ -137,6 +137,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Tesla Offers Free Self-Driving Package For Three Months As Year-End Gift"
+    excerpt: "Customers who take delivery of a new Tesla car from December 29th to 31st will receive free Full Self-Driving package for three months"
+    publishedDateTime: 2020-12-30T12:30:00Z
+    webUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/"
+    ampWebUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
+    cdnAmpWebUrl: "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
+    type: article
+    provider:
+      name: gaadiwaadi.com
+      domain: gaadiwaadi.com
+    quality: 58
+    images:
+      - url: "https://gaadiwaadi.com/wp-content/uploads/2020/06/Tesla-Model-S-3.jpg"
+        width: 1400
+        height: 797
+        isCached: true
   - title: "Tesla extends Full Self-Driving free trial to buyers in year-end delivery push"
     excerpt: "Tesla CEO Elon Musk has announced that the company will extend a three-month-long Full Self-Driving trial for buyers to purchase vehicles in its year-end delivery push. “All Tesla cars delivered in the final three days of the year will get three months of the Full Self-Driving option for free."
     publishedDateTime: 2020-12-29T23:09:00Z

@@ -56,20 +56,6 @@ related:
         width: 1025
         height: 626
         isCached: true
-  - title: "Crewless ship powered by AI to recreate Mayflower’s 400-year-old journey"
-    excerpt: "The year 2020 marks four centuries since the Mayflower carried some of the first European settlers across the Atlantic ocean to North America. To commemorate the anniversary, another vessel is recreating that voyage,"
-    publishedDateTime: 2020-12-26T14:05:00Z
-    webUrl: "https://www.cbsnews.com/video/crewless-ship-powered-by-ai-to-recreate-mayflowers-400-year-old-journey/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 36
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/94803fdd-6b85-4392-87ae-e00d1691f17f/thumbnail/1200x630/318af9ed1fc41d513ea2b93b634ab8fd/1226-satmo-mayflowerrecreation-616355-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VusrSn1zOpMFw4cbOBdGckHOP+o9fMuiVSk+jDQraQZbTmS543u4G8FqC6CWB+moSw6iVig3YwUnFqFmJrzQYCpYOPjs95dKKPxRAkVd/EcH7dp/nQdCoMEceS5IRkR3jmii+7RrRoVfSPhYOjTHPpItYAHBIM6IOmxOsU9K7t11PPJOXf8sqSwTcJT1Ay9JqbJbBE6oxVCkkBFS+2au6hpfziigiuRG2uzQDGEFvaedfCQHwiGFO2CiswaGL/PzZmHq0PWan/VgPyZMvLDfc/E8PGWoWsNpXsKHuGnjryNYF81Z5Ral4+7FO2x33nCACArpzkfaKnsm569y4bWi68lsXReTFxzkY8p84F+rzUGgAJjeJT1mehFpftkAcozBMSLpX0/VEW+sCSMiOzrafrHEHfZt2dTfLwlBloPhxOAZu7POJXrsWHbtL4Ngli9UbC9avbc5jDuC3CBJn7nmKXEG8Zc7N9fK8JtWbvKHmG1aVtnfnSeb/WOafSPMmvIx5WmxsG+LqXafkKLC56VFMQ==;iZg9B8swaJ56zEgOprGv8A=="
 ---
