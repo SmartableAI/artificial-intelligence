@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily.md",
+      "title": "Deep medicine: Artificial intelligence is changing the face of healthcare, daily",
+      "excerpt": "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "originalUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailymaverick.co.za/wp-content/uploads/Opinion-Marwala-StatuesTW.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
+      "cdnAmpWebUrl": "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
+      "publishedDateTime": "2020-12-06T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Maverick",
+        "domain": "dailymaverick.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come.md",
       "title": "The Guardian view on DeepMind’s brain: the shape of things to come",
       "excerpt": "This is an achievement that answers one big scientific question but raises more fundamental ones for society An image issued by DeepMind of a three-dimensional digital rendering of a protein.",
@@ -1151,58 +1194,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public.md",
-      "title": "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public",
-      "excerpt": "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-268636/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665",
-      "publishedDateTime": "2020-12-04T12:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

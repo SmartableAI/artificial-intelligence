@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 545
     isCached: true
+
+related:
+  - title: "China’s Flexiv raises over $100M for its adaptive Rizon robots"
+    excerpt: "Shiquan Wang led Chinese robot maker Flexiv has raised more than 100 million for its Rizon adaptive robot in a Series B funding round."
+    publishedDateTime: 2020-12-31T07:35:00Z
+    webUrl: "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/"
+    ampWebUrl: "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 74
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2020/12/Flexiv-e1609398956471.jpg"
+        width: 1900
+        height: 1049
+        isCached: true
 
 secured: "KXCwiIwv8MxswPYty1eZ9W4xKNE2pUaynozwaiXxmmSe+LG7U9reo0u2q/WBypf2SYEpM7Qyb4ctSWJBLN7jB0RKG3ebBICjEumre9o/ctvMi7lzo7cod014yDwmq8zUUjPHtHXXMPw0Qa/O5WBvBFeedy7gprlMFJRtrbfJiuwCMT0tqQgnZxsJDocWiYY9vmHD2dYwpOejos4Fey0SXxxnJzS5zNoMaO3nAiIqiNKMU3+pUGj0qaHviTCTXkg95SnRL6M/qUVyiFBomLt34GyjklA7GzZeBQ8nc/SkqhmgwEUMABRgzAuFFMmCdmU30o+37KN8MweGFTGBjGsdU2WVHlAoqs2kWNyQuavDS8oGvrHsdiuIqy3N+MmNx8RYa06m5XSwrfNkT0YHm5VUBUydLrIqpR3hCiHyhk77jbzMnnkDM7lomTqMWtglXja3Nx/avwjzorfKPWAiJ31ca9ulW7yPJGXjkP8ErEfyFKEg1JjljIMwNkONikb1PFV1G9SUOyDcy0K9ZMUHsq+F1g==;h8W/6WcFwyvDzqocnJFztA=="
 ---

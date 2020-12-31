@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GravityAI Introduces Enterprise Marketplace for Healthcare and Fintech Firms"
+    excerpt: "Data science solutions that GravityAI hosts include OCR algorithms, package delivery detectors, event and fraud detection, text extraction from documents, delivery route optimization, and more. FREMONT,"
+    publishedDateTime: 2020-12-31T08:39:00Z
+    webUrl: "https://www.cioapplications.com/news/gravityai-introduces-enterprise-marketplace-for-healthcare-and-fintech-firms-nid-7029.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/ai2snBrad-Peterson450.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Here are 6 of the top performing ASX fintech shares of 2020"
     excerpt: "Some of the top performing ASX fintech shares in 2020 are buy now, pay later providers such as Afterpay and Sezzle. We take a closer look."
     publishedDateTime: 2020-12-30T02:16:00Z

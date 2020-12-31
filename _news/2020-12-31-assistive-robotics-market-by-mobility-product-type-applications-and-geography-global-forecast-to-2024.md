@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/assistive-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30"
 type: article
 quality: 66
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wearable AI Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
-    excerpt: "The report on the global wearable AI market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global wearable AI market to grow with a healthy CAGR over the forecast period from 2020-2026."
-    publishedDateTime: 2020-12-26T16:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
-    excerpt: "The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global machine learning market to grow with a healthy CAGR over the forecast period from 2020-2026."
-    publishedDateTime: 2020-12-26T15:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robotics Market 2020 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2024"
     excerpt: "Market Research Future published a research report on \"Robotics Market Research Report – Global Forecast till 2024\" -"
     publishedDateTime: 2020-12-30T10:55:00Z

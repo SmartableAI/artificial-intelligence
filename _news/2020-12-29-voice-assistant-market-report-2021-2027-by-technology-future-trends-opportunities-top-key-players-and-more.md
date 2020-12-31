@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-r
 webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-report-2021-2027-by-technology-future-trends-opportunities-top-key-players-and-more-2020-12-29"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) in Agriculture Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
+    excerpt: "Wiseguyreports.Com Publish New Market Research Report On \"Artificial Intelligence (AI) in Agriculture Market 2020"
+    publishedDateTime: 2020-12-28T16:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-12-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026 . Posted on Dec"
+    publishedDateTime: 2020-12-26T23:42:00Z
+    webUrl: "https://menafn.com/1101342177/Natural-Language-Processing-Market-Research-Update-Size-Estimation-Future-Scope-Revenue-Opportunities-and-Regional-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "NCjdqyMhq+FRnFciDgppfxPtoHZf7OfYP384+VYbnHFYe53upr6KILWTFQtiSQMY+POuEiFoeNzoag6eHABVeTdPHsTMoqx0inFfQUouP/k0n7GT/O39XZee075HL1yd71MYOUAHbOj513qeStgj5RhU9Jsf5oBcBTDh35YL9GNf0jHDYPypxlT0DZtJ5lbneZRfTlYuNMyShelcqJaNkjODy4HKxOmgA77wGCDBgFXTnlCaQHSdHn0RN6ZofGlGNxw0T8u7rKAP9nzdYdZ/JGHSoisytS0ZKTYyIApvujA59DkuDmmjsv1mQpEnnSAvsy2IhaSyirRbRiNR1k2gwLhX3QP0iP6/MgIC9bFupBw=;PG9PZ8Y3ncp5ejvrimTneQ=="
 ---

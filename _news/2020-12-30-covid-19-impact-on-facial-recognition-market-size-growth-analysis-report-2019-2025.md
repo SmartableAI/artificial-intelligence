@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recogni
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
+    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
+    publishedDateTime: 2020-12-27T04:16:00Z
+    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "DI8q7fczlqjOSkyTVfCjesQ6/AO7vJnN2YqaSZitbFwrA3q4liERkE+jfEJYT+yv/mdhVzkDwol42/u4EpeVuR16ilxlSfdAr+1dqXNFqHx15n+AOakbbuc5iEQWSOH12YooIlCT9YY5tbIjnH4qagFGsOevaHuT7StScYlEfHQoJwJzzwIQUc/GPWWAKTawQhz4Zn6IexecqwKskPPGZrCBYpXa3rLIp7pW3oDriqZBzd2mj8BkdQXPmfp/Ji3lbbNc8z/QqQQ/RMm+57fVmmlVBbwpc9T3ujo8HB1Np5Ey5bqL1WapRx/rs+C2m1t4O4MgZ+BBa9RLZCFVSFG4umc4dOqb1zxdi36tnhLGnwvNYOCk7cbsQqQ0uY8UCk2/WKZlXT90fnhcA8g+XYSR+9sQAEN0Kv/TKxOqUaJhcgKHGnzeu3I/lmDoEtKKGMFrt1TBO3z2UMGpktMDlkIoLZiPJXzTJdQhkqsEpNRw1wE/+CDWPDUUgMUSkNme3j4AJ4+Fa/rleMP4zIfYJ+nqNA==;GY2Eb03+g53XKLAqc4/gmw=="

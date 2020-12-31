@@ -28,29 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026"
-    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2020-12-26T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26"
+  - title: "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,"
+    publishedDateTime: 2020-12-28T03:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
-    excerpt: "Wiseguyreports.Com Publish New Market Research Report On \"Artificial Intelligence (AI) in Agriculture Market 2020"
-    publishedDateTime: 2020-12-28T16:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-12-28"
+  - title: "Artificial Intelligence in Construction Market Inclinations and Development Status Highlighted During Forecast Period 2020-2025"
+    excerpt: "The AI in Construction Market was valued at USD 466.9 million in 2019, and it is projected to be worth USD 2312.8 million by 2025, registering a CAGR of 33.87% during the period 2020 to 2025. According to the Association of Equipment Manufacturers (AEM),"
+    publishedDateTime: 2020-12-26T22:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-2025-2020-12-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,34 +84,15 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026 . Posted on Dec"
-    publishedDateTime: 2020-12-26T23:42:00Z
-    webUrl: "https://menafn.com/1101342177/Natural-Language-Processing-Market-Research-Update-Size-Estimation-Future-Scope-Revenue-Opportunities-and-Regional-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026"
-    excerpt: "Speech and Voice Recognition Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2026 . Posted on Dec 2"
-    publishedDateTime: 2020-12-27T04:16:00Z
-    webUrl: "https://menafn.com/1101342186/Speech-and-Voice-Recognition-Market-by-Growth-Rate-Key-Manufacturers-Industry-Size-Share-and-Latest-Opportunities-Forecast-to-2026"
+  - title: "Natural Language Processing Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025."
+    publishedDateTime: 2020-12-27T09:50:00Z
+    webUrl: "https://menafn.com/1101344808/Natural-Language-Processing-Market-Insights-By-GrowthResearch-Methodology-Emerging-Trends-and-Forecast-By-2025"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report"
     excerpt: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report . Posted on Dec 30 2"
     publishedDateTime: 2020-12-31T04:56:00Z

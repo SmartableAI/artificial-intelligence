@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "GravityAI Introduces Enterprise Marketplace for Healthcare and Fintech Firms"
+    excerpt: "Data science solutions that GravityAI hosts include OCR algorithms, package delivery detectors, event and fraud detection, text extraction from documents, delivery route optimization, and more. FREMONT,"
+    publishedDateTime: 2020-12-31T08:39:00Z
+    webUrl: "https://www.cioapplications.com/news/gravityai-introduces-enterprise-marketplace-for-healthcare-and-fintech-firms-nid-7029.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/ai2snBrad-Peterson450.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Dark data: A golden opportunity for the fintech industry"
     excerpt: "The rise of dark data Since the turn of the century, the data revolution has allowed companies to analyse and understand large amounts of data by accessing multiple sources, cleaning it, aggregating it and correlating it to create valuable insights."
     publishedDateTime: 2020-12-28T12:53:00Z

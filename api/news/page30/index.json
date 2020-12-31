@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-04-driverless-robotaxis-hit-the-streets-of-chinese-city.md",
+      "title": "Driverless robotaxis hit the streets of Chinese city",
+      "excerpt": "AutoX, a Chinese autonomous vehicle company backed by e-commerce giant Alibaba Group Holding, says it has put driverless robotaxis on the streets of downtown Shenzhen. According to the company, this is the first time in that nation's history an AV fleet has been deployed without safety drivers or remote operators providing backup.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/chinas-first-ever-driverless-self-driving-cars-deployed-on-streets-by-autox/",
+      "originalUrl": "https://www.autonews.com/mobility-report-newsletter/driverless-robotaxis-hit-streets-chinese-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2020/12/autox-nevs.png",
+          "width": 730,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology.md",
       "title": "Voiceitt, Amazon Announce Collaboration Between Alexa And ‘Superpower’ Speech Technology",
       "excerpt": "Amazon and speech recognition startup Voiceitt on Thursday announced a collaboration that aims to make Alexa more accessible to people with atypical speech.",
@@ -1132,49 +1175,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-intel-has-been-missing-an-ai-business-to-compete-with-nvidia-its-finally-here.md",
-      "title": "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here.",
-      "excerpt": "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
-      "originalUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-267539/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
-      "publishedDateTime": "2020-12-02T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

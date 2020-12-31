@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/politics/1376930/brexit-news-ursula-v
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1376930/brexit-news-ursula-von-der-leyen-speech-brexit-deal-document-liam-fox-eu-referendum/amp"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 590
     height: 350
     isCached: true
-
-related:
-  - title: "Elites DEFEATED! Brexiteer says Von der Leyen's speech shows EXACTLY why UK voted leave"
-    excerpt: "A BREXITEER has said Ursula von der Leyen's speech announcing the historic Brexit deal between the UK and EU shows exactly why Britons voted to Leave the bloc in 2016."
-    publishedDateTime: 2020-12-26T15:59:00Z
-    webUrl: "https://www.express.co.uk/news/politics/1376930/brexit-news-ursula-von-der-leyen-speech-brexit-deal-document-liam-fox-eu-referendum"
-    ampWebUrl: "https://www.express.co.uk/news/politics/1376930/brexit-news-ursula-von-der-leyen-speech-brexit-deal-document-liam-fox-eu-referendum/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1376930/brexit-news-ursula-von-der-leyen-speech-brexit-deal-document-liam-fox-eu-referendum/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 36
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/139/590x/brexit-news-latest-boris-johnson-michel-barnier-1376930.jpg?r=1608999430965"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "4tOonCT1PmlNj7m6F/97QBHqKfyTL8xe3jrLLIW+w5knvXJ+F4aiSDg7nN+JdKFY6uVCkwPzUY/+CoYkryNtdr+Og/oCW63oHgsc8RTPSlzsd7f5DKHCjAQdn6Rq9JzC//jZaDGBQctSbZctST4edfkxB3rM3Az9lJ8npBhL/oaQqC/+8WCAjDTZh4YeWXeZi23dIko69bAmWKz+8qZyfFBlbkJhzZPGhRSdsY+Rx8TG5FrocPxGjazIfhqkrdCjtaGoPozrRmFhBeA5aprxwPuqnvE67vPbQao021cl71w/ThDrASaDcSJRqoKJ9rGKTItGrD543dTeCh43nxq5321g9nsUqo3nCeaN9mVyvVY=;igkYfVpEODApvPEsytA8Xw=="
 ---

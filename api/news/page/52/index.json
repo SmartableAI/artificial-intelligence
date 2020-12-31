@@ -2,6 +2,57 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-11-18-ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers.md",
+      "title": "AI helps create the Milky Way’s family tree — tracking eons of galactic mergers",
+      "excerpt": "A team of astrophysicists has used computer simulations and an artificial neural network to identify the mergers that formed the Milky Way.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-18T111356.807-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/amp/",
+      "publishedDateTime": "2020-11-18T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-ibm-acquires-instana-builds-out-application-monitoring-tools.md",
       "title": "IBM acquires Instana, builds out application monitoring tools",
       "excerpt": "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform.",
@@ -1123,57 +1174,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-bfsi-turning-to-ai-moving-from-sms-to-omnichannel-chatbots.md",
-      "title": "BFSI Turning To AI, Moving From SMS To Omnichannel Chatbots",
-      "excerpt": "AI is transforming every aspect of our lives and it’s quite prominent in the banking industry. Today, with the help of omnichannel chatbots, customers enjoy seamless and personalized service across ev",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359915",
-      "originalUrl": "https://www.entrepreneur.com/article/359915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605679433-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359915",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359915",
-      "publishedDateTime": "2020-11-17T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

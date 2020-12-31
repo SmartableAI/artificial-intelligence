@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
 publishedDateTime: 2020-12-21T10:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
-webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+originalUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
+webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "dMuoczQLLHoC9aY9aiu4eA89S8KmrVgNfFXpu7B17ivYK1XLxerCICOoHVtjBpxrJm2xgEz29hxytb2t2Kj9GW96/mtOr+HInVIM8pPJKIfYH5zaN3mXzUv/MlIqGaw+RXNVkG3OF+orxP3415xOG+60Bzaxl2D0MussFU/dLAZu+uh2Vf81M85pS9gypRFG/zr5uK/qCBBS7jZRzNqqOu4EC32UJzuucTy2d4HzMyD42FvFbuKpfSPrtJlnF3mvBbAMXT7fUYDMOwWVwsPtcF0GCFyXNAnfL9IgW0cUKmK8kqSYnJYXedCMATeGOKE0KpaaqYaU9YZJde4GGtCeZAQZsQyqjTZlayKIgzEfOYg=;RAMTE8VFujicVL7rzO1JSQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
+    width: 1198
+    height: 628
+    isCached: true
+
+secured: "/osBK8wpIAyOQa61HIrnKltvMk7RLLexUcLscYcauQrpO+dRcWYAoGBkYXMRvGxu1vFoqPQfcJA8/oveVcyVQifo7m1rfn9BskW2lvTEQHziDzpMGAAExpZU9HTrkxLVSN9JbWIK/jxnugFTiJc/nTsk0ye4zo5wRmrfSs8huH1VeXd6k9k5y0L4U/BNjHqEOHWfr5XNvar3jejNpgQZEUwKqwdZh46Ryb9sbE86X9UA95QSncK+n5OstaApASfyyzPmVpXu+0G2jSoZIhd02qwTvEsuDk+Y4yWZ/dIed2t2vUm/joLlj7L/cyqrHGPU2L7KJ5g559Q6832jmy/F1GTN7ePXRPZi+MpkBQexzXs=;ug+oL+qMAIsoqXZxj7E4zg=="
 ---
 
