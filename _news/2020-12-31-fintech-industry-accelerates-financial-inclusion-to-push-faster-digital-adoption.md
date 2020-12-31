@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
-excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further"
-publishedDateTime: 2020-12-31T11:17:00Z
-originalUrl: "https://www.dailyexcelsior.com/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/"
-webUrl: "https://www.dailyexcelsior.com/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/"
+excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
+publishedDateTime: 2020-12-31T11:54:00Z
+originalUrl: "https://economictimes.indiatimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/articleshow/80046641.cms"
+webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/articleshow/80046641.cms"
+ampWebUrl: "https://m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daily Excelsior
-  domain: dailyexcelsior.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
-    width: 1200
-    height: 630
+  - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-471174,msid-78888337/rbi-set-to-change-indias-payments-picture-with-new-qr-code-rules.jpg"
+    width: 412
+    height: 255
     isCached: true
 
 related:
@@ -190,6 +192,6 @@ related:
         height: 600
         isCached: true
 
-secured: "P+JxZIvD5jyQlZMdCV7FdkzUEWm7DNsI+bvi/ZNnVLbUcH2hg2cDJUfS893V5rVDIdA+TeIijSKLNhe7RX2MM4hKHtkafrOkMv2qp2WTJIyBs4gflQtdiQoMRHjn338nAkE98GXGOTHRRYxFVaLrwVJ991aHk7J1DQqCvUt7BevtRGAbIIru7njHdlLbFAdORr2yA+QkGzXREylrfVsf7cx9uGldCj0QenT9XAkKLO3crBW9D/yO/Kthb/qTz+5u51WnTDOWalB+Iji3Mjn6flO+wz6uVd/e5GWlthQvIDirg0XEP654/b+oA456z0fZdDaLbiC5awzam3RyF5C3HdsW3wb0+/jSzN3HzxvsFfU=;098tvVkjBwAfrxr3K/zRbw=="
+secured: "sRTf2jhoPFydhzP3Eq6PftRjSmQUo1fNvSMO9vBGq+VxQ4AcVuMZ35LsUIkdZeOd8RsMIoPauoTISj9WuldHVbYV5UsIQ4lZuHnfsEAVUiz5i75u4DrYociSssEpfi0toY/8klJJEr3vAVCcNoZp1Pd+Fr+jH2KdR/0KJntUG7Pc3b/8SLSNg+AL0K6SwQEr6sbD9H7e6l7+5vePACgBKHRhIHw96foyDw1u6UV7V5s5A3XiEpvOCBVnel+wCSbldSZrNTyQfc/9/jLL4nwYYG7r3FakY0VvazFjPJegleIhq6WZSw4chtBGuzMZ+7pMc5P9I5Oma06kH1y0fArcE7flS8FDHbAgjitNK7wmfl4=;tLyHfBI/ODQZpFSwqetjiA=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-31T17:33:00Z
 originalUrl: "https://www.forbes.com/sites/cindygordon/2021/12/31/ai-is-reengineering-all-aspects-of-our-human-experience-what-are-the-implications/"
 webUrl: "https://www.forbes.com/sites/cindygordon/2021/12/31/ai-is-reengineering-all-aspects-of-our-human-experience-what-are-the-implications/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc42c9bc60197a26472c1fc%2F0x0.jpg"

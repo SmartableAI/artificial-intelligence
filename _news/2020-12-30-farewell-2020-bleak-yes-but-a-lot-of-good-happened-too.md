@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/2020/12/30/farewell-2020-bleak-yes-but-a-l
 webUrl: "https://www.hpcwire.com/2020/12/30/farewell-2020-bleak-yes-but-a-lot-of-good-happened-too/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1000
     height: 474
     isCached: true
+
+related:
+  - title: "Natural Language Processing in 2020: The Year In Review"
+    excerpt: "Preface 2020 was a pretty terrible year for humanity, and I hope you as a reader of this piece, have not been scarred too much by it. In the NLP realm, however, the year has given us quite a few significant advancements."
+    publishedDateTime: 2020-12-31T21:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGUKuRzdJoxtQ/article-cover_image-shrink_720_1280/0/1609367755529?e=1614816000&v=beta&t=qxy5DiX7G4vV2YugikrMPl0Y7mP3hTgbIKtNeK2WLtw"
+        width: 1280
+        height: 671
+        isCached: true
 
 secured: "PWQHQI8QEN8kuXam9GbjihNpwT+adGovGVNFglHE5K9496PekC660NnkjrhtW526gW89B5s6wMClinv6NMCmyoiLRWb2MZ/eW4m+hryT0PHlmv9m2IK8vezNZZ/48PjganV/EIkhatlG5Kd7a7A22AvAsAnHbpwWh5bjJmwaqCBNds6+3/Om3KxlDJdm5WuDGxBv2ir2KGfW6Rnz3QrswTHkhIH1PT7b4t6Q9/pt/kNGUyuEkUAlQmasJd/jhaLteKwdIkdLfQbvnQEn/wpARmUypljRqzJHlyftC6WZVZ0mMGNltwyKTSRx34EbZCz+X8TH4ApCxockimhJmZsWmEyOyLbEAb0+gPEwJptLb0/qu4J/2CvJEjYZiHAdHsl3Oe0HHtJ73/peVHKB3Fp9fzW5OXlz6UUAOmAkm0A71FAFi9n3iNGhJoiGJQ4whGK5vbD/nZBzpP9Uyq+A0FJ0Ak+XNjMh9P0XvJKmHG+8Ls5DmFjP6LVMGa6fxNkVfki9WrTz/7OYfQxgT5Vgn77Iaw==;bGCyN42p3o46/TFPA5bORg=="
 ---

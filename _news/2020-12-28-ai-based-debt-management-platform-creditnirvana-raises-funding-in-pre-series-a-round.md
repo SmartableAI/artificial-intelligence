@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362396"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362396"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.nyoooz.com/uploads/nyoooz-images/images__6_3.jpg"
         width: 800
         height: 599
+        isCached: true
+  - title: "(Funding alert) DU students’ startup Metvy raises pre-series round from HostelFund"
+    excerpt: "Metvy, a multilingual professional networking app for the youth founded by Shawrya Mehrota and Rajan Luthra, who graduated from Delhi University this year, has raised an undisclosed pre-series round of funding from HostelFund."
+    publishedDateTime: 2020-12-31T22:39:00Z
+    webUrl: "https://yourstory.com/2020/12/funding-alert-du-students-startup-metvy-raises-pre"
+    ampWebUrl: "https://yourstory.com/2020/12/funding-alert-du-students-startup-metvy-raises-pre/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/funding-alert-du-students-startup-metvy-raises-pre/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 51
+    images:
+      - url: "https://images.yourstory.com/cs/2/a9efa9c0-2dd9-11e9-adc5-2d913c55075e/165-VC-funding1552277843560.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "CvUnPpC6jq1n8A7Ok+OxJV5sar9vWE0p2rXYunFnBgdsT5+h0c0QpRcdTeBFFcUd6yJfn/PGWYPUQqJwOY9O3u1g/35VH4r3gHMoKARiw6AioBn8YvyGDYe1xmhD8FbbfcXT7hCRC0eYoUsMklCrb18XCsortghcqXk1pU3pKCd8mDJj22IV7nVXa7nG6dskUATs0FkazS4VM+cozEloV9wBZ4uikfN0wuWOtkAN2eeZSqHkNGgCYncOhBIk016JQNoSkLhISWLMPjfalEBJR05mzrEAwZQ7alYWMwPKU8zJjVgXB1MxeblI03fFrGu9TauF4PMUfemE5vIoOwTiB0MFaspxLpWh15myDzsd231aWxf7qeX4glSiKdbBQ7ZkIbjsg4LPaqhZiBCkUEs1xL/ozFPP+IAsct9UnGoT87rDRqVECC7P0wu2eQpH8ipkeqegC8WqDPiGBgaBm01vNB+WU5lwx1WZW1VdOzObjAZtsk8qyTR+JW+DR7joPI5UMg+NHgI9vm6AWffFClJFRQ==;2b74dmZSkT4kMn8/PjUOJA=="

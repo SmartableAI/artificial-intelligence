@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18981348/artificial-inte
 ampWebUrl: "https://amp.benzinga.com/amp/content/18981348"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18981348"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-ai-for-it-operations-platform-market.png"
@@ -55,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "18oYRbw1LeZCCdhOVfBHgvWeGmaiUMCXGwc3ntm4AT0hJUgAveg7RXHQG4fxto4G6Pnpv49pRnyIaogURuuDyAHb9+i1xINRSnIAP3lfkM3WFohQTMfSS4RB20ySOwCK25ULoqXS7dEzOMQpk9aRWNr2z7GpV43y4yLSmHsu8IBIStaGRfLPrvd+NBcWtHY5dM3IwlI1NUjPhU0kpBCx05D1IToIGE0pDkB8LHRjjul4plHNnQSdz2Qp2czUnfVbhsqcRi8l/rRMJzEdu6WurvP1YWQAN/3EKI2C3Xwvi5pu9zdMmuy5upude8jI3+Q/0FU4CuAUml0oHbjZ98KplM/Vnm1ROZ7cYg/9sT18Cl4=;g/2YNYToOMCsS9LD/vBmcg=="
+secured: "ZMq69JP1h6QiFS8/giWmzyrlohgh0EzezY8b35Xk6VtgeR7HeSvRL74edT8DS5SUOH32l9ksaSwXUbqvxDD9xdY4UV9E7HSJi9I1AyrZkFOdMP8/i1u7R6PE3JoS7SZHM68753pelOopnFvFbAs0s5J+l9dlRaMWoWwZizNWSqaB/0GNno5MyDDeFM5Z29ISTISqW56xA+ARgtaI1GDa4IwXxcYRmZBMsW7X6oBche6T+25Qhs9JRf9iinYq0Z611ODJ9DDH78ss8b3CIbuzvEJn6c6u/P0uLkbOBAA4/0wSR9h232Kd/s9DuYEmYY18LSOufOnkIaIvUKKKWmWv9dht/EVYELo85cAEEqW9gb/rlN5KP8j3Y0LEpjkfBccAkecZsAvaWghMgwMa9qqu4UxL+t/gsZPY5/d1v8jVFlDDRr6CTnTmDsABlcJMnn4LJhDv4CH7S23f7izQctW42F+NPbBDPpa/ejPEYxtnsNGNh1uRNvCkgqr6q9XzbDWhU1zgIPj5U9hJn+uWLcVhOA==;oTGkWttku+XsxRxlV1+52A=="
 ---
 

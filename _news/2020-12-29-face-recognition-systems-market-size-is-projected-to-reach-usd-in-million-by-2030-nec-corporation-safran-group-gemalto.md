@@ -39,7 +39,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-ai-for-it-operations-platform-market.png"
         width: 600

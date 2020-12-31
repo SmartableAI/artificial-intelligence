@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasse
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
 type: article
 quality: 86
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Top Artificial Intelligence Stocks to Buy in January"
+    excerpt: "Artificial intelligence and related technology giving machines and systems the ability to make decisions is a fast-growing industry. Global spending on AI grew by a double-digit percentage in 2020, and the pace of expansion is only expected to continue in the years to come."
+    publishedDateTime: 2020-12-31T22:01:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://media.ycharts.com/charts/1ad42a49786b1e43c0b54a83fc7e24d4.png"
+        width: 720
+        height: 486
+        isCached: true
   - title: "Making A List Of The Top Autonomous Vehicle Stocks To Watch In January 2021?"
     excerpt: "Looking For the Best Autonomous Vehicle Stocks To Buy Right Now? 3 Names To Know. It has been an invigorating year for autonomous vehicle stocks so far. Autonomous vehicles (AVs)"
     publishedDateTime: 2020-12-30T16:23:00Z

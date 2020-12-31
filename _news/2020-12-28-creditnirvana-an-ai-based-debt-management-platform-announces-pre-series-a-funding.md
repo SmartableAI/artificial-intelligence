@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "(Funding alert) DU students’ startup Metvy raises pre-series round from HostelFund"
+    excerpt: "Metvy, a multilingual professional networking app for the youth founded by Shawrya Mehrota and Rajan Luthra, who graduated from Delhi University this year, has raised an undisclosed pre-series round of funding from HostelFund."
+    publishedDateTime: 2020-12-31T22:39:00Z
+    webUrl: "https://yourstory.com/2020/12/funding-alert-du-students-startup-metvy-raises-pre"
+    ampWebUrl: "https://yourstory.com/2020/12/funding-alert-du-students-startup-metvy-raises-pre/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/funding-alert-du-students-startup-metvy-raises-pre/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 51
+    images:
+      - url: "https://images.yourstory.com/cs/2/a9efa9c0-2dd9-11e9-adc5-2d913c55075e/165-VC-funding1552277843560.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "d6VH0rdmgT0DVikfSH1VLUKjY132zlVDx98lIMKN+oaTeVFgq/RYafE+NtwfeTqNSa5Ml5B4eGjOkXop8B5lWeTHkWAZju1dFLgiuaV3vBSkG3VEPr0GRxyx7V0uHkYDkTQDeSJLrYGqh9vnITcRpQVJg3ceFLJ94qVJjJvHkSBcmmIqjNQS9seIlYjO/JfWxF8FvwbuzIdRStOXRrD+463J7GGxpyRWru/Bzzc+r6IZqjR/nn/CAWOf2aszdBQE5TGbEBs8n/BBgQk09YWHNmSskJ4FV6qI6AXBZjH4K4aYw0JOwLAHn/eNr1PjbejrWEp+n6jQBGIgF9on2qqvK7yue5wEib5OsZNl7OZpzAjoexl/PB3K6v8sTuehRpe5ktMgDb02jZhw0rUjUdyXAL0LN57wrtddGwKZPPAeFvdDMEXNY1zhHFemKF3/j33D0aqnHPNscnHkErJsdGCR9F0M7RUGkYLj18OlxMNwHRNgEDw/cyIeWc9/tMhAkrW+ohCa2amP2IVLDwvr0jjJyw==;T8+tegifK5LekO4MzyTuMQ=="
 ---

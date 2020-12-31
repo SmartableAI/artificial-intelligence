@@ -54,9 +54,9 @@ related:
         height: 350
         isCached: true
   - title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
-    excerpt: "A Black resident is suing authorities who he says arrested him based on a false facial-recognition match, adding scrutiny to the technology’s potential for racial bias."
-    publishedDateTime: 2020-12-29T19:27:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    excerpt: "A New Jersey man is suing local authorities who he says wrongly arrested him based on a false facial-recognition match, in a case that has fueled debate over the accuracy of the fast-emerging technology."
+    publishedDateTime: 2020-12-30T05:03:00Z
+    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719?mod=latest_headlines"
     ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
     type: article
@@ -166,7 +166,7 @@ related:
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
     publishedDateTime: 2020-12-30T14:26:00Z
-    webUrl: "https://abc7.com/technology/black-man-falsely-jailed-sues-over-use-of-facial-recognition-tech/9197215/"
+    webUrl: "https://abc7.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
     ampWebUrl: "https://abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
     cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
     type: article

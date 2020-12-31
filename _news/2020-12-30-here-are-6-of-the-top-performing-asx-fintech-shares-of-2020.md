@@ -75,6 +75,22 @@ related:
         isCached: true
   - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
     excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
+    publishedDateTime: 2020-12-31T11:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/articleshow/80046641.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-471174,msid-78888337/rbi-set-to-change-indias-payments-picture-with-new-qr-code-rules.jpg"
+        width: 412
+        height: 255
+        isCached: true
+  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
+    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
     publishedDateTime: 2020-12-31T17:59:00Z
     webUrl: "https://www.freepressjournal.in/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption"
     ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
@@ -144,20 +160,6 @@ related:
       - url: "https://www.executive-magazine.com/wp-content/uploads/2019/07/facebook2.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
-    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further"
-    publishedDateTime: 2020-12-31T11:17:00Z
-    webUrl: "https://www.dailyexcelsior.com/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 19
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Nigeria: Fintech Research - Everything You Need to Know About Tech Companies and Its Stocks"
     excerpt: "The tech industry comprises companies that sell devices, software, hardware, artificial intelligence, and other information technology (IT) products. These companies have always been profitable in terms of stock value."

@@ -3,8 +3,8 @@ category: news
 title: "Black man in New Jersey sues after false facial recognition lands him in jail"
 excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
 publishedDateTime: 2020-12-30T14:26:00Z
-originalUrl: "https://abc7.com/technology/black-man-falsely-jailed-sues-over-use-of-facial-recognition-tech/9197215/"
-webUrl: "https://abc7.com/technology/black-man-falsely-jailed-sues-over-use-of-facial-recognition-tech/9197215/"
+originalUrl: "https://abc7.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+webUrl: "https://abc7.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
 ampWebUrl: "https://abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
 type: article
@@ -54,9 +54,9 @@ related:
         height: 350
         isCached: true
   - title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
-    excerpt: "A Black resident is suing authorities who he says arrested him based on a false facial-recognition match, adding scrutiny to the technology’s potential for racial bias."
-    publishedDateTime: 2020-12-29T19:27:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+    excerpt: "A New Jersey man is suing local authorities who he says wrongly arrested him based on a false facial-recognition match, in a case that has fueled debate over the accuracy of the fast-emerging technology."
+    publishedDateTime: 2020-12-30T05:03:00Z
+    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719?mod=latest_headlines"
     ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
     type: article
@@ -249,6 +249,6 @@ related:
         height: 382
         isCached: true
 
-secured: "psWKLazWqJrDmk+35D1rSV3z9Cbq/8stywlICwsqWBTWKgEEM40O50YwqhP+EsZCevJoOOFtyHqgU1iFReospNcsSRlHWEHwRU+Y3oSx1iIMppccolootTsLihujtmT+fmsjwBlj3Y4randgCxGu5iR5G7UClb20YpbrQPgK3HLRSuPpblZNk0x/KBVbBoorMQrW2Mp7Ws/8ef6P3TUJJLnEQSNNVabUWLxKKJ1g6oOC3qW29yrz0ytOvunGom3FrMwm340uXiyNw2s3f2kRn7CIRPERwS7RC4p49jBw6GE9ewdPs7sLvEHfT5qDsga9hPqneKvze4QRMjlKggzEynvD703mQMe2vtMkJVabHMHPVRUcLQ8Tz1/RRTprUrJDu2XJnAYtrvCvTMBzNlwdZsPvjg6/Xzl20i+dcdAxbRxvbPfxsyESNysT3jC8BcM8Jx72k23ESWpcln9naQElZ76XTRt6rnlGj4+LWCvyP845lKZMx5n9rFGmQkW8cDF9azxTfwwxXZX5jM4fTEDNeQ==;NI1r2ZaXijI0A8wlTSVcpQ=="
+secured: "kJkK3hFVQS0M/EJBLTZrsy+GVEaAGj66XO94oAS9eeMk5BiQwGLd1jfs3FxCUVw5/3WIR0OQqhihapweYjXaDhgy9BgABOSbDUOC1isXWDqN6qIzWEa4msOQc1EaTiuH+HR2bWthi4vINBViBAcJBh+k2KnCvC0ZFSxpLSWq609LwNZYG2Du6klS46sFfPngjxMD7WmrzRRvQWf5SGtrugCRP/PobaiGeSw5LniHWww+sEpSmVF6iNZvw9YmnM/YXOd26Ph0C2P6BfHqLJA6yXcoJcuPpHO3VXbTnq6+Vtfcayh+uhnzjgHr1lf1X585qKeI9p45ovn7QU3tBf8UgF9PG+k+sGhgqZb1BK2IhZfUR2Xt5CBKqDdqtBZEdDGyP0H86+Y8vA1uGdzaVyqOxTvnraQrlrwWfKlicbKB934r+NDbOb6cLHlLFJXshbiOOc4TRmmCVPX5FrHGyYa81jLlUL9ozK0j/4wKFQ8bs8hN8Xw4huXfNakmPRzVeZf0V11CqiVIRlAwMzIrBqhSgQ==;1nPOGEiXcGMcjq05XUOLVQ=="
 ---
 
