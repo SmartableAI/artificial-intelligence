@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-13-image-recognition-software-market-next-big-thing-major-giants-qualcomm-technologies-inc-nec-corporation-microsoft.md",
+      "title": "Image Recognition Software Market Next Big Thing | Major Giants: Qualcomm Technologies, Inc., NEC Corporation, Microsoft",
+      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition, Optical Character Recognition), Industry Vertical (Banking, Financial Services, and Insurance (BFSI), Media & Entertainment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "originalUrl": "https://www.openpr.com/news/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc12730861_g.jpg",
+          "width": 640,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2208451/image-recognition-software-market-next-big-thing-major-giants",
+      "publishedDateTime": "2020-12-12T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system.md",
       "title": "Privacy advocates poop on UK supermarket’s facial recognition system",
       "excerpt": "The Southern Co-op supermarket's use of facial recognition to reduce crime has sparked concerns that it could wrongly flag innocent people as criminals.",
@@ -1336,58 +1380,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-meldcx-unveils-samir-digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision.md",
-      "title": "meldCX unveils SAMi(R) - digitizing clean-up in public spaces with AI and computer vision",
-      "excerpt": "AI-powered system \"digitizes cleaning\" by generating a heat-map of touched surfaces MELBOURNE, Australia, /PRNewswire/ -- To help businesses meet new hygiene standards efficiently and affordably, meldCX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/meldcx-unveils-samir---digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision-2020-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/meldcx-unveils-samir---digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

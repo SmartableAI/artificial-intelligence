@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assi
 webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-12-29"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Market By Leading Players, Future Applications, Trending Regions and Industry Share Estimate by 2026"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-12-26T12:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-leading-players-future-applications-trending-regions-and-industry-share-estimate-by-2026-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "AT6KLoLcEqbkt9j8v+G/W+cpxNTqG3phW5FrVW+WzIEU42T3YTI0gUdAX8MZeTtAIKq32+i841MLnA8PkHw8HPASY4zEEms5AfbI6LZ/N49u7QhhorNlo6RKhra04j3Lqz52MmQLqzqjVna7+Ex0xzKK0gN1wPkUQjJ+pU4iPK/y/u+nKbD5E+egw8DuFaIpCHmLO0WOZXw3UwV/xu2CSvC+C+tlcfWO8S+7lRWrruibT+lkljd0hp4LeL90wJuvkqXtNb9/YJPrkQrSyHH4ekpGUd2Q5myV/JOSY7mVBHgRmSt8JtJfuCevfGRBiOH+mwBkuaLeLzeEbY6W7lyNYuVWHoXEZFhSYrpmNMHugzg=;PgJlfVLxCqu7md4pLG7pSw=="
 ---

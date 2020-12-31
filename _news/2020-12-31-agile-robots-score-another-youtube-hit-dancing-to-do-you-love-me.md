@@ -29,15 +29,15 @@ images:
 related:
   - title: "Watch Boston Dynamics robots dance to 'Do you love me'"
     excerpt: "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,"
-    publishedDateTime: 2020-12-31T01:32:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/technology/watch-boston-dynamics-robots-dance-to-do-you-love-me/article_6828f7d5-3c3d-5c20-af3d-97c3989a8303.html"
+    publishedDateTime: 2020-12-31T03:19:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/technology/watch-boston-dynamics-robots-dance-to-do-you-love-me/article_8ccf7d30-5d2e-5967-bfb7-554ae1e0e7f6.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/ca/9caee744-1d2e-52a8-af91-ac54992538d8/5fed3085c783c.image.jpg?resize=576%2C324"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/f2/af209f60-d28b-5d7c-8732-cab1643fb9a3/5fed2eb423b9b.image.jpg?resize=576%2C324"
         width: 576
         height: 324
         isCached: true
@@ -56,6 +56,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "01YfIW3sZkP08UTraoBDvTdNrx7r9e63aGatGdqhDQstw/lS+Y5qY5gkYU8hxhtv5Zu+FTM9freWCsluEXG39P8AZ6HYBlktAIg4rv8GoZZh4F2cBNS+jmkPK5aMlM0M11bF4GUTjTXW1IVkroXgaSXSBmiETiPzavp7oBuKMVo+FK37WGyGCOmhCWEChk6inw69S0STODZWEgx1X5VLd4e8Ki6Jd8jAx3ktX9DLSXEJeKORzZLHLDMNFQUy4jnN1x/U8OZkfEqCNRLbHx6CFbXbR/Ij4Onm8fZ9DXC1LgvFMm49ZFq/dod+CpQ4/574HeP0ji6AP0Oty4oQFGNTbeTOaQtTRh7B/jfgRDCLLt0=;mudmCUKSa7CNSqsr9n2Uvw=="
+secured: "XvE6aUkNXh1qmqX9z7rojf4GnzvlG50r+blJPmnVQWP/3Z3IU0OyduUH5MDCdaIz0YH2qUj+7agGh8P6eFyHtYmywrm8rPZMOf9IFwKKwRJQlHa3d84gMs9WBDICcfGYDOVMvvlq2VGwt8P/Ew0mPenymizkJ3ou3aQVnJ/rTkOz41EebD5OK+BJzdgar4QhaJKOjWkTjnD8U7farq+r6kdD0C80QVjax7mfuhQq5Ms13Au/SUu0/DCFSG5XH5nsgRjkvaR1p4/JhAgKBwy60TdaqWOp2QCjhZwfkW4NUsCFG3O13JgxSAd/KZc5qajRbFzaZ5sb4TMAN3FQeonbVz9wOb9/nK6x4VSiegJVcUPBcOosLgtwpl/n8GeDiRm95kLOe7oNnkuves0E6FhZizCm+cqIDJ1xzcz+zTweNaSdNCVjkf2RcwDuJMQ/9GE4JIaAUrmyNt8NK1CCfwS4npjP/d9ycExvIREWB2qEGA+OfdRg+nYDlehehqAe8IwDVSfxhW79h+EvltvFKZBfBA==;O3IFBGPLVUtfZBrcNzrlYg=="
 ---
 

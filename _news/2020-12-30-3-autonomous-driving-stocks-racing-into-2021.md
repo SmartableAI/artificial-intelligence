@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Making A List Of The Top Autonomous Vehicle Stocks To Watch In January 2021?"
-    excerpt: "Looking For the Best Autonomous Vehicle Stocks To Buy Right Now? 3 Names To Know. It has been an invigorating year for autonomous vehicle stocks so far. Autonomous vehicles (AVs)"
-    publishedDateTime: 2020-12-30T16:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "5 Best Autonomous Vehicle Stocks to Buy for 2021"
     excerpt: "Below we presented the list of 5 best autonomous vehicle stocks to buy now. For a detailed discussion as well as a more comprehensive list please"
     publishedDateTime: 2020-12-27T23:49:00Z

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-28-zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting.md",
+      "title": "Zoho’s 2021 finance trends predicts surge in cloud-based and AI-driven accounting",
+      "excerpt": "Zoho Corporation, a global technology company offering the most extensive suite of business software applications in the industry, today delivers its predictions for finance and accounting in 2021. Zoho suggests that artificial intelligence will become well-entrenched in accounting and finance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "originalUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/graphicstock-business-people-reading-graphs-and-charts_SCehK9CcWb.jpg",
+          "width": 750,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
+      "publishedDateTime": "2020-12-28T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
       "title": "Neural’s AI predictions for 2021",
       "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
@@ -165,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -892,7 +936,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -932,6 +976,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-15-biggest-tech-companies-how-big-can-they-get.md",
+      "title": "15 Biggest Tech Companies: How Big Can They Get?",
+      "excerpt": "In this article, we are going to list the 15 biggest tech companies in the world. Click to skip ahead and jump to the 5 biggest tech companies in",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/11/09050314/technology-2818664_960_720.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-25T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1104,100 +1191,6 @@
         "name": "modernreaders.com",
         "domain": "modernreaders.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough.md",
-      "title": "HCG, Wipro develop AI-driven Covigilent to diagnose Covid through cough",
-      "excerpt": "As a social responsibility, HCG, a specialist in cancer care, and Wipro have jointly developed Covigilent, an advanced artificial intelligence powered cough analysis rapid screening tool",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/bengaluru/hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough-663571",
-      "originalUrl": "https://www.thehansindia.com/bengaluru/hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough-663571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/12/24/1020550-covid.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/bengaluru/hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough-663571",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/bengaluru/hcg-wipro-develop-ai-driven-covigilent-to-diagnose-covid-through-cough-663571",
-      "publishedDateTime": "2020-12-24T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.md",
-      "title": "Stocks making the biggest moves in the premarket: FireEye, Alibaba, C3.ai & more",
-      "excerpt": "FireEye (FEYE) – The cybersecurity firm's stock is 2% lower in premarket trading, after rising for four straight sessions and eight of the past 10, gaining more than 78% over the latter stretch. Shares of this and other cybersecurity firms have been rising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102749210-RTR4JTRA.jpg?v=1537909227",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/24/stocks-making-the-biggest-moves-in-the-premarket-fireeye-alibaba-c3ai-more.html",
-      "publishedDateTime": "2020-12-24T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

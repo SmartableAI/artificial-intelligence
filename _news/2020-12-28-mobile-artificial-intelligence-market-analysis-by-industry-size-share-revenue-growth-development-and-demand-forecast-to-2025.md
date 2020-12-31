@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025"
-    excerpt: "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs."
-    publishedDateTime: 2020-12-28T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
+  - title: "Assistive Robotics Market by Mobility, Product Type, Applications, and Geography - Global Forecast to 2024"
+    excerpt: "The assistive robotics market is expected to grow from USD 4.1 billion in 2019 to USD 11.2 billion by 2024, at a CAGR of 22.3% during the forecast period. The assistive robotics market is expected to grow from USD 4."
+    publishedDateTime: 2020-12-31T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,15 +57,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market 2020 Share, Trends, Size, Top Manufacturers, Growth opportunities and Forecast to 2025"
-    excerpt: "Market Overview The Artificial Intelligence Market in Sports market is expected to grow at a CAGR of 28.72% based on the growing use of technology in most well developed sports, further with the falling prices of these services due to economies of scale they are expected to be used at University and Junior Levels of various sports along with the widening applications of the technology as it evolves every year."
-    publishedDateTime: 2020-12-30T19:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
+  - title: "Machine Learning Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
+    excerpt: "The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global machine learning market to grow with a healthy CAGR over the forecast period from 2020-2026."
+    publishedDateTime: 2020-12-26T15:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robotics Market 2020 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2024"
+    excerpt: "Market Research Future published a research report on \"Robotics Market Research Report – Global Forecast till 2024\" -"
+    publishedDateTime: 2020-12-30T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2024-2020-12-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,56 +99,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
-    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
-    publishedDateTime: 2020-12-29T12:13:00Z
-    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
+  - title: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+    excerpt: "Service Robotics Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026  <p>Top Players in Service Robotics Market are Lely International, Aethon Inc, Honda Motor Co."
+    publishedDateTime: 2020-12-26T20:43:00Z
+    webUrl: "https://menafn.com/1101342149/Service-Robotics-Market-Top-Leading-Companies-Consumption-Key-Drivers-Challenges-and-Trends-Forecast-to-2026"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
-        width: 1000
-        height: 667
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?909209"
+        width: 395
+        height: 250
         isCached: true
-  - title: "Global AI Adaptive Radio Intelligence Market 2020 Research Report With COVID-19 Update - Key Players Analysis, Growth Factors and Forecast to 2025"
-    excerpt: "Global AI Adaptive Radio Intelligence Market Growth (Status and Outlook) 2020-2025 interprets market overview, value chain structure, industrial environment, regional analysis, applications, market size,"
-    publishedDateTime: 2020-12-29T23:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-adaptive-radio-intelligence-market-2020-research-report-with-covid-19-update---key-players-analysis-growth-factors-and-forecast-to-2025-2020-12-29"
+  - title: "Self-Driving Car Market Share, Size 2021 with Geographic Segmentation, Statistical Forecast and Competitive Analysis Report to 2023"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-12-29T00:18:00Z
+    webUrl: "https://menafn.com/1101348578/Self-Driving-Car-Market-Share-Size-2021-with-Geographic-Segmentation-Statistical-Forecast-and-Competitive-Analysis-Report-to-2023"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?59884"
+        width: 445
+        height: 250
         isCached: true
-  - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
-    excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2020-12-28T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934351/global-education-and-learning-analytics-market-report-2020-2025-what-has-been-the-impact-of-covid-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934351"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934351"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Big Data Analytics, AI, and Collaborative Combat Driving the Evolution of Land-based EO/IR CONOPS, 2019–2029"
-    excerpt: "Reportlinker.com announces the release of the report \"Big Data Analytics, AI, and Collaborative Combat Driving the Evolution"
-    publishedDateTime: 2020-12-28T10:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934678/big-data-analytics-ai-and-collaborative-combat-driving-the-evolution-of-land-based-eoir-conops-201"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934678"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934678"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "pAUZYGdwOXu/2g60M1AK0wPeKvjO8ji/GwIhO2VdDwSWRkcIRMI6JNREGhb805f5jGVwGBQ8FH2kaDpooLGdwM2UuLNzniAplE3dChTzVOB9fbkOc7Yq5qIq9kpeBoj2KjkJjM0Lu4gxYoXjYUzrq2+Rnrz8VXlkhsAjvhqmV0xcdN9qG5sPlo1MF0ClVbPM2ZYq7JS02f1w9kQx8Ve4QdAUuxTK6ghsyKTpCsu31PQVvVaAxtiIorSZtT2epAKEpSYXlLJNUTRJCHhVNYA8FvlxbRmpVhqqTgXIIYTZF+O2mQ0F90+r6UL+fHdVlPYxN2MwnIAHElYKdBv4ehCIFRiJ90FsxUg4j+NCY5d5gLg=;hsUM4CKbMmm8/rsMmk8oug=="
 ---
