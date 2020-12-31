@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-u
 ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"
@@ -73,6 +74,6 @@ related:
         height: 372
         isCached: true
 
-secured: "8Za4wwNCot1+tlltfcRKNidyaIdxtC6dfd/4b3SsxAncV1rwWWQjKH3oC4zjA1nx3Y7tmhOUWCaRAiMo0QElBGnNiOxnIysmo0U5AyV0uyHbxwa/RduAN62IQokqO4tZiO/aq4dx5ftOHsK7wDivCXS7ghz7BZsSv2+827iTNU60r9ZSoc7dC8MU78sdrX1KwoP2qKyQlCKgk/EDPjolz+93AUx646WmW2E0Y6CQVqYw1TUofSSgEENnb6TG00CD//gOTsYR9sTNQ7rQfQtqV6QfKxHz5sZTDWh7klorYInOR/doPPFKnYvDWLz7FCxF+THIibuXfxQbW0JTzwLc+lzJ6NjoJIDblcok1HK6D50=;nkO38QoLyss8BDUB3rWNgg=="
+secured: "baA6oZ2YyYfj+mZE+QkKw/z0F0h/K3Hg5t5VIxtiKzm2XxIbAd72F6QNO3nLLC7LxGeHhbEWuK7EfVOv+w/AX7fXS4Xtj3drB3GA2dG8mi+ndXMYLfyOJuZMBoilSZvcXsShEEDoAk8JVtInmkBwGouk/2XJ+DdA/DHmjNP2U67DQA3Cr2DV6VBuqPa9Gm+REAygTH1vwDsb5GhOAmt0dBgi8SJHmhKuyPHOVlFarcBA+sndgNEi9HYFBfcCVfk1D5uBvgQZXnZIVxDAluivwmwLDG0NBrEz7226pTMy4RwMC9kKA5bq0HZp+X79bQjsTnfib4AiJA7JoZ8sVGJ2SdWdeyBbKkrl+MRVSsTWjwLxz4T0I5BACuNbt797FfxkdKbmt0kmr6OKtRXkkI45hRdPBHPXAcYMUiKsRD0e2FM+BL6FO9sOW3U1Xm9CpV6AWoluMxtoTktbCnOFXo4cfScb+xOB5Ap3ovzMJdITPkmXurxNxWvmJpum74y+Z8dtuLVLMmi7gvOq+DA9MvN04g==;UXiVVn1AupHNXt6DmTS1UA=="
 ---
 

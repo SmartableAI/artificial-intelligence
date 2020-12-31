@@ -73,6 +73,22 @@ related:
         width: 2121
         height: 1193
         isCached: true
+  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
+    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
+    publishedDateTime: 2020-12-31T17:59:00Z
+    webUrl: "https://www.freepressjournal.in/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2020-12/15fbb897-4bdc-435c-b66a-39605d0bcc38/pexels_sora_shimazaki_5926395.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Blog: The 2021 BFSI workforce needs an upgrade of fintech"
     excerpt: "The need for skill upgrades in the tech space gets intensified in light of the possibility that failing to bridge the skill gap can make BFSI companies suffer from a shortage of tech-efficient mid-car"
     publishedDateTime: 2020-12-30T01:35:00Z
@@ -100,6 +116,20 @@ related:
       - url: "https://icoexaminer.com/wp-content/uploads/2018/10/usdt-300x302.jpg"
         width: 300
         height: 302
+        isCached: true
+  - title: "Top Fintech Trends in 2021"
+    excerpt: "It’s fair to say that 2020 has been among the most consequential years ever for the fintech (financial technology) industry. Thanks in no small part to a deadly pandemic that swept across much of the world,"
+    publishedDateTime: 2020-12-30T12:42:00Z
+    webUrl: "https://internationalbanker.com/technology/top-fintech-trends-in-2021/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 24
+    images:
+      - url: "https://internationalbanker.com/wp-content/uploads/2020/12/Fintech-Trends-2021.png"
+        width: 1204
+        height: 650
         isCached: true
   - title: "Pandemic creates surge for MENA fintech development"
     excerpt: "The number of Fintech startups have surged in the last 10 years: tech ventures which are positioned to serve and disrupt financial markets and the associated knowledge industries in the Middle East and North Africa (MENA) region."
