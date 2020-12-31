@@ -49,7 +49,7 @@ related:
     provider:
       name: IPWatchdog
       domain: ipwatchdog.com
-    quality: 21
+    quality: 23
     images:
       - url: "https://www.ipwatchdog.com/wp-content/uploads/2019/12/top-10-Depositphotos_22273619_xl-2015.jpeg"
         width: 500

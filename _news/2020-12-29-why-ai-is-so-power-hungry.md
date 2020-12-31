@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Why AI is so power-hungry"
-excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
-publishedDateTime: 2020-12-29T12:43:00Z
-originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
-webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
+excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
+publishedDateTime: 2020-12-29T12:38:00Z
+originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
+webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -43,6 +44,6 @@ related:
         height: 380
         isCached: true
 
-secured: "rgUWxAQ1ayaYy+mOsheThf/JnGMcy7jMxBZhuWK2UGUSRUospG8CU2OuP3S97VU/+or9JlYjHiLx/pyGCfobandV0dCDIRhc1+kwAxq9BXpZeRU3bMf/ESoVN+pxLXoZnPbABoBaTtJcr9hzGpRR1O2phSCn3R711AiCczmPvxwJe+5P3/GqDB7QJtxMNvEL8DsU0Yuw9/mUY5FyXqZybv/jEZlXyPRzeUUuVnSfgXfyfFOCXKTJ82kqiNXs6uKHRaoyCVVyN5wL7opkwzJMmCdiM7Y0tlB0cqKa2ESnIPvR3DA6psxCMxgNEGpthqMKomssf1ekVUzVxCLKp2Q7evb9LXELT0S2hPnMgJsSI7c=;xJR2OvyNUx8MZ/zT79ESzQ=="
+secured: "Gwd5eScfxwEni7iKfSjFle+MZq6axLBfoRrnd63nQdXlGlUNrzQTN3qIvLOyFSjP2CKBZ9a+7M0qqdFm3P+4pwNWDzOz6CRD8gTOa52+YkHPwztcCazBL5XB8N6Us0YQHMATcjNlx3fCHD8gPhVSlavBH2ztPXHTZXEsxlK/ov6rVBFYUKrgolsL+yhGh9zb7Qj0bcYcefMN/tFf5xgDzA7ar6w/Z0LGrmDhQ+pmG4+jU1BXJ9ZkbOqqu5SfT7gqKhAchVw23+gNzNwVRS34t42rF97Koyo8R6vo5Sn7MHHZSglyjNthN66603r3LZ4i/7LB3JrLLTzxDI8V13A3zkH7jM4Fe6TDxy7vGyt5wzo=;5LlWVeUV4ke4UMrX8Bq7fg=="
 ---
 

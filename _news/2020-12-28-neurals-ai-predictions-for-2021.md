@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
 type: article
 quality: 191
-heat: 203
+heat: 201
 published: true
 
 provider:
