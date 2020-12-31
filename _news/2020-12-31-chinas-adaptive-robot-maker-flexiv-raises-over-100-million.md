@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1900
         height: 1049
         isCached: true
+  - title: "Chinese robot maker Flexiv closes over $100m series B round"
+    excerpt: "The funds raised will be used to implement its AI-driven, general-purpose robots in other areas such as services, agriculture, logistics, and medical care."
+    publishedDateTime: 2020-12-31T11:25:00Z
+    webUrl: "https://www.techinasia.com/chinese-adaptive-robot-firm-flexiv-lands-100m-series#!"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "KXCwiIwv8MxswPYty1eZ9W4xKNE2pUaynozwaiXxmmSe+LG7U9reo0u2q/WBypf2SYEpM7Qyb4ctSWJBLN7jB0RKG3ebBICjEumre9o/ctvMi7lzo7cod014yDwmq8zUUjPHtHXXMPw0Qa/O5WBvBFeedy7gprlMFJRtrbfJiuwCMT0tqQgnZxsJDocWiYY9vmHD2dYwpOejos4Fey0SXxxnJzS5zNoMaO3nAiIqiNKMU3+pUGj0qaHviTCTXkg95SnRL6M/qUVyiFBomLt34GyjklA7GzZeBQ8nc/SkqhmgwEUMABRgzAuFFMmCdmU30o+37KN8MweGFTGBjGsdU2WVHlAoqs2kWNyQuavDS8oGvrHsdiuIqy3N+MmNx8RYa06m5XSwrfNkT0YHm5VUBUydLrIqpR3hCiHyhk77jbzMnnkDM7lomTqMWtglXja3Nx/avwjzorfKPWAiJ31ca9ulW7yPJGXjkP8ErEfyFKEg1JjljIMwNkONikb1PFV1G9SUOyDcy0K9ZMUHsq+F1g==;h8W/6WcFwyvDzqocnJFztA=="
 ---

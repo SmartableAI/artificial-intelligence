@@ -2,6 +2,134 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-23-singaporean-startup-ushers-in-digital-40-leveraging-data.md",
+      "title": "Singaporean Startup Ushers In Digital 4.0 Leveraging Data",
+      "excerpt": "The Singapore-based data and analytics company also collaborates with Temasek Polytechnic in Singapore to champion data-driven AI-enabled solutions for digital 4.0 smart building solutions. The partnership with the institution's School of Engineering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362166",
+      "originalUrl": "https://www.entrepreneur.com/article/362166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608644829-AzendiansMBv1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362166",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362166",
+      "publishedDateTime": "2020-12-22T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-new-york-halts-use-of-facial-recognition-tech-in-schools.md",
+      "title": "New York Halts Use Of Facial Recognition Tech In Schools",
+      "excerpt": "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools",
+      "originalUrl": "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1340315",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315",
+      "publishedDateTime": "2020-12-22T18:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
+      "title": "Cuomo signs facial recognition, voter registration bills",
+      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
       "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
       "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
@@ -1060,152 +1188,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-facial-recognition-legislation-rolls-on-in-new-orleans-and-oakland-boston-celtics-players-urge-passage.md",
-      "title": "Facial recognition legislation rolls on in New Orleans and Oakland, Boston Celtics players urge passage",
-      "excerpt": "New Orleans passes ban on use of facial recognition by police, Oakland follows suit, Massachusetts governor urged to sign restrictions, tenants are surveilled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202012/facial-recognition-legislation-rolls-on-in-new-orleans-and-oakland-boston-celtics-players-urge-passage",
-      "originalUrl": "https://www.biometricupdate.com/202012/facial-recognition-legislation-rolls-on-in-new-orleans-and-oakland-boston-celtics-players-urge-passage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg",
-          "width": 1024,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T13:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-civil-rights-groups-demand-cbp-stops-facial-recognition-expansion-at-airports.md",
-      "title": "Civil rights groups demand CBP stops facial recognition expansion at airports",
-      "excerpt": "The American Civil Liberties Union, Electronic Frontier Foundation and more than a dozen other civil rights groups have objected to Customs and Border Protection's plan to expand use of facial recognition at border entry and exit points.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
-      "originalUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F42880f80-43ca-11eb-b7b6-51f4eb4fc119&client=amp-blogside-v2&signature=91f0f841f028a0036c46cedd061524d5764f7146",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
-      "publishedDateTime": "2020-12-21T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-mercedes-teases-an-ai-powered-version-of-its-mbux-infotainment-system.md",
-      "title": "Mercedes teases an AI-powered version of its MBUX infotainment system",
-      "excerpt": "When the new Mercedes EQS sedan hits the road next year, it will feature a new and improved version of the automaker’s MBUX infotainment called the MBUX Hyperscreen as an optional upgrade. The company says the ultrawide screen spans the entire front dashboard of the upcoming EV and adds AI to the mix to make using the system more intuitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
-      "originalUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fee6f0f50-43cb-11eb-94eb-df4c84d9d453&client=amp-blogside-v2&signature=5244a6d8187979bfeadbace8c67d51749b3b2789",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
-      "publishedDateTime": "2020-12-21T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -101,6 +101,20 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
+    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further"
+    publishedDateTime: 2020-12-31T11:17:00Z
+    webUrl: "https://www.dailyexcelsior.com/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nigeria: Fintech Research - Everything You Need to Know About Tech Companies and Its Stocks"
     excerpt: "The tech industry comprises companies that sell devices, software, hardware, artificial intelligence, and other information technology (IT) products. These companies have always been profitable in terms of stock value."
     publishedDateTime: 2020-12-29T11:15:00Z

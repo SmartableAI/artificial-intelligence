@@ -61,11 +61,11 @@
       "title": "Why stateful machine learning could help cybersecurity efforts",
       "excerpt": "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "webUrl": "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "originalUrl": "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -79,8 +79,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "publishedDateTime": "2020-12-29T13:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -213,7 +213,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 166,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -244,7 +244,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Ethics"
       ]
     },
     {

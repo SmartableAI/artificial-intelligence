@@ -115,6 +115,20 @@ related:
         width: 300
         height: 302
         isCached: true
+  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
+    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further"
+    publishedDateTime: 2020-12-31T11:17:00Z
+    webUrl: "https://www.dailyexcelsior.com/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Faulty technology is hamstringing the Fintech industry costing investors millions: why the industry needs to invest in their online platforms"
     excerpt: "By Antony Edwards, COO, Eggplant The finance industry is one rife with technology fuelled innovation and as such, the Fintech business is booming. Over the last 5 years startups with consumer convenience in mind have sprung up to challenge traditional high street bank offerings."
     publishedDateTime: 2020-12-28T12:15:00Z

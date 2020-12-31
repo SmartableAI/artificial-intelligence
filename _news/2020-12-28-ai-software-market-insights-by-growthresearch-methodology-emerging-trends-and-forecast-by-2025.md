@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-software-market-insig
 webUrl: "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28"
 type: article
 quality: 56
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipset Market 2020 Growth, COVID Impact, Trends Analysis Report 2026"
+    excerpt: "AI chipsets market size is expected to be valued at USD 7 6 billion in 2020 and likely to reach USD 57 8 billion by 2025 at a CAGR of 40 during the forecast period Artificial intelligence AI chipsets are"
+    publishedDateTime: 2020-12-31T11:48:00Z
+    webUrl: "https://www.openpr.com/news/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    ampWebUrl: "https://www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "Facial Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
     excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The global facial recognition market was valued at USD 4."
     publishedDateTime: 2020-12-28T22:42:00Z

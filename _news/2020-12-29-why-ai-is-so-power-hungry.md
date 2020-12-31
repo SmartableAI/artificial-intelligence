@@ -3,11 +3,11 @@ category: news
 title: "Why AI is so power-hungry"
 excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
 publishedDateTime: 2020-12-29T12:38:00Z
-originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1"
-webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1"
+originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
+webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
 type: article
-quality: 67
-heat: 77
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -19,7 +19,9 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg"
@@ -43,6 +45,6 @@ related:
         height: 380
         isCached: true
 
-secured: "EZm5KyhF2gfjQB+Bl8V3jSKgXBcHmo7WmIMEbJlsfdEENepTtD6Pi9OYlSMOJL8R51j4QUgPnGdyWPraKl6afnoTIPIovJxkLym07BBxXy9mGdil+bY1+g0LFTpgcQSThUDwRCwMlYjNc3yQ7oLArApyGZNRcOXPUBNfsHt9hUxAuUfFkEjY1HLbqDF9QD3jruGWVK2tcFq21GWaz4SInw50qz8jNExD5DTNtTmcEr5fEQYcT5ArCdK9Kf/C6JME5wNfRBDRoVvFg0JTDvVbFDIh6O5RGZem1iW41m3wPjCc6lS+R3+XkMd+SbrubkkQK85DZnSqvzhkLbMSiY7DXY9Hpxnxla96PJ2VOXzBMi0=;T42HctQq7y3/dWDaXjWr+g=="
+secured: "YHqRdTCgb4CSqAWl1IffR0H1o5K/4leizJAQaPfhh0ORfn10xa91UOC0a+nXOA7HoZFG9OIeUFW4vz2/XVDYHI4XQKSaCr0EcnXF2JPx2iIt8KKcbsvjAf4CPI4BJ7XiBwzdH9uLjWhdnZ/8Hh0P/5RQGBDGYSz2yXoHUiXfF+QMlkO/R3mnjttuxBgYMbjU1HW6HQKknGHmlT2lL06bs3Uk0v8fuZD1pC9mumAhpOkIEzBR0wazogZobtUVqE2tURGmTL1oaYi87oP5iJJAkfsAl9Uv5/8Dmj6nb2nDJY293eXx+/sUVtIQImnJUhzaXTF6+txbmPMCYxMinNtS9VeGRJ/ccrO21h0KWSxN7Jw=;rBAiKLqMqFl4akK7VHB8MQ=="
 ---
 
