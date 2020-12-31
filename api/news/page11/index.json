@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-12-17-4-cutting-edge-ai-stocks-to-buy.md",
-      "title": "4 Cutting-Edge AI Stocks to Buy",
-      "excerpt": "Artificial intelligence is the new frontier in technology and these AI stocks have the cutting edge of the science and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/",
-      "originalUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda/amp/",
-      "publishedDateTime": "2020-12-16T18:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-global-artificial-intelligence-in-healthcare-market-forecast-to-2027.md",
       "title": "Global Artificial Intelligence in Healthcare Market – Forecast to 2027",
       "excerpt": "WiseGuyReports.com adds \"Global Artificial Intelligence in Healthcare Market Research Report 2020 Analysis and Forecast 2027\" reports to its database. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make ...",
@@ -1202,6 +1159,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu.md",
+      "title": "Healthcare AI Implementation For Emerging Markets: Lessons Learned From The U.S. And EU",
+      "excerpt": "Emerging markets are at the cusp of implementing and developing their own framework for AI implementation in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd91dfadbb0cd572336c3af%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/16/healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu/amp/",
+      "publishedDateTime": "2020-12-16T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

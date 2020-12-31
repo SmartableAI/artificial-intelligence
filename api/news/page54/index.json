@@ -2,49 +2,6 @@
   "page": 54,
   "value": [
     {
-      "path": "_news/2020-11-18-ai-dev-platform-startup-datarobot-raises-270-million-at-a-27-billion-valuation.md",
-      "title": "AI dev platform startup DataRobot raises $270 million at a $2.7 billion valuation",
-      "excerpt": "Boston-based DataRobot, a startup developing an end-to-end enterprise AI platform, today raised $270 million in an equity funding round led by Altimeter Capital. DataRobot says the pre-IPO round — which included new and existing investors T. Rowe Price ...",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/",
-      "originalUrl": "https://ctovision.com/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/datarobot.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure.md",
       "title": "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure",
       "excerpt": "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020",
@@ -1138,6 +1095,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-automation-is-the-app-uipath-powers-up-low-code-robots.md",
+      "title": "Automation Is The App, UiPath Powers Up Low-Code Robots",
+      "excerpt": "As we drive RPA software robots into more roles, we do want to be able to build them using faster low-code controls that perform an increasing amount of their own DNA engineering automatically using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2846f594894f046f521b6%2F0x0.jpg",
+          "width": 638,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/amp/",
+      "publishedDateTime": "2020-11-17T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -55,7 +55,7 @@ related:
     provider:
       name: Diplomatic Courier
       domain: diplomaticourier.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
         width: 1280

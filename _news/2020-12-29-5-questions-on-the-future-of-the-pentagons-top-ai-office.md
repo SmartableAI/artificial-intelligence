@@ -24,29 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "5 reasons why AI could be the future of finance"
-    excerpt: "The role of the Chief Financial Officer (CFO) has expanded beyond the traditional gatekeeper to financial resources, chief accounting officer and head recordkeeper."
-    publishedDateTime: 2020-12-27T11:35:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-could-be-the-future-of-finance-1141847"
+  - title: "Dumb and dumber: The future of business AI depends on HI"
+    excerpt: "When every organization has access to AI ... the difference will be in Human Intelligence (HI) By Tom Foremski for Tom Foremski: IMHO | December 31, 2020 -- 16:15 GMT (08:15 PST) | Topic: 2021: What's Next for Business Technology Foremski's Take: Technology is a competitive force for early adopters and fast followers but that competitive edge -- usually defined as innovation -- never lasts long."
+    publishedDateTime: 2020-12-31T16:26:00Z
+    webUrl: "https://www.zdnet.com/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/806/80627721.jpg"
-        width: 480
-        height: 218
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/31/3bdfa232-87e5-4b2c-8d71-3a0ce0a6774d/ai-or-hi.png"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "The Future of AI: AI's 10 To Watch"
-    excerpt: "IEEE Intelligent Systems is promoting young and aspiring AI scientists via its biennial \"AI's 10 to Watch\" special section. The 2020 group consists of 10 young stars who have demonstrated outstanding AI achievements."
-    publishedDateTime: 2020-12-28T00:07:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9309122"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 17
 
 secured: "c76lUXR/AS8GdFdR3PbfJbBP5TkFmCD/LTpM2zlpTFA5kotd1qV60FIXEDaBtQ1b/3e7CyMCwaBY5z7ONjYJMokf7aNsXb5lkHwdFku3uhL20UNVXnffzcLqFzdcUChBTRWOQ6UUbCYUoJTFWCa1iO4LrCDfPWhkqxJkBU+dxwSJtjI4OcZPPYy8YlSGErqsMfRCgVtZsjFErj6y+b+Ji0J/vHQSXjgMbgnM1Xk6jHXYXPZmMcYkL1AadBhbrBUuVIA2Y+SNByNHHEdqTjSDOqhPgcRjYp12MFT+QjmyyzMLa8d3Ux5FhJjD1hyfDmeR8gEK19CnMu78Ed3R0QiMFWtk/ADx/WNJ5lZ0eL8i7inDnM9qmMWt7WRuYm61E8I5nBMZ9PgHF0G3NUeX2Q8JBqbCeqn4tZyyQ0oR/boFQg3tb2c9Fzw+YsySRqK3J8SKGb3MgoNvlboDKlRpcnrnfM198nP8/s9xbIPdVusb2+5Dlw2oEFlCt/3t2Oj9k4IrzdcrvpjMXvmUKoNKFQlhyw==;rC9Kl6vRzqmiUgSj88wRKw=="
 ---

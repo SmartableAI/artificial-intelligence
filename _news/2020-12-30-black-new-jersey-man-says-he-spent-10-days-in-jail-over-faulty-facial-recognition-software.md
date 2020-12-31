@@ -3,10 +3,10 @@ category: news
 title: "Black New Jersey Man Says He Spent 10 Days In Jail Over Faulty Facial Recognition Software"
 excerpt: "Nijeer Parks became the third person to come forward as a victim of mistakes made by facial recognition software used widely within police departments and law enforcement agencies, according to his lawsuit and an interview with The New York Times ."
 publishedDateTime: 2020-12-29T22:48:00Z
-originalUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
-webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
-ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
-cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+originalUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
 type: article
 quality: 64
 heat: -1
@@ -166,15 +166,31 @@ related:
     quality: 51
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
-    publishedDateTime: 2020-12-30T20:45:00Z
-    webUrl: "https://abc7chicago.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-    ampWebUrl: "https://abc7chicago.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    publishedDateTime: 2020-12-30T22:01:00Z
+    webUrl: "https://abc7ny.com/technology/black-man-falsely-jailed-sues-over-use-of-facial-recognition-tech/9197215/"
+    ampWebUrl: "https://abc7ny.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: abc7NY
+      domain: abc7ny.com
     quality: 51
+  - title: "Unregulated facial recognition must stop before more Black men are wrongfully arrested"
+    excerpt: "HOW MANY more Black men will be wrongfully arrested before this country puts a stop to the unregulated use of facial recognition software? So far, the count is three, and that’s only those we know of."
+    publishedDateTime: 2020-12-31T16:22:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 51
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZNYQSCQVAEI6RCYIAJ5GZSZY5M.jpg&w=1440"
+        width: 1440
+        height: 1024
+        isCached: true
   - title: "Facial Recognition Technology Cited in False Arrest Case"
     excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
     publishedDateTime: 2020-12-30T13:19:00Z
@@ -234,6 +250,6 @@ related:
         height: 382
         isCached: true
 
-secured: "7eIyPh1CP8icSNi3M1hf2OvMF2fkvKbtRCGJkqcybZ1HsYNI1mIMYeLzqDPWXKuN3NiJL44CvR3X8HI0LBtRyPoAYpiaRhtg1q588QCFzHahVDkhDOyPrYzWklHz/2pPLsv6CiLPyvZ+ncseubhbsnpJ30hTtoQHe7UX8qidGXapV37zmnN7Gpnttmsa5LXeH1EVmjW8H12TppOsu0EXMDZ3bySn1nD/6GvRr24vm5Lu3TpIs6NTQ9LY/DLN3L+8UmFS0QdigaqvFD9wrHDzZ8sGezb8UZJMy0FDb1YgPFEL6IuoQDS/kU+olFiMPhurVzk6AqApUa1w1T01Cm8A+vq6zO/X4FK36wl8lShEVh43ZQapF7ED9ASsWwxnmaOymaPkIto1KbIfxWAA5t4oS7fnoc9wvyllSs6Skx2h9iz76diozl0938cTr3u0K5k+1C3hFq6AdzjcrpsUQEqd6OCiOBIok+qFECvRQ2yfFX8TV0GtsG5zosAjdwLPT+bM1mYeQKrKzf72MtDmOrUlNg==;+7M8lqzzWSrkrbSaWSjI5w=="
+secured: "ycjM3yfOV8Rha79gURh40ki7xMvGEE1QWmKrGjdXiqR2mxPfukzwBtMqUZVXVqBzqbGw8Dp3BO/Qut5UTllF6dTCePzCt6LecJUkJ44j9mINOpLOYTni34CPRnPgNEnZpMAoieY7fyhtjT471xajlYLfawysP16BqQil8B3MY7VtV+3lC6bj7tLQU8W7Hynb5QRLNTgfwLmpCfcei+Qg0Cn7JOuKdoURvuIFARjaL9ha6oMUb1DWqQAFwULlcfahmqXIiBQgMAZrmYjgW2vf8b5M1W1X5vX+ykqaxbiEDe0xYnHcgRaDjxXpVIO+eYyU4T5r0npvl6bWrnvxbfMHtYFbjPAH6o53u11Q9bQHtxU=;vfS+7doSJyELfhXSYnfjEw=="
 ---
 

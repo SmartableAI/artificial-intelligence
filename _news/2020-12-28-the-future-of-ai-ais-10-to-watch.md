@@ -32,20 +32,6 @@ related:
         width: 480
         height: 218
         isCached: true
-  - title: "5 questions on the future of the Pentagon’s top AI office"
-    excerpt: "The chief AI strategist joined C4ISRNET to talk about progress the Joint Artificial Intelligence Center made this year and the significance of upcoming changes."
-    publishedDateTime: 2020-12-28T22:57:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 37
-    images:
-      - url: "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+5z9vmUVevbdd0HSELvjuGGry1PoGLGIWxWOkgKMuzEMK+KfhI/G1UytAT9vKh2y7m1YVmLH8GhVniC9VhE0WhGXoMn6LFslVcByu2a6ufOg8IC8HV6HL0RBi5Hja3G4cdcbzPx8Hdn2q5QErzRsFzUc9t9EdaXtkzGGFZ5tcSLRCDfDeDfvg9JslHZpyMJlfrDtIFD9dAfeYIvmxjMf83aGFkaKxI9VPwDSqwfpaMbSGm2Uh48tca08WC1bFahUPTsPXsIgJhqhT4JKTRjEhe2gC9nU4c0hDxSn+219m1Mt68PdCe2TpS42GDpPkloqKJ7NgMM55PeTLPjtJtgm0p+syRl5tyJYDRPCdJznnaE=;1bX3wHPSkXnpuyDxoCPu/w=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-ye
 ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Neural’s AI predictions for 2021"
@@ -39,6 +40,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg"
         width: 796
         height: 417
+        isCached: true
+  - title: "How artificial intelligence will be used in 2021"
+    excerpt: "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3."
+    publishedDateTime: 2020-12-31T16:38:00Z
+    webUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/"
+    ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "An AI Agenda for the New Presidential Administration"
     excerpt: "The end of the year, the end of one administration and the beginning of another, presents a time to consider what’s important and to set priorities. In the areas in which high-tech issues and the law intersect,"

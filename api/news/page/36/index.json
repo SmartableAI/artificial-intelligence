@@ -2,48 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2020-12-01-infineon-to-set-up-global-ai-hub-in-singapore.md",
-      "title": "Infineon to set up global AI hub in Singapore",
-      "excerpt": "Part of the German chipmaker's digital transformation efforts, the facility will launch 25 artificial intelligence projects in Singapore where it also plans to partner local organisations to offer AI courses and certifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "originalUrl": "https://www.zdnet.com/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/infineon-to-set-up-global-ai-hub-in-singapore/",
-      "publishedDateTime": "2020-12-01T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-deepmind-breakthrough-helps-to-solve-how-diseases-invade-cells.md",
       "title": "DeepMind Breakthrough Helps to Solve How Diseases Invade Cells",
       "excerpt": "Google’s artificial intelligence unit took a giant step to predict the structure of proteins, potentially decoding a problem that has been described as akin to mapping the genome.",
@@ -1162,6 +1120,49 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity.md",
+      "title": "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Nov. 30, 2020 /PRNewswire/ -- The \"Modular Robotics Market Research Report: By Offering, Robot Type, Payload ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-12-28"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MarketWatch
@@ -41,20 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026 . Posted on Dec"
-    publishedDateTime: 2020-12-26T23:42:00Z
-    webUrl: "https://menafn.com/1101342177/Natural-Language-Processing-Market-Research-Update-Size-Estimation-Future-Scope-Revenue-Opportunities-and-Regional-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "drMXwYA0sLqqIvMgR82ZKMC7C02hNNumyZqcCSBScIYLRUXRCbjSEBqjVpHxKQvNVhFGm7t4UzakR67JuhW6rM6593tNTvv8+dqFXkCZsiOCEx0+fwBHgUBcmP9WmPUkuPz9GhQz00T0WY1O4LtXlgjbvqcwCy+qBcdmUMQNzT52ta8uJ04v7AyBMQyueMaZnY4z3vz4mVcPM25cdlpENKBsM4YMPmT8gbw/C4JHOhoBSmTdxbR0UKu22zGEaTxTfPsqnrR13AycMLNw8KPSJPr51VpNX0FAvPKE29YkvVj3y5U0kI2r9Qo4Tj3tg9g8yc8y4vbTS9rb6w6FjWhdVb/3HXfMZA1foNF2MIH4tcg=;nVwT2TpI9eRU+U2rbW2bFw=="

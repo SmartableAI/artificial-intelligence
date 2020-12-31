@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
 type: article
 quality: 191
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence will be used in 2021"
+    excerpt: "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3."
+    publishedDateTime: 2020-12-31T16:38:00Z
+    webUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/"
+    ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
     excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
     publishedDateTime: 2020-12-31T14:10:00Z
@@ -42,7 +58,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
   - title: "An AI Agenda for the New Presidential Administration"
     excerpt: "The end of the year, the end of one administration and the beginning of another, presents a time to consider what’s important and to set priorities. In the areas in which high-tech issues and the law intersect,"
     publishedDateTime: 2020-12-28T17:59:00Z
