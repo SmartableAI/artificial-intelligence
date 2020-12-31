@@ -1379,26 +1379,35 @@
       ]
     },
     {
-      "path": "_news/2020-12-18-indigrid-collaborates-with-ibm-for-digital-transformation-of-critical-power-infrastructure.md",
-      "title": "IndiGrid Collaborates with IBM for Digital Transformation of Critical Power Infrastructure",
-      "excerpt": "IBM and India Grid Trust have announced a multi-year collaboration agreement to build artificial intelligence AM platform. IndiGrid will deploy a hybrid cloud solution with IBM Maximo Application ...",
+      "path": "_news/2020-12-18-thales-speakers-bureau-experts-to-ponder-quantum-technology-5g-digital-identity-cybersecurity-and-artificial-intelligence.md",
+      "title": "Thales Speakers Bureau: Experts to Ponder Quantum Technology, 5G, Digital Identity, Cybersecurity and Artificial Intelligence",
+      "excerpt": "Quantum technology, 5G, cyberdefence, cybersecurity, biometrics, AI, self-driving cars ... in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum technology – to build a future we ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/indigrid-collaborates-ibm-digital-transformation-critical-power-infrastructure/",
-      "originalUrl": "https://www.ciol.com/indigrid-collaborates-ibm-digital-transformation-critical-power-infrastructure/",
+      "webUrl": "https://www.indiainfoline.com/article/news-business-wire-financial-analyst-investors/thales-speakers-bureau-experts-to-ponder-quantum-technology-5g-digital-identity-cybersecurity-and-artificial-intelligence-120121800309_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-business-wire-financial-analyst-investors/thales-speakers-bureau-experts-to-ponder-quantum-technology-5g-digital-identity-cybersecurity-and-artificial-intelligence-120121800309_1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T22:37:00-08:00",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-business-wire-financial-analyst-investors/thales-speakers-bureau-experts-to-ponder-quantum-technology-5g-digital-identity-cybersecurity-and-artificial-intelligence-120121800309_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-financial-analyst-investors/thales-speakers-bureau-experts-to-ponder-quantum-technology-5g-digital-identity-cybersecurity-and-artificial-intelligence-120121800309_1.html",
+      "publishedDateTime": "2020-12-18T02:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
         "images": null,
         "publishers": null,
         "authors": null

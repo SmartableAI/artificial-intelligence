@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-29T20:40:00Z
 originalUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21204187/real-words-or-buzzwords-computer-vision"
 webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21204187/real-words-or-buzzwords-computer-vision"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/12/bigstock_Face_Detection_And_Recognition_380721568.5feb90f5d9438.png?auto=format&fit=max&w=1200"

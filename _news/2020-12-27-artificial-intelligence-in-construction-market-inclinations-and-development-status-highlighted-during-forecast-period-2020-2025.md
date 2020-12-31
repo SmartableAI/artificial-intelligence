@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Retail and E-commerce Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026"
-    excerpt: "The report on the global AI in retail and E-commerce market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global AI in retail and E-commerce market to grow with a CAGR of 42."
-    publishedDateTime: 2020-12-26T17:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2026-2020-12-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Contact Center AI Software Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
     excerpt: "Global Contact Center AI Software Market Growth (Status and Outlook) 2020-2025 is the latest market report rolled out by MarketandResearch.biz, one of the world’s leading market research firms. The report contains a detailed description of all the major market components such as global status and trend,"
     publishedDateTime: 2020-12-29T21:59:00Z

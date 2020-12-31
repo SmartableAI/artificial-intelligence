@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-st
 ampWebUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
 type: article
-quality: 123
-heat: 143
+quality: 125
+heat: 145
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Machine Learning
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all"

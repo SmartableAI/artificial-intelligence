@@ -7,7 +7,7 @@ originalUrl: "https://www.winknews.com/2020/12/26/artificial-intelligence-powere
 webUrl: "https://www.winknews.com/2020/12/26/artificial-intelligence-powered-boat-to-recreate-mayflower-journey/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1025
     height: 626
     isCached: true
-
-related:
-  - title: "A crewless boat is recreating the Mayflower’s 400-year-old journey, with the help of AI"
-    excerpt: "The vessel, docked in the harbor of Plymouth, England, will rely on the latest navigation technology when it sets out to sea."
-    publishedDateTime: 2020-12-26T18:40:00Z
-    webUrl: "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/"
-    ampWebUrl: "https://www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/national/a-crewless-boat-is-recreating-the-mayflowers-400-year-old-journey-with-the-help-of-ai/amp/"
-    type: article
-    provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 51
-    images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2020/12/Mayflower-400-CBS-News-Photo.jpg?w=1280"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BFkpy5GL4oRNca8YotAUEo3Zi6yTg5aq3+9ynKwpUc2gzOIRvbqB1CTrnONp8pw4qijvtpue/zE8M1NmFHtF4SamFXBEXLNsPKQelQvdkmX1/oOdsKLI7Jdt3o7agfeXI1KDtPcbeUdGvHSwCbJbK2cXh8K95lf+/pVRusLJhdcTCO8G/oMMFLTo0s0aKn7oCLn36KAeAR7RycSBAxrmoUlelb1KJWsIA7+6KXTnTaJcVfaPIvM+KJxjo/MlJAlU/lUKUzfurf5zfmA00z61YWZTuYJSSFwq8eefQOpcCahW2DBU7P9pSs3hm9RdYAXGwLJcfBMfOJ8t6D6h75AYZjk3/AjiaSdlo3S0tPiZMozgDypg507wCt0ZZpjM5e9hTynpmKxpQ1q55MKsl+uUd8SXc+rrIo01icce21HSL0ckL2bWQfUsbeE+A22R0kauJRBT4zabzZ+2s9S7ug6ab4mFd7Xpj5yFB8S4DiRnFyoTRO1p0FxH8qzzjHiszukZCea0pa//5zymJClwLEnHqg==;D+mja2nH0a0DXkCv0ZJ7jw=="
 ---
