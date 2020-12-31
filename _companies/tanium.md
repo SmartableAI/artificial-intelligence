@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Tanium"
   url: "https://twitter.com/Tanium"
-  followers: 6125
+  followers: 6126
 
 locations:
   - Emeryville, CA
