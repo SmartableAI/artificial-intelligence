@@ -21,21 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025"
-    excerpt: "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies"
-    publishedDateTime: 2020-12-30T06:15:00Z
-    webUrl: "https://www.openpr.com/news/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+  - title: "Book on AI to combat Covid-19"
+    excerpt: "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added."
+    publishedDateTime: 2020-12-27T22:12:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
     images:
-      - url: "https://cdn.openpr.com/T/c/Tc30902512_g.jpg"
-        width: 650
-        height: 350
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "How COVID-19 is driving AI in the mortgage industry"
+    excerpt: "With the move toward a remote workforce and the real estate market booming, integrating artificial intelligence can create a competitive advantage."
+    publishedDateTime: 2020-12-28T19:46:00Z
+    webUrl: "https://www.housingwire.com/articles/how-covid-19-is-driving-ai-in-the-mortgage-industry/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 37
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_228678481-e1595368662513.jpeg?resize=1024,717"
+        width: 1024
+        height: 717
         isCached: true
   - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
     excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
@@ -48,15 +62,26 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
-    excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
-    publishedDateTime: 2020-12-29T07:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-north-america-south-america-72b2bc25587f46b38746bc62c3bb7048"
+  - title: "Artificial Intelligence Chipset Market 2020 Growth, COVID Impact, Trends Analysis Report 2026"
+    excerpt: "AI chipsets market size is expected to be valued at USD 7 6 billion in 2020 and likely to reach USD 57 8 billion by 2025 at a CAGR of 40 during the forecast period Artificial intelligence AI chipsets are"
+    publishedDateTime: 2020-12-31T11:48:00Z
+    webUrl: "https://www.openpr.com/news/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    ampWebUrl: "https://www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+  - title: "Houston Methodist implements Syllable’s AI voice solution technology to enhance patient experience by reducing call volume during COVID-19"
+    excerpt: "The latest Syllable voice assistant technology helps manage inbound patient call volume related to the COVID-19 vaccine, which was recently given emergency use authorization by the FDA. By reducing the burden on the call center and helping patients navigate preliminary questions related to the vaccination process,"
+    publishedDateTime: 2020-12-29T13:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-public-health-immunizations-lung-disease-coronavirus-pandemic-0e4a48729e40164430d1725a3ac528ec"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 19
+    quality: 3
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

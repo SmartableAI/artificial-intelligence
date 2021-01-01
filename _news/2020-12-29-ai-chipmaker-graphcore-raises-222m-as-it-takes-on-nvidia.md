@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 type: article
 quality: 176
-heat: 296
+heat: 306
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Nvidia rival Graphcore raises $222 million for AI chips with potential IPO on the horizon"
+    excerpt: "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,"
+    publishedDateTime: 2020-12-29T16:49:00Z
+    webUrl: "https://www.cnbc.com/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 95
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104712662-graphcore_founders.jpg?v=1505490455"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
     excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."

@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19"
-    excerpt: "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues"
-    publishedDateTime: 2020-12-27T11:46:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html"
+  - title: "Catching them young: Hexagon’s centre to train students in AI skills"
+    excerpt: "The fundamental and advanced level courses designed for Class VIII-XII students, and senior engineering graduates respectively"
+    publishedDateTime: 2020-12-29T04:27:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2020/12/27/600x338/Screenshot_(85)_1609068071742_1609068081441.png"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Book on AI to combat Covid-19"
-    excerpt: "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added."
-    publishedDateTime: 2020-12-27T22:12:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 57
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg"
-        width: 600
-        height: 390
+      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "First Artificial Intelligence community Centre launched in Hyderabad"
     excerpt: "The nation’s first Artificial Intelligence Community Centre, HexArt, was launched here on Monday by IT and EC secretary Jayesh Ranjan. The centre, its sponsors said, is dedicated to the city and the state."
@@ -74,6 +58,33 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "New AI community centre in Hyderabad to encourage self learning in students"
+    excerpt: "The 2,000 sq ft, is air-conditioned and fully equipped with laptops at Mehdipatnam is now open to residents of Hyderabad and the State of Telangana."
+    publishedDateTime: 2020-12-29T06:26:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/dec/29/new-ai-community-centre-in-hyderabad-to-encourage-self-learning-in-students-2242523.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/dec/29/new-ai-community-centre-in-hyderabad-to-encourage-self-learning-in-students-2242523.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2020/dec/29/new-ai-community-centre-in-hyderabad-to-encourage-self-learning-in-students-2242523.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 55
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/29/w600X390/community.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "Hexagon's HexArt education community centre to democratise AI"
+    excerpt: "Hyderabad, Dec 28 (IANS) Hexagon Capability Centre India (HCCI), the research and development arm of Hexagon, a sensor, software and autonomous solutions player launched HexArt Institute to democratise and further Artificial Intelligence skills among the masses on Monday."
+    publishedDateTime: 2020-12-28T12:48:00Z
+    webUrl: "https://www.sify.com/news/hexagons-hexart-education-community-centre-to-democratise-ai-news-national-um2mkuieiibgc.html"
+    ampWebUrl: "https://www.sify.com/news/hexagons-hexart-education-community-centre-to-democratise-ai-news-national-um2mkuieiibgc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/hexagons-hexart-education-community-centre-to-democratise-ai-news-national-um2mkuieiibgc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
 
 secured: "9KhaELo7LUMly9mziIWTZ/gCFZlUKnqlSIi3cf27P4EdgRnSQEtiZsAukdkOnpZ3UB/1aVvWJvUcjlU0i5viwSjsxLQilToyO5/G9wQaiGMp7vWypcpYzcwN352IdVoA5U8MjdO9f82kiz9BG0+ieSErnYqtaZDAHNsWWDcYvutewGmFVeiWAz3mRnhlswCSVkTM/DthQ5uHsIPcoxmG1xyszbNCOQ9DVAqFI9Gmton3nYwzDgu26wJLGnBvTzYoK7L+YNWYFihgDdjJcxqwnLb0BapykL6JY9WYgjPO1r6ZQiJekYgzwzwe9+MLWJMlJKJfD8jdkbwS6zc/XtqzeCS1r3VGTLStelqe9dQ/pkE=;sJfWT9f8Yn+P+u3tJ96REg=="
 ---

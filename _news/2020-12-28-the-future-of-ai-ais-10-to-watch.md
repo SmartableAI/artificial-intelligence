@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "5 reasons why AI could be the future of finance"
-    excerpt: "The role of the Chief Financial Officer (CFO) has expanded beyond the traditional gatekeeper to financial resources, chief accounting officer and head recordkeeper."
-    publishedDateTime: 2020-12-27T11:35:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/5-reasons-why-AI-could-be-the-future-of-finance-1141847"
+  - title: "This Software Stock is Ready to Drive Enterprises into the AI Future"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The year is 1950. The month is October. Alan Turing – the generational"
+    publishedDateTime: 2020-12-30T16:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/this-software-stock-is-ready-to-drive-enterprises-into-the-ai-future-1029925560"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/806/80627721.jpg"
-        width: 480
-        height: 218
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "+5z9vmUVevbdd0HSELvjuGGry1PoGLGIWxWOkgKMuzEMK+KfhI/G1UytAT9vKh2y7m1YVmLH8GhVniC9VhE0WhGXoMn6LFslVcByu2a6ufOg8IC8HV6HL0RBi5Hja3G4cdcbzPx8Hdn2q5QErzRsFzUc9t9EdaXtkzGGFZ5tcSLRCDfDeDfvg9JslHZpyMJlfrDtIFD9dAfeYIvmxjMf83aGFkaKxI9VPwDSqwfpaMbSGm2Uh48tca08WC1bFahUPTsPXsIgJhqhT4JKTRjEhe2gC9nU4c0hDxSn+219m1Mt68PdCe2TpS42GDpPkloqKJ7NgMM55PeTLPjtJtgm0p+syRl5tyJYDRPCdJznnaE=;1bX3wHPSkXnpuyDxoCPu/w=="
 ---
