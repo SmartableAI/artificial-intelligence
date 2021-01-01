@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-11.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 1.1%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shares were up 1.1% during mid-day trading on Wednesday . The stock traded as high as $50.43 and last traded at $50.28. Approximately 50,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
+      "publishedDateTime": "2021-01-01T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-ces-2021-and-cars-what-we-expect-in-autonomous-cars-evs-and-more.md",
       "title": "CES 2021 and cars: What we expect in autonomous cars, EVs, and more",
       "excerpt": "With some of the biggest tech companies dipping their toes into the automotive world, what will we see at CES 2021? Here are a few educated guesses at what to watch out for.",
@@ -1213,57 +1256,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-afraid-of-ai-five-ways-to-address-your-fears.md",
-      "title": "Afraid Of AI? Five Ways To Address Your Fears",
-      "excerpt": "Despite fears of artificial intelligence wiping out our jobs, it can actually create far more jobs than it will destroy. It is estimated that around 85% of the jobs that today’s students will be doing in 2030 haven’t been invented yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb51a453db0dfe5c44f353%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/amp/",
-      "publishedDateTime": "2020-12-30T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

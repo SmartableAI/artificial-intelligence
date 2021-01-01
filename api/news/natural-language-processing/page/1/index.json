@@ -520,6 +520,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-23-focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
+      "title": "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents",
+      "excerpt": "\"Advances in technology and the growing complexity of our external environment are increasingly leading to situations where seemingly inoffensive projects raise ethical, reputational, regulatory or legal issues,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020?amp",
+      "publishedDateTime": "2020-12-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
       "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
       "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
@@ -1389,58 +1423,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-the-state-of-ai-and-its-impact-on-the-startup-ecosystem.md",
-      "title": "The State Of AI And Its Impact On The Startup Ecosystem",
-      "excerpt": "In some cases, these non-human systems can do tasks even better than one can. AI can now mimic human speech, translate languages, diagnose cancers, draft legal documents, and play games and even beat its human counterpart. In today’s social systems can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361600",
-      "originalUrl": "https://www.entrepreneur.com/article/361600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607937388-andy-kelly-0E-vhMVqL9g-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361600",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361600",
-      "publishedDateTime": "2020-12-14T01:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

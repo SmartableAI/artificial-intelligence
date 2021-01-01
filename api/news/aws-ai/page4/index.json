@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-02-aws-announces-five-new-capabilities-for-amazon-connect-helping-customer-service-representatives-offer-more-personalized-efficient-and-effective.md",
+      "title": "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Experiences for Customers ...",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201201006059/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201201006059/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
       "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
       "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",
@@ -1416,58 +1451,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento.md",
-      "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
-      "excerpt": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg",
-          "width": 727,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T15:26:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

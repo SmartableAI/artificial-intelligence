@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-11.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 1.1%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shares were up 1.1% during mid-day trading on Wednesday . The stock traded as high as $50.43 and last traded at $50.28. Approximately 50,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
+      "publishedDateTime": "2021-01-01T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-a-disembodied-robot-mouth-and-14-other-2020-stories-we-laughed-at.md",
       "title": "A disembodied robot mouth and 14 other 2020 stories we laughed at",
       "excerpt": "Forget the challenges of the last 12 months and instead have some fun reading our pick of the quirkiest tech stories from the past year.",
@@ -1363,51 +1406,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],
