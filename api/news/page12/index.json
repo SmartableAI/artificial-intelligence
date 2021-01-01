@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-17-googles-blob-opera-combines-christmas-carols-with-machine-learning-heres-how-to-play-around-with-it.md",
+      "title": "Google’s Blob Opera Combines Christmas Carols With Machine Learning: Here’s How to Play Around With it",
+      "excerpt": "Need an extra dose of holiday cheer? Look no further than the Blob Opera, Google’s latest, festive machine learning experiment!",
+      "sourceUrl": null,
+      "webUrl": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en",
+      "originalUrl": "https://www.msn.com/en-us/music/news/google-s-blob-opera-combines-christmas-carols-with-machine-learning-here-s-how-to-play-around-with-it/ar-BB1bYMeZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/p23feUh1kc0fPF1lGWx8KHCjll1Zagy-CGZvGTH0gR8jdz4sCrubieqPiO0jI4oERSE",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T08:08:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
+        "domain": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-equinor-shell-partner-to-optimize-inventory.md",
+      "title": "Equinor, Shell Partner to Optimize Inventory",
+      "excerpt": "Development of the next generation of Shell Inventory Optimiser builds on the companies’ alliance with Microsoft, which will co-develop the tool that will run on Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/news/equinor-shell-partner-optimize-inventory-191446",
+      "originalUrl": "https://www.hartenergy.com/news/equinor-shell-partner-optimize-inventory-191446",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
+          "width": 605,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hartenergy.com/news/equinor-shell-partner-optimize-inventory-191446?amp",
+      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/equinor-shell-partner-optimize-inventory-191446?amp",
+      "publishedDateTime": "2020-12-16T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation.md",
       "title": "Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation",
       "excerpt": "Using Xeon CPUs and software built with the OneAPI model, animation studio Laika is leveraging AI to accelerate repetitive production tasks.",
@@ -1119,93 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers.md",
-      "title": "Ping An launches artificial intelligence assisted clinical decision support system for gastroesophageal cancers",
-      "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023.md",
-      "title": "Artificial Intelligence in Supply Chain Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023",
-      "excerpt": "Kenneth Research has recently added a market research study on Artificial Intelligence in Supply Chain Market 2023",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Healthcare"
       ]
     }
   ],

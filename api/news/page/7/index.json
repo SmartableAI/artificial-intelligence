@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
+      "title": "Diving into Japan’s top AI/ML startups",
+      "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-horizon-robotics-a-chinese-rival-to-nvidia-seeks-to-raise-over-700m.md",
+      "title": "Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M",
+      "excerpt": "In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
+      "originalUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/horizon-robotics-e1608616778526.jpeg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
+      "publishedDateTime": "2020-12-21T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-exclusive-self-driving-startup-ouster-nears-19-billion-deal-to-go-public-sources.md",
       "title": "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources",
       "excerpt": "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,",
@@ -1110,111 +1206,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
-      "title": "Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
-      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-unleashing-new-frontiers-from-chips-to-industries.md",
-      "title": "Unleashing new frontiers: From chips to industries",
-      "excerpt": "Following its $40B acquisition by NVIDIA, Arm’s CEO Simon Segars opens up about bold plans for the company’s future and its growth plans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
-      "originalUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Simon-Segars_Interview-Still-15_selected-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
-      "publishedDateTime": "2020-12-21T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

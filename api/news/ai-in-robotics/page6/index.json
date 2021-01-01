@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-11-researchers-propose-physical-ai-as-key-to-lifelike-robots.md",
+      "title": "Researchers Propose ‘Physical AI’ As Key To Lifelike Robots",
+      "excerpt": "This combined discipline of \"physical AI\" could effectively be the missing link in the attempt to create artificially intelligent robots that look and behave like humans, the Imperial College London team suggests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
+      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7b213e5c462adfa8f21%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
+      "publishedDateTime": "2020-11-11T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
       "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
       "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
@@ -1390,50 +1442,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-pope-francis-pray-that-robotics-and-ai-always-serve-humankind.md",
-      "title": "Pope Francis: Pray that robotics and AI always serve humankind",
-      "excerpt": "Pope Francis has invited Catholics around the world to pray that robotics and artificial intelligence will remain always at the service of human beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "originalUrl": "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.catholicnewsagency.com/images/Crucifix_Lars_Hallstrom_via_shutterstock_CNA.jpg?w=375&h=250",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "publishedDateTime": "2020-11-03T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catholic News Agency",
-        "domain": "catholicnewsagency.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

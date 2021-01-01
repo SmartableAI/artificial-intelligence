@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-29-china-increases-foreign-investment-list-by-10-per-cent-including-ai-semiconductors-and-5g.md",
+      "title": "China increases foreign investment list by 10 per cent including AI, semiconductors and 5G",
+      "excerpt": "A total of 127 areas have been added to the list of industries in which China will seek to encourage foreign investment, taking the total to 1,235 from 1,108.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/29/05f3ef50-497c-11eb-9c55-93e83087d811_image_hires_102432.jpg?itok=aEnRbrmo&v=1609208682",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "publishedDateTime": "2020-12-28T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-nuro-robot-delivery-cars-will-start-operations-in-california-in-2021.md",
+      "title": "Nuro robot delivery cars will start operations in California in 2021",
+      "excerpt": "Robotic startup firm, Nuro has gotten official approval to start its paid delivery service with autonomous vehicles. This much was revealed by the California Department of Motor Vehicles (DMV). Steve Gordon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "originalUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/nuro-2.png",
+          "width": 795,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-ai-jobs-in-2021-here-are-some-key-trends.md",
       "title": "AI jobs in 2021: here are some key trends",
       "excerpt": "Artificial Intelligence has been a bit of a buzzword this year. Artificial intelligence has been established as the main driver of emerging technologies such as big data, robotics, and the IoT. So, what do the next 12 months look like for AI?",
@@ -415,7 +518,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/28/fintech-trends-to-look-out-for-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -718,7 +821,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1148,102 +1251,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-ai-research-survey-finds-machine-learning-needs-a-culture-change.md",
-      "title": "AI research survey finds machine learning needs a culture change",
-      "excerpt": "Machine learning has a problem with data mismanagement and a culture where anything goes, according to a recent AI research survey.",
-      "sourceUrl": null,
-      "webUrl": "https://arxiv.org/abs/2012.05345",
-      "originalUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-26T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-the-increasing-use-of-ai-in-the-pharmaceutical-industry.md",
-      "title": "The Increasing Use Of AI In The Pharmaceutical Industry",
-      "excerpt": "For AI ethics and transparency, we make sure MLOps processes are in place, and Machine learning (ML) models model scoring is established, monitoring and drift detection, the feedback loop is transparently followed. We bring a diverse ML team with diverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe7b0c464ca6c458d7d92a7%2F0x0.jpg",
-          "width": 1200,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/",
-      "publishedDateTime": "2020-12-26T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

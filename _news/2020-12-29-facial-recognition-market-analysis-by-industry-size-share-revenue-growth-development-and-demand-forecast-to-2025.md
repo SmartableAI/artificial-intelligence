@@ -64,15 +64,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Natural Language Processing Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025."
-    publishedDateTime: 2020-12-27T09:50:00Z
-    webUrl: "https://menafn.com/1101344808/Natural-Language-Processing-Market-Insights-By-GrowthResearch-Methodology-Emerging-Trends-and-Forecast-By-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
   - title: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report"
     excerpt: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report . Posted on Dec 30 2"
     publishedDateTime: 2020-12-31T04:56:00Z
