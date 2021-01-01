@@ -2,19 +2,19 @@
 category: news
 title: "Black man in New Jersey sues after false facial recognition lands him in jail"
 excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
-publishedDateTime: 2020-12-30T22:01:00Z
-originalUrl: "https://abc7ny.com/technology/black-man-falsely-jailed-sues-over-use-of-facial-recognition-tech/9197215/"
-webUrl: "https://abc7ny.com/technology/black-man-falsely-jailed-sues-over-use-of-facial-recognition-tech/9197215/"
-ampWebUrl: "https://abc7ny.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+publishedDateTime: 2020-12-30T20:45:00Z
+originalUrl: "https://abc7chicago.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+webUrl: "https://abc7chicago.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+ampWebUrl: "https://abc7chicago.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: abc7NY
-  domain: abc7ny.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - Computer Vision
@@ -249,6 +249,6 @@ related:
         height: 382
         isCached: true
 
-secured: "a+TTjmAA8LCCnQXtT0O53zf3WywkAQaGFEnNIPO7yXex3qDQUrbLwI30eXIaJj6w74qWwgHs+nVcRjSWGHMmalGEpOf9tJupELRAaezT3dVI0+sNC1OBceWTkcSaznTmAnFGL1966USwqSoxROjv+HU3/7z4MeG+LEcqO7wSLQI1onr8mBJyVF2LL+9xVq5TJKAaReGMlMidgvj2GVWBXVI+k+ZBdHQuOkrbvDheLbMIl47qj9juHcgCQBBGZ0NyNVNyeNTDHGWwRh6LYEDmIjSJvL1Ls4gj+QkDyQBqRCqnORri8g9UpvoiD/IScppwxGmaC8ssbrAhNbGMSI/gP0hUY12QBw0veiwcxibKr7qkWxrMz0rHu40cbfBbONaOEwUy1Nkc8wDlHFXSQwFoDofnON+W0GsfqU0sYyyQ9GbgSZPCho6Tr7PZMUqt/oNhReGIf3HsMcDmOohbd1abbdnnnvB8qUMHpYNXvO15RMs+pCG6rUo8SSmxlTgazByKrp0RQ/6UHvMgv2fXV6ue/Q==;9b2rMaPlrap8xGiCFCVzdg=="
+secured: "7a+m3NVI8bjq2vac4QJodwg2JvGAiE+vEaZtUXs0JIRmUNVu0sE2DYoq3uAqgtC+7BpcvfcUAe9VEM5dJ2C8bR759sAzm5YjlSjh6YfPfaDIA6EOCdCujMhgAstQOzKjbUQ9vPWOXSY6bEZedWz5R0uD5fVeWUk1z3eAWQUREf92YnpxjFnYKclyAFKkfIbaqefVm5YJ3KU2qnxZfK5uA8VOK7VxImqrLtPwc/Coh/b3xehpvKLRvL8WlMu6Lul0OheLJKB3lpLe5+A11N5Whyo5so1uY8+GYsO/FS3//AM4iWdREOXgx7p4SnbvGBWIHzobO5L/9gCYoltvKKh2KWwLOdPR/U0pjSC/YXaKVYmLuH/PuTA8zLJiHAbHlnCjjZ+dPiDgrZVF1p6ux+2o7fceJU7L6U7gyYwdQ9sl5tm4an82Pq/Kx00f8tHnWAmb2R/nZNhB5rUcW/bNkoPPUwb1Nup4/7NPzr+yQSTpSRgtob3cnSzNu8/csd2YtfnXybwbWG1NNOQ+SYAqj5og3w==;YrGQ55rF4fkY5bJwsi5ZZA=="
 ---
 

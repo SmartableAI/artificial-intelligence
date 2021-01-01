@@ -43,20 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Steam Engines to Driverless Trains: What Next for India?"
-    excerpt: "With discussions around automation and artificial intelligence (AI) being the flavor of the day, we hear so much about driverless cars, trucks, and buses. But s"
-    publishedDateTime: 2020-12-27T07:14:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/steam-engines-to-driverless-trains-what-next/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/driverless-train-india.jpg"
-        width: 672
-        height: 450
-        isCached: true
   - title: "The Top 10 Patents of 2020: From Social Distancing Tech to Facilitating Driverless Vehicles in 5G Networks"
     excerpt: "As the world bids good riddance to 2020, this list of the Top 10 Patents of 2020 hopefully serves as a reminder that this year has not been a wasted opportunity for inventors."
     publishedDateTime: 2020-12-30T21:21:00Z

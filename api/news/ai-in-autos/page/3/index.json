@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-10-google-ceo-says-company-will-review-ai-scholars-abrupt-exit.md",
+      "title": "Google CEO says company will review AI scholar's abrupt exit",
+      "excerpt": "FILE- In this Oct. 3, 2019 file photo, Google CEO Sundar Pichai speaks during a visit to El Centro College in Dallas. Pichai has apologized for how a prominent artificial intelligence researcher's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
+      "originalUrl": "https://www.sfchronicle.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/15/54/24/20366610/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
+      "publishedDateTime": "2020-12-09T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-national-digest-gm-green-lights-test-of-driverless-cars-as-taxis.md",
       "title": "National Digest: GM green lights test of driverless cars as taxis",
       "excerpt": "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state.",
@@ -1382,49 +1425,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-artificial-intelligence-the-new-season-is-out.md",
-      "title": "Artificial Intelligence – the new season is out",
-      "excerpt": "Forget about Steven Spielberg’s “A.I. Artificial Intelligence” movie from 2001 that was merely entertainment, though with valid examples and illustrations of AI. The technology now is very much in self-driving vehicles, in the analysis of our online ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jordantimes.com/news/features/artificial-intelligence-–-new-season-out",
-      "originalUrl": "https://www.jordantimes.com/news/features/artificial-intelligence-–-new-season-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jordantimes.com/sites/default/files/styles/news_inner/public/1_49.jpg?itok=iiCOVpqu",
-          "width": 448,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jordan Times",
-        "domain": "jordantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

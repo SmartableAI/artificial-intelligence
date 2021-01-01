@@ -72,20 +72,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Uber sells self-driving-car division to Aurora – … after years of turmoil, deadly accident"
-    excerpt: "Entornointeligente.com / Uber is selling its self-driving-car unit, reflecting the culmination of a rocky tenure marked by ambitions of revolutionary technology, accusations of stolen trade secrets, a deadly accident and government scrutiny."
-    publishedDateTime: 2020-12-27T07:07:00Z
-    webUrl: "https://www.entornointeligente.com/uber-sells-self-driving-car-division-to-aurora-after-years-of-turmoil-deadly-accident/"
-    type: article
-    provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 14
-    images:
-      - url: "https://www.entornointeligente.com/wp-content/uploads/2020/12/uber_sells_self_driving_car_division_to_aurora_after_years_of_turmoil_2C_deadly_accident.jpg"
-        width: 460
-        height: 345
-        isCached: true
 
 secured: "sFwChXiyah8fzfq/Z49Gg+yHDyN3ldyaKQi7+soG9xFmC3lp839WWrWlHyDR2oXy34glPLuBEiHgjTKPRy1jB7apgCAkpmj0M7Nw83uOt+3a8zb9rwE6yaY9r70akuJ6EOzXx105KFA/f1UGK7cFyjNouDIedCFyag4YV+H0LbR4aF3HfFXemQE1JnUrodxiOZJCoub+xIhFa1+ao2SJ2OEP4d6dbsPqpbGk/mVVGvuoVWJmoMzr9PTdV6uSKdggKcppXQshFWNnUbhID2q7jm3cQ/6VYtA+w5r51E3FXLqSq4HRdhv6PCPAfd3l2AxgJ3ja+0BOsd5xlxBSArkr2MBKxxOqFMR1xR6CqlfmeSg=;nOJ2N7fSj0uDVm+GONJ4BA=="
 ---

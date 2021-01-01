@@ -3,8 +3,8 @@ category: news
 title: "Chinese robot maker Flexiv closes over $100m series B round"
 excerpt: "The funds raised will be used to implement its AI-driven, general-purpose robots in other areas such as services, agriculture, logistics, and medical care."
 publishedDateTime: 2020-12-31T11:25:00Z
-originalUrl: "https://www.techinasia.com/chinese-adaptive-robot-firm-flexiv-lands-100m-series?ref=recommender-665774"
-webUrl: "https://www.techinasia.com/chinese-adaptive-robot-firm-flexiv-lands-100m-series?ref=recommender-665774"
+originalUrl: "https://www.techinasia.com/chinese-adaptive-robot-firm-flexiv-lands-100m-series?ref=recommender-665238"
+webUrl: "https://www.techinasia.com/chinese-adaptive-robot-firm-flexiv-lands-100m-series?ref=recommender-665238"
 type: article
 quality: 49
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 1049
         isCached: true
 
-secured: "vwxFqQJrZVr5YIXeIyn/IKmhf7TsRf/WR2WD3S/160XIguQ8XeCTdJWqzCaiBKduuE1fhhvinCyqldhVghKVFNk/9iwI3DXv6K6j+O84P8oe45zVvpe3Duo91lqGTaoe8OhqDpZHV03EnnnoVZ6KCPm6rFM/vVxXJZp/KE0zwD+4wZNNjrEYdrDvWvrChJyfyltTgAKw9ltZLJwbvwKIo5tZQaTIXhzZif8fbS6P6ILl2Je2RAth0QjymlZeBF7/JIwGmYZUYs3YqqknoNZBKt6OUi1dvc+cQrl3jRtP8XJRxg8LvA4uOYamQhFKaiFIg7Z0q9yV816+tVID8q7jQkVvYGP91ZOmQYia1COpU2CCmRmL17ke10FOQF6oxx4vUvO1rsAm1Ukncy/FLLFMjrYv0Gv850jpwPq/xK+l26+Ta4/5kqawgLxE1WbbOAtQ5dAaCSMxUsWzKSGTB/FbBYy5wgy1pPVj0hDwBkXfLMfvSfQfA/oh51Ji8M65js7LRapk789dcqMuRs3IqMjwMA==;bZo4HfiGUC8NU7sq/fedaw=="
+secured: "Iv5ana0La9klXH30grCJtztIfLIkhIcdD+IRhVNKloqhf0Op9yZT7M6/1Nkz/lkM7C9AivG7mes7Xrmh+7lUbAtRMwXK+0V6abfyO/oIvW7WwLsCHRn6ZitJXz1V+Ks9YTER8YO1nWpcYjPon0hCPTzImy5TwhDBMm01THZVoZzUu+tT2jvQQmFfsAU1RuQqdtdE0xCusGzCcLAG4rQ4G/bAqhLCReYsZjqtkUct5UzdbW1T5fjcRdITPHZHbOojU3cnxuONJvzEjmAO82BukeUN9ik2caxyQFo75Yc3HXueBhD+G1PTSJmyF5ZcErsnT9P4D58/GvTqfZKl2HO8JecAklwboPRjXmz91cDV/5Ad/olR6qT8tJlu6CpKlNtPCFP5B91VZmP7bq9IAJZ8KDKvNGqCKj9DcjZrpVubWlpj6FRNZELyM5Gm8wMyMcDfNAY+Ulkv6dOcBYOcI6LfapFXL0QZeX+BFx6h8m4X4R+spYidEFbNzcM5nzKq6s67gtlhaJ8y8IXKY39geAKVEA==;auaBUezJPUodGxgjVXodzA=="
 ---
 

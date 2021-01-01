@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-ga
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/00261d5/2147483647/strip/true/crop/1200x675+0+38/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faf%2F39%2F353dc3544745b95be3d878b0a881%2Fwaymo-minivan.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Steam Engines to Driverless Trains: What Next for India?"
-    excerpt: "With discussions around automation and artificial intelligence (AI) being the flavor of the day, we hear so much about driverless cars, trucks, and buses. But s"
-    publishedDateTime: 2020-12-27T07:14:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/steam-engines-to-driverless-trains-what-next/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/driverless-train-india.jpg"
-        width: 672
-        height: 450
         isCached: true
   - title: "The Top 10 Patents of 2020: From Social Distancing Tech to Facilitating Driverless Vehicles in 5G Networks"
     excerpt: "As the world bids good riddance to 2020, this list of the Top 10 Patents of 2020 hopefully serves as a reminder that this year has not been a wasted opportunity for inventors."

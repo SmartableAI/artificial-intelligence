@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Resgreen Group Delivers First Batch of Wanda SD Disinfecting Robots"
-excerpt: "PRNewswire/ -- Resgreen Group (RGGI), a leading mobile robot company, today announced it delivered its first group of Wanda SD disinfecting robots to the Travelodge by Wyndham in Elkhart, Indiana. The robots use Ultraviolet C (UVC) lights placed on a 42-inch tower and underneath the vehicles to disinfect hotel rooms,"
-publishedDateTime: 2020-12-30T13:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/resgreen-group-delivers-first-batch-of-wanda-sd-disinfecting-robots-1029925139"
-webUrl: "https://markets.businessinsider.com/news/stocks/resgreen-group-delivers-first-batch-of-wanda-sd-disinfecting-robots-1029925139"
+excerpt: "PRNewswire/ -- Resgreen Group (RGGI), a leading mobile robot company, today announced it delivered its first group of Wanda SD disinfecting robots to"
+publishedDateTime: 2020-12-30T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/resgreen-group-delivers-first-batch-of-wanda-sd-disinfecting-robots-301199250.html"
+webUrl: "https://www.prnewswire.com/news-releases/resgreen-group-delivers-first-batch-of-wanda-sd-disinfecting-robots-301199250.html"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "YJdACig0wN81KfJGo6t1C3QCO6kr30IO3WNpskq6u7g30SKQlb02kFR3tph+/wWNu8KV9zoAKZf8U3Nh04YRfI3CvYkizff30PrGR/0+wiIXOO6H1qJF4UsAjIzg6RsQ3hIRuJRM/WhQyrS0QWACJ7uNEjeANX2+N7KqH5Bp3tVZ4Rj5GC+ISrcxif70kf1KuaSvJGxzqHgXsIJhDEQtz8NQJNUvvqrSe6g21SVIWqY0972PgYFn0KHN28CqbrxvwK7WwCHR5W2dj9xiLoh2HihbNbyGny6SLUs6Yhwz5dcWuOyRn4WLyYDFlsqeAEVRm8QA15GDz8GNsJGphENcpUULJibJTnNK/oHw+mX0iDY=;ZMGx8WLxChYkSP5Exa13VQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "Vy3491Eaq7JtasXHfEh9IHR7H+d+Qm9R3g0UhmtrVo2m2cWY9Y37fzaWk2gl+OCjvlYCieHP85o/P0jb5+eLVHgn+ikwRbwrMe8doZgXTygC9HIw08D/IXFkdmIdGmLXebmFx3AaB+S83dnoaR7F5JSTPL3zyZ9anMvTqeVI+QoV+FjrYSSBdsD2DqMchgmGxb0O/SXxfPRZYko+nNpNo5cFJl4rOpKT3vinN2TEAqykjWIt4mUZEjO1+W/UAllfOYC1YHK1U2VfNHErp5Rah98FRoOQLdpUxHXYt4RsmaTpbilOiBkdOtgAZcVGnUu1NjIYp8mEqaPMJQIxf+WZ9HDBluYNAPI3H9QHJ42JZ+8=;rIvF5nVPcF8TvCHEGqQPlQ=="
 ---
 

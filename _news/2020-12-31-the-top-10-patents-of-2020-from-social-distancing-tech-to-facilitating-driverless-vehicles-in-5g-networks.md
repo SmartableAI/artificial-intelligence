@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Steam Engines to Driverless Trains: What Next for India?"
-    excerpt: "With discussions around automation and artificial intelligence (AI) being the flavor of the day, we hear so much about driverless cars, trucks, and buses. But s"
-    publishedDateTime: 2020-12-27T07:14:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/steam-engines-to-driverless-trains-what-next/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/driverless-train-india.jpg"
-        width: 672
-        height: 450
-        isCached: true
 
 secured: "BBqL/gXqiGUcxbROunCDLUL+zg3D/Sgwp6XZA1eSV39S7fvqJSfve7ji9Wz22LLUgNhuDFYHS+tSVb2y9s5jm4atb7jL2rziWn6G6EqbRfUZ2ZMi1va4BQw2FxmxWC/EHFVeQHTarUGSuZ5pC+aYyDhNOh8IUbJYNRVm7YQ5CJ+92GGjKxhoO3JPWHkt0jKGwMKMR08jZtl/RZSRVCZ5MdiihqrmRu+8LpA1LHd+4hBJwEDUFMCjjsOHORWIJiU8zkSZoBjJ5lx33qrYDV4qJ+O1P9VEMKwyVyJ6rxtAXn/L6KfmSGGqKFz6OB/sWNGcJxCUT9MCPLd14+olz6u08M1Xvzzj/mF4MYWrdZ23l8JofRuq3gDp1LoFdhr7vjmOeFuodxMgnYzJcPFKaBJSBCsjNfREkBohiY8jx8XsUh6VbzA9NOeekRK/C+ntkhN8wh6AC2LohI3o/0Bl62iL3/h9ACF/SLvKE5/6xTmZyY5rzVj/SblDezVy7D6Rp4QOKkAEnKd9wHYxtVPCdKiR0w==;ZCXeKF8xC3R9o9xhvA5GuA=="
 ---

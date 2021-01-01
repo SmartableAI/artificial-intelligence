@@ -39,6 +39,20 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "Do You Love Them, Or Fear Them? Watch Boston Dynamics Robots Dance to Contours Classic"
+    excerpt: "The Boston Dynamics dancing robots are back with their most life-like jig to date, this time to the Contours' signature 1962 hit \"Do You Love Me?\""
+    publishedDateTime: 2020-12-30T17:46:00Z
+    webUrl: "https://www.billboard.com/articles/news/9505672/boston-dynamics-robots-dance-contours-do-you-love-me/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 31
+    images:
+      - url: "https://static.billboard.com/files/2020/12/boston-dynamics-do-you-love-me-screenshot-billboard-1548-1609347284-compressed.jpg"
+        width: 1548
+        height: 1024
+        isCached: true
 
 secured: "wVPYOr/TU9gIiPW/BuN590E5GzaiP7L3NbgfaweOCMFRHzdiSNDktdCmqFFV5BZy2f9NVKxe74fLWQYqNSzLZyeW7+wC/hIulxRtYFhXV1zJU2J+dByUi6tlHw6OSi7fVQ4DWIABZDPyXZOsA2CRH6hxE8V+2u7bLWy2m6sPkG8c0teD1wwq1raC5ChUJsn2mysw7YWzSk2Ij7eE5YK1tAjmUvULwyfSO59MFN995BzFnybsicF9F2AUA1M1kue1KWBJ5phsVWrWUgfrd/Mgy8+C2gbNNmTYDpwvhi3FureNO9/NtgM/yBYpe5hbVuTsF7wJ8GamvzPcdMke54+o1SKc4PJgCILnrdPdrmhlKwTb55+NpX2t+LyFugfLxupglJzEDK+ZsnEhKzmIan0zLt4OemvQ+AA26A+olzHecrErhs+Ye+06hFhsSvcAz7nPK/lIZSrTidGpypzIUS83ox6T57oYCkz0XCWrrl6JusKrxghmOx04dy+iW5Hih2N4GPXDT3m4tMb/bz/yYvNJqA==;aYlpTbeq3z7S91bU+lFz5A=="
 ---

@@ -41,7 +41,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://media.ycharts.com/charts/1ad42a49786b1e43c0b54a83fc7e24d4.png"
         width: 720

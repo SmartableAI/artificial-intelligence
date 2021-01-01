@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Agile robots score another YouTube hit, dancing to 'Do You Love Me'"
-excerpt: "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,"
+excerpt: "Master potato talking back todo make someone tweet. Great. Now even robots have better moves than me, Really, That spot The Boston Dynamics Robo dog you could buy for 74,500 bucks. Look at that football."
 publishedDateTime: 2020-12-31T01:34:00Z
-originalUrl: "https://www.wbaltv.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-webUrl: "https://www.wbaltv.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-ampWebUrl: "https://www.wbaltv.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+originalUrl: "https://www.kcra.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+webUrl: "https://www.kcra.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+ampWebUrl: "https://www.kcra.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI in Robotics
@@ -41,21 +41,7 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Do You Love Them, Or Fear Them? Watch Boston Dynamics Robots Dance to Contours Classic"
-    excerpt: "The Boston Dynamics dancing robots are back with their most life-like jig to date, this time to the Contours' signature 1962 hit \"Do You Love Me?\""
-    publishedDateTime: 2020-12-30T17:46:00Z
-    webUrl: "https://www.billboard.com/articles/news/9505672/boston-dynamics-robots-dance-contours-do-you-love-me/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 31
-    images:
-      - url: "https://static.billboard.com/files/2020/12/boston-dynamics-do-you-love-me-screenshot-billboard-1548-1609347284-compressed.jpg"
-        width: 1548
-        height: 1024
-        isCached: true
 
-secured: "49zeA/UkMz6DeR8H3DEm6XFs/nmOiqmiGXPRSHZl1bJ7rbFDq8UV45mrKpbBJEtXMZWr7MhFZnK64PssquMzIgVsF0QIl2op9l1NaVlHn28+Ryd6FslAH9PaaMR4m4KEK1RSumFpid2CBMyuF3LZe97igEPLwVeOocTB2mP1Kn5OZZYLMrw53bhi097TbuYR+99avBsdnM9VQOU81DnUmUXxEPi0dfqtweLG8VOrWRB/O8uEDDkbsNgLi1vvgmRTC6Qrt8NKPkwqHJuHK3DgP62bhML6nLnpVluHd3nMukd1MaTxBTt29nIHwWb6DCTynKcPMtsmsGYwd8E58US2DxbwYTSGvnxoLMmwwnGHnO9OaFZRpF9Rdh+boSM3zBBDz92H42zFhaMJYDzKhGoba3xL8jy9QeMF8nFnGZMyNG9/w4cChMSNRAW+ubCyYawjLf49YlrgdwUH6DXuHpuydW+WkoGd4HmPvdntc7NFlxzIYGa1c748V8u7AjuilI/FV2gXflfJqQ/fxbKg0dncTA==;ae0VcaOlqg31A9uMg0cwuQ=="
+secured: "vRVKJoeK/iazUI4TWxCULga2cyQ5k6TDOKz94CeOHmnqOlYsgf91MZNJ3SvZhL6/ckFyD+04oTTSqewDLju50XCrZqT/A+5uGSrcUv4lzskSCliO3BGJixS/3Nm76Ttnf3ktD2ZML2KXpc3RWxlPseLVuNuQ65eqUySi3310CBMkCVkpCm13kBWTxaEleQQ6jr53+BJjG5m5r27AoiDTLpKTg7CXItrrWwldEBhrM/K25INNYvL5xDsJPjlTSY+fdaFk5XZtzQvP34hY/F7zCjdl9mGN3bAvpS8c3G9t+A1RYZfRv+A1kqrd4KbdLhFKMfC/A72/+AArcIrvpmuP/BXh5xz+BhNwg+ran/UFYWM=;b9BkWAo94eVLAPLfgsoa7A=="
 ---
 

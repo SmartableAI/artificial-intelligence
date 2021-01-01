@@ -8,8 +8,8 @@ webUrl: "https://www.fool.com/investing/2020/12/31/3-top-artificial-intelligence
 ampWebUrl: "https://www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.ycharts.com/charts/1ad42a49786b1e43c0b54a83fc7e24d4.png"
@@ -59,6 +60,6 @@ related:
       domain: nasdaq.com
     quality: 51
 
-secured: "thMbP6cv5aSQIoVhm7ncV67DIecMO77O0ClrwjAkriSgRiHpC2ChvhjBsYZH2hSzEyPQ/hzMhOLPsopZBsgN0/kWAvDkUsYFrJLxvEQ1RQd9xf4tPWXOtHMxnxEt1krExXRgNG3mQHaio3ta32go7m3Uc61B/ElE+0K4Kjj/Dg/9zNrp4tNZgNehDSyZhBjL//c2Ol8u0jVnv2NB7c4XP+aK+Fmrl15Y3a5CDiuThCrFqaXHRGrBTWUXZ9v32XR70LnnjJOnsT/uH+y+U92UbYqJweKsfwtr5ENY2PBRI0wPEnAoUU5vnOD0RwH04AG8TIciSKqrtPjStJCCCzftibABvGdmQD30Dg9ZHq9ptBo=;5NcGQsH9GtfVQa3xAvp/hQ=="
+secured: "+DR2Jz9GJW59lHB8ynoAx8CPi7enqGLVg65UNUGYoFLKKazTDwV+wFOxEoC4TInW9RDVktSFT/KZ3HgX1IbnuFE8f23YqcNKt2v8VhttYkjqQrjUqNDsGX2/qpJYPUaqbMI6EsmVAWySHv0bvjYzklhV+dTteP9tJnV8ifttxb4XtLY7gnh0R0JZcR5POuB7FajUAd5FBcdxgeKG02ghULrszS3W5NMzfnAO4xg+F3OJncBLmKSNBnh+E8ZSPQDVF5vrXQJ3vNp3XfZAlIKdJwaQcVO7Pb5wvjyj355MGTpWxeJLegpqHfsT7SVbVfAxLHvCcShNt6w1X0CpJhBXG1VudmP0LVxrW1+D/XJIWwQrvIL3cWasJLGDww2vWicNpgdaz9GH/9At77lGXwrjeeu50wuO8LM79hlFztsW4KZMLUkwSgKVFeUAfjh8Jwgrn6jVqtgFp+8y8BQAfIm+9+vnc+r7/GfY0QrooL15ViVabAaxAD/P0pXy3nR/U6P26bh66JDgwboxZzeKB4C3Sg==;twmaHvmqDaZxMffx7Z875Q=="
 ---
 
