@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/business/public-companies/strategic-makes-art
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/public-companies/strategic-makes-artificial-intelligence-breakthrough-c-1861043.amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "A breakthrough in artificial intelligence-enabled materials discovery"
+    excerpt: "(Page 1) A groundbreaking artificial intelligence (AI) algorithm rapidly identified a potentially useful new material — a germanium-antimony-tellurium alloy."
+    publishedDateTime: 2021-01-01T05:00:00Z
+    webUrl: "https://www.chemengonline.com/breakthrough-ai-enabled-materials-discovery/"
+    type: article
+    provider:
+      name: The Magazine
+      domain: chemengonline.com
+    quality: 39
+    images:
+      - url: "https://www.chemengonline.com/wp-content/uploads/2020/12/01_che_0121_cov_p01.jpg"
+        width: 400
+        height: 546
+        isCached: true
 
 secured: "V3ULljNBoS/kgKxuMD0m68+1TQuOd1NGuRxPWMovUl7aAoM5NBkHjXwhAs05lH/rPp/JOcp2QwOjm4imBmA3mhJUbpGyOCfkZHNid0h5Hav3Rh4okXqGXBqUNyKQvb3uE3cwa3BQgHntqzM9dEaZMzyEmTVcSZNCIf+rD1COOp/HB0PNDXgy/xdFUss4D6NR2QQdj1j0dgQ7Gr6zvYxcCXyAjmyhn2zRA4uXaSgPVq8Z3gL8Ism03eAnLtvzqZTCeZlUpdwC3bcbA8L8NiyzVE7A5IR5B4o9jq2s5tCT9yxsGMJbTbi0pPA1RgSrt7re/9Gat1RsK45wLjvaFoAGGzYAGUD7RAFGntwOyrT7gRdrDAjXIcx5GGmsJkqu3XwPu62FIW+HH+aR3LiM+xXpPeFzFYp6cGVY2dJMBY3WcuuXPzcogiKH4AsbHy3EicTTXJ6hyYYEDtnLAqf1Ix7zqO/D5amKrqLl5lJ+kR3G1Or3FuvOhzXsFhCkUAl2LGAqMmE7974h9E1fgPbKA46duw==;cEWoih3A2B48ktwvLwrkGQ=="
 ---

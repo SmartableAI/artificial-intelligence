@@ -3,8 +3,8 @@ category: news
 title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
 excerpt: "A New Jersey man is suing local authorities who he says wrongly arrested him based on a false facial-recognition match, in a case that has fueled debate over the accuracy of the fast-emerging technology."
 publishedDateTime: 2020-12-30T05:03:00Z
-originalUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
+webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
 ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
 type: article
@@ -254,6 +254,6 @@ related:
         height: 382
         isCached: true
 
-secured: "FTATQuTxiL5KqSC9fHduni5a3rMcHAwX3oy0X9yicZEpErLAue7072YYbuiAadkyX6iGVgDXfS6zWN/aSBDq9epnzGxr7QAmANo4OIyhGvBkVA0mg0xfv4Frsa95nxmLux0p09x3zR/HwS7jhUx7GQaMk07H5sgTre/9yK7DgjCCWrbFl/Vc8SQ+ov9vgNUu5MMVourfo71zyQsynZW2PyAulvoOC57i6R6Ov8J9GMUwVfBxUWCOdRT8W2WaehRAwytP7VMmg9JXeDRh2KN6pkfJ76qn3AmV9AAaVbtxIRwXp8VQWAJafK/Wrb5UG9dqur4/ASJRrQvypZyF92weRPFh2nSTMznjMg5tp9VcHf0=;4tVoiMt5e8hO4D74ZsusjQ=="
+secured: "HSfgjZJaKyZZBNkOKGq3+rCCkb98H9bDt4Dz4SGk13BSBxu51rVtbhfFXj2+lFsbssCiYreFHlU3G0R9I8bpaz1Jrlh0OU7td1BdYiueClDvjXgpPZHLcqPQ//Lk9+578a0oK5Hb48bBrsCqrJX21jN+iDSW5A0d3Tp5pe1QhlY/YR7l+xKv7wJXeqgv5ETIn+83bB5lmIjavswbu03kSrssN34C1EjWaFXVGTLK/g7dcJ5+AGw61jp4jdrpLWlEk2J7A3UyQ7YGujrk//VOVKaY1A7/1x/viWFVtALHQR+UmJfOoz/Ol7+jwyP8wBrjoxeA9cq5xT3ANocaBXqWTENhNMkGgAJWhJOKvQhrrb4=;Ac5JNJGo4ha9gCcUXynv7Q=="
 ---
 

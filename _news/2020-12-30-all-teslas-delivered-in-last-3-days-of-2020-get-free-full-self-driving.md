@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Buy a Tesla before 2021 and get Full Self-Driving for free, Elon Musk says"
-excerpt: "Tesla CEO Elon Musk is out here making marketing moves on Twitter as we head into the final few days of 2020. Tuesday evening, Musk tweeted that anyone who purchases a new Tesla will receive three months of the company's Full Self-Driving mode free of charge."
-publishedDateTime: 2020-12-29T23:59:00Z
-originalUrl: "https://www.cnet.com/roadshow/news/buy-tesla-full-self-driving-free-elon-musk/"
-webUrl: "https://www.cnet.com/roadshow/news/buy-tesla-full-self-driving-free-elon-musk/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
+title: "All Teslas Delivered In Last 3 Days Of 2020 Get Free Full Self-Driving"
+excerpt: "Tesla has always pushed hard and offered incentives at the end of the quarter and the end of the year, but free FSD is next level."
+publishedDateTime: 2020-12-30T14:53:00Z
+originalUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/"
+webUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/"
+ampWebUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
+cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
 type: article
-quality: 87
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Inside EVs
+  domain: insideevs.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.motor1.com/images/mgl/P6QQK/s1/tesla-self-driving-new.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=c32d614053b5590ce90e5251cb05134f3601ab4c"
         width: 600
         height: 350
+        isCached: true
+  - title: "Buy a Tesla before 2021 and get Full Self-Driving for free, Elon Musk says"
+    excerpt: "Tesla CEO Elon Musk is out here making marketing moves on Twitter as we head into the final few days of 2020. Tuesday evening, Musk tweeted that anyone who purchases a new Tesla will receive three months of the company's Full Self-Driving mode free of charge."
+    publishedDateTime: 2020-12-29T23:59:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/buy-tesla-full-self-driving-free-elon-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
     excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
@@ -127,22 +139,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "All Teslas Delivered In Last 3 Days Of 2020 Get Free Full Self-Driving"
-    excerpt: "Tesla has always pushed hard and offered incentives at the end of the quarter and the end of the year, but free FSD is next level."
-    publishedDateTime: 2020-12-30T14:53:00Z
-    webUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/"
-    ampWebUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/P6QQK/s1/tesla-self-driving-new.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla Offers Free Trial of $10,000 Self-Driving Package"
     excerpt: "To meet its goal of delivering 500,000 vehicles this year, Tesla Inc. (NASDAQ: TSLA) reportedly is offering customers who take delivery by the end of December a big freebie. The company’s full self-driving package is normally priced as a $10,"
     publishedDateTime: 2020-12-30T14:45:00Z
@@ -217,6 +213,6 @@ related:
         height: 300
         isCached: true
 
-secured: "nRyrZJ6Trjl4UPpGNNqL+2/AhFX5cYxUYaU5OklYrOcz1wJEd5BGiZ7YhSXzZWSPIRbg+MIlYWpHtuv+jDLpUAWE+fTsQsJo2c2Ktgwbfcq3D9QwN3Td3P19fD8jkKpfAsJZuZMNQi6WNQvaV2hppFSoilJk1UL4UecdmTt/HMSy15/EFLxPunz4IDO1vSknZBJESzbACZ42cgc3oijXVjP5eShX6kbPU26HMQhM4nAOqkRnJCbuzW4pA6w3+SmhCOGWVBxtpy6UEHYXgkdSoxcBIQL6dqb36q2wNm34aql3pVpQlh1+S8OzSgaKtt9unq/PsUGA/tFVNzCO/efD1j7fa/UYsO2vjyCAagrffLl483YSqvBVZorWiokz0Un6S4rMzBHUg0zR1pmLrZTLT3gH0HObZcOBFS8y7vZSmWmxQEeJtW7UM/JfnX6a7VxpzJodGRGi9Bf6pO4NztuU4sqm63Zs8WQab0V4Y4ORF4kiHZTg5jp3e2C5e/4beQ1BVO5EmlqJiDXRRKyNmmdNdQ==;aDWABu8KDxsxAIX+zzBUqQ=="
+secured: "7LsiMPVunTaLlQMW6HLxOanw/YBBb0e4nZBurqFBEylDD4IlBwhwBv/xUiH1YoMTxjo3CGgabQE6Sr2KvKifHSG85x1w1vP0sWTKXA9ZUWR4EhzI6KrsKAruGD/jjGXqsXvRVxQgyteaP+2j0Wi3LPSJO8Wih3EHSvGkNmbE7wDiwH0sdNyZ3gezUKCblupf4K7OIYhVGf3mVEsDDG2rKmGr7+ulzDIIhLDDtplGFGHyYA5iFnj19SJV7zaxWdLl/tNGBoBZC6rgY+MzGZaV6Mx7DguqwYKCDCF7Mkew2Q/jfroJGjKtfn0gLjraXPPh74ArdRJvaF5PwIXK9ANQbDkHC8uGT246vlOoergWK2E=;lX8QegPdSl+DhHSytpm6gw=="
 ---
 

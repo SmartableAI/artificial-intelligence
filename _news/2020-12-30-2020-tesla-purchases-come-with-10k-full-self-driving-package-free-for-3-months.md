@@ -137,6 +137,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "All Teslas Delivered In Last 3 Days Of 2020 Get Free Full Self-Driving"
+    excerpt: "Tesla has always pushed hard and offered incentives at the end of the quarter and the end of the year, but free FSD is next level."
+    publishedDateTime: 2020-12-30T14:53:00Z
+    webUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/"
+    ampWebUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/P6QQK/s1/tesla-self-driving-new.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla Offers Free Trial of $10,000 Self-Driving Package"
     excerpt: "To meet its goal of delivering 500,000 vehicles this year, Tesla Inc. (NASDAQ: TSLA) reportedly is offering customers who take delivery by the end of December a big freebie. The company’s full self-driving package is normally priced as a $10,"
     publishedDateTime: 2020-12-30T14:45:00Z

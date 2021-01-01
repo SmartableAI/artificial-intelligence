@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -125,6 +125,22 @@ related:
     quality: 59
     images:
       - url: "https://cdn.motor1.com/images/mgl/7x73V/s1/tesla-model-s-fsd-beta-snow.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "All Teslas Delivered In Last 3 Days Of 2020 Get Free Full Self-Driving"
+    excerpt: "Tesla has always pushed hard and offered incentives at the end of the quarter and the end of the year, but free FSD is next level."
+    publishedDateTime: 2020-12-30T14:53:00Z
+    webUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/"
+    ampWebUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/P6QQK/s1/tesla-self-driving-new.jpg"
         width: 1920
         height: 1080
         isCached: true
