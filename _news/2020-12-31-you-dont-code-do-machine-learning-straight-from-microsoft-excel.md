@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
 type: article
 quality: 125
-heat: 145
+heat: 146
 published: true
 
 provider:
