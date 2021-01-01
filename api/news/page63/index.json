@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-11-12-5-great-robotics-stocks-that-offer-stake-in-the-new-way-work-gets-done.md",
+      "title": "5 Great Robotics Stocks That Offer Stake in the New Way Work Gets Done",
+      "excerpt": "The new normal is speeding up the entry of robotics into our lives. Here are five robotics stocks to help you power up your portfolio for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/",
+      "originalUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/",
+      "publishedDateTime": "2020-11-12T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-madrona-leads-26m-round-for-othersideai-a-startup-using-gpt-3-tech-to-write-automated-emails.md",
       "title": "Madrona leads $2.6M round for OthersideAI, a startup using GPT-3 tech to write automated emails",
       "excerpt": "“We strongly believe that AI and Natural Language Processing technologies such as GPT-3 will transform many aspects of our lives — from work to our health to leisure,” Madrona Managing Director Matt McIlwain said in a statement. Madrona did launch a ...",
@@ -1168,49 +1211,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads.md",
-      "title": "Standard Chartered Selects AWS to Power Its Strategic Banking Systems and Workloads",
-      "excerpt": "(NASDAQ: AMZN), and Standard Chartered Bank plc (LON: STAN), a leading international banking group, announced a five year, strategic global agreement, which deepens the existing relationship between the two companies,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-financial-services-603623c40644449abaa3979de6e63adb",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-financial-services-603623c40644449abaa3979de6e63adb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

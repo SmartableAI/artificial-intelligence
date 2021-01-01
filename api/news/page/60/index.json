@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-11-14-system-brings-deep-learning-to-internet-of-things-devices.md",
+      "title": "System brings deep learning to 'internet of things' devices",
+      "excerpt": "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT). Deep learning is everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201113154627.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201113154627.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-uber-in-talks-to-sell-atg-self-driving-unit-to-aurora.md",
       "title": "Uber in talks to sell ATG self-driving unit to Aurora",
       "excerpt": "Uber’s self-driving car unit, Uber Advanced Technologies Group, was valued at $7.25 billion following a $1 billion investment from Toyota, DENSO and Softbank’s Vision Fund. Now, it’s up for sale and a competing autonomous vehicle technology startup is in talks with Uber to buy",
@@ -1191,40 +1234,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-the-case-for-mathematical-optimization-in-health-care-building-a-strong-foundation-for-artificial-intelligence.md",
-      "title": "The Case For Mathematical Optimization In Health Care: Building A Strong Foundation For Artificial Intelligence",
-      "excerpt": "Enthusiasm for the potential impact of AI on hospital operations is often based on its impact in other industries. However, non-health care companies invest in AI after having digitized and optimized their operations with a variety of older mathematical methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
-      "originalUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Health Affairs",
-        "domain": "healthaffairs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

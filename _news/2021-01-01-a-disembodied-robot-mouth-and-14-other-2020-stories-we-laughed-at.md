@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp"
 type: article
 quality: 89
-heat: 100
+heat: 102
 published: true
 
 provider:

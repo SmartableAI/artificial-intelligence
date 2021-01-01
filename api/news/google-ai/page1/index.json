@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-highlights-from-the-year-in-science-2020.md",
+      "title": "Highlights from the year in science 2020",
+      "excerpt": "One of the biggest scientific breakthroughs of the year came just last month, with news that Alphabet's DeepMind AI has made huge strides in being able to accurately predict the 3D structures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "originalUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1957683/2147483647/strip/true/crop/1999x1333+0+46/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F40%2Fde%2F1497dbbb40b18507ebe95f4976d0%2Fdepositphotos-13261072-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/science/science-2020-year-review/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/science-2020-year-review/?amp=true",
+      "publishedDateTime": "2020-12-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-deepminds-big-losses-and-the-questions-around-running-an-ai-lab.md",
       "title": "DeepMind’s big losses, and the questions around running an AI lab",
       "excerpt": "Guest Last week, on the heels of DeepMind’s breakthrough in using AI to predict protein-folding came the news that the UK-based AI company is still costing its parent company Alphabet Inc hundreds of millions of dollars in losses each year.",
@@ -1389,49 +1441,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins.md",
-      "title": "DeepMind claims major breakthrough in understanding proteins",
-      "excerpt": "London — DeepMind, the UK-based artificial intelligence (AI) company owned by Alphabet, has said it can predict the structure of proteins, a breakthrough that could dramatically speed up the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "originalUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/mAnoa0U_lK0Ey0sETH_8Cp3TWLVn8px8Y81UEwCAVdthDEEmB7fLdcYb9TGrGaBgT5xJRtTGFvHkbf3unbPkjdGsuOZJKbm0=s1000",
-          "width": 594,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
-      "publishedDateTime": "2020-12-02T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
         "images": null,
         "publishers": null,
         "authors": null

@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
+    excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
+    publishedDateTime: 2021-01-01T21:01:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-244050/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Apple's Self-Driving Car Ambitions Will Shake Industry"
     excerpt: "Apple needs to develop self-driving solutions to expand its device to reach beyond televisions, smartphones, and computers. Every other fast-growing technology firm is doing the same thing. For example,"
     publishedDateTime: 2020-12-30T13:15:00Z

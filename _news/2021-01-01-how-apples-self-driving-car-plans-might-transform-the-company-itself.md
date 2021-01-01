@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
+    excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
+    publishedDateTime: 2021-01-01T21:01:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-244050/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "5 Self-Driving Car Stocks With Massive Upside Potential in 2021"
     excerpt: "Higher levels of autonomy have the potential to reduce risky and dangerous driver behaviors. Favorable regulatory framework and increasing government funding are expected to play a crucial role in accelerating the self-driving car market’s growth in the coming years."
     publishedDateTime: 2020-12-28T15:04:00Z

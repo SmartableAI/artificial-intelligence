@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-09-baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing.md",
+      "title": "Baidu is testing its robot axis without a safety driver in Beijing",
+      "excerpt": "Baidu has just received permission to test its autonomous taxis with no security drivers on the streets of Beijing. A first for the Chinese capital. The company has been testing its robot axis in China since 2018,",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/",
+      "originalUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2020/12/baidu-apollo-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/",
+      "publishedDateTime": "2020-12-09T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
       "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
       "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision. TechRepublic's Karen Roby spoke with David Crandall, assistant professor of computer science at Indiana University about artificial ...",
@@ -1088,58 +1131,6 @@
       "topics": [
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-how-ibm-is-advancing-ai-governance-to-help-clients-build-trust-and-transparency.md",
-      "title": "How IBM Is advancing AI governance to help clients build trust and transparency",
-      "excerpt": "As more and more organizations scale their use of AI, they’re challenged with mitigating the associated risks and building genuine trust in AI decision-making. When it comes to trustworthy AI, we believe that consumers, clients and all stakeholders need to know how AI impacts their day-to-day lives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-ibm-is-advancing-ai-governance-to-help-clients-build-trust-and-transparency/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-ibm-is-advancing-ai-governance-to-help-clients-build-trust-and-transparency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/AI-governance-leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T16:00:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],
