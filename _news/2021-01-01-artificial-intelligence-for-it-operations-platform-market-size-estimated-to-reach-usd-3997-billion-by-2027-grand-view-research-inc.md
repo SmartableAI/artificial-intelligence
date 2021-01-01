@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence For IT Operations Platform Market Size Estimated To Reach USD 39.97 Billion By 2027: Grand View Research Inc."
-excerpt: "According to report published by Grand View Research, The Artificial Intelligence for IT Operations (AIOps) platform correlates and contextualizes data across various customers, infrastructure, applications,"
-publishedDateTime: 2021-01-01T12:30:00Z
-originalUrl: "https://menafn.com/1101369196/Artificial-Intelligence-For-IT-Operations-Platform-Market-Size-Estimated-To-Reach-USD-3997-Billion-By-2027-Grand-View-Research-Inc"
-webUrl: "https://menafn.com/1101369196/Artificial-Intelligence-For-IT-Operations-Platform-Market-Size-Estimated-To-Reach-USD-3997-Billion-By-2027-Grand-View-Research-Inc"
+excerpt: "Market Research And Consulting.” According to report published by Grand View Research, The Artificial Intelligence for"
+publishedDateTime: 2020-12-31T19:10:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/ab18981348/artificial-intelligence-for-it-operations-platform-market-size-estimated-to-reach-usd-39-97-billi"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18981348/artificial-intelligence-for-it-operations-platform-market-size-estimated-to-reach-usd-39-97-billi"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18981348"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18981348"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2020-12/31/G_c6b7c928-9_Image_In_Body.png"
+  - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-ai-for-it-operations-platform-market.png"
     width: 600
     height: 300
     isCached: true
@@ -54,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "XyhNENEUpP8EQEuurToD5N94XQU2M0qJR4z2hMAjPUJaweYGPxcLzuSrsE/joc9/rFiqDzqaxXTkhG8cUH/8Le0B4DNNOF3JXPoKdZM/u2ExeiZdFoepnqnyEyKy29rSU3p2v7xL0tH1yjubNpjPatuJKlMomZhtQrQ9g5WPp8FgxtQ2XWykMipJZCj5CQfwlBuBoRYCDU9GsJpwgloBwT3loelc6a+2eQ3lifvg1Fiat0/pB38wSKnrpdnNy+Bm0VXzneTzx0aZt4/280KV0HsBmoOf5LdQY5dCTq6yi9CBJmq8SeIWYZTlhyLOI6s1GNm+7SwgzqLQ7QeNn0pkLSWT6Ois7ja6KpquYM6tQGU=;1z8IvdKxxU+o9n7VgAFECg=="
+secured: "GPX13L7KFVkywt5LHhAk5JqpJdU8cDjm7j88XAqkYHr6QBMnSg0m6ePLXK2Avw2vGVe4PrYmvUzzqnBac9zcsK/fkr+1nWc367llDpAmj/3y2P96sREsg76W/omZSsFi0pw3fcehoee3GBdfzcycklltzyJghiXjtKwuIYw/oJv2OB2iKQHjXUwOcTo5TT/a8L/+YytvZR/6RepgVo5dlByMo2T7ql9Pp6FK/mHn7AOGDZ9m1Qlm6TBQBeKPfDl3EKGrMg9Lj75+vW3SV2C2qu1JUGLrETKux1MAc5VqOIw7MKeumPKIpIBUaXhvJZhz3ouDrPPzCXLlFGksaGn3nfMAKxBSH3SMcdXu2SVyv7Q=;/wjbmufweL46OoHG7UmE3Q=="
 ---
 

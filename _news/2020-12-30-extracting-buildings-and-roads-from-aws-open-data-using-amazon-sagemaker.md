@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/extracting-buildings
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:

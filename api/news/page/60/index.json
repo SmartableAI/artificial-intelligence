@@ -2,6 +2,153 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-11-13-extracting-handwritten-information-through-amazon-textract.md",
+      "title": "Extracting handwritten information through Amazon Textract",
+      "excerpt": "Over the past few years, businesses have experienced a steep rise in the volume of documents they have to deal with. These include a wide range of structured and unstructured text spread across different document formats. Processing these documents and extracting data is labor-intensive and costly. It",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/Extracting-handwritten-information-1.jpg",
+          "width": 800,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T10:50:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners.md",
+      "title": "This Week In XR: Hopin Scores Series B, Snaps Buy Voca.ai, VR Award Winners",
+      "excerpt": "Hopin raises $125 M series B. The round was led by IVP with existing investors Accel and DFJ Growth, and Tiger Global joining in. The online events platform's valuation is over two billion dollars. Snap Acquires Voca.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faed1b64d170f383dbd192a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/amp/",
+      "publishedDateTime": "2020-11-13T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-fg-inaugurates-robotics-artificial-intelligence-centre.md",
+      "title": "FG inaugurates robotics, artificial intelligence centre",
+      "excerpt": "Okechukwu Nnodim, AbujaThe Federal Government on Friday inaugurated the National Centre for Artificial Intelligence and Robotics.Minister of Communications and Digital Economy, Isa",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/",
+      "originalUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2016/11/12194043/Dr.-Isa-Ali-Pantami.jpg",
+          "width": 600,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1",
+      "publishedDateTime": "2020-11-13T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-how-effective-is-artificial-intelligence-in-removing-racial-bias-in-hiring.md",
       "title": "How effective is artificial intelligence in removing racial bias in hiring?",
       "excerpt": "A growing number of tech companies are placing their bets on algorithms to reinvent talent acquisition and create a more inclusive workforce. In some cases, this might mean entirely removing ...",
@@ -1077,145 +1224,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-focus-on-3as-and-1c-for-deep-tech-push-part-2.md",
-      "title": "Focus on 3As and 1C for deep tech push: Part 2",
-      "excerpt": "WhatsApp had just 55 employees when it was valued at $19 billion by Facebook. That way India has thousands ... There is a need to promote specific AI-oriented startups. There is very little AI research that is happening out of India. IT companies who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/",
-      "originalUrl": "https://www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/11/trace-3157431_640.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/amp/",
-      "publishedDateTime": "2020-11-13T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-global-computer-vision-in-the-healthcare-market-report.md",
-      "title": "Global Computer Vision In The Healthcare Market Report",
-      "excerpt": "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "originalUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb13143184_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "publishedDateTime": "2020-11-13T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-the-future-of-work-work-ethics-by-yudhanjaya-wijeratne.md",
-      "title": "The Future of Work: ‘Work Ethics,’ by Yudhanjaya Wijeratne",
-      "excerpt": "He had earned that rare and elusive acknowledgement, whispered behind his back: He’s a Creative. The Capital C.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/",
-      "originalUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa9cabfdaa25f804cdbd2f1/master/pass/backchannel-sci-fi-yudhanjaya-wijeratne-final.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/amp",
-      "publishedDateTime": "2020-11-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

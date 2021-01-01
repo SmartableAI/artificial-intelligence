@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recogni
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 82
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,28 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
+    publishedDateTime: 2020-12-28T09:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934434/artificial-intelligence-in-healthcare-diagnosis-market-forecast-to-2027-covid-19-impact-and-global"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
+    excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
+    publishedDateTime: 2020-12-29T21:04:00Z
+    webUrl: "https://www.openpr.com/news/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    ampWebUrl: "https://www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
   - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
     excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
     publishedDateTime: 2020-12-29T07:33:00Z

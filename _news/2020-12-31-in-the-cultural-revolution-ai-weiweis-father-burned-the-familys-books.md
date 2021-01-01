@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-boo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

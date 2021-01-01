@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-30-covid-19-impact-on-facial-recognition-market-size-growth-analysis-report-2019-2025.md",
+      "title": "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025",
+      "excerpt": "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2218785/covid-19-impact-on-facial-recognition-market-size-growth",
+      "originalUrl": "https://www.openpr.com/news/2218785/covid-19-impact-on-facial-recognition-market-size-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc30902512_g.jpg",
+          "width": 650,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth",
+      "publishedDateTime": "2020-12-29T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match.md",
       "title": "Another Arrest, and Jail Time, Because of a Bad Facial Recognition Match",
       "excerpt": "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition.",
@@ -1333,49 +1376,6 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-radarcat-gives-computers-a-sense-of-touch.md",
-      "title": "RadarCat Gives Computers A Sense Of Touch",
-      "excerpt": "Can Skynet be far behind? Again, this could provide robots with a sense of touch, in a manner of speaking, that rivals our own human capacity for object recognition. This has applications for a ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/10/21/radarcat-gives-computers-a-sense-of-touch/",
-      "originalUrl": "https://hackaday.com/2016/10/21/radarcat-gives-computers-a-sense-of-touch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/10/radarcat-in-action.gif",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

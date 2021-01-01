@@ -2,6 +2,148 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-11-23-soapbox-labs-gives-voice-to-the-obstacles-opportunities-of-remote-learning.md",
+      "title": "SoapBox Labs Gives Voice To The Obstacles, Opportunities Of Remote Learning",
+      "excerpt": "Advances in artificial intelligence have enabled engineers and ... products across a range of different industries—from speech therapy dyslexia screenings to English language learning to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelhorn/2020/11/23/soapbox-labs-gives-voice-to-the-obstacles-opportunities-of-remote-learning/",
+      "originalUrl": "https://www.forbes.com/sites/michaelhorn/2020/11/23/soapbox-labs-gives-voice-to-the-obstacles-opportunities-of-remote-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3e98a89d0b609143e91b7%2F0x0.jpg",
+          "width": 1199,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T00:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-north-america-artificial-intelligence-ai-chipsets-market-growth-predicted-at-35-through-2026.md",
+      "title": "North America Artificial Intelligence (AI) Chipsets Market Growth Predicted at 35% through 2026",
+      "excerpt": "Graphical Research :According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size, By Product (Graphics Processing Unit (GPU), Application-Specific Integrated Circuit (ASIC),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb",
+      "originalUrl": "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-us-approves-regeneron-antibody-treatment-given-to-trump.md",
+      "title": "US Approves Regeneron Antibody Treatment Given to Trump",
+      "excerpt": "The FDA has approved Regeneron's antibody cocktail treatment for COVID with an Emergency Use Authorization. A Covid-19 antibody therapy used to treat President Donald Trump was approved by the US drug regulator on Saturday for people who aren't yet hospitalized by the disease but are at high risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "originalUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/regeneron_stock_photo_covid_injection_treatment_medicine____Bernard_Chantal___Dreamstime.5fbb5faa14bb3.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today.md",
       "title": "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today",
       "excerpt": "Healthcare has not only been affected by the global coronavirus pandemic, but has simultaneously experienced an accelerated digital transformation. Here we look at the key healthcare trends for 2021.",
@@ -1009,144 +1151,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-practical-strategies-to-minimize-bias-in-machine-learning.md",
-      "title": "Practical strategies to minimize bias in machine learning",
-      "excerpt": "But the question isn’t if a machine learning model will systematically discriminate against people, it’s who, when, and how. There are several practical strategies that you can adopt to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/mitigate-ml-bias-parkey.jpg?resize=512%2C454&strip=all",
-          "width": 512,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
-      "publishedDateTime": "2020-11-21T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-artificial-intelligence-and-cognitive-computing-market-predicted-to-witness-sustainable-evolution-in-future-microsoft-teradata-ibm-sas.md",
-      "title": "Artificial Intelligence and Cognitive Computing Market Predicted to Witness Sustainable Evolution in Future | Microsoft, Teradata, IBM, SAS",
-      "excerpt": "Global Artificial Intelligence and Cognitive Computing Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101161469/Artificial-Intelligence-and-Cognitive-Computing-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Teradata-IBM-SAS",
-      "originalUrl": "https://menafn.com/1101161469/Artificial-Intelligence-and-Cognitive-Computing-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Teradata-IBM-SAS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?985228",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024.md",
-      "title": "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024",
-      "excerpt": "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) Click & Get Free Sample Report in Minutes. The grow",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

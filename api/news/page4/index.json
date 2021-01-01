@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-27-rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops.md",
+      "title": "Rafael unveils AI, deep learning tech for IDF infantry troops",
+      "excerpt": "Under the new system, all parties in the battle will see the same image – provided by the goggles of an infantry soldier or a sensor on a fighter jet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389",
+      "originalUrl": "https://www.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.jpost.com//HttpHandlers/ShowImage.ashx?id=387779&w=640&h=428",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389/amp",
+      "publishedDateTime": "2020-12-27T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-the-state-of-data-december-2020.md",
+      "title": "The State Of Data, December 2020",
+      "excerpt": "Data is eating the world and there are many indicators of its ubiquitous presence in our lives: AI, digital transformation, data monetization, and the effect of Covid-19 on the accelerated growth of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe7f42408a95af377c504ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/amp/",
+      "publishedDateTime": "2020-12-27T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19.md",
       "title": "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19",
       "excerpt": "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues",
@@ -1096,111 +1191,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth.md",
-      "title": "AI in Education Market Opportunities And Strategies To 2025: COVID-19 Implications and Growth",
-      "excerpt": "Dec (Heraldkeepers) -- Artificial intelligence (AI) may be a computer virus to imitate the human intelligence and enhancement of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-24T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast.md",
-      "title": "Artificial Intelligence Market 2021 | Trade Analysis, Trends, Drivers, Challenges, Growth Forecast",
-      "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-24T00:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

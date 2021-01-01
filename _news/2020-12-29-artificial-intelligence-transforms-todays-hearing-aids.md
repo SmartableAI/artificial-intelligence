@@ -42,22 +42,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Fruitful business: how Ripe Robotics is transforming robotics and agriculture"
-    excerpt: "I am a massive risk taker so I was quite happy to quit my job and put all my money into this,” said Hunter Jay, founder and CEO of Ripe Robotics. However Ripe Robotics wasn’t founded on a whim. An analysis of Australia’s strongest industries,"
-    publishedDateTime: 2020-12-27T21:03:00Z
-    webUrl: "https://dynamicbusiness.com.au/featured/fruitful-business-how-ripe-robotics-is-transforming-robotics-and-agriculture.html"
-    ampWebUrl: "https://dynamicbusiness.com.au/featured/fruitful-business-how-ripe-robotics-is-transforming-robotics-and-agriculture.html?amp"
-    cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/fruitful-business-how-ripe-robotics-is-transforming-robotics-and-agriculture.html?amp"
-    type: article
-    provider:
-      name: Dynamic Business
-      domain: dynamicbusiness.com.au
-    quality: 71
-    images:
-      - url: "https://dynamicbusiness.com.au/wp-content/uploads/2020/12/RobotCropped.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "This 2-Acre Vertical Farm Is Managed by AI and Robots and Uses 99% Less Land"
     excerpt: "This vertical farm takes up two acres of land, but it produces the same amount of food as a 720-acre farm. Could this be the future of farming?"
     publishedDateTime: 2020-12-29T19:45:00Z

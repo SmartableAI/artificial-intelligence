@@ -30,16 +30,18 @@ images:
 
 related:
   - title: "Artificial Intelligence For IT Operations Platform Market Size Estimated To Reach USD 39.97 Billion By 2027: Grand View Research Inc."
-    excerpt: "According to report published by Grand View Research, The Artificial Intelligence for IT Operations (AIOps) platform correlates and contextualizes data across various customers, infrastructure, applications,"
-    publishedDateTime: 2021-01-01T12:30:00Z
-    webUrl: "https://menafn.com/1101369196/Artificial-Intelligence-For-IT-Operations-Platform-Market-Size-Estimated-To-Reach-USD-3997-Billion-By-2027-Grand-View-Research-Inc"
+    excerpt: "Market Research And Consulting.” According to report published by Grand View Research, The Artificial Intelligence for"
+    publishedDateTime: 2020-12-31T19:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18981348/artificial-intelligence-for-it-operations-platform-market-size-estimated-to-reach-usd-39-97-billi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18981348"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18981348"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 8
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
     images:
-      - url: "https://menafn.com/updates/pr/2020-12/31/G_c6b7c928-9_Image_In_Body.png"
+      - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-ai-for-it-operations-platform-market.png"
         width: 600
         height: 300
         isCached: true

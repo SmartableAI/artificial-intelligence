@@ -74,6 +74,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Infor’s top cloud and AI technology predictions for 2021"
+    excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
+    publishedDateTime: 2021-01-01T13:05:00Z
+    webUrl: "https://www.ameinfo.com/industry/digital-and-media/infors-top-cloud-and-ai-technology-predictions-for-2021"
+    type: article
+    provider:
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 17
 
 secured: "baA6oZ2YyYfj+mZE+QkKw/z0F0h/K3Hg5t5VIxtiKzm2XxIbAd72F6QNO3nLLC7LxGeHhbEWuK7EfVOv+w/AX7fXS4Xtj3drB3GA2dG8mi+ndXMYLfyOJuZMBoilSZvcXsShEEDoAk8JVtInmkBwGouk/2XJ+DdA/DHmjNP2U67DQA3Cr2DV6VBuqPa9Gm+REAygTH1vwDsb5GhOAmt0dBgi8SJHmhKuyPHOVlFarcBA+sndgNEi9HYFBfcCVfk1D5uBvgQZXnZIVxDAluivwmwLDG0NBrEz7226pTMy4RwMC9kKA5bq0HZp+X79bQjsTnfib4AiJA7JoZ8sVGJ2SdWdeyBbKkrl+MRVSsTWjwLxz4T0I5BACuNbt797FfxkdKbmt0kmr6OKtRXkkI45hRdPBHPXAcYMUiKsRD0e2FM+BL6FO9sOW3U1Xm9CpV6AWoluMxtoTktbCnOFXo4cfScb+xOB5Ap3ovzMJdITPkmXurxNxWvmJpum74y+Z8dtuLVLMmi7gvOq+DA9MvN04g==;UXiVVn1AupHNXt6DmTS1UA=="
 ---

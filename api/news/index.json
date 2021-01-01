@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-01-ces-2021-and-cars-what-we-expect-in-autonomous-cars-evs-and-more.md",
+      "title": "CES 2021 and cars: What we expect in autonomous cars, EVs, and more",
+      "excerpt": "With some of the biggest tech companies dipping their toes into the automotive world, what will we see at CES 2021? Here are a few educated guesses at what to watch out for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
+      "originalUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/sony-vision-s-electric-concept-car-1200x630-c-ar1.91-n.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
+      "publishedDateTime": "2021-01-01T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021.md",
       "title": "Tirias Research Predicts A Healthy But Cautious Outlook For Tech In 2021",
       "excerpt": "As a result, the technology outlook looks incredibly positive going into 2021 but there are caveats that warrant concern for the latter half of 2021 and beyond. The analysts at TIRIAS Research assembled the following review of key 2020 trends and an outlook for 2021,",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -478,7 +530,7 @@
       "originalUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -676,7 +728,7 @@
       "originalUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -822,7 +874,7 @@
       "originalUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -857,6 +909,48 @@
       ]
     },
     {
+      "path": "_news/2020-12-31-agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me.md",
+      "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
+      "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=fn3KWM1kuAw&feature=youtu.be",
+      "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fn3KWM1kuAw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T17:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker.md",
       "title": "Extracting buildings and roads from AWS Open Data using Amazon SageMaker",
       "excerpt": "Sharing data and computing in the cloud allows data users to focus on data analysis rather than data access. Open Data on AWS&nbsp;helps you discover and share public open datasets in the cloud. The&nbsp;Registry of Open Data on AWS&nbsp;hosts a large amount of public open data. The datasets range from",
@@ -865,7 +959,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -906,58 +1000,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-what-we-expect-at-ces-2021-autonomous-cars-evs-and-a-mind-reading-bike.md",
-      "title": "What we expect at CES 2021: Autonomous cars, EVs, and a mind-reading bike?",
-      "excerpt": "With some of the biggest tech companies dipping their toes into the automotive world, what will we see at CES 2021? Here are a few educated guesses at what to watch out for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
-      "originalUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/sony-vision-s-electric-concept-car-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
-      "publishedDateTime": "2020-12-30T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1220,58 +1262,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market.md",
-      "title": "Is Velodyne or Luminar Stock The Better Bet On The Self-Driving Market?",
-      "excerpt": "Velodyne Lidar (NASDAQ: VLDR) and Luminar Technologies (NASDAQ: LAZR), two companies that specialize in lidar technology, went public this year. Lidar - a laser-based technology, which essentially helps computers detect surrounding objects - is poised to grow meaningfully,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fec1fa366ff7efc54a6e497%2F0x0.jpg",
-          "width": 705,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/amp/",
-      "publishedDateTime": "2020-12-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

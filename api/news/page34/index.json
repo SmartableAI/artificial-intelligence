@@ -2,6 +2,133 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-02-no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures.md",
+      "title": "No code platform Signzy tops up fund raise with additional $3 million from Vertex Ventures",
+      "excerpt": "No code AI platform Signzy announced today that it has raised an additional US$3M from Vertex Ventures, taking its latest round of fundraising to $8.4M in total.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
+      "originalUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-713.md",
+      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Expands By 71.3%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant increase in short interest during the month of November. As of November 15th, there was short interest totalling 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
+      "publishedDateTime": "2020-12-02T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-how-artificial-intelligence-can-aid-inventors-to-prevent-idea-theft.md",
+      "title": "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft",
+      "excerpt": "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
+      "originalUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
+      "publishedDateTime": "2020-12-02T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-facebook-agrees-to-acquire-crm-platform-kustomer.md",
       "title": "Facebook Agrees to Acquire CRM Platform Kustomer",
       "excerpt": "Facebook agreed to acquire customer-relationship-management platform Kustomer, which was named Adweek’s best customer experience platform in 2020. The Kustomer team—including co-founders Brad Birnbaum and Jeremy Suriel—will join Facebook,",
@@ -1056,153 +1183,6 @@
         "AI",
         "AI in Education",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
-      "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
-      "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/aws-logo-reinvent-2017.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
-      "publishedDateTime": "2020-12-01T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-how-watson-assistant-helped-uams-answer-the-publics-health-questions.md",
-      "title": "How Watson Assistant helped UAMS answer the public’s health questions",
-      "excerpt": "The University of Arkansas for Medical Sciences (UAMS) is the state’s only health sciences university. Located in Little Rock, Arkansas, its mission is to improve the health, health care and well-being of Arkansans and of others in the region, nation and the world. When the outbreak of COVID-19 spiked",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-uams/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-uams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/Leadspace_2000X1006_V2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T12:56:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-will-google-make-money-from-deepminds-once-in-a-generation-ai-breakthrough.md",
-      "title": "Will Google make money from DeepMind's 'once in a generation' AI breakthrough?",
-      "excerpt": "On Monday, British machine learning startup DeepMind announced that it had solved the 50-year \"protein folding\" problem. Scientists rejoiced at the promise of improved drugs for incurable diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4Bq9-zn32UdN-2qebTEmhS1ZTsJ7F30oTa8NmuLcxnm_sU.jpeg",
-          "width": 2370,
-          "height": 1482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/amp/",
-      "publishedDateTime": "2020-12-01T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

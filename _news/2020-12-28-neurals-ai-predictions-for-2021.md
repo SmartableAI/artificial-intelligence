@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
 type: article
 quality: 191
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Infor’s top cloud and AI technology predictions for 2021"
+    excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
+    publishedDateTime: 2021-01-01T13:05:00Z
+    webUrl: "https://www.ameinfo.com/industry/digital-and-media/infors-top-cloud-and-ai-technology-predictions-for-2021"
+    type: article
+    provider:
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 17
 
 secured: "rGpiq5tA/Vm6YJOZjLb3nGeQqr24a60KFexljaoq7PtJqA0XA2taVzSSUJx1no8Q8LTVtp3K9mRQz1bd4z9whk5gK0jXIPD3u3iu6wlOk0p/RyHBnlM5KzSqOnNMx+niOo6kQC15VLSwVJIT6ZUFI0bzuqbBBzVfGWdwA1nZgi6qy7o16meRgk9DfiFQjx4URCXAb5Jx3AIezENGxRXJdClR3RWfWCyPoprovOIO0R22DhUG9dYA0B0ttSABnfEU1dXUi//OgHrK7XX9i1yPuoLH87bkMB0YIi+x2c5RpjTW4wTz2yDoK/MEe1awKRp8qmY4u31nXOv1w+qEk4S8zQueCUZCj/z1QWV+nUWeRRfVssfS/y6EYF59/bxP5IvV38+2A3aJ3pdOvG3wFtvt4NRAxzI5bJluhvjp2vOB6WPKcz/29iplxmV8+U6PzbhKbTf1P7+9U4OJgG/V4oBjEsuf7IwkUWh38p/I4jtOGFRgEVxHOmna/Ou3ks022UBfX9SgnbnYri+8umrpfZrAPv4Oq7qsliR7h3vDxCuEBy8=;Ou84aUNLsfJc4SWVPwuu9Q=="
 ---

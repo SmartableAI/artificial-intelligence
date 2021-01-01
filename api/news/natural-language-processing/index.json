@@ -928,58 +928,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information.md",
-      "title": "Google, Apple, and others show large language models trained on public data expose personal information",
-      "excerpt": "Researchers at Google, OpenAI, and others show that large language models including GPT-2 can reveal sensitive information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/amp/",
-      "publishedDateTime": "2020-12-16T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-advancing-education-and-speech-recognition-in-nigeria-with-ai-and-machine-learning.md",
       "title": "Advancing education and speech recognition in Nigeria with AI and machine learning",
       "excerpt": "As part of our participation in the ITU Focus Group on Machine Learning for Future Networks including 5G (FG‑ML5G), in March 2019, our WINEST",
@@ -1441,6 +1389,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-the-state-of-ai-and-its-impact-on-the-startup-ecosystem.md",
+      "title": "The State Of AI And Its Impact On The Startup Ecosystem",
+      "excerpt": "In some cases, these non-human systems can do tasks even better than one can. AI can now mimic human speech, translate languages, diagnose cancers, draft legal documents, and play games and even beat its human counterpart. In today’s social systems can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361600",
+      "originalUrl": "https://www.entrepreneur.com/article/361600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607937388-andy-kelly-0E-vhMVqL9g-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361600",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361600",
+      "publishedDateTime": "2020-12-14T01:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

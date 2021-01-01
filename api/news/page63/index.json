@@ -2,6 +2,161 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-11-12-at-just-22mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps.md",
+      "title": "At just 2.2MB, Google’s new speech filtering tech is perfect for mobile apps",
+      "excerpt": "Google has plenty of apps on your phone that use speech detection from Google Assistant to Google Translate and Pixel’s nifty recorder app. However, one of the challenges these apps face is separating your voice from other people or background noise.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/share-1-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
+      "publishedDateTime": "2020-11-12T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-why-ai-cant-move-forward-without-diversity-equity-and-inclusion.md",
+      "title": "Why AI can’t move forward without diversity, equity, and inclusion",
+      "excerpt": "VentureBeat event, will explore bias, racism, and the lack of diversity across AI product development and management.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1204561139.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
+      "publishedDateTime": "2020-11-12T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft.md",
+      "title": "How YOOX NET-A-PORTER Is Using Artificial Intelligence To Revive Artisan Craft",
+      "excerpt": "PORTER team worked with The Prince via The Prince’s Foundation to create a unique year-long apprenticeship to cultivate the next generation of luxury fashion artisans, informed and guided by customer shopping data and AI analysis of millions of images of historically",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
+      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad257d47fbda414135cd72%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D0%26cropY2%3D1152",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
+      "publishedDateTime": "2020-11-12T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-ibm-amd-ink-joint-development-pact-for-security-artificial-intelligence-offerings.md",
       "title": "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings",
       "excerpt": "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions.",
@@ -1040,134 +1195,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-choosing-the-right-ai-for-your-business-goals.md",
-      "title": "Choosing the Right AI for Your Business Goals",
-      "excerpt": "Artificial intelligence (AI) is one of the most powerful tools that can accelerate an organization's digital transformation and ultimately transition to contactless remote work. To leverage AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/",
-      "originalUrl": "https://www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/81e7a08f547643258f6f1c47ac66a07a.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/amp/",
-      "publishedDateTime": "2020-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-meet-10-investors-who-are-pouring-money-into-legal-tech-startups-from-silicon-valley-vcs-to-big-law-firms.md",
-      "title": "Meet 10 investors who are pouring money into legal-tech startups, from Silicon Valley VCs to Big Law firms",
-      "excerpt": "As investors are increasingly eyeing legal tech, Business Insider used data from PitchBook and Crunchbase ... venture firm has invested in larger companies like ROSS Intelligence, which uses AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/news/venture-investors-ai-deal-sourcing/",
-      "originalUrl": "https://www.businessinsider.com/venture-capitalists-investments-legal-tech-market-law-industry-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-neural-network-ip-listing.md",
-      "title": "Neural network IP Listing",
-      "excerpt": "Efficient and Versatile Computer Vision, Image, Voice, Natural Language, Neural Network Processor VIP9000 supports all popular deep learning frameworks (TensorFlow, Pytorch, TensorFlow Lite, ... WhisPro is a neural network based speech recognition software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/sip/?q=neural+network",
-      "originalUrl": "https://www.design-reuse.com/sip/?q=neural+network",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
