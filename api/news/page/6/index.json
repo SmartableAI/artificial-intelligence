@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
-      "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
-      "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "publishedDateTime": "2020-12-23T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-tiktok-parent-bytedance-hiring-for-ai-drug-discovery-team.md",
       "title": "TikTok parent ByteDance hiring for AI drug discovery team",
       "excerpt": "ByteDance, TikTok’s Chinese parent company, is entering the health industry as it seeks to diversify a business dependent on advertising and livestreaming sales. The company, which prides itself on content algorithms,",
@@ -1219,6 +1166,49 @@
         "AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-apple-and-others-are-coming-for-tesla.md",
+      "title": "Apple and Others Are Coming for Tesla",
+      "excerpt": "Google parent Alphabet has a self-driving car business, Waymo. Baidu, the Google of China, is also thought to be planning an EV. Baidu might be looking at the valuation NIO and other Chinese EV ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "originalUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-270718/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
+      "publishedDateTime": "2020-12-22T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "He spent 10 days in jail after facial recognition software led to the arrest of the wrong man, lawsuit says"
-excerpt: "A Passaic County man says he spent a year trying to clear his name after Woodbridge police relied on facial recognition software to identify him a suspect."
-publishedDateTime: 2020-12-28T11:00:00Z
-originalUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html"
-webUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html"
-ampWebUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
+title: "Another Arrest, and Jail Time, Due to a Bad Facial Recognition Match"
+excerpt: "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition."
+publishedDateTime: 2020-12-29T20:33:00Z
+originalUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
+webUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
 type: article
-quality: 56
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: NJ.com
-  domain: nj.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZM64WG4FNCWDOCRO7LS3WCW4U.jpg"
-    width: 900
-    height: 579
+  - url: "https://static01.nyt.com/images/2020/12/29/business/29JPfacialrecog-promo/29JPfacialrecog-promo-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/29/business/29facialrecog1/29facialrecog1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Another Arrest, and Jail Time, Due to a Bad Facial Recognition Match"
-    excerpt: "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition."
-    publishedDateTime: 2020-12-29T20:33:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/29/business/29JPfacialrecog-promo/29JPfacialrecog-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Man sues police over a facial recognition-related wrongful arrest"
     excerpt: "A New Jersey man is suing the town of Woodbridge and its police department after he was falsely arrested following an incorrect facial recognition match. Nijeer Parks spent 10 days in jail last year,"
@@ -154,6 +142,22 @@ related:
       - url: "https://res.cloudinary.com/blavity/image/upload/g_center,w_auto,q_auto:best,g_south_east,x_0/v1609280084/wtgzkl5usa1zbsjonhw1"
         width: 819
         height: 460
+        isCached: true
+  - title: "He spent 10 days in jail after facial recognition software led to the arrest of the wrong man, lawsuit says"
+    excerpt: "A Passaic County man says he spent a year trying to clear his name after Woodbridge police relied on facial recognition software to identify him a suspect."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html"
+    ampWebUrl: "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZM64WG4FNCWDOCRO7LS3WCW4U.jpg"
+        width: 900
+        height: 579
         isCached: true
   - title: "Lawsuit Claims Flawed Facial Recognition Led to Man’s Wrongful Arrest"
     excerpt: "Black man sues police after being falsely ID’d by facial recognition, joining other Black Americans falling victim to the technology’s racial bias."
@@ -266,6 +270,6 @@ related:
         height: 382
         isCached: true
 
-secured: "3aN+FO3hMWOCg7AK2T6JcPFcSyG9TXRcELLYNoq1Yrtst3DyyZVGhHr7IilC3hy7OVLROEcAshmjTiEsndEASGVIclIOXKFuykG9AaWLcQxZgqed40gCjKDthup/w0ut0u/qUqF2ohISgFzEFEIMjk/DN+/olV8BgIDhk7CcpUalbk3jVfSVu4wCTmEysfchiw1g1AoFc1F0AzLPczLLeX9kRUOkzP0evb2HjIciP+ONeVX4qzB2IZALJr7h8/TZ3WcXpILZmcELBGHzrDW2jlRq8+kiIg9hQyMFuXk7xN6gCEBSkSchLrRobV2j3cl5Bzh+464b5Nap7GgTHR6O5Kudmkdqq8hzwZJZiEcpl7qBCTqPUO6sZsy5vrRTZiVU1l0aIe7ZqHw6HbPIfDQQ9BVC5BFdr7anCRBuRPgVOJUkX/uK7e/ZCA8+KZwNP1aOBE3O6CzpWWF5gyYfVEBq+weIwetSKDWGqqh9sLZLrvvJaoJCL3mFhfAmn42dumR5lujD2BZxgoKPaFwAYcIo9A==;55kgPON74vUrSkO73WZZkw=="
+secured: "CL/hS2YEzKQ3ClHzsVighm46sgogtrbbH31Os6/wjyrtjqCQVRkZY9uwu2uJuKAOk/hbuJ5bnyiMQcQBSHg+4YR8McMQJp3LvT85K+A1hVMWm1dvfpkC58e7WLkxo/Klvc9NqdtJDAjBzhXnd0FMizx3dYrIF5q5nep8WKVhmlpsEYeLA0BtwZ9MPt92soVpos+7C1S/akoYKhcSoU2ZXB9h3e0RXDESSV3FDAlUl2Ha4cKrxbpKnBjSYNTTibllZHlu1BhL2hdpuJvokOYNyeRdCtXigY3ZYqpyV6eqXgO7hEQI81LajUAwU5lYmxr+P/bVkeUD9V8lPu/FU8gSEDky5RmyRhURcbO6Q1pIWpg=;zxiVdficFcp8ovnCrToLwA=="
 ---
 

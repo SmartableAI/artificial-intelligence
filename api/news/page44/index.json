@@ -2,58 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2020-11-24-this-ai-chip-claims-to-mimic-the-human-brain.md",
-      "title": "This AI chip claims to mimic the human brain",
-      "excerpt": "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "originalUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CLZPLUtqihEEeJiUsPGteP-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "publishedDateTime": "2020-11-24T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-preludedxtm-announces-partnership-with-americas-choice-provider-network.md",
       "title": "PreludeDx(TM) Announces Partnership with America's Choice Provider Network",
       "excerpt": "Prelude Corporation (PreludeDx(TM)), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed",
@@ -1171,6 +1119,57 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-googles-verse-by-verse-ai-can-help-you-write-in-the-style-of-famous-poets.md",
+      "title": "Google's 'Verse by Verse' AI can help you write in the style of famous poets",
+      "excerpt": "The company's latest experiment with AI-driven poetry offers suggestions in the style of America’s most renowned wordsmiths. You can select up to three poets for inspiration, including the likes of Emily Dickinson, Walt Whitman and Edgar Allen Poe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/googles-ai-poetry-verse-by-verse-202105834.html",
+      "originalUrl": "https://www.engadget.com/googles-ai-poetry-verse-by-verse-202105834.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F99965be0-2dc4-11eb-9eec-b51c7ac58cd4&client=amp-blogside-v2&signature=c9f481abeee641fa535eae379bef772611fc3585",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/googles-ai-poetry-verse-by-verse-202105834.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/googles-ai-poetry-verse-by-verse-202105834.html",
+      "publishedDateTime": "2020-11-23T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

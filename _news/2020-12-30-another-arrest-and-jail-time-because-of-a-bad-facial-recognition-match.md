@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-mis
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
 type: article
 quality: 203
-heat: 353
+heat: 363
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Another Arrest, and Jail Time, Due to a Bad Facial Recognition Match"
+    excerpt: "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition."
+    publishedDateTime: 2020-12-29T20:33:00Z
+    webUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 104
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/29/business/29JPfacialrecog-promo/29JPfacialrecog-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Man sues police over a facial recognition-related wrongful arrest"
     excerpt: "A New Jersey man is suing the town of Woodbridge and its police department after he was falsely arrested following an incorrect facial recognition match. Nijeer Parks spent 10 days in jail last year,"
     publishedDateTime: 2020-12-29T20:21:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.itproportal.com/features/fiction-vs-reality-the-true-potent
 ampWebUrl: "https://www.itproportal.com/amp/features/fiction-vs-reality-the-true-potential-of-ai/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fiction-vs-reality-the-true-potential-of-ai/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/GxyRD2WMK3MoqYfpkfR6H4-1200-80.jpg"
@@ -41,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "7t4Fen0jv8X/3vkSbd8c5N3lWfXVYonz7sC4+1JE19tZAarHNb1c3+IBnqp13EGQvMqcQ9bRcXe4A+ZRqXKqVmJ8RNCu+sE/aJ4sB2CWVSWXOtcDqbt5ks14TbNfcC2JD8nHZWvCncXPohKzMxrzLFPyR9+gi/DCJmXMvc5G+3bb5/PJd8B/7lneqFxRKV1lmmGj4WQh+lpDlNRXXSSBte7q1LeaDwt4H2D4QVEUNYNXawPecuKfqAkNdzUtBm5eWdP/weSILGMoUq1/AuzLMK/V3HC3wxYmXdQw5dO4yWw9Osy4+qRB3oqLhJycuR3L/je+GbrDc65sCj3OK1DfOYwKUsjB0CTUqC0ETe/dzJk=;DDnbw249Ao5yPiIBv+VPzg=="
+secured: "u/8UKmGbS+njIdtnKCvwg2NJXY8XdZmJIr0ptMCI11EFmPzKMjlpAKtQSaPSemoV/eXOsjNoilJl4G5P5mtJoTNDFkvHpKNMWDF7BOSN42HKM5/TQimEtTyuviZX9eTzL7BiuZRLoqNr8SmOO+KNerEhc6yQkbq5zkzWPbfqgFhudlYM0vyE5+TJ5DHhGfwq6m3d6QY7LKxFWst5v9vxkBK0JqK8VT3yqunEMVsGdY7GyQDV5k5cRNkJCZig5tHxiFDanVl46wFV1VguomQXCAHN8OQYqBe+9h2YlTMx/pksUh4s3EeB/AkNrGV7qkYJ3n1/hiVrbx/cZCGbFaBJXa4fkj7ARtAKtTPzu8nItjNsq3CpECF/QvbKizQCnnFWOVdPQb97LkMfvdpVTYa/GOGBFwRXEGyGgEamuYl28Mwd+ULCpUW+AzDxh9ltg+GiY/boR+2CAD7qI2qjFndZyMajnLfDttGH7g155Rs3vYJmPSzyBKBLNSr5dajrmVu//6hQbQEQRTkdk5ZWgTwngQ==;Re5TY7Tq7+prVqsfyYNZGQ=="
 ---
 

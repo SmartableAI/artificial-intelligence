@@ -34,7 +34,7 @@ related:
     provider:
       name: IT Pro Portal
       domain: itproportal.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/GxyRD2WMK3MoqYfpkfR6H4-1200-80.jpg"
         width: 970
