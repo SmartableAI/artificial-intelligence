@@ -22,33 +22,57 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
-    excerpt: "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,"
-    publishedDateTime: 2020-12-28T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28"
+  - title: "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025"
+    excerpt: "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies"
+    publishedDateTime: 2020-12-30T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/c/Tc30902512_g.jpg"
+        width: 650
+        height: 350
         isCached: true
-  - title: "Global Contact Center AI Software Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
-    excerpt: "Global Contact Center AI Software Market Growth (Status and Outlook) 2020-2025 is the latest market report rolled out by MarketandResearch.biz, one of the world’s leading market research firms. The report contains a detailed description of all the major market components such as global status and trend,"
-    publishedDateTime: 2020-12-29T21:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-contact-center-ai-software-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-12-29"
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
+    publishedDateTime: 2020-12-28T09:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934434/artificial-intelligence-in-healthcare-diagnosis-market-forecast-to-2027-covid-19-impact-and-global"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
+    excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
+    publishedDateTime: 2020-12-29T21:04:00Z
+    webUrl: "https://www.openpr.com/news/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    ampWebUrl: "https://www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
+    publishedDateTime: 2020-12-29T07:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-north-america-south-america-72b2bc25587f46b38746bc62c3bb7048"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Facial Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
     excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The global facial recognition market was valued at USD 4."
@@ -64,29 +88,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report"
-    excerpt: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report . Posted on Dec 30 2"
-    publishedDateTime: 2020-12-31T04:56:00Z
-    webUrl: "https://menafn.com/1101363423/Autonomous-Bus-Door-System-Market-Global-Industry-Size-Growth-Segments-Revenue-Manufacturers-and-2027-Forecast-Research-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
-    publishedDateTime: 2021-01-01T08:36:00Z
-    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "D5FaZmm8IiiUPMdDBQ0eVJqgHK5YUJGUIvJXbUPt3t0K8Hsrtw40TCngYN4c9gdkS9V3kdW8Z4jWYsyZsOX+zuHqRZPkYvao0yvRYyGkmAfaDsVDeMqKwK0Y94POl3uorKZKJSe7R8HwCvJeMkLvncmzfEW+8bt8QMp0pip2yNv61/fiWEROjv/A5e9BNWWvfSyCKfwiMQbbNTxIIYr/zEoXCE7fErUe+YRpm6e/gcqZ9A+ijI2wRIBoS9gP9pKEUp6adud/TrFTlev7GbcNZjT5AfFOcjGpXZLAganAalyOITY3j/AXD7g2pArQeS2krBIQ1o6V4k+Ptaj3bH2ovR4nKLrRzxIR8xItxlNFwV8=;k7Fn3jwgDct+hNMJu5AjWw=="
 ---

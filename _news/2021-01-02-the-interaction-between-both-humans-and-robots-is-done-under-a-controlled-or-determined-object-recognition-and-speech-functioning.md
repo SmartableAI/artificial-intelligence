@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-01T17:34:00Z
 originalUrl: "https://www.analyticsinsight.net/robots-are-already-here-are-humans-ready/"
 webUrl: "https://www.analyticsinsight.net/robots-are-already-here-are-humans-ready/"
 type: article
-quality: 10
-heat: 10
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/robotics11.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 653
     isCached: true
 
-secured: "Ni+oMyVi7sOKqaYkskd0Tr3k7DihAcAJr048XyGx6ROADic0Y+FaxQe7cf34oNxVKmWI0M7fYWCBxh5uDr17TFoiO6GwUUbbC7CqSK6Z69QsXdvTxIaJ3y0zgaoo9MvOAgkku2JKJY1wszA7A4yGnt9lX7Q44QI+59Yp1H/OJdv4h1YgkrcB/ARb8B5CwJ5M931Z1v1ZgdEjf1PzPy+LQbftQh2bpazB1cG5l5II1g6r3edhaE932UT9o0+pWYG7TlRLl3U/mt7R8evblXzq7OC7mLw75WkM10cM65Ycok5WOThR8HFNIk+cavTc2tvWu6IMFoaiTu1GM21huCg9eAprCxUvIe92sLeAZS8xHhU=;XQkxPMbQYBF3tEHxTKZrHg=="
+secured: "hPiH5TW7XfhtT3QN7gFWQ3Ooyj0cyaZC1C1C50iegQagHpzJwfufgxOoJoO9gIj181Za9VBFGmeHVqLBCl0iEkrJndr13/9KTMT6fFz8MWyMLIab/nPFrQdXBR2R4Cjm4mB6XlD6JU+J14tOZik73amkWsmlc3gGawKvdFuSUSPFaHsHJUPcRiN635ZUcBZ1gUk1xXEUiAHG9U0aaA7put4j6cNJtTkD25oisVj3sUwqCeWAz3HEp+SXnledf7pEHKPPmQb/oAjLUTpynT3ZPA8mjIy3qta4R3nitj8GvL4K5F3aQSNj0/GI3oNhBsjCWvpETPQVJHsUryX5YJROpLy7i8+6J1aKz1ny+GYXN93nx+3l1EpuvpJPZhVkQ4dqBgqnKRxvsht3C/SPdXaZFw5OEDjVwlIVu823vC7hMUq6qHmzrlL60gJ9yoZpk1XM6UcMa6u6SCad6odxQhDfxsmkgBL8DU35m4lf73TII6dp+2mjkgsyDE74z5cbPMVpgEpmzIymN3mNC57YyCcpLw==;D7eyv4hk8jBzyoBzP/6+qQ=="
 ---
 

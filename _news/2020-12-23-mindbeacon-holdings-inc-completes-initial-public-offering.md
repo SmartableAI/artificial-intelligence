@@ -1,25 +1,30 @@
 ---
 category: news
 title: "MindBeacon Holdings Inc. Completes Initial Public Offering"
-excerpt: "Not for distribution to U.S. news wire services or dissemination in the United States TORONTO, Dec. (GLOBE NEWSWIRE) -- MindBeacon Holdings Inc. (\"MindBeacon\" or the"
-publishedDateTime: 2020-12-23T13:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/g18908940/mindbeacon-holdings-inc-completes-initial-public-offering"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/g18908940/mindbeacon-holdings-inc-completes-initial-public-offering"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18908940"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18908940"
+excerpt: "TORONTO, (GLOBE NEWSWIRE) -- MindBeacon Holdings Inc. (\" MindBeacon \" or the \" Company \") (TSX: MBCN) announced today the successful closing of its previously announced initial public offering (the \" Offering \") pursuant to which it and TELUS Corporation,"
+publishedDateTime: 2020-12-23T09:13:00Z
+originalUrl: "https://www.marketwatch.com/press-release/mindbeacon-holdings-inc-completes-initial-public-offering-2020-12-23-91841327"
+webUrl: "https://www.marketwatch.com/press-release/mindbeacon-holdings-inc-completes-initial-public-offering-2020-12-23-91841327"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "WqZPwahb0NEYHITsSgk8OkmH4clxRmaEHAiRObdZx2XEA3BcU3O3trAsXcUCtpnNRRAjVnEUSc+wLshuHWnkjDsIhtHWlZy85yOjM4+i4BiHJE7FSVxGG/5i5PqZ3OA0tTR8dEde/h7S2pUKa+gTJHAZaO0SdLU/WT6ttKMn8pwSDupFytMUpXjJiJ2aPEA/jeCAl2M6/gV9Hj8T/PN8mIEizSWXf7i2y32Zv5JLxWYDhTS1QKEwetX0nW9asq48GrsAl6XI11087lC8fSZwZgpv1YlyrJZu/Fb5+89f7DeT/hTB32ez8bkmlvygrapKuGcTbtJXHWgSsqb05BbAYE8gVYHEZzBP2hR8L7N140Q=;Ha8dG61rsd0i0Lo7OCDSGA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "V1xtGfmnThwxt4LY2xPF5FqDL8P6yakcjRqXsVrJxz2dave3H0Hde+YQnKlDzCPh+NPTIYck8PCuv1UKJZKtxH3ZwkAVlAJeZEMdwt/NjmRt6WiuJrJ2VfEtk0Rom4Z128JpKIaDddKfwv7LtATa2vHnYPA+E7dygwi9BweHQMach2btJX9zBPzpdlpuusdxlknkdokt20lwyl5iPeQZvNhZ+DUiCOPeYrUzZ0ganA5V7A0/vi+E4YbVqHINL3NRH6/09RB/BqFG0TTGVJNaAsP6BwSLJX4mNQHHhxTjAGBJUFEregClS/3Gi0O11aZ4lNZHhETD6x3pp3aXIXbIT53beKjjPRfsrTNobdPWY3k=;ruzHfIQY7Hmx2m21sF36qQ=="
 ---
 
