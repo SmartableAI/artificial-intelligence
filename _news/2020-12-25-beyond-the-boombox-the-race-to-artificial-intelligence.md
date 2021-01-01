@@ -3,8 +3,8 @@ category: news
 title: "Beyond the Boombox: The Race to Artificial Intelligence"
 excerpt: "A “boombox” was an oversized, battery-powered, portable music machine; it is an artifact of a very particular time in American culture, re"
 publishedDateTime: 2020-12-25T10:00:00Z
-originalUrl: "https://www.moneyshow.com/articles/dailyguru-55707/"
-webUrl: "https://www.moneyshow.com/articles/dailyguru-55707/"
+originalUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
+webUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
 type: article
 
 provider:
@@ -12,7 +12,6 @@ provider:
   domain: moneyshow.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -21,6 +20,6 @@ images:
     height: 370
     isCached: true
 
-secured: "XcAB5tDRVz8R0MWnR1UcQinEQ2aiVIsMVtwHLIkqcvGvqQqEF1weFfrs53NvrzRdWCoocIbUeFYsxruqlqm/+7DvHx18yUArdAU3w6oa3yMYvaD0Hpc/7/0NVh2jhCQMLnCm7sIZXiiMuYYzWtJxL3JBTnJO8w8cdaI0UEJt8fgkPD/c93oowDo1uZOKihnLsC9UZ6A+CUCrKaI94BTvxt9ipStPGztxU2kQQ6dYJA6MgaInuXVnmN++z63HOix1NmmZe7eh8tjl3fyXcQ67OpZ0Cl8ODdpSbKnzU0Cg3sVARuuIn12apWtORjdNTJ2Gaef7fzOO+OorGa2mIfKhvkkDJ08vLeEaCuH3NDJQORkG1C0k1/h+iOQhPH2uGhnKe/PUU1lWenX8s2pOoGSCnX4n1LYbeo7tlLyo1TMo6FMdtagET4fQuLp2j24rsjFfguNhBOci3bFdS0kZzle4Jz8p9yZfdyNwGP+CP4LVK0AHpRsiYkZ/muy7T20wfs7i63QY1sIFRJlExKL8I7bPmQ==;1AMbrX0NeFclk4WYbjI5Bw=="
+secured: "evp+Tbgjh0I57oiLNCgWGqesongvQLuAlNlLC0XsSxAn80nEYeBC3FoI7/Pn0I8meEJt12fIPXsEhNu98VRML9okL/Sw5lIuxYmBCmAvmo7nZ+beLVtlpf3WUjzqfXJ0iWGt3EpgK6JP4Tki4/8PhQPpURN1OUNUIjUVv0Cyt7HaPBCZB4gRgycRN2zZFLtdtM+Nof8dW07iZSqDxPLWreRShTxfSaXhx8F2DwUDr5LAfcx8uURXq6hgIHjjw2mj4LXa9VAbcmTOjsBdTZi3qvsKu7Zf985cO+GYhix4X27NAvPa1Jcfegn6+FhXGHvqJfG4twHHLf+wx6bsUl40PlXO6QZs7yS1dmSOc80J6js=;ODZux065IW6qDpGsg8C3hw=="
 ---
 

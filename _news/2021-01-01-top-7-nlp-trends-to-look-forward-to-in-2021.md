@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Blog: The 2021 BFSI workforce needs an upgrade of fintech"
-excerpt: "The need for skill upgrades in the tech space gets intensified in light of the possibility that failing to bridge the skill gap can make BFSI companies suffer from a shortage of tech-efficient mid-car"
-publishedDateTime: 2020-12-30T01:35:00Z
-originalUrl: "https://www.peoplematters.in/blog/life-at-work/the-2021-bfsi-workforce-needs-an-upgrade-of-fintech-28016"
-webUrl: "https://www.peoplematters.in/blog/life-at-work/the-2021-bfsi-workforce-needs-an-upgrade-of-fintech-28016"
+title: "Top 7 NLP Trends To Look Forward To In 2021"
+excerpt: "NLP has continued to show some very encouraging developments. We attempt to predict what NLP trends will look like in 2021."
+publishedDateTime: 2021-01-01T07:32:00Z
+originalUrl: "https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/"
+webUrl: "https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/"
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: People Matters
-  domain: peoplematters.in
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1609165288/ad-ernpuhyd.png"
-    width: 990
-    height: 550
+  - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NLP_AIM.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -103,20 +104,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Top 7 NLP Trends To Look Forward To In 2021"
-    excerpt: "NLP has continued to show some very encouraging developments. We attempt to predict what NLP trends will look like in 2021."
-    publishedDateTime: 2021-01-01T07:32:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NLP_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
     excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
     publishedDateTime: 2020-12-31T11:54:00Z
@@ -148,6 +135,20 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2020-12/15fbb897-4bdc-435c-b66a-39605d0bcc38/pexels_sora_shimazaki_5926395.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Blog: The 2021 BFSI workforce needs an upgrade of fintech"
+    excerpt: "The need for skill upgrades in the tech space gets intensified in light of the possibility that failing to bridge the skill gap can make BFSI companies suffer from a shortage of tech-efficient mid-car"
+    publishedDateTime: 2020-12-30T01:35:00Z
+    webUrl: "https://www.peoplematters.in/blog/life-at-work/the-2021-bfsi-workforce-needs-an-upgrade-of-fintech-28016"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1609165288/ad-ernpuhyd.png"
+        width: 990
+        height: 550
         isCached: true
   - title: "The Top Trends In The Fintech Sector In 2021"
     excerpt: "Fintech has made normal users fall in love with the ease and convenience of banking and finance. The sector is set up for a major uplift in 2021 and we are going to help you know more in this regard."
@@ -222,6 +223,6 @@ related:
         height: 600
         isCached: true
 
-secured: "37Qduly7mooLV1d2t/FL6QWihW7nNSbhlnv3yoqedU3CdvsBqLMjCdwqap2ZjlzDRbzZIZ1nOTIrL/f1mjsGAObhZJArSZ22TcJTRgJPavO4kpO1nxB659zH3Tqd1pyHpGMc/m5qZpm0ro9JpbEBaGYPK5Br09IIqDMP53ch6fQ9Q99civP/lmPqcNcVoe97uOCqhQ9dkCA75eXV6rzTKRY6ClqFvZI6bR2guXZaZ2xCUjPRWExsh/l+djkAyxVOS2+lHxXgFx4G7XDw954oeC5pc3dIBGj8Ywpwx/79ifoLMOcIi4F5OAEGZqIFe690Hh4x/1kA0vIBfdq0Hjx8DqomZRqVbBPwr2DBAuijOgwIYijjqgz06UBvOC6osJNEcL2Gf/0dYXqdOMOxX8Y1010T+86I9Cr/NDN9jrgIfszAJEx8U7Id4evqSQA53m9t62XQJbf5cstFqxGW61H/i/NwkaxVbCxmdJ2GRdDuai/VKrF3fo/robsudrPD+QvG0d2j2I4QtHqcYD4c9O0q/w==;QSNXZMYIVn3/7h7bGTlr5w=="
+secured: "2x1ADoNEC3+Cav/WivV9cSrByC5YYHY0DyX65SZ2xeCJOayhMqpnZiGf/Z9sRK6zJ/b3SBF+B8PBfxiy9TX2ThJRNUzOUCUtCEca4EDeR8ME/zxu9ImBkcl++4Aff+D3ptoJxgO4Hok2vpgGIGh7tj4x9HFXBPikn5RbTRlLXv6Y/0JAvhBFxp/U4PbYJcvYnPYeaZx9oOU1fKsRfXKvW8V4o2qE37VkyUsf1PQijJHsvRkX18CLn2MKpH6BtQPofQdEr5sCBZAfRghNV3EpOa7oo8soQuFMdvp9hdEsjLS/sDtbzG/AujgsxB0KFNTqYtj6/5XykWkph0+2I6R8x06iBsXE/6KnV81VkQFFhZk=;iyx+K60tsVo1ojQIS8vpQg=="
 ---
 

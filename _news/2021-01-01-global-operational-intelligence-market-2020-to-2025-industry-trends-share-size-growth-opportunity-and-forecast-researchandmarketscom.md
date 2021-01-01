@@ -1,34 +1,38 @@
 ---
 category: news
-title: "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
-excerpt: "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,"
-publishedDateTime: 2020-12-28T03:08:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28"
-webUrl: "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28"
+title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
+excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
+publishedDateTime: 2021-01-01T08:36:00Z
+originalUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
+webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
 type: article
-quality: 56
-heat: 96
-published: true
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AI Hardware
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
+  - title: "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,"
+    publishedDateTime: 2020-12-28T03:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Contact Center AI Software Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
     excerpt: "Global Contact Center AI Software Market Growth (Status and Outlook) 2020-2025 is the latest market report rolled out by MarketandResearch.biz, one of the world’s leading market research firms. The report contains a detailed description of all the major market components such as global status and trend,"
     publishedDateTime: 2020-12-29T21:59:00Z
@@ -71,16 +75,7 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
-    publishedDateTime: 2021-01-01T08:36:00Z
-    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
-secured: "ajcYVe4rbCbBFxFKIUcOMVL/uuStqxyRqRYNX3WO7loVcHgA4OWG0Gc+nwm7oGVj6y2j7Rz7U+qvgmILaFRG806hXbNiHpL13xQyi+U+q5kxoULPJMdSwtSQyQyALPHcz8rWxMcpU4tibeCaH0LHQCzdjzbVLBYWCQawBNaFK+Qo7dT73EduUXj2bUBSTRDpB9xAfztHaGGhSt5UjUNBPtcGHjzbdlx5bCIfLh2q4hEY3Vzm3gl3YU343OWfPU1EHbxKjO56SVr+5xJLcHYp+tUtAqWwjjqSSHngDICNUM9eleK2eUOn/EjZNPMTbBVMG4CJvPV2WXR75Rwi81aTv+4OXchjbSmMd8xe+Di++Uk=;BXjTwO52UqS/fvld3qU/zA=="
+secured: "YIgrQYROLQrbCkV9Xvs0w7Wk6UtMNh4KYHFnc5T804H0tDxcEI/zOfxaQcUeYLxiWDI2/EREQwy5sr/wx1v9SUphxWT64kFD9ZXJmONCAW+CAI2JzZiN8uJjfa7xzOHRe1umv8kK1ZqVyM9TxRAm/rsbwvFtMAM2eSMpO0roEW5eRt9toQ6LZSnEwSTY5mtNpnWnk0FlbXRHqojwxUrY/ExZU6aBMgP7iTvKCsiEE4gVRiUylBXt1fP1SOWntthnvj0GYun98D1ZFeVz5z9adxd2kZSh+6mCoPyjOFC3d3DNA0Mjfe7i9p77A5kABk5vd8vcW4aemQDE4pC6lhvOMbOUcak0gfbYGk6WZBwgJoU=;kvXQXzzEArzW1PLEJAyfvw=="
 ---
 

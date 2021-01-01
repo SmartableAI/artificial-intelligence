@@ -105,6 +105,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Top 7 NLP Trends To Look Forward To In 2021"
+    excerpt: "NLP has continued to show some very encouraging developments. We attempt to predict what NLP trends will look like in 2021."
+    publishedDateTime: 2021-01-01T07:32:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NLP_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
     excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
     publishedDateTime: 2020-12-31T11:54:00Z
