@@ -23,17 +23,6 @@ images:
     height: 355
     isCached: true
 
-related:
-  - title: "HBKU College research uses AI for football success"
-    excerpt: "Researchers at the College of Science and Engineering (CSE) at Hamad Bin Khalifa University (HBKU) have developed an innovative artificial intelligence (AI)-based model to analyse and improve players' performance in professional football leagues."
-    publishedDateTime: 2020-12-27T18:34:00Z
-    webUrl: "https://www.gulf-times.com/story/681228/HBKU-College-research-uses-AI-for-football-success"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 17
-
 secured: "VJ9dMIyJICr0URHf3SkHlvj+Cx7znmf9CwTX/xMGtM1ZKTaMJ9uMa0Plk77OnxnHNskgMK8atCRBpeZSahcBNBvgBol9yOLQ6E05EIG2/oQxSKe9aF1vV1OOBr/KfnavGuoWSh1m82tycBdlUG1R0Q+Zw5ubnHjk6rzSsWvpqPyG3ViRp74Nd84dLmNDH6UzVNaSSpG8clAR36a18aDsBY9XCwKqC5XFm6DqxsT0vk7UiCBXLPrjVMG1qdubGM5bZnzIZgkcwDKKHen2u609Zm+NwT5o4o/tr1CS31mcUoRw4WbjUw/06XP3b/F1CBOOOYOG8OZm2ZTlP6LSXOqPfRabfaMnPnNewKBR3n9J0Ng=;fhhBVonqaZOMLyiOVc9wYA=="
 ---
 

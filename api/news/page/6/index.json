@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
+      "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
+      "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
+      "publishedDateTime": "2020-12-23T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-tiktok-parent-bytedance-hiring-for-ai-drug-discovery-team.md",
+      "title": "TikTok parent ByteDance hiring for AI drug discovery team",
+      "excerpt": "ByteDance, TikTok’s Chinese parent company, is entering the health industry as it seeks to diversify a business dependent on advertising and livestreaming sales. The company, which prides itself on content algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
+      "originalUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/06/33602814_7750651a44_o-e1608724710523.jpg?w=800",
+          "width": 800,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
+      "publishedDateTime": "2020-12-23T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas.md",
       "title": "AI-driven energy startup Octopus hits $2Bn mark after $200M investment from Tokyo Gas",
       "excerpt": "Octopus will now launch as a brand in Japan with its trademark 100% renewable electricity operation which uses an innovative AI and data-based platform to balance loads around the grid.",
@@ -1115,101 +1219,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-apple-and-others-are-coming-for-tesla.md",
-      "title": "Apple and Others Are Coming for Tesla",
-      "excerpt": "Google parent Alphabet has a self-driving car business, Waymo. Baidu, the Google of China, is also thought to be planning an EV. Baidu might be looking at the valuation NIO and other Chinese EV ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "originalUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-270718/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "publishedDateTime": "2020-12-22T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-ouster-maker-of-self-driving-tech-agrees-19-bln-deal-to-go-public.md",
-      "title": "Ouster, maker of self-driving tech, agrees $1.9 bln deal to go public",
-      "excerpt": "(Reuters) - Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp. The deal values ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
-      "originalUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545432002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28W1D3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W1D3",
-      "publishedDateTime": "2020-12-22T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

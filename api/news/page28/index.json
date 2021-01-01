@@ -2,6 +2,110 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-12-07-we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work.md",
+      "title": "We can reduce gender bias in natural-language AI, but it will take a lot more work",
+      "excerpt": "If we know our models learn bias from data, perhaps de-biasing data is the best approach to solving the problem.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/",
+      "originalUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/gender.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/amp/",
+      "publishedDateTime": "2020-12-06T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-alphabets-deepmind-ai-has-solved-the-protein-folding-problem-that-could-aid-medicine-research.md",
+      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\" that could aid medicine research",
+      "excerpt": "TL;DR: DeepMind Technologies, a research lab in the UK owned by Alphabet, has developed an AI that can determine the folded shape of a protein in a matter of hours, which would typically require ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "publishedDateTime": "2020-12-06T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-panasonic-reveals-autonomous-wheelchair-and-wearable-robot-at-gitex.md",
       "title": "Panasonic reveals autonomous wheelchair and wearable robot at GITEX",
       "excerpt": "Panasonic is showcasing its autonomous wheelchair, PiiMO, which features object recognition, autonomous driving and controls via an app. Another Panasonic highlight at GITEX is the ATOUN MODEL Y, a high-tech wearable power assist suit that alleviates work ...",
@@ -1101,101 +1205,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio.md",
-      "title": "Language Services Market | Globalization of Businesses to Boost the Market Growth | Technavio",
-      "excerpt": "The language services market is expected to grow by USD 9.72 billion during 2020-2024. The report also provides competitive insights into the market impact and new opportunities created due to the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-getting-there-structured-data-semantics-robotics-and-the-future-of-ai.md",
-      "title": "Getting there: Structured data, semantics, robotics, and the future of AI",
-      "excerpt": "Leveraging structure in data is key to making progress in AI, says AI prodigy Gary Marcus. A forward-looking view on Software 2.0, AI chips, robotics, and the future of AI",
-      "sourceUrl": null,
-      "webUrl": "https://montrealartificialintelligence.com/aidebate2.html",
-      "originalUrl": "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://montrealartificialintelligence.com/aidebate2mosaic1440x720v8.jpg",
-          "width": 1440,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

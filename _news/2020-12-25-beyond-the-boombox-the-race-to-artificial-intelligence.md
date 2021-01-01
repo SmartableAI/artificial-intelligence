@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_06_lrg.jpg"
@@ -20,6 +21,6 @@ images:
     height: 370
     isCached: true
 
-secured: "evp+Tbgjh0I57oiLNCgWGqesongvQLuAlNlLC0XsSxAn80nEYeBC3FoI7/Pn0I8meEJt12fIPXsEhNu98VRML9okL/Sw5lIuxYmBCmAvmo7nZ+beLVtlpf3WUjzqfXJ0iWGt3EpgK6JP4Tki4/8PhQPpURN1OUNUIjUVv0Cyt7HaPBCZB4gRgycRN2zZFLtdtM+Nof8dW07iZSqDxPLWreRShTxfSaXhx8F2DwUDr5LAfcx8uURXq6hgIHjjw2mj4LXa9VAbcmTOjsBdTZi3qvsKu7Zf985cO+GYhix4X27NAvPa1Jcfegn6+FhXGHvqJfG4twHHLf+wx6bsUl40PlXO6QZs7yS1dmSOc80J6js=;ODZux065IW6qDpGsg8C3hw=="
+secured: "w6g0h9NAazw7NYgvPZBaEPgp3cnGk3zas34NbsVCBHkurTZpKGvEQwER8l76nFQsiQpG1bcDLdcPdJND2Xtdw75lTQc+3NFLJ5/3mwF1j6NP/84wAFVYglRnEMkLQkCi6Lxp+YdDse45Xwqq1TTrjQ2ezCz0Qqk4GD2fMWw/Lth79jBCETY38vd9AJ/ukkSCSygYulkueMMkBe49bd6JOffLwO/p2luW/hfFtz9J5Av7RdpnzFhuGg/mdm2EUYDEMiNgtCbeNfYl59/6jlCTDNeV+GibK957E7+y/kyTg8TwuvBvUcsBYECbzubfBcEloq0TZiUezRvzviniVmeIN3vqTnioBstOIXcYQPXpEW5IOkvbVHGsl6lrlyR56Fomg7SG8H9rAhuvYNwEthimQjDw6UdHKk4k4+9Ut6okwwpsjL3zyobHM6NajW+F8cxlil8GXWEQTHswwIzjP+/p2/NmeFEjZVe9Ud03yw/LFpt9Y7XUFkmmFIxBrBh2mckdaN3NV0czO6wWOi4mIpRkCg==;wYizogYZIey0oWIkUwbJdg=="
 ---
 

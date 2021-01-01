@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-21-bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning.md",
+      "title": "Bolt raises $75 million to fight ecommerce fraud with machine learning",
+      "excerpt": "Its machine learning algorithms analyze over 200 variables on each transaction, and a dedicated team reviews every declined transaction. Customers flagged as potentially malicious are afforded the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/https___specials-images.forbesimg.com_imageserve_5f103274ae07b50006534ccd_0x0.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
+      "publishedDateTime": "2020-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-chinas-new-data-privacy-law-will-state-how-facial-recognition-can-be-used.md",
+      "title": "China’s new data privacy law ‘will state how facial recognition can be used’",
+      "excerpt": "Personal Information Protection Law will allow use of facial biometrics only for specific purposes and when ‘sufficiently necessary’, legislative body says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "originalUrl": "https://www.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/21/d670789e-4367-11eb-be92-09cd005df0bf_image_hires_193039.jpg?itok=POA13Q6F&v=1608550249",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3114829/chinas-new-data-privacy-law-will-state-how-facial-recognition",
+      "publishedDateTime": "2020-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-the-morning-after-teslas-self-driving-subscription-slides-to-2021.md",
       "title": "The Morning After: Tesla's self-driving subscription slides to 2021",
       "excerpt": "If, say, a friend of yours is still in need of last-minute shopping information, or you just want to double check what’s out there, the Engadget Holiday Gift Guides for 2020 are here to help.",
@@ -345,24 +449,15 @@
     {
       "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
       "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in",
+      "excerpt": "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "webUrl": "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services",
+      "originalUrl": "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -370,8 +465,8 @@
       "publishedDateTime": "2020-12-21T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -381,9 +476,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1067,91 +1161,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-element-ai-sold-for-230-million-as-founders-saw-value-mostly-wiped-out-document-reveals.md",
-      "title": "Element AI sold for $230-million as founders saw value mostly wiped out, document reveals",
-      "excerpt": "Tides turned fast for former domestic darling that just four years ago burst onto the tech scene promising to anchor a thriving domestic AI sector",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/Xe89nLDKykN61L6kb2S375e9ryQ=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/K5O5GVZWYJPNPDA6JF46EDBN7A.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-alibaba-facial-recognition-tech-picks-out-uyghur-minorities.md",
-      "title": "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities",
-      "excerpt": "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipvm.com/reports/alibaba-uyghur",
-      "originalUrl": "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg",
-          "width": 903,
-          "height": 1177,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

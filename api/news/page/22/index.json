@@ -2,6 +2,83 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-10-the-apple-car-is-now-officially-an-artificial-intelligence-project.md",
+      "title": "The Apple Car Is Now Officially an Artificial Intelligence Project",
+      "excerpt": "This fall has seen a fantastic array of new products from Apple, ranging from new Apple Watches and iPads to the 5G iPhone 12 lineup to the insanely",
+      "sourceUrl": null,
+      "webUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
+      "originalUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/10/19102529/Apple-Concept-Car-2.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
+      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
+      "publishedDateTime": "2020-12-09T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iDrop News",
+        "domain": "idropnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
+      "excerpt": "Amazon SageMaker Feature Store delivers a purpose-built data store for storing, updating, retrieving, and sharing machine learning features Amazon SageMaker Pipelines gives developers the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201208005335/en/AWS-Announces-Nine-New-Amazon-SageMaker-Capabilities",
+      "originalUrl": "https://www.businesswire.com/news/home/20201208005335/en/AWS-Announces-Nine-New-Amazon-SageMaker-Capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy.md",
       "title": "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy",
       "excerpt": "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,",
@@ -1041,92 +1118,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-02-higher.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.2% Higher",
-      "excerpt": "Shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) traded up 0.2% during mid-day trading on Tuesday . The stock traded as high as $48.63 and last traded at $48.55. 27,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html/amp",
-      "publishedDateTime": "2020-12-09T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-fords-self-driving-vehicles-deliver-food-school-supplies-to-families-in-need.md",
-      "title": "Ford's self-driving vehicles deliver food, school supplies to families in need",
-      "excerpt": "As Ford Motor Co. prepares to launch a commercial fleet of self-driving vehicles, it's learning from recent experiences using autonomous vehicles to deliver food and school supplies to families in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/ford/2020/12/07/ford-using-self-driving-vehicles-deliver-food-families-need/6479794002/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/ford/2020/12/07/ford-using-self-driving-vehicles-deliver-food-families-need/6479794002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/PDTN/675877de-f94c-4f1e-a40a-9b3d7a935687-Ford_Education_Fund_1.jpeg?auto=webp&crop=6239,3509,x1,y483&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/6479794002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6479794002",
-      "publishedDateTime": "2020-12-09T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

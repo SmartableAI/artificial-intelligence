@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-27-the-state-of-data-december-2020.md",
+      "title": "The State Of Data, December 2020",
+      "excerpt": "Data is eating the world and there are many indicators of its ubiquitous presence in our lives: AI, digital transformation, data monetization, and the effect of Covid-19 on the accelerated growth of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe7f42408a95af377c504ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/amp/",
+      "publishedDateTime": "2020-12-27T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19.md",
       "title": "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19",
       "excerpt": "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues",
@@ -473,7 +525,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -948,57 +1001,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-google-told-scientists-to-use-a-positive-tone-in-ai-research-documents-show.md",
-      "title": "Google told scientists to use 'a positive tone' in AI research, documents show",
-      "excerpt": "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
-      "originalUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe492abedf8920018093a2c?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp",
-      "publishedDateTime": "2020-12-24T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

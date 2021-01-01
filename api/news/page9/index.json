@@ -2,6 +2,91 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-19-element-ai-sold-for-230-million-as-founders-saw-value-mostly-wiped-out-document-reveals.md",
+      "title": "Element AI sold for $230-million as founders saw value mostly wiped out, document reveals",
+      "excerpt": "Tides turned fast for former domestic darling that just four years ago burst onto the tech scene promising to anchor a thriving domestic AI sector",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
+      "originalUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/Xe89nLDKykN61L6kb2S375e9ryQ=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/K5O5GVZWYJPNPDA6JF46EDBN7A.jpg",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-alibaba-facial-recognition-tech-picks-out-uyghur-minorities.md",
+      "title": "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities",
+      "excerpt": "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipvm.com/reports/alibaba-uyghur",
+      "originalUrl": "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg",
+          "width": 903,
+          "height": 1177,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosecurity-magazine.com",
+        "domain": "infosecurity-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier.md",
       "title": "Sony AI launches its Gastronomy Flagship Project to make the world a bit tastier",
       "excerpt": "Sony AI recently announced its Gastronomy Flagship Project, an AI-powered initiative built on “enhancing the creativity and techniques of chefs around the world.” This might sound like a small-potatoes problem compared to self-driving cars,",
@@ -1133,92 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-indigrid-collaborates-with-ibm-for-digital-transformation-of-critical-power-infrastructure.md",
-      "title": "IndiGrid Collaborates with IBM for Digital Transformation of Critical Power Infrastructure",
-      "excerpt": "IBM and India Grid Trust have announced a multi-year collaboration agreement to build artificial intelligence AM platform. IndiGrid will deploy a hybrid cloud solution with IBM Maximo Application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/indigrid-collaborates-ibm-digital-transformation-critical-power-infrastructure/",
-      "originalUrl": "https://www.ciol.com/indigrid-collaborates-ibm-digital-transformation-critical-power-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T22:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-google-expands-languages-push-to-serve-non-english-speakers-in-india.md",
-      "title": "Google expands languages push to serve non-English speakers in India",
-      "excerpt": "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
-      "originalUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
-      "publishedDateTime": "2020-12-17T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

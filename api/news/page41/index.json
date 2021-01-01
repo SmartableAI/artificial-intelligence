@@ -2,6 +2,101 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-11-26-the-10-coolest-ai-chip-startups-of-2020.md",
+      "title": "The 10 Coolest AI Chip Startups Of 2020",
+      "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg",
+          "width": 399,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition.md",
+      "title": "This AI tool generates your creepy lookalikes to trick facial recognition",
+      "excerpt": "If you’re worried about facial recognition firms or stalkers mining your online photos, a new tool called Anonymizer could help you escape their clutches. The app was created by Generated Media, a startup that provides AI-generated pictures to customers ranging from video game developers creating new characters to journalists protecting the identities of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-26T115747.122-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
+      "publishedDateTime": "2020-11-26T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-playing-psychotherapist-to-a-troubled-ai-in-syntherapy.md",
       "title": "Playing psychotherapist to a troubled AI in 'Syntherapy'",
       "excerpt": "Set about 20 years in the future, the game’s narrative is told from the vantage point of Melissa Park, a psychotherapist. The AI, named Willow, feels overwhelmed. The team is torn over whether the illness is a technical issue or an emotional one.",
@@ -1031,109 +1126,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant.md",
-      "title": "Beeb, how do you build the world’s first public service voice assistant?",
-      "excerpt": "The post Beeb, how do you build the world’s first public service voice assistant? appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
-      "originalUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/11/BBC.png",
-          "width": 640,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T08:27:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-castai-nabs-77m-seed-to-remove-barriers-between-public-clouds.md",
-      "title": "Cast.ai nabs $7.7M seed to remove barriers between public clouds",
-      "excerpt": "When you launch an application in the public cloud, you usually put everything on one provider, but what if you could choose the components based on cost and technology and have your database one place and your storage another?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1280133461.jpg?w=1024",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/amp/",
-      "publishedDateTime": "2020-11-25T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

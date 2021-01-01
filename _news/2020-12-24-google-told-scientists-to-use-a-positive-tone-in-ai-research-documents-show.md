@@ -1,50 +1,32 @@
 ---
 category: news
 title: "Google told scientists to use 'a positive tone' in AI research, documents show"
-excerpt: "Google launched a \"sensitive topics\" review that forces researchers to consult with legal and public relations teams before pursuing research."
-publishedDateTime: 2020-12-24T13:50:00Z
-originalUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
-webUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12"
-ampWebUrl: "https://www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020-12?amp"
+excerpt: "The company requested authors refrain from casting its technology in a negative light in at least three cases"
+publishedDateTime: 2020-12-23T19:16:00Z
+originalUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+webUrl: "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone"
 type: article
-quality: 83
-heat: 93
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.insider.com/5fe492abedf8920018093a2c?width=750&format=jpeg&auto=webp"
-    width: 750
-    height: 562
+  - url: "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2"
+    width: 600
+    height: 360
     isCached: true
 
-related:
-  - title: "Google tightens grip on research on “sensitive topics”"
-    excerpt: "Google currently faced some backlash and is under fire for pushing out a researcher whose work pointed out the bias in AI. Addition review required."
-    publishedDateTime: 2020-12-26T02:45:00Z
-    webUrl: "https://techstory.in/google-tightens-grip-on-research-on-sensitive-topics/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2020/12/saupload_google2.0.0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "6upqjL73CCb/zhyRdEFPEOOTH4ZBfEXs0wPTfjNhGJH2PzlevIseBxpaPY/1ekm2ESPZQni/Y3H807xbvG7tCJ51sWxFlAeca9PIQ/+EtXrQz5dH4A31VPYugpqkZSCgW1KqaU1f84H0NkKtI5ueRiR1lftQOlvP6kI9T9ByeXJBQamEXbC1UEkvfaiquxF2baAtj0ph8xbeQk6fiomQJXxs3LHjGbs9wLKNngFVmgjwvVReqQZF5hsqA2c9qyYqnd3QhdrbcsXG5iiTty3boq9P4Dq/rCXjCkWe2VmrQfbWopa7nVl+MBqLvYDmwhtIu4IP6AoLf0s6tPpfU1q85WQGIyNrTt0JeteNfvX5XhbsD5tbArKE/ud+LgSm7G100AsZzJy+WS0StyYUHzJVhNQMgjjzB1xsimFCe3xmkDuw+gg5rFWpru18JDxwAGQutG1hoYZ4pZsRab98RxNFd9sviarMugRAmD/2ur47TrSq8de1sN+voHS6rJAomDGsHa0A5KH1rjkLaciMKVhiiA==;Fu72Sti7U3jTiBy9ZS1fMg=="
+secured: "jNQbXirA9Nz25QZLhmGyxfbe7GwAPPXpun0X1tjlE1r/fKWHTSa5PtD2Xuwfr8h+Bb/9R5fyK62adKl7WUbu2rwMBBvAx2LN+vqHfOOANAGgjJgbSGxfg278m2exiT40RJiHBjVpfv2CH+VZxM3j2ulr6iQTUOfcbY9IhTb8w/fRRxUmsqJ5QsckhgiNKilU6lxK+9US/hgbh2e3JqGQ45USd/jbXC8PQiRRr+icSCs7vllmem7SZNsIwllSPyTseCD5ZaiiF4TNKtcp6YxzSshJN5uy/9lFEkJnDL7eXg8G2e/++10kqrpibsDWdbbaBAVKYNDg0YIOs0EJbpkB31fwPaf/YJKyVXhXbTXdpLY=;Hn9vnv2QuWMsThTi9U6Olg=="
 ---
 

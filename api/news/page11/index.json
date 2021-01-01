@@ -2,6 +2,83 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-18-google-waives-15-billion-deepmind-loan-as-ai-costs-mount.md",
+      "title": "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount",
+      "excerpt": "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work",
+      "publishedDateTime": "2020-12-17T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-shell-and-equinor-collaborate-for-inventory-optimization.md",
+      "title": "Shell and Equinor Collaborate for Inventory Optimization",
+      "excerpt": "Moreover, the tool incorporates new features, including Microsoft’s Azure Machine Learning, Azure Databricks and Azure Datalake, to optimize its algorithm for an improved user experience and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/shell-and-equinor-collaborate-for-inventory-optimization-2020-12-17",
+      "originalUrl": "https://www.nasdaq.com/articles/shell-and-equinor-collaborate-for-inventory-optimization-2020-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/shell-and-equinor-collaborate-for-inventory-optimization-2020-12-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/shell-and-equinor-collaborate-for-inventory-optimization-2020-12-17?amp",
+      "publishedDateTime": "2020-12-17T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
       "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
       "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
@@ -541,18 +618,18 @@
     },
     {
       "path": "_news/2020-12-17-global-artificial-intelligence-in-healthcare-market-forecast-to-2027.md",
-      "title": "Global Artificial Intelligence in Healthcare Market – Forecast to 2027",
-      "excerpt": "WiseGuyReports.com adds \"Global Artificial Intelligence in Healthcare Market Research Report 2020 Analysis and Forecast 2027\" reports to its database. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make ...",
+      "title": "Global Artificial Intelligence in Healthcare Market - Forecast to 2027",
+      "excerpt": "the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18827297/global-artificial-intelligence-in-healthcare-market-forecast-to-2027",
+      "webUrl": "https://menafn.com/1101293130/Global-Artificial-Intelligence-in-Healthcare-Market-Forecast-to-2027",
+      "originalUrl": "https://menafn.com/1101293130/Global-Artificial-Intelligence-in-Healthcare-Market-Forecast-to-2027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.abnewswire.com/uploads/1608137550.jpeg",
+          "url": "https://menafn.com/updates/pr/2020-12/16/G_7a418964-2image_story.jpeg",
           "width": 278,
           "height": 333,
           "title": null,
@@ -562,13 +639,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18827297",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18827297",
-      "publishedDateTime": "2020-12-16T18:12:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T18:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1108,104 +1185,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy.md",
-      "title": "From whistleblower laws to unions: How Google’s AI ethics meltdown could shape policy",
-      "excerpt": "Unionization of AI ethics researchers and stronger whistleblower protections are being discussed two week after Google fired Timnit Gebru.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
-      "publishedDateTime": "2020-12-16T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

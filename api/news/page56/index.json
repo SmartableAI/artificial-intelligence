@@ -2,6 +2,83 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-11-17-nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for-desjardins-group.md",
+      "title": "NICE Actimize Chosen to Drive Modernization of Financial Crime Operations for Desjardins Group",
+      "excerpt": "NICE Actimize, a NICE business, today announced that it was chosen by Desjardins Group, Canada’ s leading financial cooperative with more than 7 million members and $300 billion in total assets, to provide modernization and expansion for the institutions’ financial crime compliance program and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for",
+      "originalUrl": "https://www.nasdaq.com/press-release/nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations.md",
+      "title": "Malbek Extends Contract Capabilities with Focus on AI and Integrations",
+      "excerpt": "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-help-your-organization-sprint-forward-using-ai-tech-sprints.md",
       "title": "Help Your Organization ‘Sprint’ Forward Using AI Tech Sprints",
       "excerpt": "One of the ways to promote the effective application of AI is through partnerships between the public and private sector, drawing upon the scale and infrastructure from the public sector and the agility and technical talent from the private sector.",
@@ -1089,102 +1166,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-deep-vision-announces-its-low-latency-ai-processor-for-the-edge.md",
-      "title": "Deep Vision announces its low-latency AI processor for the edge",
-      "excerpt": "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "originalUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "publishedDateTime": "2020-11-16T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-wovenware-named-a-strong-performer-among-computer-vision-consultancies-by-independent-research-firm.md",
-      "title": "Wovenware Named a Strong Performer Among Computer Vision Consultancies by Independent Research Firm",
-      "excerpt": "Wovenware, a nearshore provider of AI and digital transformation solutions, today announced that it has been named a Strong Performer in The Forrester New Wave™: Computer Vision Consultancies, Q4 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201116005822/en/Wovenware-Named-a-Strong-Performer-Among-Computer-Vision-Consultancies-by-Independent-Research-Firm",
-      "originalUrl": "https://www.businesswire.com/news/home/20201116005822/en/Wovenware-Named-a-Strong-Performer-Among-Computer-Vision-Consultancies-by-Independent-Research-Firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201116005822/en/839085/23/ww_logo_final_high_res.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

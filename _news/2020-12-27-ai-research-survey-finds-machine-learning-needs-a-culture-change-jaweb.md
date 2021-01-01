@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/AI-research-survey-finds-machine-learning-needs-a-culture-change.png"
