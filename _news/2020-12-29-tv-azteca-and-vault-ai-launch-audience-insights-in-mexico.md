@@ -22,17 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "TV Azteca and Vault AI Launch Audience Insights in Mexico"
-    excerpt: "TV Azteca, one of the two largest producers of Spanish-language television programming in the world, today announced that it is launching together with Vault AI, \"Real Unscripted\", a consumer insights prediction platform for unscripted content."
-    publishedDateTime: 2020-12-28T12:36:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201228in33956/tv-azteca-and-vault-ai-launch-audience-insights-in-mexico"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
-
 secured: "Sum0J/bIVEaF9TmbjBBcO1qzIuuJ73KmwMt8KePPWddlDUbZ/8zwjyntkuGnOwzS2aBYXimqrTiW5SM5O2HlcsdLLNIVcBOeQTdhm9jbCEHJiCPIXJfNSIjwgOJjhHmbfYaK6szJeKPiDnYW8uzGenq1lrEiYHsyLHfbu4ip5Nh1QOtMj3rawJcE0z3aKlW120Eu1SWwCr+3U5Gk2SqwnbFpy0jJ5kmAACaDpgWtej1CFA7XxKlZoBpTdWAxCXrIcWSmApNoxtizOZ8DnzJazG/1VhYSnrnNo8o5O6b/eaOspbKP994o+spBQm5NXLSiwZKEQWhCqs2wnvaPTU+QY5DisD1viHQ7QmlGYRohfn4=;PFicuEEdeUqDJh6inZpKNw=="
 ---
 

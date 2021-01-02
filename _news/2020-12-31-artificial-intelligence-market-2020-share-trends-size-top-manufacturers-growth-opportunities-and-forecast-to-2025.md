@@ -29,34 +29,44 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025"
-    excerpt: "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs."
-    publishedDateTime: 2020-12-28T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
+  - title: "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025"
+    excerpt: "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies"
+    publishedDateTime: 2020-12-30T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/c/Tc30902512_g.jpg"
+        width: 650
+        height: 350
         isCached: true
-  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
-    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
-    publishedDateTime: 2020-12-29T12:13:00Z
-    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
+  - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
+    excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
+    publishedDateTime: 2020-12-29T21:04:00Z
+    webUrl: "https://www.openpr.com/news/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    ampWebUrl: "https://www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
-        width: 1000
-        height: 667
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Artificial Intelligence Chipset Market 2020 Growth, COVID Impact, Trends Analysis Report 2026"
+    excerpt: "AI chipsets market size is expected to be valued at USD 7 6 billion in 2020 and likely to reach USD 57 8 billion by 2025 at a CAGR of 40 during the forecast period Artificial intelligence AI chipsets are"
+    publishedDateTime: 2020-12-31T11:48:00Z
+    webUrl: "https://www.openpr.com/news/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    ampWebUrl: "https://www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
   - title: "Global AI Adaptive Radio Intelligence Market 2020 Research Report With COVID-19 Update - Key Players Analysis, Growth Factors and Forecast to 2025"
     excerpt: "Global AI Adaptive Radio Intelligence Market Growth (Status and Outlook) 2020-2025 interprets market overview, value chain structure, industrial environment, regional analysis, applications, market size,"
     publishedDateTime: 2020-12-29T23:36:00Z
@@ -70,6 +80,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
+    publishedDateTime: 2020-12-29T07:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-north-america-south-america-72b2bc25587f46b38746bc62c3bb7048"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Facial Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
+    excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The global facial recognition market was valued at USD 4."
+    publishedDateTime: 2020-12-28T22:42:00Z
+    webUrl: "https://menafn.com/1101347647/Facial-Recognition-Market-Analysis-By-Industry-Size-Share-Revenue-Growth-Development-and-Demand-Forecast-To-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?730094"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "y5U+1CAV23WSdKucl4FH5Qbxl32zdFPk4lIb3MfTh0RWtaExw27DPifaVB4yzdZnyGi7m9fuJbmPVAMsg6MCczh9C41EPDH/Gr1hqQU9PFXmnKWBlFns5OgYGzc5NpAEr6U+WrHRujT4MT+jIjGM6mI05H7ERP7UG4PtaGT2tTB5HPGSWrqRoPS0tMQNaScAA9SzatQvskaHtaBqI/lMYi/yrbUJfJdO51/PfVVGDifl6y45XcjmUOaNHDYHKvamh73zsuAKJuFicOUkbzwvouuJyK0M3cMpq081RSa1r361CZ7mmVmWiGWPzZQmt6q2148rMMPY4Pqjk9dT6xd7hloGhU9GdkY1oOLVkzB0r+I=;aIyY4ELAP5NwmK+egotVpw=="

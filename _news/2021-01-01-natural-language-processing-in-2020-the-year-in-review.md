@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Top 7 NLP Trends To Look Forward To In 2021"
+    excerpt: "NLP has continued to show some very encouraging developments. We attempt to predict what NLP trends will look like in 2021."
+    publishedDateTime: 2021-01-01T07:32:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NLP_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Farewell 2020: Bleak, Yes. But a Lot of Good Happened Too"
     excerpt: "Here on the cusp of the new year, the catchphrase ‘2020 hindsight’ has a distinctly different feel. Good riddance, yes. But also proof of science’s power"
     publishedDateTime: 2020-12-30T14:12:00Z

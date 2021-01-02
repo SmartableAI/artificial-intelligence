@@ -9,7 +9,7 @@ ampWebUrl: "https://www.datamation.com/amp/applications/2021-the-year-ai-goes-ma
 cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/applications/2021-the-year-ai-goes-mainstream.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,47 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
+    excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
+    publishedDateTime: 2020-12-31T14:10:00Z
+    webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025"
+    excerpt: "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs."
+    publishedDateTime: 2020-12-28T14:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
+    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
+    publishedDateTime: 2020-12-29T12:13:00Z
+    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "jFJ2ijlLOefBUtLpdDBz7FRIwMe2aslwApMOHTA2GEcyi0QIxJbb57jpjdQNSxroBot8vtuigtG/JU/g8sqL9s6ic0mAahQpZqaHaw7MRCusW0AdM7W4UDy4N44gMsO4Row4kucPOZGdPiiL/VG0luIqvTIXLaue9L0yFu/d31JJdiG8jouAvMxUrbeXjI3tDFDGEmSE++HwQCyjSthMMvMUrfTuErepWo4DzUB8WE6RbKBkQTeA3Jw2IG/Z5cJHzCgFoST7F+jgZZ74giOqPIvE2yS1kgf50Fz7JgdX5DOnBUmOCHBjqjU7WewlWkWCDjxnpy4AMWD3cCSbq2tjaSsC09oNqvU7HXQSYnzIIpz8IJr2aLpbBPLMhZb10QJlF9ohLb8VJMRWsfxItDh1uPcSzTqRBGGp602cqo7YnaSJWYHp0pHmWoDWuLaMragoEknQpZ65Q0mWZmK4W7a9lOZScqI9jDNfupq6pputR3KVKC0TYGcw6/WGpzhCshSYfNPeVF31RNC4EVsMo27X0g==;yUmmotHMfWN9NKHbHRDnyw=="
 ---

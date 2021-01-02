@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 671
         isCached: true
+  - title: "Top 7 NLP Trends To Look Forward To In 2021"
+    excerpt: "NLP has continued to show some very encouraging developments. We attempt to predict what NLP trends will look like in 2021."
+    publishedDateTime: 2021-01-01T07:32:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NLP_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "PWQHQI8QEN8kuXam9GbjihNpwT+adGovGVNFglHE5K9496PekC660NnkjrhtW526gW89B5s6wMClinv6NMCmyoiLRWb2MZ/eW4m+hryT0PHlmv9m2IK8vezNZZ/48PjganV/EIkhatlG5Kd7a7A22AvAsAnHbpwWh5bjJmwaqCBNds6+3/Om3KxlDJdm5WuDGxBv2ir2KGfW6Rnz3QrswTHkhIH1PT7b4t6Q9/pt/kNGUyuEkUAlQmasJd/jhaLteKwdIkdLfQbvnQEn/wpARmUypljRqzJHlyftC6WZVZ0mMGNltwyKTSRx34EbZCz+X8TH4ApCxockimhJmZsWmEyOyLbEAb0+gPEwJptLb0/qu4J/2CvJEjYZiHAdHsl3Oe0HHtJ73/peVHKB3Fp9fzW5OXlz6UUAOmAkm0A71FAFi9n3iNGhJoiGJQ4whGK5vbD/nZBzpP9Uyq+A0FJ0Ak+XNjMh9P0XvJKmHG+8Ls5DmFjP6LVMGa6fxNkVfki9WrTz/7OYfQxgT5Vgn77Iaw==;bGCyN42p3o46/TFPA5bORg=="
 ---

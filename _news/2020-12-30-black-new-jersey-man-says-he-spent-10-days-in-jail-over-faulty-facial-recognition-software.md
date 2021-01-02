@@ -3,10 +3,10 @@ category: news
 title: "Black New Jersey Man Says He Spent 10 Days In Jail Over Faulty Facial Recognition Software"
 excerpt: "Nijeer Parks became the third person to come forward as a victim of mistakes made by facial recognition software used widely within police departments and law enforcement agencies, according to his lawsuit and an interview with The New York Times ."
 publishedDateTime: 2020-12-29T22:48:00Z
-originalUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+originalUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
 type: article
 quality: 64
 heat: -1
@@ -250,6 +250,6 @@ related:
         height: 382
         isCached: true
 
-secured: "8Vc9sCPDUfoT96ui/UGb0F9UuUty3lQMEzEYU3BKakMHaM0voD1imEvnCfiTMy6hY71Ms/2Ha+DQ8RnHlI9l2tdFJu2Cbhovx2NUBVLx0H9/4vFVD0zM378f43QJOb9QvkDXYx+l3Wqo4o4AJU7hdZrEYMnW+5pJGR5/p5PHah3vtBeS+c4MhmXYfwhLlUBCNzmOV+oTMXGH+rD9FvzKQ6GJ5WNgaCF9U12W7gs7CyFifJWfyDQb2RdCuEadpY+FqnYhmOxavChXDuyKXI/DFJhsFG+iQLzznKZ3IGzYmVUCVdWnANZU+iHcrHx/Ss195SEIRg4OFwuU3sbJ+FvnI7souy8Y8VnQQrAMzWqbdl8=;U1TM6xaDbX8oNCep50iwXA=="
+secured: "5je0kuSPU7PrOvWOx4Mh8DUyyaoFZr8AAfdHHIDatDSZ8SdtrYEyENRjjmqGpUhrSQ/O3fwd8e5QFoTPzEvgPrkE5crlszgRYikq7nr+EAIPHOba4uVxRrgO1f99u21zDyKqSAeSx2OJGXm6nNXjO+r1Pqboz6ApNJXY1RcZT4uMVtFMDM4J9SLy/VIXCahVoG836btwnrkzy7sMerVpqNnG7vlyb2IW6SniKlKBqxoFPWj2y+fG1sQDmSfhbyW5zZoh1ALrjRVc5PIuIUibzv2zHwvhcp5ame9VkeBvlXdbTzSOC/Sw+d1cVz9JVZeF3yBWf5p59oEHnfLArBhyCIyb3uKHMZVb01OF73RI69E=;Cknv/C5dC05oKiBBmzqmeQ=="
 ---
 

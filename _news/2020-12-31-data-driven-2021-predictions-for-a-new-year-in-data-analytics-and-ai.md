@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-prediction
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: ZDNet
@@ -25,22 +25,45 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Zoho’s 2021 finance trends predicts surge in cloud-based and AI-driven accounting"
-    excerpt: "Zoho Corporation, a global technology company offering the most extensive suite of business software applications in the industry, today delivers its predictions for finance and accounting in 2021. Zoho suggests that artificial intelligence will become well-entrenched in accounting and finance,"
-    publishedDateTime: 2020-12-28T12:07:00Z
-    webUrl: "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/"
+  - title: "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025"
+    excerpt: "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs."
+    publishedDateTime: 2020-12-28T14:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/graphicstock-business-people-reading-graphs-and-charts_SCehK9CcWb.jpg"
-        width: 750
-        height: 501
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
+    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
+    publishedDateTime: 2020-12-29T12:13:00Z
+    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "2021: The Year AI Goes Mainstream"
+    excerpt: "This decade will likely be thought of as the real launchpad of practical AI and, by the end of it, we’ll be up to our necks in robots, automation, and ever more capable digital assistants. The pandemic has caused many trends to accelerate significantly during 2020 and some will remain with us for most of 2021."
+    publishedDateTime: 2020-12-30T00:00:00Z
+    webUrl: "https://www.datamation.com/applications/2021-the-year-ai-goes-mainstream.html"
+    ampWebUrl: "https://www.datamation.com/amp/applications/2021-the-year-ai-goes-mainstream.html"
+    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/applications/2021-the-year-ai-goes-mainstream.html"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
 
 secured: "+j4veFmf+qdDJHs3Fem+PAOdetssuq0fDp9YCkBGy9t0268sKcahrJjmNGjj03hT+1cSkJ7zz0ATISsTjkCHe55aHFybUUQ5V/NgupKRcmIzFpiydPADDu5myXet5rjw+U2/7Xf3OP/cHQSL2b2f6plE/yb8dm0rHRodaR7wJNTO7O36vXPryq6xoNQrVd2xFPa76VWnVyErM+3nAQ7G57QgRYBVX6PAsmkL0iNiZoDZds1EhgIVY/eHRKiCT0UzwWfH+X8gkIJs9ScZ7WLSK2xs0f5ufz+5P6uFbFbtfBXAbUPhFVvC9bBOEyodMF0+dFkVRc05nwdE7rTEYrgG3yF7S8wTkM0nADIzx3bjIKVtpKXoEYCdp93hLGGovnKCYetp+E8zT3CuHgteksMMv8GtuFTXNJlBao6SI77xBuHwsVcJCGVw+8SNCIfo7i+O5FneqqRtrR+Iq1A0SV5viMTqg2naTtCb25QV0a61YRKP7GExzABMdCHUJqDKbZ0MFPCsbIDOilGCfADqsaxh6g==;rSvgVa0ZGOgY/Cb+Iw21IQ=="
 ---

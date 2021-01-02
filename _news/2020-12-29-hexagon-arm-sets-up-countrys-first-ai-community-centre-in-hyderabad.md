@@ -74,17 +74,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Hexagon's HexArt education community centre to democratise AI"
-    excerpt: "Hyderabad, Dec 28 (IANS) Hexagon Capability Centre India (HCCI), the research and development arm of Hexagon, a sensor, software and autonomous solutions player launched HexArt Institute to democratise and further Artificial Intelligence skills among the masses on Monday."
-    publishedDateTime: 2020-12-28T12:48:00Z
-    webUrl: "https://www.sify.com/news/hexagons-hexart-education-community-centre-to-democratise-ai-news-national-um2mkuieiibgc.html"
-    ampWebUrl: "https://www.sify.com/news/hexagons-hexart-education-community-centre-to-democratise-ai-news-national-um2mkuieiibgc.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/hexagons-hexart-education-community-centre-to-democratise-ai-news-national-um2mkuieiibgc.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
 
 secured: "9KhaELo7LUMly9mziIWTZ/gCFZlUKnqlSIi3cf27P4EdgRnSQEtiZsAukdkOnpZ3UB/1aVvWJvUcjlU0i5viwSjsxLQilToyO5/G9wQaiGMp7vWypcpYzcwN352IdVoA5U8MjdO9f82kiz9BG0+ieSErnYqtaZDAHNsWWDcYvutewGmFVeiWAz3mRnhlswCSVkTM/DthQ5uHsIPcoxmG1xyszbNCOQ9DVAqFI9Gmton3nYwzDgu26wJLGnBvTzYoK7L+YNWYFihgDdjJcxqwnLb0BapykL6JY9WYgjPO1r6ZQiJekYgzwzwe9+MLWJMlJKJfD8jdkbwS6zc/XtqzeCS1r3VGTLStelqe9dQ/pkE=;sJfWT9f8Yn+P+u3tJ96REg=="
 ---
