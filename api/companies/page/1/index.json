@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6775052
+        "followers": 6776114
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3537226
+        "followers": 3537374
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9184556
+        "followers": 9184704
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1558360
+        "followers": 1558386
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -407,7 +407,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 107948
+        "followers": 107954
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -460,7 +460,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 495724
+        "followers": 495752
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -509,7 +509,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 22343
+        "followers": 22347
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -543,44 +543,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/appannie.md",
-      "title": "App Annie",
-      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
-      "type": "profile",
-      "name": "App Annie",
-      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "website": "https://www.appannie.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/app-annie"
-      },
-      "twitter": {
-        "username": "appannie",
-        "url": "https://twitter.com/appannie",
-        "followers": 65276
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 255,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "App Annie",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/huggingface.co.md",
       "title": "Hugging Face",
       "excerpt": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
@@ -600,7 +562,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 34028
+        "followers": 34027
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -632,6 +594,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1051016
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 227,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/zoox.md",
       "title": "Zoox",
       "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
@@ -651,7 +651,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 16005
+        "followers": 16006
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -709,7 +709,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 532335
+        "followers": 532337
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -751,7 +751,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 77088
+        "followers": 77093
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -810,7 +810,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 8013
+        "followers": 8015
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -865,7 +865,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 39885
+        "followers": 39886
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -912,7 +912,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 65921
+        "followers": 65923
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -972,7 +972,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 6578
+        "followers": 6581
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1123,7 +1123,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 255,
+          "heat": 147,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -1168,7 +1168,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 22853
+        "followers": 22855
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1214,7 +1214,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 61690
+        "followers": 61697
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1384,7 +1384,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 4936
+        "followers": 4935
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1508,7 +1508,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 9257
+        "followers": 9256
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1681,6 +1681,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/appannie.md",
+      "title": "App Annie",
+      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
+      "type": "profile",
+      "name": "App Annie",
+      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "website": "https://www.appannie.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/app-annie"
+      },
+      "twitter": {
+        "username": "appannie",
+        "url": "https://twitter.com/appannie",
+        "followers": 65279
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 147,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "App Annie",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/anaconda.md",
       "title": "Anaconda",
       "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
@@ -1700,7 +1738,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 59089
+        "followers": 59088
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1757,7 +1795,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 3520
+        "followers": 3524
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -1780,66 +1818,6 @@
           "height": 400,
           "title": "Argo AI",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cleo.md",
-      "title": "Cleo",
-      "excerpt": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cleo/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/cleo/",
-      "type": "profile",
-      "name": "Cleo",
-      "otherNames": [
-        "Cleo AI",
-        "Cleo AI Ltd."
-      ],
-      "overview": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
-      "website": "https://www.meetcleo.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cleo-ai/",
-        "followers": 3154
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cleo-ai"
-      },
-      "twitter": {
-        "username": "meet_cleo",
-        "url": "https://twitter.com/meet_cleo",
-        "followers": 15075
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "London, England"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 140,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cleo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

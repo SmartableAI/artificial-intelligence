@@ -4,44 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
-      "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
-      },
-      "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6129
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 92,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tanium",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/tempus.md",
       "title": "Tempus",
       "excerpt": "Tempus is a technology company that is building the world’s largest library of molecular and clinical data and an operating system to make that data accessible and useful, in an effort to bring the power of artificial intelligence to healthcare.  We enable physicians to make real time, data driven decisions and deliver personalized care for patients through our interactive analytical and machine learning platform. Our goal is for each patient to benefit from the treatment of others who came before by providing the health care industry with tools that learn as we gather more data. For more information, visit tempus.com and on Twitter (@TempusLabs).",
@@ -64,7 +26,7 @@
       "twitter": {
         "username": "tempuslabs",
         "url": "https://www.twitter.com/tempuslabs",
-        "followers": 3443
+        "followers": 3442
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -103,82 +65,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/activecampaign.md",
-      "title": "ActiveCampaign",
-      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
-      "type": "profile",
-      "name": "ActiveCampaign",
-      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "website": "https://www.activecampaign.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/activecampaign"
-      },
-      "twitter": {
-        "username": "ActiveCampaign",
-        "url": "https://twitter.com/ActiveCampaign",
-        "followers": 10897
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Chicago, IL"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "ActiveCampaign",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/anomali.md",
-      "title": "Anomali",
-      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
-      "type": "profile",
-      "name": "Anomali",
-      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "website": "https://www.anomli.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/threatstream"
-      },
-      "twitter": {
-        "username": "Anomali",
-        "url": "https://twitter.com/Anomali",
-        "followers": 8734
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Anomali",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/baidu.md",
       "title": "Baidu",
       "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
@@ -198,7 +84,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 53370
+        "followers": 53367
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -251,7 +137,7 @@
       "twitter": {
         "username": "benevolent_ai",
         "url": "https://twitter.com/benevolent_ai",
-        "followers": 6422
+        "followers": 6423
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -357,7 +243,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 6992
+        "followers": 6993
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -571,6 +457,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/zscaler.md",
+      "title": "Zscaler",
+      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
+      "type": "profile",
+      "name": "Zscaler",
+      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "website": "https://www.zscaler.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zscaler"
+      },
+      "twitter": {
+        "username": "zscaler",
+        "url": "https://twitter.com/zscaler",
+        "followers": 8938
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zscaler",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/algorithmia.md",
       "title": "Algorithmia",
       "excerpt": "AI-powered business insights. Complete research in record time. Find what others miss.",
@@ -643,7 +567,7 @@
       "twitter": {
         "username": "cerebrassystems",
         "url": "https://twitter.com/cerebrassystems",
-        "followers": 2014
+        "followers": 2015
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -794,38 +718,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "path": "_companies/activecampaign.md",
+      "title": "ActiveCampaign",
+      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
       "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
+      "name": "ActiveCampaign",
+      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "website": "https://www.activecampaign.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
+        "url": "https://www.crunchbase.com/organization/activecampaign"
       },
       "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2487
+        "username": "ActiveCampaign",
+        "url": "https://twitter.com/ActiveCampaign",
+        "followers": 10900
       },
       "yearFounded": 0,
       "locations": [
-        "San Jose, CA"
+        "Chicago, IL"
       ],
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Marketing"
       ],
-      "heat": 82,
+      "heat": 78,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Vectra",
+          "title": "ActiveCampaign",
           "isCached": true
         }
       ],
@@ -1145,7 +1069,7 @@
       "twitter": {
         "username": "ppl_ai",
         "url": "https://twitter.com/ppl_ai",
-        "followers": 1460
+        "followers": 1461
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1175,44 +1099,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/zscaler.md",
-      "title": "Zscaler",
-      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
-      "type": "profile",
-      "name": "Zscaler",
-      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "website": "https://www.zscaler.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zscaler"
-      },
-      "twitter": {
-        "username": "zscaler",
-        "url": "https://twitter.com/zscaler",
-        "followers": 8939
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zscaler",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1362,6 +1248,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/6sense.md",
+      "title": "6sense",
+      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
+      "type": "profile",
+      "name": "6sense",
+      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "website": "https://www.6sense.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/6sense"
+      },
+      "twitter": {
+        "username": "6senseInc",
+        "url": "https://twitter.com/6senseInc",
+        "followers": 19122
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "6sense",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/aeye.ai.md",
       "title": "AEYE",
       "excerpt": "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors.",
@@ -1408,44 +1332,6 @@
           "width": 400,
           "height": 400,
           "title": "AEYE",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 16983
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
           "isCached": true
         }
       ],
@@ -1722,6 +1608,171 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/luminouscomputing.md",
+      "title": "Luminous Computing",
+      "excerpt": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/luminouscomputing/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/luminouscomputing/",
+      "type": "profile",
+      "name": "Luminous Computing",
+      "overview": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "website": "https://www.luminouscomputing.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/luminous-computing",
+        "followers": 421
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/luminous-computing"
+      },
+      "twitter": {
+        "username": "LuminousAI",
+        "url": "https://twitter.com/LuminousAI",
+        "followers": 1011
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=mzAX5DS3xYw"
+        }
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1135642952003227648/xfBlggxy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Luminous Computing",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHcbIuYidU8Eg/company-logo_200_200/0?e=1594857600&v=beta&t=iEiUdkXFnltxhJGJWcyw0iQBvirv81o4Zv-BUivoLNI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/myhippo.md",
+      "title": "Hippo Insurance",
+      "excerpt": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/myhippo/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/myhippo/",
+      "type": "profile",
+      "name": "Hippo Insurance",
+      "overview": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
+      "website": "https://myhippo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/hippo-insurance",
+        "followers": 4823
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/hippo-insurance"
+      },
+      "twitter": {
+        "username": "hippo_insurance",
+        "url": "https://twitter.com/hippo_insurance",
+        "followers": 1707
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 71,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1121786360917106688/FLk_O3ki_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Hippo Insurance",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/recursionpharma.md",
+      "title": "Recursion Pharmaceuticals",
+      "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/recursionpharma/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/recursionpharma/",
+      "type": "profile",
+      "name": "Recursion Pharmaceuticals",
+      "overview": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
+      "website": "https://www.recursionpharma.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/recursion-pharmaceuticals",
+        "followers": 6053
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
+      },
+      "twitter": {
+        "username": "RecursionPharma",
+        "url": "https://twitter.com/RecursionPharma",
+        "followers": 3793
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Salt Lake City, Utah"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
+        }
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Recursion Pharmaceuticals",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk",
           "width": 400,
           "height": 400,
           "title": "logo",

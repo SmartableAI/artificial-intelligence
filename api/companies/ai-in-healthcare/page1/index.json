@@ -23,7 +23,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 4936
+        "followers": 4935
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "freenome",
         "url": "https://www.twitter.com/freenome",
-        "followers": 2359
+        "followers": 2360
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -199,7 +199,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 4469
+        "followers": 4470
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -257,7 +257,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12477
+        "followers": 12476
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -304,7 +304,7 @@
       "twitter": {
         "username": "aidocmed",
         "url": "https://twitter.com/aidocmed",
-        "followers": 1856
+        "followers": 1855
       },
       "size": "11-50 employees",
       "yearFounded": 2008,
@@ -356,7 +356,7 @@
       "twitter": {
         "username": "InsilicoMeds",
         "url": "https://twitter.com/InsilicoMeds",
-        "followers": 3392
+        "followers": 3393
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -415,7 +415,7 @@
       "twitter": {
         "username": "affectiva",
         "url": "https://twitter.com/affectiva",
-        "followers": 11238
+        "followers": 11237
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -472,7 +472,7 @@
       "twitter": {
         "username": "tempuslabs",
         "url": "https://www.twitter.com/tempuslabs",
-        "followers": 3443
+        "followers": 3442
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -530,7 +530,7 @@
       "twitter": {
         "username": "benevolent_ai",
         "url": "https://twitter.com/benevolent_ai",
-        "followers": 6422
+        "followers": 6423
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1022,6 +1022,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/metabiota.md",
+      "title": "Metabiota",
+      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
+      "type": "profile",
+      "name": "Metabiota",
+      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
+      "website": "https://www.metabiota.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/metabiota"
+      },
+      "twitter": {
+        "username": "metabiota",
+        "url": "https://twitter.com/metabiota",
+        "followers": 1324
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Metabiota",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/aira.io.md",
       "title": "Aira Tech Corp",
       "excerpt": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
@@ -1096,7 +1134,7 @@
       "twitter": {
         "username": "solvemit",
         "url": "https://www.twitter.com/solvemit",
-        "followers": 14737
+        "followers": 14736
       },
       "yearFounded": 0,
       "locations": [
@@ -1519,7 +1557,7 @@
       "twitter": {
         "username": "insitro",
         "url": "https://twitter.com/insitro",
-        "followers": 2220
+        "followers": 2221
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1684,64 +1722,6 @@
           "height": 400,
           "title": "Skychain Global",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/winterlightlabs.md",
-      "title": "Winterlight Labs",
-      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/winterlightlabs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/winterlightlabs/",
-      "type": "profile",
-      "name": "Winterlight Labs",
-      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "website": "https://winterlightlabs.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/winterlight-labs/",
-        "followers": 553
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/winterlight"
-      },
-      "twitter": {
-        "username": "winterlightlabs",
-        "url": "https://twitter.com/winterlightlabs",
-        "followers": 794
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Toronto, Ontario"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning",
-        "AI in Healthcare"
-      ],
-      "heat": 57,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Winterlight Labs",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

@@ -4,6 +4,66 @@
   "page": 2,
   "value": [
     {
+      "path": "_companies/cleo.md",
+      "title": "Cleo",
+      "excerpt": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cleo/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/cleo/",
+      "type": "profile",
+      "name": "Cleo",
+      "otherNames": [
+        "Cleo AI",
+        "Cleo AI Ltd."
+      ],
+      "overview": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+      "website": "https://www.meetcleo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cleo-ai/",
+        "followers": 3154
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cleo-ai"
+      },
+      "twitter": {
+        "username": "meet_cleo",
+        "url": "https://twitter.com/meet_cleo",
+        "followers": 15078
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "London, England"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 140,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cleo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/algolia.md",
       "title": "Algolia",
       "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
@@ -23,7 +83,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16559
+        "followers": 16557
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -75,7 +135,7 @@
       "twitter": {
         "username": "Matterport",
         "url": "https://twitter.com/Matterport",
-        "followers": 10920
+        "followers": 10921
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -182,7 +242,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 9838
+        "followers": 9839
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -240,7 +300,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 2643
+        "followers": 2642
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -550,7 +610,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 3241
+        "followers": 3242
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -611,7 +671,7 @@
       "twitter": {
         "username": "freenome",
         "url": "https://www.twitter.com/freenome",
-        "followers": 2359
+        "followers": 2360
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -670,7 +730,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27320
+        "followers": 27321
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -728,7 +788,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 10279
+        "followers": 10280
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -839,7 +899,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 4469
+        "followers": 4470
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -893,7 +953,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 8813
+        "followers": 8812
       },
       "yearFounded": 0,
       "locations": [
@@ -946,7 +1006,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12477
+        "followers": 12476
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1046,7 +1106,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 9386
+        "followers": 9385
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1105,7 +1165,7 @@
       "twitter": {
         "username": "aidocmed",
         "url": "https://twitter.com/aidocmed",
-        "followers": 1856
+        "followers": 1855
       },
       "size": "11-50 employees",
       "yearFounded": 2008,
@@ -1214,7 +1274,7 @@
       "twitter": {
         "username": "_FiveAI",
         "url": "https://twitter.com/_FiveAI",
-        "followers": 3574
+        "followers": 3575
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1268,7 +1328,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 21081
+        "followers": 21080
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1323,7 +1383,7 @@
       "twitter": {
         "username": "InsilicoMeds",
         "url": "https://twitter.com/InsilicoMeds",
-        "followers": 3392
+        "followers": 3393
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1382,7 +1442,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25619
+        "followers": 25620
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -1586,7 +1646,7 @@
       "twitter": {
         "username": "affectiva",
         "url": "https://twitter.com/affectiva",
-        "followers": 11238
+        "followers": 11237
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -1674,44 +1734,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/clearbit.md",
-      "title": "Clearbit",
-      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clearbit/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/clearbit/",
-      "type": "profile",
-      "name": "Clearbit",
-      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "website": "https://www.clearbit.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clearbit"
-      },
-      "twitter": {
-        "username": "clearbit",
-        "url": "https://twitter.com/clearbit",
-        "followers": 3899
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 96,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clearbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/navya.tech.md",
       "title": "NAVYA",
       "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
@@ -1731,7 +1753,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 7834
+        "followers": 7836
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1782,7 +1804,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2563
+        "followers": 2562
       },
       "size": "11-50 employees",
       "yearFounded": 2017,

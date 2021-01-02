@@ -4,6 +4,64 @@
   "page": 2,
   "value": [
     {
+      "path": "_companies/winterlightlabs.md",
+      "title": "Winterlight Labs",
+      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/winterlightlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/winterlightlabs/",
+      "type": "profile",
+      "name": "Winterlight Labs",
+      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "website": "https://winterlightlabs.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/winterlight-labs/",
+        "followers": 553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/winterlight"
+      },
+      "twitter": {
+        "username": "winterlightlabs",
+        "url": "https://twitter.com/winterlightlabs",
+        "followers": 795
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 57,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Winterlight Labs",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/xbird.io.md",
       "title": "Xbird",
       "excerpt": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
@@ -444,7 +502,7 @@
       "twitter": {
         "username": "buoyhealth",
         "url": "https://twitter.com/buoyhealth",
-        "followers": 1266
+        "followers": 1265
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -711,7 +769,7 @@
       "twitter": {
         "username": "DiligentRobots",
         "url": "https://twitter.com/DiligentRobots",
-        "followers": 726
+        "followers": 727
       },
       "size": "2-10 employees",
       "yearFounded": 0,
@@ -1315,7 +1373,7 @@
       "twitter": {
         "username": "Quantib",
         "url": "https://twitter.com/Quantib",
-        "followers": 718
+        "followers": 717
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1550,35 +1608,6 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ucare.ai.md",
-      "title": "Ucare.ai",
-      "excerpt": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ucare.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/ucare.ai/",
-      "type": "profile",
-      "name": "Ucare.ai",
-      "overview": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
-      "website": "http://www.ucare.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ucare-io"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=9A5bFTeS1uw"
-        }
-      ],
-      "heat": 50,
       "content": "\r\n"
     }
   ],
