@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
 type: article
 quality: 125
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -34,20 +34,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft - Top 10 AI Tech Stocks Buying Levels Analysis"
-    excerpt: "Top 10 AI Stocks individual analysis i.e. for Google, Amazon, Apple etc. Microsoft is currently trading on an EC of 55 up from 50, basically awaiting earnings to play catch up to the stocks earlier spectacular bull run from a low of $131 to a high of $232."
-    publishedDateTime: 2020-12-28T14:53:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article68182.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 54
-    images:
-      - url: "https://www.marketoracle.co.uk/images/2020/Nov/Microsoft-20.jpg"
-        width: 800
-        height: 546
-        isCached: true
   - title: "Top 10 Reasons to Become Microsoft Azure Certified Professional"
     excerpt: "Cloud Computing services have grown to become a necessity for businesses quicker than anybody had expected. Microsoft's Azure is a popular cloud-based service which offers hybrid compatibility that ha"
     publishedDateTime: 2020-12-29T07:46:00Z

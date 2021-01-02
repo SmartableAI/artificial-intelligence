@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2218051/artificial-intelligence-robotics-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AWS-Leans-on-Custom-Silicon-for-Processing-Advantage.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "The CPU and GPU Wars - AMD vs INTEL vs Nvidia"
+    excerpt: "AMD is CRUSHING it's competition into smithereens, namely INTEL, which I have been flagging the the demise of at hands of for several years and there is no sign of any end to Intel's CPU woes anytime soon,"
+    publishedDateTime: 2020-12-31T17:25:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68198.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 39
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2020/Nov/nvidia-20.jpg"
+        width: 800
+        height: 542
         isCached: true
 
 secured: "mysJQLKClh/WqcIPRTN8eEf7AjU7MQjc/mj+NWgWc12GJhna82omm4uL8dgk6AvLqjcKwQVIAuDJwtKjdq91mJ6LOEq5D2V5R0aRLZnkiN3KR7MraoUzKiF88fCEcXn8vRdgOYK6EbMJ3ceBCrzamY3Jo291ebjyG5axiXJjRAwhsRV8tOg7EwC7XKJocvq2OgF67vmQwZaHRL+YZu9HR0EpQx7Y6uLSQP5JjUCws7IU+QWKns0G8zTY3olV5rhy7r1lu/yHot9cjbupGz0G7J8e2iW38yOYFuqYQHV14niu7gVQfIyhtESYID3HdDnO88Q9UwuaifCXKWgSdvv02nHEd3G/nDPpVzR7sm+V0XMoUPQ4fRY3Yhwf8cIENwzaru18PYNvwSP62WlmmnNn5UcTSR///f8Vx2YJfo3OxYqX+vIGszBII/NTc7L9iVPrqcW7Vok8tkK4WPYNkUwu3vNpykZHkA3LSlqDcyaStxeh4suWWlDRFVaEjbYo7XC1t4pYh1i/VxIEQ1p+BY36MA==;XoPj9f9XVE80DGOM/OsekQ=="

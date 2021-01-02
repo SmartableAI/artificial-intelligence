@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-prediction
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025"
-    excerpt: "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs."
-    publishedDateTime: 2020-12-28T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
     excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
     publishedDateTime: 2020-12-29T12:13:00Z

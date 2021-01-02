@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Healthcare Automation Market 2020 | Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2025"
-    excerpt: "The healthcare industry has witnessed severe amount of changes with automation paving the approach for newer approaches characterised by efficiency. Automation is probably going to assist medical professionals focus on better patient care and improved outputs."
-    publishedDateTime: 2020-12-28T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2021: The Year AI Goes Mainstream"
     excerpt: "This decade will likely be thought of as the real launchpad of practical AI and, by the end of it, we’ll be up to our necks in robots, automation, and ever more capable digital assistants. The pandemic has caused many trends to accelerate significantly during 2020 and some will remain with us for most of 2021."
     publishedDateTime: 2020-12-30T00:00:00Z

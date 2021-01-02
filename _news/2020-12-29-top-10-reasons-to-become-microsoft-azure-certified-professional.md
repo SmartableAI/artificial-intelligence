@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Microsoft - Top 10 AI Tech Stocks Buying Levels Analysis"
-    excerpt: "Top 10 AI Stocks individual analysis i.e. for Google, Amazon, Apple etc. Microsoft is currently trading on an EC of 55 up from 50, basically awaiting earnings to play catch up to the stocks earlier spectacular bull run from a low of $131 to a high of $232."
-    publishedDateTime: 2020-12-28T14:53:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article68182.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 54
-    images:
-      - url: "https://www.marketoracle.co.uk/images/2020/Nov/Microsoft-20.jpg"
-        width: 800
-        height: 546
-        isCached: true
 
 secured: "TdAx3dHZAdC/nrfNc/U+n4aM8B/iCT0bN6i0P+zKF/MzWWLcoIwX1+WTIWDu8tI4OcOOCxRuEthenAynNw7DdqHIlRtsNaU2gavN7pDuD1wQmM2/uADQICy7jlZ8wv8eY7n3y3CVsjOhjI8g0C5cTOyDCnNiE65mlXm52/Js1rndaJcVXagMRn4cycB03D5dzps1ybFEtTuhbzQrpJMUlA3melQHNDP4w429v6MGzRQFCyDSh3lHI6wW6XHRWgHtj2IAWn+Lw14utds/ntInxiEQ18j7cm14l/yc4ISzlRtz1/tniebZwkTN5fmmnom9XKCohEHb8MflVYAAiPND/KSD1DWdjXDPIclqYUERq04zbSHF48BZPNM/7t8vGxnKWqj+rktNUFHnRLsZG/55Xj0wN8mtLUnmmXZlxsf0RzlG0o+JzGROCUMWOEnzpAz5iKHAi5IqF0hB+aWbMiZlLkohqq7TRFa5yaowuZLGm8MfhH8q3qfHyaSCAdxgkEri3Tv/Htt3rwjRrOWS+ZxeuQ==;7rOtZ0tfUWLFWoWk7Tu5Cg=="
 ---

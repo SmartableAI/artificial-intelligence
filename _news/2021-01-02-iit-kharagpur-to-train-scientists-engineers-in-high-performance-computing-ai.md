@@ -7,7 +7,7 @@ originalUrl: "https://www.ndtv.com/education/iit-kharagpur-train-scientists-engi
 webUrl: "https://www.ndtv.com/education/iit-kharagpur-train-scientists-engineers-in-high-performance-computing-ai"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 650
     height: 400
     isCached: true
-
-related:
-  - title: "IIT Kharagpur to Train Students on High Performance Computing and Artificial Intelligence: Check Details"
-    excerpt: "IIT Kharagpur has been chosen as an NSM Nodal Center for training in High Performance Computing and Artificial Intelligence by DST"
-    publishedDateTime: 2020-12-28T13:14:00Z
-    webUrl: "https://www.dqindia.com/iit-kharagpur-train-students-high-performance-computing-artificial-intelligence-check-details/"
-    ampWebUrl: "https://www.dqindia.com/iit-kharagpur-train-students-high-performance-computing-artificial-intelligence-check-details/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-kharagpur-train-students-high-performance-computing-artificial-intelligence-check-details/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/05/ball-4789466_640-1.jpg"
-        width: 701
-        height: 400
-        isCached: true
 
 secured: "9DbeJWzdr/0XRG4Usk/uB03HHp9hCavrZy1SmXoNRbW9BjFa05qu8f04DBVHrZfwNHWUBCfrZg8vB4mLP0DoUn5bCdjp+vWY4BVhSQfu2esLCK4GEScTJT7Z4Cxxhmp5R0iDKe1JOveWYiCBxHCaBqhnA5RUB5FrqHhD43pNF27K1tyAhYQo4vVpMGySwsXL92pENBddJgonwXJvYY1qB3ta0zuWNYlgm6qwHh9VBYJwAPH5ldQGlpLnbN5UvI6C4+EYoqj02iyhgyT/1g95vSBWj8VhdioDkd1nZANUIB2eWlodVPdZtFS2peYCG/JF3ZcNIBCOYbbU8OGDijPzYFA4cjb4jNQHl4BlIuGKeMc=;qyL65aRHo15lucLnsJcg0Q=="
 ---

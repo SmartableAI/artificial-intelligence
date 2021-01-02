@@ -57,6 +57,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "The CPU and GPU Wars - AMD vs INTEL vs Nvidia"
+    excerpt: "AMD is CRUSHING it's competition into smithereens, namely INTEL, which I have been flagging the the demise of at hands of for several years and there is no sign of any end to Intel's CPU woes anytime soon,"
+    publishedDateTime: 2020-12-31T17:25:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68198.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 39
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2020/Nov/nvidia-20.jpg"
+        width: 800
+        height: 542
+        isCached: true
 
 secured: "MEsmbBEObLPomlP1Gw0l49M24MAsl44yPUO0ZSiN4vRpfYufx0Mh7TQe8RtqicUpkXI74goMyH6JhNjSuSNgPRSEx9E7eXVEyrqAgQDwo297Yt9gsuqzwTbO+kjkTjf2d1LKNemuvT7C1L5TZZ8m07mlvr3RQOuvrC4AWGVbX2/aTXKNzcNJ6kVHcudVWAhmop5vf0RYLq2kyR6mTRG/pFB5Bb9LeMqB4KHOMsRit4dsQYlwstwhDNLG2uaOyq/OtdzVKUOMaAmnpeRn0TZx+QNc4zNVYsh+hCHE43ha6Z1DZSK6gG/tRbpNUuE/4rIicmrrEcM52Cl48LB3abe1aiGwTiiBoJHnEIRcZB83EXpaIS5kWk/2S0eaN1goVtI6aLI0TdlBVr0GyMA0dO2QAPZEquD7zH3fWG3DScpA+RuSWvmh6Xd1FuuqPFCkgztRwR2XkO8ERS/JYQggfzfcpQQfcg++wsjdp92McthhWfCYQQ2cWEjuTzoigoNb8rYz3I80e2fJ9H1pIrg5XzIyMg==;jOGNx8ZrxydQ1sGeZKcmcQ=="
 ---
