@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/assistive-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Self-Driving Car Market Share, Size 2021 with Geographic Segmentation, Statistical Forecast and Competitive Analysis Report to 2023"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-12-29T00:18:00Z
-    webUrl: "https://menafn.com/1101348578/Self-Driving-Car-Market-Share-Size-2021-with-Geographic-Segmentation-Statistical-Forecast-and-Competitive-Analysis-Report-to-2023"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?59884"
-        width: 445
-        height: 250
         isCached: true
 
 secured: "Hg7ELeGkurnp89X/ClfSr+KTiDBfvU+8dMrLr0Zz0UZHJAq9ACfPb4Xs/GA64cGCIQuygIvp/2AUcj5qP3JoyfyTndFybaCGX2SrSQILP7jSE8q4C5cq+ZayIsPQKHmPZpKu89VTD9StBc2/X75hY6o65W8KjQs+RvG4vLyetigUd7FGga/6OhGGzUbseghMHcyJMrWBLFz5d/UK3lHPYqeEcU83B9D5RMkAC3VLLUuuGFkL9CJgeboBcp7owvmPDcsKh6exHvGdeWHEU+zv0WpvOsezJB4VsMpfX3dmKKJbX1KsPYWW8lYKCcmJWT6K8nWVtg/WxFVePM5dGqC3D4ii4HkShtaYbKjKfuAdArE=;2F/lIHyuLoN8HEUC+A7/YQ=="

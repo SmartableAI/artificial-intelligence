@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-09-self-driving-cars-sector-struggles-to-stay-on-course.md",
+      "title": "Self-driving cars sector struggles to stay on course",
+      "excerpt": "Slower going may be the best approach. Uber is handing over control of its self-driving cars, and it's not, as they hoped, to the cars themselves. This week the popular ride-hailing company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
+      "originalUrl": "https://www.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dw.com/image/39371985_403.jpg",
+          "width": 940,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
+      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
+      "publishedDateTime": "2020-12-08T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deutsche Welle",
+        "domain": "dw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
       "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
       "excerpt": "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ...",
@@ -1113,58 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot.md",
-      "title": "Iranian nuclear scientist allegedly assassinated via killer robot",
-      "excerpt": "A top nuclear scientist with the Islamic Revolutionary Guard Corps (IRGC), a branch of Iran’s military services, was assassinated on 27 November in what the Iranian government is calling an assassination via AI-powered machine gun.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/skyassassination-796x405.jpg",
-          "width": 796,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/",
-      "publishedDateTime": "2020-12-08T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

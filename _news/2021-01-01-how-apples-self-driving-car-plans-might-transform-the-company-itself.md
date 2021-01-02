@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "On Self-Driving Cars That Might Misclassify A Snowman As A Pedestrian"
+    excerpt: "Considering the ramifications of AI-based classier driving systems and the control of self-driving cars, using a snowman as a memorable example."
+    publishedDateTime: 2021-01-02T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee4edb29ec96bd83f34dd8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5120%26cropY1%3D260%26cropY2%3D3141"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
     excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
     publishedDateTime: 2021-01-01T21:01:00Z

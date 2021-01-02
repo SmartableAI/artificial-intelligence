@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/2020-ai-white-house/"
 webUrl: "https://www.fedscoop.com/2020-ai-white-house/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "2020 In Review: An AI Roundup"
-    excerpt: "There has been much scrutiny of artificial intelligence tools this year. From NIST to the FTC to the EU Parliament, many have recommendations and requirements for companies th"
-    publishedDateTime: 2020-12-28T23:37:00Z
-    webUrl: "https://www.natlawreview.com/article/2020-review-ai-roundup"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 37
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/technology%20artificial%20intelligence%20AI%20robot%20city%20looking%20forward_0.jpg?itok=PDp4IyIu"
-        width: 500
-        height: 302
-        isCached: true
   - title: "2020 in review: Joint AI Center gets a ‘2.0’ and a clear path forward"
     excerpt: "The JAIC had a year full of major changes, from a new director to a new direction. JAIC 2.0 is now ready to focus on war fighting."
     publishedDateTime: 2020-12-30T16:21:00Z

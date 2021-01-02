@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 736
     height: 414
     isCached: true
+
+related:
+  - title: "Leading computer scientists debate the next steps for AI in 2021"
+    excerpt: "What do we need to push AI to the next level? A panel of experts hosted by Montreal AI discussed possible answers."
+    publishedDateTime: 2021-01-02T16:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/"
+    ampWebUrl: "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/franck-v-740555-unsplash-1-e1573833675406.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "eTCLrD6Gri53Ag7jSlvKHDiAWFCV5gzrpZB9pQ1p8P+oyu8ZSLmcXEwwdn3uTSf4GGocgQxhrPDzcDHrtXZONhGztMee9pG7c8mT4a7mO3Mk04gTYIgItSMyLNTKhb7ErhNlHzdLcQY6fib6WLblgpRXnSOpdk/WBtMnjqxdoSTp+iD2DbPNz5zIH2UXMTsQnonCs6qa1tPYS5qyMGjKD4ODIbGXNUbfsuQRweX1dJAMKWWXW9MW9kw+6qPtHZDD8/0xGUroFoFo/uobmO8KQNdTaBRqt4r9aLl3bzam1l2vx46GOZCXUUWaWbzlRPeCxpVTSj90Chq1Tnzl7cGLUimlpIpYR7CcgSuLK40nHyH+8kKEH5cMITqec2zrBXnpVnQUKeSnaxhy8MNGJ22GmImNIxGWIeIf7mu4XgwkMDx5F4eyFX2bujKHyBuBX13vnXvLd3JQ7BV7NH7MDZ9VKUXadvKX3xCT/EAqBqTFLw0jD6tX2aHZ9kFfGfUILL0OIh4MPYoHGOFso8nrMDhKQw==;PKGtyhcYJFTMbHTkhtxXZw=="
 ---

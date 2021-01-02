@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-12-artificial-intelligence-machine-learning-robotics-in-agriculture-how-the-agri-sector-is-being-redefined-by-technology-researchandmarketscom.md",
+      "title": "Artificial Intelligence, Machine Learning & Robotics in Agriculture: How the Agri Sector is Being Redefined by Technology - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence, Machine Learning & Robotics in Agriculture\" report has been added to ResearchAndMarkets.com's offering. According to estimates by the United Nations, the World will need to increase its food production by 70% to feed the ever burgeoning population by 2050.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201111005458/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201111005458/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201111005458/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-pope-francis-wants-you-to-pray-for-ethical-robots.md",
       "title": "Pope Francis Wants You to Pray for Ethical Robots",
       "excerpt": "There’s a lot of folks worried about the ethics and future of AI and robotics. Apparently, you can count Pope Francis among them.",
@@ -1382,58 +1426,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-ocado-has-purchased-two-robotics-firms-to-take-on-amazon.md",
-      "title": "Ocado has purchased two robotics firms to take on Amazon",
-      "excerpt": "UK technology firm Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "originalUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vaU7MVKAUPe295qnhCXfZF-1200-80.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "publishedDateTime": "2020-11-04T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

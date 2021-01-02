@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-11-19-mythic-launches-industry-first-ai-analog-matrix-processor.md",
+      "title": "Mythic launches industry-first AI analog matrix processor",
+      "excerpt": "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "publishedDateTime": "2020-11-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-new-report-finds-that-criminals-leverage-ai-for-malicious-use-and-its-not-just-deep-fakes.md",
       "title": "New Report Finds that Criminals Leverage AI for Malicious Use - And It's Not Just Deep Fakes",
       "excerpt": "A jointly developed new report by Europol, the United Nations Interregional Crime and Justice Research Institute (UNICRI) and Trend",
@@ -1154,49 +1197,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-buys-apm-startup-instana-to-boost-ai-automation.md",
-      "title": "IBM Buys APM Startup Instana To Boost AI Automation",
-      "excerpt": "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
-      "originalUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg",
-          "width": 399,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T17:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],
