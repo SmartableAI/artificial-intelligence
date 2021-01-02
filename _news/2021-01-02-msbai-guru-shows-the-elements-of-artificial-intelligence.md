@@ -1,29 +1,30 @@
 ---
 category: news
 title: "MSBAI GURU Shows the Elements of Artificial Intelligence"
-excerpt: "ET<p>  present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,"
-publishedDateTime: 2021-01-02T11:55:00Z
-originalUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
-webUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
+excerpt: "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,"
+publishedDateTime: 2021-01-02T06:06:00Z
+originalUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
+webUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-01/01/i_ea46ada3-8_Image_In_Body.jpg"
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg"
     width: 744
     height: 389
     isCached: true
 
-secured: "yrpz5p9LDVSyIFaoAttrdXPx+z7sPj8Z4t2N/TKPVrA0xzgvAKzLlnaYCJ6OwhTLvN9nYwOuGfQJkvurp1RQMiXVI69zMsBL/91v2WGp92hW8Qvod9De+lprzAsROahDBjK/u5mjlyT95F1mxgWMy65Cco17mr7jISV0a7+hF41yEhsHtMgSNkMOa448NpQwxB8urTabLAnHR/W7xvIL+crdbBMLlLmQQtE9I7lj8cwwz32Tn8tAcyjci8g+5Ouq9y/JmugZORNAX7gLYzn3YtOPTNI1cW99jKWT2Emm6QMAdAvpoqxW5glrG2kdbN61DEMFTHGYvdm7BZBkmBQahoLQLXpbq6O0ehXeMgmMfK0=;NzOY8bKIBwZyGHzyTLpLPA=="
+secured: "EaK+NPof9UOEEk7MwBTd+iYV29sfOJR8VWrmEBewA890Tw/XuD87kr9GEWHEQXvRcHvhfxo6YpQcYluApeLMoaqo6wHBDwNacOa0Wuy6Cj0yYoNRXgSS6ZRNihLnOIQDA/AjZMI5Gxmo2FCZMfleZbOfexGNPy76UCJmJ8JdfkTuX+bUU1zV8nRLV1uZvKrBlkOnv6GzkABNMCwy6/E0hmeZbUSxt+l17a8b/hkwMIWkZBGz0FfhnU93NJtv117T9VTlT3ecZGwnfQlaSS4cFvzI74zFWvtpa/e89q+psk1sIii+eOklzoKji0hWrINSjG+PaEANWXLM4mfKzQf+iNMqxf6IzPOh7SUPUZqADEM=;6zGavwK+GGG/VAHZppHM/Q=="
 ---
 

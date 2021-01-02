@@ -11,13 +11,13 @@ provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "/assets/images/organizations/techrepublic.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-secured: "tEmJh9y31bCHZppsNy75K2VEV4teF/CJEmgMCv8gDTLZ5IhwFZZ4Nb5vrsqlCElkp/qDxW5VAy9y3zC9oMltlko7WTWwI2Flk8YekhDvIlhROtMZY36SYiwUzk7lEBm4BVmR5pWukrRpel4p/V4ouZCXqnDX+KIf2S4GyaVx+4/nKuaCKfNjwjF28roOqQ3r/L8pWcNkeTvDNV+X1/m2rpvpAWXb58DZAamTNZHDmO58k5k3utE2ItRpTWwxZizEbjtRI1XouKQvuH+zCKKGB3HWF5y93bWhne1lmfIOmGQ980nL4TWSOvejyBYbFH03Ha6JNncGYA6DvuW/t1TV0pY2bRqeAeeOB8k0ypbd4QM=;ZdWMeaf4rF4WiMOKcJN05g=="
+secured: "FwHxxU2aiZRr6TRE4pT83TKAz24f4qLbJLnr363roE3APDb1tPsFqeIAlWXWAo9UX9TWuCS3d8hDX7JpEUdBX69I752Z6RmUjTj4O8zNEZMi9+UMATAiYP6sciWZK4PxH4BVKlstvCkQK7hC3B3xtx8oq98Qyw2dJi90FisqFkhCT3JEgGasPjbAspPlzhXGijpDKvX0Yijg/8xz1vcGrt56sbFT9WeG4qn9YBBQoNfvKeRLM1JC894spcFPoDKxT6SQ6N/q1kq/pQMsN2cC+xpjyc2/1oVFky3ULVKA9HXmOouRyOzBxvLFzr+GBrA78QA+IIiSvUISn4nFNFyNthKt8hMehNpZ62IyGu/83EogDq+NIjxRDh2QlCJw+NPnsqQbQqgUBct6OxfZukrVAVUX+9WJaFPBa4Wa0acgfUYIMuO57VKTLjDye2EJZC5AnGgTopQcu5NbObsghqjq1vBIzJTZVOgH5WKmZ4tgg1G34fmpQuMndz3USQC/d6KCaqg7iWd1hRkuiS6bXc4Dqz0jJl3HUqenpMZ9Wg8TSbY=;fiza3i4+PZrzAAI2w6GBnw=="
 ---
 

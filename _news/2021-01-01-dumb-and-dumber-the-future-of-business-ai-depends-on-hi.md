@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "5 questions on the future of the Pentagon’s top AI office"
-    excerpt: "The chief AI strategist joined C4ISRNET to talk about progress the Joint Artificial Intelligence Center made this year and the significance of upcoming changes."
-    publishedDateTime: 2020-12-28T22:57:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/12/28/5-questions-on-the-future-of-the-pentagons-top-ai-office/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 37
-    images:
-      - url: "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "COf0mvmQqT3OktLtB+3zrAOxG0HfWtkrSgVZcTbk0g6SUMyB3RrHl+EPKyEw9UrSCMG1Ncikb3582pGayelSgixf78uHQLbZwSERIVzU5XZ26fg0oJBh4xeZ1DgA+dg2NvRLH5sW7aanLnuNTLg6hm2E5npP7J99FbKbvFTxA7XuKbS6hPXsk5OmSq3opptjuyJckWOBDCVclBK7SwfFcY16AHrYDl0Emghjdl0mG8w6FjwS1Eq8mXs109Vi874VJ1f4UWOk8c4VKyJO6NRRVXrl6X4TgJ3ekov3kUJUMTyGWjmg9ipaKCoMuYiCdwGYsCGBjqHJ/36mYnYpsuPieZ7XczWGME40XlhfDzoRiW65reR0KDUF4PC0iv1LZ5o/1Q/Mww8Bwsi5O/JjbMhYCEgBJcmmSvvRwc//Ul3UYBA5pKS6Qa90RSHM0kqbjT5MeJZ7uhXjfoCDhKmqQjXLGZNbpcqy1ZlCWD3tNd9RKs6U4uoohMZb6D9vF0mtCdaG1x62P7rR0DWMV5d4jgtXag==;k/QNPJ+k3WppgjmNB37Odg=="
 ---

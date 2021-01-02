@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast To 2025"
-    excerpt: "Comserve / -- The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts.</p> <p>The global facial recognition market was valued at USD 4."
-    publishedDateTime: 2020-12-28T22:42:00Z
-    webUrl: "https://menafn.com/1101347647/Facial-Recognition-Market-Analysis-By-Industry-Size-Share-Revenue-Growth-Development-and-Demand-Forecast-To-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?730094"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "/4ZvHD9DmZ/kVRYaryKzZ7bYzmykCdpcjVhdkqzBVrkcSItqsahkgiUahRADkMLUfqpnGBljZUTuPY/KYqdrMyMxGK/QZw45uyR5kZXhyWGYMCv9PmHEg3SZw+aa38EHcCf1CWOTUMFBBN4yMsjHZ3uOTFT3ZeycRrDEq33yfldc75KXoLVX8ugLi9xJEHAfnq9NCUALYVbd1DYnPmMPnhJZCy1IIg/nt2VJN7uiNrac4KbMamRkCHrxEtWS/0L0cl+qtzeM7ItfcysW//V1upJmmvpK9m+p8hoUVDW78s7fKO3oRLcIv9gQTVkd+A2uws5kysZu6E/8pcerfw/gCJ6/h9211tCypjFEHa3JDPY=;BGRoq3RGz5ZUSTuL0qL+NQ=="
 ---
