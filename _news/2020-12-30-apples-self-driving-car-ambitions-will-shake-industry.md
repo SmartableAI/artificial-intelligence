@@ -61,17 +61,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "5 Self-Driving Car Stocks With Massive Upside Potential in 2021"
-    excerpt: "Higher levels of autonomy have the potential to reduce risky and dangerous driver behaviors. Favorable regulatory framework and increasing government funding are expected to play a crucial role in accelerating the self-driving car market’s growth in the coming years."
-    publishedDateTime: 2020-12-28T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "sFwChXiyah8fzfq/Z49Gg+yHDyN3ldyaKQi7+soG9xFmC3lp839WWrWlHyDR2oXy34glPLuBEiHgjTKPRy1jB7apgCAkpmj0M7Nw83uOt+3a8zb9rwE6yaY9r70akuJ6EOzXx105KFA/f1UGK7cFyjNouDIedCFyag4YV+H0LbR4aF3HfFXemQE1JnUrodxiOZJCoub+xIhFa1+ao2SJ2OEP4d6dbsPqpbGk/mVVGvuoVWJmoMzr9PTdV6uSKdggKcppXQshFWNnUbhID2q7jm3cQ/6VYtA+w5r51E3FXLqSq4HRdhv6PCPAfd3l2AxgJ3ja+0BOsd5xlxBSArkr2MBKxxOqFMR1xR6CqlfmeSg=;nOJ2N7fSj0uDVm+GONJ4BA=="
 ---

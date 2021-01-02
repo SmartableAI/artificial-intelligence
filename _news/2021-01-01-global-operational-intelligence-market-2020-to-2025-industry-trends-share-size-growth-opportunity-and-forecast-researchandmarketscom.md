@@ -19,61 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Agriculture Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
-    excerpt: "Wiseguyreports.Com Publish New Market Research Report On \"Artificial Intelligence (AI) in Agriculture Market 2020"
-    publishedDateTime: 2020-12-28T16:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-12-28"
+  - title: "Intelligent Virtual Assistant (IVA) Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
+    publishedDateTime: 2020-12-29T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-12-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Assistant Market Report 2021-2027 by Technology, Future Trends, Opportunities, Top Key Players and more…"
-    excerpt: "A new market study, titled \"Voice Assistant Market, By Technology (Speech Recognition, Text-to-Speech Recognition,"
-    publishedDateTime: 2020-12-29T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-report-2021-2027-by-technology-future-trends-opportunities-top-key-players-and-more-2020-12-29"
+  - title: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report"
+    excerpt: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report . Posted on Dec 30 2"
+    publishedDateTime: 2020-12-31T04:56:00Z
+    webUrl: "https://menafn.com/1101363423/Autonomous-Bus-Door-System-Market-Global-Industry-Size-Growth-Segments-Revenue-Manufacturers-and-2027-Forecast-Research-Report"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Contact Center AI Software Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
-    excerpt: "Global Contact Center AI Software Market Growth (Status and Outlook) 2020-2025 is the latest market report rolled out by MarketandResearch.biz, one of the world’s leading market research firms. The report contains a detailed description of all the major market components such as global status and trend,"
-    publishedDateTime: 2020-12-29T21:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-contact-center-ai-software-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-12-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future of Contact Center AI Software Market: In-Depth Analysis & Global Outlook by 2021-2030"
-    excerpt: "Market.Biz :Impact of Covid-19 on the Contact Center AI Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"
-    publishedDateTime: 2020-12-31T11:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-software-industry-278686cbdd07bad1741eeffd1d69bd71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "YIgrQYROLQrbCkV9Xvs0w7Wk6UtMNh4KYHFnc5T804H0tDxcEI/zOfxaQcUeYLxiWDI2/EREQwy5sr/wx1v9SUphxWT64kFD9ZXJmONCAW+CAI2JzZiN8uJjfa7xzOHRe1umv8kK1ZqVyM9TxRAm/rsbwvFtMAM2eSMpO0roEW5eRt9toQ6LZSnEwSTY5mtNpnWnk0FlbXRHqojwxUrY/ExZU6aBMgP7iTvKCsiEE4gVRiUylBXt1fP1SOWntthnvj0GYun98D1ZFeVz5z9adxd2kZSh+6mCoPyjOFC3d3DNA0Mjfe7i9p77A5kABk5vd8vcW4aemQDE4pC6lhvOMbOUcak0gfbYGk6WZBwgJoU=;kvXQXzzEArzW1PLEJAyfvw=="

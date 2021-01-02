@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-11-joburg-extends-hours-of-licencing-centres-during-the-holidays.md",
-      "title": "Joburg extends hours of licencing centres during the holidays",
-      "excerpt": "The City of Johannesburg has announced that extra resources have been put in place to keep licencing centres open longer during the 2020 festive season and into early 2021. Between 1st December ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/",
-      "originalUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2019/01/Drivers-Licence-FAKE.jpg",
-          "width": 1966,
-          "height": 1107,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/12/10/joburg-extends-hours-of-licencing-centres-during-the-holidays/amp/",
-      "publishedDateTime": "2020-12-10T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers.md",
       "title": "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers",
       "excerpt": "Insurance and financial services leader rapidly migrates to AWS to unlock data-driven insights, automate processes in the cloud, and deliver new digital services to millions",
@@ -1336,6 +1293,40 @@
       "provider": {
         "name": "tvbeurope.com",
         "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-aws-announces-plans-to-open-second-region-in-australia.md",
+      "title": "AWS Announces Plans to Open Second Region in Australia",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in th",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201207005969/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201207005969/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T20:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

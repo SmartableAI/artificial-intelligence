@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo’s driverless ride service moves to metro Phoenix toward autonomous future"
+    excerpt: "The roadways of metro Phoenix may not look much different 10 years from now, but how we travel them might. We may have more vehicles without drivers behind the wheel, said Andrew Maynard, an associate dean at Arizona State University’s College of Global Futures."
+    publishedDateTime: 2020-12-31T15:25:00Z
+    webUrl: "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future"
+    ampWebUrl: "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 70
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/00261d5/2147483647/strip/true/crop/1200x675+0+38/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faf%2F39%2F353dc3544745b95be3d878b0a881%2Fwaymo-minivan.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BBqL/gXqiGUcxbROunCDLUL+zg3D/Sgwp6XZA1eSV39S7fvqJSfve7ji9Wz22LLUgNhuDFYHS+tSVb2y9s5jm4atb7jL2rziWn6G6EqbRfUZ2ZMi1va4BQw2FxmxWC/EHFVeQHTarUGSuZ5pC+aYyDhNOh8IUbJYNRVm7YQ5CJ+92GGjKxhoO3JPWHkt0jKGwMKMR08jZtl/RZSRVCZ5MdiihqrmRu+8LpA1LHd+4hBJwEDUFMCjjsOHORWIJiU8zkSZoBjJ5lx33qrYDV4qJ+O1P9VEMKwyVyJ6rxtAXn/L6KfmSGGqKFz6OB/sWNGcJxCUT9MCPLd14+olz6u08M1Xvzzj/mF4MYWrdZ23l8JofRuq3gDp1LoFdhr7vjmOeFuodxMgnYzJcPFKaBJSBCsjNfREkBohiY8jx8XsUh6VbzA9NOeekRK/C+ntkhN8wh6AC2LohI3o/0Bl62iL3/h9ACF/SLvKE5/6xTmZyY5rzVj/SblDezVy7D6Rp4QOKkAEnKd9wHYxtVPCdKiR0w==;ZCXeKF8xC3R9o9xhvA5GuA=="
 ---

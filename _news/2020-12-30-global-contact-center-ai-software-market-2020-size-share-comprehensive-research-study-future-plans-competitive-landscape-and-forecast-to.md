@@ -28,57 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Agriculture Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
-    excerpt: "Wiseguyreports.Com Publish New Market Research Report On \"Artificial Intelligence (AI) in Agriculture Market 2020"
-    publishedDateTime: 2020-12-28T16:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-12-28"
+  - title: "This Software Stock is Ready to Drive Enterprises into the AI Future"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The year is 1950. The month is October. Alan Turing – the generational"
+    publishedDateTime: 2020-12-30T16:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/this-software-stock-is-ready-to-drive-enterprises-into-the-ai-future-1029925560"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Assistant Market Report 2021-2027 by Technology, Future Trends, Opportunities, Top Key Players and more…"
-    excerpt: "A new market study, titled \"Voice Assistant Market, By Technology (Speech Recognition, Text-to-Speech Recognition,"
-    publishedDateTime: 2020-12-29T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-report-2021-2027-by-technology-future-trends-opportunities-top-key-players-and-more-2020-12-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future of Contact Center AI Software Market: In-Depth Analysis & Global Outlook by 2021-2030"
-    excerpt: "Market.Biz :Impact of Covid-19 on the Contact Center AI Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"
-    publishedDateTime: 2020-12-31T11:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-software-industry-278686cbdd07bad1741eeffd1d69bd71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
-    publishedDateTime: 2021-01-01T08:36:00Z
-    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "q+PtXTt+KNPCY86/gbhjdnYXYXF/wEBfg32k4YpnVOqhMRnVvTBbbjjOfA1K4ciWDZlNKt22njwpILxcrHHmUuP+sdaFbq50sKrlJzhTaypY8sQ4hmSc9+MPdF2wDErueMaMA0+ezFGBUJTSGF6x/yiviyJEElEzp28p/1jVEWKFRLB5FhSrrH0kdTsHyFl5ql+squRjNoaK/nbWzsQ9gzgIgBD8Mlnuop4D9tLzhKEYpfaD7ypX5fJ0rCxw+9N8B6+N3VpbUk8ByEtxNdO7Z4saFRdOiy+h3u/N6glMbKHbaonsZlbz+G0k5aeO6R2Kso4tvioECywgwCmGARyL823reWjnRJ+Sp5wcpAWNms0=;Ta/4QaYG6qfUDfwoi12WgQ=="
 ---

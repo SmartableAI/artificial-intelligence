@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "5 Self-Driving Car Stocks With Massive Upside Potential in 2021"
-    excerpt: "Higher levels of autonomy have the potential to reduce risky and dangerous driver behaviors. Favorable regulatory framework and increasing government funding are expected to play a crucial role in accelerating the self-driving car market’s growth in the coming years."
-    publishedDateTime: 2020-12-28T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-massive-upside-potential-in-2021-2020-12-28?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Apple's Self-Driving Car Ambitions Will Shake Industry"
     excerpt: "Apple needs to develop self-driving solutions to expand its device to reach beyond televisions, smartphones, and computers. Every other fast-growing technology firm is doing the same thing. For example,"
     publishedDateTime: 2020-12-30T13:15:00Z

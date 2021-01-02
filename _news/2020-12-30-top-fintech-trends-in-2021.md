@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI and Machine Learning are Expected to Improve Fintech Apps in India, with Support from Regulators"
+    excerpt: "AI and machine learning (ML) are expected to improve Fintech apps in India, with consistent support from regulators."
+    publishedDateTime: 2021-01-02T07:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 62
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Elephant-Amber-Palace-Jaipur-India-rayban-unsplash-300x228.jpg"
+        width: 300
+        height: 228
+        isCached: true
   - title: "GravityAI Introduces Enterprise Marketplace for Healthcare and Fintech Firms"
     excerpt: "Data science solutions that GravityAI hosts include OCR algorithms, package delivery detectors, event and fraud detection, text extraction from documents, delivery route optimization, and more. FREMONT,"
     publishedDateTime: 2020-12-31T08:39:00Z
@@ -38,22 +54,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/ai2snBrad-Peterson450.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "Here are 6 of the top performing ASX fintech shares of 2020"
-    excerpt: "Some of the top performing ASX fintech shares in 2020 are buy now, pay later providers such as Afterpay and Sezzle. We take a closer look."
-    publishedDateTime: 2020-12-30T02:16:00Z
-    webUrl: "https://www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/"
-    ampWebUrl: "https://www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/amp/"
-    cdnAmpWebUrl: "https://www-fool-com-au.cdn.ampproject.org/c/s/www.fool.com.au/2020/12/30/here-are-6-of-the-top-performing-asx-fintech-shares-of-2020/amp/"
-    type: article
-    provider:
-      name: Motley Fool Australia
-      domain: fool.com.au
-    quality: 44
-    images:
-      - url: "https://www.fool.com.au/wp-content/uploads/2020/12/best-fintech-asx-shares.jpg"
-        width: 2121
-        height: 1193
         isCached: true
   - title: "From 5G to fintech, here are the top five tech trends that will dominate 2021"
     excerpt: "Unlike radio-waves that currently enable our internet, 5G needs deep densification of network and that could only happen with more fibre connectivity. But wait! This doesn’t mean your internet speed will increase."
@@ -71,38 +71,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
-    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
-    publishedDateTime: 2020-12-31T11:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/articleshow/80046641.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-471174,msid-78888337/rbi-set-to-change-indias-payments-picture-with-new-qr-code-rules.jpg"
-        width: 412
-        height: 255
-        isCached: true
-  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
-    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
-    publishedDateTime: 2020-12-31T17:59:00Z
-    webUrl: "https://www.freepressjournal.in/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-12/15fbb897-4bdc-435c-b66a-39605d0bcc38/pexels_sora_shimazaki_5926395.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "The Top Trends In The Fintech Sector In 2021"
     excerpt: "Fintech has made normal users fall in love with the ease and convenience of banking and finance. The sector is set up for a major uplift in 2021 and we are going to help you know more in this regard."
     publishedDateTime: 2020-12-29T17:55:00Z
@@ -117,20 +85,17 @@ related:
         width: 300
         height: 302
         isCached: true
-  - title: "Pandemic creates surge for MENA fintech development"
-    excerpt: "The number of Fintech startups have surged in the last 10 years: tech ventures which are positioned to serve and disrupt financial markets and the associated knowledge industries in the Middle East and North Africa (MENA) region."
-    publishedDateTime: 2020-12-31T14:15:00Z
-    webUrl: "https://www.executive-magazine.com/uncategorized/pandemic-creates-surge-for-mena-fintech-development"
+  - title: "Government Policies are Evolving Quickly in India, and Provide a “Favorable Backdrop” for Fintech, Industry Exec Reveals"
+    excerpt: "Government policies are evolving quickly in India, and provide a \"favorable backdrop\" for Fintech, industry exec reveals."
+    publishedDateTime: 2020-12-29T04:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/amp/"
     type: article
     provider:
-      name: Executive
-      domain: executive-magazine.com
-    quality: 24
-    images:
-      - url: "https://www.executive-magazine.com/wp-content/uploads/2019/07/facebook2.png"
-        width: 512
-        height: 512
-        isCached: true
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "m5omB+GGerG5JHrmXTa6L+oA7WZ5lC7tV0vuSQb7YVe7A4UsjFizdfwLESvSXzZSDaY80iprdR5WBWHLabX4NjwVx3WD2QdZR/hhLOe5fpB0EGJE7BAqjz3NAS/J7tFM4Tt2FoyzlBCEY1UMgTIQLVq8y9WO0jbUy57w3Je7EAFvi2GAZ2S97TMUqF1ib6s8l90aCIVCClJ3POEBrJRjsXePMWAZiICco6PwuVH/QXPqlZYJvIY79NzsEaHqc030Hzd9uiums/2gXsDuRPMl1ncDJhnGWBqq1hK8ZGmt1Q7UkMQk6mE7YD2ksK0/YPvtLg+akAF0dfco4t9JNx4r+r7IYEedmzhfWndUN5N8LUM=;XetlcP4wtkuM4BgVMTy3eg=="
 ---

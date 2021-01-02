@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators.md",
+      "title": "AI and Machine Learning are Expected to Improve Fintech Apps in India, with Support from Regulators",
+      "excerpt": "AI and machine learning (ML) are expected to improve Fintech apps in India, with consistent support from regulators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Elephant-Amber-Palace-Jaipur-India-rayban-unsplash-300x228.jpg",
+          "width": 300,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/",
+      "publishedDateTime": "2021-01-01T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
       "title": "3 Machine Learning Stocks for a Touchless Society",
       "excerpt": "The sheer dominance of technology in our lives this year has directed investors’ attention towards machine learning stocks. With technological advancements taking place every day, investors have plenty of opportunities for some big gains in the sector.",
@@ -35,50 +79,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-gravityai-introduces-enterprise-marketplace-for-healthcare-and-fintech-firms.md",
-      "title": "GravityAI Introduces Enterprise Marketplace for Healthcare and Fintech Firms",
-      "excerpt": "Data science solutions that GravityAI hosts include OCR algorithms, package delivery detectors, event and fraud detection, text extraction from documents, delivery route optimization, and more. FREMONT,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/gravityai-introduces-enterprise-marketplace-for-healthcare-and-fintech-firms-nid-7029.html",
-      "originalUrl": "https://www.cioapplications.com/news/gravityai-introduces-enterprise-marketplace-for-healthcare-and-fintech-firms-nid-7029.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/ai2snBrad-Peterson450.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T00:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
