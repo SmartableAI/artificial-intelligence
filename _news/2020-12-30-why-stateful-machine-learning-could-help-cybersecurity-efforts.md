@@ -3,10 +3,10 @@ category: news
 title: "Why stateful machine learning could help cybersecurity efforts"
 excerpt: "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor."
 publishedDateTime: 2020-12-29T21:31:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-webUrl: "https://www.techrepublic.com/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+originalUrl: "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+webUrl: "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
 type: article
 quality: 89
 heat: 99
@@ -46,6 +46,6 @@ related:
         height: 300
         isCached: true
 
-secured: "31PEt/qtuKKqPaGWYiBgjOXuDGAYn8vT1X/m2YokbfHb2A2hbTWMko0a+FnHfYLmC3h92Lg0kUJBqPprAaAJvY8fN8RYh5lLYkfifi/DEj6QlkoWFkw0GgY83HWB2JyXOvmiVyqpU80b1iQETfPgRvOq+9LoaMgbRfR//ak2+BCAQ0Asvo02hCEX0ImhEsgOzfeN5nKXjr6df+9Wag5LOe5N3EiRn7Dy25aAUih+S+Hx0VeGI3BtFgHcMoK/vpTVmA7AxDnvo39RZQfm41cPPWfgKYCWU54SqVicQKheA6MGhDx3njR+y/6xTq/O2feS3uAPzUX/qGOFanUJlDhD72j6fVWFa/D09LAVOtLUgBeS75VAPHCDHjLI5U0OBwBsilMlsmjxo39fn2YraaFCR7jTs9A5GCHw7NMaMY/WHQPHGbYGpXbe3mgWefBzJkzryVucdsIhRRw5AVnuhIT1SIADmNXCkqEMRm6h+O78WQmcq/NzNpBR4HQ1dc4nUamJJjTU1w4/CizF4MmwYkrHww==;utqQ1NZeJUWiWhc2I+VFMQ=="
+secured: "UWrKWf46suHW7w47Uj7WuAZvWw3ng93DQ71Sa3EQx43ZzOKzIJv3pZXfjjoXLBR+88rOk9/SF+wneugbZZ8ip6fo2GezcuCz6n3Ev4Y2Y9TZX2Trrm12DWxxNr+COitBWkpfp/PInJKbjq7Ip1qSSK4s8V/8klO/mLUQD9ZEBuLcw+yFIFZVtuwkDbtQ2KRZLpSPqQmIC5Z406f0N3UYCJehnaGpRdXcUcAMfKC64Vqys5AAL6BlcikSHaRhx6k9cscVtmEXv2SZdHuZqkBqYo1j7uGABRBiEVfWgVE4YUhHQ7/jRJE6VvVptzdx6T7qDSTF4KA06f6ecB4dHZW3Newb5YzBvz+QFRGKVloDKss=;CYUgjW6d/ClrBmrkAFOAcA=="
 ---
 

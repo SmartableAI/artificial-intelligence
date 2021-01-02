@@ -27,9 +27,9 @@ related:
   - title: "Why stateful machine learning could help cybersecurity efforts"
     excerpt: "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor."
     publishedDateTime: 2020-12-29T21:31:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+    webUrl: "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/"
     type: article
     provider:
       name: TechRepublic

@@ -62,7 +62,7 @@ related:
     provider:
       name: techniblogic.com
       domain: techniblogic.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://techniblogic.com/wp-content/uploads/2020/12/Artificial-Intelligence-1.jpg"
         width: 1280

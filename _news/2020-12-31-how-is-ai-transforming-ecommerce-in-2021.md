@@ -8,7 +8,7 @@ webUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/"
 ampWebUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
 cdnAmpWebUrl: "https://techniblogic-com.cdn.ampproject.org/c/s/techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techniblogic.com/wp-content/uploads/2020/12/Artificial-Intelligence-1.jpg"
