@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 type: article
 quality: 176
-heat: 316
+heat: 306
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2795aed6bf81fc2905a5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI chipmaker Graphcore raises $222M at a $2.77B valuation and puts an IPO in its sights"
-    excerpt: "Applications based on artificial intelligence — whether they are systems running autonomous services, platforms being used in drug development or to predict the spread of a virus, traffic management for 5G networks,"
-    publishedDateTime: 2020-12-29T07:01:00Z
-    webUrl: "https://techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/"
-    ampWebUrl: "https://techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Nvidia rival Graphcore raises $222 million for AI chips with potential IPO on the horizon"
     excerpt: "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,"

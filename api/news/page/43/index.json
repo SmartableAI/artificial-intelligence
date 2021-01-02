@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-11-25-ai-based-hr-tech-startup-pulsifi-bags-18-mn-in-angel-funding.md",
+      "title": "AI-Based HR Tech Startup Pulsifi Bags $1.8 Mn In Angel Funding",
+      "excerpt": "AI-driven HR tech startup Pulsifi on Wednesday announced that it has raised $1.8 million in angel funding. Apart from the existing investors, new investors such as Aaron Chen, founder of KVC group of companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/360395",
+      "originalUrl": "https://www.entrepreneur.com/article/360395",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606310468-CEO-Jay.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360395",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360395",
+      "publishedDateTime": "2020-11-25T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid.md",
       "title": "Intelligent Industrial Robotics: An Answer for Smart Logistic Productivity in Post Covid",
       "excerpt": "Mind Robotics’ intelligent industrial robots address key challenges facing industry players today with next-gen solutions that are accurate, precise, and cost-effective. Mech-Mind Robotics (“Mech-Mind”) is a fast-growing Chinese startup backed by leading venture capital including SEQUOIA Capital China and Intel Capital with its core massive applied technologies in high-performance 3D cameras,",
@@ -1139,57 +1190,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-working-to-understand-c3ais-growth-story.md",
-      "title": "Working to understand C3.ai’s growth story",
-      "excerpt": "We noted during our initial dig into C3.ai’s numbers that while the AI startup has had strong historical revenue growth — from $92 million to $157 million in the fiscal years ending April 31 ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/24/working-to-understand-c3-ais-growth-story/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/11/24/working-to-understand-c3-ais-growth-story/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1174590894.jpg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/24/working-to-understand-c3-ais-growth-story/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/24/working-to-understand-c3-ais-growth-story/amp/",
-      "publishedDateTime": "2020-11-24T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

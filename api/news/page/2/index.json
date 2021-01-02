@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -40,7 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -875,7 +876,7 @@
       "originalUrl": "https://www.techrepublic.com/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {

@@ -33,7 +33,7 @@ related:
     provider:
       name: WMUR9
       domain: wmur.com
-    quality: 122
+    quality: 139
     images:
       - url: "https://i.ytimg.com/vi/fn3KWM1kuAw/maxresdefault.jpg"
         width: 1280

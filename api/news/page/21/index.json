@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-10-former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies.md",
+      "title": "Former Seattle Police Chief to Join Axon's AI Ethics Board, Promoting Responsible Development of AI Technologies",
+      "excerpt": "PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the appointment of Carmen Best, former",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies-301190202.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies-301190202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1372650/Carmen_Best.jpg?p=facebook",
+          "width": 640,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-td-sees-big-role-for-ai-in-fraud-detection-lending-decisions.md",
       "title": "TD Sees Big Role for AI in Fraud Detection, Lending Decisions",
       "excerpt": "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen.",
@@ -1120,49 +1163,6 @@
           "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Rik-Tamm-Daniels-and-Rick-Turnock-AWS-re-Invent-2020.jpg",
           "width": 1881,
           "height": 1058,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-capital-one-closes-all-data-centers-relies-on-aws-on-demand-infrastructure.md",
-      "title": "Capital One closes all data centers, relies on AWS on-demand infrastructure",
-      "excerpt": "The highly regulated financial industry has been notoriously cautious about moving to the cloud. To benefit from the flexibility and economy of cloud computing but also to be able to address ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Melanie-Frank-AWS-re-Invent-2020.jpg",
-          "width": 666,
-          "height": 375,
           "title": null,
           "attribution": null,
           "isCached": true

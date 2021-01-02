@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI chipmaker Graphcore raises $222M at a $2.77B valuation and puts an IPO in its sights"
-    excerpt: "Applications based on artificial intelligence — whether they are systems running autonomous services, platforms being used in drug development or to predict the spread of a virus, traffic management for 5G networks,"
-    publishedDateTime: 2020-12-29T07:01:00Z
-    webUrl: "https://techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/"
-    ampWebUrl: "https://techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
     excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
     publishedDateTime: 2020-12-29T09:09:00Z
