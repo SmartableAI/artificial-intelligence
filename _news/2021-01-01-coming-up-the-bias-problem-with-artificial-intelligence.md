@@ -8,8 +8,8 @@ webUrl: "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-wit
 ampWebUrl: "https://www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence"
 cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1124
     isCached: true
 
-secured: "UHamrVA4HpI87vus7wpHjkCylX0gE1XkhwuRjGHJun2bwBACrRqu5tLeivtuDVW2OvRHZwZjxZZYr2plo/H30rxiDhgtd2pEFxDIxKl9B7rdtS7LAF4fCpMDQ0eeAap9DPuZqT4q5yeNTTPZnCRLFFCgtZirRQpOxJJTrdEetVA3yl3rKJKYoqF9LT0BGTnAVOAmUqfZO5VTUl1cWZoksJp1+VMidifmHeLwoWicHSqMVv3wc9Ao1+Prkwcqtu1alLbdWDNDc0L8j74SvVlsfwr9hdHntqbcSPWJaxiAZAvvsnivr99y7u9KdMdeP3wYZ1U7CpG0Kf25gGDmE/RSd/QhjyixqPJEl4lCQCgjiac=;IzDO4owDsp/j7VYJPjSeGA=="
+secured: "GRdLECatArNHrw/HfMgNl8TWo9xMoDrjZHO9i3CCnLdG4ofQa8L7JNXgeZ4l8lJ/5ggCYFmsYahtOP5cVthidk+Nj3xuPTubLxj/rYvWId2TilyTDzEnI3qXNqKYlK03CQ42S3c1nCNmfyGOl6pfaMWZN82Yj9lkXiXkHKS7Xg1ReHF69T6t0+FcT0b2/YJnDA3pNh3/ukyTQ66F85csBQ3M/ibp0Fls8w8/29/xuh8wAK9QklS7s1efCGITwgTb4xMQzPhyTnLoueT1C+kF0j3YoyT2vYNeM7c62azxkepiH60Sf8babVonOLcDB9LFgijtZYbDTXTxY/JMeYG3B6gTi4bwGBiCIM6kM5ic3izTDKmWBd9sVumFuh5LychL3tLEK8Jar5OzuTB/0WIhjOMUgToJJLPU11aBmYqPvmxOjAoyyEH1PXz2KLdiC7NLNg5eQ0vBed38x3fMMjVGcRUTS+Ft4H2mohdr0HdeQ6dWVu0UwK8Dux5viXXmGSo26MPHoAY3GQuC84koTv8wCg==;ZMd+IBraIZaio++07WvXtg=="
 ---
 

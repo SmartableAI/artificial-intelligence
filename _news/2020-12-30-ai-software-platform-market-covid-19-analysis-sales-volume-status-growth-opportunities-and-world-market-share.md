@@ -38,17 +38,6 @@ related:
         width: 650
         height: 350
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
-    excerpt: "The \"Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Global Analysis by"
-    publishedDateTime: 2020-12-28T09:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934434/artificial-intelligence-in-healthcare-diagnosis-market-forecast-to-2027-covid-19-impact-and-global"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934434"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934434"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Artificial Intelligence Chipset Market 2020 Growth, COVID Impact, Trends Analysis Report 2026"
     excerpt: "AI chipsets market size is expected to be valued at USD 7 6 billion in 2020 and likely to reach USD 57 8 billion by 2025 at a CAGR of 40 during the forecast period Artificial intelligence AI chipsets are"
     publishedDateTime: 2020-12-31T11:48:00Z

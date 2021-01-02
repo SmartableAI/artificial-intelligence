@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-automation-ma
 webUrl: "https://www.marketwatch.com/press-release/healthcare-automation-market-2020-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2025-2020-12-28"
 type: article
 quality: 62
-heat: 112
+heat: 92
 published: true
 
 provider:
@@ -71,28 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
-    excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2020-12-28T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934351/global-education-and-learning-analytics-market-report-2020-2025-what-has-been-the-impact-of-covid-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934351"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934351"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Big Data Analytics, AI, and Collaborative Combat Driving the Evolution of Land-based EO/IR CONOPS, 2019–2029"
-    excerpt: "Reportlinker.com announces the release of the report \"Big Data Analytics, AI, and Collaborative Combat Driving the Evolution"
-    publishedDateTime: 2020-12-28T10:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934678/big-data-analytics-ai-and-collaborative-combat-driving-the-evolution-of-land-based-eoir-conops-201"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934678"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934678"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "NK8mHEchxzg0Jel3VdjU4WQ/mtLHISMSaTNVLuVD5EzrVgGdjZ9U+Iah0A1012/WRXLXDF1Nt85cbpGLy/WcjcZEaABqg7geKOju042hB0wSGCjQ0h0VluNuwsQRWDdrApBAtwbSWcNokHVmrMMlCGS6tIY8JtOYKCP9bJ6NSA8WKiljSFKbvoHiT0x2z/Ervyzr5Pg2LoXO0KFkyzO+hSGZr5f5ou+SD02drLHPRdVbJgZudD94dvDQBQF8eBcNDOyvf9n4Xs4YiOGInsAnp4PKmwgJ82Lw0tB5L/gZVlXqPlAyfcZOgVS6NTzkwq7mgw59up+56nffSO23EgrryAtBTwDxsFtl4DoW4SfdknE=;5iIcZA3gCJuVzrtAVn5H0w=="
 ---

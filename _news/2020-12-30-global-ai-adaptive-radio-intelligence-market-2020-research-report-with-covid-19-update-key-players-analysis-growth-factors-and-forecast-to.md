@@ -70,28 +70,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Global Education and Learning Analytics Market Report 2020-2025: What has been the Impact of COVID-19?"
-    excerpt: "The \"Education and Learning Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2020-12-28T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934351/global-education-and-learning-analytics-market-report-2020-2025-what-has-been-the-impact-of-covid-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934351"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934351"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Big Data Analytics, AI, and Collaborative Combat Driving the Evolution of Land-based EO/IR CONOPS, 2019–2029"
-    excerpt: "Reportlinker.com announces the release of the report \"Big Data Analytics, AI, and Collaborative Combat Driving the Evolution"
-    publishedDateTime: 2020-12-28T10:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18934678/big-data-analytics-ai-and-collaborative-combat-driving-the-evolution-of-land-based-eoir-conops-201"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18934678"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18934678"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "NvyL1JxVsLHBkHIqDBPtP2HkdCvlwmE20QpBGsBIoIw/emzEXh2HZzQrF3euHLGzaQLmHJ2Qu6tnDChGW/Nob+mNJZEYiOr+chBzhJFfgrPWjPLYw9tjzmIA+gD+Do3a1DWaqRzInIeotTcf4DPgAmeMYdxj1VzEOTyrzAzeHIBTxBqdomLIpUhDtw9IUuPzP4dNVbud4QB39gRkvftV0J2By1KHKakBrGUaCqBsEjlTKD5/cQKbaIsRKI8zHvkkESod9JIWAT5P0zmqgJL9h9AnIo8nNOMKwA5chwehAvjrWhMrWfIxSGY9joD/lwiyI6ghsPeAzL9H1keOk1mv8zGsSVWkGOWNl14jbLrfa78=;+B8kJUsf8fkOTLzqb85ovw=="
 ---

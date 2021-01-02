@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence May be the \"Defining Technology of Our Times\""
-excerpt: "Artificial intelligence is reshaping our environment, finding use in healthcare, customer service, data analytics, autonomous driving, and many other industries. JP Morgan analysts believe the market could grow to $58 billion by 2021."
-publishedDateTime: 2020-12-15T14:01:00Z
-originalUrl: "https://www.baystreet.ca/stockstowatch/9310/Artificial-Intelligence-May-be-the-Defining-Technology-of-Our-Times"
-webUrl: "https://www.baystreet.ca/stockstowatch/9310/Artificial-Intelligence-May-be-the-Defining-Technology-of-Our-Times"
+title: "Artificial Intelligence May be the Defining Technology of Our Times"
+excerpt: "(MENAFN - Baystreet.ca) Artificial intelligence is reshaping our environment ... The auto industry is using AI to create driverless cars. The financial industry uses it to help organize operations ..."
+publishedDateTime: 2020-12-15T15:06:00Z
+originalUrl: "https://menafn.com/1101284005/Artificial-Intelligence-May-be-the-Defining-Technology-of-Our-Times&source=28"
+webUrl: "https://menafn.com/1101284005/Artificial-Intelligence-May-be-the-Defining-Technology-of-Our-Times&source=28"
 type: article
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+  - url: "https://menafn.com/updates/pr/2020-12/15/B_fb0edc53-cimage_story.jpg"
     width: 845
     height: 396
     isCached: true
 
-secured: "AraiH8bcXtHh69yLQFNqV+Uw9oG7ZBsBRbtzzgpxhgJlVLZD45oPypZcGsYOzQzH/ujX8deViL4ZUEZQnNJWQsPN8vXqlyhEOuDY04OoKJi9ABBhYDoE0g9+5/96AT4Si/9JwnNIbJ+pD951IhLmtesGhFwErI4biw/BR4zU0VG457tG1bFnSex+gc3oHcWZT1SDXh2RBgHua8xifcuSYawtQI7zVqHn750C8ybqMK3q5GLHMzQsTNtes4t0D3fvIDwlZwjPjAUCIKTTlCn3OVahANyZVD1ir+raSG18fIxWpws5gIEAOPnJr1t82lw1Y3gGaYTQ5iApQ80rKDtAkSyarkJfWVw/EnQkH93vOfTGaw3CEq5/nY+bzKDx0JqO5bOqGJ62cHerlzmNhzNB019mEWrWOxg4BtjChJ7XyGzXLc83h4slufzAiZtIpRUix1KBb2wjOswudIlxcHfOFCGoSSc+n+QqhojwTUjhH7f5WHTB/bCfIQsJfA/We4NtGSqf2IjnoXzAN47MWA6RAg==;r6HhDAqggq3feKfKcu6eUw=="
+secured: "+TWh7e1Xm5wRWp5zQjxMfdoWYTAper7Wyb+GRb9uUyDLPrEmYJDWEZJSZEIUkoiqu0DJ1o5J578I6GX5uUk24RkUgmd6hrhv/CnmyMjv8l7yMXIM3JZXddnL+OF7uJsiYSrRKrCB1QgGa20qMkOCyepXPcu1q/LHQZ0M3SqrifGLFFsYj9ff3JVk2noRgG0R9dRgnDrOvH3D3kEwR6QVWOv8wVeF4yeOrExl/1SUVNgqQAN09x0FDB3CuJnBUbpLc+L5uhtXVquYYm7SmPMEIkzLuB+GHSdBOfCcfeD7XbxzGYFSlheJlCrRzR2tWI0Tdw6biUG+ixBlkK8rdTD6saOiKe/jZEHRIdObMJFHb30=;/860/JF6ClZy//sDUu/9BQ=="
 ---
 

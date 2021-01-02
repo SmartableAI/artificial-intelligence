@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18936070"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18936070"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Self-driving Car Market Share, Size 2021 Supply-Demand, Industry Research and End User Analysis, Outlook 2024"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ..."
-    publishedDateTime: 2020-12-28T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-2021-supply-demand-industry-research-and-end-user-analysis-outlook-2024-2020-12-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/6UoS8LNalxRWDr0Ek2CacTS+kLi7QbLrF+CvEnXELnvFnTSyvCDDi3in/JJe8uRcK3jCrEMeqn4OfEK6Ec2a3UGECbCF+40d5ke9NAL0aOBUSg00DFbdZePT8CzohBMRQlpxFjryWcAwBLQtp+2ubw+UChGH7qJd47X5+D3pv6RvMnqAq+jQEyvka+6NlN++vOcoF7j9+VF7/s2wPzgZboZ2iU1VZbebmetiWq9iCW2VD5UPXMQoFGPdQvAsvPIj+wXDtzdd3CY/cpmRjtsikhTqt4/pDcMbFRYAozBLfAYTo1ZOwI1W4luYQgSNyKtfM+LgJT7FwW5AZHUhf+LITVXPQ7dPYkZqcU12DxRoEM=;HhIk1HUmLvLUahUW3Fm1qQ=="
 ---
