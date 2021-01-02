@@ -2,6 +2,58 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-11-19-aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast.md",
+      "title": "AWS Inferentia Gathers More Steam With Alexa, Snap, Anthem, And Conde Nast",
+      "excerpt": "Amazon also shared that its computer vision platform, Rekognition, has also started leveraging AWS Inferentia. According to the company, this has allowed it to perform object classification with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb70ffff04424766f6fc478%2F0x0.jpg",
+          "width": 626,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/amp/",
+      "publishedDateTime": "2020-11-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-fintech-exploiting-ai-and-blockchain-technology.md",
       "title": "Fintech Exploiting AI and Blockchain Technology",
       "excerpt": "AI Cultivating Superior Traders Some fintech startups are already encouraging the use of AI in the retail sector, and it’s suggested that combining such technology with hands-on experience will produce ‘enhanced traders.’ As financial institutions ...",
@@ -1155,57 +1207,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring.md",
-      "title": "IBM acquires Instana for its AI-powered app performance monitoring",
-      "excerpt": "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "publishedDateTime": "2020-11-18T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

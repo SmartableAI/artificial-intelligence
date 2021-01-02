@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-18-researchers-use-artificial-intelligence-to-id-mosquitos.md",
+      "title": "Researchers use artificial intelligence to ID mosquitos",
+      "excerpt": "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
+      "publishedDateTime": "2020-12-17T11:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-lantern-pharma-announces-collaboration-with-world-leading-brain-cancer-program-at-johns-hopkins-to-further-develop-lp-184-as-therapy-for-glioblastoma.md",
       "title": "Lantern Pharma Announces Collaboration with World Leading Brain Cancer Program at Johns Hopkins to Further Develop LP-184 as Therapy for Glioblastoma",
       "excerpt": "DALLAS, Dec. 17, 2020 /PRNewswire/ -- Lantern Pharma (Nasdaq: LTRN), a clinical-stage biopharma company using its proprietary RADR ® artificial intelligence (\"A.I.\") platform to transform cancer ...",
@@ -1142,58 +1185,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-software-predictions-for-2020-from-around-the-industry.md",
-      "title": "Software predictions for 2020 from around the industry",
-      "excerpt": "Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
-      "originalUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

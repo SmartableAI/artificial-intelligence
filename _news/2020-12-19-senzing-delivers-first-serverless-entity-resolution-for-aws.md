@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Senzing Delivers First Serverless Entity Resolution for AWS"
-excerpt: "Senzing, Inc., an innovative artificial intelligence‐based (AI) software company focused on entity resolution, today announced the first serverless entity resolution capabilities for the cloud. Available immediately for Amazon Web Services,"
-publishedDateTime: 2020-12-19T10:09:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-susan-spencer-personal-finance-personal-spending-b5cc38ec1e0e301cab731c15eda934f3"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-susan-spencer-personal-finance-personal-spending-b5cc38ec1e0e301cab731c15eda934f3"
+excerpt: "Provides Breakthrough Price Performance for Cloud-based DeploymentsLAS VEGAS, Dec. 18, 2020 (GLOBE NEWSWIRE) -- Senzing, Inc., an innovative artificial intelligence-based (AI)"
+publishedDateTime: 2020-12-19T13:19:00Z
+originalUrl: "https://www.wboc.com/story/43079599/senzing-delivers-first-serverless-entity-resolution-for-aws"
+webUrl: "https://www.wboc.com/story/43079599/senzing-delivers-first-serverless-entity-resolution-for-aws"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "c5BSiorlWX4RXP2daJ4B4G7cJyuzTNRaPoqZq5+xuhUXmEGen+8Bj45Zl+9Lk6ZOeb7nuHP7ucCHXE8+YOoDKhyvzKPVniuf89qp9z/2MBSLvRLA9QbuOzSSKv0BUgBVgPypoZoQUY30+YxyUHp02UgOOCrz9famMIZw0ist9VsdQUFQsUhRrk3m7JDLSFmHNEXXZ7CukfbYqtFmjOqjk9Qn855k8HdFDs7rI3cj9pxS43KEXGlfmzK+hW6aTAM8GsqNcHec4deHaYqZmvoURl3PMPyQwWbeLh//ZrlnlVjcyGb36Vv4/q6TYHX4ASAQkBWmLDDCygEDsGsgH9KiUyXu6Y6e34FGpeus4HfLDho=;Tg/HpeHs9NNO0nDYeEGnQw=="
+secured: "wUakze4vZHEtTFpIFU+V8TXbg0FSIG177IPjUSiG8hDnwwngAew/6mlMhoDRcZHH8ZDhFdc5SyImCMZd3JJYFXGbJErVkIPkraOdMlRgkXhj6CVw7SfLp0hzU/AZiV3cmW1xXTErxheLT3EUbsoaqMfFwzNMdAz/0IVnWBxFpmpjFca/lUZ+EHGLpSMSDy0V0KgES9asjrjqo5ZGuVf5OrMbKk56zq7kczCpxiy5oDTbfy2CDNmd1yVw5igvTXn1Spjt3xqMvYoMl24cpYM2XssqzX7y199ZVcK/n1IM9io9TpQ+NjA+pmSI3d4mc41QZyIjmaBqBTSLUkgv9Wym4jX0OG8mJtxis9Dtt7J8Mdc=;PJni6cCssPc4Bx1iTciU9A=="
 ---
 

@@ -33,6 +33,20 @@ related:
         width: 500
         height: 302
         isCached: true
+  - title: "2020 in review: AI and quantum see more White House attention"
+    excerpt: "The Trump administration prioritized doubling federal spending on artificial intelligence and quantum information science (QIS) research and development in 2020, while also issuing a series of policies aimed at outcompeting China."
+    publishedDateTime: 2020-12-31T13:34:00Z
+    webUrl: "https://www.fedscoop.com/2020-ai-white-house/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2017/11/27153051/GettyImages-610150720.jpg"
+        width: 2119
+        height: 1415
+        isCached: true
 
 secured: "slYbXwehahusayJFyKonzzmwoVLzI0bdOpm5YzD7GUVhhJC4UsI4zCYN36J7rHFNXWH31HD/Nss4XT3Vffh6dsvemreldyv0689KzPc15mFamicDXMUo8SI/OqCYMZalUPltwo08gBEn26yPCJ/AbttAQdPB0LJMwEtT0FILBPBIwvHPAw92XU/gPMMhqBclVG/cctWJTKGDog9/Y0KFUBnHhwMtzSnJQfJjk3W2MUeZ15XvY+AYdLvrocAg4PFWo2ryutpDRdgWqGc0M+3/0JHmadRZUIumwNJea1vpQ82VEfUwXZUU5PQqDxdQr4zeZewCWvJI4RCOKOC0mMUDkMfJvfUustKvPZy6HE0S4Vo=;9gw8dT0cAOqoOaeu+v/uKA=="
 ---

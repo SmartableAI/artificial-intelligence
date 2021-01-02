@@ -58,22 +58,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Hexagon arm sets up country’s first AI community centre in Hyderabad"
-    excerpt: "An Artificial Intelligence community centre that will offer courses free of cost to school students and engineering graduates as a step towards democratising AI knowledge cum skill has been established in the city by Hexagon Capability Center India (HCCI)."
-    publishedDateTime: 2020-12-28T18:23:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/hexagon-arm-sets-up-countrys-first-ai-community-centre-in-hyderabad/article33440148.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/hexagon-arm-sets-up-countrys-first-ai-community-centre-in-hyderabad/article33440148.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/hexagon-arm-sets-up-countrys-first-ai-community-centre-in-hyderabad/article33440148.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/news/cities/Hyderabad/ce8pkj/article33440156.ece/ALTERNATES/LANDSCAPE_615/hy28Hexa"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "/Co4RZMkrniydUzqbLIR9oktZOuOnn4hXZKdmTfrNUu3YM1cxV8uCYU7oXfbj1iAwdASnzXX9oc9ANDZSAG6gpVYoNeIidf2i2OXu8LMsEw806zlbjByKoSTnmPKno3GIvSE/3WvXQqY41tpFL5HuRMqefM1VrKh5QsZdSiO+gS2T6fBHwxHuaNBp5h5Nr17eij8TpjIi9P0ovv8BGk7xb+41RzVLtzmCwnrRcUJtTHE87t54uuOTLOME66/G8Ahgocl/zaayKHPwZ/OboZ5T5ekEegX/yqpA59I3vh6mAFgk6dR640YSJb8X1kZRYqvJ4p8KWcsWb6jCao7AqNBbkILUhhuYpm3t7fiTKzU80g=;GjQrsdaJPkUTRlXhUXTdfQ=="
 ---

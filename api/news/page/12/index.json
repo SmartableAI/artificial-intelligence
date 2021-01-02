@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-17-software-predictions-for-2020-from-around-the-industry.md",
+      "title": "Software predictions for 2020 from around the industry",
+      "excerpt": "Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
+      "originalUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-with-ai-maturing-are-humans-still-needed-to-fight-cybercrime.md",
       "title": "With AI maturing, are humans still needed to fight cybercrime?",
       "excerpt": "Cybercriminals are clever, and AI cannot always account for that. This is where cybersecurity and AI professionals come in.",
@@ -1150,57 +1202,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-vroom-acquires-ai-enabled-vehicle-information-provider-carstory.md",
-      "title": "Vroom Acquires AI-Enabled Vehicle Information Provider CarStory",
-      "excerpt": "Vroom's announcement that it will purchase AI-enabled info provider CarStory shows how used-car retailers are increasingly relying on data science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/",
-      "originalUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd96040fcae4acbbba931b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/amp/",
-      "publishedDateTime": "2020-12-16T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

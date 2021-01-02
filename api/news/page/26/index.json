@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-12-08-mgm-leverages-aws-for-its-supply-chain.md",
+      "title": "MGM leverages AWS for its supply chain",
+      "excerpt": "Film studio MGM has reached a multi-year deal with Amazon Web Services to power its media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms. The new MGM media supply chain will use AWS compute,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain",
+      "originalUrl": "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/12/bond.jpg",
+          "width": 768,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp",
+      "publishedDateTime": "2020-12-08T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
       "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
       "excerpt": "the startup provides an all-in-one solution for industry end users looking to harness artificial intelligence in industrial robots. \"We intend to solve pain points in industries with our capabilities.",
@@ -1122,58 +1165,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-researchers-can-use-qsim-to-explore-quantum-algorithms.md",
-      "title": "Researchers can use qsim to explore quantum algorithms",
-      "excerpt": "A year ago, Google’s Quantum AI team achieved a beyond-classical computation by using a quantum computer to outperform the world’s fastest classical computer. With this, we entered a new era of quantum computing. We still have a long journey ahead of us to find practical applications, and we know we",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
-      "originalUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
-      "publishedDateTime": "2020-12-07T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

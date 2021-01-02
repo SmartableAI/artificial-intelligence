@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-ga
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo’s driverless ride service moves metro Phoenix toward autonomous future"
+    excerpt: "An Arizona State University associate dean says he wouldn't be surprised if self-driving vehicles become \"fairly ubiquitous\" in a decade. #phoenix"
+    publishedDateTime: 2020-12-31T11:40:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html?ana=acbjcom"
+    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 51
   - title: "The Top 10 Patents of 2020: From Social Distancing Tech to Facilitating Driverless Vehicles in 5G Networks"
     excerpt: "As the world bids good riddance to 2020, this list of the Top 10 Patents of 2020 hopefully serves as a reminder that this year has not been a wasted opportunity for inventors."
     publishedDateTime: 2020-12-30T21:21:00Z
