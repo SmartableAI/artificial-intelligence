@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 type: article
 quality: 93
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: TechCrunch
@@ -33,72 +33,65 @@ images:
     isCached: true
 
 related:
-  - title: "Neural’s AI predictions for 2021"
-    excerpt: "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables."
-    publishedDateTime: 2020-12-28T08:09:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
+  - title: "AI jobs in 2021: here are some key trends"
+    excerpt: "Artificial Intelligence has been a bit of a buzzword this year. Artificial intelligence has been established as the main driver of emerging technologies such as big data, robotics, and the IoT. So, what do the next 12 months look like for AI?"
+    publishedDateTime: 2020-12-28T19:48:00Z
+    webUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/"
+    ampWebUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 191
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg"
-        width: 796
-        height: 417
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1284616756.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Biggest Enterprise AI Trends For 2021"
-    excerpt: "In that short time, we've seen AI find new solutions in enterprise networking, automotive, medical and other industries. This has resulted in artificial intelligence for IT operations (AIOps) moving from marketing hype to a useful tool being adopted across the enterprise."
-    publishedDateTime: 2020-12-30T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/amp/"
+  - title: "5 AI tools to help companies connect with customers in 2021"
+    excerpt: "As companies look for ways to improve customer engagement, more IT leaders will be turning their focus to artificial intelligence tools in 2021 to help teams stay connected with customers."
+    publishedDateTime: 2020-12-29T17:11:00Z
+    webUrl: "https://www.techrepublic.com/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/12/29/c241c807-3f6b-4a9c-99f5-5efe2c3bceec/resize/1200x900/3493c5602b2a50c620f7d963cacfb961/amplify-new.jpg"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
-  - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
-    excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
-    publishedDateTime: 2020-12-31T14:10:00Z
-    webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
+  - title: "How is AI Transforming Ecommerce in 2021"
+    excerpt: "As we all know that the ongoing pandemic has impacted business models.  But Artificial Intelligence with its self-teaching and learning algorithms will play"
+    publishedDateTime: 2020-12-31T09:20:00Z
+    webUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/"
+    ampWebUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
+    cdnAmpWebUrl: "https://techniblogic-com.cdn.ampproject.org/c/s/techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "An AI Agenda for the New Presidential Administration"
-    excerpt: "The end of the year, the end of one administration and the beginning of another, presents a time to consider what’s important and to set priorities. In the areas in which high-tech issues and the law intersect,"
-    publishedDateTime: 2020-12-28T17:59:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2020/12/28/an-ai-agenda-for-the-new-presidential-administration/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: techniblogic.com
+      domain: techniblogic.com
+    quality: 57
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/10/Katherine-B.-Forrest-Article-202010291004.jpg"
-        width: 620
-        height: 372
+      - url: "https://techniblogic.com/wp-content/uploads/2020/12/Artificial-Intelligence-1.jpg"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Infor’s top cloud and AI technology predictions for 2021"
-    excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
-    publishedDateTime: 2021-01-01T13:05:00Z
-    webUrl: "https://www.ameinfo.com/industry/digital-and-media/infors-top-cloud-and-ai-technology-predictions-for-2021"
+  - title: "AI to Become Mainstream in 2021"
+    excerpt: "As AI model deployment increases, IT teams will eventually take over AI lifecycle management from data scientists. One of the major downstream impacts for better or worse of the COVID-19 pandemic is the rate at which artificial intelligence (AI) technologies are being adopted within the enterprise."
+    publishedDateTime: 2020-12-31T20:10:00Z
+    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-become-mainstream-in-2021.html"
+    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-become-mainstream-in-2021.html"
+    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-become-mainstream-in-2021.html"
     type: article
     provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 17
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
 
 secured: "baA6oZ2YyYfj+mZE+QkKw/z0F0h/K3Hg5t5VIxtiKzm2XxIbAd72F6QNO3nLLC7LxGeHhbEWuK7EfVOv+w/AX7fXS4Xtj3drB3GA2dG8mi+ndXMYLfyOJuZMBoilSZvcXsShEEDoAk8JVtInmkBwGouk/2XJ+DdA/DHmjNP2U67DQA3Cr2DV6VBuqPa9Gm+REAygTH1vwDsb5GhOAmt0dBgi8SJHmhKuyPHOVlFarcBA+sndgNEi9HYFBfcCVfk1D5uBvgQZXnZIVxDAluivwmwLDG0NBrEz7226pTMy4RwMC9kKA5bq0HZp+X79bQjsTnfib4AiJA7JoZ8sVGJ2SdWdeyBbKkrl+MRVSsTWjwLxz4T0I5BACuNbt797FfxkdKbmt0kmr6OKtRXkkI45hRdPBHPXAcYMUiKsRD0e2FM+BL6FO9sOW3U1Xm9CpV6AWoluMxtoTktbCnOFXo4cfScb+xOB5Ap3ovzMJdITPkmXurxNxWvmJpum74y+Z8dtuLVLMmi7gvOq+DA9MvN04g==;UXiVVn1AupHNXt6DmTS1UA=="
 ---

@@ -25,74 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Neural’s AI predictions for 2021"
-    excerpt: "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables."
-    publishedDateTime: 2020-12-28T08:09:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/"
+  - title: "The New World Of AI-Based Adaptive Education"
+    excerpt: "AI technologies are now all around us, influencing every aspect of our lives and changing the world in the process"
+    publishedDateTime: 2020-12-30T10:12:00Z
+    webUrl: "https://www.entrepreneur.com/article/362540"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/362540"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 104
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1609323413-AI.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Here’s what happened in the world of artificial intelligence in 2020"
+    excerpt: "The year 2020 was long and treacherous, but the biggest bright spot for me was the official launch of Neural. That’s our AI sub-brand here at TNW and the section you’re reading this article in. More specifically,"
+    publishedDateTime: 2020-12-29T22:04:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
     type: article
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 191
+    quality: 89
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2020roboarm-796x417.jpg"
         width: 796
         height: 417
         isCached: true
-  - title: "How artificial intelligence will be used in 2021"
-    excerpt: "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3."
-    publishedDateTime: 2020-12-31T16:38:00Z
-    webUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/"
-    ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
+  - title: "The Building Blocks of Artificial Intelligence"
+    excerpt: "In popular culture, movies and the media often portray AI in a dark and dangerous light. However, experts believe that AI will actually positively augment the human race, though how exactly is still unknown."
+    publishedDateTime: 2020-12-31T14:12:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/building-the-blocks-of-artificial-intelligence"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 93
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 41
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
+        width: 1280
+        height: 675
         isCached: true
-  - title: "The Biggest Enterprise AI Trends For 2021"
-    excerpt: "In that short time, we've seen AI find new solutions in enterprise networking, automotive, medical and other industries. This has resulted in artificial intelligence for IT operations (AIOps) moving from marketing hype to a useful tool being adopted across the enterprise."
-    publishedDateTime: 2020-12-30T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/amp/"
+  - title: "The Evolution of Artificial Intelligence in Video Games"
+    excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."
+    publishedDateTime: 2020-12-29T11:41:00Z
+    webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-in-video-games/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/The-evolution-of-Artificial-Intelligence-in-video-games.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
-    excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
-    publishedDateTime: 2020-12-31T14:10:00Z
-    webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Infor’s top cloud and AI technology predictions for 2021"
-    excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
-    publishedDateTime: 2021-01-01T13:05:00Z
-    webUrl: "https://www.ameinfo.com/industry/digital-and-media/infors-top-cloud-and-ai-technology-predictions-for-2021"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 17
 
 secured: "m7U6du1e2HytTvLUzX6R9yCk4xFoYwX2C19OBPjhbKPZusrfw01wuTaqM1+nXb6XhGEHE6/pFe0y+xD59CX6FCwqHsRJhenMPkBGySqQifxezsN3e5Nap7PP1+qejWAdqNX+DOpBQoImWNzrfqVXt1BZd2ZJ9c7ltM11KdrtgysZwLZ8FeC8v8dKSsPAWcu4SiHIdhBHt22tFJ5d0ijxmACw0ympDhX6rpv41AChux5PwrMUzdejkgAbb6rcDWd60VgEhxh4/DDGusEzhSUYNQYTa6HAcp7ZvHtiDDUhgUEMP1lcDcKiMl6cTFtpPbcqQQ9cnaBqAwXt1tJMiW/jauVkoLPWMUnlz7aQQFR0BQJh1G3+bW65JC8DwPkgr8o16d2Ew8xe5GvnFkAR5LHy+rJbxJk3EPvF1zYMnaf/y42d0BG7nTBmoCN0dLanCWD8q7GuaBVHfl6Z7FpTg7L8I5sXsIUujV1st6ustSNnmokR3osCiQjb8zcL/eTFMadXwV9R+/MkMx9DLMw5cPfqvg==;GDvUkyBfnHuoxQMoF6AHPQ=="
 ---

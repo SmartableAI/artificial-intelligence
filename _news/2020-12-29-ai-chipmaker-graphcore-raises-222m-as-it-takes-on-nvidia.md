@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
 type: article
 quality: 176
-heat: 306
+heat: 316
 published: true
 
 provider:
@@ -216,6 +216,17 @@ related:
         width: 795
         height: 445
         isCached: true
+  - title: "Intel, Nvidia chip rival Graphcore raises $222M at $2.8B valuation for AI chip push"
+    excerpt: "AI chipmaker Graphcore announces raising $222M in a Series E funding round at a $2.77B post-money valuation, up from the $1.5B valuation two years ago. Key competitors in the AI c"
+    publishedDateTime: 2020-12-29T12:59:00Z
+    webUrl: "https://seekingalpha.com/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 48
   - title: "Chipmaker Graphcore raises $222m in bid to win the artificial intelligence war"
     excerpt: "A Bristol-based chipmaker hoping to power a new era of artificial intelligence has secured $222 million in fresh funding in an investment round that values it at $2.8 billion.The deal for Graphcore"
     publishedDateTime: 2020-12-30T00:01:00Z

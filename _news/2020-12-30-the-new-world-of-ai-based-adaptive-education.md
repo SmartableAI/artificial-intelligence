@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362540"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
         width: 1280
         height: 675
+        isCached: true
+  - title: "An AI Agenda for the New Presidential Administration"
+    excerpt: "The end of the year, the end of one administration and the beginning of another, presents a time to consider what’s important and to set priorities. In the areas in which high-tech issues and the law intersect,"
+    publishedDateTime: 2020-12-28T17:59:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2020/12/28/an-ai-agenda-for-the-new-presidential-administration/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/10/Katherine-B.-Forrest-Article-202010291004.jpg"
+        width: 620
+        height: 372
         isCached: true
   - title: "The Evolution of Artificial Intelligence in Video Games"
     excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."

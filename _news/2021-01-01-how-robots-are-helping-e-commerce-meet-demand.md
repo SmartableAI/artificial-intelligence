@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/video/2020/12/31/how-robots-are-helping-e-com
 webUrl: "https://www.cnbc.com/video/2020/12/31/how-robots-are-helping-e-commerce-meet-demand.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CNBC
@@ -27,24 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "How is AI Transforming Ecommerce in 2021"
-    excerpt: "As we all know that the ongoing pandemic has impacted business models.  But Artificial Intelligence with its self-teaching and learning algorithms will play"
-    publishedDateTime: 2020-12-31T09:20:00Z
-    webUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/"
-    ampWebUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
-    cdnAmpWebUrl: "https://techniblogic-com.cdn.ampproject.org/c/s/techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
-    type: article
-    provider:
-      name: techniblogic.com
-      domain: techniblogic.com
-    quality: 57
-    images:
-      - url: "https://techniblogic.com/wp-content/uploads/2020/12/Artificial-Intelligence-1.jpg"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "imxwo8xaZ6YxIcThqDhZitSJvedubsDw6s2uG7RIq7aF8Y+nGjokewiiIEE6a9USRl92ob7Za41m8BgZ/tMtmyEbBVdlIzhDLS9zZlzjpjMOxappkQKWgW3KstpAbKuxvGpbjvVsSZ2YnT5GS5rQSOWZGrO7vrK7pMkueHAifDp3dIuoE91YbwZrNArA/EfDNW5QTvon9t7ReU0RnCjELuWcJYjcDjtnrghDmXyJF7Ufq7fmdTm20rF5jBwNn+CZL3O839WVouyb9YEU1GM8V0o3a77przvgJllZmlNWcFGTCqbe5RtPhG4M1pEgW6SPmTftaxYtLETUc0wugwIgjv2N12Jnr9QmcyECnb3zPHI=;RNjJWJi9b301KF0ixC9LPQ=="
 ---

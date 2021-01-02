@@ -2,19 +2,19 @@
 category: news
 title: "Black man in New Jersey sues after false facial recognition lands him in jail"
 excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
-publishedDateTime: 2020-12-30T14:28:00Z
-originalUrl: "https://abc13.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-webUrl: "https://abc13.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-ampWebUrl: "https://abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+publishedDateTime: 2020-12-30T14:36:00Z
+originalUrl: "https://6abc.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+webUrl: "https://6abc.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+ampWebUrl: "https://6abc.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: abc13.com
-  domain: abc13.com
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
   - Computer Vision
@@ -136,9 +136,9 @@ related:
   - title: "Black New Jersey Man Says He Spent 10 Days In Jail Over Faulty Facial Recognition Software"
     excerpt: "Nijeer Parks became the third person to come forward as a victim of mistakes made by facial recognition software used widely within police departments and law enforcement agencies, according to his lawsuit and an interview with The New York Times ."
     publishedDateTime: 2020-12-29T22:48:00Z
-    webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-    ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
-    cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software"
+    webUrl: "https://blavity.com/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+    ampWebUrl: "https://blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
+    cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-new-jersey-man-says-he-spent-10-days-in-jail-over-faulty-facial-recognition-software?category1=news&category2=news"
     type: article
     provider:
       name: Blavity
@@ -265,6 +265,6 @@ related:
         height: 382
         isCached: true
 
-secured: "xAqVAD54vQcjeKPj8ZFjKOAzWkngWUhhcaW894KSvZOuotRmVhQqfLEgKtTta8NJbHzB0r6ah3Wput5TuqRosBbVfwV5+ZqEpGkty1Ptb5AewWPPJivw7maVOmSyU8aNnsUzz+NaLf23bDU3QplTOeKPDGqqk7u+ITIzbaOclouzRIw4NUaMGNIWB1pXJuVGBqEcOrYSKrN+iIT9agsQIgAc3R50muEMT1gMDM4DTkLGriwqVzKADGL0AeOie9LsTr2l/0xf7O+cupcGFtQDV0WiOO9C+QYUB0oTcqdYBeOW8DX4T97ZStGlpmPYZG/yUXEyWSiDVxZGt9FcBBJZXi4JqaUtZRfKun6C5Z+iqiIOOiSUcTrEBuwj0G6zup+V8HHGh5fgKVba/WhNZ9uj+UFE/M844O6pbhQWsgJyvjobU7lRVG/lpoaSsRaRN5+sVeUZxC4XTO2C0BVWeVH0OPlKgTCrKXTn+EnZUVXhfKpKyLEKBjLc+HAXvCW30LVCQN520dP941HXuh2xw3Axlg==;bdPNa/uKu4FNsxXsLQoyyw=="
+secured: "Fif4JJfF1Osrtju/sLBQxd+V5PQ+z2BkUXs4a/Uhw9KkU7FBs2FOeUhrnNv5ALusYzGl9v8aE/yxDRewYkdauYO3394QlXIGyK+HOGnV6q1j6wNBp6YuySjH5zOTHSk5kDhkqUzELQzMCjiPXW8nVqCKFz3RBzOlxccH4uWLnXoWy4+1p/XlLN0wqGFVeZ8jca9PEFApBKT/i921kwGbkU91HiSzPScBeXvtsBq3Ma/spwKRHu4yvIMKSduiOdGji1QJ2JsJbkbrzkucrDJJrDNxkD7mqV7sKAE545ejj76aLQpWZz78JKHkm49HloPlTqnxGQ0soAijnZmAwDwv5ByqGKM3Hb/h2YskvovuWn1NmeRa9qXxWvDyI4V7bYZCObLFmX76ftmdZ4oExsTAAI98bSnorACGLZjBm0il29EO/rVtssStYDefbu3DPNKH/MUVQdLbgtS/5iVMo9DYaC3ICtX49d8DEuVVtrXOkJ2GMin9qbSDn2ms11jsht0WyGLUFFRBmXVEVskXHPc5TQ==;HiS4k5ipHuYKgheOoawVTA=="
 ---
 

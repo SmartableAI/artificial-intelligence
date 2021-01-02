@@ -228,6 +228,17 @@ related:
         width: 795
         height: 445
         isCached: true
+  - title: "Intel, Nvidia chip rival Graphcore raises $222M at $2.8B valuation for AI chip push"
+    excerpt: "AI chipmaker Graphcore announces raising $222M in a Series E funding round at a $2.77B post-money valuation, up from the $1.5B valuation two years ago. Key competitors in the AI c"
+    publishedDateTime: 2020-12-29T12:59:00Z
+    webUrl: "https://seekingalpha.com/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 48
 
 secured: "xcGnf/aavp9oCnTqzbiVbPR4pcV4i7ueHds7YDaVoEjicODPJwtY7mHjeWwFy7lYjsy8mQ5ApBHbObIntl4G07+viKfvBvTynDk4cCHHwRo6Xiec0C6xxhLMC8heAI3IH/cvtkJmJlvXT/HDOl0+osLYGGc1B2UKILg2mlisubQPgRE++TDKgX+v61J/uT4+CLK/M1kmkIIUQ7dpDR8cDYYvCqArhB4vUjZb+Eac51wqJWLgaiGv1uzbCw+ikXz5SSqRe7wYd4B/4/OEN6hYAS+OrbaHfaKTZi/v9RpWhEbs3uJ9bQ8/PHB6COQWDMGWd3u5GRt78u2/Ko/hHrOjRiyJ5kH60FMvxb6/q7bAmYdsJ8IwNPgjIbvEdvxy7V0NVj5xsgLG//K7q2vf23eixU3dr0M2TGtSWSZOho24ZOpn3UXIyM93gF29QitJLa78s7q09RfY/PiR7PLk3pVgHmfI+7ZrLxOTdVAdBzweuDN4sMSWwN/4fA0euG/50WQdW95PSEpsQxwmUeNeLrbDVg==;x+1lsCqS0ur8LZ9D/GmA0Q=="
 ---

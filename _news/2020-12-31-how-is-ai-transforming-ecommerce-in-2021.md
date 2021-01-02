@@ -26,20 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "How robots are helping e-commerce meet demand"
-    excerpt: "CNBC's Frank Holland reports on the use of robots and artificial intelligence to help meet the demand in online shopping."
-    publishedDateTime: 2020-12-31T20:19:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/31/how-robots-are-helping-e-commerce-meet-demand.html"
+  - title: "How artificial intelligence will be used in 2021"
+    excerpt: "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3."
+    publishedDateTime: 2020-12-31T16:38:00Z
+    webUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/"
+    ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 93
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106818119-16094445271609444525-13247289948-1080pnbcnews.jpg?v=1609444527"
-        width: 1920
-        height: 1080
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
+  - title: "AI jobs in 2021: here are some key trends"
+    excerpt: "Artificial Intelligence has been a bit of a buzzword this year. Artificial intelligence has been established as the main driver of emerging technologies such as big data, robotics, and the IoT. So, what do the next 12 months look like for AI?"
+    publishedDateTime: 2020-12-28T19:48:00Z
+    webUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/"
+    ampWebUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1284616756.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 AI tools to help companies connect with customers in 2021"
+    excerpt: "As companies look for ways to improve customer engagement, more IT leaders will be turning their focus to artificial intelligence tools in 2021 to help teams stay connected with customers."
+    publishedDateTime: 2020-12-29T17:11:00Z
+    webUrl: "https://www.techrepublic.com/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/12/29/c241c807-3f6b-4a9c-99f5-5efe2c3bceec/resize/1200x900/3493c5602b2a50c620f7d963cacfb961/amplify-new.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "AI to Become Mainstream in 2021"
+    excerpt: "As AI model deployment increases, IT teams will eventually take over AI lifecycle management from data scientists. One of the major downstream impacts for better or worse of the COVID-19 pandemic is the rate at which artificial intelligence (AI) technologies are being adopted within the enterprise."
+    publishedDateTime: 2020-12-31T20:10:00Z
+    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-become-mainstream-in-2021.html"
+    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-become-mainstream-in-2021.html"
+    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-become-mainstream-in-2021.html"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
 
 secured: "kAj09P/nFyKJmFhHn5fYVaH45xnHX1ozc2jQAzD2P7MOckIIRk9dcCS8UbCtF4tisFTEBXw8lHo3o+aTpkNWxk0GNcjFcj07ptJjG4asYF4dUmlYu7CcmsJpjOq2Vn3icYYroHW7DWfLfmFOrXFcodAL64nMi16CYq1w4hgHXd60l72f2QN/N5H3xAc8uVGdVdO8kguSHY3OsNExDn3dm1eH5NEY0IhJNNEZmt0o1yo9v2E14zfZxJzUev06pHe8XInS5BT1B9ciIYQ9vll81dlY13rHJ4jnhZRj7K7W86NjF/ADk+wx09S0Gu4xhKFxMKmr0kJk+YyAIoAuR+fIls3WYnGTHDiNaoWWCX6tbNUJ4lQcZY6LHc1QCZXdsJZqCFpFasz8kDo7gg0E/5Zype1FC6zNTfD5HuEdOF99PuR7ePUHXYMPB3FdoP/2/rQlFztmTUNSVnJw/0vKPUT0Cn4KBGryBbvQ3h9iPKI76yt+vZ3A3gHr37YmRVTWDADvKWRkG0tj/sKMuUJMSmyl/A==;/xZCr8GsKHEmYgVOaOsumA=="
 ---

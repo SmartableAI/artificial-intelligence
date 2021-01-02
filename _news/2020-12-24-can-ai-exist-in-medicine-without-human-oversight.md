@@ -21,6 +21,7 @@ topics:
   - AI Ethics
   - AI in Healthcare
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://img.medscape.com/thumbnail_library/medicine_machine_thumb.jpg"
