@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in"
 publishedDateTime: 2020-12-21T10:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
-webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+originalUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
+webUrl: "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
-secured: "6p5tEkvCeuJGKuWch55x13XLed79xP/zwP3RYM1isf3r/hVKPuiryZZGko6HmCM2gCNdh9Ze2mfU5nicbTlpSJAV9/27gpeDKqNEc72I+Z90GlCMgGR4gqfrzpxAMK56s6LlPxvCv9zpmLg6eCxCp46YDKCbo9HN69iGMKvdF526eTqcY1KderlhtT0UxuQ7laa5fnafUtzSZ+uG8xpTmCnY2qTEXDNm1iqiZoQsVqmurGhK3coZ+EmSiRUsBWZvPB95RVEIccqzPGYoyv+ULAl5v2ZpEpbruFiAfcNKNKV5hIvnY41hzN/9/LTqJA9pMXPgakEY67D1CJPaOfx1KbWxVC7j8GykNDzCON8f1nk=;EdKdFEbJsZCItCZPOiDo5Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook"
+    width: 1198
+    height: 628
+    isCached: true
+
+secured: "5C5ZkFJazamOZKPEQUdlhGk2RWA05SmKx7+29UoufADswK92/XAo/B8XrPF4hVByHYA5G8+dAo2GSrPkNfeuRnRwnlViBfqs9Kvq8k9cTONYIKwTfSaBfShMP9LCM9ey+B4eh9orLMIM9aspKJnNll+t0k03bEfoIK1kXtuB0PSmendymzxS5LNimiDCM4ZMjSHOTwXdMZR1i/2Ou3i1qFnZOTHIJyHFSn/TURBTBYu6DLncZsBPUZZEA19sJ1JuD/AGWeUFysXb69QZoC4qibrBIKdFG9tseWmgwp3wFeb8zG8khW2FmxOBFFhH0d97Ylx+z6k6isxW3J1hLOsk0uJxa6YsMO8qF3UCmt0UMZU=;U9GXOSxzy2kbTRdyU2tzLg=="
 ---
 

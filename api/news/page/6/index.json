@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-23-how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast.md",
+      "title": "How Foxconn built an end-to-end forecasting solution in two months with Amazon Forecast",
+      "excerpt": "This is a guest post by Foxconn. The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post.&nbsp; In their own words, “Established in Taiwan in 1974, Hon Hai Technology Group (Foxconn) is the world’s largest electronics",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1741-1.jpg",
+          "width": 800,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T10:33:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader.md",
+      "title": "OMNIQ AI-Based Machine Vision Safety System Selected for Security and Protection of a Non-U.S. Government Leader",
+      "excerpt": "OMNIQ's safety system is a ground-breaking cloud/on-premises-based security solution for Homeland Security, Safe City and Safe Campus applications that uses unique, patented AI-based computer vision technology and software to gather real-time data in order ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/g18914280/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-u-s-gove",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/g18914280/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-u-s-gove",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18914280",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18914280",
+      "publishedDateTime": "2020-12-23T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-3-ai-stocks-to-snap-up-for-explosive-returns-in-2021.md",
       "title": "3 AI Stocks to Snap Up for Explosive Returns in 2021",
       "excerpt": "In 2019, the company acquired software and hardware startup, FWDNXT in a bid to deliver high ... on democratization of AI by development of conversational AI, ML, data sciences, robotics, and IoT. Moreover, Microsoft’s Azure contains AI-driven tools ...",
@@ -509,6 +596,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-microsoft-developing-its-own-chips.md",
+      "title": "Microsoft developing its own chips",
+      "excerpt": "Looks like Apple was not the only one Software King of the world Microsoft is designing its own processors to be used in cloud systems and Surface computers as part of a cunning plan to reduce reliance on Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/52103-microsoft-developing-its-own-chips",
+      "originalUrl": "https://www.fudzilla.com/news/52103-microsoft-developing-its-own-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/20c70d92e248b2d19e62fc05d27afbe1_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1031,143 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
-      "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
-      "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "originalUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/1296254/20201222/080245/styles/patch_image/public/carternewtoday___22195027135.jpg?width=984",
-          "width": 495,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "publishedDateTime": "2020-12-22T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
-      "title": "Koo Kwang-mo's robotics push starts to pay off",
-      "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202012/49f47f19d777441eb7b1b39e349401ac.jpg",
-          "width": 980,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "publishedDateTime": "2020-12-22T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-roast-your-own-spotify-listens-with-this-snarky-ai.md",
-      "title": "Roast your own Spotify listens with this snarky AI",
-      "excerpt": "If you want to be judged, you open a page titled “How Bad is Your Spotify” and you log in with your Spotify account. (It might take a couple refreshes on the “Loading your music library” page.) This absolute jerk of an AI then drags you mercilessly while it pulls your playlists and top tracks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "originalUrl": "https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/hamXm1ANrHMEOELR53wT_VXLWQs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68569960/acastro_180213_1777_0004.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music",
-      "publishedDateTime": "2020-12-22T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

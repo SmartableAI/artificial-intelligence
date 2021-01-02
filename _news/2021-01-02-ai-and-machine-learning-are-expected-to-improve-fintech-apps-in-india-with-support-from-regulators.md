@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learn
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -86,17 +86,6 @@ related:
         width: 1204
         height: 650
         isCached: true
-  - title: "Government Policies are Evolving Quickly in India, and Provide a “Favorable Backdrop” for Fintech, Industry Exec Reveals"
-    excerpt: "Government policies are evolving quickly in India, and provide a \"favorable backdrop\" for Fintech, industry exec reveals."
-    publishedDateTime: 2020-12-29T04:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "0tsp9gv1K4f2+ts8aWlKnv5/vs6tion/TZzHk3bMXh+a8jCLH2DwTDgGn8RE8W6WVoVaQQlv2Un1+IaIsFYuRWI+6ZVHk72gI0a8U+t1VUjRC9NL+heYigtW/n4BwNNVQSrRlOtpyIkVs1SdT+/wZdyvGAyWFMLWPKUYQnXo4uVbnFmu1tyJ6fW+yJ6LYVHP27/OXvNqR6wPj+lSjkW40soqS08VivF75blV7iwxexK9mK/buy/8xeEnfn5hS03OToel+4fJXYZPlXDD1e1xi+Dp8rbSeV/ctnPrjbrLflUjxNjghKszP1G/1Y6I7jQV0opZs5CtqA+ChVlO9YXuxNnA74l90THUQwbaFDJ4yicuq4BqG5pKGS0IjKkqz5/909NC/PLstKXjlweEwvXVo9WPYbG9GiirIhEa3q/a6HtsCbH4EJkPPZHVdfZn2h6FGmYpQTW6Jz0tXNiD6gwvfzxp+jswLumDYDVi7e5M7brxOfQzAZ4+dCPjQ5Nl/fQQqXoK7iuxz5ByCsWvo1KIVg==;mVszUMhx8LNDQGR00RDL8A=="
 ---

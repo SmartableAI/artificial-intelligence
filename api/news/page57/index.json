@@ -2,6 +2,152 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-17-autodesk-acquires-ai-based-design-firm-spacemaker.md",
+      "title": "Autodesk acquires AI-based design firm Spacemaker",
+      "excerpt": "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "originalUrl": "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/11/16/a0661235-44d1-4c94-82a2-f0bb03bbcd4f/tandem-screenshot.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "publishedDateTime": "2020-11-16T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Market Size, Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2027",
+      "excerpt": "The global artificial intelligence in healthcare market is anticipated to record a CAGR of 45.3% over the forecast period i.e. 2019-2027. On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T21:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-twitter-facebook-ceos-defend-election-actions-promise-more.md",
+      "title": "Twitter, Facebook CEOs defend election actions, promise more",
+      "excerpt": "Facebook CEO Mark Zuckerberg ... the company this week in a dispute over a research paper examining the societal dangers of an emerging branch of AI. SAN FRANCISCO, Calif. (KRON) -- Twitter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/",
+      "originalUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/11/AP20322576166686.jpg?w=1280",
+          "width": 1280,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/amp/",
+      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/amp/",
+      "publishedDateTime": "2020-11-16T21:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-facebook-increasingly-reliant-on-ai-to-predict-suicide-risk.md",
       "title": "Facebook Increasingly Reliant on A.I. To Predict Suicide Risk",
       "excerpt": "Mason Marks isn't surprised that Facebook is employing AI this way. He's a medical doctor and research fellow at Yale and NYU law schools, and recently wrote about Facebook's system. \"Ever since ...",
@@ -1034,160 +1180,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-intervenn-biosciences-raises-34-million-to-accelerate-cancer-test-development-with-ai.md",
-      "title": "InterVenn Biosciences raises $34 million to accelerate cancer test development with AI",
-      "excerpt": "InterVenn Biosciences, a company developing an AI-imbued platform for diagnostic cancer test design, raised $34 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/",
-      "publishedDateTime": "2020-11-16T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus.md",
-      "title": "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs",
-      "excerpt": "NVIDIA has revealed its newest workstation, and if you’ve always wanted a gleaming gold obelisk capable of putting petascale power on your desktop, the DGX Station A100 should do the trick.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
-      "originalUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
-      "publishedDateTime": "2020-11-16T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-new-motorcycle-technology-provides-ai-driven-protection-for-riders.md",
-      "title": "New motorcycle technology provides AI-driven protection for riders",
-      "excerpt": "RideVision bundles a suite of rider-assist and active safety technology into one suite for riders. Active safety technology and driver-assist features continue to spread across the automotive industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/iSySC5vXP-egqULB9Xmj5RPTF5E=/2020/11/16/73c7f009-7de4-4baa-af6c-7bd3838dfcd2/ogi-ridevision.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
-      "publishedDateTime": "2020-11-16T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

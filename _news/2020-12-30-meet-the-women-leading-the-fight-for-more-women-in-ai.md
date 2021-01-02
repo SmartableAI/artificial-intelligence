@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/03/franck-v-740555-unsplash-1-e1573833675406.jpg?w=1200&strip=all"
         width: 1200

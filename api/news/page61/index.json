@@ -2,6 +2,163 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-11-14-pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library.md",
+      "title": "PyTorch Developer Day brings a number updates to the machine learning library",
+      "excerpt": "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
+      "originalUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png",
+          "width": 498,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together.md",
+      "title": "OpenAI proposes using reciprocity to encourage AI agents to work together",
+      "excerpt": "Researchers at OpenAI propose a new technique to encourage AI agents to work together to solve complex challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
+      "publishedDateTime": "2020-11-13T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-5-ways-to-celebrate-tensorflows-5th-birthday.md",
+      "title": "5 ways to celebrate TensorFlow's 5th birthday",
+      "excerpt": "Five years ago, we open-sourced TensorFlow, our machine learning framework for research and production. Our goal was to expand access to state-of-the-art machine learning tools so anyone could use them.Since then, TensorFlow has become the most popular machine learning library in the world, with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
+      "originalUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TFDS19_411_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
+      "publishedDateTime": "2020-11-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
       "title": "Ocado shops its way to a robotics platform for groceries and beyond",
       "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
@@ -1036,135 +1193,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-system-brings-deep-learning-to-internet-of-things-devices.md",
-      "title": "System brings deep learning to “internet of things” devices",
-      "excerpt": "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT).",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
-      "originalUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Tiny-AI-01.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T21:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-artificial-intelligence-and-the-law.md",
-      "title": "Artificial Intelligence and the Law",
-      "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "originalUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-infosys-delivers-cloud-powered-cognitive-first-managed-services-for-it-operations.md",
-      "title": "Infosys delivers cloud-powered, cognitive-first managed services for IT operations",
-      "excerpt": "The open, end-to-end managed services platform for IT operations ... seamless experience journeys Applying conversational AI and cognitive automation to enable self-service, improve efficiency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.helpnetsecurity.com/2020/11/13/infosys-live-enterprise-application-management-platform/",
-      "originalUrl": "https://www.helpnetsecurity.com/2020/11/13/infosys-live-enterprise-application-management-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

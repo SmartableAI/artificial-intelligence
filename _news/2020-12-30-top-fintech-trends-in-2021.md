@@ -85,17 +85,6 @@ related:
         width: 300
         height: 302
         isCached: true
-  - title: "Government Policies are Evolving Quickly in India, and Provide a “Favorable Backdrop” for Fintech, Industry Exec Reveals"
-    excerpt: "Government policies are evolving quickly in India, and provide a \"favorable backdrop\" for Fintech, industry exec reveals."
-    publishedDateTime: 2020-12-29T04:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170688-government-policies-are-evolving-quickly-in-india-and-provide-a-favorable-backdrop-for-fintech-industry-exec-reveals/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "m5omB+GGerG5JHrmXTa6L+oA7WZ5lC7tV0vuSQb7YVe7A4UsjFizdfwLESvSXzZSDaY80iprdR5WBWHLabX4NjwVx3WD2QdZR/hhLOe5fpB0EGJE7BAqjz3NAS/J7tFM4Tt2FoyzlBCEY1UMgTIQLVq8y9WO0jbUy57w3Je7EAFvi2GAZ2S97TMUqF1ib6s8l90aCIVCClJ3POEBrJRjsXePMWAZiICco6PwuVH/QXPqlZYJvIY79NzsEaHqc030Hzd9uiums/2gXsDuRPMl1ncDJhnGWBqq1hK8ZGmt1Q7UkMQk6mE7YD2ksK0/YPvtLg+akAF0dfco4t9JNx4r+r7IYEedmzhfWndUN5N8LUM=;XetlcP4wtkuM4BgVMTy3eg=="
 ---
