@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-11-03-samsung-will-shut-down-s-translator-soon.md",
+      "title": "Samsung Will Shut Down S Translator Soon",
+      "excerpt": "Samsung has announced plans to shut down S Translator. The outdated language translation service will reach its end of life on December 1, 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "originalUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Samsung-Logo-2019-AM-AH-1.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "publishedDateTime": "2020-11-03T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
       "title": "3D-printed hearts, self-driving buses, and robots",
       "excerpt": "For the fourth straight year, a survey by IEEE presents a snapshot of how the newest generation of parents, whose kids belong to Generation Alpha, think of artificial intelligence and other ...",
@@ -1121,40 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade.md",
-      "title": "Siemens Healthineers and University of Iowa Health Care Team Up to Advance Care for Iowans Over the Next Decade",
-      "excerpt": "Siemens Healthineers and University of Iowa Health Care Establish 10-Year Value Partnership to Expand Access to Imaging Technology, Artificial Intelligence Tools, Research, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
-      "originalUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMJ",
-        "domain": "wfmj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

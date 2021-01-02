@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI jobs in 2021: here are some key trends"
-    excerpt: "Artificial Intelligence has been a bit of a buzzword this year. Artificial intelligence has been established as the main driver of emerging technologies such as big data, robotics, and the IoT. So, what do the next 12 months look like for AI?"
-    publishedDateTime: 2020-12-28T19:48:00Z
-    webUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/"
-    ampWebUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1284616756.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How is AI Transforming Ecommerce in 2021"
     excerpt: "As we all know that the ongoing pandemic has impacted business models.  But Artificial Intelligence with its self-teaching and learning algorithms will play"
     publishedDateTime: 2020-12-31T09:20:00Z

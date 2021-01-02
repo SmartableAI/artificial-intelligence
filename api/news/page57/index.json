@@ -2,6 +2,50 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-17-e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime.md",
+      "title": "e-Book: Machine learning will (eventually) help win the war against financial crime",
+      "excerpt": "This e-Book, from Compliance Week and Guidehouse Inc., explores how the adoption of machine learning in fighting financial crime will likely explode as technology solutions become more effective and efficient—driven by work-stream prioritization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
+      "originalUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/pictures/web/b/e/m/cybr21rrisk_7_hp_390x260_617137.png",
+          "width": 391,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Compliance Week",
+        "domain": "complianceweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning.md",
       "title": "HUAWEI CLOUD Named a Leader in Predictive Analytics and Machine Learning",
       "excerpt": "HUAWEI CLOUD was listed in the Leaders segment based on its scores in current offering and strategy, according to The Forrester Wave™: Predictive Analytics and Machine Learning in China, Q4 2020 report.",
@@ -1154,49 +1198,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller.md",
-      "title": "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller",
-      "excerpt": "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-1029806870",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-1029806870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870",
-      "publishedDateTime": "2020-11-16T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

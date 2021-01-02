@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-13-netflix-explains-how-it-uses-ai-to-sell-you-on-a-show.md",
+      "title": "Netflix explains how it uses AI to sell you on a show",
+      "excerpt": "Netflix has explained how it uses AI to decide how to not only pitch movies, but predict their audiences — it's not just relying on execs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
+      "originalUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F73c97250-3cae-11eb-bd9d-6856f6ef8b98&client=amp-blogside-v2&signature=424034cddd4fcf1b4a10d4b979da695a6463bdd3",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
+      "publishedDateTime": "2020-12-12T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-c3ai-ipos.md",
       "title": "Investors double down on tech stocks in massive DoorDash, Airbnb, C3.ai IPOs",
       "excerpt": "Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. Maybe it is a stock market bubble, or a tech-stock bubble at least.",
@@ -1198,49 +1249,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-natural-language-processing-nlp-market-analysis-trends-growth-size-share-and-forecast-2019-to-2025.md",
-      "title": "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025",
-      "excerpt": "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "originalUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc11826692_g.jpg",
-          "width": 564,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "publishedDateTime": "2020-12-11T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

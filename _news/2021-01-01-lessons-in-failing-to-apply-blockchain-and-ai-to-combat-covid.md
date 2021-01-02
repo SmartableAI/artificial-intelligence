@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/lessons-in-failing-to-apply-blockchain-and-
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/lessons-in-failing-to-apply-blockchain-and-ai-to-combat-covid?amp=1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "How COVID-19 is driving AI in the mortgage industry"
-    excerpt: "With the move toward a remote workforce and the real estate market booming, integrating artificial intelligence can create a competitive advantage."
-    publishedDateTime: 2020-12-28T19:46:00Z
-    webUrl: "https://www.housingwire.com/articles/how-covid-19-is-driving-ai-in-the-mortgage-industry/"
-    type: article
-    provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 37
-    images:
-      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_228678481-e1595368662513.jpeg?resize=1024,717"
-        width: 1024
-        height: 717
-        isCached: true
 
 secured: "Tzt+UzZYLq9xdnOXbV90CE6+gb0k1DPYmZU8i8U+LBcdPQPAzv0Ok2dU8B6hdEcErdkWSseaaYIvXayGBpVPH36sIirTF9ceXhZasJTCGUj/uyV3qUsHhyZCSAGKC7iyqJdfRIORfyI2MBZ8zSJo6yC2PUMJf26eN6X8bvoHwmPygtg72/ibFo3uVFWvy9yjKDuWdB7B82d428dWvkm7aNSss3JhHSlWNPUiApCbuBnS/QL6axm+VqTuMH9BCiiovN/m2OYgUfCF7pD/CEHnXpgmr/9MhFXKvD3i/HhNPBVEaZjr1SWWdSp4GuwOU2/oyDjrtop8cyJDvQr6Ybe05J4ZT41SGsOs3CnDApoICn4kyWzEDPmb+aki4LmfSyWOvuUmwH7POAppLIUPsUYVDP+q0M3RzoSqD4MN3ND9WKyM9JUNg/s34PnVeprYr3m+q63HOIP56xeZXdZo06AR7uMtq45vbpQM/LUOcs8pNp2k5wLt/mwzPEmjRqiGzX2TNinu70E4ZOEPDDyucFKwrQ==;cSE6zrQvCVYYRDLUqegjZg=="
 ---

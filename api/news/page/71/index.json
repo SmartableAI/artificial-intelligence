@@ -2,6 +2,57 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-11-07-meet-the-ai-generated-bipartisan-president-of-the-us.md",
+      "title": "Meet the AI-generated bipartisan president of the US",
+      "excerpt": "A Dutch artist known as Most used AI to create a range of unifying political slogans and then fused them with a morph of Trump's and Biden's faces.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-06T180810.587-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/amp/",
+      "publishedDateTime": "2020-11-06T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks.md",
       "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
       "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a",
@@ -1092,49 +1143,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management.md",
-      "title": "Grizzly bear facial recognition promises to revolutionize wildlife management",
-      "excerpt": "A facial recognition system for grizzly bears could usher in a new wave of celebrity animals that scientists and the public could follow through their lifetimes. Biologists at the University of Victoria have teamed up with software experts to create an artificial intelligence (AI) that can recognize individual bears even though they don’t have much in the way of identifiable facial features.",
-      "sourceUrl": null,
-      "webUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management",
-      "originalUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/11/258343459-bear_face_detection_melanie_clapham_004-w.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/",
-      "cdnAmpWebUrl": "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/",
-      "publishedDateTime": "2020-11-06T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Province",
-        "domain": "theprovince.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

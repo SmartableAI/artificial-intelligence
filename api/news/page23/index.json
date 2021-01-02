@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-09-breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence.md",
+      "title": "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence",
+      "excerpt": "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive ch",
+      "sourceUrl": null,
+      "webUrl": "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/",
+      "originalUrl": "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sciencebulletin.org/wp-content/uploads/2020/12/Breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://sciencebulletin-org.cdn.ampproject.org/c/s/sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/?amp",
+      "publishedDateTime": "2020-12-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Bulletin",
+        "domain": "sciencebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-computer-vision-software-market.md",
       "title": "Computer Vision Software Market",
       "excerpt": "The Global Computer Vision Software Market analysis report published on ReportsnReports.com is a detailed study of market size, share, and dynamics covered in XX pages and is an illustrative ...",
@@ -1077,49 +1120,6 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-viacomcbs-migrating-entire-broadcast-footprint-to-amazons-aws-cloud-exclusive.md",
-      "title": "ViacomCBS Migrating Entire Broadcast Footprint to Amazon’s AWS Cloud (EXCLUSIVE)",
-      "excerpt": "Those include AWS Elemental media services, Amazon Rekognition (AWS’s service that adds image and video analysis to applications) and Amazon SageMaker (AWS’s service for building, training ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/",
-      "originalUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2020/09/viacomcbs-logo.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/",
-      "publishedDateTime": "2020-12-08T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

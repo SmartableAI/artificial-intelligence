@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
+      "title": "Off The Menu: Robotics gains foothold in fast food",
+      "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "originalUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4SMERC4X5GKFJOQMUZ6RZWABU.jpg",
+          "width": 1600,
+          "height": 1078,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "publishedDateTime": "2021-01-02T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-11.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 1.1%",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shares were up 1.1% during mid-day trading on Wednesday . The stock traded as high as $50.43 and last traded at $50.28. Approximately 50,",
@@ -105,7 +148,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -293,8 +336,8 @@
       "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
       "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
       "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "originalUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "webUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -311,13 +354,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "publishedDateTime": "2020-12-30T18:34:00-08:00",
+      "ampWebUrl": "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "publishedDateTime": "2020-12-30T17:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
+        "name": "WMUR9",
+        "domain": "wmur.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1364,50 +1407,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-brain-controlled-gaming-exists-though-ethical-questions-loom-over-the-tech.md",
-      "title": "Brain-controlled gaming exists, though ethical questions loom over the tech",
-      "excerpt": "Celebrities and tech companies ranging from the game developer Valve to Elon Musk are invested in its revolutionary potential. But even as BCI research holds remarkable promise for Copeland and those like him,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
-      "originalUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRG3FCQEOZEVXE4JZOAOOANZRI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
-      "publishedDateTime": "2020-12-16T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

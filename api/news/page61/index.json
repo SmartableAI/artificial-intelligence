@@ -2,6 +2,58 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-11-14-6-training-trends-to-watch-that-will-define-the-workplace-in-2021.md",
+      "title": "6 training trends to watch that \"will define the workplace in 2021\"",
+      "excerpt": "With the shift to remote work amid the coronavirus pandemic, online learning related to mindfulness, cybersecurity, and hybrid tech capabilities surged, Udemy found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/13/0b463f03-29cb-4b8b-94ea-a78eef035a6b/resize/1200x/01128683e6fc1503bc0242100f666b06/dusanpetkovic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "publishedDateTime": "2020-11-13T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-facebook-is-using-ai-to-help-its-content-moderators.md",
       "title": "Facebook is using AI to help its content moderators",
       "excerpt": "The Verge reported that the social network is now using machine learning to prioritize posts in a queue that human moderators need to go through.",
@@ -1104,57 +1156,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time.md",
-      "title": "This startup wants to fix your biased AI, one dataset at at time",
-      "excerpt": "A UK startup has released a new tool that could finally give coders a practical way of identifying bias in their datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "originalUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/06/20/76fcf7ca-73a8-42c3-9086-a1cc05b5cb06/thumbnail/1200x675/72a5ebbb8c4666c1729fbcdc200eaeb5/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "publishedDateTime": "2020-11-12T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

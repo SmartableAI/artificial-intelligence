@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
+      "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
+      "excerpt": "Chip making has long been ruled by big manufacturers and design houses such as Intel Corp., Advanced Micro Devices Inc. and graphics-chip maker Nvidia Corp. Now Amazon.com Inc., Microsoft Corp. and Google are getting into the game in the hunt for improved performance and lower costs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
+      "originalUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-19T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-5-companies-owned-by-ibm.md",
       "title": "5 Companies Owned by IBM",
       "excerpt": "which will enable IBM to expand the capabilities of its Watson artificial intelligence (AI) system. AI machine learning systems such as Watson require large amounts of data from which they are ...",
@@ -1155,57 +1189,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-the-ai-blob-opera-and-other-technology-news.md",
-      "title": "The AI blob opera and other technology news",
-      "excerpt": "Google’s blob opera can make totally new sounds thanks to artificial intelligence trained on 16 hours of real life singing",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/technology-55260839",
-      "originalUrl": "https://www.bbc.com/news/av/technology-55260839",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p091vb4p.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

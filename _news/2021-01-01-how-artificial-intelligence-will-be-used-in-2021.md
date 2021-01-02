@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 type: article
 quality: 93
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI jobs in 2021: here are some key trends"
-    excerpt: "Artificial Intelligence has been a bit of a buzzword this year. Artificial intelligence has been established as the main driver of emerging technologies such as big data, robotics, and the IoT. So, what do the next 12 months look like for AI?"
-    publishedDateTime: 2020-12-28T19:48:00Z
-    webUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/"
-    ampWebUrl: "https://venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/ai-jobs-in-2021-here-are-some-key-trends/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1284616756.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "5 AI tools to help companies connect with customers in 2021"
     excerpt: "As companies look for ways to improve customer engagement, more IT leaders will be turning their focus to artificial intelligence tools in 2021 to help teams stay connected with customers."
     publishedDateTime: 2020-12-29T17:11:00Z

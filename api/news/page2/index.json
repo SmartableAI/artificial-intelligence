@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-31-the-obligatory-artificial-intelligence-year-end-article-2020-edition.md",
+      "title": "The Obligatory Artificial Intelligence Year End Article, 2020 Edition",
+      "excerpt": "While it has had a major impact on many areas of society, I don’t feel that it has changed the artificial intelligence (AI ... Departments are beginning to look at the issue. As healthcare has been an early adopter of AI, especially in radiology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
+      "publishedDateTime": "2020-12-30T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
       "title": "You don’t code? Do machine learning straight from Microsoft Excel",
       "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
@@ -1193,58 +1245,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
-      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
-      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
-          "width": 3352,
-          "height": 1936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "publishedDateTime": "2020-12-29T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

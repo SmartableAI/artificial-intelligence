@@ -2,6 +2,58 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
+      "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
+      "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/359653",
+      "originalUrl": "https://www.entrepreneur.com/article/359653",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359653",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653",
+      "publishedDateTime": "2020-11-23T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-building-ai-brain-trust-advancing-leadership-skills-in-ai-strategy-a-board-director-and-ceo-duty-of-care.md",
       "title": "Building AI Brain Trust: Advancing Leadership Skills In AI Strategy: A Board Director And CEO Duty Of Care",
       "excerpt": "I have now written two blogs framing the critical need for a Board Director and CEO to build a focused AI Brain Trust and leadership program to build stronger skills and competencies to advance AI ...",
@@ -1148,49 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-this-fintech-and-blockchain-training-bundle-features-8-courses-for-40.md",
-      "title": "This fintech and blockchain training bundle features 8 courses for $40",
-      "excerpt": "FinTech School provides practical fintech training through online courses, covering topics ranging from AI to robo-advisors. With this bundle, you'll get full access to eight of FinTech School's courses, each of which is taught by practicing fintech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "originalUrl": "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "publishedDateTime": "2020-11-22T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

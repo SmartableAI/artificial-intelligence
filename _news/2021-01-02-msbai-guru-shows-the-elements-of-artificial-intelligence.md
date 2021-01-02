@@ -1,30 +1,29 @@
 ---
 category: news
 title: "MSBAI GURU Shows the Elements of Artificial Intelligence"
-excerpt: "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,"
-publishedDateTime: 2021-01-02T06:06:00Z
-originalUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
-webUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
+excerpt: "ET<p>  present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,"
+publishedDateTime: 2021-01-02T11:55:00Z
+originalUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
+webUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
 type: article
-quality: 56
-heat: 56
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Autos
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg"
+  - url: "https://menafn.com/updates/pr/2021-01/01/i_ea46ada3-8_Image_In_Body.jpg"
     width: 744
     height: 389
     isCached: true
 
-secured: "UuaSkawpUC6bJFt87SaHZ8vE3RgjRUi4gJYgG7JTsfausvZutSoLtkay4lUFDNAAy295Asp9zqSVU0RPJiXTvUX4Fp52fFgSFFdWmKK0YLmmIOlZm7WqnMZ61kJwbPLJOS/NZiJA1AMAZ4tfNDK6r2k8GXY5WeFN3YrdH3xnqe88GQQuLOjwp/z62Xk/ILLCanlke6F9YTFqnvJGaaFaUKJMmA2QLN81pmFDyaScgjdCcb4GfW/HTsj1GlD/WKUmSfuBxEuX3/NuVR/lRS4zjUJHOBIqWEi6YutIkU3s9Leo5gE0s+y5YdLudrTPonDOEFPP89aPaIhKBGfNXyJ5AimJtCyoJd8UMxtc90EWP6iovjpilLuiHGbyGDcrgnpHISfD7Sv8V4ykJ+ZEQcC4SDAbzF7PU+Qf0XWCGXrvn1fWxQnZwL+vVHzx6T4WWM9sslC5D3nQ290sVzoWCbDftkDCLED3aOWIA0cXN/I79qZSM5DgGUalzHIk1wPp6X5JGZ4Rxn4VIA37QX/7kX3yBg==;itLuG79qIDgR38uMQF1I1Q=="
+secured: "yrpz5p9LDVSyIFaoAttrdXPx+z7sPj8Z4t2N/TKPVrA0xzgvAKzLlnaYCJ6OwhTLvN9nYwOuGfQJkvurp1RQMiXVI69zMsBL/91v2WGp92hW8Qvod9De+lprzAsROahDBjK/u5mjlyT95F1mxgWMy65Cco17mr7jISV0a7+hF41yEhsHtMgSNkMOa448NpQwxB8urTabLAnHR/W7xvIL+crdbBMLlLmQQtE9I7lj8cwwz32Tn8tAcyjci8g+5Ouq9y/JmugZORNAX7gLYzn3YtOPTNI1cW99jKWT2Emm6QMAdAvpoqxW5glrG2kdbN61DEMFTHGYvdm7BZBkmBQahoLQLXpbq6O0ehXeMgmMfK0=;NzOY8bKIBwZyGHzyTLpLPA=="
 ---
 

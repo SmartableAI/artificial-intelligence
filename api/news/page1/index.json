@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
+      "title": "Off The Menu: Robotics gains foothold in fast food",
+      "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "originalUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4SMERC4X5GKFJOQMUZ6RZWABU.jpg",
+          "width": 1600,
+          "height": 1078,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "publishedDateTime": "2021-01-02T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators.md",
       "title": "AI and Machine Learning are Expected to Improve Fintech Apps in India, with Support from Regulators",
       "excerpt": "AI and machine learning (ML) are expected to improve Fintech apps in India, with consistent support from regulators.",
@@ -462,7 +505,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1081,8 +1124,8 @@
       "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
       "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
       "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "originalUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "webUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -1099,13 +1142,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "publishedDateTime": "2020-12-30T18:34:00-08:00",
+      "ampWebUrl": "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "publishedDateTime": "2020-12-30T17:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
+        "name": "WMUR9",
+        "domain": "wmur.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1169,58 +1212,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-the-obligatory-artificial-intelligence-year-end-article-2020-edition.md",
-      "title": "The Obligatory Artificial Intelligence Year End Article, 2020 Edition",
-      "excerpt": "While it has had a major impact on many areas of society, I don’t feel that it has changed the artificial intelligence (AI ... Departments are beginning to look at the issue. As healthcare has been an early adopter of AI, especially in radiology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
-      "publishedDateTime": "2020-12-30T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-22-baby-yoda-robot-uses-ai-to-follow-you-around-like-a-creepy-toddler.md",
+      "title": "Baby Yoda Robot Uses AI to Follow You Around Like a Creepy Toddler",
+      "excerpt": "While you can shell out hundreds of dollars for a startlingly lifelike replica of Grogu, this DIY Baby Yoda does what all the others can’t: automatically follow you everywhere you go like a curious 50-year-old toddler.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
+      "originalUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ge0szw9vewohscvyfg55.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
+      "publishedDateTime": "2020-12-21T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in.md",
       "title": "Why is machine learning so hard to explain? Making it clear can help with stakeholder buy-in",
       "excerpt": "Nobody is going to invest in a technology that they don't fully get. Helping them understand how and why it works will encourage adoption. It's hard to get stakeholders to buy into technology they don't understand. In the case of artificial intelligence ...",
@@ -785,24 +837,15 @@
     {
       "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
       "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in",
+      "excerpt": "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "webUrl": "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services",
+      "originalUrl": "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -810,8 +853,8 @@
       "publishedDateTime": "2020-12-21T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -821,9 +864,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1151,40 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
-      "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
-      "excerpt": "Chip making has long been ruled by big manufacturers and design houses such as Intel Corp., Advanced Micro Devices Inc. and graphics-chip maker Nvidia Corp. Now Amazon.com Inc., Microsoft Corp. and Google are getting into the game in the hunt for improved performance and lower costs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

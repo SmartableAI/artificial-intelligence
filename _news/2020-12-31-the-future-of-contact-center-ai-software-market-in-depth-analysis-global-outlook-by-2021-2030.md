@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/wired-release/technology-business
 webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-software-industry-278686cbdd07bad1741eeffd1d69bd71"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "The artificial intelligence market will consolidate in 2021 as more software adds free AI features, analysts say – and startups will pay the price"
+    excerpt: "New Forrester research pegs the size of the AI market as significantly smaller than past estimates as it becomes \"fundamental to software.\""
+    publishedDateTime: 2020-12-31T15:48:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-market-consolidate-2021-forrester-startups-free-features-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://i.insider.com/5f59acc6e6ff30001d4e7ebe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yLImBAzawJU/Cgi0s1ubWGvM6UKi52ZJmlL3pCwKSB2E5zgkijZK8vIXFTTeL7TLK/h+N3LDMdCN5KOAxZG79jIXBe9dyrsGG+HMpH1Wbhy2Op7FF4P9Hv1F8Sv56d26xbfzigmP3nf7+s1XvuQUHOL3m9zfbQ1LAonXhWRsc16uu/B8KHOnCfJkBd3fXRQA5TocxR0jhucI4QzXCQemGaB2GypHHevIxWrndpbVs5ZqnVQJpRr/EIPl/ZY5yXg7g923jS0LjfANPYx14ywbEsqCLv7iAkKlwDHZmwp4U5yoeKjhNvxaIpszpTE314loJEWi83hjSxVW+blpsJmUggKzgyPc8HA6FoCVBHtLIpU=;rjYAk66iZ0nBdSNdUnpwoA=="
 ---

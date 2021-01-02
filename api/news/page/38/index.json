@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-01-why-ai-is-the-future-of-home-security.md",
+      "title": "Why AI is the future of home security",
+      "excerpt": "Home security is booming. More and more of us have smart doorbells, alarms, and locks — but AI, together with the cloud, is set to revolutionize how these devices work. And much of it is down to ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/11/30/why-ai-is-the-future-of-home-security/",
+      "originalUrl": "https://thenextweb.com/plugged/2020/11/30/why-ai-is-the-future-of-home-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F11%2Fheader-image-AI-is-the-future-of-home-security-spotcam.png&signature=ed162b4b75cf6a9b5f14406280b8169a",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-c3ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite.md",
       "title": "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite",
       "excerpt": "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut.",
@@ -1101,49 +1153,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-brazil-trials-facial-recognition-with-retired-public-servants.md",
-      "title": "Brazil trials facial recognition with retired public servants",
-      "excerpt": "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "originalUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "publishedDateTime": "2020-11-30T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

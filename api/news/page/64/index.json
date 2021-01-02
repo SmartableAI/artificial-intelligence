@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-11-12-global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030.md",
+      "title": "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030",
+      "excerpt": "Pune, Maharashtra, November 12 2020 (Wiredrelease) Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into meaningful change. It’s not post ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eturbonews.com/1647357/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030/",
+      "originalUrl": "https://www.eturbonews.com/1647357/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T22:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTurboNews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
       "title": "Databricks launches SQL Analytics",
       "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
@@ -1146,58 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars.md",
-      "title": "Top Reasons The Investment Spigot Is Reopening For Self-Driving Cars",
-      "excerpt": "Recent spate of investments in self-driving cars is due to key factors that are dovetailing at this moment in time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab29cca3f8041667ea2da7%2F0x0.jpg%3FcropX1%3D650%26cropX2%3D6824%26cropY1%3D95%26cropY2%3D3815",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-11-11T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

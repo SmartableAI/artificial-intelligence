@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
+      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
+      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
+      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
+          "width": 3352,
+          "height": 1936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
+      "publishedDateTime": "2020-12-29T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-a-black-man-spent-10-days-in-jail-after-he-was-misidentified-by-facial-recognition-a-new-lawsuit-claims.md",
       "title": "A Black man spent 10 days in jail after he was misidentified by facial recognition, a new lawsuit claims",
       "excerpt": "The man's attorney claims police used excessive force, false imprisonment, and cruel and unusual punishment.",
@@ -1189,48 +1241,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-book-on-ai-to-combat-covid-19.md",
-      "title": "Book on AI to combat Covid-19",
-      "excerpt": "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp",
-      "publishedDateTime": "2020-12-27T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
