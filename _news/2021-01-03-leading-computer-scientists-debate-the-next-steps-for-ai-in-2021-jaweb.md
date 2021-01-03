@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/leading-computer-scientists-debate-the-next-
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021-jaweb/?amp"
 type: article
 quality: 60
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,40 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Leading computer scientists debate the next steps for AI in 2021"
+    excerpt: "What do we need to push AI to the next level? A panel of experts hosted by Montreal AI discussed possible answers."
+    publishedDateTime: 2021-01-02T16:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/"
+    ampWebUrl: "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/franck-v-740555-unsplash-1-e1573833675406.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Biggest Enterprise AI Trends For 2021"
+    excerpt: "In that short time, we've seen AI find new solutions in enterprise networking, automotive, medical and other industries. This has resulted in artificial intelligence for IT operations (AIOps) moving from marketing hype to a useful tool being adopted across the enterprise."
+    publishedDateTime: 2020-12-30T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-biggest-enterprise-ai-trends-for-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Ztm9gzQLRoDsphbsBV9evIq6aFA0unbUDsSIj9ufQdVHO9xexfuP3Gopa2jWshS4qHNIqcciHV/2zqxqAFtyVJorfAz6ZbcecuI7eAjKQjz9+gohw3cIEOzgVNEWDq+ASujLMZB0Y4kwbO+4+8StduRO+hpIuim+zgpjFSBvKiJ8oCzh6e1tGvYJodGNoIf80dmGgmfr4VXnrqC9mrP71Ec3IpciiKnWDnWw/uUa8nrDh7sGoHiYzBaG/L1gMwdWgsqEisJv0Kyqwjn3F80FfR45cAzzK/MejdwLdFdDS9YU0QKjaAM8mPdULj4bbJQ1AxHeSw/ubmdZnOMKsuMk6Ms0j2k6HW4/XrRD5fwBSjxBW1ik9CLLlqRVzqiYS6YdA5TTMKmBN6+nMWvTMHErSTK26vdOCUEGsrCCDHFD/FyJnbaUzQJ6vQ2/6dQ/udk5ZZ93u9M9QvxG38ZoVt12iMmv2lkaNipcsiw2pyTqy1D7HuWda9n0hKrLGd3ZzxXumXqY40Mg/UdygW8eXqhswg==;SwmyvB5OGo7oUCwewDX+aQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchle
 ampWebUrl: "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
 secured: "w3Ro6RGCGFug6tzdM3qiUQYSa8Uc4+jk8npapU/BrCK8z59e2eviFQOAR0pGJ3EAoxafqRIFSVs8O7fPm1FYARcvOjVVPISy21MpRuQAjppPYhFErN+OKH4Inulfbn2DviQRvz1KTfvjngVlL075vN8xMzd6aEMJOQpKbBMM7C3B+ODQLxGUp25lvSLB9K5QrGxa8V6n8qTSKlVu8JoDgN/ILJyE5HAoWwWM0ac/ZYvGao3LULzZfqKUFvrv7Aqe27T8UsjUJIFtMTft2vn8t69NNNohgJDkD6/b/AUzFaF3mIcp6dVbBSF4vuEQE3yzLHuD9m6XMHHyH96zHiUcn8HCfQaSMrIEggUsITnn3f4=;Dmnr+09KDYCSNgIv+zJOIQ=="
 ---

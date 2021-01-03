@@ -58,21 +58,16 @@ related:
         height: 640
         isCached: true
   - title: "Another arrest, and jail time, because of a bad facial recognition match"
-    excerpt: "He had been identified by police using facial recognition software, even though he was 30 miles away at the time of the incident. Parks spent 10 days in jail and paid around $5,000 to defend himself. In November 2019, the case was dismissed for lack of ..."
-    publishedDateTime: 2021-01-03T14:23:00Z
-    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+    excerpt: "A 33-year-old New Jersey man is the third person known to be falsely arrested based on a bad facial recognition match. In all three cases, the people mistakenly identified by the technology have been Black men."
+    publishedDateTime: 2021-01-03T15:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/?amp=1"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 73
-    images:
-      - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 53
   - title: "W-B General Hospital anesthetists request union recognition"
     excerpt: "Barre General Hospital requested union recognition on Wednesday from Capital Anesthesia Solutions. The anesthetists were laid off in August by their previous employer, North American Partners in Anesthesia,"
     publishedDateTime: 2020-12-31T20:08:00Z

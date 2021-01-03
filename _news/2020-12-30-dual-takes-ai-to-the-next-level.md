@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/dgi-dta123020.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dgi-dta123020.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists developed an AI tool that rates movies"
-    excerpt: "Scientists from the USC Viterbi School of Engineering have developed an artificial intelligence tool capable of reading a movie script and determining how it will be rated. Movie ratings are a big"
-    publishedDateTime: 2020-12-30T00:45:00Z
-    webUrl: "https://bgr.com/2020/12/29/ai-movie-ratings-tool-algorithm/"
-    ampWebUrl: "https://bgr.com/2020/12/29/ai-movie-ratings-tool-algorithm/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/12/29/ai-movie-ratings-tool-algorithm/amp/"
+  - title: "Strategic makes artificial intelligence breakthrough"
+    excerpt: "Strategic Elements has upped the ante in the artificial intelligence race after releasing the latest test results from its “printable ink” technologies program. The company says its test work indicates that its product can be used to create a chip which mimics some of the functions of neurons in the human brain."
+    publishedDateTime: 2020-12-30T03:20:00Z
+    webUrl: "https://thewest.com.au/business/public-companies/strategic-makes-artificial-intelligence-breakthrough-c-1861043"
+    ampWebUrl: "https://thewest.com.au/business/public-companies/strategic-makes-artificial-intelligence-breakthrough-c-1861043.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/public-companies/strategic-makes-artificial-intelligence-breakthrough-c-1861043.amp"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2020/11/watching-netflix-tv-streaming.jpg?quality=70&strip=all"
-        width: 1600
-        height: 1067
-        isCached: true
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 37
 
 secured: "MHp8WPcEWt8N1tLFps8vub3fjbkNDKvd4WaMn0YRZlG+ncXZR4ROCmYUU10rUtzSu3z4nk241QRb2EqxgA75K95ibW48X9fwlZPp/I0g+S2G90u2wfQwNSOVP1o/LGVpJaG379P04n4lw3r79FshS3C24VdWzlqf1d3Lw0lJcb8N0ReqeUItmkJMqAvSVzkTaHwCTs1d8C2+B8qIDMaLENdPXeoyyuMAOcKmP3SezRR7kImjb72ANyU3io2TKC9MC5qUPqNdd/zoVt6BKWWXW6eYFtu+hoGpmAbu/lQZBMxpHPm993JbRH/cLyIhu5SCSgUqKkoW6/0fkF6Z1gGlshFnVDJFNxF98Rr22slWn0rNPspJWV3TljoVGzRF8/ne4P37sF8kirEDHlC3WhTZFAblyogid9aRCstcnSd/5FCxUVjsBXV2ciE6Tbi+7v8lYDL3QCEDY6siKVal2qu6Z0FE1r1Mft5YRkPnw44ebQW7Xi/5NVjInynBCXjUFCIhVbWkyAN/UeARYIpoyA0rDQ==;wleu8EirstuZ0aHBRWs8Ig=="
 ---

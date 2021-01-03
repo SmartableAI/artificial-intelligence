@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Another arrest, and jail time, because of a bad facial recognition match"
-excerpt: "He had been identified by police using facial recognition software, even though he was 30 miles away at the time of the incident. Parks spent 10 days in jail and paid around $5,000 to defend himself. In November 2019, the case was dismissed for lack of ..."
-publishedDateTime: 2021-01-03T14:23:00Z
-originalUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
-webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
-ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+excerpt: "A 33-year-old New Jersey man is the third person known to be falsely arrested based on a bad facial recognition match. In all three cases, the people mistakenly identified by the technology have been Black men."
+publishedDateTime: 2021-01-03T15:31:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/"
+webUrl: "https://www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/?amp=1"
 type: article
-quality: 73
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "The best facial recognition security cameras of the year"
@@ -88,6 +82,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9mrLwB7fe8Plq4XXU+gwXqwX353JK/GX4AThhBIpVyhcAhwsPufcIUxVuWfjoFdmWdG/MGXH95VHS3oLT7dew7YvwIw70HBbvA0pH6x5WwrrneS1vDQMEMhhWV+o23Oy6CHZh5UrQ2n8fea/eFoHVRmtakfN9sdK0DgD1N8NSf0jqUiTFuTx3Gl/5wDsqlhrRWDKUnhvhr7eW0Vtv7qWYwXBaxkWnhXOr5zjpLQx/n62mtRZFlqw5QdBi+T0e1z/8inQJOSuFPELc0VfkYWNtgRDrw6guPB1NQFY9EW9Dv6AxO8SREQIxnEdwWM4xkdyFHWLHZqoziUrXcy64cfi1l1q7/6wD3XZ6/fJ4M+ZXYg=;LQ9Tl1hWp2zMi5SB5EGK5Q=="
+secured: "UO5Ix8WAj9GDF5NmuEzBLZgfly8eAQtVk6SwAhr9RwzK745EvoEU4IQUEGaUV3k1fV2PJkcTd5lvwEkHck7JLvquEoAYOnvoKNu18bA7Io41zuUuMOlJMkrReY2WxdRu3SK/eFvCqRaYt0pTcJkpAZFJ0R8a053Ve+tVd2aLI4K11AlDPIgbS+cwulwW9YugUf2kzpaF9XIhBjA8MGBNQSOII4oWn1ZN0FN0zj7lpmj2G9sGRZROG/Ca/DJu3bNF0vGTDDO7qigQTG0KJkHU9dolmmQhwAvSPKX1H0C43ztnngrPIgF7VKDWnOisOiwLrU6FoCAc1ycmm7OEmKoc4o40iGu0wXF2Uboc0E+E+x3WnljaSdnyv+BPoE49uNkKBBIDC1Ywd3ErcP+D1VjHfGDK3zjVTL01/VKdDQQ4yTWiDakkffvFpsgpi7jj11LjTrMDOgPr3t7URF6aMFe+bFayNCs8Zbk0jtEMD3VY3esSeTSKJ8ejueM60Th73wM6MQkSs4wrOQj1IBmvxiH8aw==;SznZWEtrMe8Xw3ZJNjjowg=="
 ---
 

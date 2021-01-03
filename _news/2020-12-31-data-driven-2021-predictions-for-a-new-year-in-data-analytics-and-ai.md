@@ -25,17 +25,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "2021: The Year AI Goes Mainstream"
-    excerpt: "This decade will likely be thought of as the real launchpad of practical AI and, by the end of it, we’ll be up to our necks in robots, automation, and ever more capable digital assistants. The pandemic has caused many trends to accelerate significantly during 2020 and some will remain with us for most of 2021."
-    publishedDateTime: 2020-12-30T00:00:00Z
-    webUrl: "https://www.datamation.com/applications/2021-the-year-ai-goes-mainstream.html"
-    ampWebUrl: "https://www.datamation.com/amp/applications/2021-the-year-ai-goes-mainstream.html"
-    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/applications/2021-the-year-ai-goes-mainstream.html"
+  - title: "Infor’s top cloud and AI technology predictions for 2021"
+    excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
+    publishedDateTime: 2021-01-01T13:05:00Z
+    webUrl: "https://www.ameinfo.com/industry/digital-and-media/infors-top-cloud-and-ai-technology-predictions-for-2021"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 17
 
 secured: "+j4veFmf+qdDJHs3Fem+PAOdetssuq0fDp9YCkBGy9t0268sKcahrJjmNGjj03hT+1cSkJ7zz0ATISsTjkCHe55aHFybUUQ5V/NgupKRcmIzFpiydPADDu5myXet5rjw+U2/7Xf3OP/cHQSL2b2f6plE/yb8dm0rHRodaR7wJNTO7O36vXPryq6xoNQrVd2xFPa76VWnVyErM+3nAQ7G57QgRYBVX6PAsmkL0iNiZoDZds1EhgIVY/eHRKiCT0UzwWfH+X8gkIJs9ScZ7WLSK2xs0f5ufz+5P6uFbFbtfBXAbUPhFVvC9bBOEyodMF0+dFkVRc05nwdE7rTEYrgG3yF7S8wTkM0nADIzx3bjIKVtpKXoEYCdp93hLGGovnKCYetp+E8zT3CuHgteksMMv8GtuFTXNJlBao6SI77xBuHwsVcJCGVw+8SNCIfo7i+O5FneqqRtrR+Iq1A0SV5viMTqg2naTtCb25QV0a61YRKP7GExzABMdCHUJqDKbZ0MFPCsbIDOilGCfADqsaxh6g==;rSvgVa0ZGOgY/Cb+Iw21IQ=="
 ---

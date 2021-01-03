@@ -20,19 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "A breakthrough in artificial intelligence-enabled materials discovery"
-    excerpt: "(Page 1) A groundbreaking artificial intelligence (AI) algorithm rapidly identified a potentially useful new material — a germanium-antimony-tellurium alloy."
-    publishedDateTime: 2021-01-01T05:00:00Z
-    webUrl: "https://www.chemengonline.com/breakthrough-ai-enabled-materials-discovery/"
+  - title: "DUAL takes AI to the next level"
+    excerpt: "Scientists at DGIST in Korea, and UC Irvine and UC San Diego in the US, have developed a computer architecture that processes unsupervised machine learning algorithms faster, while consuming significantly less energy than state-of-the-art graphics processing units."
+    publishedDateTime: 2020-12-30T05:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dgi-dta123020.php"
     type: article
     provider:
-      name: The Magazine
-      domain: chemengonline.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://www.chemengonline.com/wp-content/uploads/2020/12/01_che_0121_cov_p01.jpg"
-        width: 400
-        height: 546
+      - url: "https://www.eurekalert.org/multimedia/pub/web/252569_web.jpg"
+        width: 720
+        height: 294
         isCached: true
 
 secured: "V3ULljNBoS/kgKxuMD0m68+1TQuOd1NGuRxPWMovUl7aAoM5NBkHjXwhAs05lH/rPp/JOcp2QwOjm4imBmA3mhJUbpGyOCfkZHNid0h5Hav3Rh4okXqGXBqUNyKQvb3uE3cwa3BQgHntqzM9dEaZMzyEmTVcSZNCIf+rD1COOp/HB0PNDXgy/xdFUss4D6NR2QQdj1j0dgQ7Gr6zvYxcCXyAjmyhn2zRA4uXaSgPVq8Z3gL8Ism03eAnLtvzqZTCeZlUpdwC3bcbA8L8NiyzVE7A5IR5B4o9jq2s5tCT9yxsGMJbTbi0pPA1RgSrt7re/9Gat1RsK45wLjvaFoAGGzYAGUD7RAFGntwOyrT7gRdrDAjXIcx5GGmsJkqu3XwPu62FIW+HH+aR3LiM+xXpPeFzFYp6cGVY2dJMBY3WcuuXPzcogiKH4AsbHy3EicTTXJ6hyYYEDtnLAqf1Ix7zqO/D5amKrqLl5lJ+kR3G1Or3FuvOhzXsFhCkUAl2LGAqMmE7974h9E1fgPbKA46duw==;cEWoih3A2B48ktwvLwrkGQ=="

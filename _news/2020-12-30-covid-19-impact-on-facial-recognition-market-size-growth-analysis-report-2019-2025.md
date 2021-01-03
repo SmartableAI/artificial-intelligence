@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recogni
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Global AI Adaptive Radio Intelligence Market 2020 Research Report With COVID-19 Update - Key Players Analysis, Growth Factors and Forecast to 2025"
-    excerpt: "Global AI Adaptive Radio Intelligence Market Growth (Status and Outlook) 2020-2025 interprets market overview, value chain structure, industrial environment, regional analysis, applications, market size,"
-    publishedDateTime: 2020-12-29T23:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-adaptive-radio-intelligence-market-2020-research-report-with-covid-19-update---key-players-analysis-growth-factors-and-forecast-to-2025-2020-12-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DI8q7fczlqjOSkyTVfCjesQ6/AO7vJnN2YqaSZitbFwrA3q4liERkE+jfEJYT+yv/mdhVzkDwol42/u4EpeVuR16ilxlSfdAr+1dqXNFqHx15n+AOakbbuc5iEQWSOH12YooIlCT9YY5tbIjnH4qagFGsOevaHuT7StScYlEfHQoJwJzzwIQUc/GPWWAKTawQhz4Zn6IexecqwKskPPGZrCBYpXa3rLIp7pW3oDriqZBzd2mj8BkdQXPmfp/Ji3lbbNc8z/QqQQ/RMm+57fVmmlVBbwpc9T3ujo8HB1Np5Ey5bqL1WapRx/rs+C2m1t4O4MgZ+BBa9RLZCFVSFG4umc4dOqb1zxdi36tnhLGnwvNYOCk7cbsQqQ0uY8UCk2/WKZlXT90fnhcA8g+XYSR+9sQAEN0Kv/TKxOqUaJhcgKHGnzeu3I/lmDoEtKKGMFrt1TBO3z2UMGpktMDlkIoLZiPJXzTJdQhkqsEpNRw1wE/+CDWPDUUgMUSkNme3j4AJ4+Fa/rleMP4zIfYJ+nqNA==;GY2Eb03+g53XKLAqc4/gmw=="
 ---

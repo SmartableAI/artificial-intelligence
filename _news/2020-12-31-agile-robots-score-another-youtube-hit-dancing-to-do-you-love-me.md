@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-31T01:34:00Z
 originalUrl: "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
 webUrl: "https://www.youtube.com/watch?v=fn3KWM1kuAw&feature=youtu.be"
 type: article
-quality: 122
-heat: 142
+quality: 139
+heat: 159
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.ytimg.com/vi/fn3KWM1kuAw/maxresdefault.jpg"
@@ -53,6 +54,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "JlHK4CPuKctBkOKXp5Rl9V7Xs6yJiBk2UspMTpsputVZleDbXSkBYYnNlnmfhfUsAnqBeIXTe1oUzUphSTzwnMRGb4d1CxQzQmhK3Jy/NTWDdC8Iqyw2mqXCYEdr2yRGcxFf+tPFPjf5JgAIjPZcJMBF1hvlRJ+XDT3HtB4lS2p+vu0gwyyCC1JtAXBC87tPRFohYpzv4elnS9xRZ6gvTFsZ4Q3i30c35G74K0soNqE/CnexSP8wyUJvpFPtj0zpO1UFltumbulfVkitH8cUZtF+jjtjczGTPb21Vo9yP46Yc+e5Z8xb841tJuYik3Y30NAqHq0csDI9CyliJtAwXt/cLbuX5X3Gcv9WI0lr5cM=;1w+6jTU6CWWJZFFkO2uAIg=="
+secured: "kUCxw1vhsVykJ0+PTXjXppBVX1XRS6EQ2s3rAkzntt4n/2RC3c79agJrvQ07aKT7zdTS7+zgEtGm5Z9BwH9wRjR9u/PEKChr+PlfByCL9A+hG03lfNZprUu64sv/h4ODzc7FiAAY/xqIem8ws8tjgSw8tkoEWDxztE3yRQtnvtf1j29F+ofEfeAlKCwSGipWsVvaZPcEGVBi2yaOw+Zv4uDJFVofy+dRA0q0K9CFaMFBIqc3ZahnZDUta/mufms669X6D5wer9EnhcPO+Bksyv+R2yW6TMuca63JQ92IZ2o7Jq0ppYY+lcMXX6uJEEZTGGa2w07VlGfbaIU09LXHn9+zfg1FvXZkaCLT0ugwbp/7kQnyIyqaa5SzP0MXDR9p1SMulsz2t0C5bT4pDTBcYiXcn3bdXakD1WJsFzuSUszio4d1nHgfkD3YLe3SI8PcfaJGZ6rTa6lMNHnXodJ3Pbem6SoKfxqpnqz+kiXc4BIBC63YME6naZyws8SrtTcb8lkRaOtsQf0WCIv1VmpAm8AS235xlOMz//zlBbLJcZE=;BEVDn5ExvJRUyk9mdQSsUg=="
 ---
 

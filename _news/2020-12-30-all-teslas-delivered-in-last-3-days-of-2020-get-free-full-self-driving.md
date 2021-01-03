@@ -43,22 +43,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Buy a Tesla before 2021 and get Full Self-Driving for free, Elon Musk says"
-    excerpt: "Tesla CEO Elon Musk is out here making marketing moves on Twitter as we head into the final few days of 2020. Tuesday evening, Musk tweeted that anyone who purchases a new Tesla will receive three months of the company's Full Self-Driving mode free of charge."
-    publishedDateTime: 2020-12-29T23:59:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/buy-tesla-full-self-driving-free-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/buy-tesla-full-self-driving-free-elon-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
     excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
     publishedDateTime: 2020-12-31T19:22:00Z
@@ -74,22 +58,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Elon Musk promises 3 free months of Tesla's 'self-driving' software for vehicles delivered in the final 3 days of 2020"
-    excerpt: "Driving\" technology, which does not make cars fully autonomous, as a subscription service in early 2021."
-    publishedDateTime: 2020-12-29T23:38:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/5f1713384dca68350c3ae074?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla Offers Free Trial of $10,000 Self-Driving Package"
     excerpt: "To meet its goal of delivering 500,000 vehicles this year, Tesla Inc. (NASDAQ: TSLA) reportedly is offering customers who take delivery by the end of December a big freebie. The company’s full self-driving package is normally priced as a $10,"
@@ -122,22 +90,6 @@ related:
       - url: "https://gaadiwaadi.com/wp-content/uploads/2020/06/Tesla-Model-S-3.jpg"
         width: 1400
         height: 797
-        isCached: true
-  - title: "Tesla extends Full Self-Driving free trial to buyers in year-end delivery push"
-    excerpt: "Tesla CEO Elon Musk has announced that the company will extend a three-month-long Full Self-Driving trial for buyers to purchase vehicles in its year-end delivery push. “All Tesla cars delivered in the final three days of the year will get three months of the Full Self-Driving option for free."
-    publishedDateTime: 2020-12-29T23:09:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-free-trial-2020-year-end-push/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-free-trial-2020-year-end-push/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-free-trial-2020-year-end-push/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 55
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Tesla Offering Three Months Full Self-Driving Package For Free"
     excerpt: "This latest incentive by Tesla is reportedly available to buyers who can take delivery by the end of the year."

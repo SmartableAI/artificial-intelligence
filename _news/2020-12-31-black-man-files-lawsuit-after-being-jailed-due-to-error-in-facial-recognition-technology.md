@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-d
 cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
 type: article
 quality: 67
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/12/6413650923-1080pnbcstations.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Black Man Jailed for 10 Days After Being Misidentified by Facial Recognition Technology"
-    excerpt: "A New Jersey man has filed a lawsuit against the local police and prosecutors after being wrongfully jailed for theft due to faulty facial recognition software."
-    publishedDateTime: 2020-12-29T23:09:00Z
-    webUrl: "https://www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
-    ampWebUrl: "https://amp.www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/12/black-man-jailed-after-being-misidentified-by-facial-recognition-technology"
-    type: article
-    provider:
-      name: Complex
-      domain: complex.com
-    quality: 66
-    images:
-      - url: "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/dubnnzx26wxtee3csuvi.jpg"
-        width: 394
-        height: 222
         isCached: true
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
@@ -95,20 +79,6 @@ related:
       - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
         width: 800
         height: 1067
-        isCached: true
-  - title: "NJ Black Man Spent 10 Days in Jail After Being Misidentified by Police Using Facial Recognition Software (Video)"
-    excerpt: "A Black New Jersey man is suing the town of Woodbridge, NJ and its police department, alleging he was falsely arrested and jailed for 10 days after facial recognition technology falsely identified him as the perpetrator of a shoplifting."
-    publishedDateTime: 2020-12-29T23:15:00Z
-    webUrl: "https://eurweb.com/2020/12/29/nj-black-man-spent-10-days-in-jail-after-being-misidentified-by-police-using-facial-recognition-software-video/"
-    type: article
-    provider:
-      name: EURweb
-      domain: eurweb.com
-    quality: 33
-    images:
-      - url: "https://eurweb.com/wp-content/uploads/2020/12/safe_image.jpeg"
-        width: 540
-        height: 281
         isCached: true
   - title: "Third Innocent Black Man to Be Misidentified by Facial Recognition Software Sues Police Department and Prosecutor for False Arrest and Imprisonment"
     excerpt: "Nijeer Parks, a 33 year old Black man is suing a New Jersey city, police department, and prosecutor, for false arrest, false imprisonment and violation of his civil rights for misidentifying him using facial recognition software."
