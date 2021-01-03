@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Google Wades Into Controversy with Dismissal of AI Ethicist Timnit Gebru"
-    excerpt: "Google ignited a firestorm around its ethics program last week when it let go a prominent AI ethicist, Timnit Gebru, apparently over contents of an email where she expressed her feelings, following a request by Google that a paper on large language models she had submitted to an industry conference be withdrawn."
-    publishedDateTime: 2020-12-30T06:03:00Z
-    webUrl: "https://www.bio-itworld.com/news/2020/12/30/google-wades-into-controversy-with-dismissal-of-ai-ethicist-timnit-gebru"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 18
 
 secured: "PJlsFHXco96fKyTXNO404k/vT/YMVxachpUhEv4uaf7hm+fWkm6XdN8oHJiRBQ9qn97RFTGnihqPvP7jbVO2cnqOLuYvKe+aO2GsypHujli4/UYj5m+aNhKMxOhr6ElA7B/R4f7zLbPjEVxnhh9vwTS2hI4qqQr3c48Wl6qcWXza05B4ZnWccQl82jSnXkr5UtbE1OVKlF0I9OuFmjIRxHVTG6Dg45cP91jTQMvUhetoDdujYr/sTzq8lu1G6I5EdcGPWzibPohxWr8/0Nl4eJaBvua1ehI8IxWWDGlW7rBcbkRwtoW1PtJVXTz+4eCiPskwW8ShRQcbx3qc3uqjE45OinXT1pZySLvi28i+HQFR7nIiZ7XJ2mf+UwyTuYo2cfiHJi81Dy7hjYkRrdqqupG3YD3SQIQ6XyfHbcJvzUfZ/wPWcV/8sA2sR5MsFApA5/9GuIDip5/obyeTbMcrNWK6zbdE/VL7EK0C2sWOzScXrwkqA5lAMoBy08vKaAtK3V048u+Vpel1SAJYmcSbhQ==;PKVU9dEjwicnp58j+FySGA=="
 ---

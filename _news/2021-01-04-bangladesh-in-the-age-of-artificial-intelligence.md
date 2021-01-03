@@ -8,8 +8,8 @@ webUrl: "https://www.thedailystar.net/opinion/news/bangladesh-the-age-artificial
 ampWebUrl: "https://www.thedailystar.net/opinion/news/bangladesh-the-age-artificial-intelligence-2021801?amp"
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/news/bangladesh-the-age-artificial-intelligence-2021801?amp"
 type: article
-quality: 59
-heat: 59
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -19,6 +19,9 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
+  - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/01/03/bangladesh-artificial-intelligence.jpg?itok=cuaBRluo"

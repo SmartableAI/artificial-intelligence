@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
 type: article
 quality: 125
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     width: 1200
     height: 598
     isCached: true
+
+related:
+  - title: "Microsoft AI Skills podcast"
+    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
+    publishedDateTime: 2021-01-03T22:10:00Z
+    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
+        width: 1600
+        height: 600
+        isCached: true
 
 secured: "BFuwP8igjsK1rFjNLBlLAkFrUWJExxvMVocvwuLj8god3AxWOz2UgmNndI5diWYh31ac/9yHvI9+L+lEUxSMuHZF8iOMnfdW60CcujG2hU7Kk5Q+DSgeoIRgI197f6177OwBdsHtCnAmgJVj38iIL/zDE4Vq1wXBkr5dqquCSbUQlzYnQSfJfS4PeuvoYyE3GVqbeh+axCUzWJEOgnsmKcIMeiKihUwK7ilReK9Ugxir8QJdRu+cibHyE4gZ3n6pB+arsFhMu8sXM2JqQV8u0uqgUwD9dJRthTNtf3qI4L7w0L9kfnjBWLJ2m+QNtysuAcOmqYmJrZuV+VzNAObeFfxMLtp7pRdoiV7D68Wqborc13dL6TgrcpWGkoFAbU8CqZYchqOs/M6MGccsB3fjkCnYgF6+gRoA1OHoi9GWPy96vXHQuVX9dDhFS1Ay4LmQr0gaig9BFRnMW2v9FoUYhoVB9fhxLmaKFuPikX+dHftWpIu4W0tg9YI9Sx6CciAB+3nSpmKgpXuv1LhHB2OfEA==;fdGdo5bbaWcRXZE4WAYMBw=="
 ---

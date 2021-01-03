@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
-    excerpt: "A New Jersey man is suing local authorities who he says wrongly arrested him based on a false facial-recognition match, in a case that has fueled debate over the accuracy of the fast-emerging technology."
-    publishedDateTime: 2020-12-30T05:03:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-278977/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Another arrest, and jail time, because of a bad facial recognition match"
     excerpt: "A 33-year-old New Jersey man is the third person known to be falsely arrested based on a bad facial recognition match. In all three cases, the people mistakenly identified by the technology have been Black men."
     publishedDateTime: 2021-01-03T15:31:00Z
