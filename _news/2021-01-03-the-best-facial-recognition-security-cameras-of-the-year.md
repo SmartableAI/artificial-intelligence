@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Another Arrest, and Jail Time, Due to a Bad Facial Recognition Match"
-    excerpt: "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition."
-    publishedDateTime: 2020-12-29T20:33:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/29/business/29JPfacialrecog-promo/29JPfacialrecog-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Man sues police over a facial recognition-related wrongful arrest"
-    excerpt: "A New Jersey man is suing the town of Woodbridge and its police department after he was falsely arrested following an incorrect facial recognition match. Nijeer Parks spent 10 days in jail last year,"
-    publishedDateTime: 2020-12-29T20:21:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 91
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fd92b4ab0-4a0f-11eb-9ba8-538aae343b4d&client=amp-blogside-v2&signature=ebabf873fa9697080d965a015a3e05c05cfc50f8"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
     excerpt: "A New Jersey man is suing local authorities who he says wrongly arrested him based on a false facial-recognition match, in a case that has fueled debate over the accuracy of the fast-emerging technology."
     publishedDateTime: 2020-12-30T05:03:00Z
@@ -109,6 +77,6 @@ related:
         height: 630
         isCached: true
 
-secured: "L6IRp7KwVmWH1zOZYVlTb0MX1BidmUZ+GI400hjXgJQKOdvDcRjXd1hNpJ7shd1GPp7nP53vXFdQZb/Lx68jeR71Vg6u7IfEaFdVPFhZ1nw1+mMzIT1p4LZcITAi/ibzl6o81jKiPgfpiScQrzoWmZ8GGjM/qPcsm18mV3YylMQC5Nb6qkQGpDcRZmQGLLPNN8LJkxX9EfPYlnS14Q65pBR1qkCEZOT7QUHTwH7HVcHL4NmOr4Q0WdMkVwOMRrHi45WAr72EycXUednafm8cLcUzd6kYJQZ/eoun96gkdwtVKYa7UBSEw6YVOiywvWEGJ8m1L74Dm0DuhNGMpB2viRA7saQs46JwrkzlqHw0j9Y=;M3jqQeC73w++NJGLvDA9yA=="
+secured: "E0XkaB1nqJfJFRuuMsoskVB3UeVddecAjvauD9h/VvxVpK+o/Q5gIczunwi7lgsIn7C9q9BpnxyRXPjvBadqpdKmPR76ld0MvNw8nsk40kCPcq5KThbDYrUJoEyFHPGyHwUfJU1A8nL965HpAYI3U/UtDKG35sBtqlbtNWTpXM14IThi0rwPK2g8K+GB41s9zCI87XSghIGX8dB1JN53PSimDDjAB2w5HtxFD9ZpRA0IhrBVFSy15fw++c792vJT/3hTAl2VJBPHYjoKj323Q9YdDuwb4yWnE3T1ApPkctNfcezoBjhyT54xKfAc4Wl0NQPobl9ktyXYH5tKQpItC14jVV527gy4H8B28YDxnuo8ynQzKvx9j1wmxGkycCFL6P6nGKCRjdcEJGuytjec0z78j1NtWhEajdRYkmEUvrPiSahfk1m1q3RuIx5UbQtrzwOg1OtQoW8+nRdiMLFeasQWGgK1cbjM87WIsAOEfPsFtGsFot66L78VwdgPxt4kD6vSp5kyj4L6G0LzQ33y1w==;thNl04654v2PbDG25kXMKQ=="
 ---
 

@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Top AI-based Smartphones Released In 2020"
+    excerpt: "I am a journalist with a postgraduate degree in computer… As per internal estimates by CyberMedia Research in 2018, in the coming years, the number of AI-enabled smartphones will grow significantly. The report also said that as many as three of five smartphones shipped in 2020 would have AI capabilities."
+    publishedDateTime: 2021-01-03T12:32:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-based-smartphones-released-in-2020/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Smartphones_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "sTDjfj+q8pBpBaHTVDEuBGSf5ko9jYZj++BMrGjh7WD6CDEQ+BBpjmF4O9xkvgG9CrgNCjnTj6RvzMqzWPMYkpQnSBWnxCd+q8672QhN+zLBgbhwr4WueHNLyFsr0qz2ia7DFTorKWw2pQKSSdkFmoCdijL7yyIZfvw1A+BFTR/zQukYANZSLfgo6SwfbuOP1SWt97r5o2pa1T/Mrjji65oOhra4f/huml7IRgEHOHiem2NtJ9VsxoWmtJArr2Xpd1s1x0T3N7xR6/YzJ0ONW3J29oml6wPwtOE6v2xlKm27dzhp2UPwaSVSkiTZPz4gWLpe+a0cSY6WdxdDZUBiG7hdRl78FjMxj3/DdY5uSTuLLf56IAim2D0M1fieV3UA6fTUGYnceaWAQSXipgLEtfoUpfYZidrepu6qb/bvz3YzHEgUTNj364btGvkwjuEQdWu34gMLdMaxT+K0sNXdUfU/mF4HUq435hN37s76U8nz2JTnFAYtCntOpBGL4ei2ILAf3P57KT9KZ72yxnrCcw==;vz4yJ/iTAARg28B/rMYxwA=="
 ---

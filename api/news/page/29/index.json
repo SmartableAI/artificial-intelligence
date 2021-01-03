@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-12-07-natural-language-processing-market-2020-global-industry-analysis-size-share-growth-trends-key-players-and-forecast-to-2023.md",
+      "title": "Natural Language Processing Market 2020 Global Industry Analysis, Size, Share, Growth, Trends, Key Players and Forecast to 2023",
+      "excerpt": "\"Worldwide Natural Language Processing Market report examines the itemized investigation of key drivers impacting market development, openings, the difficulties and the dangers looked by key ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "originalUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-how-aws-is-staking-its-claim-on-tomorrows-contact-centers.md",
       "title": "How AWS is staking its claim on tomorrow’s contact centers",
       "excerpt": "AWS unveiled several new ML-based feature updates for its Amazon Connect cloud contact center service that will simplify call agents workloads",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
-      "title": "BlueScope Steel completes data and analytics overhaul",
-      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
-          "width": 570,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

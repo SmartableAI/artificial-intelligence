@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-30T10:07:00Z
 originalUrl: "https://apnews.com/press-release/wired-release/technology-business-apple-inc-corporate-news-products-and-services-a801f357e96cb3bb0e850bc43116977e"
 webUrl: "https://apnews.com/press-release/wired-release/technology-business-apple-inc-corporate-news-products-and-services-a801f357e96cb3bb0e850bc43116977e"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

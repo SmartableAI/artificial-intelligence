@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-02-ai-transcription-sucks-heres-the-workaround.md",
+      "title": "AI transcription sucks (here's the workaround)",
+      "excerpt": "For now, I'm still paying for people-powered transcription services. Speech to text has been a huge challenge for AI developers, and it's a puzzle that's being closely watched in a variety of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "originalUrl": "https://www.zdnet.com/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/02/4ba7f352-6d24-4a68-896b-e379d872c0aa/sound-wave.jpg",
+          "width": 1280,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "publishedDateTime": "2020-12-02T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-deepmind-co-founder-demis-hassabis-how-gaming-can-advance-science.md",
       "title": "Deepmind co-founder Demis Hassabis: How gaming can advance science",
       "excerpt": "Predicting how a protein folds could hold the key to understanding disease. Deepmind claims its AI has largely solved the problem and its founder says he was inspired by gaming.",
@@ -1149,41 +1200,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-announces-five-new-capabilities-for-amazon-connect-helping-customer-service-representatives-offer-more-personalized-efficient-and-effective.md",
-      "title": "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Experiences for Customers ...",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201201006059/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201201006059/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

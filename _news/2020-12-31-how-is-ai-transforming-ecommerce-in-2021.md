@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Top AI-based Smartphones Released In 2020"
+    excerpt: "I am a journalist with a postgraduate degree in computer… As per internal estimates by CyberMedia Research in 2018, in the coming years, the number of AI-enabled smartphones will grow significantly. The report also said that as many as three of five smartphones shipped in 2020 would have AI capabilities."
+    publishedDateTime: 2021-01-03T12:32:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-based-smartphones-released-in-2020/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Smartphones_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI to Become Mainstream in 2021"
     excerpt: "As AI model deployment increases, IT teams will eventually take over AI lifecycle management from data scientists. One of the major downstream impacts for better or worse of the COVID-19 pandemic is the rate at which artificial intelligence (AI) technologies are being adopted within the enterprise."
     publishedDateTime: 2020-12-31T20:10:00Z
