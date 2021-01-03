@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-16-gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos.md",
+      "title": "Gun Detection AI is Being Trained With Homemade ‘Active Shooter’ Videos",
+      "excerpt": "However, due to sensitivity, little footage from the start of shootings is readily available ... The possibility is enough for Meredith Whittaker, faculty director of the AI Now Institute at New York University, to reject the use of the technology outright.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "originalUrl": "https://www.vice.com/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/5fd8eb022666c9009de791e3/lede/1608054498616-screenshot-2020-12-14-at-60256-pm.png?crop=0.8829xw:0.9992xh;0xw,0xh",
+          "width": 2111,
+          "height": 1187,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos",
+      "publishedDateTime": "2020-12-16T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-ces-honors-john-deere-for-x-series-combines-in-robotics-category.md",
       "title": "CES honors John Deere for X Series combines in Robotics category",
       "excerpt": "X Series combines equipped with ActiveVision cameras, can help farmers see inside the combine's grain tank and observe tailings so they can monitor",
@@ -1156,49 +1207,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others.md",
-      "title": "Chinese search-engine Baidu considers making electric cars: In talks with Geely, Hongqi, others",
-      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
-      "originalUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/12/baidu-electric-cars.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
-      "publishedDateTime": "2020-12-15T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

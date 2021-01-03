@@ -1,0 +1,42 @@
+---
+category: news
+title: "Centre plans AI-backed database to solve similar crimes faster, prevent them"
+excerpt: "The Modus Operandi Bureau (MOB), the database, will have over 100 modus operandi or trademark of criminals/accused persons involved in crimes till date."
+publishedDateTime: 2021-01-03T19:16:00Z
+originalUrl: "https://www.hindustantimes.com/india-news/centre-plans-ai-backed-database-to-solve-similar-crimes-faster-prevent-them/story-uOtsuDTF3HpTsxHUFZvwzH.html"
+webUrl: "https://www.hindustantimes.com/india-news/centre-plans-ai-backed-database-to-solve-similar-crimes-faster-prevent-them/story-uOtsuDTF3HpTsxHUFZvwzH.html"
+ampWebUrl: "https://m.hindustantimes.com/india-news/centre-plans-ai-backed-database-to-solve-similar-crimes-faster-prevent-them/story-uOtsuDTF3HpTsxHUFZvwzH_amp.html"
+cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/centre-plans-ai-backed-database-to-solve-similar-crimes-faster-prevent-them/story-uOtsuDTF3HpTsxHUFZvwzH_amp.html"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: Hindustan Times
+  domain: hindustantimes.com
+
+topics:
+  - AI
+
+related:
+  - title: "AI based database to solve similar crimes quicker, Centre"
+    excerpt: "The Centre is involved in developing an Artificial Intelligence (AI) and Natural Language Processing (NLP)-based database of modus operandi various cr..|News Track"
+    publishedDateTime: 2021-01-03T12:31:00Z
+    webUrl: "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 59
+    images:
+      - url: "https://media.newstracklive.com/uploads/crime-news//Jan/03/big_thumb/AI-based-database-to-solve-similar-crimes-quicker-Centre_5ff1b71375b0f.jpg"
+        width: 796
+        height: 450
+        isCached: true
+
+secured: "ulxhjxkANo9q05GmiiOXkePDhzWDGhj81RkuR4GVKtCWvDycUV4gCdmOTqRBHLoplt7NNvA74LBWA/KG9ZhwoSgOVO3YzeEOcqBN3B35WJP+E+arNHClOElOi1ZVFPLAGURKuQL1qYvgFIgj/eKGokxi/EJPhUqeETwtCpP45eBotNKVs80TvaCMpnx8mRoys1f6wSh131H+NZycOiVFQbSrf13Qaa20TNmD2yTv0kIERU5XHwaes2dvOmNjChXOpE5LMldFYLz0XJN9TDC8ubkcqgZh+F3hk0FJC3mMfB48iOe37fC7BORge6X5Kw3/LUcLYRrNyQVqeD6IjrPbklm1gkqns0ozf570TkcgBUk8ZMTIaWuSYENYHqgozITmh1SQhug5wwYt4bRNs+faYcWN0RFTOLN1V66dBN40GHE4Ng8/QKoeuEUdvzCZtl6s2WFNRyfqPKPo/uT3KhoY60Q5cmAuJsXDEm6FB9+g2Pbe/QCifQ+f12OzL7uSaYYZjvShw+0DBK4udctHSso8LQ==;Mg42HIJ8qtUJ3Thym4Re6Q=="
+---
+

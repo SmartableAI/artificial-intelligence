@@ -9,7 +9,7 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/ai-based-database-to-solve
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 796
     height: 450
     isCached: true
+
+related:
+  - title: "Centre plans AI-backed database to solve similar crimes faster, prevent them"
+    excerpt: "The Modus Operandi Bureau (MOB), the database, will have over 100 modus operandi or trademark of criminals/accused persons involved in crimes till date."
+    publishedDateTime: 2021-01-03T19:16:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/centre-plans-ai-backed-database-to-solve-similar-crimes-faster-prevent-them/story-uOtsuDTF3HpTsxHUFZvwzH.html"
+    ampWebUrl: "https://m.hindustantimes.com/india-news/centre-plans-ai-backed-database-to-solve-similar-crimes-faster-prevent-them/story-uOtsuDTF3HpTsxHUFZvwzH_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/centre-plans-ai-backed-database-to-solve-similar-crimes-faster-prevent-them/story-uOtsuDTF3HpTsxHUFZvwzH_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 34
 
 secured: "WNoaxTVACH0FxNRRdcFUVJGJEY98cVYufIMCUt/vL8lfnnRSDFDKEeKYckp+gIXNWuen/PV6XIYgr/5dEHoxaWLj/csRc6cz7ROK5UaVGACZkRxvmZmwgMsW6qpbXvmOZIce/aQRLIyT2sGZ7GljtTwHg7Z9LPVecvsFH6lXgQ0/7wG0QlB6MAEPKe/Ms8i4A9iPvSmuoJdLFN44EFfXDoXqPzzBRWe+akWfNFbZQYbizQ4UBTPtDnWLAcRPJkTMGJhecz6UsSvYrTbTFKYBtLrD8Vs8G9UB/LdMK3Cp3neyoubnnZgg/f+bd0feml0yiz8Ibe7m4t0MECy/cbrDk8XEWLvmCno72lzedDWtC9+Zqgd2xxaVNUOeA/Q8lwlItR3DQ1iy7IJOD3xjcoPav0/zkD9NN4IApXxwmk0MvfDLcRDoSjVcfFTpds30INXTL0nh0+77gFNx+HbqA+A0XsDmkc1+qL+X5uJF5Eqqv8EQciykRJNFtX+3vuN+QDUJemPoUzJrE6zLQ4ahLoJg5A==;5aEEikEaRa+avfP3/koAWA=="
 ---

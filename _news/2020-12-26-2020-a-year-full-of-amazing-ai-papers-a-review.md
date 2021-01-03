@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://avatars2.githubusercontent.com/u/70274208?s=400&v=4"

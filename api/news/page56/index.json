@@ -2,6 +2,48 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-11-18-joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfighter.md",
+      "title": "Joint Artificial Intelligence Center Has Substantially Grown To Aid The Warfighter",
+      "excerpt": "It was just two years ago when the Joint Artificial Intelligence Center was created to grab the transformative potential of artificial intelligence technology for the benefit of America's national ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/",
+      "originalUrl": "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2020/Nov/12/2002537456/1280/1280/0/201110-F-VG042-1134.JPG",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "US Department of Defense",
+        "domain": "defense.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-robotics-prosthetics-industry-overview-top-trends-in-2020-prosthetics-market-review-size-share-and-growth-insights-to-2027.md",
       "title": "Robotics Prosthetics Industry Overview, Top Trends in 2020, Prosthetics Market Review, Size, Share and Growth Insights to 2027",
       "excerpt": "In related news, Ossur had developed a mind-controlled prosthetic leg in 2015 ... Get Sample Copy for Report “Robotics Prosthetics Market Information: By-Products (Prosthetic Arms, Prosthetic ...",
@@ -1078,58 +1120,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections.md",
-      "title": "Beyond Smart Cities: How Drones And Robotics Revolutionize Building Inspections",
-      "excerpt": "H3 Dynamics, a cloud-based inspection services platform uses drones and ground robots as the eyes and ears of engineers currently grounded by the pandemic, and long hampered by last century norms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaafd12c9bea733d9babce%2F0x0.jpg",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
-      "publishedDateTime": "2020-11-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
