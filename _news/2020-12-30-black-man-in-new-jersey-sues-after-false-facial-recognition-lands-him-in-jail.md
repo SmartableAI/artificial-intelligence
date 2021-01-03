@@ -2,19 +2,19 @@
 category: news
 title: "Black man in New Jersey sues after false facial recognition lands him in jail"
 excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
-publishedDateTime: 2020-12-30T14:26:00Z
-originalUrl: "https://abc7.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-webUrl: "https://abc7.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-ampWebUrl: "https://abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+publishedDateTime: 2020-12-30T14:28:00Z
+originalUrl: "https://abc13.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+webUrl: "https://abc13.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+ampWebUrl: "https://abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: ABC7
-  domain: abc7.com
+  name: abc13.com
+  domain: abc13.com
 
 topics:
   - Computer Vision
@@ -204,20 +204,6 @@ related:
         width: 343
         height: 510
         isCached: true
-  - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
-    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
-    publishedDateTime: 2020-12-29T16:27:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 39
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "NJ Black Man Spent 10 Days in Jail After Being Misidentified by Police Using Facial Recognition Software (Video)"
     excerpt: "A Black New Jersey man is suing the town of Woodbridge, NJ and its police department, alleging he was falsely arrested and jailed for 10 days after facial recognition technology falsely identified him as the perpetrator of a shoplifting."
     publishedDateTime: 2020-12-29T23:15:00Z
@@ -232,23 +218,7 @@ related:
         width: 540
         height: 281
         isCached: true
-  - title: "New Jersey man who spent 10 days in jail sues police after facial recognition software which was later banned led to his false arrest for shoplifting candy and ramming cop car"
-    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
-    publishedDateTime: 2020-12-29T16:39:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9095719/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
-secured: "ok3mTwFl5M4OOl5zMIjpkbrOQzmkaXGJNbpUCzZpxMitmVHr4nHzSEQkldpYnv/qHQ/Yek6n24uegm0EB3UvhGFhXrHLTdbizFVn7ZC1CUsjKSoOUKly4oLdqbiDwTdg89Fcsp0EzCsZqa+UoSL5mXXLaHjFX/Xlcd0t6OvIBlyBAbJpBMwsAVp8Yoj3S3MozcmRpt/U/B8vArklhA+w+0f1soXthw13uHi67sRgaOY9ZeSa0lPdVfhPZc82XWocu/SAeMKqV2Vu8g//uEboCntvm7pBH+MfsEfl93au4kDT0f33Q0LmMnxq4KoI7t4dQZjTwMRGj8jGMf/9TstKq+mCATIhjmwbX0nPgaYqmMJy5o1XHoEAIiuVUM9U4+rtdHddSyjYQIGNScAu20wWwBTBXYbt+4g3U4on0I/nDO4wIK323MrVtb4W0Cm2+9D7TLX9qUaFvUU5HfbOv2588QHG0Jy1nr8xKLxEMnsaHUvXgxU2KzvMn7OVt06/I2MeQfS7tgfl1jw0pxyxH2/TOA==;vxVBIlFHQZGcoqe2ESb1Tg=="
+secured: "4bI6glCl29/annt3oXOvX4KRmVxGdJZ6/LXDR/rRJRVJViV/qQkIV3Gvap9NBiH83Y42KaBTEuQS1xSygNbWXiCw+2m13t3tLbMa7nyBbzxWtQU71v0iTw8h4T3gUkOIl3c+/xORwnzjXjYhHrLqpsW6wLgL1Cgla97VZDPs8LRdhDb3qJTAXq255XB7Fa9UFxVWNSY/Zb0oKcS40WKhu9ZCKR4hUh3ziR4SRDxdUeJT+ITOhdFyP1ZEUOE7+83z/ZU7Kr8kF0Wqq2tDEY95RtTnoxR/vN4KUpmdu39wCgYF+RKd13rRIoAXsnJrz7rFE9fDps7dzUImp3IbOBJkXRacOYHegNQ6ZR6XACOiWbqd9+pOeaxIC+kOuboS+hE/dZ4Z81jTbISTtXn3/faCmbPTnQz+j9xhbnNRBhudRwobIQfrTQfiSjou+MrNJoRgJ+5OB2LKoylRGd5tmp+KGQz+g5gBQulncsM1qVnfcjKl41p46/NSRKR9WEugDpPWMi8U9Pzedk8oi9cf9FIw2A==;68ja6lFi0G3XUMVdmvXuYw=="
 ---
 

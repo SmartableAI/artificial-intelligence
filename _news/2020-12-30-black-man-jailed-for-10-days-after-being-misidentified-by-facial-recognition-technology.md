@@ -155,14 +155,14 @@ related:
         isCached: true
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
-    publishedDateTime: 2020-12-30T14:26:00Z
-    webUrl: "https://abc7.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-    ampWebUrl: "https://abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    publishedDateTime: 2020-12-30T14:28:00Z
+    webUrl: "https://abc13.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+    ampWebUrl: "https://abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
+      name: abc13.com
+      domain: abc13.com
     quality: 51
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
@@ -205,20 +205,6 @@ related:
         width: 343
         height: 510
         isCached: true
-  - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
-    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
-    publishedDateTime: 2020-12-29T16:27:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 39
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "NJ Black Man Spent 10 Days in Jail After Being Misidentified by Police Using Facial Recognition Software (Video)"
     excerpt: "A Black New Jersey man is suing the town of Woodbridge, NJ and its police department, alleging he was falsely arrested and jailed for 10 days after facial recognition technology falsely identified him as the perpetrator of a shoplifting."
     publishedDateTime: 2020-12-29T23:15:00Z
@@ -232,22 +218,6 @@ related:
       - url: "https://eurweb.com/wp-content/uploads/2020/12/safe_image.jpeg"
         width: 540
         height: 281
-        isCached: true
-  - title: "New Jersey man who spent 10 days in jail sues police after facial recognition software which was later banned led to his false arrest for shoplifting candy and ramming cop car"
-    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
-    publishedDateTime: 2020-12-29T16:39:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9095719/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "Bb21PWjUEyEYM4mvPbUqURE7sUgF3HhoUZz3Bo4uy0QBGKKodfJ6gqmTGFJjxBUNp7RVal9kUjBea9KMtqKOD6j0el9L6MRAyHQH+0Xpe6URCAMouDv/vTFdB4dPUxLAluYxcBdQk8reTO8w3D8JcqNKaN0OHoImE/kmVFiODgOiBPm2RvhPKJY0m84nHKUj/dwDr6DjfOsL3e+usXI+ppUz+nWQcprZK7EWUoJ/qBRqE/x30CV+wc8j3nUSJud0WUMUiyhMyCPbf1YKNZKY7JLElM55UuZqeqTPKqXLS9ZbnHSV/Bsmdr96HmgO66lB9UuR6I5laT1NCYPjo6StVoRJfmK/eYLjAF7AI0kEHyKBwXsMafG1XxsH54AmFab2SjvtstUNmXHI3DNok7fb1nW+9zYtLCmiXMNwMDXuWdx65UWTUrI5peosZIZhYmp0D1KE7+xjggkfE+lJtKg1AwGN+7FGWg0Gnj8ZhOqPkwiEjrME9W5GhHRr6oDlxOiwF0OWBwkjYQ7GPikK8Qvksg==;VP+fEfvPzcaQbp1sUvZycw=="

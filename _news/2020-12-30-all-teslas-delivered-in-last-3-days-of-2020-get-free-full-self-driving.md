@@ -107,22 +107,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Watch Tesla Model S Full Self-Driving Beta Tackle The Snow"
-    excerpt: "This is what we're thinking when we ask how quickly (or how long) it will take before tech like Tesla's FSD will actually be able to pilot cars on its own."
-    publishedDateTime: 2020-12-29T15:43:00Z
-    webUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/"
-    ampWebUrl: "https://insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/462844/video-tesla-full-self-driving-snow-testing/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/7x73V/s1/tesla-model-s-fsd-beta-snow.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla Offers Free Trial of $10,000 Self-Driving Package"
     excerpt: "To meet its goal of delivering 500,000 vehicles this year, Tesla Inc. (NASDAQ: TSLA) reportedly is offering customers who take delivery by the end of December a big freebie. The company’s full self-driving package is normally priced as a $10,"
     publishedDateTime: 2020-12-30T14:45:00Z

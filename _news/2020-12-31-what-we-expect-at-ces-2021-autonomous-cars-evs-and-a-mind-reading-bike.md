@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The next evolution of EHRs: What to expect in 2021 and beyond"
-    excerpt: "EHRs have become an integral part of the healthcare delivery system in the past decade and will continue to evolve in the coming years to alleviate the tech burden on healthcare providers and add to the clinical decision-making process."
-    publishedDateTime: 2020-12-29T16:02:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/the-next-evolution-of-ehrs-what-to-expect-in-2021-and-beyond.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 24
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/6.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "XJ0vB7UYXweTcNIQ1opEo1QCPFCEDrdnFS6AYRjZt2bY/y94BC4gQlJXXElm0FL/MVsC+6asz48OPHaPeH8D1NJCmWQHo96nsVHZ1rDvwMwLybU4ME0760SiEhVXzvZ6EDRkARdkqEKlwEUkIZh8u01I4W04ENuZjKwvk30qXJ1wmpS3fidB0bq6mMB8ulZa1vyEyaqRKwyYE2sHDMJ5+lIoGPky8eLeHsS7HUXHbTJYgihiEfzhPenj7lJxYGwfz3+kyYxqcuf8FwiwSSfyIfQ9tC8KY8Gp4jEU5Pa2k3O7imdOvStwdD56Blojxlop3txHIQW7/AsCTR3WHntQ1+tH99N6HY8UMz4zWqTB5Q3psNIVacRgpo6eYO0tTnK8zr9PpylCZbEaBqUxKfm85Kq1V3ni/0oVeQ168VaLC29GNkzSUX9ibmKJcD5XLPT31MBCRTjNuaTVMqsjdbt30gXAnlI3RgEQKszLHZKf7EOSUOrDSy6bd3uMq3Og6twlFkpRlcvpj+Hrh05ly83Eqg==;G1hl/ytKcWOQlfYiYbeGIQ=="
 ---

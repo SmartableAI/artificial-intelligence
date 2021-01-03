@@ -30,7 +30,7 @@ related:
   - title: "Artificial Intelligence for Identifying and Monitoring Cognitive Decline"
     excerpt: "In the latest episode of Impetus Digital's Fireside Chat, I sit down with Liam Kaufman, CEO & Co-founder of Winterlight Labs for another thought-provoking discussion. Among many other topics, we delve into AI, machine learning, natural language processing, digital biomarkers, and human-computer interactions in healthcare."
     publishedDateTime: 2020-12-31T16:55:00Z
-    webUrl: "https://www.pmlive.com/pmhub/pharma_training/impetus_digital/videos/artificial_intelligence_for_identifying_and_monitoring_cognitive_decline"
+    webUrl: "https://www.pmlive.com/pmhub/healthcare_digital_communications/impetus_digital/videos/artificial_intelligence_for_identifying_and_monitoring_cognitive_decline"
     type: article
     provider:
       name: PMLiVE

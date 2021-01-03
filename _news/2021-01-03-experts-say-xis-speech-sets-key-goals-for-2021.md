@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Experts say Xi's speech sets key goals for 2021"
-excerpt: "President Xi Jinping's New Year's address has emphasised the importance of people and set important national development and economic goals for 2021, global experts sai"
-publishedDateTime: 2021-01-03T05:18:00Z
-originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/03/experts-say-xi039s-speech-sets-key-goals-for-2021"
-webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/03/experts-say-xi039s-speech-sets-key-goals-for-2021"
+excerpt: "President Xi Jinping's New Year's address has emphasized the importance of people and set important national development and economic goals for 2021, global experts said."
+publishedDateTime: 2021-01-03T04:06:00Z
+originalUrl: "https://www.nationthailand.com/noname/30400612"
+webUrl: "https://www.nationthailand.com/noname/30400612"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: nationthailand
+  domain: nationthailand.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/01/03/994341.jpeg"
-    width: 900
-    height: 651
+  - url: "https://media.nationthailand.com/images/news/2021/01/03/30400612/800_fd3b1368b0fe501.jpg?v=1609662270"
+    width: 675
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+xagVpanRZ6T7pxfgmo9k2wwA8MCkD8Twp03vRcyl5XCrpBEs+ve9JFq9W1AaJYrc+RBcXCWt6Vxc3WRXssMw1rs2cOYwZAhtUlQGLFQUCqRL3eyFhRLTF7+a2JKAzmggewlWF8cMTR+tUK7+Y+4YJv2D03awf3VnV3WPU0wWo1M1oQEd2S/vySPiA/mBtBLqC+vUHkIG5JWCGCQwmfWvO49Yi6Ez1hsPTCkyTWzKhWWDsOgqInwtYL0Os8uhBECaDduexrvg+UD0dCLuMbHavKY2rRtdBXsrloG3UfXXzteLfqPp8bg+8FeMM3l6SNrlVmg+VWTXVtgLbdk7QI1kvEyOJdapUOvpK0SckM3Xjs=;TCnwtObvt4AaEaZyS2u8TQ=="
+secured: "IZ+UAkFzhu8srw/iuR5wSnDuH750Ypxz+XK3ZTpmLwWe7+S4qP+BIs90CkH8K4I9D5uOMiDvRM1rWGohHXv/NvanY88aFQ/8xSPuQ+2NBSx7jWRZSmLjdMhDlZZcolDsteRuWdbYAZ46a2HANJGu7ba/qhz5TDhF7/9x+cnOgQMXW1VP9+asEJm7envmLUuM/ebFaDCSPZ5zIrYg9M9nH3JbZgOMAEOPmi3EOx31rrkHKV/mu3hiQCIZQA07CRlnwZM2UoFj3tLxd/iHHM8Mtrs3nOJIQ/EtrTrl6u2ae4cBApHltAFloL+mh+Wa7pHWEwB7UofLBilm3ginqPdfBG2CHuM3nWT2gjew7hmV5Dg=;Vo08pzEicJjCrOrN0FX/dg=="
 ---
 

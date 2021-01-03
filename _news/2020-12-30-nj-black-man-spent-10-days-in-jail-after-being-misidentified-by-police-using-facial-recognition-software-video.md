@@ -169,14 +169,14 @@ related:
         isCached: true
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
-    publishedDateTime: 2020-12-30T14:26:00Z
-    webUrl: "https://abc7.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-    ampWebUrl: "https://abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    publishedDateTime: 2020-12-30T14:28:00Z
+    webUrl: "https://abc13.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+    ampWebUrl: "https://abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
+      name: abc13.com
+      domain: abc13.com
     quality: 51
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
@@ -218,36 +218,6 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
         width: 343
         height: 510
-        isCached: true
-  - title: "New Jersey man sues for wrongful arrest after facial recognition bust"
-    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
-    publishedDateTime: 2020-12-29T16:27:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 39
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "New Jersey man who spent 10 days in jail sues police after facial recognition software which was later banned led to his false arrest for shoplifting candy and ramming cop car"
-    excerpt: "Nijeer Parks, 33, was held in jail for 10 days, falsely charged in a 2019 shoplifting incident in Woodbridge that ended with the thief ramming a parked police car as he escaped."
-    publishedDateTime: 2020-12-29T16:39:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9095719/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9095719/amp/New-Jersey-man-sues-wrongful-arrest-facial-recognition-bust.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/29/16/37375018-0-image-a-7_1609258788025.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "QXp0Y1Zz+ToM/Xei7ZPqNrqce2MrlGGkuqu8klHxrCXkobX5uONgkHDMDrhyU7Ma6Gxo6GFcb5Rw8ZFgd28Xe3SmHDqNOVvh2Na263gUru+//LxGMqRZZ2dP4/2IWVlKdfNG49RiLSw/egPEUNfQTxuAzHX9ujxbU1k3sZfBhJq/hitwCHs7NNfRZo5I5ZDf3YGVVX7lGJEXCQRf9SfkzFHAy2ptyjaKXf44gjLhTEB0ThcAnqXD7SlVBkVBIX0Py+VZuXGHkRQITFQcPMtTYQMj73sPSZSjggUIUTe+L1nnhFI1QT5d7KNqI3cE+GjqyMI9D1Gc1ZMAG5VbPKXeMr7JIeCaJe0UE5hcVXtGrFGJSMXUbMvNQz8EZCU8YNy6TD3UNj1F2SWNFFkAfomHMWYIFdO2+3G8B/S5Gse18RG4sUo948PNU+vy8WjWUNRFR2YALFqE6HAxK+GdnmCTFF8VNcgTsdiL11RY26S19EHTv6N7oyrqquBOxSWPn08FQgzw/gFMLMG1p8yrQBWrvw==;/CU89d78kpNvSOA1tByl4w=="
