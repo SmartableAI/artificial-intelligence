@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learn
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-01/cfa38ae4-38b3-41a7-bd60-f56d80c55239/dispositivos_ciberseguridad.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "The Top Trends In The Fintech Sector In 2021"
-    excerpt: "Fintech has made normal users fall in love with the ease and convenience of banking and finance. The sector is set up for a major uplift in 2021 and we are going to help you know more in this regard."
-    publishedDateTime: 2020-12-29T17:55:00Z
-    webUrl: "https://icoexaminer.com/blog/the-top-trends-in-the-fintech-sector-in-2021/"
-    type: article
-    provider:
-      name: ICOExaminer
-      domain: icoexaminer.com
-    quality: 24
-    images:
-      - url: "https://icoexaminer.com/wp-content/uploads/2018/10/usdt-300x302.jpg"
-        width: 300
-        height: 302
         isCached: true
   - title: "Top Fintech Trends in 2021"
     excerpt: "It’s fair to say that 2020 has been among the most consequential years ever for the fintech (financial technology) industry. Thanks in no small part to a deadly pandemic that swept across much of the world,"

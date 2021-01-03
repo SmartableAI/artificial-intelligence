@@ -2,6 +2,196 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-12-16-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "Exclusive-China search giant Baidu considers making own electric vehicles -sources",
+      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
+      "sourceUrl": null,
+      "webUrl": "https://lta.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2",
+      "originalUrl": "https://lta.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544615511&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P0F2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2",
+      "publishedDateTime": "2020-12-15T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence.md",
+      "title": "IAiDL Disrupts World Of Technology In The Area Of Artificial Intelligence",
+      "excerpt": "IAiDL covers everything from big data solutions to edge computing, drone management, the Internet of Things (IoT,) blockchain technology, and robotics. In line with the company’s goal of raising Artificial Intelligence competence standards in all walks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1607956287.jpeg",
+          "width": 585,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18807435",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18807435",
+      "publishedDateTime": "2020-12-15T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-5-ways-ibm-predicts-ai-and-ad-tech-will-evolve-in-2021.md",
+      "title": "5 Ways IBM Predicts AI and Ad Tech Will Evolve in 2021",
+      "excerpt": "IBM Watson Advertising has bet that artificial intelligence and anonymized behavioral insights will play a central role in that post-cookie future. The company has rolled out a series of product releases this year that aimed to lessen marketers’ reliance on personal data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/",
+      "originalUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/12/Acquia_Brandshare_123020_HP-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
+      "publishedDateTime": "2020-12-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fedex-tracking-technologies-help-ensure-the-safe-delivery-of-vaccines-around-the-world.md",
+      "title": "FedEx tracking technologies help ensure the safe delivery of vaccines around the world",
+      "excerpt": "Earlier this month, you may have heard that FedEx announced it would begin shipping the Pfizer-BioNTech Covid-19 vaccine upon FDA approval. What you might not know is that, behind the scenes, FedEx wa",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/fedex-tracking-technologies-help-ensure-safe-delivery-judson-althoff/?trackingId=41RMaR%2FBSNG1P92v2vOmdA%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/fedex-tracking-technologies-help-ensure-safe-delivery-judson-althoff/?trackingId=41RMaR%2FBSNG1P92v2vOmdA%3D%3D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEtCw04BM9YBw/article-cover_image-shrink_720_1280/0/1608148454568?e=1614816000&v=beta&t=hqOcwke-ot2cPWCeiLTsE3D35FQnXASLKXNgLywkdWQ",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-moving-ai-ethics-beyond-guidelines.md",
       "title": "Moving AI ethics beyond guidelines",
       "excerpt": "This article first appeared as an op-ed in The Straits Times, 16 December 2020 The recent row over a leading researcher’s departure from Google raises questions about the role and remit of AI ethics team and the inadequacy of frameworks to deal with moral complexities.",
@@ -997,189 +1187,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-it-takes-a-lot-of-energy-for-machines-to-learn-why-ai-is-so-power-hungry.md",
-      "title": "It takes a lot of energy for machines to learn: Why AI is so power-hungry",
-      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
-      "originalUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
-      "publishedDateTime": "2020-12-15T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research.md",
-      "title": "BERG Deepens Research Collaboration With AdventHealth To Advance Aging, Metabolism and Nash Research",
-      "excerpt": "PRNewswire/ -- BERG, a clinical-stage biotech that employs patient biology and artificial intelligence (AI) to research diseases and develop",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082030/BERG_Logo.jpg?p=facebook",
-          "width": 2865,
-          "height": 1499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-nvidias-chips-have-powered-nearly-every-major-ai-breakthrough.md",
-      "title": "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough",
-      "excerpt": "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
-      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
-      "publishedDateTime": "2020-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-amazon-zoox-introduces-self-driving-robot-taxi.md",
-      "title": "Amazon Zoox introduces self-driving robot taxi",
-      "excerpt": "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
-      "originalUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg",
-          "width": 736,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
-      "publishedDateTime": "2020-12-15T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
+      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
+      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
+          "width": 800,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "publishedDateTime": "2020-12-30T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-assistive-robotics-market-by-mobility-product-type-applications-and-geography-global-forecast-to-2024.md",
       "title": "Assistive Robotics Market by Mobility, Product Type, Applications, and Geography - Global Forecast to 2024",
       "excerpt": "The assistive robotics market is expected to grow from USD 4.1 billion in 2019 to USD 11.2 billion by 2024, at a CAGR of 22.3% during the forecast period. The assistive robotics market is expected to grow from USD 4.",
@@ -252,7 +295,7 @@
       "originalUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1228,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-marketplace-is-demanding-ethical-ai.md",
-      "title": "The Marketplace Is Demanding Ethical AI",
-      "excerpt": "Under the right conditions, AI can be highly beneficial and a force for good. Under the wrong conditions, however, AI can lead to widespread discrimination and reinforce existing socioeconomic disparities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
-      "originalUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-277416/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "publishedDateTime": "2020-12-29T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

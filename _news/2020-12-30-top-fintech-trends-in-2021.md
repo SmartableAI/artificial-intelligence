@@ -71,20 +71,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "The Top Trends In The Fintech Sector In 2021"
-    excerpt: "Fintech has made normal users fall in love with the ease and convenience of banking and finance. The sector is set up for a major uplift in 2021 and we are going to help you know more in this regard."
-    publishedDateTime: 2020-12-29T17:55:00Z
-    webUrl: "https://icoexaminer.com/blog/the-top-trends-in-the-fintech-sector-in-2021/"
-    type: article
-    provider:
-      name: ICOExaminer
-      domain: icoexaminer.com
-    quality: 24
-    images:
-      - url: "https://icoexaminer.com/wp-content/uploads/2018/10/usdt-300x302.jpg"
-        width: 300
-        height: 302
-        isCached: true
 
 secured: "m5omB+GGerG5JHrmXTa6L+oA7WZ5lC7tV0vuSQb7YVe7A4UsjFizdfwLESvSXzZSDaY80iprdR5WBWHLabX4NjwVx3WD2QdZR/hhLOe5fpB0EGJE7BAqjz3NAS/J7tFM4Tt2FoyzlBCEY1UMgTIQLVq8y9WO0jbUy57w3Je7EAFvi2GAZ2S97TMUqF1ib6s8l90aCIVCClJ3POEBrJRjsXePMWAZiICco6PwuVH/QXPqlZYJvIY79NzsEaHqc030Hzd9uiums/2gXsDuRPMl1ncDJhnGWBqq1hK8ZGmt1Q7UkMQk6mE7YD2ksK0/YPvtLg+akAF0dfco4t9JNx4r+r7IYEedmzhfWndUN5N8LUM=;XetlcP4wtkuM4BgVMTy3eg=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-03-the-best-facial-recognition-security-cameras-of-the-year.md",
+      "title": "The best facial recognition security cameras of the year",
+      "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
+      "publishedDateTime": "2021-01-03T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
       "title": "Best graphics card for gamers and creatives in 2021",
       "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
@@ -253,7 +306,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -705,7 +758,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1178,49 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
-      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
-      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
-          "width": 800,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "publishedDateTime": "2020-12-30T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

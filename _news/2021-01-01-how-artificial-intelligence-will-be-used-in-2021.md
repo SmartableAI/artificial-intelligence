@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 type: article
 quality: 93
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI tools to help companies connect with customers in 2021"
-    excerpt: "As companies look for ways to improve customer engagement, more IT leaders will be turning their focus to artificial intelligence tools in 2021 to help teams stay connected with customers."
-    publishedDateTime: 2020-12-29T17:11:00Z
-    webUrl: "https://www.techrepublic.com/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-ai-tools-to-help-companies-connect-with-customers-in-2021/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/12/29/c241c807-3f6b-4a9c-99f5-5efe2c3bceec/resize/1200x900/3493c5602b2a50c620f7d963cacfb961/amplify-new.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How is AI Transforming Ecommerce in 2021"
     excerpt: "As we all know that the ongoing pandemic has impacted business models.  But Artificial Intelligence with its self-teaching and learning algorithms will play"
     publishedDateTime: 2020-12-31T09:20:00Z

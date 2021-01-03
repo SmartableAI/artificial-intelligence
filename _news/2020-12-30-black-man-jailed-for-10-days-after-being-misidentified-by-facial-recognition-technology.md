@@ -27,85 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Another Arrest, and Jail Time, Because of a Bad Facial Recognition Match"
-    excerpt: "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition."
-    publishedDateTime: 2020-12-29T17:23:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
+  - title: "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology"
+    excerpt: "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days."
+    publishedDateTime: 2020-12-30T18:39:00Z
+    webUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661"
+    ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 203
+      name: The Root
+      domain: theroot.com
+    quality: 67
     images:
-      - url: "https://static01.nyt.com/images/2020/12/29/business/29facialrecog1/29facialrecog1-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Another Arrest, and Jail Time, Due to a Bad Facial Recognition Match"
-    excerpt: "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition."
-    publishedDateTime: 2020-12-29T20:33:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/29/business/29JPfacialrecog-promo/29JPfacialrecog-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Man sues police over a facial recognition-related wrongful arrest"
-    excerpt: "A New Jersey man is suing the town of Woodbridge and its police department after he was falsely arrested following an incorrect facial recognition match. Nijeer Parks spent 10 days in jail last year,"
-    publishedDateTime: 2020-12-29T20:21:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-lawsuit-new-jersey-201517290.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 91
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fd92b4ab0-4a0f-11eb-9ba8-538aae343b4d&client=amp-blogside-v2&signature=ebabf873fa9697080d965a015a3e05c05cfc50f8"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Facial-Recognition Tools in Spotlight in New Jersey False-Arrest Case"
-    excerpt: "A New Jersey man is suing local authorities who he says wrongly arrested him based on a false facial-recognition match, in a case that has fueled debate over the accuracy of the fast-emerging technology."
-    publishedDateTime: 2020-12-30T05:03:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-278977/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Lawsuit Claims Facial Recognition AI Sent the Wrong Man to Jail"
-    excerpt: "New Jersey police are under fire after wrongfully accusing and arresting a suspect based on nothing more than faulty facial recognition software that’s since been banned in the state."
-    publishedDateTime: 2020-12-29T18:34:00Z
-    webUrl: "https://futurism.com/the-byte/lawsuit-claims-facial-recognition-ai-sent-wrong-man-jail"
-    ampWebUrl: "https://futurism.com/lawsuit-claims-facial-recognition-ai-sent-wrong-man-jail/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/lawsuit-claims-facial-recognition-ai-sent-wrong-man-jail/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2020/12/lawsuit-claims-ai-sent-wrong-man-jail-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg"
+        width: 800
+        height: 484
         isCached: true
   - title: "Black Man in NJ Misidentified by Facial Recognition and Falsely Jailed, Lawsuit Claims"
     excerpt: "A New Jersey man sued police and prosecutors, claiming he was wrongly arrested and jailed after facial recognition software mistakenly linked him to a hotel theft, NBC News reported. Nijeer Parks, 33,"
@@ -156,13 +92,13 @@ related:
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
     publishedDateTime: 2020-12-30T14:28:00Z
-    webUrl: "https://abc13.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-    ampWebUrl: "https://abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    webUrl: "https://abc11.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
+    ampWebUrl: "https://abc11.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
     type: article
     provider:
-      name: abc13.com
-      domain: abc13.com
+      name: WTVD
+      domain: abc11.com
     quality: 51
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
@@ -175,35 +111,33 @@ related:
       name: ABC 7 Chicago
       domain: abc7chicago.com
     quality: 51
-  - title: "Unregulated facial recognition must stop before more Black men are wrongfully arrested"
-    excerpt: "HOW MANY more Black men will be wrongfully arrested before this country puts a stop to the unregulated use of facial recognition software? So far, the count is three, and that’s only those we know of."
-    publishedDateTime: 2020-12-31T16:22:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+  - title: "Berkshire Legislator Disappointed With Failure To Ban Facial Recognition Technology In Reform Bill"
+    excerpt: "Not all Berkshire County legislators are pleased with the final form of the police reform bill Massachusetts Governor Charlie Baker signed into law on"
+    publishedDateTime: 2020-12-31T21:30:00Z
+    webUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failure-ban-facial-recognition-technology-reform-bill"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 51
+      name: WAMC
+      domain: wamc.org
+    quality: 40
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZNYQSCQVAEI6RCYIAJ5GZSZY5M.jpg&w=1440"
-        width: 1440
-        height: 1024
+      - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
+        width: 800
+        height: 1067
         isCached: true
-  - title: "Facial Recognition Technology Cited in False Arrest Case"
-    excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
-    publishedDateTime: 2020-12-30T13:19:00Z
-    webUrl: "https://thecrimereport.org/2020/12/30/facial-recognition-technology-cited-in-false-arrest-case/"
+  - title: "New York Temporarily Bans Facial Recognition Technology in Schools"
+    excerpt: "New York Governor Andrew Cuomo signed into law legislation that temporarily bans the use or purchase of facial recognition and other biometric identifying technology in"
+    publishedDateTime: 2020-12-29T22:08:00Z
+    webUrl: "https://www.natlawreview.com/article/new-york-temporarily-bans-facial-recognition-technology-schools"
     type: article
     provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
+      name: The National Law Review
+      domain: natlawreview.com
     quality: 39
     images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/16842/New%20York%20city%20graphic_9_0.jpg?itok=GULRoOeE"
+        width: 500
+        height: 444
         isCached: true
   - title: "NJ Black Man Spent 10 Days in Jail After Being Misidentified by Police Using Facial Recognition Software (Video)"
     excerpt: "A Black New Jersey man is suing the town of Woodbridge, NJ and its police department, alleging he was falsely arrested and jailed for 10 days after facial recognition technology falsely identified him as the perpetrator of a shoplifting."
@@ -218,6 +152,22 @@ related:
       - url: "https://eurweb.com/wp-content/uploads/2020/12/safe_image.jpeg"
         width: 540
         height: 281
+        isCached: true
+  - title: "Third Innocent Black Man to Be Misidentified by Facial Recognition Software Sues Police Department and Prosecutor for False Arrest and Imprisonment"
+    excerpt: "Nijeer Parks, a 33 year old Black man is suing a New Jersey city, police department, and prosecutor, for false arrest, false imprisonment and violation of his civil rights for misidentifying him using facial recognition software."
+    publishedDateTime: 2020-12-31T17:38:00Z
+    webUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/"
+    ampWebUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
+    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
+    type: article
+    provider:
+      name: lawandcrime
+      domain: lawandcrime.com
+    quality: 21
+    images:
+      - url: "https://lawandcrime.com/wp-content/uploads/2020/12/face-software.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "Bb21PWjUEyEYM4mvPbUqURE7sUgF3HhoUZz3Bo4uy0QBGKKodfJ6gqmTGFJjxBUNp7RVal9kUjBea9KMtqKOD6j0el9L6MRAyHQH+0Xpe6URCAMouDv/vTFdB4dPUxLAluYxcBdQk8reTO8w3D8JcqNKaN0OHoImE/kmVFiODgOiBPm2RvhPKJY0m84nHKUj/dwDr6DjfOsL3e+usXI+ppUz+nWQcprZK7EWUoJ/qBRqE/x30CV+wc8j3nUSJud0WUMUiyhMyCPbf1YKNZKY7JLElM55UuZqeqTPKqXLS9ZbnHSV/Bsmdr96HmgO66lB9UuR6I5laT1NCYPjo6StVoRJfmK/eYLjAF7AI0kEHyKBwXsMafG1XxsH54AmFab2SjvtstUNmXHI3DNok7fb1nW+9zYtLCmiXMNwMDXuWdx65UWTUrI5peosZIZhYmp0D1KE7+xjggkfE+lJtKg1AwGN+7FGWg0Gnj8ZhOqPkwiEjrME9W5GhHRr6oDlxOiwF0OWBwkjYQ7GPikK8Qvksg==;VP+fEfvPzcaQbp1sUvZycw=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-28-levelling-the-playing-field.md",
+      "title": "Levelling the playing field",
+      "excerpt": "IBM has been using AI in its HR processes for several years thanks to the creation of Watson, a natural language computer system predating Amazon’s Alexa, which can answer questions in a human-like way. IBM’s Andi Britt says: “We’ve been doing a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
+      "originalUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrmagazine.co.uk/article-images/image-library/138/screenshot_2020-12-22_at_18.49.06_f348cd83.jpg",
+          "width": 800,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-27T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HR Magazine",
+        "domain": "hrmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-26-15-biggest-tech-companies-how-big-can-they-get.md",
       "title": "15 Biggest Tech Companies: How Big Can They Get?",
       "excerpt": "In this article, we are going to list the 15 biggest tech companies in the world. Click to skip ahead and jump to the 5 biggest tech companies in",
@@ -1343,57 +1386,6 @@
       "topics": [
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study.md",
-      "title": "IBM OpenPages with Watson can deliver a 218% return on investment, finds Forrester study",
-      "excerpt": "The modern enterprise evolves to develop an integrated governance, risk and compliance (GRC) framework. Using a structured approach to manage GRC programs creates efficiencies by aligning technology with business objectives so that the organization can effectively manage risk and operate effectively",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/RegTech_Watson_blog_surprise_leadspace-1-990x498.png",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T09:03:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],
