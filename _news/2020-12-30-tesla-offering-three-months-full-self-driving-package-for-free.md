@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla uses three free months of 'Full Self-Driving' to push year-end sales"
-    excerpt: "Driving” system that Tesla sells as a $10,000 option isn’t available in subscription form yet, but the car company is already using that idea to boost sales. Reported earlier by Electrek and confirmed in a tweet by Elon Musk,"
-    publishedDateTime: 2020-12-30T01:30:00Z
-    webUrl: "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=c32d614053b5590ce90e5251cb05134f3601ab4c"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
     excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
     publishedDateTime: 2020-12-31T19:22:00Z

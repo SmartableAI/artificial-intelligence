@@ -26,6 +26,22 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Wolff: Knighthood is the recognition Hamilton deserves"
+    excerpt: "Mercedes Team Principal Toto Wolff believes that Lewis Hamilton’s knighthood is a sign that the seven-time world champion is getting the recognition he deserves"
+    publishedDateTime: 2020-12-31T22:13:00Z
+    webUrl: "https://www.speedcafe.com/2021/01/01/wolff-knighthood-is-the-recognition-hamilton-deserves/"
+    type: article
+    provider:
+      name: Speedcafe
+      domain: speedcafe.com
+    quality: 24
+    images:
+      - url: "https://media4.speedcafe.com/wp-content/uploads/2021/01/M252267-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "bYyHQ0SF77s2zKnsjTj2ASDTbcZoEXQPxBApgW3vCX1MjXctorPkmmtIyQqdViT4CvZaRjXJLZGHhRp1V4PcuFwGupbjqbKT1fAdaMl30tSXNKs84hIRkGUZwLZKF/VJw8wj44wXbCmie041zoPg8sQ2nmNG6WsSH+nP11gKIo0ioNpeMxhKeWoS93WBjBq0/fn+2usOu113UoOLnG94EjLVz/NosjqWNvg63NeOusytvGoyJJlreJqbicJle+xrH/rYiwXLx0ezaK420dU8Z/E0dN6sQBnQrrc9peSvGViRSY3iJoEIsIodKS0ynTMPF5rHHT2tQx9xOMMqYiH5XZR/WKHA4HSrTcEo55HBUsleYxK9IFxBoOyoqLfaWjv9YaxTldb+Vj//0HQ0jNfDf9DhIQtxnFYzFZU5wF4Px8YYuObYd3Mz72OD9ABFjS5OmEg9l+x6yTAEil9wp0mKtTGsOe+236BYDfLHjMk5un5v4o1JYOyrVBxUMrOX+eIP096gKhoUmXo77yk47JGVLg==;yY7lOILzkqZZ1YBPgJwKeQ=="
 ---
 

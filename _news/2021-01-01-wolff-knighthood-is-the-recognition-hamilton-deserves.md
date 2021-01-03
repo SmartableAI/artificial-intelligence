@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hamilton song written by AI features odd reference to Hillary Clinton"
-    excerpt: "Hard-core fans of the musical Hamilton can never get enough of the catchy soundtrack (I speak from experience). So they may be happy to know they now have a new song to earworm over. Lin-Manuel Miranda,"
-    publishedDateTime: 2020-12-30T02:07:00Z
-    webUrl: "https://www.cnet.com/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/"
+  - title: "Hamilton getting deserved recognition with knighthood – Wolff"
+    excerpt: "Lewis Hamilton’s knighthood demonstrates that he is getting the recognition he deserves for his record-breaking Formula 1 career, according to Mercedes team principal Toto Wolff. Hamilton follows"
+    publishedDateTime: 2020-12-31T21:36:00Z
+    webUrl: "https://racer.com/2020/12/31/hamilton-getting-deserved-recognition-with-knighthood-wolff/"
+    ampWebUrl: "https://racer.com/2020/12/31/hamilton-getting-deserved-recognition-with-knighthood-wolff/amp/"
+    cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/12/31/hamilton-getting-deserved-recognition-with-knighthood-wolff/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Racer
+      domain: racer.com
+    quality: 44
     images:
-      - url: "https://cnet1.cbsistatic.com/img/gNYBeg7tlbjadIBTz8JB3juQ3YU=/2020/12/30/36c9f544-7259-44c6-a61b-49153d39d2fb/hamilton.jpg"
-        width: 1716
-        height: 854
+      - url: "https://racer.com/wp-content/uploads/sites/85/2020/12/1018347112-LAT-20201115-GP2014_131829SNE24771.jpg?w=1000&h=576&crop=1"
+        width: 1000
+        height: 576
         isCached: true
 
 secured: "WIqfUBSFGg/EDfoCZu9nlTIXIdoeMGLz09YzKpIN720HITVBwVGp932Mv8qXiCJ36TSAqZMqzlmOvWR5vYyqBz837TDLnPK5e2lhViS5BmUPKKIl+4nB90+yaOJhseLc/7OsyoPjcYD+9YU7jNGVdMaK3VVsm5toO5xCQ3lO7m54uc8fIieNpR3SUXtQfSTJ7XPVX82Owtj2hxJiEp8RpSbbtRSWUX8zt/w547NJRppxjd/AQ0mbRefSiKpRwufeU/vSha+mdnsq78jd15H40baRU8V35IlPSqY6s5pQczGvgubIRjY5pu3jNURfoFq7Ucp43Vo4f8HIy28qxiZR6MNIuOquci+vwCGG46/gTiE=;pK9wMBguFqO1fg3Tc+urrw=="

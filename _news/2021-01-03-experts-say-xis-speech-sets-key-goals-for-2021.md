@@ -39,6 +39,17 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Experts say Xi’s speech sets key goals for 2021"
+    excerpt: "President Xi Jinping’s New Year’s address has emphasized the importance of people and set important national development and economic goals for 2021, global experts said. Christopher Bovis, a professor of international business law at the University of Hull in the United Kingdom,"
+    publishedDateTime: 2021-01-03T18:28:00Z
+    webUrl: "https://www.hellenicshippingnews.com/experts-say-xis-speech-sets-key-goals-for-2021/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/experts-say-xis-speech-sets-key-goals-for-2021/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/experts-say-xis-speech-sets-key-goals-for-2021/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 24
 
 secured: "VhWBZsXcyFFatmYO6s72NLcuqBRp2WIElaiTxmxwOdVadqyYePNVNRoGto74YVKbpnIz5Q7JZSOd9pN03uJyG3/uXHddRaD/w+ImJArB9+96zVep9yRJdrx0DjeRlXY5ZhORaZNthmCje0cqMru/h5NispKAHY6giMEWDlvpinTvnS2a5ywsmmezmzwQKSEDjR98F8uWX0WzwTPSfZHpyZoIJ4aaL4OhnuW3B4cla0NLyyoRHTbOSTJrKBN4h5X7+UDrttaUOhZbX/1LHYwgYMT5TGOoz1/M9YRxsJqOjj6vPhxsD8017GONMTapZ8qXTZ2cvdy8pDsPCW4j14r2F5cI4bX1teV6yefvdCGugXQ=;oEOEmUHiapQhD0BAKYjt4g=="
 ---
