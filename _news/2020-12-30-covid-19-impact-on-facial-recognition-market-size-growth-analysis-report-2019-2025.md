@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recogni
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
 type: article
 quality: 52
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
-    excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
-    publishedDateTime: 2020-12-29T07:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-north-america-south-america-72b2bc25587f46b38746bc62c3bb7048"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "DI8q7fczlqjOSkyTVfCjesQ6/AO7vJnN2YqaSZitbFwrA3q4liERkE+jfEJYT+yv/mdhVzkDwol42/u4EpeVuR16ilxlSfdAr+1dqXNFqHx15n+AOakbbuc5iEQWSOH12YooIlCT9YY5tbIjnH4qagFGsOevaHuT7StScYlEfHQoJwJzzwIQUc/GPWWAKTawQhz4Zn6IexecqwKskPPGZrCBYpXa3rLIp7pW3oDriqZBzd2mj8BkdQXPmfp/Ji3lbbNc8z/QqQQ/RMm+57fVmmlVBbwpc9T3ujo8HB1Np5Ey5bqL1WapRx/rs+C2m1t4O4MgZ+BBa9RLZCFVSFG4umc4dOqb1zxdi36tnhLGnwvNYOCk7cbsQqQ0uY8UCk2/WKZlXT90fnhcA8g+XYSR+9sQAEN0Kv/TKxOqUaJhcgKHGnzeu3I/lmDoEtKKGMFrt1TBO3z2UMGpktMDlkIoLZiPJXzTJdQhkqsEpNRw1wE/+CDWPDUUgMUSkNme3j4AJ4+Fa/rleMP4zIfYJ+nqNA==;GY2Eb03+g53XKLAqc4/gmw=="

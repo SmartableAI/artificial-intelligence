@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-compan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

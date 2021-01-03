@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-gra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 194
+published: true
 
 provider:
   name: Forbes
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chipmaker Graphcore raises $222m as it takes on Nvidia"
-    excerpt: "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),"
-    publishedDateTime: 2020-12-29T07:08:00Z
-    webUrl: "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
-    ampWebUrl: "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 176
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Graphcore raises $222 million to scale up AI chip production"
-    excerpt: "Graphcore, a U.K.-based startup developing AI accelerator chips, raised $222 million at a $2.77 billion valuation."
-    publishedDateTime: 2020-12-29T08:55:00Z
-    webUrl: "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/"
-    ampWebUrl: "https://venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/29/graphcore-raises-222-million-to-scale-up-ai-chip-production/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 108
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nvidia rival Graphcore raises $222 million for AI chips with potential IPO on the horizon"
     excerpt: "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,"
     publishedDateTime: 2020-12-29T16:49:00Z
@@ -109,22 +77,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "British chipmaker Graphcore raises $222m as AI rivalry heats up"
-    excerpt: "UK chipmaker Graphcore has raised $222m (£164m) in fresh funding as it gears up for growing demand for its technology."
-    publishedDateTime: 2020-12-29T08:48:00Z
-    webUrl: "https://www.cityam.com/british-chipmaker-graphcore-raises-222m-as-ai-rivalry-heats-up/"
-    ampWebUrl: "https://www.cityam.com/british-chipmaker-graphcore-raises-222m-as-ai-rivalry-heats-up/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/british-chipmaker-graphcore-raises-222m-as-ai-rivalry-heats-up/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 74
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/12/Simon-Knowles-and-Nigel-Toon-scaled.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "UK-based Graphcore raises funds to develop AI chip"
     excerpt: "Graphcore, a UK-based manufacturer of artificial intelligence microchips, has raised US$222mln (£165mln) from new and existing investors. The company, which originated in a pub in Bath and is now based in Bristol,"
     publishedDateTime: 2020-12-29T15:26:00Z
@@ -156,22 +108,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/12/104712662-graphcore_founders.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "British Tech Startup Challenges Nvidia As Chip-Makers Jockey For Position AI Development"
-    excerpt: "The startup faces an uphill battle, but if the investor gold rush is any indication has a chance at being a real competitor"
-    publishedDateTime: 2020-12-30T22:18:00Z
-    webUrl: "https://www.ibtimes.com/british-tech-startup-challenges-nvidia-chip-makers-jockey-position-ai-development-3112073"
-    ampWebUrl: "https://www.ibtimes.com/british-tech-startup-challenges-nvidia-chip-makers-jockey-position-ai-development-3112073?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/british-tech-startup-challenges-nvidia-chip-makers-jockey-position-ai-development-3112073?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/tokyo-got-a-boost-as-softbank-soared-almost.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Graphcore raises $222m as it considers path to float"
     excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."

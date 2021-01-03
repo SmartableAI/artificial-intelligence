@@ -45,20 +45,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Next Big Thing In Speech and Voice Recognition Market, Which Is Expected To Reach USD 19,852.4 Mn By 2030 at 10.9% CAGR -Market.Biz"
-    excerpt: "Market.Biz :Market.Biz offers accurate information and a holistic view of the Speech and Voice Recognition Market With COVID-19 Statistical Assessment. Further, It consists of a detailed investigation of vend stats,"
-    publishedDateTime: 2020-12-29T07:39:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-new-products-and-services-10a1f86840d8faa6f5e5f0fd1e57a6f4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "cbMS7mzI1Lg0EevmH1tMnNKAftmx/GoUk6l7JrtxkXlliLLMjT0ivpHjDHhwaGvrRktwlRmQaF9+HWYbWHB4/MXeFEXKwOZUBVjomg1ZzjcDyVD5oWKW+f4xW8PrxrZCmt1Aya6Tp4Ya7oFQ1VS/X5XijZ2/qY2zaoaHiT19valE7tr2oW3XOef3AhiIgCTF1gln56PgTmDSktsCo7HVG8WUD0XyXIy4ulGTXpBuFnD3b9cn9WoFDe4jCShnoVBpUU4K/D+ZOEzfXUxmMWto7hOwBVc6NNW6kPZhmKz/JVsHV55MlfGaEcWvjkP9BD2pytY0JRFSvMb5WbAVD3y4YBhpQAYxoXW7QmC03jAzYxw=;s+53y24Srjc04nfrWs/VyQ=="
 ---

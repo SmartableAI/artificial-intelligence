@@ -80,20 +80,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Global Self-Driving Car Market Outlook Report 2019-2027 - ResearchAndMarkets.com"
-    excerpt: "The “Self-Driving Car - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. Global Self-Driving Car market accounted for $41.18 billion in 2019 and is expected to reach $441."
-    publishedDateTime: 2020-12-29T07:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-north-america-south-america-72b2bc25587f46b38746bc62c3bb7048"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "NvyL1JxVsLHBkHIqDBPtP2HkdCvlwmE20QpBGsBIoIw/emzEXh2HZzQrF3euHLGzaQLmHJ2Qu6tnDChGW/Nob+mNJZEYiOr+chBzhJFfgrPWjPLYw9tjzmIA+gD+Do3a1DWaqRzInIeotTcf4DPgAmeMYdxj1VzEOTyrzAzeHIBTxBqdomLIpUhDtw9IUuPzP4dNVbud4QB39gRkvftV0J2By1KHKakBrGUaCqBsEjlTKD5/cQKbaIsRKI8zHvkkESod9JIWAT5P0zmqgJL9h9AnIo8nNOMKwA5chwehAvjrWhMrWfIxSGY9joD/lwiyI6ghsPeAzL9H1keOk1mv8zGsSVWkGOWNl14jbLrfa78=;+B8kJUsf8fkOTLzqb85ovw=="
 ---

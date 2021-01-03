@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalinterest.org/blog/buzz/how-israel-brings-together-ro
 cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518?amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
