@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-tran
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence transforms today’s hearing aids"
-    excerpt: "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more."
-    publishedDateTime: 2020-12-29T13:44:00Z
-    webUrl: "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/"
-    ampWebUrl: "https://amp.news-press.com/amp/4007932001"
-    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001"
-    type: article
-    provider:
-      name: News-Press
-      domain: news-press.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/PFTM/8c57808c-00db-4b43-b9ae-de53dd5b5883-GettyImages-1284869697.jpg?auto=webp&crop=723,407,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "This 2-Acre Vertical Farm Is Managed by AI and Robots and Uses 99% Less Land"
     excerpt: "This vertical farm takes up two acres of land, but it produces the same amount of food as a 720-acre farm. Could this be the future of farming?"
     publishedDateTime: 2020-12-29T19:45:00Z

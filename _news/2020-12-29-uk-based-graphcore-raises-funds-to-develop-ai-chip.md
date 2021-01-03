@@ -43,20 +43,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "AI chipmaker Graphcore is worth almost $3 billion after a massive $222 million fundraise"
-    excerpt: "The firm joins a cohort of British startups thought to be mulling IPOs in the new year."
-    publishedDateTime: 2020-12-29T14:02:00Z
-    webUrl: "https://www.businessinsider.com/ai-chipmaker-graphcore-worth-almost-3bn-after-latest-fundraise-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/5eeb47eb191824744e7af2f4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Graphcore raises $222M for its ultra-fast AI chips"
     excerpt: "Graphcore Inc., a British startup taking on Nvidia Corp. in the artificial intelligence chip market, today said that it has closed a hefty $222 million funding round at a unicorn valuation of $2.77 billion."
     publishedDateTime: 2020-12-29T19:02:00Z

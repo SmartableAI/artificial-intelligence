@@ -2,6 +2,109 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-10-general-motors-cruise-just-took-the-humans-out-of-its-self-driving-taxis.md",
+      "title": "General Motors' Cruise Just Took the Humans Out of Its Self-Driving Taxis",
+      "excerpt": "The CEO of Cruise, the San-Francisco-based self-driving company controlled by General Motors , said that it has begun operating autonomous vehicles on San Francisco's streets with",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604343%2Fcruise-car-in-hayes-valley-san-francisco.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "publishedDateTime": "2020-12-09T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-doordash-c3ai-skyrocket-in-public-market-debuts.md",
+      "title": "DoorDash, C3.ai skyrocket in public market debuts",
+      "excerpt": "Haters gonna hate, IPOs gonna pop. That’s the story today as richly valued DoorDash and C3.ai, two American technology unicorns, saw their values skyrocket after they began trading today. DoorDash shares are up just under 83% to $186.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/",
+      "originalUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-187869847.jpg?w=1024",
+          "width": 1024,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/",
+      "publishedDateTime": "2020-12-09T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-7-in-demand-tech-skills-to-master-in-2021.md",
       "title": "7 in-demand tech skills to master in 2021",
       "excerpt": "IT pros who have worked with natural language processing, automation, and machine learning operations will have the most job opportunities in the new year.",
@@ -1067,83 +1170,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief-report-says.md",
-      "title": "Apple shifts leadership of self-driving car division to AI chief, report says",
-      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says",
-      "originalUrl": "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-2280.md",
-      "title": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200-Day Moving Average of $22.80",
-      "excerpt": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) passed above its 200-day moving average during trading on Tuesday . The stock has a 200-day moving average of $22.80 and traded as high as $26.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
-      "publishedDateTime": "2020-12-09T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
         "images": null,
         "publishers": null,
         "authors": null

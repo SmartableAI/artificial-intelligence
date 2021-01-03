@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html"
 type: article
 quality: 95
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chipmaker Graphcore is worth almost $3 billion after a massive $222 million fundraise"
-    excerpt: "The firm joins a cohort of British startups thought to be mulling IPOs in the new year."
-    publishedDateTime: 2020-12-29T14:02:00Z
-    webUrl: "https://www.businessinsider.com/ai-chipmaker-graphcore-worth-almost-3bn-after-latest-fundraise-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/5eeb47eb191824744e7af2f4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "UK-based Graphcore raises funds to develop AI chip"
     excerpt: "Graphcore, a UK-based manufacturer of artificial intelligence microchips, has raised US$222mln (£165mln) from new and existing investors. The company, which originated in a pub in Bath and is now based in Bristol,"
     publishedDateTime: 2020-12-29T15:26:00Z

@@ -41,22 +41,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial intelligence transforms today’s hearing aids"
-    excerpt: "The future of hearing aids is now. New devices powered by artificial intelligence (AI) have transformed hearing aids into multi-functional tools that provide for better hearing, while also tracking physical and mental health – and so much more."
-    publishedDateTime: 2020-12-29T13:44:00Z
-    webUrl: "https://www.news-press.com/story/sponsor-story/hoglund-family-hearing/2020/12/29/artificial-intelligence-transforms-todays-hearing-aids/4007932001/"
-    ampWebUrl: "https://amp.news-press.com/amp/4007932001"
-    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/4007932001"
-    type: article
-    provider:
-      name: News-Press
-      domain: news-press.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/PFTM/8c57808c-00db-4b43-b9ae-de53dd5b5883-GettyImages-1284869697.jpg?auto=webp&crop=723,407,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "+dZFctuHophumtIuAeyler03nf8tydxlMs/SQZHtBBsXbzRU+NplmJDaO6dpmt08wJdM/xVjMLOUFP93uH55/9BS56LbxJ1PBjBEs/bc6TSQGfEv6tivDdsWWAcy2759WIVOsFfer+Mfjh9tN5sl38RA0K6aNb3mpeYOpPlI1cCUthLtipsf+gVXF0fXpzwzOTmpTqGCc6YvjnL/XGmIWDgTxKEgpvcbrB00I0f2wC2ov2FjX9PkZ15XZGDmq2giIy26v6ntqAlvfHs2cd/CnWNvdR6iI/tSiiWR+UAA+E+b8sAxBXCTgPJoNT50Z6yY2j6TP3lCn9ZKIPVl1G27z4z1OWaLS6CIEYEe1Ut5CNAqjZIVp5uf0XvtEIRAJCEnQiD3bOa9Ci2KWPNQ+/HqNy40a0vRiD+ZtOfO29IozGxbcIF2W4uAgmyEyJBE5hD0deLvEKf8i44UAd5WMHsgd2/S241lkGPNKrolwO26HGIGpRela9Z3MHZuWvXx9mxQLk6Ap45vALzWxwPob85P4A==;axs9eaVNxWrgo01gyskkIA=="
 ---

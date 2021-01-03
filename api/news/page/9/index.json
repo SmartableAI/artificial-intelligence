@@ -2,6 +2,111 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-21-unleashing-new-frontiers-from-chips-to-industries.md",
+      "title": "Unleashing new frontiers: From chips to industries",
+      "excerpt": "Following its $40B acquisition by NVIDIA, Arm’s CEO Simon Segars opens up about bold plans for the company’s future and its growth plans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Simon-Segars_Interview-Still-15_selected-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
+      "publishedDateTime": "2020-12-21T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises.md",
+      "title": "Why Covid Will Make AI Go Mainstream In 2021: Top 3 Trends For Enterprises",
+      "excerpt": "Artificial Intelligence will transform the future of Pharma Drug Discovery, Work from Home, and Edge Computing in 2021. Find out why this will be the year when AI sees widespread use across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d64beeb2ee80897aea726%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D552%26cropY2%3D3185",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "publishedDateTime": "2020-12-21T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-fintech-innovators-partner-to-turn-nlp-into-dollars.md",
       "title": "FinTech Innovators Partner to Turn NLP into Dollars",
       "excerpt": "CHICAGO & SAN FRANCISCO--(BUSINESS WIRE)--Vectorspace AI in partnership with CloudQuant announce the availability of novel datasets that reveal relationships between global equity products. Vectorspace AI datasets are designed to boost precision ...",
@@ -135,19 +240,19 @@
     {
       "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
       "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in",
+      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -157,11 +262,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T02:00:00-08:00",
+      "publishedDateTime": "2020-12-21T02:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -171,7 +276,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -1020,109 +1125,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions.md",
-      "title": "AI Weekly: Facebook’s news summarization tool reeks of bad intentions",
-      "excerpt": "Facebook is reportedly developing an AI tool that summarizes news articles. There's plenty of reason to be wary of it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/",
-      "originalUrl": "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/",
-      "publishedDateTime": "2020-12-18T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-skypes-latest-update-uses-ai-to-make-group-calls-less-awkward.md",
-      "title": "Skype's latest update uses AI to make group calls less awkward",
-      "excerpt": "The tool uses an AI-powered segmentation technology to put everyone in a video call in the same virtual space. Even if you don’t use Microsoft Teams, you’ve probably seen Together Mode in action. The NBA turned to the feature when it tried to recreate the atmosphere of a packed arena without any fans physically present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-together-mode-skype-192645916.html",
-      "originalUrl": "https://www.engadget.com/microsoft-together-mode-skype-192645916.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F870b7a80-0a2b-11eb-a7bb-1d6e9840372c&client=amp-blogside-v2&signature=3fc0e71912332330467332922e673536cc32c7b3",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-together-mode-skype-192645916.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-together-mode-skype-192645916.html",
-      "publishedDateTime": "2020-12-18T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

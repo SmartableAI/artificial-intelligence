@@ -3,8 +3,8 @@ category: news
 title: "Korea's bio-healthcare industry to leap forward in 2021"
 excerpt: "Industry analysts have forecast the upward trend in the local bio-healthcare industry will continue through 2021 given demand for diagnostic kits will remain stable as the risk of multiple waves of the pandemic still hangs over most countries."
 publishedDateTime: 2021-01-03T04:38:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_301781.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_301781.html"
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/693_301781.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/693_301781.html"
 ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301781"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301781"
 type: article
@@ -21,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "http://m.koreatimes.co.kr/images/iframe-placeholder.png"
-    width: 1080
-    height: 573
+  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/47fc57c1a2514ba88a09e94660e474ab.jpg"
+    width: 980
+    height: 587
     isCached: true
 
-secured: "AMNiFbivTCEi7Ac12omro0E7LBHTwdQmbMxWLpIJMYWvQMSwUCb+obz2yf/nj58AxSHI8nZBZe3/yx0avhiFvKhTg7xQUYB9PBf8r7ziF5UaQZxYKX7cF8//Ap8dlFi45pu+A+ObN++loC7OyuKZTt1v4isdER0iqBa0jXvXEwQXeDVY7x74yXQhn0pFxjVvTMHr2mN5IrjfGOUaQUZnkJy/6ZWQINRwasGMIZXCa6pXr6ip1WVRbwz5XSp0QyCcJMw1LXJx3NpYKWJDj7aVnVgTsXsq67pkT/Xvvp8uZYr+RnQvAtBl7LYQ28Z0wfTUJocJmGVu+M22BvVftkZaBmtVwd7e8DCEDoT5hJOyLWg=;j7HRRK5H5iqp2d56CTWkoQ=="
+secured: "kX5+goZ3XtFwjWCytT4K6DlRMoVNne853AFbnHYJlREzBeUgiE6Qn2EBkj9qE3AU4LXtFYIGxo0JZNZL+p6raDXt1H1NImX5xeEYE+PcfrDbwXo41Ja6lNOqUYHEc4ZdIIevagfeHvsS5Ej4uiCLe/5fGgOrdtLxj/ANN00+BKTvOhx8+IUz51T3EkBAGcMR5Aci9EMyHEyvQq5kzBKBUI6jjUs4emq2n/SyabRVafaZfxx4QErRBoZyzSFUyUz+Id2f9A3OUw8z5lprTSQFHVV1wgLqZbWNj7Rj6kbBI3/4tVXGm8SM65PmNHyK4kAlrM9HrxygWRu8vk9hED4cdK+QTAB2ZQezvsayj8dGNX4=;j/8WL3/sBcpXf5/FYqv4Pw=="
 ---
 

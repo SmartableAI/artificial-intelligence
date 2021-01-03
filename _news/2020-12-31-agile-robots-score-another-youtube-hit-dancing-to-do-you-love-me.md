@@ -2,19 +2,19 @@
 category: news
 title: "Agile robots score another YouTube hit, dancing to 'Do You Love Me'"
 excerpt: "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,"
-publishedDateTime: 2020-12-31T02:34:00Z
-originalUrl: "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-webUrl: "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-ampWebUrl: "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+publishedDateTime: 2020-12-31T01:34:00Z
+originalUrl: "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+webUrl: "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+ampWebUrl: "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI in Robotics
@@ -56,6 +56,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "u6Awkb28dNyr2z5JVDew6D4afH+TG/pSfWitDOjwP/LbmQelu5gjZGmwEd2LEOzl53JDy2Mqs4IWufOQ7q2fSdCdmEvkKyaAuUD+1V07vLbgvcrUToO+8201YbAReM+vWMLy6J8n6RGjRzTSSV++j1OZkPXxVmQIbtPmvGxrZBVig41zwj89G4VW9Uh8QoV64VPwGYCtNGxNfrrwmpVHBgsWYHrtPNEln3cwS6+ohblvA34//Qka/dJ0sFV1C1rerceDRYARJvaKusCpPIRqCfm+rdrqMKJP791SCXt+FhqzAnex2RX+ijQbDySMERxKQzvXJxYNWWQrppUqDMJqq79b9kLQEqJzWLcDAf0QN2o=;bB13wUrTxAs9jeosWE1hZg=="
+secured: "EETDZNwNo8Mru+INP8MrTuLcH8WtBlcGiO9wRs9Tx41DdTEBQAC7cOKrJ8luaoUfE9UgWCAD5YubUIzLsfxYyv3oXk7FFMvyQpzLUr+YHLVKb/m1RxDLt7+H+koc5vmTWKpZbeXWYdmIPSHwkvXeR7TKvdlQLvaTm5QwLJjBiPEkn4dueFqydUwuspcZHqjOcugNlJuIGkwpN26G7lKI4OThpsDuNimygbtcIrQHvT8o33FBtcxuE9CL/L8rAXAeyZrSK20Hosbaw6TWqgXP3LjsCx5ndjKyXPuwE3dlBeLXbAHg7nivkfgBciDms0FZvwxbAQDns+YzWl0vSVP63SWE0xxHA6gt/0BCzsFCtvs=;CD2RKDxi7g0nIWiQ5WNrGg=="
 ---
 

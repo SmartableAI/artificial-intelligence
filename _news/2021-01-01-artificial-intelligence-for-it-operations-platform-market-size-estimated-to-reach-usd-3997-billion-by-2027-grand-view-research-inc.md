@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18981348"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18981348"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Systems Market Size is Projected to Reach USD In Million by 2030 || NEC Corporation, Safran Group, Gemalto"
-    excerpt: "The latest research report provides a complete assessment of the Global Face Recognition Systems market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2020-12-29T14:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-is-projected-to-reach-usd-in-million-by-2030-nec-corporation-safran-group-gemalto-2020-12-29"
+  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
+    publishedDateTime: 2021-01-01T08:36:00Z
+    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "W4qJo1HXln6EMAK4jvpSE1Luc49axi5T3Fp4qmea+m+1Z7hKDiofoAYJhkE+KAssICvMIeC8bFH/fk7UfqRvhetbJjFa8CQAIXEXoP0wNy4TyHvhBe7y4udRaxo+Tfd30rLy6rNS/qsAqBj5Ym0e+3Cm8pBJbFEYsOGHntp8A9lAgE4qp3uj1nJpDKNoKx4KgWx1uLzqPKG8ey8/1P3dSSAPMudbd5HFJfhAXZ3whptYrJDEqgR1YAiixRf4etJtZiOlczYTbbGpH6Y/UB2zg4LNrk0f33vbgwol1qcRq4pkQcMqO2l0Mrd9wnD865QzKICVwSNsLKuw7QaKkx92tF+69ZXU1NekDFEwIkkdBNY2D/54GUuMKOfkHM5a3ntJrxJiAe3IPnuyCcIdJnd7oZGw/NqWRj7wZo4MWRGAMZOLCPpggaL7SxMxlfvQGfdJPdnRihdN8lYb/UV/vkB7b99MzxhlWHyKuyCQ8VZyTtvE9YpGUOcKt/lD310P1WC1zlWeJF2MOILxlkASPdNeYA==;glAXnyyQLdWr0rXl4S+myA=="
 ---

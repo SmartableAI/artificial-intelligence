@@ -62,7 +62,7 @@
       "originalUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -101,8 +101,8 @@
       "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
       "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
       "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "originalUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "webUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -119,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "publishedDateTime": "2020-12-30T18:34:00-08:00",
+      "ampWebUrl": "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "publishedDateTime": "2020-12-30T17:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
+        "name": "WMUR9",
+        "domain": "wmur.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1188,21 +1188,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-29-how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs.md",
-      "title": "How an important change in web standards impacts your image annotation jobs",
-      "excerpt": "Earlier in 2020, widely used browsers like Chrome and Firefox changed their default behavior for rotating images based on image metadata, referred to as EXIF data. Previously, images always displayed in browsers exactly how they’re stored on disk, which is typically unrotated. After the change, images",
+      "path": "_news/2020-12-30-the-marketplace-is-demanding-ethical-ai.md",
+      "title": "The Marketplace Is Demanding Ethical AI",
+      "excerpt": "Under the right conditions, AI can be highly beneficial and a force for good. Under the wrong conditions, however, AI can lead to widespread discrimination and reinforce existing socioeconomic disparities.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
+      "webUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
+      "originalUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/29/Bird-Corrected-Orientation.jpg",
-          "width": 800,
-          "height": 534,
+          "url": "https://images.barrons.com/im-277416/social",
+          "width": 1279,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1210,23 +1210,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T09:56:37-08:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
+      "publishedDateTime": "2020-12-29T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1236,7 +1227,7 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AI Ethics"
       ]
     }
   ],
