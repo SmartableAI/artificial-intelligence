@@ -41,20 +41,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "Nigeria: Fintech Research - Everything You Need to Know About Tech Companies and Its Stocks"
-    excerpt: "The tech industry comprises companies that sell devices, software, hardware, artificial intelligence, and other information technology (IT) products. These companies have always been profitable in terms of stock value."
-    publishedDateTime: 2020-12-29T11:15:00Z
-    webUrl: "https://allafrica.com/stories/202012290365.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 14
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
 
 secured: "xyuqecCuAtlTO2lZU2gR4O490VowSUrmVSze3HeuBZLKdLNYkQKuYXFe8Cvjq2AWnmn/3IBAQ1tOilbBVUYQHi2n6HDVQlxUBIhQN6kcrdZd85LHrbKf+kdQ4/d4IvuKCuEr/eUoohPhWmD9s4uCKJI8jRHUvT9uIAee/dk4Su02nf0G4Ci0gDyEve0QkgQDGhCNKM9GUVJsaHq3AjxZ+6OLbtiYG1AeEbnllrF8iczd7kuCW79UamFFff0+oDzcE10gEvtWZsY2lGNKWHnau+bhfcrKAqMsCYo7hWueMk8Y0GHwu1jQsHg8eXg7d7B+8btr73iLIVADOdny08NKPIvn6wrFg1TXEoXmkGar8+CyEtwwY6lyIDDQx3jqumfTs26icgMtSbMogiymCNnMayX9D2ln5j/l3Ayc6aeStu/fFZMsLZB2Sp+n0bKOJG1CFd0PUZrX+xyIKLjNUBXk0de++Dra1hJQp+rvI8ULjbURkRfaZAvuZ2qD7MThtA78SrSkRDlHoFqbmL4hEDRXaw==;/s25tG65KHukfZSkSO3WLg=="
 ---

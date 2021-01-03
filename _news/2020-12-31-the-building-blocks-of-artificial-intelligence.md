@@ -58,20 +58,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "The Evolution of Artificial Intelligence in Video Games"
-    excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-in-video-games/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/The-evolution-of-Artificial-Intelligence-in-video-games.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "Pesl2uEvIKLL7p6YlBUuDY5iZeEbNhWBrkfCNHoC8vA+76KvQqEOVWT+A9mfjbspP3Nt20BobcBAaIHgwf2gRMFeCBqDJjRYIbscYXYV+3VtTMCHAghkwPRF9Wy0s13eTY9ohShTDI7dkRi2wvNBr6qyePeG8od+f6FNhC12alAL0TIoGZlOtXdQ9N2Iv7NsY8QqWdOhveCofL4Dp3pLKB69gnnuVnDsOdUGKSuIezlPY8JaUFNv8bKRaAeUinGnVIW9X2/G6oDaGDDadfhsxzXfGBlDJg8KA7J2ObBYSEAoz9lgLmpkkoBcJvKET5DqITtn6xuQ/i5938anwi/BdjdGRFYlueqN3Qnq1kyJYf0F1yY9NggoMqA1vMdQIKDj7FPh8PaYGYgR8lOuqGD0dbKneAvKexAKBzbxC0dWDIPRA51/K3qoXecbiMQW8BHQ5pKMq08cizxfpLZwDMBQxV5brrXw4plfZQJdh7Nn+zsPl2uPucksR//zRG5+a+mrKLJsbNiBk6J60KUHrrREcg==;hUO1Tcl6eJuLMLpvR48VUQ=="
 ---

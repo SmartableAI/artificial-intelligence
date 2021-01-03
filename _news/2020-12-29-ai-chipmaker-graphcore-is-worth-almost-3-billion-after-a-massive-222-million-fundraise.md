@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chipmaker Graphcore Raises $222m"
-    excerpt: "Graphcore, the UK-based AI chipmaker, has raised $222 million, a Series E in new funding, as it braces itself for the tougher competition from US rival Nvidia."
-    publishedDateTime: 2020-12-29T12:58:00Z
-    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/"
-    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2795aed6bf81fc2905a5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia rival Graphcore raises $222 million for AI chips with potential IPO on the horizon"
     excerpt: "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,"
     publishedDateTime: 2020-12-29T16:49:00Z
@@ -77,38 +61,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Nvidia Rival Graphcore Raises $222 Million for AI Chips With Potential IPO on the Horizon"
-    excerpt: "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,"
-    publishedDateTime: 2020-12-29T11:53:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon/2803186/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 65
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/104712662-graphcore_founders.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Graphcore raises $222m as it considers path to float"
-    excerpt: "Graphcore has raised $222m (£164m) to accelerate its artificial intelligence chip technology ... applications and decision making needed for AI software, such as in driverless cars. The company says its “colossus” processors are capable of providing ..."
-    publishedDateTime: 2020-12-29T12:07:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/29/graphcore-raises-222m-considers-path-float/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-2_trans_NvBQzQNjv4Bq8JWE_Z_DihHPZf8cX6bFWmUMdqzRxQg9ohTieTnJjiI.png"
-        width: 694
-        height: 434
-        isCached: true
   - title: "Graphcore raises $222M for its ultra-fast AI chips"
     excerpt: "Graphcore Inc., a British startup taking on Nvidia Corp. in the artificial intelligence chip market, today said that it has closed a hefty $222 million funding round at a unicorn valuation of $2.77 billion."
     publishedDateTime: 2020-12-29T19:02:00Z
@@ -123,17 +75,6 @@ related:
         width: 795
         height: 445
         isCached: true
-  - title: "Intel, Nvidia chip rival Graphcore raises $222M at $2.8B valuation for AI chip push"
-    excerpt: "AI chipmaker Graphcore announces raising $222M in a Series E funding round at a $2.77B post-money valuation, up from the $1.5B valuation two years ago. Key competitors in the AI c"
-    publishedDateTime: 2020-12-29T12:59:00Z
-    webUrl: "https://seekingalpha.com/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3647664-intel-nvidia-chip-rival-graphcore-raises-222m-2_8b-valuation-for-ai-chip-push"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 48
   - title: "Chipmaker Graphcore raises $222m in bid to win the artificial intelligence war"
     excerpt: "A Bristol-based chipmaker hoping to power a new era of artificial intelligence has secured $222 million in fresh funding in an investment round that values it at $2.8 billion.The deal for Graphcore"
     publishedDateTime: 2020-12-30T00:01:00Z

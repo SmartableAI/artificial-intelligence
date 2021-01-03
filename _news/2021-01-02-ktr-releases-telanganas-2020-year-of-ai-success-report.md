@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/national/ktr-releases-tela
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Line
@@ -42,6 +42,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2021/01/02/1022438-ktr.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Telangana at forefront of artificial intelligence, says KT Rama Rao"
+    excerpt: "While releasing the report, IT Minister KT Rama Rao said, 'We commemorated 2020 as Telangana’s Year of Artifical Intelligence on, 2020.'"
+    publishedDateTime: 2021-01-03T04:44:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/jan/03/telangana-at-forefront-of-artificial-intelligence-says-kt-rama-rao-2244637.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/jan/03/telangana-at-forefront-of-artificial-intelligence-says-kt-rama-rao-2244637.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/jan/03/telangana-at-forefront-of-artificial-intelligence-says-kt-rama-rao-2244637.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/1/3/w600X390/KT_Rama_Rao.JPG"
+        width: 600
+        height: 390
         isCached: true
 
 secured: "EtjBjzJ499GhN8YJHSV4krNgrj5zJAa3uvnkyZdc9CsQnk7mjugmCF1oG+LXlq5QYp4NMzJg6elc2cwPU56iDW9PsNa00eAGyPiiqJbqehqVVsbKMQEMFUKD25ZnQflS5KDPbVjpUbx4E8IQPVhisrAuLVdUj64UzPQ/BtDDx88SLEO97R9x8cXJc0KylEmlGJb8BDT3lHHc9VoN7zB4qPD+rIwk3Gxq3TLIPxpc0iU20f7duzNkwtq2DGQ1ryIusIgI7MeWsUiX8/+L1jgcKshI+s5EgDPY0aHhyFZXuHZkAIJPIiuqNSVMKmGq9knY5hglMBAILvsg/IlhtYXH0KWgNcvHlKFyd5E97Dg24JM=;YdkpuTkMkiwY4mFIc4WXEQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-prediction
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
-    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
-    publishedDateTime: 2020-12-29T12:13:00Z
-    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "2021: The Year AI Goes Mainstream"
     excerpt: "This decade will likely be thought of as the real launchpad of practical AI and, by the end of it, we’ll be up to our necks in robots, automation, and ever more capable digital assistants. The pandemic has caused many trends to accelerate significantly during 2020 and some will remain with us for most of 2021."
     publishedDateTime: 2020-12-30T00:00:00Z

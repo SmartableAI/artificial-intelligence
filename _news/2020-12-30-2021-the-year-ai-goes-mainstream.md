@@ -32,20 +32,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "2021: Cloudy with a (Very Good) Chance of AI and Analytics"
-    excerpt: "As we entered 2020, the cloud was already on its way to becoming a defacto standard for running advanced analytics and AI for many organizations. Then"
-    publishedDateTime: 2020-12-29T12:13:00Z
-    webUrl: "https://www.datanami.com/2020/12/29/2021-cloudy-with-a-very-good-chance-of-ai-and-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2021_shutterstock_charnsitr.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "jFJ2ijlLOefBUtLpdDBz7FRIwMe2aslwApMOHTA2GEcyi0QIxJbb57jpjdQNSxroBot8vtuigtG/JU/g8sqL9s6ic0mAahQpZqaHaw7MRCusW0AdM7W4UDy4N44gMsO4Row4kucPOZGdPiiL/VG0luIqvTIXLaue9L0yFu/d31JJdiG8jouAvMxUrbeXjI3tDFDGEmSE++HwQCyjSthMMvMUrfTuErepWo4DzUB8WE6RbKBkQTeA3Jw2IG/Z5cJHzCgFoST7F+jgZZ74giOqPIvE2yS1kgf50Fz7JgdX5DOnBUmOCHBjqjU7WewlWkWCDjxnpy4AMWD3cCSbq2tjaSsC09oNqvU7HXQSYnzIIpz8IJr2aLpbBPLMhZb10QJlF9ohLb8VJMRWsfxItDh1uPcSzTqRBGGp602cqo7YnaSJWYHp0pHmWoDWuLaMragoEknQpZ65Q0mWZmK4W7a9lOZScqI9jDNfupq6pputR3KVKC0TYGcw6/WGpzhCshSYfNPeVF31RNC4EVsMo27X0g==;yUmmotHMfWN9NKHbHRDnyw=="
 ---

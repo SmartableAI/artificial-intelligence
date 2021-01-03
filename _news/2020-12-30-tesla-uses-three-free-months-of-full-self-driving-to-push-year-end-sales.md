@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Elon Musk pushes Tesla to have more in-car gaming in preparation for self-driving future"
-    excerpt: "CEO Elon Musk is pushing Tesla to have more in-car games and entertainment, which he sees as 'critical' in a self-driving future."
-    publishedDateTime: 2020-12-29T11:17:00Z
-    webUrl: "https://electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/"
-    ampWebUrl: "https://electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/29/elon-musk-pushes-tesla-in-car-gaming-self-driving-future/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 80
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/06/Tesla-arcade.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tesla offers 3 months of free Full Self-Driving package as unprecedented end-of-quarter incentive"
     excerpt: "Tesla is offering three months of a free Full Self-Driving (FSD) package as an unprecedented end-of-quarter incentive to deliver more vehicles, according to sources. Over the years, Tesla has come up with several incentives to encourage buyers to take delivery by the end of a quarter in order to boost its earnings."

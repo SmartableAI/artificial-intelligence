@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362540"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
         width: 1280
         height: 675
-        isCached: true
-  - title: "The Evolution of Artificial Intelligence in Video Games"
-    excerpt: "Artificial intelligence runs on troves of data to make video games more immersive and visually effective where gamers can live and play games in realistic and natural way."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-in-video-games/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/The-evolution-of-Artificial-Intelligence-in-video-games.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "4lMqj4Tqm4ymJV0GNnpZwTz8w1i5n8axc+0wG8d90gl3z6EGRONFzg5c9ZNF84pc5sNAMlHhh6Gtn+6v82AoNrrvPTEwV6CrXE8XgK2CEA+To/msKVcijrZuWBtuZhpSw+lqBj2tgXdEmfZemtByUEMKb7T7bt383xz1gemWQ+YuQFVdOd1kEPycv7OMZ+Njm6whUiyGgBo3GBl6g0UzaEQbHKJJnlXVVTFp7YazGkxoJ39dd06xZ54d4INrX5rYaLHFsluBVQGx5/S2/R/BdVlje0oKJqk4oePkJfV99NiOvmr01s2Jm9SQp4oGYxVzEGEW1bm4YPAusk+MAtQnnaDiGh2XNvkHi2hIkfRaPHKeaDApfc/Q8sog95i3KE4I8rQ8DjGX1Glkn5hLdPxZXjsYC+OaaxgIPCQQXtRjhznzvSd+Q5ZudBHc+al1JFRnZUCApH/ROQFMEIrCJy8jqL9KYRrQVopBnA+x2by6e5CNhZh5vdpKh4fpuBrACmrRkPVvlC3gyE6xXc7lXOdzJQ==;j/U/L4lDOhnmZnDOktA8vg=="
