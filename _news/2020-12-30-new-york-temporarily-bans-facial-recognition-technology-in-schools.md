@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology"
+    excerpt: "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days."
+    publishedDateTime: 2020-12-30T18:39:00Z
+    webUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661"
+    ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg"
+        width: 800
+        height: 484
+        isCached: true
   - title: "Berkshire Legislator Disappointed With Failure To Ban Facial Recognition Technology In Reform Bill"
     excerpt: "Not all Berkshire County legislators are pleased with the final form of the police reform bill Massachusetts Governor Charlie Baker signed into law on"
     publishedDateTime: 2020-12-31T21:30:00Z
@@ -38,6 +54,22 @@ related:
       - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
         width: 800
         height: 1067
+        isCached: true
+  - title: "Third Innocent Black Man to Be Misidentified by Facial Recognition Software Sues Police Department and Prosecutor for False Arrest and Imprisonment"
+    excerpt: "Nijeer Parks, a 33 year old Black man is suing a New Jersey city, police department, and prosecutor, for false arrest, false imprisonment and violation of his civil rights for misidentifying him using facial recognition software."
+    publishedDateTime: 2020-12-31T17:38:00Z
+    webUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/"
+    ampWebUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
+    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
+    type: article
+    provider:
+      name: lawandcrime
+      domain: lawandcrime.com
+    quality: 21
+    images:
+      - url: "https://lawandcrime.com/wp-content/uploads/2020/12/face-software.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "gJA5szneS8/RpKSgblcCJB210SMx5PvQ0V+hsonfOn18LKTSZi/KvM/iOdLDdztcbpfdlsTBuiwrLFRVkmn+DYbzhltIlkZPmyqJUi3vydtR6rnVbInp0EGSy3J8lAo8Qa72BfpZRFNBuo8MKrj2hBf7hyLggjEJODMUqYw2wg+empVUmisls3peAn2V6vLENUbVMcnHPXO1sLj7rvyEXOrbfe4lSb5GOzsTWpFmY7MDuGQXewTk/sASKsxJhZKQIfph2C/jNQcZUy3STsmZEc1wq6uBTB01JM/zCUaOgV7RT7F+ZZGKNwrpZLAnrCtSz9/NNBkM7qe9I2Mtj0nvO4tvAIkY9JxDWYelUI833V8=;uo4Ml6+qDWw+LLiNcqi4iQ=="

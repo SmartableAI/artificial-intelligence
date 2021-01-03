@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-d
 cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: The Root
@@ -28,21 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "A Black man spent 10 days in jail after he was misidentified by facial recognition, a new lawsuit claims"
-    excerpt: "The man's attorney claims police used excessive force, false imprisonment, and cruel and unusual punishment."
-    publishedDateTime: 2020-12-29T10:59:00Z
-    webUrl: "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp"
+  - title: "Berkshire Legislator Disappointed With Failure To Ban Facial Recognition Technology In Reform Bill"
+    excerpt: "Not all Berkshire County legislators are pleased with the final form of the police reform bill Massachusetts Governor Charlie Baker signed into law on"
+    publishedDateTime: 2020-12-31T21:30:00Z
+    webUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failure-ban-facial-recognition-technology-reform-bill"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: WAMC
+      domain: wamc.org
+    quality: 40
     images:
-      - url: "https://i.insider.com/5feb06f5a64488001819396e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
+        width: 800
+        height: 1067
+        isCached: true
+  - title: "New York Temporarily Bans Facial Recognition Technology in Schools"
+    excerpt: "New York Governor Andrew Cuomo signed into law legislation that temporarily bans the use or purchase of facial recognition and other biometric identifying technology in"
+    publishedDateTime: 2020-12-29T22:08:00Z
+    webUrl: "https://www.natlawreview.com/article/new-york-temporarily-bans-facial-recognition-technology-schools"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/16842/New%20York%20city%20graphic_9_0.jpg?itok=GULRoOeE"
+        width: 500
+        height: 444
         isCached: true
   - title: "Third Innocent Black Man to Be Misidentified by Facial Recognition Software Sues Police Department and Prosecutor for False Arrest and Imprisonment"
     excerpt: "Nijeer Parks, a 33 year old Black man is suing a New Jersey city, police department, and prosecutor, for false arrest, false imprisonment and violation of his civil rights for misidentifying him using facial recognition software."

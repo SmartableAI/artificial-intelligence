@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-gra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104712662-graphcore_founders.jpg?v=1505490455"
         width: 6000
         height: 4000
-        isCached: true
-  - title: "Graphcore raises $222 million to scale up AI chip production – Jaweb"
-    excerpt: "Graphcore, a Bristol, U.K.-based startup developing chips and systems to accelerate AI workloads, today announced it has raised $222 million in a series E funding round led by the Ontario Teachers’ Pension Plan Board."
-    publishedDateTime: 2020-12-29T09:09:00Z
-    webUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/graphcore-raises-222-million-to-scale-up-ai-chip-production-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 78
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Graphcore-raises-222-million-to-scale-up-AI-chip-production.jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AI chipmaker Graphcore is worth almost $3 billion after a massive $222 million fundraise"
     excerpt: "The firm joins a cohort of British startups thought to be mulling IPOs in the new year."

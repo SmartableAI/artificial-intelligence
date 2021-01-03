@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-12-07-deepcell-raises-20-million-to-identify-cells-with-computer-vision.md",
+      "title": "Deepcell raises $20 million to identify cells with computer vision",
+      "excerpt": "Deepcell, a startup developing technologies to identify cells using computer vision, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "publishedDateTime": "2020-12-07T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-3-top-artificial-intelligence-stocks-to-buy-in-december.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in December",
       "excerpt": "These days, artificial intelligence is showing up in all sorts of new services. There's a reason: The use of AI is growing fast, and businesses putting it to good use are unlocking efficiencies and delivering better experiences to their customers.",
@@ -1136,58 +1188,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work.md",
-      "title": "We can reduce gender bias in natural-language AI, but it will take a lot more work",
-      "excerpt": "If we know our models learn bias from data, perhaps de-biasing data is the best approach to solving the problem.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/",
-      "originalUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/gender.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/06/we-can-reduce-gender-bias-in-natural-language-ai-but-it-will-take-a-lot-more-work/amp/",
-      "publishedDateTime": "2020-12-06T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

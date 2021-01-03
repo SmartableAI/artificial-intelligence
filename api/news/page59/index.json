@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-11-16-onevinn-ab-joins-the-microsoft-intelligent-security-association.md",
+      "title": "Onevinn AB Joins the Microsoft Intelligent Security Association",
+      "excerpt": "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "publishedDateTime": "2020-11-16T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark.md",
       "title": "FPGA-based inference accelerator outscores GPUs and ASICs in MLPerf benchmark",
       "excerpt": "Mispology's FPGA-based Zebra AI inference accelerator outperformed Nvidia A100, V100, Tesla T4, AWS Inferencia, Google TPUv3, and others, on the ResNet 50 architecture in ML inference efficiency.",
@@ -1129,58 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias.md",
-      "title": "You can’t eliminate bias from machine learning, but you can pick your bias",
-      "excerpt": "But while an absence of bias makes sense on a human level, in the world of machine learning, it’s a bit different. In machine learning theory, if you can mathematically prove you don’t have ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
-      "originalUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
-      "publishedDateTime": "2020-11-14T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
