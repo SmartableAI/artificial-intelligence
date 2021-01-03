@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "noodleai"
   url: "https://twitter.com/noodleai"
-  followers: 1398
+  followers: 1397
 
 size: 201-500 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "9aijZ3tclyaAVavDCJ02t/sDTs0LiYMUhMRDxdUEAYIiV+sYlNuUbADyuOTkzf9wq17UuyIZQj6WmliRaU3WwJKHPxE4w6OQc+5AeKr9fIzLtMmCShAmVUx8HCVFjfz0iE6A0Kx0uD9tgiw3iXYRVN36n/bRuM28HsgrDfU6ksGqlGK+vwdA6s6Mot86VeXWAoB4qLCeCCccS4FpwIbbzTBpGw4Kwi6GVFPXoqbConmJDKY3R9o2kFjKDXcDRE+i4/2MOT3Iwqm+g3V4W3xx4AUHauCmOnuqKcRVwQ+Vsg+fAgmOyIb7CQxN/RzIXRm/vLFOgwqY1NYItILYhHJJOzdoaOdLq7l/OD7B4b6mL2h/mBXNPxdm2eEUSkByj2d8FZm9DtQxSCJ8p7+YQ2cdLFeLwl3HSnwZeRbvHJGWLY8=;4vo+6gxnjVBL63jOTAKlpw=="
+secured: "yV7fgq+iECviGZPfUYu8obmxZc/4yGayFvAcyIQAyVUTG9iE0Qq4iDRYEhlGD7czC1GoAv9f+hjvEejHYNID2jr6miOfS3UsjlpTt8qVoRa6rH8YARHw6UJdBuCb3e0y9b9r3y+uTieIXwIU4H3S9tA0mrAKDg/Rssr1r8+dMLMQ1gCfuAsytzwycYL7s33jCwPBt/VCpV+iTQMBELaxL8QSXD3sy8eIl1PqrUkyNKlH3SNwn2/y0aihfnPUw5nDv4FussCJ0K/oSi+08qaA+s2ldWYR+q7gkuCkktdGlfvgccJlU98Iz1MFtEeXjhfOwL4QAjKOUm4KjVnPudqxiQvKeLOLrEHPKZBZVWYlRCg/4TfjtNOCDeH2WNWk8a1ZdkTErBFuoVwwD26v+giQkANv593Hvbbhivb06aYmCk8=;u/HU6f0OKruU2LGmw8qD6w=="
 ---
 

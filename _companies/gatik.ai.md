@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gatik_ai"
   url: "https://twitter.com/gatik_ai"
-  followers: 472
+  followers: 473
 
 size: 11-50 employees
 yearFounded: 2017
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "Gatik"
 
-secured: "h0+N55FA7sp/K6sOS7eiG4FJeSG/Ne066IY5TpyCfsmWGOUOOrk0j0AMyj8watRo6O3fDMddcu89x/X3naNg4Dw6W/IZXPWJRPKwa3MLMlcMM8iA2KG8xEh+N5ksS2q0UirywFKLpy9BmomWYNE7BZmbjGeEsSD4+wSgQjBCy18dvHHLA5GObwgVOiN+DLxb9h5WxyPRm9Jtpy6V47RylVh5g9aMtB3Puw+oweTgF9WTUDZoYSUziYLRy5FF9xDcgzSyDkELXakZIIcUJXlrk3jxpIhKhyuK6lYoe/le67c7iegZZ1B9O5YA1qvFn99NbJmNsSJzSymCkOLTONvmKPXo8F3DnRG6Jay1TWiLlfVAFrQeDr4DilnjnPK/r5PhWW9R11VwFDCCUiU+NRNSuA==;cfmCcB5l4uW846xmlfWEWQ=="
+secured: "eENbBTTGABSS9/sWLIVg77Q6lIzq1VT3DoO9F/kwhOM3bH9DWujRTDLy8is/KUVU2qtne8OuERRbkSlT/0Laeuf2BcngT7+2Z5jfzA7YHctdm2NYWP6R4O2e3lO5frorGsfXEtNJYoMuZMOXW2yU2ddJOGCOYErQdICidfRoswPoIfDFHd9e9ByrtqozHqF/s7f8/x3e5SAsQreSp8JIe2daRFi3L25V+dU2j3gxZwOMO1KeMtMKeQbnqBcZeC6LGkAAnsBhCpsMKKrT/riv4zt4MtnyiX4DBBfViVFeYZCjHVMlNZkwvPAb5RdcD9RCL7U+QQ/jvHmoREVTdi3i2F9T/86Z5BeObf5gkowVooQ2jzhygktSJwjfsOVOyycg+RBGHVMQA3yPKjI94i6Igg==;O9U+kCVnZFhRX8Jtlnap6g=="
 ---
 

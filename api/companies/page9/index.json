@@ -4,64 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_companies/robinhealthcare.md",
-      "title": "Robin Healthcare",
-      "excerpt": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/robinhealthcare/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/robinhealthcare/",
-      "type": "profile",
-      "name": "Robin Healthcare",
-      "overview": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
-      "website": "https://www.robinhealthcare.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/robin-healthcare/",
-        "followers": 606
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/robin-healthcare"
-      },
-      "twitter": {
-        "username": "robinhealthco",
-        "url": "https://twitter.com/robinhealthco",
-        "followers": 59
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Berkeley, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1338632807611035650/kDlF5Ppp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Robin Healthcare",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFB-QU7WfLt7w/company-logo_200_200/0?e=1594857600&v=beta&t=HJZdlvuhAIoszPAVeOhac8xgQUIVXYerJGvv0q1yWvs",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/rockmetric.md",
       "title": "Rockmetric",
       "excerpt": "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams.",
@@ -258,54 +200,50 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/sentifi.md",
-      "title": "Sentifi",
-      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sentifi/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sentifi/",
+      "path": "_companies/sentinelone.md",
+      "title": "SentinelOne",
+      "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sentinelone/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sentinelone/",
       "type": "profile",
-      "name": "Sentifi",
-      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "website": "https://parashift.io/",
+      "name": "SentinelOne",
+      "overview": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "website": "https://www.sentinelone.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/sentifi/",
-        "followers": 11489
+        "url": "https://www.linkedin.com/company/2886771",
+        "followers": 28543
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sentifi"
+        "url": "https://www.crunchbase.com/organization/sentinel"
       },
       "twitter": {
-        "username": "sentifi",
-        "url": "https://twitter.com/sentifi",
-        "followers": 4834
+        "username": "SentinelOne",
+        "url": "https://twitter.com/SentinelOne",
+        "followers": 10280
       },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
+      "size": "201-500 employees",
+      "yearFounded": 2013,
       "locations": [
-        "Zurich, Switzerland",
-        "Zurich, Zurich"
+        "Mountain View, CA",
+        "Mountain View, California"
       ],
       "funding": {
-        "status": "Seed"
+        "status": "Late Stage Venture"
       },
       "topics": [
-        "AI",
-        "AI in Finance"
+        "AI"
       ],
       "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Sentifi",
+          "title": "SentinelOne",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_200_200/0?e=1594857600&v=beta&t=FR07UQ27QgcTP7P7FjmDc6SmAQnvsU76Xj9Swb0HMIU",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -464,6 +402,64 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/signifyd.md",
+      "title": "Signifyd",
+      "excerpt": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/signifyd/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/signifyd/",
+      "type": "profile",
+      "name": "Signifyd",
+      "overview": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "website": "https://www.signifyd.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/signifyd/",
+        "followers": 5779
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/signifyd"
+      },
+      "twitter": {
+        "username": "signifyd",
+        "url": "https://twitter.com/signifyd",
+        "followers": 1612
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "San Jose, CA",
+        "San Jose, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1333533198811238400/tU-ZEqo2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Signifyd",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEBjOffzfmv3g/company-logo_200_200/0?e=1594857600&v=beta&t=d5nVuxYDlWXRV8erw1R_nD-nbnBqUMRx98uSu4AbfO8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/skelterlabs.md",
       "title": "Skelter Labs",
       "excerpt": "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI.",
@@ -496,66 +492,6 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C510BAQHIQaysQyg9GA/company-logo_200_200/0?e=1594857600&v=beta&t=rRgcPD6WmQ2-7BWZKZh0VSuHnGrPL0VYHmwUyKrFv4A",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/slyce.it.md",
-      "title": "Slyce",
-      "excerpt": "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/slyce.it/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/slyce.it/",
-      "type": "profile",
-      "name": "Slyce",
-      "overview": "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment.",
-      "website": "https://slyce.it/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/slyce/",
-        "followers": 2247
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/slyce"
-      },
-      "twitter": {
-        "username": "slyceit",
-        "url": "https://twitter.com/slyceit",
-        "followers": 976
-      },
-      "angelList": {
-        "url": "https://angel.co/company/slyce"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Philadelphia, PA",
-        "Philadelphia, Pennsylvania"
-      ],
-      "funding": {
-        "status": "M&A"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 50,
-      "tags": [
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1304125672919633923/i57xtW41_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Slyce",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHoj57sto9tZQ/company-logo_200_200/0?e=1594857600&v=beta&t=tCfcFRWuvhrzWBxIhkR3vyjqjdbIwQvSR9C_dkopBIA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -606,47 +542,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/softbankrobotics.md",
-      "title": "SoftBank Robotics",
-      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/softbankrobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/softbankrobotics/",
+      "path": "_companies/sophiagenetics.md",
+      "title": "Sophia Genetics",
+      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sophiagenetics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sophiagenetics/",
       "type": "profile",
-      "name": "SoftBank Robotics",
-      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "website": "https://www.softbankrobotics.com",
+      "name": "Sophia Genetics",
+      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "website": "https://www.sophiagenetics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
-        "followers": 426
+        "url": "https://www.linkedin.com/company/sophiagenetics/",
+        "followers": 25618
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/softbank-robotics"
+        "url": "https://www.crunchbase.com/organization/sophia-genetics"
       },
       "twitter": {
-        "username": "sbreurope",
-        "url": "https://twitter.com/sbreurope",
-        "followers": 16509
+        "username": "sophiagenetics",
+        "url": "https://twitter.com/sophiagenetics",
+        "followers": 21466
       },
-      "yearFounded": 0,
+      "size": "201-500 employees",
+      "yearFounded": 2011,
       "locations": [
-        "Tokyo, Tokyo"
+        "Switzerland",
+        "Saint Sulpice"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
+          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/733105320453668868/nKF3Esx-_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SoftBank Robotics",
+          "title": "Sophia Genetics",
           "isCached": true
         }
       ],
@@ -703,110 +644,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/speechmatics.md",
-      "title": "Speechmatics",
-      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/speechmatics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/speechmatics/",
-      "type": "profile",
-      "name": "Speechmatics",
-      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "website": "https://www.speechmatics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/speechmatics/",
-        "followers": 2744
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/speechmatics"
-      },
-      "twitter": {
-        "username": "Speechmatics",
-        "url": "https://twitter.com/Speechmatics",
-        "followers": 1290
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Cambridge"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Speechmatics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/starskyrobotics.md",
-      "title": "Starsky Robotics",
-      "excerpt": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/starskyrobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/starskyrobotics/",
-      "type": "profile",
-      "name": "Starsky Robotics",
-      "overview": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
-      "website": "http://starskyrobotics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/starsky-robotics",
-        "followers": 2281
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/starsky-robotics"
-      },
-      "twitter": {
-        "username": "StarskyRobotics",
-        "url": "https://twitter.com/StarskyRobotics",
-        "followers": 920
-      },
-      "size": "11-50 employees",
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA (CA)",
-        "San Francisco, California (CA)"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-fjy3iaiWFw"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/835187208634060800/orva3Tpz_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Starsky Robotics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/synyi.md",
       "title": "Synyi",
       "excerpt": "Founded in April 2016, located in Zhangjiang high-tech park, Shanghai, Synyi AI is the leading medical artificial intelligence company focusing on medical data governance, mining and application. Our mission is to accelerate the establishment of futuristic learning healthcare system based on data-driven artificial intelligence to build up applications for medical management, patient service, clinical research, and so.  In 2016, Synyi AI received nearly ten million RMB angel investment from ZhenFund. In 2017, Synyi AI received fifty-five million RMB series  A fund from Sequoia Capital , and China Electronic Health Fund. Our team consisted of multi discipline talents from the fields of artificial intelligence and clinical medicine from top institutions and enterprises world-wide. Our products have been subscribed by multiple medical centers in china.",
@@ -848,54 +685,53 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tact.ai.md",
-      "title": "Tact.ai",
-      "excerpt": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tact.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tact.ai/",
+      "path": "_companies/taiger.md",
+      "title": "Taiger",
+      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/taiger/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/taiger/",
       "type": "profile",
-      "name": "Tact.ai",
-      "overview": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
-      "website": "https://tact.ai/",
+      "name": "Taiger",
+      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "website": "http://www.taiger.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/tact.ai",
-        "followers": 3096
+        "url": "https://www.linkedin.com/company/taiger/",
+        "followers": 9793
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tactile"
+        "url": "https://www.crunchbase.com/organization/taiger"
       },
       "twitter": {
-        "username": "tact_ai",
-        "url": "https://twitter.com/tact_ai",
-        "followers": 1293
+        "username": "Taiger_CO",
+        "url": "https://twitter.com/Taiger_CO",
+        "followers": 557
       },
       "size": "51-200 employees",
-      "yearFounded": 2012,
+      "yearFounded": 2009,
       "locations": [
-        "Redwood City, CA",
-        "Redwood City, CA",
-        "Sunnyvale, California"
+        "SG, MAD, NYC, DXB, NM, HK",
+        "Singapore, Singapore",
+        "Singapore , Singapore"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Sales",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
+          "url": "https://www.youtube.com/watch?v=X9wiSLxokXA"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1334765466464575488/Xsezxtmb_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1199655602424877056/ANWtCK5S_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Tact.ai",
+          "title": "Taiger",
           "isCached": true
         }
       ],
@@ -934,6 +770,55 @@
           "width": 400,
           "height": 400,
           "title": "Tanium",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/taskus.md",
+      "title": "TaskUs",
+      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/taskus/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/taskus/",
+      "type": "profile",
+      "name": "TaskUs",
+      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "website": "https://www.taskus.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/taskus",
+        "followers": 42675
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/taskus"
+      },
+      "twitter": {
+        "username": "taskus",
+        "url": "https://twitter.com/taskus",
+        "followers": 4030
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 2008,
+      "locations": [
+        "Los Angeles, CA",
+        "Santa Monica, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=W1V6Id1VrqU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1339767351122612224/frWCbdlU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "TaskUs",
           "isCached": true
         }
       ],
@@ -988,6 +873,61 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/trint.md",
+      "title": "Trint",
+      "excerpt": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/trint/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/trint/",
+      "type": "profile",
+      "name": "Trint",
+      "overview": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "website": "https://www.trint.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/trint/",
+        "followers": 3523
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/trint"
+      },
+      "twitter": {
+        "username": "trinthq",
+        "url": "https://twitter.com/trinthq",
+        "followers": 1851
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "London",
+        "London, Greater London"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1262996074635177987/ROGSdua4_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Trint",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1123,56 +1063,40 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/verbit.ai.md",
-      "title": "Verbit",
-      "excerpt": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/verbit.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/verbit.ai/",
+      "path": "_companies/verkada.md",
+      "title": "Verkada",
+      "excerpt": "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/verkada/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/verkada/",
       "type": "profile",
-      "name": "Verbit",
-      "overview": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
-      "website": "https://verbit.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/verbit/",
-        "followers": 6214
-      },
+      "name": "Verkada",
+      "overview": "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure.",
+      "website": "https://www.verkada.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/verbit-ai"
+        "url": "https://www.crunchbase.com/organization/verkada"
       },
       "twitter": {
-        "username": "verbit_",
-        "url": "https://twitter.com/verbit_",
-        "followers": 846
+        "username": "VerkadaHQ",
+        "url": "https://twitter.com/VerkadaHQ",
+        "followers": 704
       },
-      "size": "51-200 employees",
       "yearFounded": 0,
       "locations": [
-        "United States",
-        "New York, NY",
-        "New York, New York"
+        "San Mateo, CA"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=C8AG8eTC8D0"
-        }
+        "AI"
       ],
       "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1088376194125496325/KHgCHYZ5_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/910630995350609920/QfH__s7U_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Verbit",
+          "title": "Verkada",
           "isCached": true
         }
       ],
@@ -1368,6 +1292,109 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/wasterobotic.md",
+      "title": "Waste Robotics",
+      "excerpt": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/wasterobotic/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/wasterobotic/",
+      "type": "profile",
+      "name": "Waste Robotics",
+      "overview": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
+      "website": "https://wasterobotic.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/wasterobotics/",
+        "followers": 287
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/waste-robotics"
+      },
+      "twitter": {
+        "username": "dirtyjobrobot",
+        "url": "https://twitter.com/dirtyjobrobot",
+        "followers": 313
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Québec, Québec"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/793405645873479682/RvYzd1Xi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Waste Robotics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/wavecomp.ai.md",
+      "title": "Wave Computing",
+      "excerpt": "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/wavecomp.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/wavecomp.ai/",
+      "type": "profile",
+      "name": "Wave Computing",
+      "overview": "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide.",
+      "website": "https://wavecomp.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/wave-computing",
+        "followers": 3609
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/wave-semiconductor"
+      },
+      "twitter": {
+        "username": "wavecomputing",
+        "url": "https://twitter.com/wavecomputing",
+        "followers": 428
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Campbell, CA",
+        "Campbell, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=pHaRbs5cOek"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/971851969139654657/os61yXfP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Wave Computing",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/xnor.ai.md",
       "title": "Xnor.ai",
       "excerpt": "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices.",
@@ -1416,36 +1443,6 @@
           "width": 400,
           "height": 400,
           "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/yuanfudao.md",
-      "title": "Yuanfudao",
-      "excerpt": "Yuanfudao provides live courses and tutoring through an online platform.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yuanfudao/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/yuanfudao/",
-      "type": "profile",
-      "name": "Yuanfudao",
-      "overview": "Yuanfudao provides live courses and tutoring through an online platform.",
-      "website": "https://www.yuanfudao.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yuanfudao"
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/xoxhum1birnuyzqlrovp",
-          "width": 400,
-          "height": 400,
-          "title": "Yuanfudao",
           "isCached": false
         }
       ],
