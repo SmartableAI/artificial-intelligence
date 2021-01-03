@@ -52,17 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
-    excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
-    publishedDateTime: 2020-12-29T21:04:00Z
-    webUrl: "https://www.openpr.com/news/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
-    ampWebUrl: "https://www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "Global AI Adaptive Radio Intelligence Market 2020 Research Report With COVID-19 Update - Key Players Analysis, Growth Factors and Forecast to 2025"
     excerpt: "Global AI Adaptive Radio Intelligence Market Growth (Status and Outlook) 2020-2025 interprets market overview, value chain structure, industrial environment, regional analysis, applications, market size,"
     publishedDateTime: 2020-12-29T23:36:00Z

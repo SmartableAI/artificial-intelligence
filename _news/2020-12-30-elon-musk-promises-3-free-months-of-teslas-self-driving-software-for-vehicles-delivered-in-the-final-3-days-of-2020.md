@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla offers 3 months of free Full Self-Driving package as unprecedented end-of-quarter incentive"
-    excerpt: "Tesla is offering three months of a free Full Self-Driving (FSD) package as an unprecedented end-of-quarter incentive to deliver more vehicles, according to sources. Over the years, Tesla has come up with several incentives to encourage buyers to take delivery by the end of a quarter in order to boost its earnings."
-    publishedDateTime: 2020-12-29T21:35:00Z
-    webUrl: "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/"
-    ampWebUrl: "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 76
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Model-X-hero-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "All Teslas Delivered In Last 3 Days Of 2020 Get Free Full Self-Driving"
     excerpt: "Tesla has always pushed hard and offered incentives at the end of the quarter and the end of the year, but free FSD is next level."
     publishedDateTime: 2020-12-30T14:53:00Z

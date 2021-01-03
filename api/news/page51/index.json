@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb.md",
+      "title": "Facebook says AI has fueled a hate speech crackdown – Jaweb",
+      "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facebook-says-AI-has-fueled-a-hate-speech-crackdown-–.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
+      "publishedDateTime": "2020-11-19T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown.md",
       "title": "Facebook says AI has fueled a hate speech crackdown",
       "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
@@ -1138,49 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi.md",
-      "title": "Artificial Intelligence, Robotics Key To Fourth Industrial Revolution – Abdullahi",
-      "excerpt": "The director-general of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has identified emerging",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
-      "originalUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2020/08/Kashifu-Inuwa-Abdullahi-NITDA.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
-      "publishedDateTime": "2020-11-19T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

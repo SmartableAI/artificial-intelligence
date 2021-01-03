@@ -3,8 +3,8 @@ category: news
 title: "Experts say Xi's speech sets key goals for 2021"
 excerpt: "President Xi Jinping's New Year's address has emphasized the importance of people and set important national development and economic goals for 2021, global experts said."
 publishedDateTime: 2021-01-03T04:06:00Z
-originalUrl: "https://www.nationthailand.com/noname/30400612"
-webUrl: "https://www.nationthailand.com/noname/30400612"
+originalUrl: "https://www.nationthailand.com/ann/30400612"
+webUrl: "https://www.nationthailand.com/ann/30400612"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Vdd7UOqKbgF3aWTH/iX07BJGwzKYGJEjtV1jDrCQG+uv4sYtovVTNzwUrXlwAilf6+HDuSOfC1IkGd1kBJgVDqsWi6/K1eOLtnUskHpMU9YEAiZZAaa4zYL+Z2OHKPlBInlCVL4NK/wXz5GqqnSVB7F034qik4c4Wkv2XSSTZcJZRlgrfJc6cz7pnxk2rm7fPitmO76uYB4B89saMo8nGqhEOSmfnHzMutk+zgtMjCXWZYF6eUcn8ZGLa29qJxaEd5eiwp48+ar9BG+o6paRjAVfOGrI/6hhfhHD1D3hgN/kn8uiVas3UMAAjbRM+G1Vis3aIYzR6AX1snfZExYnQogw3BDcKkO2jLeCudh4lDE=;NoviL8OxxphAHlUKaZc+aA=="
+secured: "DykYLxcRELXgQe3embNfN7/ZaP5WtZM6CXDn4Um792WO3r/96Eok8mvaEVymaVBcjmmxG9/0GwS7+1/lAVBUy8+J19H+JO8vU8ydZ5YwkNbQ7m/2as+L8HUI6rynj4XLeFYyJX0FkGgKKBi3Ktb/VWwQ6howTOLxkeB428S6woWa16Ffdjtc60A2/t/s+0RWXohAPh83Gl72uiLYFGXlVVy29Y+AMDMnl5n0Ob0DWBKfhphMZwmA+4LvEv0u6I9vGzh0tESXHnVkznOORjL0Np7yCCs3WmPkd/18HJParvTSOe6mjRXmKkHKj9G1xje9Zts88OR90pKIPP7GlycKSMpAM/0vi6vJW5M2LnNjACw=;v/Dp9zDoQL5Jud07hWWHag=="
 ---
 

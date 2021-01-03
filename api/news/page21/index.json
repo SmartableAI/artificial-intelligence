@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-11-salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy.md",
+      "title": "Salesforce claims its AI can spot signs of breast cancer with 92% accuracy",
+      "excerpt": "Salesforce says it developed an AI system -- ReceptorNet -- that can spot signs of breast cancer with 92% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "publishedDateTime": "2020-12-10T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-joburg-extends-hours-of-licencing-centres-during-the-holidays.md",
       "title": "Joburg extends hours of licencing centres during the holidays",
       "excerpt": "The City of Johannesburg has announced that extra resources have been put in place to keep licencing centres open longer during the 2020 festive season and into early 2021. Between 1st December ...",
@@ -1148,40 +1199,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers.md",
-      "title": "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers",
-      "excerpt": "Insurance and financial services leader rapidly migrates to AWS to unlock data-driven insights, automate processes in the cloud, and deliver new digital services to millions",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18732538/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18732538/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18732538",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18732538",
-      "publishedDateTime": "2020-12-10T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

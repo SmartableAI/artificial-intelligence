@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362540"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s what happened in the world of artificial intelligence in 2020"
-    excerpt: "The year 2020 was long and treacherous, but the biggest bright spot for me was the official launch of Neural. That’s our AI sub-brand here at TNW and the section you’re reading this article in. More specifically,"
-    publishedDateTime: 2020-12-29T22:04:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/29/heres-what-happened-in-the-world-of-artificial-intelligence-in-2020/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2020roboarm-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
   - title: "The Building Blocks of Artificial Intelligence"
     excerpt: "In popular culture, movies and the media often portray AI in a dark and dangerous light. However, experts believe that AI will actually positively augment the human race, though how exactly is still unknown."
     publishedDateTime: 2020-12-31T14:12:00Z

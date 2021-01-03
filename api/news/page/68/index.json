@@ -2,6 +2,49 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-11-11-soundhound-incs-houndify-voice-ai-powers-dynamic-voice-recognition-system-in-2021-hyundai-elantra-and-elantra-hybrid.md",
+      "title": "SoundHound Inc.’s Houndify Voice AI Powers Dynamic Voice Recognition System in 2021 Hyundai Elantra and Elantra Hybrid",
+      "excerpt": "SoundHound Inc., the leading innovator of voice AI and conversational intelligence technologies, announced the integration of its Houndify Voice AI platform into Hyundai’s all-new 2021 Elantra and Elantra Hybrid with select models now available for sale in North America.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-walmart-and-gms-cruise-partner-for-self-driving-deliveries-in-arizona.md",
       "title": "Walmart and GM's Cruise partner for self-driving deliveries in Arizona",
       "excerpt": "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype.",
@@ -1126,57 +1169,6 @@
         "name": "International Business Times",
         "domain": "ibtimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
-      "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
-      "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
-      "originalUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa5db02c529acf3a833874c/master/pass/business_medicare_1171912286.jpg",
-          "width": 2400,
-          "height": 1606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
-      "publishedDateTime": "2020-11-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "W-B General Hospital anesthetists request union recognition"
-excerpt: "Barre General Hospital requested union recognition on Wednesday from Capital Anesthesia Solutions. The anesthetists were laid off in August by their previous employer, North American Partners in Anesthesia,"
-publishedDateTime: 2020-12-31T20:08:00Z
-originalUrl: "https://www.citizensvoice.com/news/w-b-general-hospital-anesthetists-request-union-recognition/article_3934acbd-68b8-533e-8534-7ef56494a548.html"
-webUrl: "https://www.citizensvoice.com/news/w-b-general-hospital-anesthetists-request-union-recognition/article_3934acbd-68b8-533e-8534-7ef56494a548.html"
+title: "Another arrest, and jail time, because of a bad facial recognition match"
+excerpt: "He had been identified by police using facial recognition software, even though he was 30 miles away at the time of the incident. Parks spent 10 days in jail and paid around $5,000 to defend himself. In November 2019, the case was dismissed for lack of ..."
+publishedDateTime: 2021-01-03T14:23:00Z
+originalUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
+webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
+ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
 type: article
-quality: 24
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Citizen's Voice
-  domain: citizensvoice.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/citizensvoice.com/content/tncms/assets/v3/editorial/9/9d/99d1d000-d63c-533e-8017-28dc2693d296/5fee2ba66c13a.image.jpg?resize=982%2C630"
-    width: 982
-    height: 630
+  - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -57,22 +59,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Another arrest, and jail time, because of a bad facial recognition match"
-    excerpt: "He had been identified by police using facial recognition software, even though he was 30 miles away at the time of the incident. Parks spent 10 days in jail and paid around $5,000 to defend himself. In November 2019, the case was dismissed for lack of ..."
-    publishedDateTime: 2021-01-03T14:23:00Z
-    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 73
-    images:
-      - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial Recognition Technology Cited in False Arrest Case"
     excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
     publishedDateTime: 2020-12-30T13:19:00Z
@@ -87,7 +73,21 @@ related:
         width: 343
         height: 510
         isCached: true
+  - title: "W-B General Hospital anesthetists request union recognition"
+    excerpt: "Barre General Hospital requested union recognition on Wednesday from Capital Anesthesia Solutions. The anesthetists were laid off in August by their previous employer, North American Partners in Anesthesia,"
+    publishedDateTime: 2020-12-31T20:08:00Z
+    webUrl: "https://www.citizensvoice.com/news/w-b-general-hospital-anesthetists-request-union-recognition/article_3934acbd-68b8-533e-8534-7ef56494a548.html"
+    type: article
+    provider:
+      name: Citizen's Voice
+      domain: citizensvoice.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/citizensvoice.com/content/tncms/assets/v3/editorial/9/9d/99d1d000-d63c-533e-8017-28dc2693d296/5fee2ba66c13a.image.jpg?resize=982%2C630"
+        width: 982
+        height: 630
+        isCached: true
 
-secured: "0Q6h4NsI2UKWc4yR+laBl2iKmhWKuAkJBDmxG9IOVM6XinS8jimyQlwLC4yNlP+/VLl3O8Rb0uHYpsGxJOnUgIUotJQQm2XCRYohDliID8bV6GHET1LmtvCONPYOcQ4H0GPcKnzBG6iH3Ei34g3ebvxhjf3cvvbotX6lkXcOyQwSoJ5yNogqM2eM+gRhmSJwcVkYb6Z43HlmUY773tZKYd2PXtnr7PGqoewV/CkYtFyoQtIzWd+rm4A4tFT3JOvsa5GtWU14eJn1gQHFKqNsaVRl2Ps9HZHGevcIRQQK0mRjzt6yWAxLJDZzGHBDQRFUSmB2CWiGD+2mUxAK7F9KPy3J0aT3b4NZ9Ky+Zrz2C48=;KrEcw1ZD9gugq7v5+KnqsA=="
+secured: "9mrLwB7fe8Plq4XXU+gwXqwX353JK/GX4AThhBIpVyhcAhwsPufcIUxVuWfjoFdmWdG/MGXH95VHS3oLT7dew7YvwIw70HBbvA0pH6x5WwrrneS1vDQMEMhhWV+o23Oy6CHZh5UrQ2n8fea/eFoHVRmtakfN9sdK0DgD1N8NSf0jqUiTFuTx3Gl/5wDsqlhrRWDKUnhvhr7eW0Vtv7qWYwXBaxkWnhXOr5zjpLQx/n62mtRZFlqw5QdBi+T0e1z/8inQJOSuFPELc0VfkYWNtgRDrw6guPB1NQFY9EW9Dv6AxO8SREQIxnEdwWM4xkdyFHWLHZqoziUrXcy64cfi1l1q7/6wD3XZ6/fJ4M+ZXYg=;LQ9Tl1hWp2zMi5SB5EGK5Q=="
 ---
 

@@ -58,6 +58,15 @@ related:
         width: 1000
         height: 474
         isCached: true
+  - title: "3 NLP Trends Prime for Improvement in the New Year"
+    excerpt: "In this special guest feature, David Talby, CTO, John Snow Labs, discusses how the new year is expected to be another pivotal one for NLP growth, and there are several trends driving this. Significant improvements made in three specific areas will affect NLP adoption over the next year - read on to learn about the ones to watch out for."
+    publishedDateTime: 2021-01-03T14:24:00Z
+    webUrl: "https://insidebigdata.com/2021/01/03/3-nlp-trends-prime-for-improvement-in-the-new-year/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
 
 secured: "QSqtXVHoMjOLsUDhZ9hG8SzgZM6MrLuEO2sTJSskWWBKs2pC+jGKG8pFlYR/88VwyFcuQrlZXmC9GwISG4Yxid82DX/UaQckaP4h33Dt1SEBioyR3dn0nJ5dqc2UBeOCR5U0hmQz0j8zCrjsPAczWGpsYkJp38ZkWgWwV5sNsbh7bYNBDJbmynLuc+0tvOIrndp6O8iHXUXKjb1vwEV8l6b8mutXIT7M9AeK/chrTK+H/3oWvSz9J8bipaR/vWCT8RXAPogAESwiD+fvy7/4SYdK3CQdzJiQg4vKmqlfmdoPWH6CgfsrodlsOKnuLllBQD5gdbbb2YytJFDmjYWIK9gzuvnQ/4Lf24s7ir8msqQ=;tL5iWKDyOzVEhvsOVVYGEg=="
 ---

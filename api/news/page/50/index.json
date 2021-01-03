@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-11-20-ibm-buys-apm-startup-instana-to-boost-ai-automation.md",
+      "title": "IBM buys APM startup Instana to boost AI automation",
+      "excerpt": "Instana offers end-user and infrastructure monitoring as well as analytics that leverages AI to manage ... into IBM, companies will be able to feed these insights into Watson AIOps, said Instana ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/ibm-buys-apm-startup-instana-to-boost-ai-automation-558051",
+      "originalUrl": "https://www.crn.com.au/news/ibm-buys-apm-startup-instana-to-boost-ai-automation-558051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/crn-14_automation_iStock-1163061322.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-this-robot-makes-you-boba-tea-at-a-fully-automated-bar-because-of-course-thats-a-thing.md",
       "title": "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing",
       "excerpt": "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,",
@@ -1163,49 +1206,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb.md",
-      "title": "Facebook says AI has fueled a hate speech crackdown – Jaweb",
-      "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
-      "originalUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facebook-says-AI-has-fueled-a-hate-speech-crackdown-–.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
-      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
-      "publishedDateTime": "2020-11-19T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Elmoudjaweb",
-        "domain": "elmoudjaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

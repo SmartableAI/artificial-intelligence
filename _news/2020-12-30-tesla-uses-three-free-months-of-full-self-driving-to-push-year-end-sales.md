@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla offers 3 months of free Full Self-Driving package as unprecedented end-of-quarter incentive"
-    excerpt: "Tesla is offering three months of a free Full Self-Driving (FSD) package as an unprecedented end-of-quarter incentive to deliver more vehicles, according to sources. Over the years, Tesla has come up with several incentives to encourage buyers to take delivery by the end of a quarter in order to boost its earnings."
-    publishedDateTime: 2020-12-29T21:35:00Z
-    webUrl: "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/"
-    ampWebUrl: "https://electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/29/tesla-offers-3-months-free-full-self-driving-package-incentive/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 76
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Model-X-hero-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Elon Musk promises 3 free months of Tesla's 'self-driving' software for vehicles delivered in the final 3 days of 2020"
     excerpt: "Driving\" technology, which does not make cars fully autonomous, as a subscription service in early 2021."

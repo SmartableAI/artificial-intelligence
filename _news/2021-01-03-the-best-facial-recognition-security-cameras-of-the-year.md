@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://images.wsj.net/im-278977/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Another arrest, and jail time, because of a bad facial recognition match"
+    excerpt: "He had been identified by police using facial recognition software, even though he was 30 miles away at the time of the incident. Parks spent 10 days in jail and paid around $5,000 to defend himself. In November 2019, the case was dismissed for lack of ..."
+    publishedDateTime: 2021-01-03T14:23:00Z
+    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 73
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facial Recognition Technology Cited in False Arrest Case"
     excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."

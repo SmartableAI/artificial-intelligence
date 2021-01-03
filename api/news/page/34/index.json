@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-03-european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom.md",
+      "title": "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com",
+      "excerpt": "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
+      "originalUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
       "title": "Google AI is now piloting Loon's internet-beaming balloons",
       "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
@@ -1142,57 +1185,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ai-budgets-expected-to-expand-in-2021-despite-pandemic.md",
-      "title": "AI budgets expected to expand in 2021, despite pandemic",
-      "excerpt": "The pandemic motivated many businesses to look for new efficiencies and revenue sources, with many turning to AI as the solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/",
-      "originalUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/world.investmentsGettyImages-1201627478.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/amp/",
-      "publishedDateTime": "2020-12-02T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

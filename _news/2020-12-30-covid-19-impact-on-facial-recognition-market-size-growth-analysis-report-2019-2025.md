@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2218785/covid-19-impact-on-facial-recogni
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218785/covid-19-impact-on-facial-recognition-market-size-growth"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Software Platform Market Covid-19 Analysis Sales Volume, Status, Growth, Opportunities and World Market Share"
-    excerpt: "The global artificial intelligence software platform market is predicted to touch USD 11 3 billion at a healthy 28 1 CAGR between 2018 2023 states the recent MRFR analysis AI software platform simply put is a software"
-    publishedDateTime: 2020-12-29T21:04:00Z
-    webUrl: "https://www.openpr.com/news/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
-    ampWebUrl: "https://www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218719/ai-software-platform-market-covid-19-analysis-sales-volume"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "Artificial Intelligence Chipset Market 2020 Growth, COVID Impact, Trends Analysis Report 2026"
     excerpt: "AI chipsets market size is expected to be valued at USD 7 6 billion in 2020 and likely to reach USD 57 8 billion by 2025 at a CAGR of 40 during the forecast period Artificial intelligence AI chipsets are"
     publishedDateTime: 2020-12-31T11:48:00Z

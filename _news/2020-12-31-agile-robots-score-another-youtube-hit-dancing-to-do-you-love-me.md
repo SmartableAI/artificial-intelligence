@@ -4,12 +4,10 @@ title: "Agile robots score another YouTube hit, dancing to 'Do You Love Me'"
 excerpt: "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,"
 publishedDateTime: 2020-12-31T01:34:00Z
 originalUrl: "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-webUrl: "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-ampWebUrl: "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+webUrl: "https://www.youtube.com/watch?v=fn3KWM1kuAw&feature=youtu.be"
 type: article
-quality: 59
-heat: 79
+quality: 122
+heat: 142
 published: true
 
 provider:
@@ -17,13 +15,12 @@ provider:
   domain: wmur.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a685812271f68161dbb35d0810ed2fb5-h-839419f9e969d1bdb2453264c7c74e2b-1609381106.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    width: 1200
-    height: 675
+  - url: "https://i.ytimg.com/vi/fn3KWM1kuAw/maxresdefault.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -56,6 +53,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "YkarfRpUuqLf7NOXZX6DiBk9cxxZ8v1U8bdviiKabs9BlF3fTZRP2VTUejR8j3w48Zf3DOp2Q173P8pqpKrb48sD5AZ4HnRykKHKWmN6kkkQNgfadJbDHQpBYptgqGIGbZSORcxhwTUIdLy96xuZHJAbeBtkFCoEaQSlK0XRNerWtQX/EAvfZiTyDQah+x8YxoS+a76tyuW2DoqM6bhxNgC3PvfqXXfqqkhlop/B+8z2w6WfSHChUr+imlXZ2hh4COQbm3lVcRoHXMhOejj5s8cFLNXSNajGAvB2/v6tCF/xmHA/UhGHleVl8MYdupytl9m6wsg3/kovdLv5XJXg/Ek+rt3Pov9eAvhwhw/OsJYU0DOLF+VRJaOHzYEOyBn7v1GSTGEmAufJv50kh1y0dr76nmfbdtKv0q15W0bGwd4MepobnFYqbCwjFEuUm7r/4y5xLKFDgA8fcd4GMmRxojLXh01OwM9PUIdBr5bLxB/PaZSGKil8a/AnMJ3iff2DpwctnRGCTVcGT+eBi1DyDg==;pq5srV7GYh1sLna8j/KHEA=="
+secured: "JlHK4CPuKctBkOKXp5Rl9V7Xs6yJiBk2UspMTpsputVZleDbXSkBYYnNlnmfhfUsAnqBeIXTe1oUzUphSTzwnMRGb4d1CxQzQmhK3Jy/NTWDdC8Iqyw2mqXCYEdr2yRGcxFf+tPFPjf5JgAIjPZcJMBF1hvlRJ+XDT3HtB4lS2p+vu0gwyyCC1JtAXBC87tPRFohYpzv4elnS9xRZ6gvTFsZ4Q3i30c35G74K0soNqE/CnexSP8wyUJvpFPtj0zpO1UFltumbulfVkitH8cUZtF+jjtjczGTPb21Vo9yP46Yc+e5Z8xb841tJuYik3Y30NAqHq0csDI9CyliJtAwXt/cLbuX5X3Gcv9WI0lr5cM=;1w+6jTU6CWWJZFFkO2uAIg=="
 ---
 
