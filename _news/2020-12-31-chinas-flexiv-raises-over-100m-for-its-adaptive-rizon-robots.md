@@ -9,8 +9,8 @@ ampWebUrl: "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: thetechportal.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s adaptive robot maker Flexiv raises over $100 million"
-    excerpt: "As businesses around the world look to automate production lines and supply chains, companies making the robots are attracting great investor interest. The latest to get funded is Flexiv, which closed a Series B round north of $100 million from investors including China’s on-demand services"
-    publishedDateTime: 2020-12-30T16:03:00Z
-    webUrl: "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/"
-    ampWebUrl: "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/flexiv-2-e1609297096272.jpg?w=1024"
-        width: 1024
-        height: 545
-        isCached: true
   - title: "Chinese robot maker Flexiv closes over $100m series B round"
     excerpt: "The funds raised will be used to implement its AI-driven, general-purpose robots in other areas such as services, agriculture, logistics, and medical care."
     publishedDateTime: 2020-12-31T11:25:00Z

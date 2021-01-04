@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-resear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 716
     isCached: true
+
+related:
+  - title: "The Top Tech Predictions For 2021"
+    excerpt: "Technology has been our saviour this year, allowing us to continue to work and communicate, never mind contributing to the swift creation"
+    publishedDateTime: 2021-01-04T00:03:00Z
+    webUrl: "https://businessnewswales.com/the-top-tech-predictions-for-2021/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/Pete-Hanlon.jpg"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "VV+mNB86wnJHJovtYmusa/GCThqyGmZN4masJBdAwbw+DQHBhpHli1jq+Mron43f+WpN4sNUaZ/6dm939kquhUDozAxnSHGxHR1f1C7HR7irh0ixzWWl88VYCjxaYc3jdnmwKOtZby3rHzijnLhW2xXfzoyvTjCsIQuoKHWa5pR6gy86/aBc4MX5lRyfOuuRuMq/Llcs/ExkFKobJvJbTOpE6D/e6J6EE4NnzZXk0yrmRP58dOgKLgd7VExcRT6UW0hsVi7EJ2vlK5x7no1k5l45Sgznzphr0jPENpRlFawfqzHmbPj2+CXIlz6ExXWK9EiyoQMIRPmNTHJqunM2CBEntGlHqNKwRiidJ2hbPQB8vkbUWmrTYRiDFV4Sq7kVK75/wE6S0ccfak8XPej7oB0fGFfpmehVYdBO2+4HpI5GyiRuZOabS8dk7UGLAeUv/IvgnT9KlUEQQSs1l5xvPn4Uk5F5JB3x2oS0yG/uOkVii5EdG5tP7F9nWXbwM8Fjngj2OmmHbfGtYNiK51H3WA==;fbRte7OMrGCSc4ko48O+oA=="
 ---

@@ -1,0 +1,29 @@
+---
+category: news
+title: "Allied Minds - Strategic update"
+excerpt: "With origination relationships that span US federal laboratories, universities, and leading US corporations, Allied Minds historically created, and now manages and funds, a portfolio of companies to generate long-term value for its investors and stakeholders."
+publishedDateTime: 2021-01-04T08:43:00Z
+originalUrl: "https://www.proactiveinvestors.co.uk/LON:ALM/Allied-Minds/rns/911533"
+webUrl: "https://www.proactiveinvestors.co.uk/LON:ALM/Allied-Minds/rns/911533"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: Proactive Investors
+  domain: proactiveinvestors.co.uk
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://www.proactiveinvestors.co.uk/assets/img/fb_pai.png?4362984378"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "+bFRIJpMj9aHHFyJGvJH9lifrqptCeQSgplD+b/CMkHEpp2Ey9RVbtMU6SlHhv6AZs9DCX8BjOyaH65t7FECxPxE9TkGQq++244aoMxdLLKFe3MkClThvK3LjBUOBj5vgZiwHiMDVsGM9PoO5TnXHOdFINQY8oJ33eW1eYRlU25fNYUSOJXhlYTSG6WkWGQKt18jdkpoNXLi7/LOndkWWu/2BlBJKRVSia1ic/zfIEgVXpAsHc5E0phYXYuXIvsYMigQnVnNe8fR9huATW0c4NaKF/z0Ou3hPwuVr9I+o63VgMPyme0MYIOlFpwNgziDE9HhHvaNeuHGAbgCdMss9cbsyui9xrF5zSQztBfWH6A=;TXp3XtwrS4VpsOeE6aa6kw=="
+---
+
