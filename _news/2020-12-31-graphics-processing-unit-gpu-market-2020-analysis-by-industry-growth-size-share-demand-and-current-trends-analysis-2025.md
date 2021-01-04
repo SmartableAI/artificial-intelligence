@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Assistive Robotics Market Is Expected To Grow USD 11.2 Billion By 2024, At A CAGR Of 22.3% During The Forecast Period"
+    excerpt: "One of the major driving factors for the assistive robotics market is the rising insurance coverage for medical exoskeletons and robotic surgeries. The assistive robotics market is expected to grow from USD 4."
+    publishedDateTime: 2021-01-04T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HJPNIpCbTB8B0jxzQmQ0UaWDBpazMMvp14fgM66dWYh73Wpu79u1c/8Gc4q9t+sCX+Grp9Kri3pWhaqNVkURaEj3sot64JtDw9KT5Z+QZyenIATRip0MDe20ccAzGxr58Ep0cHaWYcKtUfL9I3OZ6grbVDQI0KBtDip48u8q432Jud/97POVwkwWhu9u99AlX8qh6geYy3Sli6i0jkAtg1Bkgg9jzJb62ldyY8OoyhKZxH5PU1RcSP3SqnF0as1rO6xStWc/F8PnzRx2B8S36XDnOF/q4zJN9UQTFll0J7G3R2JcTeOH1Dh4hEl5gHAzQyMu4lUd+t1k37G4c/KhLEKYsrienYny7hI2pJzCINE=;QZe6ifcoobSkB3GAtBywag=="
 ---

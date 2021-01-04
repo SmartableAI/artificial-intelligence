@@ -52,20 +52,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 53
-  - title: "Facial Recognition Technology Cited in False Arrest Case"
-    excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
-    publishedDateTime: 2020-12-30T13:19:00Z
-    webUrl: "https://thecrimereport.org/2020/12/30/facial-recognition-technology-cited-in-false-arrest-case/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
-        isCached: true
 
 secured: "0Q6h4NsI2UKWc4yR+laBl2iKmhWKuAkJBDmxG9IOVM6XinS8jimyQlwLC4yNlP+/VLl3O8Rb0uHYpsGxJOnUgIUotJQQm2XCRYohDliID8bV6GHET1LmtvCONPYOcQ4H0GPcKnzBG6iH3Ei34g3ebvxhjf3cvvbotX6lkXcOyQwSoJ5yNogqM2eM+gRhmSJwcVkYb6Z43HlmUY773tZKYd2PXtnr7PGqoewV/CkYtFyoQtIzWd+rm4A4tFT3JOvsa5GtWU14eJn1gQHFKqNsaVRl2Ps9HZHGevcIRQQK0mRjzt6yWAxLJDZzGHBDQRFUSmB2CWiGD+2mUxAK7F9KPy3J0aT3b4NZ9Ky+Zrz2C48=;KrEcw1ZD9gugq7v5+KnqsA=="
 ---

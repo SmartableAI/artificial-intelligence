@@ -44,20 +44,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Farewell 2020: Bleak, Yes. But a Lot of Good Happened Too"
-    excerpt: "Here on the cusp of the new year, the catchphrase ‘2020 hindsight’ has a distinctly different feel. Good riddance, yes. But also proof of science’s power"
-    publishedDateTime: 2020-12-30T14:12:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/30/farewell-2020-bleak-yes-but-a-lot-of-good-happened-too/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 26
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_1810092442.jpg"
-        width: 1000
-        height: 474
-        isCached: true
   - title: "3 NLP Trends Prime for Improvement in the New Year"
     excerpt: "In this special guest feature, David Talby, CTO, John Snow Labs, discusses how the new year is expected to be another pivotal one for NLP growth, and there are several trends driving this. Significant improvements made in three specific areas will affect NLP adoption over the next year - read on to learn about the ones to watch out for."
     publishedDateTime: 2021-01-03T14:24:00Z

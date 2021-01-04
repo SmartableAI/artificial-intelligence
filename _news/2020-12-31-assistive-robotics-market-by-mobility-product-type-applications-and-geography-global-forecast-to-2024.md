@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/assistive-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Assistive Robotics Market Is Expected To Grow USD 11.2 Billion By 2024, At A CAGR Of 22.3% During The Forecast Period"
+    excerpt: "One of the major driving factors for the assistive robotics market is the rising insurance coverage for medical exoskeletons and robotic surgeries. The assistive robotics market is expected to grow from USD 4."
+    publishedDateTime: 2021-01-04T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Graphics Processing Unit (GPU) Market 2020 Analysis By Industry Growth, Size, Share, Demand and Current Trends Analysis 2025"
     excerpt: "Market Overview The Graphics Processing Unit (GPU) market was valued at USD 20.62 billion in 2019 and is expected to reach USD 104.71 billion by 2025, at a CAGR of 31.1% over the forecast period 2020 - 2025."
     publishedDateTime: 2020-12-30T18:27:00Z

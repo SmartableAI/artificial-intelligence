@@ -45,38 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "All Teslas Delivered In Last 3 Days Of 2020 Get Free Full Self-Driving"
-    excerpt: "Tesla has always pushed hard and offered incentives at the end of the quarter and the end of the year, but free FSD is next level."
-    publishedDateTime: 2020-12-30T14:53:00Z
-    webUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/"
-    ampWebUrl: "https://insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/463438/free-tesla-full-self-driving-end-of-quarter/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/P6QQK/s1/tesla-self-driving-new.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Tesla Offers Free Trial of $10,000 Self-Driving Package"
-    excerpt: "To meet its goal of delivering 500,000 vehicles this year, Tesla Inc. (NASDAQ: TSLA) reportedly is offering customers who take delivery by the end of December a big freebie. The company’s full self-driving package is normally priced as a $10,"
-    publishedDateTime: 2020-12-30T14:45:00Z
-    webUrl: "https://247wallst.com/autos/2020/12/30/tesla-offers-free-trial-of-10000-self-driving-package/"
-    ampWebUrl: "https://247wallst.com/autos/2020/12/30/tesla-offers-free-trial-of-10000-self-driving-package/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/autos/2020/12/30/tesla-offers-free-trial-of-10000-self-driving-package/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 59
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2019/05/imageforentry1-ydy.jpg?w=400"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
     excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
     publishedDateTime: 2021-01-04T03:54:00Z
@@ -93,17 +61,6 @@ related:
         width: 620
         height: 327
         isCached: true
-  - title: "Tesla Offering Three Months Full Self-Driving Package For Free"
-    excerpt: "This latest incentive by Tesla is reportedly available to buyers who can take delivery by the end of the year."
-    publishedDateTime: 2020-12-30T14:30:00Z
-    webUrl: "https://www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/"
-    ampWebUrl: "https://www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-offering-three-months-full-self-driving-package-for-free/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 39
 
 secured: "H84ko/7WTYyrsPQBoBRxbVvkbgifpmZbHoanR6MvnS7TR/HIRIjgTkpkYWFw0hGK5xlJ8rXxpXMfe+L4MQAHyF7GNq37J1611LLw/Z1SZlOklGjtuWopV+kPwCZk4KL3lpOoDhRXj7gP40wPgAIeo/clWGOkMUYu+M8unCbr1zERdf4QN8wNZk9St7kI7gVLKn4xDqD0j1PsEpOvdnPqg/rh+7sWABFKl9d7H1rP8rv3+FI70VCrwcepPQ+56zLb+b9DQht8h7iXyFqTa/9YmwV9hGyYIehEikvxtWsqOzP1ECMeX/asQRDf7udsf916zDLNPoVbm+UYvMVtx7WIVwidU+UQKqHsT80VIJ8n8NZBLAj98+HjF1gg04Fk1+tmgi7CwGWvAopQkW87X28nb8qM6SZHikMK44xMuC3ujPAASexVS+rpa38hSDRt+fupZ2QS3XxKNztJ8MIG5ow7ZUOLdL+PphTlfGUejHimdnwX6a+PMCz3hblYCPZ5v6i8krsUfquuuj1QCbYGXWY39w==;G1sFxBbT6IAycEs748puiA=="
 ---

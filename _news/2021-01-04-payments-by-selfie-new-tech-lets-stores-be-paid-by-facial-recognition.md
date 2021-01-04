@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/coming-soon-payments-by-selfie-654112
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/coming-soon-payments-by-selfie-654112/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

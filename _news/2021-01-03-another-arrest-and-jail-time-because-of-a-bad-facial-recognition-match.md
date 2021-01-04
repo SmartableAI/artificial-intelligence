@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Technology Cited in False Arrest Case"
-    excerpt: "A New Jersey man has sued for a wrongful arrest and emotional distress after he spent a week in jail as a result of a faulty identification."
-    publishedDateTime: 2020-12-30T13:19:00Z
-    webUrl: "https://thecrimereport.org/2020/12/30/facial-recognition-technology-cited-in-false-arrest-case/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
-        isCached: true
   - title: "W-B General Hospital anesthetists request union recognition"
     excerpt: "Barre General Hospital requested union recognition on Wednesday from Capital Anesthesia Solutions. The anesthetists were laid off in August by their previous employer, North American Partners in Anesthesia,"
     publishedDateTime: 2020-12-31T20:08:00Z

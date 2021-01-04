@@ -47,20 +47,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Farewell 2020: Bleak, Yes. But a Lot of Good Happened Too"
-    excerpt: "Here on the cusp of the new year, the catchphrase ‘2020 hindsight’ has a distinctly different feel. Good riddance, yes. But also proof of science’s power"
-    publishedDateTime: 2020-12-30T14:12:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/30/farewell-2020-bleak-yes-but-a-lot-of-good-happened-too/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 26
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_1810092442.jpg"
-        width: 1000
-        height: 474
-        isCached: true
 
 secured: "O2pIh73yd8SoL5TM2Ke5j+e2+t3u5GO+jXzK65L4T02719EjOYpQoEvtJuy4Q00mBv4UkeREh+KgNj9QDtvZBENpmAYpq8B3Qwte+wE9QKeaSmANgO1lN4CCyRGimvVTbPqDUPQo1DCqBXtgpE7WOipLooE3wPCTm5FTtNPpQTCIMjCHH2CILMEm4m3uU7F6jW1+KEOoMCJiRTYqway9VigHGuTE9fOvgm6qSR3MxUW6WnfH27u3vu/xKy7D7hTbrsst6B7+TBcMzd6N3AcKo7MuZ7q3GXuGyeo3dvL8hCMmLp/sSkObLL+QV2AKhABUZLMmXuSGGMyrEhMzcdzUziTOkGdzNkqs+2FxSAtNKbc9De30ujbYCG+NJb2FMkwTvg+iTeERvCE5XB9LWhLfbj6qllDfnlDQ02Awmllud3IYDLIFs11gm1UxvBNK7JNqCMwxITm+HepxxoBTU9RVERUJ27iRuDCJnZNhrmNwNYmH5F0JU+NaWpuvCeaaRfdSVqQooe3BqvMKGX9o3WmELw==;4tMzG8SHfgfC0968jEwjuQ=="
 ---
