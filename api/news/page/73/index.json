@@ -2,6 +2,142 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-11-07-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and-more.md",
+      "title": "Q3 2020: Tech Growth Earnings Review - Pinterest, Snap, Microsoft And More",
+      "excerpt": "Azure Machine Learning, Azure Space and Microsoft Cloud for Healthcare. Azure saw a slight acceleration of 1% this quarter. Gross margins on Commercial Cloud are an impressive 71% when including ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4386137-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and",
+      "originalUrl": "https://seekingalpha.com/article/4386137-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2020/11/4/45714056-16044931103416512_origin.jpg",
+          "width": 845,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-am-meets-ai-how-markforged-connects-industrial-3d-printers-for-smarter-manufacturing.md",
+      "title": "AM Meets AI: How Markforged Connects Industrial 3D Printers For Smarter Manufacturing",
+      "excerpt": "Markforged is introducing the Digital Forge, a cloud-based platform connecting 3D printers for industrial-scale smart production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa30f26440fa232906e564b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/amp/",
+      "publishedDateTime": "2020-11-06T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-toyota-backed-startup-ponyai-raises-267-million-in-latest-fundraising.md",
+      "title": "Toyota-backed startup Pony.ai raises $267 million in latest fundraising",
+      "excerpt": "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/",
+      "originalUrl": "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theguardian.pe.ca/media/photologue/photos/cache/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round_medium",
+          "width": 458,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.pe.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-meet-the-ai-generated-bipartisan-president-of-the-us.md",
       "title": "Meet the AI-generated bipartisan president of the US",
       "excerpt": "A Dutch artist known as Most used AI to create a range of unifying political slogans and then fused them with a morph of Trump's and Biden's faces.",
@@ -1024,125 +1160,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era.md",
-      "title": "7 Autonomous Vehicle Stocks to Buy As Transpiration Enters a New Era",
-      "excerpt": "Baidu is primarily known as the “Google of ... GM’s autonomous vehicle unit Cruise announced on Oct. 15 that it was granted self-driving permission in San Francisco. The permit allows Cruise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
-      "originalUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
-      "publishedDateTime": "2020-11-06T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round.md",
-      "title": "Toyota-backed startup Pony.ai raises $267 million in new funding round",
-      "excerpt": "Pony.ai, backed by Toyota Motor Corp, said on Friday it raised $267 million in the initial phase of its latest funding round at $5.3 billion valuation, as the self-driving startup seeks to boost its presence in the United States and China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11",
-      "originalUrl": "https://www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11?amp",
-      "publishedDateTime": "2020-11-06T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-aws-to-set-up-data-centre-region-in-hyderabad-invest-rs-20761-cr.md",
-      "title": "AWS to set up data centre region in Hyderabad, invest Rs 20,761 cr",
-      "excerpt": "Amazon Web Services (AWS) on Friday announced setting up of its second data centre region in India in Telangana that will be operational by mid-2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html",
-      "originalUrl": "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2020/11/AWS_IANS_ED.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp",
-      "publishedDateTime": "2020-11-06T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

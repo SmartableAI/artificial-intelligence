@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-startup-develops-ai-system-to-repair-electric-vehicle-battery.md",
+      "title": "Startup develops AI system to repair electric vehicle battery",
+      "excerpt": "The IIT Hyderabad-incubated startup PURE EV has developed an artificial intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/",
+      "publishedDateTime": "2021-01-04T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes.md",
+      "title": "Deep Science: Using machine learning to study anatomy, weather and earthquakes",
+      "excerpt": "Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discoveries and papers — particularly in but",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
+      "originalUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
+      "publishedDateTime": "2021-01-04T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket.md",
       "title": "Waymo CEO: Launching a self-driving car is harder than launching a rocket",
       "excerpt": "In an interview with the Financial Times, Waymo's CEO has opened up about the realities of self-driving vehicle development. It's the new rocket science.",
@@ -62,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -102,7 +197,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "IBM AI"
       ]
     },
     {
@@ -262,7 +358,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -521,7 +617,7 @@
       "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -553,49 +649,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles.md",
-      "title": "PURE EV develops system to repair Lithium-ion batteries of electric vehicles",
-      "excerpt": "IIT Hyderabad-incubated start-up, PURE EV, has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in Lithium-ion batteries of electric vehicles. This next-generation technology completely does away with the requirement for customers to visit service centres to address battery defects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/companies/hcuc4j/article33492378.ece/ALTERNATES/LANDSCAPE_615/Bl05epluto",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/",
-      "publishedDateTime": "2021-01-04T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -996,7 +1049,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1249,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-leading-computer-scientists-debate-the-next-steps-for-ai-in-2021.md",
-      "title": "Leading computer scientists debate the next steps for AI in 2021",
-      "excerpt": "What do we need to push AI to the next level? A panel of experts hosted by Montreal AI discussed possible answers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/franck-v-740555-unsplash-1-e1573833675406.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
-      "publishedDateTime": "2021-01-02T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

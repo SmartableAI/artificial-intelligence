@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-04T14:42:00Z
 originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
 type: article
-quality: 76
-heat: 106
+quality: 78
+heat: 108
 published: true
 
 provider:

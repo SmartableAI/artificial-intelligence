@@ -83,6 +83,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Watch Tesla's Full Self-Driving Navigate from SF to LA with (Almost) No Help"
+    excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."
+    publishedDateTime: 2021-01-04T15:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/362664"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 46
 
 secured: "/L8VucK1VvBXrwL1KkjWDtIhtpxbEGWfg6DvC8OCQo3yZbI33dpb+uCa8U5Uo5hI1jxaPF2+MZeov7yMiYcYpTSWrs3JKxmAxOn1R5m1pPxfd6QrA/Nghd/JigWk7Qk+O8ycnDAsaCsJIcbcBbYEQo+JFNTdpSPDbM52uwUVmDT74UCjsRfJvmYD2b5Sc5RDAC3iVjRW+K1Os4SU+xmrTgesA3wnKzY9YRhhSsfqK8um9OqcZhfN2kFO6ebu3nrgyOqbqvBiLra/Dlqt04kn5tX89JsqFd/l+btq/fPiGsp4VDJvnUsSy5o1Y39vSsSv5FmCsIDZ+1secpZ21J7OQez2l2JVOWa+UCpIRSlVaFUNST0dbuGo50lnj0FpX/NNcSZKGk/fUhJvunZGXFTMcJrAPAwuTZ7pkMf3iC0UgJ9BiPd3IfvqijQU48WrHMzcEDkh45gO3GH0dJnGdHBDarcBE6owgAlMzv73NYTz8w4j1yOpwEbLU6Yv35WeUz77FQ627+mSMck/9Ajm4hbKTg==;6+bb6BJvMrDbnMr7xKQovw=="
 ---

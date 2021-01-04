@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-11-tiny-four-bit-computers-are-now-all-you-need-to-train-ai.md",
+      "title": "Tiny four-bit computers are now all you need to train AI",
+      "excerpt": "Some researchers have rushed to find new directions, like algorithms that can train on less data, or hardware that can run those algorithms faster. Now IBM researchers are proposing a different one: to reduce the number of bits,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
+      "originalUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh5.googleusercontent.com/zQLYOIjEH08BXrs2j4Ii8uG8JzjDPjzeKSI7PAIWs553o4-qOXf2dWp9s2RRO4bAV0xu9qiJA_wMRBohAUYAC1VWtCmLVAZBYvrz7GMKmrp34ycLbND7_bHyKT-ru3ZG1UTjbAOx",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
+      "publishedDateTime": "2020-12-11T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-octoml-announces-faster-machine-learning-model-inferencing-on-apples-new-m1-than-apples-core-ml-4-provides.md",
+      "title": "OctoML Announces Faster Machine Learning Model Inferencing on Apple’s New M1 Than Apple’s Core ML 4 Provides",
+      "excerpt": "OctoML, the MLOps automation company for superior model performance, portability and productivity, today demonstrated better model performance on Apple’s M1 chip than Apple’s core inferencing engine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/category/news/octoml-announces-faster-machine-learning-model-inferencing-on-apples-new-m1-than-apples-core-ml-4-provides/",
+      "originalUrl": "https://www.globalbankingandfinance.com/category/news/octoml-announces-faster-machine-learning-model-inferencing-on-apples-new-m1-than-apples-core-ml-4-provides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning.md",
       "title": "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning",
       "excerpt": "\"We are deeply honored to receive the AIconics Award for Best AI Startup,\" said Mike West, Lirio's CEO, in accepting the award. \"We consider this a validation of our purpose to combine the power ...",
@@ -1318,103 +1405,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025.md",
-      "title": "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025",
-      "excerpt": "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
-      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
-      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "publishedDateTime": "2020-12-04T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Mining Review",
-        "domain": "globalminingreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

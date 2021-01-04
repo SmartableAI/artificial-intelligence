@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Closer Look at Facial Recognition Technology"
+    excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
+    publishedDateTime: 2021-01-04T18:40:00Z
+    webUrl: "https://thebossmagazine.com/facial-recognition/"
+    ampWebUrl: "https://thebossmagazine.com/facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/facial-recognition/amp/"
+    type: article
+    provider:
+      name: BOSS Magazine
+      domain: thebossmagazine.com
+    quality: 59
+    images:
+      - url: "https://thebossmagazine.com/wp-content/uploads/2020/12/iStock-1028139826.jpg"
+        width: 960
+        height: 506
+        isCached: true
   - title: "Another arrest, and jail time, because of a bad facial recognition match"
     excerpt: "A 33-year-old New Jersey man is the third person known to be falsely arrested based on a bad facial recognition match. In all three cases, the people mistakenly identified by the technology have been Black men."
     publishedDateTime: 2021-01-03T15:31:00Z

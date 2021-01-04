@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T16:33:00Z
 originalUrl: "https://qz.com/work/1949309/a-union-at-google-is-just-the-start-of-employee-activism-in-2021/"
 webUrl: "https://qz.com/work/1949309/a-union-at-google-is-just-the-start-of-employee-activism-in-2021/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Quartz

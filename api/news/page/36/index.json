@@ -2,6 +2,125 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-12-02-servicenows-ai-chief-on-solving-the-last-mile-problem-for-enterprise-ai.md",
+      "title": "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI",
+      "excerpt": "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
+      "originalUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology.md",
+      "title": "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology",
+      "excerpt": "About artificial intelligence at Bayer Pharmaceuticals Artificial intelligence provides significant opportunities for Bayer’s Pharmaceuticals business. Bayer is committed to realizing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201201005835/en/Bayer-and-Blackford-Analysis-Announce-AI-Platform-Agreement-in-Radiology",
+      "originalUrl": "https://www.businesswire.com/news/home/20201201005835/en/Bayer-and-Blackford-Analysis-Announce-AI-Platform-Agreement-in-Radiology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-artificial-intelligence-leaderships-friend-or-foe.md",
+      "title": "Artificial Intelligence: Leadership’s Friend Or Foe?",
+      "excerpt": "Leaders should not see artificial intelligence as a threat to organizational purpose, but rather a support for leaders to have the time and space to engage with aspects of their higher purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc514c1c71993c70975025b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
+      "publishedDateTime": "2020-12-02T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
       "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
       "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
@@ -1067,145 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-using-cameras-and-ai-to-build-an-automatic-litter-detection-system.md",
-      "title": "Using Cameras And AI To Build an Automatic Litter Detection System",
-      "excerpt": "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "originalUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "publishedDateTime": "2020-12-01T19:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools.md",
-      "title": "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools",
-      "excerpt": "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "originalUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png",
-          "width": 797,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "publishedDateTime": "2020-12-01T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-healthcare-process-automation-startup-olive-ai-lands-15b-valuation.md",
-      "title": "Healthcare process automation startup Olive AI lands $1.5B valuation",
-      "excerpt": "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
-      "originalUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg",
-          "width": 725,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T18:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

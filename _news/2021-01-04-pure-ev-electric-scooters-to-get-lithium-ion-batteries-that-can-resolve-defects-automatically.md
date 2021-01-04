@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Startup develops AI system to repair electric vehicle battery"
+    excerpt: "The IIT Hyderabad-incubated startup PURE EV has developed an artificial intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles."
+    publishedDateTime: 2021-01-04T17:54:00Z
+    webUrl: "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "PURE EV develops system to repair Lithium-ion batteries of electric vehicles"
     excerpt: "IIT Hyderabad-incubated start-up, PURE EV, has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in Lithium-ion batteries of electric vehicles. This next-generation technology completely does away with the requirement for customers to visit service centres to address battery defects."
     publishedDateTime: 2021-01-04T09:26:00Z
@@ -75,6 +91,15 @@ related:
         width: 412
         height: 255
         isCached: true
+  - title: "Hyderabad startup Pure EV's AI tech to auto repair Li-Ion batteries"
+    excerpt: "Pure EV, the electric vehicle vertical of Indian Institute of Technology - Hyderabad (IIT-H) incubated city startup Purenergy, has developed BaTrics Faraday, an artificial intelligence (AI)-based hardware which can automatically identify and repair defects in Lithium Ion (Li-Ion) batteries of electric vehicles."
+    publishedDateTime: 2021-01-04T16:03:00Z
+    webUrl: "https://www.ianslive.in/index.php?param=news/Hyderabad_startup_Pure_EVs_AI_tech_to_auto_repair_Li_Ion_batteries-750345/Latest News/31"
+    type: article
+    provider:
+      name: IANS live
+      domain: ianslive.in
+    quality: 17
 
 secured: "ar676oSoVG6lSLHqINWCOjelseqtEqHp3edMGh6108VjbwgnQQPjDe7y8mHLMRmeuMeC5Gs0JdFDh7der2W9YOzWrVR6eXr1ni8wFbdS4buvzFCx9gORqatH6IsrktqKVYUVH9vFl8XDGAEKkQ0HiqXQRaorMAtYUfnA+JWG7gMGz6iAzJfgtmS9II35DAAGp9uyJhV841/oYonamjiM317slocoArXyyAUjXo/utekjz2TjoThfXnQjelQDgvGcECbA2EyQ+BqCxjB0JUOzYmwrDCMWyV9SZqSgfxcD8Yr0NpKiTYgUT7qvuPhNsJtB/VSLjK+Z5tMLFUYp5xEGis9qI26qvpXxQo7IFgH01Y9AmBMtMnQoQyJsKNGXP6pPrm9bHRTzrMYGsBbM4rubqwmMA1QlQxDWKhHzpAaXt3rTnU8pDUSAn+Ay14luElNsVfOIctwedtIcOLHCJG52dHZwcfMgKQDliNgvXjN3LNkpO8PIbE1eS4FvUQNdNuExFBJOo/sJj+VxF73aawtXtw==;i9khKwg+29NQP5lJgHrJmA=="
 ---

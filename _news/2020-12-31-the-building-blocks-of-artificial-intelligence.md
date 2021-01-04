@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Using artificial intelligence to find new uses for existing medications"
+    excerpt: "Scientists have developed a machine-learning method that crunches massive amounts of data to help determine which existing medications could improve outcomes in diseases for which they are not prescribed."
+    publishedDateTime: 2021-01-04T16:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210104110422.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "USC's new script-reading AI tool can predict a film's rating in a flash USC's new script-reading AI tool can predict a film's rating in a flash"
     excerpt: "Since 1968, the Motion Picture Association of America (now the MPA) and its board of screeners has been stamping Hollywood films with official ratings that reflect the level of mature themes, sex and nudity,"
     publishedDateTime: 2021-01-03T23:24:00Z

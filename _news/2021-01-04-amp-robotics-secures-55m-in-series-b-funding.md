@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T14:04:00Z
 originalUrl: "https://www.finsmes.com/2021/01/amp-robotics-secures-55m-in-series-b-funding.html"
 webUrl: "https://www.finsmes.com/2021/01/amp-robotics-secures-55m-in-series-b-funding.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: finsmes.com

@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-31T06:17:00Z
 originalUrl: "https://www.nasdaq.com/articles/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market-2020-12-31"
 webUrl: "https://www.nasdaq.com/articles/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market-2020-12-31"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

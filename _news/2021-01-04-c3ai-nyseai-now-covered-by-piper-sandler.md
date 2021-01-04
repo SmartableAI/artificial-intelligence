@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T15:51:00Z
 originalUrl: "https://www.modernreaders.com/news/2021/01/04/c3-ai-nyseai-now-covered-by-piper-sandler.html"
 webUrl: "https://www.modernreaders.com/news/2021/01/04/c3-ai-nyseai-now-covered-by-piper-sandler.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: modernreaders.com

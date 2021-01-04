@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T13:29:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-student-publishes-the-best-online-artificial-intelligence-degrees-for-2021/article_e4fe782b-01f5-5ca1-9f6c-9d2934cca4c8.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-student-publishes-the-best-online-artificial-intelligence-degrees-for-2021/article_e4fe782b-01f5-5ca1-9f6c-9d2934cca4c8.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: WFMZ-TV

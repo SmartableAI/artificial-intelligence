@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T15:14:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/ws-hth010421.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-01/ws-hth010421.php"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: EurekAlert!

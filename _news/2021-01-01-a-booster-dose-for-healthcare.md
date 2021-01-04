@@ -89,6 +89,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Natural Language Processing (NLP) in healthcare can explore the trillions of gigabytes of health information and web content"
+    excerpt: "Healthcare companies have more access to data that can improve healthcare results. Natural Language Processing (NLP) in healthcare extracts critical strings of data and provides appropriate care management,"
+    publishedDateTime: 2021-01-04T17:45:00Z
+    webUrl: "https://www.analyticsinsight.net/nlp-in-healthcare-industry-a-myriad-of-opportunities/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 44
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/NLP-in-Healthcare.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "X+hlXV4PyOdeY0odqPElqglubWuzXEORK+dvPxZC0E0VdmGTo7AUJzOfEdNQDVODIs3/Gj6KpK7Y/Mmu6GOEequvIn0nNpCLzy08TXH2zoacIlBWLm9KcmdSuPTQct74OjSBZM1TbJcufkJSVukCDmpWucBCWkJpZubwNnQP6IM9oRNKGGwIJyUquCy1qZhDCkouICPiAdaug3wh42viqFSu5WGNliYxfkoL4YCd6QYhJSZgONbt8ZREXlMAQ0LxlMRdGGxK4Gr/T/dqivuHgwBz3f4z2faq3+rpXjrF4KYhLJaszK+rmO/XIEVYjWS6Q9NrGiuoIqX5lY7GRnyv5SqNXs3OFfhYKyDOcY01o5c=;YifZsKz83cjNx/CKmmVHWg=="
 ---

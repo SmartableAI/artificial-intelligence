@@ -73,6 +73,15 @@ related:
         width: 620
         height: 327
         isCached: true
+  - title: "Watch Tesla's Full Self-Driving Navigate from SF to LA with (Almost) No Help"
+    excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."
+    publishedDateTime: 2021-01-04T15:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/362664"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 46
   - title: "Tesla’s Full Self-Driving Beta Makes It From SF To LA With (Almost) No Help"
     excerpt: "While it might be a while before we see fully autonomous cars become mainstream, Tesla’s efforts are certainly evidence that we"
     publishedDateTime: 2021-01-04T09:04:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T13:39:00Z
 originalUrl: "https://www.baystreet.ca/articles/stockstowatch/63073/This-is-Why-2021-Could-be-Another-Big-Year-for-Psychedelics"
 webUrl: "https://www.baystreet.ca/articles/stockstowatch/63073/This-is-Why-2021-Could-be-Another-Big-Year-for-Psychedelics"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: BayStreet

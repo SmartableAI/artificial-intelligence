@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T16:05:00Z
 originalUrl: "https://www.livemint.com/auto-news/hyderabadbased-pure-ev-develops-ai-driven-hardware-for-battery-maintenance-11609772107242.html"
 webUrl: "https://www.livemint.com/auto-news/hyderabadbased-pure-ev-develops-ai-driven-hardware-for-battery-maintenance-11609772107242.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Mint

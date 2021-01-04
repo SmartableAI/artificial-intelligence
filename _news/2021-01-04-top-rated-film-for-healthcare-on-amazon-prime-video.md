@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T15:33:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/top-rated-film-for-healthcare-on-amazon-prime-video-301199849.html"
 webUrl: "https://www.prnewswire.com/news-releases/top-rated-film-for-healthcare-on-amazon-prime-video-301199849.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: PR Newswire

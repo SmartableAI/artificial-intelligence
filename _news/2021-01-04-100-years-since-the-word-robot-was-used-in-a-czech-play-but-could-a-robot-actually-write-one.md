@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-04T15:28:00Z
 originalUrl: "https://www.expats.cz/czech-news/article/100-years-since-the-word-robot-was-used-in-a-czech-play-could-a-robot-actually-write-one"
 webUrl: "https://www.expats.cz/czech-news/article/100-years-since-the-word-robot-was-used-in-a-czech-play-could-a-robot-actually-write-one"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Expats

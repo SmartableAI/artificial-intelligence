@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Closer Look at Facial Recognition Technology"
+    excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
+    publishedDateTime: 2021-01-04T18:40:00Z
+    webUrl: "https://thebossmagazine.com/facial-recognition/"
+    ampWebUrl: "https://thebossmagazine.com/facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/facial-recognition/amp/"
+    type: article
+    provider:
+      name: BOSS Magazine
+      domain: thebossmagazine.com
+    quality: 59
+    images:
+      - url: "https://thebossmagazine.com/wp-content/uploads/2020/12/iStock-1028139826.jpg"
+        width: 960
+        height: 506
+        isCached: true
   - title: "W-B General Hospital anesthetists request union recognition"
     excerpt: "Barre General Hospital requested union recognition on Wednesday from Capital Anesthesia Solutions. The anesthetists were laid off in August by their previous employer, North American Partners in Anesthesia,"
     publishedDateTime: 2020-12-31T20:08:00Z
