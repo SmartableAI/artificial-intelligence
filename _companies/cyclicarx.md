@@ -2,7 +2,7 @@
 name: "Cyclica"
 overview: "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://cyclicarx.com/
 
@@ -29,7 +29,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1281306650964635648/AzsgVygP_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1346162837165584385/QFGdDwR2_400x400.jpg"
     width: 400
     height: 400
     isCached: true
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=UHArUciCDH4"
 
-secured: "tCo8FRevIR+y5I3nPXICAS+jK87L+o1MYblf0rIZ8WqPGOWg/Jj0Jz+kCA+PSBBsLEkNwOuQjS27RuwieOkUlWPfrbUSbf7OV4rb5Cr6JyHWjNTkO8XzRdaVvrBQu3aalI61igbxHqYqyzF2leSnhd8Y93aJlQRaq2MhqAevns0dgrqXHmfkxRcyDZ3ZxbpTA9heOcpgMeXA+1ZhFg4QHHu0SgwiYBHmJlU5pPxBkJe3tXZSG6pXRCY68zqbGWKABL/QEBVaRYg1ZKIhlIgUVopozjTe+UAKP1mAD6jsB7PS+VGe4mNImVOHaLUIleYq06YVM2lrI1Oo8ydtAOcNg4dGlFMW4iKpHJMc6gmiM4ItjOuT3ZkpDbu1xMYvEh6A0vy+VKNzJC3OSXr3mCA4yrZ7zFr96uMYCqQCgumjjUg=;sFows23eI48ny7gt5/7hyg=="
+secured: "X5JNdSIDiscJU2/XSj1D/whPOBZp2fimuGVZKXJ7EHn2dgwDKzY+3UZshyhLcXSgfr5/3qcYJgdlR4DxU+ZzyV4VDQvBGyHXcUyYK8oxsjNk1g3sB7B6alqn4VHD7Wubes7ugSYE4XWSEE6Aq4tirFm5nE2RBW1VD9Mw4Z3ROpOmMkYOnCD/5PoRRD38OUt8A0HS7RQ4agB6n1U1MRJQvrFvjAA7s5agTtmu9+PZffa+hgHWnaGtEk8l1MlqMg4Xu9OU+Dktb6jXLXp/8T1e+39IR+PCR+GyGLpGm4CRSUORj5eDar0L64mEQLWrc8EYI8tRHbTo44w5e8MBl+PsILnAMllBiZIDwc/6TjF1DtinQNmzgoQRhZC+h6HB5r5TJUQRKRifxh4LqX8kaJsTHp48g14kWQRCrhI7h2hsaJQ=;/FJEjINE5c/DQFf++QF1xQ=="
 ---
 
