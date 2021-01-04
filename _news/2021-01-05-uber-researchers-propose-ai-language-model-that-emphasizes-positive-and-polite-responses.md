@@ -42,6 +42,6 @@ related:
       domain: hindustantimes.com
     quality: 31
 
-secured: "Bao1eXFaL8UnYBiX9ueXnG1mHKVG/5AtYxilNg2otiy6x3Nrnh7A9n5ohcB1YIailc11v/CHZaw5hwomNFo5c9LUd6uHWDRdLtn510aCqYFVBzU+nYp+U7qn74Lgdffmcw3+tzVolDLsqsZR8xX4bMKtA76l4gvESQyk7IRzG6Sv5M8+dWFbBK6E0/J9hddJxYNJD4zuR2/9atYtZ5ypEYVXhSeWXqlu2BTYlocGB8+70p7EHu1UmAWujzQOj2CRRyhFB5CnyvkqM7phVCpAzi8ZcPsdSH0oTPIxXgCwcsllgrcsSYVYBPziwKSEZ3/x7XKYLJcZdOXbjMTzQBVQhEdx134ascMuctF0qX6/po8=;cyTFs3ARC9Lp2n5xdwoamw=="
+secured: "wOsu/QjsQxaYpYqvqgIMsCvvG2gJjmJM1uRUZdMxadARNttFqjlYzX0Mn3F5kEZ4hcxhPNNCSj+/IPd3MIwfQ1Hjd1eDwhEe73sngRAeKvEeWHglANv2HR/m8Njp9BHJxMD9dK5I9vrlhAk6VHE+zEKp4qPeQhUwqQFC+LpP3W6i3D69FX4zZqGbojxZcpTdT+amahUkSKkEa40J+LIQ/UKsgJrjcqiItKab+KJxGJgWOsQkotxwfboEDElYt/DYF8UCDz/aqs9gD9Xo1EA5RD/+m3HjZOmjI8mZy8PnKxKcvzj4wER+dp79rfOzQGre627MmZIHhNqx90a0T5BADNKN/AVsUXwZ8P1U0t/9+hc=;IiSikLMfadreJK20c5nXUg=="
 ---
 
