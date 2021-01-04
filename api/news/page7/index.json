@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-24-nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit.md",
+      "title": "Nuro R2 self-driving delivery cars receive California deployment permit",
+      "excerpt": "The media frenzy around self-driving vehicles has mostly been drowned out by this year’s more pressing concerns. That said, the need for contactless ways to transport goods has actually become even more important exactly because of those concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/",
+      "originalUrl": "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/nuro-r2.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/amp/",
+      "publishedDateTime": "2020-12-23T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-reuters-reports.md",
+      "title": "Google told its scientists to 'strike a positive tone' in AI research, Reuters reports",
+      "excerpt": "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from company reviewers, a source said. The published version ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105384585-1533750651888rts1wjr5.jpg?v=1533750713",
+          "width": 3516,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "publishedDateTime": "2020-12-23T21:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya.md",
+      "title": "Malaysia approves first testing route for self-driving cars in Cyberjaya",
+      "excerpt": "Malaysia has greenlit its first testing route for self-driving cars in Cyberjaya, with eMooVit Technology Sdn Bhd to be the first to utilize it.",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya",
+      "originalUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/emoovit-cyberjaya-header_4uqp.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1",
+      "publishedDateTime": "2020-12-23T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-what-alphago-can-teach-us-about-how-people-learn.md",
       "title": "What AlphaGo Can Teach Us About How People Learn",
       "excerpt": "At DeepMind, a subsidiary of Alphabet, Silver has led the development of techniques that let computers learn for themselves how to solve problems that once seemed intractable. Most famously ...",
@@ -1064,152 +1211,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-using-ai-to-count-and-map-craters-on-the-moon.md",
-      "title": "Using AI to count and map craters on the moon",
-      "excerpt": "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-12-ai-craters-moon.html",
-      "originalUrl": "https://phys.org/news/2020-12-ai-craters-moon.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg",
-          "width": 2380,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-12-ai-craters-moon.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp",
-      "publishedDateTime": "2020-12-23T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
-      "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
-      "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "publishedDateTime": "2020-12-23T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-tiktok-parent-bytedance-hiring-for-ai-drug-discovery-team.md",
-      "title": "TikTok parent ByteDance hiring for AI drug discovery team",
-      "excerpt": "ByteDance, TikTok’s Chinese parent company, is entering the health industry as it seeks to diversify a business dependent on advertising and livestreaming sales. The company, which prides itself on content algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "originalUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/06/33602814_7750651a44_o-e1608724710523.jpg?w=800",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "publishedDateTime": "2020-12-23T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

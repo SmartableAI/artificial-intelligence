@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Tech in 2021: Debate on AI ethics to zero in on human oversight and accountability"
+    excerpt: "SINGAPORE - The deployment of artificial intelligence (AI) technologies will continue unabated. From automating driverless cars and factory operations to detecting cyber threats and fraud to predicting diseases and customer profitability,"
+    publishedDateTime: 2021-01-04T22:47:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/tech-in-2021-debate-on-ai-ethics-to-zero-in-on-human-oversight-and-accountability"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 48
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "NS1IfUxa1bvTFgetDaOSKZ/PasTUScEnQifJFtRWHy06lQ6lFvixcut7h1X6AnF1o1tdfGewvRLpYedVCGSNmin/4es4OaGGlKZ0o8ChRc6VSvfAlAQpG6MnuudfvRJVlR4Hn5uHTPKIpqMpaAK/0B3STFqmOqsNQju4csB/b3gOq9TcZCdUUCZXf/HzwFvWYX7QORu5No5nY87IsP/96z5fxIo3vCHl236WVEtGOUGnVLGFs3IOwui3IvOlmXBz/AjLIzDdXANPxLGoGDGPVUUP+Rqc/+o2ANs2ye8R0JOjNI2J0KGVqW0LqfLwGSChLWbxsbhCxHJq4X0ElQE6hn11MQHFMMpaaTZRQ5DhxIrWLna8Ml9DGusVkD/Gd77Ih4bPb1wS3/6Uz2B+wMgmC7HSb3B/UlXGwvkNaOdTvYhiuo7OL+VGpYCFdpvwh+AydLcjKsBUF8R9eqNgyn/hHLfG5Qz+9EL1wzHvXN2NcVADeUBUUzztp/K9fRDJgs7GMsHCmFHJir9tVzI7NvPmow==;wxEU2NyuUx9uC6HbDtxTSg=="
 ---

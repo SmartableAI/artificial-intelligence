@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "This Tiny AV Company That Could Be the Self-Driving Revolution’s Biggest Winner"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Back in 2014, Apple (NASDAQ:AAPL) boss Tim Cook approved an ambitious project"
+    publishedDateTime: 2021-01-04T22:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/this-tiny-av-company-that-could-be-the-self-driving-revolutions-biggest-winner-1029930762"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "What You Need to Know About Self-Driving Cars"
     excerpt: "The technological advancements of the 21st century would astound even the greatest thinkers just a century ago. Today, we’ll discuss what you need to know about, as our title suggests,"
     publishedDateTime: 2021-01-04T20:50:00Z

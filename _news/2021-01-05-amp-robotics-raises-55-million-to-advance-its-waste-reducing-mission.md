@@ -52,6 +52,22 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 99
+  - title: "Recycler AI maker AMP Robotics raises $55M in Series B"
+    excerpt: "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group."
+    publishedDateTime: 2021-01-04T22:43:00Z
+    webUrl: "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/"
+    ampWebUrl: "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/"
+    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/"
+    type: article
+    provider:
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 89
+    images:
+      - url: "https://www.dailycamera.com/wp-content/uploads/migration/2016/0429/20160429_02dcbpretw-1.jpg?w=1024&h=670"
+        width: 654
+        height: 436
+        isCached: true
   - title: "Amp Robotics raises $55M in financing"
     excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
     publishedDateTime: 2021-01-04T18:33:00Z
@@ -67,6 +83,6 @@ related:
         height: 414
         isCached: true
 
-secured: "n+FSMJKjTwQcWviGlUYqmWx6kA9fnTzkO3lcu2bNUYyuYyN7UiZF6DBmTqcbNXWNwWdUJiJ3ok6Wv5IomCSJBSM5UfrdMn3SEUvq0b9mKUoYA7mmWZlQbjvDIek0bUYb0Pjn+tfkxQX25jKYEUObyZO975IV+faR5DSp1f/Fu8tOTRTA8P+5CQE9Wbh7Y1BGe8pyZwKRWO7UtRY2yMuU8JtcgZmtgLWpOEtAZ+OHokmQFUrLpjlfamf/2GMX/LU9X+TehkzGhGSQ8xEZEEMb1Ud05NwO0uQ22NCFIbfXeqcYxqhglb9AI6aZw5EIMJybt9HS/438icUPd6uOyGkjMHr1JrermZgaa1wk8zY3mcs=;5vchZMRukf3G3IXnrnvg0g=="
+secured: "2OlSeXhmKxrCNMgV970JmC1GAU7vHnKNHFAIssIeBblFp8YAJNdvf1RjezFYwqMOh4bjWlgXpXVoOOMMgpiM/zeBaUd5kFmCycEINtLRzbVMd/yew1XCAG0o8Q8S6r6Y6mz/qaIXBlY/rMAIeY/YSNJSX1tOZLmEtcQqh9gnriSWhsZ0pS6QSaG9hIC9rk4Z6SiYMucuJAphHzVe5I9WcHxhiFp6/OdXlA27ciSqVq8RuGSXu/vgsh3c7m9cBoOj6r/4j4yPneCHF26M/q7U41x+7g6T3PbqXuvo3j+8BbidGmirmYWxUVkoLnKeXn/o5MEL+AXGjEHG3Im7vUGM2+1g+kNIYK85cq5oUVtxpSDguHeMcfE8zFqb/FZPb8ovE+E0BFKsRQDhjIdJN+nyRiCrLBy+KWalaR0xo6blZAUoHQBvRDzeIMLeX36JMAbIWoSHztNiMPlwuf5wXDntwN0JT3fTWRBbDy54bQiKvZ1Ji4p+PNcwaZgio6hRbd170s2tN0hko0b0O2WQF7KOiA==;2sUkWa68WzL+EFUV5ja7Gg=="
 ---
 

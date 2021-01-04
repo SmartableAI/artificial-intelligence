@@ -2,6 +2,151 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-23-digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers.md",
+      "title": "Digital Careers Ahead: AI Instructors, Remote Work Heads, Digital-Charged Marketers",
+      "excerpt": "The next generation of jobs will need to 'focus on taking subject matter experience and translating them into machine learnable labels and annotations'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe0e38e220093c48951892b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/amp/",
+      "publishedDateTime": "2020-12-22T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-dubber-acquires-speik-to-expand-its-ai-call-recording-service.md",
+      "title": "Dubber acquires Speik to expand its AI call-recording service",
+      "excerpt": "The acquisition enables Dubber to advance its ambitions for making call recording service infused with AI available around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/",
+      "originalUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/dubber-speik.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/amp/",
+      "publishedDateTime": "2020-12-22T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-cmswires-top-10-information-management-articles-of-2020.md",
+      "title": "CMSWire's Top 10 Information Management Articles of 2020",
+      "excerpt": "The virtual event saw important announcements in hybrid cloud, edge computing and artificial intelligence ... streamlined IBM line-up of offerings, following the sale of its Watson marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/cmswires-top-10-information-management-articles-of-2020/",
+      "originalUrl": "https://www.cmswire.com/information-management/cmswires-top-10-information-management-articles-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ad91d3512d41474cb467ab8adfcd5710.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/cmswires-top-10-information-management-articles-of-2020/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/cmswires-top-10-information-management-articles-of-2020/amp/",
+      "publishedDateTime": "2020-12-22T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-amazon-aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker.md",
       "title": "Amazon AWS says ‘Very, very sophisticated practitioners of machine learning’ are moving to SageMaker",
       "excerpt": "The infrastructure software is catching on with some of the most demanding machine learning scientists at big firms such as Lyft and Intuit, and also taking over Amazon dot com's internal ML development.",
@@ -732,8 +877,8 @@
       "title": "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector",
       "excerpt": "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ...",
       "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/tag/energy-discovery/",
-      "originalUrl": "https://insidehpc.com/tag/energy-discovery/",
+      "webUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
+      "originalUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -743,7 +888,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T13:00:00-08:00",
+      "publishedDateTime": "2020-12-21T12:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "insideHPC",
@@ -1051,128 +1196,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
-      "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "full-stack solutions leveraging proven consulting methodologies and an analytics and machine learning platform built using Amazon Web Services (AWS). Financial details were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-elon-musk-says-tesla-will-release-its-full-self-driving-feature-as-a-subscription-in-early-2021.md",
-      "title": "Elon Musk says Tesla will release its 'full self-driving' feature as a subscription in early 2021",
-      "excerpt": "The company's \"full self-driving\" package will be available as a subscription starting in early 2021, Tesla CEO Elon Musk in a Sunday tweet. Tesla cars come standard with Autopilot, a driver-assistance feature that can brake, accelerate, and steer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12",
-      "originalUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe0c832d366e600180994ff?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp",
-      "publishedDateTime": "2020-12-21T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-microsoft-msft-reportedly-mulling-on-designing-chips-in-house.md",
-      "title": "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House",
-      "excerpt": "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

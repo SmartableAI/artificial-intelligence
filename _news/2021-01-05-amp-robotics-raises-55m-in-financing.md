@@ -52,6 +52,22 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 99
+  - title: "Recycler AI maker AMP Robotics raises $55M in Series B"
+    excerpt: "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group."
+    publishedDateTime: 2021-01-04T22:43:00Z
+    webUrl: "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/"
+    ampWebUrl: "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/"
+    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/"
+    type: article
+    provider:
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 89
+    images:
+      - url: "https://www.dailycamera.com/wp-content/uploads/migration/2016/0429/20160429_02dcbpretw-1.jpg?w=1024&h=670"
+        width: 654
+        height: 436
+        isCached: true
   - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
     excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
     publishedDateTime: 2021-01-04T19:54:00Z

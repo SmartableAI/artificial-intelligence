@@ -9,7 +9,7 @@ ampWebUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-
 cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 627
     isCached: true
+
+related:
+  - title: "Government Users of Facial Recognition Software Sued by Plaintiff Alleging Wrongful Imprisonment Over Case of Mistaken Identity"
+    excerpt: "It has become commonplace for government agencies and law enforcement, particularly in large metropolitan areas, to use facial recognition software.  These entities are a major client base o"
+    publishedDateTime: 2021-01-04T21:11:00Z
+    webUrl: "https://www.natlawreview.com/article/government-users-facial-recognition-software-sued-plaintiff-alleging-wrongful"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 26
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/biometrics%20facial%20face%20recognition%20cybersecurity_2_0.jpg?itok=1gtosM8X"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "H5KH26S73CCgJnB5u4Mr0vWwHCVymzUTYJz7WZ/td5j8HyubWqOUfLC88ueTfAbKUS3/77HAjPQjCsVc1ZWn42yTqcD4sRwHfEwMelCbfT+xrnTl3aX4WDvrD/gWVjP3rbAS20kvIIlBd4+M1Juf7oqLJmXB0f97/xkgDrpHeKdZxfVrZP52FoxvWxOJs4AfTEbA8FnEgOuwFwq/q4644EkG8eaiUzUQHw2AeLi+nr/u1jkBtoZIvFMN+mNfHtmCYMV7FwaUbWIE9JrBPYkv3Hmw6FyPs715ufX3dnUGuZplXNNdwMiUn/eTxkMPBIgB7XUyY8G1KwVERyc7d0d7LYmbuMmVRUyVuiBxJ/CudIMlsfjavQ27YoU3Mt//r8+r/knBu7XKKSXsD9RXFxPjEegaBZM9Fn4FDH5k/Xi/rYcjGRXozUI7+xA78stL9E8B34P31rS3gCl5fbv71Q0ODz6bkjON+mUtZ/asLDoR9TXbudTqRUZU7EMu+o5VAafnlO97EFuFbI11SjZ8revXAA==;aQ1U3qPSa1wjOUNzSp2Ipg=="
 ---

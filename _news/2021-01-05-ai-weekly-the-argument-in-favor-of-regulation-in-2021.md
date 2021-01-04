@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-r
 ampWebUrl: "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "D7okLbOTDE4bEnLDi+DHuxjKwr/sYG34aj+fGk1Mun0ZzacyaUXQ93deDIYDeRQNLXcjIKLjE9vNMoVZDt+LgBId4Ktmu0mqi1ZdOjceAZDSzhZ9qEUrvwnNso/gkY9dJXs9bd/Wjz9IPERbZiSkSBPLvBtMFdh54H5tNC396q6O2+YwRV33HCUQky3RtzGqH6U741OVrXitk9VneYe5j8YIJIme4F/uNXyEvrZauuLzj+IyvM3ns1+jYdKXbdo8kFf6xZwp77z6YaGt+FDR1xWU6hbg5z+yfQeRruC0HJoEWJ035VXvaUBrfdritTpKCPQ+aVgjRIn5itLKViz7kxtYU1setxCbqd4bzxFiPx0=;ViijGt/7e9Bnp/dxjseyJA=="
+secured: "2jZQLFv39UMJCMygTJfkwwCUHQbEX6SeW2OnMf2VNIx5eJPvt6mnbKYb/DjoHMWr2JOoPGdAn0wUbofcduCoDPnfLUT3rQAHYN+3nwyS2eA3TLm6vgt/jHdHIZz9Ph3ydWXN+EnyIcxlth0brtZNlHb1AGvs8j+XTiDCOVJbhI0Sck1VfsVhCtiVK/A40hP3AhPjBGN07czt0mRaQ9JWzYTIcXHJlN+jpa1SK7J1eYLZIKbI4WU7d2AN1g+Dzhs3c+39cCPqHuvS812DA6HNr8REWtr6fp29wOmAedDkyBFq0BofmMmwIL49mmlSJQ2QDORxy86djxtY0Gpo095YQo5y0o/FQgKfqzEUa0X7MQfgyDhbjEsXs6gAyibwN8+2Y3RbLuRBWvvnWWqG3MBTb3q60uK1Pl6NofbWgzCtL0sI0+M04BsFLtPlbXOHIS/cfjzh+BdCNwcYnF2Zoc+EvhlAaDAj6rzIxY2F2M9WjEhrUeJ2Z0ObhfIaCMrVrJxn8yVV85/eERcbDecmCZyf9Q==;KVMumTwaleOYJefE8S26XQ=="
 ---
 

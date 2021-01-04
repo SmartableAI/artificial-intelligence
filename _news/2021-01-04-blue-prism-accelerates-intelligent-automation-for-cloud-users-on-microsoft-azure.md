@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
-publishedDateTime: 2021-01-04T14:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
-webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
+excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
+publishedDateTime: 2021-01-04T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "BUQ6bEo6qrcOUui1+pKGPA7z1uieBvi+24uJUu5QhT33AmJ9BNq2q7vooHXOyM0mNHbaWQKhYxaZlIzOwK/zugb7dKAd0BQ8jBXS/4dXrf38hulUc8FaO1sdpnL31VrBdQWZ4cAR9RZiL0JK1htFfSNyltFpgvFzXsSWs1FWrnGhok3dvGHfgWvxZp+z9vMsmpIFKmCYR7IamII/oCMvqy+mhptKgZzni0XLPvM2deaUAsfzuIMsuhOiXtYocAyRBqHKWXvp5sJWXoByUPnJmvc4mBhbnEnvCx/2K596yAzJlGn+mmtGPld8jYeGGlhDUDZX9/x3RZQDoYI/v9uk5gC3ESj5/QPvfdaYquJrq8w=;eYZrf9KtuNgBpylOF40wSQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+    width: 1198
+    height: 628
+    isCached: true
+
+secured: "GALmcEbb8eR0gzVC4D5GR8UbUei3aUeqxYrLyokvhW3pV3H0fn9q6Jjo68OHoeLUEBQhKc2mgZNEDkgr/DhbWECuDCi3gUA5AXBXhV5NJ3WBg4SC2Lih6Pt7wZ+U6g83cgj4E6ADc5vV/SMsDPK9ncaZcTnS4jgb645Qy7ArAjO6kyjII0gogRmNMqPk0tW20mNL0bnKX4Kd5xg0NwE3bRA0CDaf3RByL7PMB1UZr4q0UrNkgIPruzTrYqVm3aNU4wvNuYYvrG2eyI6gdpZ1+M7Nih7CJqpaSuIOypuaXZqti3b1Fp5ug+mBzh72wum1S8hKMZtrcDO3zG1ePZtITPg0syfpIPGg/JAorTw6LF4=;aiQDs4C8Adtt3M+LEbGZig=="
 ---
 

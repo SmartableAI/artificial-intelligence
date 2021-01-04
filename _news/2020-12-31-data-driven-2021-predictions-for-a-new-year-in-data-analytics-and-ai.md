@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-prediction
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-ai-robot-1.jpg"
         width: 620
         height: 360
+        isCached: true
+  - title: "Tech in 2021: Debate on AI ethics to zero in on human oversight and accountability"
+    excerpt: "SINGAPORE - The deployment of artificial intelligence (AI) technologies will continue unabated. From automating driverless cars and factory operations to detecting cyber threats and fraud to predicting diseases and customer profitability,"
+    publishedDateTime: 2021-01-04T22:47:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/tech-in-2021-debate-on-ai-ethics-to-zero-in-on-human-oversight-and-accountability"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 48
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "+j4veFmf+qdDJHs3Fem+PAOdetssuq0fDp9YCkBGy9t0268sKcahrJjmNGjj03hT+1cSkJ7zz0ATISsTjkCHe55aHFybUUQ5V/NgupKRcmIzFpiydPADDu5myXet5rjw+U2/7Xf3OP/cHQSL2b2f6plE/yb8dm0rHRodaR7wJNTO7O36vXPryq6xoNQrVd2xFPa76VWnVyErM+3nAQ7G57QgRYBVX6PAsmkL0iNiZoDZds1EhgIVY/eHRKiCT0UzwWfH+X8gkIJs9ScZ7WLSK2xs0f5ufz+5P6uFbFbtfBXAbUPhFVvC9bBOEyodMF0+dFkVRc05nwdE7rTEYrgG3yF7S8wTkM0nADIzx3bjIKVtpKXoEYCdp93hLGGovnKCYetp+E8zT3CuHgteksMMv8GtuFTXNJlBao6SI77xBuHwsVcJCGVw+8SNCIfo7i+O5FneqqRtrR+Iq1A0SV5viMTqg2naTtCb25QV0a61YRKP7GExzABMdCHUJqDKbZ0MFPCsbIDOilGCfADqsaxh6g==;rSvgVa0ZGOgY/Cb+Iw21IQ=="

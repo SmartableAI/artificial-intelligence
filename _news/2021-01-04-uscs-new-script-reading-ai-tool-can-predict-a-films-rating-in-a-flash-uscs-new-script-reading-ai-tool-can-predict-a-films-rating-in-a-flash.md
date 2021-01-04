@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Using artificial intelligence to find new uses for existing medications"
-    excerpt: "Scientists have developed a machine-learning method that crunches massive amounts of data to help determine which existing medications could improve outcomes in diseases for which they are not prescribed."
-    publishedDateTime: 2021-01-04T16:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210104110422.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "The Building Blocks of Artificial Intelligence"
     excerpt: "In popular culture, movies and the media often portray AI in a dark and dangerous light. However, experts believe that AI will actually positively augment the human race, though how exactly is still unknown."
     publishedDateTime: 2020-12-31T14:12:00Z

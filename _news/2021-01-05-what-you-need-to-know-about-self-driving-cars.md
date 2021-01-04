@@ -73,7 +73,16 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "This Tiny AV Company That Could Be the Self-Driving Revolution’s Biggest Winner"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Back in 2014, Apple (NASDAQ:AAPL) boss Tim Cook approved an ambitious project"
+    publishedDateTime: 2021-01-04T22:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/this-tiny-av-company-that-could-be-the-self-driving-revolutions-biggest-winner-1029930762"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
-secured: "PVvGRbNYEgPMyhsJmBQRHK1HLTI3TOMx3zbSvp3DPlkRKI6BwHiNa6q9oRLMnbg9f7zino5Bdi7CJrScCpKcrgcvf9KuSqk0XOnfxdekQPi9Zl+jvxULjHRcNm1CMJxl5r9rXSqu/2fCJ1+SN+g7Dj272Qtj2GRtTKpdP0C0xljjQ7Aoa2rD8oxmRSuZ8JLv/ce3GNAu0mw09RJHR0Fm1lPE7gSDvsNEIj8tAB09QcOWsk6MmX3FRXDAR6KTl7W6ywCGr75Nbryvq2zS++iuqfLK62SHfNBDMrHNMNXSicBuu/tyFT1TF6d/n1jTRjlHtp6BqGsuplZJaten11cssMareOa9T+JCy/zD+epe4ng=;ftN8EhOpehEKvotEVok7XQ=="
+secured: "4OZ6ahZxBmjrYnCUaCY1saEHA+O5a8OUYIHS0mSjpDkf7Cw/cbayQ2bgJeK6PPbrSoCUYY2ZvKygS45RMDpZfm/Dkq+98Y5JoVm22m2oc2dMMzhR0OjnpY7cFWN+crfo6jJBysHlv3xMzstvn6p1ys6VJXGQPUV+TcFLjGxFVPedI4GrLUnysqAno41+uzTNwOn7OjHGthCy8TaQR3j+xOLBPUTVCcZQYed6oAwCssBp3MTsxTCQN1xS6eZEZhmKWAg6l+tjVL/l3OnPYiCPF5duUsNRooMtMnVYHMRs+JWMM9SgfuIhfkIr4jA7sX1RmzuzgO6RgLNyM6yNEgrZCkaaqMvMjENU+NDwy3Z4IyPuZgWuiJNLId26DozBriFa1FyoDhPaUkulBmy5K/nLwysubBH/T9bRqhRjpO7SyP6je7PW9iI2VQ8Phk0bEKNbxA2QdoY6Wwi8YGXEqUaZp11NWPi+i19ZsQuQEEQrbnoJdpIE4SuFSge/Y3ob1GKK5G/2mHc71YnNVNJrkna1MQ==;S00eHdrS9tHD6iPqeceRtA=="
 ---
 

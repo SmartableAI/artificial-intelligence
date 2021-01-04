@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
