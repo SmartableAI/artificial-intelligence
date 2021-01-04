@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
+    excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
+    publishedDateTime: 2021-01-03T19:19:00Z
+    webUrl: "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744"
+        width: 945
+        height: 630
+        isCached: true
   - title: "All Teslas Delivered In Last 3 Days Of 2020 Get Free Full Self-Driving"
     excerpt: "Tesla has always pushed hard and offered incentives at the end of the quarter and the end of the year, but free FSD is next level."
     publishedDateTime: 2020-12-30T14:53:00Z

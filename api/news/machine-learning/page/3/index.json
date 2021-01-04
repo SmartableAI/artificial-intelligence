@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-10-ironclad-assembles-ai-and-legal-experts-to-discuss-inflection-point-for-ai-and-contracting-announces-partnership-with-google-cloud-ai.md",
+      "title": "Ironclad Assembles AI and Legal Experts to Discuss Inflection Point for AI and Contracting, Announces Partnership with Google Cloud AI",
+      "excerpt": "Ironclad, the leading digital contracting platform, today assembled pioneering experts in AI and law at its Winter 2020 State of Digital Contracting summit. Vinod Valloppillil, Head of Product at Google Cloud Language & Vision AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmarketscom.md",
       "title": "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com",
       "excerpt": "The \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing ...",
@@ -1380,42 +1423,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-amazons-amzn-latest-ml-services-boost-its-aws-portfolio.md",
-      "title": "Amazon's (AMZN) Latest ML Services Boost Its AWS Portfolio",
-      "excerpt": "This is evident from its latest move, wherein its cloud computing arm Amazon Web Services (“AWS”) introduced five machine-learning services namely Amazon Monitron, Amazon Lookout for Equipment, AWS Panorama Appliance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
-      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
-      "publishedDateTime": "2020-12-03T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

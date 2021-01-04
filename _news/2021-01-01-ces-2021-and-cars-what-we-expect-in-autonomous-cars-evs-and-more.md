@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

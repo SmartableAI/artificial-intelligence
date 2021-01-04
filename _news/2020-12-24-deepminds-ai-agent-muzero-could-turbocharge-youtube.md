@@ -2,20 +2,16 @@
 category: news
 title: "DeepMind's AI agent MuZero could turbocharge YouTube"
 excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved ..."
-publishedDateTime: 2020-12-24T01:35:00Z
-originalUrl: "https://www.bbc.com/news/technology-55403473"
-webUrl: "https://www.bbc.com/news/technology-55403473"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-55403473"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55403473"
+publishedDateTime: 2020-12-24T12:23:00Z
+originalUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+webUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55403473"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Google AI
@@ -27,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "6Maoiiueu2Lgw7W8k54XdyQEA8rYt4zOxchvLaU2ZbFBBhXx/TqXpCkcCLVaNpVZCOFsZTrMxxSs05HzbZyEdle3zEMICEttObVzWx3evpuZ8P/J5rzKb/GB9b90Z3UANK+NuXN6oOX4kFSEBFECgZ/cV22B3IgMQEuE0qw4ZpnrhFebhg+jX9dnvHiuwfBUQ7gT/0oE52uqwax5jEAo0E2MdVxumHYcz3AFUmzdFrYoBTp6UtXFLsZaja3kAz1RxhtWABw3rSUD69zxWxmnvKh8UWwVp1972270iXcCKvItzH9YiDtg2TjTuV9OaXEJXF5QsfRiIo4f16cH6+pK1K/wfpLeQOKhZd2HDSIEQ20=;PECEkgJx4QFhiK+NMv1i5w=="
+secured: "qjwCEKwXJ/lKD6Y90jbDJZWmLFg+ahSi8jTAaVWGTZHXqownP6cbcU3Sy9zBB+Yu2NBMbNWPZi/GKxxbb2W6jnn87PWkA18A2GGCsN+pBLNWcNmuPGTKiMPsGxV8yWNp34uNqE4+ehdW3+Zsgu+MitgRcOu4Gl6Pu5Dd023D/gDz1yV3A7cWgAWLsaDwQU2PpMLBXVuVz94m0Qu2pY+MBGpvh2S7Fh3cK5uXj4PKc1wv3L5ogrtEswA0nzqesd7EGqSMxz017pmz/63ZCwe/Lt9RdtrO3WW+rW8YVhk4Hgpg0GJtN46Ioi9w7PCnsGwm4jBLG13VOee4ZZuww7F18+D/w1+z1gX4wggjODDB3JM=;Pc67meeR3jAs7bJdQ8HLGg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 type: article
 quality: 93
-heat: 124
+heat: 123
 published: true
 
 provider:
