@@ -8,7 +8,7 @@ webUrl: "https://beincrypto.com/startup-secret-santa-helps-blockchain-and-fintec
 ampWebUrl: "https://beincrypto.com/startup-secret-santa-helps-blockchain-and-fintech-projects-to-win-over-covid-crisis/"
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/startup-secret-santa-helps-blockchain-and-fintech-projects-to-win-over-covid-crisis/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://s32659.pcdn.co/wp-content/uploads/2021/01/Startup-Secret-Santa_2.png"
@@ -42,7 +43,23 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "What COVID Means for Biotech Compute Investments in 2021"
+    excerpt: "Don’t expect big on-prem HPC hardware investments from biotech companies given COVID drivers. While storage and more nuanced GPU deployments will push"
+    publishedDateTime: 2021-01-04T14:19:00Z
+    webUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/"
+    ampWebUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_333911597.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
-secured: "BZWcOtWH1uaza/ZGR3oxZy5GgVG36itvZzsG7ylee2nhagYCcB/jQRARTLe+dRBS8r1wHEn0tLPID3ptr0WPqxZd1S/zQAIEvhdd0xJTAY0FIs3guzrGxozYRRBMZNCevABt/T4w9EdauD/VVh8VgFe6C9U71dDT4Wo/HT9zh8W0BDCBKQg6B+V4nTUfXlmCefDmQha9GDQv5RrdZsTLsqcU2haegGZBAV5xZ7MpK424lnPBToRhq593P17HTvc0OvXmYyWr024MT8/C6Ki9d7uEPGLh4i+QxThlEUSpDb3c/L2d5sgFTDqpfUK0hKyhWd84/sfL1IfBPnKVOOPoILQjXKouOfbE1GWP5X8grGg=;uLyjSTlUkInVzcIktNnKuw=="
+secured: "1GAe8GlLB5mZCkI14xvHtCx3/5RlEHiIMVYNn9B9LVNCtY7kZEPKWNOlERNqoITt9iVrRrwr3Ur7Hfyznx1m9e+kk3OMDvoFZ9I0W0A/p58u1bRSMegeI1QI+nrJ/4l4py3G4P+o796ft3BMgdfqs1wk/0rsMggEyzDe82j8tuAH+CCM4hYfmYybpH7v0r4qAhxAzH3iK0SRTdKh7UX+nTqFeMLQiY2BDnQxePGpguLxmSoQRd2mibftCpoYLcQzcJLLkDZHK7NbK2iLvSzRbV6PCuVQZzwetbBqSlDcaTyTEn9wm4pYwnX1uuWSFanerrJxz6WBPXwK46yyoZqJj/ydGapV1HkqWiIQ/HppJRR0o7HZHx0qHbPFbxyf53q9sXJnyE1EUvac83DKI1WeQdVwnuYsO1E8ZK7I+va9H9Z78kBigdEQBLdAHyDQ0tbsKPYr7RvVC0L4soXc44moHntt9q4J5NWJkKnFr7w3T8y1Id4hsOx6YmA+lPulEvmff8lRBvUXHp/ylxVnCCSplQ==;MQMPq6OlGBXWThwfnmbo+A=="
 ---
 

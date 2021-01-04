@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "4 basic steps in implementing predictive maintenance without AI, machine learning skills"
+    excerpt: "Engineers can access the raw data, identify condition indicators, and build a predictive model based on what condition indicator values will look like in the future."
+    publishedDateTime: 2021-01-04T14:17:00Z
+    webUrl: "https://www.edn.com/3-basic-steps-in-implementing-predictive-maintenance-without-ai-machine-learning-skills/"
+    type: article
+    provider:
+      name: EDN
+      domain: edn.com
+    quality: 25
+
 secured: "qIh/ysz6cDL1s5Luwnfhr/aBo7Hf/g9jTHzglNqaEnEF0c11/wdGoICbZuDcfvcrLLqBtzFJKS26wBlISJr5yT4Uxq3Bf77Lft+iItlBGvyCpKp/TV80ztDI5J4x8qVHi2HFyS8IliiNRQSdtYQGzuvIMqJUiuM/5w/WbuydhDE1UH2gSauOCI97plUxq6HLJC7mog79we/CbvsxYF6MPbzwMc5Af4X8hpAlW8IPKq8qtiwCBhR9sMQLAeDdmjAwp1qFuKohIKl7ZAbutyGKwJ6JZ1fcRtuZzkfI8m6subC8QJEGqqs4EZGrRFEDSQUxNNiu7CSZPGym/r0Dut3IwhfcYkOYwYbQanzZG6F8WJ1C3YH0RMei+azRSZidI5l6P6+2DNTblevg5JxOvbj7gf38helKeo9umu4F9woKV/Zb7w3NMclLz/H1U5s6gifIeNP226ajDbTUQK4uFUxfBPh52p7TOws1klyJiGnjzjUpXdXZ78i9OsfNOEs6Do1ivch9KsdZACSxCyWGapKdbA==;528Slqmc5d6m4OjyahG4Tg=="
 ---
 

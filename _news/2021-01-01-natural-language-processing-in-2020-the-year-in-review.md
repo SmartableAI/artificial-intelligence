@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/natural-language-processing-2020-ye
 webUrl: "https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -30,42 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Top 7 NLP Trends To Look Forward To In 2021"
-    excerpt: "NLP has continued to show some very encouraging developments. We attempt to predict what NLP trends will look like in 2021."
-    publishedDateTime: 2021-01-01T07:32:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/"
+  - title: "Forbes Favorites 2020: The Year’s Best A.I. Stories"
+    excerpt: "From deep-fakes to fake A.I., 2020 was a groundbreaking, turbulent year for artificial intelligence, a field at the cutting edge of technology. Here are five of the year’s best A.I. reads."
+    publishedDateTime: 2021-01-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorites-2020-the-years-best-ai-stories/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 54
     images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NLP_AIM.jpg"
-        width: 1600
-        height: 900
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe23a821d0026e4a4fa7d6f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "3 NLP Trends Prime for Improvement in the New Year"
-    excerpt: "In this special guest feature, David Talby, CTO, John Snow Labs, discusses how the new year is expected to be another pivotal one for NLP growth, and there are several trends driving this. Significant improvements made in three specific areas will affect NLP adoption over the next year - read on to learn about the ones to watch out for."
-    publishedDateTime: 2021-01-03T14:24:00Z
-    webUrl: "https://insidebigdata.com/2021/01/03/3-nlp-trends-prime-for-improvement-in-the-new-year/"
+  - title: "Forbes A.I. Awards 2020: Meet GPT-3, The Computer Program That Can Write An Op-Ed"
+    excerpt: "Self-driving vehicles are now creeping into the mainstream while advances in machine learning are changing the way we write code and discover drugs. Here are the best products, the most intriguing people and the most exciting trends of a year in which A."
+    publishedDateTime: 2021-01-04T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
-  - title: "Farewell 2020, hello 2021: The year in cloud reviewed – and what will come next?"
-    excerpt: "Amid the pandemic, 2020 was certainly an interesting year for cloud news - with Covid by no means the only game in town. But what will 2021 bring?"
-    publishedDateTime: 2021-01-04T12:45:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/jan/04/farewell-2020-hello-2021-the-year-in-cloud-reviewed-and-what-will-come-next/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 49
     images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/moritz-knoringer-Vn1m4tSCUt0-unsplash.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdff97b0c3566fa06d16d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1880%26cropY1%3D0%26cropY2%3D1058"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Victor Ai awarded Forbes 2020 Top 100 Venture Capitalist in China"
+    excerpt: "Recently, Forbes released the 2020 Top 100 Venture Capitalist list in China, the definitive ranking of the top investors of this year. Victor Ai is awarded one of the top 100 venture capitalists of this year in China."
+    publishedDateTime: 2020-12-31T08:12:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-greater-china-investment-management-stock-listings-077db88dd775ff9cc2907a73dc89a295"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "QSqtXVHoMjOLsUDhZ9hG8SzgZM6MrLuEO2sTJSskWWBKs2pC+jGKG8pFlYR/88VwyFcuQrlZXmC9GwISG4Yxid82DX/UaQckaP4h33Dt1SEBioyR3dn0nJ5dqc2UBeOCR5U0hmQz0j8zCrjsPAczWGpsYkJp38ZkWgWwV5sNsbh7bYNBDJbmynLuc+0tvOIrndp6O8iHXUXKjb1vwEV8l6b8mutXIT7M9AeK/chrTK+H/3oWvSz9J8bipaR/vWCT8RXAPogAESwiD+fvy7/4SYdK3CQdzJiQg4vKmqlfmdoPWH6CgfsrodlsOKnuLllBQD5gdbbb2YytJFDmjYWIK9gzuvnQ/4Lf24s7ir8msqQ=;tL5iWKDyOzVEhvsOVVYGEg=="

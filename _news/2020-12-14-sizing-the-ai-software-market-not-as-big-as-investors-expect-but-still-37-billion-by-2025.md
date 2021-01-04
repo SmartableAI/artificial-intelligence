@@ -11,7 +11,7 @@ provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 

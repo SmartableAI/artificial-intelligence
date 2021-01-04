@@ -27,22 +27,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "The Future of Contact Center AI Software Market: In-Depth Analysis & Global Outlook by 2021-2030"
-    excerpt: "Market.Biz :Impact of Covid-19 on the Contact Center AI Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"
-    publishedDateTime: 2020-12-31T11:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-software-industry-278686cbdd07bad1741eeffd1d69bd71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "4ukhkNYNQBU4dbL0IokFbh+iAza6yxWLiZBJmpArk90xTofl2E9cq11I1mZ5TesT8C2BO+gI+8SAxKgZtxSs1zLoJZFg7Ulf0C3KxMlf2YtWy5RfJ06nWRpvgH5K31ASlQYjbYygOPagBMG3nyv/h8GXRwHaiwsHoFpSadTlBMFlzmuUMbigog7j9Lglq5nK6MXZ4AJoXbtDNcTBHAJX7yCYQ1/jxgCQ0AJeYNH1bCdmoHoEJ1k4+uK9Z8y7StUiA70LDhR45k+XpXJUomA/LKUyug8ep90j62tUcK0XroooKpkRCUIup6nd2/wiCMMpRmKi8A6du9iCeEtWK+svjwDtsIwU0qYWENaAAyfUZfLS9Y2aOs8BCw8ysxVdRg1YpEQgukhOGrHMzqATEMxelsSMbV6nwjrMFx6FGisCqFUlaRGURvYb10eAYZQbZZ9ZnL/QjAsfRcIDbNH+EoOO4TOqIhBEFz8b+nY0QMoWErg247lCIHfTQIQIWLM+veloMWqYbj9tO6+WjmOQtg9jbQ==;2OlkNWLlzg36fNLjipSjBA=="
 ---
 

@@ -28,20 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market Share | Global Industry Analysis, Technology, Top Key Players, Drivers and Trends to 2026"
-    excerpt: "Artificial Intelligence (AI) in Automotive market is projected to surpass USD 12 billion by 2026. The market growth is attributed to the steadily growing uptake of driver assistance technologies for increasing driving comfort and ensuring safe driving experience."
-    publishedDateTime: 2021-01-04T10:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-global-industry-analysis-technology-top-key-players-drivers-and-trends-to-2026-2021-01-04"
+  - title: "Healthcare Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,"
+    publishedDateTime: 2021-01-04T14:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 76
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "The Future of Contact Center AI Software Market: In-Depth Analysis & Global Outlook by 2021-2030"
+    excerpt: "Market.Biz :Impact of Covid-19 on the Contact Center AI Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"
+    publishedDateTime: 2020-12-31T11:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-software-industry-278686cbdd07bad1741eeffd1d69bd71"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
+    publishedDateTime: 2021-01-01T08:36:00Z
+    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "T1H80ChvQvpX8Tv+diJDJLxOmPtM4NuFXOmyCTApPAu56YNK5VbpbI5eXfoKLZKosiHrZpkYp2v3xlWBT8jWdbxAZl0HIhfuaaI0BGXMssFAXtIe509cGRzc1no5NLuoXAJD8wBnFukTbYPXIJyf3fkAmXNkyHtB4QGBn4lsZzZ2HAt0YwdDBgIoYfjeYndDoje6DkPEUg9TrzW9+JxnuBjvkIsLZkFRzCjFVdVwgbUnNmg/LRUkN3Okx5UL8LjXvg9/jcvnAVeUN1FiuJgzquD5nEpec3uPRrXek+W33Wzt991YIKR8SdX8Pz00DR9eKR/O68b6mDN+o3U78HfrPv8cI7RlHo5QMpL2IN/AS4U=;9jU/sHPknAG/waSD+NkRjA=="
 ---

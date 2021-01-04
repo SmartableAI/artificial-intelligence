@@ -2,21 +2,19 @@
 category: news
 title: "Lantern Pharma Announces Launch of Antibody Drug Conjugate (ADC) Program to Target Solid Tumors & Blood Cancers through Agreement with Califia Pharma"
 excerpt: "PRNewswire/ -- Lantern Pharma (Nasdaq: LTRN), a clinical-stage biopharma company using its proprietary RADR ® artificial intelligence (\"A.I.\") platform to transform cancer drug development and identify patients who will benefit from its targeted oncology therapeutics,"
-publishedDateTime: 2021-01-04T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022"
-webUrl: "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022"
+publishedDateTime: 2021-01-04T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n18996374/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-bloo"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n18996374/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-bloo"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18996374"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18996374"
 type: article
-quality: 15
-heat: 15
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
@@ -28,6 +26,6 @@ images:
     height: 296
     isCached: true
 
-secured: "dw3vY3Xi+5FSlqUK29Y1tnfpRHCU1dAcJ4S1g5wdNtdQeZCh2/rEctP7gJ0J8S32Ricf5PpjX17aoFWwqI+PeWG/GEzKSrFHPERgDChlCdavdrGgJGZ2v8CrNzZzLuYqDVZjLu1cyPWQ98qktBLEscsMTuCwLEMVGQGHL0gHFSzEhN5eZqg5BbkETCWc5noUg+nfWKcqPoUi47/WLnLKLNOE7nI/54VztF90IaFK08+qXsd6qvpzL4rUzn1aaAhoqMvQiUa91mUWfLBRDRoD6YV6Td1DouyyO3mWEuP/Yi14DWqc2kxB8Lj4jrZ2deFRWFI999epiNq8pzlwF77sqYTwA3sTbMPdbOiv5s7jE2w=;b/W2qb6XgJSPowkbfuLB8g=="
+secured: "Ro6YgG3KZ0wp/FkUXbIQR8IMqwkh5VEV1O3Zw3fsoc4EpIWWZ25wEIneg4OPNlgDFtHj0o3wlDjkE/CrXW5sOsagM2M5v1xFyDjaHXmLZETZMf/S5mqW1dftZtWn4Ig6tsvyxV8ydMnXY3p+2kJwSuXjOHtNKbAMu8yZNkQ52ifxEYZkQYX9bBt7wqZeh+kTYVdNdcSI7V8qOslH22vI/W6z6SyFuUnr9CYxUWekT9zFmHbgm3jRFzdQrXSRTpIM4odjAm2NkL4J/kL9syF1iOCRrFC/wrGBn4gTDU2F0DneYPdhl4JIm7yWPAlGRzJS4xr9N7bv0tuXGSO3cOEioRpEZpKCnTaf6u62Xq2+x3A=;kdADynZGySxyowI+OS8CxQ=="
 ---
 

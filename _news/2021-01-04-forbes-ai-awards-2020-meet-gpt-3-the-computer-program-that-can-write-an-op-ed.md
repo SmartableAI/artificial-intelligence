@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-award
 webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Forbes Favorites 2020: The Year’s Best A.I. Stories"
+    excerpt: "From deep-fakes to fake A.I., 2020 was a groundbreaking, turbulent year for artificial intelligence, a field at the cutting edge of technology. Here are five of the year’s best A.I. reads."
+    publishedDateTime: 2021-01-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorites-2020-the-years-best-ai-stories/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe23a821d0026e4a4fa7d6f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Natural Language Processing in 2020: The Year In Review"
+    excerpt: "Preface 2020 was a pretty terrible year for humanity, and I hope you as a reader of this piece, have not been scarred too much by it. In the NLP realm, however, the year has given us quite a few significant advancements."
+    publishedDateTime: 2020-12-31T21:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGUKuRzdJoxtQ/article-cover_image-shrink_720_1280/0/1609367755529?e=1614816000&v=beta&t=qxy5DiX7G4vV2YugikrMPl0Y7mP3hTgbIKtNeK2WLtw"
+        width: 1280
+        height: 671
+        isCached: true
   - title: "Victor Ai awarded Forbes 2020 Top 100 Venture Capitalist in China"
     excerpt: "Recently, Forbes released the 2020 Top 100 Venture Capitalist list in China, the definitive ranking of the top investors of this year. Victor Ai is awarded one of the top 100 venture capitalists of this year in China."
     publishedDateTime: 2020-12-31T08:12:00Z
@@ -44,6 +72,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RUfexOKuVHfoB77wkRI9AzXJU1PMTTzgEAB5FdIxCO9P61BmI9MAZVk/SGy9wxiOTxnA6rNyofaDJTdbWKfZm1lDVYa4Ik0vrP+e3mHDvFmWNYOr+/njAEx/hbbIMKDw+zWB81d3ig5NZCBgYSEqmiYR6jBgOFjEQFAl0jRDOZT28xaQl310lL5q+NPaxlXvrLSBc+mHTSs/s5przdCxd2/E4AqwZUl3XC87XwWboBzC8JMA5I1nJ2FnCmOsU1abycnDcyao9n8DcuMrfBiG95SJ9W35RLcHYnI/U9iuPaIWTu9QvaMvplzUCvIuoxXBIzbRyyhW/7zUynu2S3H8pDB0CHWTRUscHueUj4nmSmo=;kCaI6OEbw3tDwuXyFXneWA=="
+secured: "/DbUjZThaMCjYCAEc2cXcg4qXoXJHlAceS0ZFq/msg8bsmDyrqvfV8KkHgyH9ZPR9YqRJAuufqmavauRsGgjChuhaEkGbmLWv816Iil5InSTUYGQC/VjjXRnI1rwrtNVMh1QVGo+IeHYYZH1Ikd52SXAKaYPOAJsDPwmUQuUBD6GeCuR1zbZRwOtwJ5sHV7fUhVFHNOqUhlNgoJSVRxfIuXbdPq7ySCYSvXAqBa/7nirBwztHMonDTuDWgU0uBB0cvYO4r6KVjHcVH0m/nj9jjZQSzkwTBfAf8td3UFZmKcRoifkYl8jcvZ79r887fkl7fsNbjcWbUOFn5Ts9kWg0VR4ri/ls1kLKUvNVa+84WbuD2kvm0OQN5TqMUNT8fhOZbSRQO1kR7n5OVR9MKn6u33b5LwUF8KZF16Xv5/zoealh8QBFoXji5Q3XG0khpHy+pogY6gjbsiRX6SiDe7L0+m/IdGzsIwj8muN4v11SwPblBXF9ccEv5UyFDSmMihw/enWQP4s7r8+vZ8sn42vwA==;wC44C1wEANapXKbS/u8nxA=="
 ---
 

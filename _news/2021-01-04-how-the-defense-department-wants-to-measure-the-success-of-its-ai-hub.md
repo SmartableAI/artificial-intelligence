@@ -2,17 +2,17 @@
 category: news
 title: "How the Defense Department wants to measure the success of its AI hub"
 excerpt: "How will we know when JAIC is successful? It’s when the term JAIC is used in conversations at all levels,” DoD CIO Dana Deasy said in late November on a FedScoop webinar. “ [It’s] when people will say,"
-publishedDateTime: 2021-01-03T23:07:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
+publishedDateTime: 2021-01-03T20:15:00Z
+originalUrl: "https://www.armytimes.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
+webUrl: "https://www.armytimes.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 389
         isCached: true
 
-secured: "NxBgYbJVfBblmGLD0Hskw2ezZ3QnYRw4SeR7UJTEslDL1nJpNDyZH8Aju6m29ZDSNsjfiq5x9P0blSAFA9G2S8pOg/rRJkJsu7NaxBR+5xSeA0oe+HpisRgamy81x4UlFPPWMDpv83bLkozmr/ChfhhtYSFP93y5WvyRznfA1j2XuDwRummxAJToYAp9PSZhqn+Yu9JAnGNVBDyFThHm0KpJvoOsruh0iX4IhYVJRe/ZdjeJAdANtiA+9gm3iU4oUpFIa9JPXI9dHVS67GxzzXvEO33REUfVP3F5PhV9hwyDT3+gu05xB77660XO8Mt0qZNe9yr8aw2ude9OBWD7O54Y6iHcH/vyIQQ9LdIfP4ygvoohx2r71RmNc8ugGYvL6PgKxgM2udcHU3QlQe0Ye2lc3fyEeykWFfJQneZL+y7/7qFjB3tvQZCS2W2FYbHq1btTEQBWFcDlpnVo0MBSMDJOUHAfITNF8wGwFL+WENf9MQvdfRZskw5UEHPToOgFqcuIsG5pnI6JWc43HHAJSQ==;LXHJOOj3KZDcOIf5XbHE4Q=="
+secured: "iJGaImjZybhXjlDkdriGZs/rrv6RaCBf3wqZkGTd5iHoaV+2IktZnOsf4n5acgzULK3gfz2ZhuNTOFaCZPwk2wSDjrqDKXgun8tCzh+jE6qaF/8g7t9Okyn74BZCV/rEMmCzAhzgKoskVcAixtw8jnYIfgwAp6pvyDhJ7OM6rY1TsAWtNSjcyc69r1FJXwGQ9zYODsg5+3hhsWdOe+Pt8Y+T5k/wUQV9BXWLNe10dJ1UaP2wXRFeubIkeSKGdYNEximBQOYxnQzZAF8ajblmn/w3TPttSfa9CzI7Hggt8chZ+XrMfRprRXNuj9WuvO4MSbZP3XoyfiHqhGaztpDaCUgTE+nolo5boPy2W6DTpLQ=;lldcn8M6i/h3ZGPfvQ11LA=="
 ---
 

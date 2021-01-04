@@ -9,8 +9,8 @@ ampWebUrl: "https://www.coindesk.com/lessons-in-failing-to-apply-blockchain-and-
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/lessons-in-failing-to-apply-blockchain-and-ai-to-combat-covid?amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CoinDesk
@@ -36,11 +36,27 @@ related:
     provider:
       name: https//beincrypto.com
       domain: beincrypto.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://s32659.pcdn.co/wp-content/uploads/2021/01/Startup-Secret-Santa_2.png"
         width: 1350
         height: 650
+        isCached: true
+  - title: "What COVID Means for Biotech Compute Investments in 2021"
+    excerpt: "Don’t expect big on-prem HPC hardware investments from biotech companies given COVID drivers. While storage and more nuanced GPU deployments will push"
+    publishedDateTime: 2021-01-04T14:19:00Z
+    webUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/"
+    ampWebUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_333911597.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "Tzt+UzZYLq9xdnOXbV90CE6+gb0k1DPYmZU8i8U+LBcdPQPAzv0Ok2dU8B6hdEcErdkWSseaaYIvXayGBpVPH36sIirTF9ceXhZasJTCGUj/uyV3qUsHhyZCSAGKC7iyqJdfRIORfyI2MBZ8zSJo6yC2PUMJf26eN6X8bvoHwmPygtg72/ibFo3uVFWvy9yjKDuWdB7B82d428dWvkm7aNSss3JhHSlWNPUiApCbuBnS/QL6axm+VqTuMH9BCiiovN/m2OYgUfCF7pD/CEHnXpgmr/9MhFXKvD3i/HhNPBVEaZjr1SWWdSp4GuwOU2/oyDjrtop8cyJDvQr6Ybe05J4ZT41SGsOs3CnDApoICn4kyWzEDPmb+aki4LmfSyWOvuUmwH7POAppLIUPsUYVDP+q0M3RzoSqD4MN3ND9WKyM9JUNg/s34PnVeprYr3m+q63HOIP56xeZXdZo06AR7uMtq45vbpQM/LUOcs8pNp2k5wLt/mwzPEmjRqiGzX2TNinu70E4ZOEPDDyucFKwrQ==;cSE6zrQvCVYYRDLUqegjZg=="

@@ -1,0 +1,90 @@
+---
+category: news
+title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
+excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."
+publishedDateTime: 2021-01-04T13:55:00Z
+originalUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/"
+webUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/"
+ampWebUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
+cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: galusaustralis.com
+  domain: galusaustralis.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://galusaustralis.com/wp-content/uploads/2021/01/tesla-model-3-1024x538.jpg"
+    width: 1024
+    height: 538
+    isCached: true
+
+related:
+  - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
+    excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
+    publishedDateTime: 2020-12-31T19:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
+    excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
+    publishedDateTime: 2021-01-03T19:19:00Z
+    webUrl: "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
+    excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
+    publishedDateTime: 2021-01-04T03:54:00Z
+    webUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
+        width: 620
+        height: 327
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Beta Makes It From SF To LA With (Almost) No Help"
+    excerpt: "While it might be a while before we see fully autonomous cars become mainstream, Tesla’s efforts are certainly evidence that we"
+    publishedDateTime: 2021-01-04T09:04:00Z
+    webUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 37
+
+secured: "xMo9UXXaEiSA+8mT+fyA8GlKIYwUs8f6d3F94ZD/lFOT9MG8fngT9j8oUImiE9+2MA8/77iRpaYnQSqCtbEL0tOG3zsuFCAmrfr9PBKwH+GaPNSLltyrTwlXFVZH8Yoau6rBWhaJG6eGD0YNyi63azX74yI9x8GzA+EN0hqpHwlABvYafmLlAR/hudJFhUilGBjU5fyRmUycrf/VQzbXr17czYiFDREl537sL4tW9I4OakBjAK/fPc//Yp/seR6CjnpB9zrHEo4+RN6GncXr1boXmpy6IkvEMy6Vg2RUdR57dVC7bP+XUzd7+aajhmEqmCw2XyvLi+FFFCowGgg46buMhD215fq42kaq8S62RNg=;+fgRc02znpXhquwSkqpVNQ=="
+---
+

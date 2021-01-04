@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
         width: 620
         height: 327
+        isCached: true
+  - title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
+    excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."
+    publishedDateTime: 2021-01-04T13:55:00Z
+    webUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/"
+    ampWebUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 49
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/tesla-model-3-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "Tesla’s Full Self-Driving Beta Makes It From SF To LA With (Almost) No Help"
     excerpt: "While it might be a while before we see fully autonomous cars become mainstream, Tesla’s efforts are certainly evidence that we"

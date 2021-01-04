@@ -2,21 +2,27 @@
 category: news
 title: "NewVantage Partners Releases 2021 Big Data and AI Executive Survey"
 excerpt: "NewVantage Partners, strategic advisors in data-driven business transformation to Fortune 1000 companies and industry leaders, has released the results of its 9 th annual survey of senior corporate c-executives on the topics of Big Data and Artificial Intelligence (AI) business adoption."
-publishedDateTime: 2021-01-04T06:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210104005022/newvantage-partners-releases-2021-big-data-and-ai-executive-survey"
-webUrl: "https://www.morningstar.com/news/business-wire/20210104005022/newvantage-partners-releases-2021-big-data-and-ai-executive-survey"
+publishedDateTime: 2021-01-04T13:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-stock-markets-north-america-lung-disease-6c256b3af23f4f04978befb6e671e56d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-stock-markets-north-america-lung-disease-6c256b3af23f4f04978befb6e671e56d"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Decade Of Investment In Big Data And AI Yield Mixed Results"
@@ -36,6 +42,6 @@ related:
         height: 462
         isCached: true
 
-secured: "0ru+M2QakniHeJvcAonU7WKDRmQDpGwX8Dk/7ZSJlqpahE1n5Qms+OVver9YYRvnR9/VQDl7ZlzrLpeMCShYQWguZ1/NRrYeLag21bDux1T4urxPFuumaxNsKhxzklkyZMDZ8bpm3fKJDnJFj8hZKRhUnrj8RotR2tvpyaURRIihCQxfyy208IbRGYkK0aGx/VVNYYV/iuBgOcLgADlVYOxMr3t6Y3zWOu84awfcYDRCN85mzJ0vEuy0Tcte6GdzzcMsrniUWj4ebGU70J2Edv6DvZSAErK2zoU6WrFG4Rp7s1nBjWTlqO3MS5sbdFDihW1tRJslYhOzUf4Rcnc7x1CEKtWZq9ofWSnLISiJoPo=;+f5vY69ddVpczSUbTtBwLA=="
+secured: "4t2sZNKCcA/dhwQqciqU0frEtjVAIRQzuituUkPanGt0HjFC/9PcNQCEwaYZlHikRGvS0iGO/2bYm0clyos86OFfL8QBZrH0uPqJ5agg7t6r0MlaziV1xGcDrtSCe8PG+TapCnCjhB6HKP03SAdb6ocidPQ5x8pQCqXsW/dm89fkq2u9jiMnZxCQnII9YxCKvlw228ViB6Lz4j3xOmPRiHGmc00MF/KhIW4CGB7CUCS1lH6f+HywUnQb5VCi5lbG3fpGODNwAQ0C3KJOmJ7zwAt4kg6+z/uqUjdrAYbuXJ8/XdhKRaGDh4J0LEQT6a8pwx3R9nG/RM5ZneryWxcf8+o+OMf9JpGU2a4Ej16WTM0=;mPCn40J0TAYzqSnbm9wPxw=="
 ---
 
