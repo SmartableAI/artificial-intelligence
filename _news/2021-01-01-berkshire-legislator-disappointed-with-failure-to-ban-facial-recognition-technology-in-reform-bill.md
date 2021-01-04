@@ -7,7 +7,7 @@ originalUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failur
 webUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failure-ban-facial-recognition-technology-reform-bill"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -23,51 +23,6 @@ images:
     width: 800
     height: 1067
     isCached: true
-
-related:
-  - title: "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology"
-    excerpt: "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days."
-    publishedDateTime: 2020-12-30T18:39:00Z
-    webUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661"
-    ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg"
-        width: 800
-        height: 484
-        isCached: true
-  - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
-    excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
-    publishedDateTime: 2020-12-30T20:45:00Z
-    webUrl: "https://abc7chicago.com/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215/"
-    ampWebUrl: "https://abc7chicago.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 51
-  - title: "Third Innocent Black Man to Be Misidentified by Facial Recognition Software Sues Police Department and Prosecutor for False Arrest and Imprisonment"
-    excerpt: "Nijeer Parks, a 33 year old Black man is suing a New Jersey city, police department, and prosecutor, for false arrest, false imprisonment and violation of his civil rights for misidentifying him using facial recognition software."
-    publishedDateTime: 2020-12-31T17:38:00Z
-    webUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/"
-    ampWebUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
-    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
-    type: article
-    provider:
-      name: lawandcrime
-      domain: lawandcrime.com
-    quality: 21
-    images:
-      - url: "https://lawandcrime.com/wp-content/uploads/2020/12/face-software.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "sxuTjjXADVIJxqGPVY8BPh+wIni3bRl2uTEpbd0ASHM7CQcb64dJv+RlzBDwWMtfIPt2mXIndaqLyjPSbBuqWRdJ19csTXuWzxjAa5VwczeySa3gDSIE4NAD/3yL4SD8g7g02x6GXLfI0gCoo3kjDjWEHKy6T+IdF/WOZ7vnu/Ic+F/aTjs2CRY92npwFv+X9sRT8aU5RGSU2/2pXq5cAfQLn77rAnmxEtOWPjaeUCW2lH4AzzWMtljW4mik1twO4Yq/MKQOAd6dVmSNbB59dykSPX1tM51rm5WUz3z3aQO8daOlIDGQ0bHQ04pSMoER83ImO/3lZPPuGPFRGex+gOMl5B9x61PkXhEhrHWzaF8J8DY/lt6+Mwp4WWrioi3owfcu2TQMYXzwQlZ7x8nJos/oF5epvDC334VyJoXPQru5+uXiB1hdW17I/XCPYbhGpmfXfR96r4Dgz9gVjget1imv9sPvF8CwnDcxE19iobx5hf+21fGpygn3bFbTbLyB0jGOZD/Y3+HFkzheS0FoMQ==;Z929A0xl+wm5wjzknPq9yw=="
 ---

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "You don’t code? Do machine learning straight from Microsoft Excel"
-    excerpt: "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes."
-    publishedDateTime: 2020-12-30T18:01:00Z
-    webUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/"
-    ampWebUrl: "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/"
+  - title: "If Microsoft Can Be Hacked, What About Your Company? How AI Is Transforming Cybersecurity"
+    excerpt: "The hackers are starting to use AI, and the only way to successfully defend against future threats is for your company to use AI as well."
+    publishedDateTime: 2021-01-03T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 125
+      name: Forbes
+      domain: forbes.com
+    quality: 95
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0c3155de38b9230f6c8d2%2F0x0.jpg"
         width: 1200
-        height: 598
+        height: 801
         isCached: true
 
 secured: "wm1/rWjqO4MJAJ+09iUqD7imlIv2MXemVTwEtrf0j4RCQZUW0pf2COYMpmSqtVpTWFivRLyxRm1XPEyzm1C29cNuKYPzPuGwGu5mmlCiuNfxdKvzok0qvtX8KU3V7yltbQHAV5C+Zxq9TKLlsy3UEUewEM0A2cUuG1luPXKQhfDuHdORFTffHeVCTjX2qo/vBXa1jRyy3056SR4ETcTU2e8+STj9UC24Ohu8CZXI1A/MNMW1tY4RP8iA8mwqamWiGcIDYpqaMS2sAy/HfhT5DDEMoOo6PbwFmUNdCDVtrannaBviVgT8WbAARXNBy2dqY1Ud6cPbltgk0BpE3ecMiLCKMYpIi9P2tI+YGqCvaf5ENQPMKJKT0A7PKNxhqr67MeAX4qp4+ENGvZv6mncudoqYk+Tw3ddgZdUnFU4IjqzFF5m7nIN1hOe+2+JmrBYYExqntbVcuTfBuB9xbLi/gk/QiaEf75wrQqTSxDP56wT+RynmFd+iUmA3mR9Bco+CGV3jkPOnSk7HwGOvLb60Dw==;82ktAfMAT3RypjqQqaGlIQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "Microsoft AI Skills podcast"
+    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
+    publishedDateTime: 2021-01-03T22:10:00Z
+    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
+        width: 1600
+        height: 600
+        isCached: true
 
 secured: "cZrG95L1CpbAir4uPmwehAlz1aKzqxfHukMqL4dWSedM4kYz1fgFW0moDnybOP7rgFeKjQJkU0lcPRhIgAw6FfZheWtOkl6BHpxydw7dBRRD5LNa5GghR4P4aLQZSjK+N6Wp6vSUkuSj2wmuiJBQy3KUAO7x9sBfyWZ+eJ9crcQjZsVmzAxsrv6ScaLPg6I/pLE7H1Au4/Tau7TMDtbk6M8oKTDY910HL7x57mN/bHJkiOCH2es9NQwdsKR3Y3drVl2FC/Rv4sC6DLD4U8KX9TEkcJoKW2PTVHyZb3SOeuMVUGcyosc5e2v+hUlGlAj+j4YsHwLbD7x1Waqb9fGMwegwgm984JezFkJK7uZPTfJv+uxP8DuOUWznAeAjZNPBVRkV6Nubot6gPhIpO4EMSUs/oR+CgqpyTrVJRDS900+fJJqWHw8VnmRnwRlULzPP6lPbH0i/qjidoyAEXTM9dlQeRpEqw4G0X6rgBt9oPNx/vWHRqTrE/BbgzXtd2MvllWeHI583QIm+fo09JuRDNA==;ft8Ey3/rHn9VXTW1Rtqvvw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/12/ai-powered-healthtech-startup-cognitiv
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks/amp"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,70 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "The reality of AI in healthcare: promises, roles, evolution, and more"
+    excerpt: "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?"
+    publishedDateTime: 2021-01-04T10:20:00Z
+    webUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution"
+    ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "How ARC innovation is revolutionizing healthcare on a global scale"
+    excerpt: "ARC continues to deploy lifesaving technologies and strategies in response to COVID for Sheba, Israel and internationally."
+    publishedDateTime: 2020-12-31T14:16:00Z
+    webUrl: "https://www.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846"
+    ampWebUrl: "https://m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/468819"
+        width: 640
+        height: 428
+        isCached: true
+  - title: "Fiction vs. reality: The true potential of AI"
+    excerpt: "The roots of artificial intelligence (AI) in popular culture and science fiction run deep. The concept has been used in films, television and books to cause panic and laughter or to highlight how the world might one day be overrun by technology."
+    publishedDateTime: 2021-01-01T09:30:00Z
+    webUrl: "https://www.itproportal.com/features/fiction-vs-reality-the-true-potential-of-ai/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/fiction-vs-reality-the-true-potential-of-ai/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fiction-vs-reality-the-true-potential-of-ai/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GxyRD2WMK3MoqYfpkfR6H4-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
+  - title: "A booster dose for healthcare"
+    excerpt: "The new decade may witness a more advanced stage of digitisation of health sector infrastructure and services The year 2020 was an extremely eventful one for the healthcare and pharma industry, and for humanity as well."
+    publishedDateTime: 2020-12-31T18:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/a-booster-dose-for-healthcare.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
+        isCached: true
 
 secured: "eQg0Uemh5qZCknQ/l5A4xuzNVAB+QZbMkOVpmdlhXnEfrtp8D1LI+Fr8Wom6McCKTQB6kLdSLD63ZbwnhDh9iXZu2Y9e2VtLtiK/Q1KsGJnSyMD0fIsdwSb1sTYKoJwLbzteok+rcEwF6zTN3np2jWjDgbuEjzVy30TrbTF8SDaluoYFT3rq/jscE3V8gDjxTB2AH+PXpg6HaKGYBCaGMEHDJ79DnyyXQ3C3zS9q7Wah4kCjAIGEKqiJr/WlyJh0XB6sPLP7UFynEL8QEY8g5D/49iMoyrnxdetFAy9VqMJ78iJaMYCiDf134RytscPVpJlZECiCdYpL40DXojxm2VgzNPzr3owBLduCHFgcolq9jGYlVFJk4EiQHTacoEUZCTKygAfMvU+jWpUUvfNbQPXT1mDNknelRhXTZFLcJPUvoPeCRL6n+pEd+Hv1v++S2Yk/QXvwjgOHGY1XpN06mIPUJaGroZcJGZqmxQYsylULlfauOYq883boXUYml9qKxYrvUAoozkmxBM6eo68nAg==;bVfLocMKQ6J13csK5ePwvA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -29,30 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipset Market 2020 Growth, COVID Impact, Trends Analysis Report 2026"
-    excerpt: "AI chipsets market size is expected to be valued at USD 7 6 billion in 2020 and likely to reach USD 57 8 billion by 2025 at a CAGR of 40 during the forecast period Artificial intelligence AI chipsets are"
-    publishedDateTime: 2020-12-31T11:48:00Z
-    webUrl: "https://www.openpr.com/news/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
-    ampWebUrl: "https://www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
+  - title: "Artificial Intelligence (AI) in Automotive Market Share | Global Industry Analysis, Technology, Top Key Players, Drivers and Trends to 2026"
+    excerpt: "Artificial Intelligence (AI) in Automotive market is projected to surpass USD 12 billion by 2026. The market growth is attributed to the steadily growing uptake of driver assistance technologies for increasing driving comfort and ensuring safe driving experience."
+    publishedDateTime: 2021-01-04T10:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-global-industry-analysis-technology-top-key-players-drivers-and-trends-to-2026-2021-01-04"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-  - title: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report"
-    excerpt: "Autonomous Bus Door System Market Global Industry Size, Growth, Segments, Revenue, Manufacturers and 2027 Forecast Research Report . Posted on Dec 30 2"
-    publishedDateTime: 2020-12-31T04:56:00Z
-    webUrl: "https://menafn.com/1101363423/Autonomous-Bus-Door-System-Market-Global-Industry-Size-Growth-Segments-Revenue-Manufacturers-and-2027-Forecast-Research-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Construction Market 2021 Business Trends, COVID - 19 Outbreak, Regional Analysis, Share, Size, Global Segments and Industry Profit Growth"
+    excerpt: "Ai In Construction Market Overview: In Its Research Report, Market Research Future (Mrfr), Asserts That The Global Ai"
+    publishedDateTime: 2021-01-04T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-construction-market-2021-business-trends-covid---19-outbreak-regional-analysis-share-size-global-segments-and-industry-profit-growth-2021-01-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "y5U+1CAV23WSdKucl4FH5Qbxl32zdFPk4lIb3MfTh0RWtaExw27DPifaVB4yzdZnyGi7m9fuJbmPVAMsg6MCczh9C41EPDH/Gr1hqQU9PFXmnKWBlFns5OgYGzc5NpAEr6U+WrHRujT4MT+jIjGM6mI05H7ERP7UG4PtaGT2tTB5HPGSWrqRoPS0tMQNaScAA9SzatQvskaHtaBqI/lMYi/yrbUJfJdO51/PfVVGDifl6y45XcjmUOaNHDYHKvamh73zsuAKJuFicOUkbzwvouuJyK0M3cMpq081RSa1r361CZ7mmVmWiGWPzZQmt6q2148rMMPY4Pqjk9dT6xd7hloGhU9GdkY1oOLVkzB0r+I=;aIyY4ELAP5NwmK+egotVpw=="

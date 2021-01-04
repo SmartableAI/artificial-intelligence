@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - AI in Robotics
 
 images:
   - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/chess-433071_1280.jpg"

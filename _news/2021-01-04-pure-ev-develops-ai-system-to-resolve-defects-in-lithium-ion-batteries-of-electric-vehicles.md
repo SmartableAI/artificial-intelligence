@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "PURE EV develops system to repair Lithium-ion batteries of electric vehicles"
+    excerpt: "IIT Hyderabad-incubated start-up, PURE EV, has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in Lithium-ion batteries of electric vehicles. This next-generation technology completely does away with the requirement for customers to visit service centres to address battery defects."
+    publishedDateTime: 2021-01-04T09:26:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 56
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/hcuc4j/article33492378.ece/ALTERNATES/LANDSCAPE_615/Bl05epluto"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Pure EV develops AI-system to automatically resolve defects in lithium-ion batteries"
     excerpt: "IIT Hyderabad-incubated startup Pure EV has announced that it has developed an Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles."
     publishedDateTime: 2021-01-04T06:57:00Z
@@ -60,6 +76,6 @@ related:
         height: 720
         isCached: true
 
-secured: "/aapSZv4Lwd9N4x3g09RGWnoBFYNjoxxkE4CrkJOyagqvW9ltwtR6IJRtAHPv7uAmjIihNCk/0dwEXGHqvod+5taV9rfLvG1noaIakrsd1Yo1dylY2/qfORwhFIcomv+TSfkwEOi6Y98wIIwEOdycA3iZ292Q/7fi5usiOfBJ8xVZUgiQz/E9dbzXJUwnrm5ufR29kMiDJW/+6RPOKMO3BdjqQawEgBqat64Vz5amfH0kC7qKZXXmfP3+uQuOORDzyW91NsLwSVXWXBEqz3JAjLGd1fgJ2Zqa+lX6nXB2ra54eg0foxkGxSGHFdc2HYYVqGDNLu3nALRBbCwAHeOTCl/jSokm/PwWOxtFJ2pwMU=;1Xx6heUahfJjVvsd6rlUMw=="
+secured: "s8g8B24vusmcAfq41gN3mE2pAPQAdKN35w6U7o11+LAgVqrMPFbHlF+YCnK1BRARpVppdxshAaAKsrUw2Jir/Yv4407TsUxsJwlsJhTFKbQNCyvQK4gkDnwVt3zHyjQEXuIH1IWi7Lx5Zi1EYT/KmrhIdy8h08mlxKHOTzgPU54wYASecmlkhPNzfb2Dl9GOyrv/1WFzdtWvDp6IzPqHx6UanGg9KEXbOLunOKCx6gYtWUs71+km9ext74IA0knIT3bdFUTz1CWNNB3gOqI1RLXzrQ7rrPhEweP+WNNZHek5B3gNqbf82I0UZKrxaeb5Nrg8FOgLoc2VvfIVz+3JNPKxqXKbQSIzucfMeMhljrn7L2iSuWdGRQAUn36zN/Z0zqGcGcEAC7tTpeu0G50WZbb9ml1svORglayxfMd+8GdyM0jQJYckJk+br1OslbpEM4bIleB2Qep2j4WqzmOX2TTUM+HAgemKdOeLK+Ye2/WFBDrHY6dgqHaUzFI7btKBiKO1MIw6kdV/Y1uCg8RDYg==;Oiv73FISqXWvD0XlEvC7iQ=="
 ---
 

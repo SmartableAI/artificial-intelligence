@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Graphics Processing Unit (GPU) Market 2020 Analysis By Industry Growth, Size, Share, Demand and Current Trends Analysis 2025"
-    excerpt: "Market Overview The Graphics Processing Unit (GPU) market was valued at USD 20.62 billion in 2019 and is expected to reach USD 104.71 billion by 2025, at a CAGR of 31.1% over the forecast period 2020 - 2025."
-    publishedDateTime: 2020-12-30T18:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-2020-analysis-by-industry-growth-size-share-demand-and-current-trends-analysis-2025-2020-12-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "nOowsxIyC6/oFNFwPCFgOSVUl3j7xggaV3ys3REd6v8kGp+6a08Kcdf1W41Dyl3Mo3q8RN+Z41/VWfjsQHoiSivfYQ2EqXdw+yJ05SNgEGaqdoEVdk7zi7S6i7I/lxLA6kNH9A8j7paGawkWgK9MLjD25iUL6es+Ql5olwz9FxcpM3DlcDaCp7DDJZK6czFBUsjLuLDph0DDosJ4Fsmfj7CLppo2ZYeE25yegEDZk6luVxSY3YkVhXlfCv8xOpODRTgTvWfQ/XyNFYyUvnbria45NzYgVCt2EVslpZ7imgjvekeSUytQCwdOfmB0rsa2/XUkXRBe0nHlTyCg6FKKGKkJEDeMODfWxzAubDuPP3k=;hPkvAhdHQEEkE3aF2BABfw=="
 ---

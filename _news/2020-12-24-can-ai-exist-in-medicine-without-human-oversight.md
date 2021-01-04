@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - Facebook AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://img.medscape.com/thumbnail_library/medicine_machine_thumb.jpg"

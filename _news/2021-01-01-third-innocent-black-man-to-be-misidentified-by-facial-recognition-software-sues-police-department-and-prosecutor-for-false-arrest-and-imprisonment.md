@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology"
-    excerpt: "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days."
-    publishedDateTime: 2020-12-30T18:39:00Z
-    webUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661"
-    ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg"
-        width: 800
-        height: 484
-        isCached: true
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
     publishedDateTime: 2020-12-30T20:45:00Z
@@ -54,20 +38,6 @@ related:
       name: ABC 7 Chicago
       domain: abc7chicago.com
     quality: 51
-  - title: "Berkshire Legislator Disappointed With Failure To Ban Facial Recognition Technology In Reform Bill"
-    excerpt: "Not all Berkshire County legislators are pleased with the final form of the police reform bill Massachusetts Governor Charlie Baker signed into law on"
-    publishedDateTime: 2020-12-31T21:30:00Z
-    webUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failure-ban-facial-recognition-technology-reform-bill"
-    type: article
-    provider:
-      name: WAMC
-      domain: wamc.org
-    quality: 40
-    images:
-      - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
-        width: 800
-        height: 1067
-        isCached: true
 
 secured: "H5KH26S73CCgJnB5u4Mr0vWwHCVymzUTYJz7WZ/td5j8HyubWqOUfLC88ueTfAbKUS3/77HAjPQjCsVc1ZWn42yTqcD4sRwHfEwMelCbfT+xrnTl3aX4WDvrD/gWVjP3rbAS20kvIIlBd4+M1Juf7oqLJmXB0f97/xkgDrpHeKdZxfVrZP52FoxvWxOJs4AfTEbA8FnEgOuwFwq/q4644EkG8eaiUzUQHw2AeLi+nr/u1jkBtoZIvFMN+mNfHtmCYMV7FwaUbWIE9JrBPYkv3Hmw6FyPs715ufX3dnUGuZplXNNdwMiUn/eTxkMPBIgB7XUyY8G1KwVERyc7d0d7LYmbuMmVRUyVuiBxJ/CudIMlsfjavQ27YoU3Mt//r8+r/knBu7XKKSXsD9RXFxPjEegaBZM9Fn4FDH5k/Xi/rYcjGRXozUI7+xA78stL9E8B34P31rS3gCl5fbv71Q0ODz6bkjON+mUtZ/asLDoR9TXbudTqRUZU7EMu+o5VAafnlO97EFuFbI11SjZ8revXAA==;aQ1U3qPSa1wjOUNzSp2Ipg=="
 ---

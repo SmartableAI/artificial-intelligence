@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/31/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Making A List Of The Top Autonomous Vehicle Stocks To Watch In January 2021?"
-    excerpt: "Despite the self-driving vehicle industry being in its infancy ... Top Autonomous Vehicle Stocks To Watch: Baidu Inc. Following that, we have Baidu (BIDU Stock Report). Baidu is one of the largest ..."
-    publishedDateTime: 2020-12-30T17:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "+DR2Jz9GJW59lHB8ynoAx8CPi7enqGLVg65UNUGYoFLKKazTDwV+wFOxEoC4TInW9RDVktSFT/KZ3HgX1IbnuFE8f23YqcNKt2v8VhttYkjqQrjUqNDsGX2/qpJYPUaqbMI6EsmVAWySHv0bvjYzklhV+dTteP9tJnV8ifttxb4XtLY7gnh0R0JZcR5POuB7FajUAd5FBcdxgeKG02ghULrszS3W5NMzfnAO4xg+F3OJncBLmKSNBnh+E8ZSPQDVF5vrXQJ3vNp3XfZAlIKdJwaQcVO7Pb5wvjyj355MGTpWxeJLegpqHfsT7SVbVfAxLHvCcShNt6w1X0CpJhBXG1VudmP0LVxrW1+D/XJIWwQrvIL3cWasJLGDww2vWicNpgdaz9GH/9At77lGXwrjeeu50wuO8LM79hlFztsW4KZMLUkwSgKVFeUAfjh8Jwgrn6jVqtgFp+8y8BQAfIm+9+vnc+r7/GfY0QrooL15ViVabAaxAD/P0pXy3nR/U6P26bh66JDgwboxZzeKB4C3Sg==;twmaHvmqDaZxMffx7Z875Q=="

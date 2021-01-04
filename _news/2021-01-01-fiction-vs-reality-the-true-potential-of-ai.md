@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/fiction-vs-reality-the-true
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fiction-vs-reality-the-true-potential-of-ai/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Begins to Realize Its Potential"
-    excerpt: "In my previous column, I looked at the problem of artificial intelligences forcing hardware to consume too much power, which could lead to an unsustainable spike in demand at data centers in this country by 2025."
-    publishedDateTime: 2020-12-30T17:48:00Z
-    webUrl: "https://www.nextgov.com/ideas/2020/12/artificial-intelligence-begins-realize-its-potential/171079/"
+  - title: "The reality of AI in healthcare: promises, roles, evolution, and more"
+    excerpt: "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?"
+    publishedDateTime: 2021-01-04T10:20:00Z
+    webUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution"
+    ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/12/29/NGai20201229/open-graph.jpg"
-        width: 400
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
         height: 400
+        isCached: true
+  - title: "How ARC innovation is revolutionizing healthcare on a global scale"
+    excerpt: "ARC continues to deploy lifesaving technologies and strategies in response to COVID for Sheba, Israel and internationally."
+    publishedDateTime: 2020-12-31T14:16:00Z
+    webUrl: "https://www.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846"
+    ampWebUrl: "https://m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/468819"
+        width: 640
+        height: 428
+        isCached: true
+  - title: "This healthtech startup uses AI to assess health risks of expectant mothers"
+    excerpt: "Healthtech startup CognitiveCare's MIHIC platform analyses medical, clinical, genetic, radiological, social, and lifestyle determinants to predict early signs of maternal, infant, and foetal risks."
+    publishedDateTime: 2021-01-02T23:57:00Z
+    webUrl: "https://yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks"
+    ampWebUrl: "https://yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 55
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/CognitiveCare-founders-1609321945526.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "A booster dose for healthcare"
+    excerpt: "The new decade may witness a more advanced stage of digitisation of health sector infrastructure and services The year 2020 was an extremely eventful one for the healthcare and pharma industry, and for humanity as well."
+    publishedDateTime: 2020-12-31T18:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/a-booster-dose-for-healthcare.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
         isCached: true
 
 secured: "u/8UKmGbS+njIdtnKCvwg2NJXY8XdZmJIr0ptMCI11EFmPzKMjlpAKtQSaPSemoV/eXOsjNoilJl4G5P5mtJoTNDFkvHpKNMWDF7BOSN42HKM5/TQimEtTyuviZX9eTzL7BiuZRLoqNr8SmOO+KNerEhc6yQkbq5zkzWPbfqgFhudlYM0vyE5+TJ5DHhGfwq6m3d6QY7LKxFWst5v9vxkBK0JqK8VT3yqunEMVsGdY7GyQDV5k5cRNkJCZig5tHxiFDanVl46wFV1VguomQXCAHN8OQYqBe+9h2YlTMx/pksUh4s3EeB/AkNrGV7qkYJ3n1/hiVrbx/cZCGbFaBJXa4fkj7ARtAKtTPzu8nItjNsq3CpECF/QvbKizQCnnFWOVdPQb97LkMfvdpVTYa/GOGBFwRXEGyGgEamuYl28Mwd+ULCpUW+AzDxh9ltg+GiY/boR+2CAD7qI2qjFndZyMajnLfDttGH7g155Rs3vYJmPSzyBKBLNSr5dajrmVu//6hQbQEQRTkdk5ZWgTwngQ==;Re5TY7Tq7+prVqsfyYNZGQ=="

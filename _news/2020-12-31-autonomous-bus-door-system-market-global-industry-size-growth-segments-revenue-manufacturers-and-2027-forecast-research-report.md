@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101363423/Autonomous-Bus-Door-System-Market-Gl
 webUrl: "https://menafn.com/1101363423/Autonomous-Bus-Door-System-Market-Global-Industry-Size-Growth-Segments-Revenue-Manufacturers-and-2027-Forecast-Research-Report"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Market 2020 Share, Trends, Size, Top Manufacturers, Growth opportunities and Forecast to 2025"
-    excerpt: "Market Overview The Artificial Intelligence Market in Sports market is expected to grow at a CAGR of 28.72% based on the growing use of technology in most well developed sports, further with the falling prices of these services due to economies of scale they are expected to be used at University and Junior Levels of various sports along with the widening applications of the technology as it evolves every year."
-    publishedDateTime: 2020-12-30T19:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-trends-size-top-manufacturers-growth-opportunities-and-forecast-to-2025-2020-12-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipset Market 2020 Growth, COVID Impact, Trends Analysis Report 2026"
-    excerpt: "AI chipsets market size is expected to be valued at USD 7 6 billion in 2020 and likely to reach USD 57 8 billion by 2025 at a CAGR of 40 during the forecast period Artificial intelligence AI chipsets are"
-    publishedDateTime: 2020-12-31T11:48:00Z
-    webUrl: "https://www.openpr.com/news/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
-    ampWebUrl: "https://www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219615/artificial-intelligence-chipset-market-2020-growth-covid"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "BDofEGh+BsaUmGO4GOCpntTO8UrhfZpMlDePyE9+Ryb3BfrO/65RKnEHvnHxsmCtxbt1aBYMvXjx5+8uxghR4zN1ZxUVe/89r17yqpI0voj4dlOEZ2esweeG4MYshtZhNXbiMkFyv4lx+OdvGaNiDes9rc30Sp15Z8ZD3/u2nfht/ARHk0WFtlkix8Q4gfjT541g3cSV7WSOvNu9N31gbJhDSK+26n8NixRJ/H21qs5UhooWuQ92uuP1dFwWZZCgAZLLcdub53AH5Q0stJNDBJW0UMHC1Ghl2mYNxhM0230ZgowHAOGv6DXHzIwMZeEnI3V5V3ruzC3LUdXPgocEplP+l2dkUhDKSXpPEPYnn64=;ee79esaEIfMvErbC88+3nw=="
 ---

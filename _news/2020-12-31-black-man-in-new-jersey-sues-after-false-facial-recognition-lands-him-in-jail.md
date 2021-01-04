@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/criminal-facial-recognition-racial-bias-
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/criminal-facial-recognition-racial-bias-in-technology-man-falsely-arrested-nijeer-parks/9197215"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -21,36 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology"
-    excerpt: "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days."
-    publishedDateTime: 2020-12-30T18:39:00Z
-    webUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661"
-    ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg"
-        width: 800
-        height: 484
-        isCached: true
-  - title: "Berkshire Legislator Disappointed With Failure To Ban Facial Recognition Technology In Reform Bill"
-    excerpt: "Not all Berkshire County legislators are pleased with the final form of the police reform bill Massachusetts Governor Charlie Baker signed into law on"
-    publishedDateTime: 2020-12-31T21:30:00Z
-    webUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failure-ban-facial-recognition-technology-reform-bill"
-    type: article
-    provider:
-      name: WAMC
-      domain: wamc.org
-    quality: 40
-    images:
-      - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
-        width: 800
-        height: 1067
-        isCached: true
   - title: "Third Innocent Black Man to Be Misidentified by Facial Recognition Software Sues Police Department and Prosecutor for False Arrest and Imprisonment"
     excerpt: "Nijeer Parks, a 33 year old Black man is suing a New Jersey city, police department, and prosecutor, for false arrest, false imprisonment and violation of his civil rights for misidentifying him using facial recognition software."
     publishedDateTime: 2020-12-31T17:38:00Z

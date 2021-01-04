@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Graviton2: AWS’s Answer to Generic Intel and NVIDIA Chips"
-    excerpt: "Amazon’s cloud arm AWS recently announced C6gn instance powered by Graviton2 at re:Invent 2020. Graviton chips are cheaper than most of NVIDIA and Intel chips."
-    publishedDateTime: 2020-12-30T17:56:00Z
-    webUrl: "https://www.analyticsinsight.net/graviton2-awss-answer-to-generic-intel-and-nvidia-chips/"
+  - title: "Artificial Intelligence in Medical Market May See Big Move | NVIDIA, Intel, IBM, Medtronic"
+    excerpt: "The Global Artificial Intelligence AI in Medical Market has witnessed continuous growth in the past few years and is projected to see some stability post Q2 2020 and may grow further during the forecast period 2021 2025 The assessment provides"
+    publishedDateTime: 2021-01-04T06:50:00Z
+    webUrl: "https://www.openpr.com/news/2220080/artificial-intelligence-in-medical-market-may-see-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2220080/artificial-intelligence-in-medical-market-may-see-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2220080/artificial-intelligence-in-medical-market-may-see-big-move"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AWS-Leans-on-Custom-Silicon-for-Processing-Advantage.jpg"
-        width: 900
-        height: 500
+      - url: "https://cdn.openpr.com/U/1/U104795553_g.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "FirWJdS8/Ku3/eTmoYgwyyTaRLvSR2ZlmxOpHDgpo5y+ZYL29v7lOP4fM0dFevS75TYktV961yvG5QildtjaSHjvYSrqsEIBv4Q6EvcUut95sKnKyphW7HUDQ5MYq/vJQt8TbKphGlvLvqmH6qpncEj2wdpGL4+/IwEMXGjw7sVRjC51Lgx9jkayW7M/NK+zQFLjQ3+Sw9dU49xUK+eACedpPB7oSw+QeHPAsuhji8R1PwJ0sUlWfMZC0dNHZa6DnVrPctkG5ETSHd07/fYrOLv+SODsrtMpUXtdGCC8jEKT87vpVDnMCP9MjEPijnzutaRlwNmG/7Snz04PzFWB+78zTHvOt99CcKAmOgCwn8ppJ2hpQItrmwIfaDPQygBapAMoFoTHNaIW4I/yu3tRWqZsnpbIIryYCBLApn0+r9YSL4vcgMwNyQGkKbP0FEgpEd26/dzqXSxAjju3B4AXtDoJLzZpZBVAS5VULbC0CaTz+PboUmIGixHWvrBudq5I27JodfMYxAyv+aKYCDrFqQ==;/vX+NtpkgGsoqqYvPZTjrQ=="
