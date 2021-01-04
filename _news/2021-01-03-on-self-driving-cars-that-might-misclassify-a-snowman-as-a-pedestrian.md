@@ -63,6 +63,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "What You Need to Know About Self-Driving Cars"
+    excerpt: "The technological advancements of the 21st century would astound even the greatest thinkers just a century ago. Today, we’ll discuss what you need to know about, as our title suggests,"
+    publishedDateTime: 2021-01-04T20:50:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/04/what-you-need-to-know-about-self-driving-cars/39238/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 24
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/tesla-steering-wheel-2.jpg"
+        width: 800
+        height: 481
+        isCached: true
 
 secured: "JczXSWkMEHMaojk50lG7nb7hSOwbInK3BDDBFtGNMlAdHb8FbFlV6kTlN4Qw+1tVto7Mh/sZeKbseCR8PFEA9N5q/+Kbzh/Vr7KT1PeNAb6xFNQN68A1qyiyErx/6Fh6hYmPw1lJminr/NZC1As0wASBK3olOgYV6w9Su6Ptb/kBeeCQlX2GHS93WZbgWZnJySdb+DU1PsgdlsRNWg8axpIdjDWGtx9jUOKrkw49J0paqUm56U+D0kqm9SUoDxPeipBh3HO6nZGECjvB+Sc/dO7V/wvVGW1SxvivqWkaC/Agto2KQJC3hKkWwzLE5OWTVpKGfcCJ4sMsxeWRluQYN2c3SLN1xfcOS4CawRaHjHrnAsByXTytYXe+Sfi76Fs8tivml31/FLtOGfNVE0CimbHCBnoRx4ASEekrQgafpaxXWET0YG3wnNYiz2j3SEUBoBEcj1vVrVBtB+FuZazMQzUpxSukx5I3N4z+P0ll08EuE/a07yzHCai5su5+NfD9q5bXrCQ9ovXALzOI/1AE9g==;v1npEoye31NKEIOZfE1E/Q=="
 ---

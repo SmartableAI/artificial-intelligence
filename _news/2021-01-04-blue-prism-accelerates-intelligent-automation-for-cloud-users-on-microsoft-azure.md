@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
-publishedDateTime: 2021-01-04T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
-webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
+publishedDateTime: 2021-01-04T14:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
+webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-    width: 1198
-    height: 628
-    isCached: true
-
-secured: "4oQJpMF4J79qUVq8K63d/haH2Z4rZFsgUtIdkW4/II05EpCpk2eRljWnQZs/7Otv/mnm5oj8KkFhYHb6UsRR3Owy/rUoLz2ruK5ufYetzkqX1nJ84Lb/XX5F+QwESoB1RolRPpH9EScOyIwGS8FEFtTMDHEuDX2cgncGraTu1NoD1No1Ff6MRdY1MqtqFfKBPQOwBvGPdGb7zG9lJSSMZp0/UHWzHW/0Ba2LhRMRwtIkox0t9E8czSjXUgTvkcNSudy3lVRuIePC/dEFi41voHFyYcHVsB0rbs5+hR0zX2hmlmIMngo9iDSZVnN9Iry8p6pWoKgmRp8VdmrNlb/DxG4JuNre63iIt5LumHa3yTw=;xkNmbN82WK4O6prmztunFg=="
+secured: "BUQ6bEo6qrcOUui1+pKGPA7z1uieBvi+24uJUu5QhT33AmJ9BNq2q7vooHXOyM0mNHbaWQKhYxaZlIzOwK/zugb7dKAd0BQ8jBXS/4dXrf38hulUc8FaO1sdpnL31VrBdQWZ4cAR9RZiL0JK1htFfSNyltFpgvFzXsSWs1FWrnGhok3dvGHfgWvxZp+z9vMsmpIFKmCYR7IamII/oCMvqy+mhptKgZzni0XLPvM2deaUAsfzuIMsuhOiXtYocAyRBqHKWXvp5sJWXoByUPnJmvc4mBhbnEnvCx/2K596yAzJlGn+mmtGPld8jYeGGlhDUDZX9/x3RZQDoYI/v9uk5gC3ESj5/QPvfdaYquJrq8w=;eYZrf9KtuNgBpylOF40wSQ=="
 ---
 

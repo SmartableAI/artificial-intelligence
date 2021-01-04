@@ -41,6 +41,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AMP Robotics raises $55M for its AI-based recycling robot"
+    excerpt: "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,"
+    publishedDateTime: 2021-01-04T19:00:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 99
+  - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
+    excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
+    publishedDateTime: 2021-01-04T19:54:00Z
+    webUrl: "https://iottechnews.com/news/2021/jan/04/amp-robotics-raises-55-million-advance-waste-reducing-mission/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 69
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/amp-robotics-ai-arm-iot-recycling-green-tech-artificial-intelligence.jpg"
+        width: 1000
+        height: 647
+        isCached: true
 
 secured: "J6WmQgreawooj5f4F6dXoBcUQWNKKoEp7k1ZyHORUwh+xDaduhwDYyUo6PN7maaYFqc0i/DSK1TZoHj/zsboYjZgqq/Wo9q5Fqe6JTxFefWFAbLseQnkG5ekPAzs7JDdXFF2XFFo+szPA3PvkYsQSW4fx0Cdgqjy/BQLDXwXTC0U1ooK8l00ZzkgT49gLP9OdOtj2JP5ZnwOwKoWRGe5+10KQzjospezmFR6kaXTfmijvHgMaaxU2sIcrkPcoCmwiJD1LJ9KR11ou4Nf4PpZeTVQig0QUVerXxPDHM0R2t0hRK4vFqDtz53qIFmTY8cQ/3I9ZckoQ0kIGWGbHWDlr2nCxWZIFRoIR+0ltQ4j2Kc=;ftOe2YVQ0GUE+S6nNRVWYg=="
 ---

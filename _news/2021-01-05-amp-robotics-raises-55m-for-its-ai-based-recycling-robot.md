@@ -1,0 +1,75 @@
+---
+category: news
+title: "AMP Robotics raises $55M for its AI-based recycling robot"
+excerpt: "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,"
+publishedDateTime: 2021-01-04T19:00:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling"
+ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
+type: article
+quality: 99
+heat: -1
+published: false
+
+provider:
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "AMP Robotics raises $55 million for AI that picks and sorts recyclables"
+    excerpt: "AMP Robotics, a startup developing robotics systems that pick and sort recyclables, has raised $55 million in venture capital."
+    publishedDateTime: 2021-01-04T13:02:00Z
+    webUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/"
+    ampWebUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/IMpact-20-2020-Amp-Robotics-AMP-9-3-e1609706384371.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
+    excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
+    publishedDateTime: 2021-01-04T19:54:00Z
+    webUrl: "https://iottechnews.com/news/2021/jan/04/amp-robotics-raises-55-million-advance-waste-reducing-mission/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 69
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/amp-robotics-ai-arm-iot-recycling-green-tech-artificial-intelligence.jpg"
+        width: 1000
+        height: 647
+        isCached: true
+  - title: "Amp Robotics raises $55M in financing"
+    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
+    publishedDateTime: 2021-01-04T18:33:00Z
+    webUrl: "https://www.cdrecycler.com/article/amp-robotics-raises-55-million-investment/"
+    type: article
+    provider:
+      name: C&D Recycling
+      domain: cdrecycler.com
+    quality: 69
+    images:
+      - url: "http://www.cdrecycler.com/fileuploads/image/2021/01/04/dreamstime226235---dollar-sign-blue-backgrd.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
+
+secured: "e/psf+JJwyo1IT8fT5eQCstI9OJQDMqP180fvV7G7izxsbmJS0SVo6+xa1fKYVFOBnf05TZDo1hLtSmXlFXpg3u+ioEMgmaoagf6CKW+FqYdxiWfrrLefUSTxGwIeIz7htO2FuQGEH/Bd50apHwZIauJn+Z3wrGfwdhhnt+2E7Kw1Fc/sE1nDeiUo9v3n1fw2ibUQ+aXLWgg82MdCZqK5VYccu1gNHPW9VFQDBuGsMwufZOi9yQRXITBfgUg8U5ffQifuudMw6YNCPo9YGt/2rW4LZyoEvJZAWZY5hh4NRcxn+VlEFcrjIAE1LfzoO1eskH5JuxjX1giLWXyTGW8GSe2Jiu1YSlw/h8JOMwo14ucHMhWnaNR3G4lTbzA3y30U7L5QbYKeZl15XHM2fqgEMcvCc80GaSMBU/wMMUJSIj/8UfRRpIc+Kdyp9dtH6wkUj9w8G6TYcdu/UfPQju02phQ4XhJTjZdY6beg6Zs0O1jrRJHHbsx5lSttq0YnR5P6xQSZs4JO84wNbCxK8dP2A==;nCYdx4saKAsv/29hNrji/w=="
+---
+

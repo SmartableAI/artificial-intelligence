@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://images.barrons.com/im-244050/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "What You Need to Know About Self-Driving Cars"
+    excerpt: "The technological advancements of the 21st century would astound even the greatest thinkers just a century ago. Today, we’ll discuss what you need to know about, as our title suggests,"
+    publishedDateTime: 2021-01-04T20:50:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/04/what-you-need-to-know-about-self-driving-cars/39238/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 24
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/tesla-steering-wheel-2.jpg"
+        width: 800
+        height: 481
         isCached: true
 
 secured: "5YJYR5FkTTrk9Pw3xJHkF+T20I0T1z/dZzJtNGZxUsiL/sRtnFb4cJYZ7p9OvaZZq6cnoXG2bdUIj7k+swdzETh9vRm48y7Sh3AaZkSdjOxsol9QXDnhTAFb7h3aa3mpJQeaQ6suBJk7z/QObRBbziKDIYvMqH61xW/BJhUT6+0NBqpHyeY5Q2uT3sz/LXMtSmIRNByE0FwWr2d8LQHgoKG5jevvuBMTEBMmXChIBmMUg0RM7KqEPBBx7Vc7eIYF+7xoBnfe6dTWXAIhEXNpwDH6Qmq5nZA3yJM99R9fZmtYIVbgWDvefIcRjdzPoFkHlEvkEci0G2XCfS2n8OSXPRz0lK4CeC3fT65g9IO68Z5sD0AiHKROdrD91IYRrOaJzFjW/YxwcyCSqSlq086Mq4qsMlAlicKndUcEQQqLkXKSkfzt92ipERs+Zh6bOgzD5XO/DMTxd2qxDXyfNcIubLS6Ht0xCbGNGXoIy9Hd6Mkr/5Ma363PdayNN61bN74pYMxaFZAsPfttjzDzbt3g3A==;PtMyaarDBYVn7kc2P+PNQg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/31/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 720
     height: 486
     isCached: true
-
-related:
-  - title: "The best computer reading glasses to help reduce eye strain for January 2021"
-    excerpt: "Starting at a computer, tablet, or smartphone for hours has its side effects — so get a pair of computer reading glasses. These are the best ones available."
-    publishedDateTime: 2020-12-31T03:33:00Z
-    webUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/"
-    ampWebUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 86
-    images:
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "+DR2Jz9GJW59lHB8ynoAx8CPi7enqGLVg65UNUGYoFLKKazTDwV+wFOxEoC4TInW9RDVktSFT/KZ3HgX1IbnuFE8f23YqcNKt2v8VhttYkjqQrjUqNDsGX2/qpJYPUaqbMI6EsmVAWySHv0bvjYzklhV+dTteP9tJnV8ifttxb4XtLY7gnh0R0JZcR5POuB7FajUAd5FBcdxgeKG02ghULrszS3W5NMzfnAO4xg+F3OJncBLmKSNBnh+E8ZSPQDVF5vrXQJ3vNp3XfZAlIKdJwaQcVO7Pb5wvjyj355MGTpWxeJLegpqHfsT7SVbVfAxLHvCcShNt6w1X0CpJhBXG1VudmP0LVxrW1+D/XJIWwQrvIL3cWasJLGDww2vWicNpgdaz9GH/9At77lGXwrjeeu50wuO8LM79hlFztsW4KZMLUkwSgKVFeUAfjh8Jwgrn6jVqtgFp+8y8BQAfIm+9+vnc+r7/GfY0QrooL15ViVabAaxAD/P0pXy3nR/U6P26bh66JDgwboxZzeKB4C3Sg==;twmaHvmqDaZxMffx7Z875Q=="
 ---

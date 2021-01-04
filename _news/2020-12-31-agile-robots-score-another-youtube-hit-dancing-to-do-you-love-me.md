@@ -2,27 +2,24 @@
 category: news
 title: "Agile robots score another YouTube hit, dancing to 'Do You Love Me'"
 excerpt: "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,"
-publishedDateTime: 2020-12-31T02:34:00Z
-originalUrl: "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-webUrl: "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-ampWebUrl: "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+publishedDateTime: 2020-12-31T01:34:00Z
+originalUrl: "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269"
+webUrl: "https://www.youtube.com/watch?v=fn3KWM1kuAw&feature=youtu.be"
 type: article
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a685812271f68161dbb35d0810ed2fb5-h-839419f9e969d1bdb2453264c7c74e2b-1609381106.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    width: 1200
-    height: 675
+  - url: "https://i.ytimg.com/vi/fn3KWM1kuAw/maxresdefault.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "G+opFcAaw8gnYfT2qopTpDkadj2mt3LrDNVWGnPvNiSLGzeBcMu+eZPgsJuuQB97pbiPdcwot2RUZkNC2eWQ+mf4YbosESQzjIILU7KtK5cHEmr59NOE64MFOp+aX+JmOjSPgGiCKrgAmsD9Xhglv18lHJ/QCOCaaoJGHpqVudqVCyhV+2oqFvLaoOvt3CQFXijzuMAxBvf6x8m3LrwNKqkg9RSdB/o4kF6tl62QUP+svx6NGA90fqXQEq5Y8rsqDzHVcV5YZiFmY5WGXSeYBjItaCDACadwbelw6sAqAHAicbpijZidGR0u+1c3Q3zXSqXtUxQCiASY3hMmbNcvHWn7HrTauwSllTxh1rIm85o=;ApfFRqGaIQHO83LCRPTChw=="
+secured: "BMuBTrQh3LxKrm4FmfPtwj0yGQqgtA26F6L83qL4cOljbUZvcg/S1I/BB/0bDv6SKFTTN08oHcN/PUZ/wMKOrWT3SYG0EjocAKHVPS12o7FKp+PsNKGTL6NtGE69zaytkN2iJCKC2LZVBGF6wIuAJwoXnBXnEZa0INUbFQpelZg/iL5O4tbCSUDH8Svh4HTuT7g9maqV9ZlKZxq04R8qbScYwJlsbdUPTm2KqmTfylRSyv71of0BQJdTs/zmtqitzLf50rIwLK4Gr8JnFHHAWLaXw53janIXULP52/FJDHW6F/j8oGTHriwiHG/YshE9zhOoXnxN9f4h4kiSycu+aaLqy8Mi4PbC38h0ZVLFVnk=;0LMKvyGNsIZ5GPbN/HYPeQ=="
 ---
 

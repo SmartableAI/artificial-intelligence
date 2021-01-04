@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 720
     height: 419
     isCached: true
+
+related:
+  - title: "Check out the hires and layoffs in the North Texas tech and startup scene from December"
+    excerpt: "While the national attention seems focused on the big-name tech moves from coastal hubs to places like Austin and Miami, the North Texas tech and startup scene saw its fair share of personnel moves before closing out the year."
+    publishedDateTime: 2021-01-04T16:50:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/roundups/2021/01/04/dfw-tech-startup-hires-departures-in-december.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "9dphKyz7EfY/3XVk4LfopDzA29vEJI9g5FjCrNYxAUOrD1kzsuoAw0L1DChiu/uliVf2NXsdbFmWrl1jqZ0nYu5p+gg8B/C3BBP1WmlxftP9OnSieARPAbhwQsUczrcrWWXgrXCg0hwwg5wCgSD5kXd54zlYMs8mB41CHJIZYWPA/qK6qADrFM3zWL8XRV6xVvcf5HbqCFr4eQFLWq/vXHS7Ve/HSMbZHYSv5o99CifUofn6pWl58+0Qrrb+J3bbIYhl7yQlfso0K85lHjYTzeMNZBj805zAlLpZOgCAz2nqKoCQ4CvfOkuzsgYyi/fctXMxm9zI6F01YHw+0KjsICuuSdCfne4gXklnIg6pafYmaisjue6nF3RK66RzWSmlFqoxCxW3wvx4eyIyKAA6YXqWVh5HTZnAItGX+lr6/uiWUfZnKCUb0XpiQ5bd9IS20WmDIr50FaKZviU622uDG76i7YgmxmeEXFjISA+hXaAZylxVsLL4smunoY4f54NjO76yizh0RZAJGAcg8CUsVA==;uIOqJkX16+n4z1W9nEaZvw=="
 ---

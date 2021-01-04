@@ -39,6 +39,20 @@ related:
         width: 1900
         height: 1049
         isCached: true
+  - title: "Stanford University startup lands $100 million backing for “Rizon” robot"
+    excerpt: "Stanford University robotics startup Flexiv has landed a $100 million funding round that could allow it to expand the markets for its “general purpose” robots from manufacturing to logistics and other sectors,"
+    publishedDateTime: 2021-01-04T20:02:00Z
+    webUrl: "https://www.dcvelocity.com/articles/49086-stanford-university-startup-lands-100-million-backing-for-rizon-robot"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 38
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2021/202101/flexiv-robot-Unknown.jpg?height=635&t=1609785699&width=1200"
+        width: 1092
+        height: 635
+        isCached: true
 
 secured: "8BgHX5+3f065bYJkH2kKPBFwYACdiNigMigHIO+5JGt82Hsf9ohdiPOEXz40KQRpMe9cmMsKMpOW8NH1+Y6sQOsqcogcjIm9xaBni+JSyzHhgX74HCdk3QoQzwdM0HpBkSMEu0QwE9dzGYibspTpa2L3tMPsGZRpZWIFpa86WAdclAaOup9XZYsyLAi8EC0sjbKKilnJCbWyZdzVSy0yrucRamnPMpMW+LmjvBeaOm7SGInFyyHvFHhGD4GpFEniiq9eIIJ8w9VkmKf2n9uciEswEG3LVrUwa9zm6OMy6YATMTVa2eX1q5RaaXSiQz1qVK9zKyXK1I9e+LE0OtuHV2xue1IuF55STFVbVhz7IlHLyxd1W7sCk1w2/0h0COYqllcafYKJF6qA4748VJvAjjVT69XARLPPvSgBSU3s7fBlgFgpr0dYkNgsmFNLPOu1VZ55ZyfpnDQw9Omrr/Dc1O/wjILEV+Gc88g90J7Es4RfUM+tGIZSEB1YtKHhpFWHzpYNZ8xlt12E7PLSBYRQrg==;8RFTL2kebdKJe/bt0WIltw=="
 ---

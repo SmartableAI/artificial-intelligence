@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,31 @@ images:
     isCached: true
 
 related:
+  - title: "AMP Robotics raises $55M for its AI-based recycling robot"
+    excerpt: "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,"
+    publishedDateTime: 2021-01-04T19:00:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 99
+  - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
+    excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
+    publishedDateTime: 2021-01-04T19:54:00Z
+    webUrl: "https://iottechnews.com/news/2021/jan/04/amp-robotics-raises-55-million-advance-waste-reducing-mission/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 69
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/amp-robotics-ai-arm-iot-recycling-green-tech-artificial-intelligence.jpg"
+        width: 1000
+        height: 647
+        isCached: true
   - title: "Amp Robotics raises $55M in financing"
     excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
     publishedDateTime: 2021-01-04T18:33:00Z

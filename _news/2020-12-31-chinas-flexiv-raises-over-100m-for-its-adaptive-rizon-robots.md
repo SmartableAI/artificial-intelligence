@@ -9,7 +9,7 @@ ampWebUrl: "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Stanford University startup lands $100 million backing for “Rizon” robot"
+    excerpt: "Stanford University robotics startup Flexiv has landed a $100 million funding round that could allow it to expand the markets for its “general purpose” robots from manufacturing to logistics and other sectors,"
+    publishedDateTime: 2021-01-04T20:02:00Z
+    webUrl: "https://www.dcvelocity.com/articles/49086-stanford-university-startup-lands-100-million-backing-for-rizon-robot"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 38
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2021/202101/flexiv-robot-Unknown.jpg?height=635&t=1609785699&width=1200"
+        width: 1092
+        height: 635
+        isCached: true
 
 secured: "uU9pTkCHHYASdFGFK1+COKLvKn5qpJRp9OG0HVSBGralefSFdk2tNSfJHCJfcBhwufBxJlrcAqdvPg5oJTuW3vqq6SiplI9gG8PZUfD+JAIFrU2aiHkoae+SfhsDQpUTn0HiCAUqawjAXQyrObc0F5HF6hjMz9vLC8un1pkRK1BQPgSvtPSoqiEDsEH68hb8L1XphRmFPB0IR33Uzh6doY0uh1Jfddb/TQb3pMqgGR/C/s7gV4NZllKsxTTQqOz1KZlDejDPybFzvG5l6s6LLycBkljrFbKoy5N36GbKvz+/8XWiORqFR16c0ErM3yjNj7j9I/QuuhybhmDgCT6zupYpYe4bViN6q4/Ouzwp7aIu7xvFWjERHEZF9rEcbjmNwuBqjBJRJA9sYkknM25qtQBXfw0rVpjMDVhxoafpW7w9l7qbx5EUMYNOJ4+HnOB1VMjRbWNpxEibHTaYbS09ekevxd9VdvZN5apvv+x9tARt4ATFgteByHI88W7oMbZcNFRm3ag60mihviaGK5TU5Q==;mhm0QkYkJrUSflLZD+1jCQ=="
 ---

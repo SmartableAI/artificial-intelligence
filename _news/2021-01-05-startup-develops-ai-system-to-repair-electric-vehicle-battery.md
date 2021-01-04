@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/national/telangana/startup-develops-ai
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyderabad: Startup develops AI tool to repair EV batteries"
+    excerpt: "Hyderabad: Going a step forward, the IIT Hyderabad-incubated start-up PURE EV has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-Ion batteries of electric vehicles."
+    publishedDateTime: 2021-01-04T19:04:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/01/04/1022847-pure-ev.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "PURE EV develops system to repair Lithium-ion batteries of electric vehicles"
     excerpt: "IIT Hyderabad-incubated start-up, PURE EV, has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in Lithium-ion batteries of electric vehicles. This next-generation technology completely does away with the requirement for customers to visit service centres to address battery defects."
     publishedDateTime: 2021-01-04T09:26:00Z
@@ -75,6 +91,20 @@ related:
         width: 412
         height: 255
         isCached: true
+  - title: "Hyderabad startup Pure EV's AI tech to auto repair Li-Ion batteries"
+    excerpt: "Pure EV, the electric vehicle vertical of Indian Institute of Technology - Hyderabad (IIT-H) incubated city startup Purenergy, has developed BaTrics Faraday, an artificial intelligence (AI)-based hardware which can automatically identify and repair defects in Lithium Ion (Li-Ion) batteries of electric vehicles."
+    publishedDateTime: 2021-01-04T20:09:00Z
+    webUrl: "https://menafn.com/1101382680/Hyderabad-startup-Pure-EVs-AI-tech-to-auto-repair-Li-Ion-batteries"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-01/04/I_435c1b50-5image_story.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Pure EV Electric Scooters To Get Lithium-Ion Batteries That Can Resolve Defects Automatically"
     excerpt: "Hyderabad IIT incubated startup, PURE EV has announced a new breakthrough today, in the form of batteries that can self-resolve problems."
     publishedDateTime: 2021-01-04T08:13:00Z
@@ -91,14 +121,14 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hyderabad startup Pure EV's AI tech to auto repair Li-Ion batteries"
-    excerpt: "Pure EV, the electric vehicle vertical of Indian Institute of Technology - Hyderabad (IIT-H) incubated city startup Purenergy, has developed BaTrics Faraday, an artificial intelligence (AI)-based hardware which can automatically identify and repair defects in Lithium Ion (Li-Ion) batteries of electric vehicles."
-    publishedDateTime: 2021-01-04T16:03:00Z
-    webUrl: "https://www.ianslive.in/index.php?param=news/Hyderabad_startup_Pure_EVs_AI_tech_to_auto_repair_Li_Ion_batteries-750345/Latest News/31"
+  - title: "Hyderabad-based Pure EV develops AI-driven hardware for battery maintenance"
+    excerpt: "The company claims that this technology completely does away with the requirement for customers to visit Service Centers to address battery defects"
+    publishedDateTime: 2021-01-04T16:05:00Z
+    webUrl: "https://www.livemint.com/auto-news/hyderabadbased-pure-ev-develops-ai-driven-hardware-for-battery-maintenance-11609772107242.html"
     type: article
     provider:
-      name: IANS live
-      domain: ianslive.in
+      name: Mint
+      domain: livemint.com
     quality: 17
 
 secured: "Y0S+GboS513wPivwwXs3XCKogXIdB15CiOg1anVMhpUu5WlUO/x7cgkRKv1AwoJeFPxRzmyPnQp3mTEMbS0er3kNFsIQKqr/B6CH6EvWYNB7LOGIrZrDLCLVmwK8K4Iil8tGjLFh8xEWmDwKwgg0Sl2Gt9t5ww0LDuQDaOoE6kHlIq+y+QYGfIzafOz06yaPpMBxKnZCcLCI4OPZvRpX9Gl40JTtNp+o48YYuM9TyFoHWv+UWpRvDwzo1W+SpdwJDybgbpqdwpzVf/vK6IVRvcSFVEnoF1bKhH9MkzL+Xd17vCqP5Q5r2hI2TZ9SSHJ+E8vxnigdfkSo88k8zFJ7e2Jx/mafCg/XaHJGSOxnULo=;mkF2sdAvuNMvr7CEW/Po0A=="
