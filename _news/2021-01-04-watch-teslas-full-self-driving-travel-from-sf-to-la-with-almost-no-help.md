@@ -77,21 +77,21 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Tesla Offers Free Self-Driving Package For Three Months As Year-End Gift"
-    excerpt: "Customers who take delivery of a new Tesla car from December 29th to 31st will receive free Full Self-Driving package for three months"
-    publishedDateTime: 2020-12-30T12:30:00Z
-    webUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/"
-    ampWebUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
-    cdnAmpWebUrl: "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
+  - title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
+    excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
+    publishedDateTime: 2021-01-04T03:54:00Z
+    webUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
     type: article
     provider:
-      name: gaadiwaadi.com
-      domain: gaadiwaadi.com
-    quality: 58
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
     images:
-      - url: "https://gaadiwaadi.com/wp-content/uploads/2020/06/Tesla-Model-S-3.jpg"
-        width: 1400
-        height: 797
+      - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
+        width: 620
+        height: 327
         isCached: true
   - title: "Tesla Offering Three Months Full Self-Driving Package For Free"
     excerpt: "This latest incentive by Tesla is reportedly available to buyers who can take delivery by the end of the year."
@@ -105,6 +105,6 @@ related:
       domain: carscoops.com
     quality: 39
 
-secured: "Y7I2MISKKVWFfad60sVv8ggX7sLhI/1QbSpOvud9Ern6+dT2ZBxeRxXXasoNnCWCN5XwnH8i1KkHzQsr5pERPdBr3hFh19P5UNXRHxBxoS/ls/wuHD1XiurTuHufEIGFL/ZutGTexHIaq7x9VGvaZjKUA9AjZdS8eqN/2aGJiQS30bnIbqLiWV31kCVEKmxQoYdtaF++AZJMzaibhM249tZg11Oo/p8nAflUniXVu+ewxe6XR1IAUe/cavTn8NaDuZGd8Hk61irFSGrEQ0CRRGhscuW2cfIXs8i1f/G/YRJXAKCjILJHF8Z1xDruijKkAaRe3AtczKJHn3FOwERNdAX2aq8jnCYxk2c0lyR4coc=;WnBNIfmFNupNwwl5SEzYKg=="
+secured: "H84ko/7WTYyrsPQBoBRxbVvkbgifpmZbHoanR6MvnS7TR/HIRIjgTkpkYWFw0hGK5xlJ8rXxpXMfe+L4MQAHyF7GNq37J1611LLw/Z1SZlOklGjtuWopV+kPwCZk4KL3lpOoDhRXj7gP40wPgAIeo/clWGOkMUYu+M8unCbr1zERdf4QN8wNZk9St7kI7gVLKn4xDqD0j1PsEpOvdnPqg/rh+7sWABFKl9d7H1rP8rv3+FI70VCrwcepPQ+56zLb+b9DQht8h7iXyFqTa/9YmwV9hGyYIehEikvxtWsqOzP1ECMeX/asQRDf7udsf916zDLNPoVbm+UYvMVtx7WIVwidU+UQKqHsT80VIJ8n8NZBLAj98+HjF1gg04Fk1+tmgi7CwGWvAopQkW87X28nb8qM6SZHikMK44xMuC3ujPAASexVS+rpa38hSDRt+fupZ2QS3XxKNztJ8MIG5ow7ZUOLdL+PphTlfGUejHimdnwX6a+PMCz3hblYCPZ5v6i8krsUfquuuj1QCbYGXWY39w==;G1sFxBbT6IAycEs748puiA=="
 ---
 

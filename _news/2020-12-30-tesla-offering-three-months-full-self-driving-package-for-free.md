@@ -83,21 +83,21 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Tesla Offers Free Self-Driving Package For Three Months As Year-End Gift"
-    excerpt: "Customers who take delivery of a new Tesla car from December 29th to 31st will receive free Full Self-Driving package for three months"
-    publishedDateTime: 2020-12-30T12:30:00Z
-    webUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/"
-    ampWebUrl: "https://gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
-    cdnAmpWebUrl: "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/tesla-offers-free-self-driving-package-for-three-months-as-year-end-gift/amp/"
+  - title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
+    excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
+    publishedDateTime: 2021-01-04T03:54:00Z
+    webUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
     type: article
     provider:
-      name: gaadiwaadi.com
-      domain: gaadiwaadi.com
-    quality: 58
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
     images:
-      - url: "https://gaadiwaadi.com/wp-content/uploads/2020/06/Tesla-Model-S-3.jpg"
-        width: 1400
-        height: 797
+      - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
+        width: 620
+        height: 327
         isCached: true
 
 secured: "0KcN1GNRWORZjLCnfdQdBuaXhnYWiJicGcaBOKZ306UOwu1oN9X18ciLJ9sUslP5G+B4yFoNY10ODPIK9VNfAG7TWXyDfwtChyNFishbkHeSeec09Khr0DIFJqxlHxw6c+ddEukF/1hvsKhGN01Sm4+Wr92E287e1SPrlfpxRHOic6y7yY3BMtqUai1La+KnmuXYSDXIMhkOurCauvj6AF1JWDWc7zgbc3+B0PjuS/UcET3Vsr+pYpA2+ES+r2dM26Mg47te0CTdYv96sU0Ia+Qa9DY45sKAdFQ0+jxg0wrw31NBurhzGlXEfVmlnAEHURmuQJ85SR+N1NmVkxdCUNmGql3gTPYISITeLIV9Qa+w/BAip5cnbTwRY4u5wyhT52/4SQeWxQu+uehr9U2wfTB/R23vd7Ut36tMCBySXYAxVY/jp0TDzRzCsqJYs/P7rTWjvzegXggP6YnkGZPQksDr9sfpUlYbokP0XSnfHsrHy740V4eDyBUP669JbZgtmoLKXrzofLHlGbj5i+v7MQ==;LR6jpOL+ODROShL8F2dkgA=="

@@ -52,7 +52,7 @@ related:
     provider:
       name: Syfy
       domain: syfy.com
-    quality: 21
+    quality: 23
     images:
       - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/hollywood.png?offset-x=0"
         width: 1200

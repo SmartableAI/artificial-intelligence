@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
-excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
-publishedDateTime: 2020-12-31T19:22:00Z
-originalUrl: "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/"
-webUrl: "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
+title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
+excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
+publishedDateTime: 2021-01-04T03:54:00Z
+originalUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
+webUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
+ampWebUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
+cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
 type: article
-quality: 85
-heat: 135
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
-    width: 1200
-    height: 630
+  - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
+    width: 620
+    height: 327
     isCached: true
 
 related:
+  - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
+    excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
+    publishedDateTime: 2020-12-31T19:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
     excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
     publishedDateTime: 2021-01-03T19:19:00Z
@@ -77,22 +89,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
-    excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
-    publishedDateTime: 2021-01-04T03:54:00Z
-    webUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
-        width: 620
-        height: 327
-        isCached: true
   - title: "Tesla Offering Three Months Full Self-Driving Package For Free"
     excerpt: "This latest incentive by Tesla is reportedly available to buyers who can take delivery by the end of the year."
     publishedDateTime: 2020-12-30T14:30:00Z
@@ -105,6 +101,6 @@ related:
       domain: carscoops.com
     quality: 39
 
-secured: "TrgzYKrGtST3vTIemCEBjRWBb/ipW3P1KoJV7uNKswn5WONhH890n4AZYtCjd8o0rLvZJjRxn2nOWVlLG5YH/egRr15M1ndlQzfmG36tsWy+4/Qf2xVfdu8MarCyx10DbmgY6pacweartsZfqVLgiac8eqyKHlc6MQ7MdNMsPWaytDjCEy4tN+g+hfDhfIC3F2+urp6J6y7z6acbXMYkbk48A4GI5bB1GRFSBi6a+CEkTsoRLlU+zljB+OOcqKlqbiQmtTaHioNSlVnGI+rb+YDz/L6PpLDBoyrrqa9pkE/1oZdpXcsBXWRgWPVkMYdeVeHmSQtx1GVyMx3SrP/5J7Sl3+lamn03UBUStceow2KN3nVF286KD7/cHbcbTtEVVeUY+RAhzaM+tzeNB1Qc5jhoS+Eaex29V9+xnO8Me2kpzoHuN9uXeItT/dxwRQWUQuLWfSTucxGx/nHvqjwuix1X9ponJxPxrr7HrNdb2Ldxx4ZhvOL+xsBxvdM9sTHC230XTXb8vVYSutj9W733hQ==;kMGCeigc29Oa/Nl59+/suA=="
+secured: "ij6+g4ZrK+LhApAsnYHCN3zwqJW7RlSs9QaS51dn49i/0ice1i5WXy1sxgkkreE/ZXOL4VUQljIKC3tGU2AKTnHd6C8i5nU7ddQF1Bsuykodjgv/H1Jk0froHDavFcy43hfGdf4nUBLSFEg9UEJDZo229qhlF2WaHeKA/6dE5SJ3XaWYfZePVT4F9ImaB9OeQ0uEEDLuoclfHTmCjPdXa4n958pQi+6pPjaD4Y2vt5q0Vof2ZG9Im+Wb9uWJqkTG8sfw49D/hgSoGGD/+eSbrMSS8MD93Udw7tK+6Z1klVbCBK3PKRMLKpW58mfBOctPUEESogWy8O/4AvW8urvXBJqgAuNF16jlVPc3Xgm6cNM=;CnARa2ecCRPxc1hBAcpmHw=="
 ---
 

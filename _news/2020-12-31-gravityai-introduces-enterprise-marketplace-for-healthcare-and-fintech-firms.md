@@ -58,20 +58,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Top Fintech Trends in 2021"
-    excerpt: "It’s fair to say that 2020 has been among the most consequential years ever for the fintech (financial technology) industry. Thanks in no small part to a deadly pandemic that swept across much of the world,"
-    publishedDateTime: 2020-12-30T12:42:00Z
-    webUrl: "https://internationalbanker.com/technology/top-fintech-trends-in-2021/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 24
-    images:
-      - url: "https://internationalbanker.com/wp-content/uploads/2020/12/Fintech-Trends-2021.png"
-        width: 1204
-        height: 650
-        isCached: true
 
 secured: "y7QeOXjrHzF9hWVsypcbDIXBP2BNxf2mp8pIpzNN8FgRgliF9rFd0ocdAYxjvYa0pLzFiySwm+RABI+0dY7BNsvKYeFINSRHL4ADW/0XIMUbgjHheR4xPDHXlRwZnOd2L6V8K2aL4kz8vnBNcXtNNsYqmfA1ZXYQwFX+MDWpuo+jeRw1DwbHWpu80wZ9hmpOX9lvwGVVnKbuy3sG01JtGEqTvVBiZihV51joZWQSxz6FNscSH3GaYjFJgTcw7shL5aQh6EIJpWJZVlfWoh3sCH07u2Nq1HptW1jACa1lLpZupAuSz0KoEePyu0hZtCEhWJtG4nqmeLnamq3kJqHFZWPu5pW1Wofj8gMeQMdozO8=;IqdwuPVYCIqgrw0YB2enIQ=="
 ---

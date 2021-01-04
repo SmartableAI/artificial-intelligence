@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learn
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-01/cfa38ae4-38b3-41a7-bd60-f56d80c55239/dispositivos_ciberseguridad.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Top Fintech Trends in 2021"
-    excerpt: "It’s fair to say that 2020 has been among the most consequential years ever for the fintech (financial technology) industry. Thanks in no small part to a deadly pandemic that swept across much of the world,"
-    publishedDateTime: 2020-12-30T12:42:00Z
-    webUrl: "https://internationalbanker.com/technology/top-fintech-trends-in-2021/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 24
-    images:
-      - url: "https://internationalbanker.com/wp-content/uploads/2020/12/Fintech-Trends-2021.png"
-        width: 1204
-        height: 650
         isCached: true
 
 secured: "0tsp9gv1K4f2+ts8aWlKnv5/vs6tion/TZzHk3bMXh+a8jCLH2DwTDgGn8RE8W6WVoVaQQlv2Un1+IaIsFYuRWI+6ZVHk72gI0a8U+t1VUjRC9NL+heYigtW/n4BwNNVQSrRlOtpyIkVs1SdT+/wZdyvGAyWFMLWPKUYQnXo4uVbnFmu1tyJ6fW+yJ6LYVHP27/OXvNqR6wPj+lSjkW40soqS08VivF75blV7iwxexK9mK/buy/8xeEnfn5hS03OToel+4fJXYZPlXDD1e1xi+Dp8rbSeV/ctnPrjbrLflUjxNjghKszP1G/1Y6I7jQV0opZs5CtqA+ChVlO9YXuxNnA74l90THUQwbaFDJ4yicuq4BqG5pKGS0IjKkqz5/909NC/PLstKXjlweEwvXVo9WPYbG9GiirIhEa3q/a6HtsCbH4EJkPPZHVdfZn2h6FGmYpQTW6Jz0tXNiD6gwvfzxp+jswLumDYDVi7e5M7brxOfQzAZ4+dCPjQ5Nl/fQQqXoK7iuxz5ByCsWvo1KIVg==;mVszUMhx8LNDQGR00RDL8A=="

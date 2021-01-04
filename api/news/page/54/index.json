@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-11-19-lapd-bans-use-of-third-party-facial-recognition-software-for-law-enforcement-work.md",
+      "title": "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work",
+      "excerpt": "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
+      "originalUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg",
+          "width": 708,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/lapd-facial-recognition-ban",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban",
+      "publishedDateTime": "2020-11-18T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-4-ai-trends-set-to-accelerate-in-2020.md",
       "title": "4 AI Trends Set To Accelerate In 2020",
       "excerpt": "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021.",
@@ -1181,40 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
-      "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
-      "excerpt": "Today's news further advances IBM's Hybrid Cloud and AI strategy and strengthens its AI-powered automation capabilities. With the acquisition of Instana, IBM will help companies overcome the challenge of managing application performance across multiple teams,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai",
-      "originalUrl": "https://www.nasdaq.com/press-release/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

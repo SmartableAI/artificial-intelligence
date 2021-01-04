@@ -8,7 +8,7 @@ webUrl: "https://www.syfy.com/syfywire/uscs-ai-tool-predicts-a-films-rating-in-a
 ampWebUrl: "https://www.syfy.com/syfywire/uscs-ai-tool-predicts-a-films-rating-in-a-flash?amp"
 cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/uscs-ai-tool-predicts-a-films-rating-in-a-flash?amp"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/hollywood.png?offset-x=0"
@@ -66,6 +67,6 @@ related:
       domain: pmlive.com
     quality: 18
 
-secured: "ODyvngfZP2OyQF6dDc4oudLJWUERUtS5UhDj/LpAsZqr1tNfe8dDmqqws6CJkYQ+lzO/rS07sR7gtkmm0mvPXZAf/Px7qikQ3hM60nROUI2WMOEhkMyp80jbKr3lY5d0j2Zm5JqK3dEyhSFRMadUWYq8lG1XVE/awykSix1J8zsMC1RWS4GpLZ0rsm6uVZ6pML8qRjQKsrCvbjP5HBSXVh87gWQaiiDo2wXGRW0rXc4Jns06liLrbMN2M8CREWunf2sBoJL5RAhFXUlb4jeyOyr/5YijBf2hyrvWjJ5SkFoXyuoER4Xen2/30F5mr5sR/S00hNR+lh0nOitsFSUvR41+LWjcIWfUmI+LPEtbSXM=;k4vEcnUIXgO6p9O6prX5dA=="
+secured: "C8kD8DBEBBgPENIUL07g4wJzB3k5kVUHqeMsaEUnpWWhBJpHiW5iRIrYJ8fq/JwES/OPQg7y1ziaRfAKg4jtes2jfP5q7WPaLfQriB0+4j/GuJOJ3BVAviTQloK4GBlrp13uvMjEJo/i+nEKSHGbr1Ymkgde22vrPM5yhOQW5iK+3n4LUd04/F8dOFb0ZMEotllUEBbBuIWJSs6GmPTBmonNmzRPa+uI3SbE/ZArUHFMcnCLrHRfd5vLEVykoCdegmfTrqumo5X4wLLqKgm6759k4oVxBhWyd1PHDQil8LRnOMb8tWgzvBbianBhDR78bHU3Bs8VUAgQfRxeb/CZ0BfzCVBCV+zWSbjPVnyksScHc89OlTbVHUdKXo6Tx/4dfxrQynQvVKyvBL8i20K7rXbqB1wBW8oqoL/UxTRmRyJU+0HxKpxdnNzjwFfC8pHszWld7zF5qkFn+XPM3vdv9DMH8c8O82l4Is1XFiUuuPm9sAoLqXopN6W67UZAhNoyT8DM61Nj2qs8+Hl3sbARTw==;tzcqKbkb91F0ArAWajtYOQ=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "How the Defense Department wants to measure the success of its AI hub"
 excerpt: "How will we know when JAIC is successful? It’s when the term JAIC is used in conversations at all levels,” DoD CIO Dana Deasy said in late November on a FedScoop webinar. “ [It’s] when people will say,"
-publishedDateTime: 2021-01-03T20:15:00Z
-originalUrl: "https://www.armytimes.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
-webUrl: "https://www.armytimes.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
+publishedDateTime: 2021-01-03T23:07:00Z
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 389
         isCached: true
 
-secured: "XECuikqRI84Mi6T+bNYkraQDgtIr3o7svcaS1K5llGfz48qL+mJEtub77AuYmsHOdwtKJ64+8v1G0hf6K01/+Kd8iuPvk/qrNlRxK33voRJZoH3/oXLO/v0zLFr1pbDmob1Jn55ajihktPrOToDdrybnvKn/fSrOrTAWgNPfVjKWgmJMGPWw3EMEtJ4eipqppImxX0s57fe5etDXxecAy4fYWuSl2xR4/LyQa2iryoir2h6713SqG+bm84WNDZZ7pPnGdP8pn2Q6T6cO/ldTMyDjRm8bkGbcSFbnB64X7XVuHOAoykpPVfH145+pRWcrAttcj1jTllv/jrQpAzK5ALA0U0QZgrcYrl4csrNj1k0=;CmN8fftYzFd/47TKf1wsiQ=="
+secured: "Eu/z8tms1VyXS+Tb/CVOuN+mRdJ6DK9aUEnL51Y2pM3uMcbtmhDIFM4PS/iun9h5CFPFESZgjUfqo08ov6YHn1B2k0OcIhQdgDzbuGiyz4GxuQ4t8vuCTmCJ7/v1PObk0ssPoYYhJdr+rIbbtNzR/OVf+ArYvqIVOu4lO/dv/nbO3cr+2qXngwXDVUB4zw+eYio6ubmDceIhunak0gMEgXEYbVXn6EA5cOXpsz7Kd5835TXvjRelOXNSPnzW6p5oM945xv8c6l4yj0pfXAqj90bNdBlVULZFAQqggYojh3v7MJetBqFpkE9LTpIDRTvGIclDGisIBK3BHSbGa+z7IoFfJgCiAoAjqkI4Hbc2YRM=;ZmSOFG5sYudijGpUVch8nA=="
 ---
 
