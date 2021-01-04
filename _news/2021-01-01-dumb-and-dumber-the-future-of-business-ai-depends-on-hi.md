@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Empowering businesses of the future"
+    excerpt: "The latest episode of Mint CXO Dialogues, ‘Building Resilience that empowers India Inc’, powered by Microsoft, discussed the new-age strategies and technical innovations that will power businesses of the future."
+    publishedDateTime: 2021-01-04T11:42:00Z
+    webUrl: "https://www.livemint.com/brand-stories/empowering-businesses-of-the-future-11609759259187.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/empowering-businesses-of-the-future/amp-11609759259187.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/empowering-businesses-of-the-future/amp-11609759259187.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/01/04/600x338/mmtt_1609759293061_1609759297833.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "COf0mvmQqT3OktLtB+3zrAOxG0HfWtkrSgVZcTbk0g6SUMyB3RrHl+EPKyEw9UrSCMG1Ncikb3582pGayelSgixf78uHQLbZwSERIVzU5XZ26fg0oJBh4xeZ1DgA+dg2NvRLH5sW7aanLnuNTLg6hm2E5npP7J99FbKbvFTxA7XuKbS6hPXsk5OmSq3opptjuyJckWOBDCVclBK7SwfFcY16AHrYDl0Emghjdl0mG8w6FjwS1Eq8mXs109Vi874VJ1f4UWOk8c4VKyJO6NRRVXrl6X4TgJ3ekov3kUJUMTyGWjmg9ipaKCoMuYiCdwGYsCGBjqHJ/36mYnYpsuPieZ7XczWGME40XlhfDzoRiW65reR0KDUF4PC0iv1LZ5o/1Q/Mww8Bwsi5O/JjbMhYCEgBJcmmSvvRwc//Ul3UYBA5pKS6Qa90RSHM0kqbjT5MeJZ7uhXjfoCDhKmqQjXLGZNbpcqy1ZlCWD3tNd9RKs6U4uoohMZb6D9vF0mtCdaG1x62P7rR0DWMV5d4jgtXag==;k/QNPJ+k3WppgjmNB37Odg=="
 ---

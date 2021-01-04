@@ -53,6 +53,20 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "Farewell 2020, hello 2021: The year in cloud reviewed – and what will come next?"
+    excerpt: "Amid the pandemic, 2020 was certainly an interesting year for cloud news - with Covid by no means the only game in town. But what will 2021 bring?"
+    publishedDateTime: 2021-01-04T12:45:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jan/04/farewell-2020-hello-2021-the-year-in-cloud-reviewed-and-what-will-come-next/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 19
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/moritz-knoringer-Vn1m4tSCUt0-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "QSqtXVHoMjOLsUDhZ9hG8SzgZM6MrLuEO2sTJSskWWBKs2pC+jGKG8pFlYR/88VwyFcuQrlZXmC9GwISG4Yxid82DX/UaQckaP4h33Dt1SEBioyR3dn0nJ5dqc2UBeOCR5U0hmQz0j8zCrjsPAczWGpsYkJp38ZkWgWwV5sNsbh7bYNBDJbmynLuc+0tvOIrndp6O8iHXUXKjb1vwEV8l6b8mutXIT7M9AeK/chrTK+H/3oWvSz9J8bipaR/vWCT8RXAPogAESwiD+fvy7/4SYdK3CQdzJiQg4vKmqlfmdoPWH6CgfsrodlsOKnuLllBQD5gdbbb2YytJFDmjYWIK9gzuvnQ/4Lf24s7ir8msqQ=;tL5iWKDyOzVEhvsOVVYGEg=="
 ---
