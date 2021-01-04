@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
-  - title: "2020 Tesla Purchases Come With $10K Full Self-Driving Package Free for 3 Months"
-    excerpt: "In case you missed Elon Musk's leaked letter to his employees, the CEO is pushing for a last-ditch effort to hit the 500,000-unit delivery goal he set for the company a few years ago."
-    publishedDateTime: 2020-12-30T10:45:00Z
-    webUrl: "https://www.autoevolution.com/news/2020-tesla-purchases-come-with-10k-full-self-driving-package-free-for-3-months-153772.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 35
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/2020-tesla-purchases-come-with-10k-full-self-driving-package-free-for-3-months-153772-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "TrgzYKrGtST3vTIemCEBjRWBb/ipW3P1KoJV7uNKswn5WONhH890n4AZYtCjd8o0rLvZJjRxn2nOWVlLG5YH/egRr15M1ndlQzfmG36tsWy+4/Qf2xVfdu8MarCyx10DbmgY6pacweartsZfqVLgiac8eqyKHlc6MQ7MdNMsPWaytDjCEy4tN+g+hfDhfIC3F2+urp6J6y7z6acbXMYkbk48A4GI5bB1GRFSBi6a+CEkTsoRLlU+zljB+OOcqKlqbiQmtTaHioNSlVnGI+rb+YDz/L6PpLDBoyrrqa9pkE/1oZdpXcsBXWRgWPVkMYdeVeHmSQtx1GVyMx3SrP/5J7Sl3+lamn03UBUStceow2KN3nVF286KD7/cHbcbTtEVVeUY+RAhzaM+tzeNB1Qc5jhoS+Eaex29V9+xnO8Me2kpzoHuN9uXeItT/dxwRQWUQuLWfSTucxGx/nHvqjwuix1X9ponJxPxrr7HrNdb2Ldxx4ZhvOL+xsBxvdM9sTHC230XTXb8vVYSutj9W733hQ==;kMGCeigc29Oa/Nl59+/suA=="
 ---

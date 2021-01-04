@@ -28,12 +28,12 @@ images:
 related:
   - title: "How the Defense Department wants to measure the success of its AI hub"
     excerpt: "How will we know when JAIC is successful? It’s when the term JAIC is used in conversations at all levels,” DoD CIO Dana Deasy said in late November on a FedScoop webinar. “ [It’s] when people will say,"
-    publishedDateTime: 2021-01-03T23:07:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
+    publishedDateTime: 2021-01-03T20:15:00Z
+    webUrl: "https://www.armytimes.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
+      name: Army Times
+      domain: armytimes.com
     quality: 37
     images:
       - url: "https://www.armytimes.com/resizer/ZNgdMdpJvDsmwaRkyRn14Gpt9vE=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg"

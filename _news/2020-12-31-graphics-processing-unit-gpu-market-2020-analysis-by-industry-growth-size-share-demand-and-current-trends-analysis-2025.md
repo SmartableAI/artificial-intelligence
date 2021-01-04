@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics Market 2020 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2024"
-    excerpt: "Market Research Future published a research report on \"Robotics Market Research Report – Global Forecast till 2024\" -"
-    publishedDateTime: 2020-12-30T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2024-2020-12-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HJPNIpCbTB8B0jxzQmQ0UaWDBpazMMvp14fgM66dWYh73Wpu79u1c/8Gc4q9t+sCX+Grp9Kri3pWhaqNVkURaEj3sot64JtDw9KT5Z+QZyenIATRip0MDe20ccAzGxr58Ep0cHaWYcKtUfL9I3OZ6grbVDQI0KBtDip48u8q432Jud/97POVwkwWhu9u99AlX8qh6geYy3Sli6i0jkAtg1Bkgg9jzJb62ldyY8OoyhKZxH5PU1RcSP3SqnF0as1rO6xStWc/F8PnzRx2B8S36XDnOF/q4zJN9UQTFll0J7G3R2JcTeOH1Dh4hEl5gHAzQyMu4lUd+t1k37G4c/KhLEKYsrienYny7hI2pJzCINE=;QZe6ifcoobSkB3GAtBywag=="
 ---

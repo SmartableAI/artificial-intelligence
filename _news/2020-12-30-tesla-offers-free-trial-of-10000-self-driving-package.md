@@ -100,20 +100,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
-  - title: "2020 Tesla Purchases Come With $10K Full Self-Driving Package Free for 3 Months"
-    excerpt: "In case you missed Elon Musk's leaked letter to his employees, the CEO is pushing for a last-ditch effort to hit the 500,000-unit delivery goal he set for the company a few years ago."
-    publishedDateTime: 2020-12-30T10:45:00Z
-    webUrl: "https://www.autoevolution.com/news/2020-tesla-purchases-come-with-10k-full-self-driving-package-free-for-3-months-153772.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 35
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/2020-tesla-purchases-come-with-10k-full-self-driving-package-free-for-3-months-153772-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "usqB2iUMeQc/CnCzc+WnSpCq10Rc7QYUkKPka0SwxklpBAyZm1YhyEVI+8QQJReziKFiaFZTvyOZKdBplX1Il5u7GgNic4DMmHTyHhkat5mbYw2RM1+pvOz4DyvDqdxbfQDfhdGWoPnpXmc1nYb+JTwOXjE4sNYhr5EKYg915bciX07PRmA11l6Yt8RGfwSb770kdH//i63v7npvMvQoEipCp7FwNNuTkF2mEUfWqqlVOeiJRhvIoggQuQ9Q8WJos2LFDGTvvWIxNONmuoPFhe8fHmMrUdLCxlLrC0G35iNz5MSufFlRjcqP+8Xi3bUIJkoLD5TBJ1+BeXpnhIFLbB+dEe75qiOohgRBBY6bTzA=;Axi8/iTwPI18pcHeQGo+ZQ=="
 ---

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Making A List Of The Top Autonomous Vehicle Stocks To Watch In January 2021?"
-excerpt: "Looking For the Best Autonomous Vehicle Stocks To Buy Right Now? 3 Names To Know. It has been an invigorating year for autonomous vehicle stocks so far. Autonomous vehicles (AVs)"
-publishedDateTime: 2020-12-30T16:23:00Z
-originalUrl: "https://www.nasdaq.com/articles/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30"
-webUrl: "https://www.nasdaq.com/articles/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30"
-ampWebUrl: "https://www.nasdaq.com/articles/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30?amp"
+excerpt: "Despite the self-driving vehicle industry being in its infancy ... Top Autonomous Vehicle Stocks To Watch: Baidu Inc. Following that, we have Baidu (BIDU Stock Report). Baidu is one of the largest ..."
+publishedDateTime: 2020-12-30T17:21:00Z
+originalUrl: "https://www.marketwatch.com/press-release/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30"
+webUrl: "https://www.marketwatch.com/press-release/making-a-list-of-the-top-autonomous-vehicle-stocks-to-watch-in-january-2021-2020-12-30"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in January"
@@ -54,6 +62,6 @@ related:
         height: 628
         isCached: true
 
-secured: "e5EsH83eTYr2mMR05hx7OaVcFNNS8UfJZ7k3fvm6dEW7YRM8oAaGho7xh0eNFjZqgAyVUcmzeZzaxvldmW4zsWWhYRUtwskF8rY639b8Ubg8vok8XCsbmS486JVb4xPM+I+J1DoQjyLmctZ2DH1I5eRbfGyh01CSK2wOSjevV/sdk6ax++msUblE0GZoYVB3+IC4gFPf1LAtQhS0wMmjwg58DIAy9btJwyWvoiBi224wS4Uhhq5Lp3KNDFF/0MglUWHv+KsxTlCrpdIvGHwPF/QAiAdG8nDwtaRZTllJ1TO86gDsof830jt+uT443+6MM/UYiO/VqFHZ8b9a1B96x++AEjL5YYgd4OmMGePeeQ4=;uX7OfNxHcqBDEjci8kpdyw=="
+secured: "U6irGGVw668RnAWa0Of4dDXL5hvHbWxPNxLYykjfzatqJ/msCDOqQBZOErcTKpoDAidKvI1UBLIJKDZPrk1MTLrPRBPl+UH1Qv/zMF1/rOerhXfuBWhwdvPKYBILXgAafdC+ugPRPmOVmfiJ4G06gF2szd/X8d4BMePVG3Z32f8DuqJUknfNgidrzoWJMA/T9+dnisdTD2s5Zoo4W0290urRCTiupjjyqyYHgPl/0Sx2QBJwyDk4gF2Ktv1+LSnAT9rlOqlFiJpkKwWIs9iM39l0UgHrsoUxLOeG7v0LwWVh+oE4/w7I383iKtqWL3yhjQRi4TgtVfEx1N5UeNfqlGqdkE8ETVmLZeak7HFwrQQ=;kYvKZuQdX955AauHAdTMqg=="
 ---
 

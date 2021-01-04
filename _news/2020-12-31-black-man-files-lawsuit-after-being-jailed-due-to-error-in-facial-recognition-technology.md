@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-d
 cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Black Man in NJ Misidentified by Facial Recognition and Falsely Jailed, Lawsuit Claims"
-    excerpt: "A New Jersey man sued police and prosecutors, claiming he was wrongly arrested and jailed after facial recognition software mistakenly linked him to a hotel theft, NBC News reported. Nijeer Parks, 33,"
-    publishedDateTime: 2020-12-30T10:39:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/black-man-in-nj-misidentified-by-facial-recognition-and-falsely-jailed-lawsuit-claims/2804764/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/black-man-in-nj-misidentified-by-facial-recognition-and-falsely-jailed-lawsuit-claims/2804764/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/black-man-in-nj-misidentified-by-facial-recognition-and-falsely-jailed-lawsuit-claims/2804764/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 66
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/6413650923-1080pnbcstations.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Black man in New Jersey sues after false facial recognition lands him in jail"
     excerpt: "Nijeer Parks was 30 miles away when he was accused of shoplifting and trying to hit an officer with a car, landing him in jail for 10 days."
     publishedDateTime: 2020-12-30T14:28:00Z

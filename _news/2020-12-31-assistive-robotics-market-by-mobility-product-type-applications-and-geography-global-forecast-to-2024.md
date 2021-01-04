@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/assistive-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics Market 2020 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2024"
-    excerpt: "Market Research Future published a research report on \"Robotics Market Research Report – Global Forecast till 2024\" -"
-    publishedDateTime: 2020-12-30T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2024-2020-12-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Graphics Processing Unit (GPU) Market 2020 Analysis By Industry Growth, Size, Share, Demand and Current Trends Analysis 2025"
     excerpt: "Market Overview The Graphics Processing Unit (GPU) market was valued at USD 20.62 billion in 2019 and is expected to reach USD 104.71 billion by 2025, at a CAGR of 31.1% over the forecast period 2020 - 2025."
     publishedDateTime: 2020-12-30T18:27:00Z

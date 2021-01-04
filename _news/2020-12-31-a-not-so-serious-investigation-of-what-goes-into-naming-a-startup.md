@@ -2,9 +2,9 @@
 category: news
 title: "A not-so serious investigation of what goes into naming a startup"
 excerpt: "Having an innovative sounding name won't make your startup's product actually innovated, says Eunice Park, naming specialist. Yes, that's a real job."
-publishedDateTime: 2020-12-31T00:27:00Z
-originalUrl: "https://www.bizjournals.com/newyork/news/2020/12/30/startups-play-the-name-game.html"
-webUrl: "https://www.bizjournals.com/newyork/news/2020/12/30/startups-play-the-name-game.html"
+publishedDateTime: 2020-12-30T23:27:00Z
+originalUrl: "https://www.bizjournals.com/chicago/news/2020/12/30/startups-play-the-name-game.html"
+webUrl: "https://www.bizjournals.com/chicago/news/2020/12/30/startups-play-the-name-game.html"
 ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/12/30/startups-play-the-name-game.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/12/30/startups-play-the-name-game.amp.html"
 type: article
@@ -19,6 +19,6 @@ provider:
 topics:
   - AI
 
-secured: "ZxmyK2QcarcolXG7V+9CqnBlU+p+ca0N3r94yp8q/M/5IWuN0cb5ehoTfg4BCC4sS4FVKP37EuCo+RDq5zbA+UWj5OLFgiCmfiwAFf54Oy+a68p1fuDxSm3m4NsHGzs0E6EJKr1y2diw2muo5ex029v9412EvRqkL18E/U2o/TQz11t8Gdmr2lLJcla9WKmaIMhN1Ack5SuuK3qIln8teSPCWPxhg9fjXu3fikp0T+VPYr0q6s8iAHkQdK49VK/yuF6XI7IFDox3jDor9VqiuD8PrDKQ6hQ2qDDC0TCsrgd+nOGLHHpW+YFeKHNyQXnw3owtdQdOLLF6kotVzul8oDxspsRehpbBhUWU7ifTl3uR4nlso9MNNKaimuiOWx4nT1moe2BrlPGBiQkre6RBghy8gCFZajk/M5U6plJc/Vplt3S/mevms6ZrX6GNMOjT5PQ5bC/OpTmpyhDoLX1RIx9kSjFwYYB9+8YXCHw2vbaL1VtLFCoh1ueJI34Rd2+PIDMwSUFLq5hlEx1QIxiTJA==;8w6bJO41cAE9cH3rTDE6GA=="
+secured: "7ZtnKoy46N8MYPWZAO4NJs+n6p69DCe1SoAgnve2IyZmPCQccCX3myd25a27MxyFjz6rxjenSdejbVHfs4Lb8oQF5gZrmu452PzF93lIdZ9gvAlvbf9K5OnqbdsomLRWs5e20ygVxYzT6B95Ppy4WpkmUpYIWk0uHn1WhoVR0DO4wuIWOFDOkWdfzt1vSrWo937ogCevV+o0zJalbkiXbso2PVzEvY54rdXK32Ya5tonUvVQ/sRttXjUG4UEYDOSzy2J2x/avBWr/7RVvgUPT+elYhQUpzcJo9NhmmsHvDnDRDaZq9j0J2tI+nwn6fCc4hIe4NFeaWtkOrV+Wv0n549i+GxpHuVbCQYEIg9VsPeSGvGpcCNzGJTmI3fpiMH7vEB0OLMyqfl4BgGfjqwpFpQNBMNinxJ0VTtILb2a9AD3DMZ0UOYcusCyAlhkxjqc2bQ5l6uREML9NPAhpQAn3L8qQor3TV2WWfrjnqXFaMB1xOVZIaQ+AeRc1gHdXBm0UOCFQWggMqlJLZa0n38Vew==;+NTw02otjTG02fgyx66MnQ=="
 ---
 
