@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorite
 webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorites-2020-the-years-best-ai-stories/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

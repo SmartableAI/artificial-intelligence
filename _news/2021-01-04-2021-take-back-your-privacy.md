@@ -53,6 +53,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "What do the Experts Say About AI in 2021?"
+    excerpt: "AI and machine learning are finally beginning to come into their own. What trends should we expect to see in 2021?"
+    publishedDateTime: 2021-01-05T08:05:00Z
+    webUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 43
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/AdobeStock_230441943_770-400.jpeg"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "Farewell 2020, hello 2021: The year in cloud reviewed – and what will come next?"
     excerpt: "Amid the pandemic, 2020 was certainly an interesting year for cloud news - with Covid by no means the only game in town. But what will 2021 bring?"
     publishedDateTime: 2021-01-04T12:45:00Z

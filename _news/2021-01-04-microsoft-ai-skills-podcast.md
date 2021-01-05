@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "AI and cybersecurity are tipped for big things in 2021; here are the ASX stocks to watch"
+    excerpt: "What does 2021 hold for AI and cybersecurity and which ASX stocks could benefit? Stockhead has spoken to industry experts about what investors can expect."
+    publishedDateTime: 2021-01-05T08:20:00Z
+    webUrl: "https://stockhead.com.au/tech/ai-and-cybersecurity-tipped-for-big-things-in-2021-here-are-the-asx-stocks-to-watch/"
+    ampWebUrl: "https://stockhead.com.au/tech/ai-and-cybersecurity-tipped-for-big-things-in-2021-here-are-the-asx-stocks-to-watch/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/ai-and-cybersecurity-tipped-for-big-things-in-2021-here-are-the-asx-stocks-to-watch/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 50
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2020/12/GettyImages-1202271610.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wm1/rWjqO4MJAJ+09iUqD7imlIv2MXemVTwEtrf0j4RCQZUW0pf2COYMpmSqtVpTWFivRLyxRm1XPEyzm1C29cNuKYPzPuGwGu5mmlCiuNfxdKvzok0qvtX8KU3V7yltbQHAV5C+Zxq9TKLlsy3UEUewEM0A2cUuG1luPXKQhfDuHdORFTffHeVCTjX2qo/vBXa1jRyy3056SR4ETcTU2e8+STj9UC24Ohu8CZXI1A/MNMW1tY4RP8iA8mwqamWiGcIDYpqaMS2sAy/HfhT5DDEMoOo6PbwFmUNdCDVtrannaBviVgT8WbAARXNBy2dqY1Ud6cPbltgk0BpE3ecMiLCKMYpIi9P2tI+YGqCvaf5ENQPMKJKT0A7PKNxhqr67MeAX4qp4+ENGvZv6mncudoqYk+Tw3ddgZdUnFU4IjqzFF5m7nIN1hOe+2+JmrBYYExqntbVcuTfBuB9xbLi/gk/QiaEf75wrQqTSxDP56wT+RynmFd+iUmA3mR9Bco+CGV3jkPOnSk7HwGOvLb60Dw==;82ktAfMAT3RypjqQqaGlIQ=="
 ---

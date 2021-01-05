@@ -20,48 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "How artificial intelligence will be used in 2021"
-    excerpt: "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3."
-    publishedDateTime: 2020-12-31T16:38:00Z
-    webUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/"
-    ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
+  - title: "Why This AI Company Founder Left Tech To Become A Healer"
+    excerpt: "After founding three tech companies and working for years as a UX designer, Cris Beasley made a radical choice. She left the tech world to become a healer, moving from SF to the cloud forests of Chiapas,"
+    publishedDateTime: 2020-12-31T18:33:00Z
+    webUrl: "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/"
+    ampWebUrl: "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 93
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Top AI-based Smartphones Released In 2020"
-    excerpt: "I am a journalist with a postgraduate degree in computer… As per internal estimates by CyberMedia Research in 2018, in the coming years, the number of AI-enabled smartphones will grow significantly. The report also said that as many as three of five smartphones shipped in 2020 would have AI capabilities."
-    publishedDateTime: 2021-01-03T12:32:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-based-smartphones-released-in-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Smartphones_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Upcoming AI Conferences To Look Forward To In 2021"
-    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
-    publishedDateTime: 2021-01-05T05:33:00Z
-    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
-        width: 1600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee1620c984f344e6740c36%2F0x0.jpg%3FcropX1%3D260%26cropX2%3D4514%26cropY1%3D0%26cropY2%3D3190"
+        width: 1200
         height: 900
         isCached: true
 

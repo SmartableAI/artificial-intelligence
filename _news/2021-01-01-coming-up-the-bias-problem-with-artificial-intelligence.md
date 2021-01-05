@@ -38,7 +38,7 @@ related:
     provider:
       name: MPR News
       domain: mprnews.org
-    quality: 59
+    quality: 61
     images:
       - url: "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg"
         width: 2000

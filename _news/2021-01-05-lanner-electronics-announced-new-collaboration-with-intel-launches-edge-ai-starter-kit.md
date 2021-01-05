@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-04T22:37:00Z
 originalUrl: "https://www.embedded-computing.com/news/lanner-electronics-announced-new-collaboration-with-intel-launches-edge-ai-starter-kit"
 webUrl: "https://www.embedded-computing.com/news/lanner-electronics-announced-new-collaboration-with-intel-launches-edge-ai-starter-kit"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Google AI
 
 images:
   - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/727806800/76219803_edgeai.jpg"

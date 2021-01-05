@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Tech in 2021: Debate on AI ethics to zero in on human oversight and accountability"
-excerpt: "SINGAPORE - The deployment of artificial intelligence (AI) technologies will continue unabated. From automating driverless cars and factory operations to detecting cyber threats and fraud to predicting diseases and customer profitability,"
-publishedDateTime: 2021-01-04T22:47:00Z
-originalUrl: "https://www.straitstimes.com/tech/tech-news/tech-in-2021-debate-on-ai-ethics-to-zero-in-on-human-oversight-and-accountability"
-webUrl: "https://www.straitstimes.com/tech/tech-news/tech-in-2021-debate-on-ai-ethics-to-zero-in-on-human-oversight-and-accountability"
+title: "What do the Experts Say About AI in 2021?"
+excerpt: "AI and machine learning are finally beginning to come into their own. What trends should we expect to see in 2021?"
+publishedDateTime: 2021-01-05T08:05:00Z
+originalUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
+webUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
 type: article
-quality: 50
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: Design News
+  domain: designnews.com
 
 topics:
+  - Machine Learning
   - AI
-  - AI Ethics
-  - AI in Autos
+  - AI in Robotics
+  - AI Hardware
 
 images:
-  - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
-    width: 763
-    height: 509
+  - url: "https://www.designnews.com/sites/designnews.com/files/AdobeStock_230441943_770-400.jpeg"
+    width: 1540
+    height: 800
     isCached: true
 
 related:
@@ -40,19 +41,19 @@ related:
         width: 620
         height: 360
         isCached: true
-  - title: "What do the Experts Say About AI in 2021?"
-    excerpt: "AI and machine learning are finally beginning to come into their own. What trends should we expect to see in 2021?"
-    publishedDateTime: 2021-01-05T08:05:00Z
-    webUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
+  - title: "Tech in 2021: Debate on AI ethics to zero in on human oversight and accountability"
+    excerpt: "SINGAPORE - The deployment of artificial intelligence (AI) technologies will continue unabated. From automating driverless cars and factory operations to detecting cyber threats and fraud to predicting diseases and customer profitability,"
+    publishedDateTime: 2021-01-04T22:47:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/tech-in-2021-debate-on-ai-ethics-to-zero-in-on-human-oversight-and-accountability"
     type: article
     provider:
-      name: Design News
-      domain: designnews.com
-    quality: 43
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 50
     images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/AdobeStock_230441943_770-400.jpeg"
-        width: 1540
-        height: 800
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
+        width: 763
+        height: 509
         isCached: true
   - title: "2021: Take back your privacy"
     excerpt: "Photo by Jason Dent on Unsplash The Philippines is one of the increasing number of countries with a privacy law that protects its citizens. Unfortunately, just like most laws in the country, implement"
@@ -83,6 +84,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "cnLAPRQ0pnjHJk94I0daWtT85rszHd4l7Myoh0+aBRvi9Rwx/CV0IB0DL0uYef+Yq/q4VBApDp2bVZ0t03s//Fi1UZxphiI58TFRP/jSkzGPJxSNBIwPq46S+aQ4yeKKy5NQ7DHS0cnBgTWJF5USm3UYQwIjovPJ3MeVlIzM0VFD8BvSV4X2Pl9PcGuQYDy3ohW98vpz299vEXL45J59k7N5Iq4yBG09+OLxlUWchbbY518eks3vWUcKeyBSqflmjvw+5ckfq9Kss2xlN38HkJl8hFkhEirC71UgubTEEQDkzqCqpzFMEZSTXXTmyI49RMQnv1FDaHVfdDwiITPlB4fB0wlvBmkRJt3fqLbj2pI=;2jWWwzVwge7W+acVU4LGfA=="
+secured: "L2oNwyR9JUVFRtm88ZZ0x0OTBYAUTaNnnVdUcVhDF80qVvWOjWwYOBChAPDSjlioa1wGRxhYGcF85zeLW/vi6OuY5mK2MyDzo6nECdYrUjxjc7pvLc+M4fTMrESMKd2NiaDfVyodg01bhhR4f1BJmt+p2s1MkR2PHHGXOPgVFfEAsJdvzKncCzmIPMDAVOxtI+vRyPPSAiBJ62TTk1GYkmFPLkcDO19mPiOk7yaCkaZN8kQe1TSMlu0UU/6BRqXxG2i0Afs9rNvq9j2SufNNCXTjacFStjbjCxPmqeDWNj28RU0Bd+arUdF/U2IJC7giWn/BPtBnBITZBLyNINzRrs5P5XYVx+BaK3CuYKx3xz4=;FxOV+Nwv9VsaSDTvrRsNaQ=="
 ---
 

@@ -1,32 +1,46 @@
 ---
 category: news
 title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-publishedDateTime: 2021-01-05T05:54:00Z
-originalUrl: "https://newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/"
-webUrl: "https://newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/"
-ampWebUrl: "https://newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/amp/"
-cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/amp/"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot AskDISHA improve satisfaction of customer interactions"
+publishedDateTime: 2021-01-05T07:06:00Z
+originalUrl: "https://www.thehansindia.com/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
+webUrl: "https://www.thehansindia.com/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
+ampWebUrl: "https://www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-    width: 1080
-    height: 582
+  - url: "https://assets.thehansindia.com/h-upload/2021/01/05/1022921-microsoft-azure.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
+  - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
+    publishedDateTime: 2021-01-05T07:23:00Z
+    webUrl: "https://www.cxotoday.com/press-release/microsoft-powered-irctcs-ai-chatbot-askdisha-enhances-user-experience/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 54
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2019/11/Microsoft.jpg"
+        width: 4657
+        height: 3105
+        isCached: true
   - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
     publishedDateTime: 2021-01-05T05:34:00Z
@@ -42,6 +56,6 @@ related:
         height: 401
         isCached: true
 
-secured: "AOSeO/3NMrU0fo6pRiPkp4THrBtjDtit/+ReqxfpLUqZeXZNLlNqB7z2Hq8WHPdBdHS97VMw3GJsCTuYPxqZ6W5nrifsUaFBHcAHvrCQlas/aK3eJx0awF6hVOq7H3xu0bzpaSXNF42crXKmfAgJ15o/7tfqbUcq6JSw7c++9LMY5rMcufrHBiIPTW4IS1k3MqIY1wz5VFINX3+xlDZxX4mxWcnRf5phfyc002YubOyhXatyFT/KxjpBBVPpD71NiQv3b+wj/7NFEYKeFL2ysWmK+0Ol/gsiycNkdgJEDQYQ0yqPsYNgj4K6H0kPUK6v53YNSGvStKA/O4ubN1ValY7i1TtjiBHwPjuu4hBW3nU=;rw1aWn9RohYxH6C/W8BdJw=="
+secured: "B6YY/Ocuv86yIK4Lfi4zlLcEJlqKIRa4Z9OZ8DFHeTKKjmrylLdzmUCiG7+N7JZVQuFVqUKQBzgpmTKQyCpHxGjeKCpEODGP4ss9Xh6Y11naVMDwpBv2FHoAB/X9v9oanPfjJmF2YzM44y5joxY3jdzbwgwPPAhz2SuGarcGi4qlnHD8Wgdo+p2Kv3IGiHNWoeIZDp00LF4jwtr7EDkXEIRklnpxHWhkdVHviP/Kx9dhIZj79QIhhuWzoqvc56QdMx+7ULfDZg7lvazHjiKs+AZDH4UstvPWY3SiuGL0Dr/sW9fc2bEUdi08p8lT4tiN8POHDpub76+f881LcyO4nWx8AwlXYSspw3lVEY14iSk=;knl/lKI3Iae46RqISDO2jg=="
 ---
 

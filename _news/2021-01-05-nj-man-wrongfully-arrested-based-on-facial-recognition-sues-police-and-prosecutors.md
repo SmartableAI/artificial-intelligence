@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/nj-man-wrongfully-arrested-
 webUrl: "https://www.biometricupdate.com/202101/nj-man-wrongfully-arrested-based-on-facial-recognition-sues-police-and-prosecutors"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Unregulated facial recognition must stop before more Black men are wrongfully arrested"
-    excerpt: "HOW MANY more Black men will be wrongfully arrested before this country puts a stop to the unregulated use of facial recognition software? So far, the count is three, and that’s only those we know of."
-    publishedDateTime: 2020-12-31T16:22:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/unregulated-facial-recognition-must-stop-before-more-black-men-are-wrongfully-arrested/2020/12/31/dabe319a-4ac7-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+  - title: "Third Innocent Black Man to Be Misidentified by Facial Recognition Software Sues Police Department and Prosecutor for False Arrest and Imprisonment"
+    excerpt: "Nijeer Parks, a 33 year old Black man is suing a New Jersey city, police department, and prosecutor, for false arrest, false imprisonment and violation of his civil rights for misidentifying him using facial recognition software."
+    publishedDateTime: 2020-12-31T17:38:00Z
+    webUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/"
+    ampWebUrl: "https://lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
+    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/civil-rights/third-innocent-black-man-to-be-misidentified-by-facial-recognition-software-sues-police-department-and-prosecutor-for-false-arrest-and-imprisonment/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 51
+      name: lawandcrime
+      domain: lawandcrime.com
+    quality: 21
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZNYQSCQVAEI6RCYIAJ5GZSZY5M.jpg&w=1440"
-        width: 1440
-        height: 1024
+      - url: "https://lawandcrime.com/wp-content/uploads/2020/12/face-software.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "3+krK5B87Vv1n3R7HC6bqc7etrO4PfjchbKKsP06R95JBeEv0oveSXz60axMulWdFo1D8AcKBNp1GvNRkE4OCbkqGlbOHLKp3JTMBcPx8IKZOn82i+Nbpvq/6JtOMJAHy49avqHmAfMsK3GclHQjYcvmIQ0leiuj4F2JFqbg5voUpvig1XZYb20n4NPBEs7MfJkFwbhXg7jNUparm05zVmLH55ZVUGd1x7riidzCk0phjYqWNQOiSyOa+wLf7aJK0NDa+J9pHFir72scuQOempCKbCBWI7HYyLhL8udF0UN5f7VwPwCQRgG0p+OFnqZ67jTRhvu4NOf3ZrVzhC8j8TMH+pqgfyFQpudHTyvON262kcHBKwqS3Up+zMuGq6x0+s+R3aI+kOEYNqRzMFISuvKstoLocMpAKrnBELLkFybVUtgwP3tFBoHbNg8li0mZiJMHdHImbXaMVZthmL6z3hoZgTjroV86IwFp0LiDlTgkCCv49UZOwnFDPRjT6YewLvMZMmM4ogdLT6Yrmsa42Q==;1Go1laBP3qTjM0qf2EhWNQ=="

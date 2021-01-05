@@ -264,49 +264,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-when-using-ai-is-an-amazing-idea.md",
-      "title": "When using AI is an amazing idea",
-      "excerpt": "At first, artificial intelligence might sound like a scary and unpredictable breach of the tech industry. However, we often forget that AI already accompanies us while completing simple daily tasks – for instance,",
-      "sourceUrl": null,
-      "webUrl": "https://techengage.com/when-to-use-artificial-intelligence/",
-      "originalUrl": "https://techengage.com/when-to-use-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techengage.com/wp-content/uploads/2019/01/ai-illustration-purple.jpg",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techengage.com/when-to-use-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techengage-com.cdn.ampproject.org/c/s/techengage.com/when-to-use-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-01-01T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechEngage",
-        "domain": "techengage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-31-black-man-files-lawsuit-after-being-jailed-due-to-error-in-facial-recognition-technology.md",
       "title": "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology",
       "excerpt": "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days.",
@@ -1421,6 +1378,58 @@
         "AI",
         "Machine Learning",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-amazon-alexa-gets-real-time-translation-functionality.md",
+      "title": "Amazon Alexa gets real-time translation functionality",
+      "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "originalUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg",
+          "width": 2040,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "publishedDateTime": "2020-12-15T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

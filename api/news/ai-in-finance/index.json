@@ -414,6 +414,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
+      "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
+      "excerpt": "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions.md",
       "title": "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions",
       "excerpt": "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it",
@@ -1315,40 +1359,6 @@
         "AI",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference.md",
-      "title": "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference",
-      "excerpt": "Powered by artificial intelligence and behavioral economics, Lemonade set out to replace brokers and bureaucracy with bots and machine learning, aiming for zero paperwork and instant everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

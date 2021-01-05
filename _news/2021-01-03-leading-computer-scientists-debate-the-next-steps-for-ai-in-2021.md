@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/02/leading-computer-scientists-debat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Leading-computer-scientists-debate-the-next-steps-for-AI-in.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Upcoming AI Conferences To Look Forward To In 2021"
+    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
+    publishedDateTime: 2021-01-05T05:33:00Z
+    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "zLx+hgDxRtKWzVfdE6hl7WhJ+ZNdYKtU8ga/+CR89ErhEytyHykhLcp0swF2nSpnzVxUujlfuwj5WvsOIDZmpgKajyzjP/8JFU/Rx7a+o73ncjm+uR+v3n/Zw0uxk7LfID3OXz6+zz7NuxYF8RgzpBr3Fm4qS5TmiBgwtjJr/qFAnxxo+vSthrplfZnyJ9YIX+9fPpoQH7qo8NB8eIMDw+JkW1mFo5T05GGlLHF4Pix2RNd5YWBUQ2+l16uwlEkhxO7dC+4XD8RUWqJZtfWASeCTSsQeDmqNKoJscnwuAZBB0ugKV1vRB3yAKIvhEq/6SaATjilpoTyxIclQB4I/zE/dM91cP6aimaHjlXK3kC34P4zoIRifGUTnti0MZNUOwlAfB3a48WdORrqDY2SnZXniz5lHpo4qFUN5pSGp9eP4kN6sUIWPXJ6wn2HkuymaA1kvJhG/Bo9AaghGD7wIOgux9xceHvc7KMddaygu/uJOM9gKnp+6a0tIJ/lhqhLUqZa70qsfQDCgd7EFRYjo+g==;eWIrbZS3goxbVKp0JuZq5A=="

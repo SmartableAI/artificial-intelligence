@@ -53,6 +53,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "What do the Experts Say About AI in 2021?"
+    excerpt: "AI and machine learning are finally beginning to come into their own. What trends should we expect to see in 2021?"
+    publishedDateTime: 2021-01-05T08:05:00Z
+    webUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 43
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/AdobeStock_230441943_770-400.jpeg"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "2021: Take back your privacy"
     excerpt: "Photo by Jason Dent on Unsplash The Philippines is one of the increasing number of countries with a privacy law that protects its citizens. Unfortunately, just like most laws in the country, implement"
     publishedDateTime: 2021-01-04T01:51:00Z
