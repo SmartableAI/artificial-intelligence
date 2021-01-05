@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -103,6 +103,17 @@ related:
         width: 1125
         height: 941
         isCached: true
+  - title: "Facial recognition: Expert on concerns over usage in UK shops"
+    excerpt: "Technology expert Bill Mew outlines his concerns over the usage of facial recognition systems in UK shops. He says the technology is not 'accurate.'"
+    publishedDateTime: 2021-01-05T21:22:00Z
+    webUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops"
+    ampWebUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 39
 
 secured: "VAx5j7U1IJoo91Bq6kEW6Mew4AfBS40gC5Rsa69ZISf4O8RJZ8rcnLUjlLHzoiMR5oXayg0e3UONsAka9wyX+1OtNsh9wThIm0pXJXPIqjrIRSN3fTRfU2nj0ZtIwZ+vwDvryiAwpMQk7QfWb6IrCCX1pUkyzvPfsBVMmfNtDXXmZwVdkxrYM6dhY9AS853wyPMH4TwljM5sFvOPAdIrDZdcklsnwiZwfv6x1pE2x/tHPeGQiTsWWTPt/LkR3nhlD0khNzbXHQ+AVowHCk9PZqxlbitlsxFhDNO5LEmfa/lHsdoCk2VRVeBo/FCJPY+RNbQAdkk6cR4pfYlUDsp8da66zT2grsQIQFjEHnKq6X0qbhRsaghhwTRXFQmLvDuWAlpvRn8jbYU4q84LZzsNg1ENwzI8f7Z1rL5QUNcgtipPMhdW+O+CRvG5Vohffj90s9fv10rk+ADRchgMUT721WBhHQn86gB/fn+JWTmnmraALm9095U7QjnaqogXSp1Do8fRWoMV+2tyujZPAgW3Zw==;gN1pmOI6JSnX325HfJerKg=="
 ---

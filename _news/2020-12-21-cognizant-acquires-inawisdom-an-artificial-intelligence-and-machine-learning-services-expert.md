@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "Cognizant today announced it has acquired Inawisdom, a UK- based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
-publishedDateTime: 2020-12-21T10:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
-webUrl: "https://www.nasdaq.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services"
+excerpt: "\"AWS empowers millions of customers around ... About Inawisdom Inawisdom is a leader in artificial intelligence (AI) and machine learning (ML) and specializes in advanced analytics, business ..."
+publishedDateTime: 2020-12-21T00:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-2020-12-21"
+webUrl: "https://www.marketwatch.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-2020-12-21"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
 
-secured: "rEyBG3jgzmN2J7xofdaURzL76lJw+a4Y2Do44wus1KfUKU9MxHeuZPRwGXOCs70wl23iBcXIYBb3wrHrGJCkPCKW+dDjCiVlKgA04X69GhLuhYzUBjIsZy+9PC/qWvqmQ8i+V91ZiYaC94ueU/Uw2ZiVIaQlTdWldlDj+GppZL6QIhCwMkWwn7QeUEjUFfh9idNeHo7BRjxJKe/A/4TXDu8KUt7D7/x6Pz6kzH9MkbSCykQpe9jb+OfZFWzYc9enE9TmEphh5DoxmVctmNEW7kPjMHW7zmqUedRMtzP3hFdGtiUrOJthfndbQEDWtUD6LU9y3QDtnaf6YKKEU3iRcey3drNkAxdDm5fpVh8QDIE=;0/bbWOUKgzls3/dInrnjeA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "LR1W1D/GtwnPD5B5WOp+c71dqvpVvR48qYNqwM7nlJKb9+cw+MU1jWeQkhCsmzctjBdb+AkRyzYL9B7XOjbIvZlEflxL9oMcSXRoUt0ms1Q0a/uoT2DKchqz76bhcLUW40uOqJyf/1JCDYJQoqCey5Y1RCeak8xV6z+ZlwE4SDbEHbgcOl49//vjPXf4DMXVbAZuXg6Tb0Hvfsez2I10c/qdz7IdRfd9S24Ige5nEvPSddb34+1MSdigyzJN2r8NCu20WSF6croeF4dbF/gzOlP4D4hrh6w5rscXEHpNPyaGhTT2J8tOb4dNBEImCPg4tlAfP9aE8W3dDj1v3aFd1Yh9C8Sw6Wv8jWjWw/274Fc=;91ELoGkwT+Ro8BYz7BsQXQ=="
 ---
 

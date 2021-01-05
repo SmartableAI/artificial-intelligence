@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-30-afraid-of-ai-five-ways-to-address-your-fears.md",
+      "title": "Afraid Of AI? Five Ways To Address Your Fears",
+      "excerpt": "Despite fears of artificial intelligence wiping out our jobs, it can actually create far more jobs than it will destroy. It is estimated that around 85% of the jobs that today’s students will be doing in 2030 haven’t been invented yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb51a453db0dfe5c44f353%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/amp/",
+      "publishedDateTime": "2020-12-30T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market.md",
       "title": "Is Velodyne or Luminar Stock The Better Bet On The Self-Driving Market?",
       "excerpt": "Velodyne Lidar (NASDAQ: VLDR) and Luminar Technologies (NASDAQ: LAZR), two companies that specialize in lidar technology, went public this year. Lidar - a laser-based technology, which essentially helps computers detect surrounding objects - is poised to grow meaningfully,",
@@ -1163,58 +1214,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
-      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
-      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
-          "width": 3352,
-          "height": 1936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "publishedDateTime": "2020-12-29T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

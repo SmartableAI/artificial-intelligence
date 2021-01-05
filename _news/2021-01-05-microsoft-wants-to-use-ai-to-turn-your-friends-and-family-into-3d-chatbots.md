@@ -3,10 +3,10 @@ category: news
 title: "Microsoft wants to use AI to turn your friends and family into 3D chatbots"
 excerpt: "A patent published by Microsoft describes the process of creating an AI chatbot based on a real-life person using their social data, photos, and even voice recordings."
 publishedDateTime: 2021-01-05T11:50:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
-ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+originalUrl: "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+webUrl: "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
 type: article
 quality: 102
 heat: 152
@@ -102,6 +102,6 @@ related:
         height: 400
         isCached: true
 
-secured: "vG/wTnEFUm+P9PTV7LU4/jJqY37KJ5dstovhDRqqg3btYiL0TTl7O7b+lGMuK0S0VVIC7ICIgd+hcT1IgFZApSuKpdPq4lAxc/gJjn/OSQlmFwZ2dn+DOu8oavFQv3tXCRiwrp8GpQ4+0tjNopUlvjNHnLVhj21wC6h0YOoBTmY/vCvGWWrSRBn9v0gNuKb+zlXQPEBje82yZipMOoNkNxi+6IHaDd7bRBVTE15cx392bZQirPtTvRO92ro2+F6uYA4isOr3QrrCBCSpcF52eajk4jbdU/BSOti3qM3ifo2RmWPDkmRsnPD0t0oy2ZXMkIdlIImxP8aCzmxa4P7lk+QOmKzk2pN56libIqTQmnA=;TdRyE/V8pLtxqw5PvBSDxg=="
+secured: "ETsOmaVaaymZyS8z7jf7LuYaswVrpW4UD8oNry2Vwo1JJfSA5RkHTAfPav3v4OBWQtxcKB7TcC8LbUtZbOvH/972rSpqNZ8W3+FJWh36Zu3PSlcj/5ewL++SaU7FBJN8/BYgQlkDqtI6S1du55bzyRlao1wcvFgQE94UjVxbmCS7FgxlmUOzj2EhHAoW0GawQmIAhCnltZu53TLE+fnwGSkTf02022PU0esPrc6zDIGktAVqO2WLXGx309IsfIqLS6yPRcaXkOhV32HsfWCu6Ut19GK9PAOQmt/B+H8DqXQSDdgFk7C5l5ACLFb4Pttzzsi7K0ubzDh5APV+uVYTmaC3RfCLQ3+Jx8bNvj2GvZ0=;Z071bSTPKxJNFzvFGeJiOg=="
 ---
 

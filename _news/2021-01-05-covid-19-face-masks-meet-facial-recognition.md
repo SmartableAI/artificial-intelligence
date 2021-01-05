@@ -98,6 +98,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 53
+  - title: "Facial recognition: Expert on concerns over usage in UK shops"
+    excerpt: "Technology expert Bill Mew outlines his concerns over the usage of facial recognition systems in UK shops. He says the technology is not 'accurate.'"
+    publishedDateTime: 2021-01-05T21:22:00Z
+    webUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops"
+    ampWebUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 39
 
 secured: "BmW07VXJAqdifSVQFgkKMJflIdiNrOEN+gPR/y1Y0QkRhGRVuX15Pocf1q50eTNRyDC+gtuwyp/ntw+EEMoBK38pS56XKH/T80w18wTByoewGcNa7mix3pV3+SNaHQ09u+hqRZNUq1FKeOAtBfHQlNLfT/y5hxBCjVNaBEFPByfN/bVBEMP00Cfs5qJyNFmf7TW+9YTPGzJa/7h3jzK5OxxNvIJ2OdlcsXWCHcrAeRFIGLhpJxcw9dtfju++ULRoaWqU/XYEEV8tmSyFmUKaAoUGKoAwaTnZwCjykbUuwU2AzchS/eEAZRJCJUJVzWPOcp2hm6NpfwZ0BZl9r5bIGefnqCJyai6XNWt+6+bsgvHuIyARoIF019OpA0mxYd8jajEg47StTNPY2+gNBKW2nFXQICAVUmdHTe8ntP3xy+GfZYICy78QoObKMzLGjHyxNp4s4H2uXNxwOXmyoJH6fptVbtSWEagfwcrEvAR/xgAc+VUPA6w2TnKY4eLF7sf+BdNlMiVOAKSuDfAWLqi4AA==;ESAyq+n8qe4TS1bL3Kuq/Q=="
 ---

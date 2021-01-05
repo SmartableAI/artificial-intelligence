@@ -102,6 +102,17 @@ related:
         width: 1125
         height: 941
         isCached: true
+  - title: "Facial recognition: Expert on concerns over usage in UK shops"
+    excerpt: "Technology expert Bill Mew outlines his concerns over the usage of facial recognition systems in UK shops. He says the technology is not 'accurate.'"
+    publishedDateTime: 2021-01-05T21:22:00Z
+    webUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops"
+    ampWebUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 39
 
 secured: "EQxk8K9kQABdAG3EkckHwE9uZ5PYbj2roV/H19FgGbI5FjL3ZcOd9lOVu7FE5EQ1c1/GWumTcHSpQkVgPh5YsbTXXpE75ORFIL0MQSmpKs/LSdIQglea3m6NgwhXyMx8vdj6AXI6p4tB5v7Oky5EFTQAJFHSQJabI/gD9Rn9GRQTt0Gmn8ATa6IaxyFWEOD4xXD/qDhqViJ2ecoP5dWB4MpZGkKgYk/yWpHgGaiIC87CRF324TLwpipJPkm6ag/O8TWMbu8fQ2s5IecM2SHikudAxBxBynk9ENk1cr/BCD+PNGSk2xho+E+6GR5S/N1Ah7opnZwlUPTae+kKXdbszSSAEegx/l0G3cXOfX5fA78=;28YLksSErkNorUek/yTJ5Q=="
 ---
