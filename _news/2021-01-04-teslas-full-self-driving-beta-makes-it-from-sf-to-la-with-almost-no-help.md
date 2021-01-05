@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
-    excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
-    publishedDateTime: 2020-12-31T19:22:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
     excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
     publishedDateTime: 2021-01-03T19:19:00Z
@@ -67,6 +51,22 @@ related:
         width: 620
         height: 327
         isCached: true
+  - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
+    excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
+    publishedDateTime: 2021-01-01T21:01:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-244050/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
     excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."
     publishedDateTime: 2021-01-04T13:55:00Z
@@ -92,6 +92,17 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 46
+  - title: "Tesla's Autopilot Full Self-Driving Completes Round Trip From San Francisco to Los Angeles"
+    excerpt: "Footage has surfaced showing a Tesla Model 3 making a round trip between San Francisco and Los Angeles using its Autopilot Full Self-Driving mode. The video came from YouTube user Whole Mars Catalog,"
+    publishedDateTime: 2021-01-01T00:00:00Z
+    webUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip"
+    ampWebUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 29
 
 secured: "/L8VucK1VvBXrwL1KkjWDtIhtpxbEGWfg6DvC8OCQo3yZbI33dpb+uCa8U5Uo5hI1jxaPF2+MZeov7yMiYcYpTSWrs3JKxmAxOn1R5m1pPxfd6QrA/Nghd/JigWk7Qk+O8ycnDAsaCsJIcbcBbYEQo+JFNTdpSPDbM52uwUVmDT74UCjsRfJvmYD2b5Sc5RDAC3iVjRW+K1Os4SU+xmrTgesA3wnKzY9YRhhSsfqK8um9OqcZhfN2kFO6ebu3nrgyOqbqvBiLra/Dlqt04kn5tX89JsqFd/l+btq/fPiGsp4VDJvnUsSy5o1Y39vSsSv5FmCsIDZ+1secpZ21J7OQez2l2JVOWa+UCpIRSlVaFUNST0dbuGo50lnj0FpX/NNcSZKGk/fUhJvunZGXFTMcJrAPAwuTZ7pkMf3iC0UgJ9BiPd3IfvqijQU48WrHMzcEDkh45gO3GH0dJnGdHBDarcBE6owgAlMzv73NYTz8w4j1yOpwEbLU6Yv35WeUz77FQ627+mSMck/9Ajm4hbKTg==;6+bb6BJvMrDbnMr7xKQovw=="
 ---

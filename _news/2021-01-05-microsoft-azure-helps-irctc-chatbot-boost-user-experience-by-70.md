@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-ch
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hans India
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft wants to use AI to turn your friends and family into 3D chatbots"
+    excerpt: "A patent published by Microsoft describes the process of creating an AI chatbot based on a real-life person using their social data, photos, and even voice recordings."
+    publishedDateTime: 2021-01-05T11:50:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Microsoft AI Skills podcast"
+    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
+    publishedDateTime: 2021-01-03T22:10:00Z
+    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
+        width: 1600
+        height: 600
+        isCached: true
   - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
     publishedDateTime: 2021-01-05T07:23:00Z
@@ -54,6 +84,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
         width: 768
         height: 401
+        isCached: true
+  - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
+    excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
+    publishedDateTime: 2021-01-05T05:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/blue-prism-extends-intelligent-automation-software-offering-to-microsoft-azure-users/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 47
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2019/06/blueprism.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "gPrWvibzrOWlQA1VsX/WfkYL7oasMJwEgGClo+PCKBYGYgLlVdhRHePVOFz29f6AgxlB4rCvR8Sa1cYO2R7Mkhnp3XaUVQ46NSlcmIKjp3mJ7MiWGG9mQBjTNa0dC2U+OdWD74fAav0AH0HVQ1JbPEQQJX62VDla6BHjbVyIKMxrE0uao/j8+dT48irjdkbUDq1uEhfS/X3AnGbD1W62zLTfiHSV90WRIXOfMWkeL7azuvenHDJkkpIeD54B0nNh312ic4cMRC61QpfnSrfsoSVh0LcckyikKJD/PUjDRQi4oNRH67wKDT4hLxpBI0GLnKvSTcTloJWQkQy/Q5O/lS5ZmLmrzoMPOeGpZAOLkSe32JCwayYcSMFH/x8LiPPLTFCQoCALzKHvsk7u7N4Da+qOniblH3jx2taYb967UkUIT0P9GqpPBAiD2P3bJhL4ay/0aWANyyxzQYjRc8Wx8tpfMXkILABCsTlCVhzumdjiub/mnJK0cnOVMs8Tqe9YzL9x7I+Eaxm0Zb6lDdfLqA==;geaUzKAZ7ux/UNcAdafU2w=="

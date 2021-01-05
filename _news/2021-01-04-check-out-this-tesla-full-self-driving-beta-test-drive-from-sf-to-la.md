@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free"
-    excerpt: "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house."
-    publishedDateTime: 2020-12-31T19:22:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
     excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
     publishedDateTime: 2021-01-03T19:19:00Z
@@ -56,6 +40,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744"
         width: 945
         height: 630
+        isCached: true
+  - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
+    excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
+    publishedDateTime: 2021-01-01T21:01:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-244050/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
     excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."
@@ -93,6 +93,17 @@ related:
       name: Ubergizmo Feed
       domain: ubergizmo.com
     quality: 37
+  - title: "Tesla's Autopilot Full Self-Driving Completes Round Trip From San Francisco to Los Angeles"
+    excerpt: "Footage has surfaced showing a Tesla Model 3 making a round trip between San Francisco and Los Angeles using its Autopilot Full Self-Driving mode. The video came from YouTube user Whole Mars Catalog,"
+    publishedDateTime: 2021-01-01T00:00:00Z
+    webUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip"
+    ampWebUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 29
 
 secured: "ij6+g4ZrK+LhApAsnYHCN3zwqJW7RlSs9QaS51dn49i/0ice1i5WXy1sxgkkreE/ZXOL4VUQljIKC3tGU2AKTnHd6C8i5nU7ddQF1Bsuykodjgv/H1Jk0froHDavFcy43hfGdf4nUBLSFEg9UEJDZo229qhlF2WaHeKA/6dE5SJ3XaWYfZePVT4F9ImaB9OeQ0uEEDLuoclfHTmCjPdXa4n958pQi+6pPjaD4Y2vt5q0Vof2ZG9Im+Wb9uWJqkTG8sfw49D/hgSoGGD/+eSbrMSS8MD93Udw7tK+6Z1klVbCBK3PKRMLKpW58mfBOctPUEESogWy8O/4AvW8urvXBJqgAuNF16jlVPc3Xgm6cNM=;CnARa2ecCRPxc1hBAcpmHw=="
 ---

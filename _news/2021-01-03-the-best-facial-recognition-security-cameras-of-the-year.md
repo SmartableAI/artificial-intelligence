@@ -73,19 +73,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 53
-  - title: "W-B General Hospital anesthetists request union recognition"
-    excerpt: "Barre General Hospital requested union recognition on Wednesday from Capital Anesthesia Solutions. The anesthetists were laid off in August by their previous employer, North American Partners in Anesthesia,"
-    publishedDateTime: 2020-12-31T20:08:00Z
-    webUrl: "https://www.citizensvoice.com/news/w-b-general-hospital-anesthetists-request-union-recognition/article_3934acbd-68b8-533e-8534-7ef56494a548.html"
+  - title: "COVID-19 face masks meet facial recognition"
+    excerpt: "Most people deal with facial recognition in a public setting at the airport. Today’s columnist, Tim Mackey of Synopsys, says organizations using facial"
+    publishedDateTime: 2021-01-05T11:00:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/covid-19-face-masks-meet-facial-recognition/"
     type: article
     provider:
-      name: Citizen's Voice
-      domain: citizensvoice.com
-    quality: 24
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/citizensvoice.com/content/tncms/assets/v3/editorial/9/9d/99d1d000-d63c-533e-8017-28dc2693d296/5fee2ba66c13a.image.jpg?resize=982%2C630"
-        width: 982
-        height: 630
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
         isCached: true
 
 secured: "VAx5j7U1IJoo91Bq6kEW6Mew4AfBS40gC5Rsa69ZISf4O8RJZ8rcnLUjlLHzoiMR5oXayg0e3UONsAka9wyX+1OtNsh9wThIm0pXJXPIqjrIRSN3fTRfU2nj0ZtIwZ+vwDvryiAwpMQk7QfWb6IrCCX1pUkyzvPfsBVMmfNtDXXmZwVdkxrYM6dhY9AS853wyPMH4TwljM5sFvOPAdIrDZdcklsnwiZwfv6x1pE2x/tHPeGQiTsWWTPt/LkR3nhlD0khNzbXHQ+AVowHCk9PZqxlbitlsxFhDNO5LEmfa/lHsdoCk2VRVeBo/FCJPY+RNbQAdkk6cR4pfYlUDsp8da66zT2grsQIQFjEHnKq6X0qbhRsaghhwTRXFQmLvDuWAlpvRn8jbYU4q84LZzsNg1ENwzI8f7Z1rL5QUNcgtipPMhdW+O+CRvG5Vohffj90s9fv10rk+ADRchgMUT721WBhHQn86gB/fn+JWTmnmraALm9095U7QjnaqogXSp1Do8fRWoMV+2tyujZPAgW3Zw==;gN1pmOI6JSnX325HfJerKg=="

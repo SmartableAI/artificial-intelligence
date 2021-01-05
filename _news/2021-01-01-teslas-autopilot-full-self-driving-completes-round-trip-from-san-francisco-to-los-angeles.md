@@ -9,7 +9,7 @@ ampWebUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-f
 cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -21,20 +21,88 @@ topics:
   - AI
 
 related:
-  - title: "France's Valeo testing Level 4 self-driving technology in Japan"
-    excerpt: "Valeo, a major French auto parts supplier, is testing autonomous driving technology in Japan. The trial of a self-driving system uses a combination of three dimensional maps and information gained from communications between the vehicle and traffic lights."
-    publishedDateTime: 2021-01-04T06:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing-Level-4-self-driving-technology-in-Japan"
+  - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
+    excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
+    publishedDateTime: 2021-01-03T19:19:00Z
+    webUrl: "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F0%252F9%252F0%252F31480902-1-eng-GB%252F%25E5%2586%2599%25E7%259C%259F%25E2%2591%25A1%25EF%25BC%2589%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25A8%25E8%25BB%258A%25E3%2581%258C%25E9%2580%259A%25E4%25BF%25A1%25E3%2580%2580%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25AC%25E3%2582%25AA%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25EF%25BC%2594%25E3%2581%25B820201228171005361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744"
+        width: 945
+        height: 630
         isCached: true
+  - title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
+    excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
+    publishedDateTime: 2021-01-04T03:54:00Z
+    webUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
+        width: 620
+        height: 327
+        isCached: true
+  - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
+    excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
+    publishedDateTime: 2021-01-01T21:01:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-244050/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
+    excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."
+    publishedDateTime: 2021-01-04T13:55:00Z
+    webUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/"
+    ampWebUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 49
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/tesla-model-3-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "Watch Tesla's Full Self-Driving Navigate from SF to LA with (Almost) No Help"
+    excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."
+    publishedDateTime: 2021-01-04T15:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/362664"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 46
+  - title: "Tesla’s Full Self-Driving Beta Makes It From SF To LA With (Almost) No Help"
+    excerpt: "While it might be a while before we see fully autonomous cars become mainstream, Tesla’s efforts are certainly evidence that we"
+    publishedDateTime: 2021-01-04T09:04:00Z
+    webUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 37
 
 secured: "Ylgq3pA4CKj/bhRR2198I0cEq0c742T0BYQNurlZlHf5zzbgqe/vugeMvCCuf2LEM8xinJOLuH+vEJ3cUiKIzdpivNpvXFs5cB+IxCSvLd3xs8T2ooKvoWD8zABtpPWM9fbcMcr9KZGVDvYYKV3/UcevCSb4GdWEWuPLLr+WlejLnL5ezZp9uOkGgo+o1DgeOfJ6mW0VZI65luuIHDC8TpylLlIyvi/bdZned+LKQ0d8ihdExz4v3k+KOYnTMj7sOTnc/vJBJtMd73huHcy9KS4iYmA0FCUTd6zVLC/2+XI4eOzeNIq2pvKyWckUTl+ALf1DssQpxuxReUsJGBI0ehBGvR49adCySsijltJd6OEMoEjg5KmSzsSY1Y90dBcz3JRvSokUEeUyE9FSNjNTesHo+jezkYagEPqokofEkgYj6ViknyZzXurbe+oa3LnQJZD0z/Eb9Cyl3uOldcQ2vgKdZ4J/A6TipsoW7MRC1RE+CSWzInctT+EH3UPeo1dnTJmQdFo2B2YJtT0NBHIqHw==;/XJzDiouLDHz80bpfRo5pg=="
 ---

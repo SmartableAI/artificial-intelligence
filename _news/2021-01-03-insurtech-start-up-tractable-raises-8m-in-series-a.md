@@ -32,15 +32,6 @@ related:
         width: 1920
         height: 969
         isCached: true
-  - title: "AMP Robotics Secures $55M in Series B Funding"
-    excerpt: "AMP Robotics Corp., a Denver, CO-based leader in artificial intelligence (AI) and robotics for the waste industry, raised $55m in corporate equity in a Series B financing"
-    publishedDateTime: 2021-01-04T14:04:00Z
-    webUrl: "https://www.finsmes.com/2021/01/amp-robotics-secures-55m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 34
 
 secured: "loXR2YHCSE/XxpH/NG9R4JcBBKcIMCWlnCGpjbsBps1EL8Ad2VtE4WDQk3pSrEN/nbOpJXsu5iLC8LsD06k9qlV8BdfWgozJKl/ZOTIPlN1XlxttkWR9socWSqt12AVkJVXDOAh3UXp7rk3br8v3D+u/yIgISKaSxBmeC9n/sTywJrBmOoxuLM+FhyGOISyS/WOvTwaHVeLrCam+8IHeQDe+ch0oznVROBdJPy5dKeoLcZ7UkrhpqwFlBzKSLCiFHyDJIVXO3/rxjZbbxo5pZFPcYRK7i2Hzqa9p4MnT1UYWk95mYE7UtbYnepwetaha2HxuAiszhufFhKXPf+BVzYedqT/E3RcDHfyUVtUsBE8=;QjKjoUmXcSRkHNWyNhjJKw=="
 ---

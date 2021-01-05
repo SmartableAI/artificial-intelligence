@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMP Robotics Secures $55M in Series B Funding"
-    excerpt: "AMP Robotics Corp., a Denver, CO-based leader in artificial intelligence (AI) and robotics for the waste industry, raised $55m in corporate equity in a Series B financing"
-    publishedDateTime: 2021-01-04T14:04:00Z
-    webUrl: "https://www.finsmes.com/2021/01/amp-robotics-secures-55m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 34
   - title: "Insurtech start-up Tractable raises $8m in Series A"
     excerpt: "Tractable, an insurtech start-up that specialises in computer vision, has completed an $8m Series A funding round, led by Ignition Partners, Zetta Venture Partners, and a host of insurance industry leaders."
     publishedDateTime: 2021-01-02T19:23:00Z

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
-publishedDateTime: 2021-01-04T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
-webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
+publishedDateTime: 2021-01-04T14:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
+webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-    width: 1198
-    height: 628
-    isCached: true
 
 related:
   - title: "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple"
@@ -39,21 +37,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
-    excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
-    publishedDateTime: 2021-01-05T05:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/blue-prism-extends-intelligent-automation-software-offering-to-microsoft-azure-users/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 47
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2019/06/blueprism.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
-secured: "DOCQsAftn5SQ+ragx9AXlFeKTcdP/+l2k8FBK+ttIp2Qs7qWkOITFxvfyWEaIWTSH7fls/K+IKq6KDmoTEUDhqD47cvURSArJxOWn7cd4s6v5SzhwlQ8KYhAvcTtkVT3M2el5oF4ChE/nt+j5ieeJzbOOsY6hwCaxMhKUCHTo5eRQxtKegu8DxI0sWsz4TaIxAGm29JemJFFHt+MackA22hfKGmm/jeapnn/4kDEmKZ1AjN3WZxYXDh32uiKkFgsrKhRahN+wfQQu3j4EfoCAljzVxgxj5xrLqS9c/PnFjgYP+OLhEWJc532eJ0e2T28Tyib7LtqcNsLqFtF1D8Qd2DD1ajgQCnYbZ4GYfBvwNI=;L+oeYiGAkD2tdBtZCv54Rg=="
+secured: "Pio1a75U7YDrl3kY+hS51UgnAxYJ4tb5PtHLDxAioY3cvea7rJ08kkr2L5d+8b8V8p86xwq+nu56gjMiuqqCOjdZ7gEeKlCJm+99LmnifintBYeuauI/0VC2sgzNlLXnVaoXljEdrvUju0LuPdRuPNSHa6z+yU1uEbcjqzy1e/rmguHalkLGjEPuwHok6lUBNdrz4Sr57y+Nc2lMsAcqbungNn+1N4OSU3nJDMP1gGgsTcB8Gp9BlgLImm8rmc4a++kKljkQuTv4+JJWWhwjpYG5U+YEh7hFhZWEbka1G2Ei8G0e+AXgQcjh+RN/juD4j90yd51VsutMzDzTf/FAsXefLZnN9NEkt6bE6SMBYIk=;joUK2PTOiiYP+ubgHsBUHg=="
 ---
 

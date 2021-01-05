@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert"
-excerpt: "\"AWS empowers millions of customers around ... About Inawisdom Inawisdom is a leader in artificial intelligence (AI) and machine learning (ML) and specializes in advanced analytics, business ..."
-publishedDateTime: 2020-12-21T00:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-2020-12-21"
-webUrl: "https://www.marketwatch.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-2020-12-21"
+excerpt: "PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced it has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better,"
+publishedDateTime: 2020-12-21T10:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-9ea9993906625ff7fc064c3a15f5b284"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "AqPoHPEWiGHZekrsWMio8+eDiSar+xBRcBIDW2b9sWrNVihZYOJW8hW4b++NXGyLhtAOkImOkZoSLTGZ71y39frelhtqxsDpMoEv2iuT/D4KCVui2GQ6C+Sa/olMQcloSgDb1bDiGRgbw/uh7KOB3GXMq+urspB3wRriO5k1OATwS1fLrecLMxIDnGiktYVZOgWz50QFFjZkZz09AYkzsVw5cRjWBEiWjk/5gZNEfHNeZp+l/0MxIh8mPhUbXUXU4rWn/lOHbe+kA2JugSLGbhwRKZl0ldyTFRJ5zMY7mhtwfQ70yUpcc/JUQuUWELn/yAIt9GTXZCl6EFwIxpJMJ6hidAbjI6U9usmTMKi+neI=;nqSasRw3hR7JhtU6hCYlNQ=="
+secured: "WRALFK/NzpfxplhAVq/M3vvF4gNJ0ZPj47ZrEpIV+Ph/58J0e7hsFbBTvDD1TCo2Qxrwri93CyULIthXaCoVGPQf3O/azCfaNEDIH6e0/vsKDrrRPqa58WgJzO8mEhHC371H81nvhSfLhaer6v8z3hEAJlYfS9GAQ0VwPH1zwoUAygdPmp35n2FOAwMXl621VpzHvtUCsuJPlR5C98uWVek9KJuq4/Jn0y9zHv6KdikgpLMfuobQw+Nuq3J9os13RQzLFqMxQ559rHhf7Q0wSpvyjJdJCE3Bt4/sAOcZ58NbPbcqncEol17JMZI/9+9dQMCfWaYPg3bvuzWx8+p2AGpjw4TnI+BDc9G0vJO60PI=;nYkcLIm6pZ5qgeiLsd3pNA=="
 ---
 

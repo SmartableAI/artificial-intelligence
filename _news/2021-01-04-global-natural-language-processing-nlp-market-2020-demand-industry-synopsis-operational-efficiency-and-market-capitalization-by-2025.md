@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Cloud Natural Language Processing (NLP) Market 2020 – 2027 | Future Trends, Historical Analysis, Competitive Landscape and Regional Forecast"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
+    publishedDateTime: 2021-01-05T11:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-future-trends-historical-analysis-competitive-landscape-and-regional-forecast-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "t49R/HexPSyap4rIOACSdy5aO8YcQxC6u7zVF8E4Fxp7axr0NvOLusjCkcoOJkSELE4gl1tH2470OMa+GAGB5dg9q6g0W543xhHWE680gJlaus51PRySiFn6wlfjDf5RganhaOiKpt714PjHi8i5qWdyPP2e276tdbcMx/r8w9VNgvnwZADhpap3gSXAeqTkL1LL8ypjKuFmCJQNVxlqeRcfkfKJISloIoUNBe917GvGWWl9o7zLO+5D8uf2k9ODLxf+qdmZ3tldszb7DQOhGrTih5aYBKFzZNhm7bu+cKR8l+G2LLT+SOFKPMwK60Ihpas6rBxRK2Meguq4fSfeaHJ1u/aIqIOoH35CgevMWQQ=;9jO6OqpAc9N80cbzLlTcwA=="
 ---

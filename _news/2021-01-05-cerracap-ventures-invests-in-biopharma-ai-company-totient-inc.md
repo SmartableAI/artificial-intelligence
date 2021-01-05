@@ -1,28 +1,29 @@
 ---
 category: news
 title: "CerraCap Ventures Invests in Biopharma AI Company Totient Inc."
-excerpt: "CerraCap Ventures announces its third health-tech investment. Totient is an artificial intelligence-driven drug discovery platform"
-publishedDateTime: 2021-01-05T10:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cerracap-ventures-invests-in-biopharma-ai-company-totient-inc-301200855.html"
-webUrl: "https://www.prnewswire.com/news-releases/cerracap-ventures-invests-in-biopharma-ai-company-totient-inc-301200855.html"
+excerpt: "CerraCap Ventures announces its third health-tech investment. Totient is an artificial intelligence-driven drug discovery platform that identifies and harnesses human-derived antibodies from individuals with exceptional immune"
+publishedDateTime: 2021-01-05T10:51:00Z
+originalUrl: "https://www.lelezard.com/en/news-19585483.html"
+webUrl: "https://www.lelezard.com/en/news-19585483.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/955836/Cerra_Logo.jpg?p=facebook"
-    width: 932
-    height: 490
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "DnlXtVJBDsfcv/wPn/Znhn3uSG7Lee6BA0DDX5Xab0yAF26cyI85KrKnKE0jLCcI8uxL8N8vGXsqeze3j8nTW+gGvy5xiLashFVxVNUihVYx14p7hZyMqE946s+SZsl118Q2oPLPlwtAmvX1Xa8/sJ/qgucrEcoaclemAT0kHsxzrKU/0Byd4wp82AqmDL29sIgNjPMBegsdvc02vRRg4z1RYtTxc46jXTCwjbAH6tkdCBk+mYfLdTILCaZ3MZMiBnokayhFoSapTQwSd4zDs2BuQrg/7ZYVrstt0hMUSelW6lwDKsK20/oht9pSUHglR8ZUYILuSkThF2vlTlm4OWkZsWvvY0/pANGutN6d8VM=;no5fcZ19oME/kdam49KfNg=="
+secured: "kxF+OqJ3T5hYbrJ8XwF2q+ge0TGR3js/SLCk7/4nTaN+Ifw4AeilfOBApYdtfD0n4ivKK0lfbGglty1TnYZr58/P3w5qd1dVcMUCd/KB6W4bA2m1OAdfOA2+Yh23Oj4ktHhMC3mvARgTSErUpLWceO7pRbcsWqsEc/3V/N7uJsUR/wY71rASFKitnglRXsPnTZc9pEmPVtYQhWJi4U7Cgm5G/AnBaBwnnUi8G7NNCUVoPbuxdjmz6qtvK5rhyB0Jqbcu0E7Lo0+aiqwSEHrZ+Nq34NpAh/+TpeHANZi32rdlxW8e5POz8zwP5e9idcyoQAIoCCuxxBb9W8dNsqMHdYHzaMwVWJJbDnvAndy39nM=;WaTy3AuitMiCYMMWQFu3Rg=="
 ---
 

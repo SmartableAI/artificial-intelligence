@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global And Japan Artificial Intelligence-based Security Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Updated Research Report of Artificial Intelligence-based Security Market 2020-2026: Summary: Wiseguyreports.Com"
+    publishedDateTime: 2021-01-04T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-and-japan-artificial-intelligence-based-security-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QXh73wAu9lgNEeIyLGn8dTdnFFsgEhFwkkpppNCZz+NPb7ek+v++9s4BHcrhnj4At/LuXoY3egwcZngWIzxw+qjuTjRPRGxnB5ZD9PcuJqlytdES1a+G2Lx1Y49N5hOjz/IL4cV6RQLqtibLVt0d2qy4DNxyyDy6fXnqrCw/E7CX9wVy3fToeZ/8tL69kiCa7vRfYzsFUaeokznjrvR54rmi8dB7gLO8rYdyuTLmpJpibcLHb8Gu7gZcGBLC7EjYFKXAdTMAP+ZOnnt5VMRH2vysymY+wpTZDwgWPQCsvMlqxt3p263JpYnaG7sxU8t9I7SFTDgfqjIRRbnp2gGn10BKhciUL3dPJ9BxYRdBaKU=;sDxWPDc7Ww1nRCYwoHs7Jw=="
 ---

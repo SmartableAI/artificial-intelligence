@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft AI Skills podcast"
-    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
-    publishedDateTime: 2021-01-03T22:10:00Z
-    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
-        width: 1600
-        height: 600
-        isCached: true
   - title: "AI and cybersecurity are tipped for big things in 2021; here are the ASX stocks to watch"
     excerpt: "What does 2021 hold for AI and cybersecurity and which ASX stocks could benefit? Stockhead has spoken to industry experts about what investors can expect."
     publishedDateTime: 2021-01-05T08:20:00Z

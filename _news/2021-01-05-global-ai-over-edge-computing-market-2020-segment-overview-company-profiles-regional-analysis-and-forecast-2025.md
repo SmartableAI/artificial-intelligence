@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2027"
+    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) Hardware Market Size study, by Technology (Machine Learning, Computer Vision, Natural Language Processing,"
+    publishedDateTime: 2021-01-05T12:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2027-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Construction Market 2021 Business Trends, COVID - 19 Outbreak, Regional Analysis, Share, Size, Global Segments and Industry Profit Growth"
     excerpt: "Ai In Construction Market Overview: In Its Research Report, Market Research Future (Mrfr), Asserts That The Global Ai"
     publishedDateTime: 2021-01-04T06:57:00Z

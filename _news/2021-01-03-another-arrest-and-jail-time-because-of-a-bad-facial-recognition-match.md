@@ -67,19 +67,19 @@ related:
         width: 960
         height: 506
         isCached: true
-  - title: "W-B General Hospital anesthetists request union recognition"
-    excerpt: "Barre General Hospital requested union recognition on Wednesday from Capital Anesthesia Solutions. The anesthetists were laid off in August by their previous employer, North American Partners in Anesthesia,"
-    publishedDateTime: 2020-12-31T20:08:00Z
-    webUrl: "https://www.citizensvoice.com/news/w-b-general-hospital-anesthetists-request-union-recognition/article_3934acbd-68b8-533e-8534-7ef56494a548.html"
+  - title: "COVID-19 face masks meet facial recognition"
+    excerpt: "Most people deal with facial recognition in a public setting at the airport. Today’s columnist, Tim Mackey of Synopsys, says organizations using facial"
+    publishedDateTime: 2021-01-05T11:00:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/covid-19-face-masks-meet-facial-recognition/"
     type: article
     provider:
-      name: Citizen's Voice
-      domain: citizensvoice.com
-    quality: 24
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/citizensvoice.com/content/tncms/assets/v3/editorial/9/9d/99d1d000-d63c-533e-8017-28dc2693d296/5fee2ba66c13a.image.jpg?resize=982%2C630"
-        width: 982
-        height: 630
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
         isCached: true
 
 secured: "UO5Ix8WAj9GDF5NmuEzBLZgfly8eAQtVk6SwAhr9RwzK745EvoEU4IQUEGaUV3k1fV2PJkcTd5lvwEkHck7JLvquEoAYOnvoKNu18bA7Io41zuUuMOlJMkrReY2WxdRu3SK/eFvCqRaYt0pTcJkpAZFJ0R8a053Ve+tVd2aLI4K11AlDPIgbS+cwulwW9YugUf2kzpaF9XIhBjA8MGBNQSOII4oWn1ZN0FN0zj7lpmj2G9sGRZROG/Ca/DJu3bNF0vGTDDO7qigQTG0KJkHU9dolmmQhwAvSPKX1H0C43ztnngrPIgF7VKDWnOisOiwLrU6FoCAc1ycmm7OEmKoc4o40iGu0wXF2Uboc0E+E+x3WnljaSdnyv+BPoE49uNkKBBIDC1Ywd3ErcP+D1VjHfGDK3zjVTL01/VKdDQQ4yTWiDakkffvFpsgpi7jj11LjTrMDOgPr3t7URF6aMFe+bFayNCs8Zbk0jtEMD3VY3esSeTSKJ8ejueM60Th73wM6MQkSs4wrOQj1IBmvxiH8aw==;SznZWEtrMe8Xw3ZJNjjowg=="

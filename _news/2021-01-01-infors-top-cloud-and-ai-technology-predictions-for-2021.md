@@ -34,6 +34,20 @@ related:
         width: 630
         height: 630
         isCached: true
+  - title: "AI and data science predictions for 2021"
+    excerpt: "Artificial intelligence saw rapid growth in 2020. The global pandemic and the resulting digital transformation forced upon companies and individuals as we moved from offices to homes accelerated AI usage and development."
+    publishedDateTime: 2021-01-05T11:02:00Z
+    webUrl: "https://dataconomy.com/2021/01/ai-data-science-predictions-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 37
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/01/ai-data-science-predictions-2021.jpg"
+        width: 1920
+        height: 768
+        isCached: true
 
 secured: "/nSHlaF9t38F8utoUKnCnf6QrQ2D/161oOcNR3LIYd4WkGhOAqSbpjh3x5earBX5bVmUdLfTZplMbQI44Ivpd5COBtZLQbQ04Mp3Y5kXDE5Z2ZYUYucEph8YYfnEWb52MuBsBpnTewIrVFiRGjY2op9MoblTgxYEiuyEkVBUCbpbopvAgPS6O7YR/ruWpMNwWEFJ15zKT7MaFOA8PE257f5UgaERp6A23uCnCgAcxKLE80pdtlGHp4g4aNA9J074G7Aly1kqhqunUmOwWnI6Tu/RRuz03Ni5yyixYrrMUHc3HhEgBHb688XYXaJwBSaO5ucTSn4jwt1Mcu+VMp0yY/LRsb5jB1K4Bywq8vH0v7aBSYa2vo/jjOqI2L68733XRMXHeuRZoeXi4WsPj6Bow3qoiwFuSofvAxc/T8ZFfj1TZv0bNixO+7V+D4CtfmSxsHPF/Nc4Sszl7Z9bsW6Aea90peWQ8tk371c8Lul6+M/+3PZ4dNc1CkZrC7rIBmDMEzXOiVHlegzKf701LYVifA==;rjuvw9bu24XKPNQuM3cxlw=="
 ---
