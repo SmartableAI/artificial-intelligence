@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-01-mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops.md",
+      "title": "Mohammed Farooq Q&A: How Hypergiant is pushing for an open AI platform for ‘ModelOps’",
+      "excerpt": "Companies building AI applications may think Amazon's AWS is the only place to turn for help, but we need an open AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
+      "originalUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/HG_Office-cropped.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
+      "publishedDateTime": "2020-12-31T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
       "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
       "excerpt": "The roadways of metro Phoenix may not look much different 10 years from now, but how we travel them might. We may have more vehicles without drivers behind the wheel, said Andrew Maynard, an associate dean at Arizona State University’s College of Global Futures.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -715,8 +768,8 @@
       "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
       "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
       "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "webUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "originalUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -733,13 +786,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "publishedDateTime": "2020-12-30T17:34:00-08:00",
+      "ampWebUrl": "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "publishedDateTime": "2020-12-30T18:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
+        "name": "WESH",
+        "domain": "wesh.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1161,57 +1214,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai.md",
-      "title": "The Future-Proof Service Desk: Preventing Tomorrow’s Tech Issues With AI",
-      "excerpt": "For them — the service desk — managing a massive IT environment means endlessly putting out small fires: an engineer locked out of her corporate account or a sales leader who can’t access the latest report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb5235e81425c71821786d%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/amp/",
-      "publishedDateTime": "2020-12-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -29,22 +29,6 @@ images:
 related:
   - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
     excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
-    publishedDateTime: 2020-12-31T11:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/articleshow/80046641.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/amp_articleshow/80046641.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-471174,msid-78888337/rbi-set-to-change-indias-payments-picture-with-new-qr-code-rules.jpg"
-        width: 412
-        height: 255
-        isCached: true
-  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
-    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
     publishedDateTime: 2020-12-31T17:59:00Z
     webUrl: "https://www.freepressjournal.in/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption"
     ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
@@ -74,6 +58,6 @@ related:
         height: 512
         isCached: true
 
-secured: "SowDsMpY35+aKTmAN35hTlHu1/fHEv2ujZpEISoB3Ufoj65ZU5tAjKjg9mI7YEr2fygHkTn8/WXYop5YuOGHxxav022Txvbo0G1hgxRKY9Jblw/qanMb9KRnelzKWezJSSz5n9EVWC+XN45tgxaiHJai220/gLFNr+zdKQLwaE6iHjwYjrBq2Cm2tIwTXLxTESFCuUkF53n/1rEnNix8HZ9/AwkPeMbY8x0m4dl5v2e7Ntz0ydeONrG5yJIiKp7S8hn+wmiDjY8e7OD4flEpRyo3k9LTRzCRkcN1WPvFEHBN6aPchS+Jlzbpz/vZbqHKT79lJzgHENyJ9Gpty8Z/YO3WL68LMiALcvUFfCLK2gw=;/T5R80fCoOx29YP3Z5gscA=="
+secured: "tICVA/Jo9I5NfZKvgsoFkHXLreXGFzqIqJlotOPbQg+RVxqqJsISYnqGLyh2ln3rEjibmpDbaBRV4sDC9BLkXnxCNcOxJm9sx3qIHhHd5c1pm/fsAopZEqSqW6CZ0vgi59shECpLL43idbHGVIBaMvuu13mMNz3gZW/ZfgsXetywXoU8pxt6zKRHQfv66VRXBvjuTH70Ab67GAj5AgiwKovZhHx1VYuCD7BkcCF5tBGGNAxgJo7O9r431jLu76LBLQRskHPIkV2S/Vhi61gxcBL5idV25tgj+IBfuzeowqBu11j5oYYTO5ZYHQnYuZpvPVARgevRsFOymAznGSVO9cRIMH/hwAKtIls8mI1kyg3LMT5lBa8krHRV03lGrEAnBMu7mp85EWZnL/rlLOA2URTLB9u5ogoAem2d7WP9HZYOAc/bg5w4JbmcLzaX1jiEZznmCqGWfu8WrIAzb8E9Z+ZeOKXBI//ToDMcr+Rf+IWgJ2GNkceaL/0akKTkqQ9J2g31DPE+ostQ6wo6jeydlA==;OcvS48eOqRrqR41WqX0JIQ=="
 ---
 

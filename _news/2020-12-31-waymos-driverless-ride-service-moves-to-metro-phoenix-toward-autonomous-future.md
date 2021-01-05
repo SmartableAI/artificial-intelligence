@@ -43,17 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Waymo’s driverless ride service moves metro Phoenix toward autonomous future"
-    excerpt: "An Arizona State University associate dean says he wouldn't be surprised if self-driving vehicles become \"fairly ubiquitous\" in a decade. #phoenix"
-    publishedDateTime: 2020-12-31T11:40:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html?ana=acbjcom"
-    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 51
 
 secured: "VyhyBWUor/hpiDKl+ucVYIfVrrPGVOW5X8r2lNaEBmERkxM4UowpGdRPYe1+UPG4QOJJ+uhajTPZJs3ilZx20FFNagJJwK1q+49V2nq+zc4X3FKRrbyplYRmlxPk1Xhm7zA52EWGqbSVsXqWMQgiWZ4raEq53MRSxQz53l7f7KjDafIWO2rzWW/WJkbH7Cqn45RND4cjnAVnKKaKf/RJoDW0AbdKVdS3JwAPJHG+y9ciZLsluUx1tmmWyDiLEerFY/riuGD8NXa/GyG5a0mNgLInrZKkec++2ppLyV/yKTvDBRXTzIfplSScDjwTAA3dTUom/TdrTnZIGh2CmBUksHbGXUVvAlXL77meggGXa1UfMweCes1d3mnUBewfCWSb1Mr+V4G5wAO3Ce8DwJIiDc5W1uuLvJ9fkK84L+qH2qS43a+rCSuc1xgvk6nuhfNL28B+5xwFC2JHNFJaTzry+407l2fT38D1Mg9wvToBzm58cpBrTQ589NyIIMLP0gqkBc1ZdPwrHWjEXboFyk1mcQ==;wCVFNL6jR5gVQJqaQdQpfA=="
 ---

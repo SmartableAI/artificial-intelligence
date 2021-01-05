@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-08-the-lumbee-have-waited-a-long-time-for-federal-recognition-this-month-will-be-critical.md",
+      "title": "The Lumbee have waited a long time for federal recognition. This month will be critical.",
+      "excerpt": "The Lumbee Tribe of North Carolina has been seeking federal recognition for more than 100 years. Could Congress include recognition among must-pass legislation this month?",
+      "sourceUrl": null,
+      "webUrl": "https://www.mcclatchydc.com/news/politics-government/article247604590.html",
+      "originalUrl": "https://www.mcclatchydc.com/news/politics-government/article247604590.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/6e5bb225-9df7-4376-887f-68e67e50b930/0987d950-1942-4050-9faf-7081e65b3233/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.mcclatchydc.com/news/politics-government/article247604590.html",
+      "cdnAmpWebUrl": "https://amp-mcclatchydc-com.cdn.ampproject.org/c/s/amp.mcclatchydc.com/news/politics-government/article247604590.html",
+      "publishedDateTime": "2020-12-07T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "McClatchyDC",
+        "domain": "mcclatchydc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-natural-language-processing-market-2020-global-industry-analysis-size-share-growth-trends-key-players-and-forecast-to-2023.md",
       "title": "Natural Language Processing Market 2020 Global Industry Analysis, Size, Share, Growth, Trends, Key Players and Forecast to 2023",
       "excerpt": "\"Worldwide Natural Language Processing Market report examines the itemized investigation of key drivers impacting market development, openings, the difficulties and the dangers looked by key ...",
@@ -1391,58 +1434,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai.md",
-      "title": "UC Berkeley researchers detect ‘silent speech’ with electrodes and AI",
-      "excerpt": "AI for detecting speech without sound may have applications for a range of technologies and for people who cannot produce audible speech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/",
-      "originalUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/EMG-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/amp/",
-      "publishedDateTime": "2020-11-24T16:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

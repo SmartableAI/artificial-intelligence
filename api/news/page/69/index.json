@@ -2,6 +2,50 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-11-11-raise-2020-how-healthtech-startup-sigtuple-technologies-is-leveraging-the-power-of-ai-in-healthcare.md",
+      "title": "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare",
+      "excerpt": "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures",
+      "originalUrl": "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp",
+      "publishedDateTime": "2020-11-10T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-india-bets-on-ai-tech-to-curb-coronavirus-infections-amid-privacy-fears.md",
       "title": "India bets on AI tech to curb coronavirus infections, amid privacy fears",
       "excerpt": "In India, dozens of data-driven solutions have emerged to track people’s movements, check temperatures and enforce social distancing, sparking privacy fears.",
@@ -1132,58 +1176,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-linkedin-open-sources-dagli-a-machine-learning-library-for-java.md",
-      "title": "LinkedIn open-sources Dagli, a machine learning library for Java",
-      "excerpt": "LinkedIn's Dagli, which is available in open source, is a machine learning library for Java and other JVM languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "publishedDateTime": "2020-11-10T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

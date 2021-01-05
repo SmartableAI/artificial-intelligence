@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
+      "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
+      "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "originalUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "publishedDateTime": "2020-11-04T21:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-how-leveraging-ai-and-machine-learning-can-give-startups-a-competitive-edge.md",
       "title": "How leveraging AI and machine learning can give startups a competitive edge",
       "excerpt": "While AI and machine learning are changing the way businesses operate, startups may still struggle to leverage them effectively, with challenges such as cost and a lack of talent among the chief concerns.",
@@ -1111,58 +1154,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-smart-devices-could-use-ai-to-tell-where-your-voice-is-coming-from.md",
-      "title": "Smart devices could use AI to tell where your voice is coming from",
-      "excerpt": "University researchers have developed a machine learning model that uses the power of AI to determine precisely what direction someone's voice is coming from ... others in that it doesn't require facial recognition tech, which could be for the best.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "originalUrl": "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-03-image-21.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "publishedDateTime": "2020-11-04T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
