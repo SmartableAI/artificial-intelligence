@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorite
 webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorites-2020-the-years-best-ai-stories/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGUKuRzdJoxtQ/article-cover_image-shrink_720_1280/0/1609367755529?e=1614816000&v=beta&t=qxy5DiX7G4vV2YugikrMPl0Y7mP3hTgbIKtNeK2WLtw"
         width: 1280
         height: 671
-        isCached: true
-  - title: "Victor Ai awarded Forbes 2020 Top 100 Venture Capitalist in China"
-    excerpt: "Recently, Forbes released the 2020 Top 100 Venture Capitalist list in China, the definitive ranking of the top investors of this year. Victor Ai is awarded one of the top 100 venture capitalists of this year in China."
-    publishedDateTime: 2020-12-31T08:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-greater-china-investment-management-stock-listings-077db88dd775ff9cc2907a73dc89a295"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Mdzf6nk2R3kcOMd7EduAGTKd2a2Q3i1ptBmV1R3zmBg+PBVtmH2MJI6bAJd7TJQgzJ7WB9jnHU6jm1G3I3e3d8cpzYi1wTrW/BHrrPW6H5kuLhcVuJCroc7lp8VD6+n28BO81NlhiFdE042VSdppMnWslxJEClqotk87kViemUBgd/BkRqvM7QiFWKKaOTiVAbXbLBrSp1bMPt2ei7cVlgRYQDrQqnoRJwc/5cj1zND/qWeXiY1mKBA4SMTIb2z+Vcf7dKTQEODDcZyfR2NdhEF5fC/e1Yv7XvABDoiEgGCS6snG/n2a8HS31sDqyOVCWTnYKkNbN3hHKYINPSOi8bWoCWslflYUNz4/p+eSPSrz4C5kmt0ctJ3Lxjk2HXsYUNbtNBwO1qZzSSPxZWlrekTpqic7YW5nFEivUkXjVPeU2k3I/oD2ll+Ju+UxgKCmNLs7CimnrAi4hXMH3hGL8qauFS829pU7qdE0nd1mkFgaDRVvzZrKgVLd/waKzGXwsdbymE4BR3MvQval7IYBLQ==;wxTEp/HlRvM/9A9N0lbLpg=="

@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/ai-robotics-etfs-to-keep-shining-on-exp
 ampWebUrl: "https://www.nasdaq.com/articles/ai-robotics-etfs-to-keep-shining-on-expanding-applications-2021-01-04?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-robotics-etfs-to-keep-shining-on-expanding-applications-2021-01-04?amp"
 type: article
-quality: 99
-heat: 109
+quality: 101
+heat: 111
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 related:
   - title: "Using artificial intelligence to find new uses for existing medications"

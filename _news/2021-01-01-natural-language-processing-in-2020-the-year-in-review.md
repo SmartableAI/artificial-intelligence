@@ -58,20 +58,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Victor Ai awarded Forbes 2020 Top 100 Venture Capitalist in China"
-    excerpt: "Recently, Forbes released the 2020 Top 100 Venture Capitalist list in China, the definitive ranking of the top investors of this year. Victor Ai is awarded one of the top 100 venture capitalists of this year in China."
-    publishedDateTime: 2020-12-31T08:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-greater-china-investment-management-stock-listings-077db88dd775ff9cc2907a73dc89a295"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "QSqtXVHoMjOLsUDhZ9hG8SzgZM6MrLuEO2sTJSskWWBKs2pC+jGKG8pFlYR/88VwyFcuQrlZXmC9GwISG4Yxid82DX/UaQckaP4h33Dt1SEBioyR3dn0nJ5dqc2UBeOCR5U0hmQz0j8zCrjsPAczWGpsYkJp38ZkWgWwV5sNsbh7bYNBDJbmynLuc+0tvOIrndp6O8iHXUXKjb1vwEV8l6b8mutXIT7M9AeK/chrTK+H/3oWvSz9J8bipaR/vWCT8RXAPogAESwiD+fvy7/4SYdK3CQdzJiQg4vKmqlfmdoPWH6CgfsrodlsOKnuLllBQD5gdbbb2YytJFDmjYWIK9gzuvnQ/4Lf24s7ir8msqQ=;tL5iWKDyOzVEhvsOVVYGEg=="
 ---

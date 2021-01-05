@@ -54,6 +54,20 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 99
+  - title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in"
+    publishedDateTime: 2021-01-04T23:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/amp-robotics-raises-55-million-from-xn-valor-equity-partners-gv-and-existing-investors-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
     excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
     publishedDateTime: 2021-01-04T19:54:00Z
@@ -83,6 +97,6 @@ related:
         height: 414
         isCached: true
 
-secured: "r/YUpLDIx/mkwTlRhXELJMqhNk+Krj5vngMN7mbuKywg9oJrVXwicayHRQYN2vg8VVlj/al+UA3i6B/Q7gCwfVKwN1XAkfHYzMJOTsnj+rAnvwbn94XGUXRCon95IVdgc8spQARWb5R/9xPxYsZDMLa1VyrXIUFd3wuSKt2cxwE9/ApSwcWywWns9alWT8BgoU30N81YRKub3kFJOJITZFutea7Lx+BXRJmP+HCzK7gGQakw6Usr9IrUlzephqEQU39YONjuH4v56p7dsFGG1y0MCutlFIw85klaLz7HpYQ07uPn2X8TMnEpPufXNKLl4xveZuru4rB9H+H2G4PfPNsQ/wHZoy+glM+CrL4tKu4=;pr0giten/ZRLfLTuCEbDrw=="
+secured: "p8lrQIew6Wd2FICfJJg+lykHkaEGe0tG0S7gSaJC35FBVbmX8r+kYbwBFMYFvU5tkbDJiPF59gXmvNC6PNoSlnKdcLOIQXh+2B5bpX0LtT3VMr3e0s423+Ew4BGhLgo+TGKHBoBGB92nIZQY4wAgH2qFlPWWeHU4+xgDtoGjuT6JVZPl2+i+dIrlW1tHY8LdAqHJCDDsFxlraRz0Rd0L9RMbdQvI4/SdnMRxHGD4D3Z/o6QnFcRTzHqQfBFTDK6jTPF2VNwDgOdqiDRJpjxoSUHTRc8wmd0xAnmXAs6B+5hqphfhyxL+9ELoKOXyg+Svm8HDkNwYCV2HtMK1IU3HKZcPcaQdT5iayDeaw1mP4/G1zfLVL0knOPQyyyNPKRy/kXIPYaMXB3ewcF2xQSnRr5cjMz2GvtRsHdk3Fl1C9nluFQE7voMnYk0CEGQqeFzxzC5Wzi6bQXcKNRB0eUNj+B6mxsooYGTIvxfTSlFU9AqFyjewX9lhp9FyKeAqn+tJ2LthaP0MtPSzDdNCI6dyuQ==;sbA9f9qXAIHWjxcj4nY9lg=="
 ---
 

@@ -47,7 +47,7 @@ related:
     provider:
       name: The Straits Times
       domain: straitstimes.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
         width: 763
