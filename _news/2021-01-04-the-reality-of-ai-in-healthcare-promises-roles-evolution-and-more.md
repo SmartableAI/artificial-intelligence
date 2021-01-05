@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-e
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/NLP-in-Healthcare.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "A booster dose for healthcare"
-    excerpt: "The new decade may witness a more advanced stage of digitisation of health sector infrastructure and services The year 2020 was an extremely eventful one for the healthcare and pharma industry, and for humanity as well."
-    publishedDateTime: 2020-12-31T18:47:00Z
-    webUrl: "https://www.dailypioneer.com/2021/columnists/a-booster-dose-for-healthcare.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
         isCached: true
 
 secured: "lTBhN+ID7YqmSzKCSlXAU3afytdRFm7OZenI82oYLNmAT/qZLFI3vuLFQyex28oOq6bDSFutlvh055oTypOphzbvSNiVI8W/7tR4WEgKhrxLx7RhKb6BwA9KkflYOsTEUHuOBPObp4hdhf2okWHYRK9wdS9uSyScbtAqpea//2tf2QZaqK6ze7TxIfLWvMq0eVmvs7YQ5cJmiDyZU6100RZbMniDbi4qowUs8CZjUbJMjQ9sJySlEpCAFAYj0M40WcDFcX9f+AK82mshhU6Avc1Jrj9Mdgph8vfu/ZrJgo1OuB3V3VVHlZEbiaXSO7txceUTdU/ROS4Kn6LGXPWHXvb0rzjSX9YG0R/bOtio2E9YnD4UlWhwfuOXVKokjcwfYQZbL3S+5SZZTolxdL2//ZxZR1uFDbIZ2j1TCDSFS4F+Z4IFlCYSgvwK0sc5LTpjZkvO3wN00ViaGTLph4znEIvtYRD4ChPNB8b0OktdrIAz2KrRjhnT3Cp1Fzpebm+ryInWhaDcHIpMNHfDAXJe6g==;NUNR8x1+TUUM9tagRU3tBw=="

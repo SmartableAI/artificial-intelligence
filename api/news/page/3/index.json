@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-01-a-disembodied-robot-mouth-and-14-other-2020-stories-we-laughed-at.md",
+      "title": "A disembodied robot mouth and 14 other 2020 stories we laughed at",
+      "excerpt": "Forget the challenges of the last 12 months and instead have some fun reading our pick of the quirkiest tech stories from the past year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
+      "originalUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/a-0-6-1200x630-c-ar1.91-n.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
+      "publishedDateTime": "2020-12-31T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in January",
+      "excerpt": "Artificial intelligence and related technology giving machines and systems the ability to make decisions is a fast-growing industry. Global spending on AI grew by a double-digit percentage in 2020, and the pace of expansion is only expected to continue in the years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/1ad42a49786b1e43c0b54a83fc7e24d4.png",
+          "width": 720,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/31/3-top-artificial-intelligence-stocks-to-buy-in-jan/",
+      "publishedDateTime": "2020-12-31T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
       "title": "How Apple’s self-driving car plans might transform the company itself",
       "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
@@ -1107,105 +1212,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-black-man-files-lawsuit-after-being-jailed-due-to-error-in-facial-recognition-technology.md",
-      "title": "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology",
-      "excerpt": "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
-      "originalUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg",
-          "width": 800,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
-      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
-      "publishedDateTime": "2020-12-30T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Root",
-        "domain": "theroot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
-      "title": "You don’t code? Do machine learning straight from Microsoft Excel",
-      "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
-      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
-      "publishedDateTime": "2020-12-30T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AWS AI"
       ]
     }
   ],

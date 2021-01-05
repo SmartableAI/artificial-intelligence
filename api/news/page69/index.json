@@ -2,6 +2,101 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
+      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
+      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence.md",
+      "title": "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) and AMD (NASDAQ: AMD) today announced a multi-year joint development agreement to enhance and extend the security and Artificial Intelligence (AI) offerings of both companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201111ny87572/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201111ny87572/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-check-out-bandais-mind-controlled-robot-prototype.md",
       "title": "Check out Bandai’s mind-controlled robot prototype",
       "excerpt": "Researchers at NeU, a joint venture between Tohoku University and Hitachi, have developed a prototype toy robot controlled directly by the mind, in collaboration with toy giant Bandai. This robot ...",
@@ -1093,91 +1188,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
-      "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
-      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "publishedDateTime": "2020-11-10T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-apple-event-live-coverage-apple-silicon-macs-announced-full-transcript-of-event.md",
-      "title": "Apple Event Live Coverage: Apple Silicon Macs Announced! [Full Transcript of Event]",
-      "excerpt": "Apple's virtual \"One More Thing\" event kicks off today at 10:00 a.m. Pacific Time, with Apple expected to debut its first Mac",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=5AwdkGKmZ0I",
-      "originalUrl": "https://www.macrumors.com/2020/11/10/live-coverage-november-2020-apple-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5AwdkGKmZ0I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

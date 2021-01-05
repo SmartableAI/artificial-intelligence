@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-31-black-man-files-lawsuit-after-being-jailed-due-to-error-in-facial-recognition-technology.md",
+      "title": "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology",
+      "excerpt": "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
+      "originalUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg",
+          "width": 800,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
+      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
+      "publishedDateTime": "2020-12-30T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Root",
+        "domain": "theroot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
+      "title": "You don’t code? Do machine learning straight from Microsoft Excel",
+      "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "publishedDateTime": "2020-12-30T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-chinas-adaptive-robot-maker-flexiv-raises-over-100-million.md",
       "title": "China’s adaptive robot maker Flexiv raises over $100 million",
       "excerpt": "As businesses around the world look to automate production lines and supply chains, companies making the robots are attracting great investor interest. The latest to get funded is Flexiv, which closed a Series B round north of $100 million from investors including China’s on-demand services",
@@ -1120,100 +1219,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce.md",
-      "title": "The Times, They Are A-Changin': How AI Can Create A Happier, More Productive Workforce",
-      "excerpt": "How To Implement Ethical AI At Your Organization Fifteen years from now, saying, \"I use AI at work,\" will seem as ridiculous as stating, \"I use a mobile phone at work\" would have in 2005. A recent Deloitte study shows that 56% of enterprises are investing in intelligent automation and chat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f189eb53aae764f6d078ef0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/amp/",
-      "publishedDateTime": "2020-12-29T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-the-marketplace-is-demanding-ethical-ai.md",
-      "title": "The Marketplace Is Demanding Ethical AI",
-      "excerpt": "Under the right conditions, AI can be highly beneficial and a force for good. Under the wrong conditions, however, AI can lead to widespread discrimination and reinforce existing socioeconomic disparities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "originalUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-277416/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "publishedDateTime": "2020-12-29T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -73,20 +73,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "A booster dose for healthcare"
-    excerpt: "The new decade may witness a more advanced stage of digitisation of health sector infrastructure and services The year 2020 was an extremely eventful one for the healthcare and pharma industry, and for humanity as well."
-    publishedDateTime: 2020-12-31T18:47:00Z
-    webUrl: "https://www.dailypioneer.com/2021/columnists/a-booster-dose-for-healthcare.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
 
 secured: "u/8UKmGbS+njIdtnKCvwg2NJXY8XdZmJIr0ptMCI11EFmPzKMjlpAKtQSaPSemoV/eXOsjNoilJl4G5P5mtJoTNDFkvHpKNMWDF7BOSN42HKM5/TQimEtTyuviZX9eTzL7BiuZRLoqNr8SmOO+KNerEhc6yQkbq5zkzWPbfqgFhudlYM0vyE5+TJ5DHhGfwq6m3d6QY7LKxFWst5v9vxkBK0JqK8VT3yqunEMVsGdY7GyQDV5k5cRNkJCZig5tHxiFDanVl46wFV1VguomQXCAHN8OQYqBe+9h2YlTMx/pksUh4s3EeB/AkNrGV7qkYJ3n1/hiVrbx/cZCGbFaBJXa4fkj7ARtAKtTPzu8nItjNsq3CpECF/QvbKizQCnnFWOVdPQb97LkMfvdpVTYa/GOGBFwRXEGyGgEamuYl28Mwd+ULCpUW+AzDxh9ltg+GiY/boR+2CAD7qI2qjFndZyMajnLfDttGH7g155Rs3vYJmPSzyBKBLNSr5dajrmVu//6hQbQEQRTkdk5ZWgTwngQ==;Re5TY7Tq7+prVqsfyYNZGQ=="
 ---

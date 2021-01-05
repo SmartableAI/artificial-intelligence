@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-04-intel-partners-make-new-strides-in-loihi-neuromorphic-computing-chip-development.md",
+      "title": "Intel, partners make new strides in Loihi neuromorphic computing chip development",
+      "excerpt": "Intel has released new performance benchmarks for the Loihi neuromorphic computing processor, revealing improvements in power consumption and efficiency. During Intel's virtual Lab Day, on Thursday, the tech giant revealed Loihi chip improvements in voice command recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
+      "originalUrl": "https://www.zdnet.com/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/14/edcf80c8-c990-4e81-ac5f-857081496c33/thumbnail/1200x675/9e64681166dfe8e68dcb155133391e78/new-life-for-obsolete-intel-macs-great-w-5f07072c5129505ee26e182d-1-jul-14-2020-13-38-39-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
+      "publishedDateTime": "2020-12-03T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing.md",
+      "title": "AI’s next act: Genius chips, programmable silicon and the future of computing",
+      "excerpt": "Much of the hype around AI — all the disruption it was supposed to bring and the leaps it was supposed to fuel — will begin in earnest in the next few years.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
+      "originalUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1161024057.jpg?w=1024",
+          "width": 1024,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
+      "publishedDateTime": "2020-12-03T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-intel-has-been-missing-an-ai-business-to-compete-with-nvidia-its-finally-here.md",
       "title": "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here.",
       "excerpt": "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants.",
@@ -1336,101 +1440,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims.md",
-      "title": "World's biggest computing chip is '10,000 times faster' than a GPU, maker claims",
-      "excerpt": "can now claim to be the “fastest AI computer in existence.” According to Cerebras and the Department of Energy’s National Energy Technology Laboratory (NETL), the CS-1 is more than 10,000 times faster than leading GPU competitors and 200 times faster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "originalUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yky93teYjYQmAYjmkSH3EG-1200-80.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "publishedDateTime": "2020-11-18T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates.md",
-      "title": "NVIDIA Studio Driver November 2020 Update Brings Support For Eight New GPU-Accelerated Creative App Updates",
-      "excerpt": "Needless to add, the AI-accelerated RTX Tensor Cores combined with these features should significantly reduce tedious, repetitive work. Keyshot 10 claims rendering speeds are up by 23 percent than the previous version. The platform offers one-click GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
-      "originalUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.appuals.com/wp-content/uploads/2019/02/MW-FP470_nvidia_20170629195436_ZH.jpg",
-          "width": 890,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "appuals.com",
-        "domain": "appuals.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

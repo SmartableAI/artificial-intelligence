@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-25-why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime.md",
+      "title": "Why AI and security pros need to work together to fight cybercrime",
+      "excerpt": "Cybercriminals sometimes use AI to their benefit. In order to defeat these cyber bad guys, security pros and AI should focus on what they do best.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "originalUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/01/21590d4d-6013-4049-b3b1-d972e3d73979/resize/1200x/7b9a22c91ecb9318663b276bd819b0b0/ai-ml-2.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
+      "publishedDateTime": "2020-12-24T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day.md",
+      "title": "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day",
+      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
+      "publishedDateTime": "2020-12-24T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
       "title": "Robotics company gets OK to charge money for self-driving services",
       "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
@@ -1140,110 +1227,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-reflections-on-my-2020-predictions-for-ai-dl-and-ml.md",
-      "title": "Reflections On My 2020 Predictions For AI, DL, And ML",
-      "excerpt": "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
-      "publishedDateTime": "2020-12-23T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-google-told-scientists-to-use-a-positive-tone-in-ai-research-documents-show.md",
-      "title": "Google told scientists to use 'a positive tone' in AI research, documents show",
-      "excerpt": "The company requested authors refrain from casting its technology in a negative light in at least three cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "originalUrl": "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "publishedDateTime": "2020-12-23T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

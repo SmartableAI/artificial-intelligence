@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-11-best-speech-to-text-software-in-2020-free-paid-and-online-voice-recognition-apps-and-services.md",
+      "title": "Best speech-to-text software in 2020: Free, paid and online voice recognition apps and services",
+      "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/best-speech-to-text-app",
+      "originalUrl": "https://www.techradar.com/uk/news/best-speech-to-text-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6s4wiJpNLiXjuTChGeH4X8-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-sophie-countess-of-wessexs-body-language-shows-growing-levels-of-confidence.md",
+      "title": "Sophie, Countess of Wessex's body language shows 'growing levels of confidence'",
+      "excerpt": "Analysing her signals, body language expert Judi James explained that Sophie’s levels of confidence is growing. The expert said: “There is a hint here that Sophie’s confidence is growing as a very top tier,",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "originalUrl": "https://www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/130/590x/Sophie-Countess-of-Wessex-s-body-language-shows-growing-levels-of-confidence-1371247.jpg?r=1607684643555",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/life/1371247/sophie-countess-of-wessex-body-language-confidence-expert-latest/amp",
+      "publishedDateTime": "2020-12-11T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise.md",
       "title": "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?",
       "excerpt": "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?",
@@ -1081,102 +1176,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-the-new-laws-of-robotics-building-on-asimovs-science-fiction-legacy-in-the-age-of-ai.md",
-      "title": "The new laws of robotics — building on Asimov's science fiction legacy in the age of AI",
-      "excerpt": "Way back in 1942, science fiction writer Isaac Asimov created the Three Laws of Robotics. Now, an AI expert has expanded that list in a bid to ensure the robotics revolution works for humans, not against them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
-      "originalUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/da758a2d6f4454e05854a74f2abb1c4b?impolicy=wcms_crop_resize&cropH=420&cropW=745&xPos=0&yPos=229&width=862&height=485",
-          "width": 745,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/12947424",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12947424",
-      "publishedDateTime": "2020-12-10T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-how-ai-and-machine-learning-moved-forward-in-2020.md",
-      "title": "How AI and machine learning moved forward in 2020",
-      "excerpt": "AI and machine learning saw several steps forward in 2020, from the first beta of GPT-3, stricter regulation of AI technologies and conversations around bias.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/how-ai-and-machine-learning-moved-forward-in-2020/",
-      "originalUrl": "https://sdtimes.com/ai/how-ai-and-machine-learning-moved-forward-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-AI.jpg",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-05T05:33:00Z
 originalUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
 webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
@@ -58,6 +59,6 @@ related:
         height: 600
         isCached: true
 
-secured: "woCi2XghkMV/cIeCHR0Y7bdcj4jBYDV+ygtMHVOCczm+rAPA5OJis+9H8Y3LQADAKbGE3EJkhrHMJlTCJZAk0A4x8pJwOmoyXbWimpTZHftJpB5EHou2N48WbKU38PZjllpwOIjLDNK5RcF2hH8ITrTDvSb9ipYQ6m9viNxp9ebFJoisfdJYUG6/aduNghC5xJpT64t5yqevwYLljkmU+rVH6FXPWmspgu0mGTN9SpLfMSV0e0Sri88vLpdo8gcb3k7YZt8yU1irpkcaEmo1fZKzHMXV531rrOD1bDPqccJ/TH+Szpt+pDFfAgcvc8uyAYYK7u8V6XdP00ZIkbpp1s+JVkdJlW5aVGffExHVBtw=;tXU3X2PSrT286ScUE0Hjiw=="
+secured: "OK2WpI3cuutImllCYPrX2h2dfS8nb34775oNX3v0ZQ7zX1hfL6ondcEmt5EhDMf31xfb4xXWzExUZlRf9l5BsrAKeLM5ZRou8ZS1WJasPY+pCoVMn5cszNv/wz+xmfy0izH3ytSaD6qrBcySTsNeQKdGF5ZUe0t3uU1znfP/s4weVImFLgCR3ihYco51BeCcWZ7Z1yLumIwbRx5H0m/F9thPGBDR/A09B+xS0mMdTrVTsoGrS+B5xk52tVvCKQ4HnZtncvitlCoQXSh+sEihshqwyG7p9C7z7kS8FGO4d73A1wvVaEVDoLnSQamvjuPCiwbXCyvJDcJkYhYYGBafYXxt1s1TnsLQC3crSF1HBxEuIhYFrR+PqNVOKCu6qtYLMGs2113VPXTvoYBtfb9MGGtfFTrULZgtUBWHQG302kJ54wXJeaxKeJ3u4Tr5giMqF/0PYtWNTol3rHcNTgiSE8CjElSj9goaasZlbBSTJMrgp1/V1In6HDZ9yFGr3Y8b40JBMMmT8thGgVdORs1+Dg==;NlsgzYqFDerAi/j3C+3HmA=="
 ---
 

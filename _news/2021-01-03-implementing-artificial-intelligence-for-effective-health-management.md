@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ePlus Acquires Systems Management Planning For Strong AI, Collaboration Expansion"
+    excerpt: "Plus acquired competitor Systems Management Planning as a way to better help clients with digital transformation in the face of the pandemic."
+    publishedDateTime: 2021-01-05T10:19:00Z
+    webUrl: "https://www.crn.com/news/channel-programs/eplus-acquired-systems-management-planning-for-strong-ai-collaboration-expansion"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 32
+    images:
+      - url: "https://www.crn.com/resources/0265-114190153593-49fc28ebc52c-1000/100461653.jpeg"
+        width: 398
+        height: 398
+        isCached: true
   - title: "4 basic steps in implementing predictive maintenance without AI, machine learning skills"
     excerpt: "Engineers can access the raw data, identify condition indicators, and build a predictive model based on what condition indicator values will look like in the future."
     publishedDateTime: 2021-01-04T14:17:00Z

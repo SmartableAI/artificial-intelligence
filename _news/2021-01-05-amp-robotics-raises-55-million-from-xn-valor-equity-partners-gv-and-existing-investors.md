@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
-excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in"
-publishedDateTime: 2021-01-04T23:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/amp-robotics-raises-55-million-from-xn-valor-equity-partners-gv-and-existing-investors-2021-01-04"
-webUrl: "https://www.marketwatch.com/press-release/amp-robotics-raises-55-million-from-xn-valor-equity-partners-gv-and-existing-investors-2021-01-04"
+excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in a Series B financing, led by XN with participation from new investors Valor Equity Partners and GV as well as existing investors Sequoia Capital,"
+publishedDateTime: 2021-01-05T10:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-environmental-equipment-and-services-coronavirus-pandemic-environment-0b75f48fd5eb4716ae3051d7b57feb76"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-environmental-equipment-and-services-coronavirus-pandemic-environment-0b75f48fd5eb4716ae3051d7b57feb76"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -101,6 +97,6 @@ related:
         height: 414
         isCached: true
 
-secured: "n9wp1clNl48mFJFn6CjiN2yZRqo2LncauSihky4sp/OwRM9uC1B1V+kTBZW9UCOzosqsSjF3jjIeMBEJjPwf2H/HzkIp4cIdl53R4m+4nOaa7Oaa8hcmHtICgJq3tJQlL2UtUNnTBAcagwG38vSoQ3+uB1EvlJaDCejUcO9GhhtJ698HBCbOYJwyK3LuqU6IrXrw+tGKcOVu8s/CH5WAz4d7ok4o2EM4zNO7sFtWzclLR7tCkQLXFzkZ1EQDzT2+wA/WS6aw9f7DseOFjNFzKEfqCY9NJ0fYOI6O5vlrKegBNIYEgdpry9zv72rg1AZ3cx/v6IF/k+fbXvnEbd/TQtOoAf2dCDbRxh1T+59lHwQ=;QzZJspdmxFjJ1RhzylgYsg=="
+secured: "5oO6vKSQoP4yWZKqoAqRotIVSTB60ealJSbvF975THqpB0IIoTpKuIW/7U41mlspTh13UbG7jPjQkEyCdnCzIk37onJvmcNEO458Qv6ryi/6YgEKxRKOSywVVnIs99sXGgZ+Sv27jS1h32neUM2DFKR5xRmTe9YHoYE3JD3qpV65W8Eh7qgJU0wq3TlmrtcWOROizVh430JrTZ6gOyDfuPWaQoD1dj1YXQ1oKH6JSXg7f10mXCn4g45eYemssv+uK+WxtnP0T1SXgQ778iXzJK8HhFVrB0LUrqegY+ytzNu+B1+fegEmUUlfyKiJwf0bfpGJ9jouz2+PN9cmipAt37fcNT1HCShp8iQxwn0yXRE=;wM8xQ2Kf2LXK3pkiPCs67g=="
 ---
 

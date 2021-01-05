@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/04/how-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/04/how-artificial-intelligence-can-power-climate-change-strategy/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Technology is Changing the Wine Industry"
-    excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
-    publishedDateTime: 2021-01-03T16:15:00Z
-    webUrl: "https://www.lendio.com/blog/ai-technology-changing-wine-industry/"
+  - title: "Why diversity is key to a successful AI strategy"
+    excerpt: "However, AI bias isn’t an issue limited to big-name companies and high-profile scandals. A recent report from Capgemini that surveyed 800 organisations and 2,900 consumers has revealed 90% of organisations are aware of at least one instance where an AI system had resulted in ethical issues for their business."
+    publishedDateTime: 2021-01-05T09:25:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy?amp"
     type: article
     provider:
-      name: lendio.com
-      domain: lendio.com
-    quality: 37
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
     images:
-      - url: "https://www.lendio.com/wp-content/uploads/2020/12/family-toasting-with-wine-600x315-cropped.jpg"
-        width: 600
-        height: 315
+      - url: "https://media.itpro.co.uk//image/upload/v1609837385/itpro/2021/01/shuttterstock_diversity.jpg"
+        width: 1312
+        height: 738
         isCached: true
 
 secured: "iN/mwZWxvUMNg+Q28uGcw8rUciCndcrDH4Z4tlvGuA8iDk4lhSN9CYITwdsvGFJLjRl8Q4KNUqUIsGBZehq+Ij6OECGUbnc1NYoYrrX/MrAcTE/DBzBtVoXE8lQmLGHfXFtTr3EHKytOGLtZaFH8kC4HarqslSf7udmR3PUIN0uJM1AqjHF8qInjVrt19jWak4qgabh+dLwAMkKJHVd96nTpdsf/B8HiwkaFppyLmMRAYv8Bip+zAPK/79+sTE83at6OJ26nEVzxtKukL9tMxMI936K2pQc6Qtn+DMLgG+zz4ks3YwHwj/lAbHJbOZuxW8K9Ft1glJ61vd4d2JQnCTly8XSdJqWvn+K5H8u9arS/SiKXG+VtaSCT+4LvkKWyzkKYl9l0TuAoVCGJBuHpGd1Juf1ljlus+d4d/1OPARli4f9efodUvQOSNQHqSurwNXYMkAl34WLrL4L8l2LgAWEbGOlygi6vorEkbq0TH9gZiee9Sw3I4kMJtJ+2wgSHNDRbm5bRWzhtvnavVXuC7g==;sU0wwfzJZ1118UAoLNJMUQ=="

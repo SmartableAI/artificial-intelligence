@@ -2,6 +2,109 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-11-08-review-cadillac-super-cruise-trumps-tesla-autopilot-as-the-best-self-driving-technology-you-can-buy-today.md",
+      "title": "REVIEW: Cadillac Super Cruise trumps Tesla Autopilot as the best self-driving technology you can buy today",
+      "excerpt": "I subjected the system to new challenges, including a congested highway and some genuinely awful, rainy weather.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
+      "originalUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa43726f7d1cb0019e3a02a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
+      "publishedDateTime": "2020-11-08T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-this-ai-makes-movies-from-hundreds-of-phones-automatically.md",
+      "title": "This AI Makes Movies From Hundreds Of Phones Automatically",
+      "excerpt": "AI.” Video processing algorithms can find the region of interest in videos, IMINT says, and in the future, they’ll automatically zoom in and intelligently focus on what they’re seeing: a goal being scored at a soccer game,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa78ea1652a1b5372c5aa4f%2F0x0.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
+      "publishedDateTime": "2020-11-07T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-why-face-recognition-technologies-are-getting-thumbs-down.md",
       "title": "Why face recognition technologies are getting thumbs down?",
       "excerpt": "Just a few months back, IBM CEO announced that it was taking the focus off the facial recognition services. Arvind Krishnan in a letter to the US Congress wrote that 'IBM no longer offers general ...",
@@ -1082,101 +1185,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks.md",
-      "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Amazon-SageMaker-Studio-notebooks-2.jpg",
-          "width": 800,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T10:17:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-driverless-car-startup-ponyai-valued-at-53b-with-series-c-round.md",
-      "title": "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round",
-      "excerpt": "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "publishedDateTime": "2020-11-06T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

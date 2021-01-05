@@ -52,20 +52,6 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 99
-  - title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in"
-    publishedDateTime: 2021-01-04T23:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/amp-robotics-raises-55-million-from-xn-valor-equity-partners-gv-and-existing-investors-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Recycler AI maker AMP Robotics raises $55M in Series B"
     excerpt: "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group."
     publishedDateTime: 2021-01-04T22:43:00Z
@@ -95,6 +81,20 @@ related:
       - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/amp-robotics-ai-arm-iot-recycling-green-tech-artificial-intelligence.jpg"
         width: 1000
         height: 647
+        isCached: true
+  - title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in a Series B financing, led by XN with participation from new investors Valor Equity Partners and GV as well as existing investors Sequoia Capital,"
+    publishedDateTime: 2021-01-05T10:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-environmental-equipment-and-services-coronavirus-pandemic-environment-0b75f48fd5eb4716ae3051d7b57feb76"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 59
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "J6WmQgreawooj5f4F6dXoBcUQWNKKoEp7k1ZyHORUwh+xDaduhwDYyUo6PN7maaYFqc0i/DSK1TZoHj/zsboYjZgqq/Wo9q5Fqe6JTxFefWFAbLseQnkG5ekPAzs7JDdXFF2XFFo+szPA3PvkYsQSW4fx0Cdgqjy/BQLDXwXTC0U1ooK8l00ZzkgT49gLP9OdOtj2JP5ZnwOwKoWRGe5+10KQzjospezmFR6kaXTfmijvHgMaaxU2sIcrkPcoCmwiJD1LJ9KR11ou4Nf4PpZeTVQig0QUVerXxPDHM0R2t0hRK4vFqDtz53qIFmTY8cQ/3I9ZckoQ0kIGWGbHWDlr2nCxWZIFRoIR+0ltQ4j2Kc=;ftOe2YVQ0GUE+S6nNRVWYg=="

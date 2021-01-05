@@ -40,14 +40,19 @@ related:
         height: 630
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
-    publishedDateTime: 2021-01-04T14:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
+    excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
+    publishedDateTime: 2021-01-04T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
+        isCached: true
 
 secured: "Wojy9N1poIBJdNBeAeeTsApPC/d/dtpr2+FY5e0VSW7DAd98LMwA6t3LQauYAa4GyBcOMxgJol+z3Uk/cUQSay7EwAz4QPizQ2ZJNUkkrOcDlHwqnBurlCImvXYSK2qKbkH47OInhTHdmo3+6Xrj0s7X5sGRvK6ioGwULlWvdp69WekCCkkVSiywgOmoxnWrfHlC7S78oqJBNFSuHn6A9NWldNNOj/hH2Q5GFZ1t6r87J06+/o7/2OOFhn+6BXak1ooUIAF7p78dvigLnAhG3WkrPOjEU9gfdX/apzUb12SIUjj5s4lsKR5seZ2v/midxsqizbU+bJ1IetrpL6CKZ92hgNtUYyaRsCV7n5rJWSpBaDzZlQjg6ltAz/bT14TyTswQAClPHvR1q8E2p0yb7dR0NgyPCpyOV+KbuJ1EGMRCtxjCjs79yeNhMmjlJjpQho5L4MfvTIwpH0JSFEcygG1is0iwUBHipDIWV/BT8KgJGklH9vXxZfVtCOo4/Fj0ntY+n86AiPDgS1f9L5nidg==;Z//Fy3qmL5ywTQKybjTWBA=="
 ---

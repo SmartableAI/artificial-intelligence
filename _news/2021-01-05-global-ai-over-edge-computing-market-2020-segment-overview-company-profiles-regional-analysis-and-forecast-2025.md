@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Market 2020 – 2025 | Development, News and significant Growth With Regional Trends By Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. The key players included in this market are [[24]7.ai, Inc., 3M, Abe AI Inc., Amazon Web Services, Inc., Apple Inc., Aylien Ltd., Cortical.io, DigitalGenius, Dolbey, Expert ..."
+    publishedDateTime: 2021-01-05T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Construction Market 2021 Business Trends, COVID - 19 Outbreak, Regional Analysis, Share, Size, Global Segments and Industry Profit Growth"
     excerpt: "Ai In Construction Market Overview: In Its Research Report, Market Research Future (Mrfr), Asserts That The Global Ai"
     publishedDateTime: 2021-01-04T06:57:00Z

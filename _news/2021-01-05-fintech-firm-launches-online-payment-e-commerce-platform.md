@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2021/01/05/fintech-firm-launch
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/01/05/fintech-firm-launches-online-payment-e-commerce-platform/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech industry accelerates financial inclusion, to push faster digital adoption"
-    excerpt: "The rapid growth of fintech players has helped in accelerating financial inclusion and new age technologies like AI and ML will further quicken digital adoption in the country, benefitting both the industry and the consumers in the coming years,"
-    publishedDateTime: 2020-12-31T17:59:00Z
-    webUrl: "https://www.freepressjournal.in/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-industry-accelerates-financial-inclusion-to-push-faster-digital-adoption/fbf4d13d-2858-43f7-b9ee-492bdc7457f4"
+  - title: "Bank-FinTech Collaborations Set Stage For Real-Time Payments Expansion"
+    excerpt: "Carl Robinson, senior vice president of Alacriti, told PYMNTS that bank-fintech collaborations will create more use cases for real-time payments."
+    publishedDateTime: 2021-01-05T08:00:00Z
+    webUrl: "https://www.pymnts.com/news/banking/2021/bank-fintech-collaborations-set-stage-for-real-time-payments-expansion/"
+    ampWebUrl: "https://www.pymnts.com/news/banking/2021/bank-fintech-collaborations-set-stage-for-real-time-payments-expansion/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/bank-fintech-collaborations-set-stage-for-real-time-payments-expansion/amp/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 39
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-12/15fbb897-4bdc-435c-b66a-39605d0bcc38/pexels_sora_shimazaki_5926395.jpg"
-        width: 6000
-        height: 4000
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Carl-Robinson-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "tICVA/Jo9I5NfZKvgsoFkHXLreXGFzqIqJlotOPbQg+RVxqqJsISYnqGLyh2ln3rEjibmpDbaBRV4sDC9BLkXnxCNcOxJm9sx3qIHhHd5c1pm/fsAopZEqSqW6CZ0vgi59shECpLL43idbHGVIBaMvuu13mMNz3gZW/ZfgsXetywXoU8pxt6zKRHQfv66VRXBvjuTH70Ab67GAj5AgiwKovZhHx1VYuCD7BkcCF5tBGGNAxgJo7O9r431jLu76LBLQRskHPIkV2S/Vhi61gxcBL5idV25tgj+IBfuzeowqBu11j5oYYTO5ZYHQnYuZpvPVARgevRsFOymAznGSVO9cRIMH/hwAKtIls8mI1kyg3LMT5lBa8krHRV03lGrEAnBMu7mp85EWZnL/rlLOA2URTLB9u5ogoAem2d7WP9HZYOAc/bg5w4JbmcLzaX1jiEZznmCqGWfu8WrIAzb8E9Z+ZeOKXBI//ToDMcr+Rf+IWgJ2GNkceaL/0akKTkqQ9J2g31DPE+ostQ6wo6jeydlA==;OcvS48eOqRrqR41WqX0JIQ=="

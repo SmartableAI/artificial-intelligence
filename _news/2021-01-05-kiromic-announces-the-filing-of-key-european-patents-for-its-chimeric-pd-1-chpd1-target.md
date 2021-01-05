@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Kiromic Announces the Filing of Key European Patents for Its Chimeric PD-1 (chPD1) Target"
-excerpt: "Kiromic Biopharma, Inc. (NASDAQ:KRBP), a target discovery and gene-editing company utilizing artificial intelligence and proprietary neural network platform with a"
-publishedDateTime: 2021-01-05T01:35:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19011075/kiromic-announces-the-filing-of-key-european-patents-for-its-chimeric-pd-1-chpd1-target"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/b19011075/kiromic-announces-the-filing-of-key-european-patents-for-its-chimeric-pd-1-chpd1-target"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19011075"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19011075"
+excerpt: "Kiromic Biopharma, Inc. (Nasdaq: KRBP), a target discovery and gene-editing company utilizing artificial intelligence and proprietary neural network platform with a therapeutic focus on immuno-oncology,"
+publishedDateTime: 2021-01-05T02:42:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-business-government-regulations-coronavirus-pandemic-ovarian-cancer-fd1147f580d54e34b67ae7eb6f2ebcb4"
+webUrl: "https://apnews.com/press-release/business-wire/science-business-government-regulations-coronavirus-pandemic-ovarian-cancer-fd1147f580d54e34b67ae7eb6f2ebcb4"
 type: article
 quality: 15
 heat: 15
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "+lSpfMTajA+IUPSpjfnjofXa6mdUeEJRgoUpicr+Q+bKCPH7WAKHYuPeVwaYFTkGxz1FJJkAA8iTyW2XSMiU7nBLVaNkJWMPRXcW+rqk+UvrA6ciYIeAwMRvrQ7tSkOu/15xKmF7sQ3zeOqTYOsrC/5eRMzUdPycppkIeJcc7K+9wnhDy6JP9SLGbgd9/1mVE9x81cpbSn1yN0lDEeEYX4U/OdGiFpOFeG61LQKxIgr6JOgpwaDI+w2qXpdZAtMYjM9VZIHoLyAwGv5mcSnvzdm6QfFVNBNN4jsAR/nUGC7sq8oGpCP4vGQnj7pJQ+hBRUHRtJjm6syfQaUEET36kqDCI81WrPAKhrpxztFdBRg=;JhQuwMHsYFTAOSJ33AbDPQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "8KBsj5vSqBZ4g6tSIN6Gu7giHjQHZwnkX1xatjyN3XicQGqZ0iAt50t3il7CGBbXNeViY9fhln4ci87Qe7TfbQ0609xEg/NhhUtM2VpNFw8ICCARS5jjgDlWTEVtxJaGaIhT2oPLnziSM5wq/XOtr3bF3DjuOwsDanFFgZoxHPtJcjOM1YaKGxS47ZnIFuigVjyVDneL6EBlfvJBYmEE6o29dO8oX068rWiyqMejtNzTwSrgKnM6eqEIXX+cdxJx4m4bViYu4TxdElJvcMbdYOy302Qp638kiRUx4sJim3DHBIPsLwhKpHpHz4h/YspzHecjW9+tVdBYNzM7V723a4tTg7pqyMVDVdYlUn+azvM=;eHZ+HkNn7lFHOqICXb22+w=="
 ---
 
