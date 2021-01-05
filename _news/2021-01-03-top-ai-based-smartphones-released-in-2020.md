@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How is AI Transforming Ecommerce in 2021"
-    excerpt: "As we all know that the ongoing pandemic has impacted business models.  But Artificial Intelligence with its self-teaching and learning algorithms will play"
-    publishedDateTime: 2020-12-31T09:20:00Z
-    webUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/"
-    ampWebUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
-    cdnAmpWebUrl: "https://techniblogic-com.cdn.ampproject.org/c/s/techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
-    type: article
-    provider:
-      name: techniblogic.com
-      domain: techniblogic.com
-    quality: 59
-    images:
-      - url: "https://techniblogic.com/wp-content/uploads/2020/12/Artificial-Intelligence-1.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "AI to Become Mainstream in 2021"
     excerpt: "As AI model deployment increases, IT teams will eventually take over AI lifecycle management from data scientists. One of the major downstream impacts for better or worse of the COVID-19 pandemic is the rate at which artificial intelligence (AI) technologies are being adopted within the enterprise."
     publishedDateTime: 2020-12-31T20:10:00Z

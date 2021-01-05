@@ -50,6 +50,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "NTT DATA Services to Acquire Hashmap to Advance Analytics, AI and Machine Learning Solutions"
+    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise"
+    publishedDateTime: 2021-01-05T01:04:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18742-ntt-data-services-to-acquire-hashmap-to-advance-analytics-ai-and-machine-learning-solutions"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 45
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/bf7fe686ee4b089704a5151276041181.jpg?t=20210105_005921"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "NS1IfUxa1bvTFgetDaOSKZ/PasTUScEnQifJFtRWHy06lQ6lFvixcut7h1X6AnF1o1tdfGewvRLpYedVCGSNmin/4es4OaGGlKZ0o8ChRc6VSvfAlAQpG6MnuudfvRJVlR4Hn5uHTPKIpqMpaAK/0B3STFqmOqsNQju4csB/b3gOq9TcZCdUUCZXf/HzwFvWYX7QORu5No5nY87IsP/96z5fxIo3vCHl236WVEtGOUGnVLGFs3IOwui3IvOlmXBz/AjLIzDdXANPxLGoGDGPVUUP+Rqc/+o2ANs2ye8R0JOjNI2J0KGVqW0LqfLwGSChLWbxsbhCxHJq4X0ElQE6hn11MQHFMMpaaTZRQ5DhxIrWLna8Ml9DGusVkD/Gd77Ih4bPb1wS3/6Uz2B+wMgmC7HSb3B/UlXGwvkNaOdTvYhiuo7OL+VGpYCFdpvwh+AydLcjKsBUF8R9eqNgyn/hHLfG5Qz+9EL1wzHvXN2NcVADeUBUUzztp/K9fRDJgs7GMsHCmFHJir9tVzI7NvPmow==;wxEU2NyuUx9uC6HbDtxTSg=="
 ---

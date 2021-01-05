@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-secur
 webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/airport-screening-while-wearing-masks-facial-recognition-tech-shows-up-to-96-percent-accuracy-in-recent-test/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 2048
     height: 1365
     isCached: true
+
+related:
+  - title: "Should we fear facial recognition technology?"
+    excerpt: "The growing use of facial recognition technology has prompted calls for bans and stricter regulation around the world."
+    publishedDateTime: 2021-01-05T02:54:00Z
+    webUrl: "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 59
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_1A94WQ.jpg"
+        width: 8194
+        height: 5463
+        isCached: true
+  - title: "Berkshire Legislator Disappointed With Failure To Ban Facial Recognition Technology In Reform Bill"
+    excerpt: "Not all Berkshire County legislators are pleased with the final form of the police reform bill Massachusetts Governor Charlie Baker signed into law on"
+    publishedDateTime: 2020-12-31T21:30:00Z
+    webUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failure-ban-facial-recognition-technology-reform-bill"
+    type: article
+    provider:
+      name: WAMC
+      domain: wamc.org
+    quality: 40
+    images:
+      - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
+        width: 800
+        height: 1067
+        isCached: true
 
 secured: "lI4vBTk91RrzD3FGIi+K/BUg81JjmNKZuB9V42JvUuZpVuLXZVkG6rObAdSJjOwjvY/hTjv0wJqav4g1xv70CLzzahqa0kynUHFVyig/zG/9W1xvykA6ygia+DF83N+jJl+HosXdKu8Z/XqnmcUbtYezR1hcdUzRwfP8Kv4c83X7u4IffqEAvZxsP1vE6JW669o4nZ1mBB0UeVyxfPkkqKtVUN9kzBcVUixEJLfmIbqJD8XiDhx79NK+lFqbJHyhsQ757QMRsohTPQETQ0PzZWpbc5B5vlfBRh7iTtNVQETOPdQLi+6NliVrYnYwXsO+cDPpPKn04vSN+pcCMyPL1SQU4yfZ5FWC0OEDlmZi7XgPI8yLeYIMsIZvcXSSakEABP0d9Z7URSfgAECrTDlQpmQYBuU2M/vati2j1EzUVrUi0JLb8zb/aCAnslia6N8vmSfME7acYAc7ZbTG0/aQLKFypa54WiH6iwh3Ui2bElPv2Bw9nTtpLRYWGdgjHsU+dsehfBeNjyAWEOG/kOtkVw==;SZ+Wfp2iABuUrlEED4o4bA=="
 ---

@@ -36,22 +36,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How is AI Transforming Ecommerce in 2021"
-    excerpt: "As we all know that the ongoing pandemic has impacted business models.  But Artificial Intelligence with its self-teaching and learning algorithms will play"
-    publishedDateTime: 2020-12-31T09:20:00Z
-    webUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/"
-    ampWebUrl: "https://techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
-    cdnAmpWebUrl: "https://techniblogic-com.cdn.ampproject.org/c/s/techniblogic.com/how-is-ai-transforming-ecommerce-in-2021/?amp"
-    type: article
-    provider:
-      name: techniblogic.com
-      domain: techniblogic.com
-    quality: 59
-    images:
-      - url: "https://techniblogic.com/wp-content/uploads/2020/12/Artificial-Intelligence-1.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Top AI-based Smartphones Released In 2020"
     excerpt: "I am a journalist with a postgraduate degree in computer… As per internal estimates by CyberMedia Research in 2018, in the coming years, the number of AI-enabled smartphones will grow significantly. The report also said that as many as three of five smartphones shipped in 2020 would have AI capabilities."
     publishedDateTime: 2021-01-03T12:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-prediction
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
         width: 763
         height: 509
+        isCached: true
+  - title: "NTT DATA Services to Acquire Hashmap to Advance Analytics, AI and Machine Learning Solutions"
+    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise"
+    publishedDateTime: 2021-01-05T01:04:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18742-ntt-data-services-to-acquire-hashmap-to-advance-analytics-ai-and-machine-learning-solutions"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 45
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/bf7fe686ee4b089704a5151276041181.jpg?t=20210105_005921"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "+j4veFmf+qdDJHs3Fem+PAOdetssuq0fDp9YCkBGy9t0268sKcahrJjmNGjj03hT+1cSkJ7zz0ATISsTjkCHe55aHFybUUQ5V/NgupKRcmIzFpiydPADDu5myXet5rjw+U2/7Xf3OP/cHQSL2b2f6plE/yb8dm0rHRodaR7wJNTO7O36vXPryq6xoNQrVd2xFPa76VWnVyErM+3nAQ7G57QgRYBVX6PAsmkL0iNiZoDZds1EhgIVY/eHRKiCT0UzwWfH+X8gkIJs9ScZ7WLSK2xs0f5ufz+5P6uFbFbtfBXAbUPhFVvC9bBOEyodMF0+dFkVRc05nwdE7rTEYrgG3yF7S8wTkM0nADIzx3bjIKVtpKXoEYCdp93hLGGovnKCYetp+E8zT3CuHgteksMMv8GtuFTXNJlBao6SI77xBuHwsVcJCGVw+8SNCIfo7i+O5FneqqRtrR+Iq1A0SV5viMTqg2naTtCb25QV0a61YRKP7GExzABMdCHUJqDKbZ0MFPCsbIDOilGCfADqsaxh6g==;rSvgVa0ZGOgY/Cb+Iw21IQ=="
