@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 49
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "PTUKpX4/Ea3eTrJsiRKQeeRoeHJOA3bI7qq9tA6vGZ4mu70IThK6v4QOGBpcmZH/AE0PtaBqxYIPTidDj6DgVq04TAibEM1Z0IDR/kWnHPjRT7dO6MRXpi4AE4QugMeEkt+KS+mDEdKzWk5ofZN+fiEZoCtoIYhjteEouZ3RniDJPW46WGvZQX2nDkyRC2Am111xSvwdceDmDVdI3K9qowAFiIq8VdwWklmv/GIiJ7FUPP+uGwK6Lb/IKf6m9z56H7KJ5yexB6zJbxpgcn+TtVkqt99k444Ka7eUHbfBtB8RppUCeN6c0Rf/3szSwyKt8sSCQlPLbm2qfnBbpag9FcOsG5cSdzkmJdKEUwh7Sl0=;SOccGvOvt4MF8AynFfJ/nQ=="
 ---

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Recruitment Market Growing Business Factors 2021: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2025"
+    excerpt: "This is likely to impel the growth of AI Recruitment Market over the period 2019-2026. As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
+    publishedDateTime: 2021-01-05T20:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-recruitment-market-growing-business-factors-2021-industry-trends-share-size-growth-opportunity-and-forecast-2025-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Geospatial Value-added Services Market Report 2020: New Products Integrating AI Models Create Growth Opportunities"
     excerpt: "The \"Artificial Intelligence Enabling the Global Geospatial Value-added Services Market\" report has been added"
     publishedDateTime: 2021-01-04T09:43:00Z

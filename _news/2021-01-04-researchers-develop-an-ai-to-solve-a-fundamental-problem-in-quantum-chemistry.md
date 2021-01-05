@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-funda
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "$3.3 million grant funds researchers' work in artificial intelligence, oral cancers"
+    excerpt: "An international team of researchers, including from Case Western Reserve University, has received a $3.3 million grant from the National Cancer Institute to apply the investigative and predictive capabilities of artificial intelligence in oral cancer treatment decisions."
+    publishedDateTime: 2021-01-05T19:00:00Z
+    webUrl: "https://www.crainscleveland.com/health-care/33-million-grant-funds-researchers-work-artificial-intelligence-oral-cancers"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 33
+    images:
+      - url: "https://s3-prod.crainscleveland.com/styles/800x600/s3/cwru-signage-feat_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Solves Schrödinger’s Equation, a Fundamental Problem in Quantum Chemistry"
     excerpt: "Scientists at Freie Universität Berlin develop a deep learning method to solve a fundamental problem in quantum chemistry. A team of scientists at Freie Universität Berlin has developed an artificial"
     publishedDateTime: 2021-01-02T18:55:00Z
