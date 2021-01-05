@@ -2,6 +2,249 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-24-new-york-issues-2-year-moratorium-on-facial-recognition-in-schools.md",
+      "title": "New York issues 2-year moratorium on facial recognition in schools",
+      "excerpt": "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
+      "originalUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg",
+          "width": 3838,
+          "height": 1919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
+      "publishedDateTime": "2020-12-23T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-tesla-to-offer-full-self-driving-as-a-subscription.md",
+      "title": "Tesla To Offer Full Self-Driving As A Subscription",
+      "excerpt": "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
+      "originalUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
+      "publishedDateTime": "2020-12-23T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
+      "title": "Google told its scientists to 'strike a positive tone' in AI research - documents",
+      "excerpt": "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/alphabet-google-research/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSL1N2IP008",
+      "originalUrl": "https://www.reuters.com/article/alphabet-google-research/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSL1N2IP008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545593006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0QT",
+          "width": 1056,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28X1CB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1CB",
+      "publishedDateTime": "2020-12-23T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
+      "title": "How to drive brand awareness and marketing with natural language processing",
+      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T08:06:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
+      "title": "New York temporarily bans facial recognition in schools",
+      "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "publishedDateTime": "2020-12-23T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-using-ai-to-count-and-map-craters-on-the-moon.md",
       "title": "Using AI to count and map craters on the moon",
       "excerpt": "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,",
@@ -933,265 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-apple-said-to-be-planning-self-driving-electric-car.md",
-      "title": "Apple Said to Be Planning Self-Driving Electric Car",
-      "excerpt": "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T15:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources.md",
-      "title": "Exclusive: Apple targets car production by 2024 and eyes 'next level' battery technology - sources",
-      "excerpt": "Apple Inc is moving forward with self-driving car technology and is targeting 2024 to produce a passenger vehicle that could include its own breakthrough battery technology, people familiar with the matter told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY?il=0",
-      "originalUrl": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-idUSKBN28V2PY?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545461268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1HR",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28V2PY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2PY",
-      "publishedDateTime": "2020-12-22T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts.md",
-      "title": "AI Is More Than A Buzzword And Being Deployed Now On Ships And Golf Carts",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as more than ever, organizations are adopting artificial intelligence (AI) to bring efficiency, productivity gains, and a return on investment and how the cloud has become integral in advancing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2607be8d7635dd433bbb2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "publishedDateTime": "2020-12-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft.md",
-      "title": "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft",
-      "excerpt": "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ouster-maker-of-self-driving-tech-agrees-19-billion-deal-to-go-public.md",
-      "title": "Ouster, maker of self-driving tech, agrees $1.9 billion deal to go public",
-      "excerpt": "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ctech-us-ouster-m-a-colonnade-acqsn-idCAKBN28W1D3-OCATC",
-      "originalUrl": "https://www.reuters.com/article/ctech-us-ouster-m-a-colonnade-acqsn-idCAKBN28W1D3-OCATC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545437645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC",
-      "publishedDateTime": "2020-12-22T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

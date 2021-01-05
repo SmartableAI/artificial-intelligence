@@ -24,6 +24,22 @@ images:
     height: 329
     isCached: true
 
-secured: "oSWMZP0ABgKg+UBQY+XhbWJzHPnmAIZzWCcntpITyQ8GPMkNx8kDQOUoM5Yyedon3UkYcv6QkWchA5hVRgG/7ymcdGjDqORL48TXRGxmiopVpmF8w68e8lpNPA32zovnGQDOtCXn2FC8UjHdRdQG7a8aCokTSAcwKmWJrd8SJcU37lESuXt9N2J+HVz3g0V3VzCuB3uAStZ8eRmeaAZmw2HAbH2K2yVsaTfMMETVj9pkEsq7cB88NsIBZ089OJAbZjN9VMFlFGh03rXEe/bXSVMxwGjjSR4WP386P3rGUlR5HX9099k0t1KzJcum+zWr9wlZeozrusHlDt8OniWb7rITJottQrh8NIYLEaIJzas=;AD3Zh3zfqcGgRX6Reg9Raw=="
+related:
+  - title: "Researchers aim AI at rising oral cancers with $3.3M grant from National Cancer Institute"
+    excerpt: "Researchers at Case Western Reserve University and partners in the United States and India are applying artificial intelligence (AI) to help physicians customize treatments for patients with the most common oral cancer,"
+    publishedDateTime: 2021-01-05T15:38:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/cwru-raa010521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 30
+    images:
+      - url: "https://media.eurekalert.org/multimedia_prod/pub/web/252709_web.jpg"
+        width: 1440
+        height: 2016
+        isCached: true
+
+secured: "voPMDttxHE9O8xN8BVfXmCfNog8OsFCJl0Yn5N6+8sPQS5JoWCP7rPf7+9Z2PyD9b6wDY8eMirrQRIOHVsDhBwHWaJoqTe/wNUc/EN5b4oSw2MzmMdE996YCFBZOUoy5jV9mqdp4Ey1dxoMaNs9V5hD149OyhtFRyFi1H9sBt4sk8TZVBEu40l1bjO2yUeUbIQJMT5DWHL3vYC/o9u2xCJ0qAVB62eoEqY4jVKsPs7a3Ma8iZKAY0JhZb0+RJFZ8bh/sH/Z8AIAQNmYJkTffE7OSN820zyhMnGang+IazXiWjfa9bqqR6NPK992/mXjGgjE5PyRLyo2m+/+kdK+MzQ+cxE1bfjkFHW5DkCgNdzYhITztTaUooVfwW5K9NHc75RF5GjlkQCdKo0x0YEnaP4kMDsPiSeP5GvIRPZFvtSWruDhL0lZ8Qv3UQ9V4SEQ7YNbE2KW9WnPNabYREIHVWW07kCiTKhCdq38s1ycaNSiPJYiFquFHnXqT20Ux0cVxpwDaK8YE/p8HvcdiX7R+aw==;BrKsHuA2weY44tgWmJ9fYQ=="
 ---
 

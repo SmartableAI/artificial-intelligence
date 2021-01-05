@@ -2,6 +2,228 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-22-beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector.md",
+      "title": "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector",
+      "excerpt": "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
+      "originalUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-mercedes-teases-an-ai-powered-version-of-its-mbux-infotainment-system.md",
+      "title": "Mercedes teases an AI-powered version of its MBUX infotainment system",
+      "excerpt": "When the new Mercedes EQS sedan hits the road next year, it will feature a new and improved version of the automaker’s MBUX infotainment called the MBUX Hyperscreen as an optional upgrade. The company says the ultrawide screen spans the entire front dashboard of the upcoming EV and adds AI to the mix to make using the system more intuitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "originalUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fee6f0f50-43cb-11eb-94eb-df4c84d9d453&client=amp-blogside-v2&signature=5244a6d8187979bfeadbace8c67d51749b3b2789",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "publishedDateTime": "2020-12-21T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-dispelling-three-popular-myths-about-ai.md",
+      "title": "Dispelling three popular myths about AI",
+      "excerpt": "However, implementing an AI strategy without knowing what you want to achieve can not only be costly but ultimately sets a business up for failure. To learn more about some common misconceptions that may be holding organizations back from yielding the full potential value of their investments in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
+      "originalUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
+          "width": 600,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
+      "publishedDateTime": "2020-12-21T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-congress-unveils-23-trillion-government-spending-and-virus-relief-package.md",
+      "title": "Congress unveils $2.3 trillion government spending and virus relief package",
+      "excerpt": "Congress unveiled a $2.3 trillion spending package Monday just hours before its expected passage in both chambers, funding the government though the end of the fiscal year and providing relief to a co",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package",
+      "originalUrl": "https://thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/531164-congress-unveils-23-trillion-government-spending-and-virus-relief-package?amp",
+      "publishedDateTime": "2020-12-21T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-explore-the-verges-2020-science-time-capsule-stored-in-dna.md",
+      "title": "Explore the Verge’s 2020 science time capsule, stored in DNA",
+      "excerpt": "The post Explore the Verge’s 2020 science time capsule, stored in DNA appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "originalUrl": "https://www.theverge.com/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/i_2zr4RDKtQXHTzptmkHR5RQFzU=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68560013/Container_2.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/science/22188122/dna-data-storage-synthetic-time-capsule",
+      "publishedDateTime": "2020-12-21T09:38:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-baby-yoda-robot-uses-ai-to-follow-you-around-like-a-creepy-toddler.md",
       "title": "Baby Yoda Robot Uses AI to Follow You Around Like a Creepy Toddler",
       "excerpt": "While you can shell out hundreds of dollars for a startlingly lifelike replica of Grogu, this DIY Baby Yoda does what all the others can’t: automatically follow you everywhere you go like a curious 50-year-old toddler.",
@@ -935,240 +1157,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
-      "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
-      "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
-      "originalUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
-      "publishedDateTime": "2020-12-21T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-reliance-general-insurance-uses-microsoft-azure-ai-tech-for-rapid-claim-settlement.md",
-      "title": "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement",
-      "excerpt": "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996",
-      "originalUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG",
-          "width": 735,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1",
-      "publishedDateTime": "2020-12-21T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-diving-into-japans-top-aiml-startups.md",
-      "title": "Diving into Japan’s top AI/ML startups",
-      "excerpt": "To learn more, we heard from three rising AI/ML startups in Japan at the forefront of the country’s AI/ML growth. The following responses have been edited for brevity and clarity. Umitron, founded by Ken Fujiwara,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups#!",
-      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T22:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-russian-army-tests-artificial-intelligence-equipped-target-robots.md",
-      "title": "Russian Army Tests Artificial Intelligence Equipped Target Robots",
-      "excerpt": "Artificial intelligence (AI) based mobile target robots that dodge shooters’ bullets have been tested for the first time in Patriot Park shooting range near Moscow. The AI-based robots are dressed as soldiers and carry dummy guns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
-      "originalUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T20:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-tesla-full-self-driving-subscription-coming-really-soon.md",
-      "title": "Tesla Full Self-Driving subscription coming really soon",
-      "excerpt": "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
-      "originalUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg",
-          "width": 1680,
-          "height": 944,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
-      "publishedDateTime": "2020-12-20T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

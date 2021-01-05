@@ -2,6 +2,259 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-04-researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry.md",
+      "title": "Researchers develop an AI to solve a fundamental problem in quantum chemistry",
+      "excerpt": "Researchers from Freie Universität Berlin have developed an artificial intelligence method for calculating the ground state of the Schrödinger equation. This Schrödinger equation is one of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/",
+      "originalUrl": "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-algo.jpg",
+          "width": 1280,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/amp/",
+      "publishedDateTime": "2021-01-03T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-decade-of-investment-in-big-data-and-ai-yield-mixed-results.md",
+      "title": "Decade Of Investment In Big Data And AI Yield Mixed Results",
+      "excerpt": "Companies remain at an early stage of progress in their efforts to become data-driven after nearly a decade of investment. Only 24.0% of firm’s say they are data-driven, according to NewVantage Partners 2021 annual survey of Fortune 1000 c-executives,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff1efa04c70ac01465c1f87%2F0x0.jpg",
+          "width": 1199,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/amp/",
+      "publishedDateTime": "2021-01-03T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
+      "title": "Why robotics and language need each other",
+      "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
+      "originalUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/istock-1127591787.jpg?itok=tVPxJFyv",
+          "width": 1260,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
+      "cdnAmpWebUrl": "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
+      "publishedDateTime": "2021-01-03T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity.md",
+      "title": "If Microsoft Can Be Hacked, What About Your Company? How AI Is Transforming Cybersecurity",
+      "excerpt": "The hackers are starting to use AI, and the only way to successfully defend against future threats is for your company to use AI as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0c3155de38b9230f6c8d2%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
+      "publishedDateTime": "2021-01-03T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-the-best-facial-recognition-security-cameras-of-the-year.md",
+      "title": "The best facial recognition security cameras of the year",
+      "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
+      "publishedDateTime": "2021-01-03T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
       "title": "Best graphics card for gamers and creatives in 2021",
       "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
@@ -970,249 +1223,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
-      "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
-      "excerpt": "The roadways of metro Phoenix may not look much different 10 years from now, but how we travel them might. We may have more vehicles without drivers behind the wheel, said Andrew Maynard, an associate dean at Arizona State University’s College of Global Futures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
-      "originalUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/00261d5/2147483647/strip/true/crop/1200x675+0+38/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faf%2F39%2F353dc3544745b95be3d878b0a881%2Fwaymo-minivan.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
-      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
-      "publishedDateTime": "2020-12-31T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC15 Arizona",
-        "domain": "abc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-how-artificial-intelligence-will-be-used-in-2021.md",
-      "title": "How artificial intelligence will be used in 2021",
-      "excerpt": "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "publishedDateTime": "2020-12-31T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-dumb-and-dumber-the-future-of-business-ai-depends-on-hi.md",
-      "title": "Dumb and dumber: The future of business AI depends on HI",
-      "excerpt": "When every organization has access to AI ... the difference will be in Human Intelligence (HI) By Tom Foremski for Tom Foremski: IMHO | December 31, 2020 -- 16:15 GMT (08:15 PST) | Topic: 2021: What's Next for Business Technology Foremski's Take: Technology is a competitive force for early adopters and fast followers but that competitive edge -- usually defined as innovation -- never lasts long.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "originalUrl": "https://www.zdnet.com/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/31/3bdfa232-87e5-4b2c-8d71-3a0ce0a6774d/ai-or-hi.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "publishedDateTime": "2020-12-31T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-heres-why-this-hot-artificial-intelligence-ipo-stock-isnt-worth-buying.md",
-      "title": "Here's Why This Hot Artificial Intelligence IPO Stock Isn't Worth Buying",
-      "excerpt": "The enterprise artificial intelligence company priced its IPO at $42 a share on Dec. 8, but the stock opened at $100 the following day and subsequently surged to about $140. C3.ai raised $651 million in its IPO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606629%2Fgettyimages-1129515493.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "publishedDateTime": "2020-12-31T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai.md",
-      "title": "Data-driven 2021: Predictions for a new year in data, analytics and AI",
-      "excerpt": "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "originalUrl": "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "publishedDateTime": "2020-12-31T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

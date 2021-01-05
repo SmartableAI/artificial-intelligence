@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "What You Need to Know About Self-Driving Cars"
-    excerpt: "The technological advancements of the 21st century would astound even the greatest thinkers just a century ago. Today, we’ll discuss what you need to know about, as our title suggests,"
-    publishedDateTime: 2021-01-04T20:50:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/04/what-you-need-to-know-about-self-driving-cars/39238/"
+  - title: "From UPS to Dominos, this self-driving vehicle is the eco-friendly delivery solution of the future"
+    excerpt: "Here’s where we introduce the Beep, a self-driving vehicle that was designed for these short travels. On Yanko, we’ve featured other green transport vehicles that operate under similar principles: electric-powered bikes or scooters that mail carriers can use for the “last leg” of the package’s journey."
+    publishedDateTime: 2021-01-04T11:09:00Z
+    webUrl: "https://www.yankodesign.com/2021/01/04/from-ups-to-dominos-this-self-driving-vehicle-is-the-eco-friendly-delivery-solution-of-the-future/"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 24
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 10
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/tesla-steering-wheel-2.jpg"
-        width: 800
-        height: 481
+      - url: "https://www.yankodesign.com/images/design_news/2020/12/Copper_Corner_press_buttons_without_direct_contact-510x314.jpg"
+        width: 510
+        height: 314
         isCached: true
 
 secured: "9LLnNCnWyIvnqGZH6EEfNGEl1gWLCyz0gwwiIUK7HoQcHDREJCUU3TBQ1nfSZVb38u3HxnRsFslM44wl1i/oNtm/ixqXgtpg+tngD5/00oP7UhDYtS9PzxcsFzJFmz/qi92Ef6mVyutGvu2TqrRyLcdCVIg2+qex0Yva+9xjhDDn3XQJQH8FjpUHHs/W0Q/p7oXeCqwOdaOUXomq04neV7imkMG0yzW9FB8HY34QEU8XUPpcFXs5QZKNYoHAWPqUpf+qNKbvxUsKjtC2NHUKuCd9xfZCeIQv209vqZxqtrOH6G0aYjnEWKVGbMGXTYlua4WTtTylqevfcglfuv0Medbh1ShG/h03FPdWLL11RrHlNDETrf1XN9qTjTAgzPSKPUE2hv/eyZAtudqwcm4lL9wvOtnOgYlo+k18dtH2Hnxb5FknXXk7OAZHicZ7eqG8HSPTBtL1L1V+1FrfmiQuyeYG8Nyl+M6/JJiHV6EWZVIEetl8LnbX68Y3e74B5qkqT0UkOgxLOtY4BCFV/6e/cw==;P0Ih2tGRQ1H/dF7/6Wr0gw=="

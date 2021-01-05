@@ -109,17 +109,6 @@ related:
       name: Ubergizmo Feed
       domain: ubergizmo.com
     quality: 37
-  - title: "Tesla's Autopilot Full Self-Driving Completes Round Trip From San Francisco to Los Angeles"
-    excerpt: "Footage has surfaced showing a Tesla Model 3 making a round trip between San Francisco and Los Angeles using its Autopilot Full Self-Driving mode. The video came from YouTube user Whole Mars Catalog,"
-    publishedDateTime: 2021-01-01T00:00:00Z
-    webUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip"
-    ampWebUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 29
 
 secured: "GsQeUTvcu5M/ppWBKdnklyPaM+k6dfcH4Datc9PrN5N7t/Gq30VC6CXja3f3cn9mZHbUZ8BH5SeGHE6jlBMAT6m+NOpaVBL3Y3mT/qYAbN1IaYErQkvu3ao+BIXnQyZgjzKXK/3fEhx8VNFhCibPIeZ3HsEsvo4WwsF90XgiE8KvH2cotWrKTMbiReoMMHbdL/MKqCuAuNA3QJh7OsTbizoAhlKSCRHuZhaPGTRYQfCW+GPtVJIKUDoLju1+S57yeZII5NrW4CzJrrH0tMvZSBfPPMAQ7N9C1HS4Di0yG9XdpdpJnxCZa3Fv/a1yuwr5BnO90yEmSuVvbNZjivcKl/dk94B2ktijpgF2pJCB7zwVoJ+L1hiLjdyEh5IM05BKCNFRSQ/UlFDOlZFZ/u5GTaR2i5WjZI5NyWB4YgiHfdTxbp6aPSPqQ1R2FfkJTjBf4uDWfa40CHvUSUT7+eHqJVPJhHOm2zoXC/OCUtoDpYsdzwXgS60RiCj8rrluTLrV++7jLjXXlsoI/og2mOU99A==;R/Fm65gyyoVax9f8ehX4cA=="
 ---

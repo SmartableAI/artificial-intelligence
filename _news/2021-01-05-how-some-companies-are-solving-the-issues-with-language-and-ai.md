@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/articl
 ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
 type: article
-quality: 89
-heat: 99
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -43,6 +42,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "dYb5cEMP8IL2LAp/FBqojgyplWFF8lS+bCybawcdweWB5hxdm4ay1O5iBUFOAY2iY0u2GKnJMNklHvc/prrJAExKLlxKEPooyykW3XOXEHneox3V9KgF3oxoEZhDGrLz8Lrh3bgGiFd+OcXNOUHbJC1HNt7a5uXfo74VOvy0R0X6wm+BjnmTXiwGSC15Gfbm9DTwX0ukRhXuqVTKtLnj2AqiOlMML9GBvm1FQRgssJlKzGQFF7ofm/bnQ1h52pbM5lqBwSFGyE1z7+Agh4Se5AbadK2viCZJpg5EWJ5QFoiuQDjC3bE3hCzfH4WECoQ7iEpilw7NvRNpqDrkqdU+TmRNkOj+UuarIybjzSWwa1Q=;T7yR+BO6WM0kAcrnpPv8ZA=="
+secured: "TYwggtQFGGoY+RmYgQQM77Zy1nMiK0KejMTrQfdUSDFhJkcB4ocg0RpZMMuvkjGViJkmXpHL4mEedi74YZfHn4I+H71C9wmZDRvFQmi6LKaXxJGWE3p+ZIcZdrMTOLC83kj4rExqe9C91GxD7bdak8gnGTa98q9VPQmHH2N/Q+1GkEEATJqNvaSQrU9KeCwF6+4BtKPzuPtT6k019Ol4UxKlM2WG0emcl/JfFzrS2Bj3bRpB6WPWQqf1REp6L5yk5XrLO/YtaioeMEDXonCCKjkhXIPN16+FZ7W5Yefrcr9SxtCOgPRk17MamAa8fN0cv49Ce4vMFKHxgD72cH2lHX8NGIo7s5Rhfjt8e1I9Lyo=;V0xQ6N4e/Z5nR4WwiTyqXQ=="
 ---
 

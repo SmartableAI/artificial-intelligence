@@ -108,58 +108,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-how-some-companies-are-solving-the-issues-with-language-and-ai.md",
-      "title": "How some companies are solving the issues with language and AI",
-      "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/04/ee84d7c1-5b90-4316-b794-a0c7bf0a33ee/resize/1200x/9ac461c9047dc9ffb635e89c3641aafb/istock-889309652.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "publishedDateTime": "2021-01-04T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-04-how-to-win-customers-with-voice-search-three-simple-tips.md",
       "title": "How To Win Customers With Voice Search: Three Simple Tips",
       "excerpt": "Now that voice search is on the rise and gaining more popularity, there’s a whole new dynamic to consider when implementing SEO tactics.",
@@ -1431,6 +1379,58 @@
         "AI",
         "Machine Learning",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-amazon-alexa-gets-real-time-translation-functionality.md",
+      "title": "Amazon Alexa gets real-time translation functionality",
+      "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "originalUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg",
+          "width": 2040,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "publishedDateTime": "2020-12-15T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.thestreet.com/investing/c3ai-drops-on-mixed-analyst-in
 webUrl: "https://www.thestreet.com/investing/c3ai-drops-on-mixed-analyst-initiations"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "It’s Time to Take Profits in C3.ai, Key Analysts Say"
+    excerpt: "Rarely do you see Wall Street analysts as divided on a stock as they appear to be on C3.ai, the artificial intelligence software company that came public last month. The bottom line is that the bulls see a huge opportunity and potential for continued impressive growth,"
+    publishedDateTime: 2021-01-05T16:56:00Z
+    webUrl: "https://www.barrons.com/articles/take-profits-in-c3-ai-after-huge-post-ipo-run-2-key-analysts-say-51609778061?refsec=hp_INTERESTS_ipos"
+    ampWebUrl: "https://www.barrons.com/amp/articles/take-profits-in-c3-ai-after-huge-post-ipo-run-2-key-analysts-say-51609778061"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/take-profits-in-c3-ai-after-huge-post-ipo-run-2-key-analysts-say-51609778061"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-280225/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Take Profits in C3.ai After Huge Post-IPO Run, 2 Key Analysts Say"
     excerpt: "Rarely do you see Wall Street analysts as divided on a stock as they appear to be on C3.ai, the artificial intelligence software company that came public last month. The bottom line is that the bulls see a huge opportunity and potential for continued impressive growth,"
     publishedDateTime: 2021-01-04T16:47:00Z

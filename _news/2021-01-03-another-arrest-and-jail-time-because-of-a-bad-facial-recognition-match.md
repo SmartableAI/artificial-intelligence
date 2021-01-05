@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The best facial recognition security cameras of 2021"
+    excerpt: "Some home security cameras have facial recognition, an advanced option that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces."
+    publishedDateTime: 2021-01-05T15:46:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2021/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 106
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
     publishedDateTime: 2021-01-05T05:43:00Z
