@@ -9,7 +9,7 @@ ampWebUrl: "https://www.syfy.com/syfywire/uscs-ai-tool-predicts-a-films-rating-i
 cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/uscs-ai-tool-predicts-a-films-rating-in-a-flash?amp"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 680
     isCached: true
-
-related:
-  - title: "When using AI is an amazing idea"
-    excerpt: "At first, artificial intelligence might sound like a scary and unpredictable breach of the tech industry. However, we often forget that AI already accompanies us while completing simple daily tasks – for instance,"
-    publishedDateTime: 2021-01-01T14:03:00Z
-    webUrl: "https://techengage.com/when-to-use-artificial-intelligence/"
-    ampWebUrl: "https://techengage.com/when-to-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techengage-com.cdn.ampproject.org/c/s/techengage.com/when-to-use-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: TechEngage
-      domain: techengage.com
-    quality: 59
-    images:
-      - url: "https://techengage.com/wp-content/uploads/2019/01/ai-illustration-purple.jpg"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "C8kD8DBEBBgPENIUL07g4wJzB3k5kVUHqeMsaEUnpWWhBJpHiW5iRIrYJ8fq/JwES/OPQg7y1ziaRfAKg4jtes2jfP5q7WPaLfQriB0+4j/GuJOJ3BVAviTQloK4GBlrp13uvMjEJo/i+nEKSHGbr1Ymkgde22vrPM5yhOQW5iK+3n4LUd04/F8dOFb0ZMEotllUEBbBuIWJSs6GmPTBmonNmzRPa+uI3SbE/ZArUHFMcnCLrHRfd5vLEVykoCdegmfTrqumo5X4wLLqKgm6759k4oVxBhWyd1PHDQil8LRnOMb8tWgzvBbianBhDR78bHU3Bs8VUAgQfRxeb/CZ0BfzCVBCV+zWSbjPVnyksScHc89OlTbVHUdKXo6Tx/4dfxrQynQvVKyvBL8i20K7rXbqB1wBW8oqoL/UxTRmRyJU+0HxKpxdnNzjwFfC8pHszWld7zF5qkFn+XPM3vdv9DMH8c8O82l4Is1XFiUuuPm9sAoLqXopN6W67UZAhNoyT8DM61Nj2qs8+Hl3sbARTw==;tzcqKbkb91F0ArAWajtYOQ=="
 ---

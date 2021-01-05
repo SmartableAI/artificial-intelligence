@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-an
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/"
 type: article
-quality: 74
-heat: 84
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbda74b146f4f451dec796%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4743%26cropY1%3D0%26cropY2%3D3751"
@@ -46,6 +47,6 @@ related:
         height: 481
         isCached: true
 
-secured: "IwlhLHJmaw8sSkmqBlOa6VeiS+DbFL/VC4sQ3MB85QoaarlfzYGESFbXaLbMlQh+Ycq0TcBeW+ZSdlNrYjv3EHWHcdcECyizwJk8xPLQfh2SMVjHUI3U3JBOj8OpkOl+1rK+ozlng8EhsCcBNKAHN48WSqrXxnUUHDsr2VglF7Xf3H7GAdwSgbU2Pc9YKqMG3KljNoqUG5RPuH/enLSzWQL95nLf5p5SJQyZW6KpC1WodaT9Q9QjuYLfTtsFe7P+7vzGOzh+faJbNj2esd1o7/Q8Dy/z3WuAgNiEjBU7Ji0Ugpw0FxcLvE3NsJjZ7MvkHWBtOZpn8vHXfOYB3M1htoRmJ/HVJs14JZEvFcb0tk4=;iaM18OfHSbgTDXPiA///ZQ=="
+secured: "H4YPtY2Et+vtPPh9tnfJTPMiVQ9aVnGw1189bz+HjmtoZpDUp5Gni37jbA9Ye98A3aG4uxzuMGyY0mHsYCKzrHCc4/vz/ntCIN1fgp5FkXBcUmp2c0QM3C6E6EnF+4b0Gofemc0iGx15DPypNBdObVzY1JPrvDEsKja5OS231aJuY2XVXWsQwP69vGqckmvSY0OgwOxvKQtFCb2r4vkxVF/Xl1tXfWGvAUxSuXS7EXrXMJvJxwi4YsZ3NsV1tqYnY4H87gpRDrykJq5VZDcxLOfS3WhtjqAzPnKEgZa+qTr0ai7h04nkS/pgeGmRRkuMwDO0EmgU4JGeQJ6QC5Xdw63qWT6UHXzozYiGTnYFZtMsCjHcenNSwCEeuFnVh6BDza3YOJX8rsg3+N9WAKZF1WacSwM8VfJDcyy2FZErLvRlqAuM8cJz4clSA7a35UVSUGvSOOyqxvNVd3ooWxK4CH6lM6yDH4KU3AiTX0XK1cWNHUlGY9rJbIjb8lnVqOdrRfZ1PPxzZntnW7Vi51RxPA==;R4P5rIpfmiMEZzDb8IDcXQ=="
 ---
 

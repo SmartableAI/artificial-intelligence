@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-bringing-ai-to-prothesis.md",
+      "title": "Bringing AI to Prothesis",
+      "excerpt": "\"My idea was, how can we make these devices learn over time from us, the same way we learn from our mistakes? How can prosthesis learn from the mistakes it makes as well?\" Meet the amputee engineer using AI to search for a better prosthesis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-01-05/bringing-ai-to-prothesis-video-kjka1flk",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-01-05/bringing-ai-to-prothesis-video-kjka1flk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8PCAIv7zgGw/v5/-1x-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-its-time-to-take-profits-in-c3ai-key-analysts-say.md",
       "title": "It’s Time to Take Profits in C3.ai, Key Analysts Say",
       "excerpt": "Rarely do you see Wall Street analysts as divided on a stock as they appear to be on C3.ai, the artificial intelligence software company that came public last month. The bottom line is that the bulls see a huge opportunity and potential for continued impressive growth,",
@@ -104,7 +155,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -144,7 +195,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1204,57 +1256,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses.md",
-      "title": "Uber researchers propose AI language model that emphasizes positive and polite responses",
-      "excerpt": "In a paper, Uber and Carnegie Mellon researchers propose a language model that can vary the positivity and politeness of its responses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/",
-      "originalUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/chatbot_iq80hc.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/",
-      "publishedDateTime": "2021-01-04T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

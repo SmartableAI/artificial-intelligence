@@ -37,6 +37,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Watch Tesla's Full Self-Driving navigate from SF to LA with (almost) no help"
+    excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."
+    publishedDateTime: 2021-01-05T17:52:00Z
+    webUrl: "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 66
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Watch this Tesla Model 3 with 'full self-driving' make a 358-mile trip across California with almost no human intervention"
     excerpt: "The driver of the Tesla Model 3 with the $10,000 'full self-driving' add-on only had to step in once — for a one-minute charging stop."
     publishedDateTime: 2021-01-05T13:20:00Z

@@ -33,7 +33,7 @@ related:
     provider:
       name: The Straits Times
       domain: straitstimes.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/03/yq-singaporepoly-03012021.jpg?itok=gj7sAyEP"
         width: 763

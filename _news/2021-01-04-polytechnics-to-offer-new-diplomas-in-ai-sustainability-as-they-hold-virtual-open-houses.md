@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-03T21:19:00Z
 originalUrl: "https://www.straitstimes.com/singapore/parenting-education/polytechnics-to-offer-new-diplomas-in-ai-sustainability-as-they-hold"
 webUrl: "https://www.straitstimes.com/singapore/parenting-education/polytechnics-to-offer-new-diplomas-in-ai-sustainability-as-they-hold"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/03/yq-singaporepoly-03012021.jpg?itok=gj7sAyEP"

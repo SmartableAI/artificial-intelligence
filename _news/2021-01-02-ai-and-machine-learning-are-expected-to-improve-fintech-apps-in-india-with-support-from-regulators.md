@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learn
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170842-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators/amp/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -26,24 +26,6 @@ images:
     width: 300
     height: 228
     isCached: true
-
-related:
-  - title: "From 5G to fintech, here are the top five tech trends that will dominate 2021"
-    excerpt: "Unlike radio-waves that currently enable our internet, 5G needs deep densification of network and that could only happen with more fibre connectivity. But wait! This doesn’t mean your internet speed will increase."
-    publishedDateTime: 2021-01-01T01:36:00Z
-    webUrl: "https://www.freepressjournal.in/tech/from-5g-to-e-learning-here-are-the-top-five-tech-trends-that-will-dominate-2021"
-    ampWebUrl: "https://m.freepressjournal.in/article/tech/from-5g-to-e-learning-here-are-the-top-five-tech-trends-that-will-dominate-2021/66535fea-0194-4b26-8567-18b728ca38ed"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/from-5g-to-e-learning-here-are-the-top-five-tech-trends-that-will-dominate-2021/66535fea-0194-4b26-8567-18b728ca38ed"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 41
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-01/cfa38ae4-38b3-41a7-bd60-f56d80c55239/dispositivos_ciberseguridad.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "0tsp9gv1K4f2+ts8aWlKnv5/vs6tion/TZzHk3bMXh+a8jCLH2DwTDgGn8RE8W6WVoVaQQlv2Un1+IaIsFYuRWI+6ZVHk72gI0a8U+t1VUjRC9NL+heYigtW/n4BwNNVQSrRlOtpyIkVs1SdT+/wZdyvGAyWFMLWPKUYQnXo4uVbnFmu1tyJ6fW+yJ6LYVHP27/OXvNqR6wPj+lSjkW40soqS08VivF75blV7iwxexK9mK/buy/8xeEnfn5hS03OToel+4fJXYZPlXDD1e1xi+Dp8rbSeV/ctnPrjbrLflUjxNjghKszP1G/1Y6I7jQV0opZs5CtqA+ChVlO9YXuxNnA74l90THUQwbaFDJ4yicuq4BqG5pKGS0IjKkqz5/909NC/PLstKXjlweEwvXVo9WPYbG9GiirIhEa3q/a6HtsCbH4EJkPPZHVdfZn2h6FGmYpQTW6Jz0tXNiD6gwvfzxp+jswLumDYDVi7e5M7brxOfQzAZ4+dCPjQ5Nl/fQQqXoK7iuxz5ByCsWvo1KIVg==;mVszUMhx8LNDQGR00RDL8A=="
 ---

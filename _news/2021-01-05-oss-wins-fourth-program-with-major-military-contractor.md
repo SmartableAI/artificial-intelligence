@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/globe-newswire/8119088/oss-wins-f
 webUrl: "https://www.morningstar.com/news/globe-newswire/8119088/oss-wins-fourth-program-with-major-military-contractor"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "OSS Wins Fourth Program with Major Military Contractor"
+    excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, has expanded its engagement at a major"
+    publishedDateTime: 2021-01-05T18:55:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/oss-wins-fourth-program-with-major-military-contractor/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 24
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/abstract-tech-shutterstock_672761827-690x380-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "JCcFzGtltZxIRuj1uoN4PBeOpncO3R/8I2suSXoxK2xgbkL1jYjTCRBeH71v7iY54t0zbJaXblnv4ndDJksxTHMS2YNin71DwlvGg49nlVCwPJEPxkokXOmpQgCuJVYq/xU/pG2k7Ixqn7Xen/uMOSDuqpddnTiui2ZpWb+TbsUH3IZudCAxdy3ArC1PJgQsXPdpQJbMhFQrsbtUQXC9GvfxRoz5b0S+cw/SjBR0ljQpdtyThc/asMld89dfySksFCtMoDjbMhWa703Z2aYEEzve8Tc0EBSDZ2kHfLKf+LVwFJJfdsVGo6J8n7AUagrJjQj4Y4Gz//y4l3RptFRCzRtekOvc6xQWm1VFJ1Ls6pY=;wzgkpXoHwFpYY1ixuUgF3Q=="
 ---
