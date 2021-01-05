@@ -2,6 +2,354 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
+      "title": "Best graphics card for gamers and creatives in 2021",
+      "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "originalUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/kdpWv0xHoft2ndmTh94sIukoqFU=/1200x630/2020/11/17/66d183c5-8162-47b7-aa5c-dc12582475da/amd-rx-6800-09671.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "publishedDateTime": "2021-01-02T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups.md",
+      "title": "Revolutionary NLP Model GPT-3 Poised To Redefine AI And Next Generation Of Startups",
+      "excerpt": "Countless are the use cases that revolutionary AI model GPT-3, which uses deep learning to produce human-like text, can power. But, while it has potential for generative value, it is set to reshape both the dynamics of the AI world and the SaaS startup space because of its very own business model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
+      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0cabb6e6d1f574f50817b%2F0x0.jpg%3FcropX1%3D490%26cropX2%3D3911%26cropY1%3D85%26cropY2%3D2257",
+          "width": 1200,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
+      "publishedDateTime": "2021-01-02T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-hitting-the-books-what-do-we-want-our-ai-powered-future-to-look-like.md",
+      "title": "Hitting the Books: What do we want our AI-powered future to look like?",
+      "excerpt": "For example, the artificial intelligence principles of the Organisation for Economic Co-operation and Development emphasize the human ability to challenge AI-based outcomes. We desperately need an “off ” switch for all AI and robotics in my opinion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
+      "originalUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe5942d70-3f02-11eb-8fd6-ce9efbf77308&client=amp-blogside-v2&signature=82b6bc891a7dac6218cceaeb208cdb5f9f27afe1",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
+      "publishedDateTime": "2021-01-02T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian.md",
+      "title": "On Self-Driving Cars That Might Misclassify A Snowman As A Pedestrian",
+      "excerpt": "Considering the ramifications of AI-based classier driving systems and the control of self-driving cars, using a snowman as a memorable example.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee4edb29ec96bd83f34dd8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5120%26cropY1%3D260%26cropY2%3D3141",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/",
+      "publishedDateTime": "2021-01-02T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-leading-computer-scientists-debate-the-next-steps-for-ai-in-2021.md",
+      "title": "Leading computer scientists debate the next steps for AI in 2021",
+      "excerpt": "What do we need to push AI to the next level? A panel of experts hosted by Montreal AI discussed possible answers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/franck-v-740555-unsplash-1-e1573833675406.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
+      "publishedDateTime": "2021-01-02T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-ktr-releases-telanganas-2020-year-of-ai-success-report.md",
+      "title": "KTR releases Telangana’s 2020 Year of AI success report",
+      "excerpt": "Telangana IT and Industries Minister KT Rama Rao today released the report “Telangana’s Year of AI – 2020 and Beyond” highlighting the various achievements made in the sector during 2020. A year which saw one of the biggest FDIs wherein Amazon Web Services announced plans to invest about $ 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/pyrjlk/article33018127.ece/ALTERNATES/LANDSCAPE_615/Telangana-targeGM17U5V1I6jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
+      "publishedDateTime": "2021-01-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
+      "title": "Off The Menu: Robotics gains foothold in fast food",
+      "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "originalUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4SMERC4X5GKFJOQMUZ6RZWABU.jpg",
+          "width": 1600,
+          "height": 1078,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "publishedDateTime": "2021-01-02T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-ai-and-machine-learning-are-expected-to-improve-fintech-apps-in-india-with-support-from-regulators.md",
       "title": "AI and Machine Learning are Expected to Improve Fintech Apps in India, with Support from Regulators",
       "excerpt": "AI and machine learning (ML) are expected to improve Fintech apps in India, with consistent support from regulators.",
@@ -283,6 +631,39 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-apple-has-won-5-design-patents-presented-in-photo-line-art-forms-covering-the-ipad-pro-magic-keyboard-combination.md",
+      "title": "Apple has Won 5 Design Patents presented in photo & line art forms covering the iPad Pro & Magic Keyboard Combination",
+      "excerpt": "Patently Apple posted design patent report titled \"Apple was Granted 13 Design Patents for their 2020 iPad Air.\" Today we discovered that the Hong Kong Patent and Trademark Office has granted Apple 5 design patent totaling 38 images covering Apple's iPad Pro and Magic Keyboard combination.",
+      "sourceUrl": null,
+      "webUrl": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10853717&IDKey=6E72242A6301%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D31%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dmicrosoft.ASNM.%2526OS%3DAN%2Fmicrosoft%2526RS%3DAN%2Fmicrosoft",
+      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apple-has-won-5-design-patents-presented-in-photo-line-art-forms-covering-the-ipad-pro-magic-keyboard-combination.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently Apple",
+        "domain": "patentlyapple.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -832,377 +1213,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-how-israel-brings-together-robots-and-ai-into-a-lethal-combo.md",
-      "title": "How Israel Brings Together Robots and AI Into a Lethal Combo",
-      "excerpt": "On the back porch of a rundown building near the sea in central Israel a plank leads to an unlikely machine. A robot dog is surveying the area, preparing for a mission. Alongside it, like a sidekick,",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518",
-      "originalUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/V%20%2847%29.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518?amp",
-      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518?amp",
-      "publishedDateTime": "2020-12-31T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout.md",
-      "title": "Israeli Computer Vision Startup Raises $60 Million To Expand ‘Frictionless’ Checkout",
-      "excerpt": "Gabay’s low-key manner stands in stark contrast to the buzz around the Tel Aviv startup he co-founded in 2017 with brother Daniel Gabay, Trigo CTO and 2020 Forbes 30Under30 honoree. Trigo’s latest Series B funding round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
-      "originalUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febb4ffd51993390ce41521%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6919%26cropY1%3D966%26cropY2%3D4211",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
-      "publishedDateTime": "2020-12-31T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
-      "title": "3 Machine Learning Stocks for a Touchless Society",
-      "excerpt": "The sheer dominance of technology in our lives this year has directed investors’ attention towards machine learning stocks. With technological advancements taking place every day, investors have plenty of opportunities for some big gains in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp",
-      "publishedDateTime": "2020-12-31T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-timnit-gebrus-exit-from-google-exposes-a-crisis-in-ai.md",
-      "title": "Timnit Gebru’s Exit From Google Exposes a Crisis in AI",
-      "excerpt": "The situation has made clear that the field needs to change. Here’s where to start, according to a current and a former Googler.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
-      "originalUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
-      "publishedDateTime": "2020-12-31T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-shenzhen-to-focus-on-chips-ai-and-biomedicine-to-grow-gdp-40-per-cent-over-five-years-in-the-face-of-us-hostility-and-economic-slowdown.md",
-      "title": "Shenzhen to focus on chips, AI and biomedicine to grow GDP 40 per cent over five years in the face of US hostility and economic slowdown",
-      "excerpt": "China’s southern tech hub of Shenzhen aims for 40 per cent growth over five years, with the goal of becoming an international hub of innovation, despite challenges from the US for local tech giants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/31/ce039f8a-4b44-11eb-9c55-93e83087d811_image_hires_182210.jpg?itok=5b-jJpU-&v=1609410137",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "publishedDateTime": "2020-12-31T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-in-the-cultural-revolution-ai-weiweis-father-burned-the-familys-books.md",
-      "title": "In the Cultural Revolution, Ai Weiwei’s Father Burned the Family’s Books",
-      "excerpt": "What books are on your night stand? This is really a question that gets to me. I don’t have a bookshelf or books next to my bed. What’s the last great book you read? The last great book I read was “Permanent Record,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/03/books/review/03ByTheBook/03ByTheBook-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
-      "publishedDateTime": "2020-12-31T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots.md",
-      "title": "China’s Flexiv raises over $100M for its adaptive Rizon robots",
-      "excerpt": "Shiquan Wang led Chinese robot maker Flexiv has raised more than 100 million for its Rizon adaptive robot in a Series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
-      "originalUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2020/12/Flexiv-e1609398956471.jpg",
-          "width": 1900,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
-      "publishedDateTime": "2020-12-30T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
-      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
-      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
-          "width": 800,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "publishedDateTime": "2020-12-30T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

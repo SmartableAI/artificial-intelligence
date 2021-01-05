@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
-    publishedDateTime: 2021-01-01T08:36:00Z
-    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "HL9/7PAaunAtsUevQSchZ7znkQINhWoQLrebTiQtW0kSeiKHg3zMu9QXVTms7f/IHJzxvsyeuN4JS7IonSVVk0LuGJCpHSiSBhrZdP/rIlAFev8bO25+/Pc1xKqThp5+w2PE/E2Up//eBzJA7t+sJHnbmN0e+/dKezizkkw+TiQHjBBNY4JqmNGCNIkCGBp5nTzOWoVHS+tdqqFCBbBEJH12YwHZMClXj2rDPzYMqq8gx6fMkgGzPgS4VPYwi8/OXKuZI1WKMY557LmwA5Qxl0y4y6eG2yOs5U0cYoJycg2GPxLvuQUPSW9djKW0I/5QSr2Xl/GxynHQd7gj9VykCgw6JO0WBsU/zEChEnnbebM=;7YalCUrH1kNCsLNB8oSTRQ=="
 ---

@@ -40,6 +40,17 @@ related:
         width: 630
         height: 630
         isCached: true
+  - title: "Data 2021 Outlook Part II: Hedging the cloud"
+    excerpt: "Over the next year, the issue of cloud vendor lock-in won't be quite so cut and dry. By Tony Baer (dbInsight) for Big on Data | January 5, 2021 -- 13:00 GMT (05:00 PST) | Topic: Big Data Analytics On Twitter,"
+    publishedDateTime: 2021-01-05T13:02:00Z
+    webUrl: "https://www.zdnet.com/article/data-2021-outlook-part-ii-hedging-the-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-ii-hedging-the-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-ii-hedging-the-cloud/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Infor’s top cloud and AI technology predictions for 2021"
     excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
     publishedDateTime: 2021-01-01T13:05:00Z

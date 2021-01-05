@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Berkshire Legislator Disappointed With Failure To Ban Facial Recognition Technology In Reform Bill"
-    excerpt: "Not all Berkshire County legislators are pleased with the final form of the police reform bill Massachusetts Governor Charlie Baker signed into law on"
-    publishedDateTime: 2020-12-31T21:30:00Z
-    webUrl: "https://www.wamc.org/post/berkshire-legislator-disappointed-failure-ban-facial-recognition-technology-reform-bill"
-    type: article
-    provider:
-      name: WAMC
-      domain: wamc.org
-    quality: 40
-    images:
-      - url: "https://www.wamc.org/sites/wamc/files/styles/medium/public/201910/paul_mark_2019.jpg"
-        width: 800
-        height: 1067
-        isCached: true
   - title: "Airport Screening While Wearing Masks? Facial Recognition Tech Shows Up to 96 Percent Accuracy in Recent Test"
     excerpt: "A controlled scenario test by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) shows promising results for facial recognition technologies to accurately identify individuals wearing protective face masks."
     publishedDateTime: 2021-01-04T19:30:00Z

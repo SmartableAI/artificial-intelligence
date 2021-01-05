@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-05T09:09:00Z
 originalUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights-2021-01-05"
 webUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights-2021-01-05"
 type: article
-quality: 92
-heat: 102
+quality: 94
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Healthcare
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

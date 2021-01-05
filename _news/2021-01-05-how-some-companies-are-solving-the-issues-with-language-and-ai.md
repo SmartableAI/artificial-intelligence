@@ -3,10 +3,10 @@ category: news
 title: "How some companies are solving the issues with language and AI"
 excerpt: "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved."
 publishedDateTime: 2021-01-04T20:21:00Z
-originalUrl: "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-webUrl: "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
 type: article
 quality: 89
 heat: 99
@@ -43,6 +43,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "9oYo0BEgge4VEDMrf02tRKYECRtdLdz6eyfqKXimIlazcHwAUvJpB98veA7c2EMNhGscMHcieXo/sIgENe6EHqiSUKn+3cylg3rrPbwDgzazACGTmd3ocBZQskc9sJKA7X//kOdoR2LvoAIueJtqOwciiheNjIln66prldbS9I+Y0nyR1ixTDFquqnJZ21ojHI++vGUTzGI56pjasdOFVjENImuNCt8SXMnEf+jDM1giwOLuk0GNKZ1xByhLr0EowB5Yc3sdOE6/Ve7gVabJA9SgThYANQ3sBkg9Ax4NIaMORF7XvPhe8+id+ViStN2EFXsHkIDvywxfe1GFXtoSkg6WjlsvKIPsPgvJD2enSytzC27+/YAygufK+U1XAdUkK0bLuBKV+OoehYpYG9Vv+7UdTr1ke4bd4QGEfM202QIzi6u+8GPsd9/Mk/+7SPnykt0W+XL1n3TtoQHTcw66eoyA3Lktm2ndBVmL6Y8FnaDXt4pOMY+59823/lXxbrHo9Xxl8V6RxaB/js95bWQWwg==;U3jmtnldMZ3b5v5OVetUIw=="
+secured: "dYb5cEMP8IL2LAp/FBqojgyplWFF8lS+bCybawcdweWB5hxdm4ay1O5iBUFOAY2iY0u2GKnJMNklHvc/prrJAExKLlxKEPooyykW3XOXEHneox3V9KgF3oxoEZhDGrLz8Lrh3bgGiFd+OcXNOUHbJC1HNt7a5uXfo74VOvy0R0X6wm+BjnmTXiwGSC15Gfbm9DTwX0ukRhXuqVTKtLnj2AqiOlMML9GBvm1FQRgssJlKzGQFF7ofm/bnQ1h52pbM5lqBwSFGyE1z7+Agh4Se5AbadK2viCZJpg5EWJ5QFoiuQDjC3bE3hCzfH4WECoQ7iEpilw7NvRNpqDrkqdU+TmRNkOj+UuarIybjzSWwa1Q=;T7yR+BO6WM0kAcrnpPv8ZA=="
 ---
 

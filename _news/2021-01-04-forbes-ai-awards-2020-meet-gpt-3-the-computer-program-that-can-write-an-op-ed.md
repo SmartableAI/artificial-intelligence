@@ -4,22 +4,21 @@ title: "Forbes A.I. Awards 2020: Meet GPT-3, The Computer Program That Can Write
 excerpt: "Self-driving vehicles are now creeping into the mainstream while advances in machine learning are changing the way we write code and discover drugs. Here are the best products, the most intriguing people and the most exciting trends of a year in which A."
 publishedDateTime: 2021-01-04T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/"
-webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/"
+webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/?sh=1de41af393a7"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 147
+heat: 157
+published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Google AI
   - AI
 
 images:
@@ -43,21 +42,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Natural Language Processing in 2020: The Year In Review"
-    excerpt: "Preface 2020 was a pretty terrible year for humanity, and I hope you as a reader of this piece, have not been scarred too much by it. In the NLP realm, however, the year has given us quite a few significant advancements."
-    publishedDateTime: 2020-12-31T21:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGUKuRzdJoxtQ/article-cover_image-shrink_720_1280/0/1609367755529?e=1614816000&v=beta&t=qxy5DiX7G4vV2YugikrMPl0Y7mP3hTgbIKtNeK2WLtw"
-        width: 1280
-        height: 671
-        isCached: true
 
-secured: "/DbUjZThaMCjYCAEc2cXcg4qXoXJHlAceS0ZFq/msg8bsmDyrqvfV8KkHgyH9ZPR9YqRJAuufqmavauRsGgjChuhaEkGbmLWv816Iil5InSTUYGQC/VjjXRnI1rwrtNVMh1QVGo+IeHYYZH1Ikd52SXAKaYPOAJsDPwmUQuUBD6GeCuR1zbZRwOtwJ5sHV7fUhVFHNOqUhlNgoJSVRxfIuXbdPq7ySCYSvXAqBa/7nirBwztHMonDTuDWgU0uBB0cvYO4r6KVjHcVH0m/nj9jjZQSzkwTBfAf8td3UFZmKcRoifkYl8jcvZ79r887fkl7fsNbjcWbUOFn5Ts9kWg0VR4ri/ls1kLKUvNVa+84WbuD2kvm0OQN5TqMUNT8fhOZbSRQO1kR7n5OVR9MKn6u33b5LwUF8KZF16Xv5/zoealh8QBFoXji5Q3XG0khpHy+pogY6gjbsiRX6SiDe7L0+m/IdGzsIwj8muN4v11SwPblBXF9ccEv5UyFDSmMihw/enWQP4s7r8+vZ8sn42vwA==;wC44C1wEANapXKbS/u8nxA=="
+secured: "tw8C+JjkNi0uRhcnJ7iUoranlcDnsE02dHpY2YbdlAMpz6aPBIdcK2RJC3vpxDpC0Yr+Oka1QOLbUbmtEb2+J6UAOZhn8dwbfdPgURbZGETXFe23B44zdtRNaTMSggNyTdtKbBPE35F/n4X9+KPU8q1ATv8Do4EYT6ZAkTrf2Sjtif48QBqm+7yfkN1CkMc2X/L2rqTPOZLG8DRzgqk4DaWSlmOuxErnbX6EYBxDoHi7jmW6LwmOxXxscCN/YzjVztfbff+J3HsvZlPj2tUzNRC3gWPQTUaJaC0io42gDweqHV8Cfo8HCcar4wzTsi7YsrIU6ptAVmDh69NxRWsQLocJ49IBPWffOLMHVp9wQGk=;hpOA8FSz5XfDJrLjndXZ/g=="
 ---
 

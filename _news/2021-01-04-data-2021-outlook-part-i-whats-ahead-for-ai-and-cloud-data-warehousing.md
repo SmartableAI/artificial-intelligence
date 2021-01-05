@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-i-wh
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/"
 type: article
 quality: 90
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -32,6 +32,17 @@ images:
     isCached: true
 
 related:
+  - title: "Data 2021 Outlook Part II: Hedging the cloud"
+    excerpt: "Over the next year, the issue of cloud vendor lock-in won't be quite so cut and dry. By Tony Baer (dbInsight) for Big on Data | January 5, 2021 -- 13:00 GMT (05:00 PST) | Topic: Big Data Analytics On Twitter,"
+    publishedDateTime: 2021-01-05T13:02:00Z
+    webUrl: "https://www.zdnet.com/article/data-2021-outlook-part-ii-hedging-the-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-ii-hedging-the-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-ii-hedging-the-cloud/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "AI and data science predictions for 2021"
     excerpt: "Artificial intelligence saw rapid growth in 2020. The global pandemic and the resulting digital transformation forced upon companies and individuals as we moved from offices to homes accelerated AI usage and development."
     publishedDateTime: 2021-01-05T11:02:00Z

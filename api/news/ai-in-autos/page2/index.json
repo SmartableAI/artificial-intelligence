@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-23-apple-said-to-be-planning-self-driving-electric-car.md",
+      "title": "Apple Said to Be Planning Self-Driving Electric Car",
+      "excerpt": "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-ouster-maker-of-self-driving-tech-agrees-19-billion-deal-to-go-public.md",
       "title": "Ouster, maker of self-driving tech, agrees $1.9 billion deal to go public",
       "excerpt": "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp.",
@@ -1330,49 +1382,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-artificial-intelligence-may-be-the-defining-technology-of-our-times.md",
-      "title": "Artificial Intelligence May be the Defining Technology of Our Times",
-      "excerpt": "(MENAFN - Baystreet.ca) Artificial intelligence is reshaping our environment ... The auto industry is using AI to create driverless cars. The financial industry uses it to help organize operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101284005/Artificial-Intelligence-May-be-the-Defining-Technology-of-Our-Times&source=28",
-      "originalUrl": "https://menafn.com/1101284005/Artificial-Intelligence-May-be-the-Defining-Technology-of-Our-Times&source=28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2020-12/15/B_fb0edc53-cimage_story.jpg",
-          "width": 845,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

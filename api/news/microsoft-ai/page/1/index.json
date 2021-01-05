@@ -116,7 +116,7 @@
       "originalUrl": "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1082,6 +1082,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-18-cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025.md",
+      "title": "Cognitive Data Management Market Size Rising at more than 11.3% CAGR During 2020-2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 18, 2020 (Market Insight Reports) -- Selbyville, Delaware Growth forecast report \" Cognitive Data Management ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025-2020-12-18?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025-2020-12-18?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-the-perfect-cheeto-how-pepsico-is-using-microsofts-project-bonsai-to-raise-the-snack-bar.md",
       "title": "The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar",
       "excerpt": "The post The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar appeared first on The AI Blog.\n",
@@ -1336,40 +1388,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-cognitive-assessment-and-training-market-worth-1801-billion-globally-by-2027-at-2856-cagr-verified-market-research.md",
-      "title": "Cognitive Assessment and Training Market Worth $ 18.01 Billion, Globally, by 2027 at 28.56% CAGR Verified Market Research",
-      "excerpt": "\"Cognitive Assessment and Training Market by type (Pen- and Paper-Based Assessment, Hosted Assessment, and Biometrics Assessment), by Component (Solution and Services), by Application (Clinical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wallstreet-online.de/nachricht/13274527-cognitive-assessment-and-training-market-worth-18-01-billion-globally-by-2027-at-28-56-cagr-verified-market-research/all",
-      "originalUrl": "https://www.wallstreet-online.de/nachricht/13274527-cognitive-assessment-and-training-market-worth-18-01-billion-globally-by-2027-at-28-56-cagr-verified-market-research/all",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wallstreet online",
-        "domain": "wallstreet-online.de",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-11-artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented.md",
+      "title": "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented",
+      "excerpt": "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-researchers-use-ai-platform-to-identify-best-combination-of-available-therapies-against-covid-19.md",
+      "title": "Researchers use AI platform to identify best combination of available therapies against COVID-19.",
+      "excerpt": "and they used their platform is known as 'IDentif.AI' (Optimising Infectious Disease Combination Therapy with Artificial Intelligence) to investigate 12 potential drug candidates, representing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "publishedDateTime": "2020-12-10T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-amazon-is-cozying-up-in-all-corners-of-the-healthcare-ecosystemai-is-its-next-frontier.md",
       "title": "Amazon is cozying up in all corners of the healthcare ecosystem—AI is its next frontier",
       "excerpt": "Amazon is entrenching deeper into healthcare with its launch of Amazon HealthLake, molding itself into a daunting threat to smaller AI firms.",
@@ -1228,103 +1323,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-nvidia-launches-monai-framework-to-speed-up-ai-healthcare-training.md",
-      "title": "Nvidia launches Monai framework to speed up AI healthcare training",
-      "excerpt": "Nvidia Corp. is stepping up its efforts in healthcare with today’s launch of its Medical Open Network for AI, or Monai, an open-source framework that’s used to train artificial intelligence-powered models for medical imaging.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
-      "originalUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/image_2020-11-30_085231.png",
-          "width": 1132,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025.md",
-      "title": "Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2020 to 2025",
-      "excerpt": "Global Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2017 to 2025. Artificial blood, also known as synthetic blood substitute or blood surrogate is a substance used as a replacement to biological blood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025-2020-11-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025-2020-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-28T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

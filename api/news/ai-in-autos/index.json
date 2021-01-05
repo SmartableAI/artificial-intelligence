@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report.md",
+      "title": "2 Tesla Analysts Break Down Fundamentals, Valuation, China Prospects After Q4 Delivery Report",
+      "excerpt": "Tesla Inc (NASDAQ: TSLA) nearly met what many thought was an insurmountable 2020 deliveries target in the wake of the COVID-19 pandemic — and beat Street projections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report-1029931521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106806378-1607090735605-gettyimages-1229775377-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090789",
+          "width": 4000,
+          "height": 2833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "publishedDateTime": "2021-01-04T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket.md",
       "title": "Waymo CEO: Launching a self-driving car is harder than launching a rocket",
       "excerpt": "In an interview with the Financial Times, Waymo's CEO has opened up about the realities of self-driving vehicle development. It's the new rocket science.",
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1389,58 +1441,6 @@
         "name": "Carscoops",
         "domain": "carscoops.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-apple-said-to-be-planning-self-driving-electric-car.md",
-      "title": "Apple Said to Be Planning Self-Driving Electric Car",
-      "excerpt": "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T15:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-08-uber-abandons-dreams-of-self-driving-domination-sells-self-driving-unit.md",
+      "title": "Uber abandons dreams of self-driving domination, sells self-driving unit",
+      "excerpt": "Aurora, one of the nation's leading self-driving startups, will become the new owner of Uber's self-driving division, Aurora announced on Monday. In addition to turning over Uber's self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2020/12/uber-sells-self-driving-project-to-startup-aurora/",
+      "originalUrl": "https://arstechnica.com/cars/2020/12/uber-sells-self-driving-project-to-startup-aurora/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/Press-Aurora-Chris-2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-uber-sells-atg-self-driving-unit.md",
       "title": "Uber Sells ATG Self-Driving Unit",
       "excerpt": "Monday marked the end of Uber Technology 's ( NYSE:UBER) attempt to develop in-house autonomous driving capability. The rideshare giant and self-driving tech specialist Aurora announced in a joint press release that the latter has purchased Uber's Advanced Technologies Group (ATG),",
@@ -1373,40 +1425,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-bull-of-the-day-baidu-bidu.md",
-      "title": "Bull of the Day: Baidu (BIDU)",
-      "excerpt": "After peaking above $270 in 2018, Baidu (BIDU) shares have been stuck in bull market purgatory, spending most of the last 18 months under $140. That punishment could be ending soon as the company reinvents itself and recovers from government restrictions on its advertising revenues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
-      "originalUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
-      "publishedDateTime": "2020-11-30T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

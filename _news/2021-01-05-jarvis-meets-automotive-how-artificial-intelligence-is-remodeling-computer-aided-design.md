@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-au
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 800
     isCached: true
 
-secured: "D1cFwOPy8vXJNOOaKOp8g2g2aVC0cFpXHY/pp2dkqURRTozcjw7B2piuUAUkF9nV9HWMBfxyGLJJPh5fUCRqC9nebi498qh6glRjZXRZ0r6m9cDcXCOlu+SeWXkGQeh3F6+kiCGCyhbLzs6A8B8p9BCuUJNOP7KMecqWcBCm7QPvDHGQ2fcLIaSIV/OpdAKNXOq0khMD0n0wrhPbt34JcIkrEew10Jswz2onQe8CZy8IiudyqbqxHU6SZCwkWoCl7D+FGS3+OJbpaXJ0I3IY4pOx82jF3ywmLZhE3srxmGmYb1GGf+MJd+OfHEUoTONZro+1uoW3BpnLvIy+wegjL8d045GqucZxoIWL2/olvc8=;3tVDa6uBPvSfELCygLslgQ=="
+related:
+  - title: "Latest flash storage spec aids automotive, edge AI"
+    excerpt: "Like most new memory or memory interface specifications, the latest iteration of the Universal Flash Storage (UFS) Card Extension Standard"
+    publishedDateTime: 2021-01-05T14:06:00Z
+    webUrl: "https://www.embedded.com/latest-flash-storage-spec-aids-automotive-edge-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 37
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/01/img20210105085228UFS-Spec-Keeps-Pace-with-Edge-Io_3.jpg"
+        width: 431
+        height: 269
+        isCached: true
+
+secured: "S84OlbQli6k/pbET474JFZiIfnXW4SQNCpZrGbDVyr5b/P/NaanYPi8RckCFw0IBwkA8R6QgiPONq0oG1uvt0m8VirbrB7tMOXIQL0W/swBgJly70N9UvMWqKHZCPe8i0wIokRpdJQcwC+Y2SeDZK7UxvQiPdNZSuKvk/oJRjaIXrGYGcjwpbUY/XOamqqeXw5snYHJHs5YBXqfIa2+BoVzC28AzmvFt+4WFRXZTmqE9wpPmuiWijQPEn728854xkSBrjQV0iUqoewhLNdJ05ePMAbkE1V99pzMHvPN1PFYL/XeaZQNkJyFgBE/flLeto4LK0BW1KWoI9CyolRDM7xiC+0qfNvZvLir792SlFJQ+fZedLns0DS+GqVta/wHnT8H3YWJG/6W0LErlhFA5e8Hybjhe5o12jOAu0AFY7drogTsgIkFO2fI57deiv+TATC9iwA63aa6IO93AYqeFy8m+HNJc3V1dao0K635svfUkOUmfwqJWzCrlhrTOa3mSH3uWu2K9HfLTcdCw0lMA0A==;8EjuGZAHj01BLrKAsGDZPg=="
 ---
 

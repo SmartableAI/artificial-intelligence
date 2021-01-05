@@ -19,76 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,"
-    publishedDateTime: 2021-01-04T14:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
+  - title: "Artificial Intelligence (AI) in Marketing Market Will Generate New Growth Opportunities in Upcoming Year 2023"
+    excerpt: "According to Market Research Future, the Artificial Intelligence (AI) in marketing market has been segmented into"
+    publishedDateTime: 2021-01-05T14:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023-2021-01-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market 2020 – 2025 | Development, News and significant Growth With Regional Trends By Forecast"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. The key players included in this market are [[24]7.ai, Inc., 3M, Abe AI Inc., Amazon Web Services, Inc., Apple Inc., Aylien Ltd., Cortical.io, DigitalGenius, Dolbey, Expert ..."
-    publishedDateTime: 2021-01-05T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-01-05"
+  - title: "Global Geospatial Value-added Services Market Report 2020: New Products Integrating AI Models Create Growth Opportunities"
+    excerpt: "The \"Artificial Intelligence Enabling the Global Geospatial Value-added Services Market\" report has been added"
+    publishedDateTime: 2021-01-04T09:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g18994787/global-geospatial-value-added-services-market-report-2020-new-products-integrating-ai-models-creat"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18994787"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18994787"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2027"
-    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) Hardware Market Size study, by Technology (Machine Learning, Computer Vision, Natural Language Processing,"
-    publishedDateTime: 2021-01-05T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2027-2021-01-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI over Edge Computing Market 2020 Segment Overview, Company Profiles, Regional Analysis and Forecast 2025"
-    excerpt: "A recent report published by MarketandResearch.biz titled Global AI over Edge Computing Market Growth (Status and Outlook) 2020-2025 aims to provide up-to-date information on the market carrying out a thorough research on the market of historical as well as current growth parameters,"
-    publishedDateTime: 2021-01-05T01:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-segment-overview-company-profiles-regional-analysis-and-forecast-2025-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Construction Market 2021 Business Trends, COVID - 19 Outbreak, Regional Analysis, Share, Size, Global Segments and Industry Profit Growth"
-    excerpt: "Ai In Construction Market Overview: In Its Research Report, Market Research Future (Mrfr), Asserts That The Global Ai"
-    publishedDateTime: 2021-01-04T06:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-construction-market-2021-business-trends-covid---19-outbreak-regional-analysis-share-size-global-segments-and-industry-profit-growth-2021-01-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "YIgrQYROLQrbCkV9Xvs0w7Wk6UtMNh4KYHFnc5T804H0tDxcEI/zOfxaQcUeYLxiWDI2/EREQwy5sr/wx1v9SUphxWT64kFD9ZXJmONCAW+CAI2JzZiN8uJjfa7xzOHRe1umv8kK1ZqVyM9TxRAm/rsbwvFtMAM2eSMpO0roEW5eRt9toQ6LZSnEwSTY5mtNpnWnk0FlbXRHqojwxUrY/ExZU6aBMgP7iTvKCsiEE4gVRiUylBXt1fP1SOWntthnvj0GYun98D1ZFeVz5z9adxd2kZSh+6mCoPyjOFC3d3DNA0Mjfe7i9p77A5kABk5vd8vcW4aemQDE4pC6lhvOMbOUcak0gfbYGk6WZBwgJoU=;kvXQXzzEArzW1PLEJAyfvw=="
 ---

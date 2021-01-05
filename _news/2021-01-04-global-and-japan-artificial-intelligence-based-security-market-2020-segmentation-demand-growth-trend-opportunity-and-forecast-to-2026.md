@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
+    excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
+    publishedDateTime: 2021-01-05T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Share | Global Industry Analysis, Technology, Top Key Players, Drivers and Trends to 2026"
     excerpt: "Artificial Intelligence (AI) in Automotive market is projected to surpass USD 12 billion by 2026. The market growth is attributed to the steadily growing uptake of driver assistance technologies for increasing driving comfort and ensuring safe driving experience."
     publishedDateTime: 2021-01-04T10:37:00Z

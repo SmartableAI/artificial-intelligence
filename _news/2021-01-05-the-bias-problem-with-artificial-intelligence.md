@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mprnews.org/amp/episode/2021/01/04/farrell-the-bias-prob
 cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2021/01/04/farrell-the-bias-problem-with-artificial-intelligence"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MPR News
@@ -26,6 +26,17 @@ images:
     width: 2000
     height: 1124
     isCached: true
+
+related:
+  - title: "Bringing AI to Prothesis"
+    excerpt: "\"My idea was, how can we make these devices learn over time from us, the same way we learn from our mistakes? How can prosthesis learn from the mistakes it makes as well?\" Meet the amputee engineer using AI to search for a better prosthesis."
+    publishedDateTime: 2021-01-05T14:51:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-01-05/bringing-ai-to-prothesis-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 47
 
 secured: "mIvkmfk3NMWU2jsHav9BCeG9nmCGO+88Z1XKq0YLOCUigjVyvCHHTNU4yC0E/+B1JlFPiW8BFsNeB6bPHmnUkcnBU4PZ3ljR7HmsgK0XfYqx5/w3Zgv95Ndqk1OM+RAFVPqeXLVjiG8ugu47PxxtmIoJUHUFQejrGeUb7eugrbZ0hCxVd1mjU1OC68PVMunpmgMnBhJcPxA6Rbh7t/q1LXs1VU+ISJAC8QC7ApymwKh+MzplEVScvog+Ig6haqsDpdKrIffDico9gZ5PCYDWRriC5stJUyr2b3WtScaftHBLbEy0EvurHKbDHuNSy3gF6F+isPArH4ish1svF5xV4UtzkITHrusTfFT4CezgRt8MwiA+t8tp/QwGVAG1iAtp078smN0A+Q9LyX4J685IYRwb9ZJ4Tdol73D8kK0HC6HaRtg4er2pn3sljrYJ93kaC0iDmOeQxF4o5lfZqG78hy5+NboOGm9rm4OBOaYQCk7ucAV3qfLTdKwXta93mJ+QkZP09/ZK5WfuVlSURy5fzA==;JAfuH1d6fZHgZ0X2fc+D7A=="
 ---

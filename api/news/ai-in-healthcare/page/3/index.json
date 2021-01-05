@@ -2,6 +2,103 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-30-nvidia-launches-monai-framework-to-speed-up-ai-healthcare-training.md",
+      "title": "Nvidia launches Monai framework to speed up AI healthcare training",
+      "excerpt": "Nvidia Corp. is stepping up its efforts in healthcare with today’s launch of its Medical Open Network for AI, or Monai, an open-source framework that’s used to train artificial intelligence-powered models for medical imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
+      "originalUrl": "https://siliconangle.com/2020/11/30/nvidia-launches-monai-framework-speed-ai-healthcare-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/image_2020-11-30_085231.png",
+          "width": 1132,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025.md",
+      "title": "Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2020 to 2025",
+      "excerpt": "Global Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2017 to 2025. Artificial blood, also known as synthetic blood substitute or blood surrogate is a substance used as a replacement to biological blood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025-2020-11-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025-2020-11-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-28T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
       "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
       "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to 2027\" - https:/",
@@ -1248,84 +1345,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-the-case-for-mathematical-optimization-in-health-care-building-a-strong-foundation-for-artificial-intelligence.md",
-      "title": "The Case For Mathematical Optimization In Health Care: Building A Strong Foundation For Artificial Intelligence",
-      "excerpt": "Enthusiasm for the potential impact of AI on hospital operations is often based on its impact in other industries. However, non-health care companies invest in AI after having digitized and optimized their operations with a variety of older mathematical methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
-      "originalUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Health Affairs",
-        "domain": "healthaffairs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-global-computer-vision-in-the-healthcare-market-report.md",
-      "title": "Global Computer Vision In The Healthcare Market Report",
-      "excerpt": "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "originalUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb13143184_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
-      "publishedDateTime": "2020-11-13T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

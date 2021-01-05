@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
+    excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
+    publishedDateTime: 2021-01-05T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QXh73wAu9lgNEeIyLGn8dTdnFFsgEhFwkkpppNCZz+NPb7ek+v++9s4BHcrhnj4At/LuXoY3egwcZngWIzxw+qjuTjRPRGxnB5ZD9PcuJqlytdES1a+G2Lx1Y49N5hOjz/IL4cV6RQLqtibLVt0d2qy4DNxyyDy6fXnqrCw/E7CX9wVy3fToeZ/8tL69kiCa7vRfYzsFUaeokznjrvR54rmi8dB7gLO8rYdyuTLmpJpibcLHb8Gu7gZcGBLC7EjYFKXAdTMAP+ZOnnt5VMRH2vysymY+wpTZDwgWPQCsvMlqxt3p263JpYnaG7sxU8t9I7SFTDgfqjIRRbnp2gGn10BKhciUL3dPJ9BxYRdBaKU=;sDxWPDc7Ww1nRCYwoHs7Jw=="
 ---

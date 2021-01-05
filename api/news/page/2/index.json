@@ -2,6 +2,343 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-05-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries.md",
+      "title": "Hyderabad: Startup develops AI tool to repair EV batteries",
+      "excerpt": "Hyderabad: Going a step forward, the IIT Hyderabad-incubated start-up PURE EV has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-Ion batteries of electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/01/04/1022847-pure-ev.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
+      "publishedDateTime": "2021-01-04T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes.md",
+      "title": "Deep Science: Using machine learning to study anatomy, weather and earthquakes",
+      "excerpt": "Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discoveries and papers — particularly in but",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
+      "originalUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
+      "publishedDateTime": "2021-01-04T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket.md",
+      "title": "Waymo CEO: Launching a self-driving car is harder than launching a rocket",
+      "excerpt": "In an interview with the Financial Times, Waymo's CEO has opened up about the realities of self-driving vehicle development. It's the new rocket science.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/",
+      "originalUrl": "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/autonomous-driving-teacher-waymo-tesla-feature-level-self-driving-796x448.png",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/amp/",
+      "publishedDateTime": "2021-01-04T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
+      "title": "Healthcare Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
+      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
+      "title": "Why Baidu Stock Soared 55.6% in December",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/62e0770e28ee8c68be6d542e0b5127e7.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "publishedDateTime": "2021-01-04T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-tesla-stock-rises-c3ai-drops-as-the-stock-market-start-2021-higher.md",
+      "title": "Tesla Stock Rises, C3.ai Drops as the Stock Market Start 2021 Higher",
+      "excerpt": "The market is wasting no time heading hire on the first trading day of the new year—and that’s despite overhangs that might normally keep a lid on things. On Friday, we’ll get December’s payrolls report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "originalUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-272944/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "publishedDateTime": "2021-01-04T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-successful-student-publishes-the-best-online-artificial-intelligence-degrees-for-2021.md",
+      "title": "Successful Student Publishes \"The Best Online Artificial Intelligence Degrees for 2021\"",
+      "excerpt": "Successful Student  an education-focused website that provides objective, student-centric college rankings to help students navigate education, has published its ranking of",
+      "sourceUrl": null,
+      "webUrl": "https://successfulstudent.org/best-online-artificial-intelligence-degrees/",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-student-publishes-the-best-online-artificial-intelligence-degrees-for-2021/article_e4fe782b-01f5-5ca1-9f6c-9d2934cca4c8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://successfulstudent.org/app/uploads/sites/2/2020/04/Best-Online-Artificial-Intelligence-Degrees.jpg",
+          "width": 1140,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing.md",
       "title": "Data 2021 Outlook Part I: What’s ahead for AI and Cloud Data Warehousing",
       "excerpt": "Responsible AI” is at the beginning of a long slog, while Cloud Data Lakehouses will supplement but not replace Data Warehouses or Data Lakes.",
@@ -10,7 +347,7 @@
       "originalUrl": "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -87,58 +424,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-forbes-favorites-2020-the-years-best-ai-stories.md",
-      "title": "Forbes Favorites 2020: The Year’s Best A.I. Stories",
-      "excerpt": "From deep-fakes to fake A.I., 2020 was a groundbreaking, turbulent year for artificial intelligence, a field at the cutting edge of technology. Here are five of the year’s best A.I. reads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorites-2020-the-years-best-ai-stories/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-favorites-2020-the-years-best-ai-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe23a821d0026e4a4fa7d6f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -286,6 +571,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed.md",
+      "title": "Forbes A.I. Awards 2020: Meet GPT-3, The Computer Program That Can Write An Op-Ed",
+      "excerpt": "Self-driving vehicles are now creeping into the mainstream while advances in machine learning are changing the way we write code and discover drugs. Here are the best products, the most intriguing people and the most exciting trends of a year in which A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/?sh=1de41af393a7",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdff97b0c3566fa06d16d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1880%26cropY1%3D0%26cropY2%3D1058",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -555,7 +891,7 @@
       "originalUrl": "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -892,354 +1228,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
-      "title": "Best graphics card for gamers and creatives in 2021",
-      "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "originalUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/kdpWv0xHoft2ndmTh94sIukoqFU=/1200x630/2020/11/17/66d183c5-8162-47b7-aa5c-dc12582475da/amd-rx-6800-09671.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "publishedDateTime": "2021-01-02T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups.md",
-      "title": "Revolutionary NLP Model GPT-3 Poised To Redefine AI And Next Generation Of Startups",
-      "excerpt": "Countless are the use cases that revolutionary AI model GPT-3, which uses deep learning to produce human-like text, can power. But, while it has potential for generative value, it is set to reshape both the dynamics of the AI world and the SaaS startup space because of its very own business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0cabb6e6d1f574f50817b%2F0x0.jpg%3FcropX1%3D490%26cropX2%3D3911%26cropY1%3D85%26cropY2%3D2257",
-          "width": 1200,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "publishedDateTime": "2021-01-02T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-hitting-the-books-what-do-we-want-our-ai-powered-future-to-look-like.md",
-      "title": "Hitting the Books: What do we want our AI-powered future to look like?",
-      "excerpt": "For example, the artificial intelligence principles of the Organisation for Economic Co-operation and Development emphasize the human ability to challenge AI-based outcomes. We desperately need an “off ” switch for all AI and robotics in my opinion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "originalUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe5942d70-3f02-11eb-8fd6-ce9efbf77308&client=amp-blogside-v2&signature=82b6bc891a7dac6218cceaeb208cdb5f9f27afe1",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "publishedDateTime": "2021-01-02T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian.md",
-      "title": "On Self-Driving Cars That Might Misclassify A Snowman As A Pedestrian",
-      "excerpt": "Considering the ramifications of AI-based classier driving systems and the control of self-driving cars, using a snowman as a memorable example.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee4edb29ec96bd83f34dd8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5120%26cropY1%3D260%26cropY2%3D3141",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/",
-      "publishedDateTime": "2021-01-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-leading-computer-scientists-debate-the-next-steps-for-ai-in-2021.md",
-      "title": "Leading computer scientists debate the next steps for AI in 2021",
-      "excerpt": "What do we need to push AI to the next level? A panel of experts hosted by Montreal AI discussed possible answers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/franck-v-740555-unsplash-1-e1573833675406.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
-      "publishedDateTime": "2021-01-02T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-ktr-releases-telanganas-2020-year-of-ai-success-report.md",
-      "title": "KTR releases Telangana’s 2020 Year of AI success report",
-      "excerpt": "Telangana IT and Industries Minister KT Rama Rao today released the report “Telangana’s Year of AI – 2020 and Beyond” highlighting the various achievements made in the sector during 2020. A year which saw one of the biggest FDIs wherein Amazon Web Services announced plans to invest about $ 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/pyrjlk/article33018127.ece/ALTERNATES/LANDSCAPE_615/Telangana-targeGM17U5V1I6jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
-      "publishedDateTime": "2021-01-02T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
-      "title": "Off The Menu: Robotics gains foothold in fast food",
-      "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
-      "originalUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4SMERC4X5GKFJOQMUZ6RZWABU.jpg",
-          "width": 1600,
-          "height": 1078,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
-      "publishedDateTime": "2021-01-02T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
