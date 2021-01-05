@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-06-ima-life-accelerating-its-digital-innovation-selects-falkonrys-operational-ai.md",
+      "title": "IMA Life, Accelerating its Digital Innovation, Selects Falkonry’s Operational AI",
+      "excerpt": "IMA Life, a world leader in the field of aseptic processing and freeze drying solutions, has partnered with Falkonry, the innovation leader in Operational AI, to accelerate IMA digital innovation using Falkonry Clue and Falkonry Workbench.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/3bea4930-9df9-47c5-a341-8e369fc2d89d/Falkonry-Nov5-2020-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026.md",
       "title": "AI Chipsets Market by Trends, Key Players, Driver, Segmentation, Forecast to 2026",
       "excerpt": "Global Market Insights, Inc –:AI chipsets market is poised for robust growth on the | eTurboNews | Trends | Travel News Online |",

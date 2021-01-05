@@ -43,22 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "How ARC innovation is revolutionizing healthcare on a global scale"
-    excerpt: "ARC continues to deploy lifesaving technologies and strategies in response to COVID for Sheba, Israel and internationally."
-    publishedDateTime: 2020-12-31T14:16:00Z
-    webUrl: "https://www.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846"
-    ampWebUrl: "https://m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/468819"
-        width: 640
-        height: 428
-        isCached: true
   - title: "This healthtech startup uses AI to assess health risks of expectant mothers"
     excerpt: "Healthtech startup CognitiveCare's MIHIC platform analyses medical, clinical, genetic, radiological, social, and lifestyle determinants to predict early signs of maternal, infant, and foetal risks."
     publishedDateTime: 2021-01-02T23:57:00Z

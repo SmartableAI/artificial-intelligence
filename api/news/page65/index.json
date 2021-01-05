@@ -2,6 +2,251 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
+      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
+      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
+          "width": 900,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:58:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-pope-francis-pray-that-robots-dont-turn-against-us.md",
+      "title": "Pope Francis: Pray that robots don’t turn against us",
+      "excerpt": "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
+      "originalUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8af3a9-e39f-4213-be3f-7bf2c5f2c1d1/69d728c1-8474-4cb2-8f78-2dc90220c6b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
+      "publishedDateTime": "2020-11-12T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
+      "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg",
+          "width": 545,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:33:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-airbus-is-to-produce-pilotless-planes-but-will-they-take-off.md",
+      "title": "Airbus is to produce pilotless planes, but will they take off?",
+      "excerpt": "Read more November 23, 2017 Would you entrust your life to a driverless car ... for the country well known for its love of artificial intelligence. However, Airbus’ decision to set up base ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.alphr.com/wp-content/uploads/2017/11/airbus_is_to_produce_pilotless_planes_but_will_they_take_off_-_1-scaled.jpg?fit=569%2C320&ssl=1",
+          "width": 569,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alphr",
+        "domain": "alphr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.moneyweek.com/image/private/s--c8ThaiIG--/v1583342977/covers-etc/989-Cover.jpg",
+          "width": 600,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2020-11-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025.md",
       "title": "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025",
       "excerpt": "Cognitive Services are a set of machine learning algorithms ... Google, Inbenta, Ipsoft, Microsoft, Nokia, Nuance Communications, Qualcomm Technologies, SAS, Softweb Solutions, TCS and Verbio ...",
@@ -974,238 +1219,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-snap-to-acquire-israeli-startup-vocaai-for-70mn-report.md",
-      "title": "Snap to acquire Israeli startup Voca.ai for $70mn: Report",
-      "excerpt": "Snap Inc, the parent company of popular messaging app Snapchat, is acquiring an Israeli startup called Voca.ai which builds Artificial Intelligence-based virtual agents to help businesses support customer service,",
-      "sourceUrl": null,
-      "webUrl": "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/",
-      "originalUrl": "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/11/e65193aaa0daab6ecdba2183aa65610e.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/",
-      "publishedDateTime": "2020-11-12T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-djay-pro-ai-for-macs-latest-update-takes-advantage-of-apples-m1-chip.md",
-      "title": "Djay Pro AI for Mac's latest update takes advantage of Apple's M1 chip",
-      "excerpt": "Djay Pro AI for Mac leverages Apple's M1 chip to enhance its Neural Mix audio separation tools with effects, crossfading and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/algoriddim-djay-pro-ai-for-mac-neural-mix-apple-m1-chip-150027988.html",
-      "originalUrl": "https://www.engadget.com/algoriddim-djay-pro-ai-for-mac-neural-mix-apple-m1-chip-150027988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4e9ffce0-2455-11eb-af17-206744df9630&client=amp-blogside-v2&signature=486226bd520d45273bffe3c636b30e062aee63cf",
-          "width": 1050,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds.md",
-      "title": "Inside the world’s first AI-powered satellite — and its fight against clouds",
-      "excerpt": "Intel, Ubotica, and the ESA recently launched the first AI-enabled satellite into Earth's orbit. The team told TNW about their hopes for the mission.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-11-11T104744.768-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
-      "publishedDateTime": "2020-11-12T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending.md",
-      "title": "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending",
-      "excerpt": "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts.",
-      "sourceUrl": null,
-      "webUrl": "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "originalUrl": "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1028612998-6352cfe9c42d690d78be4e1065fa9a1b.jpg",
-          "width": 600,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "publishedDateTime": "2020-11-12T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthpayerintelligence.com",
-        "domain": "healthpayerintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-5-great-robotics-stocks-that-offer-stake-in-the-new-way-work-gets-done.md",
-      "title": "5 Great Robotics Stocks That Offer Stake in the New Way Work Gets Done",
-      "excerpt": "The new normal is speeding up the entry of robotics into our lives. Here are five robotics stocks to help you power up your portfolio for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/",
-      "originalUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/",
-      "publishedDateTime": "2020-11-12T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

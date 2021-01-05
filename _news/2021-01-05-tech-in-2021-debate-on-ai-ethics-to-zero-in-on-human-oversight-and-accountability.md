@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
-    excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
-    publishedDateTime: 2020-12-31T14:10:00Z
-    webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "2021: The Year of Robotics and Artificial Intelligence"
     excerpt: "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,"
     publishedDateTime: 2021-01-04T12:00:00Z
@@ -51,19 +40,33 @@ related:
         width: 620
         height: 360
         isCached: true
-  - title: "NTT DATA Services to Acquire Hashmap to Advance Analytics, AI and Machine Learning Solutions"
-    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise"
-    publishedDateTime: 2021-01-05T01:04:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18742-ntt-data-services-to-acquire-hashmap-to-advance-analytics-ai-and-machine-learning-solutions"
+  - title: "2021: Take back your privacy"
+    excerpt: "Photo by Jason Dent on Unsplash The Philippines is one of the increasing number of countries with a privacy law that protects its citizens. Unfortunately, just like most laws in the country, implement"
+    publishedDateTime: 2021-01-04T01:51:00Z
+    webUrl: "https://mb.com.ph/2021/01/04/2021-take-back-your-privacy/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 45
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 24
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/bf7fe686ee4b089704a5151276041181.jpg?t=20210105_005921"
-        width: 752
-        height: 408
+      - url: "https://mb.com.ph/wp-content/uploads/2021/01/jason-dent-JFk0dVyvdvw-unsplash-1-scaled.jpg"
+        width: 2560
+        height: 1423
+        isCached: true
+  - title: "Farewell 2020, hello 2021: The year in cloud reviewed – and what will come next?"
+    excerpt: "Amid the pandemic, 2020 was certainly an interesting year for cloud news - with Covid by no means the only game in town. But what will 2021 bring?"
+    publishedDateTime: 2021-01-04T12:45:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jan/04/farewell-2020-hello-2021-the-year-in-cloud-reviewed-and-what-will-come-next/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 19
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/moritz-knoringer-Vn1m4tSCUt0-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "cnLAPRQ0pnjHJk94I0daWtT85rszHd4l7Myoh0+aBRvi9Rwx/CV0IB0DL0uYef+Yq/q4VBApDp2bVZ0t03s//Fi1UZxphiI58TFRP/jSkzGPJxSNBIwPq46S+aQ4yeKKy5NQ7DHS0cnBgTWJF5USm3UYQwIjovPJ3MeVlIzM0VFD8BvSV4X2Pl9PcGuQYDy3ohW98vpz299vEXL45J59k7N5Iq4yBG09+OLxlUWchbbY518eks3vWUcKeyBSqflmjvw+5ckfq9Kss2xlN38HkJl8hFkhEirC71UgubTEEQDkzqCqpzFMEZSTXXTmyI49RMQnv1FDaHVfdDwiITPlB4fB0wlvBmkRJt3fqLbj2pI=;2jWWwzVwge7W+acVU4LGfA=="

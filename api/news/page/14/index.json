@@ -2,6 +2,249 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-18-kiromic-announces-submission-of-two-ind-applications-for-pd1-gamma-delta-car-t-cell-therapy-with-the-fda.md",
+      "title": "Kiromic Announces Submission of Two IND Applications for PD1 Gamma-delta CAR - T cell Therapy with the FDA",
+      "excerpt": "Kiromic BioPharma (\"the Company\") (NASDAQ:KRBP), a target discovery and gene-editing company utilizing artificial intelligence and its proprietary neural network platform with",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18840129/kiromic-announces-submission-of-two-ind-applications-for-pd1-gamma-delta-car-t-cell-therapy-with-t",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18840129/kiromic-announces-submission-of-two-ind-applications-for-pd1-gamma-delta-car-t-cell-therapy-with-t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18840129",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18840129",
+      "publishedDateTime": "2020-12-17T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-using-pytorch-to-streamline-machine-learning-projects.md",
+      "title": "Using PyTorch to streamline machine learning projects",
+      "excerpt": "A platform that lets surgeons browse videos of past operations has found a way to make its machine learning more effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "originalUrl": "https://www.zdnet.com/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/1200x675/a149f22109b892c62588d4d67f218f5e/20200814-owen-karen-weeds.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/using-pytorch-to-streamline-machine-learning-projects/",
+      "publishedDateTime": "2020-12-17T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-anomalo-nabs-595-million-for-ai-data-validation-tools.md",
+      "title": "Anomalo nabs $5.95 million for AI data validation tools",
+      "excerpt": "Anomalo, a provider of data validation and documentation services for developers, today announced that it raised $5.95 million in venture capital. First Round Capital and Foundation Capital participated in the seed funding round,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/",
+      "originalUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/",
+      "publishedDateTime": "2020-12-17T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-google-ai-ethics-team-demands-changes-after-dismissal-of-renowned-researcher.md",
+      "title": "Google AI ethics team demands changes after dismissal of renowned researcher",
+      "excerpt": "It comes after executives admitted to losing the trust of employees amid the departure of renowned researcher Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105750686-1550688923203gettyimages-1086152010.jpg?v=1550688994",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "publishedDateTime": "2020-12-17T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-the-perfect-cheeto-how-pepsico-is-using-microsofts-project-bonsai-to-raise-the-snack-bar.md",
+      "title": "The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar",
+      "excerpt": "The post The perfect Cheeto: How PepsiCo is using Microsoft’s Project Bonsai to raise the (snack) bar appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai-for-business/pepsico-perfect-cheeto/",
+      "originalUrl": "https://blogs.microsoft.com/ai-for-business/pepsico-perfect-cheeto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2020/12/cheetosconveyer-1024x384.jpg",
+          "width": 1024,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T08:30:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-google-waives-15-billion-deepmind-loan-as-ai-costs-mount.md",
       "title": "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount",
       "excerpt": "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development.",
@@ -934,239 +1177,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
-      "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
-      "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "originalUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/amp/",
-      "publishedDateTime": "2020-12-16T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-in-self-driving-amazon-invests-while-walmart-partners.md",
-      "title": "In Self-Driving, Amazon Invests While Walmart Partners",
-      "excerpt": "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-deep-learning-model-development-for-visual-inspection-system-in-manufacturing.md",
-      "title": "Deep Learning Model Development for Visual Inspection System in Manufacturing",
-      "excerpt": "This article by Sergey Maximenko, Data Science engineer at MobiDev examines how to develop visual inspection software for manufacturing via building deep learning-based algorithms and training. Learn what questions you should ask before choosing a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://jaxenter.com/deep-learning-inspection-173178.html",
-      "originalUrl": "https://jaxenter.com/deep-learning-inspection-173178.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/09/shutterstock_1096141913.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T12:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl.md",
-      "title": "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL",
-      "excerpt": "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/Solution.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T12:05:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-artificial-intelligence-ai-robots-market-research-2019-2026-in-depth-assessment-of-the-growth-and-other-aspects.md",
-      "title": "Artificial Intelligence (AI) Robots Market Research (2019-2026): In-Depth Assessment Of The Growth And Other Aspects",
-      "excerpt": "Artificial Intelligence (AI) Robots Market Report coverage: Key Growth Factors & Challenges, Segmentation & Regional Outlook, Top Industry Trends & Opportunities, Competition Analysis, COVID-19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2211587/artificial-intelligence-ai-robots-market-research",
-      "originalUrl": "https://www.openpr.com/news/2211587/artificial-intelligence-ai-robots-market-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc16563063_g.jpg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2211587/artificial-intelligence-ai-robots-market-research",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211587/artificial-intelligence-ai-robots-market-research",
-      "publishedDateTime": "2020-12-16T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

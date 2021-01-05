@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price.md",
+      "title": "How Machine Learning, Artificial Intelligence Anticipate Cryptocurrency Price?",
+      "excerpt": "The popularity of cryptocurrencies skyrocketed in 2017 due to a few continuous months of an exponential development of their showcase capitalization. The",
+      "sourceUrl": null,
+      "webUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
+      "originalUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://leadership.ng/wp-content/uploads/2021/01/images-2021-01-05T062604.468.jpeg",
+          "width": 739,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
+      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
+      "publishedDateTime": "2021-01-04T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEADERSHIP Newspaper",
+        "domain": "leadership.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries.md",
       "title": "Hyderabad: Startup develops AI tool to repair EV batteries",
       "excerpt": "Hyderabad: Going a step forward, the IIT Hyderabad-incubated start-up PURE EV has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-Ion batteries of electric vehicles.",
@@ -1401,49 +1444,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-global-deep-learning-market-top-companies-covid-19-impact-regional-demand-and-future-development-research.md",
-      "title": "Global Deep Learning Market -Top Companies, COVID-19 Impact, Regional Demand And Future Development Research",
-      "excerpt": "Facto Market Insights published a title on “Global Deep Learning Market – 2020-2028”, to its collection. The study on the global deep learning market defines the analysis of all the segments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "originalUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc18479226_g.jpg",
-          "width": 800,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "publishedDateTime": "2020-12-18T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

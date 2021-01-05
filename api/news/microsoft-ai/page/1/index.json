@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70.md",
+      "title": "Microsoft Azure helps IRCTC chatbot boost user experience by 70%",
+      "excerpt": "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent.",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/",
+      "originalUrl": "https://newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg",
+          "width": 1080,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70/amp/",
+      "publishedDateTime": "2021-01-04T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple.md",
       "title": "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple",
       "excerpt": "Latest released the research study on Global Mobile Speech Recognition Software Market, offers a detailed overview",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -221,7 +264,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1327,60 +1370,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix.md",
-      "title": "Facial Recognition Market Growing at a CAGR 17.2% | Key Player Thales E-Security, Nuance Communications, Microsoft, Amazon, Ayonix",
-      "excerpt": "MarketsandMarkets forecasts the Facial Recognition Market size to grow from USD 3.8 billion in 2020 to USD 8.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2020 to 2025. Growing importance of the surveillance industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T02:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
       ]
     }
   ],

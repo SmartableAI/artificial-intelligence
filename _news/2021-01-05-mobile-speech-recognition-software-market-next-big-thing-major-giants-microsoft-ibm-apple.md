@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognitio
 webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
+    excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
+    publishedDateTime: 2021-01-05T05:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/blue-prism-extends-intelligent-automation-software-offering-to-microsoft-azure-users/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 47
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2019/06/blueprism.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "SJPN/XYKo/6UiBWdGc3yH/dKrOG/Efe1sSCQHjsanU6cYaALNbnnmWedFUmgZfvbMwGCc6C34SjINtiSDHHgmAmbk2QWLYaR/sn9778OgdWU01frZgTsd++BLPJHkVaaPwhevekVT98YAME7GOdsVgn7gR8nTA+3kJ4zl9aTMiKs1DGqvKlAz1myghfi1+vA7Wo2QLVMVNeL2NKCv2ZBaE1L2hfy0eq16hIrTzD9UwcWZucLz2NbTEoFjFhnqyTy9KSqfxtWtycrqRg2Hj1hMwlFpXoWxEcizvzD6X135nPdpZ9L92adAdNOWHnC4g3ZP5ZKV5zilUVpIu+QlytoY9PbWR9v0U1ozvP1ysCuZdw=;/wHynUEMLGaDjHXJGBDSwA=="
 ---

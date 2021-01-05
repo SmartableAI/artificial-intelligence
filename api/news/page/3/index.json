@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
+      "title": "How Apple’s self-driving car plans might transform the company itself",
+      "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
+      "originalUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/apple1mt.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
+      "publishedDateTime": "2020-12-31T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-tesla-sweetens-new-ev-purchase-with-full-self-driving-trial-tossed-in-for-free.md",
+      "title": "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free",
+      "excerpt": "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "publishedDateTime": "2020-12-31T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-why-this-ai-company-founder-left-tech-to-become-a-healer.md",
+      "title": "Why This AI Company Founder Left Tech To Become A Healer",
+      "excerpt": "After founding three tech companies and working for years as a UX designer, Cris Beasley made a radical choice. She left the tech world to become a healer, moving from SF to the cloud forests of Chiapas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
+      "originalUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee1620c984f344e6740c36%2F0x0.jpg%3FcropX1%3D260%26cropX2%3D4514%26cropY1%3D0%26cropY2%3D3190",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
+      "publishedDateTime": "2020-12-31T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops.md",
       "title": "Mohammed Farooq Q&A: How Hypergiant is pushing for an open AI platform for ‘ModelOps’",
       "excerpt": "Companies building AI applications may think Amazon's AWS is the only place to turn for help, but we need an open AI platform.",
@@ -52,6 +207,50 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-coming-up-the-bias-problem-with-artificial-intelligence.md",
+      "title": "Coming up: The bias problem with artificial intelligence",
+      "excerpt": "Artificial intelligence is a booming industry that is creeping into more aspects of our daily lives. But can computers discriminate? As advanced technology tries to make our lives easier, it can also cause a lot of harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "originalUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "publishedDateTime": "2020-12-31T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MPR News",
+        "domain": "mprnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -106,7 +305,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -768,8 +967,8 @@
       "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
       "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
       "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "originalUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "webUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -786,13 +985,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "publishedDateTime": "2020-12-30T18:34:00-08:00",
+      "ampWebUrl": "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "publishedDateTime": "2020-12-30T17:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
+        "name": "WMUR9",
+        "domain": "wmur.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1007,214 +1206,6 @@
         "Machine Learning",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-chinas-adaptive-robot-maker-flexiv-raises-over-100-million.md",
-      "title": "China’s adaptive robot maker Flexiv raises over $100 million",
-      "excerpt": "As businesses around the world look to automate production lines and supply chains, companies making the robots are attracting great investor interest. The latest to get funded is Flexiv, which closed a Series B round north of $100 million from investors including China’s on-demand services",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
-      "originalUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/flexiv-2-e1609297096272.jpg?w=1024",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
-      "publishedDateTime": "2020-12-30T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-immense-potential-and-challenges-of-multimodal-ai.md",
-      "title": "The immense potential and challenges of multimodal AI",
-      "excerpt": "Multimodal models -- models that understand the relationships between images, text, and more -- could be the next frontier in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/",
-      "originalUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/",
-      "publishedDateTime": "2020-12-30T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-afraid-of-ai-five-ways-to-address-your-fears.md",
-      "title": "Afraid Of AI? Five Ways To Address Your Fears",
-      "excerpt": "Despite fears of artificial intelligence wiping out our jobs, it can actually create far more jobs than it will destroy. It is estimated that around 85% of the jobs that today’s students will be doing in 2030 haven’t been invented yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb51a453db0dfe5c44f353%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/afraid-of-ai-five-ways-to-address-your-fears/amp/",
-      "publishedDateTime": "2020-12-30T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market.md",
-      "title": "Is Velodyne or Luminar Stock The Better Bet On The Self-Driving Market?",
-      "excerpt": "Velodyne Lidar (NASDAQ: VLDR) and Luminar Technologies (NASDAQ: LAZR), two companies that specialize in lidar technology, went public this year. Lidar - a laser-based technology, which essentially helps computers detect surrounding objects - is poised to grow meaningfully,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fec1fa366ff7efc54a6e497%2F0x0.jpg",
-          "width": 705,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/amp/",
-      "publishedDateTime": "2020-12-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

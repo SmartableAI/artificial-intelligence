@@ -43,20 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Pandemic creates surge for MENA fintech development"
-    excerpt: "The number of Fintech startups have surged in the last 10 years: tech ventures which are positioned to serve and disrupt financial markets and the associated knowledge industries in the Middle East and North Africa (MENA) region."
-    publishedDateTime: 2020-12-31T14:15:00Z
-    webUrl: "https://www.executive-magazine.com/uncategorized/pandemic-creates-surge-for-mena-fintech-development"
-    type: article
-    provider:
-      name: Executive
-      domain: executive-magazine.com
-    quality: 24
-    images:
-      - url: "https://www.executive-magazine.com/wp-content/uploads/2019/07/facebook2.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "IIb9sYu6Z69w9io4vaXBfrf3tuNNid/ZKQh+2ET59cN6vqAigb3oyVHCm4rndtHP9Xd2LziC+wUpA3+XELS16qtUKMAFkkZeFNJ3ayEEA8ONJ3/PZLJxXqL9UO4UoH8wi+Hblv6WJnA17gVcCRRJxVUlQU+TCMVa2Ciuap6qtm9hYtUqsEwTLkZ9Jdcgb8VfNcBMOiSTR6H4T4qqgfZa4sITj5nuuC/woDXnKusiRR1BiVeSbZERqKDHbNOgd9fjP8H6VDW6rs50pZG+PP++vvLcMJQSuMQrKRwi1hiN6lW/mX3fk1wwjn0gXLQXDhY/NXvqZONdf8lQ0xdoDXaQ10fcaylw9cKYCXm7alH8KXFNuAEmH9rE687nflT9HqOcvI8tbsx1pHGOh6mkxpPUXrQLl0PFcOJriGIcjmK3xDIMi5PDDUACA0FMDnoSwv0wUgLx0SDI2+vBkDtO2f2LtGacGjBRrV2BmG8jgld9cX9HJT41nDD/K5LexcKMjf3/PkpIcS3er5cIwExonHAJug==;GVI/8U11kc8nO0LeEFADow=="
 ---

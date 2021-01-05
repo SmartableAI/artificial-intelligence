@@ -37,7 +37,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
+    excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
+    publishedDateTime: 2021-01-05T05:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/blue-prism-extends-intelligent-automation-software-offering-to-microsoft-azure-users/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 47
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2019/06/blueprism.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
-secured: "HlImcRqsd+vreYFEPZt8ldLkbIOPvoWJekTMLT/wyU0jYnORZccdSKhFOJUk/Xrii6Jd9ab6GlIYU6g/oLxs2umqvtNOgEHGj/2IQ2Iz0VSJWfKzERz+0D+2Gq6POOCQpw2bZFE+g7iD1Ziqn304d/djA+3V4On1jq/RC+sFqM8Tk1a5CHRZ+XW+YCPtqX5LDBWAaF0X1MtyfLbjvdFJlhw59MeILMLQc81JKgbZXcdRRonXQwI1bv7e/XoFLeLcZ8tTFCy+JjqugZcxx80RF6lu6g2WZFreDX2Y1P/DqxK2jdqJ0qQQxqQhszA1tFV3u1+fUm7l2u/PRwy+EXXDuFhWGPT/YQ0ZfbCfJSMRLPY=;mlvrK3TDClh8nbgpKq2KNg=="
+secured: "x2S1cS8kMKDkXfFJ5XKaSM75JVha7uhNaYycNaP30LWZPNxq3iz19l6HNcr5ugz4RDirs+MCdUxdp5MtJE+X+1k8Jk1AoLBOF6PHaIf7luLeZriguAYRaM+/wGSTar0Gjv9qO5nmWv03DaAyy9UlUoLOONvLD4WWlynyGiJc8UjnnpYZ6AkTYacnsvc2gH7cwXW3Z9vOR2YAk3arQUpBzAgbPT3R6kMo/DaXsQV9BsPpkAc2I9vZbNWwWSHYttoTGaToJa14Jb2z4v+5NuA24ExCWeel9WyXLWtDQ+cKVtPQbZT/GEymYp5Bo6FqrbpzY3jqyst8N5JHf21DwQ7nrmHO6ZoY4EvgN9CrB46sKUk=;NAYgzyNdmW1E/Ej7rQUKAg=="
 ---
 

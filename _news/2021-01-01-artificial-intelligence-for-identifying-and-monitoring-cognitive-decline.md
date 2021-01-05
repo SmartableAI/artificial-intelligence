@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "The Building Blocks of Artificial Intelligence"
-    excerpt: "In popular culture, movies and the media often portray AI in a dark and dangerous light. However, experts believe that AI will actually positively augment the human race, though how exactly is still unknown."
-    publishedDateTime: 2020-12-31T14:12:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/building-the-blocks-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 41
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
-        width: 1280
-        height: 675
-        isCached: true
   - title: "USC's new script-reading AI tool can predict a film's rating in a flash USC's new script-reading AI tool can predict a film's rating in a flash"
     excerpt: "Since 1968, the Motion Picture Association of America (now the MPA) and its board of screeners has been stamping Hollywood films with official ratings that reflect the level of mature themes, sex and nudity,"
     publishedDateTime: 2021-01-03T23:24:00Z

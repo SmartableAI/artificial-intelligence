@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
+    publishedDateTime: 2021-01-05T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Another arrest, and jail time, because of a bad facial recognition match"
     excerpt: "A 33-year-old New Jersey man is the third person known to be falsely arrested based on a bad facial recognition match. In all three cases, the people mistakenly identified by the technology have been Black men."
     publishedDateTime: 2021-01-03T15:31:00Z

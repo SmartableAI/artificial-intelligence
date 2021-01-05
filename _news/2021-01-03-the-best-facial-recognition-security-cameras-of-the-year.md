@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
+    publishedDateTime: 2021-01-05T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A Closer Look at Facial Recognition Technology"
     excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
     publishedDateTime: 2021-01-04T18:40:00Z

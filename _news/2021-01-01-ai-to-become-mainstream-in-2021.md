@@ -50,6 +50,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Upcoming AI Conferences To Look Forward To In 2021"
+    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
+    publishedDateTime: 2021-01-05T05:33:00Z
+    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "sTDjfj+q8pBpBaHTVDEuBGSf5ko9jYZj++BMrGjh7WD6CDEQ+BBpjmF4O9xkvgG9CrgNCjnTj6RvzMqzWPMYkpQnSBWnxCd+q8672QhN+zLBgbhwr4WueHNLyFsr0qz2ia7DFTorKWw2pQKSSdkFmoCdijL7yyIZfvw1A+BFTR/zQukYANZSLfgo6SwfbuOP1SWt97r5o2pa1T/Mrjji65oOhra4f/huml7IRgEHOHiem2NtJ9VsxoWmtJArr2Xpd1s1x0T3N7xR6/YzJ0ONW3J29oml6wPwtOE6v2xlKm27dzhp2UPwaSVSkiTZPz4gWLpe+a0cSY6WdxdDZUBiG7hdRl78FjMxj3/DdY5uSTuLLf56IAim2D0M1fieV3UA6fTUGYnceaWAQSXipgLEtfoUpfYZidrepu6qb/bvz3YzHEgUTNj364btGvkwjuEQdWu34gMLdMaxT+K0sNXdUfU/mF4HUq435hN37s76U8nz2JTnFAYtCntOpBGL4ei2ILAf3P57KT9KZ72yxnrCcw==;vz4yJ/iTAARg28B/rMYxwA=="
 ---

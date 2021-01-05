@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-04-the-reality-of-ai-in-healthcare-promises-roles-evolution-and-more.md",
+      "title": "The reality of AI in healthcare: promises, roles, evolution, and more",
+      "excerpt": "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "publishedDateTime": "2021-01-04T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period.md",
+      "title": "Assistive Robotics Market Is Expected To Grow USD 11.2 Billion By 2024, At A CAGR Of 22.3% During The Forecast Period",
+      "excerpt": "One of the major driving factors for the assistive robotics market is the rising insurance coverage for medical exoskeletons and robotic surgeries. The assistive robotics market is expected to grow from USD 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-how-artificial-intelligence-can-power-climate-change-strategy.md",
+      "title": "How Artificial Intelligence Can Power Climate Change Strategy",
+      "excerpt": "Climate change could be much more destructive than the economic and societal changes we just experienced with COVID-19. AI can help us research, test, and discover new ways of reducing carbon emissions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/04/how-artificial-intelligence-can-power-climate-change-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/04/how-artificial-intelligence-can-power-climate-change-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff2a43e1ef1ef42ee6c0192%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/04/how-artificial-intelligence-can-power-climate-change-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/04/how-artificial-intelligence-can-power-climate-change-strategy/amp/",
+      "publishedDateTime": "2021-01-03T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-bbc-sound-of-2021-greentea-peng-goes-from-beach-town-rock-star-to-the-world.md",
       "title": "BBC Sound of 2021: Greentea Peng goes from 'beach town rock star' to the world",
       "excerpt": "The free-spirited Londoner had pretty much given up on singing and songwriting during a \"reckless\" period in her teens - and was instead documenting her travels under the online pseudonym Greentea Peng.",
@@ -348,7 +494,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -784,7 +930,7 @@
       "originalUrl": "https://techengage.com/when-to-use-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1067,161 +1213,6 @@
         "Facebook AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
-      "title": "How Apple’s self-driving car plans might transform the company itself",
-      "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "originalUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/apple1mt.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
-      "publishedDateTime": "2020-12-31T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-tesla-sweetens-new-ev-purchase-with-full-self-driving-trial-tossed-in-for-free.md",
-      "title": "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free",
-      "excerpt": "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "publishedDateTime": "2020-12-31T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-why-this-ai-company-founder-left-tech-to-become-a-healer.md",
-      "title": "Why This AI Company Founder Left Tech To Become A Healer",
-      "excerpt": "After founding three tech companies and working for years as a UX designer, Cris Beasley made a radical choice. She left the tech world to become a healer, moving from SF to the cloud forests of Chiapas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "originalUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee1620c984f344e6740c36%2F0x0.jpg%3FcropX1%3D260%26cropX2%3D4514%26cropY1%3D0%26cropY2%3D3190",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "publishedDateTime": "2020-12-31T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

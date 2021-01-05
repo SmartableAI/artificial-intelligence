@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 39
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Smartphones_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Upcoming AI Conferences To Look Forward To In 2021"
+    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
+    publishedDateTime: 2021-01-05T05:33:00Z
+    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
         width: 1600
         height: 900
         isCached: true

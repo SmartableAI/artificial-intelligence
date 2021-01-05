@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-04-2021-the-year-of-robotics-and-artificial-intelligence.md",
+      "title": "2021: The Year of Robotics and Artificial Intelligence",
+      "excerpt": "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/86968.html",
+      "originalUrl": "https://www.technewsworld.com/story/86968.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-ai-robot-1.jpg",
+          "width": 620,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period.md",
       "title": "Assistive Robotics Market Is Expected To Grow USD 11.2 Billion By 2024, At A CAGR Of 22.3% During The Forecast Period",
       "excerpt": "One of the major driving factors for the assistive robotics market is the rising insurance coverage for medical exoskeletons and robotic surgeries. The assistive robotics market is expected to grow from USD 4.",
@@ -437,7 +480,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -668,8 +711,8 @@
       "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
       "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
       "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "originalUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "webUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "originalUrl": "https://www.wmur.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -686,13 +729,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "publishedDateTime": "2020-12-30T18:34:00-08:00",
+      "ampWebUrl": "https://www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
+      "publishedDateTime": "2020-12-30T17:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
+        "name": "WMUR9",
+        "domain": "wmur.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1358,49 +1401,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
-      "title": "Koo Kwang-mo's robotics push starts to pay off",
-      "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202012/49f47f19d777441eb7b1b39e349401ac.jpg",
-          "width": 980,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "publishedDateTime": "2020-12-22T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "The Building Blocks of Artificial Intelligence"
-    excerpt: "In popular culture, movies and the media often portray AI in a dark and dangerous light. However, experts believe that AI will actually positively augment the human race, though how exactly is still unknown."
-    publishedDateTime: 2020-12-31T14:12:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/building-the-blocks-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 41
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/5fec86bd0bcfdc96f18355a9_AdobeStock_294823415.jpeg"
-        width: 1280
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence for Identifying and Monitoring Cognitive Decline"
     excerpt: "In the latest episode of Impetus Digital's Fireside Chat, I sit down with Liam Kaufman, CEO & Co-founder of Winterlight Labs for another thought-provoking discussion. Among many other topics, we delve into AI, machine learning, natural language processing, digital biomarkers, and human-computer interactions in healthcare."
     publishedDateTime: 2020-12-31T16:55:00Z

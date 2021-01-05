@@ -116,7 +116,7 @@
       "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -148,6 +148,50 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-coming-up-the-bias-problem-with-artificial-intelligence.md",
+      "title": "Coming up: The bias problem with artificial intelligence",
+      "excerpt": "Artificial intelligence is a booming industry that is creeping into more aspects of our daily lives. But can computers discriminate? As advanced technology tries to make our lives easier, it can also cause a lot of harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "originalUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
+      "publishedDateTime": "2020-12-31T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MPR News",
+        "domain": "mprnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1368,58 +1412,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
-      "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
-      "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a5b72c8ec9d96b1c67cf5%2F0x0.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
-      "publishedDateTime": "2020-12-10T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

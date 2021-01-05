@@ -7,8 +7,8 @@ originalUrl: "https://www.technewsworld.com/story/86968.html"
 webUrl: "https://www.technewsworld.com/story/86968.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: TechNewsWorld
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data-driven 2021: Predictions for a new year in data, analytics and AI"
-    excerpt: "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,"
-    publishedDateTime: 2020-12-31T14:10:00Z
-    webUrl: "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Tech in 2021: Debate on AI ethics to zero in on human oversight and accountability"
     excerpt: "SINGAPORE - The deployment of artificial intelligence (AI) technologies will continue unabated. From automating driverless cars and factory operations to detecting cyber threats and fraud to predicting diseases and customer profitability,"
     publishedDateTime: 2021-01-04T22:47:00Z
@@ -50,19 +39,33 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "NTT DATA Services to Acquire Hashmap to Advance Analytics, AI and Machine Learning Solutions"
-    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise"
-    publishedDateTime: 2021-01-05T01:04:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18742-ntt-data-services-to-acquire-hashmap-to-advance-analytics-ai-and-machine-learning-solutions"
+  - title: "2021: Take back your privacy"
+    excerpt: "Photo by Jason Dent on Unsplash The Philippines is one of the increasing number of countries with a privacy law that protects its citizens. Unfortunately, just like most laws in the country, implement"
+    publishedDateTime: 2021-01-04T01:51:00Z
+    webUrl: "https://mb.com.ph/2021/01/04/2021-take-back-your-privacy/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 45
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 24
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/bf7fe686ee4b089704a5151276041181.jpg?t=20210105_005921"
-        width: 752
-        height: 408
+      - url: "https://mb.com.ph/wp-content/uploads/2021/01/jason-dent-JFk0dVyvdvw-unsplash-1-scaled.jpg"
+        width: 2560
+        height: 1423
+        isCached: true
+  - title: "Farewell 2020, hello 2021: The year in cloud reviewed – and what will come next?"
+    excerpt: "Amid the pandemic, 2020 was certainly an interesting year for cloud news - with Covid by no means the only game in town. But what will 2021 bring?"
+    publishedDateTime: 2021-01-04T12:45:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jan/04/farewell-2020-hello-2021-the-year-in-cloud-reviewed-and-what-will-come-next/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 19
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/moritz-knoringer-Vn1m4tSCUt0-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "NS1IfUxa1bvTFgetDaOSKZ/PasTUScEnQifJFtRWHy06lQ6lFvixcut7h1X6AnF1o1tdfGewvRLpYedVCGSNmin/4es4OaGGlKZ0o8ChRc6VSvfAlAQpG6MnuudfvRJVlR4Hn5uHTPKIpqMpaAK/0B3STFqmOqsNQju4csB/b3gOq9TcZCdUUCZXf/HzwFvWYX7QORu5No5nY87IsP/96z5fxIo3vCHl236WVEtGOUGnVLGFs3IOwui3IvOlmXBz/AjLIzDdXANPxLGoGDGPVUUP+Rqc/+o2ANs2ye8R0JOjNI2J0KGVqW0LqfLwGSChLWbxsbhCxHJq4X0ElQE6hn11MQHFMMpaaTZRQ5DhxIrWLna8Ml9DGusVkD/Gd77Ih4bPb1wS3/6Uz2B+wMgmC7HSb3B/UlXGwvkNaOdTvYhiuo7OL+VGpYCFdpvwh+AydLcjKsBUF8R9eqNgyn/hHLfG5Qz+9EL1wzHvXN2NcVADeUBUUzztp/K9fRDJgs7GMsHCmFHJir9tVzI7NvPmow==;wxEU2NyuUx9uC6HbDtxTSg=="

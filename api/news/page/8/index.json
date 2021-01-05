@@ -2,6 +2,181 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-24-no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them.md",
+      "title": "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them",
+      "excerpt": "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/",
+      "originalUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/deepmind-muzero.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them/amp/",
+      "publishedDateTime": "2020-12-23T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast.md",
+      "title": "How Foxconn built an end-to-end forecasting solution in two months with Amazon Forecast",
+      "excerpt": "This is a guest post by Foxconn. The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post.&nbsp; In their own words, “Established in Taiwan in 1974, Hon Hai Technology Group (Foxconn) is the world’s largest electronics",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-foxconn-built-an-end-to-end-forecasting-solution-in-two-months-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1741-1.jpg",
+          "width": 800,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T10:33:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader.md",
+      "title": "OMNIQ AI-Based Machine Vision Safety System Selected for Security and Protection of a Non-U.S. Government Leader",
+      "excerpt": "OMNIQ's safety system is a ground-breaking cloud/on-premises-based security solution for Homeland Security, Safe City and Safe Campus applications that uses unique, patented AI-based computer vision technology and software to gather real-time data in order ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/g18914280/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-u-s-gove",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/g18914280/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-u-s-gove",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18914280",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18914280",
+      "publishedDateTime": "2020-12-23T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-3-ai-stocks-to-snap-up-for-explosive-returns-in-2021.md",
+      "title": "3 AI Stocks to Snap Up for Explosive Returns in 2021",
+      "excerpt": "In 2019, the company acquired software and hardware startup, FWDNXT in a bid to deliver high ... on democratization of AI by development of conversational AI, ML, data sciences, robotics, and IoT. Moreover, Microsoft’s Azure contains AI-driven tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23",
+      "originalUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp",
+      "publishedDateTime": "2020-12-23T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-nuro-acquires-self-driving-truck-startup-ike.md",
       "title": "Nuro acquires self-driving truck startup Ike",
       "excerpt": "Ike, a self-driving truck company, has been acquired for autonomous delivery vehicle startup Nuro for an undusclosed.",
@@ -1014,169 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-new-york-halts-use-of-facial-recognition-tech-in-schools.md",
-      "title": "New York Halts Use Of Facial Recognition Tech In Schools",
-      "excerpt": "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools",
-      "originalUrl": "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1340315",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315",
-      "publishedDateTime": "2020-12-22T18:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
-      "title": "Cuomo signs facial recognition, voter registration bills",
-      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T17:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
-      "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
-      "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "originalUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/1296254/20201222/080245/styles/patch_image/public/carternewtoday___22195027135.jpg?width=984",
-          "width": 495,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "publishedDateTime": "2020-12-22T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-koo-kwang-mos-robotics-push-starts-to-pay-off.md",
-      "title": "Koo Kwang-mo's robotics push starts to pay off",
-      "excerpt": "LG Group Chairman Koo Kwang-mo seems to have set the conglomerate's robotics sector as one of the group's future growth engines and swiftly introduced a diverse range of robots soon after he took the helm of the conglomerate in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2020/12/693_301316.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202012/49f47f19d777441eb7b1b39e349401ac.jpg",
-          "width": 980,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301316",
-      "publishedDateTime": "2020-12-22T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

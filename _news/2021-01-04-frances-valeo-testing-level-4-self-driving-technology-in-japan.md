@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing
 webUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing-Level-4-self-driving-technology-in-Japan"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Tesla's Autopilot Full Self-Driving Completes Round Trip From San Francisco to Los Angeles"
+    excerpt: "Footage has surfaced showing a Tesla Model 3 making a round trip between San Francisco and Los Angeles using its Autopilot Full Self-Driving mode. The video came from YouTube user Whole Mars Catalog,"
+    publishedDateTime: 2021-01-01T00:00:00Z
+    webUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip"
+    ampWebUrl: "https://hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/tesla-autopilot-full-self-driving-san-francisco-los-angeles-round-trip?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 29
 
 secured: "Gcs6U3dj084vbXv+wJkbK+oIu0q8BeoEnkCz1S9QlDcmdrxPKRvJ6+DA1kIwoK6iZrHQ5NM6e0N6C3417cw5G+Pp++5OVBfmXPIXQWMHFF1Pg8oUd8OF5ieChpsovt4uw4Qjgss41LZItdje3JLncoh+LWLAr1IcigfVye9jU/OzM4xHGvIlnqotCWIuNA678LJtBK9qilnSstSK2K85Gt5riglf12ZJUMjGytC9Q/GBAnHPvwp4k9ROZ1oFXHUU5BUg1DcnNMEUKG5ArbAzZl+tLwKeQyinXjjMZO59cbCNMMgEdbSlESGBn7wLaXpl/h0stMrVafHE7E4VQ9hA78o2oN2lpIIq4nim3rpadbRTrSnhUYXDSpyzgC8n5IBHJhXhWjNiatUIBdtShm6ZcqQN8kVpWPYSPwhN+o3ZQz6YFdAsa2UrMJS0C+hAC+RNk/NUILfGmKl0fITHSRIkP7xHbkKtCQ711/zcNoMka8i7UsBk1oRd5HpdL9X9I0UKW/onMF/PamPoXMia+MR1xQ==;wRYeacXiMpp67S6XqzEtsQ=="
 ---

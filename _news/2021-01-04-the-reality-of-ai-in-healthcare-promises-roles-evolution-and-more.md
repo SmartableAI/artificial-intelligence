@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-e
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How ARC innovation is revolutionizing healthcare on a global scale"
-    excerpt: "ARC continues to deploy lifesaving technologies and strategies in response to COVID for Sheba, Israel and internationally."
-    publishedDateTime: 2020-12-31T14:16:00Z
-    webUrl: "https://www.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846"
-    ampWebUrl: "https://m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-arc-innovation-is-revolutionizing-healthcare-on-a-global-scale-653846/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/468819"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Fiction vs. reality: The true potential of AI"
     excerpt: "The roots of artificial intelligence (AI) in popular culture and science fiction run deep. The concept has been used in films, television and books to cause panic and laughter or to highlight how the world might one day be overrun by technology."
     publishedDateTime: 2021-01-01T09:30:00Z
