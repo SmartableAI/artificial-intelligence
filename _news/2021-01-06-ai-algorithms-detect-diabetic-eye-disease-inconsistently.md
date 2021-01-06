@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-di
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 1487
     isCached: true
 
-secured: "j8vcD2J1w5ALJ7KREuKSRMFpG/eQ8xgbyE2JX1z4GS1Jbff1V3hIup9XfM/JivF16792zTolVTd2CgkyFvtYXvCY2KtUrk5xhoaG5ObLsiP4W9ljgEC6rw9WC/JQmdYZBqTAKHPWRhl8BamxfJBG2OCd8nHn+ywuvujP3N21QoQ+C/ZPa7fYenBHadm+0UrNVyg4zpKhAOGCCKSflTWg2cc3goIkEo5IooZLDDoEW8hx1poCP7jM34GSLo5Igz8BREV/3T2RM680RyeG6TuDvzj4z/VqtUJUGDMudfopmTTocozN+AWSo0eN1oWs7KCSoHgVyODF07HwotbC6rOl2EKv6GGpQYy6mQ3nyYk9ZVo=;VmC6m4dzXpip9IZh9IxEIg=="
+related:
+  - title: "AI screening algorithms to diagnose diabetic retinopathy do not show consistent performance"
+    excerpt: "Diabetes continues to be the leading cause of new cases of blindness among adults in the United States. But the current shortage of eye-care providers would make it impossible to keep up with demand to provide the requisite annual screenings for this population."
+    publishedDateTime: 2021-01-05T23:55:00Z
+    webUrl: "https://www.news-medical.net/news/20210105/AI-screening-algorithms-to-diagnose-diabetic-retinopathy-do-not-show-consistent-performance.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210105/AI-screening-algorithms-to-diagnose-diabetic-retinopathy-do-not-show-consistent-performance.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210105/AI-screening-algorithms-to-diagnose-diabetic-retinopathy-do-not-show-consistent-performance.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/2/Close_up_of_the_beautiful_eye_of_a_young_child_-_Nik_Bruining_f959060df7e6466ba2733a4c18153083-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "h6NmubqoQw/O2Hwp8sMvPC5BXdGy6Mw8gql0gNB9+MjZt3FMuzAl25G1U4S4Xi6XtRR7ucKqPeVvwQ0v5jqjxTiuk+H4HyGik8w6+5HMbjlKEUCL29WeqG2khwLxuXB9m6wJfhPeuwrHItyWmk23KIW7WRADJmaLtR/ePaXTpTwlzXO15XKf/HJWj6dWoMjBo0tSF88j5LuYRquSv+3x2qcnyVEPgF6Loz7D2w5N/wzMysnycUC9Ye4fp7bAiixfEB8g70hszXL8+Bvkk4rc0UEZpOcP3oC7mJYPxw9CDl6ogvCrhvP90OcnZjNiE7DKxAxSyodr/5MEWKalQYvsvN2+zRncgt5xjjoESYY3vbE1ve0f5fSCgIASxdobXU854H7pv9KSy2gHlZFIZixnuhP0EJZA1VfwSeO0saftK/AU6Dgnn9s4QzwOsHbpqYCiWn+/GsSvBhjewCFIH33WhFRjqZrvzjPgpiUjUqbAzoAnkLvT5GLroADRhNBM24Bl7c+02iX30021O9gVRzp2Xw==;YigubpyZvFBxXfKvGoHJ0g=="
 ---
 

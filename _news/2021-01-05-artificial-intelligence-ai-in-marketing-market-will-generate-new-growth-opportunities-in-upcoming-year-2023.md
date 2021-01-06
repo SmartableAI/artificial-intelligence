@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023-2021-01-05"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
-    publishedDateTime: 2021-01-01T08:36:00Z
-    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "hp3LwuhuHtvojCSMh2KTCqFiclz2cYt5tmRKQnL96ei3YSQysPK3ZfJ46ZxpQTfgC9La/uujUimLARXeqwv4/nv4BzsYHJY+WZY+mtXBnhXbyZ+3zqjlsSqMLV7e05UlValZF/+OCbQRB+oLN9eEci6KmoK9ee0FsLCdSZzIgjSK7hlVHVZbia1Y+umP6JRafGpiMatUbBxoLGBQn7KxHLejaNQjcRVaAkfVDDx3o+MrE4wwnTp38R18FsFhfQSuPMv6rrGydkmEkT/MQbugpeaK9Y/0GoMuGYyHuCXmNbPO8Av3Nuj7ERCWSKcaSZ64EM2Y6wBI0Ddo2QwK93xS+NirJyquES5MhVeouICdWBg=;bTTAXmBSLK/nWpoz0MzFuQ=="
 ---

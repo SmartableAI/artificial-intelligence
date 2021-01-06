@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/researchers-aim-artificial-intelligence
 webUrl: "https://www.miragenews.com/researchers-aim-artificial-intelligence-at-rising-oral-cancers-with-33-million-grant-from-national-cancer-institute/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers apply AI to help physicians customize treatments for patients with oral cancers"
+    excerpt: "Researchers at Case Western Reserve University and partners in the United States and India are applying the investigative and predictive capabilities of artificial intelligence (AI) to help physicians customize treatments for patients with oral squamous cell carcinomas."
+    publishedDateTime: 2021-01-05T23:58:00Z
+    webUrl: "https://www.news-medical.net/news/20210105/Researchers-apply-AI-to-help-physicians-customize-treatments-for-patients-with-oral-cancers.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210105/Researchers-apply-AI-to-help-physicians-customize-treatments-for-patients-with-oral-cancers.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210105/Researchers-apply-AI-to-help-physicians-customize-treatments-for-patients-with-oral-cancers.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Researchers aim AI at rising oral cancers with $3.3M grant from National Cancer Institute"
     excerpt: "Researchers at Case Western Reserve University and partners in the United States and India are applying artificial intelligence (AI) to help physicians customize treatments for patients with the most common oral cancer,"
     publishedDateTime: 2021-01-05T15:38:00Z

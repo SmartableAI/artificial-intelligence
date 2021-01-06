@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-05T21:15:00Z
 originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21151599/jon-peddie-research-where-are-gpus-headed-in-2021"
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21151599/jon-peddie-research-where-are-gpus-headed-in-2021"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/Peddie_dreamstime_l_182874963.5ff4d2f98f130.png?auto=format&fit=max&w=1200"

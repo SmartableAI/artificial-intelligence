@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to Opt Out of Facial Recognition at the Airport"
+    excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport"
+    ampWebUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    type: article
+    provider:
+      name: Condé Nast Traveler
+      domain: cntraveler.com
+    quality: 74
+    images:
+      - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
+        width: 5568
+        height: 3712
+        isCached: true
   - title: "A Closer Look at Facial Recognition Technology"
     excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
     publishedDateTime: 2021-01-04T18:40:00Z

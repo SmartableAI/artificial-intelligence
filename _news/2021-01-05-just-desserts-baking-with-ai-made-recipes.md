@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-cloud/just-desserts-baking-ai-ma
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1062
     height: 545
     isCached: true
+
+related:
+  - title: "Google trained AI to make hybrid desserts. Go try these recipes and punish your taste buds"
+    excerpt: "Google is calling these AI-generated hybrid desserts cakie (a mix of cake and cookie) and breakie (a fusion of bread and cookie). God help us!"
+    publishedDateTime: 2021-01-06T00:25:00Z
+    webUrl: "https://pocketnow.com/google-trained-ai-to-make-hybrid-desserts-go-try-these-recipes-and-punish-your-taste-buds"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 29
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/01/breakie-google.jpg"
+        width: 1300
+        height: 800
+        isCached: true
 
 secured: "mV83/KqYU+Z2axkwVYh+WVGSs7UAe6bRqjfuwmNmQ7GoJacyI+CK4/V4FIJVmepOuQf0qms14smdA3R1f+3LpUNwUCtBhmLDRiMZibBTe7G2ZdY/KJzaGocnrNBtt88g4VejdqcZtnsXZkxp3dEbz6uTd4uFoYf1CsMEpZ5vTFBiwOM9qYA+Qj9ORRS+SgnKC0SsgTE3/0KwiyXFPDXTb6Eamzds9gtusoQQtZ5bO9VQ9yOcXb4b+IxM90GEDG+6IPg0VMa1lsHt5WcbhCr3DG9Ff/nHX2joT2v4bdDO6rFgvqHhp2Jhs7QKDYEsrqG3EaOL4CttLYHePfwQ/h9tViWYO43Whqid4KAZhFcLLm0=;MwEuxCoGYp8BgHT9NNx5+A=="
 ---

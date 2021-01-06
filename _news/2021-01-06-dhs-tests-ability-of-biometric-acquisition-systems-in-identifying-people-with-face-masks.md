@@ -7,7 +7,7 @@ originalUrl: "https://www.executivegov.com/2021/01/dhs-tests-ability-of-biometri
 webUrl: "https://www.executivegov.com/2021/01/dhs-tests-ability-of-biometric-acquisition-systems-in-identifying-people-with-face-masks/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 272
     height: 270
     isCached: true
+
+related:
+  - title: "Biometrics is transforming the face of flying: Facial recognition compliance tips for airports and airlines"
+    excerpt: "Companies operating in the commercial aviation sector should implement robust, adaptable biometric privacy programs to ensure compliance with the law."
+    publishedDateTime: 2021-01-05T23:01:00Z
+    webUrl: "https://www.biometricupdate.com/202101/biometrics-is-transforming-the-face-of-flying-facial-recognition-compliance-tips-for-airports-and-airlines"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "BCTC completes first round of Android face biometrics testing for Thundersoft algorithms"
+    excerpt: "Bank Card Test Center completed its first round of testing for Android face biometrics products, testing versions of a ThunderSoft facial recognition algorithm"
+    publishedDateTime: 2021-01-04T22:18:00Z
+    webUrl: "https://www.biometricupdate.com/202101/bctc-completes-first-round-of-android-face-biometrics-testing-for-thundersoft-algorithms"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "XeQWZOWoilm3PRumtRz8P/Tox5VLX1ZeySCofIFeBE+Pnl1qKUrW8uOgrvvn1eWcS58K++mrzU0hUl7CRbNRHsawIuaBGIBMu3MniQKFu5VYgw2TItxWfj+EnlumsC+91/iKixH2b6rT2fUF4a3ub11bHUBiG2/TzMURN1z1Rt4lM+A6I/ZLRvBBR0KLbqMH4xNUrQSEEG9BUmjnaLoSB/vO/6lCZ8202iZbOblMQ6C37Pr1UC0wcCH/X7O91dRkwXZOY5fU2Nta59kQY/7v1T1e5SwuEpVl4uzMaMAUw4wPz1ox5+NTAtOjsX/7rScQQIB3L7L9UhHyyRwhDJ3uJG5adA3MACLFkB6YTBjE0P0=;rNfeSgcUg/D2LLEnOQWrfQ=="
 ---

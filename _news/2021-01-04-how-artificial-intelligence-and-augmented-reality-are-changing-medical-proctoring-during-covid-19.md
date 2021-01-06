@@ -19,37 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Lessons in Failing to Apply Blockchain and AI to Combat COVID"
-    excerpt: "Blockchain tech is well suited to manage aspects of the fight against the coronavirus. Why hasn't it been used more?"
-    publishedDateTime: 2021-01-01T13:00:00Z
-    webUrl: "https://www.coindesk.com/lessons-in-failing-to-apply-blockchain-and-ai-to-combat-covid"
-    ampWebUrl: "https://www.coindesk.com/lessons-in-failing-to-apply-blockchain-and-ai-to-combat-covid?amp=1"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/lessons-in-failing-to-apply-blockchain-and-ai-to-combat-covid?amp=1"
+  - title: "Hotels introduce robot services amid COVID-19 pandemic"
+    excerpt: "An increasing number of hotels here are utilizing robots and contactless technologies as part of their efforts to overcome an unprecedented crisis caused by the prolonged COVID-19 pandemic. Information and communication technology-based services help hotels improve convenience and collect necessary data and feedback to develop better methods to protect guests amid the global public health crisis."
+    publishedDateTime: 2021-01-06T00:30:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/01/141_301995.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
     type: article
     provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 57
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
     images:
-      - url: "https://static.coindesk.com/wp-content/uploads/2019/12/Ben-G-pic-1200x628.jpg"
-        width: 1200
-        height: 628
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/9e924d2311164de5a9ea7c876bbb5d91.jpg"
+        width: 980
+        height: 653
         isCached: true
-  - title: "Startup Secret Santa Helps Blockchain and Fintech Projects to Win Over Covid Crisis"
-    excerpt: "Startup Secret Santa, an event of a new format, connected 19 startups and 19 mentors from Fintech and Blockchain domains on Dec 9th and 10th."
-    publishedDateTime: 2021-01-04T12:43:00Z
-    webUrl: "https://beincrypto.com/startup-secret-santa-helps-blockchain-and-fintech-projects-to-win-over-covid-crisis/"
-    ampWebUrl: "https://beincrypto.com/startup-secret-santa-helps-blockchain-and-fintech-projects-to-win-over-covid-crisis/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/startup-secret-santa-helps-blockchain-and-fintech-projects-to-win-over-covid-crisis/"
+  - title: "Robots, wristbands, and apps: startups that innovated their products for COVID-induced med tech"
+    excerpt: "As we step into the new year, YourStory lists 10 startups that innovated their products for COVID-induced med tech."
+    publishedDateTime: 2021-01-04T01:37:00Z
+    webUrl: "https://yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech"
+    ampWebUrl: "https://yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech/amp"
     type: article
     provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 53
+      name: Your Story
+      domain: yourstory.com
+    quality: 47
     images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/01/Startup-Secret-Santa_2.png"
-        width: 1350
-        height: 650
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/shutterstock193700255-1590566337331.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
   - title: "What COVID Means for Biotech Compute Investments in 2021"
     excerpt: "Don’t expect big on-prem HPC hardware investments from biotech companies given COVID drivers. While storage and more nuanced GPU deployments will push"

@@ -3,8 +3,8 @@ category: news
 title: "Silicon Valley Robotics Awards SICK Champion Award and Innovation Award as Part of Good Robot Industry Awards Program"
 excerpt: "The Silicon Valley Robotics (SVR) group awarded SICK two honors as a part of the SVR’s inaugural. This program celebrates robotics, automation and artificial intelligence (AI) that helps to solve global challenges."
 publishedDateTime: 2021-01-05T21:06:00Z
-originalUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-awards-sick-champion-award"
-webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-awards-sick-champion-award"
+originalUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-awards-sick-champion-award?listname=Automation & Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-awards-sick-champion-award?listname=Automation & Control News & Articles"
 type: article
 quality: 31
 heat: 31
@@ -24,6 +24,6 @@ images:
     height: 313
     isCached: true
 
-secured: "2V0y9EnWrh5zdQkM0sfjc1uWNHulo7FY3R56Xt+F94Imno8HYBchyx+absgAFkfAyfJ6Mg0nQVUWsuCrpuElmFLLS+R/zs91wfaLqD0/qMzvirqseqlafjRrjGoht4d6psJhTRkI/lyLVD4wUuyP3gtHo9FPdkJC/E1BTaRIG9ESTYpGH30gMgdGDAMzaUveQg9fdh7wPkvOalaHDSCEP/fep7kdhCk2VqItMjdBQlDEPzpoet/gSfoFmW0+PiyrZxFkIYR6SNQS0NkMRgF34qui4qyofVhBgcSOAzOL6qxZEuVHTXZiyDngQ63GEXkf5TbgFZVtW/yUOW4w4kyHNpwJWISxBTLJ2Qx2yjTB4LE=;PW4yGDONVkSpGbaDPhSE7g=="
+secured: "wi4x45Gws8OIJ6Fxl4+rnPVf55sMh0oVjaPAr0yBSi3xBxyzNa4Ys972eqwiHDlRGdZzzVkgGHvS2AaIgajhBWl/ULWkyGWYqU6cGkTikrxBpz22hRCxSkt7KXtOuw1wPpXUSg6lNqKCA+hy1TJ3NCf2y/1dBmddDGhWuGMM0TSAtu6AJkjgyhI8HsSzkJIazsD1ModtqbQuEPf7ccel/KGXhrb+t8lh9BJr+cG+6/YwPuScrfcrt9OidHhUzh/4jN4smbjugJ7Em1Ty2AR+aGhqI80QFao2EpoDDK3YHOdcEakUfH9gxYNbGRQTZZ5jHWU/8uW4amOSMxAdW9YnymmaiLSPMfjhQ+zAbmxkPG4=;jNvLhj01jCjlA3i0SEbTYA=="
 ---
 

@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to Opt Out of Facial Recognition at the Airport"
+    excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport"
+    ampWebUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    type: article
+    provider:
+      name: Condé Nast Traveler
+      domain: cntraveler.com
+    quality: 74
+    images:
+      - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
+        width: 5568
+        height: 3712
+        isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
     publishedDateTime: 2021-01-05T05:43:00Z

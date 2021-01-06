@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/bctc-completes-first-round-
 webUrl: "https://www.biometricupdate.com/202101/bctc-completes-first-round-of-android-face-biometrics-testing-for-thundersoft-algorithms"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Biometrics is transforming the face of flying: Facial recognition compliance tips for airports and airlines"
+    excerpt: "Companies operating in the commercial aviation sector should implement robust, adaptable biometric privacy programs to ensure compliance with the law."
+    publishedDateTime: 2021-01-05T23:01:00Z
+    webUrl: "https://www.biometricupdate.com/202101/biometrics-is-transforming-the-face-of-flying-facial-recognition-compliance-tips-for-airports-and-airlines"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "DHS Tests Ability of Biometric Acquisition Systems in Identifying People With Face Masks"
+    excerpt: "Preliminary test results of the third Biometric Technology Rally held by the Department of Homeland Security’s (DHS) science and technology (S&T) directorate in the fall of 2020 showed that biometric acquisition tools and matching algorithms were up to 96 percent accurate in identifying individuals with protective face masks."
+    publishedDateTime: 2021-01-05T21:44:00Z
+    webUrl: "https://www.executivegov.com/2021/01/dhs-tests-ability-of-biometric-acquisition-systems-in-identifying-people-with-face-masks/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 15
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "rSyHmA6nfueJF72jzMptc9PG6tGrg2B0UO1Y/ddXxrljxgoI6URXfHJY+gq5diewlqEM2cQWt9olJTF+Nt67a2GojlPlC4Eii9im+q5ox2/CLJYdXHpvxUVjxkS5yWVmiI0PyPeR04tftHuEQxDCpl5MyCK8AUO5ny5aRzeuDBCKRK+LaciTPtWOzudzb/wsMsB1S6RdnpzHqugd31N1CwuUJvxHGrwhvJlEf2EjLL/54IA6QMDpXF/hIpLF9kappVW18qo/HgRAUnODE/Hyvk3s7ojcLbMnfgl79gZpod2h8WyGZsB8IVuUnomsImK6ZAxKmFXwnnJSh7XB1pUDq0s3XNYyekpqSUK2sJwNLrU=;Zr7p+KoKCFQPA/ykfhleLw=="
 ---

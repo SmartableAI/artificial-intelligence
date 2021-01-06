@@ -53,15 +53,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "Global Operational Intelligence Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
-    publishedDateTime: 2021-01-01T08:36:00Z
-    webUrl: "https://www.financialbuzz.com/global-operational-intelligence-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "4mc53sv1cWjnzB34wb0yVe39xpkJHHMFBofCIrsqEZ3kRZcCMkBOA99jB3iZmJpV3Wpz94y+87Y6xQhmK6H2M+NCdOtLoW8VlaoZueJH3m9J6vLico+uckGxJsvYaprY50zHgV9u/PegDIVlh073rMBYbnnaNTEvF7EmtDeFzOEvHzPWO4sfVujCE8XsDshQRpgQOMM+aQ7/fbze47J8nqWIgEeAaJTR8cNsOENqhlkMQNGktSHCyoocfJfo6sz8IYvuEKk+d6by5YkEy+cEpG7QZrBf4EXaPXsYRL+QEcp8KTn5UUG/rmBC/eJOeoIqHg2p5W1MK/0Wf2VTfLlhNSSCcpXlXqippSUJuQent5c=;oJEBz4of/ipvCHmChUEixQ=="
 ---

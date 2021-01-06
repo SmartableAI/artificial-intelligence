@@ -43,31 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "What COVID Means for Biotech Compute Investments in 2021"
-    excerpt: "Don’t expect big on-prem HPC hardware investments from biotech companies given COVID drivers. While storage and more nuanced GPU deployments will push"
-    publishedDateTime: 2021-01-04T14:19:00Z
-    webUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/"
-    ampWebUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_333911597.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "How artificial intelligence and augmented reality are changing medical proctoring during COVID-19"
-    excerpt: "Medical proctoring has gone remote during the COVID-19 pandemic. ExplORer Surgical has added augmented reality technology that acts as a virtual laser pointer for medical device specialists to provide on-screen guidance for surgeons."
-    publishedDateTime: 2021-01-04T15:23:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/how-artificial-intelligence-and-augmented-reality-are-changing-medical-proctoring-during-covid"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 6
 
 secured: "1GAe8GlLB5mZCkI14xvHtCx3/5RlEHiIMVYNn9B9LVNCtY7kZEPKWNOlERNqoITt9iVrRrwr3Ur7Hfyznx1m9e+kk3OMDvoFZ9I0W0A/p58u1bRSMegeI1QI+nrJ/4l4py3G4P+o796ft3BMgdfqs1wk/0rsMggEyzDe82j8tuAH+CCM4hYfmYybpH7v0r4qAhxAzH3iK0SRTdKh7UX+nTqFeMLQiY2BDnQxePGpguLxmSoQRd2mibftCpoYLcQzcJLLkDZHK7NbK2iLvSzRbV6PCuVQZzwetbBqSlDcaTyTEn9wm4pYwnX1uuWSFanerrJxz6WBPXwK46yyoZqJj/ydGapV1HkqWiIQ/HppJRR0o7HZHx0qHbPFbxyf53q9sXJnyE1EUvac83DKI1WeQdVwnuYsO1E8ZK7I+va9H9Z78kBigdEQBLdAHyDQ0tbsKPYr7RvVC0L4soXc44moHntt9q4J5NWJkKnFr7w3T8y1Id4hsOx6YmA+lPulEvmff8lRBvUXHp/ylxVnCCSplQ==;MQMPq6OlGBXWThwfnmbo+A=="
 ---

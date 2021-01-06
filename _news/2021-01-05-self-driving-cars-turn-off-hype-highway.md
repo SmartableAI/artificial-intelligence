@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "From UPS to Dominos, this self-driving vehicle is the eco-friendly delivery solution of the future"
-    excerpt: "Here’s where we introduce the Beep, a self-driving vehicle that was designed for these short travels. On Yanko, we’ve featured other green transport vehicles that operate under similar principles: electric-powered bikes or scooters that mail carriers can use for the “last leg” of the package’s journey."
-    publishedDateTime: 2021-01-04T11:09:00Z
-    webUrl: "https://www.yankodesign.com/2021/01/04/from-ups-to-dominos-this-self-driving-vehicle-is-the-eco-friendly-delivery-solution-of-the-future/"
+  - title: "Self-driving spin-off fuels up on cash"
+    excerpt: "A start-up spun out of the University of Oxford has raised $47 million to accelerate the development of its driverless car technology.Oxbotica, which makes software that runs self-driving vehicles, is"
+    publishedDateTime: 2021-01-06T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/self-driving-spin-off-fuels-up-on-cash-q6clps7t9"
     type: article
     provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 10
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
     images:
-      - url: "https://www.yankodesign.com/images/design_news/2020/12/Copper_Corner_press_buttons_without_direct_contact-510x314.jpg"
-        width: 510
-        height: 314
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F065f7c74-4f8b-11eb-ad71-ea6bb4a570af.jpg?crop=6594%2C3709%2C76%2C559&resize=685"
+        width: 685
+        height: 385
         isCached: true
 
 secured: "9LLnNCnWyIvnqGZH6EEfNGEl1gWLCyz0gwwiIUK7HoQcHDREJCUU3TBQ1nfSZVb38u3HxnRsFslM44wl1i/oNtm/ixqXgtpg+tngD5/00oP7UhDYtS9PzxcsFzJFmz/qi92Ef6mVyutGvu2TqrRyLcdCVIg2+qex0Yva+9xjhDDn3XQJQH8FjpUHHs/W0Q/p7oXeCqwOdaOUXomq04neV7imkMG0yzW9FB8HY34QEU8XUPpcFXs5QZKNYoHAWPqUpf+qNKbvxUsKjtC2NHUKuCd9xfZCeIQv209vqZxqtrOH6G0aYjnEWKVGbMGXTYlua4WTtTylqevfcglfuv0Medbh1ShG/h03FPdWLL11RrHlNDETrf1XN9qTjTAgzPSKPUE2hv/eyZAtudqwcm4lL9wvOtnOgYlo+k18dtH2Hnxb5FknXXk7OAZHicZ7eqG8HSPTBtL1L1V+1FrfmiQuyeYG8Nyl+M6/JJiHV6EWZVIEetl8LnbX68Y3e74B5qkqT0UkOgxLOtY4BCFV/6e/cw==;P0Ih2tGRQ1H/dF7/6Wr0gw=="
