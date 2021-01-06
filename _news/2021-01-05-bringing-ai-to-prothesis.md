@@ -52,22 +52,6 @@ related:
         width: 2000
         height: 1124
         isCached: true
-  - title: "When using AI is an amazing idea"
-    excerpt: "At first, artificial intelligence might sound like a scary and unpredictable breach of the tech industry. However, we often forget that AI already accompanies us while completing simple daily tasks – for instance,"
-    publishedDateTime: 2021-01-01T14:03:00Z
-    webUrl: "https://techengage.com/when-to-use-artificial-intelligence/"
-    ampWebUrl: "https://techengage.com/when-to-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techengage-com.cdn.ampproject.org/c/s/techengage.com/when-to-use-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: TechEngage
-      domain: techengage.com
-    quality: 59
-    images:
-      - url: "https://techengage.com/wp-content/uploads/2019/01/ai-illustration-purple.jpg"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "yoCCdFTpFHtz2M85rHHjFLINJZSRmAmxgkBnXf9K/bbuqTpFNAaneCifhLE51Zyd4lreL3QBtwbn30vzz0YwdUFAbOp9RR+SVoCgQ+f4Oz2bC67J3G43tI17T/mmJZj3uC3x1aKguxRA8toG0Jp35Oq+MECqlSnRzdMqict6CK9QISFAKdXzAlgjsFApURN7oaxfvp7/7onPom0P/g0zz+Th/xsIRWhJCdDQWY7yzs5Jvd3K4fyYK85vRyS+fYej8fF8axpKreQiphNJCVZuKceGttRnTLkfCpboMdZ2X/+5S88JB+VJwGtowNg6Gytk2CWYSdYHGRPUiMsHnez+uB5uB7m08BPAFgA2rTiTCd2JLJMkN8lQSERdFdQPEPTziieX3Lo95uDWtGHh2AXcJGyIxHaOVN/foZmN4TmYxf/feLrA/H5vq2U8dIBA8vtpcrO1yWuZdjWyEl6aG04F3AmgGEW29wyDSHy5xhsRpJ3hYnclbnb+F3vuX2ugPs8mTANWjlDwsu7luUi8Y8gqZA==;f7gCa2v86cD3pTmgwQVCKQ=="
 ---

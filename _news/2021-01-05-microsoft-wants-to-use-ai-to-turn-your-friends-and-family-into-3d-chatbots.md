@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
 type: article
-quality: 102
-heat: 152
+quality: 104
+heat: 154
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"

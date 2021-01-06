@@ -51,15 +51,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
-  - title: "Infor’s top cloud and AI technology predictions for 2021"
-    excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
-    publishedDateTime: 2021-01-01T13:05:00Z
-    webUrl: "https://www.ameinfo.com/industry/digital-and-media/infors-top-cloud-and-ai-technology-predictions-for-2021"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 17
 
 secured: "OdbhmKmpzvcOPXHVobImBpFzRlvxfVtPw6XDw64FRZ/0USzy+PDBQHfLxZ5NwT1IlcJcpKmC69WNetAtEjY7HN2WL96/pWg4pd3uB0QIosn7x9PNw/Pmo+gOOChxwrEo6KVhcJDzdnBT1BgdOEwGDNOwtonrD4vhnrzWVTExO/P1Yw0tCeYx22tskPwVDHl5LP+WSt4Dh/0pvytxxmVXFvjZBv5UBJ9lFHQBZfLxMwNmBZ504EjqeFVkRJzZGNyK3hWAb8S3mn4tIeE9sCvMB4yOzybKR1Q0L72DvaWiFoopScarrAF9DP3hBuNs7Q3y47JOckGCDpJuIh5wYfdkPlKnB4wttWmu6DQjG6b1MfQ=;dfm7SdxJypan+y/iasdsmw=="
 ---

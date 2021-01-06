@@ -28,17 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Software Startup Oxbotica Raises $47mln in Latest Funding Round"
+  - title: "Self-driving software startup Oxbotica raises $47mln in latest funding round"
     excerpt: "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent."
-    publishedDateTime: 2021-01-06T00:35:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
+    publishedDateTime: 2021-01-06T05:14:00Z
+    webUrl: "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 66
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546726058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0500I"
+        width: 772
+        height: 545
+        isCached: true
   - title: "AI Clearing Raises $2M in Seed Funding"
     excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
     publishedDateTime: 2021-01-04T17:32:00Z

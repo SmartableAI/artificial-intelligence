@@ -30,7 +30,7 @@ related:
   - title: "2021: The Year of Robotics and Artificial Intelligence"
     excerpt: "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,"
     publishedDateTime: 2021-01-04T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html"
+    webUrl: "https://www.technewsworld.com/story/86968.html"
     type: article
     provider:
       name: TechNewsWorld

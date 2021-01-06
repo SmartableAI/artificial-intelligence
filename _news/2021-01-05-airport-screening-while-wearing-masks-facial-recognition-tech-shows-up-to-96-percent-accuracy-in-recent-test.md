@@ -41,6 +41,20 @@ related:
         width: 8194
         height: 5463
         isCached: true
+  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
+    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 36
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Facial recognition up to 96 percent accurate with masks in 2020 Biometric Technology Rally tests"
     excerpt: "A facial recognition system similar to the one used by the DHS had a 96 percent biometric accuracy rate with masked faces in testing."
     publishedDateTime: 2021-01-05T21:50:00Z

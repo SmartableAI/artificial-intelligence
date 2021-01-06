@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-i-wh
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/"
 type: article
 quality: 90
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1920
         height: 768
         isCached: true
-  - title: "Infor’s top cloud and AI technology predictions for 2021"
-    excerpt: "Soma Somasundaram, Chief Technology Officer & President of Products at Infor, and Rod Johnson, Global President and Chief Revenue Officer at Infor, offer their predictions on the cloud, AI, and supply chain developments in 2021."
-    publishedDateTime: 2021-01-01T13:05:00Z
-    webUrl: "https://www.ameinfo.com/industry/digital-and-media/infors-top-cloud-and-ai-technology-predictions-for-2021"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 17
 
 secured: "Xd7fynZFYwrccM7TJiFPxl+dlEKNY2tZt0jTWM3DR/nyQ/vNjEuDy7UDiFnsivke1svsMlSvczn0pOuK5UCzEX/nHb6DGOqADar07ve5W6xy5yJ91UOyMODorprQEDCT0A+xaZ2MmApZ1nJ7a+ALFPa8xDa/N6mRE6E1UpNSk2L/+UwexTvfOz2YDmGJbO7gwTzAvHZR4943e5fQbXd+Drpr1FPDbo5Qv2IKzJgd39bRsreVUD9hXTtuPNR2buUUUEee6PdhwYuO1t0PKtnlP5OlM3wVeNhZ4uXE5dQG4OVH81lqYy3kb6f1ilYvUUYkHmuLifj1tPB27ev7mL5fpaTYn7MkGRFy5ZcysFDGZEVHgbn7Byerg/7182nDZF3p3yhU2BUPuTk6R644HSOWu+DVnJIhK3YZ+yDWYhjzoveChPfEKt6yflQcYBXOj1GMJQbopD76n2C/Kzvynl/665TnW95dPPse5kJkM+kPTaEZWbD0StNlZrYwFIpkWBt1D8EVF7tcIyi9CeWB2ceJeA==;Xo6YsbSZOoCHOM7K/yQ/OQ=="
 ---

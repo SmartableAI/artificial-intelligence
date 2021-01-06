@@ -3,8 +3,8 @@ category: news
 title: "2021: The Year of Robotics and Artificial Intelligence"
 excerpt: "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,"
 publishedDateTime: 2021-01-04T12:00:00Z
-originalUrl: "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html"
-webUrl: "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html"
+originalUrl: "https://www.technewsworld.com/story/86968.html"
+webUrl: "https://www.technewsworld.com/story/86968.html"
 type: article
 quality: 69
 heat: 109
@@ -82,6 +82,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "I/vGfi3+kzVjQDboK1U/IJ7KIEd9taiEB8lOZJd+BDGmrBosCz2t9KvWc6PkE+WRWHnDLeeX7jtyD9RD+wmXq9CxnSnD8SRGydE5hW5CeOEdJfnn7w/kXxvDZQpSZhPcBggOdda6NfR60pzgG2hkCfk3ay4Ccqife8WcgHsxJqk6+q9hK9mR0ObXNQTzpSMdbCxbP5c7o+3sVgEo4ujIjm6g0qtaBsjHSwqgozBkoIyN1sJFra8zFpfCjbbDzBT9VSWhaGnAp6fM1Yozmhsrg60XZIymFDKFV5rld5kSoaG16HhGYK4qZbCtNHz3t7/Nz7jL3IlPBDNafexVORJn0NqS20ZgT+gDg5O+AQobaS4=;bloFym6VlbAkYQJ+NHB7WQ=="
+secured: "WbbiNG5gIeYL5jv4Iwz0nZpenLrj39WRWWyZ+NTXPgzeiqz/zIRyLankl3a36vqR8+Pn1Tc832l6mSODBnWnuBQZ9XI1+XOqSEF9jZhgKtNNy+fIjNL4hINxTDt23Aeu6zA5FDPSJDUdW7l+ZeSpc9ctJSfr6y1eUFP1C50Rhd9trDILynVpzSLuFQZya+UhU0eWhgDuVe31AL+2ZnIRIzmNo+gUmVNTB8kup5PeBAP8kbA9aFMnvA3ApFkiXR/MJaX2wH1GjJ5pkE5yETeow43KCFBmiFtNM3pQZMQTgWbPf25VODuYHrtAMmfirj35JWxKka+aNCenbtXwrFhLaiM2WgkU63f32ASURBc7Noc=;tBUtdttTZE7evigIPO4BIQ=="
 ---
 

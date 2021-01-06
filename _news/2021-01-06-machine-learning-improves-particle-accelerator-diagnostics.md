@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Machine learning improves particle accelerator diagnostics"
-excerpt: "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly."
-publishedDateTime: 2021-01-05T16:09:00Z
-originalUrl: "https://phys.org/news/2021-01-machine-particle-diagnostics.html"
-webUrl: "https://phys.org/news/2021-01-machine-particle-diagnostics.html"
-ampWebUrl: "https://phys.org/news/2021-01-machine-particle-diagnostics.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp"
+excerpt: "Operators of Jefferson Lab's primary particle accelerator are getting a new tool to help them quickly address issues that can prevent it from running smoothly. The machine learning system has passed its first two-week test,"
+publishedDateTime: 2021-01-05T17:22:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/01/210105104835.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/01/210105104835.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg"
-    width: 799
-    height: 533
-    isCached: true
-
-secured: "ZBYxhMiVwlJDa0FZ7AMW1F9U77O++3xEOY4ZuwZdtEgmjwc8viO9/Ii7zDMPiWhV47Lvw+Og6iJHB1FEnbugfNo5WMQD6WtfQARWVRiiQXinQR4nppCNZnpVQRgjLQGL8WDvqR7T6y0Nosi4rKnZ83Pgrf8Hv30wR2imESBMizlCyRbRXVCiisoYYFkXj5SUeotDTFxUTSlweNNozDeUhu8ghm8B3ZfwyuvWv/1+sHWO3Uy52xLZ/ycAIVmpvM1rBtNvHL4OypA+xHfWyI2dOc4oMc4RHzFRlWtM5sa/qRGZRi1w2OhdcHluIFaLexeabVaFUOZmdBr2L4fjAvzxHrU+H5X4to7f3Jah6aPrXDFZI5EYtMWo0tkTo47QjRZl5wiDKpuDXi7l53ByiWIAwzeTKwnxnK4L34eHfyPQX6uyQzRkavWbTwPO5zBk3+5rpTcaqWcfiN3rh8C2HmfSmZUb2XVWkUz7jGzrovGmfnmhqFpLL9z+U73JAPhiYCs58GxE+WDXBFMzywOZUr7KzQ==;9IzJQz5rsGHjTYbtkoDHMQ=="
+secured: "5fzYyIqnKbXbqfstt22J06rgh7PD6USLvc4xAZZqjmk+OXvCUvkQrCBmL9t31A8VnZAbwCdwbWhSncfcmnTbgvx5rmbPoA9mcj6dEnRvUTn2aL9TR2/VWRJCgJIBG2RdYM2OGPuBtbOUUDZkQwlWcr355LZnBT6t3+uxQhOgDwlJcgPdIo4fOKlBskcGddRMipTpH4uuOBABgsRCagJ55iqbVT7jr58DTxBs/SozZzO544ARFLyQaN44V+DmZc/YQlMIDCxK4THR3bRjQVVHTluik+0hgSIzuW0Svw5X24bFLWv2nkn6FL5up8O1yRUc71pBOsN+Wl1nd/TVW1HMAtCLKXxyldQ41gW6VZDbJjs=;6xEhifkciyaqyX5Z/l0BXw=="
 ---
 

@@ -106,7 +106,7 @@
       "originalUrl": "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -344,11 +344,11 @@
       "title": "How some companies are solving the issues with language and AI",
       "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "webUrl": "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -362,8 +362,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
       "publishedDateTime": "2021-01-04T12:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -387,6 +387,7 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -876,7 +877,7 @@
       "originalUrl": "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -977,8 +978,8 @@
       "title": "2021: The Year of Robotics and Artificial Intelligence",
       "excerpt": "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,",
       "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
-      "originalUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
+      "webUrl": "https://www.technewsworld.com/story/86968.html",
+      "originalUrl": "https://www.technewsworld.com/story/86968.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 109,

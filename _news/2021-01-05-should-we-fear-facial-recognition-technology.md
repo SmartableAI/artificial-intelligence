@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
+    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 36
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Airport Screening While Wearing Masks? Facial Recognition Tech Shows Up to 96 Percent Accuracy in Recent Test"
     excerpt: "A controlled scenario test by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) shows promising results for facial recognition technologies to accurately identify individuals wearing protective face masks."
     publishedDateTime: 2021-01-04T19:30:00Z

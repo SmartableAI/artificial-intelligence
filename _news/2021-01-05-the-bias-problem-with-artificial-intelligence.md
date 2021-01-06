@@ -42,22 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "When using AI is an amazing idea"
-    excerpt: "At first, artificial intelligence might sound like a scary and unpredictable breach of the tech industry. However, we often forget that AI already accompanies us while completing simple daily tasks – for instance,"
-    publishedDateTime: 2021-01-01T14:03:00Z
-    webUrl: "https://techengage.com/when-to-use-artificial-intelligence/"
-    ampWebUrl: "https://techengage.com/when-to-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techengage-com.cdn.ampproject.org/c/s/techengage.com/when-to-use-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: TechEngage
-      domain: techengage.com
-    quality: 59
-    images:
-      - url: "https://techengage.com/wp-content/uploads/2019/01/ai-illustration-purple.jpg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Bringing AI to Prothesis"
     excerpt: "\"My idea was, how can we make these devices learn over time from us, the same way we learn from our mistakes? How can prosthesis learn from the mistakes it makes as well?\" Meet the amputee engineer using AI to search for a better prosthesis."
     publishedDateTime: 2021-01-05T14:51:00Z
