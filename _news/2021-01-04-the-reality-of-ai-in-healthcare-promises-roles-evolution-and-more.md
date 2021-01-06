@@ -106,6 +106,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "“This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,” says Chief Partner Strategy Officer at Blue Prism, Linda Dotts."
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 29
 
 secured: "lTBhN+ID7YqmSzKCSlXAU3afytdRFm7OZenI82oYLNmAT/qZLFI3vuLFQyex28oOq6bDSFutlvh055oTypOphzbvSNiVI8W/7tR4WEgKhrxLx7RhKb6BwA9KkflYOsTEUHuOBPObp4hdhf2okWHYRK9wdS9uSyScbtAqpea//2tf2QZaqK6ze7TxIfLWvMq0eVmvs7YQ5cJmiDyZU6100RZbMniDbi4qowUs8CZjUbJMjQ9sJySlEpCAFAYj0M40WcDFcX9f+AK82mshhU6Avc1Jrj9Mdgph8vfu/ZrJgo1OuB3V3VVHlZEbiaXSO7txceUTdU/ROS4Kn6LGXPWHXvb0rzjSX9YG0R/bOtio2E9YnD4UlWhwfuOXVKokjcwfYQZbL3S+5SZZTolxdL2//ZxZR1uFDbIZ2j1TCDSFS4F+Z4IFlCYSgvwK0sc5LTpjZkvO3wN00ViaGTLph4znEIvtYRD4ChPNB8b0OktdrIAz2KrRjhnT3Cp1Fzpebm+ryInWhaDcHIpMNHfDAXJe6g==;NUNR8x1+TUUM9tagRU3tBw=="
 ---

@@ -2,6 +2,249 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-05-uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses.md",
+      "title": "Uber researchers propose AI language model that emphasizes positive and polite responses",
+      "excerpt": "In a paper, Uber and Carnegie Mellon researchers propose a language model that can vary the positivity and politeness of its responses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/",
+      "originalUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/chatbot_iq80hc.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/",
+      "publishedDateTime": "2021-01-04T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-how-some-companies-are-solving-the-issues-with-language-and-ai.md",
+      "title": "How some companies are solving the issues with language and AI",
+      "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/04/ee84d7c1-5b90-4316-b794-a0c7bf0a33ee/resize/1200x/9ac461c9047dc9ffb635e89c3641aafb/istock-889309652.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "publishedDateTime": "2021-01-04T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report.md",
+      "title": "2 Tesla Analysts Break Down Fundamentals, Valuation, China Prospects After Q4 Delivery Report",
+      "excerpt": "Tesla Inc (NASDAQ: TSLA) nearly met what many thought was an insurmountable 2020 deliveries target in the wake of the COVID-19 pandemic — and beat Street projections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report-1029931521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106806378-1607090735605-gettyimages-1229775377-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090789",
+          "width": 4000,
+          "height": 2833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "publishedDateTime": "2021-01-04T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-ai-robotics-etfs-to-keep-shining-on-expanding-applications.md",
+      "title": "AI & Robotics ETFs to Keep Shining on Expanding Applications",
+      "excerpt": "This era is largely dominated by AI applications and technological advancements. Amid the coronavirus crisis, demand for online services has increased which in turn has led to the dominance of AI. Going on,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-robotics-etfs-to-keep-shining-on-expanding-applications-2021-01-04",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-robotics-etfs-to-keep-shining-on-expanding-applications-2021-01-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-robotics-etfs-to-keep-shining-on-expanding-applications-2021-01-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-robotics-etfs-to-keep-shining-on-expanding-applications-2021-01-04?amp",
+      "publishedDateTime": "2021-01-04T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-ai-weekly-the-argument-in-favor-of-regulation-in-2021.md",
+      "title": "AI Weekly: The argument in favor of regulation in 2021",
+      "excerpt": "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data, for enterprise technology decision-makers, presented by the #1 publisher in AI and Data With 2020 in the rearview mirror and New Year’s resolutions on the mind,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/",
+      "publishedDateTime": "2021-01-04T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries.md",
       "title": "Hyderabad: Startup develops AI tool to repair EV batteries",
       "excerpt": "Hyderabad: Going a step forward, the IIT Hyderabad-incubated start-up PURE EV has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-Ion batteries of electric vehicles.",
@@ -93,58 +336,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket.md",
-      "title": "Waymo CEO: Launching a self-driving car is harder than launching a rocket",
-      "excerpt": "In an interview with the Financial Times, Waymo's CEO has opened up about the realities of self-driving vehicle development. It's the new rocket science.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/",
-      "originalUrl": "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/autonomous-driving-teacher-waymo-tesla-feature-level-self-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/amp/",
-      "publishedDateTime": "2021-01-04T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -798,58 +989,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-04-watch-teslas-full-self-driving-travel-from-sf-to-la-with-almost-no-help.md",
-      "title": "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help",
-      "excerpt": "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html",
-      "originalUrl": "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-04-payments-by-selfie-new-tech-lets-stores-be-paid-by-facial-recognition.md",
       "title": "Payments by Selfie: New tech lets stores be paid by facial recognition",
       "excerpt": "When we founded the company two and a half years ago, we were originally focused on offering a solution to give stores tools to personalize their customers’ shopping experience,” said CEO and co-founder Eyal Fisher.",
@@ -901,7 +1040,7 @@
       "originalUrl": "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1090,164 +1229,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-the-best-facial-recognition-security-cameras-of-the-year.md",
-      "title": "The best facial recognition security cameras of the year",
-      "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
-      "publishedDateTime": "2021-01-03T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
-      "title": "Best graphics card for gamers and creatives in 2021",
-      "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "originalUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/kdpWv0xHoft2ndmTh94sIukoqFU=/1200x630/2020/11/17/66d183c5-8162-47b7-aa5c-dc12582475da/amd-rx-6800-09671.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "publishedDateTime": "2021-01-02T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups.md",
-      "title": "Revolutionary NLP Model GPT-3 Poised To Redefine AI And Next Generation Of Startups",
-      "excerpt": "Countless are the use cases that revolutionary AI model GPT-3, which uses deep learning to produce human-like text, can power. But, while it has potential for generative value, it is set to reshape both the dynamics of the AI world and the SaaS startup space because of its very own business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0cabb6e6d1f574f50817b%2F0x0.jpg%3FcropX1%3D490%26cropX2%3D3911%26cropY1%3D85%26cropY2%3D2257",
-          "width": 1200,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "publishedDateTime": "2021-01-02T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

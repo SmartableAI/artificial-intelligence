@@ -2,92 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
-      "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
-      "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
-      "title": "China search giant Baidu considers making own electric vehicles: Sources",
-      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2018/07/baidu-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
-      "publishedDateTime": "2020-12-15T19:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
       "title": "Exclusive-China search giant Baidu considers making own electric vehicles -sources",
       "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
@@ -1446,6 +1360,110 @@
         "name": "iClarified",
         "domain": "iclarified.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apples-self-driving-car-program-has-a-new-boss-report-says.md",
+      "title": "Apple's self-driving car program has a new boss, report says",
+      "excerpt": "Things have been pretty quiet over at Apple's self-driving car program, aka Project Titan, for a while now. With Apple being notoriously tight-lipped about future products, we don't know a ton about the program,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-program-project-titan/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-program-project-titan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/jTK-2EmPEjDOB4Lcohr9njk2uv8=/2020/12/09/66182f0d-9595-40ae-99f8-7d8bb81fae28/gettyimages-849591046.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-self-driving-car-program-project-titan/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-program-project-titan/",
+      "publishedDateTime": "2020-12-08T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project.md",
+      "title": "Apple leak claims AI boss now leading Titan self-driving car project",
+      "excerpt": "Apple’s Project Titan, the codename for the autonomous driving division we’ve been hearing about for years, recently underwent a big change in leadership, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/",
+      "originalUrl": "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/apple_logo_main_uns.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/amp/",
+      "publishedDateTime": "2020-12-08T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

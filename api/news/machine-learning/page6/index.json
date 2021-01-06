@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-24-aws-launches-ml-dev-service-in-sydney-region.md",
+      "title": "AWS launches ML dev service in Sydney region",
+      "excerpt": "Amazon Web Services (AWS) has launched Amazon SageMaker Studio, an integrated development environment for machine learning (ML), in its Sydney region. The service allows users to build, train and deploy ML models through a web-based visual interface for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
+      "originalUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T16:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-machine-learning-101-part-1.md",
       "title": "Machine Learning 101: Part 1",
       "excerpt": "The purpose of this series of articles is to provide a complete guide (from data to predictions) to machine learning, for .NET developers in a .NET ecosystem, and that is possible now using Microsoft ML.NET and Jupyter Notebooks. Even more, you don’t ...",

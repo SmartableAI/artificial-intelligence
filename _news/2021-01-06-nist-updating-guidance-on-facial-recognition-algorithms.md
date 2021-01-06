@@ -91,6 +91,22 @@ related:
         width: 5568
         height: 3712
         isCached: true
+  - title: "Another arrest, and jail time, because of a bad facial recognition match"
+    excerpt: "Facial recognition technology is known to have flaws. In 2019, a national study of over 100 facial recognition algorithms found that they did not work as well on Black and Asian faces. Two other Black men — Robert Williams and Michael Oliver,"
+    publishedDateTime: 2021-01-03T14:23:00Z
+    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 73
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
     publishedDateTime: 2021-01-05T05:43:00Z
@@ -121,17 +137,6 @@ related:
         width: 960
         height: 506
         isCached: true
-  - title: "Another arrest, and jail time, because of a bad facial recognition match"
-    excerpt: "A 33-year-old New Jersey man is the third person known to be falsely arrested based on a bad facial recognition match. In all three cases, the people mistakenly identified by the technology have been Black men."
-    publishedDateTime: 2021-01-03T15:31:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 53
   - title: "Homeland Security test sees 96% facial recognition success for those wearing face masks"
     excerpt: "News; Homeland Security test sees 96% facial recognition success for those wearing face masks. 06/01/2021 ; Results from a controlled test from the US' Department of Homeland Secu"
     publishedDateTime: 2021-01-06T10:31:00Z

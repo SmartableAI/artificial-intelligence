@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
 type: article
 quality: 94
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -26,6 +26,20 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Intel-Apple-AMD-Tesla Chip Architect Jim Keller Joins AI Startup Tenstorrent"
+    excerpt: "Jim Keller, one of the leading names in HPC, AI and data center chip architecture, has landed at a Toronto hardware startup developing AI chips after a two-year stint at Intel that ended “for personal reasons,” according to the company, last June."
+    publishedDateTime: 2021-01-06T19:52:00Z
+    webUrl: "https://insidehpc.com/2021/01/intel-apple-amd-tesla-chip-architect-jim-keller-joins-ai-startup/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 68
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/01/Jim-Keller-Tenstorrent-0121.jpg"
+        width: 599
+        height: 448
+        isCached: true
   - title: "Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
     excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips. Keller has been named president, chief technology officer and a board member of Tenstorrent Inc,"
     publishedDateTime: 2021-01-06T00:48:00Z

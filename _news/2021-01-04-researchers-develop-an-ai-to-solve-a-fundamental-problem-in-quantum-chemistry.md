@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-funda
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s3-prod.crainscleveland.com/styles/800x600/s3/cwru-signage-feat_0.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Researchers featured in Medical Research Journal for Artificial Intelligence Studies"
+    excerpt: "Drs. Shaban-Nejad and Ammar implemented an artificial intelligence platform called Semantic Platform for Adverse Childhood Experiences Surveillance (SPACES), which assists medical practitioners and health care workers with diagnosing ACEs in the early ..."
+    publishedDateTime: 2021-01-05T00:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uoth-rfi010521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/252792_web.jpg"
+        width: 720
+        height: 1080
         isCached: true
   - title: "Artificial Intelligence Solves Schrödinger’s Equation, a Fundamental Problem in Quantum Chemistry"
     excerpt: "Scientists at Freie Universität Berlin develop a deep learning method to solve a fundamental problem in quantum chemistry. A team of scientists at Freie Universität Berlin has developed an artificial"

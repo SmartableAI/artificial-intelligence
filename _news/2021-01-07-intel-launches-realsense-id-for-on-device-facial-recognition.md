@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/06/intel-launches-realsense-id-for-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 750
     isCached: true
+
+related:
+  - title: "Intel launches RealSense ID camera system for on-device facial recognition"
+    excerpt: "Intel on Wednesday expanded its family of RealSense 3D cameras with an on-device system for facial recognition. Intel said its new RealSense ID camera system combines an active depth sensor with a specialized neural network designed to perform facial ..."
+    publishedDateTime: 2021-01-06T19:50:00Z
+    webUrl: "https://www.zdnet.com/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/67b3978a-270f-4e7f-9674-1961746546af/intel-realsense-id-2-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "eGWyWAz0dQFg0s1oL3Wd9cGZMbkZVYD266Wq9qfyYZLhzO6Gow48ytwR7tEgBJp3XM1gxD96gamPN1WQ/GJj9cfUxmXtU1Zr7XRsR6SqnGbypUgAF2orLjhhiYq9t2BTnnYixaMxQP2FZ8zDEO50fKIO/ue2UzYd0RgC9IdhIcE3KfveLdyr/65DCryAWJfVUbclmOkeoYTIEeCmo5Viy63DqOMSkuI7TocjJ0be5PdIHv6t4QVdVR6gOwbbLZbPD2MccIY6a7oRi5eiwcSSl+EJJOrUCdRG9rhRI5SV9Fqvk3AnWAZKRKUfax9nVYL5OXFZLFLEvQI2+wTOj8Nd0WtZfbnbz9cRV/dw2P+kO4o=;wE8lVeBbCyLop/apY71yTg=="
 ---

@@ -22,6 +22,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Cambridge Quantum Computing Appoints Oxford Professor Bob Coecke as Chief Scientist"
+    excerpt: "Coecke who has previously served as senior scientific advisor to CQC with a focus on developing a Quantum Natural Language Processing (QNLP) capability, joins from the University of Oxford after a tenure of over 20 years where he was professor of quantum ..."
+    publishedDateTime: 2021-01-06T19:52:00Z
+    webUrl: "https://insidehpc.com/2021/01/cambridge-quantum-computing-appoints-oxford-professor-bob-coecke-as-chief-scientist/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 0
+
 secured: "zaOfjUHJID74JNPfMg4Jsd4SjbXmQNOysZS+AoKmUCaGvVrNvD+VMTE6M+efEHDmEuqKcuJeEeP5npZgwLsfRUoBGkfwBH7UQyXExSlpca/WXglZS7Ahx/e9VeP63W7nmqgsWGCSd/F5V9XSw+TBCV3Dwmg5zR/07AVEKDvFbxVKnUYvbVNWg0MZKW/gvgZg3trvPbNmPR9t2x4JT80XPF8KzPgQE4vsLuh55VZjdFpaOdSaSLqHrfS0ktQ6n+FdXrb2NtDKhdbHAaDQTLGS4OQ2obEw57tScHgTgxwbXOqz02ZqJhk9pP+3GN0vGWSnKHeTLY97yLCW9V+SiVcbobqPwjVDfMwQ30ixkgISeSs=;giYShLQHXl+wIzLap9goRg=="
 ---
 

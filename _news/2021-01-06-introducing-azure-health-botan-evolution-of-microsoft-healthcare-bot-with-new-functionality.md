@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-e
 webUrl: "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/"
 type: article
 quality: 110
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "“This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,” says Chief Partner Strategy Officer at Blue Prism, Linda Dotts."
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 29
 
 secured: "mfvfU6auxI035c+KxitTQyOAjMUZhi57Q5Z6RGS25Y7uiwU4xQVHPoDXf75YLBn9/aEnUT6QsK1KGFqRuqpWgqqS9g+Jpk8Ervw4H2FaIrvoCMIN9wRvgTf+y3tStVSwiv6wQDTxdCeUtaIbwFntJzuixEramP/j6VEIJJt3cB3TEwtubt8kSJ0iE9JwfaEye2hrf10KmPJ+Ln7R3j1C6/x+D5pUZPDx3dAHAwVhHy6ksaC8XKm9QY37HXrZdyxWtPUFx7oWCqsBCNy3sL/oR2s09Be4HJgfkmRkgdHI/ie8Jer+lm9jqX5IiLHlMcbCOl5SsATXaky3sWM9tn0c2iWndaJuFLWIC0rrQH5xcEk=;W5scs1HUVt6+StU0oaq/wA=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-robots-in-retail-what-investors-need-to-know.md",
+      "title": "Robots in Retail: What Investors Need to Know",
+      "excerpt": "I'll be watching you,'' that iconic yet creepy lyric from The Police song ''Every Breath You Take'' now applies to the world of artificial intelligence ... That's one aspect of the world of robots in retail. Find out what else could (literally) be in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/millionacres/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
+      "originalUrl": "https://www.fool.com/millionacres/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/millionacres/images/retail_store.max-1200x600.jpg",
+          "width": 899,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/millionacres/amp/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/millionacres/amp/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
+      "publishedDateTime": "2021-01-06T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-the-us-armys-robot-tanks-make-great-bait.md",
       "title": "The U.S. Army’s Robot Tanks Make Great Bait",
       "excerpt": "The U.S. Army is developing remote-controlled robotic vehicles that, the service hopes, will be able to fight alongside conventional tanks, fighting vehicles and infantry as soon as the 2030s.",
@@ -1371,50 +1423,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-beyond-the-boombox-the-race-to-artificial-intelligence.md",
-      "title": "Beyond the Boombox: The Race to Artificial Intelligence",
-      "excerpt": "A “boombox” was an oversized, battery-powered, portable music machine; it is an artifact of a very particular time in American culture, re",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/",
-      "originalUrl": "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_06_lrg.jpg",
-          "width": 555,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-25T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyShow.com",
-        "domain": "moneyshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

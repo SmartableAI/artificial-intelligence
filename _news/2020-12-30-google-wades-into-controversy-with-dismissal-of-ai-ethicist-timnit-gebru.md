@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Timnit Gebru’s Exit From Google Exposes a Crisis in AI"
