@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1487
         isCached: true
+  - title: "Artificial Intelligence Falls Short in Detecting Diabetic Eye Disease"
+    excerpt: "Of seven artificial intelligence methods tested, only one performed better than human clinicians in detecting diabetic eye disease."
+    publishedDateTime: 2021-01-06T21:04:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-falls-short-in-detecting-diabetic-eye-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-604333980.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "7p/OqRxNU4V8ZAXoYK3N9Vb/r7lJKrht+uVcA/7p4toG5NhSAS1tTuxmAjfukO02ZwF4oGUMSjRUjJ4LVfm69d5gp33FUJuaE5oCD8x9GvgCHjuP96tbaLFqv8/6mNj+L8pcPG2NvVuBhrNSnKIkka46jqASPaWfW1Qri84+nG3ekfurHDYbyStEBJxFCSuzZhU+KSFMtCgdHbsvfqyrQJ+9rXJhhYbDdBsjuQjPjwW0ELb8wQRBqg4NqByFyQoJPcCClLSbyN1pM5UrlWD4vjQQdsSx+b/zlrefWW9Wndxp/sewrth/D3lhMP0LAP+upaQMV7rJ/vyqt2Vn7CP4b5VxA8xm7WKjDQnIZdfOd2k=;EgrFqjxeZQalsev0KSdmnA=="
 ---

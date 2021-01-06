@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "World Finance reveals the winners of its Global Insurance Awards 2020"
-    excerpt: "World Finance magazine has announced the winners of its Global Insurance Awards 2020, championing the work carried out by China's Ping An Insurance, Atradius from the Netherlands and a number of other industry heavyweights."
-    publishedDateTime: 2021-01-06T10:21:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/world-finance-reveals-the-winners-of-its-global-insurance-awards-2020/"
+  - title: "POET Technologies Enters Artificial Intelligence Market"
+    excerpt: "TORONTO – POET Technologies Inc. (TSX Venture: PTK; OTCQX: POETF), the designer and developer of the POET Optical Interposer and Photonic Integrated Circuits for the data center and tele-communication markets,"
+    publishedDateTime: 2021-01-06T20:22:00Z
+    webUrl: "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/"
+    ampWebUrl: "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/"
+    cdnAmpWebUrl: "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 41
+      name: CanadianInvestor
+      domain: canadianinvestor.com
+    quality: 59
     images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.canadianinvestor.com/wp-content/uploads/2018/11/Cloud-Computing-840x480.jpg"
+        width: 840
+        height: 480
         isCached: true
   - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
     excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as ‘mask-friendly,’ ‘social media’ and ‘natural self-care.’ This press release features multimedia."

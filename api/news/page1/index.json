@@ -2,6 +2,187 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports.md",
+      "title": "Veo raises $25M for AI-based cameras that record and analyze football and other team sports",
+      "excerpt": "Sports have been among some of the most popular and lucrative media plays in the world, luring broadcasters, advertisers and consumers to fork out huge sums to secure the chance to watch (and sponsor) their favorite teams and athletes.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/",
+      "originalUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Veo-99.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/amp/",
+      "publishedDateTime": "2021-01-06T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
+      "title": "Intel is using its RealSense tech for facial recognition",
+      "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
+      "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
+      "publishedDateTime": "2021-01-06T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-poet-technologies-enters-artificial-intelligence-market.md",
+      "title": "POET Technologies Enters Artificial Intelligence Market",
+      "excerpt": "TORONTO – POET Technologies Inc. (TSX Venture: PTK; OTCQX: POETF), the designer and developer of the POET Optical Interposer and Photonic Integrated Circuits for the data center and tele-communication markets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/",
+      "originalUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canadianinvestor.com/wp-content/uploads/2018/11/Cloud-Computing-840x480.jpg",
+          "width": 840,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/",
+      "cdnAmpWebUrl": "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/",
+      "publishedDateTime": "2021-01-06T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CanadianInvestor",
+        "domain": "canadianinvestor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving.md",
+      "title": "A Pair of ETFs to Consider as The Fintech Space Continues Evolving",
+      "excerpt": "It's obviously been a rough 2020, but out of the ashes came opportunities for financial technology or fintech for short. As such, a pair of ETFs can afford investors opportunities in a space that's growing exponentially with the Global X Robotics & Artificial Intelligence Thematic ETF (NasdaqGM: BOTZ).",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06",
+      "originalUrl": "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06?amp",
+      "publishedDateTime": "2021-01-06T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-robots-in-retail-what-investors-need-to-know.md",
       "title": "Robots in Retail: What Investors Need to Know",
       "excerpt": "I'll be watching you,'' that iconic yet creepy lyric from The Police song ''Every Breath You Take'' now applies to the world of artificial intelligence ... That's one aspect of the world of robots in retail. Find out what else could (literally) be in ...",
@@ -104,7 +285,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -145,7 +326,51 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
+      "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
+      "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "originalUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/buzz-chmielewski.jpg?offset-x=0",
+          "width": 976,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "publishedDateTime": "2021-01-06T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -200,7 +425,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -240,58 +465,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-intel-launches-realsense-id-for-on-device-facial-recognition.md",
-      "title": "Intel launches RealSense ID for on-device facial recognition",
-      "excerpt": "Intel's RealSense ID performs facial authentication on-device. The company says it's designed to address needs in a range of industries.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/",
-      "originalUrl": "https://venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/FA-scale-e1609799705593.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/amp/",
-      "publishedDateTime": "2021-01-06T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -795,7 +968,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1003,7 +1176,7 @@
       "originalUrl": "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1036,187 +1209,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round.md",
-      "title": "Self-driving software startup Oxbotica raises $47mln in latest funding round",
-      "excerpt": "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546726058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0500I",
-          "width": 772,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC",
-      "publishedDateTime": "2021-01-05T21:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-is-vietnams-first-ai-robot-the-future-of-education.md",
-      "title": "Is Vietnam’s first AI robot the future of education?",
-      "excerpt": "In digitally quicky Vietnam, an AI robot fitted with five \"senses\" and Google search integration is being equipped to be a teaching assistant.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "originalUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/Vietnam-AI-robot-Tri-Nhan-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "publishedDateTime": "2021-01-05T18:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch.md",
-      "title": "Apple patents point to using your MacBook to wirelessly charge your iPhone and Apple Watch",
-      "excerpt": "According to the patent images, a MacBook’s lid, palm rest, or trackpad could be used to charge a wireless charging-compatible iOS device. The problem the patents claim to solve is the one where you may find yourself without enough outlets,",
-      "sourceUrl": null,
-      "webUrl": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10853717&IDKey=6E72242A6301%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D31%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dmicrosoft.ASNM.%2526OS%3DAN%2Fmicrosoft%2526RS%3DAN%2Fmicrosoft",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch/ar-BB1cuX3w",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T12:25:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "asnm.%2526os%3dan%2fmicrosoft%2526rs%3dan%2fmicrosoft",
-        "domain": "asnm.%2526os%3dan%2fmicrosoft%2526rs%3dan%2fmicrosoft",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-accelerating-mlops-at-bayer-crop-science-with-kubeflow-pipelines-and-amazon-sagemaker.md",
-      "title": "Accelerating MLOps at Bayer Crop Science with Kubeflow Pipelines and Amazon SageMaker",
-      "excerpt": "This is a guest post by the data science team at Bayer Crop Science.&nbsp; Farmers have always collected and evaluated a large amount of data with each growing season: seeds planted, crop protection inputs applied, crops harvested, and much more. The rise of data science and digital technologies provides",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1668-2-666x630.jpg",
-          "width": 666,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T11:35:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

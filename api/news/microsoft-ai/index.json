@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Facebook AI"
       ]
     },
     {

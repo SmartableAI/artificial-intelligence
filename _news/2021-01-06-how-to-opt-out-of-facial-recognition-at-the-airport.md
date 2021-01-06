@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
+    excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
+    publishedDateTime: 2021-01-06T21:30:00Z
+    webUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990"
+    ampWebUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mwvgcouoofelt0sd5tt8.png"
+        width: 800
+        height: 482
+        isCached: true
   - title: "Another arrest, and jail time, because of a bad facial recognition match"
     excerpt: "Facial recognition technology is known to have flaws. In 2019, a national study of over 100 facial recognition algorithms found that they did not work as well on Black and Asian faces. Two other Black men — Robert Williams and Michael Oliver,"
     publishedDateTime: 2021-01-03T14:23:00Z

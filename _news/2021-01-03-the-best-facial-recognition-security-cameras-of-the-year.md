@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
+    excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
+    publishedDateTime: 2021-01-06T21:30:00Z
+    webUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990"
+    ampWebUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mwvgcouoofelt0sd5tt8.png"
+        width: 800
+        height: 482
         isCached: true
   - title: "How to Opt Out of Facial Recognition at the Airport"
     excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"

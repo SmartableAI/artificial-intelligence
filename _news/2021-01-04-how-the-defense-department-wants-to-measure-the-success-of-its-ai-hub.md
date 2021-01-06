@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "MSBAI GURU Shows the Elements of Artificial Intelligence"
-    excerpt: "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,"
-    publishedDateTime: 2021-01-02T06:06:00Z
-    webUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
+  - title: "How to Make Artificial Intelligence More Democratic"
+    excerpt: "A new type of learning model uses far less data than conventional AIs, allowing researchers with limited resources to contribute"
+    publishedDateTime: 2021-01-02T17:11:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-to-make-artificial-intelligence-more-democratic/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 56
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg"
-        width: 744
-        height: 389
-        isCached: true
-  - title: "12 dark secrets of AI"
-    excerpt: "With the drumbeat for AI across all industries only getting louder, IT leaders must come to grips with the dark secrets of working with artificial intelligence to glean business insights."
-    publishedDateTime: 2021-01-06T10:04:00Z
-    webUrl: "https://www.cio.com/article/3602555/12-dark-secrets-of-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
+      name: Scientific American
+      domain: scientificamerican.com
     quality: 37
     images:
-      - url: "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_virtual_circuit_brain_thinkstock_676338068-100724427-large.jpg"
-        width: 700
-        height: 467
+      - url: "https://static.scientificamerican.com/sciam/cache/file/A554E9A3-C64D-4190-85F7055EE7B71289.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "iJGaImjZybhXjlDkdriGZs/rrv6RaCBf3wqZkGTd5iHoaV+2IktZnOsf4n5acgzULK3gfz2ZhuNTOFaCZPwk2wSDjrqDKXgun8tCzh+jE6qaF/8g7t9Okyn74BZCV/rEMmCzAhzgKoskVcAixtw8jnYIfgwAp6pvyDhJ7OM6rY1TsAWtNSjcyc69r1FJXwGQ9zYODsg5+3hhsWdOe+Pt8Y+T5k/wUQV9BXWLNe10dJ1UaP2wXRFeubIkeSKGdYNEximBQOYxnQzZAF8ajblmn/w3TPttSfa9CzI7Hggt8chZ+XrMfRprRXNuj9WuvO4MSbZP3XoyfiHqhGaztpDaCUgTE+nolo5boPy2W6DTpLQ=;lldcn8M6i/h3ZGPfvQ11LA=="

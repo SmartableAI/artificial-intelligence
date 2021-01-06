@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-
 ampWebUrl: "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
@@ -35,7 +36,7 @@ related:
   - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
     excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
     publishedDateTime: 2021-01-06T06:03:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-249a63c5e2b93f4105284ea5fddd6568"
+    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
     type: article
     provider:
       name: Associated Press

@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/government-users-facial-recog
 webUrl: "https://www.natlawreview.com/article/government-users-facial-recognition-software-sued-plaintiff-alleging-wrongful"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 500
     height: 500
     isCached: true
+
+related:
+  - title: "Government Facial Recognition Can Identify 96 Percent of Masked People"
+    excerpt: "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ..."
+    publishedDateTime: 2021-01-06T21:32:00Z
+    webUrl: "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people"
+    ampWebUrl: "https://futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/01/government-facial-recognition-identify-96-percent-masked-people-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "aSn8conPYqIzihInxyESbRVsm4TRna7erIJjJBZntgeeGjQZPvyzHDTd3ozGq9yJGlq/KnFWTznDNvSMhUxgXhybOBxVpO7ltvah6asIiddTumMuKZHor4nDZLTs0oRu2rAi4dNswekyNZl29Jhpzj2e0Gq4FcOkc9tluwNYeYkg3HxHy6TtES8y5X8g/NyVS9A8rMtBRmZ7g57r8Txh/OZ7YMvTEo+2Qf67PWdns+7tRxbgNFcKzo0I65RpyVr57Lr/FLLPBrRv4GXU657miBBh1FU4F4Bi1bc8mLty/+YU8ERbMEgJU65REGGBINGA9xnCtMjaljc1R1WEKbwOBXcjtyjCgPWnh24sRdNvOVpmgHCSNcoU6/3q7wZEJLRZXW5HYjEEUd3prZpPiTi1z1L5EY7uYniZGPQ14nb/rEM2NlF61DUW/lwM/TVYJ1WaMHYZLPrALqobxLZgsMXooDkeaCok113muPyOWJJqc3jenY3C37QgHjtkqC/Dh9OhTwFa6mR5o1UNWOeih3aeZg==;8NdWFI5WiCATlvtzDtbFzQ=="
 ---

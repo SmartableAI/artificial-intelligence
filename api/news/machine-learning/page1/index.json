@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-poet-technologies-enters-artificial-intelligence-market.md",
+      "title": "POET Technologies Enters Artificial Intelligence Market",
+      "excerpt": "TORONTO – POET Technologies Inc. (TSX Venture: PTK; OTCQX: POETF), the designer and developer of the POET Optical Interposer and Photonic Integrated Circuits for the data center and tele-communication markets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/",
+      "originalUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canadianinvestor.com/wp-content/uploads/2018/11/Cloud-Computing-840x480.jpg",
+          "width": 840,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/",
+      "cdnAmpWebUrl": "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/",
+      "publishedDateTime": "2021-01-06T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CanadianInvestor",
+        "domain": "canadianinvestor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech.md",
       "title": "Researchers find machine learning models still struggle to detect hate speech",
       "excerpt": "Detecting hate speech is a task even state-of-the-art machine learning models struggle with. That’s because harmful speech comes in many different forms, and models must learn to differentiate ...",
@@ -1411,51 +1454,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
-      "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "full-stack solutions leveraging proven consulting methodologies and an analytics and machine learning platform built using Amazon Web Services (AWS). Financial details were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

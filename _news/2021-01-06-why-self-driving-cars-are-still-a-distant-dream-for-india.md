@@ -107,6 +107,22 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Waymo is dropping the term 'self-driving' in an apparent shot at Tesla's controversially named software"
+    excerpt: "\"Unfortunately, we see that some automakers use the term 'self-driving' in an inaccurate way,\" the autonomous-driving firm said Wednesday."
+    publishedDateTime: 2021-01-06T22:11:00Z
+    webUrl: "https://www.businessinsider.com/waymo-drops-self-driving-term-in-apparent-shot-at-tesla-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/waymo-drops-self-driving-term-in-apparent-shot-at-tesla-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-drops-self-driving-term-in-apparent-shot-at-tesla-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/5ff6233bd184b30018aad61e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Waymo Pushes “Autonomous” As The Right Generic Term For Self-Driving/Robocars"
     excerpt: "Waymo and several partners want to push \"Autonomous\" as the generic term for what they do, and will stop saying self-driving. They are annoyed some players are using self-driving to refer to driver assist."
     publishedDateTime: 2021-01-06T17:00:00Z
@@ -122,6 +138,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff519e366060e91c33e6dfa%2F0x0.jpg"
         width: 1080
         height: 810
+        isCached: true
+  - title: "Waymo will no longer say ‘self-driving’ in apparent shade to Tesla"
+    excerpt: "Waymo, a division of Google parent company Alphabet, will now refer to its technology as \"autonomous driving.\""
+    publishedDateTime: 2021-01-06T22:20:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/06/waymo-tesla-self-driving/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/06/waymo-tesla-self-driving/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/06/waymo-tesla-self-driving/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 74
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CPIYP2H2FQI6NPQFDI4BPLBBUU&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
     excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
@@ -222,19 +254,19 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 46
-  - title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
-    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\" Waymo says that some automakers are using the phrase \"self-driving\" inaccurately, giving the public a false impression of what driver ..."
-    publishedDateTime: 2021-01-06T19:52:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
+  - title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
+    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving ..."
+    publishedDateTime: 2021-01-06T22:40:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
     type: article
     provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
+      name: KEYT
+      domain: keyt.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://keyt.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
+        width: 500
+        height: 281
         isCached: true
   - title: "Waymo says goodbye to phrase 'self-driving'"
     excerpt: "Much like the phrase \"horseless carriage\" fell from favor in describing motorized vehicles, might \"self-driving\" someday be replaced with a better way to delineate cars controlled by computers? Waymo would like to leave \"self-driving\" for the history books."

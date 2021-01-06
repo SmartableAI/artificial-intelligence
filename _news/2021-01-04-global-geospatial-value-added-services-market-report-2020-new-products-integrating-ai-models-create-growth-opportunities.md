@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2025"
+    excerpt: "Jan 06, 2021 (CDN Newswire via Comtex) -- The latest informative study entitled Global Edge Artificial Intelligence (AI) Chip Market Growth 2020-2025 released for the database of MarketandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2021-01-06T20:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2025-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Computer Vision Market Report 2021-2023 by Technology, Future Trends, Opportunities, Top Key Players and more..."
     excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
     publishedDateTime: 2021-01-06T10:38:00Z

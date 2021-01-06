@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI On The Highway"
+    excerpt: "A couple of announcements caught our attention last week regarding AI-controlled cars. South Korea’s Kakao Mobility and local startup Autonomous A2G launched a limited self-driving taxi"
+    publishedDateTime: 2021-01-05T16:43:00Z
+    webUrl: "https://hackaday.com/2021/01/05/ai-on-the-highway/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/01/aidriver-feature.jpg"
+        width: 672
+        height: 378
+        isCached: true
   - title: "BTC: Achieved the Highest Age Estimation Accuracy in the World by AI Age Estimation of Face Recognition"
     excerpt: "BTC Corporation (HQ: Tokyo, Japan, CEO: Ken Sugiyama, hereafter BTC) reports that it has achieved the world's highest level of age error accuracy by AI face recognition using a camera. In the model that detects a face with a camera and estimates age and gender by AI,"
     publishedDateTime: 2021-01-04T12:00:00Z

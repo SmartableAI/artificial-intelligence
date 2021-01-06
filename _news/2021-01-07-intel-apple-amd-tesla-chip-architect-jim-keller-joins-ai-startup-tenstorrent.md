@@ -37,6 +37,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 94
+  - title: "In a sign of AI’s fundamental impact on computing, legendary chip designer Keller joins startup Tenstorrent"
+    excerpt: "In a sign of the profound changes being wrought in computing by artificial intelligence, Toronto-based AI chip startup Tenstorrent on Wednesday announced it has hired legendary chip designer Jim Keller to be its chief technology officer. Keller most ..."
+    publishedDateTime: 2021-01-06T20:42:00Z
+    webUrl: "https://www.zdnet.com/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/06/f250f14a-bc14-4ebd-b8b0-1e175b2d6e94/tenstorrent-grayskull-schematic-april-2020.png"
+        width: 1013
+        height: 870
+        isCached: true
   - title: "Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
     excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips. Keller has been named president, chief technology officer and a board member of Tenstorrent Inc,"
     publishedDateTime: 2021-01-06T00:48:00Z

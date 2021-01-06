@@ -2,6 +2,229 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round.md",
+      "title": "Self-driving software startup Oxbotica raises $47mln in latest funding round",
+      "excerpt": "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546726058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0500I",
+          "width": 772,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC",
+      "publishedDateTime": "2021-01-05T21:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-is-vietnams-first-ai-robot-the-future-of-education.md",
+      "title": "Is Vietnam’s first AI robot the future of education?",
+      "excerpt": "In digitally quicky Vietnam, an AI robot fitted with five \"senses\" and Google search integration is being equipped to be a teaching assistant.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "originalUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/Vietnam-AI-robot-Tri-Nhan-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "publishedDateTime": "2021-01-05T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-ai-algorithms-detect-diabetic-eye-disease-inconsistently.md",
+      "title": "AI algorithms detect diabetic eye disease inconsistently",
+      "excerpt": "Diabetes continues to be the leading cause of new cases of blindness among adults in the United States. But the current shortage of eye-care providers would make it impossible to keep up with demand to provide the requisite annual screenings for this population.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/4-eye.jpg",
+          "width": 1920,
+          "height": 1487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "publishedDateTime": "2021-01-05T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch.md",
+      "title": "Apple patents point to using your MacBook to wirelessly charge your iPhone and Apple Watch",
+      "excerpt": "According to the patent images, a MacBook’s lid, palm rest, or trackpad could be used to charge a wireless charging-compatible iOS device. The problem the patents claim to solve is the one where you may find yourself without enough outlets,",
+      "sourceUrl": null,
+      "webUrl": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10853717&IDKey=6E72242A6301%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D31%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dmicrosoft.ASNM.%2526OS%3DAN%2Fmicrosoft%2526RS%3DAN%2Fmicrosoft",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch/ar-BB1cuX3w",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T12:25:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "asnm.%2526os%3dan%2fmicrosoft%2526rs%3dan%2fmicrosoft",
+        "domain": "asnm.%2526os%3dan%2fmicrosoft%2526rs%3dan%2fmicrosoft",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-accelerating-mlops-at-bayer-crop-science-with-kubeflow-pipelines-and-amazon-sagemaker.md",
+      "title": "Accelerating MLOps at Bayer Crop Science with Kubeflow Pipelines and Amazon SageMaker",
+      "excerpt": "This is a guest post by the data science team at Bayer Crop Science.&nbsp; Farmers have always collected and evaluated a large amount of data with each growing season: seeds planted, crop protection inputs applied, crops harvested, and much more. The rise of data science and digital technologies provides",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1668-2-666x630.jpg",
+          "width": 666,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T11:35:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-just-desserts-baking-with-ai-made-recipes.md",
       "title": "Just desserts: Baking with AI-made recipes",
       "excerpt": "It’s winter, it’s the holidays and it’s quarantine-times: It’s the perfect recipe for doing a ton of baking. In fact, U.S. search interest in \"baking\" spiked in both November and December 2020. But being in the AI field, we decided to dive a little deeper into the trend and try to understand the science",
@@ -363,7 +586,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023-2021-01-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1013,250 +1236,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple.md",
-      "title": "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple",
-      "excerpt": "Latest released the research study on Global Mobile Speech Recognition Software Market, offers a detailed overview",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-should-we-fear-facial-recognition-technology.md",
-      "title": "Should we fear facial recognition technology?",
-      "excerpt": "The growing use of facial recognition technology has prompted calls for bans and stricter regulation around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/",
-      "originalUrl": "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_1A94WQ.jpg",
-          "width": 8194,
-          "height": 5463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/",
-      "publishedDateTime": "2021-01-04T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025.md",
-      "title": "Global Artificial Intelligence (AI) in Cyber Security Market 2020 In-depth Assessment, Key Trend, Industry Drivers, Future Roadmap by 2025",
-      "excerpt": "Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2020-2025 announced by MarketandResearch.biz provides an expert and in-depth analysis of key business trends and future market development prospects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025-2021-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025-2021-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-artificial-intelligence-project-aims-to-find-new-uses-for-old-drugs.md",
-      "title": "Artificial Intelligence Project Aims To Find New Uses For Old Drugs",
-      "excerpt": "Medical researchers at Ohio State University have received promising results from a project that uses artificial intelligence to suggest new uses for old drugs. The team, led by D",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
-      "originalUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/14/artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
-      "publishedDateTime": "2021-01-04T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-building-a-secure-search-application-with-access-controls-using-amazon-kendra.md",
-      "title": "Building a secure search application with access controls using Amazon Kendra",
-      "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. Not only is it challenging for organizations to make this information available to employees when they need it, but it’s also difficult to do so securely so relevant",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1021-1.jpg",
-          "width": 626,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T15:20:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

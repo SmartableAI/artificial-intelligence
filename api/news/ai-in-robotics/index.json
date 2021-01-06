@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
+      "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
+      "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "originalUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/buzz-chmielewski.jpg?offset-x=0",
+          "width": 976,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "publishedDateTime": "2021-01-06T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-the-us-armys-robot-tanks-make-great-bait.md",
       "title": "The U.S. Army’s Robot Tanks Make Great Bait",
       "excerpt": "The U.S. Army is developing remote-controlled robotic vehicles that, the service hopes, will be able to fight alongside conventional tanks, fighting vehicles and infantry as soon as the 2030s.",
@@ -307,6 +350,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-05-nanorobotics-market-size-is-projected-to-showcase-significant-growth-over-2025.md",
+      "title": "Nanorobotics Market Size is Projected to Showcase Significant Growth Over 2025",
+      "excerpt": "utm_source=Marketwatch.com&utm_medium=SHR Nanorobotics is a technology that develops robots and machines which have components ... Although, emergence of mind-controlled nanorobots presents a lucrative opportunity for the market. The regional analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-is-projected-to-showcase-significant-growth-over-2025-2021-01-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-is-projected-to-showcase-significant-growth-over-2025-2021-01-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-ai-robotics-etfs-to-keep-shining-on-expanding-applications.md",
       "title": "AI & Robotics ETFs to Keep Shining on Expanding Applications",
       "excerpt": "This era is largely dominated by AI applications and technological advancements. Amid the coronavirus crisis, demand for online services has increased which in turn has led to the dominance of AI. Going on,",
@@ -445,7 +540,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1318,101 +1413,6 @@
         "name": "Your Story",
         "domain": "yourstory.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19.md",
-      "title": "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19",
-      "excerpt": "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/12/27/600x338/Screenshot_(85)_1609068071742_1609068081441.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
-      "publishedDateTime": "2020-12-27T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026.md",
-      "title": "Service Robotics Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026",
-      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-26T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

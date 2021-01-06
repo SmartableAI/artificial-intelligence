@@ -56,6 +56,22 @@ related:
         width: 960
         height: 675
         isCached: true
+  - title: "Startup Jobs | [24]7.ai steps up hiring in India amid the pandemic"
+    excerpt: "New Delhi: [24]7.ai, a customer engagement solutions provider, has stepped up hiring amid the Covid-19 pandemic, adding as many as 2,500 people to its workforce primarily at its B"
+    publishedDateTime: 2021-01-06T19:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/startup-jobs-247-ai-steps-up-hiring-in-india-amid-the-pandemic/articleshow/80141679.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/startup-jobs-247-ai-steps-up-hiring-in-india-amid-the-pandemic/amp_articleshow/80141679.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/startup-jobs-247-ai-steps-up-hiring-in-india-amid-the-pandemic/amp_articleshow/80141679.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-100060,msid-80141682/business-recovery-getty.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "How AI Technology is Changing the Wine Industry"
     excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
     publishedDateTime: 2021-01-03T16:15:00Z

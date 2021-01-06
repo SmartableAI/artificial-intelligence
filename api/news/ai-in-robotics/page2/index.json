@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-27-hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19.md",
+      "title": "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19",
+      "excerpt": "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/12/27/600x338/Screenshot_(85)_1609068071742_1609068081441.png",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
+      "publishedDateTime": "2020-12-27T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026.md",
+      "title": "Service Robotics Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026",
+      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-26T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-beyond-the-boombox-the-race-to-artificial-intelligence.md",
       "title": "Beyond the Boombox: The Race to Artificial Intelligence",
       "excerpt": "A “boombox” was an oversized, battery-powered, portable music machine; it is an artifact of a very particular time in American culture, re",
@@ -1320,110 +1415,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026.md",
-      "title": "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026",
-      "excerpt": "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-hyundai-motor-buys-80-of-robotics-firm-boston-dynamics.md",
-      "title": "Hyundai Motor Buys 80% of Robotics Firm Boston Dynamics",
-      "excerpt": "Hyundai Motor Group agreed to buy a controlling stake in Boston Dynamics Inc. in a deal that values the mobile robot firm at $1.1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSByH1t.THsc/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "publishedDateTime": "2020-12-11T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
