@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg?p=facebook"

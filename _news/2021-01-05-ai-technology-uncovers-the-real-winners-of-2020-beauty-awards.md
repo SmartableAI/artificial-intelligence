@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-lifestyl
 webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-media-corporate-news-6fd159059ec146958af15e3c60ba2f39"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Technology is Changing the Wine Industry"
-    excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
-    publishedDateTime: 2021-01-03T16:15:00Z
-    webUrl: "https://www.lendio.com/blog/ai-technology-changing-wine-industry/"
-    type: article
-    provider:
-      name: lendio.com
-      domain: lendio.com
-    quality: 37
-    images:
-      - url: "https://www.lendio.com/wp-content/uploads/2020/12/family-toasting-with-wine-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
     excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as ‘mask-friendly,’ ‘social media’ and ‘natural self-care.’ This press release features multimedia."
     publishedDateTime: 2021-01-04T13:47:00Z

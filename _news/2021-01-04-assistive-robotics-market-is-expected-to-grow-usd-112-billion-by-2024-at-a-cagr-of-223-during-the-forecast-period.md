@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/assistive-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04"
 type: article
 quality: 61
-heat: 91
+heat: 71
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as"
-    excerpt: "Technavio Busines"
-    publishedDateTime: 2021-01-04T10:37:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-04/machine-learning-market-to-grow-by-usd-11-16-billion-during-2020-2024-alibaba-group-holding-ltd-and-alphabet-inc-emerge-as"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 42
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market to Grow by USD 11.16..."
     excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by USD 11.16 billion during 2020-2024, progressing at a CAGR of almost 39% during the"
     publishedDateTime: 2021-01-04T10:34:00Z
@@ -54,15 +40,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as Key Contributors to Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by USD 11.16 billion during 2020-2024, progressing at a CAGR of almost 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2021-01-04T10:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210104005330/en/Machine-Learning-Market-to-Grow-by-USD-11.16-Billion-During-2020-2024-Alibaba-Group-Holding-Ltd.-and-Alphabet-Inc.-Emerge-as-Key-Contributors-to-Market-Growth-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "nOowsxIyC6/oFNFwPCFgOSVUl3j7xggaV3ys3REd6v8kGp+6a08Kcdf1W41Dyl3Mo3q8RN+Z41/VWfjsQHoiSivfYQ2EqXdw+yJ05SNgEGaqdoEVdk7zi7S6i7I/lxLA6kNH9A8j7paGawkWgK9MLjD25iUL6es+Ql5olwz9FxcpM3DlcDaCp7DDJZK6czFBUsjLuLDph0DDosJ4Fsmfj7CLppo2ZYeE25yegEDZk6luVxSY3YkVhXlfCv8xOpODRTgTvWfQ/XyNFYyUvnbria45NzYgVCt2EVslpZ7imgjvekeSUytQCwdOfmB0rsa2/XUkXRBe0nHlTyCg6FKKGKkJEDeMODfWxzAubDuPP3k=;hPkvAhdHQEEkE3aF2BABfw=="
 ---

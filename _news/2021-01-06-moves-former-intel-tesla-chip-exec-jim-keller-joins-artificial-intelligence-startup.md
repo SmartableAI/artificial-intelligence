@@ -2,9 +2,9 @@
 category: news
 title: "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
 excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips."
-publishedDateTime: 2021-01-06T00:50:00Z
-originalUrl: "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6"
-webUrl: "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6"
+publishedDateTime: 2021-01-06T05:31:00Z
+originalUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
+webUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
 type: article
@@ -38,6 +38,6 @@ related:
       domain: thestarphoenix.com
     quality: 67
 
-secured: "AEp1t+i3CH5FhMfknr9XNPW7FL5Od5zq761BboMwdiOOLLiysq6TGxOHgi2mONGGeNQ+dmgZ5joQJudSRU62+xgSPs1D2OX5z9kQvOIdHXAicKroX77StjtiFJpKywsZ5pDGOt0NODTWTpdLlPFlW3BfpSY6Jl8MJA+g+D9SyKhJoRK1W03doROJTdqN/Pir6AB27Z/r9CKAd/GTuqkxQ60aX0wNZAR9qE5WoyJIXY4U8orxjBLKiUAcyTM5xVY6jaPAUV6RJ38SvPQM5Ag8lOv8lvguPYM43YRMzCwRrMmggqFD4wEsUsP5cI1COaZh47llJ3R+nX1D0FgpkjQv72lXuo1SnXPR0Ya+mG95HIE=;svYCNoDaITO03tptCWbWjQ=="
+secured: "InkvaVwybiN5oU90jOYz+tFpDmJgBsP1tAqUBzyjrYZLEJUjxIk9p7dPbeM+uG6JRtpPq30cSNAf1ZGY5kg7/wqXdXRC19UvIpKoHBJb3sd3eVbKXlRgoMEkUvs0NTqy6wm//ALLf4m046BDFRtq9S8b4575qUUHjQyec1xEj6k7MehTVQpPA82Q6df76Haz+zcxfAUKn4H9J6O2mh/vK1yRRFfEKX29JBdRjlh6942OGTIq0sgAN4rqbtISured/IgRuI9zdt01ccO2dFTVvZMq+K/MNdG4Q3bWJ5HxQ2fkZc0uoxoFPcWAfb0npPZbHIieQ8A9qoyNeqOOkmSKfgj/qFSXW3txltjh4FkPw/Y=;oDq0jGKD/9u9AELLPNJavw=="
 ---
 

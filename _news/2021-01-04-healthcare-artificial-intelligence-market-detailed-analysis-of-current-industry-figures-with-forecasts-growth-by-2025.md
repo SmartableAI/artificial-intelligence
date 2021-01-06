@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Gesture Recognition Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Automotive Gesture Recognition Report\" provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2021-01-06T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-current-and-future-industry-trends-2020-2026-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

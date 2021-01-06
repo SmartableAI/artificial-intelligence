@@ -7,7 +7,7 @@ originalUrl: "https://www.lendio.com/blog/ai-technology-changing-wine-industry/"
 webUrl: "https://www.lendio.com/blog/ai-technology-changing-wine-industry/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,29 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
-    excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as mask-friendly, social media, and natural self-care. The winners were selected by artificial intelligence throughout machine-learning crowd data from the reactions of beauty and cosmetic consumers around the internet using Glamai,"
-    publishedDateTime: 2021-01-05T10:21:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-media-corporate-news-6fd159059ec146958af15e3c60ba2f39"
+  - title: "Temasek Fund Backs India Startup Bringing AI Technology to Farms"
+    excerpt: "CropIn, an artificial intelligence and data-based agritech startup, has raised $20 million in a funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in farming."
+    publishedDateTime: 2021-01-06T08:34:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBCBhH8vKSWs/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "AI Clearing Raises $2M in Seed Funding"
+    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
+    publishedDateTime: 2021-01-04T17:32:00Z
+    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
+        width: 1920
+        height: 969
         isCached: true
-  - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
-    excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as ‘mask-friendly,’ ‘social media’ and ‘natural self-care.’ This press release features multimedia."
-    publishedDateTime: 2021-01-04T13:47:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210104005321/ai-technology-uncovers-the-real-winners-of-2020-beauty-awards"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "guBor3RTUO4w6tILcIyK7uEdUzQAYOA/+RZ8DRhTwa9E7AGYF2DB/JnyWCQPd703A9RUtRZEn90/5z/wfQgLTVdEYtYODKlImsUJCCWBc/Tl+llhHy69Enez9ay8xJp3PqnHjX275U8M1PQLO6ibw5Pg2Jp4wh8yShYUCXInwXjMKocrhLLKy1V4JSdJAcZ3HJsOwIzbcvV2r1AnhM+7UbHEFKUO9QPt7923jHXwuYuU3Xt/qnEI4GXt2gq3Fc+yiDSlki0C08NMcMwTvKQ+jNXXxgaEth2cNMrlQTmBKUkDxJCZQ0jCewkm80uXripm9QGyD/7Kowxxclu5gLDP/jgmHFQm0g29MuZUGvpCAovOZ7iTNuHqdrERH/XSDNiOc68oa7TNKbQnL8t6gu4H9y2dkCwDS0AarsdcB2xQq+HOAF7Y7+kOcfwHvdyrKe5Hi2t58rp2QXN67y0HyPWasnO6B4R0CJLsFioZDa15ZlGNURgeocnl4qHfj1LWTsSlq/oz0bhGwXpplvv0S8FHdQ==;yT6c7o3mR1He69195KxMYw=="
 ---

@@ -25,10 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) Market 2020 Demand, Industry Synopsis, Operational Efficiency and Market Capitalization by 2025"
-    excerpt: "The statistical report titled Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2020-2025 has all the important market aspects penciled down in a understandable language format."
-    publishedDateTime: 2021-01-04T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03"
+  - title: "Deep Learning Market 2020 Growth and Forecast Survey Till 2026"
+    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
+    publishedDateTime: 2021-01-06T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global And Japan Artificial Intelligence-based Security Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Updated Research Report of Artificial Intelligence-based Security Market 2020-2026: Summary: Wiseguyreports.Com"
+    publishedDateTime: 2021-01-04T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-and-japan-artificial-intelligence-based-security-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026-2021-01-04"
     type: article
     provider:
       name: MarketWatch
@@ -39,20 +53,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing (NLP) Market 2020 – 2027 | Future Trends, Historical Analysis, Competitive Landscape and Regional Forecast"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
-    publishedDateTime: 2021-01-05T11:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-future-trends-historical-analysis-competitive-landscape-and-regional-forecast-2021-01-05"
+  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
+    excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
+    publishedDateTime: 2021-01-05T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2021-01-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as"
+    excerpt: "Technavio Busines"
+    publishedDateTime: 2021-01-04T10:37:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-04/machine-learning-market-to-grow-by-usd-11-16-billion-during-2020-2024-alibaba-group-holding-ltd-and-alphabet-inc-emerge-as"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 42
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as Key Contributors to Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by USD 11.16 billion during 2020-2024, progressing at a CAGR of almost 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2021-01-04T10:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210104005330/en/Machine-Learning-Market-to-Grow-by-USD-11.16-Billion-During-2020-2024-Alibaba-Group-Holding-Ltd.-and-Alphabet-Inc.-Emerge-as-Key-Contributors-to-Market-Growth-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "UCF6YVCvUVfObof5+l+A5MZap+98zVfxqsNV5RrAQ7n/V6OkDOgazt2g2RT3hMAGSifb8wOzfdLuqu62bftnnYjDZjImGVNPVlQSk130Jq++MslcHoeYnieTucwez4/lR98sNrgxQ7NzIbp93N2JWPZVQruZHIK/OaOVD4qC8pbTmMGI+Q1Mlg/p6Q0lJoAOTJ2GH3/4TDxH4moSUtKrfj/wAgopCWSuU/J/JKKMPRcMPXsj8mXz/Mu4HnD9fba4ROJFbsjtJ4LY9Tkd1mavQt/tnvQLVwq14i94jIEnd+UekCbW1qCoqmkST2KZfbOaiJFQJdCCW5Xv1LUWKc9gZFVsc/rFffERTMUEX/222Og=;K3G9zmqYzearKpP5yJ9CGw=="
 ---

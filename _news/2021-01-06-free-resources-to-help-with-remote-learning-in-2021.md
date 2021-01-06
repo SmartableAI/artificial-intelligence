@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/Articles/2021/01/05/Free-Resources-to
 webUrl: "https://campustechnology.com/Articles/2021/01/05/Free-Resources-to-Help-with-Remote-Learning-in-2021.aspx?p=1"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 644
     height: 300
     isCached: true
-
-related:
-  - title: "Machine Learning Helps Rewrite Earth’s History"
-    excerpt: "Mass extinctions and radiations have shaped the development of life on our planet, and new research shows how manmade extinctions could have long-lasting effects on life and medicine."
-    publishedDateTime: 2021-01-01T15:56:00Z
-    webUrl: "https://www.medicaldaily.com/mass-extinctions-machine-learning-study-long-lasting-effects-biodiversity-458021"
-    ampWebUrl: "https://www.medicaldaily.com/mass-extinctions-machine-learning-study-long-lasting-effects-biodiversity-458021?amp=1"
-    cdnAmpWebUrl: "https://www-medicaldaily-com.cdn.ampproject.org/c/s/www.medicaldaily.com/mass-extinctions-machine-learning-study-long-lasting-effects-biodiversity-458021?amp=1"
-    type: article
-    provider:
-      name: Medical Daily
-      domain: medicaldaily.com
-    quality: 59
-    images:
-      - url: "https://images.medicaldaily.com/sites/medicaldaily.com/files/2020/12/31/fossil-fish.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "jZt1OmYyJ0DFRb9mRl42YLOYugRVExVlKsnQjm+omooVuwjwExUlBIlUUiYYkK5dQEL1H3uQKYiFfJI1/xzWQtYT20t6z3DEo7gMRMafuIbfae44e3HblYc/B0egNKyY80Nb5hXjCdl57WueocmDUcmuuVdiAx0fWh9QfM0f4WStwQnRKmlRNW16FphQCeJahMBz7cFXhDhesNO/kSkmattCO/T+MLpJXjL3bSnekdDRKzTlYLmZ1oQLSFHfGUaI5DdsCb6thaT3zy5NjvcUlkIVjxPXsVtRuH87eJ48DyXxJyCYa2Bks6VPOZWSyeu+jCW+kEGqxqHqPD0GXTWYT0PaFGO4+Wv1nufAHD74uT4=;NOzT2eQ8Sh/74Qj+T7qvMw=="
 ---

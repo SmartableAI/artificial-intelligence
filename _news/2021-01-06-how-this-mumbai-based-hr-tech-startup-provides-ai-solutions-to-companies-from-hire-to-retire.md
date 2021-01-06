@@ -28,9 +28,9 @@ related:
   - title: "How some companies are solving the issues with language and AI"
     excerpt: "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved."
     publishedDateTime: 2021-01-04T20:21:00Z
-    webUrl: "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
     type: article
     provider:
       name: TechRepublic
@@ -53,6 +53,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "x6klVBZ1Cq0Q4l7jkY/1aCo/FsAxmdtSy7POXVOnR8dFwb6NQK11uvPDy8354BnIGNyh2yWeiketuI6WGmsKMTowXnFHVCiIBocgKMez9uW0tSf6ayODUdkUHjRyJvJ54h4ZHBf9f2xR+S3MthL/Ty+VYRMui0TIRMAQPMkkuc3Z87h6ocfb2GEUG1QXEeMohTLftstzWTsuwom2ZUCS64P5zZzSB/vce94mr3gMAd/zlR3LsqfT1roqRZPMBjClzOpu0s7x6DjcU58rxoQy2nwppADdRu98YOXCW6gQCrN4KCFQ4Kc5TTAjCCJKT8Wnbbz33Wg1iQUvZTj3g4h5im1lqVFyG4euF+JY69LuVuw=;QLdsu4cuOuczyU84YRNs+A=="
+secured: "ubGlNsREpxyPOXkSyM6be14NUx04RJJL6PMHfHlDjoEon/Q0NfGbo1KVKFC+ClrTUOZv/dSsVk+Jke788kEy7e1h/3Yq4T5fimBsBdVoOZt9E2MeVkXEuQiH/GRDC9akT6maQPG7Q4MDgXuGCHeB5UGOAIDxuAhccQp3ZAeqJLfsQDulHOhB4i+c3NlVsyOMWt42X/i7GVJ00qcC2PahRQEHR2Viw68VmSvkzV/rghbRCfjAK+ViWISydbo1oYwByBq31ucztdt6wBbL/+dqBKb9/mw13kHq7SFWRB4yaZhKsCkO8vY+IXdCWOgzdgWosWsUXRe68E5mVVSwicPLXWKcjDHFMr279Uc44w4vrGD9UDqvjQoAT2PXpyOu/aUbALjUcmbCtuJPfGBs2zzMcfjRL8pG33+yMEB7maHf3/0AjG/MVaRhKT0wxnf5oAxMurFdZrYNSgV+LZKP42K6tFag1c7ulMamr37nHeeAISIrFpU37GrfYCzGvooyhQ5sbdm/BeYCgpwQKmYkLe/MvA==;eSKtpV9rhhccWPXptyz9Ig=="
 ---
 

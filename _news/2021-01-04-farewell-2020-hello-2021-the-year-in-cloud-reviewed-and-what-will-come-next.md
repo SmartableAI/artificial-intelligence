@@ -67,6 +67,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Conversational AI in 2021: 3 top trends to look out for"
+    excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://customerthink.com/conversational-ai-in-2021-3-top-trends-to-look-out-for/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
+        width: 1280
+        height: 1106
+        isCached: true
   - title: "2021: Take back your privacy"
     excerpt: "Photo by Jason Dent on Unsplash The Philippines is one of the increasing number of countries with a privacy law that protects its citizens. Unfortunately, just like most laws in the country, implement"
     publishedDateTime: 2021-01-04T01:51:00Z

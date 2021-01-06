@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Funding: December 2020"
+    excerpt: "AI hardware startups were hot in our December startup-funding focus, with two companies landing rounds exceeding $100M and plenty of others seeing investment. Two Chinese EDA companies received funding in a bid to boost the country’s semiconductor ecosystem."
+    publishedDateTime: 2021-01-06T08:04:00Z
+    webUrl: "https://semiengineering.com/startup-funding-december-2020/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/2019/05/Edge-Computing-iStock-612825560-1.jpg?fit=661%2C529&#038;ssl=1"
+        width: 661
+        height: 529
+        isCached: true
   - title: "Check out the hires and layoffs in the North Texas tech and startup scene from December"
     excerpt: "While the national attention seems focused on the big-name tech moves from coastal hubs to places like Austin and Miami, the North Texas tech and startup scene saw its fair share of personnel moves before closing out the year."
     publishedDateTime: 2021-01-04T16:50:00Z

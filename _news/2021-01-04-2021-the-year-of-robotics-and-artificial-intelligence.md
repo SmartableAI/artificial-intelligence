@@ -7,7 +7,7 @@ originalUrl: "https://www.technewsworld.com/story/86968.html"
 webUrl: "https://www.technewsworld.com/story/86968.html"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Conversational AI in 2021: 3 top trends to look out for"
+    excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://customerthink.com/conversational-ai-in-2021-3-top-trends-to-look-out-for/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
+        width: 1280
+        height: 1106
+        isCached: true
   - title: "2021: Take back your privacy"
     excerpt: "Photo by Jason Dent on Unsplash The Philippines is one of the increasing number of countries with a privacy law that protects its citizens. Unfortunately, just like most laws in the country, implement"
     publishedDateTime: 2021-01-04T01:51:00Z
@@ -82,6 +96,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "WbbiNG5gIeYL5jv4Iwz0nZpenLrj39WRWWyZ+NTXPgzeiqz/zIRyLankl3a36vqR8+Pn1Tc832l6mSODBnWnuBQZ9XI1+XOqSEF9jZhgKtNNy+fIjNL4hINxTDt23Aeu6zA5FDPSJDUdW7l+ZeSpc9ctJSfr6y1eUFP1C50Rhd9trDILynVpzSLuFQZya+UhU0eWhgDuVe31AL+2ZnIRIzmNo+gUmVNTB8kup5PeBAP8kbA9aFMnvA3ApFkiXR/MJaX2wH1GjJ5pkE5yETeow43KCFBmiFtNM3pQZMQTgWbPf25VODuYHrtAMmfirj35JWxKka+aNCenbtXwrFhLaiM2WgkU63f32ASURBc7Noc=;tBUtdttTZE7evigIPO4BIQ=="
+secured: "9v3Xxe1S8Uh/NHtgHteZLTaR+V+Up7YdoC+/XJxHH0I9WtS+6x3zCZVTn/7bXJw2NqpL5Q0b0GkLYztLvIHwQ1qMFSh0YREMz14R2ehK/lkKTqWqCpzSGu63URKGfIoVZA1Sx5hxMBwXT6mcb4rfR9H//uPpxccec0nu2OsXrMqYVFZsz+JkWYmrLIPNUyJ1do1AjehAZef3eVw5MUdyULEhR+z9Uip+El+syuhfRb/d52Ib5RYJYjFWlg52do7U60FE7DT1FUuKugjq4Y18ZJ7R0UoTtE2M13dj58K28Hzdg2r2bTCb58ULH1pd7Fu+Ni5gu+sHsJMFR4XcvxspIoL6cIQi75lPKa9aQFnbDO37bmBZL2ddVhXHyECemHcQsPcajahUfhhfohQ3rW6FwDYlDNkc/WTMCrrn+SGTaEYRC8GHi41+bYkth8eWY8+3icHeZiCtZZ6YJAjX/47fRrM+SFPbICQpG+x1+b7093z6XOS6KRKZQa6UIkkHfXFUkjvgHTrsiupRYcsyWVHjCw==;G7H4Zo6RDkPuGw8p5rJerA=="
 ---
 

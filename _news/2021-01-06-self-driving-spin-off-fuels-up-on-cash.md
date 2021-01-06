@@ -55,20 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI Clearing Raises $2M in Seed Funding"
-    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
-    publishedDateTime: 2021-01-04T17:32:00Z
-    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
-        width: 1920
-        height: 969
-        isCached: true
 
 secured: "IvQMhDzTP8tp7a/Tv0HJDlyFDT8olKU6jrnHGCI7vHVro9biMD9lUocSucKCTT9qjwRILeLwrP9a0f12s4JL4Cq3jWn0pkjETY9HYizmePe8aoAY5ZNi2jcv0ZjFWXyW5CQmzlTkG1+eBnXq7zQe0K4XjsOKoibRPsjrkOpjofuBBgjKl+kJ9U6NXuPerd4bXwnQbsI2HvRXjzOMH5ij1wkF4bLDFwrsMhRQZREK/jCtQTcyj2zbHpTvlXir3Y1s5+HV5GLb8QM15OcHO3DLXMPtv2SOBtLuvnyVQtOvuZGzjskEeL7lWdTZuC2EyYMTSTIWp9Dq8V2gfJ3k2eUo7rX6g4IQYPFYdnpnuo9ogIs=;1LllCHYTRbxJ08Si3uTZkw=="
 ---

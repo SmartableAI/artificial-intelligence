@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Gesture Recognition Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Automotive Gesture Recognition Report\" provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2021-01-06T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-current-and-future-industry-trends-2020-2026-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "T1H80ChvQvpX8Tv+diJDJLxOmPtM4NuFXOmyCTApPAu56YNK5VbpbI5eXfoKLZKosiHrZpkYp2v3xlWBT8jWdbxAZl0HIhfuaaI0BGXMssFAXtIe509cGRzc1no5NLuoXAJD8wBnFukTbYPXIJyf3fkAmXNkyHtB4QGBn4lsZzZ2HAt0YwdDBgIoYfjeYndDoje6DkPEUg9TrzW9+JxnuBjvkIsLZkFRzCjFVdVwgbUnNmg/LRUkN3Okx5UL8LjXvg9/jcvnAVeUN1FiuJgzquD5nEpec3uPRrXek+W33Wzt991YIKR8SdX8Pz00DR9eKR/O68b6mDN+o3U78HfrPv8cI7RlHo5QMpL2IN/AS4U=;9jU/sHPknAG/waSD+NkRjA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI Clearing Raises $2M in Seed Funding"
-    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
-    publishedDateTime: 2021-01-04T17:32:00Z
-    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
-        width: 1920
-        height: 969
-        isCached: true
   - title: "Self-driving spin-off fuels up on cash"
     excerpt: "A start-up spun out of the University of Oxford has raised $47 million to accelerate the development of its driverless car technology.Oxbotica, which makes software that runs self-driving vehicles, is"
     publishedDateTime: 2021-01-06T00:01:00Z
@@ -74,6 +60,6 @@ related:
         height: 385
         isCached: true
 
-secured: "XuZj+zKLX8ufz2poBkyPLxm1NeLLwlcWJmGu1Kg0ijGKgvKIzMSciO2IVdQZJgZM5EH1McxDVg0JOWd48pu2WTrKN9nAmf71rUH/hL0W8tTngZU6f/kqP12IslD6xPcaYTAQXItNhm9kPVh5lXs3gH2cGR2+3dTCDq69GDi8gMyaQ32kWwpR6ORmZZ9rGBfcb7yU7gXjFFQvnpeFzMOArAtZTNf0YId7Q8p9BwHPZTOEFM7nWacU3YcEwaZjH/ZqYYJoyQkgobMvGerCMVMqaLuuFakntw9GNZAJ7tQG4iXQrx1nPyLeRvCU2GqrcAxOmckXbEi4Cq6uagY2YHahrYRVOQMRALqt/USxadgq+4Q=;5HNyPO8FhCAbaAIVm334+w=="
+secured: "nrRGwSE1sE81fMajWcppPSd2IaB8n57b/VMHdAiug+19EDn1A4+b1mthWFSBtfTYOBD+UiCym5iO076v2YGCyKxPESd9gOLjWoAkWR4RrnBKcIbmsYfKlHIdYMUYhV7fqbaojQCjHZEpcKtx7N+avK4LawpQB7D1BDPaEd6dT+D2jLu+s4rbRP6xspttYD7Q/2ViQxZxjD61ywJtz8QQ9XlM5SB61lXbKGW9gfHiDfrz4g2+EXwgCjbJP7/DHHo7DWAh+na/EqIsJzn8ScB8GxLAOJWCrJxfGNI5Il0ZUtXVHF5pW0bvKMry5fiVDE3jrznSWln+rJeotlw6uLPIto5k0PyywliEoHtLmewWQXASLqO85sEQWYTLE2ZKY3pvWPwM1Fe9zoZtpsL2zEUdeydjfduyXY2noFEr4Z+9RlW1jhG+Aptu96hU9TDw11Yw17BSS5SSYLD6xvYIHigkesx0c3ZNTZr//EC0dKXlhk5CJ2XftcFgHtXnBhsnmlI3C3jmxsxJVDl/A+CsWTtgJA==;h3XG7/aGYamud6nfTpEZfQ=="
 ---
 
