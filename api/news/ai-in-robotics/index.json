@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-06-hotels-introduce-robot-services-amid-covid-19-pandemic.md",
-      "title": "Hotels introduce robot services amid COVID-19 pandemic",
-      "excerpt": "An increasing number of hotels here are utilizing robots and contactless technologies as part of their efforts to overcome an unprecedented crisis caused by the prolonged COVID-19 pandemic. Information and communication technology-based services help hotels improve convenience and collect necessary data and feedback to develop better methods to protect guests amid the global public health crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/01/141_301995.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/01/141_301995.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202101/9e924d2311164de5a9ea7c876bbb5d91.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995",
-      "publishedDateTime": "2021-01-05T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-06-self-driving-cars-and-asimovs-three-laws-about-robots.md",
       "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
       "excerpt": "Asimov's famous Three Laws of robotics are considered in the use case of self-driving cars, and found to be aspirational but not ironclad.",
@@ -1405,6 +1362,50 @@
       "topics": [
         "AI",
         "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
+      "title": "Robotics company gets OK to charge money for self-driving services",
+      "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
+      "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1",
+          "width": 556,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/579822.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php",
+      "publishedDateTime": "2020-12-24T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
         "AI in Robotics"
       ]
     }

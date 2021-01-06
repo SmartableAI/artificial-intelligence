@@ -2,6 +2,41 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-12-03-intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors.md",
+      "title": "Intel's (INTC) Habana Labs Secures AWS Deal for Gaudi Processors",
+      "excerpt": "The accelerators will also support PyTorch and TensorFlow along with other such common frameworks. AWS’s EC2 instance based on Gaudi accelerators will be capable of processing 12,000 images per ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03",
+      "originalUrl": "https://www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intels-intc-habana-labs-secures-aws-deal-for-gaudi-processors-2020-12-03?amp",
+      "publishedDateTime": "2020-12-03T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health.md",
       "title": "Microsoft: Here's how your smartphone camera plus AI can keep an eye on your health",
       "excerpt": "While wearables are at the forefront of medical applications for mobile technology, COVID-19 has sent researchers looking at older technologies like the humble smartphone for remote diagnosis. Microsoft Research has been working on telehealth ...",
@@ -1116,58 +1151,6 @@
         "AI in Autos",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-driving-the-next-generation-of-ai.md",
-      "title": "Driving The Next Generation of AI",
-      "excerpt": "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "originalUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1613001600&v=beta&t=Wz2Px5Ibh7-7pHdKOJ9TuY-fGNj1_adkVDYZ23zdZsE",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

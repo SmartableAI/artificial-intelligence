@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market by Key Players, Product and Production Information analysis and forecast to 2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
+    publishedDateTime: 2021-01-06T10:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-key-players-product-and-production-information-analysis-and-forecast-to-2026-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous Cars Market Report 2020| Regional Analysis & Growth Forecast to 2024"
+    excerpt: "Robust investments infused in automotive R&D and advancements in self-driving technology will provide commendable growth strides in autonomous cars market over the years. Features like ease of transportation,"
+    publishedDateTime: 2021-01-06T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-report-2020-regional-analysis-growth-forecast-to-2024-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Hardware Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2027"
     excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) Hardware Market Size study, by Technology (Machine Learning, Computer Vision, Natural Language Processing,"
     publishedDateTime: 2021-01-05T12:49:00Z

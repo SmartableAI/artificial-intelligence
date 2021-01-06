@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "World Finance reveals the winners of its Global Insurance Awards 2020"
+    excerpt: "World Finance magazine has announced the winners of its Global Insurance Awards 2020, championing the work carried out by China's Ping An Insurance, Atradius from the Netherlands and a number of other industry heavyweights."
+    publishedDateTime: 2021-01-06T10:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/world-finance-reveals-the-winners-of-its-global-insurance-awards-2020/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 41
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
     excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as mask-friendly, social media, and natural self-care. The winners were selected by artificial intelligence throughout machine-learning crowd data from the reactions of beauty and cosmetic consumers around the internet using Glamai,"
     publishedDateTime: 2021-01-05T10:21:00Z

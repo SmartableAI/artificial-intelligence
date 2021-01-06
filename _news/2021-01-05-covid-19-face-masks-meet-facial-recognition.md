@@ -130,6 +130,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 53
+  - title: "Homeland Security test sees 96% facial recognition success for those wearing face masks"
+    excerpt: "News; Homeland Security test sees 96% facial recognition success for those wearing face masks. 06/01/2021 ; Results from a controlled test from the US' Department of Homeland Secu"
+    publishedDateTime: 2021-01-06T10:31:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/homeland-security-test-sees-96-facial-recognition-success-for-those-wearing-face-masks"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 48
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/v1609928904/widgetdocs/facial-recognition_f8jukk.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Facial recognition: Expert on concerns over usage in UK shops"
     excerpt: "Technology expert Bill Mew outlines his concerns over the usage of facial recognition systems in UK shops. He says the technology is not 'accurate.'"
     publishedDateTime: 2021-01-05T21:22:00Z

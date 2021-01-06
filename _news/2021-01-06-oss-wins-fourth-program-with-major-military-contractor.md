@@ -1,27 +1,27 @@
 ---
 category: news
 title: "OSS Wins Fourth Program with Major Military Contractor"
-excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, has expanded its engagement at a major"
-publishedDateTime: 2021-01-05T18:55:00Z
-originalUrl: "https://www.hpcwire.com/off-the-wire/oss-wins-fourth-program-with-major-military-contractor/"
-webUrl: "https://www.hpcwire.com/off-the-wire/oss-wins-fourth-program-with-major-military-contractor/"
+excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, has expanded its engagement at a major military prime contractor with its fourth major program win. This latest program, named “Orange Gear,"
+publishedDateTime: 2021-01-06T10:08:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-military-technology-industrial-products-and-services-data-storage-b1dd60073adc65bbb0db474e4080f802"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-military-technology-industrial-products-and-services-data-storage-b1dd60073adc65bbb0db474e4080f802"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/abstract-tech-shutterstock_672761827-690x380-405x228.jpg"
-    width: 405
-    height: 228
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: morningstar.com
     quality: 4
 
-secured: "H4Kdc90zHdg11lVVX7UPTRnhKftFgsd1Qzo0W1gmKgw7AuMNMMawqO9HWS7RaBmxZv0YvvZmI0LO2NiHlT7mcKQak/jUneAvRhmLfFD0f85vg6JTS4tWvsO36i8co4axRdD+NsftmUWSvCce1f7iMSCYaQtHOIOtjCqRj696NbQ4VrqC1aIx+/IeYL60rIP9Ji45sJ/vAyF79kUN6P0lIFkOqe9SEcuwcduMRf5UfOvQfPPHzLmU7xMhT8VgNlgbLR4Obd+StSvIJ/5eaWWdjjpgaVpVfz/cdSU43XZcJ/nOG3H1yUx6w9x44g434G/3C4qpgInH2SLv0RrjQhrZc3J5B7UUxGr8HL2LeLMxzH26JsOafDU51S1TdcpX1q+LBaoI2j4rf7HUNPcEVirUIYAS5X20JwmzR7JmggYd5aUK1FjlK6wz5PrsXuO8P/9pj/KQaNkmnlCn3nCVEX9RQgoXkpCDahp+2N368mzjy+2qgptg3kDBXUXgTo+CtIaG3gGxGKGQKtpD1FyvU59GPg==;62Bo2rnUE3/70qaWyLDSmQ=="
+secured: "YMghF5QESY7cN3wmTnc++Zcmgy0WV5LK2kjhXIPYeuIKk1DdZU8uQlwdUuVuAdQrr/C8Ie3sKOC8IX0RsjgK6eedd4ATxHpCE7zJctRIxdomSKb51f1mgWXkZo7jjLWUOZixblC8NHFvu3ypllOMRmphT11iA+sWvwVQpOeyLGcvwG5NnweA2gnoNY2/1WsV+Oa/eH6VHL7CqF6PusapBgS0JA78sfojFYeztbnh1JuFYEVD9GGWDBKX3fybI89BU6nJwwNqyir6ThOCw16iaKRKPa5IAVgSy8/L3eF/fXNzOkmthcpe4a4TYGFvYjg3sndwDGhykebFW50ai8KgcPYD5Bm/X52oAntKX5P0wnI=;CKVgMX4VnhzouOZ2pfyTMg=="
 ---
 

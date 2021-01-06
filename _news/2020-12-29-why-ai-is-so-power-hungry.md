@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Why AI is so power-hungry"
-excerpt: "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?"
-publishedDateTime: 2020-12-29T12:38:00Z
-originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
-webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/"
+excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
+publishedDateTime: 2020-12-29T12:43:00Z
+originalUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
+webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40"
 type: article
-quality: 71
-heat: 81
-published: true
 
 provider:
   name: Ars Technica
@@ -19,32 +16,15 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg"
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-800x450.jpg"
     width: 760
-    height: 380
+    height: 377
     isCached: true
 
-related:
-  - title: "Why AI is so power-hungry"
-    excerpt: "AI is more computationally intensive because ... the connection weights start to change and pick up patterns in the data. The network eventually becomes accurate. One recent model called ..."
-    publishedDateTime: 2020-12-30T08:57:00Z
-    webUrl: "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=80"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-
-secured: "6maiJlybQdLE3B/O9DXLOTa0X/7Pt5qF7ZlBEUcRtIqL8j7RFpHBYePNpGdnq/XGe8qDjsJcn4+4gpbwVR6zAdXHmw3tGFpoe7mthJaPEteULFWj9mpX8fM9OK0cfByAm2CVwW055fCxjFjbHTQ3uRI0haCazFq3Ps32ux27MO7K73iykYxySr8ofvS7SNlOby7YFeo62TipKXpmx7EsynsNvVQ1LYKycitb5xu6ZSEfM5qCqaHMXc7r4NlWhEBQVnmfqIQS1Pwlnsd9ctJ4g9Nmwtuu7UGY53g8G5N9OMlXYedXFx0BJzDGhynJX3y2A/aenkAbpz2GQL17x35Gayvj0Hq8d1WVI3cC+sUNk+MheWXvDgRBAunY9PTgWFfTqtqRYUpTrd3nOiLPQcbQnTQz/JAJ373X6fDqKPq6nj9HCGV60icG5puUc16eY2YzbGc5Rkf/abypm6rRAOZgXuJycq1hoKe5aKDdldWw/qWYnJyzS2VVgVNRv1F4eL5j5Ol9r+mSxc+w0g7o0s6yJQ==;jBR1N0iVZBxwg8ePyFo7nA=="
+secured: "Z1pV2x6TNJAunWDBmNizyl04mKxSVAU4dFsOqD+R8M0EQDNEruDxrhrWxR6HBlwxRJlV8dNUbk0NtBX4RxbIkP5VJGEYlx1H/ZIJ1UsLTc2zFkFrIorSWjvIH+4O6iJDaMElEneGq2SNGWhiHvgnjo74nlPIIY0oXsjKcy2vscEB0nfBn/t7wUx3VFRjjrD8+ugvu3i0iUubttIj/VnPOm+lFMyTjKzmX77ZUUPwEsz0xe0VRN0ZZkTU6P7dc70VjnqvC8UXTgWfypQh9o3QrUzhevb5sIHMG92xGoIViZt4vSU+vt7BG/D+5XDhL/kU2jrKIu1NJhrJOX4oM0dgjB6LSw5omq/P7VeOx+f4Lgw=;qruPFUVysA7Ns2WL/B3C9w=="
 ---
 

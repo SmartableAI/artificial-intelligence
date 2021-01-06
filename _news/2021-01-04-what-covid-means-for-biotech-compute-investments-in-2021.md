@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hotels introduce robot services amid COVID-19 pandemic"
-    excerpt: "An increasing number of hotels here are utilizing robots and contactless technologies as part of their efforts to overcome an unprecedented crisis caused by the prolonged COVID-19 pandemic. Information and communication technology-based services help hotels improve convenience and collect necessary data and feedback to develop better methods to protect guests amid the global public health crisis."
-    publishedDateTime: 2021-01-06T00:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/01/141_301995.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/9e924d2311164de5a9ea7c876bbb5d91.jpg"
-        width: 980
-        height: 653
-        isCached: true
   - title: "Robots, wristbands, and apps: startups that innovated their products for COVID-induced med tech"
     excerpt: "As we step into the new year, YourStory lists 10 startups that innovated their products for COVID-induced med tech."
     publishedDateTime: 2021-01-04T01:37:00Z
@@ -59,15 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "How artificial intelligence and augmented reality are changing medical proctoring during COVID-19"
-    excerpt: "Medical proctoring has gone remote during the COVID-19 pandemic. ExplORer Surgical has added augmented reality technology that acts as a virtual laser pointer for medical device specialists to provide on-screen guidance for surgeons."
-    publishedDateTime: 2021-01-04T15:23:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/how-artificial-intelligence-and-augmented-reality-are-changing-medical-proctoring-during-covid"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 6
 
 secured: "AVXrS5VRZlyJsf5Qk30dzfpxjN/AW7LZgQPOlOJQ0KxqHGqt0f9XE8W5k6XsjpkRpNJH42gW5NLo1kM/wpeZoL1a+2epcudUVbzBm115sBFA4Waz7LfhWWznI3l5mFEHh3/wZgkMvjFVIXSsnIJM/0QHAwe21r3zR8+zvF4CqZbd2Bc7xzs6yt8sXA8iK+RkEk2I61qivo8tGJzaIikvUJf3dweG4a3RNCitttGT3SzGfvjmg7EtSJsYryuBCDRLXpwH8Il6czztbj4di0VWktVvokHna/XnmWRwOMY1HshKzusGbHZAhLMZEk6UCf1o7ZmgJEvRP+iQzVDBKls6b8WutldHfNYXfZuU7PQaG7Odp2aq1Qa/d8ym8J3W7pW7dtp1lRBy2t8E4J+2f5Tb9s99CzR7xJR3hpQLgqf5PeXJDGKjhR6+2Pk+S2WsJc0aNs4PDr3KfwpxgRsqbUJX/N5SfiQ89N99SE0hZAXAk4iv40E0WgfZx2+b9ud7+HzBNa1s3okHydH3z8cje6NREw==;yt9XNnBgIhAy3xPiObniCQ=="
 ---

@@ -40,6 +40,22 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Temasek Fund supports the start of India with AI Technology to farms"
+    excerpt: "(Bloomberg) – CropIn, an artificial intelligence and data-based agritech startup, has raised $ 20 million in funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in agriculture."
+    publishedDateTime: 2021-01-06T09:45:00Z
+    webUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 57
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
   - title: "How AI Technology is Changing the Wine Industry"
     excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
     publishedDateTime: 2021-01-03T16:15:00Z

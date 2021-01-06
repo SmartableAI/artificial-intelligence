@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-12-20-some-uk-stores-are-using-facial-recognition-to-track-shoppers.md",
+      "title": "Some UK Stores Are Using Facial Recognition to Track Shoppers",
+      "excerpt": "As a result of the trials, other regional Co-Op franchises are now believed to be trialing facial recognition systems. Use of facial recognition by police forces has been controversial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/",
+      "originalUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fdbda52fe02cb1be125fd70/191:100/w_1280,c_limit/Business-Facial-Recognition-Grocery-Stores-UK-499556448.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T01:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
       "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
       "excerpt": "Chip making has long been ruled by big manufacturers and design houses such as Intel Corp., Advanced Micro Devices Inc. and graphics-chip maker Nvidia Corp. Now Amazon.com Inc., Microsoft Corp. and Google are getting into the game in the hunt for improved performance and lower costs,",
@@ -1119,57 +1171,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year.md",
-      "title": "Nvidia’s Inception program tracks 7,000 AI startups, up 25% in a year",
-      "excerpt": "Nvidia's Inception program is tracking over 7,000 AI startups, up 25% in a year. That's a lot of growth in a very tough climate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
-      "originalUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-nv-inception-milestone-logo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
-      "publishedDateTime": "2020-12-18T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

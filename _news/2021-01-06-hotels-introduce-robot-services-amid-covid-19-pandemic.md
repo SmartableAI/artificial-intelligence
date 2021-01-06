@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: koreatimes.co.kr
@@ -27,37 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Robots, wristbands, and apps: startups that innovated their products for COVID-induced med tech"
-    excerpt: "As we step into the new year, YourStory lists 10 startups that innovated their products for COVID-induced med tech."
-    publishedDateTime: 2021-01-04T01:37:00Z
-    webUrl: "https://yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech"
-    ampWebUrl: "https://yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech/amp"
+  - title: "New AI Tools Aim to Automate Aspects of Covid-19 Response"
+    excerpt: "Hyro Inc., a company that makes plug-and-play conversational artificial-intelligence software, has developed an AI-powered virtual assistant designed to lessen the load of incoming calls for vaccination information and scheduling queries handled by call ..."
+    publishedDateTime: 2021-01-06T05:53:00Z
+    webUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 47
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/shutterstock193700255-1590566337331.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://images.wsj.net/im-281112/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "What COVID Means for Biotech Compute Investments in 2021"
-    excerpt: "Don’t expect big on-prem HPC hardware investments from biotech companies given COVID drivers. While storage and more nuanced GPU deployments will push"
-    publishedDateTime: 2021-01-04T14:19:00Z
-    webUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/"
-    ampWebUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
+  - title: "Pure EV develops AI-system to automatically resolve defects in lithium-ion batteries"
+    excerpt: "IIT Hyderabad-incubated startup Pure EV has announced that it has developed an Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles."
+    publishedDateTime: 2021-01-04T06:57:00Z
+    webUrl: "https://www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115"
+    ampWebUrl: "https://www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115?amp=1"
+    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115?amp=1"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
+      name: Autocar Pro
+      domain: autocarpro.in
+    quality: 52
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_333911597.jpg"
-        width: 1024
-        height: 768
+      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/8c17c87b-188d-41e7-bfdb-43cc2fedc63e.jpeg"
+        width: 735
+        height: 414
         isCached: true
   - title: "How artificial intelligence and augmented reality are changing medical proctoring during COVID-19"
     excerpt: "Medical proctoring has gone remote during the COVID-19 pandemic. ExplORer Surgical has added augmented reality technology that acts as a virtual laser pointer for medical device specialists to provide on-screen guidance for surgeons."

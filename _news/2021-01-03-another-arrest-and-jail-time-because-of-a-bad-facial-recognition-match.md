@@ -115,6 +115,20 @@ related:
         width: 731
         height: 1024
         isCached: true
+  - title: "Homeland Security test sees 96% facial recognition success for those wearing face masks"
+    excerpt: "News; Homeland Security test sees 96% facial recognition success for those wearing face masks. 06/01/2021 ; Results from a controlled test from the US' Department of Homeland Secu"
+    publishedDateTime: 2021-01-06T10:31:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/homeland-security-test-sees-96-facial-recognition-success-for-those-wearing-face-masks"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 48
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/v1609928904/widgetdocs/facial-recognition_f8jukk.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "COVID-19 face masks meet facial recognition"
     excerpt: "Most people deal with facial recognition in a public setting at the airport. Today’s columnist, Tim Mackey of Synopsys, says organizations using facial"
     publishedDateTime: 2021-01-05T11:00:00Z

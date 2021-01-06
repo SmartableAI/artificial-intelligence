@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market 2020 Growth and Forecast Survey Till 2026"
+    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
+    publishedDateTime: 2021-01-06T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global And Japan Artificial Intelligence-based Security Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
     excerpt: "Updated Research Report of Artificial Intelligence-based Security Market 2020-2026: Summary: Wiseguyreports.Com"
     publishedDateTime: 2021-01-04T07:48:00Z
@@ -51,6 +65,20 @@ related:
     excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
     publishedDateTime: 2021-01-05T14:06:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market 2020 – 2024 | Industry Outlook by Drivers, Restraints, market demands And forecast"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2021-01-06T10:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-industry-outlook-by-drivers-restraints-market-demands-and-forecast-2021-01-06"
     type: article
     provider:
       name: MarketWatch
@@ -89,6 +117,17 @@ related:
         width: 450
         height: 250
         isCached: true
+  - title: "Search and Rescue Robots Market Report 2020 - Global Growth, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Search"
+    publishedDateTime: 2021-01-06T10:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19034001/search-and-rescue-robots-market-report-2020-global-growth-trends-and-forecasts-2019-2025-researcha"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19034001"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19034001"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "3c+uN+OdYBQsjF6Ht28APR5BaPSHgxgv5Gnx1SLee6aYiuFxPpi2LLkjp6EVZt2nmkMSBSkPCKTYaQzs1f39anI8NqZZRopIJHkARP2m4aW40JvNyfLKicmdOvH8gnbWfDFQ93EMU7Uhnq+gTKtZe+i9ojjndaSt9c6p+ICRbDYqeQiZqFUNWMrUodcajbNEYEElU46/ME2ZqY1ZiI7X6G2FBAjX0OxEjqJlpCecDHNTBP7nunb2MEl+niNxFapPl+O/pmlrNmLyUdrijpBH3Y2Iq/KP8K4oAYV6y9ltEL3C02TMEBOUjXWIeCgEENS9F0SpkPFK1k1eIEagKCnqKqW1zTTGLXPLpeDL/MueqZisepGSjij9bj4qeSr12MjxnTUyxkgPVsoBxyGQL9OUJUwG0QmYg1t71AqXOyagngvpKUntx4YeRM+ViLdVVcc1IkjAiPEYeSriQIv2FhYamI5fGUop2QU37AY6B/1AlcOCFjavuTdEuc9wfWO9dAskY7cluz6ueHqOm9yFLXsXxw==;uQotUEDyPEBBcyr7BRl4Ng=="
 ---

@@ -75,22 +75,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Pure EV develops AI-system to automatically resolve defects in lithium-ion batteries"
-    excerpt: "IIT Hyderabad-incubated startup Pure EV has announced that it has developed an Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles."
-    publishedDateTime: 2021-01-04T06:57:00Z
-    webUrl: "https://www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115"
-    ampWebUrl: "https://www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115?amp=1"
-    type: article
-    provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 52
-    images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/8c17c87b-188d-41e7-bfdb-43cc2fedc63e.jpeg"
-        width: 735
-        height: 414
-        isCached: true
   - title: "Hyderabad startup Pure EV's AI tech to auto repair Li-Ion batteries"
     excerpt: "Pure EV, the electric vehicle vertical of Indian Institute of Technology - Hyderabad (IIT-H) incubated city startup Purenergy, has developed BaTrics Faraday, an artificial intelligence (AI)-based hardware which can automatically identify and repair defects in Lithium Ion (Li-Ion) batteries of electric vehicles."
     publishedDateTime: 2021-01-04T20:09:00Z

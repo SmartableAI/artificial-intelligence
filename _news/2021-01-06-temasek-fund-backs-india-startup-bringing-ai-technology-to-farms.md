@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Temasek Fund supports the start of India with AI Technology to farms"
+    excerpt: "(Bloomberg) – CropIn, an artificial intelligence and data-based agritech startup, has raised $ 20 million in funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in agriculture."
+    publishedDateTime: 2021-01-06T09:45:00Z
+    webUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 57
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
   - title: "How AI Technology is Changing the Wine Industry"
     excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
     publishedDateTime: 2021-01-03T16:15:00Z
@@ -59,6 +75,6 @@ related:
         height: 969
         isCached: true
 
-secured: "auF281oPbnC48T4kNdn5T/27f7BItiPbq/dv0IREW8PJ65yfM+ekYqnb3BqVxXLVAHcJOfiuqVaEt4P9LHE0A80nm2rUEwYsNqHukOfTk9xcIl41VDQPLlPTvfzfoK19FM/K9nZr0Lwc3kN60v6eKYkpt5NiZDBsQYXTHJGltUGpCNfjxYcMptMzcFxOkQH32LM+BtBpcs/k2jC4fzsrjg64pemgKCeOgft8kTRvRYdP4+gBHL90o96H7jNwxeUYT1MsZDLk/1kAiSHcxfxniGa5F+XGnCqiDBC+ZEGvBaI1KTKXWd9roQw1ryfNOgVDJpo40XItmNAfKNnSbab8QmS/tf3UMsvqGOA0s4VKQ9I=;XEWu3PmCQBubdKJT5hvhqg=="
+secured: "mQVE2vgtChvFeOzZbR65Z/+23uPv504jJDgG5AlaifHM/7o9LtWLzBAMzc8FBLCS5FIT0v/ubFEwBMdKZLMZfmDAjcHmWmYBSr3srEEqQgMSAXPvBsIdVc9Fj8mxMr3su1pCg25oddvcrycznQeGqSMqlFc7+zvz7ox+S0a9xSSc3qR1ygE7Q1zdO8xxqckaJgw2fcyRiMz3x0ci2A0rNsS/5mqpARXFDvB5cqT7IdalioZCZ9Fv/1IKtgkDcVBiWYe7n3e+oXK7ZbCLDBBxCP5Js3qn9ispWX5jROfgCadNUrn47iOHOnhtv9Re55K6YcoyX0cVXm1jg428FlmlqUm3FzeTDQE5OXpf0XYqNycWpZK8PF6ueL3l5qe/AOX36vm1G6kDNgnYDG4y0Euecx5pXupw0APPrHCZLkOGsQXz89FVXXO67Mv4v+4pLHNkXxcLKKekFn5f7cZJetgGpbnxySMqwWSry7qRE4fp99VcvY+0HV1/RZVmY0AIDkJh3iyo2BQO6LqV9IiLaUXhAg==;vSbvs+iAptwzs96m5fBK0w=="
 ---
 

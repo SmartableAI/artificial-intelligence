@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-18-nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year.md",
+      "title": "Nvidia’s Inception program tracks 7,000 AI startups, up 25% in a year",
+      "excerpt": "Nvidia's Inception program is tracking over 7,000 AI startups, up 25% in a year. That's a lot of growth in a very tough climate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
+      "originalUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-nv-inception-milestone-logo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
+      "publishedDateTime": "2020-12-18T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-the-next-stock-market-crash-is-rooted-in-this-cognitive-misconception.md",
       "title": "The Next Stock Market Crash Is Rooted In This Cognitive Misconception",
       "excerpt": "In my view, the problem is a widespread and increasingly spreading cognitive distortion ... to sleep soundly despite the high valuations. Microsoft, in particular, has seen that such companies ...",
@@ -1108,58 +1159,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money.md",
-      "title": "How Corporate Card Startup Ramp Is Using AI To Save Clients Money",
-      "excerpt": "Ramp's growth and success in attracting venture funding in a challenging economic environment further prove that their business model is prescient and signals the future of fintech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbc218d27bb5af30fdc3c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/",
-      "publishedDateTime": "2020-12-17T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

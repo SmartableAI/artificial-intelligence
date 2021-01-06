@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-lifestyl
 webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-media-corporate-news-6fd159059ec146958af15e3c60ba2f39"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "World Finance reveals the winners of its Global Insurance Awards 2020"
+    excerpt: "World Finance magazine has announced the winners of its Global Insurance Awards 2020, championing the work carried out by China's Ping An Insurance, Atradius from the Netherlands and a number of other industry heavyweights."
+    publishedDateTime: 2021-01-06T10:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/world-finance-reveals-the-winners-of-its-global-insurance-awards-2020/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 41
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
     excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as ‘mask-friendly,’ ‘social media’ and ‘natural self-care.’ This press release features multimedia."
     publishedDateTime: 2021-01-04T13:47:00Z

@@ -345,19 +345,19 @@
     {
       "path": "_news/2020-12-29-why-ai-is-so-power-hungry.md",
       "title": "Why AI is so power-hungry",
-      "excerpt": "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?",
+      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
-      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
+      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/?comments=1&start=40",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-760x380.jpg",
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-800x450.jpg",
           "width": 760,
-          "height": 380,
+          "height": 377,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -367,7 +367,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T04:38:00-08:00",
+      "publishedDateTime": "2020-12-29T04:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -390,9 +390,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -706,8 +705,8 @@
       "title": "Google told its scientists to 'strike a positive tone' in AI research - documents",
       "excerpt": "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alphabet-google-research/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSL1N2IP008",
-      "originalUrl": "https://www.reuters.com/article/alphabet-google-research/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSL1N2IP008",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-focus-idCAKBN28X1CB",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-focus-idCAKBN28X1CB",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -724,8 +723,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28X1CB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1CB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN28X1CB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28X1CB",
       "publishedDateTime": "2020-12-23T08:21:00-08:00",
       "updatedDateTime": null,
       "provider": {

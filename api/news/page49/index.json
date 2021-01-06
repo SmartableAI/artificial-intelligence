@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-11-24-i-paid-an-ai-to-get-me-instagram-followers-it-didnt-go-well.md",
+      "title": "I Paid an AI to Get Me Instagram Followers. It Didn't Go Well",
+      "excerpt": "Influencers and pop stars use AI-powered bots to boost their online presence. But what happens if a non-celeb (like me) uses one?",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/93wad8/instagram-ai-bot-followers-review",
+      "originalUrl": "https://www.vice.com/en/article/93wad8/instagram-ai-bot-followers-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fbbec0a430030009be97230/lede/1606152260223-2am9rka-1.jpeg?crop=1xw:1xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/93wad8/instagram-ai-bot-followers-review",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/93wad8/instagram-ai-bot-followers-review",
+      "publishedDateTime": "2020-11-24T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-california-paves-way-to-let-self-driving-taxis-charge-for-rides.md",
       "title": "California paves way to let self-driving taxis charge for rides",
       "excerpt": "Regulators in California have developed two programs that will allow and permit self-driving taxis to charge their passengers for rides.",
@@ -1136,58 +1187,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-can-we-make-our-robots-less-biased-than-we-are.md",
-      "title": "Can We Make Our Robots Less Biased Than We Are?",
-      "excerpt": "Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police officers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
-      "publishedDateTime": "2020-11-23T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
