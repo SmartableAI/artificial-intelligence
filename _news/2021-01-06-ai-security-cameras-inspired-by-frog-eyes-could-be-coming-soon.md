@@ -2,11 +2,11 @@
 category: news
 title: "AI security cameras inspired by frog eyes could be coming soon"
 excerpt: "As well as taking cues from the natural world, the AI cameras also rely heavily on a new camera-processor chip called SCAMP. The chip has a processor embedded in every pixel, making it ideal for AI algorithms looking to rapidly assess visual data."
-publishedDateTime: 2021-01-06T14:37:00Z
-originalUrl: "https://www.techradar.com/uk/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
-webUrl: "https://www.techradar.com/uk/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
+publishedDateTime: 2021-01-06T15:06:00Z
+originalUrl: "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
+webUrl: "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
+ampWebUrl: "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
 type: article
 quality: 106
 heat: 116
@@ -49,6 +49,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KESeqg2LOPO5e65HfOii1CSlEwgf6rgTDwERHqpT37/ZoxMqiI0L4m7DhoOegC4poir8Jh4iuGjPXuGHLWdhGW4R1/9IjOB+A9J2auNnAf+xwi0s1Xi4U4sBrVZsPchT2UH5UGfnH8NypebHd366dltmaY06sXkJ2wHAPBWDhMkCigzoWurq04/9oCu86iJpk5st/VOAxtKuOJ6O5SBx1DxzQk/XPVf8nLvRjTghKaLS9tFarh6wx6OS7eTi6WUGPnpNktdx8qvmbid/yEqtqhvGAEx2Yo/RYRWw9EzsCUjB8lqB4V2+ZhBSxlVGAjNHpxnuV0O26nI+743Sub/fIBRI95ZPJCdtWe9rC8IhV24=;xaNQyRvpAquacmZvqF9g+Q=="
+secured: "jLFBn8BfyWJHDkx9Uy3rGrRu/sivUmWwB9zaDmY85Mz/XMh8VVWBduXk0DOfSPqrF2w9KDCYB9u1jgo0/pr1eZuNjwjhEmQyrg0tWXpGRvuN0jKa4ERHzdVHeurGfQBW1LP640dVQPg10x8kTNMZ52R/dgyVT/0qwVPyqYnr9Fj9bxyWdBPigo2txpds7vh6AmqejSdbWKUBoKlM0A6fSCWy0G2BIOESLbq8lOXwIFBHZFtXcKSfwYH+0fRCTnzoJvrZPrJgfzxjAVd4ntH7RNmdV9Aiz8ILh8o5qEljCIIA1+F/5goQr+1AlM0WtLExw0zieOKL/Lyem3NR8xiwHQu7VDlFRyM/ZfsAL4BL/yo=;aRNpAn/K+zi8n/M9AjMgjg=="
 ---
 

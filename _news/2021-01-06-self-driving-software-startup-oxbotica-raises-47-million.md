@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving software startup Oxbotica raises $47mln in latest funding round"
+  - title: "Self-Driving Software Startup Oxbotica Raises $47mln in Latest Funding Round"
     excerpt: "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent."
-    publishedDateTime: 2021-01-06T05:14:00Z
-    webUrl: "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
+    publishedDateTime: 2021-01-06T00:35:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546726058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0500I"
-        width: 772
-        height: 545
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "Edtech Startup Practically Raises $4 Mn In Pre-Series B Funding Round Led By Siana Capital"
     excerpt: "The funding raised will strengthen its market position in Andhra Pradesh and Telangana, and gear up for a pan-India presence"
     publishedDateTime: 2021-01-05T13:46:00Z
@@ -70,6 +65,6 @@ related:
         height: 385
         isCached: true
 
-secured: "ooFAQym/ipW3KO/X7l4+Obb0j+PffFwC+KtA6cr/9tnTWKJSY4evSx5PCYn96XrdVtTqPF+6kpgOH5/BR6gKjoSpmWsMyWqYwCr94zKJSbCkkRcKq3brWCYkMtf82AC1lP2exXXIzMlHbrN+8eVUHekEdVk7rn81betU3BKzC6SXJehHMDp2eLhNNuJJKfF7YkCRldam88yvPiTBRxK1rsT+4YpDHedS3YaldRzTHOrQaTy5xYxptf1YQsxHaqrqa+Ai/DOZekPiRiRQZ1K6OsBQ+OaZG/E+iczJff4nm6GzR9rVICqsnULy24AtqEkH/HSxdzsTbaSlhMUWcNfiC73x2VfYOETKS/qtcBGHYpw=;iVuKBwO760RYLHp6cbJvpQ=="
+secured: "1njmsG+GjfCx4yTFGtIfg9uAydhQphM2y7Wl5gDGuslHjebecPxl+SgnRqV/QNgjvkWBeLy4WvjHE1Ub8oMT28N1PgvvOtS/R3ppBPZOxIMN6PROfAmRKxzYGvGJMJgb3d0If7WQZX8w1XRtPFEBJG6YyWtkfb7NSvBsEB3CxkkRSbRt1Z+o+NI40MVOaJRzrlNw2ZYCvzvTPzxz606uWtBb3R6ygHMMvzx0EHoyXANZLzouorY7z3tRcTp/lnWoZWzct07IiObxHNHaDcAe52P0HhiP2AjnSmCNzOiLNNfnEciu05wh0Cs6rIztmDr2w6gBDjRgcZMmXnXL2HPTdyWpWHfNWAwytenL6nqQ7Lr1SoHvnMhZnV59j2d9mv8XaJuxXl8MRdGGJ7hjd1DihvtdSMLJXM3i39sqZxL50zoa7jr3eFnOSUdLHYf0LxsW2QOdziVpOlPqo1yk9hAFqTeWur31G98PFwid2XFL7Tmlyg92QY8C1zxSXXr07zvssNtb97NUEfKj2z87ryWQaw==;tVdJjP+GNtf4ELE9n3W/0w=="
 ---
 

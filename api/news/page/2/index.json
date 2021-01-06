@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-cox-acquires-ai3d-scanner-maker-fyusion-to-aid-used-car-dealerships.md",
+      "title": "Cox acquires AI/3D scanner maker Fyusion to aid used car dealerships",
+      "excerpt": "The Atlanta-based media and internet conglomerate has purchased an AI and 3D scanning company to help dealerships digitize used car listings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/",
+      "originalUrl": "https://venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/fyusion2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/amp/",
+      "publishedDateTime": "2021-01-05T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though.md",
       "title": "Watch this amazing AI-enhanced montage of Lumière films — historians will hate it though",
       "excerpt": "YouTuber Denis Shiryaev used a controversial technique of AI video restoration to colorize, upscale, and enhance films by the French pioneers.",
@@ -1199,49 +1250,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries.md",
-      "title": "Hyderabad: Startup develops AI tool to repair EV batteries",
-      "excerpt": "Hyderabad: Going a step forward, the IIT Hyderabad-incubated start-up PURE EV has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-Ion batteries of electric vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/01/04/1022847-pure-ev.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369",
-      "publishedDateTime": "2021-01-04T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

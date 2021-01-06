@@ -29,10 +29,10 @@ images:
 related:
   - title: "AI security cameras inspired by frog eyes could be coming soon"
     excerpt: "As well as taking cues from the natural world, the AI cameras also rely heavily on a new camera-processor chip called SCAMP. The chip has a processor embedded in every pixel, making it ideal for AI algorithms looking to rapidly assess visual data."
-    publishedDateTime: 2021-01-06T14:37:00Z
-    webUrl: "https://www.techradar.com/uk/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
+    publishedDateTime: 2021-01-06T15:06:00Z
+    webUrl: "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
     type: article
     provider:
       name: TechRadar

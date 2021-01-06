@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "New radar could help self-driving cars 'see' better"
+    excerpt: "When weather gets bad, self-driving cars struggle on the road just like humans. As AccuWeather's Lincoln Riddle reports, a team from UC San Diego is looking to change that."
+    publishedDateTime: 2021-01-06T18:18:00Z
+    webUrl: "https://www.wfaa.com/video/weather/accuweather/new-radar-could-help-self-driving-cars-see-better/607-cc1e455f-68ba-4292-aabb-b6eab62a8f3a"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 24
+    images:
+      - url: "https://media.wfaa.com/assets/ACCUWEATHER/images/5fb462da-dda7-4113-b43a-a293d1e4d808/5fb462da-dda7-4113-b43a-a293d1e4d808_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "qkPsrdk4v9hWzCjJ6MSQiH2sFsVFuELr19LQFkKl7083V7J+EOXPwSnwAVT4Ofky1pVfXXhEk0CDSohMJVkfs88+T8E302EKbw5nnv9izV6BgkcRA76IEaiVi/iBS8EcSB7iJjeBl1pgkxkTBaDrhnogZ3DOBCjxGdnUuIaxJHRq4DPKGHTl3T8dVaehLLhiSB5PRPgkNeOxLmG3xs6W+DMfw0DChAaL21+1oQYwkyCDhFjsBM8Jg94E4Mvd2KvyvkwMz8730yEBxzDDIqYfjRTRILbIuFe7up4OTtBFhWJ/qq83tvbQCKVxVibii+w/KCZCxCvxKRps1WdrVnGD7nHefM+/r1Nj2dgyx/eykqUMa6F0HNkqpVGjEN5dn5EyzjiJ3FDH1ZoDqo/SP/nMQ6l2i53SboGka9V1V9UY/qKLWEvRMlTQ0ZmcVs/RTbX0Zxy17sYpoYoX3Gn+pNQXQ2xnTUgsmqC2CwsTTNMPQSFb5WTdUNJffi1+4D54MaSkWkmAyFWUuBYOOkmE794wqA==;WEYbZvhWS7OqAQLYAa2Lpg=="
 ---
