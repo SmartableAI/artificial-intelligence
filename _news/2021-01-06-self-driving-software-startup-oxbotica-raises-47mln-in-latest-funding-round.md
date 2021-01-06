@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Self-driving software startup Oxbotica raises $47mln in latest funding round"
+title: "Self-Driving Software Startup Oxbotica Raises $47mln in Latest Funding Round"
 excerpt: "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent."
-publishedDateTime: 2021-01-06T05:14:00Z
-originalUrl: "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
+publishedDateTime: 2021-01-06T00:35:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
 type: article
-quality: 86
-heat: 106
+quality: 66
+heat: 96
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546726058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0500I"
-    width: 772
-    height: 545
-    isCached: true
 
 related:
   - title: "Edtech Startup Practically Raises $4 Mn In Pre-Series B Funding Round Led By Siana Capital"
@@ -45,6 +39,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Self-driving Software Startup Oxbotica Raises $47 million"
+    excerpt: "Oxbotica, a global leader in autonomous vehicle software, has announced the completion of a $47 million Series B investment with partners"
+    publishedDateTime: 2021-01-06T02:10:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/18776-self-driving-software-startup-oxbotica-raises-47-million"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/6d17036fb1197faa597ce23970984615.jpg?t=20210106_020700"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Self-driving spin-off fuels up on cash"
     excerpt: "A start-up spun out of the University of Oxford has raised $47 million to accelerate the development of its driverless car technology.Oxbotica, which makes software that runs self-driving vehicles, is"
     publishedDateTime: 2021-01-06T00:01:00Z
@@ -60,6 +68,6 @@ related:
         height: 385
         isCached: true
 
-secured: "nrRGwSE1sE81fMajWcppPSd2IaB8n57b/VMHdAiug+19EDn1A4+b1mthWFSBtfTYOBD+UiCym5iO076v2YGCyKxPESd9gOLjWoAkWR4RrnBKcIbmsYfKlHIdYMUYhV7fqbaojQCjHZEpcKtx7N+avK4LawpQB7D1BDPaEd6dT+D2jLu+s4rbRP6xspttYD7Q/2ViQxZxjD61ywJtz8QQ9XlM5SB61lXbKGW9gfHiDfrz4g2+EXwgCjbJP7/DHHo7DWAh+na/EqIsJzn8ScB8GxLAOJWCrJxfGNI5Il0ZUtXVHF5pW0bvKMry5fiVDE3jrznSWln+rJeotlw6uLPIto5k0PyywliEoHtLmewWQXASLqO85sEQWYTLE2ZKY3pvWPwM1Fe9zoZtpsL2zEUdeydjfduyXY2noFEr4Z+9RlW1jhG+Aptu96hU9TDw11Yw17BSS5SSYLD6xvYIHigkesx0c3ZNTZr//EC0dKXlhk5CJ2XftcFgHtXnBhsnmlI3C3jmxsxJVDl/A+CsWTtgJA==;h3XG7/aGYamud6nfTpEZfQ=="
+secured: "nVC+3IehbZWMTPnMEs5XZu7D5rKAAdiVRf9cVuesVD0Hzt7pbw1pFT4XC/L8WvO8RVXtSpTMxEPwasWuPifZLZov7FK4iiXvMPtcmQ2ehbaHyapZdOPWUIu0e/9P9yMMwMvYIEAaOrClDMga32dKiVH8s4J65XsN56165UVROZaSkqXEfwW79+Ju2SF3prHPewLgP86dep+tPk+O1uHYRPCcaBNra6w2oI8hWehwm/yz8AeUZtH3feJE08L4WId5w8vN/A6rInSH7DLuf0/ctDrPUzt7OV0ygt4dVvCJxyDI5ndWGbBqt2Yfxt1lbmO82xW8AXZC6lcBx0vlM4hTnTIf6IrimAAb1PSCgLDUSBTXthpdjES0UUHzfD+6xBCKyU4FiepUVmjWYizkaktQPylbdAUiEgx8ynse18413/RhQimn9HE0pmGasdH067SApw287VTUwsmeqel4cFxwYeS9JhbJ5HVd/I/JV9nDDO8o50Eu98edhCCABsq3++MoJ+EyKH8dsFVmXTEVTHPFmA==;VjqgokGVyBYIel08pkEkwg=="
 ---
 

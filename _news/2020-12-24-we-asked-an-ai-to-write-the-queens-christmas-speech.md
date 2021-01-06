@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://wi-images.condecdn.net/image/Q6GoyOkPB3P/crop/1440/0.5235602094240838/f/wired-queen-ai.jpg"
@@ -42,6 +43,6 @@ related:
         height: 540
         isCached: true
 
-secured: "YM4aPUDKIi2qkD+9iNn9xjum9JmNz4GJGUhS2eLHK5xA6G1kYWhLtYCL+JkgdrKJ7tip8ePiDsC8dnItbWsFsxLIq0C5juvYWOqJQz6yVcXvbh7RqtdHBdU7qy3LYvs/dn1uZv96picQ2cea61wY5CVzIWcPbRBNZN6toE9HLWd2g6qnYsV/44CAi8B0Yghf05caK7IqN/mT5S0Y4Ow4ClR3W8l83fo3b+SSMEF/2DkNswpWRcizdfb4QM/L73pY0I92uo0sK4+kWVFqk/3bS+71pR0X8Z5qXWFLbKsABsAzJBc61tHw1pW3+SbMNcA6IM2Ecf8eEVIip7MhegT/nRwBW5RFI3u1hGoEzbf0tiU=;dSqWieZgE3FZLH9PRTzl3g=="
+secured: "C6ZbRbdQcXYH17fjAY9StQHjK/r6sZAtR+rdNreygjDrqkZJbaWeSubp88F861bArG0CleEv3ZBXQWN94XnrniqImheXC4WOqPQLzFAzDxylFHZrLitneWwTdnNYPHzjy2pXwmcsi1L974nwrMjj76IWJ/BVQd1sE2PsS2A2aWLHYUbs9s78UCYYXbvCo+05thr3DSxhcWmOn3mtSRV/TcbEkYhU1RRdBYlyp1Z33W4HRon8E9eQfXoEv8QWRtUqFNJxmGvasfB5EgFAjJcjnitcIvxIF453NlKi9JEhceH+pTMinukS03XiTQhNF/cxXFIbDsrE6Yx2F4vArV9fExaEXjm2DwNxogzDC1Qxo4iqAuUaUEvo1mmRwYF+7+UxtPFLcHRBAbWgEFD2QlQYihmAq7CIvhyGVCfrb5dmSVg4bh4+iaiFNRaZ/ABiQec9gTijko0sQaVczVxRndB5uPFAAINuUATUQgOEqqjp0DLjBf3PTy+cBWn7IUjF61YYG1ee7IkHT2jYk5K8aBKpRg==;jynhOSQhl9kiH2NVIs+6MQ=="
 ---
 

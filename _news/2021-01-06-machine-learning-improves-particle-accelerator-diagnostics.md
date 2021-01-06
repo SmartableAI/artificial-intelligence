@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Machine learning improves particle accelerator diagnostics"
-excerpt: "Operators of Jefferson Lab's primary particle accelerator are getting a new tool to help them quickly address issues that can prevent it from running smoothly. The machine learning system has passed its first two-week test,"
-publishedDateTime: 2021-01-05T17:22:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/01/210105104835.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/01/210105104835.htm"
+excerpt: "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly."
+publishedDateTime: 2021-01-05T16:09:00Z
+originalUrl: "https://phys.org/news/2021-01-machine-particle-diagnostics.html"
+webUrl: "https://phys.org/news/2021-01-machine-particle-diagnostics.html"
+ampWebUrl: "https://phys.org/news/2021-01-machine-particle-diagnostics.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "tzXkf1gPoDve5tbIiagPazX7Js9mKGS9c6DtociqHWT3SVJ3JoXrG4mfiKEzVgqV7lD5GZqC0txREESCG/OtChE/tGkCDcGnNqLd+duD1nhI8UZI6XqfB2qtVLgtX05Zn0yGQx3Ik6yJwigB3IwNIa1hJWoxp+1++Wy9I9qfi6ZzZCZQpKyw9r6/gfzD5x0Kk59B+KHmHO83QJpaiRF43oGNW8Drd4aSXa9jh4aFoKQozBUnzuJAMZftPH04V+AEuOsBM808H541Ou4wp4t1tfFkOMEnuBGVt20cBC8wGm+B1jBfcLySsWJ8Vp1/0s6ikXfoRtByt402UQjUS9494vUG14XgW2Fp9q90++SeY1g=;5wnBmho28FoWUcFTrUVJ+w=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg"
+    width: 799
+    height: 533
+    isCached: true
+
+secured: "MbqPB2ZjFpu+ESUknGTL4o/cuPVZ8tiYjxxuTwXkSqN5kRj1gvBPr8YnDyvFXPtHNRQs934mvMDLjyibSP0HWRE8lXlaIV89J9JMhFtVYXtXCZRtQbScvmer75qOKOblDpTtM9HkmJ4e1XguKAWE2FGAsge2yvVIOJUzYBEE+zh+DM9trcavk0SWupkelvRADcwaS1HBwaHIO5jfp0zAIA0PYln1At/DruxsFQfp7ga3QxbUau6eboGZ1I8FDwF9Q7g+M3PGCNxFcQWYBAgr4b8/5UNRHjIKRDSO1c+ffZ2h5hfj82N9CLLHIunqO4KBPlHJlsqviqqpLs6weaHOUGKaHCCvQAzPJ4s7lcspW18=;eCdkaXPiUAqatxXNwT0BFA=="
 ---
 

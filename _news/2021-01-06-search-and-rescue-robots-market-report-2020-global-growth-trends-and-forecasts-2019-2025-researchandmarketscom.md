@@ -49,24 +49,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global And Japan Artificial Intelligence-based Security Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
-    excerpt: "Updated Research Report of Artificial Intelligence-based Security Market 2020-2026: Summary: Wiseguyreports.Com"
-    publishedDateTime: 2021-01-04T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-and-japan-artificial-intelligence-based-security-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026-2021-01-04"
+  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
+    excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
+    publishedDateTime: 2021-01-05T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2021-01-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
-    excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
-    publishedDateTime: 2021-01-05T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2021-01-04"
+  - title: "Global And Japan Artificial Intelligence-based Security Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Updated Research Report of Artificial Intelligence-based Security Market 2020-2026: Summary: Wiseguyreports.Com"
+    publishedDateTime: 2021-01-04T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-and-japan-artificial-intelligence-based-security-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026-2021-01-04"
     type: article
     provider:
       name: MarketWatch

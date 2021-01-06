@@ -28,7 +28,7 @@ related:
   - title: "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
     excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips."
     publishedDateTime: 2021-01-06T05:31:00Z
-    webUrl: "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6"
+    webUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
     type: article
@@ -47,7 +47,21 @@ related:
       name: The StarPhoenix
       domain: thestarphoenix.com
     quality: 67
+  - title: "AI Chip Startup Tenstorrent Hires Chip Design Legend Jim Keller"
+    excerpt: "AI chip startup Tenstorrent announced that it has hired chip design legend Jim Keller, formerly of Intel, AMD and Apple."
+    publishedDateTime: 2021-01-06T13:24:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/ai-chip-startup-tenstorrent-hires-chip-design-legend-jim-keller"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0265-114390cabf22-2050a6118ecc-1000/keller-jim-intel.jpg"
+        width: 609
+        height: 456
+        isCached: true
 
-secured: "Wm20rITzLuc9o97P36Z1iulUzMnc+Oh7f5bijmopLfoRCu0tiXUSwJDQfGCsLd6A74H4+PbD1RSJpiHN/q1g/SBjffbdCk1LSgj7OlTLGtzr4MvMlCD9T7zCTi52IysWJv8DlrKfSJLrjIzx8OUtkgnxmGTh4gRZbZLDGHy5E6JaT6L1bkaGvCtnX/QyFFfT8m9HAsv/GCo6VAN65kjyegHoqobKXsdxFATtKjhMs5Fw1sNkx4GndY3Cc1SmvjUNlnxzjxskcTuwSVAB6vMi1cU9WyOti3+LSrkqVfGQAqhcCk/pSPPun6/yBVmwwl5mXeDHw2R9EcwkslUKIqrSXQnHdTwdTb9rFPlp2E0c8rQ=;82ZYND9cGHDXABtrQrE1hw=="
+secured: "okG0sgkDxjIuw7v1ViklcBmP7Vksf0MGRQTWI4/WEhNZMO58yNsDSSo+yWys5YHb/McIIHaCoBf+xcHEBxeQxwPSg2csD6hY7SJX7hIB6eyI3mU13NBffZMz3WMnG9NQGywN3oKClMAxxSDWnTRj6PdG9qQhbgARKTUpWKBS3y4DyxD9rsCHWorCq+yD5tAOyGDvLJvCy4XR5wXwkrMC0ws/CMVnUZLSl6SZgc1j6KhmYu0XyvBnkFBvhNsnzc7CZ0j4laQh8YVU28o1kPEFxBXGxRtQib+3yibK86P5iVEy8o13o1DEoFT4YuydFV5Wq9AdZ+yeYtIvWgZag0ByUZYYYvTXVdw8kV0IfU9QmfEUYvgjknQyy6b0WaMIZScBk6Ade27vn0JNFFJ89uiOPhqsPZUZF4/eBq2+wcQ/kfF2HumFIgCcrY8l5veXCBfZTjTfSNJujPOrevr0ps30ubVLBbswlfveYLW9OGjSXRBh4VM7ztLQMzqYHVjm++a781p1/UZ0hw4r7B/5VlhZCg==;W7qi9mcx3KkmamLtAXKAeg=="
 ---
 

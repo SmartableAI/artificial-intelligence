@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

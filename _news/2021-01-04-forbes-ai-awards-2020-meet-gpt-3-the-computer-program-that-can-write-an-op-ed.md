@@ -6,20 +6,21 @@ publishedDateTime: 2021-01-04T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/"
 webUrl: "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/?sh=1de41af393a7"
 type: article
-quality: 147
-heat: 157
+quality: 149
+heat: 159
 published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdff97b0c3566fa06d16d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1880%26cropY1%3D0%26cropY2%3D1058"
@@ -43,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "tw8C+JjkNi0uRhcnJ7iUoranlcDnsE02dHpY2YbdlAMpz6aPBIdcK2RJC3vpxDpC0Yr+Oka1QOLbUbmtEb2+J6UAOZhn8dwbfdPgURbZGETXFe23B44zdtRNaTMSggNyTdtKbBPE35F/n4X9+KPU8q1ATv8Do4EYT6ZAkTrf2Sjtif48QBqm+7yfkN1CkMc2X/L2rqTPOZLG8DRzgqk4DaWSlmOuxErnbX6EYBxDoHi7jmW6LwmOxXxscCN/YzjVztfbff+J3HsvZlPj2tUzNRC3gWPQTUaJaC0io42gDweqHV8Cfo8HCcar4wzTsi7YsrIU6ptAVmDh69NxRWsQLocJ49IBPWffOLMHVp9wQGk=;hpOA8FSz5XfDJrLjndXZ/g=="
+secured: "oZBhx4lbsJ2lI+CVoAI4F0hZkh+Iz3BVuEG/ZOYAFqi5x2g0iKYkF6gbqQ2ujtpXVM89jNxhQaT0FLVJIfsPiv4zWgcOnkEa32LjGgnN66NIYpCHJEta15T+c4/GdHA3WQe18f7RX5rd0rL/fQfI3Yy0YmIIRXdq8gSHeusANW4mIwrFK5Sgb9BqXrctQNC4h/Q+xePmFax26DMcwrkPqNMtILaAtudBgfvbsehaN3zRKEkCLU1txDmBldtqLntE59wKkhSS7ZVEUdc5ehadzsAz6regnVlc/7pqZHpHFL8wwhLU9WcjmUuZePwJEj6sU/Zz9CuJWeiV9FL5QquHRzN5fvvspcSdeWbYvNWxVzcRr4rUSDdS0p0KDXnkL3yUxeqK6t3m68A/VEwcHjqmQ8Fc8x7rGXSJOeoR1Ma5Ks0h0m7trGhQRVCynXxzaipzP+3h+BJ8CHWchOobBJKlsOXfNBROnKeARR/Eg1D9A9rH2CkjVR3joCx3vw4b7hlxlh6bQs3/BEJ/0jLb669v5x3VMkXtU1Vqu72Hxjs4aaw=;pLHB02k6V5zlMIiXsMiJTw=="
 ---
 
