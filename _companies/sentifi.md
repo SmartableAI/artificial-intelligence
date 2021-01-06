@@ -2,7 +2,7 @@
 name: "Sentifi"
 overview: "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia."
 type: "profile"
-heat: 32
+heat: 42
 
 website: https://parashift.io/
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "J5Fat4jGND1tYEq0zhcF5vNWXHNl0yoebH2p4sPE7uMTwcqPEiXgqfYh+SPoi8SlvKFsy//1mnY/DyK/zXn1JjAHdyxW9y/vwDKYk8CylJNrSTNseUk8cQLjASfleBh7XUyvlKwEs8Kz7ylznDKRF7VcPYCv4ptZsXhQuWBa32MjSbXH/eewzq60Of1wONiMM34gMIE+/0cXxri/b8RQEko0aFE3QMdf4QXcSPZxOl+5NooIGw38k/w5hkUxH4FMT7w8yqLeP+Em+SsAYjQWGsZdK+pGWMPt21a9fhkDQy/2JXhJuZubASG/zNocikyKxckjNkwVBz/fDMNXipUtxzDQ0km/EQRM8msD1dRef3bYjOJ/IOYY88H2dkKBHishEd5LNKtGttE0f+OiEIR58o1zutmFB73YMOU/FTWi0hA=;LIO5OzfWkphswHRkLLaqeg=="
+secured: "l/JIR8TYI4iMbDp50MkktJHgycNTWzLlSMvRSzgc8kHX8v2NqfsCMYttEY6V9eu3/q128xfJWd+/b/JyYdt7Dj7hIdHJWH09thhFFCl0P9bDgV7ODwYBz/Cm/IIpgEAzTxByrnjxnZ2LagSaBhmFDDrasYaui6voSEB5emyjw2mctHeXz1BU2hcV+lw7nwHAyFZOLFO7jG6i4pAMocAYeuLH9rMVoQdclYQM1zoq3E52YGJ8P/7gnAsOMYrQBcDmPpskrnk3IW3AH4//BEvAb3b9hPD31QT4dPveCvsdHwnpfRq2vLObCkP1PGdeHIcZxM1lVArentSa20zFNekZh8Ns1ATcFyo6WqryBhmCi5WoqHujHBbzFhdtOCa9wPqfcOJFvZsrh7MB+eOicftGGISrH1qrhmX1ssRamWhNQvM=;WxuOEiROXijGSe49Keb0nA=="
 ---
 
