@@ -3,14 +3,14 @@ name: "Noramay Cadena"
 bio: "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23"
 location: Los Angeles, CA
 type: "profile"
-heat: 78
+heat: 98
 
 website: https://t.co/t9CFIWFMbw
 
 twitter:
   username: noramayc
   url: https://twitter.com/noramayc
-  followers: 17168
+  followers: 17169
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Noramay Cadena"
 
-secured: "N05FEzvVO4SEvDaZlSAICMpm9by4yG+uzq3I69f13Sqt7O2XLtNPtD/RgZMEa9j8IuZOOBwfQM94m5bGQEA3F6QTJGEszB3pAoNMypayxHBBiy+POSqgoQXiZrKX1lfywjsAWnuf9VvrtsfNxHd3VcyZ2d60Bn8EUtCZOpNBoBVXPE0eDVfLUqVF9BW+hrM4zmMCs+NIOw2xyN9/weQ6YtPh4QzPjaYnSAMlgQNE3Uy5nquTtf8aqFNGfG9XkUZanLjfPrSQwfyLWXz0lsmKNNHslLlBpJGHuXkEYpF6XFVmY47oLCsWV/I7j6vBPqLfU7m1td8yqTpzLnKJ7SAAk6uE3omBv5w1cqAbBEHhczCHHJWaKvIzUNn3LfRb+yn1xatCsKgIAFWZ0KdthEqwoM4pZVaLjcW0qcBZPkIT/yg=;3NQ0atEWprPfjao5BeG1kA=="
+secured: "bjb4A4AUwEHiWW+0T1hXbnNE3lc/lZieVAF7FG4L76pET8MFCWqqJ30fP4btNxbk9sIV0vN/uOHBQwX34tDHCa7ZC7ALB8cDLEaC13pHdYuv76hW4MacJnzU87Xpxpb2Qk4gBBe0HWAWc7tTt3gRgHo56VrgM6aGgDTlZ3D9Mnxsz3ryXaHscpN1or3tMzkWbUldWr9OxAymY11GpnXXFoXfa6BciUKRJnVddqeal+iwmrBof0OPuwY/nrY92ogobDTVLQQ+WZc1jQ+zuEaD13e8qvuGGJQAyRauAjFJ7ti9QDVHj3PDiRfT9y2CSy76Sbt42fo7BJ8D1YYLIXUKxJpiDxIUBxkmmR96EF8cStxZ4dAXh2kx0qqTzYA6ZoMMLXA2y74Qux1BZAHpz0IquMmY7xCViCnSKsTC9dD8+fk=;H40eIFf8Pyf+JNg7i47xzA=="
 ---
 
