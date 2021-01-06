@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025-2021-01-04"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Cybersecurity Market to Witness Massive Growth | Darktrace, Cylance, Securonix, IBM"
+    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence (AI) in Cybersecurity market’ Report @ Key Segments Studied in the Global Artificial Intelligence (AI) in Cybersecurity Market At the beginning of 2020,"
+    publishedDateTime: 2021-01-06T04:44:00Z
+    webUrl: "https://ipsnews.net/business/2021/01/06/artificial-intelligence-ai-in-cybersecurity-market-to-witness-massive-growth-darktrace-cylance-securonix-ibm/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 10
 
 secured: "wdcjr156gZhYHZkoobRYSJqIMauSAkzftN+1R5MmA+UVkKsPABMYsBPpICX4hfF/UDBIJEOWJ0DgFoOKwvbf09ej8koJTzRsg3ZrIxp6luWYqJ/rO71LdGiF6NtSgnThu2qPd5LP7mnDtNNmIhkZjRc8gqggiXLrvetg4qvbGa09BuuXbUtJA9Xyb7jUtargmUpk8Fd72Tvyj7oNl8BJY3mRCcDLS/Du5LN50r9hsCbwe4R5Lv4jlXOM4rNh6tQqoNtwynaBhlLm/PgyqIXEZ5SoCOFeMVGy7conAGi4UbfxLuG83x/yBLZCxpZzUkOSOHPsIZN/6rQMohhtqkGONl53eg1he6tzM/FACjgiEfU=;cZVHNEHZFgHaTpYryeWVXQ=="
 ---

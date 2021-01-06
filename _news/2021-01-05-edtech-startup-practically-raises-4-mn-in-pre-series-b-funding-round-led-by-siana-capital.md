@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/362755"
 webUrl: "https://www.entrepreneur.com/article/362755"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,31 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "Hyderabad-based edtech startup Practically bags a $4 million cheque from Siana Capital"
-    excerpt: "Hyderabad, Practically, a product of 3rdFlix Visual Effects Pvt Ltd, on Tuesday announced that it has raised $4 million in a pre-Series B round. The round was led by Siana Capital, a deep tech investor,"
-    publishedDateTime: 2021-01-05T08:56:00Z
-    webUrl: "https://www.businessinsider.in/business/news/hyderabad-based-edtech-startup-practically-bags-a-4-million-cheque-from-siana-capital/articleshow/80112966.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/hyderabad-based-edtech-startup-practically-bags-a-4-million-cheque-from-siana-capital/amp_articleshow/80112966.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/hyderabad-based-edtech-startup-practically-bags-a-4-million-cheque-from-siana-capital/amp_articleshow/80112966.cms"
+  - title: "Self-Driving Software Startup Oxbotica Raises $47mln in Latest Funding Round"
+    excerpt: "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent."
+    publishedDateTime: 2021-01-06T00:35:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 34
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
+  - title: "AI Clearing Raises $2M in Seed Funding"
+    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
+    publishedDateTime: 2021-01-04T17:32:00Z
+    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
     images:
-      - url: "https://www.businessinsider.in/thumb/80113107.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
+        width: 1920
+        height: 969
         isCached: true
-  - title: "Insurtech start-up Tractable raises $8m in Series A"
-    excerpt: "Tractable, an insurtech start-up that specialises in computer vision, has completed an $8m Series A funding round, led by Ignition Partners, Zetta Venture Partners, and a host of insurance industry leaders."
-    publishedDateTime: 2021-01-02T19:23:00Z
-    webUrl: "https://startups.co.uk/news/insurtech-start-up-tractable-raises-8m-in-series-a/"
+  - title: "Self-driving spin-off fuels up on cash"
+    excerpt: "A start-up spun out of the University of Oxford has raised $47 million to accelerate the development of its driverless car technology.Oxbotica, which makes software that runs self-driving vehicles, is"
+    publishedDateTime: 2021-01-06T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/self-driving-spin-off-fuels-up-on-cash-q6clps7t9"
     type: article
     provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 17
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F065f7c74-4f8b-11eb-ad71-ea6bb4a570af.jpg?crop=6594%2C3709%2C76%2C559&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "wJ5kRuRxDxtDgAw7cBhwwxF371c0zNkMnzJlwCaI3uIaLFXsq68OLvUXQFd9N/O4fRXIlz+bS0trNdLtuRIU31aNxcW3Z8XxKHt/vYCRdjzRttrMUXSn8IwuATvB1k8lmDalVRrqj8PrlHx4rCQNmAMVEqfqizZ4Q8BSwZvv2O4333Ce0LwwZFTCCpicgVWrfxNtjbwk6D/r1BEMTg8m6DEmLElJwd+dyNdQHc+2W3bf5RxnYbUe4m9mQBLiRF7aWBGXKlat36WMp5CcAknitX2O+hSRD7UYEwb8rOOP87zVqfvU+nEu34qWI/+sp9WyJ1iyMux3PNhtzsMj/2UWs2yYIDrsw0WSK+6igS48yKmlPNAN1NFo/P0A+T7sDS5rAj0X9Rw3ukgZ39ayh6T7lLsYpMlk4sDAJwuv7pcbddt5Yc0z/dOPrWfgv/ooRYHAh9axyV2ws1uBsNTBO9ekZDgXsdigXlZzAWvcDyVDQrc5NDiO73Zzv/1TYZRw2fBYXZiKE/A7q2UDdLsMCD/4Pg==;ZVrKscSlhiocYGDxGwivvA=="
 ---

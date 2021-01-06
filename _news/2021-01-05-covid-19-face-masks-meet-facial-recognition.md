@@ -103,6 +103,22 @@ related:
         width: 960
         height: 506
         isCached: true
+  - title: "NIST updating guidance on facial recognition algorithms"
+    excerpt: "The pandemic has inspired new uses for facial recognition software, but may require tweaking of algorithms. Masks, which leave only the forehead, eyes and maybe the bridge of the nose exposed, can make it harder to identify people accurately – especially for law enforcement."
+    publishedDateTime: 2021-01-05T18:00:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/"
+    ampWebUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 59
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Patrick-Grother-731x1024.jpg"
+        width: 731
+        height: 1024
+        isCached: true
   - title: "Another arrest, and jail time, because of a bad facial recognition match"
     excerpt: "A 33-year-old New Jersey man is the third person known to be falsely arrested based on a bad facial recognition match. In all three cases, the people mistakenly identified by the technology have been Black men."
     publishedDateTime: 2021-01-03T15:31:00Z

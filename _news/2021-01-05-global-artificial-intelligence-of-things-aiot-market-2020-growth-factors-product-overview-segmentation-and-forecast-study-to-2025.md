@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Cybersecurity Market to Witness Massive Growth | Darktrace, Cylance, Securonix, IBM"
+    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence (AI) in Cybersecurity market’ Report @ Key Segments Studied in the Global Artificial Intelligence (AI) in Cybersecurity Market At the beginning of 2020,"
+    publishedDateTime: 2021-01-06T04:44:00Z
+    webUrl: "https://ipsnews.net/business/2021/01/06/artificial-intelligence-ai-in-cybersecurity-market-to-witness-massive-growth-darktrace-cylance-securonix-ibm/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 10
 
 secured: "Vt8eLrhuWt81E+Cm7qms5V42/yxIKs5pzTQ8XhR2C0rv+CmVcRYGgcxupLFz9dWPjcjqaLlas3KuynZoUVRmNfan9UWB7pJHgPcRNBQ8goGOmcQ772qdqZvj9JUFv2QOy2ZOBz8dXgJgcwMyEQbB5EUbKOA5bL15mhDP9aZCTxepoP1mou1sb8MDBZqEFqTbhuIxhd4B5kW32adJ4w2GhoHnsLtZQExm9pNjUTzF4gK0o+uA+ddB5O7hjIHiNNZxXlN/zP1II1RxrhmrgyoTazpJ7TEzsNixYnpWGyv1DvyTX/Bf9LcWP8Zi/aThipm1cnYZc2Tydr1h/XBhe2H6WA7oVOfVlp1c2eLICp+psag=;4k9gZ/POyXS9i9R+1uDmgw=="
 ---
