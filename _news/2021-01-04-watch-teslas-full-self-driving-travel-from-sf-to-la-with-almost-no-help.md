@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-19141285
 webUrl: "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
         width: 620
         height: 327
-        isCached: true
-  - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
-    excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
-    publishedDateTime: 2021-01-01T21:01:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-244050/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
     excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."

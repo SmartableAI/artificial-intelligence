@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-06T10:19:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-key-players-product-and-production-information-analysis-and-forecast-to-2026-2021-01-06"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-key-players-product-and-production-information-analysis-and-forecast-to-2026-2021-01-06"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

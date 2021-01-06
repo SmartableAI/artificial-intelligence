@@ -2,6 +2,187 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-31-chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots.md",
+      "title": "China’s Flexiv raises over $100M for its adaptive Rizon robots",
+      "excerpt": "Shiquan Wang led Chinese robot maker Flexiv has raised more than 100 million for its Rizon adaptive robot in a Series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
+      "originalUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2020/12/Flexiv-e1609398956471.jpg",
+          "width": 1900,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
+      "publishedDateTime": "2020-12-30T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
+      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
+      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
+          "width": 800,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "publishedDateTime": "2020-12-30T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-assistive-robotics-market-by-mobility-product-type-applications-and-geography-global-forecast-to-2024.md",
+      "title": "Assistive Robotics Market by Mobility, Product Type, Applications, and Geography - Global Forecast to 2024",
+      "excerpt": "The assistive robotics market is expected to grow from USD 4.1 billion in 2019 to USD 11.2 billion by 2024, at a CAGR of 22.3% during the forecast period. The assistive robotics market is expected to grow from USD 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T20:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-ai-and-robot-run-farms-are-transforming-agriculture.md",
+      "title": "AI and robot-run farms are transforming agriculture",
+      "excerpt": "Ag-tech startup Plenty's vertical farm produces 400 times more food per acre than a flat farm with employed robots and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
+      "originalUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/plenty-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
+      "publishedDateTime": "2020-12-30T18:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me.md",
       "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
       "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
@@ -1037,178 +1218,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-marketplace-is-demanding-ethical-ai.md",
-      "title": "The Marketplace Is Demanding Ethical AI",
-      "excerpt": "Under the right conditions, AI can be highly beneficial and a force for good. Under the wrong conditions, however, AI can lead to widespread discrimination and reinforce existing socioeconomic disparities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
-      "originalUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-277416/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "publishedDateTime": "2020-12-29T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs.md",
-      "title": "How an important change in web standards impacts your image annotation jobs",
-      "excerpt": "Earlier in 2020, widely used browsers like Chrome and Firefox changed their default behavior for rotating images based on image metadata, referred to as EXIF data. Previously, images always displayed in browsers exactly how they’re stored on disk, which is typically unrotated. After the change, images",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/29/Bird-Corrected-Orientation.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T09:56:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-2021-is-the-year-of-autonomous-vehicles.md",
-      "title": "2021 is the Year of Autonomous Vehicles",
-      "excerpt": "While 2020 was a successful year for Artificial Intelligence (AI), specifically the subfields of Machine Learning (ML) that are Deep Learning and Reinforcement Learning, there is one industry that is on the cusp of mass market adoption and that is autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/2021-the-year-autonomous/",
-      "originalUrl": "https://www.unite.ai/2021-the-year-autonomous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/autonoous.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-zacks-analyst-blog-highlights-baidu-tesla-general-motors-ford-and-volkswagen.md",
-      "title": "The Zacks Analyst Blog Highlights: Baidu, Tesla, General Motors, Ford and Volkswagen",
-      "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
-      "originalUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
-      "publishedDateTime": "2020-12-29T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

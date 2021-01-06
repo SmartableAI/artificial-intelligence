@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-the-us-needs-more-foreign-artificial-intelligence-know-how.md",
+      "title": "The US Needs More Foreign Artificial Intelligence Know-How",
+      "excerpt": "Jason Furman, a top economic adviser to President Obama, says good ideas come from everywhere—but Trump has dissuaded tech workers from coming to the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
+      "originalUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ff51e1eadb00d267b4a3569/master/pass/Business-Jason-Furman-1022466816.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
+      "publishedDateTime": "2021-01-06T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-what-buddhism-can-do-for-ai-ethics.md",
+      "title": "What Buddhism can do for AI ethics",
+      "excerpt": "Buddhism teaches us to focus our energy on eliminating suffering in the world. The explosive growth of artificial intelligence has fostered hope that it will help us solve many of the world’s most intractable problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "publishedDateTime": "2021-01-06T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-tencent-invests-in-chinese-ai-chip-start-up-as-part-of-279-million-funding-round.md",
       "title": "Tencent invests in Chinese A.I. chip start-up as part of $279 million funding round",
       "excerpt": "China has been looking to ramp up its capabilities in both AI and semiconductors as the tech war with the U.S. continues.",
@@ -213,11 +307,11 @@
       "title": "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup",
       "excerpt": "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6",
-      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6",
+      "webUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6",
+      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1149,101 +1243,6 @@
         "AI",
         "Microsoft AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-qualcomms-snapdragon-480-chip-promises-5g-for-all.md",
-      "title": "Qualcomm's Snapdragon 480 chip promises 5G for all",
-      "excerpt": "The 8nm Qualcomm Snapdragon 480 5G is the latest chip in the entry-level 4-series and the first to feature a Snapdragon X51 5G Modem-RF System, which can support mmWave and Sub-6GHz 5G. This is in addition to 2x2 dual Wi-Fi antennas to support key Wi-Fi 6 features,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
-      "originalUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1609842346/itpro/2021/01/shutterstock_smartphone%20users.jpg",
-          "width": 636,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
-      "publishedDateTime": "2021-01-05T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-renalytixai-to-present-at-the-39th-annual-jp-morgan-healthcare-conference.md",
-      "title": "RenalytixAI to Present at the 39th Annual J.P. Morgan Healthcare Conference",
-      "excerpt": "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

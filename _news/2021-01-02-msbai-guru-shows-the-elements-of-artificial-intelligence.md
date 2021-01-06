@@ -7,8 +7,8 @@ originalUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-eleme
 webUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Inter Press Service
@@ -39,6 +39,20 @@ related:
       - url: "https://www.armytimes.com/resizer/ZNgdMdpJvDsmwaRkyRn14Gpt9vE=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "12 dark secrets of AI"
+    excerpt: "With the drumbeat for AI across all industries only getting louder, IT leaders must come to grips with the dark secrets of working with artificial intelligence to glean business insights."
+    publishedDateTime: 2021-01-06T10:04:00Z
+    webUrl: "https://www.cio.com/article/3602555/12-dark-secrets-of-ai.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_virtual_circuit_brain_thinkstock_676338068-100724427-large.jpg"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "Xz+RAKDduIhzX7iKUryoWjsiQR0fK2VGkqvcGMGA5kHvYTve8zLnTfH0v+B+IIAolwsnUTdoZyuURwRanHMAuPOsmODgf8ZuwuRstt6OufahBTOGXOzUAzXX87grx55R7AF8PGCTkQtZOB7DXWqIKJoUuMKaIeSglfJv8XW8HDABnRAC6aB4iv7xdlQZsPGGsFEqqDoZVIwPnhLGuABNFqHkxbJWvxF502k167qeXwGVhUNlPn1+a00zCiOTHMsz1ZArDREQR8wX/g128/pnXDWuX5oZ3tcagR8mRcDo2d879iFkrDTWlpsanXrPDxQr8ZeHcmhdItcnVc/w3lp4xcUlSfLcLcbSdEdETes3UqepILObSx/aIy2aCXOWO2o28y12F45l0qDlxYtoJEmclrjTZelFkKykTfaeytpbElpJhsqd0ZZagF2AuHqXN3Z9SOv5g/BZrG5W/9/SPjWrg6ohG+Fad447xs4p6KPf88ejJ6QV5EQQNvm9f14JLU+gzfAEWFy+vKz9jwNMbDWDbw==;56GZ8kY/owbUJiGxGfh0Cw=="

@@ -87,22 +87,6 @@ related:
         width: 620
         height: 327
         isCached: true
-  - title: "Lidar Is Coming To XPeng as Tesla Holds Out on the Self-Driving Technology"
-    excerpt: "Chinese electrical vehicle maker XPeng is upping its self-driving game, announcing its first partnership with a Lidar sensor company on Friday."
-    publishedDateTime: 2021-01-01T21:01:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-is-coming-to-xpeng-as-tesla-holds-out-on-the-self-driving-technology-51609534058"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-244050/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Watch Tesla's Full Self-Driving Navigate from SF to LA with (Almost) No Help"
     excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."
     publishedDateTime: 2021-01-04T15:36:00Z

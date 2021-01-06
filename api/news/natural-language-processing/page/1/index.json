@@ -112,8 +112,8 @@
       "title": "How some companies are solving the issues with language and AI",
       "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "webUrl": "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": 109,
@@ -130,8 +130,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
       "publishedDateTime": "2021-01-04T12:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -466,6 +466,59 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-why-ai-is-so-power-hungry.md",
+      "title": "Why AI is so power-hungry",
+      "excerpt": "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-800x450.jpg",
+          "width": 760,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1378,58 +1431,6 @@
         "AI",
         "Machine Learning",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-amazon-alexa-gets-real-time-translation-functionality.md",
-      "title": "Amazon Alexa gets real-time translation functionality",
-      "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
-      "originalUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg",
-          "width": 2040,
-          "height": 1360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
-      "publishedDateTime": "2020-12-15T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

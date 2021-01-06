@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-01-mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml.md",
+      "title": "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML",
+      "excerpt": "MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. The non-profit organization initially formed as MLPerf,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
+      "originalUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
+      "publishedDateTime": "2021-01-01T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
       "title": "3 Machine Learning Stocks for a Touchless Society",
       "excerpt": "The sheer dominance of technology in our lives this year has directed investors’ attention towards machine learning stocks. With technological advancements taking place every day, investors have plenty of opportunities for some big gains in the sector.",
@@ -1324,40 +1368,6 @@
         "AI",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference.md",
-      "title": "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference",
-      "excerpt": "Powered by artificial intelligence and behavioral economics, Lemonade set out to replace brokers and bureaucracy with bots and machine learning, aiming for zero paperwork and instant everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
