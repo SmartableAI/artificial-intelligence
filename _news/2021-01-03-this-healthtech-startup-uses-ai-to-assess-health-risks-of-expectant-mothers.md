@@ -42,22 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Fiction vs. reality: The true potential of AI"
-    excerpt: "The roots of artificial intelligence (AI) in popular culture and science fiction run deep. The concept has been used in films, television and books to cause panic and laughter or to highlight how the world might one day be overrun by technology."
-    publishedDateTime: 2021-01-01T09:30:00Z
-    webUrl: "https://www.itproportal.com/features/fiction-vs-reality-the-true-potential-of-ai/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/fiction-vs-reality-the-true-potential-of-ai/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fiction-vs-reality-the-true-potential-of-ai/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GxyRD2WMK3MoqYfpkfR6H4-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Natural Language Processing (NLP) in healthcare can explore the trillions of gigabytes of health information and web content"
     excerpt: "Healthcare companies have more access to data that can improve healthcare results. Natural Language Processing (NLP) in healthcare extracts critical strings of data and provides appropriate care management,"
     publishedDateTime: 2021-01-04T17:45:00Z

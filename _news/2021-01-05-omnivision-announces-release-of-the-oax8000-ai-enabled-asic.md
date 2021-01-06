@@ -3,8 +3,8 @@ category: news
 title: "OmniVision Announces Release of the OAX8000 AI-enabled ASIC"
 excerpt: "OmniVision announced the OAX8000 AI-enabled, automotive-specific integrated circuit (ASIC). The new ASIC is optimized for entry-level, stand-alone driver monitoring system (DMS)."
 publishedDateTime: 2021-01-04T21:38:00Z
-originalUrl: "https://www.embedded-computing.com/news/omnivision-announces-release-of-the-oax8000-ai-enabled-asic"
-webUrl: "https://www.embedded-computing.com/news/omnivision-announces-release-of-the-oax8000-ai-enabled-asic"
+originalUrl: "https://www.embedded-computing.com/home-page/omnivision-announces-release-of-the-oax8000-ai-enabled-asic"
+webUrl: "https://www.embedded-computing.com/home-page/omnivision-announces-release-of-the-oax8000-ai-enabled-asic"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 272
     isCached: true
 
-secured: "CA564txip53tmo+fk/x+swKCQZeTCQyBJJ6wVGbQdD0E3CmJcNWm02Es+b4A2oeLOSKMwItUSmvBG+gdezIuvpIDyUvmZKudNWqyLuCkh0cIVujvYAsjoo80e9dTZaTMxG6H83JhugbIHWl83XMN2Ecyi4gUTrwWH8xKxiXGmE7djBQHlM3tD4nu2dvBK/MZ7BBLZCbf/wRpBtpXrt6kSz7ngzEodc+QT5PAdE2znPd2r224bzF89zHrV17OOFkm+BJSwBidmC1AJeFzKyUA6N199b+UdT+wC2vr49tFSTjsWwsw4DhWe1Uas9/P7WIqYgc1dlPaKhmPOVyU/+W7jVRC9dtL7SNmF+RcPJBmVAc=;avFJ8Eu1aZ1x7J89APTE5A=="
+secured: "B/hauXRD3cPDPvSYnIOUtG7fw6UwTdi85FOryALjhnkuEUOhGyaIhsfDy5qk9fbS0tq/CG9P77kW+d7K8Yy4O2tBCkeTp0eYq83khofEIylDNrVKzsSLB1FD38rfBojXC4w2mLUsv3+NVIgw+p0l+C4mn1rAHgjY6svPLP9smiAbk24lTRtfCLSYrX/iGVaeDqqbFOjTcc7Qt44L25xA9BHdfZouNn0wGowTyaNWfAccFsZtbiC9sQJI7dGVN/php1h3amY/jjsodiPS3+Gvd7iE/+y2bVpPtWecVyjQvjSP62sc2757JguUMeDeP900e8QkHTOPrnyUdqAQsDr5K2I91OfnyKc9CcEEDdVX2Fg=;JzzfMRi61HCaCe3/opL42Q=="
 ---
 
