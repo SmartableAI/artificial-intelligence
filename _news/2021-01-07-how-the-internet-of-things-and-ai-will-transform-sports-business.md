@@ -52,6 +52,6 @@ related:
       domain: eurekalert.org
     quality: 9
 
-secured: "zTo/3Ai4sdOsNQma+9J1IzoDmC23yeBLMaVF06P8AQuhpbI1iPXMUnskMxjfMvEKL3eieWZnm7UMhs4oLHmzLJgqQRQMIyV76l9lXrjVEepgjMoCGEGdIqpzyqSkPQLXXD/wZ+NT8XjLE3a7n7buJ9Lda3nCyP4gIwZk6WN8ltgXaJtsJoLu/31yXAx3jKs4lNL9CXRfbiOnIQlpufPo2QruvSyd5CT3LmQyVrV2ZH0GHFWZEnb0oGTbrRRDv8QufmbEaLLRcozGDOMlFVinr/+XmggXnvCfJIfRqudvxOZyc77fJsNLwmks6F0A8wpYBfYvOifG1LKtIU4PMauw4VhReIt5J9XqhWSeQmpyyC8=;sPPzuSgYryOYZRm2QLgrxQ=="
+secured: "VthuVQYkNW1yyvV0Ilg421BuZCbgIFYX89DhrNut7RcSWMaSugN3LTWZMdjm8hXrnssMzm38/VLBJRUmESwthniyoEd8Xb8NlN8E/sNLLvZaBjlWCZEeTSQMh3DfM/l/fuY4vXJojpY+EB9+9IbhJ1MGPtCNQGcQ01grKmtZAKmATIPbVHTFptHu0Vok+9RSu+/kMX4Azs+U2GUKuXMRKxC0/kquYAklYfuyNqWrAASkosZdRxf8VEYCxS0D+n4GJacNBPY/hPA8/C5DnzXo21cBKm1afVYZ/pVfOIwuzLN5n6neveHntxlQPvVkryQunmE5vsqQ3myek/+wnYs/XSMkYpXhxhVDjlD0UpGfghw=;ExUcpe8aPPjOGY/Jbfp/7w=="
 ---
 
