@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Self-Driving Software Startup Oxbotica Raises $47mln in Latest Funding Round"
+title: "Self-driving software startup Oxbotica raises $47mln in latest funding round"
 excerpt: "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent."
-publishedDateTime: 2021-01-06T00:35:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-05/self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round?context=amp"
+publishedDateTime: 2021-01-06T05:14:00Z
+originalUrl: "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 type: article
-quality: 66
-heat: 96
+quality: 86
+heat: 116
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546726058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0500I"
+    width: 772
+    height: 545
+    isCached: true
 
 related:
   - title: "Edtech Startup Practically Raises $4 Mn In Pre-Series B Funding Round Led By Siana Capital"
@@ -68,6 +74,6 @@ related:
         height: 385
         isCached: true
 
-secured: "nVC+3IehbZWMTPnMEs5XZu7D5rKAAdiVRf9cVuesVD0Hzt7pbw1pFT4XC/L8WvO8RVXtSpTMxEPwasWuPifZLZov7FK4iiXvMPtcmQ2ehbaHyapZdOPWUIu0e/9P9yMMwMvYIEAaOrClDMga32dKiVH8s4J65XsN56165UVROZaSkqXEfwW79+Ju2SF3prHPewLgP86dep+tPk+O1uHYRPCcaBNra6w2oI8hWehwm/yz8AeUZtH3feJE08L4WId5w8vN/A6rInSH7DLuf0/ctDrPUzt7OV0ygt4dVvCJxyDI5ndWGbBqt2Yfxt1lbmO82xW8AXZC6lcBx0vlM4hTnTIf6IrimAAb1PSCgLDUSBTXthpdjES0UUHzfD+6xBCKyU4FiepUVmjWYizkaktQPylbdAUiEgx8ynse18413/RhQimn9HE0pmGasdH067SApw287VTUwsmeqel4cFxwYeS9JhbJ5HVd/I/JV9nDDO8o50Eu98edhCCABsq3++MoJ+EyKH8dsFVmXTEVTHPFmA==;VjqgokGVyBYIel08pkEkwg=="
+secured: "KopWFc9Oq4ZYbOKNBXBO/D94UeV4Qez8E4QQUzzaaLY9tF5vXE2tTQcvzHmxZb5g/U5czdAeVSiksAIXCj0I5qBa6yTiejRtHgWT0440mlGKfTiyXORGND7rImQzYI1lYgzgXh0SV/G3jj5p17I/Yd/RyGZk7jBnGgPDBWblX83ioz8+GGj396IHKllgckqoK2ITEcN8SBxaP/eJ6auf6u4vme9Ls254kyJe/Ab0gyYvA7UdQ+xwX06aYeP+YU1vSpFHrh4F0R9QV6/ix+MCKbffPU5t3JRdCaQlclGuiCTYtXZvGlNPQMuQk8QQ+F4BxTwsNo6Mj/zPRqLROghn5vDKFjMooKxBtEjxEtUO/rg=;LM2YAoJwlYDvhIU0xuVN2A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-u
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
 type: article
 quality: 104
-heat: 154
+heat: 124
 published: true
 
 provider:
@@ -32,34 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft AI Skills podcast"
-    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
-    publishedDateTime: 2021-01-03T22:10:00Z
-    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
-        width: 1600
-        height: 600
-        isCached: true
-  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-    publishedDateTime: 2021-01-05T13:15:00Z
-    webUrl: "https://www.imdb.com/news/ni63147427/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
     publishedDateTime: 2021-01-05T07:23:00Z
@@ -87,20 +59,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
         width: 768
         height: 401
-        isCached: true
-  - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
-    excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
-    publishedDateTime: 2021-01-05T05:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/blue-prism-extends-intelligent-automation-software-offering-to-microsoft-azure-users/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 47
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2019/06/blueprism.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "//9jIBc0SY6V7LWERn/pPwctVciRf+BVmPyqr7NFnz4Bmdy+AcPZFIkPrMgI00mTLgC4tX+eiwI02TcX2rh1IyPV+E4MaMcQenNIzNwtSHcyqGgvfEp8DeEU/UGYZwmfod1L7k+1d6UC4AIhePTZjUIrquWv8eqo6dX9EsmGyv2UVZgex74bmL+ScV0Ptafd7KwLgzJ5K5r2q6UnQrO94lROTYrNO3ekStLU3lHUn2O8Ix/bNLsYUjBbeWpV7g40J+Xv9JDe6itBhkCys3oitDUTxobkRYbprqUhMXQoIcCGTQgUEK4gshja/61bA8V3Z+azYEaas5RBk/ggX763QGccyUGycGGUe6dBwX5Eh8o9OAg7AipQbJxveqzklnXfXIlxIrLccSHw02Bgg359mvBDSc3l54B29wk8nNlqzsch7RpHfMWBmytWrLEoRLErWlcKLlqP5Q/nHVLahVQBTgcRbBP/k29/jVffG4FzrK2KXBVkFGe3plK9Mp7k3KUHCllJ+GPYdsdf3v4M8LH3rg==;V+ArrvvsWyIFrOgxGIEOvg=="

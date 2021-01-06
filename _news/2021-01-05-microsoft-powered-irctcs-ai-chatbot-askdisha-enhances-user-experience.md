@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft AI Skills podcast"
-    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
-    publishedDateTime: 2021-01-03T22:10:00Z
-    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
-        width: 1600
-        height: 600
-        isCached: true
-  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-    publishedDateTime: 2021-01-05T13:15:00Z
-    webUrl: "https://www.imdb.com/news/ni63147427/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
     publishedDateTime: 2021-01-05T05:34:00Z
@@ -82,20 +54,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
         width: 768
         height: 401
-        isCached: true
-  - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
-    excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
-    publishedDateTime: 2021-01-05T05:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/blue-prism-extends-intelligent-automation-software-offering-to-microsoft-azure-users/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 47
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2019/06/blueprism.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "4lbrzvGlqkhCFiQ9LzMZLXq8Hc+rgWMy0qaVC9mxX5eG/oiNV3+cTfRtCneQ6yMQDWIuOE8lNXW3KJdR+mf0DR90IgAcizkVICILcrMHO535QO2yQTWQxW4HC3yhaY0D8Gb/u8Y0PIxccLPmNBdnZWLbepTuoamhv5V4pESVJVNnINNWRLKOivq6+zWUekUhutiOYGg2Z8QaifsQsNnJSYo0hk10D/bPhGFAH4EeDtykWNVZhit1GNuGr6aPCLs30p/JTW+5ZthlMgG8LTDDikIHOIwTn2hSq8WVIg322oWLlqbwiR68z6bmCJ2mm0Q3HR1DD8qUncHR3jzZ7hUEn2ajIjir6bQ2/qD/mv6+1ZfTfhFnmmMXwe1pviJpdcxykMLJjl8UeyYs+cAdNy9hN1DcqLAA4DiylWt5ELSFpXkj6XIDLkOj27yGMxofO7Tp1W1P333JBtDnMb6lr42Iuo1KboCKSUMGPsRjEt8yEDDubWbUC5qx4D/7NOtDOcK/T3RxaUvRO/wtKRF3ou6NNw==;fvHCO/yT2BnyqK6ufKAWaA=="

@@ -25,22 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft wants to use AI to turn your friends and family into 3D chatbots"
-    excerpt: "A patent published by Microsoft describes the process of creating an AI chatbot based on a real-life person using their social data, photos, and even voice recordings."
-    publishedDateTime: 2021-01-05T11:50:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
+  - title: "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality"
+    excerpt: "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement."
+    publishedDateTime: 2021-01-06T08:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
+      name: Microsoft
+      domain: microsoft.com
+    quality: 110
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"
-        width: 1200
-        height: 900
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg"
+        width: 1024
+        height: 437
         isCached: true
+  - title: "The reality of AI in healthcare: promises, roles, evolution, and more"
+    excerpt: "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?"
+    publishedDateTime: 2021-01-04T10:20:00Z
+    webUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution"
+    ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
+    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
+    publishedDateTime: 2021-01-04T14:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Microsoft AI Skills podcast"
     excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
     publishedDateTime: 2021-01-03T22:10:00Z
@@ -69,33 +92,19 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
-    excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
-    publishedDateTime: 2021-01-05T07:23:00Z
-    webUrl: "https://www.cxotoday.com/press-release/microsoft-powered-irctcs-ai-chatbot-askdisha-enhances-user-experience/"
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
     type: article
     provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 49
     images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2019/11/Microsoft.jpg"
-        width: 4657
-        height: 3105
-        isCached: true
-  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
-    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
-    publishedDateTime: 2021-01-05T05:34:00Z
-    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
-        width: 768
-        height: 401
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "Wojy9N1poIBJdNBeAeeTsApPC/d/dtpr2+FY5e0VSW7DAd98LMwA6t3LQauYAa4GyBcOMxgJol+z3Uk/cUQSay7EwAz4QPizQ2ZJNUkkrOcDlHwqnBurlCImvXYSK2qKbkH47OInhTHdmo3+6Xrj0s7X5sGRvK6ioGwULlWvdp69WekCCkkVSiywgOmoxnWrfHlC7S78oqJBNFSuHn6A9NWldNNOj/hH2Q5GFZ1t6r87J06+/o7/2OOFhn+6BXak1ooUIAF7p78dvigLnAhG3WkrPOjEU9gfdX/apzUb12SIUjj5s4lsKR5seZ2v/midxsqizbU+bJ1IetrpL6CKZ92hgNtUYyaRsCV7n5rJWSpBaDzZlQjg6ltAz/bT14TyTswQAClPHvR1q8E2p0yb7dR0NgyPCpyOV+KbuJ1EGMRCtxjCjs79yeNhMmjlJjpQho5L4MfvTIwpH0JSFEcygG1is0iwUBHipDIWV/BT8KgJGklH9vXxZfVtCOo4/Fj0ntY+n86AiPDgS1f9L5nidg==;Z//Fy3qmL5ywTQKybjTWBA=="

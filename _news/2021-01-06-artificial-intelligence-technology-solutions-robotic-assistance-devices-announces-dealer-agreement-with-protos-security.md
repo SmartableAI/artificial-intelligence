@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-06T14:17:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-robotic-assistance-devices-announces-dealer-agreement-with-protos-security-1029937389"
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-robotic-assistance-devices-announces-dealer-agreement-with-protos-security-1029937389"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Healthcare
 
 secured: "42xz+oWGv4+K8rAl5Uscqd6ytMZ9A5Vsxyokq8eJn5sSvKYjpxbSzYVoRuLy8Q6RcetM3cUzZJNsDHYorieBdyCDc/GQ1qbP33PqR+XaoN7wGm78XBHANbfGk5rerBzZgz700AZ4aKgVNEWhsnjZVabdT0KjjowZEvznBhiSIx77b3booRX+Sfq7ImRq3MArZuz/EmWYde8nrGmYfvmqlITcAp1BEIUz1Lf+mOVuwhQVprRG6uI3r9mua2VfoVraHKIuwYHyfsX97UrPrcR3cdYG6SNGgGysWbOtCP/82GYJmXF45h8MFcClihnc6JKDQGMo9VnzaZhlUCphv8GxgwgTKyrWMYCjpvTSsdrg/4Q=;oUCOPBaaqrlQtiqpTw3yAA=="
 ---
