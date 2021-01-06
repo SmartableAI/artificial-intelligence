@@ -9,11 +9,6 @@ website: https://einstein.ai/
 crunchbase:
   url: "https://www.crunchbase.com/organization/einstein"
 
-twitter:
-  username: "einstein_ai"
-  url: "https://twitter.com/einstein_ai"
-  followers: 152
-
 
 topics:
   - AI
