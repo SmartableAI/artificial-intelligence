@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/ai-research-army-ground-vehicles-reinforc
 webUrl: "https://www.fedscoop.com/ai-research-army-ground-vehicles-reinforcement-learning/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "U.S. law sets stage for boost to artificial intelligence research"
+    excerpt: "He and others say the new law is meant to keep the country at the forefront of global AI research in the face of growing investments by other countries. The NAIIA authorizes spending but doesn’t appropriate money."
+    publishedDateTime: 2021-01-07T05:03:00Z
+    webUrl: "https://www.sciencemag.org/news/2021/01/us-law-sets-stage-boost-artificial-intelligence-research"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 37
+    images:
+      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Ai_policy_1280x720.jpg?itok=iqPWuiR-"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "39VNN8+Rh/IX+EDL3KQebFx4K65DgzQNzF9h4usgezrVJClTxYphN3awCbIzLfX6PXjrH2Fwi4Fj+4MRmvUG650KAgDDQ4wICC8xsKG0vwCuRH3Yln+8TgmqizTOhM6AqItZ5QowvWCEq4DsOUoom3TMg/Ic6zRDqqxJveaVrMJnXaUmyZhfG6RWhpKBCmkoFm699waK1PQaiY7/3l+6Yv+tCx8BmiokVbrPbFGpOuftVOEpjyDNVKQLJMwEkGdhu+QlVVcpZ5WPQB/kt0CpwZBNyj6cW/JDpTUxungmrcZF4o/6yWE9OV/xjfmOcE1HbcsNudP8GzRaKnJyQP+jGk72P9HH94uTnerEgsxGeSk=;RWMoPlK764ZewLGYLHHnRw=="
 ---

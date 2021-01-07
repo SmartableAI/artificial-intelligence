@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "KTR releases Telangana’s 2020 Year of AI success report"
-    excerpt: "Telangana IT and Industries Minister KT Rama Rao today released the report “Telangana’s Year of AI – 2020 and Beyond” highlighting the various achievements made in the sector during 2020. A year which saw one of the biggest FDIs wherein Amazon Web Services announced plans to invest about $ 2."
-    publishedDateTime: 2021-01-02T14:12:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/pyrjlk/article33018127.ece/ALTERNATES/LANDSCAPE_615/Telangana-targeGM17U5V1I6jpgjpg"
-        width: 615
-        height: 384
-        isCached: true
   - title: "KTR launches Telangana's 2020 AI success report"
     excerpt: "The study “Telangana’s Year of AI- 2020 and Beyond” was launched by Information Technology Minister KT Rama Rao in Hyderabad"
     publishedDateTime: 2021-01-02T17:59:00Z

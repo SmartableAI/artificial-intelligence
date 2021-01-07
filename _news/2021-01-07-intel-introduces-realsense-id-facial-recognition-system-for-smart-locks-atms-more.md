@@ -91,6 +91,38 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Intel's new RealSense ID packs on-device facial recognition"
+    excerpt: "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data."
+    publishedDateTime: 2021-01-07T06:36:00Z
+    webUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png"
+        width: 620
+        height: 387
+        isCached: true
+  - title: "Intel Has Developed Facial Recognition Technology for Its RealSense Depth-Sensing Camera"
+    excerpt: "Intel has now developed its RealSense depth-sensing camera with facial recognition technology, which it hopes could be applied for uses on ATMs or smart locks. Named RealSense ID, the company ..."
+    publishedDateTime: 2021-01-07T04:57:00Z
+    webUrl: "https://hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology"
+    ampWebUrl: "https://hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 50
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F01%2Fintel-realsense-id-facial-recognition-technology-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
+        isCached: true
   - title: "Intel adds facial recognition tech to its RealSense portfolio"
     excerpt: "Intel Corp. today announced new facial recognition hardware and software that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
     publishedDateTime: 2021-01-07T03:42:00Z
@@ -106,6 +138,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Iot2wShfQufyRJWQdln+0+AFnenyPxoSAHtyPYLqpb5Z4afMhiZEbLOkYOCJM0rxWPbryYZQxyahZ6TAIcn5b7yY8eMyAj/gPIIgCp7/CILq/7whh7Z4f7G54dGlivDCbS8WU847LUxcJPVJQls2MaHdYOJ2YmGwDmYzx5RiA0cVXLl3RykRv+uS5worrfO4SQ5L2F9er6UCocXWHGGA3APoKPWx9a0fBhpD6BMZUsWsFaP1iMj2Q8bUBd/Gr5Z8TyWbkNHwzQa+JK49wQtqQ7qayB0wRDGSkncCCJMQ8k7BdTAHpfScA14Gl79R47Kgin1oSaiTvnz9JwsobCtGR+p3kxWnSi9pcLnk4+wX0xI=;aIWyhXuvKbCeQISNLPN5zg=="
+secured: "/gdHdoS/Kn8ADo0ZvKVEkdOA73R+LwMcjQhZdYg84AloqVVtq8PSJqhWLJcGkomY0pW0aQeg88/MEpoGH5PjFpHIybaczLDkdn6tGrrNz6ZvTM1JNt2WKhsmmacGWrcGjP7wsvuDLxI54KTxWv5q80YOPgLg1XOs4TKIycMKN7h8jFerNEYIGpqwTQNdPQbbnk+K8FPYN5hqsZ+I+VBT2pl5YJxwniP78VOAECeU45Wwk9oxJGFrKL3Biu0IhRNXePJof2rDwitxwl93u1pbJ98XW1AuQSueCjUu7JyN1j2dOQ8ufxggSAUXSf7KlSjByti2GWhZXLZ8hxf4hzZtTSEWvh6RlrLgjKLxhDQV3j323ZTZdSXzRSS0qwQneQkIML7KdbkZ+vzhjZZh7cblfw2K4cKw3ubGayWGzYWjlmolvjFGkPzKYWqNSuBnjgYeM0ihS8NSToqy/6PivALNH9K2F5gAuetpOhPq1Ct/lBN5kBPEMQjWN5t+cmr3n+GfKFuHm/Lkptm7pdqARfPD9w==;Kgu9xKMheV+wL4Ua8i+XOw=="
 ---
 

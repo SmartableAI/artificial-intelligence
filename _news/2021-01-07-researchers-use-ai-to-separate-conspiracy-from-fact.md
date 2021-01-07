@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-f
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp"
 type: article
 quality: 87
-heat: 137
+heat: 138
 published: true
 
 provider:

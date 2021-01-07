@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Syntiant Introduces Second Generation NDP120 Deep Learning Processor for Audio and Sensor Applications in Battery-powered Devices"
+    excerpt: "IRVINE, Calif., Jan. 06, 2021 (GLOBE NEWSWIRE) -- Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced the availability of its Syntiant ® NDP120™ Neural Decision Processor™ (NDP), the ..."
+    publishedDateTime: 2021-01-06T13:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19036918/syntiant-introduces-second-generation-ndp120-deep-learning-processor-for-audio-and-sensor-applicat"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19036918"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19036918"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+
 secured: "sPe8oBOzpVzahRqTc9GOz847J/lD6+71FFSPsC8pFufM5UWdkfuNVBGY0qna8kbnv3ZkwAc67jb3XpmpywRXKC+8W0kyztbUPywJeAy5NO99mXb/DQed3dFBF7FmFYwlWVEAgGIdzfZQx7bew/TczRPvvJZ0V0HHQqKITp0YAtMTR8EUhDep0EOlD/moFnT65y37Qikj/JlEsp3L3WXlwTHRv3fF+AkmlmnY6m+1NyvaHhWpHx0ZgZ9QFh7eHalMlnfAecwAzXSi/OU6uzCvDXxc4bkrj8QxkMubn76a8rh+s50PBfPbZ+4RXhlXCyr0VfDN/Fzud77W/KUPY+lHnrJFpP8Fu83pBuXCjDTzZvc=;/08p9rTbo2Ah6c+v0Y6r4Q=="
 ---
 

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robots, wristbands, and apps: startups that innovated their products for COVID-induced med tech"
-    excerpt: "As we step into the new year, YourStory lists 10 startups that innovated their products for COVID-induced med tech."
-    publishedDateTime: 2021-01-04T01:37:00Z
-    webUrl: "https://yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech"
-    ampWebUrl: "https://yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/robots-wristbands-apps-startups-innovation-covid-medtech/amp"
+  - title: "Need a COVID test? Look for a vending machine"
+    excerpt: "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ..."
+    publishedDateTime: 2021-01-07T05:05:00Z
+    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 47
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/shutterstock193700255-1590566337331.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/06/94c4c6b9-7324-42c8-a7e1-a8b8dec10bea/resize/1200x/9b85599fd04562d09f3944361b6379d2/istock-1224323409.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "AVXrS5VRZlyJsf5Qk30dzfpxjN/AW7LZgQPOlOJQ0KxqHGqt0f9XE8W5k6XsjpkRpNJH42gW5NLo1kM/wpeZoL1a+2epcudUVbzBm115sBFA4Waz7LfhWWznI3l5mFEHh3/wZgkMvjFVIXSsnIJM/0QHAwe21r3zR8+zvF4CqZbd2Bc7xzs6yt8sXA8iK+RkEk2I61qivo8tGJzaIikvUJf3dweG4a3RNCitttGT3SzGfvjmg7EtSJsYryuBCDRLXpwH8Il6czztbj4di0VWktVvokHna/XnmWRwOMY1HshKzusGbHZAhLMZEk6UCf1o7ZmgJEvRP+iQzVDBKls6b8WutldHfNYXfZuU7PQaG7Odp2aq1Qa/d8ym8J3W7pW7dtp1lRBy2t8E4J+2f5Tb9s99CzR7xJR3hpQLgqf5PeXJDGKjhR6+2Pk+S2WsJc0aNs4PDr3KfwpxgRsqbUJX/N5SfiQ89N99SE0hZAXAk4iv40E0WgfZx2+b9ud7+HzBNa1s3okHydH3z8cje6NREw==;yt9XNnBgIhAy3xPiObniCQ=="

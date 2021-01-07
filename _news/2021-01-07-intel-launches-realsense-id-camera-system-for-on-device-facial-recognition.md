@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Intel's new RealSense ID packs on-device facial recognition"
+    excerpt: "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data."
+    publishedDateTime: 2021-01-07T06:36:00Z
+    webUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png"
+        width: 620
+        height: 387
+        isCached: true
   - title: "Intel Introduces 'RealSense ID' Facial Recognition System for Smart Locks, ATMs, More"
     excerpt: "Intel has announced a new 'RealSense ID' facial recognition system that combines an active depth sensor with a specialized neural network designed to deliver secure, accurate and user-aware facial authentication. Intel RealSense ID works with smart locks ..."
     publishedDateTime: 2021-01-07T04:43:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://www.iclarified.com/images/news/79213/79213/79213-640.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Intel Has Developed Facial Recognition Technology for Its RealSense Depth-Sensing Camera"
+    excerpt: "Intel has now developed its RealSense depth-sensing camera with facial recognition technology, which it hopes could be applied for uses on ATMs or smart locks. Named RealSense ID, the company ..."
+    publishedDateTime: 2021-01-07T04:57:00Z
+    webUrl: "https://hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology"
+    ampWebUrl: "https://hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 50
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F01%2Fintel-realsense-id-facial-recognition-technology-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
         isCached: true
   - title: "Intel adds facial recognition tech to its RealSense portfolio"
     excerpt: "Intel Corp. today announced new facial recognition hardware and software that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."

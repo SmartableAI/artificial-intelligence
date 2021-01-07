@@ -1,46 +1,28 @@
 ---
 category: news
 title: "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry"
-excerpt: "What makes artificial intelligence language models so costly to build is that the data-intensive training process happens many times during the course of development."
-publishedDateTime: 2020-12-15T21:27:00Z
-originalUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
-webUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
+excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
+publishedDateTime: 2020-12-16T01:13:00Z
+originalUrl: "https://www.thestreet.com/phildavis/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020"
+webUrl: "https://www.thestreet.com/phildavis/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020"
+ampWebUrl: "https://www.thestreet.com/phildavis/.amp/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020"
 type: article
-quality: 36
-heat: -1
-published: false
 
 provider:
-  name: GCN
-  domain: gcn.com
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
-  - AI
-  - AI Ethics
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DataCenters/datacenter.png"
-    width: 622
-    height: 300
+  - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc3OTY1Njc4MzQ1NTk0NDcy/file-20201211-23-atzk0p.jpg"
+    width: 620
+    height: 348
     isCached: true
 
-related:
-  - title: "Why AI is Literally Hungry for Power"
-    excerpt: "Even achieving a 1% improvement in accuracy on difficult tasks like machine translation is considered ... estimated the energy cost of developing AI language models by measuring the power ..."
-    publishedDateTime: 2020-12-16T00:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/why-ai-literally-hungry-power-174613"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2018-11-01T194326Z_1950560704_RC14A66058F0_RTRMADP_3_ALPHABET-GOOGLE-HARASSMENT.JPG_0.jpg"
-        width: 1222
-        height: 815
-        isCached: true
-
-secured: "RnG4Ik1h627fp6qJ/RPwQLO4AVAKYj5iEuNgmb3AqIdpShhf3JXV9tu5pEjN9antkhzQRjCwXpL+ZBrVXRe+vrmJJnqubpdMagT/JIfTSbvgoSrNLqJx24/FnqMySoMCODt6kCwjKDI/Lz0AczKFBOAm2g1ahZDCIBhqEzAH+vtNe7P4lCOLud2HLvI1bwH6hbhw87aChfHexYNhg2JvS+4B5PpGod7dRXNIrLLkEk5aPyGBcXvnAKLxBZQ/hUlbYYlb9VcXZYSjGBoMIXOp3dCJIS3c8IpZE3yejEDy3Lv3bT8aSfmMGyLKBti0M5oT0yx9JsGoxGLkjpj8cMlhhhcCgT0CfJGFAav92mut4NZBLMu3Q+pulzCmJ2K81kXj99HJSvEaX6+FqwBhndsIBYxULm81HcLpN6YebR6jLEBQe43aVSehtE66wMXUfJOB9XKS/nwNsnX9YnK9dtpjy6KRpugIb8GMYO5K49lLRiCXtUl/WKjkNP3YlnToA5ssV6+9Krr5sddAAqBVJkK34g==;GIA2lIwalSHu3LtS426mPA=="
+secured: "zYN8MptjCRCi5Psksr+BUHwE+D5TApjW+/whnty/2sOGKaVhOjrgLomRzrs7HE2cW+rnlH6ssdZCY90qQmm7nxcYHrV912sZxT7tW0NTlGAN2LNuYcvy5UZQzJk0xCpZv4pVP1fqj6PLgL71Z0YpP+wVV1L3Ow/2qQCrU8UlVdtxuGffnM9FHppUx/HtUUe14Eacab3P7DAWkUXFTSN2sobU15ZAssu99pFd0BBXIZImR2pPF9YK041bGF65pcKNgG4dkKioCZfz++xDuMHYy4YW67Kqtaxcfe7MZZgx6mYW3cfEjlmYW34wEYi/8KJbLlFydOQ8VcwkQJR41p0hXEIJ9HQUrDXJix/QJklLW/w=;LDFL3rTbZmSo3Y+qnyTJPw=="
 ---
 
