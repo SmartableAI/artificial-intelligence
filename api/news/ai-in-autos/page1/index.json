@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
+      "title": "EV Dreams Power Baidu but May Not Last",
+      "excerpt": "It makes sense for Baidu to consider making its own cars, especially when investors are paying attention to anything and everything EV-related. And a move in that direction wouldn’t be out of the blue. The company has long invested in its self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124?mod=markets_major_pos1",
+      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124?mod=markets_major_pos1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281927/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "publishedDateTime": "2021-01-07T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-waymo-says-its-ditching-the-term-self-driving-in-dig-at-tesla.md",
       "title": "Waymo says it’s ditching the term ‘self-driving’ in dig at Tesla",
       "excerpt": "The Google sister company says it is through using the term “self-driving cars” to describe its fleet of autonomous vehicles. And it is subtly pointing fingers at Elon Musk’s Tesla as the reason why. Waymo says it is committing to “using more ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1393,50 +1445,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
-      "title": "Robotics company gets OK to charge money for self-driving services",
-      "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1",
-          "width": 556,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/579822.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php",
-      "publishedDateTime": "2020-12-24T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.armytimes.com/artificial-intelligence/2021/01/03/how-t
 webUrl: "https://www.armytimes.com/artificial-intelligence/2021/01/03/how-the-defense-department-wants-to-measure-the-success-of-its-ai-hub/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How to Make Artificial Intelligence More Democratic"
-    excerpt: "A new type of learning model uses far less data than conventional AIs, allowing researchers with limited resources to contribute"
-    publishedDateTime: 2021-01-02T17:11:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-to-make-artificial-intelligence-more-democratic/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/A554E9A3-C64D-4190-85F7055EE7B71289.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "iJGaImjZybhXjlDkdriGZs/rrv6RaCBf3wqZkGTd5iHoaV+2IktZnOsf4n5acgzULK3gfz2ZhuNTOFaCZPwk2wSDjrqDKXgun8tCzh+jE6qaF/8g7t9Okyn74BZCV/rEMmCzAhzgKoskVcAixtw8jnYIfgwAp6pvyDhJ7OM6rY1TsAWtNSjcyc69r1FJXwGQ9zYODsg5+3hhsWdOe+Pt8Y+T5k/wUQV9BXWLNe10dJ1UaP2wXRFeubIkeSKGdYNEximBQOYxnQzZAF8ajblmn/w3TPttSfa9CzI7Hggt8chZ+XrMfRprRXNuj9WuvO4MSbZP3XoyfiHqhGaztpDaCUgTE+nolo5boPy2W6DTpLQ=;lldcn8M6i/h3ZGPfvQ11LA=="
 ---

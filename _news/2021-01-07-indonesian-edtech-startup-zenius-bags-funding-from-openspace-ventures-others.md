@@ -3,8 +3,8 @@ category: news
 title: "Indonesian edtech startup Zenius bags funding from Openspace Ventures, others"
 excerpt: "The latest investment comes after the firm received US$20 million in a series A funding round led by Northstar Group last year."
 publishedDateTime: 2021-01-07T07:00:00Z
-originalUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures?ref=recommender-666335"
-webUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures?ref=recommender-666335"
+originalUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures#!"
+webUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures#!"
 type: article
 quality: 29
 heat: 29
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "Oygkv8N76LjbAmxYBkV5pBxBon42KDSDErnpu59xsoZlgsZQ9lCgb6L87id4gjN4XmpSGpKOqdyCoOYIUI00uYeCiNQ6ZVrYl4ghY+5xczUadwVKkDJTuUkStXY4NDr5OO1bnSBiqfFsvYzjRrMK5ASqRKZNYFLmdSMi3furprDy9ios3vA0ZLmnwPzL4eDQhBW/Fhqeypnm99s4HsFFpcRfGzaJ3glLq+lAxvhKa2hpJphEN3+3cK/vbGlgGcIP6SktvJbSUhINCuM/7AK7dcfVAaxJSzp6B0TVKZCNKClui4V787s+50DpbEOPi/dK7Lz2NsB7dE/W5wsOrBvKJCamv+tSem6ASkMkthwuRxzovkPV6PQCRusLvgwP7xu7GP7ybifK9JIXPzBGzAXuqiGfYQKOeZtzbAvBPdsCCUTTQ/oSO5jsG7kSjAan8hVwvuZbepwj46t5NMLFox4lvhNI7g+AlE39GC4ek/qlXfEYqu8nJOseKXYeU5rGjSyhWlWsf8xckc6adOhs+fkEbw==;nv9ep21Bx0sIHZ3xNYy0gg=="
+secured: "qEaWtWZYZrxcmLO/1EK/tXjlfN3mEY9HrkaNXh85LX+nUPeftbpay1IUozHRAdZHy4nqfGn5zMww5lBlyDB6ARll/qhAOFv6YUgejkkQrQRFidclIonboER8q8XsO5Oms2q/+SE4uwE1N1GMfsu9PjiEtgJ+A5enRrRh5raULCnqQgU6y0gkFyLhAwD2xMsqHaEfXSMyqoYoCWvMZ1M66puDttVAOeMqhKodR4JBlOT4jnFvvLVks9wuC1atQKMB4BwwQs5dKX20NILbKtEK6UbPDwC2R+k6rHGCkewqCcvB53NHPjaAQe2JaZLPIgzYUp4rbGRFOiWm9/N0CcGXPTlB/2B4Ixu0nbndFWu3R2sowJY1zrW/8Kp7iQEUIt3/FVwdbgJ9kXkakI7YBSDauIedJOTjKiIHHOJopIj3bcp7l4t85Y+RJgLeBK7X0booeiAh08MpFa1p2Np4zws2SxypOo2uBY7U9YpivxOl565a+8hbR+YjrIoAWtkUEehkdxToKX/8swwSNcWtcyB2OA==;3/wUz4QoGnhR8fefZcyfzg=="
 ---
 

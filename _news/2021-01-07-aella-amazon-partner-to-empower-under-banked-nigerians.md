@@ -38,6 +38,20 @@ related:
       name: The Nation Newspaper
       domain: thenationonlineng.net
     quality: 24
+  - title: "Amazon, Aella to offer unbanked Nigerians access to credit facilities"
+    excerpt: "Nigerian single-point financial service and payment solution provider, Aella App, is working with Amazon Web Services, Inc. (AWS) to empower unbanked |"
+    publishedDateTime: 2021-01-07T09:45:00Z
+    webUrl: "https://www.ripplesnigeria.com/amazon-aella-to-offer-unbanked-nigerians-access-to-credit-facilities/"
+    type: article
+    provider:
+      name: All protocol(s) observed
+      domain: ripplesnigeria.com
+    quality: 24
+    images:
+      - url: "https://www.ripplesnigeria.com/wp-content/uploads/2021/01/Aella-point-app.jpg"
+        width: 650
+        height: 350
+        isCached: true
   - title: "Tech firms to empower underbanked individuals"
     excerpt: "Temiloluwa O’Peters Fintech company, Aella App, is working with Amazon Web Services, Inc. to empower underbanked individuals to have quicker access to credit and other financial services, using"
     publishedDateTime: 2021-01-07T05:06:00Z

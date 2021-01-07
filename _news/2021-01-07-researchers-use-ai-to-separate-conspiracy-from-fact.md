@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-f
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp"
 type: article
 quality: 87
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -90,17 +90,6 @@ related:
         width: 720
         height: 1080
         isCached: true
-  - title: "IIT-Bombay researchers’ artificial intelligence model to identify malaria parasites"
-    excerpt: "The artificial intelligence (AI)-based models can be used for the diagnosis and prognosis of the two species of malaria parasite based on the changing trend of proteins in human blood"
-    publishedDateTime: 2021-01-02T18:28:00Z
-    webUrl: "https://www.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI.html"
-    ampWebUrl: "https://m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 31
 
 secured: "HyzGlkIkkZKMCOkyVE0p/3vHJEt7CiXHAj0QYPGBPbccBWuzFDgB+P7nkMY/V4vmxhgBDVhlK863srvoaJOeSOZm21X0HQfidOe5ZPfEO3XIOo9UkblNOKoDl+VuWyLCQuJxcZ4niPE2CIJiEWTpsJSnKz57A3jtONPt4W7FAz39oY0V9pOM2HuX6pxhA7ACLFgWDbhZn951aUBUDjSnpJzA6wS7SqrRfmBeyRIm4zAYzWmHf5bHFm4zUGuFiz7A9+GPYo4Ajh/scBBcpoLcfFpK3ybgs1D+n738FxqUNHbLSa+J78qLCgcANKuWz6xTkqvBUO4UdXv5h+VHKD2qCDZWTw06bokwmm+rKb4esW8=;nWHaX/AFDcYYMXqEBCl3ZQ=="
 ---

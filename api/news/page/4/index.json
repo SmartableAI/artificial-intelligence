@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
+      "title": "Why Baidu Stock Soared 55.6% in December",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/62e0770e28ee8c68be6d542e0b5127e7.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "publishedDateTime": "2021-01-04T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-tesla-stock-rises-c3ai-drops-as-the-stock-market-start-2021-higher.md",
+      "title": "Tesla Stock Rises, C3.ai Drops as the Stock Market Start 2021 Higher",
+      "excerpt": "The market is wasting no time heading hire on the first trading day of the new year—and that’s despite overhangs that might normally keep a lid on things. On Friday, we’ll get December’s payrolls report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "originalUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-272944/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "publishedDateTime": "2021-01-04T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing.md",
+      "title": "Data 2021 Outlook Part I: What’s ahead for AI and Cloud Data Warehousing",
+      "excerpt": "Responsible AI” is at the beginning of a long slog, while Cloud Data Lakehouses will supplement but not replace Data Warehouses or Data Lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "originalUrl": "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/01/04/4ac23f0e-f51b-40de-b89b-01595216f758/21-is-going-to-be-a-good-year.jpg",
+          "width": 630,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "publishedDateTime": "2021-01-04T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables.md",
       "title": "AMP Robotics raises $55 million for AI that picks and sorts recyclables",
       "excerpt": "AMP Robotics, a startup developing robotics systems that pick and sort recyclables, has raised $55 million in venture capital.",
@@ -650,7 +798,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -1084,145 +1232,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-11.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 1.1%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shares were up 1.1% during mid-day trading on Wednesday . The stock traded as high as $50.43 and last traded at $50.28. Approximately 50,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
-      "originalUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
-      "publishedDateTime": "2021-01-01T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-ces-2021-and-cars-what-we-expect-in-autonomous-cars-evs-and-more.md",
-      "title": "CES 2021 and cars: What we expect in autonomous cars, EVs, and more",
-      "excerpt": "With some of the biggest tech companies dipping their toes into the automotive world, what will we see at CES 2021? Here are a few educated guesses at what to watch out for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
-      "originalUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/sony-vision-s-electric-concept-car-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
-      "publishedDateTime": "2021-01-01T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml.md",
-      "title": "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML",
-      "excerpt": "MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. The non-profit organization initially formed as MLPerf,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "publishedDateTime": "2021-01-01T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

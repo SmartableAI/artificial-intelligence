@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-explained-how-does-facebooks-ai-tool-for-suicide-prevention-work.md",
+      "title": "Explained | How does Facebook’s AI tool for suicide prevention work?",
+      "excerpt": "Along with its community operations team, the social media giant has an AI tool that picks up phrases or words that signal distress or trouble in posts as well as comments to alert authorities or get help to the person.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/11/Facebook_nov30-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
+      "publishedDateTime": "2021-01-07T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-ai-weekly-the-argument-in-favor-of-regulation-in-2021.md",
       "title": "AI Weekly: The argument in favor of regulation in 2021",
       "excerpt": "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data, for enterprise technology decision-makers, presented by the #1 publisher in AI and Data With 2020 in the rearview mirror and New Year’s resolutions on the mind,",
@@ -1474,49 +1518,6 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-we-read-the-paper-that-forced-timnit-gebru-out-of-google-heres-what-it-says.md",
-      "title": "We read the paper that forced Timnit Gebru out of Google. Here’s what it says.",
-      "excerpt": "Gebru, a widely respected leader in AI ethics research, is known for coauthoring ... The researchers bring up an example: In 2017, Facebook mistranslated a Palestinian man’s post, which said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/",
-      "originalUrl": "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/12/transglobal.jpg?w=1003",
-          "width": 1003,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/amp/",
-      "publishedDateTime": "2020-12-07T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

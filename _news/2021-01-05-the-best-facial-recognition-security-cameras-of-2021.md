@@ -158,6 +158,22 @@ related:
         width: 731
         height: 1024
         isCached: true
+  - title: "Masks no obstacle for new facial recognition system"
+    excerpt: "Japan’s NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal"
+    publishedDateTime: 2021-01-07T10:37:00Z
+    webUrl: "https://arynews.tv/en/mask-facial-recognition-system/"
+    ampWebUrl: "https://arynews.tv/en/mask-facial-recognition-system/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/mask-facial-recognition-system/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 59
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 750
+        height: 369
+        isCached: true
   - title: "Homeland Security test sees 96% facial recognition success for those wearing face masks"
     excerpt: "News; Homeland Security test sees 96% facial recognition success for those wearing face masks. 06/01/2021 ; Results from a controlled test from the US' Department of Homeland Secu"
     publishedDateTime: 2021-01-06T10:31:00Z
@@ -210,6 +226,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Masks no problem for NEC's facial recognition"
+    excerpt: "Look into my eyes NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T10:40:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52160-masks-no-problem-for-nec-s-facial-recognition"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7bf467bf754a86923bd12df78ba60421_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "LODETLN0JaNZtYdk8SUlkTEEwJaH4WF8FTtH7fhTaW11f0M/ULhwCJ6vcjMxPS7V9799ZDQ5kVPZoQXcT+euBKgLUy16chxvBC6sWnUkKNB9zDSmB59xVSsclQP0JpniJYUYddyKywrgVGy633GERuG0boch/3x7SNOj8oRei6RtOmY1mowsvOVT0vWNJoVH9OU380G7X0E1i9RGoKkvJXQ/w9XZC1O2QIByI8nje1oi4L4lrf6ErR8LbgSp9b80dpQzdA3FJGRr25RsJWS64xc/3WveEhtH1NFr6cL7M2AEby5q/K5znL+dHYWLN1DpCmLFwt5UNSXuXssec549vGXNenmS6KLpTEIRKotVjNRfgQqKaCXKfcCBVQHk6aO2PdnI0zwOvP0QJZrvi94Sfvemacr2egJ38nGVyYa1AM7K6EPhyGbZKWUQgvJeZP6fzBbW+v2kJKdlKQkap8MEl6ZyOAw9CC0qhsCibAMCL7Navwd8fAWHA0m3athATs9lFpqvpBNJ6sIZ39y+nYeK5Q==;sv+WuVU9lTQkMIHlIjBA7w=="

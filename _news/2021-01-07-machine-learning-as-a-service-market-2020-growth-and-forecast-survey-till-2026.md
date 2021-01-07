@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-07T07:15:00Z
 originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

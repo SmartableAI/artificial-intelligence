@@ -87,17 +87,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IIT-Bombay researchers’ artificial intelligence model to identify malaria parasites"
-    excerpt: "The artificial intelligence (AI)-based models can be used for the diagnosis and prognosis of the two species of malaria parasite based on the changing trend of proteins in human blood"
-    publishedDateTime: 2021-01-02T18:28:00Z
-    webUrl: "https://www.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI.html"
-    ampWebUrl: "https://m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 31
 
 secured: "nBBPpHX0Yzbh/ryvMUn2nNZGoOSvekOw8wSMKg7vbazg3NTOfCti9ArNK3gSLydd/nBPIRJBRmHukCcGB/8vZE9prMVFob54TJN2EXH31/NfweOJHpQcwYs0IFA2xVQiqEO2k06KUMkBuLSR+Wj7eiAJczbpsMit314dnTn2hBHXIfmLlfUopRMDUsKIkV0pTrGyDXGQ62tSNEC1XV8KQlDdQTBP/5ZsHbapCuaRTp3oZpBlwEMV2b5TgQ19BbLUqMxvoZt5TQ9gZQmGeAPDyh/dDUd+xudwxUQenXDIR8401RnDSSeF2C74DbdvSrgeVQt1jr+Iz23SmjWVjHG5/YPXYW0BJ8M9D4thoFw020E=;yr5pLTOt0kwbY1DNtdqBAw=="
 ---

@@ -168,6 +168,22 @@ related:
         width: 731
         height: 1024
         isCached: true
+  - title: "Masks no obstacle for new facial recognition system"
+    excerpt: "Japan’s NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal"
+    publishedDateTime: 2021-01-07T10:37:00Z
+    webUrl: "https://arynews.tv/en/mask-facial-recognition-system/"
+    ampWebUrl: "https://arynews.tv/en/mask-facial-recognition-system/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/mask-facial-recognition-system/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 59
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 750
+        height: 369
+        isCached: true
   - title: "COVID-19 face masks meet facial recognition"
     excerpt: "Most people deal with facial recognition in a public setting at the airport. Today’s columnist, Tim Mackey of Synopsys, says organizations using facial"
     publishedDateTime: 2021-01-05T11:00:00Z
@@ -206,6 +222,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Masks no problem for NEC's facial recognition"
+    excerpt: "Look into my eyes NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T10:40:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52160-masks-no-problem-for-nec-s-facial-recognition"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7bf467bf754a86923bd12df78ba60421_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "HTbRrKQ9q7o5A5gu5wbNtWSnTGGv3fmDXXShfrJUhBOHsmeaKGPTTVR2VsTlI63w2umxPvfZlgFCrPIaUUAY2l2fkDsJz0yMi62uHNpWP2bEZab4Iw/xNpnG9yn9XxDCu2TyY6xs2AlpnFNWttiKiiDruhkH75jD1i932MeJ7la8ZVwP6PN5OeiSADo+xI/hpJtZamau1k8UYGW+H1KwQcy+q4/c4TxLe1+6SoAxerVbNyZ7JtoxIbVAJl+AERy76Aiy8R3bv9cHO+209qAdYBBXDTzXMnIkhOaAPLCmpYld3x8J9Xd6pjBflfQssGg7N1T6z1PwNxFTH9NmYaNruuV7ANQG5JBIe8kpzIMrGn90UBI77uW+ARMp6U3jojcOaKUFebj2GcBjVLsIV0vZ42aMkPuJMQFWvHZ2zNrN4JUihR5lVZvrv04tBxIhwOHCU168SrBrnuWb1tXI19SSArrh7HT8/VvLkx0WrB36T6xYyrzHJ3YeZnEUCiF68a94xKlmZe3ZoHOSmN5yHx0wTQ==;m/XirnfiXcvTLTQlbhaYLA=="

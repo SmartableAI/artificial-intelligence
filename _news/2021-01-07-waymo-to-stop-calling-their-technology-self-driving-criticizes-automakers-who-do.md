@@ -226,6 +226,20 @@ related:
         width: 620
         height: 327
         isCached: true
+  - title: "Waymo Ditches “Self-Driving” Terminology in Another Dig at Tesla"
+    excerpt: "If subtle digs were arrows, Elon Musk would be bleeding profusely by now. At least, that’s what industry watchers like to imagine goes through the mind of the Powers That Be at Waymo."
+    publishedDateTime: 2021-01-07T08:18:00Z
+    webUrl: "https://www.autoevolution.com/news/waymo-ditches-self-driving-terminology-in-another-dig-at-tesla-154085.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 54
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/waymo-ditches-self-driving-terminology-in-another-dig-at-tesla-154085-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Self-Driving Car Market 2020 – 2024 | Industry Outlook by Drivers, Restraints, market demands And forecast"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2021-01-06T10:37:00Z
@@ -294,6 +308,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Waymo drops the term 'self-driving' for autonomous vehicles"
+    excerpt: "Waymo would like to leave \"self-driving\" for the history books. The Google subsidiary said it will stop using the term. Instead, Waymo says it will refer to its technology as \"fully autonomous driving technology."
+    publishedDateTime: 2021-01-07T09:48:00Z
+    webUrl: "https://europe.autonews.com/automakers/waymo-drops-term-self-driving-autonomous-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_1.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Waymo says goodbye to phrase 'self-driving'"
     excerpt: "Much like the phrase \"horseless carriage\" fell from favor in describing motorized vehicles, might \"self-driving\" someday be replaced with a better way to delineate cars controlled by computers? Waymo would like to leave \"self-driving\" for the history books."

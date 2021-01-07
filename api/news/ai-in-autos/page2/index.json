@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
+      "title": "Robotics company gets OK to charge money for self-driving services",
+      "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
+      "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1",
+          "width": 556,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/579822.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php",
+      "publishedDateTime": "2020-12-24T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit.md",
       "title": "Nuro R2 self-driving delivery cars receive California deployment permit",
       "excerpt": "The media frenzy around self-driving vehicles has mostly been drowned out by this year’s more pressing concerns. That said, the need for contactless ways to transport goods has actually become even more important exactly because of those concerns.",
@@ -1328,49 +1372,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others.md",
-      "title": "Chinese search-engine Baidu considers making electric cars: In talks with Geely, Hongqi, others",
-      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
-      "originalUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/12/baidu-electric-cars.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
-      "publishedDateTime": "2020-12-15T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
+      "title": "EV Dreams Power Baidu but May Not Last",
+      "excerpt": "It makes sense for Baidu to consider making its own cars, especially when investors are paying attention to anything and everything EV-related. And a move in that direction wouldn’t be out of the blue. The company has long invested in its self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124?mod=markets_major_pos1",
+      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124?mod=markets_major_pos1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281927/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "publishedDateTime": "2021-01-07T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027.md",
+      "title": "AI in Manufacturing Market Sales and Revenue by Companies, Regions, Type and Application till 2027",
+      "excerpt": "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T02:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-explained-how-does-facebooks-ai-tool-for-suicide-prevention-work.md",
+      "title": "Explained | How does Facebook’s AI tool for suicide prevention work?",
+      "excerpt": "Along with its community operations team, the social media giant has an AI tool that picks up phrases or words that signal distress or trouble in posts as well as comments to alert authorities or get help to the person.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/11/Facebook_nov30-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
+      "publishedDateTime": "2021-01-07T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
       "title": "Need a COVID test? Look for a vending machine",
       "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
@@ -105,7 +253,7 @@
       "originalUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -820,7 +968,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1053,142 +1201,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-renalytix-ai-rnlx-catches-eye-stock-jumps-7.md",
-      "title": "Renalytix AI (RNLX) Catches Eye: Stock Jumps 7%",
-      "excerpt": "Renalytix AI plc RNLX was a big mover last session, as the company saw its shares rise nearly 7% on the day. The move came on solid volume too with far more shares changing hands than in a normal session.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/renalytix-ai-rnlx-catches-eye%3A-stock-jumps-7-2021-01-06",
-      "originalUrl": "https://www.nasdaq.com/articles/renalytix-ai-rnlx-catches-eye%3A-stock-jumps-7-2021-01-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/renalytix-ai-rnlx-catches-eye%3A-stock-jumps-7-2021-01-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/renalytix-ai-rnlx-catches-eye%3A-stock-jumps-7-2021-01-06?amp",
-      "publishedDateTime": "2021-01-06T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-the-us-armys-robot-tanks-make-great-bait.md",
-      "title": "The U.S. Army’s Robot Tanks Make Great Bait",
-      "excerpt": "The U.S. Army is developing remote-controlled robotic vehicles that, the service hopes, will be able to fight alongside conventional tanks, fighting vehicles and infantry as soon as the 2030s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
-      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4d1e90814527e7d1bc513%2F0x0.jpg%3FcropX1%3D36%26cropX2%3D1162%26cropY1%3D0%26cropY2%3D633",
-          "width": 1126,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
-      "publishedDateTime": "2021-01-06T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-the-us-needs-more-foreign-artificial-intelligence-know-how.md",
-      "title": "The US Needs More Foreign Artificial Intelligence Know-How",
-      "excerpt": "Jason Furman, a top economic adviser to President Obama, says good ideas come from everywhere—but Trump has dissuaded tech workers from coming to the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
-      "originalUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ff51e1eadb00d267b4a3569/master/pass/Business-Jason-Furman-1022466816.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
-      "publishedDateTime": "2021-01-06T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
