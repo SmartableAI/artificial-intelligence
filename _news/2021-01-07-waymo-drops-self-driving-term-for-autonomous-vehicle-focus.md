@@ -47,6 +47,38 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Waymo won't talk about 'self-driving' cars anymore, in apparent dig at Tesla"
+    excerpt: "Waymo takes a stab at Tesla over its use of the term \"self-driving\" in its new Full Self Driving feature. Alphabet-owned Waymo has stopped referring to \"self-driving\" to describe its technology and form now on will only use the term \"fully autonomous driving technology\" instead."
+    publishedDateTime: 2021-01-07T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/17/f71cf2c8-9b0c-4c9b-8871-ac97d9a76c73/thumbnail/1200x675/5c36970a2932377566a437c0929868b2/sensors-from-selfdriving-car-to-aibased-5fae92e0eafdf2701d541185-1-nov-17-2020-12-35-03-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Waymo drops the term 'self-driving' for 'fully autonomous,' points finger at Tesla"
+    excerpt: "There have long been arguments over whether vehicles should be classified as self-driving, mostly because the technology is closer to driver assistance features that require regular"
+    publishedDateTime: 2021-01-07T12:09:00Z
+    webUrl: "https://www.techspot.com/news/88199-waymo-drops-term-elf-driving-fully-autonomous-points.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/88199-waymo-drops-term-elf-driving-fully-autonomous-points.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88199-waymo-drops-term-elf-driving-fully-autonomous-points.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 98
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-08-image-33.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
   - title: "Why 2021 Will Be The Year Self-Driving Cars Go Mainstream"
     excerpt: "Today, I’m going to reveal three ways to profit off the self-driving car megatrend, which is gaining momentum. The technology behind this trend has been ready for years. But I believe this is the year it’s about to finally be unleashed. And it’s ..."
     publishedDateTime: 2021-01-06T14:31:00Z
@@ -62,22 +94,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff5c6f66999edd06665732e%2F0x0.jpg"
         width: 1200
         height: 795
-        isCached: true
-  - title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
-    excerpt: "Waymo, the self-driving arm of Google's parent company Alphabet, and which pioneered the self-driving car business, says it's done with the term \"self-driving.\""
-    publishedDateTime: 2021-01-06T22:35:00Z
-    webUrl: "https://edition.cnn.com/2021/01/06/tech/waymo-self-driving/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200302173131-02-waymo-investment-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Waymo shelves 'self-driving' term for its technology to shore up safety"
     excerpt: "Waymo swears it's not out to pick nits and give us all an exercise in linguistics. The fact it will no longer use the term \"self-driving\" when describing its technology is about education and safety,"
@@ -330,6 +346,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/01/navigation-1048294_640.jpg"
         width: 640
         height: 406
+        isCached: true
+  - title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
+    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
+    publishedDateTime: 2021-01-07T00:08:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
+        width: 500
+        height: 281
         isCached: true
   - title: "Waymo drops the term 'self-driving' for autonomous vehicles"
     excerpt: "Waymo would like to leave \"self-driving\" for the history books. The Google subsidiary said it will stop using the term. Instead, Waymo says it will refer to its technology as \"fully autonomous driving technology."

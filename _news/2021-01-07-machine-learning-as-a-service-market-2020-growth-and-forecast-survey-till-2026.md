@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Ai In Market Growth Factors, Trends, Consumption, Production, Revenue and Forecast 2020-2023"
+    excerpt: "The global AI in marketing market is segmented into various segments on the basis of deployment, technology, applications, and verticals. The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-01-07T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-market-growth-factors-trends-consumption-production-revenue-and-forecast-2020-2023-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
     excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
     publishedDateTime: 2021-01-05T14:06:00Z

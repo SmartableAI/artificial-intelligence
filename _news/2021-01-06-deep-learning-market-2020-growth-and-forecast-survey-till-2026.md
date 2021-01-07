@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-202
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
 type: article
 quality: 71
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Ai In Market Growth Factors, Trends, Consumption, Production, Revenue and Forecast 2020-2023"
+    excerpt: "The global AI in marketing market is segmented into various segments on the basis of deployment, technology, applications, and verticals. The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-01-07T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-market-growth-factors-trends-consumption-production-revenue-and-forecast-2020-2023-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

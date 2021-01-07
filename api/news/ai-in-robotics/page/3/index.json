@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-underwater-robot-designed-to-keep-tabs-on-fish-farms.md",
+      "title": "Underwater robot designed to keep tabs on fish farms",
+      "excerpt": "The robot additionally utilizes artificial intelligence-based algorithms to observe the behaviour of the fish, adjusting its movements in order to disturb them as little as possible. As it travels ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
+      "originalUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/cacb1dc/2147483647/strip/true/crop/767x511+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2F69bcb3504d85958797d788cb2d58%2Fcagereportersensorer.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
+      "publishedDateTime": "2020-12-14T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
       "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
       "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
@@ -1350,40 +1402,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-global-robotics-automation-etf-robo-hits-a-52-week-high.md",
-      "title": "Global Robotics & Automation ETF (ROBO) Hits a 52-Week High",
-      "excerpt": "For investors looking for momentum, ROBO Global Robotics & Automation ETF ROBO is probably a suitable pick. The fund just hit a 52-week high and is up 102.4% from its 52-week low price of $28.27/share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02",
-      "originalUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp",
-      "publishedDateTime": "2020-12-02T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

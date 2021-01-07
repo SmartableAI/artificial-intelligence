@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition identifies people wearing masks"
+    excerpt: "Japanese company NEC, which develops facial-recognition systems, has launched one that can identify people even when they are wearing masks. It hones in on parts of the face that are not covered up, such as the eyes,"
+    publishedDateTime: 2021-01-07T12:05:00Z
+    webUrl: "https://www.bbc.com/news/technology-55573802"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55573802"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55573802"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_116381970_facemask.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
     excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
     publishedDateTime: 2021-01-06T21:30:00Z

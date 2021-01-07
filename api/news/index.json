@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips.md",
+      "title": "Researchers design AI that can infer whole floor plans from short video clips",
+      "excerpt": "Researchers at Facebook, Carnegie Mellon, and the University of Texas at Austin designed an AI system that generates floor plans from videos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/",
+      "originalUrl": "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Screenshot-45_auto_x2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/",
+      "publishedDateTime": "2021-01-07T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
+      "title": "Seoul Robotics: A 3D Vision Of The Future",
+      "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7162c24227293870c722f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
+      "publishedDateTime": "2021-01-07T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-dcodeai-launches-ai-learning-platform-for-students.md",
+      "title": "DcodeAI launches AI learning platform for students",
+      "excerpt": "It-Yourself (DIY) curriculum for learning Artificial Intelligence (AI) across their 10,000+ school network in India.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/dcodeai-launches-ai-learning-platform-for-students/articleshow/80156055.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/dcodeai-launches-ai-learning-platform-for-students/articleshow/80156055.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg",
+          "width": 412,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/dcodeai-launches-ai-learning-platform-for-students/amp_articleshow/80156055.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/dcodeai-launches-ai-learning-platform-for-students/amp_articleshow/80156055.cms",
+      "publishedDateTime": "2021-01-07T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-how-ai-powered-virtual-agents-can-upgrade-municipal-services.md",
+      "title": "How AI-Powered Virtual Agents Can Upgrade Municipal Services",
+      "excerpt": "Providing citizens with easier access to municipal and state services can be difficult and costly, yet the improvement in \"living experience\" can be dramatic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4c699cb83e0006e372f4%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/amp/",
+      "publishedDateTime": "2021-01-07T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021.md",
       "title": "Five real world AI and machine learning trends that will make an impact in 2021",
       "excerpt": "Experts predict artificial intelligence (AI) and machine learning will enter a golden age in 2021, solving some of the hardest business problems. Machine learning trains computers to learn from data with minimal human intervention.",
@@ -106,7 +303,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -496,7 +693,7 @@
       "originalUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 280,
       "tags": null,
       "images": [
         {
@@ -694,7 +891,7 @@
       "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -961,21 +1158,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
-      "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
-      "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
+      "path": "_news/2021-01-07-washington-post-live-to-host-artificial-intelligence-in-health-care-with-presenting-sponsor-ge.md",
+      "title": "Washington Post Live to host “Artificial Intelligence in Health Care” with presenting sponsor GE",
+      "excerpt": "Speakers will discuss how artificial intelligence is changing how doctors work, drugs are developed, patients are diagnosed, surgeries are performed, and how it is used in the fight against COVID-19",
       "sourceUrl": null,
-      "webUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
-      "originalUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "webUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/",
+      "originalUrl": "https://www.washingtonpost.com/pr/2021/01/06/washington-post-live-host-artificial-intelligence-health-care-with-presenting-sponsor-ge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/buzz-chmielewski.jpg?offset-x=0",
-          "width": 976,
-          "height": 553,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3MYCH5NHFATBHOE3UOHHJL67Q.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -983,13 +1180,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
-      "publishedDateTime": "2021-01-06T10:50:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
+      "publishedDateTime": "2021-01-06T11:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -999,216 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-waymo-says-its-ditching-the-term-self-driving-in-dig-at-tesla.md",
-      "title": "Waymo says it’s ditching the term ‘self-driving’ in dig at Tesla",
-      "excerpt": "The Google sister company says it is through using the term “self-driving cars” to describe its fleet of autonomous vehicles. And it is subtly pointing fingers at Elon Musk’s Tesla as the reason why. Waymo says it is committing to “using more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
-      "originalUrl": "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/mkSj7cZs4bdQWRRTiFF-8jqnpGI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68628290/waymo_chrysler_pacifica_detroit_auto_show_2017_0547.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
-      "publishedDateTime": "2021-01-06T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-nissan-source-code-leaked-online-after-git-repo-misconfiguration.md",
-      "title": "Nissan source code leaked online after Git repo misconfiguration",
-      "excerpt": "The source code of mobile apps and internal tools developed and used by Nissan North America has leaked online after the company misconfigured one of its Git servers. Cheat sheet: TensorFlow, an open source software library for machine learning Read More The leak originated from a Git server that was left exposed on the internet with its default username and password combo of admin/admin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "originalUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/d9b8188d-cc6f-470c-a927-3fe945025185/nissan-logo.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "publishedDateTime": "2021-01-06T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon.md",
-      "title": "AI security cameras inspired by frog eyes could be coming soon",
-      "excerpt": "As well as taking cues from the natural world, the AI cameras also rely heavily on a new camera-processor chip called SCAMP. The chip has a processor embedded in every pixel, making it ideal for AI algorithms looking to rapidly assess visual data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "originalUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/orPkbTPEcv9Z2g5J2ATLYX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "publishedDateTime": "2021-01-06T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech.md",
-      "title": "Researchers find machine learning models still struggle to detect hate speech",
-      "excerpt": "Detecting hate speech is a task even state-of-the-art machine learning models struggle with. That’s because harmful speech comes in many different forms, and models must learn to differentiate ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
-      "originalUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
-      "publishedDateTime": "2021-01-06T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -1,0 +1,37 @@
+---
+category: news
+title: "DSP unveils low-power edge AI/ML SoC with dedicated neural network inference processor"
+excerpt: "DSP has unveiled its DBM10, an artificial intelligence (AI) and machine learning (ML) system-on-a-chip (SoC). The SoC includes a digital signal processor (DSP) and the company's nNetLite neural network (NN) processor,"
+publishedDateTime: 2021-01-07T14:54:00Z
+originalUrl: "https://www.telecompaper.com/news/dsp-unveils-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor--1367849"
+webUrl: "https://www.telecompaper.com/news/dsp-unveils-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor--1367849"
+type: article
+quality: 43
+heat: -1
+published: false
+
+provider:
+  name: Telecompaper
+  domain: telecompaper.com
+
+topics:
+  - AI Hardware
+  - AI
+  - Machine Learning
+
+related:
+  - title: "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor"
+    excerpt: "SAN JOSE, Calif., Jan. (GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ:DSPG), a leading global provider of wireless and voice-processing chipset solutions for"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19055169"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19055169"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+
+secured: "+946o5gHGjJGhjUfRlWE5+qqj1aYoGp2p9a6YtZ4M1ORGbqDIxcJCxlgCXfTpPFO6ePU/Xc8Z11Zz+pfC5j5SuOClrsYC1J1+z8bz+Fvq1f/ugxZi0p+L+s8Uz4Z6RLYNA46s+xawJwrEBY3D5m+E22ZnY/VFtRG3WMOyyCGcBEtMuxtvJUuQvTsVV0iFI+xytppe9CW+FJQuQlxmqnJ52ak88uWi2sM6ARzGeD1LdYlVffCrD/STgmlR+uGoXimDOa04fFi0eKXqSHRe45jBXsH6vZiG+VqMRLhwEULU4mKhRzTIP6xlonKPtjDQPY/W2E2nJ0dMjvZjZOomUx8qRBMp5FPgjsWwdUXMVnwe/I=;CsyKZeu0bAifv/2ia/pAZw=="
+---
+

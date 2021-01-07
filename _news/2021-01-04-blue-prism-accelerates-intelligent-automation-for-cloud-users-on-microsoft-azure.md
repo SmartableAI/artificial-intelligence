@@ -53,6 +53,22 @@ related:
         width: 1024
         height: 437
         isCached: true
+  - title: "Microsoft's AI model has outperformed humans in natural language understanding"
+    excerpt: "Microsoft's DeBERTa model for natural language understanding has outperformed humans in SuperGLUE benchmarks, defeating Google's model which just set the previous record a couple of days ago too."
+    publishedDateTime: 2021-01-07T09:48:00Z
+    webUrl: "https://www.neowin.net/news/microsofts-ai-model-has-outperformed-humans-in-natural-language-understanding"
+    ampWebUrl: "https://www.neowin.net/amp/microsofts-ai-model-has-outperformed-humans-in-natural-language-understanding/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-ai-model-has-outperformed-humans-in-natural-language-understanding/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 100
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2017/11/1510041776_robot_story.jpg"
+        width: 760
+        height: 429
+        isCached: true
   - title: "AI models from Microsoft and Google already surpass human performance on the SuperGLUE language benchmark"
     excerpt: "“There’s no reason to believe that SuperGLUE will be able to detect further progress in natural language processing, at least beyond a small remaining margin.” But SuperGLUE isn’t a ..."
     publishedDateTime: 2021-01-06T19:06:00Z
@@ -68,6 +84,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft Healthcare Bot Service Becomes Azure Health Bot"
+    excerpt: "Microsoft Healthcare Bot has folded into Azure to become the Azure Health Bot services, with plenty of new abilities included."
+    publishedDateTime: 2021-01-07T14:19:00Z
+    webUrl: "https://winbuzzer.com/2021/01/07/microsoft-healthcare-bot-service-becomes-azure-health-bot-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/01/07/microsoft-healthcare-bot-service-becomes-azure-health-bot-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/01/07/microsoft-healthcare-bot-service-becomes-azure-health-bot-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 91
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/01/Azure-Health-Bot-Microsoft.jpg"
+        width: 1024
+        height: 437
         isCached: true
   - title: "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple"
     excerpt: "Latest released the research study on Global Mobile Speech Recognition Software Market, offers a detailed overview"

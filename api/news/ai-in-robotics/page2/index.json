@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-29-nuro-robot-delivery-cars-will-start-operations-in-california-in-2021.md",
+      "title": "Nuro robot delivery cars will start operations in California in 2021",
+      "excerpt": "Robotic startup firm, Nuro has gotten official approval to start its paid delivery service with autonomous vehicles. This much was revealed by the California Department of Motor Vehicles (DMV). Steve Gordon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "originalUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/nuro-2.png",
+          "width": 795,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-sonys-ai-powered-recipe-app-cooking-robot-to-assist-chefs-worldwide.md",
       "title": "Sony’s AI-powered recipe app, cooking robot to assist chef’s worldwide",
       "excerpt": "The tech giant’s recipe creation app will aid top-level chefs in their creative process of ingredient pairing, recipe design and menu creation.",
@@ -1352,58 +1404,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-underwater-robot-designed-to-keep-tabs-on-fish-farms.md",
-      "title": "Underwater robot designed to keep tabs on fish farms",
-      "excerpt": "The robot additionally utilizes artificial intelligence-based algorithms to observe the behaviour of the fish, adjusting its movements in order to disturb them as little as possible. As it travels ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
-      "originalUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/cacb1dc/2147483647/strip/true/crop/767x511+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2F69bcb3504d85958797d788cb2d58%2Fcagereportersensorer.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
-      "publishedDateTime": "2020-12-14T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

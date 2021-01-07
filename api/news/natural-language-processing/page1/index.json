@@ -150,7 +150,7 @@
       "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -192,6 +192,50 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch.md",
+      "title": "Scientists Broke This AI Robot's Leg Then Let It Teach Itself To Walk From Scratch",
+      "excerpt": "In a ground-breaking feat that shows Hebbian learning could be applied to artificial intelligence (AI), scientists have showcased a newly developed mathema",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "originalUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/cbadf7b8-269e-5ad8-ac68-a9bcb0364efa/default-1609856733-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "publishedDateTime": "2021-01-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1387,58 +1431,6 @@
       "topics": [
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-google-expands-languages-push-to-serve-non-english-speakers-in-india.md",
-      "title": "Google expands languages push to serve non-English speakers in India",
-      "excerpt": "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
-      "originalUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
-      "publishedDateTime": "2020-12-17T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

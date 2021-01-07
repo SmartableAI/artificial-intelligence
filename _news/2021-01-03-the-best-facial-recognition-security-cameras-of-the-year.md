@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 256
+heat: 266
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facial recognition identifies people wearing masks"
+    excerpt: "Japanese company NEC, which develops facial-recognition systems, has launched one that can identify people even when they are wearing masks. It hones in on parts of the face that are not covered up, such as the eyes,"
+    publishedDateTime: 2021-01-07T12:05:00Z
+    webUrl: "https://www.bbc.com/news/technology-55573802"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55573802"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55573802"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_116381970_facemask.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Facial recognition: Now algorithms can see through face masks"
     excerpt: "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals."
