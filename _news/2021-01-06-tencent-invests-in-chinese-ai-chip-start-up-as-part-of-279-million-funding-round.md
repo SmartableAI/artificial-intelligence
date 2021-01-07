@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-ch
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 2122
     height: 1412
     isCached: true
+
+related:
+  - title: "Chinese AI Chip Unicorn Horizon Gets USD400 Million in New Funding Round Led by CATL, Others"
+    excerpt: "Horizon Robotics, a five-year-old startup that develops artificial intelligence chips, has raised USD400 million in its latest fundraising round led by Chinese electric vehicle battery giant Contemporary Amperex Technology and other big name investors."
+    publishedDateTime: 2021-01-07T11:40:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd400-million-in-new-funding-round-led-by-catl-others"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 43
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd400-million-in-new-funding-round-led-by-catl-others/10520200526954496.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "bh32BuU6Qbknxx1sWpAmAOPx4hQEsZlDo/5i4mHpjrDovV9gU00dk4sU9/7ADxFTYqPDNrsuoyZ/qmfLSSvgfP9MMvnxh34C6V3Wq3JjKXgkAL2UT0XaddyPCYasDfMZFRrr/fVbRHNIlriJZLdkwIfGdrHNidezA8QhE4VSwppV43YzySFWpG3hX7WQTJpOIMy9bNMIdP8kcmpM8hujPxPxAgMjQEyj85/Dz+m4IeCiKys8JV2ov5xkfwQuWylx4GH+KLepKCYBUHFGHJOy+6JO91CauX/qmGdjGc4B5DHD6pCszbjVdU6gl8v1y+f03Sj6GiRybR0tgbAan6Fpx5uffdvk90i+eOwIXIVsh50=;0OC4hhAkAzeqS4P9fU3aUA=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "An AI Storm is Coming as Analog AI Surfaces in Sensors"
+    excerpt: "I worry that when writing these columns, I sometimes start by meandering my way off into the weeds, cogitating and ruminating on “this and that” before eventually bringing the story back home. So,"
+    publishedDateTime: 2021-01-07T12:18:00Z
+    webUrl: "https://www.eejournal.com/article/an-ai-storm-is-coming-as-analog-ai-surfaces-in-sensors/"
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 37
+    images:
+      - url: "https://www.eejournal.com/wp-content/uploads/2021/01/max-0066-image-for-home-page.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "7gi2CQNIVSgFWiLOp0m0WgqLcGQ0BhZn3wmEd+uG1hIMg65+ycXmaDPDcQx+AnblZSnK16q9wkSgcrE/tS32jI7f3aUTUnwHLGUsxV1VWX8hhJIeqLZ0uzvUWAtceHI10HCbXQt02NE96gM45f3DZfr8o9ypky6jjcfbU3ZNm/qBUc9Bwal7UHJzXo50NIONDi12DbFkxaDAvB2wpk4sFxQ9nrUDOmwTCB1bZwRgubc9OoWuT06JTQfcJEdactOiDecuMb8AsNEtQW0U7fMJN6wtXM9XPF50LyH2xh6iP08rrXJmLBbcODrGKmGK0Z6vNTp3jA0JKqfX7TDYKMNO8od4l/Thwxh2OcKnKx15C60P0nYiww3h3oREYeasR+Vq16xGipl7sylFyl4XLkpbAiTjtfuT8R9SfP5o6J6VRkcQYLcIANYe4J+B/U1LaF7Gez5GBa8I+iNBp59/8PThGc1/Y9Ay5uYsqGEVCQapGh6iKix/3i20GcytYOdy1zzsw1j9yto0E9xosTMrpxJ5fw==;t9JTv8TYq/iE6LVfDH/h7w=="
 ---

@@ -2,12 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021.md",
+      "title": "Five real world AI and machine learning trends that will make an impact in 2021",
+      "excerpt": "Experts predict artificial intelligence (AI) and machine learning will enter a golden age in 2021, solving some of the hardest business problems. Machine learning trains computers to learn from data with minimal human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295",
+      "originalUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1",
+      "publishedDateTime": "2021-01-07T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
       "title": "EV Dreams Power Baidu but May Not Last",
-      "excerpt": "It makes sense for Baidu to consider making its own cars, especially when investors are paying attention to anything and everything EV-related. And a move in that direction wouldn’t be out of the blue. The company has long invested in its self-driving ...",
+      "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124?mod=markets_major_pos1",
-      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124?mod=markets_major_pos1",
+      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -968,7 +1012,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1116,7 @@
       "originalUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1165,57 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ai-draws-dog-walking-baby-radish-in-a-tutu.md",
-      "title": "AI draws dog-walking baby radish in a tutu",
-      "excerpt": "These pictures were generated from the command \"An illustration of a baby daikon radish in a tutu walking a dog\" Avocado-shaped armchairs, radishes in tutus and cats in sunglasses are among some surreal works of art created by an artificial-intelligence system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-55559463",
-      "originalUrl": "https://www.bbc.com/news/technology-55559463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15F6E/production/_116366998_radish.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55559463",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55559463",
-      "publishedDateTime": "2021-01-06T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

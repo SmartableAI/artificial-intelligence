@@ -9,8 +9,8 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/ai-based-database-to-solve
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Track
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Hardware in Data Centres can Improve Data Infrastructure"
+    excerpt: "Specialized chips for artificial intelligence (AI) computing by NVIDIA and Intel can bring more high-density AI hardware in the data centres."
+    publishedDateTime: 2021-01-07T11:12:00Z
+    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-hardware-in-data-centres/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Artificial-Intelligence-4.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Centre plans AI-backed database to solve similar crimes faster, prevent them"
     excerpt: "The Modus Operandi Bureau (MOB), the database, will have over 100 modus operandi or trademark of criminals/accused persons involved in crimes till date."
     publishedDateTime: 2021-01-03T19:16:00Z

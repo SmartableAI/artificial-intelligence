@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
-excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\""
-publishedDateTime: 2021-01-06T17:13:00Z
-originalUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
-webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
+excerpt: "Waymo, the self-driving arm of Google's parent company Alphabet, and which pioneered the self-driving car business, says it's done with the term \"self-driving.\""
+publishedDateTime: 2021-01-06T22:35:00Z
+originalUrl: "https://edition.cnn.com/2021/01/06/tech/waymo-self-driving/index.html"
+webUrl: "https://edition.cnn.com/2021/01/06/tech/waymo-self-driving/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Gwinnett Daily Post
-  domain: gwinnettdailypost.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200302173131-02-waymo-investment-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -148,6 +154,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 84
+  - title: "Waymo is dropping the term ‘self-driving,’ but not everyone in the industry is on board"
+    excerpt: "Waymo will no longer use the term ‘self-driving’ to describe the technology it has been developing for more than a decade, opting instead for ‘autonomous.’ The Alphabet company said that this seemingly small shift is an important effort to clarify what the technology does"
+    publishedDateTime: 2021-01-07T12:03:00Z
+    webUrl: "https://techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/"
+    ampWebUrl: "https://techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/Waymo-lineup.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Waymo will no longer say ‘self-driving’ in apparent shade to Tesla"
     excerpt: "Waymo, a division of Google parent company Alphabet, will now refer to its technology as \"autonomous driving.\""
     publishedDateTime: 2021-01-06T22:20:00Z
@@ -363,6 +385,6 @@ related:
         height: 512
         isCached: true
 
-secured: "NBj6eJqvc+3dJVakrY+MZlKKVhhCKGT5rTiwrSNZzJYAf5oUG6cvTcaayzS7qXNsx6FA2dr4VAvRhYMkCIuBsNLg9QbXOBgMEmEBpcGD7c/nrxMDwQlQ+uMeAYOYkQFm2caDJ8sJ7POI9dBmOBP5o6/gC2Fa/ZxgLeTUc8j+zmAcXno8y1OlAmxi3s8GcsVr8tkIVDeRTkjv69vJ27NHnRxhIasgKwfzugRcZoNtgnUb3gX7JDtuK69O7rVk7vqpzzBqk645w1v2FsQbzqX0scH3IXwTywzldAS55AvYOZxstyYxkzb3unkzenxzEUgIdVzKNnre67jEgm8ck04YOFCNO9pYNX+HYpQlInvK4uE=;f4R5u4IVkl6tnTYScdZnEA=="
+secured: "8VBf5wY8b0bMIQz3QecVvup+J6V1dyuRwAMn9ECoC+GwjpNf4ZpsVkpLW4FOI0eQBDutWYN0a2VFOKvXh2+58P7HtW6wMSlVPVjK/+CjXAGKbgCl3CD5b1tBq/sGRwfg+ZjhWQcqLe/n6vskk0/voPPgUiwdSryE/4rawLm4m6vo3c3gt4b2AhD26DdElHPtGHrSri+0ihM5PB5ZR02ubGUV5A+4Ulgjwgk4sWi8t0kedyGbq60uQryjj+JbDsjKKp+nLWlSWQBppmZ490rE8DfL8BTfPJUoE9boUw+XeOq88JdmBTFLljlEyUgraB9+NeFKo/r3Lf3kr+1aiOTgchMPYStRMOKQFQF6mX6b/FA=;XuGDcJzdtj3jVQkeb5dPAw=="
 ---
 

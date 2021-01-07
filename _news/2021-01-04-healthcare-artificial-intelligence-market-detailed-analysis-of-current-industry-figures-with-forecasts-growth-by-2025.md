@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
 type: article
 quality: 78
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -170,6 +170,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
+    publishedDateTime: 2021-01-07T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19053604/machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19053604"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19053604"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "ZRExKQ7RUaZC6d8I8esyjfenrWHdi/u93paawXbPc7fpTn/xerhDjFueiINMegpnG7s6ZVaf51F+ceIk9O3oW/QCrbyEIg7s5ralTY6axgDMnUNAtMkuWVjfu9PtQIY/Faf0bE3UiquVqZi3t5Mtk5yzshJx+M9XBkVD2zL/92j7hDiSnukm0x6EtHlm66OAPQVLW/tEKkHikNXD5b3jmKgYDQGkL+W6505aO1VPYMI3sBrsnZ2aF1wLpE5nPeihzZcEH4bN8AC1qb2FehZM0PqjDb0zlBsYDDGZ0i+wssoPf5nnC2OodqwkWSrTQMYcybhTV5WA2TKpQY/lpueQMy+mA15Hc4aEpNSw2BEWeHM=;gqK/g50z9c5SzfTJYVYj5Q=="
 ---

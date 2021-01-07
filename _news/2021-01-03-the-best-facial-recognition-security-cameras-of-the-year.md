@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -157,6 +157,22 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Patrick-Grother-731x1024.jpg"
         width: 731
         height: 1024
+        isCached: true
+  - title: "Masks no obstacle for Japan’s new facial recognition system"
+    excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
+    publishedDateTime: 2021-01-07T12:04:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/amxeem/article33520942.ece/ALTERNATES/LANDSCAPE_615/japan-facial-recognitionjpg"
+        width: 615
+        height: 384
         isCached: true
   - title: "Masks no obstacle for new facial recognition system"
     excerpt: "Japan’s NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal"

@@ -24,6 +24,22 @@ images:
     height: 368
     isCached: true
 
+related:
+  - title: "Harnessing the power of crowd-driven artificial intelligence"
+    excerpt: "Rapid advances in computing power, the availability of big data, and improvements in machine learning algorithms mean artificial intelligence (AI) is changing the world as we know it. Computer vision,"
+    publishedDateTime: 2021-01-07T12:21:00Z
+    webUrl: "https://idw-online.de/de/news760834"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 39
+    images:
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
+        isCached: true
+
 secured: "SPOXwfqYn7ec8gJoV9bzGIYvX7qaM9Q2Dm76ClHsqf/QVr1WApnq3YMPvBCKUoYOv8Tcvo3SO5avXZssFB20smNN3qLcXlGpdz8BKU4L+9acud/FYHOKHnwBCniFB1AM6XzOtLUTapu8iSI++IOtDgdct8bCLiJSPUgW5K6a2QS17obAPkOMJ3gXrFWL6MazpDQRgtpxMNqRWPrskU/ErBN1TV3dzswfO6+btzlTVkeIdXSVitED5Hf586OLNpTAy7lMsILPBujrnVBUcS7+8X3t0U+ZD93t9FTM0lDmAkxBlD526561sRv/ttLAkelJjLthcrQgO/+OPlAbuA+DcHxQpPk3BOhwqMemqZdeOpCvwlRPwAQxzESSvIqRL3UDF74jAa3+ACRTbxR2CAaKj/vJ6JfL34+/0ZW8a22WwOLodQMsHEx5mZi75dIfdns8mqfAjS76irJBuxtubyUBb3Pbma74v7+WZx2T5eXbg/b8+MmnmUCiH79h4lQrMHJisPDZkPw8ahPO68Ee3uAhNA==;Qz9cC2O2brP+r3pvocdWSA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-22-top-10-deep-learning-chip-makers-in-global-market-and-their-business-development-strategies-over-2020-2027.md",
+      "title": "Top 10 Deep Learning Chip Makers in Global Market and Their Business Development Strategies Over 2020-2027",
+      "excerpt": "Allied Market Research Published Latest Report titled, “Deep Learning Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Technology (System-on-chip, System-in-package, Multi-chip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2214578/top-10-deep-learning-chip-makers-in-global-market-and-their",
+      "originalUrl": "https://www.openpr.com/news/2214578/top-10-deep-learning-chip-makers-in-global-market-and-their",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc22101051_g.jpg",
+          "width": 790,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2214578/top-10-deep-learning-chip-makers-in-global-market-and-their",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2214578/top-10-deep-learning-chip-makers-in-global-market-and-their",
+      "publishedDateTime": "2020-12-21T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in.md",
       "title": "Why is machine learning so hard to explain? Making it clear can help with stakeholder buy-in",
       "excerpt": "Nobody is going to invest in a technology that they don't fully get. Helping them understand how and why it works will encourage adoption. It's hard to get stakeholders to buy into technology they don't understand. In the case of artificial intelligence ...",
@@ -1378,50 +1422,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-new-sagemaker-features-cut-machine-learning-curve.md",
-      "title": "New SageMaker features cut machine learning curve",
-      "excerpt": "Amazon Web Services (AWS) has announced nine new capabilities for its machine learning (ML) service, Amazon SageMaker, to make it easier for developers to automate and scale ML workflow.  Key among these is an increased effort to eliminate the kind of racial and demographic bias that has damaged the reputation of artificial intelligence and machine learning tools",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/new-sagemaker-features-cut-machine-learning-curve/",
-      "originalUrl": "https://gadget.co.za/new-sagemaker-features-cut-machine-learning-curve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/amazon-sagemaker.jpg?resize=800%2C400&#038;ssl=1",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

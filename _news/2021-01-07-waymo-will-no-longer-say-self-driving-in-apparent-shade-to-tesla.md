@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 795
         isCached: true
+  - title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
+    excerpt: "Waymo, the self-driving arm of Google's parent company Alphabet, and which pioneered the self-driving car business, says it's done with the term \"self-driving.\""
+    publishedDateTime: 2021-01-06T22:35:00Z
+    webUrl: "https://edition.cnn.com/2021/01/06/tech/waymo-self-driving/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200302173131-02-waymo-investment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Waymo drops “self-driving” term for autonomous vehicle focus"
     excerpt: "Waymo is drawing a line in the sand for driverless terminology, announcing today that it will no longer refer to its vehicles as “self-driving” and arguing that the industry needs more consistency in how it refers to cars that can operate themselves."
     publishedDateTime: 2021-01-06T17:07:00Z
@@ -150,6 +166,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 84
+  - title: "Waymo is dropping the term ‘self-driving,’ but not everyone in the industry is on board"
+    excerpt: "Waymo will no longer use the term ‘self-driving’ to describe the technology it has been developing for more than a decade, opting instead for ‘autonomous.’ The Alphabet company said that this seemingly small shift is an important effort to clarify what the technology does"
+    publishedDateTime: 2021-01-07T12:03:00Z
+    webUrl: "https://techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/"
+    ampWebUrl: "https://techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/Waymo-lineup.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
     excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
     publishedDateTime: 2021-01-03T19:19:00Z
@@ -295,20 +327,6 @@ related:
         width: 640
         height: 406
         isCached: true
-  - title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
-    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\""
-    publishedDateTime: 2021-01-06T17:13:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
-    type: article
-    provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Waymo drops the term 'self-driving' for autonomous vehicles"
     excerpt: "Waymo would like to leave \"self-driving\" for the history books. The Google subsidiary said it will stop using the term. Instead, Waymo says it will refer to its technology as \"fully autonomous driving technology."
     publishedDateTime: 2021-01-07T09:48:00Z
@@ -363,6 +381,6 @@ related:
         height: 512
         isCached: true
 
-secured: "IcP2Bl7Wz5nZd8wWK5vvB1UkV9vVPJfN8vhtvcLzbpdRFD/YLIq+pNi5G0brNjWrFUhdYbKRt3nqpd65taRD0jOiS7ti/N1OhY1xGogAeSVzbS1AVQqBHbr3GbBxeoutDmVLyO9O/v6pUzTFu8UVNFjb17zLouoKvcNqnQS6ivcYI2mo3DW+o050In4VZ3o9FIq3Exlra1vSn0q+zrR6VpmsXaGNsi1sw8mwyVu3Es8oXG9gJYQka0v3axfL7iBvxzyZXdwEUkAVquqk+WCLvxr75B5UiOZ4X0nBzyhYbhJj2KsP2TpPzZFItA5w/HJuOeY1IidilYWlo91yit4q+4+iazQnxYB1YMpYAY9qujM=;XIUQUSqU9/o6G6LZCWKyaA=="
+secured: "QgsG39uWd32KyPkRELcaXAuw47ShMcGCTmY27f3EvBgVsBKGo7Z34EHfhRJ3yPmW+qL8YnmevyE2c3esGfY5XbTXwTpcZc6PhKDKiqV4pKgHzIRiHQUf8LyxEQNLgr1DHt82JlEpKySKJrRafDqsrJRXqo8IOad9aT3PCtlR+HnuQDhhaSxMlkjcMjCstAInYata1Qg2gg8Y17YoXA0TS9vUioI9Etm2eX4hgHoDeRPMen3LA+Z/K8m5IC/INJUk6rK4dZ2aAtQzKDp16piJhaSSqo/18kOjI+1SFIrScJdZJPbAfGg2U/utlaTurNSrgYqH9y8xjb5loPpkCD91RSL5CPzZx6UY4k5zZPBTiZKWv3lRudKyG3eEH0IesKJI3+bOQ4dc4tBcPzDvhRVMXun2AZq0yx/NUWvgnnOYlQiGw+K5L14qRo1tQqXtxaP/mZT/C2F4ktvt50/GY9m6mIlu3BIZCKjO1s34qi5XiEzZOSkcJB6B8SIN3LzGWHKOnQ/y5IVs/qXBetPJcQsrwg==;I7Gq+a3d17e9YHs26j0VLA=="
 ---
 
