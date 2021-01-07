@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/04/opinion/google-union.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/04/opinion/google-union.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google workers form labor union"
+    excerpt: "Many employees began seeing the power of their workplace activism in 2018, when an internal outcry led Google to abandon its work supplying the Pentagon with artificial intelligence (AI ... Alphabet automotive division Waymo. “One of the reasons why ..."
+    publishedDateTime: 2021-01-05T19:46:00Z
+    webUrl: "https://www.taipeitimes.com/News/world/archives/2021/01/06/2003750055"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/01/06/P07-210106-317.jpg"
+        width: 787
+        height: 525
+        isCached: true
   - title: "Upset with Google's leadership, tech employees launch a workforce union to fight back"
     excerpt: "A coalition of employees working for Google parent company Alphabet and its subsidiaries announced Monday that they have launched a union to push back against \"unethical\" company decisions that run contrary to its workers' views."
     publishedDateTime: 2021-01-04T22:36:00Z

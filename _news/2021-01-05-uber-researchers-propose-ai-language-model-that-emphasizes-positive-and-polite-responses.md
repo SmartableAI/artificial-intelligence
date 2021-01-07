@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-langu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "IIT-Bombay researchers’ artificial intelligence model to identify malaria parasites"
-    excerpt: "The artificial intelligence (AI)-based models can be used for the diagnosis and prognosis of the two species of malaria parasite based on the changing trend of proteins in human blood"
-    publishedDateTime: 2021-01-02T18:28:00Z
-    webUrl: "https://www.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI.html"
-    ampWebUrl: "https://m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 31
 
 secured: "QvLY2LvfSm8QnOczruSBy6J3YIImkcasdSfj/c8rd47XUFf9ZZbF2CajfbYtarFnbZpLUfzktHGbCU3R4GCrjcNh4eEOEVK5z3aDbTTyfTEj4UbCg6S2kzuvSB/iLKjU0HFlahugyBeB7sc3kdhnyvMbfhy0cfjnwqWOROeL9brPI79vi1Cb7292ERfg0Vkk7oR5+0flPhDz0rsWAeB99IXErSoCKf5y7rnOP0buQM33Wv0zxReylou3HvP5cui4L6+pXUVh5TLmV/OCNOt9uP76YAOG7gwNAw4+1QORAyQnwr4UgS+abgH4LvK/APidVskNgQZYISNIG3Yc68bsn0Eaym+96Z8m8v3qMPCqAnGhIM8AZgWhz14YJhSDBwzmcVz8WNnu4rnSKTq1rj5qMm5aiOSfm9DRm7x0+iY8aSQoML6L7xwyiKI6oYmq2AadABNcvRbKF47Pwan7BqQzLa+CwAhKL+dWZIN80dw3sBQKcBaHV7UPyLWgwnMdATaEZi/T8qhnoDBZkyBXN2oidQ==;844e0NTYdwTwDyKmf0WoxQ=="
 ---

@@ -33,7 +33,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
         width: 1024

@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-07T00:53:00Z
 originalUrl: "https://www.biometricupdate.com/202101/bill-to-limit-police-biometrics-use-tabled-in-new-york-state-as-legislators-struggle-with-facial-recognition"
 webUrl: "https://www.biometricupdate.com/202101/bill-to-limit-police-biometrics-use-tabled-in-new-york-state-as-legislators-struggle-with-facial-recognition"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"

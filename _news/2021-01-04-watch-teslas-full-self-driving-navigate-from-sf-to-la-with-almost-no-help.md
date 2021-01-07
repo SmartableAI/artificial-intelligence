@@ -135,6 +135,17 @@ related:
         width: 1080
         height: 810
         isCached: true
+  - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
+    excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
+    publishedDateTime: 2021-01-07T04:12:00Z
+    webUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 84
   - title: "Waymo will no longer say ‘self-driving’ in apparent shade to Tesla"
     excerpt: "Waymo, a division of Google parent company Alphabet, will now refer to its technology as \"autonomous driving.\""
     publishedDateTime: 2021-01-06T22:20:00Z
@@ -275,15 +286,15 @@ related:
         isCached: true
   - title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
     excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
-    publishedDateTime: 2021-01-06T20:50:00Z
-    webUrl: "https://kesq.com/money/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+    publishedDateTime: 2021-01-06T23:00:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: KEYT
+      domain: keyt.com
     quality: 39
     images:
-      - url: "https://kesq.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
+      - url: "https://keyt.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
         width: 500
         height: 281
         isCached: true

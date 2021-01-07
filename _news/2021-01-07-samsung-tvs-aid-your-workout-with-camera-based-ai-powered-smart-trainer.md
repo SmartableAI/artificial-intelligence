@@ -1,0 +1,50 @@
+---
+category: news
+title: "Samsung TVs aid your workout with camera-based, AI-powered smart trainer"
+excerpt: "The extra, which Samsung calls Smart Trainer, is part of the Samsung Health app that debuted on its TVs in 2020, only this year it's expanding to offer guided personal training. It requires an optional webcam,"
+publishedDateTime: 2021-01-06T19:25:00Z
+originalUrl: "https://www.cnet.com/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/"
+webUrl: "https://www.cnet.com/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/"
+type: article
+quality: 86
+heat: 96
+published: true
+
+provider:
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://cnet1.cbsistatic.com/img/QG50wSQEgdVJO3knKTxITWwO7YQ=/1200x630/2021/01/06/e0ef393d-dcaf-4c58-bfe7-3a54299c8544/embargo-jan-6-11am-et-neo-qled-samsung-health-smart-trainer.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Samsung's Lee visits research center to learn about 6G and AI"
+    excerpt: "Samsung Electronics Vice Chairman Lee Jae-yong called a meeting on Wednesday to check the development of next-generation technologies including 6G networking technology and artificial intelligence (AI)."
+    publishedDateTime: 2021-01-06T09:38:00Z
+    webUrl: "https://koreajoongangdaily.joins.com/2021/01/06/business/tech/Samsung-Electornics-6G/20210106182100555.html"
+    type: article
+    provider:
+      name: joongang
+      domain: joins.com
+    quality: 39
+    images:
+      - url: "https://koreajoongangdaily.joins.com/data/photo/2021/01/06/28b89dab-17d5-4f0b-8b63-a72c7ef4bd41.jpg"
+        width: 559
+        height: 321
+        isCached: true
+
+secured: "Po8502rONjwj34qw6jH+IJUBWSk1TSqfTUsKukor32PHNEL1w6xgMmaZ7Uyh8ydWGDnwwnvfns+OH+JNNa6Y8iuKa3GeXxxTV4MAEvMNsbq/D47/oiKVUEfsiPKp6mHtFJySMC8CLSaeSYEa+jeuN9jq8P53yxX4CDmvZknh1GCD11Rh8QuPza2gjM1m/EXPguqnEf4q9yH5QUSSk5uSAsJWuFa7k/G2LAZybIB+Vi6KbI8KQoyVz08PvlsBGwK76pIdk9omyFSIEXRwUcI6vftCpv3er2edHYDVhFGRD4TR4KVaxMoz1g0WuIQPKr5UVPjVsEBHQQh6BW7pzkrbxE3wzkLUQt3SWtrKCfe1i0I=;hZypMnNwupoqRVLW87VUfA=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html"
 type: article
 quality: 91
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -79,6 +79,36 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/67b3978a-270f-4e7f-9674-1961746546af/intel-realsense-id-2-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Intel Introduces 'RealSense ID' Facial Recognition System for Smart Locks, ATMs, More"
+    excerpt: "Intel has announced a new 'RealSense ID' facial recognition system that combines an active depth sensor with a specialized neural network designed to deliver secure, accurate and user-aware facial authentication. Intel RealSense ID works with smart locks ..."
+    publishedDateTime: 2021-01-07T04:43:00Z
+    webUrl: "https://www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more"
+    ampWebUrl: "https://www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 52
+    images:
+      - url: "https://www.iclarified.com/images/news/79213/79213/79213-640.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Intel adds facial recognition tech to its RealSense portfolio"
+    excerpt: "Intel Corp. today announced new facial recognition hardware and software that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
+    publishedDateTime: 2021-01-07T03:42:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-portfolio/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "h7HDw4zfDMSlsJeXWi8BpZdZxdOcO+IT0nUdA4/I4zN6b7zsphcragP9I2QWBKLNGPW+Y4OPoufWZGkCiHjsaXUnhqDeLzMaiiHER32sr8WAh0dOns/bhykhcpR7bDxAk7IW+H+DxrtkED/2caCCx8vUiX43ZjUUwnZaz8VmDp/OjoQeb7wW54zLwB4xMStteUIBjN/EqrdX2dv9KjOFrOaRH+vhTTmh9BSQp4V66bUArmssNOWYpXOw/XthJbuW738HInJ1xCpcBjBtBtJksc+h1X88JuawMxQPmdSYZWZmlFBKqgG8ZSEPLUKK31Bf31L4x5wl/6F++I33Qy0yPrgVA/POk47Yi7H2LK2bwVo=;Jo9mbTf7boC1sOuvGMzS+Q=="

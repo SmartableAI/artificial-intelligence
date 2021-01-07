@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Use AI to Separate Conspiracy From Fact"
+    excerpt: "Researchers at UCLA have created a model to distinguish conspiracy theories from actual conspiracies which will possibly allow robots to differentiate between things like Pizzagate and Bridgegate in the future."
+    publishedDateTime: 2021-01-07T03:00:00Z
+    webUrl: "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666"
+    ampWebUrl: "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/avj8nrd1rb7hwzuyh9km.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Researchers develop an AI to solve a fundamental problem in quantum chemistry"
     excerpt: "Researchers from Freie Universität Berlin have developed an artificial intelligence method for calculating the ground state of the Schrödinger equation. This Schrödinger equation is one of the"
     publishedDateTime: 2021-01-03T16:42:00Z
@@ -41,6 +57,22 @@ related:
         width: 1280
         height: 904
         isCached: true
+  - title: "Salk researchers use artificial intelligence to make strides in understanding the brain"
+    excerpt: "Researchers at the Salk Institute of Biological Studies in La Jolla have published a paper detailing their advancements in artificial intelligence, further tying together the fields of AI and neuroscience."
+    publishedDateTime: 2021-01-04T22:00:00Z
+    webUrl: "https://www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain"
+    ampWebUrl: "https://www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain?_amp=true"
+    cdnAmpWebUrl: "https://www-lajollalight-com.cdn.ampproject.org/c/s/www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain?_amp=true"
+    type: article
+    provider:
+      name: LA Jolla Light
+      domain: lajollalight.com
+    quality: 66
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b8beed/2147483647/strip/true/crop/640x418+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F6a%2F157316714b659f0ea17a3539a225%2F0107-mira-bela-gowda.jpeg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Researchers featured in Medical Research Journal for Artificial Intelligence Studies"
     excerpt: "Drs. Shaban-Nejad and Ammar implemented an artificial intelligence platform called Semantic Platform for Adverse Childhood Experiences Surveillance (SPACES), which assists medical practitioners and health care workers with diagnosing ACEs in the early ..."
     publishedDateTime: 2021-01-05T00:00:00Z
@@ -55,20 +87,17 @@ related:
         width: 720
         height: 1080
         isCached: true
-  - title: "Artificial Intelligence Solves Schrödinger’s Equation, a Fundamental Problem in Quantum Chemistry"
-    excerpt: "Scientists at Freie Universität Berlin develop a deep learning method to solve a fundamental problem in quantum chemistry. A team of scientists at Freie Universität Berlin has developed an artificial"
-    publishedDateTime: 2021-01-02T18:55:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-solves-schrodingers-equation-a-fundamental-problem-in-quantum-chemistry/"
+  - title: "IIT-Bombay researchers’ artificial intelligence model to identify malaria parasites"
+    excerpt: "The artificial intelligence (AI)-based models can be used for the diagnosis and prognosis of the two species of malaria parasite based on the changing trend of proteins in human blood"
+    publishedDateTime: 2021-01-02T18:28:00Z
+    webUrl: "https://www.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI.html"
+    ampWebUrl: "https://m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/mumbai-news/iit-bombay-researchers-artificial-intelligence-model-to-identify-malaria-parasites/story-0I8qWAiyMkrx3QMAKrIDEI_amp.html"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 26
-    images:
-      - url: "https://scitechdaily.com/images/Quantum-Physics-Concept.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
 
 secured: "XLSL0PsyWVpmeWlvUS439U2U253Dh+GWRMofUcbIBvlY9kj1S6QaS/YAydYGsBRTNlYun6i4fHDxpnNxhXWhOB/cD8EE99OwLY5gwyEGIjF3ox0DLzipRd1w90kkkicvEtB4MQsCKyauTutY9jJ6n9wsQGiiP30+3mGIPsVjCRol/cVSMhmQqA9K9eILcb0m9c2g3Szj6x4txsEG8sxNniSKg6eIheNeJQpYck6ZIvBiO99UZtGHBB0eUpd//kgGo7D/AhcvfRI7aMH8IGOxfGlyvBZAbxZEi8YfsFA9BoOk30vILpPd49TZ6UunbTKIyT//HDv2QET9UvuXG4Ka1Ahbi9GeudwNZ+EOLR5RNte/1Sp4ZftsROHY/4ypCPXecRrVY6XfnMnwt9G5cJ2OJdkSTyQtVINa34B3fgh6IUcjXcsJV8dD83Vgcyfb39I1hGiB2scUiQIJM2UR7w0CpoM4iwX5Jqqf36IYh8rMygD01j3bwT0PJpRW56EW/9sP8etC26WigsLM9NPSwFNUhw==;pil3ChIXhEi20NT5j6v5Cg=="
 ---

@@ -79,6 +79,36 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Intel Introduces 'RealSense ID' Facial Recognition System for Smart Locks, ATMs, More"
+    excerpt: "Intel has announced a new 'RealSense ID' facial recognition system that combines an active depth sensor with a specialized neural network designed to deliver secure, accurate and user-aware facial authentication. Intel RealSense ID works with smart locks ..."
+    publishedDateTime: 2021-01-07T04:43:00Z
+    webUrl: "https://www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more"
+    ampWebUrl: "https://www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 52
+    images:
+      - url: "https://www.iclarified.com/images/news/79213/79213/79213-640.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Intel adds facial recognition tech to its RealSense portfolio"
+    excerpt: "Intel Corp. today announced new facial recognition hardware and software that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
+    publishedDateTime: 2021-01-07T03:42:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-portfolio/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ADLV6yLIT2E5DP2Lb61q6AoZLmOW1oOJbeip67HzYlQDXDySwjdlDunFp+KS/Z2ks3cuKRo3B6JfMsAKRX4kAnybalkO71cbEiM/ALwjRcdAxFZVD73iwWjyqeV/it6+vhqOF9uaeoCPadnyspqDh7ReD3TKuS7Xx/t54T06Ka8aAG221XZ+yNfddcqYgx7RzNBWDWcvjkM7OexRdYOpdmIy04yJegozRxBlcxthWj/vzW4Xtlk21/+HE6c0LpDF+y3jYK29ZIyvxSiKLrmlhlNMkgIK5huFLPziBsdPsMIam/pdELwIDU1TjeuLbQPqFJQhuUQ1R33vVEVSEITrZsykXzW6p41xvACRvV1ZXs4=;s4W4hSy5ZjdqRuKnJAcwJA=="
 ---

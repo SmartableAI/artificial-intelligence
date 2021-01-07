@@ -2,24 +2,24 @@
 category: news
 title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
 excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
-publishedDateTime: 2021-01-06T20:50:00Z
-originalUrl: "https://kesq.com/money/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
-webUrl: "https://kesq.com/money/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+publishedDateTime: 2021-01-06T23:00:00Z
+originalUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+webUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kesq.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
+  - url: "https://keyt.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
     width: 500
     height: 281
     isCached: true
@@ -137,6 +137,17 @@ related:
         width: 1080
         height: 810
         isCached: true
+  - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
+    excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
+    publishedDateTime: 2021-01-07T04:12:00Z
+    webUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 84
   - title: "Waymo will no longer say ‘self-driving’ in apparent shade to Tesla"
     excerpt: "Waymo, a division of Google parent company Alphabet, will now refer to its technology as \"autonomous driving.\""
     publishedDateTime: 2021-01-06T22:20:00Z
@@ -324,6 +335,6 @@ related:
         height: 512
         isCached: true
 
-secured: "IN8KLnjiqNNFf6oedqQZx4OiQEqt8Zye+wh9FIj41qMpL0si6mv58qKh0duMiRAm7AoNQUTlpkZkNOs3B3XW31fMWQply7/yXX0OVeWGWLnCp3QHAYtiMSCKdWl2ikJIyo9cJi8Kyr9HKQ1ou4zSNJ3XqqnSQPdWw8D2oyhf5xDrp0UITnT72U2Pug5EIMthdzDlxsKRQZeuz47VKtnM6YrMNjlke3t75rY66Ml0ZnlWG3vtv5m9296px0Ct13weYFUsd24dXbO6xyDzLnHDtrNFSFui0ZSaEqqeFYR0ZhtRzzpKtItWNQ++rranhmEpO1liyH8Z0s5haoDqk5zfFdSoo8WMbnCRUxMu1eYpG00=;74auq0Jxs0DorjlXoCD8GQ=="
+secured: "rRpLpepBkF6v1UEz/8jdgKiBOx8fiyaDH/Ae0F1OyKl8GSn6ucQgfkWu+QV6SNd0C/Pl+750plUc23gE026rqW6CBG0jVzXqu6OHw1rKKlrMavJ79TpPaJTQbUK5lK2zwG4o6quFvMx7bwpjPNFPJDf2FHiAQfz4oYjWR95VZpT42ktLl8g8Db4WKvBCIThgW0Z3X+aH99eJUDmfErjJ+BL3DbqwpYQ9GLmUx0QNay634/LjflxRz5eBXqk+QzDrPmISCh7vE8WcR4yYj1xacp010BQL+18doex9fD3yS2I8UJ3hCYELWt6VswkLVEgZr0TWSxUOAGxPLHa0bGJZHpZOhoaMz40ZfU5HYNrW40M=;lp6Qq36Aiafad+4eDm4Apw=="
 ---
 

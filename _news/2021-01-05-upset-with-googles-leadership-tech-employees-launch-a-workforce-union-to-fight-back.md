@@ -41,6 +41,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Google workers form labor union"
+    excerpt: "Many employees began seeing the power of their workplace activism in 2018, when an internal outcry led Google to abandon its work supplying the Pentagon with artificial intelligence (AI ... Alphabet automotive division Waymo. “One of the reasons why ..."
+    publishedDateTime: 2021-01-05T19:46:00Z
+    webUrl: "https://www.taipeitimes.com/News/world/archives/2021/01/06/2003750055"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/01/06/P07-210106-317.jpg"
+        width: 787
+        height: 525
+        isCached: true
 
 secured: "fffiPhHFPOkcboaXNi/nEVuzlaAlb7XNPyYdPQj1PXqDADzPAhh2E/8slYaIWDnIvG3m4wX+MDs+0GS1TFSIBdk78KLlnAccGB7btQnx/y3rG7w/LCQjFIpNHA7HYYggvHrjSwb50EWF5Om4D3UnO5AxAK+o2OnkCQDCnVytmVyh3yec8lEB36dQ/xC3BMsjQbiaAdZNj+aXqOPgt0N1vMZw6DT7opnWyREitLc2AGVQ5B8+WHnyptgO2kkaoPzVXB6XkAXtNZHBU9eRO3gliYH614oOeTvc5UljLHqW9nEV4RPH8OYNIt3nbi5ia/iW9oYJ1EUWYjE2FvkTeHKUQ3rKjASWH/1YuiKEcSkJwDE=;UXEV0RCWpujx70sjPp0lnA=="
 ---
