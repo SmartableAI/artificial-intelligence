@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-pow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

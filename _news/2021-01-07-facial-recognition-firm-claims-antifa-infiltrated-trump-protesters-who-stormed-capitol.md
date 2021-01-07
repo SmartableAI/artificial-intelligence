@@ -44,6 +44,20 @@ related:
         width: 640
         height: 425
         isCached: true
+  - title: "No, facial recognition didn’t confirm antifa infiltrated Trump supporters at the Capitol"
+    excerpt: "XRVision, a facial recognition firm, had analyzed footage and claimed antifa had infiltrated Donald Trump supporters who stormed the U.S. Capitol. Violence roiled the U.S. Capitol on Jan. 6 as supporters of President Donald Trump stormed the building,"
+    publishedDateTime: 2021-01-07T18:29:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/07/facebook-posts/no-facial-recognition-didnt-confirm-antifa-infiltr/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 30
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "sncHe7H9h7RGNPOjw96CXF+rCE4Oun8v2KzOxCTUv3fZvC5I4vRKd7XmVc/D6Opx1lq4KfMRmc7v2M5syTc53QfZ/nLWaBIojmuGv4oSq6dwPPW72ZrC2nse4+Rq0lF/f8nFLWprwpEUW3L9LpKIwMSYJt5Y+ocFFcCXarI1Al5XW7hY7zEco6j/YSUTJa/HlPLM4wV5UGh82WE1Spypy68exjx3e/jKiBrZpEGh8b7YqUSG/lK1Q+sE09SK1keKq8xJaaIbjdUmCGFpJtqXFAr8tLGetfslZpX/RDuPq3L9ybzBCN+907zg4/+z7PCY6fe0RC2lI39+lUcQ8V+0Dd8q8EsYb/SC8Lk759xKc8msK84XxCvicY3Kh177DZhgI7Nyh+l1MA/QP9dXMhDn8v/IYqNT3e3yKqNI/q7YNL6A1EuEE2FzMCcXmhueOYvUKHSp+3RYbgvhUdFyILtUGVTahiCyUK6neJMb1NILVsUJcoilEH1hYFtMyEcg13RCBVNWDsOz0SDcPJTkf71JMg==;L/Z3UEJfD2CWfbCLgmAvXQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/craigsilverman/facial-recogniti
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -47,7 +47,21 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "No, facial recognition didn’t confirm antifa infiltrated Trump supporters at the Capitol"
+    excerpt: "XRVision, a facial recognition firm, had analyzed footage and claimed antifa had infiltrated Donald Trump supporters who stormed the U.S. Capitol. Violence roiled the U.S. Capitol on Jan. 6 as supporters of President Donald Trump stormed the building,"
+    publishedDateTime: 2021-01-07T18:29:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/07/facebook-posts/no-facial-recognition-didnt-confirm-antifa-infiltr/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 30
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
-secured: "pfSjNnhf2VHBCm/CwyauFm4IuAUhiIiJ/fNPvYUATL0Aw06c899XKRaji4Qfhs5l/+HQmyqX5cOM2E+k6dAHvRvTtCVcQbL6tJzSh6/kiDTB4b9/WAfxKrIOneew+6i2s9turKoJoOJ9XjKOoAouGsQhVomWS0cwIdcJ7GIkZkv5Ozn2bh8t9jd34mmj5IKzb2WDhULacCrPzRxYp1j09KMvxyF06Iy5Hcp7G8Tc4o22oZMYbaAliEZGJ0Am8qnqcCjnwenpR18lCgFtBtLrlif1L7qm4aT7VuvsQQFRQ8QQxfCtxfBqTlBG6O6+T9dAHTS5DMnpuEsk3hWatNQUXwsC3jOeOG7/8wjBBenOh24=;Nv59chW1EfzgU+QY1AiNZg=="
+secured: "OtLcQe3Ss49rwa+5pOBP1eRfSXuLSGDb5+rYZHtlZs5ovokKj6xe+JwxNguvFtlZUpjPAuWqLTrtbFgRbnwzYCQxadX2XTfH09fH1b3NX1GyqfqMreXDXyYHQXHzMBWgBLpHYRLqFaXxwAUHsCTolyTWa9enEPGQaVm1F6lMTvF29BgH8W7zr/qSzRDyZv1w0VSv3Dt5N39ExOEGiANrRZGqO4bhQBqODchBSFE1YN3thNSkGZtqe/IrxHOEL8buRTs+HgyRIBz52F4+a0qhh8P9YeoEYH2qxJn56ghlcCvD/g/f8VBzviRByR3C5YGAgcS9r9SSpe9EZQ5qdqXag3vLtwmjc9vO9YDj035iFQ9hfEKNcjtRalvVRvJpArJCU7ib0VydzY+ZcTbK54yFDVtQNzlpevV+IGgzEFDfczLFRAYakZxs1yLXhOqp/30YjtQQuEDYDVnr1LHdkgiBIdrK1wENNHxBbr6vR+kmSTJCu4IgelL+XISsWECG5Gy2waJzmKxm3KCos9VhbHgKZQ==;ZapJayJ70X25TVzgfXDwuA=="
 ---
 

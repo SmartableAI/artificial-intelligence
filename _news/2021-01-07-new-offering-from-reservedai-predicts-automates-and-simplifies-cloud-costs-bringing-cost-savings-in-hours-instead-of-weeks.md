@@ -24,6 +24,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "New Offering from Reserved.ai Predicts, Automates, and Simplifies Cloud Costs, Bringing Cost Savings in Hours Instead of Weeks"
+    excerpt: "Reserved.ai., the cloud cost management company that saves businesses the most time and money, today announced its Purchase Planner feature – the only solution that optimizes, customizes, and automates execution of cloud reservation purchasing,"
+    publishedDateTime: 2021-01-07T17:20:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/3ef51ebeb543b44cd4af69b0ebf12734"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "ak8DyADdWHpn0Xx5pfM+puLit98mMwsa1rQSK49l7kJ/LYwfRuixrw4AZAMdtuq3cdlaWySnUShw2fEebdO2nfaDNogo9WgjVONboQp5AwdVds/fHU/jEKlRG1b9T5Lde2w5gU4PUj6ivRAkjFbXcL2VCt6VgGA4AyYCNk5ifksfbDp3OKE9B+5EjTHYbaVw9OwDOlt+/KO048CHR1QTAtkEY8PK0zSoIGkZNQRyZEyMWMTWqQEP260h9gMof/cQTZE51l0yTg+oHhpPCaQLB66dt6qQkvuXkAdYLVePNWk6PoivUGetiF7uEe2TlqcVAPlQRTRdVk4BJi1/4aJ+dxQQf86ABDBHyr3CU4Ji5qo=;3ukE8FISp60Z1PmbA5kmNQ=="
 ---
 

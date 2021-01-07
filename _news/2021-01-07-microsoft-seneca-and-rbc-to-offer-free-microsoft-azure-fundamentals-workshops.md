@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-excerpt: "“The pandemic has accelerated digital transformation across virtually every industry resulting in greater demand for skills in cloud, data and AI,” said Kevin Peesker ... By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft ..."
-publishedDateTime: 2021-01-06T18:37:00Z
-originalUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+excerpt: "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to help Canadian students, graduates and professionals attain skills in data analytics, artificial intelligence and cloud computing."
+publishedDateTime: 2021-01-06T17:44:00Z
+originalUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
     width: 620
     height: 250
     isCached: true
@@ -118,6 +118,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft AI Surpasses Humans In Natural Language Understanding With SuperGLUE Benchmark"
+    excerpt: "Natural language understanding (NLU) is a massive yet challenging goal for AI. According to Microsoft, one of the benchmarks for NLU, SuperGLUE, is “currently among the most challenging”. It seems that the test was not all that bad,"
+    publishedDateTime: 2021-01-07T17:00:00Z
+    webUrl: "https://hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 65
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53909/content/ai-robot.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
@@ -245,6 +261,6 @@ related:
       domain: cnbcafrica.com
     quality: 29
 
-secured: "mfU12xBF8BtLdpbDv846sY1rASLhOI36ntzrr0RqfTtmcfxTND6pjGmndh7kho1QaQaatx4azOn5XyMUZ/8m0JUIZ+dPoVY8GLdmAK1eu0zNtwdhdDztu6/cE3Fd7UJfeoy4GOC2An/dqr7BlUf4eI8aZcWqIzujuXG8wR/GaWbPHxPXj5e0oCCBq2z7bQr56gvSQPj9IAYe7xhgdbNTfZLi4F6SkPJDvp1la4E5YVczGQjMfoilx7DlKwqy2NcLhCScO6BZB35+zozhrsoXNhSjmaQ5TSL7ItyN0Rh74xXTGxfWcB5wAbCIL5Kd4T9FA5/mGwx2gnhn4hb3MmQLHrfVQnaL9BZOpq794kN3F7Y=;Z82DdK09VQZWVsyc+yaqEg=="
+secured: "Kdk7A/sBHm2iQy5WhmCzDjZndst+caSoKZlWlA305VbGLJTBwGdWJ7/DvTnv20UCBrYIfdPk/0xdjpHZoJY+JJMELpYpEGq/fAWyAP8JGsIMCZ4XYE7rrv8aLjHkAxbJjfZ04c61laXkMgABc/2lcNPi8WFG/jJQmvymHBu8tUK9BsmXjCCcO2xoXp/gTX8LWGgCZ+ncVpOzNvGKlbYAGyPZSqEf54mXBtNKhEVzUtpVZ7kC6WgIWet00Y2q6vRq8hQqwa4av0L0PO0Wq4TWqA2yrQgfcHcl55VZdOeTmhNGQlRtfUkdXX0hIC+1bi4EELBgY3dJjtBwqDawI7vvTDKHaPSfDyaQ9UHo/8SqhhQ=;4FGCWYaCFU8yJ/6HqaUs1Q=="
 ---
 

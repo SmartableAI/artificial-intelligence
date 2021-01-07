@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-01-deep-occult-peritoneal-metast
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-deep-occult-peritoneal-metastasis-stomach.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 287
     isCached: true
 
-secured: "LwUonYxRf+VA5KG/gNrtnwVkdu/r4I1xITZYHlfpf6jlTfR1Z/HCZzHvIjxFgX04sCJ9240CJ2f/xZ3dAmV3m7bt/B1oSzXW1/COpj/FyF3M/mv9sxIznvwmXM70j1Jd7rXlqeVElLyU9EyRQ8JIvxY+WV4FVh505TvHqNdYl2qu9CWdwlsx1XUtlN+Os85B2yUjPDC7SnNFY1pq/s2tjy93YRi9L0G10moqSM+kKguWkj6OD72gBjr+xpBR1a/UgBju47g5/GXSMuIo1Gt8GKtx6yZp3Qc/vZVDd/h1DlCse31P9O0bNBCR7Dzu1JnoOs8N0qa/bbaRSIIT2Ldlgfh2aai/0T0JnfUN2MbhUBc=;rK4wmrG4QM2rIUaZ68tKUw=="
+related:
+  - title: "Researchers develop deep learning model to predict occult peritoneal metastasis in gastric cancer patients"
+    excerpt: "Stomach cancer, or gastric cancer, is a common gastrointestinal malignancy. Peritoneal metastasis occurs in a majority of patients with advanced stomach cancer and is considered as an aggressive disease with poor outcomes."
+    publishedDateTime: 2021-01-07T18:09:00Z
+    webUrl: "https://www.news-medical.net/news/20210107/Researchers-develop-deep-learning-model-to-predict-occult-peritoneal-metastasis-in-gastric-cancer-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210107/Researchers-develop-deep-learning-model-to-predict-occult-peritoneal-metastasis-in-gastric-cancer-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210107/Researchers-develop-deep-learning-model-to-predict-occult-peritoneal-metastasis-in-gastric-cancer-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/11/3d_rendered_illustration_of_the_male_stomach_-_cancer-Sebastian_Kaulitzki_1b7521bd675a4d9cad151cdbe71ef64b-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "0rmoDEtQQD8k1HD/n1ofP3NG9Fg6NsZh58HE1T5IEpvpOO/6VI66YphReO2TlUTCB5Cp3z/UU6i2cWFtzm1ppXEJc7P+G7AGMrpDv1kwYM3ouSJNGaZgNGNQiQxWUcgOuZ8Zvlljgz5Enk5Zovb3iX5BP25Luvnw/Xl4OEftXbn7oR+Nh8oC9qwpi8I3UzXELXrbO52g8sBzbWqHWoAH7NhwxdqjhsyOVKIxmgyZ37uGVrk/+CNDz4mBSZPLtFnUJUBXK+DpDFspeqfdK6Q/84t2eWNKv8IqMJ2IC30sGa638gILqQfWrJHtXyVRhNNs29CCVIOKCkzeWHy/XntefD0r5NnuWxjN4w/ugUvCKkNXOrE2Z7mDLUv1pGqr0gEqwg3qlfMjuSmWjZW7Kh8qyePJQ/fTrVhTQcmXkLynU7P1etw2nMcHDC3hV15+5o5xtotefVxl/4kiz+HZdfm25OmYH/OP6lbjEeX9AmqIMxUc0pww3Bfx9X10AOT87oq3m/CEcITRMMXtrEOZ/G0paw==;ey92Vb+RAb0rDXJEwXL/vw=="
 ---
 

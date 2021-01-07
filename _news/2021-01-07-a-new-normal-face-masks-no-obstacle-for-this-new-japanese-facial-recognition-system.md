@@ -87,6 +87,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "This facial recognition program can tell who you are even if you’re wearing a mask"
+    excerpt: "A Japanese company says they’ve developed a system that can bypass face coverings for facial recognition. Veuer’s Tony Spitz has the details."
+    publishedDateTime: 2021-01-07T18:00:00Z
+    webUrl: "https://www.usatoday.com/videos/tech/2021/01/07/facial-recognition-program-works-even-if-youre-wearing-mask/6578714002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/58264d81-192f-4420-862f-ce8835467ee0_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "CuhCZU2I8XArHJhv2kE51J2qhyQhgJfRyNVHpSIqsdfQ1RWf18HPT5hnOPBS6sIi5wBjYJiY7T+hrLY2r3K5JSiYKYA9meRUFxzZWH6VNq34uJwZIzbbwWedJi2LfoxMjrOI2PGAF4uYQmN2/AahCUUYIN6Gy3w8IVR6puKXi1zVDvuktjVzi1a4zMn1OR0ZdPWBtY8uV4ibOXHw6m8ouII0Qb4aXW5kYYdE3nwmNmD6Jyu+B5rdcKUUtiNdIzG5alS92jrkER1VUn4tTj2MzZTAG5bzEgU6aZVQmOt+PFpKE87cV2W574BPBO0EJCgbMFSoELLl4hOPZMpmnYFFweV54+Zr+LheTeas9CMcYT0=;EEP4DJwJCmht3VdjSwmiMw=="
 ---

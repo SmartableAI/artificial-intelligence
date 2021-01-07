@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -91,7 +91,21 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "This facial recognition program can tell who you are even if you’re wearing a mask"
+    excerpt: "A Japanese company says they’ve developed a system that can bypass face coverings for facial recognition. Veuer’s Tony Spitz has the details."
+    publishedDateTime: 2021-01-07T18:00:00Z
+    webUrl: "https://www.usatoday.com/videos/tech/2021/01/07/facial-recognition-program-works-even-if-youre-wearing-mask/6578714002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/58264d81-192f-4420-862f-ce8835467ee0_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "QcjYPcB3xwb5m1uOiG97DQwxo4RGoIOAxvLcKzNcBhL7e+3HAxxE/eFFnU2p7gJYa3Rtt4gJAk0vKIdEIfMStWlvOo/FrhaI83UCeFlpma/TuOsH3VGJvDy94227Ea887Qch75wd9vMcSTtr24itN77zTVfws6L+wHYzDeQ49d0xie92B9DdqzX9h1BXyEJBh/hq8HTonTqsSoSc2ZYKfQXhRrD6+GFbG60v25VLR+zut4RMiHp0dNnM7q/ZH49VIgcqE0IBTxFBzGz3BT7pqvTt/PMEVSjpDGSoOt7zxK2fwIPxlv/O5Pi8eo+twvVlcRafOmGUvAFeBKU1I+ec4Jzp0GP5bovad9GItPCunow=;U/jF7HUnwxOK9A+w3iJ6Xw=="
+secured: "GG79J5LmeAW0EPS3XFX5/u4OYfnx3RKfVpXueA7cXOO9g4b0JsQvCypGtLmC+Wje5t+bkfWJRClDuAPqrnKgeTYBci+HXZI7Fc3aoFO23yoiKNUD7XpMEOZqBOX6bXfi2ANNcHKy29rbfzw6aHM6wUr8PXFA2Roi3zMWZcKB02Hde6MG6UJ2Wiu68/qOMtuyRXDGakRHoD86HaiKdG8yTqOHRMyA97IPRNRI9OLyV81mBjXQ9iKy9qiVN1nBf0De1u4rIaDGCoiO2/k4HAfCiSSU0MmdSAbd7sG8H9xSRVfNgPkVBnJ5JwgpRYDdXZ5u3l3gL1kcY6dOnC3GVpJ5PBayQ17or1m7d5b+iFgSz6rO8DqOgh/WFBLjTINtbb3VOryAwti/oGppu2kYaXIyZKYmvzktedCwOhY0e2xfAzvl4gcpH+OuWIJExNDgkrWBMWXCSZih2GRdzEu4FRxuOUG7OxbA9EJKuqR9eAWAhF1XqaYL0M08Uq3eOwhsjkVWkO0nR0K0gTz+jox4jFeg5Q==;+GoOwu9fGKR9HDKA349hdA=="
 ---
 

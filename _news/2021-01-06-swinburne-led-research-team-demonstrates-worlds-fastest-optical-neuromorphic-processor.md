@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/mu-srt010621.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-01/mu-srt010621.php"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 540
     isCached: true
 
-secured: "uG5dXCIoV2Jizo766stKMJJN9gJ2z/i/ePiUt8mS9crO7C0zvdDXJx1wjdMUoC4bl2dwoVXLRFtu1lxjMkJML2nOonUfrt6YAByiE+r19U4mbx4w5iWUL3nmuHwR66Ed66Qfa4ewHh822IH/dNoUSjilm9yqCtmnrlzyY6I82tGGH797+BIhVVsJbkzi9sF9ZOpkNC7pOF0CfKRwg/SICMotPhGrSMnPpFogD9I54zq/RrkUqE9odJuZBERw/7N8I7MG/4XoLRt7vXi2WaddRZuPJOiEpKPbDvU+ths+M0jiMILoD6G94fVHrJ4vBeUX8tATx6TFbRiaChixQ64ZDJNP4JW2k6p0yYXX08BJSOk=;TeOw+2sIlT/Hn3hGqIgMeA=="
+related:
+  - title: "World's fastest optical neuromorphic processor"
+    excerpt: "A Swinburne-led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence. The neuromorphic processor operates faster than 10 trillion operations per second and is capable of processing ultra-large scale data."
+    publishedDateTime: 2021-01-07T17:36:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210107112418.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+
+secured: "i9v+rsUBQ9nGEIPedSTK4Jv8/22rSociBL7Qhkz4Dt4THQZcBkB1LH1da2I9w162LUpr7RSGM0KX9uvkexsYwMsefbAycD2nl/Fo50rAhQ7RVcDPICDdJevgXgH+p8R0tnIXemntdWMBBlJTtXjDVxDVaHC74nyOrKdBCUcCzNWweMs1B2sEJgRDmaIyOdyRYryYAqPJdH2p5B1IiNHJav2tqVHM0Vq0LUH3C1UobLdQDN/2IE+I1OW+Q6+BCUErkynGxnLaMa2RUEgWPdpsTM1kVTXjr+fGRsnO/Nqw4FISyzrxv9yDk5Xb8XuARaMwa0Jmvcd3tSrMU+4ii6LMaT2gYhg0jemOb/PFs9bMiI7Kn1nYnPexssBMSBNknt0tNtMyRZXmnoaXUJ/3SnY/HSI1BkXQU9yMnhriT92c94ppxHdqCo1ccoWVaDp0MOGY/lMEhXQhmJvMNBApoFs/4oGbKkN4PKjUj2k9YPNYDVelst7Lisu4JQqk2M31in2K5A4L/idPbMIuB0et8vrptg==;CelmmbDT7/+sGxgvCR0W6Q=="
 ---
 

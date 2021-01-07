@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-06T14:00:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-industrial-products-and-services-b810c76ca34b4a8b99ce4e8a3b1a6e1e"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-industrial-products-and-services-b810c76ca34b4a8b99ce4e8a3b1a6e1e"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
