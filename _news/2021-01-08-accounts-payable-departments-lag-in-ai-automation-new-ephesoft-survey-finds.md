@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-07T19:11:00Z
 originalUrl: "https://www.paymentsjournal.com/accounts-payable-departments-lag-in-ai-automation-new-ephesoft-survey-finds/"
 webUrl: "https://www.paymentsjournal.com/accounts-payable-departments-lag-in-ai-automation-new-ephesoft-survey-finds/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: PaymentsJournal

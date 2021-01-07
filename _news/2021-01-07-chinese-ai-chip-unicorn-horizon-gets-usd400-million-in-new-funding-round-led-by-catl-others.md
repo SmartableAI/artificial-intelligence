@@ -41,6 +41,22 @@ related:
         width: 2122
         height: 1412
         isCached: true
+  - title: "Tencent invests in Chinese AI chip start-up Enflame"
+    excerpt: "Tencent has pumped more money into a Chinese start-up of artificial intelligence (AI) chips as the tech giant is betting on the growing domestic semiconductor industry. It comes as Beijing is pushing for greater semiconductor self-reliance amid the US-China rivalry that has turned into the technology front."
+    publishedDateTime: 2021-01-06T07:49:00Z
+    webUrl: "https://www.compsmag.com/news/technology/tencent-invests-in-chinese-ai-chip-start-up-enflame/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/tencent-invests-in-chinese-ai-chip-start-up-enflame/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/tencent-invests-in-chinese-ai-chip-start-up-enflame/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 74
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Tencent-invests-in-Chinese-AI-chip-start-up-Enflame.jpeg"
+        width: 2122
+        height: 1412
+        isCached: true
 
 secured: "HklPN8apiyfjl+ih2FpBinrtImsfLT9sOH3I/kNE+y7TS56akeoo8tNTwESdvfqSFR7+c71BozuJExSPXjV9dyi1cTStrGSXDrw7oKwpQIEnplQfzCmmv/prHiSvV0Ek33yXljBhdDoHXg3c1F3pG7wx7uTrME95UvoK4D6qWy70pRMK3ugQ4tHlIGAQXYrqkeh7U1ilVTED3AdelRtyvu26ovpA2eRkyw+pse3XpXH5OlXWa/RuQlj05RsKnbg4nS/s5r7kovtWs0Wxxmej8qFsWPXdiOohF18Tff0EN4S0AfUYylaGgHnsKn5V0e2Xavghcd64UtdZCMVtputpM7FczfAz1eOZ7WQUH/BGSJBu+DrIBYkIVqtBm5EWWLd84i3sFffmbew+V1SpkGl9P2IjIeOsaXHo45LlvwC8/QGv3SDycelDd9h7guN5rlwSAYt3IQdDbSkrd3Sp/heJeu0C6y6YVcbfQCrFSVrOl1IG0H28ZlfnFR/DRMZNFDalXuzPQWiJkqCGsnB0f1YQKA==;sZNQ7rypiRdAZMuZQYO+Jg=="
 ---

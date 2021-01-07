@@ -41,6 +41,22 @@ related:
         width: 743
         height: 545
         isCached: true
+  - title: "NEC says new facial recognition system isn't stopped by masks"
+    excerpt: "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,"
+    publishedDateTime: 2021-01-07T15:57:00Z
+    webUrl: "https://mashable.com/article/nec-face-recognition-mask/"
+    ampWebUrl: "https://mashable.com/article/nec-face-recognition-mask.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Masks Can't Confuse NEC's New Facial Recognition System"
     excerpt: "Studies have shown that facial recognition algorithms created before the pandemic are easily confused when their subject matter is wearing a mask. As Reuters reports, NEC is ahead of the curve because the company was already working on a recognition system capable of dealing with masks before the pandemic started."
     publishedDateTime: 2021-01-07T16:58:00Z

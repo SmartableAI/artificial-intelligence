@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-07T20:56:00Z
 originalUrl: "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/"
 webUrl: "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Ars Technica
@@ -17,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
-secured: "v8kpWpB7XdebJdodZO3MU+ntXdhcM91TMjjPfCetni593FIXnQOR11SUBWET6Dx7qwFwmdtCW4I7aMme6LE+Y9NWIUbVXLuSGalysTH8O4DhvGc78XCTSB9mCNgqb63jBUvJOsSE/Z8xH80/8cctfeX5orsSb6JJLNWp2WdBxSgrr5hLT4nLY69lgnnwvi9cfqEIAd1NmicfcY+CKJBScdS5xG6xwpo+k6ens4yHuvGYkYGrHwVXRN/GIskCxfr0RZrAqI5f5Aq4U6Fn6zUJHP3CcKwBLuwkiMa8g79e8ypfYOQS0UwApwhKhoa0aiVZo1JFXssflRbuMMHRzNct6tw2QEeNfd8AL+eodbWaNXE3Zc4tohS7HbswzlNlM8ZT5oSY2ach8JQyCOOl9lo3LT3m854vsJK+qFgtHfr3+equ2JHcgOhE2+wJ+PQZHnFb28viV3OFLva63cq2wVhSzk7vtVPRfazsble9GwKwvQC2aC5hrDt28zTLtXupQykZhLDXfM9brfjyW6n5ypYH5Q==;8TL1D4c2tvKJWIymcmCrWw=="
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Laser_frequency_comb_installed_on_HARPS-760x380.jpg"
+    width: 760
+    height: 380
+    isCached: true
+
+secured: "xlyFcDLW1gDdSVVXfXfDoWl6hKlC63DVGXroJoABb95Ce+5VVqLa38dTiDZYblXTv1HRob1U6RgaNyLn9zY/AHF701DbH0cr6rMl4/4rMAkw1wrGuuKEgPu/DWpLHVir7OLKNK2DS4GLfpdlReJ7JoE7fd5Dfl+bG5ILbTJzYxiHBu8Z4Vjegibja24s1/5nYHD5DTpmwDlZTz/3cBDFR3Wkrz57fhH/T3lIUKGhTQnPodb2BmtRGrRf3mwnMmhyHr2DmWMPqFSYNZ6jn/2Z/1WVzm2vvxzWPqZx+YbSYHONhU/IAtq0g8L08B2GZOBfYj6SngMpnfUigPquOFMgvEz2d2x6aUiUhuIcgaSY54s=;zhu5JWH5oD3BL2ckpfXRQg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How the cloud is transforming security operations"
+    excerpt: "By Dana Mitchell, Director, Cybersecurity Solutions Group, Microsoft Canada For security professionals, 2020 was a year like no other. Attackers capitalized on the COVID-19 pandemic. Every country in the world saw COVID-19 themed attacks and the Canadian Center for Cybersecurity observed an increase in related campaigns."
+    publishedDateTime: 2021-01-07T21:31:00Z
+    webUrl: "https://www.itworldcanada.com/sponsored/how-the-cloud-is-transforming-security-operations"
+    ampWebUrl: "https://www.itworldcanada.com/sponsored/how-the-cloud-is-transforming-security-operations?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/sponsored/how-the-cloud-is-transforming-security-operations?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 61
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/cloud-2946152-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "AI and cybersecurity are tipped for big things in 2021; here are the ASX stocks to watch"
     excerpt: "What does 2021 hold for AI and cybersecurity and which ASX stocks could benefit? Stockhead has spoken to industry experts about what investors can expect."
     publishedDateTime: 2021-01-05T08:20:00Z

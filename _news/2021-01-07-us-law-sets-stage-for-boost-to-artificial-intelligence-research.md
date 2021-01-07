@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. law sets stage for boost to artificial intelligence research"
+    excerpt: "The National Artificial Intelligence Initiative Act (NAIIA) of 2020, which became law last week, aims to bolster AI activities at more than a dozen agencies. Its directives include a study of how to create a national research cloud that would build on CloudBank."
+    publishedDateTime: 2021-01-07T20:41:00Z
+    webUrl: "https://science.sciencemag.org/content/371/6525/112.full"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 37
+    images:
+      - url: "https://science.sciencemag.org/content/371/6525/F1.medium.gif"
+        width: 346
+        height: 440
+        isCached: true
   - title: "The Army looks to pave way for autonomous vehicles with new AI research"
     excerpt: "New research in reinforcement learning systems could help the Army make better use of its data and training of robots in battle."
     publishedDateTime: 2021-01-06T20:46:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-05T11:50:00Z
 originalUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
 webUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: TechRepublic

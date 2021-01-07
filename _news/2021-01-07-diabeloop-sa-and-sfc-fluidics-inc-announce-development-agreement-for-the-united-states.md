@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Diabeloop SA. and SFC Fluidics Inc. announce development agreement for the United States"
-excerpt: "Diabeloop is developing interoperable solutions, based on a proprietary self-learning algorithm, for diabetes management. Both DBLG1®,"
-publishedDateTime: 2021-01-07T14:13:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-850192891.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-850192891.html"
+excerpt: "SFC Fluidics Inc., developer of an Alternate Controller Enabled (ACE) insulin delivery pod and Diabeloop, pioneer in therapeutic artificial"
+publishedDateTime: 2021-01-07T14:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-1029940816"
+webUrl: "https://markets.businessinsider.com/news/stocks/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-1029940816"
 type: article
-quality: 15
-heat: 15
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1396292/SFC_Fluidics_Logo.jpg?p=facebook"
-    width: 598
-    height: 315
-    isCached: true
-
-secured: "h0IXJW84qra9WjrpOpyWrQU5Q44FD7z2O1M26MY8zYL4Ku1w1klD2fZXsS03QI8wRunYknY2ZGAXNfYJQPjozRYjQo8pHDaAYqJssRTpmYNxEmgvl4t8N7Dkg5nIjfhPOD9XeECQfu4zZvXyWG9kgcJXwbgG68gozHVhBMlTmwUoYUjdmd1oXbew5WR7kTWvoAogjSUDRGxR3xKdFCWA7kKJdpzTI5UMa4iLBf5g0LC324xfCm4juZ54DwH2nDf6GTaQ0ztz7jxGwWFboCK4wFOkAa3itxD2Qocr9M6JJ1NEttKH1dzY5dat6o4277r7HfSDQS6W9066VOc91UZyPHwEZUvp+myzHg+CR31eh4Y=;270IiTrqT4HOmShYhWq1lQ=="
+secured: "lxI8yzLzAjthp44t5lPixHJkBBRf3MnYRq+g3+SIxhyi3t3o4AlE+ysbEp7jc5rxAY4b6uh9iix1iDsvE8A3tegad4pn/76+V4cNKKiGdmmBvGrxg96PVmwjyxLILnISvbkiUcRkXzZopBC9v4V2mP8BRXuYV6GjSsZks7Eg6ZQpYOA5r16LPfx0JtC38D337lwli5hbC0CH2+rmUNCGiCQWK/m3Gw95xYY867w/OX4lRz+853SgmTMzRQ6tS5wBTmMkrfcJ21n2ddnb6DkRAeN5ePCj0PHqAFF6ewk5m49OFXPpHXRQY5tluUGgbPnd4gj3RcTC2e4SmWQiA+bJRNECBouFyM7p3JU0xSLMRkw=;6m4H2UNcPU1kzJzRb2kXFQ=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How the cloud is transforming security operations"
+    excerpt: "By Dana Mitchell, Director, Cybersecurity Solutions Group, Microsoft Canada For security professionals, 2020 was a year like no other. Attackers capitalized on the COVID-19 pandemic. Every country in the world saw COVID-19 themed attacks and the Canadian Center for Cybersecurity observed an increase in related campaigns."
+    publishedDateTime: 2021-01-07T21:31:00Z
+    webUrl: "https://www.itworldcanada.com/sponsored/how-the-cloud-is-transforming-security-operations"
+    ampWebUrl: "https://www.itworldcanada.com/sponsored/how-the-cloud-is-transforming-security-operations?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/sponsored/how-the-cloud-is-transforming-security-operations?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 61
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/cloud-2946152-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
 
 secured: "kdnYP4m2bEX6mabYMo7Qll6p+AwNiAV+3lIUZlyPyNMomDPaHYl8q6z4AI3ngAs65TmtAs+UG2BYvV4qeat3n/l1BRpGLA7fSLwSqBqRaOX19umap1iH775UDktu/MeNDxuG/jU4i3CcyyqsYaO/yo+J56apA96/sGJEieqi21EYfh0wTIXypqts9SJhuofpAXwY/ddPJDnlE0G1QYroAj/q+pJOthilQ/er8uuky0QaGAJmoa7z61cJeC3ERz6sYiDZrRZWsp5eZAoWhS1JZRSo/JCLoHvyibFImxQsaRDCOPyta9Stwt9tzsDlkT0zgiGosSiqK5iR49D+4zpWuHwY4Zjnev1SVIPZ9zgK+RM=;nbMTOVwInbSjd3yJ2E3vwg=="
 ---

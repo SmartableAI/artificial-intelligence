@@ -228,20 +228,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
-    publishedDateTime: 2021-01-05T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
-        width: 1460
-        height: 766
-        isCached: true
   - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
     excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
     publishedDateTime: 2021-01-05T12:23:00Z
@@ -260,6 +246,15 @@ related:
       name: CNBC Africa
       domain: cnbcafrica.com
     quality: 29
+  - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
+    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
+    publishedDateTime: 2021-01-06T06:03:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
 
 secured: "tLX2Zs1PS2lrkfwVjw86/LTDjqreMDr1/+KiN+0a/KSH0adyqw42mKj/3jBnoB3+f2+gX3bc64dZ157TElkFI4Wd9qQYeU/T6MDh9+0YeApuqNk0f9HRq+SgHveuJ9AEu3E4XoAjCu/KMyIW/xDCMg9vaT6HVhYFKqtjft0Uerhin8IUSbEW8dcdzBZbq8eXVaHi2fsdmxtC3Gi4xt1tLKEpb1BKbsBKFLbiab5/3d/ee6G6IUKt+gkG1MaLl1A3E2CYZH6QF8WWGqf8ffPL29gsiioNX4I7JcFUU58V45Ne7xNwnxkkV+sAuW/cxJxEUPCaJH+s054r6p2oRD4zVjZrBYS4VvUY+OePO57MafbbkV+mQ1rev7yeWQ/XLw79zQQlAtj/nbx6DBmUlCAX/jTvASp5oNfY0qujMuoEAPuygWP+Ni+q7np8cxX1GSUiTgnM3R81unEb+7Ay4MiZQTiS9edqDNlIPvf8GJHCjRJv4y2WhCb+BsI6174Ta2tsTgMuiCGfWMi8CNHo30a+kg==;803euxfLaLlJbFwUEcYwSg=="
 ---

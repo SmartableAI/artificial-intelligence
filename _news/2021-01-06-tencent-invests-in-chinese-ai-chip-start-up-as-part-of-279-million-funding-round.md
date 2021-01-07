@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-ch
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent invests in Chinese AI chip start-up Enflame"
+    excerpt: "Tencent has pumped more money into a Chinese start-up of artificial intelligence (AI) chips as the tech giant is betting on the growing domestic semiconductor industry. It comes as Beijing is pushing for greater semiconductor self-reliance amid the US-China rivalry that has turned into the technology front."
+    publishedDateTime: 2021-01-06T07:49:00Z
+    webUrl: "https://www.compsmag.com/news/technology/tencent-invests-in-chinese-ai-chip-start-up-enflame/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/tencent-invests-in-chinese-ai-chip-start-up-enflame/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/tencent-invests-in-chinese-ai-chip-start-up-enflame/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 74
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Tencent-invests-in-Chinese-AI-chip-start-up-Enflame.jpeg"
+        width: 2122
+        height: 1412
+        isCached: true
   - title: "Chinese AI Chip Unicorn Horizon Gets USD400 Million in New Funding Round Led by CATL, Others"
     excerpt: "Horizon Robotics, a five-year-old startup that develops artificial intelligence chips, has raised USD400 million in its latest fundraising round led by Chinese electric vehicle battery giant Contemporary Amperex Technology and other big name investors."
     publishedDateTime: 2021-01-07T11:40:00Z

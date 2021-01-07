@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-07T18:00:00Z
 originalUrl: "https://morningconsult.com/opinions/congress-and-the-nist-trustworthy-ai-framework/"
 webUrl: "https://morningconsult.com/opinions/congress-and-the-nist-trustworthy-ai-framework/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:

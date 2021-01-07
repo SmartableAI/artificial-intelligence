@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-06T05:00:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/mu-srt010621.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-01/mu-srt010621.php"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/252877_web.jpg"
@@ -33,7 +34,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 34
+    quality: 36
 
 secured: "i9v+rsUBQ9nGEIPedSTK4Jv8/22rSociBL7Qhkz4Dt4THQZcBkB1LH1da2I9w162LUpr7RSGM0KX9uvkexsYwMsefbAycD2nl/Fo50rAhQ7RVcDPICDdJevgXgH+p8R0tnIXemntdWMBBlJTtXjDVxDVaHC74nyOrKdBCUcCzNWweMs1B2sEJgRDmaIyOdyRYryYAqPJdH2p5B1IiNHJav2tqVHM0Vq0LUH3C1UobLdQDN/2IE+I1OW+Q6+BCUErkynGxnLaMa2RUEgWPdpsTM1kVTXjr+fGRsnO/Nqw4FISyzrxv9yDk5Xb8XuARaMwa0Jmvcd3tSrMU+4ii6LMaT2gYhg0jemOb/PFs9bMiI7Kn1nYnPexssBMSBNknt0tNtMyRZXmnoaXUJ/3SnY/HSI1BkXQU9yMnhriT92c94ppxHdqCo1ccoWVaDp0MOGY/lMEhXQhmJvMNBApoFs/4oGbKkN4PKjUj2k9YPNYDVelst7Lisu4JQqk2M31in2K5A4L/idPbMIuB0et8vrptg==;CelmmbDT7/+sGxgvCR0W6Q=="
 ---

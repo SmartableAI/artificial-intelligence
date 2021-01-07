@@ -233,20 +233,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
-    publishedDateTime: 2021-01-05T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
-        width: 1460
-        height: 766
-        isCached: true
   - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
     excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
     publishedDateTime: 2021-01-05T12:23:00Z
@@ -265,6 +251,15 @@ related:
       name: CNBC Africa
       domain: cnbcafrica.com
     quality: 29
+  - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
+    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
+    publishedDateTime: 2021-01-06T06:03:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
 
 secured: "SJPN/XYKo/6UiBWdGc3yH/dKrOG/Efe1sSCQHjsanU6cYaALNbnnmWedFUmgZfvbMwGCc6C34SjINtiSDHHgmAmbk2QWLYaR/sn9778OgdWU01frZgTsd++BLPJHkVaaPwhevekVT98YAME7GOdsVgn7gR8nTA+3kJ4zl9aTMiKs1DGqvKlAz1myghfi1+vA7Wo2QLVMVNeL2NKCv2ZBaE1L2hfy0eq16hIrTzD9UwcWZucLz2NbTEoFjFhnqyTy9KSqfxtWtycrqRg2Hj1hMwlFpXoWxEcizvzD6X135nPdpZ9L92adAdNOWHnC4g3ZP5ZKV5zilUVpIu+QlytoY9PbWR9v0U1ozvP1ysCuZdw=;/wHynUEMLGaDjHXJGBDSwA=="
 ---

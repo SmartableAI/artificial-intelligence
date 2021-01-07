@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-07T18:17:00Z
 originalUrl: "https://www.insidermonkey.com/blog/15-biggest-robotics-companies-in-the-world-913085/?singlepage=1"
 webUrl: "https://www.insidermonkey.com/blog/15-biggest-robotics-companies-in-the-world-913085/?singlepage=1"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Insider Monkey

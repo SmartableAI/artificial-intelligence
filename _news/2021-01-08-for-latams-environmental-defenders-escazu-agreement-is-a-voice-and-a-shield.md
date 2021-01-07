@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-07T20:05:00Z
 originalUrl: "https://news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/"
 webUrl: "https://news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Mongabay

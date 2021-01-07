@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smartdatacollective.com/how-internet-of-things-and-ai-wi
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI and Your Business: Investing for the Future"
+    excerpt: "AVEVA’s Jim Chappell, Global Head of AI and Advanced Analytics, describes how smart investments today can set businesses up for better tomorrows."
+    publishedDateTime: 2021-01-07T19:27:00Z
+    webUrl: "https://www.cio.com/article/3602928/ai-and-your-business-investing-for-the-future.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
   - title: "How to harness artificial intelligence to boost business and make our world more human"
     excerpt: "This book unravels how a new breed of Artificial Intelligence can empower organizations to generate massive efficiency gains as high as 60% and save over 10 million lives per year. The book is for everyone: both experienced practitioners and those new to the subject."
     publishedDateTime: 2021-01-04T15:14:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-07T17:36:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/01/210107112418.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/01/210107112418.htm"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 16
+    quality: 18
     images:
       - url: "https://www.eurekalert.org/multimedia/pub/web/252877_web.jpg"
         width: 720

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-06T00:00:00Z
 originalUrl: "https://www.linkedin.com/pulse/what-aspiring-frms-need-know-ai-machine-learning-tod-ginnis"
 webUrl: "https://www.linkedin.com/pulse/what-aspiring-frms-need-know-ai-machine-learning-tod-ginnis"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: LinkedIn

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-07T07:00:00Z
 originalUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures"
 webUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Techinasia
