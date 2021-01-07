@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://morningconsult.com/wp-content/themes/mcmoco/assets/img/misc/op-ed-featured.png"

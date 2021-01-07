@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 related:
   - title: "Swinburne-led research team demonstrates world's fastest optical neuromorphic processor"
