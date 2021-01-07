@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-01-veritone-achieves-aws-public-safety-disaster-response-competency.md",
+      "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
+      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the worlds first operating system for artificial intelligence, aiWARE„¢, today announced that it has achieved Amazon Web Services (AWS) Public Safety & Disaster Response (PSDR) Competency status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
+      "originalUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-01T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award.md",
       "title": "SambaNova Systems Wins “Best Innovation in AI Hardware” 2020 AIconics Award",
       "excerpt": "SambaNova Systems, the company building the industrys most advanced systems platform to develop and deploy next-generation artificial intelligence (AI) and data-intensive applications from the data center to the cloud and the edge,",
@@ -1140,58 +1183,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-assistive-robotics-market-by-mobility-product-type-applications-and-geography-global-forecast-to-2024.md",
-      "title": "Assistive Robotics Market by Mobility, Product Type, Applications, and Geography - Global Forecast to 2024",
-      "excerpt": "The assistive robotics market is expected to grow from USD 4.1 billion in 2019 to USD 11.2 billion by 2024, at a CAGR of 22.3% during the forecast period. The assistive robotics market is expected to grow from USD 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

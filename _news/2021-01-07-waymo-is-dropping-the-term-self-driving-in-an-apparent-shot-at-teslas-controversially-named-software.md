@@ -285,19 +285,19 @@ related:
         width: 640
         height: 406
         isCached: true
-  - title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
-    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
-    publishedDateTime: 2021-01-06T23:00:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+  - title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
+    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\""
+    publishedDateTime: 2021-01-06T17:13:00Z
+    webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: Gwinnett Daily Post
+      domain: gwinnettdailypost.com
     quality: 39
     images:
-      - url: "https://keyt.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
-        width: 500
-        height: 281
+      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Waymo says goodbye to phrase 'self-driving'"
     excerpt: "Much like the phrase \"horseless carriage\" fell from favor in describing motorized vehicles, might \"self-driving\" someday be replaced with a better way to delineate cars controlled by computers? Waymo would like to leave \"self-driving\" for the history books."
@@ -339,6 +339,6 @@ related:
         height: 512
         isCached: true
 
-secured: "oojRy4I8nFqjVA8rWSG0v/06z0D9yvU3OCiYEdm1UfPVFaDAeoPgjMacjA6odwKffM/THD9qPJVqVRYFaSOgRTuC6RZwovXVa8DkzY0rbqsrBCXmkM1/5lYXsNS1P7r9G5NKLmU76OhI0dpfv05yxJjd/Qb+xCwBz0Z/5oUdR/Cg3+lsi86gzRcTkHxocdjF06tnRas0ZxIvtVqnrQs1Aj5x31GLo9E0H2FRfZc6Ml4f13On5gygDhG4kMYyKwA/kUmaqpdi0UFd4DavN7V5xCV6LljwE85/gPmlwSDfrSmaBGRJpBV0kn3oVUXEEJjb2PTFNwaRtkEZUPhnv8LLUGK69xj4FuC1R0KkPqVgXOU=;mDE7nsYvg8rkUnL2syNnMQ=="
+secured: "USh+5kktQ336vDIkugPlMVJ4fAO204g9mCirv1R9wxtc6L3ef2jVo9SDqvsW5g+Q2Hr2j4nxgHiseww179gffkx+jWgtU/bpWG9lwpkpLFXKPihJUL6aEbn6q69WhJWnd7zw9wMhoVZgM8ZsRyMFaUk+NZKu0xYFxmhwqghGvlVWRyDdD7juPD95qS92nUEund/EeRyu9wzhg4vQ7lM8qx1l02VLQ0Ve2045aiQFV6qm+Vjhbr9PWOsEXKGLFvtBfL+WDtgOJ98HEsVX55j3P/hJO+ru1pWNqljpH8ryV/stdxFQziubI96BHAKZFRTzv3ypRt1wejBWzhe4whcJP8BbNc2t2+y/js3YhJxPKfNBscxDmSGic/tSK0lgs5nzvpO1c2jEZs8vY9GGRA/miwpTPFk9QZCooGRi/pGumunHy3G3iQGtT3pyJnuONtAIl/aNKEkQ4A7wTBp0f5Xs4Rpnp5hD6q39L9H1zTpeIpmMHgaEM7s0wMnXSMUQ6ZJzc8QZbkaDZlffM1GQt+427A==;xailgtV0XE2c2o5I7qsAfQ=="
 ---
 

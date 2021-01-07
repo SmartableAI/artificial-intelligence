@@ -1,0 +1,54 @@
+---
+category: news
+title: "Tech firms to empower underbanked individuals"
+excerpt: "Temiloluwa O’Peters Fintech company, Aella App, is working with Amazon Web Services, Inc. to empower underbanked individuals to have quicker access to credit and other financial services, using"
+publishedDateTime: 2021-01-07T05:06:00Z
+originalUrl: "https://punchng.com/tech-firms-to-empower-underbanked-individuals/"
+webUrl: "https://punchng.com/tech-firms-to-empower-underbanked-individuals/"
+ampWebUrl: "https://punchng.com/tech-firms-to-empower-underbanked-individuals/?amp=1"
+cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/tech-firms-to-empower-underbanked-individuals/?amp=1"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: The Punch Newspapers
+  domain: punchng.com
+
+topics:
+  - AWS AI
+  - AI
+
+related:
+  - title: "Aella, Amazon partner to empower under-banked Nigerians"
+    excerpt: "to empower under-banked individuals to have quicker access to credit and other financial services using Amazon Rekognition for identity verification. Amazon Rekognition is a fully managed computer vision services that enables developers to analyze images ..."
+    publishedDateTime: 2021-01-07T01:57:00Z
+    webUrl: "https://www.vanguardngr.com/2021/01/aella-amazon-partner-to-empower-under-banked-nigerians/"
+    ampWebUrl: "https://www.vanguardngr.com/2021/01/aella-amazon-partner-to-empower-under-banked-nigerians/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2021/01/aella-amazon-partner-to-empower-under-banked-nigerians/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/cb730e8b-8d42-4c72-a1ba-1eb3677f8c14-amazon-logo-scaled.png?fit=2560%2C1076&ssl=1"
+        width: 2560
+        height: 1076
+        isCached: true
+  - title: "Aella, Amazon partner on underbanked empowerment"
+    excerpt: "Single point financial service and payment solutions firm, Aella App, said it is working with Amazon Web Services, Inc. (AWS)"
+    publishedDateTime: 2021-01-06T04:25:00Z
+    webUrl: "https://thenationonlineng.net/aella-amazon-partner-on-underbanked-empowerment/"
+    ampWebUrl: "https://thenationonlineng.net/aella-amazon-partner-on-underbanked-empowerment/amp/"
+    cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/aella-amazon-partner-on-underbanked-empowerment/amp/"
+    type: article
+    provider:
+      name: The Nation Newspaper
+      domain: thenationonlineng.net
+    quality: 24
+
+secured: "5G4Mu0nYT9y/9uGTeGoYJkZsY4HECZQbG7X4g8XtyVMmUmBgVfiJSd3WUm4nqV5JolDohbrISCASw00Bjboa1Ow/oto0iUevOVJe8x9yjXrVlNVsWeOvTWk3umWOvTGxupFvHE4gqmGRCHV8E5i9HsJhSjr/hQcZUK0ND4v2BqYUk9L8XOmNr+Ccrw3KDNHeBZ5OBpyfE/SV3ll9pEJnSMAZCG9J10mN9OaB2VrzQrhI0/eYhvdDACBvEMw2Qfcazn8CEkSQMXUjB5iSZFh7GE3ZUiKj7yDHiDFsj3Jp4RY5gcORNdP1VHTPQiO5lEcSFMVn6w8cUQQmyBT+XHOntGZblgv2hqCMAg0kVsly4PQ=;5EBK69n4TRcpx1XIgcL9hg=="
+---
+

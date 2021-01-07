@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Carl-Robinson-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Would Fintech Proliferate Under the Shade Of the Pandemic In 2021?"
+    excerpt: "The digitization of the financial services sector will intensify in 2021, and consumers will benefit from quicker, more robust offerings"
+    publishedDateTime: 2021-01-07T08:32:00Z
+    webUrl: "https://www.entrepreneur.com/article/362887"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610008359-Fintech.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Fintech Firm Launches Online Payment, e-Commerce Platform"
     excerpt: "Okobi A Nigerian Fintech startup, Shago Payments Limited has finally launched its bill payment and e-commerce platform, Shago, into the Nigerian financial sector to serve the banked,"

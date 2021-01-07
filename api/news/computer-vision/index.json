@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-government-facial-recognition-can-identify-96-percent-of-masked-people.md",
+      "title": "Government Facial Recognition Can Identify 96 Percent of Masked People",
+      "excerpt": "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people",
+      "originalUrl": "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/01/government-facial-recognition-identify-96-percent-masked-people-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp",
+      "publishedDateTime": "2021-01-06T13:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
       "title": "Intel is using its RealSense tech for facial recognition",
       "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1344,58 +1387,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-software-predictions-for-2020-from-around-the-industry.md",
-      "title": "Software predictions for 2020 from around the industry",
-      "excerpt": "Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
-      "originalUrl": "https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

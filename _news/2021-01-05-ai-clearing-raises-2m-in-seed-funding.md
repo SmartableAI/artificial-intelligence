@@ -72,6 +72,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Temasek Fund Backs Indian Start-Up Bringing AI Technology To Farms, Economic News And Top Stories"
+    excerpt: "The agricultural AI start-up headquartered in Bangalore provides Software as a Service or SaaS products to agricultural companies and development organizations worldwide to improve crop predictability,"
+    publishedDateTime: 2021-01-07T07:55:00Z
+    webUrl: "https://www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Temasek-Fund-Backs-Indian-Start-Up-Bringing-AI-Technology-To-Farms.jpg"
+        width: 763
+        height: 509
+        isCached: true
   - title: "How AI Technology is Changing the Wine Industry"
     excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
     publishedDateTime: 2021-01-03T16:15:00Z

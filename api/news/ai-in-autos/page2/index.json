@@ -192,6 +192,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-23-5-self-driving-car-stocks-with-the-most-potential-moving-into-2021.md",
+      "title": "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021",
+      "excerpt": "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23",
+      "originalUrl": "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp",
+      "publishedDateTime": "2020-12-23T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-elon-musk-says-apple-ceo-refused-talks-for-tesla-at-us60-billion-amid-reports-apple-is-to-enter-driverless-car-market.md",
       "title": "Elon Musk says Apple CEO refused talks for Tesla at US$60 billion amid reports Apple is to enter driverless car market",
       "excerpt": "This week, Apple’s stock has climbed, while Tesla has slipped on a Reuters report that Apple is aiming to produce a driverless ... driving technology and artificial intelligence focus.",
@@ -1337,49 +1371,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles.md",
-      "title": "China search giant Baidu considers making own electric vehicles",
-      "excerpt": "Baidu has held preliminary talks – without ... giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/",
-      "originalUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/12/CHINA-CAR.jpg",
-          "width": 611,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/amp/",
-      "publishedDateTime": "2020-12-15T21:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
         "images": null,
         "publishers": null,
         "authors": null

@@ -54,6 +54,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Would Fintech Proliferate Under the Shade Of the Pandemic In 2021?"
+    excerpt: "The digitization of the financial services sector will intensify in 2021, and consumers will benefit from quicker, more robust offerings"
+    publishedDateTime: 2021-01-07T08:32:00Z
+    webUrl: "https://www.entrepreneur.com/article/362887"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610008359-Fintech.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "tICVA/Jo9I5NfZKvgsoFkHXLreXGFzqIqJlotOPbQg+RVxqqJsISYnqGLyh2ln3rEjibmpDbaBRV4sDC9BLkXnxCNcOxJm9sx3qIHhHd5c1pm/fsAopZEqSqW6CZ0vgi59shECpLL43idbHGVIBaMvuu13mMNz3gZW/ZfgsXetywXoU8pxt6zKRHQfv66VRXBvjuTH70Ab67GAj5AgiwKovZhHx1VYuCD7BkcCF5tBGGNAxgJo7O9r431jLu76LBLQRskHPIkV2S/Vhi61gxcBL5idV25tgj+IBfuzeowqBu11j5oYYTO5ZYHQnYuZpvPVARgevRsFOymAznGSVO9cRIMH/hwAKtIls8mI1kyg3LMT5lBa8krHRV03lGrEAnBMu7mp85EWZnL/rlLOA2URTLB9u5ogoAem2d7WP9HZYOAc/bg5w4JbmcLzaX1jiEZznmCqGWfu8WrIAzb8E9Z+ZeOKXBI//ToDMcr+Rf+IWgJ2GNkceaL/0akKTkqQ9J2g31DPE+ostQ6wo6jeydlA==;OcvS48eOqRrqR41WqX0JIQ=="
 ---

@@ -2,6 +2,109 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-12-07-driving-into-the-future-from-autonomous-to-ai.md",
+      "title": "Driving into the future from autonomous to AI",
+      "excerpt": "Founder, CEO, & President of Mobileye, Amnon Shashua, explores how transportation technology is going to profoundly transform our society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Amnon-Shashua_Interview-Still-1_selected-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/",
+      "publishedDateTime": "2020-12-07T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-fords-autonomous-cars-are-delivering-fresh-produce-in-miami.md",
+      "title": "Ford's autonomous cars are delivering fresh produce in Miami",
+      "excerpt": "Ford and Argo AI have launched a pilot that uses self-driving cars to deliver fresh produce to Miami-area students learning at home during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "originalUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4b10add0-389c-11eb-b7d7-58c367381a24&client=amp-blogside-v2&signature=24c8c350119fc36ad9047a5f18cf73643e230d9b",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "publishedDateTime": "2020-12-07T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
       "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
       "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
@@ -1083,101 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-ai-will-empower-scientists-rather-than-replace-them-expert-says.md",
-      "title": "AI will empower scientists rather than replace them, expert says",
-      "excerpt": "Google’s DeepMind AI team solved a long-running biological problem. Scientists are not about to lose their jobs to more sophisticated artificial intelligence – instead it will help them work ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/12/07/ai-will-empower-scientists-rather-than-replace-them-expert-says/",
-      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/12/07/ai-will-empower-scientists-rather-than-replace-them-expert-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expressandstar.com/resizer/Ttc5NfvTilsHQup-r4ApS2PvzN4=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/37QUOSPE3VBKPF3SBS6OTBFRYQ.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express & Star",
-        "domain": "expressandstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-elon-musk-makes-clear-his-stance-on-self-driving-cars-ai-oversight-and-his-ad-for-mars.md",
-      "title": "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'",
-      "excerpt": "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcd6a35eadd8400183df672?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "publishedDateTime": "2020-12-06T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

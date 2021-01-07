@@ -2,6 +2,100 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-12-10-siebel-led-c3ai-more-than-doubles-after-651-million-ipo.md",
+      "title": "Siebel-Led C3.ai More Than Doubles After $651 Million IPO",
+      "excerpt": "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYf_ilbSSPwk/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "publishedDateTime": "2020-12-09T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco.md",
+      "title": "GM’s Cruise to deploy fully driverless cars in San Francisco",
+      "excerpt": "“You’re seeing fully driverless technology out of the ... Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
+      "originalUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
+      "publishedDateTime": "2020-12-09T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-general-motors-cruise-just-took-the-humans-out-of-its-self-driving-taxis.md",
       "title": "General Motors' Cruise Just Took the Humans Out of Its Self-Driving Taxis",
       "excerpt": "The CEO of Cruise, the San-Francisco-based self-driving company controlled by General Motors , said that it has begun operating autonomous vehicles on San Francisco's streets with",
@@ -1085,101 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
-      "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
-      "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision. TechRepublic's Karen Roby spoke with David Crandall, assistant professor of computer science at Indiana University about artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/09/188132fe-9388-4c22-8b16-14fa0fa7bb9e/resize/1200x/c450893cc7be41eb8f7fc7989e2bf850/istock-924257690.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "publishedDateTime": "2020-12-09T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-eu-boosts-evaxions-artificial-intelligence-vaccine-research.md",
-      "title": "EU Boosts Evaxion’s Artificial Intelligence Vaccine Research",
-      "excerpt": "EIB signs €20 million (DKK 149 million) loan agreement with Danish research and development company Evaxion Biotech A/S. Evaxion will use financing for research and development into its proprietary artificial intelligence platforms used to identify novel vaccine and immunotherapy targets.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-public-health-products-and-services-financial-services-c779a75e7eca6031e80e27292a0a0c38",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-public-health-products-and-services-financial-services-c779a75e7eca6031e80e27292a0a0c38",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

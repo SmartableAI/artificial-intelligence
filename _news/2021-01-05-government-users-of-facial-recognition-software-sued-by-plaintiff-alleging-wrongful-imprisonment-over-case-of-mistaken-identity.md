@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Japan firm launches facial recognition system that identifies mask-wearing users"
+    excerpt: "Japan's NEC Corp had already been working on a system to meet the needs of allergy sufferers who wear masks.. Read more at straitstimes.com."
+    publishedDateTime: 2021-01-07T07:50:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/masks-no-obstacle-for-new-nec-facial-recognition-system"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 34
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/07/nz_nec_070167.jpg?itok=ni3rFtrR"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "aSn8conPYqIzihInxyESbRVsm4TRna7erIJjJBZntgeeGjQZPvyzHDTd3ozGq9yJGlq/KnFWTznDNvSMhUxgXhybOBxVpO7ltvah6asIiddTumMuKZHor4nDZLTs0oRu2rAi4dNswekyNZl29Jhpzj2e0Gq4FcOkc9tluwNYeYkg3HxHy6TtES8y5X8g/NyVS9A8rMtBRmZ7g57r8Txh/OZ7YMvTEo+2Qf67PWdns+7tRxbgNFcKzo0I65RpyVr57Lr/FLLPBrRv4GXU657miBBh1FU4F4Bi1bc8mLty/+YU8ERbMEgJU65REGGBINGA9xnCtMjaljc1R1WEKbwOBXcjtyjCgPWnh24sRdNvOVpmgHCSNcoU6/3q7wZEJLRZXW5HYjEEUd3prZpPiTi1z1L5EY7uYniZGPQ14nb/rEM2NlF61DUW/lwM/TVYJ1WaMHYZLPrALqobxLZgsMXooDkeaCok113muPyOWJJqc3jenY3C37QgHjtkqC/Dh9OhTwFa6mR5o1UNWOeih3aeZg==;8NdWFI5WiCATlvtzDtbFzQ=="
 ---

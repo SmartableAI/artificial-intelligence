@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Indonesian edtech startup Zenius bags funding from Openspace Ventures, others"
-excerpt: "AD. Remove this ad space by subscribing. Support independent journalism. The edtech startup has recently unveiled its automated “doubt-solving feature” – which uses AI to solve students’ queries – via its mobile app and WhatsApp. The latest ..."
-publishedDateTime: 2021-01-07T03:42:00Z
-originalUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures"
-webUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures"
+excerpt: "The latest investment comes after the firm received US$20 million in a series A funding round led by Northstar Group last year."
+publishedDateTime: 2021-01-07T07:00:00Z
+originalUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures?ref=recommender-666335"
+webUrl: "https://www.techinasia.com/indonesian-edtech-startup-zenius-bags-preseries-openspace-ventures?ref=recommender-666335"
 type: article
 quality: 29
 heat: 29
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "rHGjzHpoeJajolP0Fs3WFU+L4eO6vej4A9p3Nw3mtg4b6iGPB2A9FAgVg6pTH6lCmrLW4sDqegTI7/IJyKZBhmqv+CSfeEKf4TKzZv+WKjVi+YxEJYKlDXEnZNIWNncdv8Im2x7ANR/3+jxyM7iPLdcvEO1+DJ4uDUjT19Wd5lAHRHuwcBsS2tpZZq9OiR6aWn236oFo6XKGvWe9cvgcA64Z4wTZMQv4tXDvcdiGVEj8rtC4L2b3R6KnZN4+FFn7CrYyr/xODq9lf6Hv+P8hUnLkRTE3lSRB+rIOlF6JLU53z8VXM6SlHBOEj57wXuj7dI6XG44c/RVwNrYUvsYQkl1d7I67Ornq99edJlZ+euIHiQnP4QkVxwl/1aUXsMxdv3LhmlSx4LLPIi/lVJQQO0jwQNp6fa3VU2I76lfpUGEYAm/7+lPP83JHdhyYix+FfSrVyH+pBHMteP3oFX6EqpMegFnUtdl/KfPEy15DICTU7pijEPkoPKP+evejof2SLbqD0NmizVCTHdTDqFpT3A==;gpyjsa5Aqb5ZvqghxrYiig=="
+secured: "Oygkv8N76LjbAmxYBkV5pBxBon42KDSDErnpu59xsoZlgsZQ9lCgb6L87id4gjN4XmpSGpKOqdyCoOYIUI00uYeCiNQ6ZVrYl4ghY+5xczUadwVKkDJTuUkStXY4NDr5OO1bnSBiqfFsvYzjRrMK5ASqRKZNYFLmdSMi3furprDy9ios3vA0ZLmnwPzL4eDQhBW/Fhqeypnm99s4HsFFpcRfGzaJ3glLq+lAxvhKa2hpJphEN3+3cK/vbGlgGcIP6SktvJbSUhINCuM/7AK7dcfVAaxJSzp6B0TVKZCNKClui4V787s+50DpbEOPi/dK7Lz2NsB7dE/W5wsOrBvKJCamv+tSem6ASkMkthwuRxzovkPV6PQCRusLvgwP7xu7GP7ybifK9JIXPzBGzAXuqiGfYQKOeZtzbAvBPdsCCUTTQ/oSO5jsG7kSjAan8hVwvuZbepwj46t5NMLFox4lvhNI7g+AlE39GC4ek/qlXfEYqu8nJOseKXYeU5rGjSyhWlWsf8xckc6adOhs+fkEbw==;nv9ep21Bx0sIHZ3xNYy0gg=="
 ---
 

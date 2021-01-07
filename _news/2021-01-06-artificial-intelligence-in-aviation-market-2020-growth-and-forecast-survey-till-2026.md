@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market 2020 Growth and Forecast Survey Till 2026"
+    excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques"
+    publishedDateTime: 2021-01-07T07:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
     excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
     publishedDateTime: 2021-01-05T14:06:00Z

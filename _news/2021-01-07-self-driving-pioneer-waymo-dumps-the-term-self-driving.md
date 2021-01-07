@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
-excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
-publishedDateTime: 2021-01-06T23:00:00Z
-originalUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
-webUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
+excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\""
+publishedDateTime: 2021-01-06T17:13:00Z
+originalUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
+webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: Gwinnett Daily Post
+  domain: gwinnettdailypost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
-    width: 500
-    height: 281
+  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -335,6 +335,6 @@ related:
         height: 512
         isCached: true
 
-secured: "rRpLpepBkF6v1UEz/8jdgKiBOx8fiyaDH/Ae0F1OyKl8GSn6ucQgfkWu+QV6SNd0C/Pl+750plUc23gE026rqW6CBG0jVzXqu6OHw1rKKlrMavJ79TpPaJTQbUK5lK2zwG4o6quFvMx7bwpjPNFPJDf2FHiAQfz4oYjWR95VZpT42ktLl8g8Db4WKvBCIThgW0Z3X+aH99eJUDmfErjJ+BL3DbqwpYQ9GLmUx0QNay634/LjflxRz5eBXqk+QzDrPmISCh7vE8WcR4yYj1xacp010BQL+18doex9fD3yS2I8UJ3hCYELWt6VswkLVEgZr0TWSxUOAGxPLHa0bGJZHpZOhoaMz40ZfU5HYNrW40M=;lp6Qq36Aiafad+4eDm4Apw=="
+secured: "NBj6eJqvc+3dJVakrY+MZlKKVhhCKGT5rTiwrSNZzJYAf5oUG6cvTcaayzS7qXNsx6FA2dr4VAvRhYMkCIuBsNLg9QbXOBgMEmEBpcGD7c/nrxMDwQlQ+uMeAYOYkQFm2caDJ8sJ7POI9dBmOBP5o6/gC2Fa/ZxgLeTUc8j+zmAcXno8y1OlAmxi3s8GcsVr8tkIVDeRTkjv69vJ27NHnRxhIasgKwfzugRcZoNtgnUb3gX7JDtuK69O7rVk7vqpzzBqk645w1v2FsQbzqX0scH3IXwTywzldAS55AvYOZxstyYxkzb3unkzenxzEUgIdVzKNnre67jEgm8ck04YOFCNO9pYNX+HYpQlInvK4uE=;f4R5u4IVkl6tnTYScdZnEA=="
 ---
 

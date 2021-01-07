@@ -22,6 +22,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Light-carrying chips advance machine learning, say experts"
+    excerpt: "And with the advent of machine learning and Artificial Intelligence (AI) in, for example, self-driving vehicles and speech recognition, the upward trend is set to continue. All this places a heavy burden on the ability of current computer processors to keep up with demand."
+    publishedDateTime: 2021-01-07T07:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20210107/3686872.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+
 secured: "BnfFmMrkPi/RaF29wuatH00w8frDLN5zXpu4H7TriA+STgb0+DlL3vkrQkeAbPWKwjHRTjEZriSaSTAtfPnFl47d6twGxejVinI7TK3I9NDJIKPItJExC2pL9AB+3/FPls9NSxYos3pkGgcv3m5lJLwN9E2+V1w7lD3WJ4as4zR2YARKOTpgkLYxeJpoqcF9DDMez60b45QUqq746HTDy8xyhKtE4DGTU0R2wrUZ6zWqVW/s3kT4+4E8MWYYH4owIBxYzMvH2A9bB4uhk1heqoTUhO6a9Q971nVKRW4mBd1MPmBGTI26rhCoD/8WAoxydNzTN3Ce1l0D4hoJdQBaf09SDNZDx9F1qxRFXYfB9Eg=;1XWjq+2sdCPjcqedy4uobA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-04-amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables.md",
+      "title": "AMP Robotics raises $55 million for AI that picks and sorts recyclables",
+      "excerpt": "AMP Robotics, a startup developing robotics systems that pick and sort recyclables, has raised $55 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
+      "originalUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/IMpact-20-2020-Amp-Robotics-AMP-9-3-e1609706384371.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
+      "publishedDateTime": "2021-01-04T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-2021-the-year-of-robotics-and-artificial-intelligence.md",
       "title": "2021: The Year of Robotics and Artificial Intelligence",
       "excerpt": "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,",
@@ -1171,49 +1223,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-veritone-achieves-aws-public-safety-disaster-response-competency.md",
-      "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
-      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the worlds first operating system for artificial intelligence, aiWARE„¢, today announced that it has achieved Amazon Web Services (AWS) Public Safety & Disaster Response (PSDR) Competency status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

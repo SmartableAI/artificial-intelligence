@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel unveils on-device face recognition tech for ATMs, kiosks"
+    excerpt: "Chip maker Intel has introduced RealSense 3D cameras with an on-device solution for facial recognition, designed to perform facial authentication on consumer devices such as point-of-sale (PoS) systems,"
+    publishedDateTime: 2021-01-07T08:11:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks-2021-01-07.jpg"
+        width: 1000
+        height: 800
+        isCached: true
 
 secured: "GsuDWIfpl5WDMme2yFwTKsLsHhbaVMxAbEo13ZjlM20SPU9FroM6iLLK7n0x7enyck+uj7QAmce+ti3+H9kCB9vnkg6hQlh8fOYJmdhazaDQOyxlY9jeGCLCxJ8ot0fVGzsnpB3MNI3wmUWJtxEQHEbLkF1ONa8Bno3fmiuPpzlU7UT6LPedhHb2HsRVJEQ9C49qLZwqVcIY5Y+LeoNYpB0UpopWovRXciFQSTTIywzwRjrsArIXLkxnsKqMrV04WiQnZ5ny1CiLMf4hfc961x+BU4cGDtrmabZ7fgFkGngOMZ3R1TpkfgpRlI2+FMg0UCKaEjYW2GLMGyQ4vjeXw82y/arX3uJDs1y1Kd+Qxtg=;gMMB0DU6uk7wT6jWzUwKiQ=="
 ---

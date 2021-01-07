@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/government-facial-recognition-identify-96-perce
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Futurism
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Japan firm launches facial recognition system that identifies mask-wearing users"
+    excerpt: "Japan's NEC Corp had already been working on a system to meet the needs of allergy sufferers who wear masks.. Read more at straitstimes.com."
+    publishedDateTime: 2021-01-07T07:50:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/masks-no-obstacle-for-new-nec-facial-recognition-system"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 34
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/07/nz_nec_070167.jpg?itok=ni3rFtrR"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Government Users of Facial Recognition Software Sued by Plaintiff Alleging Wrongful Imprisonment Over Case of Mistaken Identity"
     excerpt: "It has become commonplace for government agencies and law enforcement, particularly in large metropolitan areas, to use facial recognition software.  These entities are a major client base o"
     publishedDateTime: 2021-01-04T21:11:00Z

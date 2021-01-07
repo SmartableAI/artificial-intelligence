@@ -408,7 +408,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -451,6 +451,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-government-facial-recognition-can-identify-96-percent-of-masked-people.md",
+      "title": "Government Facial Recognition Can Identify 96 Percent of Masked People",
+      "excerpt": "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people",
+      "originalUrl": "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/01/government-facial-recognition-identify-96-percent-masked-people-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp",
+      "publishedDateTime": "2021-01-06T13:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
       "title": "Intel is using its RealSense tech for facial recognition",
       "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
@@ -459,7 +502,7 @@
       "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -555,7 +598,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1161,49 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-what-buddhism-can-do-for-ai-ethics.md",
-      "title": "What Buddhism can do for AI ethics",
-      "excerpt": "Buddhism teaches us to focus our energy on eliminating suffering in the world. The explosive growth of artificial intelligence has fostered hope that it will help us solve many of the world’s most intractable problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
-      "publishedDateTime": "2021-01-06T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

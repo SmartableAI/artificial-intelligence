@@ -2,15 +2,66 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-05-jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design.md",
+      "title": "Jarvis Meets Automotive: How Artificial Intelligence Is Remodeling Computer-Aided Design",
+      "excerpt": "The world of computer-aided design is transforming from a visual, drafting tool to an artificial intelligence agent that uses feedback and weighted goals to design an integrated system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce6fad7d46dc2167aa1ac4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
+      "publishedDateTime": "2021-01-05T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots.md",
       "title": "Microsoft wants to use AI to turn your friends and family into 3D chatbots",
       "excerpt": "A patent published by Microsoft describes the process of creating an AI chatbot based on a real-life person using their social data, photos, and even voice recordings.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -24,8 +75,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
       "publishedDateTime": "2021-01-05T03:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -50,8 +101,7 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI",
-        "AI Ethics"
+        "Microsoft AI"
       ]
     },
     {
@@ -692,11 +742,11 @@
       "title": "How some companies are solving the issues with language and AI",
       "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -710,8 +760,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
       "publishedDateTime": "2021-01-04T12:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -735,7 +785,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -983,7 +1032,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -1173,58 +1222,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables.md",
-      "title": "AMP Robotics raises $55 million for AI that picks and sorts recyclables",
-      "excerpt": "AMP Robotics, a startup developing robotics systems that pick and sort recyclables, has raised $55 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
-      "originalUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/IMpact-20-2020-Amp-Robotics-AMP-9-3-e1609706384371.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
-      "publishedDateTime": "2021-01-04T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

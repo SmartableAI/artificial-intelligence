@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market 2020 Growth and Forecast Survey Till 2026"
+    excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques"
+    publishedDateTime: 2021-01-07T07:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market 2020 Growth and Forecast Survey Till 2026"
     excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
     publishedDateTime: 2021-01-06T10:21:00Z

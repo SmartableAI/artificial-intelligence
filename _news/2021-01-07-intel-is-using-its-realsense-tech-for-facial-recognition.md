@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Intel unveils on-device face recognition tech for ATMs, kiosks"
+    excerpt: "Chip maker Intel has introduced RealSense 3D cameras with an on-device solution for facial recognition, designed to perform facial authentication on consumer devices such as point-of-sale (PoS) systems,"
+    publishedDateTime: 2021-01-07T08:11:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks-2021-01-07.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "h7HDw4zfDMSlsJeXWi8BpZdZxdOcO+IT0nUdA4/I4zN6b7zsphcragP9I2QWBKLNGPW+Y4OPoufWZGkCiHjsaXUnhqDeLzMaiiHER32sr8WAh0dOns/bhykhcpR7bDxAk7IW+H+DxrtkED/2caCCx8vUiX43ZjUUwnZaz8VmDp/OjoQeb7wW54zLwB4xMStteUIBjN/EqrdX2dv9KjOFrOaRH+vhTTmh9BSQp4V66bUArmssNOWYpXOw/XthJbuW738HInJ1xCpcBjBtBtJksc+h1X88JuawMxQPmdSYZWZmlFBKqgG8ZSEPLUKK31Bf31L4x5wl/6F++I33Qy0yPrgVA/POk47Yi7H2LK2bwVo=;Jo9mbTf7boC1sOuvGMzS+Q=="
