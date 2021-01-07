@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-03-rheinmetalls-new-armed-reconnaissance-robot-also-provides-fire-support.md",
+      "title": "Rheinmetall's new armed reconnaissance robot also provides fire support",
+      "excerpt": "Rheinmetall has unveiled its latest armed battlefield robot designed for tactical intelligence gathering and combat support. Part of the company's Mission Master Autonomous – Unmanned Ground Vehicle (A-UGV) family,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/",
+      "originalUrl": "https://newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/049c99c/2147483647/strip/true/crop/750x500+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2F87%2F47e1a4a649a48f97e9c190fc8296%2Fugv-mission-master-armed-reconnaissance-2-bunker.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/?amp=true",
+      "publishedDateTime": "2020-12-02T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-global-robotics-automation-etf-robo-hits-a-52-week-high.md",
       "title": "Global Robotics & Automation ETF (ROBO) Hits a 52-Week High",
       "excerpt": "For investors looking for momentum, ROBO Global Robotics & Automation ETF ROBO is probably a suitable pick. The fund just hit a 52-week high and is up 102.4% from its 52-week low price of $28.27/share.",
@@ -1307,58 +1359,6 @@
         "name": "MD&M East",
         "domain": "mddionline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-robots-invade-the-construction-site.md",
-      "title": "Robots invade the construction site",
-      "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
-      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/construction-robot-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
-      "publishedDateTime": "2020-11-22T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

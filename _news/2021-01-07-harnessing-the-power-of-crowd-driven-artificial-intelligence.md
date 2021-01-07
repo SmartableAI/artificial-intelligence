@@ -39,6 +39,20 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "Harnessing the power of crowd-driven artificial intelligence"
+    excerpt: "The European Research Council (ERC) will fund the development of an innovative platform incorporating the IIASA crowdsourcing game Picture Pile. IIASA Strategic Initiatives Program Director Steffen Fritz will lead the project."
+    publishedDateTime: 2021-01-07T16:19:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/iifa-htp010721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "mF7kpunUjRXpyaxWYBxKniVffZfQmXh2uwdMC5wmlEx0plWLbYPOn6qUYG3GQ19asvAWlJs6azerp1ZRG31BohPxXCPq+bytiJBEJQzgz/ZVsCZ3nQbMcPTpUq+ymsmHarAKbkrigFqmbDFUOyYco/87wogtkfVSOXIv8KCJ+J3PMKc9VAGjPamxjzAze9vjPRs1J1S6PRW4YWC2z9SZ7pyG0XgFPQ5mm6RX35MS7hub0g9qH6qKpdM2Nx0mUVUIVVeGBnO7ORKowZWG5MkCgIliUlFV2WZPdQl98JU1Y2z7myXgQ+0Ad+Bd//5oLtTP6rkhE5YFQnIV9nKccA8qpxvLpL2+FB0e6/eMUyoMma4=;ZF79pLlSrEjxzNqYEuL32w=="
 ---

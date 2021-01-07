@@ -214,18 +214,18 @@ related:
         height: 400
         isCached: true
   - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
-    publishedDateTime: 2021-01-06T06:03:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
+    publishedDateTime: 2021-01-05T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 31
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
+        width: 1460
+        height: 766
         isCached: true
   - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
     excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
@@ -246,6 +246,6 @@ related:
       domain: cnbcafrica.com
     quality: 29
 
-secured: "4AsGrYX29vBou2m+lrdfabrUbcHHpdN4xrLpH2S5AWF2nRbpa+6do3XgzFpxuzPkcPGUQY4rQBP3BiaDxo3ktPF5NOxBhBHX8npQNv5IR7AV13OVsxN6uCyYMzcK9Uu0MWFeBVEpRfYnPfjX+qVxNa7S90xE6C9lhzkfqtfnujruv4iu81iNsT28F8sy8YUU6RpAkz6Sa2Evq0Nhth5GLbqrlQpFppudUCwA9SoLlFvf6aTtdczjRQO0uvxKYRBBRkeHOyr/nfczXr2uvwWaeEgNNKH89cB+ei2M2PYU9/T1cxyUDpSxX2ysvbtvbgAg8vKMwlaX/l/6gv06huO1pwXlW1PiV+SZObfjdmhD8dA=;+QuBKJt91icrzjtP+Twlxg=="
+secured: "nVWobaOiuvkPT6GnAHlgRnb+nh0Bt1JPL1KcvpBe+f5THLw6fdC6qh5Rcf4uqVdm5BsRwH7tESgWb39tpJwniVP5sETgqQassLCQxL7kmM/FyvBBGzj5BhDU7EfyCiIfZpV2hgDV0Qqw+fYnsMg0IZBr15v9vlRjuyNGdbfsARC3U+R5kgDnSmdFDUk4EqIA+ZHu3bjgqrEfTSzCi+xqkOh6AO3p/T93ABuJyYwfEWcAIKaGMS9bO4B+g1hjDWxBw3DjsmUg5zZRhtrALPepypJASzC6fmsQri7lnhYe59lFJoIeEaut58SjcPDxeU1lec336+hrOZbGLQ2W1DfkOVkuo08BqpTIr3q9rWvylDshLwRi4NqpC7c72hLMdO1PnGDTgVXpmWvyn5fJyZ/E5XC2EyrphKyxE3W2sH1Tnb/czjewtzzBpM9ii8hzSgrIDs8jVBJRzd0HwQ39g6NqN2rWT6iKVLi/qa1pyXrq9RZSQe5iIPiguLyKEeS5YJw7BERiFSvFL52GgXspTcvLjA==;D/lhZseMWDCavrgcxwshnQ=="
 ---
 

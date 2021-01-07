@@ -55,6 +55,20 @@ related:
         width: 1440
         height: 2016
         isCached: true
+  - title: "Ways fashion brands are virtually connecting with customers - from custom designs to AI searches"
+    excerpt: "The pandemic has fundamentally changed the way people shop. Fashion brands like Suitsupply and Shop Your Fit have developed innovative ways to virtually connect with customers."
+    publishedDateTime: 2021-01-07T16:07:00Z
+    webUrl: "https://www.dailymail.co.uk/femail/article-9114831/amp/Ways-fashion-brands-virtually-connecting-customers-custom-designs-AI-searches.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 24
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/01/06/22/37691240-0-image-a-307_1609971346067.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "voPMDttxHE9O8xN8BVfXmCfNog8OsFCJl0Yn5N6+8sPQS5JoWCP7rPf7+9Z2PyD9b6wDY8eMirrQRIOHVsDhBwHWaJoqTe/wNUc/EN5b4oSw2MzmMdE996YCFBZOUoy5jV9mqdp4Ey1dxoMaNs9V5hD149OyhtFRyFi1H9sBt4sk8TZVBEu40l1bjO2yUeUbIQJMT5DWHL3vYC/o9u2xCJ0qAVB62eoEqY4jVKsPs7a3Ma8iZKAY0JhZb0+RJFZ8bh/sH/Z8AIAQNmYJkTffE7OSN820zyhMnGang+IazXiWjfa9bqqR6NPK992/mXjGgjE5PyRLyo2m+/+kdK+MzQ+cxE1bfjkFHW5DkCgNdzYhITztTaUooVfwW5K9NHc75RF5GjlkQCdKo0x0YEnaP4kMDsPiSeP5GvIRPZFvtSWruDhL0lZ8Qv3UQ9V4SEQ7YNbE2KW9WnPNabYREIHVWW07kCiTKhCdq38s1ycaNSiPJYiFquFHnXqT20Ux0cVxpwDaK8YE/p8HvcdiX7R+aw==;BrKsHuA2weY44tgWmJ9fYQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-mark
 webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Financial Analytics Market Key Manufacturers, Development Trends and Competitive Analysis 2024"
+    excerpt: "The global financial analytics market is expected to register a CAGR of 10.4% during the forecast period to reach USD"
+    publishedDateTime: 2021-01-07T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-key-manufacturers-development-trends-and-competitive-analysis-2024-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
     excerpt: "Strategic expertise and leading innovation The assets and operations of Boemska – a small, UK-based technology company with an R&D center in Serbia – will be integrated into SAS. The company is a well-established SAS technology partner whose global customers include SAS customers in financial services,"
     publishedDateTime: 2021-01-07T13:40:00Z

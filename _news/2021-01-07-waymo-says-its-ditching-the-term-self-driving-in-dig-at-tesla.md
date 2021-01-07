@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla"
 type: article
 quality: 104
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff519e366060e91c33e6dfa%2F0x0.jpg"
         width: 1080
         height: 810
+        isCached: true
+  - title: "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla"
+    excerpt: "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,"
+    publishedDateTime: 2021-01-07T15:40:00Z
+    webUrl: "https://www.entrepreneur.com/article/362902"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
     excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."

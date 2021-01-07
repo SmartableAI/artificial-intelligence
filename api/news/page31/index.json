@@ -2,6 +2,214 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-12-09-think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality.md",
+      "title": "Think Silicon Announces a New Scalable Multi-Core GPU Product Suite with Extended Graphics and Video Functionality",
+      "excerpt": "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA (R) pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief.md",
+      "title": "Apple Shifts Leadership of Self-Driving Car Division to AI Chief",
+      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "publishedDateTime": "2020-12-08T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-the-best-foodie-gift-boxes-and-subscriptions-to-send-this-year.md",
+      "title": "The best foodie gift boxes and subscriptions to send this year",
+      "excerpt": "There are countless curated food and booze gift boxes to choose from in 2020, but not all are created equal. This year has required a healthy mix of calm, cunning and creativity to say the least. At the risk of belaboring a well-worn point,",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.cnet.com/news/best-food-gift-baskets-to-send-by-mail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-huawei-worked-on-facial-recognition-system-to-surveil-uighurs-new-report-claims.md",
+      "title": "Huawei worked on facial recognition system to surveil Uighurs, new report claims",
+      "excerpt": "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "originalUrl": "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/XYJI_iZjAzEa9uQfx396EKQL5t4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "publishedDateTime": "2020-12-08T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily.md",
       "title": "Deep medicine: Artificial intelligence is changing the face of healthcare, daily",
       "excerpt": "This year has been a great definer. As we waged a battle against an unknown entity, proponents of artificial intelligence (AI) were swift to act. Just last week, DeepMind announced that it has",
@@ -969,186 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate.md",
-      "title": "Google’s Look to Speak taps gaze-tracking AI to help users with impairments communicate",
-      "excerpt": "Google released an Android app called Look to Speak that enables users to select prewritten phrases to communicate using only their gaze.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
-      "originalUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
-      "publishedDateTime": "2020-12-08T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
-      "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
-      "excerpt": "(NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS the preferred cloud provider for ViacomCBS’s global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-business-amazoncom-inc-media-corporate-news-570900c3c0814d9c91830f28b5f53a7a",
-      "originalUrl": "https://apnews.com/article/technology-business-amazoncom-inc-media-corporate-news-570900c3c0814d9c91830f28b5f53a7a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-machine-learning-identifies-brain-signature-of-depression.md",
-      "title": "Machine Learning Identifies Brain Signature of Depression",
-      "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between brain regions in people with major depressive disorder – even when different protocols are used to detect these brain networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-identifies-brain-signature-of-depression-343725.jpg?v=11012306",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "publishedDateTime": "2020-12-08T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance.md",
-      "title": "Ping An Uses Artificial Intelligence to Detect Greenwashing and Assess Impact of Climate Risk Disclosure Transparency on Financial Performance",
-      "excerpt": "8, 2020 /PRNewswire/ -- Natural Language Processing (NLP) technology, used to analyze language from company disclosures, can help to detect potential \"greenwashing\" by high emission companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance-1029872654",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance-1029872654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T04:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

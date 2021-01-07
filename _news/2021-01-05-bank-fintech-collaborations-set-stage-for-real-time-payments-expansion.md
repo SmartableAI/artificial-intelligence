@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "4 Stocks to Gain Traction From Fintech Evolution in 2021"
+    excerpt: "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come."
+    publishedDateTime: 2021-01-07T14:50:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "A Pair of ETFs to Consider as The Fintech Space Continues Evolving"
     excerpt: "It's obviously been a rough 2020, but out of the ashes came opportunities for financial technology or fintech for short. As such, a pair of ETFs can afford investors opportunities in a space that's growing exponentially with the Global X Robotics & Artificial Intelligence Thematic ETF (NasdaqGM: BOTZ)."
     publishedDateTime: 2021-01-06T20:12:00Z
@@ -67,6 +78,31 @@ related:
       - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/05/62342807-fintech.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
+    excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
+    publishedDateTime: 2021-01-07T15:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210107005582/en/Ignite-Sales-Appoints-New-CIO-Fintech-Veteran-Bob-Pittman-to-Lead-Tech-Team"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
+  - title: "Big Tech Firms are Now Offering Fintech and Wealthtech Services in Singapore, but Startups are Also Launching Innovative Services"
+    excerpt: "Kristal.ai is an AI-enhanced Robo-advisory service that offers personalized ... Wealthtech100 is an annual list that’s prepared and released by Fintech Global. It aims to acknowledge the efforts and performance of the 100 most innovative or promising ..."
+    publishedDateTime: 2021-01-07T03:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 15
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Marina-Promenade-Singapore-600x492.jpeg"
+        width: 600
+        height: 492
         isCached: true
 
 secured: "hrPk7e+XnV8duWB2dZdbEiALf8vm6XgxOlJNHXTr3dT8Iah44Wdli/5ivLbYKBJBaaNyodzMGly4M/ZCoY/cGaKoVkWOZviwUIgSC7Qgk98npm2DGAjAkj7FPJ2Y4yN/uZi+lw2m50q/pi93FTJYPN95AVzg30StDhquMKMqcrgfagQ5teWYYiH95V34snG+jWfM0JrBRVJxIvALZH4rcJnXrWLhmD2RBwV7OS+R48Q1gL120XVlYUyx30m1it+JmiNroRFJdb4yYN3hBKI5rt6RVlYuH22Rd8RM7UFWJUig4BhKEbSJaIYbvYIdREjsS9GJ7Q8jGAid+v0rgHm3klBw1ZtslsnDdp+R2+gNPbsANtj70XDfDVWoUGR082t6XXI8GXiHSAkLWw9BnM9bfom6+xDHm929IJlR5oKfa1i5D7qPFNUHXRPCt/lI/MX1sJ9wMmBeo7fp2pznKM0P04XIfOmbiI9ZA8kMeq+HniV1WUPqehJidc1L/58MYPp3sThvKIZU9/Y5TyYCKBoisA==;zPk3SyAPYlPQG9ytw5Jj0w=="

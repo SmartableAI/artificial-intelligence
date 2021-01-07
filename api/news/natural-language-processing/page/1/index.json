@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-facial-recognition-firm-claims-antifa-infiltrated-trump-protesters-who-stormed-capitol.md",
-      "title": "Facial recognition firm claims antifa infiltrated Trump protesters who stormed Capitol",
-      "excerpt": "A retired military officer told The Washington Times that the firm XRVision used its software to do facial recognition of protesters and matched ... Fox News cuts away from Donald Trump Jr. speech following profanities Violence, destruction halt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "publishedDateTime": "2021-01-06T17:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
       "title": "OpenAI's DALL-E turns weird text into weird images",
       "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
@@ -98,7 +54,7 @@
       "originalUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -150,7 +106,7 @@
       "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1431,6 +1387,58 @@
       "topics": [
         "IBM AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-google-expands-languages-push-to-serve-non-english-speakers-in-india.md",
+      "title": "Google expands languages push to serve non-English speakers in India",
+      "excerpt": "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
+      "originalUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/",
+      "publishedDateTime": "2020-12-17T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

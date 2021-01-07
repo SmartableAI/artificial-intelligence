@@ -41,6 +41,22 @@ related:
         width: 1460
         height: 1172
         isCached: true
+  - title: "DALL-E: OpenAI’s AI System Can Convert Words And Sentences Into Images"
+    excerpt: "OpenAI has developed an AI system that lays its foundations in GPT-3, DALL-E — capable of creating images from natural language texts."
+    publishedDateTime: 2021-01-07T14:44:00Z
+    webUrl: "https://techlog360.com/dall-e-openai-ai-system/"
+    ampWebUrl: "https://techlog360.com/dall-e-openai-ai-system/amp/"
+    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/dall-e-openai-ai-system/amp/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/01/DALL-E-OpenAI-AI-System.jpg?fit=1200%2C630&#038;ssl=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EqXkF869YIhccYNzAB5C/tq8Md431yz33R7JURFSNfHDZ711fwLKK7c9d/TtM4iiaLprUOpZ+DVb6RyGi9gsib3S1ib/CmFGlCY+L/ZV/yAKtOwmRaX/YHXiJ2D/LnkRc70Grk0JS6CPVsjeG0vtulfB5foJi2iqHbeS88Gcanuuub8oAEJSHxg1OErWY9OU6LNRBQYlvUAC39sIAEYUZJWQhnPCzCYnsABW/yfW4npruFE4Akwzi+tFEJ6ptQg5RkPRfrMmTrJ/TkqXGrxTSlngjkConhYR2BxF8Lp8hXNv+jcOq1adNIN0mhwayIZmLCK7AINe9FP1O+XczufIoNPjYuoJB7xSjMephgGva2wItye47vpSiSdQ2CwCoqEXVuLN++B6MJJilU8Mgf3LBt3TSlz6lPzyisWo0t5NmHRyLCgiURkK9Fl8i079+ry1iqyyJhjosxTcBYLByNdeunn7nuG3SIgWuyGTVJhPFQgHbjSt4K0J2v5oaaJbZ8O09wiHwuJ42xl+5bqIbuUxSQ==;ev98GuWj6EIQUmmWRRkWRA=="
 ---

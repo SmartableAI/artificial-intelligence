@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T10:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+        width: 743
+        height: 545
+        isCached: true
+  - title: "Face Masks Can't Confuse NEC's New Facial Recognition System"
+    excerpt: "Studies have shown that facial recognition algorithms created before the pandemic are easily confused when their subject matter is wearing a mask. As Reuters reports, NEC is ahead of the curve because the company was already working on a recognition system capable of dealing with masks before the pandemic started."
+    publishedDateTime: 2021-01-07T16:58:00Z
+    webUrl: "https://uk.pcmag.com/security/130840/face-masks-cant-confuse-necs-new-facial-recognition-system"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/face-masks/face-masks-cant-confuse-necs-new-facial-recognition-system_mpue.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Government Facial Recognition Can Identify 96 Percent of Masked People"
     excerpt: "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ..."
     publishedDateTime: 2021-01-06T21:32:00Z
@@ -41,19 +71,21 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Government Users of Facial Recognition Software Sued by Plaintiff Alleging Wrongful Imprisonment Over Case of Mistaken Identity"
-    excerpt: "It has become commonplace for government agencies and law enforcement, particularly in large metropolitan areas, to use facial recognition software.  These entities are a major client base o"
-    publishedDateTime: 2021-01-04T21:11:00Z
-    webUrl: "https://www.natlawreview.com/article/government-users-facial-recognition-software-sued-plaintiff-alleging-wrongful"
+  - title: "A new normal: Face masks no obstacle for this new Japanese facial recognition system"
+    excerpt: "Japan's NEC Corp launches facial recognition system that identifies people even when they are wearing face masks"
+    publishedDateTime: 2021-01-07T10:44:00Z
+    webUrl: "https://www.geo.tv/latest/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
+    ampWebUrl: "https://www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
+    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 26
+      name: Geo News
+      domain: www.geo.tv
+    quality: 52
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/biometrics%20facial%20face%20recognition%20cybersecurity_2_0.jpg?itok=1gtosM8X"
-        width: 500
-        height: 500
+      - url: "https://www.geo.tv/assets/uploads/updates/2021-01-07/l_328610_122102_updates.jpg"
+        width: 700
+        height: 390
         isCached: true
 
 secured: "tFIpev/Z3yeATPfVY4MgEwIOaTsaZ+FfEhbCsAhoJtq5Uzf4Zcft/ZC9V1NVctPMzEVl+mlyhghLq777hl0S1VH90P64xxXGzkqoHx9uWIUsY9IR6mTxwtmiakbtcw6zydzbHDMs1MVqWZTGwh9i1YtbJra/yZ+w7/mmU5+qtJG5mlso2dOREj/KhXxeLTK6c0wXn88Z2Q9cLke91wPIXeAk/6yOuw1+zz2eNuxL+PmBTmgBTbiFAbeeMVvGOxgpMJTcSeLsGc+F2LHAnYEp5SBbN4qifVLh1bqzwROwu/Wb4rhjy9Qjrz7jQt08cIQpuNbEIQDhu0u1mTcqx55BBbSewJ6b3t/gPsPkwjCVTe4=;9T/ZCpuw6F+Bv8vCRErvVg=="

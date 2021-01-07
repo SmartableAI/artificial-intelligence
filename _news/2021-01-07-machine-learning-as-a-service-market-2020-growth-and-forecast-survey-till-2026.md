@@ -128,17 +128,6 @@ related:
         width: 450
         height: 250
         isCached: true
-  - title: "Search and Rescue Robots Market Report 2020 - Global Growth, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Search"
-    publishedDateTime: 2021-01-06T10:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19034001/search-and-rescue-robots-market-report-2020-global-growth-trends-and-forecasts-2019-2025-researcha"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19034001"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19034001"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
   - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as Key Contributors to Market Growth | Technavio"
     excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by USD 11.16 billion during 2020-2024, progressing at a CAGR of almost 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
     publishedDateTime: 2021-01-04T10:34:00Z

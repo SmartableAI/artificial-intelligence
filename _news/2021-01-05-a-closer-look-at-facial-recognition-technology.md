@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition system can identify people wearing masks"
+    excerpt: "A facial recognition system that can identify individuals even when they are wearing a mask has launched in Japan. The technology, created by Japanese company NEC, works in less t"
+    publishedDateTime: 2021-01-07T15:27:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 61
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/07/10/A-hacker_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg"
+        width: 560
+        height: 350
+        isCached: true
   - title: "NIST updating guidance on facial recognition algorithms"
     excerpt: "The pandemic has inspired new uses for facial recognition software, but may require tweaking of algorithms. Masks, which leave only the forehead, eyes and maybe the bridge of the nose exposed, can make it harder to identify people accurately – especially for law enforcement."
     publishedDateTime: 2021-01-05T18:00:00Z

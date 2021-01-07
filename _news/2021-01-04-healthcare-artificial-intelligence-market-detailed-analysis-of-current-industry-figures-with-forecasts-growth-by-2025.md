@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
 type: article
 quality: 78
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -181,6 +181,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Search and Rescue Robots Market Report 2020 - Global Growth, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Search and Rescue Robots Market - Growth, Trends, and Forecasts (2020 - 2025)” report has been added to ResearchAndMarkets.com’s offering. The Search and Rescue Robots Market is projected to grow with a CAGR of more than 20% during the forecast period."
+    publishedDateTime: 2021-01-06T10:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-search-and-rescue-efforts-85934d4893384a0ca120bdc59103b77c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ZRExKQ7RUaZC6d8I8esyjfenrWHdi/u93paawXbPc7fpTn/xerhDjFueiINMegpnG7s6ZVaf51F+ceIk9O3oW/QCrbyEIg7s5ralTY6axgDMnUNAtMkuWVjfu9PtQIY/Faf0bE3UiquVqZi3t5Mtk5yzshJx+M9XBkVD2zL/92j7hDiSnukm0x6EtHlm66OAPQVLW/tEKkHikNXD5b3jmKgYDQGkL+W6505aO1VPYMI3sBrsnZ2aF1wLpE5nPeihzZcEH4bN8AC1qb2FehZM0PqjDb0zlBsYDDGZ0i+wssoPf5nnC2OodqwkWSrTQMYcybhTV5WA2TKpQY/lpueQMy+mA15Hc4aEpNSw2BEWeHM=;gqK/g50z9c5SzfTJYVYj5Q=="
 ---

@@ -22,6 +22,20 @@ topics:
 
 related:
   - title: "Syntiant Introduces Second Generation NDP120 Deep Learning Processor for Audio and Sensor ..."
+    excerpt: "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced the availability of its Syntiant® NDP120™ Neural Decision Processor™ (NDP), the latest generation of special purpose chips for audio and sensor processing for always-on applications in battery-powered devices."
+    publishedDateTime: 2021-01-06T13:32:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-c706c1900a64c245218de118a71fe460"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Syntiant Introduces Second Generation NDP120 Deep Learning Processor for Audio and Sensor ..."
     excerpt: "Syntiant Corp. is moving artificial intelligence and machine ... high performance, deep neural network processors for always-on applications in battery-powered devices, such as smartphones ..."
     publishedDateTime: 2021-01-06T23:22:00Z
     webUrl: "https://omaha.com/article_b489819f-aa18-56cf-a29e-ba107a38adfb.html"

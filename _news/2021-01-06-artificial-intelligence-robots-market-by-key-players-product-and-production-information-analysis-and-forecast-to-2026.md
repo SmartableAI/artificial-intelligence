@@ -181,6 +181,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Search and Rescue Robots Market Report 2020 - Global Growth, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Search and Rescue Robots Market - Growth, Trends, and Forecasts (2020 - 2025)” report has been added to ResearchAndMarkets.com’s offering. The Search and Rescue Robots Market is projected to grow with a CAGR of more than 20% during the forecast period."
+    publishedDateTime: 2021-01-06T10:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-search-and-rescue-efforts-85934d4893384a0ca120bdc59103b77c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "nsLmYDceAcXbJ2zhZiMjkijbtfogEuUgHEhUXD0xP+FcCB4Y+JCHNSqJ3eKrx1cI1chauBbW2UYTXuC9FhXgoY0JG99x/KQe8SVs/SvjL/BxPj8IoMlHuoODugZRDuF73AnQaOiuU21n8IudjZpzh9afHDEzYlkHdXWWXGk0s6qkYUUHOu1eFA+GOwk5xl+J6b+VLpSgw5E+Q8F6RPDy6sF9mFnWeCD3H7RbUp6huyStT167Uv/hLxB7z1vestc9J4YZlcynsiNc4CQrVHqkJYHMg+GfDWKZZA59o7OYGdfI5uBV8HkKbx5sopFMRXKMAqDx0dT84U8GPhjT5hFgN5WJvc2jGkhkF+Sze5guZOQ=;5bt7ZeleQ+f6uwAzlAdBmw=="
 ---

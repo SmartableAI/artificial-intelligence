@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-07-a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving.md",
-      "title": "A Pair of ETFs to Consider as The Fintech Space Continues Evolving",
-      "excerpt": "It's obviously been a rough 2020, but out of the ashes came opportunities for financial technology or fintech for short. As such, a pair of ETFs can afford investors opportunities in a space that's growing exponentially with the Global X Robotics & Artificial Intelligence Thematic ETF (NasdaqGM: BOTZ).",
+      "path": "_news/2021-01-07-4-stocks-to-gain-traction-from-fintech-evolution-in-2021.md",
+      "title": "4 Stocks to Gain Traction From Fintech Evolution in 2021",
+      "excerpt": "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06",
-      "originalUrl": "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06",
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06?amp",
-      "publishedDateTime": "2021-01-06T12:12:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T06:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -36,6 +36,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-06-singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project.md",
+      "title": "Singapore central bank reports successful first phase of ethical AI project",
+      "excerpt": "The Monetary Authority of Singapore (MAS) today announced the successful conclusion of the first phase of the Veritas initiative which saw the development of the fairness assessment methodology in credit risk scoring and customer marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
+      "originalUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-deep-learning-market-2020-growth-and-forecast-survey-till-2026.md",
       "title": "Deep Learning Market 2020 Growth and Forecast Survey Till 2026",
       "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
@@ -44,7 +88,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-growth-and-forecast-survey-till-2026-2021-01-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -366,6 +410,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-asia-pacific-machine-learning-market-size-share-2021-analysis-by-manufacturers-regions-type-and-application-to-2023.md",
+      "title": "Asia-Pacific Machine Learning Market Size, Share 2021 Analysis by Manufacturers, Regions, Type and Application to 2023",
+      "excerpt": "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "originalUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1260,93 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
-      "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
-      "excerpt": "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud.md",
-      "title": "Intel & Consilient Join Forces to Use Federated Learning to Fight Financial Fraud",
-      "excerpt": "Consilient, a newly formed company dedicated to establishing a next-generation system for anti-money laundering and countering the financing of terrorism (AML/CFT), launched a new secure, federated learning platform powered by Intel® Software Guard Extensions (Intel® SGX).",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud/",
-      "originalUrl": "https://www.unite.ai/intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/consilients-federated-learning-framework.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
         "publishers": null,
         "authors": null
       },

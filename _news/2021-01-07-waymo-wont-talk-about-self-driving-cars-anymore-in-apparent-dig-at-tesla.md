@@ -159,6 +159,20 @@ related:
         width: 1080
         height: 810
         isCached: true
+  - title: "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla"
+    excerpt: "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,"
+    publishedDateTime: 2021-01-07T15:40:00Z
+    webUrl: "https://www.entrepreneur.com/article/362902"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
     excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
     publishedDateTime: 2021-01-07T04:12:00Z
@@ -415,6 +429,6 @@ related:
         height: 512
         isCached: true
 
-secured: "eyODiZLTHUe2uCQwj9BppzsFV+Pv1GzuR5Tj6U1XYlJNqEsKUHvpOskS8AkxS+px/IL2B+vuXY6ibZ+kRGqACZPDGkCK5ise+lCRUE3xnS6NxnEN+WsVcb7XO03tnjrw89iAprYhXXKKY7CXa7brG2of5WPCDDk/2LterTxdrlUsSzTMTnrlLsqRt0VCoHKygLGEVpz47nnRYfzBwer7T2keFEf75jkWN8Wf1IsPIqmnWmOdF7jI1GkWIrznRPtL5+UtSsxIjySYJ1xvqYQayZwHvvCAcO6nu225Wlq3bRUL5yNQnHGvRekeaOQloBR7lRKwD4I/UCZiZEYIR8VZL5Uux7pPz9ENLT/+3mfcVrQ=;9kf+0qVKL4v7WrD49KtLSw=="
+secured: "pjPTY5U+2hfwzvM0qyKJhKHAi9xAQlHhnU5axh9uUsLaKWshg6YFoEuO7oR3FnOqS+ZR0+BrcgyWdRXqd4EjH/JCeiQuL5WbwEprWWDb8Wkh6fvuSV1ys8q2P7PW823flrnWB9uDUasWBedmHqa/ZLn2WhbjlMCRapcfGDv+KC/ZDWmYKk5+LiVA6MuljZYgSsogLM6umJdBB03svqXvvZTVzabw7+REXnzptwemrJtdY4voGFeMOjEYHr36W40zHmD4ia8ziATwQqThzwcl3SIBX8/TbsAMKFUUlB12zxGV06EhANbSRa9qnX84pgobSx4+ws3eT1MVn0ukyq7DHWEPHUEApxL4OSxJZ4pHjnUljAzKXqaUmL6wpplmQDC1nGYmZlC/E1ovR9OlISHYakLiT2O4VnJYIfYKz7eUn1YoTH4syyM62Pc5A7F2XXxK8NM8PEElAsTUDj62DNe4gnJx4LM9SKxnnmb4yMiE6q/0w9210HS1gzkTbyM4rOzWa0avZerLwRnYJQLE/biJrg==;M17aRKxSfHyQwmKMH3xpqA=="
 ---
 

@@ -38,6 +38,17 @@ related:
         width: 900
         height: 455
         isCached: true
+  - title: "Global HR Advisory Services Market Report 2020-2030"
+    excerpt: "The \"HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change\" report has been added to ResearchAndMarkets.com's offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists,"
+    publishedDateTime: 2021-01-07T15:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19060666/global-hr-advisory-services-market-report-2020-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19060666"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19060666"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "2020 Insights into the Geospatial Value-added Services Global Market - IBM’s AI Contributions to the Geospatial Domain - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence Enabling the Global Geospatial Value-added Services Market” report has been added to ResearchAndMarkets.coms"
     publishedDateTime: 2021-01-07T13:33:00Z

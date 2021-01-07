@@ -42,22 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "This healthtech startup uses AI to assess health risks of expectant mothers"
-    excerpt: "Healthtech startup CognitiveCare's MIHIC platform analyses medical, clinical, genetic, radiological, social, and lifestyle determinants to predict early signs of maternal, infant, and foetal risks."
-    publishedDateTime: 2021-01-02T23:57:00Z
-    webUrl: "https://yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks"
-    ampWebUrl: "https://yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 55
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/CognitiveCare-founders-1609321945526.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "gqtQrimDyXPzNiqBkceTxd9OGNPS7xKkD+RFrPs5T1x4RI4lZnfO3utf5vNH/39igzXQbnTj911JI84j39xO4X8p1SYePzABkkhBLx5YX9vP+zE7XfhV/eLZUeiSCdAqM4SVayoYRGvyu7qStSoJKvaosBbajuj3bxr66M0kUnXTsylMuhMaATccmF5xlYviH7TnqDa5/O28R7VeUIb1ITiSb0E2Rvn8PGOgd8Rcbf6GcTjWODgFjXOYMlrbTOTIiThxhBmeamHMtWnJzwBSmMNX33ZC6l2V6YPu5xtURgKiRzhAFy7GMgyHdJLx3Xvc8XFxf01GNkr0yTfoGDrSKuSWtXXEW6nbrx2MVQgN1FdNjgi4TWBwHawCJhCZkMp3RhsiqeMK8o8liN8cmPlTghQEKKTfS7Bz81a2JuiBFwU8dWCmkzCtIxuJ1l1o8bPjpNa0+tldiQSPJpRazWI7jgS0jGhjqrhzFRtUenDEzRjox4VCRSxVuKyPWiWa8bsRQBNOvQ32/+80WP4VjRA22g==;IIRvHyHLhqrZTifG6c+jBQ=="
 ---

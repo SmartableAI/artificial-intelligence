@@ -159,6 +159,20 @@ related:
         width: 1080
         height: 810
         isCached: true
+  - title: "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla"
+    excerpt: "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,"
+    publishedDateTime: 2021-01-07T15:40:00Z
+    webUrl: "https://www.entrepreneur.com/article/362902"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
     excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
     publishedDateTime: 2021-01-07T04:12:00Z
@@ -415,6 +429,6 @@ related:
         height: 512
         isCached: true
 
-secured: "XDqJIAmR6ZFGcWtY82PQl9jGmF461HIaRxdqfCwo1h4WR23/h4fjcW24bE7o/mm3+Donmj/9NRvVbMmjJWPQ8pyhzOqStX+vo7SvrGZ6Nzmk+0aIBVNAVAhZwTE9l9lILkHKGN9UF5hhMia3PgcEURaJoUeCELNBzEnJVYlTt3SsYLJyG6letCHmKDqWWNCyBZANhlVrnCmOp8mF6f4pSJ1dJNfh/bwG+gD6BuAWD/JX9S0WLZfCyCTwSJCoxhe64yvCWP2RHYAobNwnIU1ccDrQF0DohSNnNGvz5wIvUiSJtXP/QczG6PMod6o7kiKHBKkwKb4zXJe/QOdvA+NQVwIlV31cQHD7d86X/DQvVFw=;VLCx9k7Hvdae++JCca5ktQ=="
+secured: "vFKD+hgyVreYMC34EyBlHUQVKD2n4QRzl6ivEdnq5l2HBjTdfrSdfvSEUys/STMB+C8Bo0X4qNioeSN6ugfl1Zp0A3SwgAhg2CoVjzcH46owGx6UWXUuQzdWYF1+gxtuYs+2ValTH2IXluj0sWRT5MlSixOUPTgjqFyxOhlEsq6c56FNrt1Yd9xFxg2wknxeP5f1Q0PGx1VQ9yNPXyplxKJKHDZH+pnQYn10jDxbLi18rXpDofZjK1txliR9xfSV/8BTfwTEI6LpSsT3XviS+sSqgKzp+j9YzINd0JiQ+0T2Qdy7lYJ7lj1I81WOXIBSqGn/5xxUDjos/a+Jq1+tRCAQnXoAzu1+00vpicyUMfGuXwkMQVprD59jgLZh34rqXRWHIxQdXq/fsvz/9pYJqDuDWZuL6rENJdYdYKyaUMgjFcb/C7a7njdYJWMUwwbwQQQrmgkRpgdS8QggbsMfsuAw7N2a+iKicMxxYnoEgeRu7YV0q4LZLywtTKcBuy8JvXbZozsKYy1/fCkuDfBNdQ==;0ZuCwtA/aIc2aFepcjN4BA=="
 ---
 

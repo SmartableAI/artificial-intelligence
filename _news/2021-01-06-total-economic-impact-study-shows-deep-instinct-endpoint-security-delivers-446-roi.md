@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Total Economic Impact Study Shows Deep Instinct Endpoint Security Delivers 446% ROI"
-excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced findings from a newly published Total Economic Impact (TEI) study conducted by ..."
-publishedDateTime: 2021-01-06T15:35:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210106005040/en/"
-webUrl: "https://www.businesswire.com/news/home/20210106005040/en/"
+excerpt: "Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced findings from a newly published Total Economic Impact (TEI) study conducted by Forrester Consulting."
+publishedDateTime: 2021-01-06T14:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-malware-lung-disease-coronavirus-pandemic-health-88f70194a5a44ea49ccc017452197cc1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-malware-lung-disease-coronavirus-pandemic-health-88f70194a5a44ea49ccc017452197cc1"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
   - AI in Security
 
-secured: "x0nPcS0Rp+b+HqzQeCoPN6Mo7w8NmOA0Mjq+n1kep3WuQX+1IfF/v4JhYkuwr2u13+/FB9L+pbJllWsZrFg297p5pkKFP8l7UNm2UmTRyKjvLhz5Ys1X4DnisEndQ7wVFGsfdqNNMYMxwBjLbe4WcrBTVxlF62Znr6pc9QriiuBLvrr5EiZIsWCKMayTIJodFFzcx564Nphq0ukgvE+w3sZJz25M6VAEhuo9DAw52I3ccn4f7IbxsBe3FmeV9m4cMt1uX4E7RpqV9GoIsUsA6xmnX3J5fhgw+7yfs34qf1AnMBw8wKzCBDhsmddU7LRQZJJ1EPTenQl0Zx9fXX6pAghgOgm+MzP1R0rFF2OjQ4o=;Qvdv7fw0Ohdpupnsuiq9ZA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "2q+u5cA6vVKVfP5Vx8ZmHZKdzODdqGHXnOg89WyfeDyKDkPIuzaVP6M3GYqVhLvBMVp5jZpjh+/WW9uktcWn07tRcOGjwU+GRiEntQOy01mhDn9ppSqGdJ9faZ9DfgYIGgNkXTRaJdyUT/UDtsCAqghp+8zxl/0jQrCaU4PGQ/RJ5ZcQA5WzSnIoKZ3a3EBtsnlVzHkcCYSC2YeKHnyprlheaK5HilVHpG1X9cTisOGBs6RJdUlOwoZxUK0RfgpXUCGrgOpp66BzsCmDtavct3tg9I2+O58Fw5U0YQ9rzZNWy8/+4S5St2JLHBfwTJlBtleJQFBee8EpwkFLjvAc4lLCChHLU7jXl63Qj9ikA3o=;MB0r0SdSf28Wpb3AG26w7A=="
 ---
 

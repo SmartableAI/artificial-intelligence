@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer.md",
+      "title": "Samsung TVs aid your workout with camera-based, AI-powered smart trainer",
+      "excerpt": "The extra, which Samsung calls Smart Trainer, is part of the Samsung Health app that debuted on its TVs in 2020, only this year it's expanding to offer guided personal training. It requires an optional webcam,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
+      "originalUrl": "https://www.cnet.com/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/QG50wSQEgdVJO3knKTxITWwO7YQ=/1200x630/2021/01/06/e0ef393d-dcaf-4c58-bfe7-3a54299c8544/embargo-jan-6-11am-et-neo-qled-samsung-health-smart-trainer.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
+      "publishedDateTime": "2021-01-06T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-washington-post-live-to-host-artificial-intelligence-in-health-care-with-presenting-sponsor-ge.md",
+      "title": "Washington Post Live to host “Artificial Intelligence in Health Care” with presenting sponsor GE",
+      "excerpt": "Speakers will discuss how artificial intelligence is changing how doctors work, drugs are developed, patients are diagnosed, surgeries are performed, and how it is used in the fight against COVID-19",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/",
+      "originalUrl": "https://www.washingtonpost.com/pr/2021/01/06/washington-post-live-host-artificial-intelligence-health-care-with-presenting-sponsor-ge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3MYCH5NHFATBHOE3UOHHJL67Q.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
+      "publishedDateTime": "2021-01-06T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
       "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
       "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
@@ -53,7 +148,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -335,6 +430,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project.md",
+      "title": "Singapore central bank reports successful first phase of ethical AI project",
+      "excerpt": "The Monetary Authority of Singapore (MAS) today announced the successful conclusion of the first phase of the Veritas initiative which saw the development of the fairness assessment methodology in credit risk scoring and customer marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
+      "originalUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -647,7 +786,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-growth-and-forecast-survey-till-2026-2021-01-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1058,153 +1197,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-just-desserts-baking-with-ai-made-recipes.md",
-      "title": "Just desserts: Baking with AI-made recipes",
-      "excerpt": "It’s winter, it’s the holidays and it’s quarantine-times: It’s the perfect recipe for doing a ton of baking. In fact, U.S. search interest in \"baking\" spiked in both November and December 2020. But being in the AI field, we decided to dive a little deeper into the trend and try to understand the science",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/",
-      "originalUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2021-01-05_at_9.03.38_AM.max-1100x1100.png",
-          "width": 1062,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/amp/",
-      "publishedDateTime": "2021-01-05T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-bringing-ai-to-prothesis.md",
-      "title": "Bringing AI to Prothesis",
-      "excerpt": "\"My idea was, how can we make these devices learn over time from us, the same way we learn from our mistakes? How can prosthesis learn from the mistakes it makes as well?\" Meet the amputee engineer using AI to search for a better prosthesis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-01-05/bringing-ai-to-prothesis-video-kjka1flk",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-01-05/bringing-ai-to-prothesis-video-kjka1flk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8PCAIv7zgGw/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch.md",
-      "title": "Scientists Broke This AI Robot's Leg Then Let It Teach Itself To Walk From Scratch",
-      "excerpt": "In a ground-breaking feat that shows Hebbian learning could be applied to artificial intelligence (AI), scientists have showcased a newly developed mathema",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "originalUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/cbadf7b8-269e-5ad8-ac68-a9bcb0364efa/default-1609856733-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "publishedDateTime": "2021-01-05T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

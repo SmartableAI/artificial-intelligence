@@ -2,6 +2,197 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-12-02-waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down.md",
+      "title": "WaveOne aims to make video AI-native and turn streaming upside down",
+      "excerpt": "Video has worked the same way for a long, long time. And because of its unique qualities, video has been largely immune to the machine learning explosion upending industry after industry. WaveOne hopes to change that by taking the decades-old paradigm of video codecs and making them AI-powered —",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/waveone-header.jpg?w=1024",
+          "width": 1024,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
+      "publishedDateTime": "2020-12-01T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-aws-leverages-habana-gaudi-ai-processors.md",
+      "title": "AWS Leverages Habana Gaudi AI Processors",
+      "excerpt": "David Dahan, chief executive officer at Habana Labs, an Intel Company Why It Matters: As the world’s leading cloud provider, AWS is used by developers around the world to train their artificial intelligence (AI) models. However, the increase in ...",
+      "sourceUrl": null,
+      "webUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/",
+      "originalUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsroom.intel.com/wp-content/uploads/sites/11/2020/12/Habana-Labs-HL-205-690x460.jpg",
+          "width": 690,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/",
+      "cdnAmpWebUrl": "https://newsroom-intel-com.cdn.ampproject.org/c/s/newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/",
+      "publishedDateTime": "2020-12-01T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Intel",
+        "domain": "intel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully.md",
+      "title": "As Algorithms Take Over More of the Economy, We Should Cede Control (Very) Carefully",
+      "excerpt": "As they proliferate, experts say, we need to make sure they don’t collude against us in damaging ways. Fears of malevolent artificial intelligence plotting humanity’s downfall are a staple of science fiction. But there are plenty of nearer-term ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
+      "originalUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/11/stocks-economy-algorithms-AI-1.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
+      "publishedDateTime": "2020-12-01T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021.md",
+      "title": "AI, 5G, and IoT top the list of the most important technologies for 2021",
+      "excerpt": "CIOs and CTOs say the biggest challenge next year will be dealing with recovery from COVID-19, according to a new study by the IEEE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "publishedDateTime": "2020-12-01T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-in-the-cloud.md",
       "title": "Amazon debuts Trainium, a custom chip for machine learning training in the cloud",
       "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
@@ -1017,169 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-servicenow-now-set-to-acquire-ai-focused-startup-element-ai.md",
-      "title": "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI",
-      "excerpt": "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01",
-      "originalUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp",
-      "publishedDateTime": "2020-12-01T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation.md",
-      "title": "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation",
-      "excerpt": "Baidu has been granted 2,682 AI-related patents and has filed a total of 9,364 AI-related patent applications as of October 2020, ranking No. 1 in applications for the third consecutive year. Baidu’s patent applications were followed by Tencent (8,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-deepmind-cracks-50-year-old-protein-folding-problem.md",
-      "title": "DeepMind cracks 50-year-old ‘protein folding problem’",
-      "excerpt": "Deepmind, the UK-based AI company and a subsidiary of Alphabet, has produced a solution to the grand challenge of protein structure prediction. The breakthrough could accelerate biological research, unlocking new possibilities in drug discovery and disease ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/14550/protein-concept.jpg?crop=0,0.21556387848522682,0,0.292863087806908&cropmode=percentage&width=1200&height=450&rnd=132513011150000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-cyber-security-cloud-launches-wafcharm-on-microsoft-azure.md",
-      "title": "Cyber Security Cloud Launches WafCharm on Microsoft Azure",
-      "excerpt": "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

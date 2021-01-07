@@ -201,7 +201,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-growth-and-forecast-survey-till-2026-2021-01-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1038,6 +1038,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-25-asia-pacific-machine-learning-market-size-share-2021-analysis-by-manufacturers-regions-type-and-application-to-2023.md",
+      "title": "Asia-Pacific Machine Learning Market Size, Share 2021 Analysis by Manufacturers, Regions, Type and Application to 2023",
+      "excerpt": "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "originalUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future.md",
       "title": "National Grid sees machine learning as the brains behind the utility business of the future",
       "excerpt": "If the portfolio of a corporate venture capital firm can be taken as a signal for the strategic priorities of their parent companies, then National Grid has high hopes for automation as the future of the utility industry.",
@@ -1393,50 +1437,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
-      "title": "Diving into Japan’s top AI/ML startups",
-      "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
-      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

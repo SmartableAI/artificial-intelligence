@@ -2,6 +2,145 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-28-this-woman-entrepreneur-aims-to-make-children-future-ready-by-introducing-them-to-stem-robotics.md",
+      "title": "This woman entrepreneur aims to make children future-ready by introducing them to STEM, robotics",
+      "excerpt": "Edtech startup Whizrobo, founded by husband-wife duo Dimple and Naveen Verma, offers products and training in artificial intelligence and robotics to the K-12 group.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
+      "originalUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/Untitleddesign16-1609060197399.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
+      "publishedDateTime": "2020-12-27T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-levelling-the-playing-field.md",
+      "title": "Levelling the playing field",
+      "excerpt": "IBM has been using AI in its HR processes for several years thanks to the creation of Watson, a natural language computer system predating Amazon’s Alexa, which can answer questions in a human-like way. IBM’s Andi Britt says: “We’ve been doing a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
+      "originalUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrmagazine.co.uk/article-images/image-library/138/screenshot_2020-12-22_at_18.49.06_f348cd83.jpg",
+          "width": 800,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-27T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HR Magazine",
+        "domain": "hrmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-deepminds-big-losses-and-the-questions-around-running-an-ai-lab.md",
+      "title": "DeepMind’s big losses, and the questions around running an AI lab",
+      "excerpt": "Guest Last week, on the heels of DeepMind’s breakthrough in using AI to predict protein-folding came the news that the UK-based AI company is still costing its parent company Alphabet Inc hundreds of millions of dollars in losses each year.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/",
+      "originalUrl": "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/",
+      "publishedDateTime": "2020-12-27T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-book-on-ai-to-combat-covid-19.md",
       "title": "Book on AI to combat Covid-19",
       "excerpt": "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added.",
@@ -867,6 +1006,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-25-asia-pacific-machine-learning-market-size-share-2021-analysis-by-manufacturers-regions-type-and-application-to-2023.md",
+      "title": "Asia-Pacific Machine Learning Market Size, Share 2021 Analysis by Manufacturers, Regions, Type and Application to 2023",
+      "excerpt": "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "originalUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-05.md",
       "title": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ) Shares Up 0.5%",
       "excerpt": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ)’s share price shot up 0.5% during trading on Tuesday . The company traded as high as $27.20 and last traded at $27.18. 47,403 shares traded hands during trading,",
@@ -1000,190 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime.md",
-      "title": "Why AI and security pros need to work together to fight cybercrime",
-      "excerpt": "Cybercriminals sometimes use AI to their benefit. In order to defeat these cyber bad guys, security pros and AI should focus on what they do best.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "originalUrl": "https://www.techrepublic.com/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/01/21590d4d-6013-4049-b3b1-d972e3d73979/resize/1200x/7b9a22c91ecb9318663b276bd819b0b0/ai-ml-2.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-ai-and-security-pros-need-to-work-together-to-fight-cybercrime/",
-      "publishedDateTime": "2020-12-24T09:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "publishedDateTime": "2020-12-24T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
-      "title": "Robotics company gets OK to charge money for self-driving services",
-      "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1",
-          "width": 556,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/579822.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php",
-      "publishedDateTime": "2020-12-24T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-an-ai-reporters-favorite-books-of-2020.md",
-      "title": "An AI reporter’s favorite books of 2020",
-      "excerpt": "Reading The Big Nine also helped deepen my understanding of what could go wrong if companies like Amazon, Facebook ... age of AI. While occasionally drawing on insights from their own research ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
-      "originalUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/My-Post-6.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/",
-      "publishedDateTime": "2020-12-24T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

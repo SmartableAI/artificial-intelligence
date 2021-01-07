@@ -36,22 +36,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The bias problem with artificial intelligence"
-    excerpt: "Artificial intelligence is a booming industry that is creeping into more aspects of our daily lives. But can computers discriminate? As advanced technology tries to make our lives easier, it can also cause a lot of harm."
-    publishedDateTime: 2021-01-04T20:20:00Z
-    webUrl: "https://www.mprnews.org/episode/2021/01/04/farrell-the-bias-problem-with-artificial-intelligence"
-    ampWebUrl: "https://www.mprnews.org/amp/episode/2021/01/04/farrell-the-bias-problem-with-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2021/01/04/farrell-the-bias-problem-with-artificial-intelligence"
-    type: article
-    provider:
-      name: MPR News
-      domain: mprnews.org
-    quality: 61
-    images:
-      - url: "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg"
-        width: 2000
-        height: 1124
-        isCached: true
 
 secured: "yoCCdFTpFHtz2M85rHHjFLINJZSRmAmxgkBnXf9K/bbuqTpFNAaneCifhLE51Zyd4lreL3QBtwbn30vzz0YwdUFAbOp9RR+SVoCgQ+f4Oz2bC67J3G43tI17T/mmJZj3uC3x1aKguxRA8toG0Jp35Oq+MECqlSnRzdMqict6CK9QISFAKdXzAlgjsFApURN7oaxfvp7/7onPom0P/g0zz+Th/xsIRWhJCdDQWY7yzs5Jvd3K4fyYK85vRyS+fYej8fF8axpKreQiphNJCVZuKceGttRnTLkfCpboMdZ2X/+5S88JB+VJwGtowNg6Gytk2CWYSdYHGRPUiMsHnez+uB5uB7m08BPAFgA2rTiTCd2JLJMkN8lQSERdFdQPEPTziieX3Lo95uDWtGHh2AXcJGyIxHaOVN/foZmN4TmYxf/feLrA/H5vq2U8dIBA8vtpcrO1yWuZdjWyEl6aG04F3AmgGEW29wyDSHy5xhsRpJ3hYnclbnb+F3vuX2ugPs8mTANWjlDwsu7luUi8Y8gqZA==;f7gCa2v86cD3pTmgwQVCKQ=="
 ---

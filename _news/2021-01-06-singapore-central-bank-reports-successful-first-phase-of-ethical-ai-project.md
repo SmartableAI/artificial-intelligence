@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/pressarticle/85615/singapore-central-bank
 webUrl: "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Finextra
@@ -24,6 +24,22 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "MAS completes first phase of AI ethics initiative"
+    excerpt: "The Monetary Authority of Singapore says it has successfully completed the first phase of its ‘Veritas’ initiative, which is seeking to tackle biases in artificial intelligence-driven financial services."
+    publishedDateTime: 2021-01-06T13:17:00Z
+    webUrl: "https://www.centralbanking.com/central-banks/financial-stability/micro-prudential/7729101/mas-completes-first-phase-of-ai-ethics-initiative"
+    type: article
+    provider:
+      name: Central Banking
+      domain: centralbanking.com
+    quality: 54
+    images:
+      - url: "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/article_copied_files/artificial%20intelligence-4.jpg?itok=GWxHE29K"
+        width: 378
+        height: 234
+        isCached: true
 
 secured: "ykreFACTIRqDOSHjUMgpjt9T9XMi9KwP5k8/g3d/ZRdflR1uAhKmtteTQG/p7T4my/otIUuV1fv0NSlUxFV7CoQ/Ugw5mUy2eML/4C1Fe7Y0DIMku1AD7iVjHfF4lBvXm+iwJelxnpFd2PkdqyifDu1PBgk14K/SYPlD6NM9Eduk6WMZu4nfQmmXp5VAwiggyPAUt3+fb11D+652yyS00mjrBypQJWi+AivgS+xW4fK3e26mfeRJTyY3Cl96UuD2+TjrCg9Xt9DECktYoXQN9cr8DfiVBwWkq6WRDj3lettkXQjNtC+ai3nVbXfhgDT0+iCPwFDaCydY+Hdh8ioUZDByyhVJKeCjMFgvBjWwo40=;FlS8oveld+PIrdMCplU72g=="
 ---

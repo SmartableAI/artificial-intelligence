@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-te
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DALL-E: OpenAI’s AI System Can Convert Words And Sentences Into Images"
+    excerpt: "OpenAI has developed an AI system that lays its foundations in GPT-3, DALL-E — capable of creating images from natural language texts."
+    publishedDateTime: 2021-01-07T14:44:00Z
+    webUrl: "https://techlog360.com/dall-e-openai-ai-system/"
+    ampWebUrl: "https://techlog360.com/dall-e-openai-ai-system/amp/"
+    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/dall-e-openai-ai-system/amp/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/01/DALL-E-OpenAI-AI-System.jpg?fit=1200%2C630&#038;ssl=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI’s ‘DALL-E’ Generates Images From Text Descriptions"
     excerpt: "E some instructions, and it can draw an image for you. Sometimes the renderings are little better than fingerpainting, but other times they're startlingly accurate portrayals."
     publishedDateTime: 2021-01-06T18:25:00Z

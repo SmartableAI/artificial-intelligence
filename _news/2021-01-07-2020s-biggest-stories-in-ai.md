@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-07T14:37:00Z
 originalUrl: "https://insidebigdata.com/2021/01/07/2020s-biggest-stories-in-ai/"
 webUrl: "https://insidebigdata.com/2021/01/07/2020s-biggest-stories-in-ai/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 related:
   - title: "Top AI-based Smartphones Released In 2020"

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2021-01-05/bringing-ai-to-pr
 webUrl: "https://www.bloomberg.com/news/videos/2021-01-05/bringing-ai-to-prothesis-video-kjka1flk"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The bias problem with artificial intelligence"
-    excerpt: "Artificial intelligence is a booming industry that is creeping into more aspects of our daily lives. But can computers discriminate? As advanced technology tries to make our lives easier, it can also cause a lot of harm."
-    publishedDateTime: 2021-01-04T20:20:00Z
-    webUrl: "https://www.mprnews.org/episode/2021/01/04/farrell-the-bias-problem-with-artificial-intelligence"
-    ampWebUrl: "https://www.mprnews.org/amp/episode/2021/01/04/farrell-the-bias-problem-with-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2021/01/04/farrell-the-bias-problem-with-artificial-intelligence"
-    type: article
-    provider:
-      name: MPR News
-      domain: mprnews.org
-    quality: 61
-    images:
-      - url: "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg"
-        width: 2000
-        height: 1124
-        isCached: true
   - title: "Bringing AI to Prothesis"
     excerpt: "\"My idea was, how can we make these devices learn over time from us, the same way we learn from our mistakes? How can prosthesis learn from the mistakes it makes as well?\" Meet the amputee engineer using AI to search for a better prosthesis."
     publishedDateTime: 2021-01-05T14:51:00Z

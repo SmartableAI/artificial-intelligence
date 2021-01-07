@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla"
+    excerpt: "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,"
+    publishedDateTime: 2021-01-07T15:40:00Z
+    webUrl: "https://www.entrepreneur.com/article/362902"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
     excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
     publishedDateTime: 2021-01-07T04:12:00Z

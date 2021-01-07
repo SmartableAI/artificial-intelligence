@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonpost.com/washington-post-live/2021/01/13/artifici
 ampWebUrl: "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp"
 type: article
-quality: 144
-heat: 144
+quality: 148
+heat: 148
 published: true
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3MYCH5NHFATBHOE3UOHHJL67Q.jpg&w=1440"
@@ -25,6 +27,6 @@ images:
     height: 810
     isCached: true
 
-secured: "L/P7UwTqrk11YzdiPPVuz2RbePVtvXpQVc9Q0bFxf3IJif+MLnyAVIMpsYk4uJ8IQTWxrT5q79g29sszkqucNWEmM2YDpKbfwPWaBVR3snhwc+6NNVnewbCP6qcKId5PrL4TvAVJOXj7vtlteBYNqh0HJZp7coQmVZzCYSe8+tfvMDk26z1/UOEE5hHAxFslYiL4koeaT2LoUJN3jkdmNL/ym5IpyyrTg9b+dRelIkiwuR5Rrqqv14dGwlAZ3MfnHU4xQlBYYHZzkkoKDa1GIG0xzmD0nc4ynAf8DBfPV9cwKhyb0OPPGqDoJTNBPHyF7z4wwp4o7LsLdRVU5u0+f04DGYxMmi/DSwffcsmXMcs=;u8eoQoVt2kiUR1CzC4v7UQ=="
+secured: "ZxHicp/7NnpGLpdeDJ3pVsm1MB39YdkYMdIJ0oxvaN4TcHzKXjwCoOml4gAf4igaFQ6+RxqVzDFNbDxjFu4FYwJyTFsMO6krnd623rbU6RBT5dIPY50pqUBMakS5dea3P+ubEF1d4CrTp8Iyz2iaKshwiY3Af6se1E9+FdSv4vR4o2DsX2yq762gzHkb0GdfVkN2AdLztOpLnZMHVQhRUfTOy6/m02QLM4WHsyec5Mm5BwMvoFeMszX5IuVYl+j2HW1jB7Yt7rt4XyuOaJp2Mp1pPUaiJagoYtvoVvP9wPU7edKfO8NW638AZz+yrHl4NB+TMQMiJDL8luJrZSndFpqCrZ80Vv1pRk3qV9H/M0nkbmWyo0eN2Wrv3w0s5Xrz;+3PzKAWb9KM0Q8uNAUq68Q=="
 ---
 

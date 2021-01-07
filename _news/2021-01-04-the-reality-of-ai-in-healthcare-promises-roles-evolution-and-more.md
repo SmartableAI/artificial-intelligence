@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-e
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This healthtech startup uses AI to assess health risks of expectant mothers"
-    excerpt: "Healthtech startup CognitiveCare's MIHIC platform analyses medical, clinical, genetic, radiological, social, and lifestyle determinants to predict early signs of maternal, infant, and foetal risks."
-    publishedDateTime: 2021-01-02T23:57:00Z
-    webUrl: "https://yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks"
-    ampWebUrl: "https://yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-powered-healthtech-startup-cognitivecare-maternal-foetal-risks/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 55
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/CognitiveCare-founders-1609321945526.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Natural Language Processing (NLP) in healthcare can explore the trillions of gigabytes of health information and web content"
     excerpt: "Healthcare companies have more access to data that can improve healthcare results. Natural Language Processing (NLP) in healthcare extracts critical strings of data and provides appropriate care management,"
     publishedDateTime: 2021-01-04T17:45:00Z

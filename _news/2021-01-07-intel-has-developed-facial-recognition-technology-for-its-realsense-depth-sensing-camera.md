@@ -123,6 +123,22 @@ related:
         width: 620
         height: 387
         isCached: true
+  - title: "Intel Launches RealSense ID, An On-Device Facial Recognition System"
+    excerpt: "Intel has launched RealSense ID, a new on-device facial recognition system that uses the company's RealSense 3D technology."
+    publishedDateTime: 2021-01-07T16:49:00Z
+    webUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Intel’s RealSense Finds A New Lease On Life As A Facial Recognition System"
     excerpt: "Intel debuted its RealSense depth-sensing technology several years ago where it made its way onto devices like laptops. Thanks to the use of"
     publishedDateTime: 2021-01-07T14:01:00Z

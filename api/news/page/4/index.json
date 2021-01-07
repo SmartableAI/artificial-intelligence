@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-05-artificial-intelligence-project-aims-to-find-new-uses-for-old-drugs.md",
+      "title": "Artificial Intelligence Project Aims To Find New Uses For Old Drugs",
+      "excerpt": "Medical researchers at Ohio State University have received promising results from a project that uses artificial intelligence to suggest new uses for old drugs. The team, led by D",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
+      "originalUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/14/artificial-intelligence.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
+      "publishedDateTime": "2021-01-04T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-building-a-secure-search-application-with-access-controls-using-amazon-kendra.md",
+      "title": "Building a secure search application with access controls using Amazon Kendra",
+      "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. Not only is it challenging for organizations to make this information available to employees when they need it, but it’s also difficult to do so securely so relevant",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1021-1.jpg",
+          "width": 626,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T15:20:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses.md",
+      "title": "Uber researchers propose AI language model that emphasizes positive and polite responses",
+      "excerpt": "In a paper, Uber and Carnegie Mellon researchers propose a language model that can vary the positivity and politeness of its responses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/",
+      "originalUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/chatbot_iq80hc.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/",
+      "publishedDateTime": "2021-01-04T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-how-some-companies-are-solving-the-issues-with-language-and-ai.md",
       "title": "How some companies are solving the issues with language and AI",
       "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
@@ -297,7 +443,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -800,7 +946,7 @@
       "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1073,156 +1219,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
-      "title": "Why robotics and language need each other",
-      "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "originalUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/istock-1127591787.jpg?itok=tVPxJFyv",
-          "width": 1260,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "cdnAmpWebUrl": "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "publishedDateTime": "2021-01-03T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity.md",
-      "title": "If Microsoft Can Be Hacked, What About Your Company? How AI Is Transforming Cybersecurity",
-      "excerpt": "The hackers are starting to use AI, and the only way to successfully defend against future threats is for your company to use AI as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0c3155de38b9230f6c8d2%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
-      "publishedDateTime": "2021-01-03T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-the-best-facial-recognition-security-cameras-of-the-year.md",
-      "title": "The best facial recognition security cameras of the year",
-      "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
-      "publishedDateTime": "2021-01-03T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
