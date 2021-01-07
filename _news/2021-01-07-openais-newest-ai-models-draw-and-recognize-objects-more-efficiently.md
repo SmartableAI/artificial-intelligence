@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-06T21:13:00Z
 originalUrl: "https://siliconangle.com/2021/01/06/openais-newest-ai-models-draw-recognize-objects-efficiently/"
 webUrl: "https://siliconangle.com/2021/01/06/openais-newest-ai-models-draw-recognize-objects-efficiently/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/openai.png"

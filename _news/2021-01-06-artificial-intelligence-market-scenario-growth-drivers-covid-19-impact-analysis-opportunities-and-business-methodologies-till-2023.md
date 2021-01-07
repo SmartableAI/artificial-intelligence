@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-06T14:48:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-scenario-growth-drivers-covid-19-impact-analysis-opportunities-and-business-methodologies-till-2023-2021-01-06"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-scenario-growth-drivers-covid-19-impact-analysis-opportunities-and-business-methodologies-till-2023-2021-01-06"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

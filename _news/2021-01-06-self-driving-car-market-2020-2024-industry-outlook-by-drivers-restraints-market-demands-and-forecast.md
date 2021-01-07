@@ -217,6 +217,22 @@ related:
         width: 620
         height: 327
         isCached: true
+  - title: "Waymo To Stop Calling Their Technology “Self-Driving,” Criticizes Automakers Who Do"
+    excerpt: "However, some companies use generic terms such as “self-driving.” Tesla is the most obvious example and they even admit “currently enabled features require active driver supervision and do not make the vehicle autonomous.” Safety groups have called ..."
+    publishedDateTime: 2021-01-07T00:12:00Z
+    webUrl: "https://www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://i.ytimg.com/vi/NJ3zuBjVLWo/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
     excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."
     publishedDateTime: 2021-01-04T13:55:00Z
@@ -259,16 +275,16 @@ related:
         height: 406
         isCached: true
   - title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
-    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving ..."
-    publishedDateTime: 2021-01-06T22:40:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
+    publishedDateTime: 2021-01-07T00:08:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: KVIA
+      domain: kvia.com
     quality: 39
     images:
-      - url: "https://keyt.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
+      - url: "https://kvia.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
         width: 500
         height: 281
         isCached: true

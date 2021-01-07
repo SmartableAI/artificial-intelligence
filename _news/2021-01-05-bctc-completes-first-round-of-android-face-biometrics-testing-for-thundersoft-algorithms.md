@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Bill to limit police biometrics use tabled in New York state as legislators struggle with facial recognition"
+    excerpt: "A state legislator in New York has introduced a curious bill to prohibit arrests on the sole basis of “facial recognition and biometric information”."
+    publishedDateTime: 2021-01-07T00:53:00Z
+    webUrl: "https://www.biometricupdate.com/202101/bill-to-limit-police-biometrics-use-tabled-in-new-york-state-as-legislators-struggle-with-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "DHS Tests Ability of Biometric Acquisition Systems in Identifying People With Face Masks"
     excerpt: "Preliminary test results of the third Biometric Technology Rally held by the Department of Homeland Security’s (DHS) science and technology (S&T) directorate in the fall of 2020 showed that biometric acquisition tools and matching algorithms were up to 96 percent accurate in identifying individuals with protective face masks."
     publishedDateTime: 2021-01-05T21:44:00Z

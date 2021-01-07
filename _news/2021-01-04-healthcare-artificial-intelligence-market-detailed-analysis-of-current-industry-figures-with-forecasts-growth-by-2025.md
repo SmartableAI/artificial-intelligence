@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
 type: article
 quality: 78
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Statistics, Future Plans, COVID-19 Impact Analysis, Competitive Landscape and Trends by Forecast 2023"
+    excerpt: "The global natural language processing is growing continually. The market growth attributes to the increased adoption rate of NLP technology across various industry verticals. Besides, the growing demand for M2M translation and increasing application areas ..."
+    publishedDateTime: 2021-01-06T14:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-statistics-future-plans-covid-19-impact-analysis-competitive-landscape-and-trends-by-forecast-2023-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

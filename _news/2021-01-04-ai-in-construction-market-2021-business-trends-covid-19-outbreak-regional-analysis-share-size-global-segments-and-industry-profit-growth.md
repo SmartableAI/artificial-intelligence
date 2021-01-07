@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Statistics, Future Plans, COVID-19 Impact Analysis, Competitive Landscape and Trends by Forecast 2023"
+    excerpt: "The global natural language processing is growing continually. The market growth attributes to the increased adoption rate of NLP technology across various industry verticals. Besides, the growing demand for M2M translation and increasing application areas ..."
+    publishedDateTime: 2021-01-06T14:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-statistics-future-plans-covid-19-impact-analysis-competitive-landscape-and-trends-by-forecast-2023-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "T1H80ChvQvpX8Tv+diJDJLxOmPtM4NuFXOmyCTApPAu56YNK5VbpbI5eXfoKLZKosiHrZpkYp2v3xlWBT8jWdbxAZl0HIhfuaaI0BGXMssFAXtIe509cGRzc1no5NLuoXAJD8wBnFukTbYPXIJyf3fkAmXNkyHtB4QGBn4lsZzZ2HAt0YwdDBgIoYfjeYndDoje6DkPEUg9TrzW9+JxnuBjvkIsLZkFRzCjFVdVwgbUnNmg/LRUkN3Okx5UL8LjXvg9/jcvnAVeUN1FiuJgzquD5nEpec3uPRrXek+W33Wzt991YIKR8SdX8Pz00DR9eKR/O68b6mDN+o3U78HfrPv8cI7RlHo5QMpL2IN/AS4U=;9jU/sHPknAG/waSD+NkRjA=="
 ---

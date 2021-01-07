@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Syntiant Introduces Second Generation NDP120 Deep Learning Processor for Audio and Sensor ..."
-excerpt: "IRVINE, Calif., Jan. 06, 2021 (GLOBE NEWSWIRE) -- Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced the availability of its ..."
-publishedDateTime: 2021-01-06T17:02:00Z
-originalUrl: "https://omaha.com/business/consumer/syntiant-introduces-second-generation-ndp120-deep-learning-processor-for-audio-and-sensor/article_b489819f-aa18-56cf-a29e-ba107a38adfb.html"
-webUrl: "https://omaha.com/business/consumer/syntiant-introduces-second-generation-ndp120-deep-learning-processor-for-audio-and-sensor/article_b489819f-aa18-56cf-a29e-ba107a38adfb.html"
+excerpt: "Syntiant Corp. is moving artificial intelligence and machine ... high performance, deep neural network processors for always-on applications in battery-powered devices, such as smartphones ..."
+publishedDateTime: 2021-01-06T23:22:00Z
+originalUrl: "https://omaha.com/article_b489819f-aa18-56cf-a29e-ba107a38adfb.html"
+webUrl: "https://omaha.com/article_b489819f-aa18-56cf-a29e-ba107a38adfb.html"
 type: article
 quality: 28
 heat: 28
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "wE+RhOh7nca8lZCb7XKgasVR31AxPQj92JBew9qy6HCeeUoZsgOa+o3sXW8A8kyajXaTMLKbRpidHPF1giWzH+c2cHHgeDCrTL7vHBLwkR+iruaGvaULGiAHc3YgXKzu1ybWgipge//xdegK33fEQMDUD7h7u+ZVxuh+7rF4oIFPX76KPl/6bqfkbWOjJy2f+5C0MjQw7aFGSG3rHxgh5ExB7rdjkWeqoZ4Ey+/HeUaM1wLyCqmBzUSXrGSoxtct9Ws2lovq3/s3qamNKw+g5o3sSH5SXVrGc0dskbocykq0v4mBMHsEM6apTNauXMTj17ld8sgjOj7yOonHwR0sY+rmR64MbzKHtoVo/rAAEOg=;1y3J2xkez/FV5k4RJRwObg=="
+secured: "sPe8oBOzpVzahRqTc9GOz847J/lD6+71FFSPsC8pFufM5UWdkfuNVBGY0qna8kbnv3ZkwAc67jb3XpmpywRXKC+8W0kyztbUPywJeAy5NO99mXb/DQed3dFBF7FmFYwlWVEAgGIdzfZQx7bew/TczRPvvJZ0V0HHQqKITp0YAtMTR8EUhDep0EOlD/moFnT65y37Qikj/JlEsp3L3WXlwTHRv3fF+AkmlmnY6m+1NyvaHhWpHx0ZgZ9QFh7eHalMlnfAecwAzXSi/OU6uzCvDXxc4bkrj8QxkMubn76a8rh+s50PBfPbZ+4RXhlXCyr0VfDN/Fzud77W/KUPY+lHnrJFpP8Fu83pBuXCjDTzZvc=;/08p9rTbo2Ah6c+v0Y6r4Q=="
 ---
 

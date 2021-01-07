@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
-excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving ..."
-publishedDateTime: 2021-01-06T22:40:00Z
-originalUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
-webUrl: "https://keyt.com/news/money-and-business/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
+publishedDateTime: 2021-01-07T00:08:00Z
+originalUrl: "https://kvia.com/news/business-technology/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+webUrl: "https://kvia.com/news/business-technology/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
+  - url: "https://kvia.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
     width: 500
     height: 281
     isCached: true
@@ -213,6 +213,22 @@ related:
         width: 620
         height: 327
         isCached: true
+  - title: "Waymo To Stop Calling Their Technology “Self-Driving,” Criticizes Automakers Who Do"
+    excerpt: "However, some companies use generic terms such as “self-driving.” Tesla is the most obvious example and they even admit “currently enabled features require active driver supervision and do not make the vehicle autonomous.” Safety groups have called ..."
+    publishedDateTime: 2021-01-07T00:12:00Z
+    webUrl: "https://www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://i.ytimg.com/vi/NJ3zuBjVLWo/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Self-Driving Car Market 2020 – 2024 | Industry Outlook by Drivers, Restraints, market demands And forecast"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2021-01-06T10:37:00Z
@@ -308,6 +324,6 @@ related:
         height: 512
         isCached: true
 
-secured: "t2uFRcmGYM5kfIwuGm6Te06HIv/8+J9Dl3SjsklgPFLE5p2Ln7vCFlnhfblhdyIYoYRYoQi8GkSxWjTn/Q1t+oBRGiuMGh3kYbFIgs9dQGEXCdikZBNh8qkLj5/rBr/f1QcfGHpsSqQJjLaTjK7NJ+bJjeQXgyw7oU8XY9v59X+YtxQ/tk5H8kw2z6N7R9ik5FWiSD3InefpGa1TDk7aKyGnjhi4WdLd0dYeGbZbvrINlYKWDnlnxEZe67Vn0ikmuyNucoEm9KyuUTzVLZOUvE9uJYOM/lQ5Po1dDtFBuNkVZA/FIvbqQUk7jA6Z7i5GtlnxrlY2tex3/GLBQ/Y6nB2UdUqP9xLrbxAW6OLHddo=;EasIVCtlFbRn5y3Es34YAw=="
+secured: "0rn4VQ3UAVUKEz5AI3BU6trDGOf6XfHuq1Z2jrHxfk3debOUdTavHCkcex5OT4mGMWijTFFB/Kopgin6Bp6rWNPf9pCCqaYb7C/E8h1qmckBFx44vy24jYjn3mF198dvKGmLr1+/mRH4Ur+RScPpg4VXBm5twzsHu5RSfd/ywvDNtboOIlrnsAbxjh9SAr+fZnT7Ei156fWpeRpaOrkmIUiYVUH5StXxJI56lqJE66I6LY4qeP0f/a0pjtVDD2tQuQRI72vAccIG/7k9IBDUTBMKbrOyrOX8/9ylsvpD1cAIArn5/x0PkE/4SbZL53w5kF2Gsogwxek+GeYgAGTed4rW2i3s5o2ZXp5B3pylA6E=;vXDcvl7jaYcEzATEVoCThQ=="
 ---
 

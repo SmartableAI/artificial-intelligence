@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Bill to limit police biometrics use tabled in New York state as legislators struggle with facial recognition"
+    excerpt: "A state legislator in New York has introduced a curious bill to prohibit arrests on the sole basis of “facial recognition and biometric information”."
+    publishedDateTime: 2021-01-07T00:53:00Z
+    webUrl: "https://www.biometricupdate.com/202101/bill-to-limit-police-biometrics-use-tabled-in-new-york-state-as-legislators-struggle-with-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "BCTC completes first round of Android face biometrics testing for Thundersoft algorithms"
     excerpt: "Bank Card Test Center completed its first round of testing for Android face biometrics products, testing versions of a ThunderSoft facial recognition algorithm"
     publishedDateTime: 2021-01-04T22:18:00Z

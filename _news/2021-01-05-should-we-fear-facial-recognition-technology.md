@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:
