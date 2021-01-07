@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size 2020 | Industry Report, COVID-19 Impact Analysis and Scope-2025"
+    excerpt: "Jan 06, 2021 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial ..."
+    publishedDateTime: 2021-01-06T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2020-industry-report-covid-19-impact-analysis-and-scope-2025-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market 2020 – 2025 | Development, News and significant Growth With Regional Trends By Forecast"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. The key players included in this market are [[24]7.ai, Inc., 3M, Abe AI Inc., Amazon Web Services, Inc., Apple Inc., Aylien Ltd., Cortical.io, DigitalGenius, Dolbey, Expert ..."
     publishedDateTime: 2021-01-05T09:40:00Z

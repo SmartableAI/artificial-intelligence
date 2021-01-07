@@ -107,60 +107,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark.md",
-      "title": "AI models from Microsoft and Google already surpass human performance on the SuperGLUE language benchmark",
-      "excerpt": "“There’s no reason to believe that SuperGLUE will be able to detect further progress in natural language processing, at least beyond a small remaining margin.” But SuperGLUE isn’t a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/",
-      "originalUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/",
-      "publishedDateTime": "2021-01-06T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language.md",
       "title": "Consumer-Like Employee Self-Help Requires A Bridge Between AI And The Semantics Of Human Language",
       "excerpt": "Whether completely remote, in the office with an abundance of safety precautions or a hybrid of the two, employees require immediate, personalized help 24/7.",
@@ -211,59 +157,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple.md",
-      "title": "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple",
-      "excerpt": "Latest released the research study on Global Mobile Speech Recognition Software Market, offers a detailed overview",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -924,6 +817,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
+      "title": "Google told its scientists to 'strike a positive tone' in AI research - documents",
+      "excerpt": "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/kqb50b/article33385595.ece/ALTERNATES/LANDSCAPE_615/google-three-lawsuitsjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece/amp/",
+      "publishedDateTime": "2020-12-23T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-reuters-reports.md",
       "title": "Google told its scientists to 'strike a positive tone' in AI research, Reuters reports",
       "excerpt": "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from company reviewers, a source said. The published version ...",
@@ -1449,6 +1385,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025.md",
+      "title": "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025",
+      "excerpt": "(MENAFN - America News Hour) Market Overview: The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101298104/Speech-and-Voice-Recognition-Market-Share-Trend-Opportunity-Affect-On-Demand-By-COVID-19-Pandemic-And-Forecast-2020-2025",
+      "originalUrl": "https://menafn.com/1101298104/Speech-and-Voice-Recognition-Market-Share-Trend-Opportunity-Affect-On-Demand-By-COVID-19-Pandemic-And-Forecast-2020-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327574",
+          "width": 444,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

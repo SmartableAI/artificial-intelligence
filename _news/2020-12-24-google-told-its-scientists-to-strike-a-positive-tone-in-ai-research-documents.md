@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Google told its scientists to 'strike a positive tone' in AI research - documents"
-excerpt: "OAKLAND, Calif. (Reuters) - Alphabet Inc’s Google this year moved to tighten control over its scientists’ papers by launching a “sensitive topics” review, and in at least three cases requested authors refrain from casting its technology in a ..."
-publishedDateTime: 2020-12-23T18:40:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUSKBN28X1CB"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research-focus-idUSKBN28X1CB"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X1CB"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1CB"
+excerpt: "Google's new review procedure asks that researchers consult with legal, policy and public relations teams before pursuing topics such as face and sentiment analysis and categorizations of race, gender or political affiliation."
+publishedDateTime: 2020-12-24T07:04:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents/article33408925.ece/amp/"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
-  - AI Ethics
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545593006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0QT"
-    width: 1056
-    height: 545
+  - url: "https://www.thehindu.com/sci-tech/technology/kqb50b/article33385595.ece/ALTERNATES/LANDSCAPE_615/google-three-lawsuitsjpg"
+    width: 615
+    height: 384
     isCached: true
 
-secured: "Jv5Q7Q/WzM3jfZraSaS7mj2Avb0jIkBgqzrVDAtkv5yIJfgOuDdjZMcQU8vdW+HoWWxPzvYQjdhfsJUGUwvxjvJfmgIChE7oW9RbGHq47CvimJ8m4Hih9Yut6jdng0Z8PSBFMxEEzrCtG+JmxIjHEiUNorCTKlAVB2b6rgXseU6Rnkb7lmMYrUI9mvIPnav+SMfJSqqM2yaZd7kS5ad6zya8LxTzST2SYHBUVmXQ8/jbKFpucaLxO4vBxtzpVt96Gzcomq92urLL61VOMEwrz5kLxCzB49IJLsKgp2wtM6jg16pLPUl7EkgURUHXJRb0Ke93Ysh6s1700pWLo2nvKHwNpDG0tZodoWXSCDcdMDlbp3d3DZfSqHKTeL6FXY9tGwlN4ZyGOZkZZWcrAlpCFHL0ytDQQ023K4O1dNI0zbL/S1jToG9Ili5sEl1sIficeNqyzI/5qbryQs6ks471wOEFbVnQXOcUIvHNb3LQwX+ugd1qettCmuGwySHzUsx10Ls77cZ7ru5CMGxIutagCA==;Hen8tw5Hfp+XBB9n8XAVMg=="
+secured: "yK3tXPceWe+4hVRa01t/EDuqqPwVw3ItBPGxqk6XbPPOVTVPDS1SRWyi3ejf7irMJKz158nU0RZbt/MvraWPZS4FVtAOdQHnPb08EQNcL52XZvaHLLMSmpNgtp/wMmjwB9wqtoV8ScVIDbOTV3NZzbZqkhRHD05CepRSSnTV/Zv589xCBiGcwfXqKzVeUgvib5YjHJ5ygS91qYqZaIg+UgjoF3NwLTABOpxF/W7LtZyuzrgQF3EK++0IRkx/EYpczHj99JcdwcKjRQxiNsJ/5xdSwEzJkhq9BLpPsJ8nOCM5BSzOz3NfNPy+9DTIiO2QsBJfypxl/9BtQtQb0QdNEI/MCK5BeV/hi4xlN5n48Uo=;NxQXMyQqiu/4tdbgDJ10nw=="
 ---
 

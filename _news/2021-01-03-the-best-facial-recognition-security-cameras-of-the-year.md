@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -197,6 +197,20 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 39
+  - title: "Intel adds facial recognition tech to its RealSense cameras"
+    excerpt: "Intel Corp. is transforming its RealSense cameras into a facial recognition system that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
+    publishedDateTime: 2021-01-07T00:12:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-cameras/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VAx5j7U1IJoo91Bq6kEW6Mew4AfBS40gC5Rsa69ZISf4O8RJZ8rcnLUjlLHzoiMR5oXayg0e3UONsAka9wyX+1OtNsh9wThIm0pXJXPIqjrIRSN3fTRfU2nj0ZtIwZ+vwDvryiAwpMQk7QfWb6IrCCX1pUkyzvPfsBVMmfNtDXXmZwVdkxrYM6dhY9AS853wyPMH4TwljM5sFvOPAdIrDZdcklsnwiZwfv6x1pE2x/tHPeGQiTsWWTPt/LkR3nhlD0khNzbXHQ+AVowHCk9PZqxlbitlsxFhDNO5LEmfa/lHsdoCk2VRVeBo/FCJPY+RNbQAdkk6cR4pfYlUDsp8da66zT2grsQIQFjEHnKq6X0qbhRsaghhwTRXFQmLvDuWAlpvRn8jbYU4q84LZzsNg1ENwzI8f7Z1rL5QUNcgtipPMhdW+O+CRvG5Vohffj90s9fv10rk+ADRchgMUT721WBhHQn86gB/fn+JWTmnmraALm9095U7QjnaqogXSp1Do8fRWoMV+2tyujZPAgW3Zw==;gN1pmOI6JSnX325HfJerKg=="
 ---

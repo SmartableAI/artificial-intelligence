@@ -2,24 +2,24 @@
 category: news
 title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
 excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
-publishedDateTime: 2021-01-07T00:08:00Z
-originalUrl: "https://kvia.com/news/business-technology/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
-webUrl: "https://kvia.com/news/business-technology/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+publishedDateTime: 2021-01-06T20:50:00Z
+originalUrl: "https://kesq.com/money/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
+webUrl: "https://kesq.com/money/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
+  - url: "https://kesq.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
     width: 500
     height: 281
     isCached: true
@@ -324,6 +324,6 @@ related:
         height: 512
         isCached: true
 
-secured: "0rn4VQ3UAVUKEz5AI3BU6trDGOf6XfHuq1Z2jrHxfk3debOUdTavHCkcex5OT4mGMWijTFFB/Kopgin6Bp6rWNPf9pCCqaYb7C/E8h1qmckBFx44vy24jYjn3mF198dvKGmLr1+/mRH4Ur+RScPpg4VXBm5twzsHu5RSfd/ywvDNtboOIlrnsAbxjh9SAr+fZnT7Ei156fWpeRpaOrkmIUiYVUH5StXxJI56lqJE66I6LY4qeP0f/a0pjtVDD2tQuQRI72vAccIG/7k9IBDUTBMKbrOyrOX8/9ylsvpD1cAIArn5/x0PkE/4SbZL53w5kF2Gsogwxek+GeYgAGTed4rW2i3s5o2ZXp5B3pylA6E=;vXDcvl7jaYcEzATEVoCThQ=="
+secured: "IN8KLnjiqNNFf6oedqQZx4OiQEqt8Zye+wh9FIj41qMpL0si6mv58qKh0duMiRAm7AoNQUTlpkZkNOs3B3XW31fMWQply7/yXX0OVeWGWLnCp3QHAYtiMSCKdWl2ikJIyo9cJi8Kyr9HKQ1ou4zSNJ3XqqnSQPdWw8D2oyhf5xDrp0UITnT72U2Pug5EIMthdzDlxsKRQZeuz47VKtnM6YrMNjlke3t75rY66Ml0ZnlWG3vtv5m9296px0Ct13weYFUsd24dXbO6xyDzLnHDtrNFSFui0ZSaEqqeFYR0ZhtRzzpKtItWNQ++rranhmEpO1liyH8Z0s5haoDqk5zfFdSoo8WMbnCRUxMu1eYpG00=;74auq0Jxs0DorjlXoCD8GQ=="
 ---
 

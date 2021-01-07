@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-ai-math-solver-app-qanda-emerges-as-no1-education-app-in-indonesia.md",
+      "title": "AI Math-Solver App QANDA Emerges as No.1 Education App in Indonesia",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEOUL, South Korea, Jan. 7, 2021 /PRNewswire/ -- Seoul-based edtech startup Mathpresso announced that its AI-based math ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1393974/Mathpresso_Indonesia_PR_Image.jpg",
+          "width": 400,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-this-stealth-startup-is-using-electrical-stimulation-to-help-people-walk-again.md",
+      "title": "This Stealth Startup Is Using Electrical Stimulation to Help People Walk Again",
+      "excerpt": "Some 33 million people in the U.S., or 1 in 7 Americans, have disabilities related to mobility, according to the Center for Disease Control and Prevention. Considered something of a silent health epidemic,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
+      "originalUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/f_auto,pg_1/adosm3mf3bvj0qcngv4v.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
+      "publishedDateTime": "2021-01-06T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-microsofts-new-azure-data-services-explained.md",
+      "title": "Microsoft's new Azure data services explained",
+      "excerpt": "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our Premium library. Enjoy expert IT analyst briefings and access ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/",
+      "publishedDateTime": "2021-01-06T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
       "title": "OpenAI's DALL-E turns weird text into weird images",
       "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
@@ -329,60 +485,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark.md",
-      "title": "AI models from Microsoft and Google already surpass human performance on the SuperGLUE language benchmark",
-      "excerpt": "“There’s no reason to believe that SuperGLUE will be able to detect further progress in natural language processing, at least beyond a small remaining margin.” But SuperGLUE isn’t a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/",
-      "originalUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/",
-      "publishedDateTime": "2021-01-06T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
       "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
       "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
@@ -422,49 +524,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops.md",
-      "title": "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops",
-      "excerpt": "“The pandemic has accelerated digital transformation across virtually every industry resulting in greater demand for skills in cloud, data and AI,” said Kevin Peesker ... By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888",
-      "originalUrl": "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1",
-      "publishedDateTime": "2021-01-06T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1060,59 +1119,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-introducing-azure-health-botan-evolution-of-microsoft-healthcare-bot-with-new-functionality.md",
-      "title": "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality",
-      "excerpt": "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/",
-      "originalUrl": "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg",
-          "width": 1024,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T00:00:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare"
       ]
     },
     {

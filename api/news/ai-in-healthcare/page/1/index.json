@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-06-introducing-azure-health-botan-evolution-of-microsoft-healthcare-bot-with-new-functionality.md",
-      "title": "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality",
-      "excerpt": "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/",
-      "originalUrl": "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg",
-          "width": 1024,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T00:00:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023.md",
       "title": "Artificial Intelligence (AI) in Marketing Market Will Generate New Growth Opportunities in Upcoming Year 2023",
       "excerpt": "According to Market Research Future, the Artificial Intelligence (AI) in marketing market has been segmented into",
@@ -267,7 +214,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -309,6 +256,49 @@
         "AI",
         "AI in Healthcare",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-the-reality-of-ai-in-healthcare-promises-roles-evolution-and-more.md",
+      "title": "The reality of AI in healthcare: promises, roles, evolution, and more",
+      "excerpt": "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "publishedDateTime": "2021-01-04T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

@@ -151,59 +151,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple.md",
-      "title": "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple",
-      "excerpt": "Latest released the research study on Global Mobile Speech Recognition Software Market, offers a detailed overview",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-should-we-fear-facial-recognition-technology.md",
       "title": "Should we fear facial recognition technology?",
       "excerpt": "The growing use of facial recognition technology has prompted calls for bans and stricter regulation around the world.",
@@ -793,7 +740,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1223,6 +1170,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed.md",
+      "title": "Forbes A.I. Awards 2020: Meet GPT-3, The Computer Program That Can Write An Op-Ed",
+      "excerpt": "Self-driving vehicles are now creeping into the mainstream while advances in machine learning are changing the way we write code and discover drugs. Here are the best products, the most intriguing people and the most exciting trends of a year in which A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/?sh=1de41af393a7",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdff97b0c3566fa06d16d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1880%26cropY1%3D0%26cropY2%3D1058",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

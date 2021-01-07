@@ -191,6 +191,20 @@ related:
         width: 1125
         height: 941
         isCached: true
+  - title: "Intel adds facial recognition tech to its RealSense cameras"
+    excerpt: "Intel Corp. is transforming its RealSense cameras into a facial recognition system that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
+    publishedDateTime: 2021-01-07T00:12:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-cameras/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "J2pCIT+gL8wm/M+eLwZ6mAo6xYV83S12LA40BYHttevg8buU1KOUgeVvym8f84aCO+QM04Km3+wLMb3WYPcxkgTx97lscpIBvzR4LFgSTAXGXwaSDUGCcys1T2fvLTrBUE7Vrl+B/sloQCrH4nzf2gwBMt1bkAH6qndP/HPULYGdOUicLTa/nMmyaidjXXpPr9N5QXG+vqgALV3Fz+S8l4xd0fPY3NTyHrcJ2S9GDBvFDri3DVsUh/0ffLMUsnmKcDR53K+QW4Jex9X/2VTCIam/yHzlm1iMtJNlSO+el30qUxrhpJ1MOVrymJyrNTkx3Y3U6ojfqmLtxzuiCrNeyUFd4dgoOpSenhyLzPAOpmvQzbqZpCcAt/00TL/XnEipKxeD1wNhmoy81u4I58mZjKBFP4hIBE1PdK/go72X2tdM+NwSVFAq7bVIyIW6QJuB0S4mRxdupMwvVni0nA071N987A0VNQvppIahgkzvA7quzQA7xaf7GUkZBjyYSjPhaUnhe4R5QIm4Jmd5X1wRvg==;XIIAL3gzLUyPoElLMZAZsA=="
 ---

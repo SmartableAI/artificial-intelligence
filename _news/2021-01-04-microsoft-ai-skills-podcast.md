@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft's new Azure data services explained"
+    excerpt: "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our Premium library. Enjoy expert IT analyst briefings and access ..."
+    publishedDateTime: 2021-01-07T00:56:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 119
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality"
     excerpt: "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement."
     publishedDateTime: 2021-01-06T08:00:15Z
@@ -43,21 +59,51 @@ related:
         width: 1024
         height: 437
         isCached: true
-  - title: "The reality of AI in healthcare: promises, roles, evolution, and more"
-    excerpt: "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?"
-    publishedDateTime: 2021-01-04T10:20:00Z
-    webUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution"
-    ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
+  - title: "AI models from Microsoft and Google already surpass human performance on the SuperGLUE language benchmark"
+    excerpt: "“There’s no reason to believe that SuperGLUE will be able to detect further progress in natural language processing, at least beyond a small remaining margin.” But SuperGLUE isn’t a ..."
+    publishedDateTime: 2021-01-06T19:06:00Z
+    webUrl: "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/"
+    ampWebUrl: "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple"
+    excerpt: "Latest released the research study on Global Mobile Speech Recognition Software Market, offers a detailed overview"
+    publishedDateTime: 2021-01-05T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+    excerpt: "“The pandemic has accelerated digital transformation across virtually every industry resulting in greater demand for skills in cloud, data and AI,” said Kevin Peesker ... By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft ..."
+    publishedDateTime: 2021-01-06T18:37:00Z
+    webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+    ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 70
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
@@ -81,6 +127,34 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
+    publishedDateTime: 2021-01-05T07:23:00Z
+    webUrl: "https://www.cxotoday.com/press-release/microsoft-powered-irctcs-ai-chatbot-askdisha-enhances-user-experience/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 54
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2019/11/Microsoft.jpg"
+        width: 4657
+        height: 3105
+        isCached: true
+  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
+    publishedDateTime: 2021-01-05T05:34:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
+        width: 768
+        height: 401
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -110,6 +184,29 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
+    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
+    publishedDateTime: 2021-01-06T06:03:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
+    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
+    publishedDateTime: 2021-01-05T12:23:00Z
+    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 29
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "“This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,” says Chief Partner Strategy Officer at Blue Prism, Linda Dotts."
     publishedDateTime: 2021-01-06T19:14:00Z

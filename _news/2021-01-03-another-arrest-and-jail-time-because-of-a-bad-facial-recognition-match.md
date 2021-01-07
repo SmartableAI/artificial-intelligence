@@ -192,6 +192,20 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 39
+  - title: "Intel adds facial recognition tech to its RealSense cameras"
+    excerpt: "Intel Corp. is transforming its RealSense cameras into a facial recognition system that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
+    publishedDateTime: 2021-01-07T00:12:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-cameras/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3qsK27e2BkZlTErhkP++TO58QB9qHPIH18lSD8J53g5r1Yos7zI9TPGrBNC6e9rYPqyIL56MSgGvhDpAxDflBkpjbqo9eA4w0AJ1Ipfbj2ev89V4Ts/X/FpH/ZVUWnBC7thxCs2ry4PwJjzUt5XUwDGdA3TrIosRm9YnP8mN22sMwvno8JrdMbS6ZpFgUJ3PQ9JDt/WDPrsYQdC4ymjUToZCBvt0e8rjaC6rFdXFpLI9uH6rfQv9kiBrYdpDY3Kzt8wn1UHw4rJq2MFppa4VRnA6gQ66qwVD+pHQ+tBWBKbiHI9wmfBmSN/kvKU4F8BVOpMAJaLtLu9JG89yjG+JeMvp/SyNpBpJ4sJxon269IY=;5ch0mPXExwG16fX9Alwxaw=="
 ---
