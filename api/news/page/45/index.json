@@ -2,6 +2,151 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-12-01-ai-reveals-vast-racial-inequities-in-nyc-homeownership.md",
+      "title": "AI reveals vast racial inequities in NYC homeownership",
+      "excerpt": "SAS and the Center for NYC Neighborhoods analyzed housing data to uncover insights that could help design programs that increase Black homeownership.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-30T173709.270-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/amp/",
+      "publishedDateTime": "2020-11-30T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-why-ai-is-the-future-of-home-security.md",
+      "title": "Why AI is the future of home security",
+      "excerpt": "Home security is booming. More and more of us have smart doorbells, alarms, and locks — but AI, together with the cloud, is set to revolutionize how these devices work. And much of it is down to ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/11/30/why-ai-is-the-future-of-home-security/",
+      "originalUrl": "https://thenextweb.com/plugged/2020/11/30/why-ai-is-the-future-of-home-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F11%2Fheader-image-AI-is-the-future-of-home-security-spotcam.png&signature=ed162b4b75cf6a9b5f14406280b8169a",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-c3ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite.md",
+      "title": "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite",
+      "excerpt": "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/",
+      "originalUrl": "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/",
+      "publishedDateTime": "2020-11-30T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
       "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
       "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
@@ -1015,144 +1160,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
-      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
-      "excerpt": "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
-      "originalUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
-      "publishedDateTime": "2020-11-30T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-brazil-trials-facial-recognition-with-retired-public-servants.md",
-      "title": "Brazil trials facial recognition with retired public servants",
-      "excerpt": "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "originalUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "publishedDateTime": "2020-11-30T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-ai-approach-could-solve-the-problem-of-roi-for-content.md",
-      "title": "AI approach could solve the problem of ROI for content",
-      "excerpt": "Every company has to be a media company, too. But figuring out what content marketing to produce - and measuring its impact - is a constant problem. An AI service from InPowered could offer an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "originalUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/28/3abcb41d-e908-4445-b0c3-81f96343775b/uncertainfuture.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "publishedDateTime": "2020-11-30T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

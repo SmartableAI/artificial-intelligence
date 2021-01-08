@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-08T05:07:00Z
 originalUrl: "https://www.wboc.com/story/43139559/commercial-services-market-analysis-shows-artificial-intelligence-being-used-widely-in-the-industry"
 webUrl: "https://www.wboc.com/story/43139559/commercial-services-market-analysis-shows-artificial-intelligence-being-used-widely-in-the-industry"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://EINPRESSWIRE.images.worldnow.com/images/20228238_G.png?lastEditedDate=1609999512000"

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Machine Learning, Real-World Data Find New Uses for Existing Drugs"
+    excerpt: "A machine learning algorithm analyzed real-world data to find new uses for existing drugs, accelerating the drug repurposing process."
+    publishedDateTime: 2021-01-05T14:34:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-real-world-data-find-new-uses-for-existing-drugs"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-509483224.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "YM4pzmKDmcgjANxMS6c8cP+p4s4KZQw8t1bOjFnSJsbzJbLLTCv3P+C/XXUkx8I7KD9KgRyR5JQAl94HCL5s+eX1QS9ahhRYWMpl1fwGs8r2yUqsu0SsVRNRnk/NMChWS1Xf0B9eSg6stZU5v/yCW6AcbemebOrCy/MFigYOj/YaKq8yGR2UMpeNytu+Lob4uzt6Tn0PF558nKui+vMM3NaFWT0OXJH9f4TA2A+e6R6khjln1WNp1x+jTGwZWW0ZDmcRXr2BfZ3kR0VGjoLCdHFFRtZa7Piw+fv0ROdDEYaRvK5pxpS/AhonttXM9h3bBXx5hHcFXL+Gz7o7UpsFRbTq2tkqaEaufWs1qW67Sj8=;yN/1cJOsjq4A/Bqhg2tCsg=="
 ---

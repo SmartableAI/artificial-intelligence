@@ -34,7 +34,7 @@ related:
     provider:
       name: WBOC
       domain: wboc.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://EINPRESSWIRE.images.worldnow.com/images/20228238_G.png?lastEditedDate=1609999512000"
         width: 900

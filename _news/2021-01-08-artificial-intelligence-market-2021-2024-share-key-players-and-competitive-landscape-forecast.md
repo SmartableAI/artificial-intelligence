@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-08T08:46:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2024-share-key-players-and-competitive-landscape-forecast-2021-01-08"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2024-share-key-players-and-competitive-landscape-forecast-2021-01-08"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

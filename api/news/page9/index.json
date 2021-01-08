@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-29-nuro-robot-delivery-cars-will-start-operations-in-california-in-2021.md",
+      "title": "Nuro robot delivery cars will start operations in California in 2021",
+      "excerpt": "Robotic startup firm, Nuro has gotten official approval to start its paid delivery service with autonomous vehicles. This much was revealed by the California Department of Motor Vehicles (DMV). Steve Gordon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "originalUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/nuro-2.png",
+          "width": 795,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-researchers-find-evidence-of-bias-in-art-generating-ai-systems.md",
+      "title": "Researchers find evidence of bias in art-generating AI systems",
+      "excerpt": "AI tools, apps, and platforms that generate artwork exhibit social and cultural bias, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/",
+      "originalUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ce701cf3-d857-4b1b-8075-f727d1aad8fc-e1609177599494.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/amp/",
+      "publishedDateTime": "2020-12-28T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-lg-instaview-refrigerators-get-voice-controlled-doors-for-2021.md",
       "title": "LG InstaView refrigerators get voice-controlled doors for 2021",
       "excerpt": "The list of kitchen appliances you can talk to (and reasonably expect some sort of response) gets longer, with LG’s newest – and fanciest – refrigerators adding voice-controlled",
@@ -492,6 +595,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use.md",
+      "title": "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use",
+      "excerpt": "Open-Source Software (OSS) project, \"SmallTrain,\" which generates user-friendly deep learning models for high accuracy and high functionality as a standalone deep learning library and as a wrapper for TensorFlow and PyTorch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201228ph33860/release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201228ph33860/release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg",
+          "width": 400,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1079,145 +1225,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-the-state-of-data-december-2020.md",
-      "title": "The State Of Data, December 2020",
-      "excerpt": "Data is eating the world and there are many indicators of its ubiquitous presence in our lives: AI, digital transformation, data monetization, and the effect of Covid-19 on the accelerated growth of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe7f42408a95af377c504ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/27/the-state-of-data-december-2020/amp/",
-      "publishedDateTime": "2020-12-27T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19.md",
-      "title": "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19",
-      "excerpt": "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19-11609068019869.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/12/27/600x338/Screenshot_(85)_1609068071742_1609068081441.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19/amp-11609068019869.html",
-      "publishedDateTime": "2020-12-27T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-ai-research-survey-finds-machine-learning-needs-a-culture-change.md",
-      "title": "AI research survey finds machine learning needs a culture change",
-      "excerpt": "Machine learning has a problem with data mismanagement and a culture where anything goes, according to a recent AI research survey.",
-      "sourceUrl": null,
-      "webUrl": "https://arxiv.org/abs/2012.05345",
-      "originalUrl": "https://venturebeat.com/2020/12/26/ai-research-survey-finds-machine-learning-needs-a-culture-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-26T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/fixing-section-230-tw
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/fixing-section-230-twitter-facebook-and-social-med/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "Machine Learning, Facebook Data Offer Insight into Schizophrenia"
+    excerpt: "Using data from patients' Facebook pages, a machine learning algorithm was able to accurately predict which individuals would go on to develop schizophrenia or mood disorders."
+    publishedDateTime: 2021-01-07T18:46:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-facebook-data-offer-insight-into-schizophrenia"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Northwell Health researchers using Facebook data and AI to spot early stages of severe psychiatric illness"
+    excerpt: "Study subjects with schizophrenia spectrum disorders and mood disorders were more prone to discuss anger, swearing, sex, and negative emotions in their Facebook posts, according to the study. RELATED: Northwell Health research arm develops AI tool to help ..."
+    publishedDateTime: 2021-01-06T18:55:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/northwell-health-researchers-using-machine-learning-to-predict-a-patient-s-psychiatric"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 21
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1609954525/2020_Feinstein%20Exterior_2.jpg?u5pfjKX7aIti0p3E16Co49MZQrxKSugP"
+        width: 1546
+        height: 1056
+        isCached: true
 
 secured: "PjtR93qX4p+tquPzeLnH+OXIve/d1yUafosyfl8I1gELLX8oVT3N6y0EVpeVkb4LiunnobCedG6Xh7UKdF9A7XcRBCJf2ySAqm9bMM1JrKrfEOgM42ZN51CB+lvX5TsiPCtykjGJhu/BWkzTcMLfeEE/MsQ5c/XBETtifAXpeaDnWr5deW/mipylre0y4DzrGVsc+ildn48XVDXEF4BLLrQsMHT/p/mFWZ+Zzpt3+9yhrBW6fZjLEqNlc07NoKsTmJvwEvsZZ5agfYBFSk3o1mkrdg9DLZJPoRPm8Yh012/nAELfvL32++nxXGp9i2de4ejFFBOt4NUaIyOpL6HLNJzJ3TD/B2PVbRrlep/ZvLc=;FNikbX10kCZeswg6H35sBw=="
 ---

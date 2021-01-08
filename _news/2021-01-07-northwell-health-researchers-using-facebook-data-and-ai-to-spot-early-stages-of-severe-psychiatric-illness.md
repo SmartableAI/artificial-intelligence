@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/tech/northwell-health-researchers
 webUrl: "https://www.fiercehealthcare.com/tech/northwell-health-researchers-using-machine-learning-to-predict-a-patient-s-psychiatric"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1546
     height: 1056
     isCached: true
+
+related:
+  - title: "Machine Learning, Facebook Data Offer Insight into Schizophrenia"
+    excerpt: "Using data from patients' Facebook pages, a machine learning algorithm was able to accurately predict which individuals would go on to develop schizophrenia or mood disorders."
+    publishedDateTime: 2021-01-07T18:46:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-facebook-data-offer-insight-into-schizophrenia"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Fixing Section 230: Twitter, Facebook and social media should be legally part of the public square"
+    excerpt: "Too often Internet platforms violate our privacy, arrogantly regulate speech and abuse monopoly power, but it is important to recognize what are and are not problems."
+    publishedDateTime: 2021-01-06T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/fixing-section-230-twitter-facebook-and-social-med/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/fixing-section-230-twitter-facebook-and-social-med/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/fixing-section-230-twitter-facebook-and-social-med/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 30
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/B4-morici_c0-1046-1800-2096_s1200x700.jpg?c80b2dc453c14ea5dc42b76751caa96798b3df4f"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "XB2YslIEZbQmPAlpkucnHBdVE2voBddNCB/t5z6GWcaxXTJM7PRMZuuBh9tWdaZuFEDSBKlfZ1TYanUx42qEeJHT+T39WUJyKDybpxyGceLi9YfqPm/rGSEnYJz4TwKkCCmSxlYc6VkjpJ2cjTkPTaguRonkLRQvu3pvAWYhMQ6v/uZACFtaSySSUWIIMxRghghOtBNl/cVRJA8OJdctTd8AtMMAwBJFUeU7YH2V/J8qW5935RLyVVVZFWTosnaCOSnttYNYxZbuzhaoH6vgG7IOwBVUjjTYIzWihmsuQ6wVhJ+6YlA0EruPpHrVFNA3PvYJDAOCTbb55k8E56NAVupkrJEXpFtAE+HlctyA1+t+qBpipk9NfdOX0c9sQgBE/kA4vxNXMU6TydycuIxBU8gm4Oa0xO/Uq4ohx9Q0VUkHWps4uNMQWs3/qGtHxUXL5URPcRxk/wY7K0tlCTpnX1u6bQBMvmKPeGetNnePSe4UOoJazZ2x6eF9bNYTxSCHx9ErVf4mDZ40vF4kb6NkBQ==;UBFN03keTXYFpRKRVvLItA=="
 ---

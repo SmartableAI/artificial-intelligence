@@ -24,6 +24,29 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Researchers unveil world's fastest optical neuromorphic processor"
+    excerpt: "Details have been published in Nature, and the breakthrough is seen as representing an enormous leap forward for neural networks and neuromorphic processing in general. Artificial neural networks can 'learn' and perform complex operations and are inspired ..."
+    publishedDateTime: 2021-01-08T10:48:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/researchers-unveil-worlds-fastest-optical-neuromorphic-processor/233440/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 24
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/233440/neuromorphic.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Scientists exemplify world's fastest optical neuromorphic processor for AI"
+    excerpt: "A Swinburne University of Technology led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence (AI) that can operate faster than 10 trillion operations per second and is capable of processing ultra-large-scale data."
+    publishedDateTime: 2021-01-08T09:58:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20210108/3687554.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Swinburne-led research team demonstrates world's fastest optical neuromorphic processor"
     excerpt: "A Swinburne-led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence. The neuromorphic processor operates faster than 10 trillion operations per second and is capable of processing ultra-large scale data."
     publishedDateTime: 2021-01-06T05:00:00Z

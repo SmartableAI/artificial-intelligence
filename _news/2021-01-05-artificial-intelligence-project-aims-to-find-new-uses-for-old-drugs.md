@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/artificial-intelligence-project-aims-find-ne
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Machine Learning, Real-World Data Find New Uses for Existing Drugs"
+    excerpt: "A machine learning algorithm analyzed real-world data to find new uses for existing drugs, accelerating the drug repurposing process."
+    publishedDateTime: 2021-01-05T14:34:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-real-world-data-find-new-uses-for-existing-drugs"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-509483224.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "FCujQH9jOGBXFXf7CzWj258xpjUqPOh9cm92gsm/XuiFbTUC5T9SiL+ibgy2ybKOwj6mCk8VCC8ipCguQaA5XBMAB/dogP8emmvzLee7LMx5vfa7dDSB4psLirLCfjGeCn47ta5O3H39d6VDCehp1P86bu8YFFFCpvuEloMchxcJ3nwHI86rTIDAyz2jGcjpR61aNkW9FmGp0o6KiAzHk0/JevYuk+k8ccFvXYidSMI/qvH0fyGVF+uc1aG2fR/ZgL+h5kde61VJL/EwKZDvUT591K0s66hImYjgyGDMqAM5rmBJV5UmiEUNDrvVFebstO45S+hmI9TSU6U0j16WIzNr9srLGMMPph7sD02BK04S2VJ9tr4IGb/VplCVZbO8VN2da1G8uPAxjUNfLIRBTdnvo7DqYfFPQxEJYz0YFjmLVu6tl2xYITXUnlCWeyZiLRcGXKJydfXhIONnQjST72/KXW+ykH9l1jAm7MQx6EoJGDECVEKYV+4d8Q6iJDkpgx5UWv37uGtOOniWkPW2tQ==;nEnUMl9y3rY9iz7ZKqZQWA=="

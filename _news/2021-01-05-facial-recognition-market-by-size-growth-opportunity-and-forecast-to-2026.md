@@ -109,22 +109,6 @@ related:
         width: 743
         height: 545
         isCached: true
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T22:20:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-japan-facial-recognit/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSL4N2JH1U7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
-        width: 743
-        height: 545
-        isCached: true
   - title: "How to Opt Out of Facial Recognition at the Airport"
     excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
     publishedDateTime: 2021-01-05T23:29:00Z
@@ -140,6 +124,20 @@ related:
       - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
         width: 5568
         height: 3712
+        isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T22:20:00Z
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
+        width: 800
+        height: 586
         isCached: true
   - title: "A Closer Look at Facial Recognition Technology"
     excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."

@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
+    excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
+    publishedDateTime: 2021-01-08T10:17:00Z
+    webUrl: "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum"
+    ampWebUrl: "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 74
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/01/struum.jpg"
+        width: 681
+        height: 383
+        isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to help Canadian students, graduates and professionals attain skills in data analytics, artificial intelligence and cloud computing."
     publishedDateTime: 2021-01-06T17:44:00Z

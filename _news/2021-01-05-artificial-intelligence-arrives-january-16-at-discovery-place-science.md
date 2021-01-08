@@ -23,6 +23,19 @@ images:
     height: 281
     isCached: true
 
+related:
+  - title: "AIxSPACE: a first step towards the transformation of the space industry by artificial intelligence, January 18 and 19, 2021"
+    excerpt: "The space industry is increasingly turning to artificial intelligence (AI) to push and redefine the boundaries of what is possible in space exploration. AIxSPACE, an event dedicated to AI applications in the space industry,"
+    publishedDateTime: 2021-01-08T02:34:00Z
+    webUrl: "https://gisuser.com/2021/01/aixspace-a-first-step-towards-the-transformation-of-the-space-industry-by-artificial-intelligence-january-18-and-19-2021/"
+    ampWebUrl: "https://gisuser.com/2021/01/aixspace-a-first-step-towards-the-transformation-of-the-space-industry-by-artificial-intelligence-january-18-and-19-2021/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/01/aixspace-a-first-step-towards-the-transformation-of-the-space-industry-by-artificial-intelligence-january-18-and-19-2021/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 26
+
 secured: "htPZ2LRIzokZUl3CvfiH+kNzwUkiwsqHPVkRJ6i5ChmaJLJFXS90juRIUkaMJh20Q1HpP9uYG0VF2013XwZOibKFvwNpP5lhYGXz542UuNQ8KfAMLY9jug+JxTo9DPVyBcFpS5sm9mx4SkhKeMAnfWKzDdkXllT1bzaSf9b/rpwnl2+pMaWbGo1EpbCiDzCSqfFfwj+bT8lTT5PlYmGRQI57o3L0ZmXOSwii1b9Qe1UFPaBIL85aghFDqDispU24deyzwYLirvHRxTMgs+47VGfvWJ19FmT+DgmAJQimUFBkUeqhzlnHZxjdqtS2gZl7lMbeJ3+TUu5LDORuV8JA5E1VYojGrTRPN8eMY3G3wa3hf/umsWi5AE8WUDql6eClMimLcbItRcqrgIkRQLinB5qjBDI0gJ7w1wC8P0dDztOdVc9BEVVKsb6vdDXQ8H77uKG9gULu+XdnLcfQbMcpL3w7GLUxhATPULvSHIn9YBqf/r4bAaUIbX7KZYXM3aQR7D18BAfY9npjeMbgncwMcw==;rMj1VXd8jxXPwiVhkksz8A=="
 ---
 

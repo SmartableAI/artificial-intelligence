@@ -2,6 +2,147 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-12-09-speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo.md",
+      "title": "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo",
+      "excerpt": "Various machine learning (ML) optimizations are possible at every stage of the flow during or after training. Model compiling is one optimization that creates a more efficient implementation of a trained model. In 2018, we launched Amazon SageMaker Neo to compile machine learning models for many frameworks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T17:27:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-viacomcbs-migrating-entire-broadcast-footprint-to-amazons-aws-cloud-exclusive.md",
+      "title": "ViacomCBS Migrating Entire Broadcast Footprint to Amazon’s AWS Cloud (EXCLUSIVE)",
+      "excerpt": "Those include AWS Elemental media services, Amazon Rekognition (AWS’s service that adds image and video analysis to applications) and Amazon SageMaker (AWS’s service for building, training ...",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/",
+      "originalUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://variety.com/wp-content/uploads/2020/09/viacomcbs-logo.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/",
+      "publishedDateTime": "2020-12-08T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
+      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
+      "excerpt": "BEIJING, Dec. 9, 2020 /PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/robot-ai-company-mech-mind-robotics-raises-close-us15-million-series-b",
+      "originalUrl": "https://www.asiaone.com/business/robot-ai-company-mech-mind-robotics-raises-close-us15-million-series-b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnasia.com/media2/1360985/mech_mind_product_map.jpg?p=medium600",
+          "width": 600,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-apples-self-driving-car-program-has-a-new-boss-report-says.md",
       "title": "Apple's self-driving car program has a new boss, report says",
       "excerpt": "Things have been pretty quiet over at Apple's self-driving car program, aka Project Titan, for a while now. With Apple being notoriously tight-lipped about future products, we don't know a ton about the program,",
@@ -1094,135 +1235,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-self-driving-cars-sector-struggles-to-stay-on-course.md",
-      "title": "Self-driving cars sector struggles to stay on course",
-      "excerpt": "Slower going may be the best approach. Uber is handing over control of its self-driving cars, and it's not, as they hoped, to the cars themselves. This week the popular ride-hailing company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
-      "originalUrl": "https://www.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dw.com/image/39371985_403.jpg",
-          "width": 940,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
-      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/self-driving-cars-sector-struggles-to-stay-on-course/a-55871988",
-      "publishedDateTime": "2020-12-08T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deutsche Welle",
-        "domain": "dw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
-      "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
-      "excerpt": "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery",
-      "originalUrl": "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-getting-started-with-the-amazon-kendra-google-drive-connector.md",
-      "title": "Getting started with the Amazon Kendra Google Drive connector",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To simplify the process of connecting data sources to your index, Amazon Kendra offers several native data source connectors to help get your documents easily ingested. For many organizations,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-google-drive-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-google-drive-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/07/ML-1811-1.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T09:39:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
