@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Diabeloop SA. and SFC Fluidics Inc. announce development agreement for the United States"
-excerpt: "SFC Fluidics Inc., developer of an Alternate Controller Enabled (ACE) insulin delivery pod and Diabeloop, pioneer in therapeutic artificial"
-publishedDateTime: 2021-01-07T14:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-1029940816"
-webUrl: "https://markets.businessinsider.com/news/stocks/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-1029940816"
+excerpt: "Diabeloop is developing interoperable solutions, based on a proprietary self-learning algorithm, for diabetes management. Both DBLG1®,"
+publishedDateTime: 2021-01-07T14:13:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-850192891.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-850192891.html"
 type: article
-quality: 25
-heat: 25
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "lxI8yzLzAjthp44t5lPixHJkBBRf3MnYRq+g3+SIxhyi3t3o4AlE+ysbEp7jc5rxAY4b6uh9iix1iDsvE8A3tegad4pn/76+V4cNKKiGdmmBvGrxg96PVmwjyxLILnISvbkiUcRkXzZopBC9v4V2mP8BRXuYV6GjSsZks7Eg6ZQpYOA5r16LPfx0JtC38D337lwli5hbC0CH2+rmUNCGiCQWK/m3Gw95xYY867w/OX4lRz+853SgmTMzRQ6tS5wBTmMkrfcJ21n2ddnb6DkRAeN5ePCj0PHqAFF6ewk5m49OFXPpHXRQY5tluUGgbPnd4gj3RcTC2e4SmWQiA+bJRNECBouFyM7p3JU0xSLMRkw=;6m4H2UNcPU1kzJzRb2kXFQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1396292/SFC_Fluidics_Logo.jpg?p=facebook"
+    width: 598
+    height: 315
+    isCached: true
+
+secured: "t3zoroxT2pHTj/iE7v+ZdHBg30wo1DwttXGuig65HQWcytQfOF/sLzrwpIeGPT86X6HWpaAys3AdLmaV6jqRVyRxT0qsS1uEJ57uA7CoeU43pifTFJsGEBgsSCdrENDz4q/AB4ao7QW0q3ljxIdX/ZEN33MaYVeyAISRhy2U2dqS8nCCz9WOooKDodsh7QOpSAVx1PhWN7IzHJOo48BafHmCTUDIe4CEMZT0lrcL+y43+fI00sD9QrRAup/V5G7ElECyttf6MMNf60tcUS2W2mqe8vjql/GCryTk4fccv/dbDvwn5OO8TUSgP2/kHrhFw8GKNKrVc62QDXbfcOkBLKKZRuz2unRnC8AeX4S43bA=;IAFVsabVUDwv1eAAmzKGHg=="
 ---
 

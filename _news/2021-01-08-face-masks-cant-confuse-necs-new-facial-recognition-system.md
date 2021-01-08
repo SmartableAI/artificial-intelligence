@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T22:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+        width: 743
+        height: 545
+        isCached: true
   - title: "Government Facial Recognition Can Identify 96 Percent of Masked People"
     excerpt: "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ..."
     publishedDateTime: 2021-01-06T21:32:00Z
@@ -93,6 +109,20 @@ related:
         width: 700
         height: 390
         isCached: true
+  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
+    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
+    publishedDateTime: 2021-01-07T22:05:00Z
+    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
   - title: "Japan firm launches facial recognition system that identifies mask-wearing users"
     excerpt: "Japan's NEC Corp had already been working on a system to meet the needs of allergy sufferers who wear masks.. Read more at straitstimes.com."
     publishedDateTime: 2021-01-07T07:50:00Z
@@ -107,19 +137,19 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "This facial recognition program can tell who you are even if you’re wearing a mask"
-    excerpt: "A Japanese company says they’ve developed a system that can bypass face coverings for facial recognition. Veuer’s Tony Spitz has the details."
-    publishedDateTime: 2021-01-07T18:00:00Z
-    webUrl: "https://www.usatoday.com/videos/tech/2021/01/07/facial-recognition-program-works-even-if-youre-wearing-mask/6578714002/"
+  - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
+    excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."
+    publishedDateTime: 2021-01-07T21:14:00Z
+    webUrl: "https://www.11alive.com/video/syndication/veuer/this-facial-recognition-program-can-tell-who-you-are-even-if-youre-wearing-a-mask/602-c6550d31-d5f5-41e7-b22e-4faec5bab6b0"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 33
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/58264d81-192f-4420-862f-ce8835467ee0_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://media.11alive.com/assets/VEUER/images/6688031b-cbcf-428d-891d-20bda669d7e6/6688031b-cbcf-428d-891d-20bda669d7e6_1140x641.jpeg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "UXug2btc8hCKdDXfXuZTpXA2l42dP64utwfUE1CQvlv53AD8Qy0lx8xZgTaFn3y88eYhP+gZMoSvZra6l7ejAPUKdOlt/B2OIEqr+38KPkx1XTmivbErWriMrjQ0w/QLr0Y6+UIg3XE/8FbE9sy9ku8TMuWH0Grv2gC4ODtCrQPahJC91neuUGfGaR26KzTlVaYz/EXj9D27XWRcEv2h8Uhb1viura+Ah4i5NgMYMjwUVgnV/X2Zc3y3sI8FhnvYBuApfBBXVZDEBsgURghv0Jo+qLGKlKn59zxI5CiLnEO8ivypDElZe3ZC4GgTm0i6Ip0ySrWQiI1I2Lt3nuVs9fxFiRFxUkOk8bhoV2tna+w=;ZGNSof7OlLaXAJGifxSRtA=="

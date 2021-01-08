@@ -88,6 +88,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Fintech trends that will shape the industry in 2021; The startup putting horticulture farming on autopilot"
+    excerpt: "COVID-19 was a tailwind for the fintech sector in 2020. And, 2021 is expected to be another great year, but with more innovation in play."
+    publishedDateTime: 2021-01-08T00:37:00Z
+    webUrl: "https://yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra"
+    ampWebUrl: "https://yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 26
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/fintech-16047451368311-1610034232154.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Big Tech Firms are Now Offering Fintech and Wealthtech Services in Singapore, but Startups are Also Launching Innovative Services"
     excerpt: "Kristal.ai is an AI-enhanced Robo-advisory service that offers personalized ... Wealthtech100 is an annual list that’s prepared and released by Fintech Global. It aims to acknowledge the efforts and performance of the 100 most innovative or promising ..."
     publishedDateTime: 2021-01-07T03:02:00Z

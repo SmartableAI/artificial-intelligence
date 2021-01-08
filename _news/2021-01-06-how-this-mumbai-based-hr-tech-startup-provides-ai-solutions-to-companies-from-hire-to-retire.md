@@ -25,20 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI & ML Disrupt Investing? This Mumbai-based Startup Is Showing How"
-    excerpt: "Founded in 2018 by Kanika Agarrwal, Nikhil Hooda and Atanuu Agarrwal, Mumbai-based Upside AI uses technology to understand, recognise, and buy companies."
-    publishedDateTime: 2021-01-04T05:32:00Z
-    webUrl: "https://analyticsindiamag.com/can-ai-ml-disrupt-investing-this-mumbai-based-startup-is-showing-how/"
+  - title: "How some companies are solving the issues with language and AI"
+    excerpt: "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved."
+    publishedDateTime: 2021-01-04T20:21:00Z
+    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Nikhil-Kanika-Atanuu-Co-founders-Upside-AI-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2021/01/04/ee84d7c1-5b90-4316-b794-a0c7bf0a33ee/resize/1200x/9ac461c9047dc9ffb635e89c3641aafb/istock-889309652.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Digital.com Announces Best Artificial Intelligence Companies of 2021"
+    excerpt: "Digital.com, a leading independent review website for small business online tools, products, and services, has announced the"
+    publishedDateTime: 2021-01-04T05:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n18993686/digital-com-announces-best-artificial-intelligence-companies-of-2021"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18993686"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18993686"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "ubGlNsREpxyPOXkSyM6be14NUx04RJJL6PMHfHlDjoEon/Q0NfGbo1KVKFC+ClrTUOZv/dSsVk+Jke788kEy7e1h/3Yq4T5fimBsBdVoOZt9E2MeVkXEuQiH/GRDC9akT6maQPG7Q4MDgXuGCHeB5UGOAIDxuAhccQp3ZAeqJLfsQDulHOhB4i+c3NlVsyOMWt42X/i7GVJ00qcC2PahRQEHR2Viw68VmSvkzV/rghbRCfjAK+ViWISydbo1oYwByBq31ucztdt6wBbL/+dqBKb9/mw13kHq7SFWRB4yaZhKsCkO8vY+IXdCWOgzdgWosWsUXRe68E5mVVSwicPLXWKcjDHFMr279Uc44w4vrGD9UDqvjQoAT2PXpyOu/aUbALjUcmbCtuJPfGBs2zzMcfjRL8pG33+yMEB7maHf3/0AjG/MVaRhKT0wxnf5oAxMurFdZrYNSgV+LZKP42K6tFag1c7ulMamr37nHeeAISIrFpU37GrfYCzGvooyhQ5sbdm/BeYCgpwQKmYkLe/MvA==;eSKtpV9rhhccWPXptyz9Ig=="
 ---

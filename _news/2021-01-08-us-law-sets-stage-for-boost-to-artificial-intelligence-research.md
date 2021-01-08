@@ -3,8 +3,8 @@ category: news
 title: "U.S. law sets stage for boost to artificial intelligence research"
 excerpt: "The National Artificial Intelligence Initiative Act (NAIIA) of 2020, which became law last week, aims to bolster AI activities at more than a dozen agencies. Its directives include a study of how to create a national research cloud that would build on CloudBank."
 publishedDateTime: 2021-01-07T20:41:00Z
-originalUrl: "https://science.sciencemag.org/content/371/6525/112.full"
-webUrl: "https://science.sciencemag.org/content/371/6525/112.full"
+originalUrl: "https://science.sciencemag.org/content/371/6525/112"
+webUrl: "https://science.sciencemag.org/content/371/6525/112"
 type: article
 quality: 37
 heat: -1
@@ -48,6 +48,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "BdyoDS6pnE0KKOEOhX93YMXyR0CL8rrWjcV+FjqwcQd+m4o1kN+n74XEk6HvRHzwAGEUiM5KAsB8E92shnhLOhMWIglCP+YUMAiHe2rCfsZC0XPosO8elVIufayWNBQPwZQgje1PqESezF41nZlqriA9/mBmoNY5LAnzW1cRH61g8Q7z2iNCtNwbWbAa1+5UQzXr/wwQfIH3kUUT1cB2TPS1T9WXdQpzPJxV41xYE5BPeHJh6XdOV4f37Isi/1ejmiJnwT35PBbhrH0YqzqSrM4pwZJ0GmTKeTgbD4JMe5zSABm02dUdluGHwXz8KY/JzWV+sncrPYS4xzLaabWRvEI6xEMiTD3lhrFmVZ6Hee4=;65g+ju/4HXhOePpOrNwxfQ=="
+secured: "7zVOj/tH+tOmf3uAXayW+NklyHtVCV3iaBBUok9+1xGtghVCl5AGA9lP6Ozg863GYw+gQdGmEh9Mx899wUPWlBtTyGG+4XdJP3jMVrS4cS+iiUa5+alA8V9muTtLi8hpvDHr8zdmMIKeeqbr/wXluQX6BOTK+mbQIxjDRMoXlliZlPgkKnWPe6gT2TXdodX1eUigdLdQdiERb2S8dHwSEJe1wJmNa9haWIMKALul3R/tqWa/NNzS2YXryS6n86I+jCXlhz6nWqSGfTX3mBtNqyIUUW+m4nvXRKkDkVdLQ9GwkWsLxKApGYdgVWVq2LxBm8O5/LBH0qhwBgPkQq2vqfL8QFWC/R4VVZvBWV24l90=;R1NNPJaDhH8HrttzF5eO1g=="
 ---
 

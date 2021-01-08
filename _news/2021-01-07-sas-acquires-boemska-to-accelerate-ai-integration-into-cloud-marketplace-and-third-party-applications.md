@@ -1,59 +1,45 @@
 ---
 category: news
 title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
-excerpt: "Strategic expertise and leading innovation The assets and operations of Boemska – a small, UK-based technology company with an R&D center in Serbia – will be integrated into SAS. The company is a well-established SAS technology partner whose global customers include SAS customers in financial services,"
-publishedDateTime: 2021-01-07T13:40:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
+excerpt: "SAS, the global leader in analytics, announced today the acquisition of Boemska, a privately held technology company specializing"
+publishedDateTime: 2021-01-07T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sas-acquires-boemska-to-accelerate-ai-integration-into-cloud-marketplace-and-third-party-applications-301202585.html"
+webUrl: "https://www.prnewswire.com/news-releases/sas-acquires-boemska-to-accelerate-ai-integration-into-cloud-marketplace-and-third-party-applications-301202585.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1250367/sas_midnight_blue_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
-  - title: "AI in Manufacturing Market Sales and Revenue by Companies, Regions, Type and Application till 2027"
-    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
-    publishedDateTime: 2021-01-07T10:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07"
+  - title: "SAS acquires UK firm is bid to accelerate artificial intelligence in cloud efforts"
+    excerpt: "Looking to speed up artificial intelligence incorporation into data analytics and cloud computing as well as devices such as wearables, SAS today disclosed the acquisition of UK-based Boemska."
+    publishedDateTime: 2021-01-07T13:20:00Z
+    webUrl: "https://www.wraltechwire.com/2021/01/07/sas-acquires-uk-firm-is-bid-to-accelerate-artificial-intelligence-in-cloud-efforts/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 33
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Financial Analytics Market Key Manufacturers, Development Trends and Competitive Analysis 2024"
-    excerpt: "The global financial analytics market is expected to register a CAGR of 10.4% during the forecast period to reach USD"
-    publishedDateTime: 2021-01-07T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-key-manufacturers-development-trends-and-competitive-analysis-2024-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
 
-secured: "B+rNTwczHtOmkysKtUUYNCzEm2KO/E4TF0Wa3okpnVzCWOfoUPFLejZINOqQc1REJQ4b7KFQQOpXbs5pI/BapCPBO0fv5Ldv5Ol+jZzyN9lyT2MQ9ecus64tSgXBuTZMaUvnu9SGLLXEwmDEE+E5Oy7J6DYBNCextoyF2la+tJ97kpiXeOvEArqTahxYCn2BIZ8nY4l+rujPwWW4X7BQgw4QVCiisOGrYKP44C0rI2WTEjH8Pi1ciTqgxGxj3cj3lh1+wx5TxaX9iYDy45+i3MnUG+6LQP1s4Y9Zv/qET9ff8kPipMpgW7CtdrBxn5CthjVB2TQ81HR1ir3+qJj+tbiG85lvWARbX76FHBq7nS0=;PTzz0O23X+X5+QcSAJm5yQ=="
+secured: "DUZ5HPll7NM0hhlgNevN36r8JkYC3z8St0bF67FAA1nOOT7vdJjOfH8AUacU5GI1x27UT2YGtvKojcQLxi4OQeXnSDrcJpUuiYMmn7TgyOfv9Zl8vJPuJFP9Y3Uph95w39/1cB5qKuotyL9nPEn+zV2DpofdUbrwM28hJEg3hXOr8pxhxZT8VTshyxNNThnSuz3OSPfYF0MRgd3T76bY/95RWyVAMTS5S3kFXchjNlx73cNSV0PqQKhtJ0cZGdWBONjQg7pfUGdEkvtkxN6BTncR1VgVMgFVw7PYYXWTkiXUdPtroY/iej29KJj725/KdhszzSzNKsKnZlNskyhlUCmyYfTxeSJiEvYWVZWR+dI=;sCRcssrTRtZa/WMJCPEwjQ=="
 ---
 

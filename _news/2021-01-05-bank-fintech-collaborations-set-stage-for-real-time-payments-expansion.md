@@ -79,6 +79,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Fintech trends that will shape the industry in 2021; The startup putting horticulture farming on autopilot"
+    excerpt: "COVID-19 was a tailwind for the fintech sector in 2020. And, 2021 is expected to be another great year, but with more innovation in play."
+    publishedDateTime: 2021-01-08T00:37:00Z
+    webUrl: "https://yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra"
+    ampWebUrl: "https://yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 26
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/fintech-16047451368311-1610034232154.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
     excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
     publishedDateTime: 2021-01-07T15:16:00Z

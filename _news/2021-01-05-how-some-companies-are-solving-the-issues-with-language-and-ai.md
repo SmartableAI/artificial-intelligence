@@ -3,12 +3,14 @@ category: news
 title: "How some companies are solving the issues with language and AI"
 excerpt: "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved."
 publishedDateTime: 2021-01-04T20:21:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: TechRepublic
@@ -22,6 +24,12 @@ topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2021/01/04/ee84d7c1-5b90-4316-b794-a0c7bf0a33ee/resize/1200x/9ac461c9047dc9ffb635e89c3641aafb/istock-889309652.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
 related:
   - title: "Digital.com Announces Best Artificial Intelligence Companies of 2021"
     excerpt: "Digital.com, a leading independent review website for small business online tools, products, and services, has announced the"
@@ -34,7 +42,21 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "How This Mumbai-based HR Tech Startup Provides AI Solutions To Companies From Hire To Retire"
+    excerpt: "We got in touch with Prasad Rajappan, Founder & CEO, ZingHR to know more about his startup story and their focus on AI."
+    publishedDateTime: 2021-01-06T06:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-mumbai-based-hr-tech-startup-provides-ai-solutions-to-companies-from-hire-to-retire/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 28
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/ZingHR-Team-scaled.jpeg"
+        width: 2560
+        height: 1218
+        isCached: true
 
-secured: "8eJqiJH5R2gCOtXDRA0TuxKML74dT65BLNu0ZP4nu1aS3vfSkDBN7exzWOCPx4yjRA/MqqXIDF2qv635P8AsqltAWz3xvsaVMIOZ86paGcRX0uWpE2fMTQO/29hEw0pnKhxOl3UZF3nwt09ZcvkETpalXaz5UcpInX08UkTtrOHq4Uru033m5gKWgNPWqaj3an/0/K6CyID5qk5ULxdahJHK7Pb27y3rWeiJ/n+GJSdmcbVb/m2GX1IRfwHQoGYRNCJwIcUblPgilEGy45cUqrqxGWFSkOBWh49SVeZ09TU8907slKhSFBRL0oQkkbKFoUT1OcmNrNbFztpuxXnHcNggaQcs5FBRlnxNnzaoSOjY6QfISGVxrU7U8/3KoXlM7cQtnI9XFevdKymZFwPOEvn8ZySF8+6ty/NBYQHWm0tIe0dYOcl53rtBdPV6uJJN7axibANUqPuDykwTLQrwK9rPdG5OlXxJxqv/lXbUZ/t4+bedX+Be7qOt4Hu3NbxnGmOjiFYv456h2BC8avEPyg==;SnLQ273NAD7fU6/HZUsOpg=="
+secured: "dZoVVV6v9UGc7jHYLYCeyfFldfGl1XavAaj3Vu8OINmHTbxXnVo8hj9cebUHJMFYrCvzM/jnCwYhUDQh9+j97kr5ZbTHdv7lud2uQp9LfiWKHPgP6drVSDOp2in7rpr3hEzp4ZzTfOin22i7K+fNwP2UnxJM1AfPP0WKnZqqdgl+/6iLojTOXk1N0NgarawVkP1rSQ9uomdg3XoH+tLKdWSPgWHITitNQ0x0LbD3a6yBkIWb4YS9PIpDVC5HH+EGjgltXkDOyWFjCYpHAxBNfABZKUJOcvkR799Tffs4HS4RFZVqc1DJG88aHoMv8nLm73g9Do9XfDV6a+9GdX/FoRdOPsv0g0bta6p9SoDWWLY=;StOUS6S08eLSTYPkFS9dCw=="
 ---
 

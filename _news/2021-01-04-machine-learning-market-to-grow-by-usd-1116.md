@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market is Expected to Grow at USD ~18 Billion by 2023 With CAGR of ~19%"
+    excerpt: "Market Scenario Market Research Future (MRFR), in the new report on the global neural network software market 2020"
+    publishedDateTime: 2021-01-07T23:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-is-expected-to-grow-at-usd-18-billion-by-2023-with-cagr-of-19-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "At 29.8% CAGR, Artificial Intelligence in Construction Market Size is Expected to Exhibit US$ 1649.7 million by 2025"
     excerpt: "Jan 06, 2021 (Market Insight Reports) -- Selbyville, Delaware, Growth forecast report \" Artificial Intelligence (AI) in Construction Market size by Product Type (Solution and Service), By Application (Project Management, Field Management, Risk Management ..."
     publishedDateTime: 2021-01-06T20:35:00Z
