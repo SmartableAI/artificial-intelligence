@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-government-business-and-finance-military-technology-government-contracts-5f1ee90e2da041b5bbd2dca41db0f3e2"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "DARPA’s On-chip Terabit Laser Communication Program"
-    excerpt: "American Institute for Manufacturing Integrated Photonics (AIM Photonics), a program of NY CREATES gave $19 million in research program awards for advanced integrated photonics under The Defense Advan"
-    publishedDateTime: 2021-01-03T23:15:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-03-at-3.07.33-PM-1024x695.jpg"
-        width: 1024
-        height: 695
-        isCached: true
   - title: "DARPA Taps GrammaTech for Artificial Intelligence Exploration (AIE) Program"
     excerpt: "ReMath Program Focuses on Automating the Analysis of Mathematical Models in Cyber Physical System Binaries for Maintenance and Modernization GrammaTech, a leading provider of software application security testing research and products,"
     publishedDateTime: 2021-01-07T08:01:00Z

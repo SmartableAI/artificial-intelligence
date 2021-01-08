@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This startup uses AI to power security cameras"
-    excerpt: "Bengaluru-based OurEye.ai, founded by three SRM University students, provides AI-based real-time monitoring for cameras installed by companies"
-    publishedDateTime: 2021-01-04T00:15:00Z
-    webUrl: "https://yourstory.com/2021/01/startup-ai-security-cameras"
-    ampWebUrl: "https://yourstory.com/2021/01/startup-ai-security-cameras/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/startup-ai-security-cameras/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/b3bfb136ab5e11e88691f70342131e20/Imager2pr-1608386626976.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "iYX11/5gfRCm5Ecp0uZ7W1FAMdEuYQZx3QYMRe6aw2xPhVyZqcTPpX/ZW5aj64n6wDEWHl6hn+VvLyM3tvbSGVhoN6PptrrRv6FDuc3HTYTCpQyeIcAJrX69SlERfSdU4TUul4qRiijC+p6CUjdG6YC1MuT50BkL7WBcIfvlDct226pI+qy3d4D+O4fLJ0eoUDSyBBvzd1V2AKjBQ0IU7tUbB3KcXwWCyQmLGxzCYFF2SJdtt5AaLrMPxOhlaRNmxQ1L8tP78+FB77KBDLxlHMrGiWkw867yhmnOcKapPVcgo9c3Lur82HYDuFMzNwslrrpQ7hMWXD0yVWIDbQsNiggKP/fXgGxINJx10CePrlbk2aPQoomelpYr/zwx+uLok3/enJ4J32CbTwshanPGqIrG5KX8uRflBQnSPpIhIkKI81pS896vhOr9qv9F8DYW/HUpY+wnHjILBwXoNfKQY4MRHBPESGsHZicdyZVeCG7jznQnWf+PmnQSoS5Pvb9SpXkoWyFJA4qzx2BOs4he9Q==;2tvATMFoFbscraksIMKJlA=="
 ---

@@ -2,6 +2,136 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-24-omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader.md",
+      "title": "OMNIQ AI-Based Machine Vision Safety System Selected for Security and Protection of a Non-U.S. Government Leader",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-50-plus-biggest-aws-announcements-from-reinvent-2020.md",
+      "title": "50-Plus Biggest AWS Announcements From re:Invent 2020",
+      "excerpt": "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0261-106238be6393-16ccc5ad5fc4-1000/aws-sign.jpg",
+          "width": 609,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-reflections-on-my-2020-predictions-for-ai-dl-and-ml.md",
+      "title": "Reflections On My 2020 Predictions For AI, DL, And ML",
+      "excerpt": "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
+      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
+      "publishedDateTime": "2020-12-23T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-google-told-scientists-to-use-a-positive-tone-in-ai-research-documents-show.md",
       "title": "Google told scientists to use 'a positive tone' in AI research, documents show",
       "excerpt": "The company requested authors refrain from casting its technology in a negative light in at least three cases",
@@ -1043,152 +1173,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ibm-providing-ai-solutions-to-government.md",
-      "title": "IBM Providing AI Solutions to Government",
-      "excerpt": "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services ...",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/whitepapers/2021/01/ibm-watson-providing-ai-solutions-to-government-010121.aspx?tc=page0",
-      "originalUrl": "https://fcw.com/whitepapers/2021/01/ibm-watson-providing-ai-solutions-to-government-010121.aspx?tc=page0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/~/media/GIG/FCW/FCWlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T19:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Federal Computer Week",
-        "domain": "fcw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-chinese-autonomous-driving-startup-weride-bags-200m-in-funding.md",
-      "title": "Chinese autonomous driving startup WeRide bags $200M in funding",
-      "excerpt": "WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the next-generation level 4 driving",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
-      "originalUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/weride.jpeg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
-      "publishedDateTime": "2020-12-22T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-elon-musk-says-apple-ceo-refused-talks-for-tesla-at-us60-billion-amid-reports-apple-is-to-enter-driverless-car-market.md",
-      "title": "Elon Musk says Apple CEO refused talks for Tesla at US$60 billion amid reports Apple is to enter driverless car market",
-      "excerpt": "This week, Apple’s stock has climbed, while Tesla has slipped on a Reuters report that Apple is aiming to produce a driverless ... driving technology and artificial intelligence focus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/23/0bc60ba4-44c5-11eb-be92-09cd005df0bf_image_hires_101925.jpg?itok=0DSgdTBW&v=1608689972",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "publishedDateTime": "2020-12-22T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

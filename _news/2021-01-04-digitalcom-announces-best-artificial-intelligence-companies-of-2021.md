@@ -23,9 +23,9 @@ related:
   - title: "How some companies are solving the issues with language and AI"
     excerpt: "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved."
     publishedDateTime: 2021-01-04T20:21:00Z
-    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
     type: article
     provider:
       name: TechRepublic

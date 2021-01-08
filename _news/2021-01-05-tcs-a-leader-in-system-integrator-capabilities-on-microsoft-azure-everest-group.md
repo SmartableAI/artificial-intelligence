@@ -49,6 +49,22 @@ related:
         width: 1024
         height: 437
         isCached: true
+  - title: "Microsoft launches Azure Health Bot"
+    excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
+    publishedDateTime: 2021-01-08T16:29:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Microsoft's AI model has outperformed humans in natural language understanding"
     excerpt: "Microsoft's DeBERTa model for natural language understanding has outperformed humans in SuperGLUE benchmarks, defeating Google's model which just set the previous record a couple of days ago too."
     publishedDateTime: 2021-01-07T09:48:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
-    publishedDateTime: 2021-01-05T15:40:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
-        width: 1199
-        height: 674
         isCached: true
   - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
     excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
@@ -200,6 +200,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "Microsoft extends reach into healthcare: 13 things to know"
+    excerpt: "Microsoft launched significant healthcare products in the last year and deepened existing partnerships to support healthcare providers during the pandemic. Hospitals across the U.S. use Microsoft's cloud service,"
+    publishedDateTime: 2021-01-08T14:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-extends-reach-into-healthcare-13-things-to-know.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
+    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
+    publishedDateTime: 2021-01-05T13:15:00Z
+    webUrl: "https://www.imdb.com/news/ni63147427/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 54
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
     publishedDateTime: 2021-01-05T07:23:00Z
@@ -271,18 +299,18 @@ related:
         height: 400
         isCached: true
   - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
-    publishedDateTime: 2021-01-05T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
+    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
+    publishedDateTime: 2021-01-06T06:03:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 31
     images:
-      - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
-        width: 1460
-        height: 766
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "YD8gSnRbAiRk/yQNfQn8VbFQoNo31BQTn27AM+QpdyVXobQX+iSb7uSK4QKayUYBK74p1xJ9POEQLr7CM9TDO/iiJ020i8e4VcyTewATLQbH3X5AjZsIxx9Fr1h7HqdqWFLFbrK0wrX1nB5oCCAxgzm9IEY8joCj9voYVSNwtVzEduq9AYqF+DluVc9ecxxo3J4kKKlUP+a39uWv0H4MgtsoPxtWOjEQ52OYGxca1UpF5dode/yxV4qM+UCPStxsQg40Q1kxdQQDtW4uQrjPkrq5J46Pm7nSojdxBrPkIe2ePQKISKrlBLwgBRMQUyYu1QJVB8H+/KGiTCx4MN2gedZ35zFFFqndtKLhTn1YJTOayrxY1ypoQZ0Tt/T9uC35JPx+r+v5uWG0h65pEeRdy/xDUSq3ZTH4d0RatUmHU508UQK8hjoY8R1Clk0OA0GNXGcQxDKsQBvw+ORM7Vr9McFoQPstCNkq54uE5z29xfy9aPJUeeiqe/7NnyCLTFVTr0Q+sC76sbBwld7lsDM6vA==;IiRTFSfLYpmv7uX+Nk1N2w=="

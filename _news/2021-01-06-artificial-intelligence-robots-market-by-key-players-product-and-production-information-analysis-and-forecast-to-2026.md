@@ -178,7 +178,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -209,6 +209,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Robotic Vision Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook Until 2023"
+    excerpt: "Market Research Future published a research report on \"Robotic Vision Market Research Report – Global Forecast till 2023\""
+    publishedDateTime: 2021-01-08T16:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotic-vision-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2023-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Search and Rescue Robots Market Report 2020 - Global Growth, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Search and Rescue Robots Market - Growth, Trends, and Forecasts (2020 - 2025)” report has been added to ResearchAndMarkets.com’s offering. The Search and Rescue Robots Market is projected to grow with a CAGR of more than 20% during the forecast period."
     publishedDateTime: 2021-01-06T10:17:00Z

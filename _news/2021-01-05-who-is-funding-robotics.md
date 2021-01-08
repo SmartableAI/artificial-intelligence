@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Seoul Robotics launches ‘breakthrough’ perception software platform"
+    excerpt: "Seoul Robotics​, a 3D computer vision company using AI and machine learning to power the future of mobility, has made its formal debut in the US market with the launch of its first commercial"
+    publishedDateTime: 2021-01-08T15:10:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/08/seoul-robotics-launches-breakthrough-perception-software-platform/39375/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/seoul-robotics-Discovery.png"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
     excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"
     publishedDateTime: 2021-01-08T06:55:00Z

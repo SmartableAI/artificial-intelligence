@@ -111,22 +111,6 @@ related:
         width: 743
         height: 545
         isCached: true
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T22:20:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
-        width: 743
-        height: 545
-        isCached: true
   - title: "How to Opt Out of Facial Recognition at the Airport"
     excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
     publishedDateTime: 2021-01-05T23:29:00Z
@@ -142,6 +126,20 @@ related:
       - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
         width: 5568
         height: 3712
+        isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T22:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
+        width: 800
+        height: 586
         isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
@@ -300,6 +298,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "HdONq5LRzcWjqbIzytSI+gK3fsimMWE4rj7PMpW15wrTl4VSGK6T0xduSqcaXtW3sJA5RxsK3bt8VrINIB1kYkvIg4dSJm3ICiETFmE/WK00FRF3CroF9BxUgEwikjmgswjOy/vuct5Lv/Os+TjEEKbReoHpxigW5+RV70Kn42Yn5kf7+0Tq//nt+AyJJ1Yy6SZ5PI2SDIOYJXz08l+6zqydZQP5tveqcemsXYI+MNlj5lXeOZXYnAXqd5toxUvj3R9uJrdTfEqWhQZbE2Dk8ZMzgfdEO5xJ7adMDHdRcMGLiysnr/sHgmkZ+L9UXzwKW8fNDidKtlzQa0dMMCocefuyBZDiu+NcVH/tJ++whl0=;ipsSKIqmpjXIBYi4RU9Rcg=="
+secured: "iRye3f2UhaY6PD3IX1cf3RZk1YzufTNJQR+ouzJ+wJqkaVSwcwkoGrzKNtNQqjcesgqxY+VOYNJ4Bsb+SsjNJUXdQ5/vKKsWSqkWCyKzPq/+vgYuUj1C6qnLxHoxkg5s6mbVATeezxjM1IL5h2En3aU5hcv1/qUtNxOHzRPXmy8AAuqrUYI9gSvkMbF62NMynbXK4CZdWk6OfxSlPbA27WPa9mCeEAD+7ztsSQwmWUrL2FcVC4kcBHwt3aRT+dAt++e7iVqtvzMv/inR6U2/vJ0hIcckM+ZiTiwdZXjwLT32Wx3GXq3X3rPfexXe8vThHhekdVjZOxhg1whl9jLp1tBMwpCysGb2C5IuTrwd5aUqaaIieC5QeYrbe8qKn5fVJ0h7HJUfIyRzgb3AMRrmf6UlipY3XWQQ3eMwSARYsNc378wMf+67ldSei/dXEBvRyAQznMChp4I2LBW32FIOf6wxHHL7Iqt8YPCR8JfnAxlcW2OOcvftoSwCPgfjXVd9jD3vZRZEUrDXoeGIcx7m/Q==;A46YDOxgh3axcejJmWeZFA=="
 ---
 

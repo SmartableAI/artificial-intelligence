@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/banner.jpg"
         width: 1600
         height: 1200
+        isCached: true
+  - title: "Seoul Robotics launches ‘breakthrough’ perception software platform"
+    excerpt: "Seoul Robotics​, a 3D computer vision company using AI and machine learning to power the future of mobility, has made its formal debut in the US market with the launch of its first commercial"
+    publishedDateTime: 2021-01-08T15:10:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/08/seoul-robotics-launches-breakthrough-perception-software-platform/39375/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/seoul-robotics-Discovery.png"
+        width: 800
+        height: 800
         isCached: true
   - title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
     excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"

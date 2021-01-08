@@ -183,7 +183,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -198,6 +198,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robotic Vision Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook Until 2023"
+    excerpt: "Market Research Future published a research report on \"Robotic Vision Market Research Report – Global Forecast till 2023\""
+    publishedDateTime: 2021-01-08T16:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotic-vision-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2023-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

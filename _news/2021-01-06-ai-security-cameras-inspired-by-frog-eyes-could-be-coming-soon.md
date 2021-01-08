@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-b
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "This startup uses AI to power security cameras"
-    excerpt: "Bengaluru-based OurEye.ai, founded by three SRM University students, provides AI-based real-time monitoring for cameras installed by companies"
-    publishedDateTime: 2021-01-04T00:15:00Z
-    webUrl: "https://yourstory.com/2021/01/startup-ai-security-cameras"
-    ampWebUrl: "https://yourstory.com/2021/01/startup-ai-security-cameras/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/startup-ai-security-cameras/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/b3bfb136ab5e11e88691f70342131e20/Imager2pr-1608386626976.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "An AI Storm is Coming as Analog AI Surfaces in Sensors"
     excerpt: "I worry that when writing these columns, I sometimes start by meandering my way off into the weeds, cogitating and ruminating on “this and that” before eventually bringing the story back home. So,"
     publishedDateTime: 2021-01-07T12:18:00Z

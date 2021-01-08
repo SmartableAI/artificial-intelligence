@@ -20,19 +20,14 @@ topics:
 
 related:
   - title: "Light-carrying chips advance machine learning"
-    excerpt: "An international team of researchers found that so-called photonic processors, with which data is processed by means of light, can process information very much more rapidly and in parallel than electronic chips."
-    publishedDateTime: 2021-01-06T17:23:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-lca010621.php"
+    excerpt: "Researchers found that so-called photonic processors, with which data is processed by means of light, can process information very much more rapidly and in parallel than electronic chips."
+    publishedDateTime: 2021-01-06T21:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210106133027.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/252840_web.jpg"
-        width: 720
-        height: 295
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "ZKMsPWzMRLWgL1E3eR+fKiwc/AR1bXfoNe+Hlj9/EVhNyX6HNUQa5FalOOdRtyMNsPAw90MG44f4RfuLDeP60mbVABGjSkku/2z7aHonGxJAHYYM0x+F0qZCRWfyRx88418E1P2BQTMKOPZjCQWCNzpZq6h68Lq8hCYCIVWr9mcEIzile3SmR6NFl87EhMDse5M0IaWvGp8KOgF+mMcQC5gs/ijbchPf0774v+JIQ83TbFo1SX4HMFR10Ijsocv1Cq+/YPaeHHypaTPi2pJKE+Epi50FMpMgej5XNd++jl0C7sa5CJxW0YG7se+KIbaSnxI/oYhqotughJdw1bAXkgw3k5ccVd45uKgpfeP6P7k=;QHqLonN08scBQYq/9EiYQQ=="
 ---

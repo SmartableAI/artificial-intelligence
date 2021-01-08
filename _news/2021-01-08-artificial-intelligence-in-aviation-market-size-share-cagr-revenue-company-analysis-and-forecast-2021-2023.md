@@ -168,6 +168,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market 2021 with Strategies to Boost Growth, Manufactures, Types, Applications, Status and Outlook to 2023"
+    excerpt: "Comserve Inc. / -- While AI robots have been a technical masterstroke, different innovations have been attributed to disparate players, leading to a diverse set of standards The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-01-08T15:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Report Size & Share Global Industry, COVID-19 Impact, Trends and Forecast 2020-2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, The Artificial Intelligence Market is estimated to record a significant growth throughout the forecast period."
     publishedDateTime: 2021-01-08T08:46:00Z

@@ -39,15 +39,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
-    excerpt: "SAS, the global leader in analytics, announced today the acquisition of Boemska, a privately held technology company specializing in low-code/no-code application deployment and analytic workload management for the SAS ® platform."
-    publishedDateTime: 2021-01-07T15:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-acquires-boemska-to-accelerate-ai-integration-into-cloud-marketplace-and-third-party-applications-1029940495"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "E8h2aalNNe7luAd8WJ5ck98q87oCx4h8xFXQTF97Ht5dqGRNp/KWBEcNdU+qRbrFxdbA03/ZrGzFjm4LJle7x7WgkY38ZaivL6VGTFbJhCF0MnAnbqi33QtNLK4RqXwOcZCNpjpwj9WYVsOc9kZUmrlv+7QbLJnwvwnU+KPZjRAjImgeDb1YcjDY01uipS7D4zY1bZ+FH9HVlwWmuwjjCFwSn3MrhoeuKRJBJyuwIHNkgAzR9NWkTpC3Yzj+nKf+1X+vPaSBzoSEd/fC56WAynModSLgCHYdLdCo+mlQsvSS/KUN017vVdnQwp8mOXf/0aMTqPLqZ1+QdCubLLJJcLiX+/m+jf7QuxLa637z+SE=;Pb0mi3cs1Q5Si2/PYJ50pg=="
 ---

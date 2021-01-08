@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-09-is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks.md",
+      "title": "Is neuroscience the key to protecting AI from adversarial attacks?",
+      "excerpt": "Deep neural networks are a key component of computer vision applications, from video editors to medical software and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-01-08T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-robotics-continues-to-gain-strong-momentum-5-stocks-in-focus.md",
+      "title": "Robotics Continues to Gain Strong Momentum: 5 Stocks in Focus",
+      "excerpt": "Robotics technology is constantly gaining steam in the fast-paced world on the back of robust demand for automation, which increases efficiency and ease of work, and saves both time and labor. Further,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08?amp",
+      "publishedDateTime": "2021-01-08T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-robotics-etf-botz-beckons-as-pertinent-post-covid-idea.md",
       "title": "Robotics ETF BOTZ Beckons as Pertinent Post-Covid Idea",
       "excerpt": "Put robotics in the conversation among disruptive technologies that are navigating the pandemic with aplomb. The investment concept is gaining traction as a post-pandemic idea, but with vaccination rates still – hopefully a temporary phenomenon – and case counts rising,",
@@ -96,7 +181,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -524,7 +609,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -911,7 +996,7 @@
       "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -964,7 +1049,7 @@
       "originalUrl": "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1082,102 +1167,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021.md",
-      "title": "Five real world AI and machine learning trends that will make an impact in 2021",
-      "excerpt": "Experts predict artificial intelligence (AI) and machine learning will enter a golden age in 2021, solving some of the hardest business problems. Machine learning trains computers to learn from data with minimal human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295",
-      "originalUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1",
-      "publishedDateTime": "2021-01-07T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
-      "title": "EV Dreams Power Baidu but May Not Last",
-      "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-281927/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "publishedDateTime": "2021-01-07T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not"
+    excerpt: "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors."
+    publishedDateTime: 2021-01-08T16:47:00Z
+    webUrl: "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/nJGNyKYO-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Hyundai Motor Says It's in Early Talks With Apple to Develop a Self-Driving Car"
     excerpt: "A local report from the Korea Economic Daily that said Apple suggested the tie-up and Hyundai Motor was reviewing the terms."
     publishedDateTime: 2021-01-08T02:51:00Z

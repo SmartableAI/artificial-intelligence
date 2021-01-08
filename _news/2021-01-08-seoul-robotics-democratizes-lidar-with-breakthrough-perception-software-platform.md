@@ -55,6 +55,20 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Seoul Robotics launches ‘breakthrough’ perception software platform"
+    excerpt: "Seoul Robotics​, a 3D computer vision company using AI and machine learning to power the future of mobility, has made its formal debut in the US market with the launch of its first commercial"
+    publishedDateTime: 2021-01-08T15:10:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/08/seoul-robotics-launches-breakthrough-perception-software-platform/39375/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/seoul-robotics-Discovery.png"
+        width: 800
+        height: 800
+        isCached: true
   - title: "The First Law of Robotics: A Robot May Not Injure a Human Being..."
     excerpt: "The Three Laws of Robotics were introduced to the viewing public in ... If you are just getting started with AI, you may want to start small with RPA solutions that assist with data handling and \"mechanical\" or repetitive tasks. If you are a bit further ..."
     publishedDateTime: 2021-01-05T00:00:00Z

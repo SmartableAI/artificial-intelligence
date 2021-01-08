@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-08T14:08:00Z
 originalUrl: "https://www.pasadenanow.com/main/caltech-professor-to-explore-artificial-intelligence-how-it-works-and-what-it-means-for-the-future-in-upcoming-event/"
 webUrl: "https://www.pasadenanow.com/main/caltech-professor-to-explore-artificial-intelligence-how-it-works-and-what-it-means-for-the-future-in-upcoming-event/"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/01/YisongYue.width-450.png"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "IcLqRUs1lzW/cLlJJd001eWtTAFUU+d3aNzrtj/p1zKTXFQatfegVsqq6ttVYNH4f6mbkrD6RINUkhxkW98k2TwMzuR3LGF4knRjcI1DLyTdZcKx5jtsP1IKQ56UDfOPjcfdBnrHMJA6K4z2lyYh4PFLGD0xB4xRSVbhwVn7ARD1Beh51yMYgRAgZE+BEuxaRNGida7o6Huz5sIpZhIr73x+3JisyGXkFuDw4Q8yDMkzV85n0XCDZtrFpMEETig6+ZluzeaOj3qf6C6/bgyu0A5esR+q0LzrVJ5j7lJdITlkvfB6RH8X4tFr2nmAhucfo7b7hXTXNNUhx5cNQnRqmAYBksHdbqaJ92fCzvVwSQM=;POEFosAQA64CzMhn4GuJ+A=="
+secured: "qeLIOHEvgzbaC4FAuJLQ1vufiSL4u/J8OVvwO0mGDPcwA39pCAUW/KbbLiwvIdH6hGmMeU1DmfFEsLls5Sem7J0lSi9/ac1Kj4RTM9N24IhzokcEJ7xL83m2vJOTSms7QBsI54mkdZQX2Ynt/EWcjImhp2mr4wFyOlG8LAQRtiKa9+coLfhNbZ4Mv1N1wpFlbi/FcxsZp0NzsXGb234w9XBFyYTxkSF4GGeXcOgi4AATVEvWEPonJXUhgJrsS1BJUBrCLBKUDNKhg2IkKVn/FM33GivL2WoKZ3cHO3Kv1pFqCYrFzSITyvutfgAMlFLdlbXWlm5CnVTGbdz6ycz4hd+3yuJRprMEOCVfA8NPahW6Mik59Qedho/sExFUWWVvXaLxDtwWYbHN5hRwUNcQV/4Y+VAEvVQHqc7r6HCHrOX18ovMDzLiQug7Su94CksNy5yrdYQuHARZPe7di3Cfc9s2T/r1PzctjdtTO890nJvPOnJc0asyMfHNjDTDXvIpxYWHQg/gFqRvFNDO9XMiuA==;Y74zy4fJltqbh4Ct+CiOnw=="
 ---
 
