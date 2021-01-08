@@ -212,6 +212,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change\" report has been added to ResearchAndMarkets.com's offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists, marketers and senior management with the critical information they need to assess the global hr advisory services market."
+    publishedDateTime: 2021-01-08T12:53:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-hr-advisory-services-market-report-2020-covid-19-impacts-growth-and-changes--/article_72324fed-fb0c-52dc-a36d-f5591fba7bb1.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
 
 secured: "UqerzUhtVLiRkL2WVXww8ZbYxnmy2yXkq9pDud9IoR6iJgO/BVzUnWIZ6kpBRNi5ntU3wLKLW/voxbgHDqSLio6n2cHZ2Yd/odJmTzaSUvOJSvxlf9uxNqZvBiVnhOB6M4aXSLSOaQhPUcf1TzauAGjtHybVwse87j798zPWalrvsH3LLVxU4ywKKVrz46rKPeTHiHpzTnShm3GzSEZbM9F10VEq66E4psuUtFbuG2xpCzEhfqx9Ajk1+60g+uDwQ0mJJMndtq80eUmUPZC5r0dwXCAHkpc4jnGa9h6W3ntXSXSM5ghelAVkm2IjdfvkYE4PL6OmNN569TOY6AoIMHAJZ/Ze65iyFANkX+OupQA=;Mg8dgdpXlGw1eV71EAsBhA=="
 ---

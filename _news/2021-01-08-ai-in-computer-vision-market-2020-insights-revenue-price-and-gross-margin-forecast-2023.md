@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08"
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change\" report has been added to ResearchAndMarkets.com's offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists, marketers and senior management with the critical information they need to assess the global hr advisory services market."
+    publishedDateTime: 2021-01-08T12:53:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-hr-advisory-services-market-report-2020-covid-19-impacts-growth-and-changes--/article_72324fed-fb0c-52dc-a36d-f5591fba7bb1.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
 
 secured: "kD0n2xBQ/JakRYnCC96HUfPgQDWpYd+kTx7yZrbFtxmxhojt0rYLssVaelvMvsd3Q9Uv1C0gK8UVLFiUtfWRPv4Ty590PMw6EYDT/4JGOuvGURHcUtqF/6PzzNcPV2T2aKWzxqS+jStuuxyyr2xmJhMc+lp/5m+3oVKJHpfQS95Z4jsjrm1PFvcrlzPckXBy8qUpB+022rmSEODPUY2VJHyDXvoV3ZJQvGhYh0kBBgI7J7ZrQ1JKAcnizS/XJRnkRg7GV9C3Eu/41i0EFIbh3pGLciQFiA6YXx9rOlEF6zN5baBkRPxwYuSTx2HY64m/wTg1Sb/dyRmlmVFptJf2E2macP2O5ZlVTi7g7F/s+M0=;LP3W3Ypf1B1yYeoCaqaVog=="

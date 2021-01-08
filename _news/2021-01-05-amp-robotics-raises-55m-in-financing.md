@@ -110,6 +110,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Trash-Sorting AMP Robotics Closes $55 Billion in Series B Funding"
+    excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
+    publishedDateTime: 2021-01-08T18:31:00Z
+    webUrl: "https://cheddar.com/media/trash-sorting-amp-robotics-closes-55-billion-series-b-funding"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 54
+    images:
+      - url: "https://img.chdrstatic.com/media/e417fd3a-0f59-4263-8c50-a71c64f6dad2.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "J6WmQgreawooj5f4F6dXoBcUQWNKKoEp7k1ZyHORUwh+xDaduhwDYyUo6PN7maaYFqc0i/DSK1TZoHj/zsboYjZgqq/Wo9q5Fqe6JTxFefWFAbLseQnkG5ekPAzs7JDdXFF2XFFo+szPA3PvkYsQSW4fx0Cdgqjy/BQLDXwXTC0U1ooK8l00ZzkgT49gLP9OdOtj2JP5ZnwOwKoWRGe5+10KQzjospezmFR6kaXTfmijvHgMaaxU2sIcrkPcoCmwiJD1LJ9KR11ou4Nf4PpZeTVQig0QUVerXxPDHM0R2t0hRK4vFqDtz53qIFmTY8cQ/3I9ZckoQ0kIGWGbHWDlr2nCxWZIFRoIR+0ltQ4j2Kc=;ftOe2YVQ0GUE+S6nNRVWYg=="
 ---

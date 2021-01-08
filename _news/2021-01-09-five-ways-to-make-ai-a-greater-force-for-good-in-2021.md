@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-i
 ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000"
@@ -44,6 +45,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Wad7fJjoA8v760gu9KQj7sw1eScIV8wGRaWLESFgeEyORKeMuFg4YnmGMvlr1+MWqzqLGfrPfcy7ZsuvrqdKWfGy91lqamYYMDFE9wMPoBm27QMSspNkjSMAtsBcMvJEjP3UzUjs+0+R5/mUkhoKtCLrzUb2w001b2thhZQnesXO01KqrnaEnETQflwwVxfAsmcCRt4yFTbS2ilFrrx2jxSq/nr8Xder3EhNUx/pUHdlHHryfr05ot8VgCTidFCWYPrzINmKjRbOp14OpTZdQQ8UsR2Gr4o1kh8MH1YuBJICfwowVZdtEnAcmOBcts5MrfzMcSp2WtSpeqdgDNSRMEgWJjIKwNcv9m3Mo+p9F3Y=;siXGkisD219X90HY6Z3q8g=="
+secured: "SFvtzSOnktHH6uacam/fBaExvFIM4xAJMkHiHDtrL5vKWNhxs09qJJic/0WUn4i8C4DVUKAzt8FInr12cDSUIr8WL7cgjLiyMlpzAn9E7BgdXAOv030vOKkJp3suO1XvSqlfc3uDLmjyz8mEWKELfnpa99xB9cGXwFeQhS2M0m3d8svNT/HrZ/+UUgNyR5oO+tGvBp3OrA15BEFCZJIWVRzNAJT7kZj6ofl0yLzj6dpUjYJqMVTXhs5Bnnl0wxGRe1hj3yKi1uBxbA1Sx1Iu+RsmXNcNytSwWGVIBaOmAmiMd9IS8lP3V6P3FPn3diBmPq0gesX4Gj5inmGhIExY79sa/OgcIFg5oWNhWwtLXuch/I47Cnf/1KgGDPZhXpXCfd6Lv07mFo6dn2Tfy7PL9Vt3fXc7DnOjTcCSymCkgmGHrhUN0dPO2y6MWJMsCArvVXGW4IUeoDFc6FJKeGxvukb7/IiQtfq8nZ0SYoiMURpq7qX5saFroCpIMnn3OiI102zCPuJJw8WlkJoma7q2QA==;7IQhQFEBnNv8k7Y02uaXIw=="
 ---
 

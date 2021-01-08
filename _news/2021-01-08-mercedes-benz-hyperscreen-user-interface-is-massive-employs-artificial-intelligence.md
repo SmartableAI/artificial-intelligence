@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/wheels/news/mercedes-benz-mbux-hyperscreen-
 webUrl: "https://www.forbes.com/wheels/news/mercedes-benz-mbux-hyperscreen-eqs-ev-sedan-flagship/"
 type: article
 quality: 60
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI-enabled Mercedes-Benz Hyperscreen takes the digital dashboard to the next level"
+    excerpt: "The 56-inch curved screen extends nearly the full extension of the dashboard, serving as an \"attentive assistant for the passenger,\" and can store multiple front passenger profiles for personalized experiences."
+    publishedDateTime: 2021-01-08T18:00:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 81
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2021/01/08/258a6072-6f00-4758-97af-cda13ef86a28/resize/1200x/b3447a944bcf201617caba6018f45ec5/mercedes-benz-3.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "QkxisC6yzO1XR8UXvwCNifqqTpBA5zTYoMzRmiI9zl2Y1PrepDTumu/PAmW7r1bwbV14NcVl/wUZgOiBRnYFkZAtjRtVXyt6E+52NTqUbV5szZWPwS/95XG8g5Cd17UKV0H1Uz3DwaLMtG6TjjjO7UCPqASRRMmq3dSZY2v5S0iFSkBFmgA8hiwwcgtwotq/Mt93PicZcwhtYHLTlaN9kxHIOZk1DY77jj4EYjbOwtl2DGj7TA0eD0JJGOsAf/WTc69+Yw2Wrq+tstd7/xbQ1nbMSIZgy6MU9WXArhwn2Pr3WPnufIlLMUucnKOr3LPG5x3GFq3sGM1S6W81RfIWFPZ+AFYwEsYkyaHb4rVjkZk=;+CjB+AHKcV2oQFfJe/0wVg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.hindustantimes.com/science/scientists-exemplify-world-s-fa
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "World’s Fastest Optical Neuromorphic Processor for Artificial Intelligence"
+    excerpt: "Headed by the Swinburne University of Technology, an international research team has now revealed the world’s fastest and most robust optical neuromorphic processor meant for artificial intelligence (AI)."
+    publishedDateTime: 2021-01-08T17:08:00Z
+    webUrl: "https://www.azooptics.com/News.aspx?newsID=26516"
+    ampWebUrl: "https://www.azooptics.com/amp/news.aspx?newsID=26516"
+    cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=26516"
+    type: article
+    provider:
+      name: AZoOptics
+      domain: azooptics.com
+    quality: 57
+    images:
+      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_26516_16101082357449275.jpg"
+        width: 960
+        height: 719
+        isCached: true
   - title: "World's fastest optical neuromorphic processor"
     excerpt: "A Swinburne-led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence. The neuromorphic processor operates faster than 10 trillion operations per second and is capable of processing ultra-large scale data."
     publishedDateTime: 2021-01-07T17:36:00Z

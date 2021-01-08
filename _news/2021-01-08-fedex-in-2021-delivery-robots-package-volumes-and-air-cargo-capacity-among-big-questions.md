@@ -75,20 +75,6 @@ related:
         width: 1280
         height: 1106
         isCached: true
-  - title: "2021: Take back your privacy"
-    excerpt: "Photo by Jason Dent on Unsplash The Philippines is one of the increasing number of countries with a privacy law that protects its citizens. Unfortunately, just like most laws in the country, implement"
-    publishedDateTime: 2021-01-04T01:51:00Z
-    webUrl: "https://mb.com.ph/2021/01/04/2021-take-back-your-privacy/"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 24
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2021/01/jason-dent-JFk0dVyvdvw-unsplash-1-scaled.jpg"
-        width: 2560
-        height: 1423
-        isCached: true
   - title: "Farewell 2020, hello 2021: The year in cloud reviewed – and what will come next?"
     excerpt: "Amid the pandemic, 2020 was certainly an interesting year for cloud news - with Covid by no means the only game in town. But what will 2021 bring?"
     publishedDateTime: 2021-01-04T12:45:00Z

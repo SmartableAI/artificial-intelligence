@@ -3,8 +3,8 @@ category: news
 title: "Sequoia, Tencent join the $190m series C and D rounds of Chinese HR startup"
 excerpt: "The latest investment comes after WorkTrans raised US$23 million in a series B1 round from Qiming Venture Partners and Lightspeed China Partners in 2018."
 publishedDateTime: 2021-01-08T12:31:00Z
-originalUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup"
-webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup"
+originalUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-669236"
+webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-669236"
 type: article
 quality: 30
 heat: -1
@@ -69,6 +69,6 @@ related:
         height: 480
         isCached: true
 
-secured: "rtbczSSiBxhQhc6zGhBAVt+x5l76oGMftumrxFtYczvevj/6zQhQbXOVA2+A3JVheG8LG7T/9YqquM9b8hIS26adHMVlzTRUydO1q+db+45CVL9y2BjFCwrG5Lfg1R+r46wswdfK1k5l6TnS2KYuI48t/cKkSn56Eu5XrSp0ayh+IeMYt6jhhIx8l2ROKUlOAaTHTYWdPujzNDQ/uWh6RFvRnU9erphzFnmk+roh9vOdE/9u6bd/3bTtbpJEMlHS+q7Xvdk5M89QuZmOLiDT7O7nLxJRhpvXJfSGs/G7+UOHTz2dj/wgfhZLzDzYS5n5D+pH+V/T/U/oLkROzhZDMCUcggbzzGNzVnJoMFU1v0UNX68CItcmRuj9zzHVRpMZ/K+o+WCwtNm/doBxigD/zr50bht6yDdzZmAGXkR6ZbS/Gvn+uQrB9OUZo25vVoORZoIrRJSONKz+b+U7owRslsp+7Is/NFU2eYOVPGFDjiosu7y1/fYr5/yNcQmMziNS5pIP2awyKCPOa1zXwO4zCg==;P+aKymxhPLV2U9idieUBIg=="
+secured: "kAt32C6vzlKua1GbRf8Px7GDJGFnXaPbOxGhYznYRJ3dIpn6LUV7mUwb9FoXjsz74TJt1nPTVhuYLo6mam+KR3pkVbCER3M8FO6/FpEUAnD+bwpF+aElkEhGQRj8jXWGTbxoz9aw9OWlqC7rPNqvaCVN+ciBsozcC6WNFVqKzhQJ8tck7I4yctEf/1U7r83PMMi9yP286fqoCI+o3g/2Y+LSzmcAXFtFA2Geu4j87BKCq9rM+7tTRmNtli3RjP7AY7hpHj5b0oLC9xboFub+PbHcb3klZ5ayJqI70y8b6K0x0zeGPoSe+39PMC4igESzdoI2qnISf82OdXRuso9EWooNL6O+IqiadKXpKW1MvlRCCjQbPYBnFQjZREds5Ruk3JMFvJtIUg3CO+aSNUlQh2Lmf3dkgvQUjLvabPKb5GDd0+DCCsPTGPOiZH0Ff1o76v+CYZwtqoZR1hyIEZ4DkNjfw6R5fY2xjesmwSjUM+OFKiTEFR3pDUl6pOu2VnZlmLT+lS10xRogADlbaNQGdA==;NBNUzMTgSfbu6t3DahwUIg=="
 ---
 

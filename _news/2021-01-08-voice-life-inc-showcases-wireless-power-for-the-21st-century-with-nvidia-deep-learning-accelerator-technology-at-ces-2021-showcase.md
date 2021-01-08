@@ -24,6 +24,22 @@ images:
     height: 238
     isCached: true
 
+related:
+  - title: "Voice Life Inc. Showcases Wireless Power For The 21st Century With NVIDIA Deep Learning Accelerator Technology At CES 2021 Showcase"
+    excerpt: "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a terahertz-based scalable network designed for far field wireless charging."
+    publishedDateTime: 2021-01-08T17:20:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "DUxecKpcHQ5vooVqAZbxs+eLsh2lmLRuZfbA2BFlnMc0OfGuMCO9jmJb42OhpGClHyGQiPs+g4Htx6uShUaR2xmwfuV/p7ricqo7HwL+YlXmUm87Bdg7aLoo2trh9b/qqbr9VN6Z0PGE2mqJW2A2bZbP5Ng7KaETAS9Kqyw9gqgdS4Na54es5usZ/37GjIYu6pX3GTRhA6IQaEvEuTjm2xunUEjdClMV4JXekXK9GmrJ0jcbwyv33frWswaQeJA5b29ZcnoBs6QJZsRNWeGowNZJjVQhue6iQCNla6oy+hwUjDhiUNrUjQa19X8GEX8FyTe5vQn/CCz+s9O9AtMcfr+dFU/aoY8kB7dJw30bUpI=;EP/20lvBAIipbe4zZr31HA=="
 ---
 

@@ -53,6 +53,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Time to comply with the nation’s newest biometric privacy law: Portland’s private sector facial recognition ban"
+    excerpt: "The Portland ordinance continues a growing trend of states and cities enacting biometric laws directly targeting the use of facial recognition technology."
+    publishedDateTime: 2021-01-08T17:20:00Z
+    webUrl: "https://www.biometricupdate.com/202101/time-to-comply-with-the-nations-newest-biometric-privacy-law-portlands-private-sector-facial-recognition-ban"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03124853/blue-line-biometric-facial-recognition-retail-1024x625.png"
+        width: 1024
+        height: 625
+        isCached: true
   - title: "BCTC completes first round of Android face biometrics testing for Thundersoft algorithms"
     excerpt: "Bank Card Test Center completed its first round of testing for Android face biometrics products, testing versions of a ThunderSoft facial recognition algorithm"
     publishedDateTime: 2021-01-04T22:18:00Z

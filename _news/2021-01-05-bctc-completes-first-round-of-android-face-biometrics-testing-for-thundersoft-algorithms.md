@@ -67,6 +67,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Time to comply with the nation’s newest biometric privacy law: Portland’s private sector facial recognition ban"
+    excerpt: "The Portland ordinance continues a growing trend of states and cities enacting biometric laws directly targeting the use of facial recognition technology."
+    publishedDateTime: 2021-01-08T17:20:00Z
+    webUrl: "https://www.biometricupdate.com/202101/time-to-comply-with-the-nations-newest-biometric-privacy-law-portlands-private-sector-facial-recognition-ban"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03124853/blue-line-biometric-facial-recognition-retail-1024x625.png"
+        width: 1024
+        height: 625
+        isCached: true
   - title: "DHS Tests Ability of Biometric Acquisition Systems in Identifying People With Face Masks"
     excerpt: "Preliminary test results of the third Biometric Technology Rally held by the Department of Homeland Security’s (DHS) science and technology (S&T) directorate in the fall of 2020 showed that biometric acquisition tools and matching algorithms were up to 96 percent accurate in identifying individuals with protective face masks."
     publishedDateTime: 2021-01-05T21:44:00Z

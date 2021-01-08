@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protectin
 ampWebUrl: "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all"
@@ -29,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "zQ3H3EU5nsD9hWR+LlgmlbMtjG1BMib0DM58qlFGk7F3b04jkx/CJ6ACJD79yMhpL5tcoKGukN4l2SH7BMeoDMSTGr3WpcWgtJXYo3sd4aO6wO9G00jz8tBXGvXgPcxNDgR5kKCCPcmux4sBE2Lc8TmTNJ+s6MxGruHRBtzWG5ho2r20cjjaLoSWEGSoI2YnpqmotCAuwI6np4LLFrLACJKUF4C2sVgFNJVUk0c08iXG2h0fTJrPBbuUeb8P8BSwlsuliq7b605Nsf7VmJO9bEL9XELzp3GnDyPQ1Dk74nC/AcS5UfcszDBzkhdGuVfFYMFZ/Udi/Sf6fu/iTcg6sERfxI9Dzz2IuDAvgQ5nsQ0=;qk/7FG7UWjfvg+ibS+bg5Q=="
+secured: "X2xlhBTieDmAIfRdz6SMbMj6Q6D69mET0SrqExuduc38kOIqrPGhYs2V6EDdlmKAahCO1iZYulxkD8723nB1H1GOD+5snJP8AwqTCthIjjZBNhe4ZrhF7hSzCaMpm+TC+4P2WEV8AggjRk19p4Ee4e31ct/Hf4Na9Ad0lVM19w/fL4S/o0QSuKXFfrbjxQZgnmJyK9luQ1qSAPIpdeGvguo3DAzuCxb1qGqJDA33jPaRTHcLvymyAb2FGdDm0hBkaVNaoMXH8HAf6XPrnrckE9lBmCPqRHqJlLrFFS4AXG2bZo/yO3x9/S0N57r9XdypVyp5E8tQYHyahXvO99PWB963cOXDvS0bIeiI7kWwkA2fpvNWJ6I3ank4FE9eBCaqMofpPFDh7TOrq8XAxvgG4GgFtH/ZNaXwdiPGCZ37/2+/W8Z/h1OeuONCAdAXJkqJhyFLjF1Ymyh2A7Rncp6OE8sozrSRU34crVZKgjchip/M+ZWnGHeA8lPvz73183IWsQc0Dn7If5XpRaSeMEB7cw==;j7ZBnnNpGrc8G8zmeMEzsw=="
 ---
 

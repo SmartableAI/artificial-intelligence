@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
 type: article
 quality: 119
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Trash-Sorting AMP Robotics Closes $55 Billion in Series B Funding"
+    excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
+    publishedDateTime: 2021-01-08T18:31:00Z
+    webUrl: "https://cheddar.com/media/trash-sorting-amp-robotics-closes-55-billion-series-b-funding"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 54
+    images:
+      - url: "https://img.chdrstatic.com/media/e417fd3a-0f59-4263-8c50-a71c64f6dad2.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "dqZXmF8S1KXOPO4yBRLIP2hEVDNloZPNCY9sWMkoRMSzjxeKE0VjyMDtmfl3/O9ngVWvrCFAicfyEY2EhNdVQSPu6fOeKpUequeSHHo4KSjHXZQGP6lMMtVWSSTAn4/gbZ2rt4GshXWXCpWKBuRrMplPYhZjf2LEYSHwpfyYFPdBfdHmY3J0ml0goluEYFJRNonVbo7Qr7wUGHL+wZa06sPtsnT8HL42RKfI4cABAJErKeqagpH4GgJELVqBGRNMHbzLjIWZSx0Szn+/Ty5wm6rmv8qskxSBjawGUYXosGQiMfcQFCk0UDMyEEBnzQ8WUtiArF/+dYgDYY+2A2JMETcMTzzQoC8s0/FopJZjW0wO9nONDgoDETaR0Ur5cDNfXzRal2f6ReIwgvUuuo8tUqn4W6Ojgy2SL2aXXEbVNarp/QX90dBLcrV7149AkFGxhrij2DjBb9GaxdMU/YLF7pLshvFguZzsfsAWi7CMzYpynaXByeKi4fQhAKVII0P5VGIll2Ks+UIzWjh0X98RTA==;EmXDWpWRygmPk8HvqFfXJQ=="
