@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -85,6 +85,17 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Using Video Surveillance & Facial Recognition Technology to Identify Individuals Involved In Attack on U.S. Capitol"
+    excerpt: "ATTN MEDIA OUTLETS FOR IMMEDIATE RELEASE Thursday January 7 2021 Contact Thomas Carnevale Email tcc umbrellatech co Phone 630 270 3313 USING FACIAL RECOGNITION AND VIDEO SURVEILLANCE TO IDENTIFY INDIVIDUALS INVOLVED IN THE U S CAPITOL ATTACK Thomas"
+    publishedDateTime: 2021-01-08T08:35:00Z
+    webUrl: "https://www.openpr.com/news/2222088/using-video-surveillance-facial-recognition-technology"
+    ampWebUrl: "https://www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "TrthU9aviqtJy+9JJuwM1N10NbVqLyUtDNCKQ9PaHHmdjIr4rMFiN/8aQaHs0v9GC/obWQnN/1OljLbHorLkKQQI8Cwc1bPXSIXvPyO29/Ai9SMYfnXxylTXD2b2QjB7rNmGhpxa4dtLJZXovDC0w5ghTDXB1ME0GE5x+S11bWhBN23FHTMpztjgl210qgnNmi21ZEEbmtNcWm68e/3QhnrMU6LIU8mW0JGZJt8B2iV0/YCJtym+oDOApanVwVWIrwK7U9T0raTeRhu/TwxL4yfLwYKVEE1rpUmWZwYbfkUuNfJY6RigTrqqWyla+iV0YG98NB/XQsIFwqWABCU0nsUVEfMjHmr13hkIWAqKk2n+wd9EBZyg+f78ZP0s6eUYV5mII+e1P6WsJpPSCy+VtAI03DzBN/1jIkeDE9zOZPcp4iSm2UJhDMTk8S90KvEZ0lAplBALVMXI9Bl1UDJ1VcuNZC5N+DQ8Ej12MeTGQtEUochlA1wjEzVtf2mnro2hsMtb9ZoanhOT4Qw1Hx7VTw==;c0PlOhOMtkoru/Np+3pR7Q=="
 ---

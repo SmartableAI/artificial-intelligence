@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-mark
 webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
-    excerpt: "Strategic expertise and leading innovation The assets and operations of Boemska – a small, UK-based technology company with an R&D center in Serbia – will be integrated into SAS. The company is a well-established SAS technology partner whose global customers include SAS customers in financial services,"
-    publishedDateTime: 2021-01-07T13:40:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Global Conversational AI Platform Software Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
     excerpt: "Impact of Covid-19 on the Conversational AI Platform Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"

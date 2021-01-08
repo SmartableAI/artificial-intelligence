@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Military researchers ask industry to develop long-range biometrics and facial recognition algorithms"
+    excerpt: "BRIAR aims to develop algorithm-based systems capable of performing whole-body biometric identification at long-range and from elevated platforms."
+    publishedDateTime: 2021-01-08T08:36:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-recognition-longrange-biometrics"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 24
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/biometrics_8_Jan_2020.5ff73ae0c21a6.png?auto=format&fit=max&w=1200"
+        width: 800
+        height: 534
+        isCached: true
   - title: "BCTC completes first round of Android face biometrics testing for Thundersoft algorithms"
     excerpt: "Bank Card Test Center completed its first round of testing for Android face biometrics products, testing versions of a ThunderSoft facial recognition algorithm"
     publishedDateTime: 2021-01-04T22:18:00Z

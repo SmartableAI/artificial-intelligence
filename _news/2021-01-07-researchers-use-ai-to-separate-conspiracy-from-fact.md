@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-f
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp"
 type: article
 quality: 87
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop an AI to solve a fundamental problem in quantum chemistry"
-    excerpt: "Researchers from Freie Universität Berlin have developed an artificial intelligence method for calculating the ground state of the Schrödinger equation. This Schrödinger equation is one of the"
-    publishedDateTime: 2021-01-03T16:42:00Z
-    webUrl: "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/"
-    ampWebUrl: "https://www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-an-ai-to-solve-a-fundamental-problem-in-quantum-chemistry-03653256/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 86
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-algo.jpg"
-        width: 1280
-        height: 904
-        isCached: true
   - title: "Salk researchers use artificial intelligence to make strides in understanding the brain"
     excerpt: "Researchers at the Salk Institute of Biological Studies in La Jolla have published a paper detailing their advancements in artificial intelligence, further tying together the fields of AI and neuroscience."
     publishedDateTime: 2021-01-04T22:00:00Z

@@ -88,20 +88,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "How AI Technology is Changing the Wine Industry"
-    excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
-    publishedDateTime: 2021-01-03T16:15:00Z
-    webUrl: "https://www.lendio.com/blog/ai-technology-changing-wine-industry/"
-    type: article
-    provider:
-      name: lendio.com
-      domain: lendio.com
-    quality: 37
-    images:
-      - url: "https://www.lendio.com/wp-content/uploads/2020/12/family-toasting-with-wine-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "fEIffgt3lNKcXsm97RfD2ithMtEmbaTnCLMNuZv1+IAx9vd/eKn//+yfQZ+TyGjj2+Ost2RFoGQeeVA0L3Owr+r8hqysZOiGg2FJUvuP4CaCSp6UAuM4QLiOm2lAf2Arh1MX09dncXeXPvRwJm0ZO81WpftFqkjwF3xVe+hcRUraXv0ZZrO6lTGU2mZqzlIOLpL54I4ObCWcC9Ecm9Qr0ATaFAhZi3MHL6s9D9PMWuqrSvltwnEeTQBAhltFgbL3SQM/G64T7mqkMGTn8JLKmfG0KHz1s6xgmLGCI8l3KlVdGNHUPfOIchrlYpUjJEJ/q7MPSHR+ff0CiMx9wb+uAEu7kxzBlKWZyHRMs07uM4U=;Bumg/sQvftU5V1ZrnK5xgA=="
 ---

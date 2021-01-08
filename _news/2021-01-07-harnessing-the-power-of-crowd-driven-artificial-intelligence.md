@@ -7,7 +7,7 @@ originalUrl: "https://idw-online.de/de/news760834"
 webUrl: "https://idw-online.de/de/news760834"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing the power of machine learning for improved decision-making"
-    excerpt: "Using both supervised and unsupervised learning, analysts can find new patterns in their data and validate those patterns against mission relevance."
-    publishedDateTime: 2021-01-05T21:37:00Z
-    webUrl: "https://gcn.com/articles/2021/01/05/machine-learning-improved-decision-making.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robothand_blocks.jpg"
-        width: 760
-        height: 368
-        isCached: true
   - title: "Harnessing the power of crowd-driven artificial intelligence"
     excerpt: "The European Research Council (ERC) will fund the development of an innovative platform incorporating the IIASA crowdsourcing game Picture Pile. IIASA Strategic Initiatives Program Director Steffen Fritz will lead the project."
     publishedDateTime: 2021-01-07T16:19:00Z

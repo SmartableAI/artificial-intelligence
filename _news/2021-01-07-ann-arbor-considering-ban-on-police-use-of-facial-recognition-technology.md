@@ -85,6 +85,17 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Using Video Surveillance & Facial Recognition Technology to Identify Individuals Involved In Attack on U.S. Capitol"
+    excerpt: "ATTN MEDIA OUTLETS FOR IMMEDIATE RELEASE Thursday January 7 2021 Contact Thomas Carnevale Email tcc umbrellatech co Phone 630 270 3313 USING FACIAL RECOGNITION AND VIDEO SURVEILLANCE TO IDENTIFY INDIVIDUALS INVOLVED IN THE U S CAPITOL ATTACK Thomas"
+    publishedDateTime: 2021-01-08T08:35:00Z
+    webUrl: "https://www.openpr.com/news/2222088/using-video-surveillance-facial-recognition-technology"
+    ampWebUrl: "https://www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "5X0LcS87q6QLvja6WAtzzq78NqG188kpjn3SkAFOUaxLmVuU7nP7XtgOw8egOHmJdx5SJIalvYXrN0jDebidATBHqvjeriz63ob8KgAjwDyqIDj+wfHeo7+SDyyeKZieV0PnIK12R/7sxhoGMi2nHZADHgt7R6dmstEzqPNLU+7GC+mf6i51GbQfoWbPWnxHjykpxZHZS8+VFLr+xA9fc4fcC4MbXfTEJd7iH8mVShJoePorQJz7sesH1IxbFm+WMoexUp3I6BEo6yCP5UDjLK3BRT9r+3mT4YrSIZ59IS1pj9uNeBDt/c4+cVbJao4L9euGSEvDPzZR3eQwh25vzqnkHD7Xvu4HF+c/hMjqBUGuO5GVg2hlcWv11qr7imSzyd1SwBw6Hgk4nEF0kHcetI4v7vhHkNLvkeUJ8LphxyARlEQqPjv+l89K8Hy9V5H+6cAxruIWDqZcG7/mMLjpoHeIFZLUy1haXoWk+eclDy50QGDz9Wgfw6SKx2LUn/wCCOBuMMq0KptksQmxuxJu2w==;CDM7IR9i9HqMBx2Vj6y4hA=="
 ---

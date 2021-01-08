@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
-    excerpt: "Strategic expertise and leading innovation The assets and operations of Boemska – a small, UK-based technology company with an R&D center in Serbia – will be integrated into SAS. The company is a well-established SAS technology partner whose global customers include SAS customers in financial services,"
-    publishedDateTime: 2021-01-07T13:40:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "kXs5v8hGBK4qfdFJNKw99dHhvrsBtKW/HLg0+k/cFouDjOm44HZel7Rc5c7s86Al77AmIc/JUaOpFuW09E1x6tQqaR7M8W2r6y3nLByiIoTRYxZ3fgmETfgm4hiE4x0Q5CSzYCqhNSsYkgpjOkZvawBkX/svULm5vtyyavXON/Zi3s/RMk6sVYwOymyVwN2Z+ZuDadrwZ0NWcX+oUmC/mvj6SJNxU/glA17HUI+LwA4et8ejoBhTXeRTjqzBF7vqxIrTPeaxCggdxMlOPp4Pxn2mJhXoD7kR39T8tM4IMGHjwdBUUIOMlqH+zEq9OOz24NTO+g6fmKdcrbe84emaobrlq5vNMZmGlmOcHDrtC7c=;UqHzNK8Y5y6K7D80rEUmWw=="
 ---

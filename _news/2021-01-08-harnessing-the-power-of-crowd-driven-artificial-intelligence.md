@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing the power of machine learning for improved decision-making"
-    excerpt: "Using both supervised and unsupervised learning, analysts can find new patterns in their data and validate those patterns against mission relevance."
-    publishedDateTime: 2021-01-05T21:37:00Z
-    webUrl: "https://gcn.com/articles/2021/01/05/machine-learning-improved-decision-making.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robothand_blocks.jpg"
-        width: 760
-        height: 368
-        isCached: true
   - title: "Harnessing the power of crowd-driven artificial intelligence"
     excerpt: "Rapid advances in computing power, the availability of big data, and improvements in machine learning algorithms mean artificial intelligence (AI) is changing the world as we know it. Computer vision,"
     publishedDateTime: 2021-01-07T12:21:00Z

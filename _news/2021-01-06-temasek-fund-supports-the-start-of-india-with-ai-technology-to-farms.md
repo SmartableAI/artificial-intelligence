@@ -74,20 +74,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "How AI Technology is Changing the Wine Industry"
-    excerpt: "Alcohol sales have risen as the pandemic rages across the country. Check out how AI technology is altering the wine industry."
-    publishedDateTime: 2021-01-03T16:15:00Z
-    webUrl: "https://www.lendio.com/blog/ai-technology-changing-wine-industry/"
-    type: article
-    provider:
-      name: lendio.com
-      domain: lendio.com
-    quality: 37
-    images:
-      - url: "https://www.lendio.com/wp-content/uploads/2020/12/family-toasting-with-wine-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI Clearing Raises $2M in Seed Funding"
     excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
     publishedDateTime: 2021-01-04T17:32:00Z

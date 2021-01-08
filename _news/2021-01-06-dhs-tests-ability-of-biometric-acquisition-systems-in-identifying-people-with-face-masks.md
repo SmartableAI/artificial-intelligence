@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Military researchers ask industry to develop long-range biometrics and facial recognition algorithms"
+    excerpt: "BRIAR aims to develop algorithm-based systems capable of performing whole-body biometric identification at long-range and from elevated platforms."
+    publishedDateTime: 2021-01-08T08:36:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-recognition-longrange-biometrics"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 24
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/biometrics_8_Jan_2020.5ff73ae0c21a6.png?auto=format&fit=max&w=1200"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Bill to limit police biometrics use tabled in New York state as legislators struggle with facial recognition"
     excerpt: "A state legislator in New York has introduced a curious bill to prohibit arrests on the sole basis of “facial recognition and biometric information”."
     publishedDateTime: 2021-01-07T00:53:00Z

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2021 – 2024 | Share, Key Players and Competitive Landscape Forecast"
+    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
+    publishedDateTime: 2021-01-08T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2024-share-key-players-and-competitive-landscape-forecast-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
     excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
     publishedDateTime: 2021-01-05T14:06:00Z
@@ -98,6 +112,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Report Size & Share Global Industry, COVID-19 Impact, Trends and Forecast 2020-2026"
+    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, The Artificial Intelligence Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-01-08T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-size-share-global-industry-covid-19-impact-trends-and-forecast-2020-2026-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

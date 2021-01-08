@@ -78,6 +78,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "AI in Fintech Market – Big Changes to Have Big Impact | Google, Intel, Salesforce.com"
+    excerpt: "AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide AI in Fintech industry with an attention on the Global market The report gives key insights available status of"
+    publishedDateTime: 2021-01-08T07:33:00Z
+    webUrl: "https://www.openpr.com/news/2222223/ai-in-fintech-market-big-changes-to-have-big-impact-google"
+    ampWebUrl: "https://www.openpr.com/amp/2222223/ai-in-fintech-market-big-changes-to-have-big-impact-google"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222223/ai-in-fintech-market-big-changes-to-have-big-impact-google"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/1/U108805788_g.jpg"
+        width: 750
+        height: 591
+        isCached: true
   - title: "Fintech Firm Launches Online Payment, e-Commerce Platform"
     excerpt: "Okobi A Nigerian Fintech startup, Shago Payments Limited has finally launched its bill payment and e-commerce platform, Shago, into the Nigerian financial sector to serve the banked,"
     publishedDateTime: 2021-01-05T02:33:00Z
