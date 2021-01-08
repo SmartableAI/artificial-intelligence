@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19055169"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19055169"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -22,6 +22,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor"
+    excerpt: "(GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ: DSPG), a leading global provider of wireless and voice-processing chipset solutions for converged communications today announced the DBM10, a low-power, cost-effective artificial intelligence (AI) and machine learning (ML) system on chip (SoC)."
+    publishedDateTime: 2021-01-08T06:52:00Z
+    webUrl: "https://apnews.com/article/technology-business-corporate-news-products-and-services-integrated-circuits-86a8257be1aaaf9e9d4237018a779255"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 57
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "DSP unveils low-power edge AI/ML SoC with dedicated neural network inference processor"
     excerpt: "DSP has unveiled its DBM10, an artificial intelligence (AI) and machine learning (ML) system-on-a-chip (SoC). The SoC includes a digital signal processor (DSP) and the company's nNetLite neural network (NN) processor,"
     publishedDateTime: 2021-01-07T14:54:00Z

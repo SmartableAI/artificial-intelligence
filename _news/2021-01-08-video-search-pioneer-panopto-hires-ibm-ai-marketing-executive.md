@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Video Search Pioneer Panopto Hires IBM AI Marketing Executive"
-excerpt: "Previous Head of Marketing for IBM Watson Advertising and Proven Brand Builder to Join Award-Winning Video Management System Provider Panopto, the leading video"
-publishedDateTime: 2021-01-07T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19061465"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19061465"
+excerpt: "Dave Neway, vice president of marketing, Panopto (Photo: Business Wire) Neway brings a unique combination of marketing leadership, B2B expertise, and B2C brand experience to Panopto. Panopto’s video management system helps large enterprises and higher educational institutions build,"
+publishedDateTime: 2021-01-08T06:45:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-executive-changes-north-america-a0cdc908476d419e98516366075aac70"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-executive-changes-north-america-a0cdc908476d419e98516366075aac70"
 type: article
 quality: 56
 heat: 66
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
   - AI in Marketing
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Seattle video platform Panopto hires marketing exec from IBM"
@@ -34,6 +38,6 @@ related:
       domain: bizjournals.com
     quality: 41
 
-secured: "aePIAA2M4r3cWE8ec1g37hYh16JJeIXnt9sJLqsBoqhNnl+z+N9AEjhtUIYGWpwRZh0ee3R9qLYhLtnbQhC9qxaWETJL78t4zkFcyJNR2urNbGAyYOI2L8oLnsFSL/SHN++AcW/cmuxwyke+uMllV53fUjMg46+RlpRFZpZpca6vlMNTrPs0nmxxmXj8uDQt0N7OIe2KkwzlBy4+cjpTQgVbDahVUm7fUnbePEaBXWDZGN7itQz3Ky51F5vbYwJUEHR8LTvCYNMAMgfT0VGOPh0BC2hjIOO/v18zP+EC2rGakfGBvmEd1MxnrklX2gLhEpiqHIq8b0xpI8YHaS5ZYM/113iiNFkmDHv+8KbZm+ukHpoGWHiuERMI5Egc4/G7ik/0FU/HhHelzK1/7upacL+t5u30Q+/pR0kYZMC9+s4B/+vk0rIotd+QFhcPpyBZO5EfGzPwjRiTiP9WzhzdUSVsJgQ6v7vkuRTp52e+dpSTZBjxZK6llgRvDW5qfOUziVjJKhwkh0+Y65WO0pUOMQ==;pLGxW2HufKA28ZVSLcxv1Q=="
+secured: "AjyBZNmE4tfkcD2MH21NMBewhYuNYE94SFoNhV+cr8hrIYY5BzxTEnGNlnKzqJ7zQ4J7pRHKIVoJlBL57gs3zpMDBuUWXR6cP8werLO0OtmgFECK2zPdyHIBOlcdKPf/P113nH4NUl8C3oy5t69bAmY4zgmElNORw7jXl7nfGcfrct/Knaoku/y9C0i7FkScGs4AQY6PQSjT/wqPQOca3wJlw7pYFm0dxbmE9Og4wWg1AkLxZnM+6x1iqESW4iAdFQzlCg/kSoOlFvPCdATfnPvybWkUX///BcZsmv6PV43Q4D3jGTUEmQ2QYf7+rcpRihOZd/dPc8f19PX3ZuU0DXGmpxFc5xJFlKCk8b0+8Yo=;zKBZeS+k0USIGOma24s3Uw=="
 ---
 

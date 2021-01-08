@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Lacework Closes a $525 Million Growth Round to Scale Up Infrastructure Security for the Cloud Generation"
-excerpt: "Lacework, the security platform for the cloud generation, today announced a $525 million growth round with a valuation of over $1 billion. Led by Sutter"
-publishedDateTime: 2021-01-07T19:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/lacework-closes-a-525-million-growth-round-to-scale-up-infrastructure-security-for-the-cloud-generation-2021-01-07"
-webUrl: "https://www.marketwatch.com/press-release/lacework-closes-a-525-million-growth-round-to-scale-up-infrastructure-security-for-the-cloud-generation-2021-01-07"
+excerpt: "Lacework, the security platform for the cloud generation, today announced a $525 million growth round with a valuation of over $1 billion. Led by Sutter Hill Ventures and Altimeter Capital, and joined by D1 Capital Partners,"
+publishedDateTime: 2021-01-08T06:59:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-15d76645700e46079c2117387ddeb603"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-15d76645700e46079c2117387ddeb603"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Lacework Closes a $525 Million Growth Round to Scale Up Infrastructure Security for the Cloud Generation"
@@ -36,6 +38,6 @@ related:
       domain: benzinga.com
     quality: 24
 
-secured: "FHdjoHkZ11IdCpkXb1Du/9OVt+nn6Itsvacyf7gfVzN7GDHLWOTD0HlMx7e/U9V47tQesLzzRoUPsdwpcBRqla3BdzGrQWnZZyFVIGKxPBDn+/zagGiM/dHE3aCsqxY2g8iyOLQL4FXf1rT61EHsxVdpi0NOXW4+kkBNvOe2CWoAzAkKFZ3FJbk+B3px6lexW1VdObZZzULxlhvDiYKtaLf9gDygZW4eUERir7vgSl4iJR+ZeOebGmazPvLorTui0tgHcC5xayh6lIV4QUG71UFaB68aH3gRegDM9m1enaNJ4XnEPDsNy4D3nmngF6RtZuldIGUuiUcgM7oMeRAUFesftDBvav0HxEMJNql1JZY=;qRfW0gy6IXpsp/MRxuDuMg=="
+secured: "5rTbpzAk1pFj7bO5FdFuc6bvNmPZoWpC3VLG2d+Wqd+6LPCblqSYG0/vbftLxSwBRf2dkj3FKyNPkeOj0L85g1fuj8oZGesx7TfePg4WZ2FgdVcJ5JsNadT2+3yeF4oTQJ6RHCjqi7R7Alpjy9+E85Ylu3H8+iI0PeijCibPvnFLdVQWxuJh/PuZxf0D6LLy+gjGuRkL2pNx2MfyjtfuTUN9wP4IcUWObPMpoCIP4qIQukCqk4xHs8xDYJjuRcLZsS9uQytmxFdBvrwoijhIU5lyJhs5GcDUo0t4enhLLWzgTkRm1o/Ne/pHIj7DjYNyd5HzQpbLCtJCxgFcirzv3EMzDtDlZeb5VoSu4OPbxV0=;2N/yvOi/UJG4yZ8PG+Or6A=="
 ---
 

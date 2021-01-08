@@ -3,8 +3,8 @@ category: news
 title: "Masks no obstacle for new NEC facial recognition system"
 excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
 publishedDateTime: 2021-01-07T22:20:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+originalUrl: "https://www.reuters.com/article/health-coronavirus-japan-facial-recognit/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSL4N2JH1U7"
+webUrl: "https://www.reuters.com/article/health-coronavirus-japan-facial-recognit/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSL4N2JH1U7"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
 type: article
@@ -126,22 +126,6 @@ related:
       - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
         width: 5568
         height: 3712
-        isCached: true
-  - title: "Another arrest, and jail time, because of a bad facial recognition match"
-    excerpt: "Facial recognition technology is known to have flaws. In 2019, a national study of over 100 facial recognition algorithms found that they did not work as well on Black and Asian faces. Two other Black men — Robert Williams and Michael Oliver,"
-    publishedDateTime: 2021-01-03T14:23:00Z
-    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 73
-    images:
-      - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
@@ -300,6 +284,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "CRESW6b7y9ccHFAfQC+0WGJ4c5UQpOI9/xXZACk0NZ5iGMA/qpWc1pDXqpNPU+v1+LVrY/2HLkORcQKvW+WIC1ZcFklBnuGk6dm7ibEbF/6kg8hRWzZsD2TpbXWhymk84xsE/cdWVuT3WF9SWUGCvQUTCB93zJvYfFsAcOSM9eN8AUExk9dmXuIFTH/+8BkaoP5LokKg6wbIF9OSep1WYAHCqbv2B64mKD2brth/Gr8kSgwEbuaLVYMEwqJia0qmOf9apphEY4ksxPyKIrL6gWF7lkRWvE/Sc+oqemPguoD6LObP39FQm0oj+WZqbhhxNiydk/tPyHJS8A+veVRiirZFF/O3LM3VrXiDlmAU+36x21oFeEXqCvyGimE95Z17NWjqfLACbGvnKufEfjs8k4x6ukbvPgoRw3KphROUClqzgR01JTM9TqrFYh8Sb5wSXQX55XhGrldeiRHji61uCelMpFTNpfiyraKd3vN4JRdRORXD0vjIiUZfJXuq3EX55w7/GRoODIoxN1NAr7d17w==;UwDMwFuqsZANigmzA96hag=="
+secured: "/DVc3rHu0ip3Fv29M+uUo+MukFdCAEoKcykOEAK7D69Fz64nry9Nau7zvTlMxTzPCh8CPEtrNLjRsTifmw725ZnWWbEIbNnfTcL/RsKdZ5au1/hlmtZgFJYc5E0Nfx1s6SiuwipyG4g+wnOuswPnS8M76QJ4GrPtyW3x1IJk5JMvL5No2HLACT3dZLaWZziKqXrof5FVus4HUaGtJHDeST+6zcOLyPex01oO43cUPjXneL8vFJrK5iUyAnsHkmYvztXRyqLnvx2I6v5R+6h3o89pAikBWp3b99UdoD00FvHNy9Jp5Td6BO0ZxNXwKZdrBHseSbjPhoRfuwFPtoSQSDs1zT8I4yU8oVrN/2xPJ4s=;79CLaayudHdH3Vz0gdVSpQ=="
 ---
 

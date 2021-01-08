@@ -35,6 +35,20 @@ related:
         width: 900
         height: 455
         isCached: true
+  - title: "Commercial Services Market Analysis Shows Artificial Intelligence Being Used Widely In The Industry"
+    excerpt: "The Business Research Company’s Commercial Services Global Market Report 2021: COVID-19 Impact and Recovery to 2031"
+    publishedDateTime: 2021-01-08T05:07:00Z
+    webUrl: "https://www.wboc.com/story/43139559/commercial-services-market-analysis-shows-artificial-intelligence-being-used-widely-in-the-industry"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 25
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20228238_G.png?lastEditedDate=1609999512000"
+        width: 900
+        height: 455
+        isCached: true
   - title: "2020 Insights into the Geospatial Value-added Services Global Market - IBM’s AI Contributions to the Geospatial Domain - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence Enabling the Global Geospatial Value-added Services Market” report has been added to ResearchAndMarkets.coms"
     publishedDateTime: 2021-01-07T13:33:00Z

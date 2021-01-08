@@ -222,6 +222,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
+    publishedDateTime: 2021-01-06T23:02:00Z
+    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
     excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
     publishedDateTime: 2021-01-05T05:17:00Z
@@ -250,15 +264,6 @@ related:
         width: 1460
         height: 766
         isCached: true
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "“This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,” says Chief Partner Strategy Officer at Blue Prism, Linda Dotts."
-    publishedDateTime: 2021-01-06T19:14:00Z
-    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 29
 
 secured: "YD8gSnRbAiRk/yQNfQn8VbFQoNo31BQTn27AM+QpdyVXobQX+iSb7uSK4QKayUYBK74p1xJ9POEQLr7CM9TDO/iiJ020i8e4VcyTewATLQbH3X5AjZsIxx9Fr1h7HqdqWFLFbrK0wrX1nB5oCCAxgzm9IEY8joCj9voYVSNwtVzEduq9AYqF+DluVc9ecxxo3J4kKKlUP+a39uWv0H4MgtsoPxtWOjEQ52OYGxca1UpF5dode/yxV4qM+UCPStxsQg40Q1kxdQQDtW4uQrjPkrq5J46Pm7nSojdxBrPkIe2ePQKISKrlBLwgBRMQUyYu1QJVB8H+/KGiTCx4MN2gedZ35zFFFqndtKLhTn1YJTOayrxY1ypoQZ0Tt/T9uC35JPx+r+v5uWG0h65pEeRdy/xDUSq3ZTH4d0RatUmHU508UQK8hjoY8R1Clk0OA0GNXGcQxDKsQBvw+ORM7Vr9McFoQPstCNkq54uE5z29xfy9aPJUeeiqe/7NnyCLTFVTr0Q+sC76sbBwld7lsDM6vA==;IiRTFSfLYpmv7uX+Nk1N2w=="
 ---

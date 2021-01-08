@@ -78,6 +78,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
+    excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
+    publishedDateTime: 2021-01-08T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-financial-technology-corporate-news-be598b072b7645beaf38e548491c78dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Fintech trends that will shape the industry in 2021; The startup putting horticulture farming on autopilot"
     excerpt: "COVID-19 was a tailwind for the fintech sector in 2020. And, 2021 is expected to be another great year, but with more innovation in play."
     publishedDateTime: 2021-01-08T00:37:00Z

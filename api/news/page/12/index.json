@@ -2,6 +2,100 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
+      "title": "New York temporarily bans facial recognition in schools",
+      "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "publishedDateTime": "2020-12-23T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-using-ai-to-count-and-map-craters-on-the-moon.md",
+      "title": "Using AI to count and map craters on the moon",
+      "excerpt": "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-12-ai-craters-moon.html",
+      "originalUrl": "https://phys.org/news/2020-12-ai-craters-moon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg",
+          "width": 2380,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-12-ai-craters-moon.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp",
+      "publishedDateTime": "2020-12-23T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-5-self-driving-car-stocks-with-the-most-potential-moving-into-2021.md",
       "title": "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021",
       "excerpt": "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully ...",
@@ -1080,100 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts.md",
-      "title": "AI Is More Than A Buzzword And Being Deployed Now On Ships And Golf Carts",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as more than ever, organizations are adopting artificial intelligence (AI) to bring efficiency, productivity gains, and a return on investment and how the cloud has become integral in advancing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2607be8d7635dd433bbb2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "publishedDateTime": "2020-12-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-panasonic-to-demonstrate-guidance-service-for-priority-elevators-in-cooperation-with-marui-department-store-in-tokyo.md",
-      "title": "Panasonic to Demonstrate Guidance Service for Priority Elevators in Cooperation with Marui Department Store in Tokyo",
-      "excerpt": "As a result, the object recognition technology was found highly effective in recognizing their entry and exit. A similar image recognition technology will be used for the demonstration at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finchannel.com/technology/79757-panasonic-to-demonstrate-guidance-service-for-priority-elevators-in-cooperation-with-marui-department-store-in-tokyo",
-      "originalUrl": "https://www.finchannel.com/technology/79757-panasonic-to-demonstrate-guidance-service-for-priority-elevators-in-cooperation-with-marui-department-store-in-tokyo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finchannel.com/images/banners/ePaperTF.jpg",
-          "width": 500,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial",
-        "domain": "finchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

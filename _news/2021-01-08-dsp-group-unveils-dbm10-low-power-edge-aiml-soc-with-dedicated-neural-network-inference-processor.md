@@ -1,0 +1,52 @@
+---
+category: news
+title: "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor"
+excerpt: "(GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ: DSPG), a leading global provider of wireless and voice-processing chipset solutions for converged communications today announced the DBM10, a low-power, cost-effective artificial intelligence (AI) and machine learning (ML) system on chip (SoC)."
+publishedDateTime: 2021-01-08T06:52:00Z
+originalUrl: "https://apnews.com/article/technology-business-corporate-news-products-and-services-integrated-circuits-86a8257be1aaaf9e9d4237018a779255"
+webUrl: "https://apnews.com/article/technology-business-corporate-news-products-and-services-integrated-circuits-86a8257be1aaaf9e9d4237018a779255"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI Hardware
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor"
+    excerpt: "SAN JOSE, Calif., Jan. (GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ:DSPG), a leading global provider of wireless and voice-processing chipset solutions for"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19055169"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19055169"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+  - title: "DSP unveils low-power edge AI/ML SoC with dedicated neural network inference processor"
+    excerpt: "DSP has unveiled its DBM10, an artificial intelligence (AI) and machine learning (ML) system-on-a-chip (SoC). The SoC includes a digital signal processor (DSP) and the company's nNetLite neural network (NN) processor,"
+    publishedDateTime: 2021-01-07T14:54:00Z
+    webUrl: "https://www.telecompaper.com/news/dsp-unveils-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor--1367849"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 43
+
+secured: "ZWMzule80LVMaIkjWWt3K/tffwzj6xyPJDeBuCmAm52D/WyZpzr9PmZjfL3QZ5VfF68RiynNN3EH6N1dUffdNuTmqrPdeL0EAdYKb02xepZE25lOLnf0Jdx7047DEkVFUiuRDDkK4sMJfLn16XDdW3og7YKCAVxP172H+lw1QZLXxrIrE84KJYFVrIuBdW8HIIeN5yljEkuKk8Gcwk5srO5vPeYfr0bfmxw65RVDREW2vdnMxWASQBvOBma5p5Xnk8uKfZgcd1qW+khZTuUlxLfN+GbThQV8CUfjf+1zDoxQAZ2VudXF2B6cG1z6GGWdCnSx8bVHipzJ00s/vgQUWR1o8TiCeWyjmkeW8SjOK9c=;x2HMcvFwO8GyB3bud2DqIQ=="
+---
+

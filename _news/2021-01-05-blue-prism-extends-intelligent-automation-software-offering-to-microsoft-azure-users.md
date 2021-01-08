@@ -228,6 +228,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
+    publishedDateTime: 2021-01-06T23:02:00Z
+    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
     excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
     publishedDateTime: 2021-01-05T16:00:00Z
@@ -250,15 +264,6 @@ related:
     provider:
       name: Tata Consultancy Services
       domain: tcs.com
-    quality: 29
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "“This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,” says Chief Partner Strategy Officer at Blue Prism, Linda Dotts."
-    publishedDateTime: 2021-01-06T19:14:00Z
-    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
     quality: 29
 
 secured: "Wojy9N1poIBJdNBeAeeTsApPC/d/dtpr2+FY5e0VSW7DAd98LMwA6t3LQauYAa4GyBcOMxgJol+z3Uk/cUQSay7EwAz4QPizQ2ZJNUkkrOcDlHwqnBurlCImvXYSK2qKbkH47OInhTHdmo3+6Xrj0s7X5sGRvK6ioGwULlWvdp69WekCCkkVSiywgOmoxnWrfHlC7S78oqJBNFSuHn6A9NWldNNOj/hH2Q5GFZ1t6r87J06+/o7/2OOFhn+6BXak1ooUIAF7p78dvigLnAhG3WkrPOjEU9gfdX/apzUb12SIUjj5s4lsKR5seZ2v/midxsqizbU+bJ1IetrpL6CKZ92hgNtUYyaRsCV7n5rJWSpBaDzZlQjg6ltAz/bT14TyTswQAClPHvR1q8E2p0yb7dR0NgyPCpyOV+KbuJ1EGMRCtxjCjs79yeNhMmjlJjpQho5L4MfvTIwpH0JSFEcygG1is0iwUBHipDIWV/BT8KgJGklH9vXxZfVtCOo4/Fj0ntY+n86AiPDgS1f9L5nidg==;Z//Fy3qmL5ywTQKybjTWBA=="
