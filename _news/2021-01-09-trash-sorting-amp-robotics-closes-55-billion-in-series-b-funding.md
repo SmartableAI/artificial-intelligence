@@ -124,6 +124,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AMP Robotics Closes $55 Million In Funding"
+    excerpt: "AMP Robotics — a pioneer in artificial intelligence (AI) and robotics for the waste industry — announced it has raised $55 million in Series B funding."
+    publishedDateTime: 2021-01-08T21:20:00Z
+    webUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/"
+    ampWebUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
 
 secured: "FkQOtwrYPOgOyB2BRXshGq4HNH7TYgeLzLQkihYCg9GRnXK+4awpqnY8ikXKQ5bCaFQ47KfhnTICkzIT9tJu7bwG+qqAuib6PJyjOuK4StTTAfvmlKsTKh9VLpGeme52BHZWtbSmEvg4wu636HAWjhFWv80wu2jeoB0TrMdAmnOLj+VvyMNsrPRDU+56h/I9R2LqbTQGqwiNpU1yj2MBYtXJ4CYp0ru9L4yV+kYM1wSu/HJlxsGfozQowxCIUF5Ao8kB3YKCzXg8/wO+oEn7j4bP3af5QK0PeAwDLclh8WeVOkp8i14e3LNsKIHW3rvIlXGuGi1ZjXTESZTUthFXtAfLndvC0pH8vG8RGPz5IbRpxBX62/cPATEXHyUjDCRWPaKwr0vxvgnQxZOc9XLuW433S3B+6N8TnpFqbmip6gtvDuSKbWgXXIA9N8kXH78gEaGVugn9lqMJAXebt+FXN75C29QJuFme4+J4uNgj4bCCo+rdN6uBLB1iJZjlPIqAU7RruDjdplLAPh73tmN1Ug==;b6O4BYNtQl6q00Q90bgWBg=="
 ---

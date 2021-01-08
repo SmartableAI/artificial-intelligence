@@ -9,8 +9,8 @@ ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Washington Times
@@ -40,6 +40,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2021/01/eye-5814965_1920-e1610038979612.jpg"
         width: 1200
         height: 717
+        isCached: true
+  - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
+    excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
+    publishedDateTime: 2021-01-08T22:41:00Z
+    webUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/300201409/video-cellphone-and-facial-recognition-data-may-lead-police-to-us-capitol-rioters"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 33
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/c/p/x/image.related.StuffLandscapeSixteenByNine.1420x800.4yqcw1.png/1610145520138.jpg"
+        width: 1420
+        height: 798
         isCached: true
 
 secured: "N7Hh1PS7Tzsg3JXUVr30+yclScxVU64AaDyTC6S1iaqcJW7m/rafWzzJVZh43op3zgjGqUF9q79emfmuz41G4bVdZc7wzej9TbCWdsBZ+SkjCWo0OiHS16M3zUyS+KrJmfmB3KjDXQmNXH6LFcb9JxjAWe+ClRWLUEv526nJP6zl1X5/UjQbanQHR7rJilX7vx1Kb0gnTWm4ehmSEXON/+TQdCLjd9SDGeIpJkas6Zs8YChzlSvlKRGm/YQfv724+4H+MfWFhoYfaBhWPxES7VMy8opUvBfiUkQdhKodHjnc6ggtZBTjRyJJ0MM8YmQJEAhknVJNsK3sCfod1JKM6Rgvswt9e+q7Q6jVnLntMV7TM4EcGtoC9AhxHzqB/f7JX3Kp4TMPJ3vtkoJhy+kFnXP6DLcFZ5EyuF2zNo9uzCsADXEuKF4bVkQv04OvQog959BzZQgYLmqZ7GSYNNJzJBTKp/6w1RS5TLccRZqdI06lx7SElvIcjyilrwVx/ZYP4rLkt0hS2lNAx0uLkQSv6Q==;VNNbo8Y1NlYI63MUXNCfbA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-
 webUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415"
 type: article
 quality: 167
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/9e924d2311164de5a9ea7c876bbb5d91.jpg"
         width: 980
         height: 653
-        isCached: true
-  - title: "Pure EV develops AI-system to automatically resolve defects in lithium-ion batteries"
-    excerpt: "IIT Hyderabad-incubated startup Pure EV has announced that it has developed an Artificial Intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles."
-    publishedDateTime: 2021-01-04T06:57:00Z
-    webUrl: "https://www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115"
-    ampWebUrl: "https://www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/pure-ev-develops-aisystem-to-automatically-resolve-defects-in-lithiumion-batteries-78115?amp=1"
-    type: article
-    provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 52
-    images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/8c17c87b-188d-41e7-bfdb-43cc2fedc63e.jpeg"
-        width: 735
-        height: 414
         isCached: true
   - title: "How artificial intelligence and augmented reality are changing medical proctoring during COVID-19"
     excerpt: "Medical proctoring has gone remote during the COVID-19 pandemic. ExplORer Surgical has added augmented reality technology that acts as a virtual laser pointer for medical device specialists to provide on-screen guidance for surgeons."

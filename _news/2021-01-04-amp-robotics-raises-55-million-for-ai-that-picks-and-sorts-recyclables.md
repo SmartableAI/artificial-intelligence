@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
 type: article
 quality: 119
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -114,6 +114,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AMP Robotics Closes $55 Million In Funding"
+    excerpt: "AMP Robotics — a pioneer in artificial intelligence (AI) and robotics for the waste industry — announced it has raised $55 million in Series B funding."
+    publishedDateTime: 2021-01-08T21:20:00Z
+    webUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/"
+    ampWebUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
   - title: "Trash-Sorting AMP Robotics Closes $55 Billion in Series B Funding"
     excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
     publishedDateTime: 2021-01-08T18:31:00Z

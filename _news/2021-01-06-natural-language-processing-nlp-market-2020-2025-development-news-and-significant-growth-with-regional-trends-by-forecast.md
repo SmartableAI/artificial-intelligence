@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) Market 2020 Demand, Industry Synopsis, Operational Efficiency and Market Capitalization by 2025"
-    excerpt: "The statistical report titled Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2020-2025 has all the important market aspects penciled down in a understandable language format."
-    publishedDateTime: 2021-01-04T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing (NLP) Market 2020 – 2027 | Future Trends, Historical Analysis, Competitive Landscape and Regional Forecast"
     excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
     publishedDateTime: 2021-01-05T11:28:00Z
@@ -48,6 +34,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Financial Analytics Market Key Manufacturers, Development Trends and Competitive Analysis 2024"
+    excerpt: "The global financial analytics market is expected to register a CAGR of 10.4% during the forecast period to reach USD"
+    publishedDateTime: 2021-01-07T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-key-manufacturers-development-trends-and-competitive-analysis-2024-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

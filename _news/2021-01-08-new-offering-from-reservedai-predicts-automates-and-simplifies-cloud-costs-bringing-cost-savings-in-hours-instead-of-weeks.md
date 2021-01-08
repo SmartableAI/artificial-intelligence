@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI classifies baking recipes and explains its predictions"
+    excerpt: "One goal of AI researchers is to figure out how to make machine learning models more interpretable so researchers can understand why they make their predictions. Google says this is an improvement"
+    publishedDateTime: 2021-01-08T11:59:00Z
+    webUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/"
+    ampWebUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/cakie.jpg"
+        width: 1280
+        height: 811
+        isCached: true
   - title: "New Offering from Reserved.ai Predicts, Automates, and Simplifies Cloud Costs, Bringing Cost Savings in Hours Instead of Weeks"
     excerpt: "Reserved.ai., the cloud cost management company that saves businesses the most time and money, today announced its Purchase Planner feature"
     publishedDateTime: 2021-01-06T17:35:00Z

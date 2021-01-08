@@ -20,6 +20,19 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "How is the Adoption of AI Impacting Global Queue Management System Market? – Arizton"
+    excerpt: "The growth of social media also spurred the emergence of innovative platforms to promote hybrid and online networking which is fueling the growth of the global queue"
+    publishedDateTime: 2021-01-08T20:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/ab19083241/how-is-the-adoption-of-ai-impacting-global-queue-management-system-market-arizton"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19083241"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19083241"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
+
 secured: "OVbesYc1ET4S5m2jbNHLFcrtuw6mB0CSrYzXiAg/DyU82ID6dkEWf68bv/p/4TuHSqExhZR+TrrgmQtN36qcih1jIZN0suVlNdQg9pNpQ0fT2jXq+VI0/W5/gCS7HQasq+K0uwLt09s8dXVBYINM3osxTFPRhzE32zIxTNIQzefN22Acxe9bJ9YNwgbtdvKSIUqkaslg0REgR74YP4MPPukaoc8TVmwErlIZGCPOnVxZRoHFlI9FoiATqfy/zYlWUyUB8A5vAnqHRF/1zz0LfhxMwJP0Qao+jTatg6rV5D2oztTXa9/7ryxkKUvdQ4NT+4AejRdlWUk8gmh/srdSNuGOX1jk1oxNNTmqyyOLyhI=;D82J6cMNl8YxfqXAxXKing=="
 ---
 

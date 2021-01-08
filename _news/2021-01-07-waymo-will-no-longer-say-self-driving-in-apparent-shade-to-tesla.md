@@ -412,20 +412,6 @@ related:
       name: Ubergizmo Feed
       domain: ubergizmo.com
     quality: 37
-  - title: "France's Valeo testing Level 4 self-driving technology in Japan"
-    excerpt: "Valeo, a major French auto parts supplier, is testing autonomous driving technology in Japan. The trial of a self-driving system uses a combination of three dimensional maps and information gained from communications between the vehicle and traffic lights."
-    publishedDateTime: 2021-01-04T06:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing-Level-4-self-driving-technology-in-Japan"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F0%252F9%252F0%252F31480902-1-eng-GB%252F%25E5%2586%2599%25E7%259C%259F%25E2%2591%25A1%25EF%25BC%2589%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25A8%25E8%25BB%258A%25E3%2581%258C%25E9%2580%259A%25E4%25BF%25A1%25E3%2580%2580%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25AC%25E3%2582%25AA%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25EF%25BC%2594%25E3%2581%25B820201228171005361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "QgsG39uWd32KyPkRELcaXAuw47ShMcGCTmY27f3EvBgVsBKGo7Z34EHfhRJ3yPmW+qL8YnmevyE2c3esGfY5XbTXwTpcZc6PhKDKiqV4pKgHzIRiHQUf8LyxEQNLgr1DHt82JlEpKySKJrRafDqsrJRXqo8IOad9aT3PCtlR+HnuQDhhaSxMlkjcMjCstAInYata1Qg2gg8Y17YoXA0TS9vUioI9Etm2eX4hgHoDeRPMen3LA+Z/K8m5IC/INJUk6rK4dZ2aAtQzKDp16piJhaSSqo/18kOjI+1SFIrScJdZJPbAfGg2U/utlaTurNSrgYqH9y8xjb5loPpkCD91RSL5CPzZx6UY4k5zZPBTiZKWv3lRudKyG3eEH0IesKJI3+bOQ4dc4tBcPzDvhRVMXun2AZq0yx/NUWvgnnOYlQiGw+K5L14qRo1tQqXtxaP/mZT/C2F4ktvt50/GY9m6mIlu3BIZCKjO1s34qi5XiEzZOSkcJB6B8SIN3LzGWHKOnQ/y5IVs/qXBetPJcQsrwg==;I7Gq+a3d17e9YHs26j0VLA=="
 ---

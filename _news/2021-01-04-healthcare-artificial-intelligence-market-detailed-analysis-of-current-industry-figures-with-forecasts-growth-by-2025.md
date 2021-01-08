@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y"
 type: article
 quality: 78
-heat: 238
+heat: 228
 published: true
 
 provider:
@@ -193,20 +193,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Construction Market 2021 Business Trends, COVID - 19 Outbreak, Regional Analysis, Share, Size, Global Segments and Industry Profit Growth"
-    excerpt: "Ai In Construction Market Overview: In Its Research Report, Market Research Future (Mrfr), Asserts That The Global Ai"
-    publishedDateTime: 2021-01-04T06:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-construction-market-2021-business-trends-covid---19-outbreak-regional-analysis-share-size-global-segments-and-industry-profit-growth-2021-01-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

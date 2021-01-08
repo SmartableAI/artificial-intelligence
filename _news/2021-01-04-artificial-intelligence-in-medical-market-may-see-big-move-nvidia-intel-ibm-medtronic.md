@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/U/1/U104795553_g.jpg"

@@ -416,20 +416,6 @@ related:
       name: Ubergizmo Feed
       domain: ubergizmo.com
     quality: 37
-  - title: "France's Valeo testing Level 4 self-driving technology in Japan"
-    excerpt: "Valeo, a major French auto parts supplier, is testing autonomous driving technology in Japan. The trial of a self-driving system uses a combination of three dimensional maps and information gained from communications between the vehicle and traffic lights."
-    publishedDateTime: 2021-01-04T06:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing-Level-4-self-driving-technology-in-Japan"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F0%252F9%252F0%252F31480902-1-eng-GB%252F%25E5%2586%2599%25E7%259C%259F%25E2%2591%25A1%25EF%25BC%2589%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25A8%25E8%25BB%258A%25E3%2581%258C%25E9%2580%259A%25E4%25BF%25A1%25E3%2580%2580%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25AC%25E3%2582%25AA%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25EF%25BC%2594%25E3%2581%25B820201228171005361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "7hbQANktArVymq6sJeR9VJHGVW480XV/EgSXO7C4L19D55GZbEhJbUhzRA1oBA+rwNR1mBTp3v2xy2zNLCPhC9nXycCDbixDF1/XXwTJVOiQ5xk/InccAQtVKuawT0LVCjokKhb78WQ4v8JOZFLrCIiYwqq3bRIfidkqnYV6eHllTqASwL+l94X/UFNxSjNLE3xvyFcQqxfjIv9BXXf12TeOKUOhia5c7T9WkfrjDIyGEgOIpaoav7ToNUu/VSHsivpiV2qZI2uosKIo4669LIBdSpScV6VPGbqdhGpce7BrvYL7sRLPYNXx9kZgSEfDZLoj4xhGnGACrQTP0MVqmHv5CZzJcRNrk9IyQ9LKJPwkNcqWfpukaHGVHapLbmKnsnpnMtUPIw77Go8v1xWUpUwCh2z9i6hknAx4Z84eGwpQwxdfkesjcK54MBuOpiW6I1Rw2lrCi2nM9fDkgvCrUFdusfPpnLeAUC3+PrT/xOc+M2zhE8t9fC1ddPuC92a5sTWgSCsR+7vMGje/C09Ezg==;vH/TO326hwqLJNkph/YfKg=="
 ---

@@ -412,20 +412,6 @@ related:
       name: Ubergizmo Feed
       domain: ubergizmo.com
     quality: 37
-  - title: "France's Valeo testing Level 4 self-driving technology in Japan"
-    excerpt: "Valeo, a major French auto parts supplier, is testing autonomous driving technology in Japan. The trial of a self-driving system uses a combination of three dimensional maps and information gained from communications between the vehicle and traffic lights."
-    publishedDateTime: 2021-01-04T06:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing-Level-4-self-driving-technology-in-Japan"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F0%252F9%252F0%252F31480902-1-eng-GB%252F%25E5%2586%2599%25E7%259C%259F%25E2%2591%25A1%25EF%25BC%2589%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25A8%25E8%25BB%258A%25E3%2581%258C%25E9%2580%259A%25E4%25BF%25A1%25E3%2580%2580%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25AC%25E3%2582%25AA%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25EF%25BC%2594%25E3%2581%25B820201228171005361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "GsQeUTvcu5M/ppWBKdnklyPaM+k6dfcH4Datc9PrN5N7t/Gq30VC6CXja3f3cn9mZHbUZ8BH5SeGHE6jlBMAT6m+NOpaVBL3Y3mT/qYAbN1IaYErQkvu3ao+BIXnQyZgjzKXK/3fEhx8VNFhCibPIeZ3HsEsvo4WwsF90XgiE8KvH2cotWrKTMbiReoMMHbdL/MKqCuAuNA3QJh7OsTbizoAhlKSCRHuZhaPGTRYQfCW+GPtVJIKUDoLju1+S57yeZII5NrW4CzJrrH0tMvZSBfPPMAQ7N9C1HS4Di0yG9XdpdpJnxCZa3Fv/a1yuwr5BnO90yEmSuVvbNZjivcKl/dk94B2ktijpgF2pJCB7zwVoJ+L1hiLjdyEh5IM05BKCNFRSQ/UlFDOlZFZ/u5GTaR2i5WjZI5NyWB4YgiHfdTxbp6aPSPqQ1R2FfkJTjBf4uDWfa40CHvUSUT7+eHqJVPJhHOm2zoXC/OCUtoDpYsdzwXgS60RiCj8rrluTLrV++7jLjXXlsoI/og2mOU99A==;R/Fm65gyyoVax9f8ehX4cA=="
 ---

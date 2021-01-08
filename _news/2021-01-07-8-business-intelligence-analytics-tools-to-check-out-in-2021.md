@@ -39,20 +39,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Financial Analytics Market Key Manufacturers, Development Trends and Competitive Analysis 2024"
-    excerpt: "The global financial analytics market is expected to register a CAGR of 10.4% during the forecast period to reach USD"
-    publishedDateTime: 2021-01-07T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-key-manufacturers-development-trends-and-competitive-analysis-2024-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "uJUqupurQCCmIVz6LKDn6JQS+DnxMGHVysJqfjGhIVpGI+dWgS7ushZ3OQtnCfnwxm8bwZOVH997IBGBB7WIFDvmYwPVSTKvzDaO9GPSy3iXZSVckNWIGpYE+pkgVesOQu14rJenn3PuQMJq6QCVpf9JiD+oeDpawDCasqyDyELdXdFhNuuj8XRAC9xNLbQH7JGQZ2ILVobIpsH8URd0FhxEt65xlrq1TSsNTw4C1CpwNS+iR0wnHEr7vt1k9AXo3RxgNeDfx12ovTsyWnvjeAjeJxRXLkD6Z9Z4FL598xSt2oDks2TsSNcTILRXkLnrMNmYAo+2ep91vQCR0h+k+7ITJzaFt0tNsq2NsVZpyQ/KR2Oy1otDtiZvknm40WWr0bJZrZyX+J2l5YL5qNGBV4W9rbkZGeVPGUSKiJ7BHJDeGzLAAfnJwVawHiYkKdqCgcfEc7NSuSJUDHOfG1plBVl9LSmwSDYDbM5LEOjGhd6THSdoodC0DTjW2C3CSeRYEh0jxftyT7QfliB9YxMwvg==;5icMu1t2rtBki/FNj5+B+g=="
 ---

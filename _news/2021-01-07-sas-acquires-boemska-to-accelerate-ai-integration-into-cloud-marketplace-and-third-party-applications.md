@@ -1,27 +1,27 @@
 ---
 category: news
 title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
-excerpt: "Strategic expertise and leading innovation The assets and operations of Boemska – a small, UK-based technology company with an R&D center in Serbia – will be integrated into SAS. The company is a well-established SAS technology partner whose global customers include SAS customers in financial services,"
-publishedDateTime: 2021-01-07T13:40:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
+excerpt: "SAS, the global leader in analytics, announced today the acquisition of Boemska, a privately held technology company specializing"
+publishedDateTime: 2021-01-07T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sas-acquires-boemska-to-accelerate-ai-integration-into-cloud-marketplace-and-third-party-applications-301202585.html"
+webUrl: "https://www.prnewswire.com/news-releases/sas-acquires-boemska-to-accelerate-ai-integration-into-cloud-marketplace-and-third-party-applications-301202585.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1250367/sas_midnight_blue_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 434
         isCached: true
 
-secured: "PUtSBq45CRZGUsEeVBCaJw56YfgdZ//ZfgL1SIDFX0UHfB7HUv18wYg4PuRvY+zgU7MuPhYOXpHbuqURvPeigADhdOj/jI1hO8SqWNq8isFRRBcVGlq7UoZ9dnT5l/FXpqah3JdaifhMaw6JQe+j2+ZsQhULDpvTzEGq7cjMUlZjjMblVQGtQMJTDko45Id4V9uQQsRhP0I2hEHVSBTdZqG6ppX8GTXQGtsKoFwR8uyQx8ISOr4tFMtHyFUC/q4NhDmOtkDC5a08b2S01XLXAtVZ+ZnsDg3hohkwQpqln4ROhg/uRCi+KT5ssnrRJbzw/RqZuKnQwqU3WnjusydL0e7xwT4Ah8PUMdo2KUC0hgo=;A2yt1XNapvr8PsayYRVR/w=="
+secured: "BQ6v7YIMA7bzaMfBCDQWToFDqCttEQIfBDom21A1cNNe90gVkQuJtPDDyqksKFWxtSkLSUQLHkFheqs0z4a6jWC+7x6rK9RoYy68jpYRB2a1n6Hyznc8eVSIRtOPjUONE6tQJNRZXEMK8O+iWkUUxBluroZNZqZ5buo6fRy2EhLuB4LHDZHMkXpoqVuVy4PkI2EWABs3dsWJ7zemu8e0qrTubIm93sQG9g150VWVhUigbPWS0DYi/OyLZN4suFsrBvfvSR8RFAkp9eMrRDJrWacgfL8kTWb1TcP0fa+m+5yzv63uKKFQqOdmxyiwAFV7i4y+sUXquztx5Fxi/mkTK5UO2Rwc8HlhsA0xNNnWhfA=;ULkiWF7KeDII2YGvtikf8g=="
 ---
 

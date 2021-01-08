@@ -416,20 +416,6 @@ related:
       name: Ubergizmo Feed
       domain: ubergizmo.com
     quality: 37
-  - title: "France's Valeo testing Level 4 self-driving technology in Japan"
-    excerpt: "Valeo, a major French auto parts supplier, is testing autonomous driving technology in Japan. The trial of a self-driving system uses a combination of three dimensional maps and information gained from communications between the vehicle and traffic lights."
-    publishedDateTime: 2021-01-04T06:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing-Level-4-self-driving-technology-in-Japan"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F0%252F9%252F0%252F31480902-1-eng-GB%252F%25E5%2586%2599%25E7%259C%259F%25E2%2591%25A1%25EF%25BC%2589%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25A8%25E8%25BB%258A%25E3%2581%258C%25E9%2580%259A%25E4%25BF%25A1%25E3%2580%2580%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25AC%25E3%2582%25AA%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25EF%25BC%2594%25E3%2581%25B820201228171005361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "v+wffbZJGjz1pZ/XxSkoe3pN/3YJLGSZa733BK6Jctm41E7LzD0wk0+yJcEAdC2F2x2snZdM2t4a9iObiL9pNSta5Vmi/qEWDdvOurzB93/VwnOzlnv3pXIucGvpDwmpoXfh+GWcRvRnbbKV7rvPiX/cGTtrWKXLJSg10DbJcy/fint169SuPMTL2fSwuS/OZgZ3+0oFy1TDepYOoo4WO6mfEhJA7cQ9LrA1MWw630W8edNmQOcaF3rWwYt9U2hXuvVjjbf28ZYBFRBq8mxrchoCZ8+91a7VqHwcaBd27WjMH3CaMzGwVrKprdwSOsGKVbcmlnaL51Lv5Y/6feavuVUPjedJCBpxE5O1Jevqo/c=;j0Naj8vl0pxwV6KWbSFG3A=="
 ---

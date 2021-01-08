@@ -741,10 +741,10 @@
     {
       "path": "_news/2020-12-24-50-plus-biggest-aws-announcements-from-reinvent-2020.md",
       "title": "50-Plus Biggest AWS Announcements From re:Invent 2020",
-      "excerpt": "CRN breaks down more than 50 AWS announcements of new products and services from the top-ranked cloud provider’s annual re:Invent conference.",
+      "excerpt": "AWS announced a host of new capabilities for Amazon SageMaker, its fully managed ML service that allows data scientists and developers to quickly build and train ML models and deploy them into a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/16",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/50-plus-biggest-aws-announcements-from-re-invent-2020/16",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -763,7 +763,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T11:39:00-08:00",
+      "publishedDateTime": "2020-12-23T12:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CRN",

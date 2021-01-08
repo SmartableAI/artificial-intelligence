@@ -412,20 +412,6 @@ related:
       name: Ubergizmo Feed
       domain: ubergizmo.com
     quality: 37
-  - title: "France's Valeo testing Level 4 self-driving technology in Japan"
-    excerpt: "Valeo, a major French auto parts supplier, is testing autonomous driving technology in Japan. The trial of a self-driving system uses a combination of three dimensional maps and information gained from communications between the vehicle and traffic lights."
-    publishedDateTime: 2021-01-04T06:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/France-s-Valeo-testing-Level-4-self-driving-technology-in-Japan"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F0%252F9%252F0%252F31480902-1-eng-GB%252F%25E5%2586%2599%25E7%259C%259F%25E2%2591%25A1%25EF%25BC%2589%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25A8%25E8%25BB%258A%25E3%2581%258C%25E9%2580%259A%25E4%25BF%25A1%25E3%2580%2580%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25AC%25E3%2582%25AA%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25EF%25BC%2594%25E3%2581%25B820201228171005361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "4qCV+TYpgETZYPdlX4hY+Wtgps7foNu4iiAkcZpNli93EIolwxrT6oFTD1FMYIvlJspLr7vf2o87kl1aDrZFHaJERfPeil2l83/B1ZLKYkiIv3yReqsOapgofNF3wkij2s7Tss8z9Y3CoHd8Bsof+wlDdOD40lJhYHJjx5q/e+fpFWZrz3cFe1lkWtafeXL7FjtR27EtlYBFVB6j1PWG+mjvNNgbX5zXVxt6eI6LEt3iQ1Xx6c8cuz0fblfSECKEZJjIz2hZ7rLCgVk7VdhhkLxuP3RH76Z2efyBSh7z7ykgvYkkFHVSAepdgaXtHtqfQqsmIvtRe1nLv8XUAw9/v2MVaukZm9iXHXD3b1w/Ly15sDb0cRdcSMVDjXewJkhQxGNetIv2Fl8VrrjCjEqp0hIdef30Dlb5IqqRMN2jBy1J+ALAL5lPM7PAgUSI1ITjT3wJ3+o4JYIPz+X2csZ22jT5PZ8r/B2OQwPliQyxkesm3K27fjqX4l/qbtiuDTo2//X6l98ZfvPXb+0vnBy3Kw==;7EFfvYg7UitaEm7hfoQ8Rw=="
 ---
