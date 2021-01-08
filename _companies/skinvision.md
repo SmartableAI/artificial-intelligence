@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sknvsn"
   url: "https://twitter.com/sknvsn"
-  followers: 2080
+  followers: 2079
 
 size: 11-50 employees
 yearFounded: 2011
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=eAcjCkwsIy0"
 
-secured: "F3SWb4Wxg5ZAgwymaHFKb4t1L5cSftzMvLxLgCB+e+lEPUURD3NvxDhFjdlqM3OailmLql0BZKQu+DbMq8yBtK9aW8WkvtkNnlyvhDQnaYKyTK+6Qlreg6jgmvfzvgcSZqZMO3DOumUfSqhwB/FVujo30qlEYohNLJxqMQkHl1tdYFDS74R7EOzH7eBNYJ/qyRaPcFSEAuC1X8IdESpSGiVjRXF37L+4d4Ap2v0Ga7G9Wofl29vpoZB+OORoRb4Dr/04K5z8namrQwrQU8sEgr2MQq9RiqcKUmW8On+/1ys0AIiBxKVN6UH9ycrxFYa7WAnqXs5A+3loocyJJQMvQQavuljqCZhdoQKuabu9+yMKEno/yhixhsI9fh/2JZm5WzLZGTQbvPj57hQfL8eqKPYVldqHveB0TOZrlIZs7iI=;8VJYD4pSHaecLGn6wBKzag=="
+secured: "GqWQUYtS8lQfcTGZaTxL5zOBwt1i9IemwYSmOriRJUcoHO6CPaLEK3viJ4H6axKt/S4uflMiTEW5ltIu2Otkg7w3hcIXqxZZNdPxYtYui+/bViCDf3JCEJe3PxmHUyg171T1/JDHbybKFu8iAOdfdx6krEZkSyNRFv/m3/2x/f5oWa2gjAL1KEUa+FQKflzWqf+Q7/LeSfbBB7p5VO71VXiK0nB64aKiP2But9dAf9buDqiBGs6OAX5UM4QPkmvx4Hlr+GE/MXIYM3mqq/rtKJP4t8xBxPqqACkb1NPGWC+szCFPWlupqQHj8r2foMZLl5kq5ufZ2fdsoaiRHdOyXWR/FP8ocYeZO9jz6n3w0P6kGIG5+Btl8CVpBdkhgenZYfLJMIFpzv+ND+IlxzqAxYv3ZSwAUosgAcPDI5SGjPU=;Mv0Em5/3kFTcQ47Y3DepmA=="
 ---
 

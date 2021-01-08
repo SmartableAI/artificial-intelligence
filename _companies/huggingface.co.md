@@ -2,7 +2,7 @@
 name: "Hugging Face"
 overview: "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users."
 type: "profile"
-heat: 251
+heat: 264
 
 website: https://huggingface.co/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "huggingface"
   url: "https://twitter.com/huggingface"
-  followers: 34400
+  followers: 34412
 
 size: 11-50 employees
 yearFounded: 2016
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=e9dLt_TUXAc"
 
-secured: "eFld1A0KIrjJFdKz3ak6iaZuwE7K9s2pdteVg6zj2Mq8oK3zxwLT+n7Su2tcWmHSXNHQc0BChj+pRXsa7w5BZN84MXVl7lxCOusu7G4iocGOjGABX4ucaDRTlqoACWy73bVxZYVEkiUuqtqUmZaacQZMDvmpcymjk1rDQ6DC2jNUmSJBbRRuiEQIKlfTfOTYnJcZ0/xTSQt8uSyTJUeOrTEDbP+QX5bSoLgMH3DQSyf9+p135YA4djUz7oaljpA49Sp7DgjtYSrN21rSVD3az0d3Ih+LwLU2iAuf0GNV56qNnizaTtxycfvNwR+sLI1Azf9QxhzXuGTTjlqnnoIHrGHiBnSZKmpwEtQvwRa3l6ii8K+y4hTxMxlxRHT6Hrdi6VoCovUQHITIVQBxghDF0iWYdnJX1KQWD4N1BUaSSCI=;uwbKG21/G7z5AIYYNEGm+Q=="
+secured: "Y7JDgG4cTj5ZQC2TDwPUjqKAB5hbY+UNOca+htmr4KlOy0FpYUusChfZoi7ybt6/mT0feNxjZhG9YvBQ/Wa3Ic8BAOnWmkXcMKOzDaU4WD9HG5Jjn60RFbXO8JjsBiMKznSNJ9194mLAJPx3i+ynUih6o2OdprqRNHbNjUrUTSu5XoJHmhNDn97EmXBTQ/cxZnzrPoPqmViB4CJbhTFHnaSEWYp8WIyUKLAx5T+nlpFUC5cXQVUXv2gkBBmyc1pngQ/PQnzutUAabZciqVDkbHIJA9v3zEaq0SDsjY0CYyD3ZnTZv69Q3+dnecqaP+nGFjbotzIDBls90UbUAuteVbOmBIXzR0IiWqYiZ/1JwPDYhmbvEjHeJdEOoayVOSpN7SWWSJWDofhA7qlb61Wp+nF69tN6cSqb+bBnNRKu/24=;cF/BkGwPDFeXpeIdt4aBWA=="
 ---
 
