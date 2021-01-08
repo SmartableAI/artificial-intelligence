@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
 type: article
 quality: 106
-heat: 276
+heat: 286
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
         width: 743
         height: 545
+        isCached: true
+  - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
+    excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
+    publishedDateTime: 2021-01-08T13:25:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "How to Opt Out of Facial Recognition at the Airport"
     excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"

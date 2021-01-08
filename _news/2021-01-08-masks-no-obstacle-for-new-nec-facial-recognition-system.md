@@ -111,6 +111,22 @@ related:
         width: 743
         height: 545
         isCached: true
+  - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
+    excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
+    publishedDateTime: 2021-01-08T13:25:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "How to Opt Out of Facial Recognition at the Airport"
     excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
     publishedDateTime: 2021-01-05T23:29:00Z
@@ -284,6 +300,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "iOvw0LhGs+Zik/o6NWlTjXH3j71inVsYH5uNAqgu09MjVr17FhIacR5K5NdMuz9MnNPx/0DrdNZcgAZec5RKc542wOELZU2lk3blO5V4ToLsfVrQ9K21fgcY48mYMc3DNzFOHoREX4D4BlbVRBuSY5dFFqri6kE0EJAuHepxZyPYf92AZjg2kk4qvVj+xixHey/JtYmqrLQ0n2v8YyPGNMdt7VYeiH+4K49OwojxobxUYmKQt5LkOfrSdE33vqMzYOy0gnEbKTmcABEvIs4P9r0KrDUf2tBCihwO/jBJJz9MFmKiJe/ipkp7zbho5SZQTnZUamBxb5GCMQ1VEuwUOC5yBPzvEPUWgRrAsXl1c+U=;XM/n8fVyotiscKyYHVs6XQ=="
+secured: "aWD919uLSyD1zKL75W0aI3IEM7vf6VqXTlWRirogwxz17wy+yQiwzS3tFLML5zS4aEDUKY6bjOeOv2mAqTWOL15/0PPWTCe8CED/mKkZxJHJvnAgsOTxlNnta4uzK+ZfLstjaT17bolKbAvTKcdmgstcqjTkVsxuX26S+X2X1xTNT/14EoHhpr7oUAECCzCYgBRjxOsXv9hip0C80KYo0DFDWOJUL+CbgXy2or9o3HWbe4xFUEFjMKaA/nHEqrKet0iFhFKJZWayN3U49aInckOSW/UTX0ShK2Oa/s6/Zqs8+GofsA4m+Lku6+8NUmTcc5E0Wf8fJwLpP9QVQwy5/jBiWxrwqYLSR8XOtTzJbEDFd6rmXUAcD8ySzO8xngU7HBsLs1uOCaARZUjbN5hFCNVialZJ8kigjBxvhbkl8N5FBKO3/ImlO3ta2cj0CtLN/9xyDhru2hCvv2wKI/OnlZmIYJwu5Q5+KXWbgjAn+Ph2XL4qjdsEaG1KUR08vUQpQSIbCNhnK3fk1fEw8YuNJw==;6qmqeFJGuhBQgN9gVlS9uA=="
 ---
 

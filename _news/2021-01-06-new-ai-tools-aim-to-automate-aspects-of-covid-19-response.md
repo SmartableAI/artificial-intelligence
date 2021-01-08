@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-06T05:53:00Z
 originalUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415"
 webUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415"
 type: article
-quality: 67
-heat: 97
+quality: 167
+heat: 197
 published: true
 
 provider:
@@ -70,6 +70,6 @@ related:
       domain: fiercehealthcare.com
     quality: 6
 
-secured: "uKSIm+vwEfLZwUUW3MPPfJeJvyywzfQSL7yZQBEaHF1VjvciddExNqq4VesBblztbQXrHhJgauPa+Fq2k8pF0Ktz+DbmmnqxfTvEUVpfwo+T7IbirmSy34trHrqIU7Y+duU5s9dcD/V3KT7O69rvk5mowadDdBjgaF6xJtsHegR6dhqOMsLSfUzgW6c0sJOu/zLk/+HpmBJmUPFRlBY4KAJrZr5+pR30VVoOoEMt8ojKtdnQL+VlI/BAU1vu4gNpu6kDT1LaIJKp3PFma6gxLf3xysLOjH7gqisr9hyDEyFmOm/mbRcq5Es9mjnZ2QowgJVkQ/0vPwD4nlf/iKJ+K7sHS8969YeYes8lR4llneQ=;iDSD4TjfmZPtWXrMYFLJNA=="
+secured: "dVFMvCVEZFMH+Q2emB963yWsMh+BIjoFyN1EVQzHBVshYPas4UZnzQ/xLVd8bpf7aAvvFPliCzvc1oG7h4mpOZvh+n/iHMQOcT6JuXpqxYfpvrMLVGGor279lMZnV4LI7r3MQaN4gFyHQK1Vx+vaZZY/Up6IlMYLZTFF1QUs+DHBkparjfVVN9Q41nwrQe9+dSgh9f7tbeBwKQfbP2kW5XG+Dn1HPKVXfHS9ojIWHC3R0XgSzZH6wsYLMfNQcQjHkAvFrqK0xSpXghsqvVwNlwiZY+QUf0VngU21qtV+vchdAd9gHx0hZH3u6idD5yGiTlqtm9sTkCasldqQF8KquuIl9tU59OpYej1Wq1xuLeIPD/jmsL7C9aYzTl4nMCPX;yvufGr+LFyE+VvbHeFaNNw=="
 ---
 

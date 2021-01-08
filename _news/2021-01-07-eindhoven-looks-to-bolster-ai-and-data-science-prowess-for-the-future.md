@@ -39,6 +39,22 @@ related:
         width: 465
         height: 315
         isCached: true
+  - title: "E2E Networks joins hands with K-Tech Center of Excellence for Data Science and AI - powered by NASSCOM to pave.."
+    excerpt: "India's largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) - powered by NASSCOM, a pivotal initiative by GoK to"
+    publishedDateTime: 2021-01-08T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/08/full/20210108183935.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "Wy5sxPvWilvTtuapzg66Q0Ofw4Xi07GsG24oUBaLzAgKmevOqdoiwY8Ny64yKV7E/kWv6UfgLaS55AeBHHmdyJRASqw7ldBFysDNM8YXbM4zJi0IggTzqFv00mtmdjoSvDseHoNyxPx34a26a6rnokT17A8cTLUfAHU4PPkB4cdpk0HE3Y3Ure1x0IaInOpaGMkBSPlpLxY9vaq/vxWSqGDVP/3shYKbJ6ECsN2kI2HX5CWUMiFvO4BQhNyauMNgu0ktfxFmbSAIui1T0sQkc9zekhRrr54F9vT7Is8hzRkv4RxIMCwpGTRVIxSZesLVuj53lseBEH9fqzUD43R03VFaYT3tO5+Qu/z0nH9MO7l3IhZg5HGq+yN2vuVnbPXKDDP4gnwYmQ8Xc3PjQND/6ZAPc+8z5A0jxkwxH9i7usNhxHjaKM0zRUVQOif3NiQYNUBuk7VFWZPD0oT3f3aDgsuFx5vyhcyx+0e1QKs24DxqLObvvNbmzHbcmPUf/bzXUfMNKU9LcDWX5zEJjSLIxg==;oY/5VjczL1hdzQlwlijpBQ=="
 ---

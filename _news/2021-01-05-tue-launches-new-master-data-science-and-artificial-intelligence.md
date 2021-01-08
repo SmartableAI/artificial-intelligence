@@ -39,6 +39,22 @@ related:
         width: 500
         height: 425
         isCached: true
+  - title: "E2E Networks joins hands with K-Tech Center of Excellence for Data Science and AI - powered by NASSCOM to pave.."
+    excerpt: "India's largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) - powered by NASSCOM, a pivotal initiative by GoK to"
+    publishedDateTime: 2021-01-08T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/08/full/20210108183935.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "UklDZeXVau8OsUb0aT6ONtqck3rYk2Lpe8LFFfnNDg8cp9gXG1sQdaaqrgnjM7zJEWe/BGMH7Itd1ix9/9nedphf3i+X7bnQ0I1+lTWHGdhEYAvhRlItsBTmoDTfieRfQRi6MvBiHpSLih5ys94xM/a60vyZ0GUO3joDFbv4S67E1BfjklPErB3HzRYFFHkKaksgh9FjyuboGJf0LeT/MpPUrXERLKoqMymb5WuF9uT8s11QWfmCgvlMe3lhb5Qj6EbrSalcOV7e/r7PmkaAq6HyIhd+PWTuJCjqNDMjo4fDEeRri7+4w0wuQpjQ0Ph47af1sK6dIXK6LVPIiXkACevyGx8mMvQSQEuLhQhq4Xs=;fIQZlfNqGcZu4JWmTJmAdQ=="
 ---

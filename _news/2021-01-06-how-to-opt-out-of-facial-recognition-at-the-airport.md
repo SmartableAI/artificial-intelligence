@@ -123,6 +123,22 @@ related:
         width: 743
         height: 545
         isCached: true
+  - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
+    excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
+    publishedDateTime: 2021-01-08T13:25:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
     publishedDateTime: 2021-01-05T05:43:00Z

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-publishedDateTime: 2021-01-05T13:15:00Z
-originalUrl: "https://www.imdb.com/news/ni63147427/"
-webUrl: "https://www.imdb.com/news/ni63147427/"
+title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
+publishedDateTime: 2021-01-05T15:40:00Z
+originalUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-    width: 1000
-    height: 1000
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
+    width: 1199
+    height: 674
     isCached: true
 
 related:
@@ -133,6 +135,22 @@ related:
         width: 681
         height: 383
         isCached: true
+  - title: "Microsoft’s AI Model Outperforms Humans In Natural Language Understanding"
+    excerpt: "Microsoft on Tuesday announced that its AI model has surpassed humans In Natural Language Understanding (NLU) With SuperGLUE benchmarks."
+    publishedDateTime: 2021-01-08T14:53:00Z
+    webUrl: "https://www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html"
+    ampWebUrl: "https://www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 73
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2021/01/ai.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to help Canadian students, graduates and professionals attain skills in data analytics, artificial intelligence and cloud computing."
     publishedDateTime: 2021-01-06T17:44:00Z
@@ -174,20 +192,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "Microsoft AI Skills podcast"
-    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
-    publishedDateTime: 2021-01-03T22:10:00Z
-    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
-        width: 1600
-        height: 600
-        isCached: true
   - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
     publishedDateTime: 2021-01-05T07:23:00Z
@@ -282,6 +286,6 @@ related:
       domain: tcs.com
     quality: 29
 
-secured: "iuLTVD1Z890fYs0TapHwMDxbjUPGNBkqUEiPBfp2RxgiQf69TLkHFmNESwagyQUHIZhnaqeMYmjYSpnBpeXgCiPZqp2cMd8B391iBP5h82/6bB/qai1z7E/R5birvIn977Cduq7uTWEK5El53Bg1CCQx0zGL0QKTA7ExAfNy0td7kSebqJB2u0VxASRFEJ5Mq9BFIL6wOOo0V48W2cRpp3BzTxK2ODLcWw1mAzqlSSjCArMPZoXQ2EK/Io8bhdlqNOH+AyzhR2/9/FOa9AYOtO22PhvZJyRZFrSNkZOKiZYE5YonrfignxMz/Bmet4gl5vme8km0vI1/cqZ5V2TaQGCRjaANWQVwiVbudNI0OWUIqlwMoP4A6ZCnc2wkm3FjFq/xsGarMlVuga65kNkCak0FXrECCLLbYwyDS4cqLsqQNfSXGDduo67npajx59+IZmaw9kixGysWIg6s2dhcnRXK5pROg1X5oCramnullO0mFWabBAn4unoJV7Kv2TCAPZzu9iDPL/+OCG3f2pMJAg==;TnEnoPeLUQK4q5J08FvBwA=="
+secured: "JDX+y8bp6I3d3umCqnqEmskSg1GHZpg5PPeNR89gFJDvsTcch8rSI4uL2LVuo62ZRBHFGP9VJKhQSCnRR3J4cmhrTQ/6zKzHHtWUApWRduIKXJ1C02ClCKNfeHNPT5QM3lNt56avxi8fUPIR5mp7T1z6Ykqy7WnoUDOQhls45Hhw8GO/8EMWsy5yfSvgSqL1KJq9dl+HaYtC5m1DN/rFSzK55z6MS9LhypL7kOqwB3DxDzTAJDI8yFzb9kkmeqSF2PCLAx/BnxZVvSNWTfMAlEgSagyIKG+Md9as77MoLgFlw6W/dKQXr8NtkVFswNkylkyOSQ9HLnc7Yg/qncIMZcDPBPaiGZLN1NLod+xTnfw=;nFs0lfpL7zlC5AUra+TN1g=="
 ---
 

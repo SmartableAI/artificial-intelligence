@@ -8,8 +8,8 @@ webUrl: "https://www.hindustantimes.com/science/scientists-exemplify-world-s-fas
 ampWebUrl: "https://m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 related:
   - title: "World's fastest optical neuromorphic processor"

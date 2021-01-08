@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Developing AI for the Power Grid of Tomorrow"
+    excerpt: "Professorship of Artificial Intelligence at the Chemnitz University of Technology is a project partner in BMBF-funded joint project for greater digital security in smart grids - contribution to greater social acceptance of AI solutions The energy transition requires not only renewable energies on a grand scale but also intelligent power grids."
+    publishedDateTime: 2021-01-08T14:33:00Z
+    webUrl: "https://idw-online.de/de/news760892"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 39
+    images:
+      - url: "http://www.idw-online.de/de/institutionlogo24686"
+        width: 2000
+        height: 1310
+        isCached: true
   - title: "Harnessing the power of crowd-driven artificial intelligence"
     excerpt: "The European Research Council (ERC) will fund the development of an innovative platform incorporating the IIASA crowdsourcing game Picture Pile. IIASA Strategic Initiatives Program Director Steffen Fritz will lead the project."
     publishedDateTime: 2021-01-07T16:19:00Z

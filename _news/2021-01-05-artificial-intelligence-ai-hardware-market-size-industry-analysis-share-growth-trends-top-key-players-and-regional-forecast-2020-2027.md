@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2021 – 2024 | Revenue, Trade Analysis, Trends, Drivers, Challenges, Growth Forecast"
+    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
+    publishedDateTime: 2021-01-08T14:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-2024-revenue-trade-analysis-trends-drivers-challenges-growth-forecast-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI over Edge Computing Market 2020 Segment Overview, Company Profiles, Regional Analysis and Forecast 2025"
     excerpt: "A recent report published by MarketandResearch.biz titled Global AI over Edge Computing Market Growth (Status and Outlook) 2020-2025 aims to provide up-to-date information on the market carrying out a thorough research on the market of historical as well as current growth parameters,"
     publishedDateTime: 2021-01-05T01:37:00Z
@@ -150,6 +164,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market 2021 Growth and Business Prospects, Industry Size, Forecast by Share, Revenue, Development Status, Demand by Regions 2023"
+    excerpt: "Comserve Inc. / -- Based on organization size, the sub-segments include small and medium enterprises (SMEs) and large enterprises. The Machine learning Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-01-08T14:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-development-status-demand-by-regions-2023-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,57 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-20-facebooks-ai-is-flagging-more-hate-speech-before-you-report-it.md",
+      "title": "Facebook's AI is flagging more hate speech before you report it",
+      "excerpt": "The social network says its automated tools are improving, but it's still under pressure to do more to tackle harmful content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "originalUrl": "https://www.cnet.com/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/nJG0qfV5rH_EZwuAYPpcwqBRSsU=/1200x630/2019/05/01/3024034b-a20c-4651-8db1-daa65b6af6c1/facebook-f8-2019-mike-schreopfer-0032.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "publishedDateTime": "2020-11-19T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses.md",
       "title": "Google’s Project Guideline uses AI to help low-vision users navigate running courses",
       "excerpt": "The company also continues to develop Lookout, an accessibility-focused app that can identify packaged foods using computer vision, scan documents to make it easier to review letters and mail ...",

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-06-what-buddhism-can-do-for-ai-ethics.md",
+      "title": "What Buddhism can do for AI ethics",
+      "excerpt": "Buddhism teaches us to focus our energy on eliminating suffering in the world. The explosive growth of artificial intelligence has fostered hope that it will help us solve many of the world’s most intractable problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "publishedDateTime": "2021-01-06T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-how-to-merge-data-in-python-using-pandas-merge.md",
       "title": "How to merge data in Python using Pandas merge",
       "excerpt": "Use the popular Pandas library for data manipulation and analysis to read data from two files and join them into a single dataset.",
@@ -165,7 +208,7 @@
       "originalUrl": "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -879,7 +922,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 276,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -1181,59 +1224,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language.md",
-      "title": "Consumer-Like Employee Self-Help Requires A Bridge Between AI And The Semantics Of Human Language",
-      "excerpt": "Whether completely remote, in the office with an abundance of safety precautions or a hybrid of the two, employees require immediate, personalized help 24/7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f184032107158000722cf84%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
-      "publishedDateTime": "2021-01-05T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -117,6 +117,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Major facial-recognition supplier builds system to identify masked faces"
+    excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
+    publishedDateTime: 2021-01-08T14:49:00Z
+    webUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces"
+    ampWebUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 23
 
 secured: "CuhCZU2I8XArHJhv2kE51J2qhyQhgJfRyNVHpSIqsdfQ1RWf18HPT5hnOPBS6sIi5wBjYJiY7T+hrLY2r3K5JSiYKYA9meRUFxzZWH6VNq34uJwZIzbbwWedJi2LfoxMjrOI2PGAF4uYQmN2/AahCUUYIN6Gy3w8IVR6puKXi1zVDvuktjVzi1a4zMn1OR0ZdPWBtY8uV4ibOXHw6m8ouII0Qb4aXW5kYYdE3nwmNmD6Jyu+B5rdcKUUtiNdIzG5alS92jrkER1VUn4tTj2MzZTAG5bzEgU6aZVQmOt+PFpKE87cV2W574BPBO0EJCgbMFSoELLl4hOPZMpmnYFFweV54+Zr+LheTeas9CMcYT0=;EEP4DJwJCmht3VdjSwmiMw=="
 ---

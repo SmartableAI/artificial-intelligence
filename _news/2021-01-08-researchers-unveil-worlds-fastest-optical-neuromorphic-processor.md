@@ -35,7 +35,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 37
+    quality: 39
   - title: "World's fastest optical neuromorphic processor"
     excerpt: "A Swinburne-led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence. The neuromorphic processor operates faster than 10 trillion operations per second and is capable of processing ultra-large scale data."
     publishedDateTime: 2021-01-07T17:36:00Z

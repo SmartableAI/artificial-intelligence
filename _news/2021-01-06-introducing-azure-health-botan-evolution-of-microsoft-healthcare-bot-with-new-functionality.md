@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
+    publishedDateTime: 2021-01-05T15:40:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
     excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
     publishedDateTime: 2021-01-08T10:17:00Z
@@ -123,6 +139,22 @@ related:
       - url: "https://www.tvbeurope.com/wp-content/uploads/2021/01/struum.jpg"
         width: 681
         height: 383
+        isCached: true
+  - title: "Microsoft’s AI Model Outperforms Humans In Natural Language Understanding"
+    excerpt: "Microsoft on Tuesday announced that its AI model has surpassed humans In Natural Language Understanding (NLU) With SuperGLUE benchmarks."
+    publishedDateTime: 2021-01-08T14:53:00Z
+    webUrl: "https://www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html"
+    ampWebUrl: "https://www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 73
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2021/01/ai.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to help Canadian students, graduates and professionals attain skills in data analytics, artificial intelligence and cloud computing."
@@ -165,34 +197,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "Microsoft AI Skills podcast"
-    excerpt: "At Microsoft, we know that digital skills provide the tools to mitigate the threats of poverty, unemployment, and inequality. Microsoft invests in digital skills development to build ICT capability in individuals and SMMEs so that South Africans can create new ways to address issues of unemployment,"
-    publishedDateTime: 2021-01-03T22:10:00Z
-    webUrl: "https://www.microsoft.com/southafrica/skills/podcasts.aspx"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/SouthAfrica/skills/images/pod1600x600.jpg"
-        width: 1600
-        height: 600
-        isCached: true
-  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-    publishedDateTime: 2021-01-05T13:15:00Z
-    webUrl: "https://www.imdb.com/news/ni63147427/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
     publishedDateTime: 2021-01-05T07:23:00Z

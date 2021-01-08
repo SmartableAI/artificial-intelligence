@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-30-man-uses-brain-controlled-prosthetic-robot-arms-to-eat-a-twinkie.md",
+      "title": "Man uses brain-controlled prosthetic robot arms to eat a Twinkie",
+      "excerpt": "A quadriplegic man, who suffered an accident in his teens that left him with minimal movement in his hands, used two prosthetic robot arms to feed himself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/",
+      "originalUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/?amp",
+      "publishedDateTime": "2020-12-29T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-artificial-intelligence-robotics-market-to-see-major-growth-by-2025-nvidia-intel-ibm.md",
       "title": "Artificial Intelligence Robotics Market to See Major Growth by 2025: NVIDIA, Intel, IBM",
       "excerpt": "Latest Study on Artificial Intelligence Robotics Market published by AMA offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Robotics Market research report shows the latest market insights with upcoming trends and breakdown of",
@@ -1342,58 +1385,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026.md",
-      "title": "Artificial Intelligence Chipsets Market Size to Witness Huge Growth by 2026",
-      "excerpt": "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Artificial Intelligence Chipsets Report\" provides data, information, brief analysis, company profiles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T21:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

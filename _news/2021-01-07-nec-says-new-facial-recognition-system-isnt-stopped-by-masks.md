@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/nec-face-recognition-mask.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -117,6 +117,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Major facial-recognition supplier builds system to identify masked faces"
+    excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
+    publishedDateTime: 2021-01-08T14:49:00Z
+    webUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces"
+    ampWebUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 23
 
 secured: "ZMs+zHFF9mZj6SxHjqDf0fanVbfFbu9Im36FIAbdeRZ1KimqEG0+WChetz0ych5e57pAm2A+a8aJhBdHm7Hx8nQDJ8LJUqAWwm592ukDp90+Hg5DNN9J4xFxFh02pce+OLx+8QRDv4TedpViG0oBX/n68HkXwZfy9D+RB/XKNvEX5a9ZhYQPPBiOUL3FhynfwM6uZVp7QzZeoOQNKQ+xnjSEhjfcfxYjgTN4BYoYEXim0VfJXoHqjmXvBvAtah88RmvDn6B8NiKKe687SsL6z9zSqH2JpIeIczaj3yE2L5+lPzJ3f3E8VYwqPG6onw2lm0GVoCKBCvcRA2ywTVH/zW8rSZ8eamICmjF/9Ys9HVrV7DZNBmhfoV0v/pR/WPx/tASjZVU4v+oMSp9OEsLB7QjNWl+E8QY/NYeJFdRojm0Kx7c90/LOu/oJbbFuNdSAneoAjIcb9uXJ/G3we4x/B7UbLMVimkUrGS8nB9I2noQf179y/PNcvdW2ajDJWtJeQ8oDhJqHRPEfhGHKI7n0zw==;HqNx+Ub0ij5FPhHcmtoiTA=="
 ---

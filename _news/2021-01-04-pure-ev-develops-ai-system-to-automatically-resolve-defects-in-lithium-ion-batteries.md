@@ -35,7 +35,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
+    quality: 167
     images:
       - url: "https://images.wsj.net/im-281112/social"
         width: 1280

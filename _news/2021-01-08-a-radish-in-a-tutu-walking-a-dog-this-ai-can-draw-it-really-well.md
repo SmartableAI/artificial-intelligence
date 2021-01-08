@@ -1,27 +1,27 @@
 ---
 category: news
 title: "A radish in a tutu walking a dog? This AI can draw it really well"
-excerpt: "An artist can draw a baby daikon radish wearing a tutu and walking a dog, even if they’ve never seen one before. But this kind of visual mashup has long been a trickier task for computers. Now, a new artificial-intelligence model can create such images with clarity — and cuteness."
-publishedDateTime: 2021-01-08T12:54:00Z
-originalUrl: "https://kesq.com/money/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
-webUrl: "https://kesq.com/money/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
+excerpt: "An artist can draw a baby daikon radish wearing a tutu and walking a dog, even if they've never seen one before. But this kind of visual mashup has long"
+publishedDateTime: 2021-01-08T13:27:00Z
+originalUrl: "https://keyt.com/news/money-and-business/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
+webUrl: "https://keyt.com/news/money-and-business/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_night.png"
-    width: 280
-    height: 360
+  - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 576
         isCached: true
 
-secured: "G9pXALx+j9MXs+r9aWpb7PyIAdr7z+rJF3b/Q0jfy4IjzRbuaLm0Bu22CL/2UQqU6YV3YxOw1UXVh6rVEFLSFBsgSnAQ7BXOtGLmakuLWVhx0XSaKr8C3eHuNTdc6U6LjczI09naQ9R1+wzxtdi7YjZ3Iwx590FNkl9CsZ8TMOIcEkOLFiHvOOkS+NutBQul9dkPMZOhR0ZM7RLTlCm2KpwYiZKQyjjnRVYMCn8c8GZSjfN8OtBcY8KeFanKYG2TkHwPaGB5813XOmLQ8edREjh2zfTWJK9HfK7F8QEx8H36B7n+uVNwCD+s/MVQZNE1Udab9+HkmbJ51naT9buVK7guTvrr2bGONRQMq5gRfsw=;UMgN4WFgO09SfWycgq05gQ=="
+secured: "PBWhK93Y6at1CwUcTbMXgZhjHeb6Vetyl+kOf2Kk6yQUD0HIWAXGOp6PoR9Wqc5QWUqsT+5NzB2ZGotopF2SxHZltxOsH4u9Ta0kl5RkLTa/pE5qTxN7BE81teT+bf8b/18TfBQ2+mZ20MSW5lJXyZ2dVwQYUOPK698VciXfF6d2BheQrTxRm4/FLOP39WxADCfnKIZtcbIT7kZRYrn+reZ9M1NKOzXR7AfM80TYDsmVu19oICPkac++2+1NmZ/9VWOTZ6VQ/U4vgFdGiEYIk41gadOHGtJlRgnA8og9AGZjqRolO6jlm+4wN5sNY2Q12pk5CfUefb3fL4H8rsXjIIM8+udUldMQdAYWmVPhnmM=;k7qwDwscQFZzvANxefKS6w=="
 ---
 

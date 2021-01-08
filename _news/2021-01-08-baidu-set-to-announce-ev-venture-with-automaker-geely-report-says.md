@@ -1,0 +1,56 @@
+---
+category: news
+title: "Baidu set to announce EV venture with automaker Geely, report says"
+excerpt: "Baidu and Geely will team up to make electric vehicles for the Chinese market, deepening the internet giant’s foray into automobiles as its core business slows,” Bloomberg reported citing a source with knowledge on the matter."
+publishedDateTime: 2021-01-08T14:34:00Z
+originalUrl: "https://www.techinasia.com/baidu-set-announce-ev-venture-geely-report"
+webUrl: "https://www.techinasia.com/baidu-set-announce-ev-venture-geely-report"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Techinasia
+  domain: techinasia.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "EV Dreams Power Baidu but May Not Last"
+    excerpt: "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy."
+    publishedDateTime: 2021-01-07T10:59:00Z
+    webUrl: "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-281927/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Baidu and Geely to Launch Standalone EV Company – Report"
+    excerpt: "C hinese search giant, Baidu Inc., plans to form a standalone electric vehicle (EV) company with Chinese automaker, Geely, according to Reuters. Two sources familiar with the matter told Reuters that Baidu ( BIDU) will be the majority stakeholder and focus on the software side,"
+    publishedDateTime: 2021-01-08T10:32:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-and-geely-to-launch-standalone-ev-company-report-2021-01-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-and-geely-to-launch-standalone-ev-company-report-2021-01-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-and-geely-to-launch-standalone-ev-company-report-2021-01-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+
+secured: "zbmbKya8YeW3vkJ/FgGoCp0h31wsAbvdgZsMHQ2AqTiJnY18wva9awROmpvWmfufz5VqAulXvLd2AC00kC8oJN5o91RyEStAHnNWt36+uMsHJJsTi351twxokMPs0viqpqahMKAoVXOk4VGPuZus23PeABRy25AG+QwGn3rZ8ph9omRIo6sjkS9anGojRkQkRALlmxpZYE3PFgWCm4v8tbKg8RMSNDzEwMEj55kN4Ttocyhw+Wqoh/Za+ubh5dDrNltO9KRhAC2/u1T0WcM20tFd4BAzXb5FoYxs2UjM/GkgMTP8KnYDZtC99i/YhjjaA84eyxUuYZAwRjSqDRJwQz8bsAgphDZ6eYzZsAZtF86CUJToYkgoPyAi4KVSqaIrvxHp+ajOwBjfxsXGIZGlGl325DyMx1n2WMp2aAN6k0IbOQfxdAvzVr8Zm4q1VJ8J4b5Q2qt2+pvoIp7EoQsRgIoxaPbO6QFh+K8OvDPCwn/qVvZKgva5Z9xw8ps10XgpmEyV6yXPJDXTelrbw32Mcg==;5PL40EuSDgAgTeZ1xOuI8Q=="
+---
+
