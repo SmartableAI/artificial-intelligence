@@ -212,6 +212,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apple's 'Tesla killer' self-driving car is at least 5 years away, according to a new report"
+    excerpt: "For years, rumors of Apple's self-driving car have swirled — but the latest report says it's still at least five years from its big debut."
+    publishedDateTime: 2021-01-08T04:55:00Z
+    webUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/5ff862fad184b30018aadb8a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Waymo will no longer say ‘self-driving’ in apparent shade to Tesla"
     excerpt: "Waymo, a division of Google parent company Alphabet, will now refer to its technology as \"autonomous driving.\""
     publishedDateTime: 2021-01-06T22:20:00Z
@@ -257,22 +273,6 @@ related:
       - url: "https://i.insider.com/5ff45ca36056b60018721eb9?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Check out this Tesla Full Self-Driving beta test drive from SF to LA"
-    excerpt: "Someone used the latest build of Tesla's Autopilot FSD Beta to drive their car from SF to LA without a single intervention."
-    publishedDateTime: 2021-01-04T03:54:00Z
-    webUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77059/check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/7/7/77059_01_check-out-this-tesla-full-self-driving-beta-test-drive-from-sf-to-la.jpg"
-        width: 620
-        height: 327
         isCached: true
   - title: "Waymo Ditches “Self-Driving” Terminology in Another Dig at Tesla"
     excerpt: "If subtle digs were arrows, Elon Musk would be bleeding profusely by now. At least, that’s what industry watchers like to imagine goes through the mind of the Powers That Be at Waymo."

@@ -101,6 +101,22 @@ related:
         width: 743
         height: 545
         isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T22:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+        width: 743
+        height: 545
+        isCached: true
   - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
     excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
     publishedDateTime: 2021-01-08T13:25:00Z
@@ -132,20 +148,6 @@ related:
       - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
         width: 5568
         height: 3712
-        isCached: true
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T22:20:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
-        width: 800
-        height: 586
         isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
@@ -291,6 +293,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/7bf467bf754a86923bd12df78ba60421_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
+    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
+    publishedDateTime: 2021-01-08T19:08:00Z
+    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 39
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "M8w4r/EmuBehdsLTBpW++NGy0bMuduJwDdn5neTv47Eiuj2/8bL48EOGKlKzmKo71cSeb5tun1a2Z2SV8lpYLSNADXwa5Uv1QCvF0MVG+BwLZL5OmnnRWaPmlR35XO94E18QWEB6cqY6FMxfigq9mHuzkXR1++6Xku+pjLnv2Fk4FAKIemyjYszQR+oFImhsFAHKP2esjy2w530olbjqCxqiKxF0gGKsa4TA6iVdOnN7+cQiYRgV8nRi7/q5xn7K3VwF8IDq43LyrJpXTAqRMKXZNdJMc7R0l7qohCavsPuYUEtKd2Kty2bxOMgX3LGz+eubMHMzNjGNgnP0eBJZU3vvzySJ+S/Xqr83+hqZDSPBNxBQKfWpFMSIQe+n3NFWSHbbX6p0DPeQZeiyhb3yn0SfnTa3syY/hd1j1ZBxIYcEgC4XSl24WoNzMdTBi9neSwLgPXNA8ErR+tzyG1BAUa+mGkGDPF3h5Q6/jA8RhwV4IFnfQRyU9ZIcJBov0r43SNFWhTrYdCaI++fHgr0wTQ==;O2qiMTf+9ZpoAlprfx9wkg=="

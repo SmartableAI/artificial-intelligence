@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/go
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital.com Announces Best Artificial Intelligence Companies of 2021"
-    excerpt: "Digital.com, a leading independent review website for small business online tools, products, and services, has announced the"
-    publishedDateTime: 2021-01-04T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n18993686/digital-com-announces-best-artificial-intelligence-companies-of-2021"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18993686"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18993686"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "How This Mumbai-based HR Tech Startup Provides AI Solutions To Companies From Hire To Retire"
     excerpt: "We got in touch with Prasad Rajappan, Founder & CEO, ZingHR to know more about his startup story and their focus on AI."
     publishedDateTime: 2021-01-06T06:32:00Z

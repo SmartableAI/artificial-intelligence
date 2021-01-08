@@ -221,6 +221,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Report 2020-2027: Market is Expected to Reach $35,323.5 Million - Escalation of AI as a Medical Device"
+    excerpt: "Dublin, Jan 08, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Jan. 08, 2021 (GLOBE NEWSWIRE) -- The \"Artificial intelligence in Healthcare Global Market - Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Is there a problem with ..."
+    publishedDateTime: 2021-01-08T19:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-report-2020-2027-market-is-expected-to-reach-353235-million---escalation-of-ai-as-a-medical-device-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
 
 secured: "OZWVuXu1RtNKUhfy8HnRynfGsNT/EMVD2ZJTXPkrRnsiWxJ4+WwLy2vgrg9doVZYE0sKn7haoWbGELN/3pztvhMxZ8Fg0kPNhMIxLmw1evfTJrRASt3Twrzh91Q/6SYTnpno8qPnCgSIg6MrpeDoo+Yu9+NKS2o+Xx8Xk/0gygYsy4MA5jQqr1ZRbTiJcH0BvvrgJLeX32+vrGZSGsR/2VuCQi4laJJbSLjh7Vg+/VNtty1m+dXNKqlMjDcrdcEfgkimD7to8Z9lGY3e43c7qchGhv1Ixe86zK6gMw7mbTEvIGvHznDIHsKYgQ3XZYwEmp0xu79xPFj3v6dVKm7foTQmS0Tkq//87JJYVzlY/L0=;NwmmLloH/nMhkMz7hgrDhg=="
 ---

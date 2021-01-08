@@ -46,6 +46,22 @@ related:
         width: 1029
         height: 516
         isCached: true
+  - title: "Stanford researchers propose AI that figures out how to use real-world objects – Jaweb"
+    excerpt: "One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at Stanford and Facebook took a step toward this by extracting information related to actions like pushing or pulling objects with movable parts and using it to train an AI model."
+    publishedDateTime: 2021-01-08T19:12:00Z
+    webUrl: "https://elmoudjaweb.com/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 51
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Stanford-researchers-propose-AI-that-figures-out-how-to-use.png"
+        width: 1029
+        height: 516
+        isCached: true
 
 secured: "QvLY2LvfSm8QnOczruSBy6J3YIImkcasdSfj/c8rd47XUFf9ZZbF2CajfbYtarFnbZpLUfzktHGbCU3R4GCrjcNh4eEOEVK5z3aDbTTyfTEj4UbCg6S2kzuvSB/iLKjU0HFlahugyBeB7sc3kdhnyvMbfhy0cfjnwqWOROeL9brPI79vi1Cb7292ERfg0Vkk7oR5+0flPhDz0rsWAeB99IXErSoCKf5y7rnOP0buQM33Wv0zxReylou3HvP5cui4L6+pXUVh5TLmV/OCNOt9uP76YAOG7gwNAw4+1QORAyQnwr4UgS+abgH4LvK/APidVskNgQZYISNIG3Yc68bsn0Eaym+96Z8m8v3qMPCqAnGhIM8AZgWhz14YJhSDBwzmcVz8WNnu4rnSKTq1rj5qMm5aiOSfm9DRm7x0+iY8aSQoML6L7xwyiKI6oYmq2AadABNcvRbKF47Pwan7BqQzLa+CwAhKL+dWZIN80dw3sBQKcBaHV7UPyLWgwnMdATaEZi/T8qhnoDBZkyBXN2oidQ==;844e0NTYdwTwDyKmf0WoxQ=="
 ---

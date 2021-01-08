@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Light-carrying chips advance machine learning"
-excerpt: "Researchers found that so-called photonic processors, with which data is processed by means of light, can process information very much more rapidly and in parallel than electronic chips."
-publishedDateTime: 2021-01-06T21:21:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/01/210106133027.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/01/210106133027.htm"
+excerpt: "An international team of researchers found that so-called photonic processors, with which data is processed by means of light, can process information very much more rapidly and in parallel than electronic chips."
+publishedDateTime: 2021-01-06T17:23:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-lca010621.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-lca010621.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/252840_web.jpg"
+    width: 720
+    height: 295
+    isCached: true
 
 related:
   - title: "Light-carrying chips advance machine learning, say experts"
@@ -33,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "rMhChf4yCS/XmzaMwzxFdA1VgmKP77UP/v/r0gUc/cqOcG/lRmBJg/E5TE9VtoPz5MBZ7TDYbWnaCnlwOvQa8VPZY7+46xcd5B9XwrYU4iQABvk8HTqTzshXfP+P0ysXARcE99zZDcv8CI2eAVGlXdhYzGH6fTYSYLwLGT8Lxln22sQw6FA2qfFS1HwvhXiOTccTs9VIqfQ8DF48jlv+OZeLpojQ66Nv+JnsgEVSYk62xmtoDt8KG3dhRF65oQy2EjPx5qGMeIb/8EEp5B5ZBQ9HoxfAJhK8kVmTmHl15+bowb1+dMZvRaXH4KJadXRmkXEWQGoz153bIptvYT7Ij+GAQXbEHC4B9Q2AkBVMvRI=;cW6oZS+DLyaD0nA9Fy7tow=="
+secured: "LsTDdALDtE3v/Ixfcf70oJH0nbzElH/r5Z3PgB44hGCa9+m3T2DkEG0OpvY/mClAV6uuDxsWhipQygM0NWMKpK4JukrDwCgIFTcTwWFB9Km3FiEWoRTN2Gk9taCHAhnO6xLRKrtsXCv3kok1rSzY8RVFJVPnKTNjrlinu8iGEtjQ7LUqmt//kZUWKIPSd9hoTKXLtTql+6WzUcOtzPUuL2xyM1idMTOJLT4P6dcXHBjfNckJN4K+mSJLz3ReDhDVI9a4F6GmV2wF0lDb6wQNm6epOXQ4ALTToUmDvoD+R3PISxehSZVOLMzIZWIN3q+HNaHY/ETbWA9a95xpn6h2Q8kzlOnqodNVx6BBO9loPEY=;yCefWYOe7yHwI9TiGjEu4w=="
 ---
 

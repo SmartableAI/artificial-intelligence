@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2021-01-08T19:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Gesture Recognition Market Share Current and Future Industry Trends, 2020-2026"
     excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Automotive Gesture Recognition Report\" provides data, information, brief analysis, company profiles,"
     publishedDateTime: 2021-01-06T07:22:00Z

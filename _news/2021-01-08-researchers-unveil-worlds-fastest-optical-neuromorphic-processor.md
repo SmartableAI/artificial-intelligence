@@ -35,7 +35,7 @@ related:
     provider:
       name: AZoOptics
       domain: azooptics.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_26516_16101082357449275.jpg"
         width: 960

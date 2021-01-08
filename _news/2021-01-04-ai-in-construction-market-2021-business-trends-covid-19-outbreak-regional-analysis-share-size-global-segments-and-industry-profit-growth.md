@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2021-01-08T19:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI over Edge Computing Market 2020 Segment Overview, Company Profiles, Regional Analysis and Forecast 2025"
     excerpt: "A recent report published by MarketandResearch.biz titled Global AI over Edge Computing Market Growth (Status and Outlook) 2020-2025 aims to provide up-to-date information on the market carrying out a thorough research on the market of historical as well as current growth parameters,"
     publishedDateTime: 2021-01-05T01:37:00Z

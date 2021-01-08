@@ -3,10 +3,12 @@ category: news
 title: "Masks no obstacle for new NEC facial recognition system"
 excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
 publishedDateTime: 2021-01-07T22:20:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
-    width: 800
-    height: 586
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+    width: 743
+    height: 545
     isCached: true
 
 related:
@@ -286,6 +288,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
+    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
+    publishedDateTime: 2021-01-08T19:08:00Z
+    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 39
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
     excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."
     publishedDateTime: 2021-01-08T02:29:00Z
@@ -298,6 +314,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "wMOYlCUzumsYmpiytzT03R7FII25Rf1VPSGtEQeiczTSQz7p11BoWlhw/lFD4bsbaAuGWJ+tLrvzGXKpxH1G0zVRTLORzbgZwm8aCMbQVZs1ZR4/xo/APyWWLnaT2CGtq1d902yr6xP9q29qx/FmWKWdNZBGXbn9lbBhc+E5rxVz2DfKx7ec8wDYu6mYk1LK3QrYP11jxsdh3Q8TsVd5l6hLyE9k48QqXPOAo/x79LUIgcQiVQF7+LkmgDPjZ9XkCevQ14E4bxf+mTcJAPDfU1hAa9v47kaDYVcBL/x91zY/uzO/nlgRrkY+ATPOT7VWu0Sc3SvCsMhABw+xgmA498a1Ck7sdqhOeyh7ENtmBWxQtlwKoAX+gBrGrWKUqelE7EMR0PStJ9bJwZUN7p0KYT8VWEBK86e6AV4tyuPWmOaicgUsYjTxD8n84Z83vxL81WVHhoPdN+VRcL3GlWRNfy3XIBkMc9KMCbRB7/JAmByJmMfqK3zIHG6W3RLSt4M282miHw8Z6OOuIsIEnXSE8g==;uXBVjx4U7CxXZ5mASvN29g=="
+secured: "PJYkjqdRavq05nv/PcDdeii7T5xLVLlCa9SJuPT1eYFmdiMVJsTjMqxsRJfOcDx8nj0IaFEJHGHtytDgSnKrRJORTZzwDp0T1yC2QIo0VYxcBjk+ImrFwrAf5774vg2jfBJSFMVBt+npgcipBbCB53hxN0vW8UUrAgaGWBHKUfi6qfyy+ycGmMdY4aeAR4UEg4evoCqCF4n5MJMPd9bxr0knbb/v2MWwrIlynaMSg1LL+JBuVyev4XYf9avPaj8fK4x9D75RlCvTn+qeYLk5jmeOW+uUwWzMWzvSRHL9gWBtTCU3bFJ4SbOiF/UgTqWXbne2RNGnqD+N2JI3PR4HDfJtHDWjU9KlFnOLKkhpCHU=;Ol6X4mvPcY/0We2FZKBDgw=="
 ---
 

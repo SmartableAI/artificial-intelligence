@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Digital.com Announces Best Artificial Intelligence Companies of 2021"
-    excerpt: "Digital.com, a leading independent review website for small business online tools, products, and services, has announced the"
-    publishedDateTime: 2021-01-04T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n18993686/digital-com-announces-best-artificial-intelligence-companies-of-2021"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18993686"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18993686"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
 
 secured: "ubGlNsREpxyPOXkSyM6be14NUx04RJJL6PMHfHlDjoEon/Q0NfGbo1KVKFC+ClrTUOZv/dSsVk+Jke788kEy7e1h/3Yq4T5fimBsBdVoOZt9E2MeVkXEuQiH/GRDC9akT6maQPG7Q4MDgXuGCHeB5UGOAIDxuAhccQp3ZAeqJLfsQDulHOhB4i+c3NlVsyOMWt42X/i7GVJ00qcC2PahRQEHR2Viw68VmSvkzV/rghbRCfjAK+ViWISydbo1oYwByBq31ucztdt6wBbL/+dqBKb9/mw13kHq7SFWRB4yaZhKsCkO8vY+IXdCWOgzdgWosWsUXRe68E5mVVSwicPLXWKcjDHFMr279Uc44w4vrGD9UDqvjQoAT2PXpyOu/aUbALjUcmbCtuJPfGBs2zzMcfjRL8pG33+yMEB7maHf3/0AjG/MVaRhKT0wxnf5oAxMurFdZrYNSgV+LZKP42K6tFag1c7ulMamr37nHeeAISIrFpU37GrfYCzGvooyhQ5sbdm/BeYCgpwQKmYkLe/MvA==;eSKtpV9rhhccWPXptyz9Ig=="
 ---
