@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 286
+published: true
 
 provider:
   name: CNET
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The best facial recognition security cameras of the year"
-    excerpt: "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces."
-    publishedDateTime: 2021-01-03T09:05:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition identifies people wearing masks"
     excerpt: "Japanese company NEC, which develops facial-recognition systems, has launched one that can identify people even when they are wearing masks. It hones in on parts of the face that are not covered up, such as the eyes,"
     publishedDateTime: 2021-01-07T12:05:00Z
@@ -96,6 +80,38 @@ related:
         width: 800
         height: 482
         isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T10:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+        width: 743
+        height: 545
+        isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T22:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+        width: 743
+        height: 545
+        isCached: true
   - title: "How to Opt Out of Facial Recognition at the Airport"
     excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
     publishedDateTime: 2021-01-05T23:29:00Z
@@ -141,22 +157,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial recognition system can identify people wearing masks"
-    excerpt: "A facial recognition system that can identify individuals even when they are wearing a mask has launched in Japan. The technology, created by Japanese company NEC, works in less t"
-    publishedDateTime: 2021-01-07T15:27:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 61
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/07/10/A-hacker_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg"
-        width: 560
-        height: 350
         isCached: true
   - title: "A Closer Look at Facial Recognition Technology"
     excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
@@ -289,6 +289,17 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
+    excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."
+    publishedDateTime: 2021-01-08T02:29:00Z
+    webUrl: "https://abc13.com/technology/facial-recogniton-could-help-to-id-capitol-protesters/9446533/"
+    ampWebUrl: "https://abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
+    type: article
+    provider:
+      name: abc13.com
+      domain: abc13.com
+    quality: 33
 
 secured: "LODETLN0JaNZtYdk8SUlkTEEwJaH4WF8FTtH7fhTaW11f0M/ULhwCJ6vcjMxPS7V9799ZDQ5kVPZoQXcT+euBKgLUy16chxvBC6sWnUkKNB9zDSmB59xVSsclQP0JpniJYUYddyKywrgVGy633GERuG0boch/3x7SNOj8oRei6RtOmY1mowsvOVT0vWNJoVH9OU380G7X0E1i9RGoKkvJXQ/w9XZC1O2QIByI8nje1oi4L4lrf6ErR8LbgSp9b80dpQzdA3FJGRr25RsJWS64xc/3WveEhtH1NFr6cL7M2AEby5q/K5znL+dHYWLN1DpCmLFwt5UNSXuXssec549vGXNenmS6KLpTEIRKotVjNRfgQqKaCXKfcCBVQHk6aO2PdnI0zwOvP0QJZrvi94Sfvemacr2egJ38nGVyYa1AM7K6EPhyGbZKWUQgvJeZP6fzBbW+v2kJKdlKQkap8MEl6ZyOAw9CC0qhsCibAMCL7Navwd8fAWHA0m3athATs9lFpqvpBNJ6sIZ39y+nYeK5Q==;sv+WuVU9lTQkMIHlIjBA7w=="
 ---

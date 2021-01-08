@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
 type: article
 quality: 94
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://hexus.net/media/uploaded/2021/1/e65acb8b-ef70-44d0-b22f-3b306717c49b.jpg"
         width: 515
         height: 221
+        isCached: true
+  - title: "Rock star chip designer Jim Keller joins Tenstorrent"
+    excerpt: "Toronto startup Tenstorrent Inc. scored a major coup today with the news that legendary computer chip designer Jim Keller has signed on as its new president and chief technology officer. Keller (pictured) is widely regarded as a “rock star” chip designer who created breakthrough processors at a number of leading tech firms,"
+    publishedDateTime: 2021-01-06T21:03:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/rock-star-chip-designer-jim-keller-joins-tenstorrent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Jim-Keller.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "TScq3HKZovpWoVpXCBsmNCiFTXXyHQZQZrl2aZlB4e3La8WijCuJqiwAjCMPhbnjdZ0YuVKjUERuTsCA4cWYQKX9hOySv6ZxvOY5vIYFNbl5BkAGGKJcDNsIO0HSXuZW9RiGtOOgxRo0eTEBZuvqrJwkV3zqCwOdeXxQ8+0eU2PL5hUBtZk9pHhMK+y+ExCyW+ja5euum/QfCtAil05KLl8Xk5Jicov7oafm8DnKbQHDlqZ3EluyUFS5FYdo+pjKyYNwLVubwzn3ome63aEwbKBu2PxBnkX/LyoJlhinezXDpvMaC1iCn27sbtnYCkzbmt0q2KzG6+ttFS40mVmqgO5SRPxXt0sgNlzmwtEbyCA=;txgb4HJ7HqoGOI3jzRS0VQ=="

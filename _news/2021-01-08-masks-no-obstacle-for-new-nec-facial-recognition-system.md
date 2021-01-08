@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "The best facial recognition security cameras of 2021"
+    excerpt: "Some home security cameras have facial recognition, an advanced option that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces."
+    publishedDateTime: 2021-01-05T15:46:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2021/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 106
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial recognition identifies people wearing masks"
+    excerpt: "Japanese company NEC, which develops facial-recognition systems, has launched one that can identify people even when they are wearing masks. It hones in on parts of the face that are not covered up, such as the eyes,"
+    publishedDateTime: 2021-01-07T12:05:00Z
+    webUrl: "https://www.bbc.com/news/technology-55573802"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55573802"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55573802"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_116381970_facemask.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Facial recognition: Now algorithms can see through face masks"
+    excerpt: "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals."
+    publishedDateTime: 2021-01-06T16:23:00Z
+    webUrl: "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
+    excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
+    publishedDateTime: 2021-01-06T21:30:00Z
+    webUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990"
+    ampWebUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mwvgcouoofelt0sd5tt8.png"
+        width: 800
+        height: 482
+        isCached: true
   - title: "Masks no obstacle for new NEC facial recognition system"
     excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
     publishedDateTime: 2021-01-07T10:43:00Z
@@ -47,111 +111,195 @@ related:
         width: 743
         height: 545
         isCached: true
-  - title: "NEC says new facial recognition system isn't stopped by masks"
-    excerpt: "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,"
-    publishedDateTime: 2021-01-07T15:57:00Z
-    webUrl: "https://mashable.com/article/nec-face-recognition-mask/"
-    ampWebUrl: "https://mashable.com/article/nec-face-recognition-mask.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp"
+  - title: "How to Opt Out of Facial Recognition at the Airport"
+    excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport"
+    ampWebUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: Condé Nast Traveler
+      domain: cntraveler.com
+    quality: 74
     images:
-      - url: "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM="
+      - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
+        width: 5568
+        height: 3712
+        isCached: true
+  - title: "Another arrest, and jail time, because of a bad facial recognition match"
+    excerpt: "Facial recognition technology is known to have flaws. In 2019, a national study of over 100 facial recognition algorithms found that they did not work as well on Black and Asian faces. Two other Black men — Robert Williams and Michael Oliver,"
+    publishedDateTime: 2021-01-03T14:23:00Z
+    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-jail-time-bad-facial-recognition-match-20210103-vk3ypyxp3zczxbkdhpwqv6hir4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 73
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kPyauuVox3_rpM4Fgi1UdeLP8us=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2E5CVLIKE4E5LNMDCYZA7V6UI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
+    publishedDateTime: 2021-01-05T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2021-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Masks Can't Confuse NEC's New Facial Recognition System"
-    excerpt: "Studies have shown that facial recognition algorithms created before the pandemic are easily confused when their subject matter is wearing a mask. As Reuters reports, NEC is ahead of the curve because the company was already working on a recognition system capable of dealing with masks before the pandemic started."
-    publishedDateTime: 2021-01-07T16:58:00Z
-    webUrl: "https://uk.pcmag.com/security/130840/face-masks-cant-confuse-necs-new-facial-recognition-system"
+  - title: "A Closer Look at Facial Recognition Technology"
+    excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
+    publishedDateTime: 2021-01-04T18:40:00Z
+    webUrl: "https://thebossmagazine.com/facial-recognition/"
+    ampWebUrl: "https://thebossmagazine.com/facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/facial-recognition/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
+      name: BOSS Magazine
+      domain: thebossmagazine.com
+    quality: 59
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/face-masks/face-masks-cant-confuse-necs-new-facial-recognition-system_mpue.1200.jpg"
+      - url: "https://thebossmagazine.com/wp-content/uploads/2020/12/iStock-1028139826.jpg"
+        width: 960
+        height: 506
+        isCached: true
+  - title: "NIST updating guidance on facial recognition algorithms"
+    excerpt: "The pandemic has inspired new uses for facial recognition software, but may require tweaking of algorithms. Masks, which leave only the forehead, eyes and maybe the bridge of the nose exposed, can make it harder to identify people accurately – especially for law enforcement."
+    publishedDateTime: 2021-01-05T18:00:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/"
+    ampWebUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 59
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Patrick-Grother-731x1024.jpg"
+        width: 731
+        height: 1024
+        isCached: true
+  - title: "Masks no obstacle for Japan’s new facial recognition system"
+    excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
+    publishedDateTime: 2021-01-07T12:04:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/amxeem/article33520942.ece/ALTERNATES/LANDSCAPE_615/japan-facial-recognitionjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Masks no obstacle for new facial recognition system"
+    excerpt: "Japan’s NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal"
+    publishedDateTime: 2021-01-07T10:37:00Z
+    webUrl: "https://arynews.tv/en/mask-facial-recognition-system/"
+    ampWebUrl: "https://arynews.tv/en/mask-facial-recognition-system/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/mask-facial-recognition-system/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 59
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 750
+        height: 369
+        isCached: true
+  - title: "Homeland Security test sees 96% facial recognition success for those wearing face masks"
+    excerpt: "News; Homeland Security test sees 96% facial recognition success for those wearing face masks. 06/01/2021 ; Results from a controlled test from the US' Department of Homeland Secu"
+    publishedDateTime: 2021-01-06T10:31:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/homeland-security-test-sees-96-facial-recognition-success-for-those-wearing-face-masks"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 48
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/v1609928904/widgetdocs/facial-recognition_f8jukk.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "COVID-19 face masks meet facial recognition"
+    excerpt: "Most people deal with facial recognition in a public setting at the airport. Today’s columnist, Tim Mackey of Synopsys, says organizations using facial"
+    publishedDateTime: 2021-01-05T11:00:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/covid-19-face-masks-meet-facial-recognition/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
+        isCached: true
+  - title: "Facial recognition: Expert on concerns over usage in UK shops"
+    excerpt: "Technology expert Bill Mew outlines his concerns over the usage of facial recognition systems in UK shops. He says the technology is not 'accurate.'"
+    publishedDateTime: 2021-01-05T21:22:00Z
+    webUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops"
+    ampWebUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 39
+  - title: "Intel adds facial recognition tech to its RealSense cameras"
+    excerpt: "Intel Corp. is transforming its RealSense cameras into a facial recognition system that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
+    publishedDateTime: 2021-01-07T00:12:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-cameras/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Government Facial Recognition Can Identify 96 Percent of Masked People"
-    excerpt: "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ..."
-    publishedDateTime: 2021-01-06T21:32:00Z
-    webUrl: "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people"
-    ampWebUrl: "https://futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
+  - title: "Masks no problem for NEC's facial recognition"
+    excerpt: "Look into my eyes NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T10:40:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52160-masks-no-problem-for-nec-s-facial-recognition"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/01/government-facial-recognition-identify-96-percent-masked-people-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "A new normal: Face masks no obstacle for this new Japanese facial recognition system"
-    excerpt: "Japan's NEC Corp launches facial recognition system that identifies people even when they are wearing face masks"
-    publishedDateTime: 2021-01-07T10:44:00Z
-    webUrl: "https://www.geo.tv/latest/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    ampWebUrl: "https://www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    type: article
-    provider:
-      name: Geo News
-      domain: www.geo.tv
-    quality: 52
-    images:
-      - url: "https://www.geo.tv/assets/uploads/updates/2021-01-07/l_328610_122102_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
-  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
-    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
-    publishedDateTime: 2021-01-07T22:05:00Z
-    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 39
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7bf467bf754a86923bd12df78ba60421_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Japan firm launches facial recognition system that identifies mask-wearing users"
-    excerpt: "Japan's NEC Corp had already been working on a system to meet the needs of allergy sufferers who wear masks.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-07T07:50:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/masks-no-obstacle-for-new-nec-facial-recognition-system"
+  - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
+    excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."
+    publishedDateTime: 2021-01-08T02:29:00Z
+    webUrl: "https://abc13.com/technology/facial-recogniton-could-help-to-id-capitol-protesters/9446533/"
+    ampWebUrl: "https://abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/07/nz_nec_070167.jpg?itok=ni3rFtrR"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
-    excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."
-    publishedDateTime: 2021-01-07T21:14:00Z
-    webUrl: "https://www.11alive.com/video/syndication/veuer/this-facial-recognition-program-can-tell-who-you-are-even-if-youre-wearing-a-mask/602-c6550d31-d5f5-41e7-b22e-4faec5bab6b0"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: abc13.com
+      domain: abc13.com
     quality: 33
-    images:
-      - url: "https://media.11alive.com/assets/VEUER/images/6688031b-cbcf-428d-891d-20bda669d7e6/6688031b-cbcf-428d-891d-20bda669d7e6_1140x641.jpeg"
-        width: 1140
-        height: 641
-        isCached: true
 
-secured: "eCmb9dKpy3POwZHq4SKqoCnCymHhcujPUcMkwGexfwZhdwcMv4rGsIu4FJ+xiRVLl09jxN148Rwl6JfHSvOfcdItCVDwDuJO14Ry+rXvEIMxgYU3kfUhxjgkrZ/creOl+d6xjXX11/X+ryGikH+el0hihS2sLLPvCHg/YBELDlO9H8Je2v4xsvsGvloJ3AoPmaQkiNprJHOiFUa/Wqfbfqqx03aGI5w7EtaZOBScvKpgIDn4AXhy/sUyg/IE16UNgxx4nJB+eohPG/xQ1squjTTdJha+hYp4oYuRadxqiY4ori1Ww8utm0s830/QdGS9Rne7KEfNKCdfZG8zd6VFz3luInywiIxew08m1/azpZw=;q0OcSRv9jzIVRavRRCPqPA=="
+secured: "CRESW6b7y9ccHFAfQC+0WGJ4c5UQpOI9/xXZACk0NZ5iGMA/qpWc1pDXqpNPU+v1+LVrY/2HLkORcQKvW+WIC1ZcFklBnuGk6dm7ibEbF/6kg8hRWzZsD2TpbXWhymk84xsE/cdWVuT3WF9SWUGCvQUTCB93zJvYfFsAcOSM9eN8AUExk9dmXuIFTH/+8BkaoP5LokKg6wbIF9OSep1WYAHCqbv2B64mKD2brth/Gr8kSgwEbuaLVYMEwqJia0qmOf9apphEY4ksxPyKIrL6gWF7lkRWvE/Sc+oqemPguoD6LObP39FQm0oj+WZqbhhxNiydk/tPyHJS8A+veVRiirZFF/O3LM3VrXiDlmAU+36x21oFeEXqCvyGimE95Z17NWjqfLACbGvnKufEfjs8k4x6ukbvPgoRw3KphROUClqzgR01JTM9TqrFYh8Sb5wSXQX55XhGrldeiRHji61uCelMpFTNpfiyraKd3vN4JRdRORXD0vjIiUZfJXuq3EX55w7/GRoODIoxN1NAr7d17w==;UwDMwFuqsZANigmzA96hag=="
 ---
 

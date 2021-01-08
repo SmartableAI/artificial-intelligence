@@ -24,29 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "BTC: Achieved the Highest Age Estimation Accuracy in the World by AI Age Estimation of Face Recognition"
-    excerpt: "BTC Corporation (HQ: Tokyo, Japan, CEO: Ken Sugiyama, hereafter BTC) reports that it has achieved the world’s highest level of age error accuracy by AI face recognition using a camera. In the model that detects a face with a camera and estimates age and gender by AI,"
-    publishedDateTime: 2021-01-05T10:24:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-japan-asia-east-asia-7c2bc4c94485475a999bcdf95dcc4720"
+  - title: "2 Artificial Intelligence Stocks Leading the New Wave"
+    excerpt: "It's a new year, and good time to take a look at what lies ahead. Not in the short term, but on the longer horizon. So, here’s a number to think about: $126 billion. That’s the predicted size of the Artificial Intelligence (AI) technology market in 2025."
+    publishedDateTime: 2021-01-07T21:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "DcodeAI, an AI-focused EdTech startup launches new AI learning platform for students"
+    excerpt: "It aims to democratize AI learning among primary and secondary level students across 10,000+ schools that are currently part of its network."
+    publishedDateTime: 2021-01-07T08:23:00Z
+    webUrl: "https://www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html"
+    ampWebUrl: "https://www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 50
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/01/QT-DcodeAI.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "BTC: Achieved the Highest Age Estimation Accuracy in the World by AI Age Estimation of Face Recognition"
-    excerpt: "BTC Corporation (HQ: Tokyo, Japan, CEO: Ken Sugiyama, hereafter BTC) reports that it has achieved the world's highest level of age error accuracy by AI face recognition using a camera. In the model that detects a face with a camera and estimates age and gender by AI,"
-    publishedDateTime: 2021-01-04T12:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210104005011/btc-achieved-the-highest-age-estimation-accuracy-in-the-world-by-ai-age-estimation-of-face-recognition"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 18
 
 secured: "CUC93BL4nB3ahtWCURWRB7IJQMwYPsRfV1X99ymqvhYveVuzgKzlItbus9IdVhn+aRTBXEt+sr5eWdDVMlZ73VG8AcqTnrGEF5BTnR/1oaVFZ2pqRO5nwR0n+fjPL/fvMQ5fmVNeSViIYft/un8JXTDzwRMzyWeJN6SzVHaFtySd0Mzb4k+y8LnqmJ/fVqZwb14JvR6svNl+6v4FHa8SUUDVRshJCGC5TsC+PWyGdf/m+eT1U3Bwv1YWwYgamj/wUq2+1/GDR/dV2qSgNxDMLjelZzkOOONtzPQ9EkX8UcMdFDrPeC1jeMnEAfIFGHlOYb/1ZRQe3R3mJmTis58aCKq8SfRUIy/tZYZjEv+lM8E=;+pggh5PqMQ1OxfmBB6Xstg=="
 ---

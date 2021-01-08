@@ -20,6 +20,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/HG_Office-cropped.jpg?w=1200&strip=all"
@@ -27,6 +28,6 @@ images:
     height: 602
     isCached: true
 
-secured: "MXRN921sKb5HW2XVRxrF1wrSLw2st7QzHyRy2rgzb21yEDwavOATYh7CNFSXNFJaeSTKaOx7jh/sFWP4LS6KIGjWvKLI0ePyn9EP7947vvJ4+y0ENHg4H+eJ+1+W40KTjRnHRbNgX4283jb/LHEbJ/NAy5uj1gsqID4HJnaM9NF5z2ICgRQztBHDkjMJRga/4iDD2du7Hv/p2PSjlNiS3M3mh6geSb5Mr1knk8n2jVpNq3n393WsqWVY9GS+hmP1ubp7WV6EFlyI6xfwIUDzwCOQfL39rNaNMzDWj6dy5mje+kWpg9/SSB/uKm+OFokl3W9aPBuOHC5uvyie6wD60HT4oyXEi1XomLA3x/HSt1c=;CIUdFnuhsmi3PllcR0oQgw=="
+secured: "yh1XfIWBM2lexb+CvujP1o+IlNbeLE3cgrvvJqqYK+rIW9SO0Fv5vN8WgS4W6cAlxS9s1eCLdDqFD7r0H9bHa/O/qnHeh3H+/T+g3NtLFok95QMVf3Npz2MBvd0rD/ay7H5JT3sIlpyz95tXUUsGkZumyFcm2F5xk/zSROMy/l/Gi4HD47I2ckpLE/ZI2SGupBaBRq55KEY7J8n29E3sik2zKZjssovBJ9zOcu/xbZvW3R98ETpy7U7cmoTJaxtb8szH5vd1FHnoJteivu8cTR+hXKq99IOFB1wkHtskEUOhY8yvxjdCaDXsgTzn8j+B3ZzaR3UvqCrFK4C8e1KXKiEmPX5CVCF5FCF+q3tbC5RHKS5+j7HpN32VN3KX9hOzZ4veUaI7PTS1RjdwvcG83zuMcHY22o3gvyF7UNN2QsUYixgutVKTMi6r7ALINb7d3RZHe/IaaA2JvOZlNcx1xNnJsaPW1rPCcA7CVjexLi4eUBMTRdQsSinGYdtIFqum5+ExRcNCFPTO9lL4ROeT2w==;BPx8fA9EQEutOiJbczmxrQ=="
 ---
 

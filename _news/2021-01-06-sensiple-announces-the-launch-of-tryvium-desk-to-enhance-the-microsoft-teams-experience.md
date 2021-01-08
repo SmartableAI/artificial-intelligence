@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
-publishedDateTime: 2021-01-06T06:03:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
-webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
+publishedDateTime: 2021-01-05T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
+webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
+    width: 1460
+    height: 766
+    isCached: true
 
 related:
   - title: "Microsoft's new Azure data services explained"
@@ -255,6 +261,6 @@ related:
       domain: cnbcafrica.com
     quality: 29
 
-secured: "LcCOZR6CU+ba+Um11I7WlyqZouH4Ax0IztzVq4xZR7HCAUz+ymG96tJXrb82+YHbtXVBnx0zghS5KSchHkBbzJPRKK1qDaZxt5Uxp36fAq1fV31JtewNZAGk07iqlZPsIFSgiLf4JoNmsQ+Pb+MMmAd5oq4QXVq0PxChWTQygHZNSs9Z4cQnEUm5kVXWtSmQEI/MFUt8DMDgz258KQk8KmU+PfrW7L4VFparOrn9M7brYPbZiPd1aRcTLfU7tR3+6tVqF25Lrpv6m+YBe/RTjOD42aowDkIckDhdRZ7tnoCbv+4koJPimQnLPSFfSUdkpDdQg0TvdRYCpcbwydni9GIM4Jo01GelraZHYetdHvo=;Zi5rKXG79PMhjptVc12eYw=="
+secured: "YOlTkvvurLOXm7W44s875ey+fAmTCjXuQaYD0JD2dxZ8jiIVo0Q7XTIe+HobD+UVz5Z2lE/fmI0Cus7jleLYt/HdF/c3/wC95NrPa8nE1r+nhayroYrdi2JjuLgU4gFoy6oYTjzjV0n117ghZmZUm9I6B8wZmxqd3UEww9TbjR9+LyFSIrxadJiSUFsR52oav46DUN1eoSL5R9/7KzccUZCC74jzKRPYL8ym8vm/+lBqgmhoguQc0Nm9E4yXub3QJJxWOP6Akile/ziXWvmIKte0a9qSF9G7Z5GuNI078588dHDTNH3Qft7evkowpqAoos5us0jQnc1b1B75jdgmt6H2+P79zVqWQ4XdVW/P+xI=;qvBJZQlgFw3A7scBMX8jqQ=="
 ---
 

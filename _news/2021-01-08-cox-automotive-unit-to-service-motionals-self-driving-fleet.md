@@ -47,6 +47,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Hyundai Motor Says It's in Early Talks With Apple to Develop a Self-Driving Car"
+    excerpt: "A local report from the Korea Economic Daily that said Apple suggested the tie-up and Hyundai Motor was reviewing the terms."
+    publishedDateTime: 2021-01-08T02:51:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/hyundai-motor-says-its-in-early-talks-with-apple-to-develop-a-self-driving-car/2819172/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/hyundai-motor-says-its-in-early-talks-with-apple-to-develop-a-self-driving-car/2819172/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/hyundai-motor-says-its-in-early-talks-with-apple-to-develop-a-self-driving-car/2819172/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 55
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/106821087-1610069766875-GettyImages-1084913058.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "X7WsVro+gBto/X5zGwnxwlzR1jYdTh+344EJj1W28aseaEf2hCqqLiwbJTXgONGu3KrtzR6O8cN3P86jdG7KqIMJO2Wz0pNxtA0dBB5k0F+KCKmB+LEbVdlB0vwPrwajOY+trRgtpPdesdtox8cUQ5iCD09UYttOeDFq8wdP5eyrTHaUbXgYW8JebhOA1DCLi/hwMVNMw6BzqBpTtoz8tKudShELYm/WO6DtiwkEPMKCLL6hoXPhKbwV9ZQPwx53aYldVCNzixwpXLOG91EJjgmp4+jfoebEySYExNIjWFGpDhDdpGlLANw6ht8U7xBgeRpNkOThP/xOJIUJwEqg9ORyHHfkgmpj7bYmt5tc0FU=;ivoqSCDLlf5wFhqPTZ4J0A=="
 ---

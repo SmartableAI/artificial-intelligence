@@ -33,20 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI On The Highway"
-    excerpt: "A couple of announcements caught our attention last week regarding AI-controlled cars. South Korea’s Kakao Mobility and local startup Autonomous A2G launched a limited self-driving taxi"
-    publishedDateTime: 2021-01-05T16:43:00Z
-    webUrl: "https://hackaday.com/2021/01/05/ai-on-the-highway/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 37
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/01/aidriver-feature.jpg"
-        width: 672
-        height: 378
-        isCached: true
 
 secured: "K2gAAJvr3y95BKuacFq5hsRDCJixmHRQbl2j+JkuprfzQc0qUlWciHjfXFGwuBYn3H520Wv7p8ZJHr34E6wLfi/4gHohzN7OyTbD3vxCny6Dj3G977Fo7X964L3idIzLFOh7gC/umWkTMkAQwo5Hudz0l7dNMwadwm5MzlybZaHwQYa37hC3YgXn8gafLMU6CKs8ZdAmDzhLjBxDx3QSzo8EA70Whmv4gdTImEIJv3/EW2fhWjnGb9ppJ0TdYSWpdV4n0aL+hZguowu+57IB26dLPyK83Z3sEYqblLEl2cnyGLsXy+eyQgeTKKZQddzUY2G/Q0bEAeMECAG0te4E5pK/d8H574TMYpimRE1Znws=;ENEn7fWtZxsMgDxCOhSfBA=="
 ---

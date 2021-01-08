@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-28-sonys-ai-powered-recipe-app-cooking-robot-to-assist-chefs-worldwide.md",
+      "title": "Sony’s AI-powered recipe app, cooking robot to assist chef’s worldwide",
+      "excerpt": "The tech giant’s recipe creation app will aid top-level chefs in their creative process of ingredient pairing, recipe design and menu creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/sonys-ai-powered-recipe-app-cooking-robot-to-assist-chefs-worldwide/article33437706.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/sonys-ai-powered-recipe-app-cooking-robot-to-assist-chefs-worldwide/article33437706.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/2sxxho/article33437731.ece/ALTERNATES/LANDSCAPE_615/Sony-Recipe-Creation-App",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/sonys-ai-powered-recipe-app-cooking-robot-to-assist-chefs-worldwide/article33437706.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/sonys-ai-powered-recipe-app-cooking-robot-to-assist-chefs-worldwide/article33437706.ece/amp/",
+      "publishedDateTime": "2020-12-28T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-pitfalls-to-avoid-when-employing-ai-based-tools.md",
+      "title": "Pitfalls To Avoid When Employing AI-Based Tools",
+      "excerpt": "AI is a transformative technology, and like any such powerful tool, it must be employed wisely and with care to ensure that it delivers what you need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75dbbe41e615248f54b325%2F0x0.jpg",
+          "width": 1200,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/amp/",
+      "publishedDateTime": "2020-12-28T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-ai-based-debt-management-platform-creditnirvana-raises-funding-in-pre-series-a-round.md",
       "title": "AI-Based Debt Management Platform CreditNirvana Raises Funding In Pre-Series A Round",
       "excerpt": "Bengaluru-based fintech startup CreditNirvana, offering artificial intelligence (AI)-driven debt management platform and digital collection services, on Monday announced to have raised an undisclosed amount in a pre-Series A funding from institutional investors in New York.",
@@ -1123,110 +1217,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026.md",
-      "title": "Service Robotics Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026",
-      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2020-12-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-26T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-8-incredible-scientific-discoveries-in-2020.md",
-      "title": "8 Incredible Scientific Discoveries in 2020",
-      "excerpt": "Proteins, essentially the building blocks of life, are made up of amino acids. DeepMind, a Google offshoot, created the artificial intelligence program AlphaFold that made the breakthrough.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/incredible-scientific-discoveries-2020-1557134",
-      "originalUrl": "https://www.newsweek.com/incredible-scientific-discoveries-2020-1557134",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1692861/venus-planet-stock-getty.jpg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/incredible-scientific-discoveries-2020-1557134?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/incredible-scientific-discoveries-2020-1557134?amp=1",
-      "publishedDateTime": "2020-12-26T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
