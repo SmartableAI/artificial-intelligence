@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to
 ampWebUrl: "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
 type: article
-quality: 77
-heat: 77
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/1d2488f7-7d90-4718-9183-a7ba6a3e36b1/thumbnail/1200x675/3a290ad3c2420e8d73f71b23f5d76141/thumb.jpg"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "n/0AEB9YNqVlx2xUJoq1rmtkS9Fdoe/8qco/XZPenuea40ycOicfWkXzv4lI+RNlZeF6FMPlaB6Szu5uFrCn8nWku5Z5U+Nerh8dgk8Fz5FPvSbw0G4O9BwR4wRW79t33pnkTrHkvEeCMLpu1uZNKp2PKxUY2BECoqOmxg1nNAGpoa9LMOCQGgOVJI3m/kfUAZaG0gnEhou2KUDuvNhqfl46+FZfrQjd5ffw1pPFZo0id0Om9rcerZrJ09e+PjikfjdkdSeaaQvWauNYKwgYuzMMXMI1bmbY0U1Fm+Sl0B0llJ/4WBOVnxdVVhqObzv12BzE9B3JD5HvMb7L2OGsdJG3l1mmnV3crWk4Ay+riTo=;kgXHABTt0cuRnWwOSzvYIA=="
+secured: "TN2NY03ZT+LIWgeCYaRTmXTQ0Dw+m4KL9MC2B1yjGL0CduVoayXEOsk4BED6U/dpMiX0hqION3e1lXFDtH6mqAGVO47KfpCsLrzZiYSyGJlyperpB3lCrKlcb/KZEoYKz4SvHIZFRm4aFZTtKlUzfs5Ifmn/aaUztfQgJJ0/1RGS01femP9vX1LIaK3SuvVH9oP5ALbWOPXfi5EPbzArOIYwmGmeLtX0mqOYIehIUN9alpuTeUBWAXykAlgHHxkynZ7vmBJw3n0kJAb2cQwbGVUVTuj2LxOucMinKVjZV0k0yc4ETJP5C421d0dwwCcrsD5kZ5jz85z3M9iNhBEsNLzRbhmmnorUOYb/mlgKGFxzZWQUPgBbiENLy34c3Zn7AEvHAlpOOGajDKYK421H2zkdFJLeMhSXfvvpx2LUbJE5Ef0GlyTyKvvjc/2cbZpipm4yU44RifR9dhQuN+F2CeSxdY0m6JPrPh+lCmN1i00Aa37XH2/8TfEmnU5Uf2fxaS8S3vvgLA1A1KZFM8ap4w==;EYRbbGzi45uzbOey3KZCQQ=="
 ---
 

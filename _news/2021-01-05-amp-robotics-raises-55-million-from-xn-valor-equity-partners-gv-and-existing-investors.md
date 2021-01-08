@@ -96,6 +96,20 @@ related:
         width: 736
         height: 414
         isCached: true
+  - title: "Updated: Amp Robotics raises $55M in financing"
+    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
+    publishedDateTime: 2021-01-08T11:24:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 69
+    images:
+      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
 
 secured: "5oO6vKSQoP4yWZKqoAqRotIVSTB60ealJSbvF975THqpB0IIoTpKuIW/7U41mlspTh13UbG7jPjQkEyCdnCzIk37onJvmcNEO458Qv6ryi/6YgEKxRKOSywVVnIs99sXGgZ+Sv27jS1h32neUM2DFKR5xRmTe9YHoYE3JD3qpV65W8Eh7qgJU0wq3TlmrtcWOROizVh430JrTZ6gOyDfuPWaQoD1dj1YXQ1oKH6JSXg7f10mXCn4g45eYemssv+uK+WxtnP0T1SXgQ778iXzJK8HhFVrB0LUrqegY+ytzNu+B1+fegEmUUlfyKiJwf0bfpGJ9jouz2+PN9cmipAt37fcNT1HCShp8iQxwn0yXRE=;wM8xQ2Kf2LXK3pkiPCs67g=="
 ---

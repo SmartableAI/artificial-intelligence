@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vietnam embraces digital ID, smart cities, and robots in digital transformation"
+    excerpt: "Vietnam’s rapid adoption of digital ID, smart cities, and AI have fueled a remarkable leap into the digital age."
+    publishedDateTime: 2021-01-07T17:45:00Z
+    webUrl: "https://www.biometricupdate.com/202101/vietnam-embraces-digital-id-smart-cities-and-robots-in-digital-transformation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Is Your Voice The Future Of Digital Communication?"
     excerpt: "There is constant innovation in voice technology concerning the security and privacy terms of consum,General Information"
     publishedDateTime: 2021-01-04T08:38:00Z

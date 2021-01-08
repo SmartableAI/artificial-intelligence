@@ -41,6 +41,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How AI redefines advertising in 2021"
+    excerpt: "Advertising as a sector is notorious for major paradigm shifts. That's because the shell game of grabbing consumers' attention never stops, and as programmatic advertising gave way to influencers gave way to branded content gave way to"
+    publishedDateTime: 2021-01-08T12:15:00Z
+    webUrl: "https://www.zdnet.com/article/ais-role-in-redefining-advertising-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Harnessing the power of machine learning for improved decision-making"
     excerpt: "Using both supervised and unsupervised learning, analysts can find new patterns in their data and validate those patterns against mission relevance."
     publishedDateTime: 2021-01-05T21:37:00Z

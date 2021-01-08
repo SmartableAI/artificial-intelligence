@@ -29,61 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Manufacturing Market Sales and Revenue by Companies, Regions, Type and Application till 2027"
-    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
-    publishedDateTime: 2021-01-07T10:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07"
+  - title: "NTT DATA Services to Acquire Hashmap to Advance Analytics, AI and Machine Learning Solutions"
+    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise"
+    publishedDateTime: 2021-01-05T01:04:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18742-ntt-data-services-to-acquire-hashmap-to-advance-analytics-ai-and-machine-learning-solutions"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: Deep
+      domain: thefastmode.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Sales and Revenue by Companies, Regions, Type and Application till 2027"
-    excerpt: "The global “Image Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-01-08T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
-    excerpt: "Strategic expertise and leading innovation The assets and operations of Boemska – a small, UK-based technology company with an R&D center in Serbia – will be integrated into SAS. The company is a well-established SAS technology partner whose global customers include SAS customers in financial services,"
-    publishedDateTime: 2021-01-07T13:40:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Conversational AI Platform Software Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Impact of Covid-19 on the Conversational AI Platform Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"
-    publishedDateTime: 2021-01-08T04:03:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-software-industry-8ba37ad01e16ebe125d0e262def1dc11"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.thefastmode.com/media/k2/items/src/bf7fe686ee4b089704a5151276041181.jpg?t=20210105_005921"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "sTUqb9ivMd5QFFUproTovUGHR9lcqogJXm1BOUaMLiUtwB4OT36U74EYImuPosEol4xMeukfu8q4PMYpvRgfueYJ6OFNPZCph0oVH3o6rt8JdMLoG/injOTLBa2DyjuvQIwjldyhhVKbnvITKiY/NaXiRlMM3EEQX7V94AL7urUZpJTQgJlUt5qFrFSqIsPHxp+Z4kCeb9Tg8wRhTURPFfy20c9CJActRRGB4pyg69grbcZ/9IykCCZOow5hcWYA4TisXbhsIwyzARgrsgl34WTuCC0FSujLRD4rqDs6a0+lDYB0DD6tohvQS7TWkQH3BTFKdNU+pK8QcOrU4W+RkSXAQ88ChLmLzURYwvZ4WgY=;nEX1fmqRcaT016eaZXQUzw=="

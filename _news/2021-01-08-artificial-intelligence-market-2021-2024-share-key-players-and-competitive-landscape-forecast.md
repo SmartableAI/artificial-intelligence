@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ai In Computer Vision Market 2020 Insights, Revenue, Price and Gross Margin, Forecast 2023"
+    excerpt: "The improved computing capabilities of processors are paving the way for the future growth in the AI in computer vision market. The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-01-08T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market 2020 Growth and Forecast Survey Till 2026"
     excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
     publishedDateTime: 2021-01-06T07:28:00Z
@@ -39,6 +53,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Manufacturing Market Sales and Revenue by Companies, Regions, Type and Application till 2027"
+    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
+    publishedDateTime: 2021-01-07T10:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market to register considerable gains over 2020-2027"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2020-2027. Request Sample Copy of this report at:  Artificial Intelligence in Drug discovery has been gaining popularity as this technology adds value for scientists and researchers in the industry in decision making processes."
+    publishedDateTime: 2021-01-07T07:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-to-register-considerable-gains-over-2020-2027-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -114,6 +156,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Aviation Market Size, Share, CAGR, Revenue, Company Analysis and Forecast 2021-2023"
+    excerpt: "AI in aviation market is anticipated to expand at a striking CAGR of 46.83% during the forecast period of 2017-2023 and reach the valuation of 1014.81 Mn by the end of 2023 from USD 113.29 Mn in 2017."
+    publishedDateTime: 2021-01-08T12:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-cagr-revenue-company-analysis-and-forecast-2021-2023-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Report Size & Share Global Industry, COVID-19 Impact, Trends and Forecast 2020-2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, The Artificial Intelligence Market is estimated to record a significant growth throughout the forecast period."
     publishedDateTime: 2021-01-08T08:46:00Z
@@ -128,43 +184,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as"
-    excerpt: "Technavio Busines"
-    publishedDateTime: 2021-01-04T10:37:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-04/machine-learning-market-to-grow-by-usd-11-16-billion-during-2020-2024-alibaba-group-holding-ltd-and-alphabet-inc-emerge-as"
+  - title: "Global Artificial Intelligence Market High Capita Expenditure And High Growth Rate Till 2027 | Fortune Business Insights"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2021-01-06T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-high-capita-expenditure-and-high-growth-rate-till-2027-fortune-business-insights-2021-01-06"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market 2020 - 2025 | Development, News and significant Growth With Regional Trends By Forecast"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2021-01-05T18:09:00Z
-    webUrl: "https://menafn.com/1101386371/Natural-Language-Processing-NLP-Market-2020-2025-Development-News-and-significant-Growth-With-Regional-Trends-By-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849361"
-        width: 450
-        height: 250
-        isCached: true
-  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as Key Contributors to Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by USD 11.16 billion during 2020-2024, progressing at a CAGR of almost 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2021-01-04T10:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210104005330/en/Machine-Learning-Market-to-Grow-by-USD-11.16-Billion-During-2020-2024-Alibaba-Group-Holding-Ltd.-and-Alphabet-Inc.-Emerge-as-Key-Contributors-to-Market-Growth-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "f8SZS7Z0mHf5HDlxq8nrzPDoS7HjDnucnxm26w81NPnk4dJHawtf3hADp6IrNxWItzvL8nn7LFaURoWDKxSp3fCTuOmhDIpMxr/JoHo7OMB4y/NLBA4CRVQ5OBwzy0dOC5VZlvbdM32JTMwYryY+0fVFYQ0T41dyBCdplTVrd2ax0mqqUv1nyUYcro9tBB5O2X4/YEUbGYU0kzQtYNf7Xkv8jv8T+LIFrmN61WPQ9O+Lb2s8piO2OlqoyxDtOhRZLbqQDwqmzieVcAXg6/S3QTJW8DfcdjCUCsM0YDfBEoanJQOrWJNsrGwlGwwVq7Ruda4nzk3aw1BcpxWcq/8XY9XQkxbKgAbhSjwIIqVJ0M8=;uTstzYguHbr8XV5ZBp74fg=="
 ---

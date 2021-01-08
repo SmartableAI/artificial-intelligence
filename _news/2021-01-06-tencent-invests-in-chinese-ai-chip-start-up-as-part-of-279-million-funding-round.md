@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-ch
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Sequoia, Tencent join the $190m series C and D rounds of Chinese HR startup"
+    excerpt: "The latest investment comes after WorkTrans raised US$23 million in a series B1 round from Qiming Venture Partners and Lightspeed China Partners in 2018."
+    publishedDateTime: 2021-01-08T12:31:00Z
+    webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 30
 
 secured: "bh32BuU6Qbknxx1sWpAmAOPx4hQEsZlDo/5i4mHpjrDovV9gU00dk4sU9/7ADxFTYqPDNrsuoyZ/qmfLSSvgfP9MMvnxh34C6V3Wq3JjKXgkAL2UT0XaddyPCYasDfMZFRrr/fVbRHNIlriJZLdkwIfGdrHNidezA8QhE4VSwppV43YzySFWpG3hX7WQTJpOIMy9bNMIdP8kcmpM8hujPxPxAgMjQEyj85/Dz+m4IeCiKys8JV2ov5xkfwQuWylx4GH+KLepKCYBUHFGHJOy+6JO91CauX/qmGdjGc4B5DHD6pCszbjVdU6gl8v1y+f03Sj6GiRybR0tgbAan6Fpx5uffdvk90i+eOwIXIVsh50=;0OC4hhAkAzeqS4P9fU3aUA=="
 ---

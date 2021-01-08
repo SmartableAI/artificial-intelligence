@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as"
+    excerpt: "Technavio Busines"
+    publishedDateTime: 2021-01-04T10:37:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-04/machine-learning-market-to-grow-by-usd-11-16-billion-during-2020-2024-alibaba-group-holding-ltd-and-alphabet-inc-emerge-as"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 42
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market to Grow by USD 11.16..."
     excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by USD 11.16 billion during 2020-2024, progressing at a CAGR of almost 39% during the"
     publishedDateTime: 2021-01-04T10:34:00Z
@@ -68,6 +82,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Machine Learning Market to Grow by USD 11.16 Billion During 2020-2024, Alibaba Group Holding Ltd. and Alphabet Inc. Emerge as Key Contributors to Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by USD 11.16 billion during 2020-2024, progressing at a CAGR of almost 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2021-01-04T10:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210104005330/en/Machine-Learning-Market-to-Grow-by-USD-11.16-Billion-During-2020-2024-Alibaba-Group-Holding-Ltd.-and-Alphabet-Inc.-Emerge-as-Key-Contributors-to-Market-Growth-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "8D06lunKDqV8wJzO2fo98V8dSYMzy3omnmEDg1Afi/XDtub3DicUjZuBlvz38LZ7an7OB5t0dsvPkoHDDbA5wJwMY8ClUJCLrKdngnDx5oX99JgLwgwxSG8vSUJSEvTCvOAwLV7h5jcPrcuNokSIxSHina/0PVvKnf1MaDYra8iXaEJcomg6TBIaUfmUlw+PmD+rNQRVvUxCcWdH1TOm2wSvgSJGIXXNrXknsHXzZqf/AT+XzKD0TP6FgtSaVMXNv2wsCxCjPzYcJUJuF4bIJOCkmL6eP2sFK5gYNv6y9TZLfg5lm/h06Mt9oqUaiqQ6IiWkZtFXvuIiJOjuJzsC0UWN3R/edtGrfNUIh9kCqv4=;j3yrKKbboUqDQd/1uKtNjg=="
 ---

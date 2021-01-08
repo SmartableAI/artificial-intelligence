@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
 type: article
 quality: 119
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
     quality: 69
     images:
       - url: "http://www.cdrecycler.com/fileuploads/image/2021/01/04/dreamstime226235---dollar-sign-blue-backgrd.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
+  - title: "Updated: Amp Robotics raises $55M in financing"
+    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
+    publishedDateTime: 2021-01-08T11:24:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 69
+    images:
+      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
         width: 736
         height: 414
         isCached: true

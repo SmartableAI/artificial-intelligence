@@ -1,23 +1,24 @@
 ---
 category: news
-title: "Scientists exemplify world's fastest optical neuromorphic processor for AI"
-excerpt: "A Swinburne University of Technology led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence (AI) that can operate faster than 10 trillion operations per second and is capable of processing ultra-large-scale data."
-publishedDateTime: 2021-01-08T09:58:00Z
-originalUrl: "https://news.webindia123.com/news/articles/India/20210108/3687554.html"
-webUrl: "https://news.webindia123.com/news/articles/India/20210108/3687554.html"
+title: "Scientists exemplify world’s fastest optical neuromorphic processor for AI"
+excerpt: "A Swinburne University of Technology led team has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence."
+publishedDateTime: 2021-01-08T11:17:00Z
+originalUrl: "https://www.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO.html"
+webUrl: "https://www.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO.html"
+ampWebUrl: "https://m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
+cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
 type: article
-quality: 19
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "World's fastest optical neuromorphic processor"
@@ -58,6 +59,6 @@ related:
         height: 540
         isCached: true
 
-secured: "lri2Ylp1mIGo2b9ccboJz+1auxhx/fX6dtq2EH3a6lQNOqxKLznyZbDcUgLnuIEymOfEvLe/9akQFZKhUcILlgenOlNB4A3iax9e4P0y7Ge4vHI3+mJ5xkqNfRp6tPjPRrWpMr+m+7Jow+U/TUAH3Afz0WPUAHNLPmWl1C8sKqtE8Pz8izNeXdbgqCmDVjD6hXzRpe0dYw8yz1seu4PI8ZMBXsUhStnJ30XJpZ6ODDImQeOrXZ+AFzc4fVNpsn9M2l1uZqhIvyPX9N8K5KA6Mlj9oVQo/GaF4aoC7CMt6CriEDHsz5kTJmeTIh340YdmR22Fwt0kRhYpXrn97NZXk0UXiewUCSd0kzwzlyOr51A=;5gfvhQuSsYYpruBBhi/bAQ=="
+secured: "IWXuUIb8MQNQ2R0HnbvKGBTna7zpyF3ePwjDL2tG12d0NfTRCpIPeTqfFTnmmatUA/gRRLcErDbSVS+/6q+4a6i28oHhX6RgEopdfl/FXGnEiFYl+b3XJQN0t8EFgvlNeJ6sZhHB59olWiPsbYhQXyzYITBwAIxt0/kARQzXtw/3TQHVLIdlqSSTag+fqF1Gy6I+8RH/vLX8zPxytXGgAXuYe6Lmw7g66ySrqNwLx/sP5ky2KQcAKqM2lcmOtPi4WuporGMnRKbNggKgIR6kW2cM89X4MpFkGVzQ4yFcMc/OcxfH6Uah7EjaHJA6bja/6TYvD837XSNRqQr+wLPCkXZ7yZk98OiSU5ypbV3kY/C7Y/SY75H8d0/8cFJ2Gm7OJ2xT3xBCKjbUsO9eutBSLBn0JhMwu5mn1JTCezdpKMxodDF3iDvi/UfXvxbLu/a3aTmmn6RVrefSw/30QpzWillFCNxsE2vHns6i+Iu2CfAAIVUYh7t/Lrz6lKAM8RYk9IwHUdhREH7hC0DnksXipw==;fQox+lbKIRSbPtH85VxlhA=="
 ---
 

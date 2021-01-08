@@ -3,10 +3,12 @@ category: news
 title: "Masks no obstacle for new NEC facial recognition system"
 excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
 publishedDateTime: 2021-01-07T22:20:00Z
-originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29C0JZ"
-webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29C0JZ"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
-    width: 800
-    height: 586
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+    width: 743
+    height: 545
     isCached: true
 
 related:
@@ -282,6 +284,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "wrnjM7PeDlAudyvi/nMMhzPT6hJ1V2snZ9F90Bd+Nb0EdyCaICDSf36Pxtg6COrunfB+Qt4/9/ZYEBc6VjEiXNOB6ZgbGodMwaumVZaik5ncDmqjBPmHjbo6XLWrXtBimglAujkYUOSt6aZGRWa4nTvpqh3dguQQNZ0hFXRi17z4QsiZjTfyo7a++zAbNhjCgg5dPjep41dko6yAVRo/vxScigAeDA74ok98QdRdW1Ls5e6NsSZVs3FxWAEm1gVWkvTRRY2y8+CGTIKokOXtm0ZJHuSq1zZaiZe3zsz27rJm9tBkj7UW17i6PdKkJLUDpKbM02IQ4Wi/nKIMjJuuA2QygfUEOT9PfMnpWLeZT8I=;tCW3HDyZnX8V3cBQbMyHIA=="
+secured: "iOvw0LhGs+Zik/o6NWlTjXH3j71inVsYH5uNAqgu09MjVr17FhIacR5K5NdMuz9MnNPx/0DrdNZcgAZec5RKc542wOELZU2lk3blO5V4ToLsfVrQ9K21fgcY48mYMc3DNzFOHoREX4D4BlbVRBuSY5dFFqri6kE0EJAuHepxZyPYf92AZjg2kk4qvVj+xixHey/JtYmqrLQ0n2v8YyPGNMdt7VYeiH+4K49OwojxobxUYmKQt5LkOfrSdE33vqMzYOy0gnEbKTmcABEvIs4P9r0KrDUf2tBCihwO/jBJJz9MFmKiJe/ipkp7zbho5SZQTnZUamBxb5GCMQ1VEuwUOC5yBPzvEPUWgRrAsXl1c+U=;XM/n8fVyotiscKyYHVs6XQ=="
 ---
 

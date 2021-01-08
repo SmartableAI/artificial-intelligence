@@ -7,7 +7,7 @@ originalUrl: "https://www.bizcommunity.com/Article/196/498/211844.html"
 webUrl: "https://www.bizcommunity.com/Article/196/498/211844.html"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 330
     isCached: true
+
+related:
+  - title: "IISc announces PG Level Deep Learning Specialization programme"
+    excerpt: "The Indian Institute of Science (IISc) and TalentSprint today announced the launch of a PG level Advanced Certification Programme in Deep Learning."
+    publishedDateTime: 2021-01-08T11:41:00Z
+    webUrl: "https://www.tribuneindia.com/news/jobs-careers/iisc-announces-pg-level-deep-learning-specialization-programme-195080"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 41
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2021/1/Desk/2021_1$thumbimg_1671732785.jpeg"
+        width: 330
+        height: 220
+        isCached: true
 
 secured: "CHQ2MKoMZxjhENoPsT/mH7lfKfIahASNKJktHuXMTdCkQexsiQqhQWccO+a4+yKz80RPtH6Ccig35D9er+lbK4Y8nsPyLHdMas462EkHehmMbxHxr77TC/nkSRpfHEdWjdk9cETyQDlzaZoK+0DjXva2zNmm36sdofgrUKMKAx5SsIvT+Dbd7aSrh0u+jbuFXxYVEuirKN0p13qOkAUFPm44gUxqZD6nwTlwZmajwlbyGsqxvcZlRWeD0MYIsNEAVCeSoOwUiadsGu36DsInMspI5kqMOuJ3zYk7mUTgN67Zp1eHzitRtn4nmClf0bdqmvmm0grxU8s/pRcZsr5ftNc9S2XGT+znY+JxBMPhmEI=;C6mrSai1zuEZvCcwREVJOA=="
 ---

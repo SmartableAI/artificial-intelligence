@@ -226,20 +226,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Watch Tesla's Full Self-Driving travel from SF to LA with (almost) no help"
-    excerpt: "Driving traveled from San Francisco to Los Angeles with virtually no intervention, although it's not truly autonomous yet."
-    publishedDateTime: 2021-01-03T19:19:00Z
-    webUrl: "https://www.engadget.com/tesla-self-driving-sf-to-la-trip-191412851.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Watch Tesla's Full Self-Driving navigate from SF to LA with (almost) no help"
     excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."
     publishedDateTime: 2021-01-05T17:52:00Z
@@ -370,6 +356,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/01/navigation-1048294_640.jpg"
         width: 640
         height: 406
+        isCached: true
+  - title: "Self-driving cars are dangerous in the wrong hands"
+    excerpt: "We have long been promised that fully self-driving cars are about to take to our roads, but the technology remains out of reach. “It’s an extraordinary grind . . . a bigger challenge than launching a rocket and putting it in orbit around the Earth,"
+    publishedDateTime: 2021-01-08T05:04:00Z
+    webUrl: "https://www.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    ampWebUrl: "https://amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7771b980-3096-4057-8e1d-b67fa5e631ee.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Waymo drops the term 'self-driving' for autonomous vehicles"
     excerpt: "Waymo would like to leave \"self-driving\" for the history books. The Google subsidiary said it will stop using the term. Instead, Waymo says it will refer to its technology as \"fully autonomous driving technology."

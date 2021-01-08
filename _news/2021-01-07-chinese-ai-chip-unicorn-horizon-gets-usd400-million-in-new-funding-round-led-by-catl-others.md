@@ -57,6 +57,15 @@ related:
         width: 2122
         height: 1412
         isCached: true
+  - title: "Sequoia, Tencent join the $190m series C and D rounds of Chinese HR startup"
+    excerpt: "The latest investment comes after WorkTrans raised US$23 million in a series B1 round from Qiming Venture Partners and Lightspeed China Partners in 2018."
+    publishedDateTime: 2021-01-08T12:31:00Z
+    webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 30
 
 secured: "HklPN8apiyfjl+ih2FpBinrtImsfLT9sOH3I/kNE+y7TS56akeoo8tNTwESdvfqSFR7+c71BozuJExSPXjV9dyi1cTStrGSXDrw7oKwpQIEnplQfzCmmv/prHiSvV0Ek33yXljBhdDoHXg3c1F3pG7wx7uTrME95UvoK4D6qWy70pRMK3ugQ4tHlIGAQXYrqkeh7U1ilVTED3AdelRtyvu26ovpA2eRkyw+pse3XpXH5OlXWa/RuQlj05RsKnbg4nS/s5r7kovtWs0Wxxmej8qFsWPXdiOohF18Tff0EN4S0AfUYylaGgHnsKn5V0e2Xavghcd64UtdZCMVtputpM7FczfAz1eOZ7WQUH/BGSJBu+DrIBYkIVqtBm5EWWLd84i3sFffmbew+V1SpkGl9P2IjIeOsaXHo45LlvwC8/QGv3SDycelDd9h7guN5rlwSAYt3IQdDbSkrd3Sp/heJeu0C6y6YVcbfQCrFSVrOl1IG0H28ZlfnFR/DRMZNFDalXuzPQWiJkqCGsnB0f1YQKA==;sZNQ7rypiRdAZMuZQYO+Jg=="
 ---

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "3U VPX embedded computing graphics processing card for military AI and deep learning introduced by Abaco"
+    excerpt: "Product supports signals intelligence (SIGINT), situational awareness, radar, video, and graphics applications with three output configurations."
+    publishedDateTime: 2021-01-08T12:03:00Z
+    webUrl: "https://www.intelligent-aerospace.com/military/article/14190009/sigint-radar-video-military-ai-deep-learning"
+    type: article
+    provider:
+      name: Intelligent Aerospace
+      domain: intelligent-aerospace.com
+    quality: 39
+    images:
+      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/01/Abaco7_Jan_2021.5ff4d6abc2d8c.5ff7b23c62512.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 440
+        isCached: true
   - title: "Light-based processors boost machine-learning processing"
     excerpt: "An international team of scientists have developed a photonic processor that uses rays of light inside silicon chips to process information much faster than conventional electronic chips. Published in ,"
     publishedDateTime: 2021-01-06T20:46:00Z

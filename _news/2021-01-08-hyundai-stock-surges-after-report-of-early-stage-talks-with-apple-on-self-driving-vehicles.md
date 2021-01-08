@@ -45,6 +45,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Hyundai in 'early talks' with Apple for self-driving electric car"
+    excerpt: "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car."
+    publishedDateTime: 2021-01-08T12:25:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6861610106800/2021/1/dda519f86bfc05448a184b6df6aa7007/v1.5/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Hyundai Motor Says It's in Early Talks With Apple to Develop a Self-Driving Car"
     excerpt: "A local report from the Korea Economic Daily that said Apple suggested the tie-up and Hyundai Motor was reviewing the terms."
     publishedDateTime: 2021-01-08T02:51:00Z

@@ -49,6 +49,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Hyundai in 'early talks' with Apple for self-driving electric car"
+    excerpt: "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car."
+    publishedDateTime: 2021-01-08T12:25:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6861610106800/2021/1/dda519f86bfc05448a184b6df6aa7007/v1.5/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Hyundai Stock Surges After Report Of Early Stage Talks With Apple On Self-driving Vehicles"
     excerpt: "Shares of Hyundai Motor surged 20 percent in Seoul after the Korea Economic Daily reported that the South Korean automaker is in"
     publishedDateTime: 2021-01-08T04:24:00Z
@@ -73,6 +89,6 @@ related:
         height: 600
         isCached: true
 
-secured: "oh16g6gx4WIElO2vS1ESsnqOkicYtbHGvizNurv8Sh7TykYh7k2Nz6PbY10WGUUmMhdfhKoZ11ohVslAMoB1XGlfhyPKxpnwUyWl1LaLldWt3MFA8vCwYUhuM7h72peUbS71upOldNEQIcLL2m6FIjpaGqaDV9JMp1olRC0UKooC6zPy9jBG2AqQ1fMUCyRTC1Q+HzR0zYLkebR263+uyImixcpio2ksgJo72KNr+vXBnQTOFEvwOsCxXRKTrBdfQa+VG3dQP8dDWn7NIuXKV4qHqJ0hT52KyvfOb0fcrcfr7nySG21zX3yQiu9k+fzLwjfWqjuxx3k6er6J2uALGvaaXWybYMgtvebG7Ci1Y6Q=;FAbSkWXjTTaOzSE9OUS7ZA=="
+secured: "gvvmuTNXinBakK5lyxlgb8FV0LHatmunqMa796916yBZ8DfNhUE0YEcFQOnrBA2crBKk8WPXEhUAa2TuQY2h0O17ABHD4Oz9mjFVojOTWA0vRwbVagUfuJUWRxZH1xmqOT8i0vIyrLcl41QQ6Vab88MQrSRXkvTLBvPQz9UXEE/1MW+xBUM6orJFC9WF+CjlDs/rpmTqipvA25ygLt7bKN7A3H4S7k7aNPMb03SjTD88rw3SP2K7YOvcvFfpx4d8IflK25oAUBBSVRG0lAJ9JsgkCL91CEjdj1oecikFxbK9+xRtV9MhPHMCYDTPJR/UKz3jNGZWcwobim5SPoW89tp0RTnjU7SJtz4pmi/ZDGv97HSBW20OleN8qd6LkbRSuB6BubmEyUAVPdLKaKpNGuRq05r7XPbyLgVLhan1XyLpsiaN+T0EQAhS2XHfd+4lW57vRy+CwseJxvpenl3bIYEQcnE+KIeCaefTopm20htpDvYmO/AUGmjG7EL9vQI4O1tvBYNXnrD3L+bS8PBciQ==;yGQKyh1sklSR0V8ehkReTw=="
 ---
 

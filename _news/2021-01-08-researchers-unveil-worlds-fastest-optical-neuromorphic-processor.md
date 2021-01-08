@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists exemplify world’s fastest optical neuromorphic processor for AI"
+    excerpt: "A Swinburne University of Technology led team has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence."
+    publishedDateTime: 2021-01-08T11:17:00Z
+    webUrl: "https://www.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO.html"
+    ampWebUrl: "https://m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 37
   - title: "World's fastest optical neuromorphic processor"
     excerpt: "A Swinburne-led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence. The neuromorphic processor operates faster than 10 trillion operations per second and is capable of processing ultra-large scale data."
     publishedDateTime: 2021-01-07T17:36:00Z
@@ -34,15 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 36
-  - title: "Scientists exemplify world's fastest optical neuromorphic processor for AI"
-    excerpt: "A Swinburne University of Technology led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence (AI) that can operate faster than 10 trillion operations per second and is capable of processing ultra-large-scale data."
-    publishedDateTime: 2021-01-08T09:58:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20210108/3687554.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Swinburne-led research team demonstrates world's fastest optical neuromorphic processor"
     excerpt: "A Swinburne-led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence. The neuromorphic processor operates faster than 10 trillion operations per second and is capable of processing ultra-large scale data."
     publishedDateTime: 2021-01-06T05:00:00Z

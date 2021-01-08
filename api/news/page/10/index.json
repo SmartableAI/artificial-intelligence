@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-27-120-million-payouts-massive-egos-and-prison-time-the-inside-story-of-google-and-ubers-war-to-own-self-driving-cars.md",
+      "title": "$120 million payouts, massive egos, and prison time: The inside story of Google and Uber's war to own self-driving-cars",
+      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 On January 7, 2016, Anthony Levandowski emailed Larry Page to wish him a happy new year and to gripe, once again, about the state of the search giant's self-driving-car research project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
+      "originalUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe3abefedf8920018093966?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
+      "publishedDateTime": "2020-12-27T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops.md",
+      "title": "Rafael unveils AI, deep learning tech for IDF infantry troops",
+      "excerpt": "Under the new system, all parties in the battle will see the same image – provided by the goggles of an infantry soldier or a sensor on a fighter jet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389",
+      "originalUrl": "https://www.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.jpost.com//HttpHandlers/ShowImage.ashx?id=387779&w=640&h=428",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389/amp",
+      "publishedDateTime": "2020-12-27T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-the-state-of-data-december-2020.md",
       "title": "The State Of Data, December 2020",
       "excerpt": "Data is eating the world and there are many indicators of its ubiquitous presence in our lives: AI, digital transformation, data monetization, and the effect of Covid-19 on the accelerated growth of data.",
@@ -1074,109 +1169,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future.md",
-      "title": "National Grid sees machine learning as the brains behind the utility business of the future",
-      "excerpt": "If the portfolio of a corporate venture capital firm can be taken as a signal for the strategic priorities of their parent companies, then National Grid has high hopes for automation as the future of the utility industry.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
-      "originalUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1171442301.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
-      "publishedDateTime": "2020-12-24T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-is-c3ai-stock-a-buy-after-almost-quadrupling-since-its-ipo.md",
-      "title": "Is C3.ai Stock a Buy After Almost Quadrupling Since Its IPO?",
-      "excerpt": "IPO share price action is any indication, investors think C3.ai is an incredibly promising company. After pricing at $42 per share, the stock has quickly skyrocketed above",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F605390%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/24/is-c3ai-stock-a-buy-after-quadrupling-since-ipo/",
-      "publishedDateTime": "2020-12-24T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

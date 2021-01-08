@@ -3,8 +3,8 @@ category: news
 title: "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist"
 excerpt: "Influential high-level quantum computing pioneer, Coecke has made foundational contributions to Quantum Natural Language Processing CAMBRIDGE,"
 publishedDateTime: 2021-01-06T08:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936259"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936259"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252"
 type: article
 quality: 22
 heat: 22
@@ -33,6 +33,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "MX4TXyl4FWJIOuRna/Xj4Rxw0Aj59WnH1zcHC+VSEhnD41YkDJmWD2UXwOThgBk0FdkCJcGGB+04LmNFKco0M36T4kWK/1gBPZVebWADmoVbAb5GNcMjC4w85l5xtbtvXS6QLpjOVjQrLTelsgERWxDmaGz/tlgZaDNtWf37jXSACiYTxeyB/h6VxOu35VekUVm27/KweNO70WM8LIRdesu9lnHeYyGnseQZLjk9vXHtuTtUOJS2VNzhUtFOPa+eZVhapyrJAtwAqZ/b4mhCHU3k2Deqprh817uBSNEPKCBlE3q4rPRx67aQXVusQL0jGYkH8NLGeOPnEdpMUrD36CrNECNhPJk+jC48qgodlaI=;p1I7HokionIWxpqWk9kB7A=="
+secured: "4VxuKG2wsTL5eXqD5MovbozneP/e/p0fezwbgBLM5xKA4ysPxyVsCyAJy9J/wFMpoA/2Bo9v3txmST5PJcdneYWsOlGuMQTXmNCoe0uZrxM54ylkf2XWEvqd5yOk/HBLk72BgAMpsnAxjVWKoEH1R/HiMrZq+jF4HxSMcAV/8/+5CxYVM7BJBeP5MXKgT8Ust0HibWQiCh4d3F/IAysRqsYnpzlzkFDnz/KR80r9s2PXQTXRPYKTXG0I1xAjoYZnErA6KtG/lcGUqXDNvcjD6zLnS3rSAM6HMa2HkLsp/PIOVcCvZ3buPeDGs2b5bTx4YbOD/lHv58e0+2kF5HSzAPwKblK/PD7YQlxARaZ2USQ=;+LEEn5jZ2Ewyq43b+KQRrA=="
 ---
 
