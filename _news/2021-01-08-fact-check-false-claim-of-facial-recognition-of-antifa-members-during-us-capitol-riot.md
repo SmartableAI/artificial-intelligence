@@ -1,0 +1,79 @@
+---
+category: news
+title: "Fact check: False claim of facial recognition of antifa members during U.S. Capitol riot"
+excerpt: "Facial recognition software firm XRVision has refuted a now-retracted story that its product matched rioters at the U.S. Capitol to members of antifa."
+publishedDateTime: 2021-01-08T03:53:00Z
+originalUrl: "https://www.azcentral.com/story/news/factcheck/2021/01/07/fact-check-false-claim-facial-recognition-antifa-capitol/6580679002/"
+webUrl: "https://www.azcentral.com/story/news/factcheck/2021/01/07/fact-check-false-claim-facial-recognition-antifa-capitol/6580679002/"
+ampWebUrl: "https://amp.azcentral.com/amp/6580679002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6580679002"
+type: article
+quality: 65
+heat: -1
+published: false
+
+provider:
+  name: The Arizona Republic
+  domain: azcentral.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7ce53165-1d79-47b5-a5c2-f8322c17a71a-AP_Congress_Electoral_College.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "A Facial Recognition Company Says That Viral Washington Times “Antifa” Story Is False"
+    excerpt: "Matt Gaetz had cited the story in Congress as supposed evidence that antifa was involved in the Capitol assault. But the company says it’s “outright false.”"
+    publishedDateTime: 2021-01-07T16:55:00Z
+    webUrl: "https://www.buzzfeednews.com/article/craigsilverman/facial-recognition-antifa-washington-times-false"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 82
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-01/7/15/asset/4b24ac414e7e/sub-buzz-13891-1610033744-11.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 425
+        isCached: true
+  - title: "Facial recognition firm claims antifa infiltrated Trump protesters who stormed Capitol"
+    excerpt: "A retired military officer told The Washington Times that the firm XRVision used its software to do facial recognition of protesters and matched ... Fox News cuts away from Donald Trump Jr. speech following profanities Violence, destruction halt ..."
+    publishedDateTime: 2021-01-07T01:46:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "No, facial recognition didn’t confirm antifa infiltrated Trump supporters at the Capitol"
+    excerpt: "XRVision, a facial recognition firm, had analyzed footage and claimed antifa had infiltrated Donald Trump supporters who stormed the U.S. Capitol. Violence roiled the U.S. Capitol on Jan. 6 as supporters of President Donald Trump stormed the building,"
+    publishedDateTime: 2021-01-07T18:29:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/07/facebook-posts/no-facial-recognition-didnt-confirm-antifa-infiltr/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 30
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+
+secured: "f0tA4fZW0LlvVC+M9KfYQK5AEu3PxkyjE8jG4kmP3Q1krf8B8GYyv05IyjNicxW1RkK2/7qOfs5kvukHfHzKI+VJW8Poqmi73HOkYuIJog3pS+zhR0CwVIK8BDCuLELalT/kL9G3uvM564EWkiMwaO3k2pFTNh4Oyh5oiE3Mdb5v7IOIiUOmx6RMt2rpaZk79+3i0+M757m7swzeSCbZGIz/PC3HBrYoyRap84olQjJIL/YNESNHE8UHa2pbsXtm8b5rE6tXO7GsIA+v0rU0i+asbyrjXfoyDHjieSlzUFgoLb9V0dcI+tg8fVguQuLC1HjalPuIMigqE65GzlWIK1Ug5yfGGiAM7fmTOBm64Rs=;2YGo+Yc+I2hpPwNoRUT+7g=="
+---
+

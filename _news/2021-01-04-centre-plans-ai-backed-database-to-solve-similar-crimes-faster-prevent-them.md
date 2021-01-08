@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI based database to solve similar crimes quicker, Centre"
-    excerpt: "The Centre is involved in developing an Artificial Intelligence (AI) and Natural Language Processing (NLP)-based database of modus operandi various cr..|News Track"
-    publishedDateTime: 2021-01-03T12:31:00Z
-    webUrl: "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 59
-    images:
-      - url: "https://media.newstracklive.com/uploads/crime-news//Jan/03/big_thumb/AI-based-database-to-solve-similar-crimes-quicker-Centre_5ff1b71375b0f.jpg"
-        width: 796
-        height: 450
-        isCached: true
   - title: "How AI Hardware in Data Centres can Improve Data Infrastructure"
     excerpt: "Specialized chips for artificial intelligence (AI) computing by NVIDIA and Intel can bring more high-density AI hardware in the data centres."
     publishedDateTime: 2021-01-07T11:12:00Z

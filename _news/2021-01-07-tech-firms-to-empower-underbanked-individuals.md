@@ -37,6 +37,22 @@ related:
         width: 2560
         height: 1076
         isCached: true
+  - title: "Amazon Web Service to rescue unbanked Nigerians"
+    excerpt: "Aella App, Nigeria’s leading single-point financial service and payment solution provider, is working with Amazon Web Services"
+    publishedDateTime: 2021-01-07T03:07:00Z
+    webUrl: "https://guardian.ng/business-services/amazon-web-service-to-rescue-unbanked-nigerians/"
+    ampWebUrl: "https://guardian.ng/business-services/amazon-web-service-to-rescue-unbanked-nigerians/amp"
+    cdnAmpWebUrl: "https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/business-services/amazon-web-service-to-rescue-unbanked-nigerians/amp"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 44
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2020/11/Amazon-1-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Aella, Amazon partner on underbanked empowerment"
     excerpt: "Single point financial service and payment solutions firm, Aella App, said it is working with Amazon Web Services, Inc. (AWS)"
     publishedDateTime: 2021-01-06T04:25:00Z

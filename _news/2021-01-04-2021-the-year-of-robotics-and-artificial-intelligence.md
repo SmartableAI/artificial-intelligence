@@ -7,7 +7,7 @@ originalUrl: "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-
 webUrl: "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
         width: 2560
         height: 1423
         isCached: true
+  - title: "FedEx in 2021: Delivery robots, package volumes and air cargo capacity among big questions"
+    excerpt: "Deliveries fulfilled by robots, a never-ending peak season and a changed landscape for commercial shipments are all on the table for FedEx."
+    publishedDateTime: 2021-01-08T03:17:00Z
+    webUrl: "https://www.commercialappeal.com/story/money/industries/logistics/2021/01/08/fedex-2021-outlook-includes-automation-e-commerce-air-cargo-capacity/4076465001/"
+    type: article
+    provider:
+      name: Commercial Appeal
+      domain: commercialappeal.com
+    quality: 24
   - title: "Farewell 2020, hello 2021: The year in cloud reviewed – and what will come next?"
     excerpt: "Amid the pandemic, 2020 was certainly an interesting year for cloud news - with Covid by no means the only game in town. But what will 2021 bring?"
     publishedDateTime: 2021-01-04T12:45:00Z

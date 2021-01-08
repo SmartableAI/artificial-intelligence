@@ -1135,21 +1135,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft.md",
-      "title": "Machine Learning Market Is Thriving Worldwide| Fair Isaac, Intel, Microsoft",
-      "excerpt": "Global Machine Learning Industry Factbook - the most comprehensive and reliable data resource for the COVID-19 Outbreak- Machine Learning available now that deliver a complete, end-to-end look at the COVID-19 Outbreak- Machine Learning supply chain,",
+      "path": "_news/2020-12-23-panasonic-to-demonstrate-guidance-service-for-priority-elevators-in-cooperation-with-marui-department-store-in-tokyo.md",
+      "title": "Panasonic to Demonstrate Guidance Service for Priority Elevators in Cooperation with Marui Department Store in Tokyo",
+      "excerpt": "As a result, the object recognition technology was found highly effective in recognizing their entry and exit. A similar image recognition technology will be used for the demonstration at the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-thriving-worldwide-fair-isaac-intel-microsoft-2020-12-22",
+      "webUrl": "https://www.finchannel.com/technology/79757-panasonic-to-demonstrate-guidance-service-for-priority-elevators-in-cooperation-with-marui-department-store-in-tokyo",
+      "originalUrl": "https://www.finchannel.com/technology/79757-panasonic-to-demonstrate-guidance-service-for-priority-elevators-in-cooperation-with-marui-department-store-in-tokyo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://finchannel.com/images/banners/ePaperTF.jpg",
+          "width": 500,
+          "height": 265,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1159,21 +1159,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T10:24:00-08:00",
+      "publishedDateTime": "2020-12-22T12:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Financial",
+        "domain": "finchannel.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1182,9 +1173,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

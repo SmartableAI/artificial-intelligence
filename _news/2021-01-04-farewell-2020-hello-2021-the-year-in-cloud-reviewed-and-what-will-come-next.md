@@ -95,6 +95,15 @@ related:
         width: 2560
         height: 1423
         isCached: true
+  - title: "FedEx in 2021: Delivery robots, package volumes and air cargo capacity among big questions"
+    excerpt: "Deliveries fulfilled by robots, a never-ending peak season and a changed landscape for commercial shipments are all on the table for FedEx."
+    publishedDateTime: 2021-01-08T03:17:00Z
+    webUrl: "https://www.commercialappeal.com/story/money/industries/logistics/2021/01/08/fedex-2021-outlook-includes-automation-e-commerce-air-cargo-capacity/4076465001/"
+    type: article
+    provider:
+      name: Commercial Appeal
+      domain: commercialappeal.com
+    quality: 24
 
 secured: "wLl7UHEMIylUAVcVnYB/rGWryElpojBhLhEaVOgeK1VTlPq02CJEcuKwjiLUc9lRexuH2fFNKVj0XEKTvEi3HfdftUVK4vZdedC6dVikFIDdtp4/CZKKot5qIbIN4vyG2tRSZ9MjOAmgIbdiCCXg5qHoCEEbR0iWc6ckKzgte5qC2XYq5gxwrVgq55qKzjzKywmxx2qkREdNwvQp3+NSY6o5weerbwAAotLnkaZYkAFweL3Eex6l/FmukxCjQjntyUAfsh4MsXe6y6n8ungQAlIPlWpAsyb11uBpe2AKKhgOJMApXe8NRub7MqEFVS0Dps1O1+tnFWjO2MiFarOGAo5f75D+5HJlDgWrjbWJzI8=;S6vTdTjOGKWh9LtWWXOjWg=="
 ---

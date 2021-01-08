@@ -50,7 +50,7 @@ related:
   - title: "Hyundai Motor Says It's in Early Talks With Apple to Develop a Self-Driving Car"
     excerpt: "A local report from the Korea Economic Daily that said Apple suggested the tie-up and Hyundai Motor was reviewing the terms."
     publishedDateTime: 2021-01-08T02:51:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/hyundai-motor-says-its-in-early-talks-with-apple-to-develop-a-self-driving-car/2819172/"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/hyundai-motor-says-its-in-early-talks-with-apple-to-develop-a-self-driving-car/2819172/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/hyundai-motor-says-its-in-early-talks-with-apple-to-develop-a-self-driving-car/2819172/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/hyundai-motor-says-its-in-early-talks-with-apple-to-develop-a-self-driving-car/2819172/?amp"
     type: article
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hyundai Stock Surges After Report Of Early Stage Talks With Apple On Self-driving Vehicles"
+    excerpt: "Shares of Hyundai Motor surged 20 percent in Seoul after the Korea Economic Daily reported that the South Korean automaker is in"
+    publishedDateTime: 2021-01-08T04:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-stock-surges-after-report-of-early-stage-talks-with-apple-on-self-driving-vehicles-1029942411"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "X7WsVro+gBto/X5zGwnxwlzR1jYdTh+344EJj1W28aseaEf2hCqqLiwbJTXgONGu3KrtzR6O8cN3P86jdG7KqIMJO2Wz0pNxtA0dBB5k0F+KCKmB+LEbVdlB0vwPrwajOY+trRgtpPdesdtox8cUQ5iCD09UYttOeDFq8wdP5eyrTHaUbXgYW8JebhOA1DCLi/hwMVNMw6BzqBpTtoz8tKudShELYm/WO6DtiwkEPMKCLL6hoXPhKbwV9ZQPwx53aYldVCNzixwpXLOG91EJjgmp4+jfoebEySYExNIjWFGpDhDdpGlLANw6ht8U7xBgeRpNkOThP/xOJIUJwEqg9ORyHHfkgmpj7bYmt5tc0FU=;ivoqSCDLlf5wFhqPTZ4J0A=="
 ---

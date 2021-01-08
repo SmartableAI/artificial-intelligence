@@ -44,6 +44,22 @@ related:
         width: 640
         height: 425
         isCached: true
+  - title: "Fact check: False claim of facial recognition of antifa members during U.S. Capitol riot"
+    excerpt: "Facial recognition software firm XRVision has refuted a now-retracted story that its product matched rioters at the U.S. Capitol to members of antifa."
+    publishedDateTime: 2021-01-08T03:53:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2021/01/07/fact-check-false-claim-facial-recognition-antifa-capitol/6580679002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6580679002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6580679002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7ce53165-1d79-47b5-a5c2-f8322c17a71a-AP_Congress_Electoral_College.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "No, facial recognition didn’t confirm antifa infiltrated Trump supporters at the Capitol"
     excerpt: "XRVision, a facial recognition firm, had analyzed footage and claimed antifa had infiltrated Donald Trump supporters who stormed the U.S. Capitol. Violence roiled the U.S. Capitol on Jan. 6 as supporters of President Donald Trump stormed the building,"
     publishedDateTime: 2021-01-07T18:29:00Z
