@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "myconversica"
   url: "https://twitter.com/myconversica"
-  followers: 13021
+  followers: 13015
 
 size: 201-500 employees
 yearFounded: 2007
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
 
-secured: "3oKeUJaMdiinvBXehN+PqAwwMtRaLDv4JDOjZX53UYaNGLye+EbcCt7g9v46vidmCZseUy/YWjbae+DkYCcQFzTPvtml+y0GlC9qd/sZBeIgFjRtKEFoSJaSecROjcgcweZBkyqOzz+FGpLJrd7RtzX3qf0XY7mZl0D8TCAhnEswA1t3gPECANMV1xRnud17x6N9GyHRuAfoz5/coQZF/Ebi/vDwZks/jLp1wv7kZMkHcp7mqK9sNTZ+mJNMZaGpuMHybuzN9d5siogxvZDU8z74PAeOqiN/JABlbreMsUfs4lmyYTUi9p6GWtcHBjen0qm8HI0uF3NmTznd6ZLc/t45HZ9FsQTWwy/J0nLcfWPPv2bQ8jqM5UEqoZJNZWoOmDHVsfRBkstiKaTEHJ5OVo974h9pc4XggARL/QaM89Q=;PvwqPa/f4nqzFQbHCHS94Q=="
+secured: "xAVcBBt6ouw28pPqOboSnjYror9+QvTdRSXOFh0SkUPjPDw/+H0zNBkys107Uj+cvN63W7YImFZavqYJls7PM14Zhjw3h0aglXRWCvUwpItikwbyExJgfV1ZvGMPIoBLQVFR9tCRJ2X3wL8RBqVLwZrBAz/NPPMLT1NnBMeLV0IqHgBuPb/cL4fkA5yKmHgCR2AReoi+KUmPa1BeL8QmaYQXHqdKzFR6CycYYtgXgrVADx0h0lvVg+LPUSfPv48SDbEB1fqMGnAl4vQsgu5m5EbvIIFhOW87eOVU3fBZrP7H726M4BHXKIN+PeYZeQcnmlVWe0kc5uME6S70UHGwIId8+aHGRNcDVrFdMy0OfbafUrjCrkYtGFUHdxjpQbkQf7p+QQdB/IFGx9gjEHXrpAadFk2ejF6tWiAU36cGoNA=;45PMPwHzfkYPTmPXz/gj5g=="
 ---
 

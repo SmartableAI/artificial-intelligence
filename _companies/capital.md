@@ -2,7 +2,7 @@
 name: "Capital.Com"
 overview: "We are on a mission to make the world of finance more accessible, engaging and useful."
 type: "profile"
-heat: 200
+heat: 147
 
 website: https://capital.com/
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "qVM0hEl8RpLe5LLR9iooGKzM57Q1ld4XNg4wy+kZleOYZwqdR/oxeV0XZV8HJq5Cy97ze8OoCmahfHRmVe+DvGCSuAtH6Cv1uHTf3V2kXI5K0duLNhvkXXFKypLzem2EEW48AE/OzqrlZBYfzczTYlSlsalHF+iK5bxb9FxyZzyfbrZ1a+dlhTgMz6boMNprqJkDd3ucXPblftuqd9PkMQV4PInSgO3s/TruGbXi3ZMMfxhfPF7uRzXedtnH3TizsTnheb7HBlReNt2I3fcoSt0XQzn7LNiedoX9vHVHDG6daYkucGygKJwdP0qht2EGC0U0VnBHdiVxtVtxLJWkvlxRrwKe2Jzlmwg6Cdssa51YyjiMBiFEKQ80puhb47HCWDfzMNzRC2S8GVsxqon8UaB3PMpFB1cPGGbGCOe3bLY=;69GC44zDNVI/flKDtiy78Q=="
+secured: "bBvrLavqlOjXddfYvBNuO9U5Gmp8QZF16NCkfiZi96l+uXTm4/z0tg4BlDUphV48MGaSu8DPd7Di+za5wueit6dnK0PfYk66AlV/M2IXCOoMdWfte21y/wMYjFem6d6mip4wfItZEBgR3lHxD9fSseg3gcptd/ayAeSooLfe0ua4lcL3Ox2YV+ytERpJEHSEAjd0xYzYoH1C6yXjdSPnhMMNUpxxIBmMBuEcmPfrYzqeljRAeCbeBKMgiZYWs1kuEDX+V0EhECijgws/DlSKook64jEtnF05LFbaEzYL7DHpxJmqWXj8Q586hmyhCtf7xnyqxEFMku9pqD9qJPXKMj7hfoCTjkaCd3KC+h9mO8CG/kgy7u/IlURMoZh4Qdl8hMLfEaj0WPp5z2IEPqcLCgDTbDa6HZay5vYAmOEcFYg=;+mR1Q1BydL54JrXPmf3VOQ=="
 ---
 
