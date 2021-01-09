@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Leveraging AI In Remote Talent Acquisition"
+    excerpt: "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions."
+    publishedDateTime: 2021-01-09T08:36:00Z
+    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/"
+    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How AI Is Changing Corporate Decision Making"
     excerpt: "Until the introduction of AI and ML, major decisions were taken based on months of researching and data collection"
     publishedDateTime: 2021-01-08T06:56:00Z
@@ -38,35 +54,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI advancement: Mimicking decision-making"
-    excerpt: "In The Terminator, Arnold Schwarzenegger is transported back to 1984. If Arnie had to rely on cloud connectivity, he’d still be walking around naked."
-    publishedDateTime: 2021-01-05T17:08:00Z
-    webUrl: "https://www.computerweekly.com/news/252494344/AI-advancement-Mimicking-decision-making"
-    ampWebUrl: "https://www.computerweekly.com/news/252494344/AI-advancement-Mimicking-decision-making?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494344/AI-advancement-Mimicking-decision-making?amp=1"
+  - title: "New innovation in field of AI"
+    excerpt: "A Swinburne University of Technology led team has demonstrated the world fastest and most powerful optical neuromorphic processor for artificial intelligence"
+    publishedDateTime: 2021-01-08T10:28:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-field-of-ai"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 41
     images:
-      - url: "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/ai-tech/searchEnterpriseAI_008.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Harnessing the power of machine learning for improved decision-making"
-    excerpt: "Using both supervised and unsupervised learning, analysts can find new patterns in their data and validate those patterns against mission relevance."
-    publishedDateTime: 2021-01-05T21:37:00Z
-    webUrl: "https://gcn.com/articles/2021/01/05/machine-learning-improved-decision-making.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robothand_blocks.jpg"
-        width: 760
-        height: 368
+      - url: "https://cdn.bignewsnetwork.com/ani1610099955.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "aPgf3SDed/4toiuvHsTWeQ26INGLFfmLepnhKygdcSxbRtInF3HkD/O9nGGPwl5GJpt0M+2tm2ynu/FnVSbAIyb1V+0tRNjOcTm0wPeFzxmxE1dbYX+euiz1HBD9FU4817a67/DkSJrOmxVrFJt0vnadWgRnNjOwAssqtYiV4UxtxU9k7ZIjQIZ2arZc2qNZvYBemfsE9d4JvJDLkcgMYiFCKs9zc3fl8azAsKqKCvlVHXyzMv6sJtGvhnzIvPrjgEPl87i5I4J5LApFOXfLu5BkUBTqoJF5/F+Lfod0akCDypernLKLn80+roYLCebwvpROOM0msTaPgiaX8v9PQCRboICJOJhndPy4DY61w+OH5i2i3azo2otZyi2rYwE6BpJnGOsSkEzuG80M1Y6M5sbWKxjmlMusrwQxwqXyUAHGwO9dugSTR2xJ2fV87NeBgQX1LUUtvrt19NkjsFRre5F7b1J/l5O//vbt0CkuwALhIDwCMC98PQFMbSOw2IWA1PUD5a6LdN8QUlGMZd8Sgw==;V1RJQxKnQfE36a5WHNFjbg=="

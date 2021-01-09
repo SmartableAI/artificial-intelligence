@@ -2,101 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-12-21-russian-army-tests-artificial-intelligence-equipped-target-robots.md",
-      "title": "Russian Army Tests Artificial Intelligence Equipped Target Robots",
-      "excerpt": "Artificial intelligence (AI) based mobile target robots that dodge shooters’ bullets have been tested for the first time in Patriot Park shooting range near Moscow. The AI-based robots are dressed as soldiers and carry dummy guns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
-      "originalUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T20:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-tesla-full-self-driving-subscription-coming-really-soon.md",
-      "title": "Tesla Full Self-Driving subscription coming really soon",
-      "excerpt": "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
-      "originalUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg",
-          "width": 1680,
-          "height": 944,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
-      "publishedDateTime": "2020-12-20T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-21-computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players.md",
       "title": "Computer Vision in Healthcare Market Research Methodology, Industry Outlook, Technology Overview and Key Players",
       "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
@@ -1136,6 +1041,110 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more.md",
+      "title": "Predicting 2021 in cybersecurity: DDoS attacks, 5G speed, AI security, and more",
+      "excerpt": "Talk here about some predictions for 2021 as we round out, fortunately, this year 2020. Let's start with 5G. Of course, we're moving now from that hype phase to reality, and we're starting to see 5G inching its way in a little bit more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/6032b612-5e42-4f1b-a34a-7a7780f492a8/thumbnail/1200x675/b9ae690b5f7b685be658c631eaf05eec/20201215-2021predict-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/",
+      "publishedDateTime": "2020-12-18T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-what-to-expect-in-the-nlp-space-in-2021.md",
+      "title": "What to expect in the NLP space in 2021",
+      "excerpt": "2020 has been a great year for the advancement of Natural Language Processing (NLP). We have seen a large number of organizations, from small ventures to massive enterprises, adopt NLP into their business solutions and data pipelines. With this high rate of adoption comes the next set of innovations",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/nlp-2021-forecast-leadspace-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T08:56:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
       ]
     }
   ],

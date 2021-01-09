@@ -56,15 +56,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Hyderabad-based Pure EV develops AI-driven hardware for battery maintenance"
-    excerpt: "The company claims that this technology completely does away with the requirement for customers to visit Service Centers to address battery defects"
-    publishedDateTime: 2021-01-04T16:05:00Z
-    webUrl: "https://www.livemint.com/auto-news/hyderabadbased-pure-ev-develops-ai-driven-hardware-for-battery-maintenance-11609772107242.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 17
 
 secured: "jGl/WJIrjVzHukGDVvgTEmsJRBY1b7l1ZxNvAtFV0tu4DkkJiCC9J27h9PlEsm5xB7sDKdOJpRE+iyrB3CLy/2jZa9QpwJq3MBA0wDM83slZYKSfVULkoJOwcGl8vOh55XltHIDQNF7+UQmrFEkkBQ5AegokXEqt3u8AIMVnyXxX+LXNcSiLs8IazsgFpxHjpPNnJdI9mL+FFds4r7liIu9DXOZlKPX3YeK1J6N87fOj8rOBUmoz0ekI4dMTAidnZdQnt7uvnli1Ls6dC1V+u0jVMyi1jmHygyMhmJtuhEUfZL772VVYVipDJGhMpR6sgJY1mQDx6FfLvWjQQunkvDFcyWdWwHv/kytm4ZepOOU=;4ZieCCwHQAjGfpdmQ4oysA=="
 ---

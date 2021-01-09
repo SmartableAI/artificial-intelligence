@@ -106,6 +106,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "The story of Jim Keller and his pioneering work on chip design and architecture"
+    excerpt: "... hands clean at almost every chip architecture and is genuinely is chip design superstar. Jim Keller is in the news, this time for being appointed as CTO of Tenstorrent, a fabless AI chip design and software company. While that’s making waves in the ..."
+    publishedDateTime: 2021-01-09T08:30:00Z
+    webUrl: "https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/"
+    type: article
+    provider:
+      name: EDN
+      domain: edn.com
+    quality: 15
 
 secured: "qMxzj9nkwodfrmIhA6KFAlbSRLdX+zwxw14hrzuHdgdPCDeV/vCLhRKiZ2wqWmw9uJSBxpcVsIuUqiTX92R5SUO/kTgw5bKhrdQMIDl6WkKVwIedJKcKkH7DmnT+wVFp57v9/upSvEJcUBpjZGtkCbdgKd68oG/OALf/GxSPeTF+cKUjym/tS87Gkv56C2MuHHsDJ4tKARyj4rVNCerGQRY8PKXecP7Jdc8azxZ/XULAv+sqCxoita4NejrYIyeOJBUMgwPx3UhhN++b0/O8BIioaK4vPI4S/chSVT/IR6Qi0jZQt4uZVpVTe7fEu/tiMWvCRdQHejwMwevUrMn4VjkuxbqnVTkWnzfeGXIYRZ1B2Tqq/cO3n0YP1QmbkQaxrbTwFPGRYdm3pcnlo+G/ML8OSwmbvssc3050d5rynWR5GSXyFoTxQYwdflx/tI3LX/tszSy3Kce0dH0w9dD8CeiLjNRSex9fJK+RWte3MRdcuJPyUT0wOSCEHDax7VbVENrkyZ5u673MHRXGEPQAyw==;Mme1cDwIrHDtk71ROb7qcA=="
 ---

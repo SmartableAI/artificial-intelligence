@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How artificial intelligence and augmented reality are changing medical proctoring during COVID-19"
-    excerpt: "Medical proctoring has gone remote during the COVID-19 pandemic. ExplORer Surgical has added augmented reality technology that acts as a virtual laser pointer for medical device specialists to provide on-screen guidance for surgeons."
-    publishedDateTime: 2021-01-04T15:23:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/how-artificial-intelligence-and-augmented-reality-are-changing-medical-proctoring-during-covid"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 6
 
 secured: "3bChCrUyXxASyB9PLCTm62/D+vdITQT3c+2iGNR0SsuMyJTBOJCD2tj6sXqTVcoXP17p6rJOR7ALHlyj0snhe8zLch+f14krPssDZ5zZgZYEjkCwXaxz8/4vPO8GsCcNEZaJDXvUMq2LH6SX8281rKuc/NcuxWgEM34FememSWTcPmE0MlzhKfqALiR90rORAmML4gu5LUfaqvMCEqzWMnvOWE//wYw0QZJe4b48G8xaesdXQ2X2J2eWw1XosH6W5z7vA8cHsxhrpntGcqKrrLc7vwUUjfZvKzIgwTJMNWyb1GEychL+Gd1PSXtsJDW5GRY1S3aYpjkLq0O1yJDRX9TD9SiApyLLAw4Gc50brAw=;bqs+nIPqHv/9ZIfiDJUlsg=="
 ---

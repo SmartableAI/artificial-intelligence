@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252494344/AI-advancement-Mimicki
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494344/AI-advancement-Mimicking-decision-making?amp=1"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,44 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Changing Corporate Decision Making"
-    excerpt: "Until the introduction of AI and ML, major decisions were taken based on months of researching and data collection"
-    publishedDateTime: 2021-01-08T06:56:00Z
-    webUrl: "https://www.entrepreneur.com/article/362959"
+  - title: "An Enhancement, Not a Replacement: Artificial Intelligence and the Law"
+    excerpt: "If not widespread, AI is already being applied in segments of the legal industry. Some uses are more obvious, such as in contract drafting or amplifying online searching that could one day make the physical law library obsolete."
+    publishedDateTime: 2021-01-07T05:00:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2021/01/07/an-enhancement-not-a-replacement-artificial-intelligence-and-the-law/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610088898-artificial-intelligence-2167835-1920.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "How AI redefines advertising in 2021"
-    excerpt: "Advertising as a sector is notorious for major paradigm shifts. That's because the shell game of grabbing consumers' attention never stops, and as programmatic advertising gave way to influencers gave way to branded content gave way to"
-    publishedDateTime: 2021-01-08T12:15:00Z
-    webUrl: "https://www.zdnet.com/article/ais-role-in-redefining-advertising-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Harnessing the power of machine learning for improved decision-making"
-    excerpt: "Using both supervised and unsupervised learning, analysts can find new patterns in their data and validate those patterns against mission relevance."
-    publishedDateTime: 2021-01-05T21:37:00Z
-    webUrl: "https://gcn.com/articles/2021/01/05/machine-learning-improved-decision-making.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robothand_blocks.jpg"
-        width: 760
-        height: 368
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/01/Brandon-Rothey-Article-202001071750.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "wMcOAwn/rskU3dFSVFZkU7ELC9wWWw4xVgNim2DelVPVb+JZIfw+mfCi2GblYBYhWG7S4RNc2z1Ohm1jQolYiCCR4IuiF22GgB4VQDcWDXGjJ6grSnjpSkK/kVOEb9Uy4A6jG491jRMtE4gcnvO6t3T5wf8gT1I9q0amRX86XK4e7ikqQ99fH6XQok4KPHf2MVlNO0O3MWh40tC4o6TtZbcszuXZA080/nz5yfT8JHNJsmnamEaaC4FxR5rKnPfDikuDzr823El//zzIlViyRdhRpHSWn2nMJ4y6Y1D4UBXfnwFnhDF7/9j8uIkQv59DoJm6pxQv+qXcuYzNgDBD1bEOYcrpGq4BSocvsi6fF/Rr07BH00irMTt8bf01nSeuXCou8twHFfF/HeEJzZ0H2eDP5YIOzHxsHWrCWuzfIoknoitTwf3Wn4ox/u49TSBdsnfq/Si9NEz5KDrAGFxDnSxT1floPY+2UFgPRU4mmd7jfQmFrfuwY92bN6nucDd4sJ9/vVKeWU7/O7ZRUVv3eA==;up+MgUDp/iOGFocZ0NQT4A=="

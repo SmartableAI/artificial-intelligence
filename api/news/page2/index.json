@@ -762,7 +762,7 @@
       "originalUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -1057,48 +1057,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-how-the-internet-of-things-and-ai-will-transform-sports-business.md",
-      "title": "How the Internet of Things and AI will Transform Sports Business?",
-      "excerpt": "They can even enjoy auto-curated highlights packages as the game progresses. In this article, we are going to look into the two advanced technologies – IoT and AI which have brought some tremendous changes to the sports sector. Let us deep dive into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/",
-      "originalUrl": "https://www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/shutterstock_1034455687-scaled.jpg",
-          "width": 2560,
-          "height": 1466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/amp/",
-      "publishedDateTime": "2021-01-06T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer.md",
       "title": "Samsung TVs aid your workout with camera-based, AI-powered smart trainer",
       "excerpt": "The extra, which Samsung calls Smart Trainer, is part of the Samsung Health app that debuted on its TVs in 2020, only this year it's expanding to offer guided personal training. It requires an optional webcam,",
@@ -1191,6 +1149,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
+      "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
+      "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "originalUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/buzz-chmielewski.jpg?offset-x=0",
+          "width": 976,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "publishedDateTime": "2021-01-06T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

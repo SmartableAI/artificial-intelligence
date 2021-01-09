@@ -302,15 +302,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch Tesla's Full Self-Driving Navigate from SF to LA with (Almost) No Help"
-    excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."
-    publishedDateTime: 2021-01-04T15:36:00Z
-    webUrl: "https://www.entrepreneur.com/article/362664"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 46
   - title: "Why self-driving cars are still a distant dream for India"
     excerpt: "Among several other problems, policy decision is just one of the many hurdles that self-driving cars must clear before zooming in to India"
     publishedDateTime: 2021-01-06T05:27:00Z

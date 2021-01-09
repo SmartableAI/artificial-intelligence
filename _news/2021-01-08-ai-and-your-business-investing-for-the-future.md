@@ -34,15 +34,6 @@ related:
         width: 2560
         height: 1466
         isCached: true
-  - title: "How to harness artificial intelligence to boost business and make our world more human"
-    excerpt: "This book unravels how a new breed of Artificial Intelligence can empower organizations to generate massive efficiency gains as high as 60% and save over 10 million lives per year. The book is for everyone: both experienced practitioners and those new to the subject."
-    publishedDateTime: 2021-01-04T15:14:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/ws-hth010421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 9
 
 secured: "N4XqZj3ZXtue7rGsVaZlPwaezFAi8dUOeLEE4gH0tbeCPAftPYzjxpwnbjfIgVIfjw1+v7BA9rL9mxMPeVR2MjM0THrAh9uRxJpYpAkRFBpSC7e7TqYcqLPzpc+skhwqs7ecQNyTpCMO0C2iLmneFj3A8OZ/dwY4JA8F312+YGts0vmmx4j1GG69ZtDNanzKvH4hhH1MyyBFrjMLiZHWcuXbkIROX41bvyGVnh5+5vUrayYmwPRGVnKWAIlyyXdny4cF9b6wiyJqH+s9bwi06LckbfH+lugnRzVx8NbXkto8e6oMjgRBLNsgj7ITJWmL5oo42GpMyrcEV6l2Djwq2g3jTSCtz36roPL/tCCNJ70=;V7NBKyKewvfA0UVaeY1CBw=="
 ---

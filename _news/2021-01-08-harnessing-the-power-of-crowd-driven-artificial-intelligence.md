@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing the power of machine learning for improved decision-making"
+    excerpt: "Using both supervised and unsupervised learning, analysts can find new patterns in their data and validate those patterns against mission relevance."
+    publishedDateTime: 2021-01-05T21:37:00Z
+    webUrl: "https://gcn.com/articles/2021/01/05/machine-learning-improved-decision-making.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robothand_blocks.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Harnessing the power of crowd-driven artificial intelligence"
     excerpt: "Rapid advances in computing power, the availability of big data, and improvements in machine learning algorithms mean artificial intelligence (AI) is changing the world as we know it. Computer vision,"
     publishedDateTime: 2021-01-07T12:21:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://files.idw-online.de/corona_idw.png"
         width: 615
         height: 284
-        isCached: true
-  - title: "Developing AI for the Power Grid of Tomorrow"
-    excerpt: "Professorship of Artificial Intelligence at the Chemnitz University of Technology is a project partner in BMBF-funded joint project for greater digital security in smart grids - contribution to greater social acceptance of AI solutions The energy transition requires not only renewable energies on a grand scale but also intelligent power grids."
-    publishedDateTime: 2021-01-08T14:33:00Z
-    webUrl: "https://idw-online.de/de/news760892"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "http://www.idw-online.de/de/institutionlogo24686"
-        width: 2000
-        height: 1310
         isCached: true
 
 secured: "7K3vK8+vetB7OfDuzoWRtAvPtWFi2I6eepBADVxaUPH7lb0+Fbu5YVlh5n2vklTATxEbXm2tTFsj3mpNaWZ1PxiE6FCklTtHms0otYWT32rVIb7avNSSnq+kyIfDsHORSHWxkgykwj6JDpZirx7PMbp2uddKJQg/TCIGAL9Pa5BfT4JLvYTrDs/8OBzryEKoEqR5ATcD+V/tEEgyDPMozkJKwc0r1LA3oFoho3cavV+D0dRC7GtHASMcRR884LLvDIqTamj0ShaEoP4qF4GUzgpRu6tQD0KaBEzqjvutJPD01dW4utYRAGRAGp6CQ+upp5N56PvZuryRICJ6fIp4N9jU6N2Gy1dZDKz5WRwfD1c=;lDGDcChOAwBG+JjVLCcBig=="

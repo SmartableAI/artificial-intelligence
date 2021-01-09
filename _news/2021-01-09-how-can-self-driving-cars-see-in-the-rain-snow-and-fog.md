@@ -2,26 +2,26 @@
 category: news
 title: "How can self-driving cars 'see' in the rain, snow and fog?"
 excerpt: "A team of electrical engineers at University of California, San Diego is working on technology to help self-driving cars navigate safely in inclement weather."
-publishedDateTime: 2021-01-08T20:16:00Z
-originalUrl: "https://www.wcnc.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
-webUrl: "https://www.wcnc.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
-ampWebUrl: "https://www.wcnc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
-cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+publishedDateTime: 2021-01-09T07:19:00Z
+originalUrl: "https://www.wkyc.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+webUrl: "https://www.wkyc.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+ampWebUrl: "https://www.wkyc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: WCNC
-  domain: wcnc.com
+  name: WKYC3
+  domain: wkyc.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.wcnc.com/assets/CCT/images/68dfaa1a-9292-439a-8a12-f89996221838/68dfaa1a-9292-439a-8a12-f89996221838_1140x641.jpg"
+  - url: "https://media.wkyc.com/assets/CCT/images/68dfaa1a-9292-439a-8a12-f89996221838/68dfaa1a-9292-439a-8a12-f89996221838_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 641
         isCached: true
 
-secured: "MwDRUQWy/PGyn1dtNCmFq6qfN+ZbDKJAUg9gvkVLfOOl/o9gCqp8pWsU2C9YPYjvpsLlMhLbh8RIE1USa/BttFJ+dLJ2SQ/2hR5TvsH2zmnO/kF69VfIiDoWl3EHfTCg7P1cBniO1H+aXcU4ZZtqpdV9n5YkrkHbteWp4l8cmEjABiNPgq4YJ0uJLdmwSgB8sIG8iH2m1DNZQMHmsMot88z144IqycSafWgcLUbGhwDdqIq/kfAe/EbZYXnx1afC6F1DaQ3Dl1HA8g6q7faZYl9dzg5x9Jz6ph4N5ukwH3M5MsV2AIaVMBewNdCLsVM2+wZmWsdmGhw4wB6nPg6bNSD8PHkPh0M+IjLN/P0vnFM=;mFpdtM81ZGeL3rdmun+tbg=="
+secured: "UGKKyKj0Fh34DEJMu0MR6UPlEP/Mwe4aVOT+cDSsc1qNz0GJG49S44NDQjtYBFtZsIE9avzYtIsRMiqxiRndibWz8Nv5ZGpnkyy6+vkXotuPRoegQzLROsb6ik1nBs40pWbnwvd5ZYuVgpZHD0ElrqWuLg7lIPy3s201Dc5IMKGidRs+tdha5hwMoMK9G0lzOY062JlWWJQdgQqkZuHrUgTjg3HSFGArGvNhYSJfbNn9XIZLsxfOrT9rYqw0I1/9Yoik+dKX09pMdrTeDftS6Z9Bjxp2nGr9dmwc0MSE7QK+3XhBDgQD8SBBrpkEuVcrJYpRADa35GrD3NVABITmA7QKp+o83+CYxwZgjEWF9o8=;ky8T92XrHQ0V/zqXjKEM/g=="
 ---
 

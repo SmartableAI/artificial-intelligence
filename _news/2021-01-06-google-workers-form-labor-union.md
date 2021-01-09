@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A new union at Google is just the start of employee activism in 2021"
-    excerpt: "Employee activism has been on the rise for years and the pandemic has only made the quest for fair treatment more urgent. What happens next?"
-    publishedDateTime: 2021-01-04T16:33:00Z
-    webUrl: "https://qz.com/work/1949309/a-union-at-google-is-just-the-start-of-employee-activism-in-2021/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 32
 
 secured: "rzQ4BRHFkKcZoSC0Ectg4euAb603FzBN81qpY4eKTJbBkUdheuNqaaiKXnZI3j1mp3CN6ILZ1W3yAzAY6FLYEQb/jL+hFhKLb70nRyUuW7lHN+QxUtmBPvy9plKGh4Q0NgJhQX8B0FjaqlKdniasTTlkWaoRzJEP5apnH9zl8eSu/j/zMA1MrIPzWBHAdq54P7Vlc9yfHHkRRylTKg7cofI/IwUyOVTXts6/l9UfxxElAN08TVIzOPKHwUvH0Vnw6iFTHQbhZwLTEre2xyu3QuyRI7oepBFEUPEYCFrUlMV4P6JMxfOzpYR8NG06Tje6lFfEUJkB0FkGkqZ4IpZpodITFiUvNGdjK3pp303BwGU=;03x6Uqv+izCYQq9K0Eqsiw=="
 ---

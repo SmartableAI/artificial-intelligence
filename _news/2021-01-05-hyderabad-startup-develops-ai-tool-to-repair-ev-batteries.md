@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Hyderabad-based Pure EV develops AI-driven hardware for battery maintenance"
-    excerpt: "The company claims that this technology completely does away with the requirement for customers to visit Service Centers to address battery defects"
-    publishedDateTime: 2021-01-04T16:05:00Z
-    webUrl: "https://www.livemint.com/auto-news/hyderabadbased-pure-ev-develops-ai-driven-hardware-for-battery-maintenance-11609772107242.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 17
 
 secured: "K1mw0hlHFwr9n9gzNJdY3LSj2Fh770VTJXTjm4rz4hN8Ef4Myk1L1ojlcAFPX1070ChOYswYoSp6KYufNzzztAF6J5G/Asjz3IHpG5nH+fgKoX3LmpZfHRPzyGxbxXJ0BNyuowC2tUaWZqTZYAMSnf/rtnQC3mumwmYShJkdq3FFjzfc9E/d71l9K0ppmTHwu4KyEk79DMgZap1SMBALnDz+0xAW1u9d78wyM1zF3KWPzqRY62Yny6IrsjYsO1DtWxWL+fQeAdhGGZRVe14hFC6B4jPKnBRNrB7mQZQXPQrY67CfksyjIlid0f1cZfSLD1IV7TPkTGpKHdg+YZhOoGvxXiBUPZvWW6WHE83FDC7P4LpMR4k9nQT4WWtRtz99PNMGDchq7YS6XLeael2NDEyfj7XmIa/hzoDiIiKTqi2eGNZa8ZF2m5NDROQmdmnX80ObE/jNggMJMASwRrwUMkOaA4QxuQrAKH8SnwCfuoOo01uZqqC8BvZTnhVdQxm4C49lnCLREvxl77PXsRRpqA==;J5jDbX9qHKo0Z1ViBXz/lw=="
 ---

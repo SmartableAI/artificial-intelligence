@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A new union at Google is just the start of employee activism in 2021"
-    excerpt: "Employee activism has been on the rise for years and the pandemic has only made the quest for fair treatment more urgent. What happens next?"
-    publishedDateTime: 2021-01-04T16:33:00Z
-    webUrl: "https://qz.com/work/1949309/a-union-at-google-is-just-the-start-of-employee-activism-in-2021/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 32
   - title: "Google workers form labor union"
     excerpt: "Many employees began seeing the power of their workplace activism in 2018, when an internal outcry led Google to abandon its work supplying the Pentagon with artificial intelligence (AI ... Alphabet automotive division Waymo. “One of the reasons why ..."
     publishedDateTime: 2021-01-05T19:46:00Z

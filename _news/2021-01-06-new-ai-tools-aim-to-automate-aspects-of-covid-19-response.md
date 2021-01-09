@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-
 webUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415"
 type: article
 quality: 167
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 980
         height: 653
         isCached: true
-  - title: "How artificial intelligence and augmented reality are changing medical proctoring during COVID-19"
-    excerpt: "Medical proctoring has gone remote during the COVID-19 pandemic. ExplORer Surgical has added augmented reality technology that acts as a virtual laser pointer for medical device specialists to provide on-screen guidance for surgeons."
-    publishedDateTime: 2021-01-04T15:23:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/how-artificial-intelligence-and-augmented-reality-are-changing-medical-proctoring-during-covid"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 6
 
 secured: "dVFMvCVEZFMH+Q2emB963yWsMh+BIjoFyN1EVQzHBVshYPas4UZnzQ/xLVd8bpf7aAvvFPliCzvc1oG7h4mpOZvh+n/iHMQOcT6JuXpqxYfpvrMLVGGor279lMZnV4LI7r3MQaN4gFyHQK1Vx+vaZZY/Up6IlMYLZTFF1QUs+DHBkparjfVVN9Q41nwrQe9+dSgh9f7tbeBwKQfbP2kW5XG+Dn1HPKVXfHS9ojIWHC3R0XgSzZH6wsYLMfNQcQjHkAvFrqK0xSpXghsqvVwNlwiZY+QUf0VngU21qtV+vchdAd9gHx0hZH3u6idD5yGiTlqtm9sTkCasldqQF8KquuIl9tU59OpYej1Wq1xuLeIPD/jmsL7C9aYzTl4nMCPX;yvufGr+LFyE+VvbHeFaNNw=="
 ---

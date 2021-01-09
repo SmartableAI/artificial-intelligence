@@ -225,6 +225,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Microsoft AI Transformation Customer Stories"
+    excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
+    publishedDateTime: 2021-01-09T08:27:00Z
+    webUrl: "https://www.microsoft.com/bs-BA/ai/customer-stories"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tfwu?ver=6ced&q=90&m=8&h=600&w=1600&b=%23FFFFFFFF&l=f&x=0&y=0&s=1600&d=600&aim=true"
+        width: 1600
+        height: 600
+        isCached: true
   - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
     publishedDateTime: 2021-01-05T05:34:00Z
@@ -254,18 +268,18 @@ related:
         height: 594
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users"
-    publishedDateTime: 2021-01-06T20:31:00Z
-    webUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
+    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
+    publishedDateTime: 2021-01-06T23:02:00Z
+    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
     type: article
     provider:
-      name: BiztechAfrica
-      domain: biztechafrica.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 49
     images:
-      - url: "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-01-06_at_6.42.51_PM.png"
-        width: 509
-        height: 249
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
     excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
@@ -282,18 +296,18 @@ related:
         height: 400
         isCached: true
   - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
-    publishedDateTime: 2021-01-06T06:03:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
+    publishedDateTime: 2021-01-05T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 31
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
+        width: 1460
+        height: 766
         isCached: true
   - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
     excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"

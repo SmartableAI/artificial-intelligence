@@ -51,15 +51,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Qualcomm Snapdragon 480 5G chipset launched: Will power budget phones from Xiaomi, Nokia and more"
-    excerpt: "Qualcomm Snapdragon 480 5G chipset launched globally. Will power budget phones from Vivo, Oppo, Xiaomi, Motorola, Nokia and more."
-    publishedDateTime: 2021-01-04T16:38:00Z
-    webUrl: "https://www.bgr.in/news/qualcomm-snapdragon-480-5g-chipset-launched-931204/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 6
 
 secured: "0ZxkPbyWMx+4noIAsJCewDqHSJFF8dv4HlU37thHr8Yy6BKw6B2jqNqLKnCisATD19iAhBPuoFj6e7S4OzGatF/ff5GdPZzpd/7aXxtaaXme0p4hTvTlZBqzoovSCpBr/5j5dvs52a+VuN0UCgYRCKgBYUwvZ3hdyPeMchyw9uafGFQrHOzxh96oa5SM6y38hiDdkwrtsZyip94ih2oyh8zadMo2nA6gZcZV0579ZXMiyWkNT3JKO8vIkgSMhDhUKaHZjAykO3qcoIIc+BGUPG1c2PlLPKZi1GgscwPE/SAFnT34H7NRZJQq1gR1UxC9M3kXsgcQKQ2uDXAzcUMwNIFJ0S4wDlHK5KaPGS/4zzTF/upCSaGa3L1RLOCK8bO+CAMnrUitSEeZ9N3RJFhWmQXhX/aBT8t0Pm8I4eQUROS25/+X+BLyp96AyHAVPbltJD1eWEuNaA4blTZBTsXCrxsSSwCDdKVYbJvFH2Nj8CyJqn4gswdEiRnSiHdl2BvYvoctdU6zcJWMp2Fn9eQC8Q==;Umkp0fM42fakUrBxrofMcw=="
 ---

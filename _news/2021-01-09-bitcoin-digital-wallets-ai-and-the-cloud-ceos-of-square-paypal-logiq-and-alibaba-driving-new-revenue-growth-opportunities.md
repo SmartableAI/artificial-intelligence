@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Bitcoin, Digital Wallets, AI and the Cloud: CEOs of Square, PayPal, Logiq, and Alibaba Driving New Revenue Growth Opportunities"
-excerpt: "Bitcoin and digital currency adoption is being driven by the convergence of AI, Big Data, Smart Phones, and financial innovation - driving massive new growth opportunities in all aspects of financial services."
-publishedDateTime: 2021-01-08T16:14:00Z
-originalUrl: "https://www.marketwatch.com/press-release/bitcoin-digital-wallets-ai-and-the-cloud-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities-2021-01-08"
-webUrl: "https://www.marketwatch.com/press-release/bitcoin-digital-wallets-ai-and-the-cloud-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities-2021-01-08"
+excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders"
+publishedDateTime: 2021-01-09T07:53:00Z
+originalUrl: "https://www.wboc.com/story/43146263/bitcoin-digital-wallets-ai-and-the-cloud-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities"
+webUrl: "https://www.wboc.com/story/43146263/bitcoin-digital-wallets-ai-and-the-cloud-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities"
 type: article
-quality: 41
-heat: 41
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "9wIbVLmXE1549Gv3EraRlaTJ+8g6HWDvlxeZ+44+yQPrPv3Z4fsIWVOqxzuPADMTQuQQMZsOcT22FYjt1fiFhaSYDRiBJIOoPAEuoI7QAVIXDaxwVqHLOMJDYnbvLUQLQFC5wd4k0edsCp8VJWgu6AvyHni4/DdXh/nWsVRZhWxJc/AMp9yJVEYtr106rCpiVIh6xA2Al9VFfWNkh+hv+omQZ0g7sGyVBmSkeND3fkhcTz5De8WC+AUwgEHS70SJxlKObjJMoMU6ufN5z1fKBA6WKEnWwyJPBDC/E1tkMVxWm9aem+I5czMh4T50Sp2YSfDsp/4EcIHqc/AbEW+gAGEIm6kyQbFYpWDriGQ244M=;QZp7Mfm3bhTgqUxPVpFiww=="
+secured: "T60gIzQ1bwf4eCBY1PvhNNjCDwoFtNN9Ufq5PEZrQGMi6idMIJ6r9d0yI3wYvCrBmnn/sHzJkqvLV1HMcO1+ytN6dvL+GOw0X+31wP1HlknKsIkF8Z4aPc8+oriqVM2qCrujoWMgb5QgfLE/+8AxAm0Cs5amBII7SyFhyJmvhGKrm22ILnOdTqwd4/dfllRs5yIxAtvS8yC2oglNVEDgEewCGv7J/7AyeUzoe/wNyHKluEsd9VagNvBfwNWnDhXAlvKTDRFVmI6gjyygDsnFp1gyOMD6j3jiXejisvAhZdOk+tVCIfLAU3HaMtcNWjLWsIfpSOp6G0rrIC/IUovBw+Lhvz4yRsJDzg6Sm+88uLA=;pItstpkkvT7Ii4sizX7yxg=="
 ---
 

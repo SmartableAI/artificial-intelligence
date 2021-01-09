@@ -9,8 +9,8 @@ ampWebUrl: "https://www.smartdatacollective.com/how-internet-of-things-and-ai-wi
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: SmartData Collective
@@ -35,15 +35,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
-  - title: "How to harness artificial intelligence to boost business and make our world more human"
-    excerpt: "This book unravels how a new breed of Artificial Intelligence can empower organizations to generate massive efficiency gains as high as 60% and save over 10 million lives per year. The book is for everyone: both experienced practitioners and those new to the subject."
-    publishedDateTime: 2021-01-04T15:14:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/ws-hth010421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 9
 
 secured: "VthuVQYkNW1yyvV0Ilg421BuZCbgIFYX89DhrNut7RcSWMaSugN3LTWZMdjm8hXrnssMzm38/VLBJRUmESwthniyoEd8Xb8NlN8E/sNLLvZaBjlWCZEeTSQMh3DfM/l/fuY4vXJojpY+EB9+9IbhJ1MGPtCNQGcQ01grKmtZAKmATIPbVHTFptHu0Vok+9RSu+/kMX4Azs+U2GUKuXMRKxC0/kquYAklYfuyNqWrAASkosZdRxf8VEYCxS0D+n4GJacNBPY/hPA8/C5DnzXo21cBKm1afVYZ/pVfOIwuzLN5n6neveHntxlQPvVkryQunmE5vsqQ3myek/+wnYs/XSMkYpXhxhVDjlD0UpGfghw=;ExUcpe8aPPjOGY/Jbfp/7w=="
 ---

@@ -27,17 +27,17 @@ images:
 related:
   - title: "How can self-driving cars 'see' in the rain, snow and fog?"
     excerpt: "A team of electrical engineers at University of California, San Diego is working on technology to help self-driving cars navigate safely in inclement weather."
-    publishedDateTime: 2021-01-08T20:16:00Z
-    webUrl: "https://www.wcnc.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
-    ampWebUrl: "https://www.wcnc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+    publishedDateTime: 2021-01-09T07:19:00Z
+    webUrl: "https://www.wkyc.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+    ampWebUrl: "https://www.wkyc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
     type: article
     provider:
-      name: WCNC
-      domain: wcnc.com
+      name: WKYC3
+      domain: wkyc.com
     quality: 59
     images:
-      - url: "https://media.wcnc.com/assets/CCT/images/68dfaa1a-9292-439a-8a12-f89996221838/68dfaa1a-9292-439a-8a12-f89996221838_1140x641.jpg"
+      - url: "https://media.wkyc.com/assets/CCT/images/68dfaa1a-9292-439a-8a12-f89996221838/68dfaa1a-9292-439a-8a12-f89996221838_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

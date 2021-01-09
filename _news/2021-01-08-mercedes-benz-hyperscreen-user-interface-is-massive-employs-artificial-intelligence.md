@@ -31,9 +31,9 @@ related:
   - title: "AI-enabled Mercedes-Benz Hyperscreen takes the digital dashboard to the next level"
     excerpt: "The 56-inch curved screen extends nearly the full extension of the dashboard, serving as an \"attentive assistant for the passenger,\" and can store multiple front passenger profiles for personalized experiences."
     publishedDateTime: 2021-01-08T18:00:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
     type: article
     provider:
       name: TechRepublic

@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2021-01-neural-networks-video-games
 webUrl: "https://medicalxpress.com/news/2021-01-neural-networks-video-games-human.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 450
     height: 253
     isCached: true
+
+related:
+  - title: "Neural Networks Playing Video Games Teach Us About Our Own Brains"
+    excerpt: "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when"
+    publishedDateTime: 2021-01-07T17:38:00Z
+    webUrl: "https://www.miragenews.com/neural-networks-playing-video-games-teach-us-about-our-own-brains/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 54
+    images:
+      - url: "https://caltech-prod.s3.amazonaws.com/main/images/AI-VideoGames-03-WEB.2e16d0ba.fill-1600x810-c100.jpg"
+        width: 1600
+        height: 811
+        isCached: true
 
 secured: "HT+myW3pIm4xlGKtQWFtp8mjcIG3Yxi2VzdnIKRsOcqITdw77wGJ6cwiC43AxPBQWSPHfvO8Si0uHiARuReAhMZ2N2DMWjtGvf7GQ5FOP+2hTKxu28htg6aHt+YT5IV9dQfZmlenl8YsVGb8m5FehFXMw9tl2NrwzYc/svnG8bib9bhz9guGnRNEAjgDpiOhWhzqZrIxfVSpEWbRCWUh2b0zK0ckxuJyGDfCBWuKmTIFGplGncRjH4qq2HixF7N99bc1xdFrMsHfA41VoYyqqqkO/2M16nKQQlNx73UiB2319JYIGkaO/nvZFygRsY6mbtNOZREgdGi3YCDCWrW9TaMYevFHlmbWjvXk+f+mxC91Bjl0o2N94lnAZaEE3tmh5SaEV9dQyj6r4R76OiMF0rkHmo7qYeBmVh3HTLuSbWm+qfPAw+BhzkmPWK+cyQ6Otn2PRycjAxRs0ii3sLdmmU87CMli9C3JQZVPaDieDzXyra54NDWl06agYk80+pPu6DJVHLv0bu8lnzVGO46DuQ==;K3UuDK/j6K6StXOXKIB9jQ=="
 ---

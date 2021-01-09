@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-fi
 webUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-field-of-ai"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,34 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "12 dark secrets of AI"
-    excerpt: "With the drumbeat for AI across all industries only getting louder, IT leaders must come to grips with the dark secrets of working with artificial intelligence to glean business insights."
-    publishedDateTime: 2021-01-06T10:04:00Z
-    webUrl: "https://www.cio.com/article/3602555/12-dark-secrets-of-ai.html"
+  - title: "Leveraging AI In Remote Talent Acquisition"
+    excerpt: "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions."
+    publishedDateTime: 2021-01-09T08:36:00Z
+    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/"
+    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_virtual_circuit_brain_thinkstock_676338068-100724427-large.jpg"
-        width: 700
-        height: 467
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Bahrain Polytechnic Begins Registration for the 3rd edition of the “Khalid bin Hamad Competition for Innovation in Artificial Intelligence”"
-    excerpt: "As per the directives issued by His Highness Sh. Khalid bin Hamad Al Khalifa, First Vice President of the Supreme Council for Youth and Sports (SCYS), Chairman of the Bahrain Olympic Committee (BOC) to begin preparations for the 3rd edition of the Khalid bin Hamad Competition for Innovation in Artificial Intelligence,"
-    publishedDateTime: 2021-01-08T12:53:00Z
-    webUrl: "https://news.microsoft.com/en-xm/2021/01/08/bahrain-polytechnic-begins-registration-for-the-3rd-edition-of-the-khalid-bin-hamad-competition-for-innovation-in-artificial-intelligence/"
+  - title: "How AI Is Changing Corporate Decision Making"
+    excerpt: "Until the introduction of AI and ML, major decisions were taken based on months of researching and data collection"
+    publishedDateTime: 2021-01-08T06:56:00Z
+    webUrl: "https://www.entrepreneur.com/article/362959"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/Meeting-1-1-768x338.jpg"
-        width: 768
-        height: 338
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610088898-artificial-intelligence-2167835-1920.jpg"
+        width: 2000
+        height: 1333
         isCached: true
+  - title: "How AI redefines advertising in 2021"
+    excerpt: "Advertising as a sector is notorious for major paradigm shifts. That's because the shell game of grabbing consumers' attention never stops, and as programmatic advertising gave way to influencers gave way to branded content gave way to"
+    publishedDateTime: 2021-01-08T12:15:00Z
+    webUrl: "https://www.zdnet.com/article/ais-role-in-redefining-advertising-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "bS+bTpgfwuJ+DwKlkS7Il8uqkh+VBxJYn/CiDqWfUIAvq9Y0GwIdgT2PAx+fonA0PgRV9iRxusTbtZ636Z00Skbif70StmS846790ZY4/27+1sZuIarFsNDdz+PDAJzl59aVI4znhVeeHNoU6ZKj8AqAqET2rJADXwGsKwQMOZvQHXOb8VAKLC4vNk5skfg4MwuV1uE3nJ87uzX/1IskVACwrJzQnvDSEO2vr23gIOt6jr+MlryBY3CxwMC7KpYl1GOV9bHGnUCoWrYob8pnvKTn8lAnUv1jprrit5zfnlW0sAg+BcIfSzdPrW8muGJjJVJd0a0phl7kRbr62m5XMQ4NAqbhdY8jdj+BakQkhHfuOCZAblIidIN3IPSYePpMEDluyv6NC2Z73EMxY6FEVFKBGNo5IbcQHgCFCwmzXCbICncM53I8WAPP1CvA7Cmp3lSggyz6zIMpEedyNRGmwx5CpxW71UU0KTzoR2nZy/Gs7z5JfHCPMwJgc0wJq/6hrLZKkBsJSPI9hBVu9xZO5A==;GVSwVrqmdgaegoo5uZESBw=="
 ---
