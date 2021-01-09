@@ -40,6 +40,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tech in 2021: Debate on AI ethics to zero in on human oversight and accountability"
+    excerpt: "SINGAPORE - The deployment of artificial intelligence (AI) technologies will continue unabated. From automating driverless cars and factory operations to detecting cyber threats and fraud to predicting diseases and customer profitability,"
+    publishedDateTime: 2021-01-04T22:47:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/tech-in-2021-debate-on-ai-ethics-to-zero-in-on-human-oversight-and-accountability"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 50
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "What do the Experts Say About AI in 2021?"
+    excerpt: "AI and machine learning are finally beginning to come into their own. What trends should we expect to see in 2021?"
+    publishedDateTime: 2021-01-05T08:05:00Z
+    webUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 43
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/AdobeStock_230441943_770-400.jpeg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "DXlEhAh8/BcN36EwUxwYgN7IxqloRG/nHNC2wy/CHzZuGZq7OtrmQL7gC/m1waJ9WyeVvdSwplDiEH8rG+xxqk4meMciOJ/ZOQuBsMuFPdoGa3CZ13vdAnf6f9Fzj1HTbyhkbN4hgFU1FM59bJ2STgE7+p+6lRup//toqqesmcvSPiy0zpIWWMVB4Afvzz5VAFQduCUYNpUBKlazAooAYjSxXMkTcYDEY5SW+d7rOUv9mf4a9lA4gTgHDfBVzmeVWSObmJp5fQbpNOyaCFXoQZevvSzmbxbG5JWr8Fn5DNpL6051HF09IYijTRCo7AzYfNIRJ9Hd9qlWyAIjv41OES4DLjLuILfO8YjLJ1I0BJY=;MDOcKUIgIFdwDN2dQEm9Gg=="
 ---

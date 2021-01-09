@@ -2,6 +2,57 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-11-this-entrepreneur-developed-a-cryptocurrency-and-artificial-intelligence-to-help-people.md",
+      "title": "This entrepreneur developed a cryptocurrency and artificial intelligence to help people",
+      "excerpt": "Citibeats by Ivan Caballero detects the real-time needs of citizens in order to make informed decisions using ethical artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361483",
+      "originalUrl": "https://www.entrepreneur.com/article/361483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607628165--MG-92601.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361483",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361483",
+      "publishedDateTime": "2020-12-10T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-researchers-use-ai-platform-to-identify-best-combination-of-available-therapies-against-covid-19.md",
       "title": "Researchers use AI platform to identify best combination of available therapies against COVID-19.",
       "excerpt": "and they used their platform is known as 'IDentif.AI' (Optimising Infectious Disease Combination Therapy with Artificial Intelligence) to investigate 12 potential drug candidates, representing ...",
@@ -1133,58 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-cleo-the-ai-powered-financial-assistant-raises-44m-series-b-led-by-eqt-ventures.md",
-      "title": "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures",
-      "excerpt": "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Marketing_Assets_01.png?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/",
-      "publishedDateTime": "2020-12-10T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

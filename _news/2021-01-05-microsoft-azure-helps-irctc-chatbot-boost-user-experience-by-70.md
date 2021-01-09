@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-publishedDateTime: 2021-01-05T13:15:00Z
-originalUrl: "https://www.imdb.com/news/ni63147427/"
-webUrl: "https://www.imdb.com/news/ni63147427/"
+title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot AskDISHA improve satisfaction of customer interactions"
+publishedDateTime: 2021-01-05T12:27:00Z
+originalUrl: "https://www.thehansindia.com/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
+webUrl: "https://www.thehansindia.com/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
+ampWebUrl: "https://www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+  - url: "https://assets.thehansindia.com/h-upload/2021/01/05/1022921-microsoft-azure.jpg"
     width: 1000
-    height: 1000
+    height: 600
     isCached: true
 
 related:
@@ -314,6 +316,6 @@ related:
       domain: tcs.com
     quality: 29
 
-secured: "vpaKBL+h/KtPmQWtPSthzb2y9JpyurjcwuNeRlO0C6luD7IPLPByKso4dayYBMFJRbPYHuxiq9rCiIbELHEpOZKr0k41L8AqzpOKxbFkNCNix9anKsqe9G3Vo/1W7E3s6K1NahmV+aW/KhrBjjI329rGeAG9jI7HsmIH66nKOinhc1sIcLVOYvbjb8+S6hUIH3IvGf2ZmYIJDHvllusUqRYcdSxo0bdQcYKzJFAv++Vmb4hS385kfijByBj/sRdtLCq/aAuU7/Ilo8pWopbF60CjjkyUNUoPs7hp57XtDwdJaGMEW91zv2wtA+svRQrdVkZW7d5DlYLviANlsEAo4vlIWnX/um63w4R2KiE+JdNH2zcyS71A1sn+St28hpow918dLj+/AWlhQQU/6A/Nml9FWj+e5evSUnhhdbkH4ZzgO6as1XkzsWb+Lf8F674vFScyfpNQrQqWs8PNlnpeGHOZjNhwFOKJHx7DJBFzvSuokSNE4MAuvhccyzj6X1Zqz598ldzVYoEK2OrgpeFm3w==;dO+ve3GFYd+YJ0szPf/M1w=="
+secured: "iGDbbkyDZ4rff7eKIPsbkSgRfj53tVvojQatllQu8wWtDa+WzvcjH6kEl0WHlilaCcJvAmh8C5G4caMF9gxtJ/bkI7uFVbcQ57l/W8xb7TqPXtH+bNOuYMnG0nuT+2j07W/QjKLzk0s8RThsMDO95FNboYMJeGVF6gFN7XGcbyt20gsUPxv00G+SmifIKS5X2jgxoB4YdoE6oHBl/WZJPjZrvoHPVdjNSLv9E278yuGYXv0DXQaVn+daFEeUWsT/wJgZBT4WgCE9HiPjHv+Whezu8bUoIG9rtZMffSMFfsoxsZkm+XrY7LBosGfwHpNQrrxSwWEOhYF6UNu83UB28pt508CoIQW3mYcklUz7gkg=;uS4aDTsgScIKEQc0PMrm8g=="
 ---
 

@@ -25,36 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "We’re Google Workers, and We Are Forming a Union"
-    excerpt: "Google employees, along with employees of Waymo, Verily and other Alphabet companies, stopped working and walked off the job in cities around the world. A week earlier, The New York Times reported that the company had paid tens of millions of dollars to two executives who had been accused of sexual misconduct toward our co-workers,"
-    publishedDateTime: 2021-01-04T11:05:00Z
-    webUrl: "https://www.nytimes.com/2021/01/04/opinion/google-union.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/04/opinion/google-union.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/04/opinion/google-union.amp.html"
+  - title: "Google employees form new labor union in United States"
+    excerpt: "They have developed artificial intelligence technology for use by ... including car division Waymo, the new union would need at least 30% membership support, said Arthur Wheaton, labor relations ..."
+    publishedDateTime: 2021-01-04T22:16:00Z
+    webUrl: "https://www.dw.com/en/google-employees-form-new-labor-union-in-united-states/a-56128437"
+    ampWebUrl: "https://amp.dw.com/en/google-employees-form-new-labor-union-in-united-states/a-56128437"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/google-employees-form-new-labor-union-in-united-states/a-56128437"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 44
     images:
-      - url: "https://static01.nyt.com/images/2021/01/04/opinion/04google-02/04google-02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://www.dw.com/static/stills/images/vdt/2020/beng201215_009_qwiinternetwe_01g.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Upset with Google's leadership, tech employees launch a workforce union to fight back"
-    excerpt: "A coalition of employees working for Google parent company Alphabet and its subsidiaries announced Monday that they have launched a union to push back against \"unethical\" company decisions that run contrary to its workers' views."
-    publishedDateTime: 2021-01-04T22:36:00Z
-    webUrl: "https://www.paloaltoonline.com/news/2021/01/04/upset-with-googles-leadership-tech-employees-launch-a-workforce-union-to-fight-back"
+  - title: "A new union at Google is just the start of employee activism in 2021"
+    excerpt: "Employee activism has been on the rise for years and the pandemic has only made the quest for fair treatment more urgent. What happens next?"
+    publishedDateTime: 2021-01-04T16:33:00Z
+    webUrl: "https://qz.com/work/1949309/a-union-at-google-is-just-the-start-of-employee-activism-in-2021/"
     type: article
     provider:
-      name: Palo Alto Weekly
-      domain: paloaltoonline.com
-    quality: 17
-    images:
-      - url: "https://www.paloaltoonline.com/news/photos/2021/january/4/89234_col.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Quartz
+      domain: qz.com
+    quality: 32
 
 secured: "rzQ4BRHFkKcZoSC0Ectg4euAb603FzBN81qpY4eKTJbBkUdheuNqaaiKXnZI3j1mp3CN6ILZ1W3yAzAY6FLYEQb/jL+hFhKLb70nRyUuW7lHN+QxUtmBPvy9plKGh4Q0NgJhQX8B0FjaqlKdniasTTlkWaoRzJEP5apnH9zl8eSu/j/zMA1MrIPzWBHAdq54P7Vlc9yfHHkRRylTKg7cofI/IwUyOVTXts6/l9UfxxElAN08TVIzOPKHwUvH0Vnw6iFTHQbhZwLTEre2xyu3QuyRI7oepBFEUPEYCFrUlMV4P6JMxfOzpYR8NG06Tje6lFfEUJkB0FkGkqZ4IpZpodITFiUvNGdjK3pp303BwGU=;03x6Uqv+izCYQq9K0Eqsiw=="
 ---

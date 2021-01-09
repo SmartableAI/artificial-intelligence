@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smartdatacollective.com/how-internet-of-things-and-ai-wi
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Empowering businesses of the future"
-    excerpt: "The latest episode of Mint CXO Dialogues, ‘Building Resilience that empowers India Inc’, powered by Microsoft, discussed the new-age strategies and technical innovations that will power businesses of the future."
-    publishedDateTime: 2021-01-04T11:42:00Z
-    webUrl: "https://www.livemint.com/brand-stories/empowering-businesses-of-the-future-11609759259187.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/empowering-businesses-of-the-future/amp-11609759259187.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/empowering-businesses-of-the-future/amp-11609759259187.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/01/04/600x338/mmtt_1609759293061_1609759297833.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI and Your Business: Investing for the Future"
     excerpt: "AVEVA’s Jim Chappell, Global Head of AI and Advanced Analytics, describes how smart investments today can set businesses up for better tomorrows."
     publishedDateTime: 2021-01-07T19:27:00Z

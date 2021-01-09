@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-06-scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch.md",
+      "title": "Scientists Broke This AI Robot's Leg Then Let It Teach Itself To Walk From Scratch",
+      "excerpt": "In a ground-breaking feat that shows Hebbian learning could be applied to artificial intelligence (AI), scientists have showcased a newly developed mathema",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "originalUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/cbadf7b8-269e-5ad8-ac68-a9bcb0364efa/default-1609856733-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
+      "publishedDateTime": "2021-01-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-its-time-to-take-profits-in-c3ai-key-analysts-say.md",
       "title": "It’s Time to Take Profits in C3.ai, Key Analysts Say",
       "excerpt": "Rarely do you see Wall Street analysts as divided on a stock as they appear to be on C3.ai, the artificial intelligence software company that came public last month. The bottom line is that the bulls see a huge opportunity and potential for continued impressive growth,",
@@ -1204,58 +1248,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-building-a-secure-search-application-with-access-controls-using-amazon-kendra.md",
-      "title": "Building a secure search application with access controls using Amazon Kendra",
-      "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. Not only is it challenging for organizations to make this information available to employees when they need it, but it’s also difficult to do so securely so relevant",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1021-1.jpg",
-          "width": 626,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T15:20:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

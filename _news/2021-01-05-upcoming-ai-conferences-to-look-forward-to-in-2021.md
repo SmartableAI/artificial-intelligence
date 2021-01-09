@@ -25,6 +25,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Conversational AI in 2021: 3 top trends to look out for"
+    excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://customerthink.com/conversational-ai-in-2021-3-top-trends-to-look-out-for/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
+        width: 1280
+        height: 1106
+        isCached: true
+
 secured: "OK2WpI3cuutImllCYPrX2h2dfS8nb34775oNX3v0ZQ7zX1hfL6ondcEmt5EhDMf31xfb4xXWzExUZlRf9l5BsrAKeLM5ZRou8ZS1WJasPY+pCoVMn5cszNv/wz+xmfy0izH3ytSaD6qrBcySTsNeQKdGF5ZUe0t3uU1znfP/s4weVImFLgCR3ihYco51BeCcWZ7Z1yLumIwbRx5H0m/F9thPGBDR/A09B+xS0mMdTrVTsoGrS+B5xk52tVvCKQ4HnZtncvitlCoQXSh+sEihshqwyG7p9C7z7kS8FGO4d73A1wvVaEVDoLnSQamvjuPCiwbXCyvJDcJkYhYYGBafYXxt1s1TnsLQC3crSF1HBxEuIhYFrR+PqNVOKCu6qtYLMGs2113VPXTvoYBtfb9MGGtfFTrULZgtUBWHQG302kJ54wXJeaxKeJ3u4Tr5giMqF/0PYtWNTol3rHcNTgiSE8CjElSj9goaasZlbBSTJMrgp1/V1In6HDZ9yFGr3Y8b40JBMMmT8thGgVdORs1+Dg==;NlsgzYqFDerAi/j3C+3HmA=="
 ---
 

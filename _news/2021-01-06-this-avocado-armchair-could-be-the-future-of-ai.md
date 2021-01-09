@@ -36,7 +36,7 @@ related:
     provider:
       name: SmartData Collective
       domain: smartdatacollective.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2021/01/shutterstock_1405194650.jpg"
         width: 1000

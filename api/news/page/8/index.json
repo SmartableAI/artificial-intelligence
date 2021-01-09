@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-31-chinas-adaptive-robot-maker-flexiv-raises-over-100-million.md",
+      "title": "China’s adaptive robot maker Flexiv raises over $100 million",
+      "excerpt": "As businesses around the world look to automate production lines and supply chains, companies making the robots are attracting great investor interest. The latest to get funded is Flexiv, which closed a Series B round north of $100 million from investors including China’s on-demand services",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
+      "originalUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/flexiv-2-e1609297096272.jpg?w=1024",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
+      "publishedDateTime": "2020-12-30T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-immense-potential-and-challenges-of-multimodal-ai.md",
       "title": "The immense potential and challenges of multimodal AI",
       "excerpt": "Multimodal models -- models that understand the relationships between images, text, and more -- could be the next frontier in AI.",
@@ -756,8 +808,8 @@
       "title": "Why stateful machine learning could help cybersecurity efforts",
       "excerpt": "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "webUrl": "https://www.techrepublic.com/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -774,8 +826,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
       "publishedDateTime": "2020-12-29T13:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1153,58 +1205,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon.md",
-      "title": "Nvidia rival Graphcore raises $222 million for AI chips with potential IPO on the horizon",
-      "excerpt": "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104712662-graphcore_founders.jpg?v=1505490455",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
-      "publishedDateTime": "2020-12-29T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

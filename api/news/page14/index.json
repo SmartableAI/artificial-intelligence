@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-23-dubber-acquires-speik-to-expand-its-ai-call-recording-service.md",
+      "title": "Dubber acquires Speik to expand its AI call-recording service",
+      "excerpt": "The acquisition enables Dubber to advance its ambitions for making call recording service infused with AI available around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/",
+      "originalUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/dubber-speik.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/amp/",
+      "publishedDateTime": "2020-12-22T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-cmswires-top-10-information-management-articles-of-2020.md",
       "title": "CMSWire's Top 10 Information Management Articles of 2020",
       "excerpt": "The virtual event saw important announcements in hybrid cloud, edge computing and artificial intelligence ... streamlined IBM line-up of offerings, following the sale of its Watson marketing ...",
@@ -1138,58 +1189,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in.md",
-      "title": "Why is machine learning so hard to explain? Making it clear can help with stakeholder buy-in",
-      "excerpt": "Nobody is going to invest in a technology that they don't fully get. Helping them understand how and why it works will encourage adoption. It's hard to get stakeholders to buy into technology they don't understand. In the case of artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
-      "originalUrl": "https://www.techrepublic.com/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/07/15/22cae322-e814-4c16-817a-d52d05657fa2/resize/1200x/3e5692cefcdaec47788680cca85c9eb2/airobot.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
-      "publishedDateTime": "2020-12-21T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

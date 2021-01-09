@@ -8,7 +8,7 @@ webUrl: "https://www.smartdatacollective.com/data-governance-is-vital-to-future-
 ampWebUrl: "https://www.smartdatacollective.com/data-governance-is-vital-to-future-of-a-world-ruled-by-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/data-governance-is-vital-to-future-of-a-world-ruled-by-artificial-intelligence/amp/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.smartdatacollective.com/wp-content/uploads/2021/01/shutterstock_1405194650.jpg"
