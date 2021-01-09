@@ -3,10 +3,12 @@ category: news
 title: "After strong 2020, Denver recycling robotics startup rings in new year with $55M Series B funding"
 excerpt: "On the back of a strong 2020, the company has closed a large funding round to scale its business to meet a growing demand."
 publishedDateTime: 2021-01-05T16:34:00Z
-originalUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
-webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
+originalUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.html"
+webUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.html"
+ampWebUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
@@ -19,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AMP Robotics raises $55M for its AI-based recycling robot"
-    excerpt: "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,"
-    publishedDateTime: 2021-01-04T19:00:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 99
   - title: "Recycler AI maker AMP Robotics raises $55M in Series B"
     excerpt: "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group."
     publishedDateTime: 2021-01-04T22:43:00Z
@@ -46,34 +37,6 @@ related:
         width: 654
         height: 436
         isCached: true
-  - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
-    excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
-    publishedDateTime: 2021-01-04T19:54:00Z
-    webUrl: "https://iottechnews.com/news/2021/jan/04/amp-robotics-raises-55-million-advance-waste-reducing-mission/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 69
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/amp-robotics-ai-arm-iot-recycling-green-tech-artificial-intelligence.jpg"
-        width: 1000
-        height: 647
-        isCached: true
-  - title: "Amp Robotics raises $55M in financing"
-    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
-    publishedDateTime: 2021-01-04T18:33:00Z
-    webUrl: "https://www.cdrecycler.com/article/amp-robotics-raises-55-million-investment/"
-    type: article
-    provider:
-      name: C&D Recycling
-      domain: cdrecycler.com
-    quality: 69
-    images:
-      - url: "http://www.cdrecycler.com/fileuploads/image/2021/01/04/dreamstime226235---dollar-sign-blue-backgrd.jpg?w=736&h=414&mode=crop"
-        width: 736
-        height: 414
-        isCached: true
   - title: "Updated: Amp Robotics raises $55M in financing"
     excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
     publishedDateTime: 2021-01-08T11:24:00Z
@@ -87,20 +50,6 @@ related:
       - url: "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
         width: 736
         height: 414
-        isCached: true
-  - title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in a Series B financing, led by XN with participation from new investors Valor Equity Partners and GV as well as existing investors Sequoia Capital,"
-    publishedDateTime: 2021-01-05T10:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-environmental-equipment-and-services-coronavirus-pandemic-environment-0b75f48fd5eb4716ae3051d7b57feb76"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 59
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "AMP Robotics Closes $55 Million In Funding"
     excerpt: "AMP Robotics — a pioneer in artificial intelligence (AI) and robotics for the waste industry — announced it has raised $55 million in Series B funding."
@@ -127,21 +76,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Clearing Raises $2M in Seed Funding"
-    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
-    publishedDateTime: 2021-01-04T17:32:00Z
-    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
-        width: 1920
-        height: 969
-        isCached: true
 
-secured: "HQ/OVgTyCvx/tO6IeTPIzha7ME6CeGTUJFW9G9ZpzlkrsOg/ZznXN/HxJ1PPkKrI4sBZ4DGdDJylF1odales5+OotMFg2zfA09EF6xP6GZaMmNt0hdJA816givUIvem4EzMMt/q2auFxoukR18Uek4M9Q4LwUq6iehqp4EhU53V0Pgd8ighYnieWLN0gjeMYppw4D0Dnes5KKhV7VtBNNkWx8JdT8v10RZMTNMdEznYPG+Kxx9S6EVWwPfjoD+hi2X0DalTi3sjTeFUYH0FsP8z8vobrHZP93JNEzykAj6nYV0tYYTVzCMatagsL+otGgcXmoLbYQk0E95A/fMgaAx8pKsSudfqw8pR2YUTGfFFW7ihFI7LICL69SGz+A7ywNq85S+jFPYpQRwKKkLQSjMks/BVuq7XBXBxhAhfbtHSvd6pPtRLT/nvTtGlZHyyyszr9xn8ip24aepf1NMgHDr+JMbCkp7kFzM7ma7xNNeLclzbVyYzGDx/R/+B/uaIIf76qYaa250ezk26mMnMV+A==;SmWMHb8bENO9EiG52vvx8Q=="
+secured: "vdF9Qe5dwlUi4BGCwocM06nlKpVh/hUtPwdD9SeIM7L6gVBdDZnYZzjmDGA5eRPMfCUSM7T7ksf7UUtqmD850bn/GFMEZsBNjBbn32UjNkxkN376Jrv1O0rcHApYxT/L/Svv2baECqUicyJqrplY9Y4DepPzvgHqRROLT+ahCixsDrKE5DXDuOTHpZd81AgG2FE3K1S+idRF2/xrS7cV1ykLUmp+75lEFE2sbvEbmu3dTHgclBpGUYPi+m5L1C8CGsZk13lr+7ot2rrsznwWqvJIbAaTMRBV57ZnQp3S9uMhxki7sRumXU1Kdq+E+elCJck4HOmnfmFhwOst5flT12R7DKCdz0KXPJ+QToa+RLFdZKXuYSEvezA0WkQAXwuzrk0ec7pUZpgZD0uhf37C8M/q3f8t29mFOVhkvfPa3ZJUCkwQLL3sFfEygmUGdsWCkEHn3AYAgNlV9kTr4YtIfCmEfvtTL5axfAOx1xE+hkddRB1nIE/OXQtGcgH87gL8f995h90ESY9xauVLvdW7Wg==;mlATuT06FQLyZI5A5z0m1Q=="
 ---
 

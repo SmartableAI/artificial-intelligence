@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
 type: article
 quality: 106
-heat: 296
+heat: 286
 published: true
 
 provider:
@@ -155,22 +155,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "A Closer Look at Facial Recognition Technology"
-    excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
-    publishedDateTime: 2021-01-04T18:40:00Z
-    webUrl: "https://thebossmagazine.com/facial-recognition/"
-    ampWebUrl: "https://thebossmagazine.com/facial-recognition/amp/"
-    cdnAmpWebUrl: "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/facial-recognition/amp/"
-    type: article
-    provider:
-      name: BOSS Magazine
-      domain: thebossmagazine.com
-    quality: 59
-    images:
-      - url: "https://thebossmagazine.com/wp-content/uploads/2020/12/iStock-1028139826.jpg"
-        width: 960
-        height: 506
         isCached: true
   - title: "NIST updating guidance on facial recognition algorithms"
     excerpt: "The pandemic has inspired new uses for facial recognition software, but may require tweaking of algorithms. Masks, which leave only the forehead, eyes and maybe the bridge of the nose exposed, can make it harder to identify people accurately – especially for law enforcement."

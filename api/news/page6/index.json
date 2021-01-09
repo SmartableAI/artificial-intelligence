@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-03-ai-based-database-to-solve-similar-crimes-quicker-centre.md",
+      "title": "AI based database to solve similar crimes quicker, Centre",
+      "excerpt": "The Centre is involved in developing an Artificial Intelligence (AI) and Natural Language Processing (NLP)-based database of modus operandi various cr..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstracklive.com/uploads/crime-news//Jan/03/big_thumb/AI-based-database-to-solve-similar-crimes-quicker-Centre_5ff1b71375b0f.jpg",
+          "width": 796,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "publishedDateTime": "2021-01-03T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
       "title": "Why robotics and language need each other",
       "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
@@ -1145,57 +1188,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-why-this-ai-company-founder-left-tech-to-become-a-healer.md",
-      "title": "Why This AI Company Founder Left Tech To Become A Healer",
-      "excerpt": "After founding three tech companies and working for years as a UX designer, Cris Beasley made a radical choice. She left the tech world to become a healer, moving from SF to the cloud forests of Chiapas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "originalUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee1620c984f344e6740c36%2F0x0.jpg%3FcropX1%3D260%26cropX2%3D4514%26cropY1%3D0%26cropY2%3D3190",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "publishedDateTime": "2020-12-31T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

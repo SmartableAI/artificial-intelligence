@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotic
 cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Daily Camera
@@ -27,45 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMP Robotics raises $55M for its AI-based recycling robot"
-    excerpt: "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,"
-    publishedDateTime: 2021-01-04T19:00:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 99
-  - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
-    excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
-    publishedDateTime: 2021-01-04T19:54:00Z
-    webUrl: "https://iottechnews.com/news/2021/jan/04/amp-robotics-raises-55-million-advance-waste-reducing-mission/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 69
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/amp-robotics-ai-arm-iot-recycling-green-tech-artificial-intelligence.jpg"
-        width: 1000
-        height: 647
-        isCached: true
-  - title: "Amp Robotics raises $55M in financing"
-    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
-    publishedDateTime: 2021-01-04T18:33:00Z
-    webUrl: "https://www.cdrecycler.com/article/amp-robotics-raises-55-million-investment/"
-    type: article
-    provider:
-      name: C&D Recycling
-      domain: cdrecycler.com
-    quality: 69
-    images:
-      - url: "http://www.cdrecycler.com/fileuploads/image/2021/01/04/dreamstime226235---dollar-sign-blue-backgrd.jpg?w=736&h=414&mode=crop"
-        width: 736
-        height: 414
-        isCached: true
   - title: "Updated: Amp Robotics raises $55M in financing"
     excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
     publishedDateTime: 2021-01-08T11:24:00Z
@@ -79,20 +40,6 @@ related:
       - url: "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
         width: 736
         height: 414
-        isCached: true
-  - title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in a Series B financing, led by XN with participation from new investors Valor Equity Partners and GV as well as existing investors Sequoia Capital,"
-    publishedDateTime: 2021-01-05T10:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-environmental-equipment-and-services-coronavirus-pandemic-environment-0b75f48fd5eb4716ae3051d7b57feb76"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 59
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "AMP Robotics Closes $55 Million In Funding"
     excerpt: "AMP Robotics — a pioneer in artificial intelligence (AI) and robotics for the waste industry — announced it has raised $55 million in Series B funding."
@@ -119,29 +66,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Clearing Raises $2M in Seed Funding"
-    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
-    publishedDateTime: 2021-01-04T17:32:00Z
-    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
-        width: 1920
-        height: 969
-        isCached: true
   - title: "After strong 2020, Denver recycling robotics startup rings in new year with $55M Series B funding"
     excerpt: "On the back of a strong 2020, the company has closed a large funding round to scale its business to meet a growing demand."
     publishedDateTime: 2021-01-05T16:34:00Z
-    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
+    webUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.html"
+    ampWebUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 21
+    quality: 41
 
 secured: "p8lrQIew6Wd2FICfJJg+lykHkaEGe0tG0S7gSaJC35FBVbmX8r+kYbwBFMYFvU5tkbDJiPF59gXmvNC6PNoSlnKdcLOIQXh+2B5bpX0LtT3VMr3e0s423+Ew4BGhLgo+TGKHBoBGB92nIZQY4wAgH2qFlPWWeHU4+xgDtoGjuT6JVZPl2+i+dIrlW1tHY8LdAqHJCDDsFxlraRz0Rd0L9RMbdQvI4/SdnMRxHGD4D3Z/o6QnFcRTzHqQfBFTDK6jTPF2VNwDgOdqiDRJpjxoSUHTRc8wmd0xAnmXAs6B+5hqphfhyxL+9ELoKOXyg+Svm8HDkNwYCV2HtMK1IU3HKZcPcaQdT5iayDeaw1mP4/G1zfLVL0knOPQyyyNPKRy/kXIPYaMXB3ewcF2xQSnRr5cjMz2GvtRsHdk3Fl1C9nluFQE7voMnYk0CEGQqeFzxzC5Wzi6bQXcKNRB0eUNj+B6mxsooYGTIvxfTSlFU9AqFyjewX9lhp9FyKeAqn+tJ2LthaP0MtPSzDdNCI6dyuQ==;sbA9f9qXAIHWjxcj4nY9lg=="
 ---

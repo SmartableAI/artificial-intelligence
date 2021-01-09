@@ -40,22 +40,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Startup develops AI system to repair electric vehicle battery"
-    excerpt: "The IIT Hyderabad-incubated startup PURE EV has developed an artificial intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles."
-    publishedDateTime: 2021-01-04T17:54:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "jGl/WJIrjVzHukGDVvgTEmsJRBY1b7l1ZxNvAtFV0tu4DkkJiCC9J27h9PlEsm5xB7sDKdOJpRE+iyrB3CLy/2jZa9QpwJq3MBA0wDM83slZYKSfVULkoJOwcGl8vOh55XltHIDQNF7+UQmrFEkkBQ5AegokXEqt3u8AIMVnyXxX+LXNcSiLs8IazsgFpxHjpPNnJdI9mL+FFds4r7liIu9DXOZlKPX3YeK1J6N87fOj8rOBUmoz0ekI4dMTAidnZdQnt7uvnli1Ls6dC1V+u0jVMyi1jmHygyMhmJtuhEUfZL772VVYVipDJGhMpR6sgJY1mQDx6FfLvWjQQunkvDFcyWdWwHv/kytm4ZepOOU=;4ZieCCwHQAjGfpdmQ4oysA=="
 ---

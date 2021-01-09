@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/iit-hyderabad-startup-develops-ai-tool-to-repair-ev-batteries-665369"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hans India
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup develops AI system to repair electric vehicle battery"
-    excerpt: "The IIT Hyderabad-incubated startup PURE EV has developed an artificial intelligence-driven hardware that automates identification and repair of defects in lithium-ion batteries of electric vehicles."
-    publishedDateTime: 2021-01-04T17:54:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/startup-develops-ai-system-to-repair-electric-vehicle-battery/article33496274.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Hyderabad startup Pure EV's AI tech to auto repair Li-Ion batteries"
     excerpt: "Pure EV, the electric vehicle vertical of Indian Institute of Technology - Hyderabad (IIT-H) incubated city startup Purenergy, has developed BaTrics Faraday, an artificial intelligence (AI)-based hardware which can automatically identify and repair defects in Lithium Ion (Li-Ion) batteries of electric vehicles."
     publishedDateTime: 2021-01-04T20:09:00Z

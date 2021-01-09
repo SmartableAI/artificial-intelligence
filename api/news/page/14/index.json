@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-23-digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers.md",
+      "title": "Digital Careers Ahead: AI Instructors, Remote Work Heads, Digital-Charged Marketers",
+      "excerpt": "The next generation of jobs will need to 'focus on taking subject matter experience and translating them into machine learnable labels and annotations'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe0e38e220093c48951892b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/12/22/digital-careers-ahead-ai-instructors-remote-work-heads-digital-charged-marketers/amp/",
+      "publishedDateTime": "2020-12-22T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-dubber-acquires-speik-to-expand-its-ai-call-recording-service.md",
       "title": "Dubber acquires Speik to expand its AI call-recording service",
       "excerpt": "The acquisition enables Dubber to advance its ambitions for making call recording service infused with AI available around the world.",
@@ -1137,58 +1188,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-baby-yoda-robot-uses-ai-to-follow-you-around-like-a-creepy-toddler.md",
-      "title": "Baby Yoda Robot Uses AI to Follow You Around Like a Creepy Toddler",
-      "excerpt": "While you can shell out hundreds of dollars for a startlingly lifelike replica of Grogu, this DIY Baby Yoda does what all the others can’t: automatically follow you everywhere you go like a curious 50-year-old toddler.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
-      "originalUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ge0szw9vewohscvyfg55.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
-      "publishedDateTime": "2020-12-21T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

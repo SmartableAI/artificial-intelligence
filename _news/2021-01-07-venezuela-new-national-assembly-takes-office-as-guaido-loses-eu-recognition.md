@@ -7,7 +7,7 @@ originalUrl: "https://venezuelanalysis.com/news/15089"
 webUrl: "https://venezuelanalysis.com/news/15089"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "US Treasury Department Affirms Recognition of Venezuela's Opposition-Held Congress"
-    excerpt: "The U.S. Treasury Department on Monday issued a new license allowing certain transactions with Venezuelan opposition leader Juan Guaido despite U.S."
-    publishedDateTime: 2021-01-04T17:42:00Z
-    webUrl: "https://www.voanews.com/americas/us-treasury-department-affirms-recognition-venezuelas-opposition-held-congress"
-    ampWebUrl: "https://www.voanews.com/americas/us-treasury-department-affirms-recognition-venezuelas-opposition-held-congress?amp"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/americas/us-treasury-department-affirms-recognition-venezuelas-opposition-held-congress?amp"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 38
-    images:
-      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/reuters-images/2021/01/reuters_com_2020_newsml_RC29VK9J0DHW.jpg"
-        width: 4845
-        height: 3230
-        isCached: true
 
 secured: "3WpZr8KIk6eEXITlk6C/Sf5/CDSsycbf7pzLi2N8mKaCP9MkFOiF1kUh/Winz7i8+VJ8RsbHvQr/1eEX3TaPjDBP61fpwEKfGdz9amE8Gldj8fZD7RE1C7stGZ4t3RBZCUVwTaKMgM7aAX+iiP6KNtpTZsUuK+hY+QxsHHekGkxHdIbIhHwRQJS/afCKhnjqHoybnPyUbHrsVbDRcseLia9Z8kk/g5qYlYrO0KuGEujJMPZ1ygDGKpHQrb2Oz6S1uEljQWWqMJ8UFn9RT0c+GAoG1Omvg7dBNaB1llIF9Msx04YYP8QB7Tes4fEf43gJ6NN0BRDcqvYoxZ1jv39AYmsS/D2n2dJKo7w0MNnDMqQ=;v30bC+TdgzkXxTR/WLsuCQ=="
 ---

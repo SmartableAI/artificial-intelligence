@@ -167,22 +167,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Closer Look at Facial Recognition Technology"
-    excerpt: "facial recognition technology holds considerable potential for good, so many are hesitant to abandon it entirely."
-    publishedDateTime: 2021-01-04T18:40:00Z
-    webUrl: "https://thebossmagazine.com/facial-recognition/"
-    ampWebUrl: "https://thebossmagazine.com/facial-recognition/amp/"
-    cdnAmpWebUrl: "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/facial-recognition/amp/"
-    type: article
-    provider:
-      name: BOSS Magazine
-      domain: thebossmagazine.com
-    quality: 59
-    images:
-      - url: "https://thebossmagazine.com/wp-content/uploads/2020/12/iStock-1028139826.jpg"
-        width: 960
-        height: 506
-        isCached: true
   - title: "Masks no obstacle for Japan’s new facial recognition system"
     excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
     publishedDateTime: 2021-01-07T12:04:00Z

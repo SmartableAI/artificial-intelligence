@@ -35,22 +35,6 @@ related:
         width: 636
         height: 358
         isCached: true
-  - title: "5G Coming to Burners Thanks to New Snapdragon 480 Processor"
-    excerpt: "Qualcomm announced this morning the new Snapdragon 480 processor, equipped with the X51 5G modem that supports both mmWave and sub-6GHz 5G networks. The importance of this announcement is that even less expensive devices can now get in on the Qualcomm-powered 5G action,"
-    publishedDateTime: 2021-01-04T18:27:00Z
-    webUrl: "https://www.droid-life.com/2021/01/04/5g-coming-to-burners-thanks-to-new-snapdragon-480-processor/"
-    ampWebUrl: "https://www.droid-life.com/2021/01/04/5g-coming-to-burners-thanks-to-new-snapdragon-480-processor/amp/"
-    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2021/01/04/5g-coming-to-burners-thanks-to-new-snapdragon-480-processor/amp/"
-    type: article
-    provider:
-      name: Droid Life
-      domain: droid-life.com
-    quality: 44
-    images:
-      - url: "https://www.droid-life.com/wp-content/uploads/2021/01/Snapdragon-480-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "0ZxkPbyWMx+4noIAsJCewDqHSJFF8dv4HlU37thHr8Yy6BKw6B2jqNqLKnCisATD19iAhBPuoFj6e7S4OzGatF/ff5GdPZzpd/7aXxtaaXme0p4hTvTlZBqzoovSCpBr/5j5dvs52a+VuN0UCgYRCKgBYUwvZ3hdyPeMchyw9uafGFQrHOzxh96oa5SM6y38hiDdkwrtsZyip94ih2oyh8zadMo2nA6gZcZV0579ZXMiyWkNT3JKO8vIkgSMhDhUKaHZjAykO3qcoIIc+BGUPG1c2PlLPKZi1GgscwPE/SAFnT34H7NRZJQq1gR1UxC9M3kXsgcQKQ2uDXAzcUMwNIFJ0S4wDlHK5KaPGS/4zzTF/upCSaGa3L1RLOCK8bO+CAMnrUitSEeZ9N3RJFhWmQXhX/aBT8t0Pm8I4eQUROS25/+X+BLyp96AyHAVPbltJD1eWEuNaA4blTZBTsXCrxsSSwCDdKVYbJvFH2Nj8CyJqn4gswdEiRnSiHdl2BvYvoctdU6zcJWMp2Fn9eQC8Q==;Umkp0fM42fakUrBxrofMcw=="
 ---
