@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff392b289032e7d9ad91594%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121"
         width: 1200
         height: 675
-        isCached: true
-  - title: "What You Need to Know About Self-Driving Cars"
-    excerpt: "The technological advancements of the 21st century would astound even the greatest thinkers just a century ago. Today, we’ll discuss what you need to know about, as our title suggests,"
-    publishedDateTime: 2021-01-04T20:50:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/04/what-you-need-to-know-about-self-driving-cars/39238/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 24
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/tesla-steering-wheel-2.jpg"
-        width: 800
-        height: 481
         isCached: true
 
 secured: "TZ0wxBcsMdvSRfFUoGDeAT7BNXdkmjWkxRO4ZD/fux2ldME9ECf5lo4VaBJQm1SMoam2soe26I2bXBE+SKjHJt6e7ZWmE1ni0n/jcnn3aEgosRbaiatSFIxpQlLqD5r2mTIuKfaOITeVnRyPJeTUzvq618JkySkOcFK212DqYRzzdFsrZ0VuNpzUxoXAEWmarGTSJxPAuRytywqyL3pNjK+gzsIbAweNk4Rme2QfLWyn9bmOTP5El8dYcF9OOt7z70W/Kt2WV98np/IOLjpu0btiLcU4BAicr8wPOatX1xUEuyMNOjh9WETo2jUGC9gg2FjlR8VLktpAFAH+NzpcpWoOmf0mSzzjFoTaIFgK787IRQimSNsFmpODuxnvqyhAQ3wxYJLSU6A1Ylu2744a668OV/UGkSwjGEFOXi4k9wol69E9FMyDwXKprWATy6rWmP+l9AfLKwWeY/zcSmNaU04iPP4CperB0ihlbgRivQqCzcyLH70b1oHm1IApruBbM76sHqx8cje6il1ByMUG0Q==;CWdHyZNAD4Mh2ymyJ/414w=="

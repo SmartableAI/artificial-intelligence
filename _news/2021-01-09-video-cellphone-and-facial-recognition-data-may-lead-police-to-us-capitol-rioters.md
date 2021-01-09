@@ -129,20 +129,6 @@ related:
         width: 1200
         height: 717
         isCached: true
-  - title: "NJ man wrongfully arrested based on facial recognition sues police and prosecutors"
-    excerpt: "A New Jersey man has filed a civil rights lawsuit against police and prosecutors alleging racial profiling and misconduct in their use of face biometrics to arrest him, in the absence of other evidence,"
-    publishedDateTime: 2021-01-04T19:37:00Z
-    webUrl: "https://www.biometricupdate.com/202101/nj-man-wrongfully-arrested-based-on-facial-recognition-sues-police-and-prosecutors"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/05162022/social-media-databases-facial-recognition-police.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Government Users of Facial Recognition Software Sued by Plaintiff Alleging Wrongful Imprisonment Over Case of Mistaken Identity"
     excerpt: "It has become commonplace for government agencies and law enforcement, particularly in large metropolitan areas, to use facial recognition software.  These entities are a major client base o"
     publishedDateTime: 2021-01-04T21:11:00Z

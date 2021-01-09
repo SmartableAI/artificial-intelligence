@@ -3,12 +3,10 @@ category: news
 title: "After strong 2020, Denver recycling robotics startup rings in new year with $55M Series B funding"
 excerpt: "On the back of a strong 2020, the company has closed a large funding round to scale its business to meet a growing demand."
 publishedDateTime: 2021-01-05T16:34:00Z
-originalUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.html"
-webUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.html"
-ampWebUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
-cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
+originalUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
+webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
@@ -77,6 +75,6 @@ related:
         height: 675
         isCached: true
 
-secured: "vdF9Qe5dwlUi4BGCwocM06nlKpVh/hUtPwdD9SeIM7L6gVBdDZnYZzjmDGA5eRPMfCUSM7T7ksf7UUtqmD850bn/GFMEZsBNjBbn32UjNkxkN376Jrv1O0rcHApYxT/L/Svv2baECqUicyJqrplY9Y4DepPzvgHqRROLT+ahCixsDrKE5DXDuOTHpZd81AgG2FE3K1S+idRF2/xrS7cV1ykLUmp+75lEFE2sbvEbmu3dTHgclBpGUYPi+m5L1C8CGsZk13lr+7ot2rrsznwWqvJIbAaTMRBV57ZnQp3S9uMhxki7sRumXU1Kdq+E+elCJck4HOmnfmFhwOst5flT12R7DKCdz0KXPJ+QToa+RLFdZKXuYSEvezA0WkQAXwuzrk0ec7pUZpgZD0uhf37C8M/q3f8t29mFOVhkvfPa3ZJUCkwQLL3sFfEygmUGdsWCkEHn3AYAgNlV9kTr4YtIfCmEfvtTL5axfAOx1xE+hkddRB1nIE/OXQtGcgH87gL8f995h90ESY9xauVLvdW7Wg==;mlATuT06FQLyZI5A5z0m1Q=="
+secured: "2M1DJIApaVvqOo99ZtSrGga2itfmbdDNH55upVRMnXlL47E0HI53jE5E1mfkedyO2sdGuexMP9bV6AWsF19Fnrxit2kHP/Brin1V0nhA8Rmb8yoCY4/a5ASKn440QQq8BC0VFi+2HcXxNVdHAr1jogUK2lA4ilg/4Dj3YBn8TMCInKD18vRivzzjUOkpQrr563Flzn0HuQDb9QkzT2OTrbDVw58DkeAHF4d0OB0sLorawVKeDpYBiTvUava9xUUt2wYEcPdS4zfWTWIcNB+OZ2MWlImW8VKFCmTqjygQ6w5rKKO3Ib9mNvw8YHMXz1PAoiCl8/Hq4wkpHkGwMYsattCmZ5MnCww+LkFiPw4f9eMNnqX96CVzIpKBrEz+2EnBmL3Z1nJsUctTyx6J2nassOyVQCm5jPXMR59XdnmXtXW1ZKFNpNKmL3TMR+atHeWELa9iy9PahD/xV82/hrUhpPbDyStmJAzPclDMte1UHvVBVZ6SFwbaB/cd/8VMQaNnN8SkQSTaTYg2YmBOtXsUjw==;wSEmdyWOU0mgEiRyOmouKA=="
 ---
 

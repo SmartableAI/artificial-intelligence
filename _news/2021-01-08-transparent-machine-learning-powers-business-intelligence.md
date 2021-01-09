@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Looking Ahead at Business Intelligence in 2021"
-    excerpt: "Modern BI tools present vast opportunities for organizations, allowing businesses to unearth new insights, efficiencies, and innovations, and become more proactive in carrying out daily operations. According to experts in this space,"
-    publishedDateTime: 2021-01-04T19:38:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Looking-Ahead-at-Business-Intelligence-in-2021-144569.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "NsJM5uveF3KYl7OkQhENN0LndnD/jhY+9EfXp63GM2EFSkJDXfxBgfOxrUp4O9nBxTMGVN4mYT10AiyCIBf5LbYeCA3gjhMYlE5e4VHAJP3/3TMK0JhofHXNQogkNyMPhPHRspy1Ey1ViE37I0t6VOKvH3xnmAXB9Ez5vg9OTUF276bbc04T5eWGi3QYuBs2uB3tfqsjTtEAd2o7R3eBL/xh3LHxP/vBx1Kg5uPopwD3EtrC8ZrbGUR64FKFJbljVstZwOXn5/gksO1lzYTA9g41JkgHeLXSsrUXdg3sDVykHKx+qq+QnltZroGmldGfhZ0S3QZPy0tacUXb1U8FdWpR5Ygj1VjsYKFlJsaCTEmRB7BaRfirmNxTgrGUneL25xltUmGcNqiBpR2835KUApRa0tU8Ne3OappNzaLbf7Ei75pAdV2rEj91RSBKT+vnkUfsh0Lt5v7TAcKVf4mNdNfw3BA1BNHvK0uPMLjgbTfHbOmqpAQzUI3UMEzwBDbEqmOFef9l3x9YD59FRzP3vw==;JtYqAlki6BAw3M2RtTlq3A=="
 ---

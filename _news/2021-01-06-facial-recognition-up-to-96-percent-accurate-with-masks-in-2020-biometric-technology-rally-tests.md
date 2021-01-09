@@ -55,20 +55,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Airport Screening While Wearing Masks? Facial Recognition Tech Shows Up to 96 Percent Accuracy in Recent Test"
-    excerpt: "A controlled scenario test by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) shows promising results for facial recognition technologies to accurately identify individuals wearing protective face masks."
-    publishedDateTime: 2021-01-04T19:30:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/airport-screening-while-wearing-masks-facial-recognition-tech-shows-up-to-96-percent-accuracy-in-recent-test/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 35
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/09/44520092391_a1c12d166b_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "Lbqs0TalR0qbuRZ+kmwJH61uatYpdNDp3hLujHy4SMTj304ZpBEBLpfBf6aWk/OQDUvHjd0FhoJ6GEnF/7/zZGtsKW1AvUyrhA6KovKxvRgi9t/PS8pF+xIyPnLM2vi0Cd8NEeHZsZb/2PpKsgtSKvGCIo/iiq/oCefUd+1m6h9bhpRFYJr5tABtzPKKZxstlZpNCT3vlVAvfoz7Wyial62ytT46smlsOzKzsSpzjVlsiKJQSqzUeJr5r/gatTN/1BJ9E9jf5G+xPROsnLl1VKEBsYE1HOUyjdiGLLG/6Euir07U8vFXiuIx4ESP/4LClLTxcMm2SXky/SM2X4HQnzOu/Y6HCJLBebvGpAQUCn31bIRp31L4Gd1zgje7Q1Wxc4tgkJOgZFcn0bkLkDSGjGfDu4IQ17RfIFWfFOwISJuYJLgDTRc4xtBsHfX9Imv5j6GGgs3J4LZ/hcTIBd9uAbk9np76bb4CuByZMujL8dJbhRmtR71xqQ/xIj4/YmnNfgXLeBSaqXMbdj8OCeluAA==;pXSGZeZasIVNyvfzzrdTMg=="
 ---

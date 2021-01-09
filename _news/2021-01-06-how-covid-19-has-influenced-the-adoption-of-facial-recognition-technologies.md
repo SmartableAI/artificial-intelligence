@@ -41,20 +41,6 @@ related:
         width: 8194
         height: 5463
         isCached: true
-  - title: "Airport Screening While Wearing Masks? Facial Recognition Tech Shows Up to 96 Percent Accuracy in Recent Test"
-    excerpt: "A controlled scenario test by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) shows promising results for facial recognition technologies to accurately identify individuals wearing protective face masks."
-    publishedDateTime: 2021-01-04T19:30:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/airport-screening-while-wearing-masks-facial-recognition-tech-shows-up-to-96-percent-accuracy-in-recent-test/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 35
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/09/44520092391_a1c12d166b_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Facial recognition up to 96 percent accurate with masks in 2020 Biometric Technology Rally tests"
     excerpt: "A facial recognition system similar to the one used by the DHS had a 96 percent biometric accuracy rate with masked faces in testing."
     publishedDateTime: 2021-01-05T21:50:00Z

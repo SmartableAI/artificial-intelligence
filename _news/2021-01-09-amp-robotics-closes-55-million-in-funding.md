@@ -68,14 +68,12 @@ related:
   - title: "After strong 2020, Denver recycling robotics startup rings in new year with $55M Series B funding"
     excerpt: "On the back of a strong 2020, the company has closed a large funding round to scale its business to meet a growing demand."
     publishedDateTime: 2021-01-05T16:34:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.html"
-    ampWebUrl: "https://www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/denver/news/2021/01/05/after-strong-2020-denver-startup-developing.amp.html"
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 41
+    quality: 21
 
 secured: "1hjWKHEPsRyfd3FVFut6OwNPT94XJdCX3BMyg109cXys4vsKTIkNoiUclcm6AzuxWvAqtfcHXqZnVtj5rxA/LQKT3IseH64a6SUfxGPWdgBrGxQZC+gABS3z9TYCnEStjDnP3frBR40vrUWGXMgUuHYEDzfWsb8mzkD9Zfx5gBTeSRSx6RrSFBD7CPbfNE4wx5XHiUO1Kp2oT8VF0qS91FaIDhsfwccIINWjRGHP9s8qu7PafUgk9uBlh9+VjuoadFwhF+e82kmonUR8b6slxYnYVtlovZN2k6X0gG2QMp4JRCjVxePVpsmg01pn+v2EoDwjsz24pcjaX9ncQ6fhxc/h8ese3h+BpMRLZfZKNozqOnfTY7JYx+vy2oFfmY0ap1duHKIUAZX8MubDhV6fnqJFrAe6bAJs6djUWjIRoEqyRhydDMdcU8ljF1ZXuybioSzLCaiMpNN5ML5nrjnN8KcJU2LXlWQBPotwjdEvWuBRZhns7dwRAP44+WuqKAsZvAfrO/D4kug0qh5gHSXWHw==;v5mfA/09wwynyRzcRLADYA=="
 ---

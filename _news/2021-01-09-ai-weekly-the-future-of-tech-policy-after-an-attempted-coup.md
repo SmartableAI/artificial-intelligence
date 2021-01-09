@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-poli
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI Weekly: The argument in favor of regulation in 2021"
-    excerpt: "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data, for enterprise technology decision-makers, presented by the #1 publisher in AI and Data With 2020 in the rearview mirror and New Year’s resolutions on the mind,"
-    publishedDateTime: 2021-01-04T19:42:00Z
-    webUrl: "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "O207ClOlCKhuMRSsbQJ40FDvDKSbGuzp8q59WYkjoXGJYXLjrUhHAYiqFhWs/Ryshf+QT28uslDfEBLHSK+OyStS7CcYIZqTF11qSjZmnUoNFTRFMGOmNw5Iij7UQpIk0O5webrtTmT/tTi77JY/2aJS97YiPA2jGbInzY0mGshwLODO0d0XhOzbH0VomFZKtGFuXsPb6+CM78oN1XLMEdi53QJJ8+2B2vbY4VXKY/j7osNQ80sLdLGbrSat+Z9aF7U2QKRn7sDl+IwhodQIugWFkf7PbwoRLc+gkhpeLslEQdOEidU7Qsc0ZVQKRpH+FSL9P1Lq2vEtImGpxwPN50PTi2BzemDfUjPjfvPMh9lWXxVYLHOV8svfiAYsfMG9NUvoZyFNLV6tT+h6ejqGIAuNhm6PuA5jli+EaLOBL+phH8z4JZq8O+BhBCWUlF8OeLVSfStKxUOzB6VJzp6ge8KpPCnKdVGd/u3HZVE+2H8D6Ht/QbHwlXN2VcGPEbBV1LLWzQnOrlg7LFtW009Vfw==;fbMTnggJphC+chI0ht4naA=="
 ---
