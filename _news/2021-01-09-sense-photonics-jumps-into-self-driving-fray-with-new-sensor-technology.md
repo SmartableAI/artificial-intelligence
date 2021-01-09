@@ -3,8 +3,8 @@ category: news
 title: "Sense Photonics jumps into self-driving fray with new sensor technology"
 excerpt: "Sense Photonics has developed new detection technology that hits a key milestone required for self-driving cars, the laser sensor company said on Friday."
 publishedDateTime: 2021-01-08T23:59:00Z
-originalUrl: "https://www.reuters.com/article/us-sense-photonics-lidar-autonomous/sense-photonics-jumps-into-self-driving-fray-with-new-sensor-technology-idUSKBN29D2NT?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-sense-photonics-lidar-autonomous/sense-photonics-jumps-into-self-driving-fray-with-new-sensor-technology-idUSKBN29D2NT?edition-redirect=ca"
+originalUrl: "https://www.reuters.com/article/us-sense-photonics-lidar-autonomous-idUSKBN29D2NT"
+webUrl: "https://www.reuters.com/article/us-sense-photonics-lidar-autonomous-idUSKBN29D2NT"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "EasQKzYcwq7/U6KEgApZahTH4e+oUPQLNjZJ9kpW7JmUU6kXMVs196N164Y0k3vY+Kln++RUGJ7wOHw7xhsz6ttkhCIGSwnzRFu1cdzxoogOgG8nNt0WACQ92dMMq5z8OgTVFLpaaYw9o7obrU05NqwQbAbd7jjkYBfzVze5Kc79rJBTbSyHUTiS5906ZUAxHnfnb8uCv2797fkGwZEYQCW3ZYifDMhKITFU8oW+Q+e9EZgWrx5CfAXLSST3/nwNokacnELzO/K/xbVsHOdOkWEfAifKbxjIwWfwhvaCPBTCwlwDLiQdjsNNep5XJo2IGhTEi6kza+qApKcS1ZzMKsbhUksJWIYv0iHaFeOmDBM=;L/CjQNbY7F+8gPR8lMTXVw=="
+secured: "O/Bek9bVB2S5Ex8dzmTAPyuq1Or3StHT1u3e9WOoPz9TCtEPRlqaPtumjtE5F1zmXOuynB+Rfm0BJRVci7rBlkAo8Dzuqm8/VgsRS3b3rrh254bhvfag1inx3CHeW/JiupGxio5q0BmLsKlOjrGuCnF+aZVucWRFFuDlgzddnKrCiUSg5IymufffuyoIK6LoYu4sAqfJA8M/hwNgGhS/8MiHoLBclyvk5/+COXArZPYTe+DiFx7ucxsu0A29ExB3c+hgp0d9KvjhbRCFD07q/eLY4uLO+NaU7+SkFEvnp+UFDsmyCmaqdDnJeS2N+w9qosPrmofmHhYHq2cjLTP8I/twAqRGSwZBdikDvT1/gCk=;wdZHz4w7Ds8/gsMSJ81zFQ=="
 ---
 

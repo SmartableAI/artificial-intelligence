@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot AskDISHA improve satisfaction of customer interactions"
-publishedDateTime: 2021-01-05T12:27:00Z
-originalUrl: "https://www.thehansindia.com/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
-webUrl: "https://www.thehansindia.com/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
-ampWebUrl: "https://www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
-cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
+title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
+publishedDateTime: 2021-01-05T13:15:00Z
+originalUrl: "https://www.imdb.com/news/ni63147427/"
+webUrl: "https://www.imdb.com/news/ni63147427/"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://assets.thehansindia.com/h-upload/2021/01/05/1022921-microsoft-azure.jpg"
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
     width: 1000
-    height: 600
+    height: 1000
     isCached: true
 
 related:
@@ -199,15 +197,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
-    publishedDateTime: 2021-01-04T14:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
   - title: "Microsoft extends reach into healthcare: 13 things to know"
     excerpt: "Microsoft launched significant healthcare products in the last year and deepened existing partnerships to support healthcare providers during the pandemic. Hospitals across the U.S. use Microsoft's cloud service,"
     publishedDateTime: 2021-01-08T14:50:00Z
@@ -265,18 +254,18 @@ related:
         height: 594
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
-    publishedDateTime: 2021-01-06T23:02:00Z
-    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+    excerpt: "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users"
+    publishedDateTime: 2021-01-06T20:31:00Z
+    webUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: BiztechAfrica
+      domain: biztechafrica.com
     quality: 49
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-01-06_at_6.42.51_PM.png"
+        width: 509
+        height: 249
         isCached: true
   - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
     excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
@@ -316,6 +305,6 @@ related:
       domain: tcs.com
     quality: 29
 
-secured: "iGDbbkyDZ4rff7eKIPsbkSgRfj53tVvojQatllQu8wWtDa+WzvcjH6kEl0WHlilaCcJvAmh8C5G4caMF9gxtJ/bkI7uFVbcQ57l/W8xb7TqPXtH+bNOuYMnG0nuT+2j07W/QjKLzk0s8RThsMDO95FNboYMJeGVF6gFN7XGcbyt20gsUPxv00G+SmifIKS5X2jgxoB4YdoE6oHBl/WZJPjZrvoHPVdjNSLv9E278yuGYXv0DXQaVn+daFEeUWsT/wJgZBT4WgCE9HiPjHv+Whezu8bUoIG9rtZMffSMFfsoxsZkm+XrY7LBosGfwHpNQrrxSwWEOhYF6UNu83UB28pt508CoIQW3mYcklUz7gkg=;uS4aDTsgScIKEQc0PMrm8g=="
+secured: "8TupDOaut7rpE4J8sa65xlVN3EUHX8UTHPfsGaoJZQoMeEDLals6n8WNwg1IcRlI1Boxumox4tcHrdSwVKu0bZe3hQIHimbzVupWEdVxQbNG+jMVXGb1mQ8yE6KJ7fFto7qhX8dd+rjZ+nyYGHCtIU6kxn9W8jDfsIdZUrZ5N1V0z8Um7h7On35ObUvEU28IniXvNNeJjG7sc85uT9HLa8s3gDuGctRVXBrZtEXZ34LCIBQGu5zN8OZIX8xtuGuPMmvOuPUgkrPriOy62Q1znk8jf/INEn7WhQG77fBa7lPsHE/SH9OfMNcjbOIIgEHxyaJ0eeT3B0hsooxY5Roi9RIavmUxaDOOSQgcntGGP7Q=;6IAccLod++JCbY2fde+XqA=="
 ---
 

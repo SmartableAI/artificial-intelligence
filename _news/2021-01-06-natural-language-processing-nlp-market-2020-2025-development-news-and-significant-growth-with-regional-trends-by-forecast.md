@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing (NLP) Market 2020 – 2025 | Development, News and significant Growth With Regional Trends By Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. The key players included in this market are [[24]7.ai, Inc., 3M, Abe AI Inc., Amazon Web Services, Inc., Apple Inc., Aylien Ltd., Cortical.io, DigitalGenius, Dolbey, Expert ..."
+    publishedDateTime: 2021-01-05T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing (NLP) Market 2020 – 2027 | Future Trends, Historical Analysis, Competitive Landscape and Regional Forecast"
     excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
     publishedDateTime: 2021-01-05T11:28:00Z
@@ -39,20 +53,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Financial Analytics Market Key Manufacturers, Development Trends and Competitive Analysis 2024"
-    excerpt: "The global financial analytics market is expected to register a CAGR of 10.4% during the forecast period to reach USD"
-    publishedDateTime: 2021-01-07T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-key-manufacturers-development-trends-and-competitive-analysis-2024-2021-01-07"
+  - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
+    publishedDateTime: 2021-01-07T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19053604/machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19053604"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19053604"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "UCF6YVCvUVfObof5+l+A5MZap+98zVfxqsNV5RrAQ7n/V6OkDOgazt2g2RT3hMAGSifb8wOzfdLuqu62bftnnYjDZjImGVNPVlQSk130Jq++MslcHoeYnieTucwez4/lR98sNrgxQ7NzIbp93N2JWPZVQruZHIK/OaOVD4qC8pbTmMGI+Q1Mlg/p6Q0lJoAOTJ2GH3/4TDxH4moSUtKrfj/wAgopCWSuU/J/JKKMPRcMPXsj8mXz/Mu4HnD9fba4ROJFbsjtJ4LY9Tkd1mavQt/tnvQLVwq14i94jIEnd+UekCbW1qCoqmkST2KZfbOaiJFQJdCCW5Xv1LUWKc9gZFVsc/rFffERTMUEX/222Og=;K3G9zmqYzearKpP5yJ9CGw=="
 ---

@@ -21,21 +21,51 @@ topics:
   - AI
 
 related:
-  - title: "Should we fear facial recognition technology?"
-    excerpt: "The growing use of facial recognition technology has prompted calls for bans and stricter regulation around the world."
-    publishedDateTime: 2021-01-05T02:54:00Z
-    webUrl: "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
+  - title: "Local Police Force Uses Facial Recognition to Identify Capitol Riot Suspects"
+    excerpt: "An Alabama police department is using facial recognition software to help identify people who were present during the riot at the U.S. Capitol this week, one of its officers said."
+    publishedDateTime: 2021-01-09T03:53:00Z
+    webUrl: "https://www.wsj.com/articles/local-police-force-uses-facial-recognition-to-identify-capitol-riot-suspects-11610164393"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-283101/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T04:50:00Z
+    webUrl: "https://www.kvue.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.kvue.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
     quality: 59
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_1A94WQ.jpg"
-        width: 8194
-        height: 5463
+      - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "CORRECTED: Facial recognition identifies extremists storming the Capitol"
+    excerpt: "Trump supporters say that Antifa members disguised as one of them infiltrated the protesters who stormed the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-08T15:26:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 58
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Ann Arbor considering ban on police use of facial-recognition technology"
     excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
@@ -53,47 +83,89 @@ related:
         width: 3745
         height: 2500
         isCached: true
-  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
-    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
-    publishedDateTime: 2021-01-06T06:57:00Z
-    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
+  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
+    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
+    publishedDateTime: 2021-01-07T22:05:00Z
+    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
-        width: 900
-        height: 500
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
         isCached: true
-  - title: "Airport Screening While Wearing Masks? Facial Recognition Tech Shows Up to 96 Percent Accuracy in Recent Test"
-    excerpt: "A controlled scenario test by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) shows promising results for facial recognition technologies to accurately identify individuals wearing protective face masks."
-    publishedDateTime: 2021-01-04T19:30:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/airport-screening-while-wearing-masks-facial-recognition-tech-shows-up-to-96-percent-accuracy-in-recent-test/"
+  - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
+    excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
+    publishedDateTime: 2021-01-08T23:31:00Z
+    webUrl: "https://www.adn.com/nation-world/2021/01/08/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
+      name: Alaska Dispatch News
+      domain: adn.com
     quality: 35
     images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/09/44520092391_a1c12d166b_k.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://www.adn.com/resizer/6hlNomXm9Wyx1O2tjZc6-h6gu_M=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/adn/PJGQ2VB3IZH6FB7XO5ZMKJS7PM.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Facial recognition up to 96 percent accurate with masks in 2020 Biometric Technology Rally tests"
-    excerpt: "A facial recognition system similar to the one used by the DHS had a 96 percent biometric accuracy rate with masked faces in testing."
-    publishedDateTime: 2021-01-05T21:50:00Z
-    webUrl: "https://www.biometricupdate.com/202101/facial-recognition-up-to-96-percent-accurate-with-masks-in-2020-biometric-technology-rally-tests"
+  - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
+    excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."
+    publishedDateTime: 2021-01-07T18:40:00Z
+    webUrl: "https://www.snopes.com/fact-check/antifa-facial-recognition-capitol/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 34
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/01/eye-5814965_1920-e1610038979612.jpg"
+        width: 1200
+        height: 717
+        isCached: true
+  - title: "NJ man wrongfully arrested based on facial recognition sues police and prosecutors"
+    excerpt: "A New Jersey man has filed a civil rights lawsuit against police and prosecutors alleging racial profiling and misconduct in their use of face biometrics to arrest him, in the absence of other evidence,"
+    publishedDateTime: 2021-01-04T19:37:00Z
+    webUrl: "https://www.biometricupdate.com/202101/nj-man-wrongfully-arrested-based-on-facial-recognition-sues-police-and-prosecutors"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/05162022/social-media-databases-facial-recognition-police.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
+    excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
+    publishedDateTime: 2021-01-08T22:41:00Z
+    webUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/300201409/video-cellphone-and-facial-recognition-data-may-lead-police-to-us-capitol-rioters"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 33
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/c/p/x/image.related.StuffLandscapeSixteenByNine.1420x800.4yqcw1.png/1610145520138.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Government Users of Facial Recognition Software Sued by Plaintiff Alleging Wrongful Imprisonment Over Case of Mistaken Identity"
+    excerpt: "It has become commonplace for government agencies and law enforcement, particularly in large metropolitan areas, to use facial recognition software.  These entities are a major client base o"
+    publishedDateTime: 2021-01-04T21:11:00Z
+    webUrl: "https://www.natlawreview.com/article/government-users-facial-recognition-software-sued-plaintiff-alleging-wrongful"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
     quality: 26
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/biometrics%20facial%20face%20recognition%20cybersecurity_2_0.jpg?itok=1gtosM8X"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "Uaigiy9RUp4luaJsUJ+NwOrcM1AKJVunsKH6Xj8fdIel+9zcbN7q7UcrwLZi+LYiZzoz3U4bNW3w4Z61w+kg1g54tjSCqcqAonjv/R5KsskZUXfJsKxKGuNbkmCYmpGklBU89aG8+kNv1tGsdxoBSWQOeaQ2dNJxK6v3gg0CZAozan8VW9oPhb0JavJ0cYgiRAuN574HAxO1cZsdetFG1W3lN70cd34isEUde5EX73c3PqtFum0X8CSRoVX4E8BrGt7hks4VlU/7Ks3086+6N/P6Ss5Bc2ayMh0/Vt0ciOLBtaLSPQkN86/avbd/1APs/WA+6nlUi87pYqsxEXvDLPYYtVTGJIa1rmEN7z7HMBs=;a46xBBJMoRxeev+ZN8KKng=="

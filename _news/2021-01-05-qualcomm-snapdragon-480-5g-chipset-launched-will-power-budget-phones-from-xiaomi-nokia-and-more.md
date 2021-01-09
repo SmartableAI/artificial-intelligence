@@ -51,15 +51,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Qualcomm's Snapdragon 480 Blasts Low-End Phone Performance Forward"
-    excerpt: "Today Qualcomm announced the Snapdragon 480, its first 5G chipset for phones that generally sell in the $200 range in the US. Even if you're underwhelmed by 5G so far, though, the Snapdragon 480 has a lot to recommend itself,"
-    publishedDateTime: 2021-01-04T14:30:00Z
-    webUrl: "https://uk.pcmag.com/mobile-phones/130771/qualcomms-snapdragon-480-blasts-low-end-phone-performance-forward"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 34
   - title: "Qualcomm expands 5G capabilities of Snapdragon 480 mobile devices"
     excerpt: "Enhanced mobile platform line claimed to be able to accelerate global 5G commercialisation and deliver ‘series-defying’ features to mass-volume smartphone segment."
     publishedDateTime: 2021-01-05T10:53:00Z

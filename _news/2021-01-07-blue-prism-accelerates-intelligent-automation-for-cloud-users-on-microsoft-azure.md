@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
-publishedDateTime: 2021-01-06T23:02:00Z
-originalUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
-webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+excerpt: "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users"
+publishedDateTime: 2021-01-06T20:31:00Z
+originalUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
+webUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: BiztechAfrica
+  domain: biztechafrica.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
-    height: 250
+  - url: "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-01-06_at_6.42.51_PM.png"
+    width: 509
+    height: 249
     isCached: true
 
 related:
@@ -133,22 +133,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot AskDISHA improve satisfaction of customer interactions"
-    publishedDateTime: 2021-01-05T12:27:00Z
-    webUrl: "https://www.thehansindia.com/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
-    ampWebUrl: "https://www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-665442"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/01/05/1022921-microsoft-azure.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
     excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
     publishedDateTime: 2021-01-08T10:17:00Z
@@ -213,15 +197,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure UsersLONDON and"
-    publishedDateTime: 2021-01-04T14:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-1029930580"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
   - title: "Microsoft extends reach into healthcare: 13 things to know"
     excerpt: "Microsoft launched significant healthcare products in the last year and deepened existing partnerships to support healthcare providers during the pandemic. Hospitals across the U.S. use Microsoft's cloud service,"
     publishedDateTime: 2021-01-08T14:50:00Z
@@ -235,6 +210,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/5.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
+    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
+    publishedDateTime: 2021-01-05T13:15:00Z
+    webUrl: "https://www.imdb.com/news/ni63147427/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 54
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
   - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
     excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
@@ -316,6 +305,6 @@ related:
       domain: tcs.com
     quality: 29
 
-secured: "XCz8+80MmUKRTJzjp+OdGXskEJ/6+dQUk4B/NtwF4hz4tXWMCmr3I9RsZnX8e+Likh4j7KVG0Gsm1w0OEcFeVRX2DM2CY8S8xzO3uOPig8iSBBwGiSHWQh2s2fv8LQ88HTAeF0XU8kCn1AdHQOQ+yfpPBUZsSFQ4sFvEgkgaYLHE43KQtYHnWnziqSFzX6f4gFU+7XJttMxVjki4JW872GtLgBHHrmfBr5Ej3IJpDNVpnixFQB4XY6NhiCvG7VajTj9K0srkJtsqLt39gT6Erpz6c9HIK9QYrNEkEOhDBJJ82O3voni4i18vRnCb2x/fB/xynWKFy0MpkS6bacXk/18So7PuNBTWfsSRk65NiNE=;sbd0vx/2s7Iw/yZBCehrRw=="
+secured: "dCSwk/WOnD/zwP046VuPep/t7HOFARYzpSl8T3yDftu8aNrP84807q83NHZmImPOmdMbaQtCWucKbQYCKvHNX/BH66Gp14UXpoTOgTEhFPPp3+ZtiwYenNBf8Vqo+tSSR5RIYLNIGkobkxkI/Il/WXNoiP8u+qm4gnQbOf5HbKcyUIHLjIu5ZflwizowKnV76SHhYsu2q54gRzoLWe2x57EbvcSZFhAu4sq/z2LXCHDBXYOyT4ynFG2+6NASjDoNLKblNNftNXKi77Q82eo2lEgN0HxCsHXh+X8lUlbA0ENN+jeIqiZRkqxV/9nd02mMoOWq8TBOgAAQig1kjnZmTpydKLiKu0FimkzEV2pp+Tg=;FBsPXdfeWpDQVOeyZodTZA=="
 ---
 

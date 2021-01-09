@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-ii-h
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-ii-hedging-the-cloud/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,38 +23,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Data 2021 Outlook Part I: What’s ahead for AI and Cloud Data Warehousing"
-    excerpt: "Responsible AI” is at the beginning of a long slog, while Cloud Data Lakehouses will supplement but not replace Data Warehouses or Data Lakes."
-    publishedDateTime: 2021-01-04T13:04:00Z
-    webUrl: "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2021/01/04/4ac23f0e-f51b-40de-b89b-01595216f758/21-is-going-to-be-a-good-year.jpg"
-        width: 630
-        height: 630
-        isCached: true
-  - title: "AI and data science predictions for 2021"
-    excerpt: "Artificial intelligence saw rapid growth in 2020. The global pandemic and the resulting digital transformation forced upon companies and individuals as we moved from offices to homes accelerated AI usage and development."
-    publishedDateTime: 2021-01-05T11:02:00Z
-    webUrl: "https://dataconomy.com/2021/01/ai-data-science-predictions-2021/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 37
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/01/ai-data-science-predictions-2021.jpg"
-        width: 1920
-        height: 768
-        isCached: true
 
 secured: "mwFajaNYI+oqp4ei4Gl3DKRff6QEmGD8sDICOOmlFAVArJhBiyGTKHAbiKHVPE9rKX5nyfgfwJQ/BR0XqFDR3X0CxzCb86VLVKIUCdD8PfafdUs7qncM7z7dg4bUcMnhz2S9A6DFRHPaErpMfiWwcKcY87EZMruVtlBFdAEEhIFeqTuRnHHfBGyv5Yvc+fVNILnaLJr+C0fm5lwpBz3HiHCxAiUBqZPURPutxvJN00/Ag3q9fgin25jS3D/z6aKsQfi+3LeBmRuYtLm3h6K+aQY156vIFshgWQXQvLrfJ/hipPanz1DTmrmOvAZGT6HZ2krduTNY84wyV3nSYteyPnkj3JfZ0DT9fe87RjKB0KGpk3utMvCPlAllOWHjnylE5RGNPaVPy6Iee33OQWb9ed9ljmFXMmIU8Q6U74LXfukcCuuS3EFuElGRjFLAqVZIwrfkN5PIbJtZeyNLGQi9uU8C4naim4bcwJCp+8t2DZMn8wqjwpkX9NqSd5UmT81oHo5nNliI79M5yCf36SrjXA==;OOE2y/xKRX7zAK7Spdwfxw=="
 ---

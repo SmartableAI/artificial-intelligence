@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Temasek-Fund-Backs-Indian-Start-Up-Bringing-AI-Technology-To-Farms.jpg"
         width: 763
         height: 509
-        isCached: true
-  - title: "AI Clearing Raises $2M in Seed Funding"
-    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
-    publishedDateTime: 2021-01-04T17:32:00Z
-    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
-        width: 1920
-        height: 969
         isCached: true
 
 secured: "mQVE2vgtChvFeOzZbR65Z/+23uPv504jJDgG5AlaifHM/7o9LtWLzBAMzc8FBLCS5FIT0v/ubFEwBMdKZLMZfmDAjcHmWmYBSr3srEEqQgMSAXPvBsIdVc9Fj8mxMr3su1pCg25oddvcrycznQeGqSMqlFc7+zvz7ox+S0a9xSSc3qR1ygE7Q1zdO8xxqckaJgw2fcyRiMz3x0ci2A0rNsS/5mqpARXFDvB5cqT7IdalioZCZ9Fv/1IKtgkDcVBiWYe7n3e+oXK7ZbCLDBBxCP5Js3qn9ispWX5jROfgCadNUrn47iOHOnhtv9Re55K6YcoyX0cVXm1jg428FlmlqUm3FzeTDQE5OXpf0XYqNycWpZK8PF6ueL3l5qe/AOX36vm1G6kDNgnYDG4y0Euecx5pXupw0APPrHCZLkOGsQXz89FVXXO67Mv4v+4pLHNkXxcLKKekFn5f7cZJetgGpbnxySMqwWSry7qRE4fp99VcvY+0HV1/RZVmY0AIDkJh3iyo2BQO6LqV9IiLaUXhAg==;vSbvs+iAptwzs96m5fBK0w=="

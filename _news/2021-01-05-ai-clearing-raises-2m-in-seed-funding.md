@@ -24,70 +24,123 @@ images:
     isCached: true
 
 related:
-  - title: "Temasek Fund Backs India Startup Bringing AI Technology to Farms"
-    excerpt: "CropIn, an artificial intelligence and data-based agritech startup, has raised $20 million in a funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in farming."
-    publishedDateTime: 2021-01-06T08:34:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
+  - title: "AMP Robotics raises $55M for its AI-based recycling robot"
+    excerpt: "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,"
+    publishedDateTime: 2021-01-04T19:00:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 99
+  - title: "Recycler AI maker AMP Robotics raises $55M in Series B"
+    excerpt: "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group."
+    publishedDateTime: 2021-01-04T22:43:00Z
+    webUrl: "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/"
+    ampWebUrl: "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/"
+    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/"
+    type: article
+    provider:
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 89
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBCBhH8vKSWs/v0/360x-1.jpg"
-        width: 360
-        height: 240
+      - url: "https://www.dailycamera.com/wp-content/uploads/migration/2016/0429/20160429_02dcbpretw-1.jpg?w=1024&h=670"
+        width: 654
+        height: 436
         isCached: true
-  - title: "Temasek Fund supports the start of India with AI Technology to farms"
-    excerpt: "(Bloomberg) – CropIn, an artificial intelligence and data-based agritech startup, has raised $ 20 million in funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in agriculture."
-    publishedDateTime: 2021-01-06T09:45:00Z
-    webUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
+  - title: "AMP Robotics raises $55 million to advance its waste-reducing mission"
+    excerpt: "Denver-based AMP Robotics has raised $55 million for its AI-powered system which aims to reduce global waste. Coming off the hottest year on record, with the US experiencing its first-ever “gigafire”,"
+    publishedDateTime: 2021-01-04T19:54:00Z
+    webUrl: "https://iottechnews.com/news/2021/jan/04/amp-robotics-raises-55-million-advance-waste-reducing-mission/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 69
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/amp-robotics-ai-arm-iot-recycling-green-tech-artificial-intelligence.jpg"
+        width: 1000
+        height: 647
         isCached: true
-  - title: "Startup Jobs | [24]7.ai steps up hiring in India amid the pandemic"
-    excerpt: "New Delhi: [24]7.ai, a customer engagement solutions provider, has stepped up hiring amid the Covid-19 pandemic, adding as many as 2,500 people to its workforce primarily at its B"
-    publishedDateTime: 2021-01-06T19:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/startup-jobs-247-ai-steps-up-hiring-in-india-amid-the-pandemic/articleshow/80141679.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/startup-jobs-247-ai-steps-up-hiring-in-india-amid-the-pandemic/amp_articleshow/80141679.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/startup-jobs-247-ai-steps-up-hiring-in-india-amid-the-pandemic/amp_articleshow/80141679.cms"
+  - title: "Amp Robotics raises $55M in financing"
+    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
+    publishedDateTime: 2021-01-04T18:33:00Z
+    webUrl: "https://www.cdrecycler.com/article/amp-robotics-raises-55-million-investment/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: C&D Recycling
+      domain: cdrecycler.com
+    quality: 69
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-100060,msid-80141682/business-recovery-getty.jpg"
-        width: 600
+      - url: "http://www.cdrecycler.com/fileuploads/image/2021/01/04/dreamstime226235---dollar-sign-blue-backgrd.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
+  - title: "Updated: Amp Robotics raises $55M in financing"
+    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
+    publishedDateTime: 2021-01-08T11:24:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 69
+    images:
+      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
+  - title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in a Series B financing, led by XN with participation from new investors Valor Equity Partners and GV as well as existing investors Sequoia Capital,"
+    publishedDateTime: 2021-01-05T10:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-environmental-equipment-and-services-coronavirus-pandemic-environment-0b75f48fd5eb4716ae3051d7b57feb76"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 59
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
-  - title: "Temasek Fund Backs Indian Start-Up Bringing AI Technology To Farms, Economic News And Top Stories"
-    excerpt: "The agricultural AI start-up headquartered in Bangalore provides Software as a Service or SaaS products to agricultural companies and development organizations worldwide to improve crop predictability,"
-    publishedDateTime: 2021-01-07T07:55:00Z
-    webUrl: "https://www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/amp/"
+  - title: "AMP Robotics Closes $55 Million In Funding"
+    excerpt: "AMP Robotics — a pioneer in artificial intelligence (AI) and robotics for the waste industry — announced it has raised $55 million in Series B funding."
+    publishedDateTime: 2021-01-08T21:20:00Z
+    webUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/"
+    ampWebUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
+  - title: "Trash-Sorting AMP Robotics Closes $55 Billion in Series B Funding"
+    excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
+    publishedDateTime: 2021-01-08T18:31:00Z
+    webUrl: "https://cheddar.com/media/trash-sorting-amp-robotics-closes-55-billion-series-b-funding"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 54
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Temasek-Fund-Backs-Indian-Start-Up-Bringing-AI-Technology-To-Farms.jpg"
-        width: 763
-        height: 509
+      - url: "https://img.chdrstatic.com/media/e417fd3a-0f59-4263-8c50-a71c64f6dad2.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "After strong 2020, Denver recycling robotics startup rings in new year with $55M Series B funding"
+    excerpt: "On the back of a strong 2020, the company has closed a large funding round to scale its business to meet a growing demand."
+    publishedDateTime: 2021-01-05T16:34:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "fEIffgt3lNKcXsm97RfD2ithMtEmbaTnCLMNuZv1+IAx9vd/eKn//+yfQZ+TyGjj2+Ost2RFoGQeeVA0L3Owr+r8hqysZOiGg2FJUvuP4CaCSp6UAuM4QLiOm2lAf2Arh1MX09dncXeXPvRwJm0ZO81WpftFqkjwF3xVe+hcRUraXv0ZZrO6lTGU2mZqzlIOLpL54I4ObCWcC9Ecm9Qr0ATaFAhZi3MHL6s9D9PMWuqrSvltwnEeTQBAhltFgbL3SQM/G64T7mqkMGTn8JLKmfG0KHz1s6xgmLGCI8l3KlVdGNHUPfOIchrlYpUjJEJ/q7MPSHR+ff0CiMx9wb+uAEu7kxzBlKWZyHRMs07uM4U=;Bumg/sQvftU5V1ZrnK5xgA=="
 ---

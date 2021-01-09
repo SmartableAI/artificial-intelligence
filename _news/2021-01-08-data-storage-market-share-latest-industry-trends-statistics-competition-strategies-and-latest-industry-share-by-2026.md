@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-storage-market-shar
 webUrl: "https://www.marketwatch.com/press-release/data-storage-market-share-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-01-08"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Natural Language Processing Market Statistics, Future Plans, COVID-19 Impact Analysis, Competitive Landscape and Trends by Forecast 2023"
+    excerpt: "The global natural language processing is growing continually. The market growth attributes to the increased adoption rate of NLP technology across various industry verticals. Besides, the growing demand for M2M translation and increasing application areas ..."
+    publishedDateTime: 2021-01-06T14:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-statistics-future-plans-covid-19-impact-analysis-competitive-landscape-and-trends-by-forecast-2023-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nHO3ejLSGKKtSEstEIpMPtGjcnq26IGezQJPyujaNKYI7CV4Co8svTI8AHOx6ro7R0I//NxLneVga2QuPu0hQ2yMxwHLsL1Am3wgtiuF+MKzdlWh9qB5dS7Sm4zIcDmNqqOIUWjt+IN0T/g/3IazGJfccTfNmi1sOpkDjcuBgCKxVWui9yGiBswe3cx2Mn0D9FThPtqsxY5s2cQ7MwFJdqAR5aIEqRuyMUxcaIRWqiQgw06Plte7Ex8xwCvnoFVXUM/8nWvfi9j/OwpUOeQ5Muc3DLXCt6lsqKQqZNJFOOFHuLtsKRyyfPCrF71ZKtP1esNGRZHTrwG+rr/GSLfDjgfLs64eJh+g3K8njOfzwP8=;6zTYNZMKzoKGCDiD7KPiZw=="
 ---

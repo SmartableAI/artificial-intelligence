@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Qualcomm's Snapdragon 480 Blasts Low-End Phone Performance Forward"
-    excerpt: "Today Qualcomm announced the Snapdragon 480, its first 5G chipset for phones that generally sell in the $200 range in the US. Even if you're underwhelmed by 5G so far, though, the Snapdragon 480 has a lot to recommend itself,"
-    publishedDateTime: 2021-01-04T14:30:00Z
-    webUrl: "https://uk.pcmag.com/mobile-phones/130771/qualcomms-snapdragon-480-blasts-low-end-phone-performance-forward"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 34
   - title: "Qualcomm Snapdragon 480 5G chipset launched: Will power budget phones from Xiaomi, Nokia and more"
     excerpt: "Qualcomm Snapdragon 480 5G chipset launched globally. Will power budget phones from Vivo, Oppo, Xiaomi, Motorola, Nokia and more."
     publishedDateTime: 2021-01-04T16:38:00Z

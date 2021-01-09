@@ -24,31 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Why Baidu Stock Soared 55.6% in December"
-    excerpt: "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters"
-    publishedDateTime: 2021-01-04T14:13:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/"
+  - title: "Artificial Intelligence Consortium receives over $1M in research funding"
+    excerpt: "Dhireesha Kudithipudi, founding director of the MATRIX AI Consortium for Human Well-Being, and the Robert F. McDermott Endowed Chair in Engineering, was recently awarded $1,481,697 in combined funding for her research in lifelong learning."
+    publishedDateTime: 2021-01-06T12:58:00Z
+    webUrl: "https://www.utsa.edu/today/2021/01/story/ai-consortium-funding.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: University of Texas at San Antonio
+      domain: utsa.edu
+    quality: 36
     images:
-      - url: "https://media.ycharts.com/charts/62e0770e28ee8c68be6d542e0b5127e7.png"
-        width: 720
-        height: 419
+      - url: "https://www.utsa.edu/today/2020/images/kudithipudi-dhireesha_680.png"
+        width: 680
+        height: 560
         isCached: true
-  - title: "Check out the hires and layoffs in the North Texas tech and startup scene from December"
-    excerpt: "While the national attention seems focused on the big-name tech moves from coastal hubs to places like Austin and Miami, the North Texas tech and startup scene saw its fair share of personnel moves before closing out the year."
-    publishedDateTime: 2021-01-04T16:50:00Z
-    webUrl: "https://www.bizjournals.com/dallas/inno/stories/roundups/2021/01/04/dfw-tech-startup-hires-departures-in-december.html"
+  - title: "UTSA Artificial Intelligence Consortium receives over $1M in research funding"
+    excerpt: "These awards will fund Kudithipudi's ongoing research developing novel brain-inspired lifelong learning algorithms and systems. Her approaches attempt to close the performance gap between modern artificial intelligence (AI) systems and biological systems,"
+    publishedDateTime: 2021-01-07T17:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uota-uai010721.php"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/252922_web.jpg"
+        width: 680
+        height: 560
+        isCached: true
 
 secured: "E0FNXrE4WWyyp0f7aPn1INYNI2RDm+W5Ffe0Wj6Y4C4UbdEBPURNweNpWCCs4qFfJ7GDXw7bi1L5k/kZY33f/2xj/nCZuNlHrLApLM4NR+TiYO3q0L4Ez08APxLORzf24OVID63v4M9w97PnFVSZHrpwd2dRjOCSMY/r2fD0RfjTvwuMyx8CGkseWogPp/11MGztQHy79b3/WqQhClGsctKT1yXNzr7ydb2ygovFHOibJPdTAlMWkj5dXraOc48HscrHVWFO3qQmzYYdaeM7y/03WIlXExsXwIgKlQbR77FosYDNFI+ClFKvLSqxMY2Ws8JNzDrBsMeGrOaVgrdv3Yh0ejAg+68nORvAWGyakWxKSuS8PX2TIktJECPmwmpdXmwhDhytd3MuzwWUwlPPRBh0fiEBmVEc6jfrkPuvn2Wbyk/a5BN4iTQKqdXFONIpzJfOdG6XhofOnoOkHlO/daNAQ8TKo5txWHiBbmzXdUF+c9YolPv/2rrH4b8IUed7ZiyhBWtxFkLc0hY33XtiNQ==;26BPRxpo761/ZliZDp/GQQ=="
 ---

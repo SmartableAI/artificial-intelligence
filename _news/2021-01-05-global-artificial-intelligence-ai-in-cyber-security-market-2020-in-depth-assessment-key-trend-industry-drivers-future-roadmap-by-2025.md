@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025-2021-01-04"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Hardware Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2027"
+    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) Hardware Market Size study, by Technology (Machine Learning, Computer Vision, Natural Language Processing,"
+    publishedDateTime: 2021-01-05T12:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2027-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Gesture Recognition Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Automotive Gesture Recognition Report\" provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2021-01-06T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-current-and-future-industry-trends-2020-2026-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cybersecurity Market to Witness Massive Growth | Darktrace, Cylance, Securonix, IBM"
     excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence (AI) in Cybersecurity market’ Report @ Key Segments Studied in the Global Artificial Intelligence (AI) in Cybersecurity Market At the beginning of 2020,"
     publishedDateTime: 2021-01-06T04:44:00Z

@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Waymo CEO: Launching a self-driving car is harder than launching a rocket"
-    excerpt: "In an interview with the Financial Times, Waymo's CEO has opened up about the realities of self-driving vehicle development. It's the new rocket science."
-    publishedDateTime: 2021-01-04T14:49:00Z
-    webUrl: "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/"
-    ampWebUrl: "https://thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/01/04/waymo-ceo-launching-a-self-driving-car-is-harder-than-launching-a-rocket/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 88
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/autonomous-driving-teacher-waymo-tesla-feature-level-self-driving-796x448.png"
-        width: 796
-        height: 448
-        isCached: true
   - title: "Waymo is dropping the term 'self-driving' in an apparent shot at Tesla's controversially named software"
     excerpt: "\"Unfortunately, we see that some automakers use the term 'self-driving' in an inaccurate way,\" the autonomous-driving firm said Wednesday."
     publishedDateTime: 2021-01-06T22:11:00Z
@@ -304,22 +288,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "A Tesla crosses California in complete autonomy with the beta version of Full Self-Driving"
-    excerpt: "Tesla’s full self-driving platform seems to be evolving over the months. A video recently posted on YouTube shows a Tesla Model 3 traveling from San Francisco to Los Angeles without human intervention."
-    publishedDateTime: 2021-01-04T13:55:00Z
-    webUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/"
-    ampWebUrl: "https://galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047143/a-tesla-crosses-california-in-complete-autonomy-with-the-beta-version-of-full-self-driving/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 49
-    images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/tesla-model-3-1024x538.jpg"
-        width: 1024
-        height: 538
         isCached: true
   - title: "Watch Tesla's Full Self-Driving Navigate from SF to LA with (Almost) No Help"
     excerpt: "Driving might still be in beta, but that isn’t stopping early adopters from using it for autonomous trips... well, almost. As Teslarati describes, Tesla enthusiast Whole Mars Catalog has posted a video showing their FSD-equipped Model 3 completing a trip from San Francisco to Los Angeles with virtually no interventions."

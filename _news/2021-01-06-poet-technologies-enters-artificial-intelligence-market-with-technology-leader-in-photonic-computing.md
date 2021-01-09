@@ -49,15 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
-    excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as ‘mask-friendly,’ ‘social media’ and ‘natural self-care.’ This press release features multimedia."
-    publishedDateTime: 2021-01-04T13:47:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210104005321/ai-technology-uncovers-the-real-winners-of-2020-beauty-awards"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "14GsAmbpE3K859qPr8ETNMnXb7DhFEWU1bjrOrfcPuZ5PX/w+ErhPrnzokJ7uC/YmsM0Erne5iPslLqFv8GWf9MBAYG1Uwm3s3cRAmkQ+a1jYWK4nwki9nNBCsCyXvaYQs+P9gplclgVa7rIxIslTDXM6ad8GsPyv6Cce69XWU7y2QXVhJSMEvr+ndEg+vIZ2dAd3yD+REMsuddO+W8nyKFLr2I9/0RhyVwBmZe6/v4EimBBt3O9rlH/ds0z5afqLgzoj/JTf0YzlBibeoWAn7MmaZMwftAjJTNA1nFLgb88Mus/qtM0/RnRK7sKhrA5PZsxRbkHI178a94JpM6kXhM7ZL7uVu4MQ4syrHvY6mk=;EGoEa0yiYULzI5+l0STQLw=="
 ---

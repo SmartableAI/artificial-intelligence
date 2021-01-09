@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/goo
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "What COVID Means for Biotech Compute Investments in 2021"
-    excerpt: "Don’t expect big on-prem HPC hardware investments from biotech companies given COVID drivers. While storage and more nuanced GPU deployments will push"
-    publishedDateTime: 2021-01-04T14:19:00Z
-    webUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/"
-    ampWebUrl: "https://www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/04/what-covid-means-for-biotech-compute-investments-in-2021/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_333911597.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "CbMY35sGNS4jCTGGHJ5YZpLITFtywIILsIf2S6D9bBLMySduxciBiOYtuqLKOYg4tz3lM6vvPBzWNP5/Ed2DiCtKORLjS3EwSU3J2IkwmfJSwr8ssvtCqGk4ZDZF+RjiFvwNjsBCV8egx2de9s4CaVRfsuUaSv9cKrOJkNIGxKiN+eShmtomiDn5EVMoXmyYR9K7QiRbde1iTntmLsPQWrpSRl9JNRmCXqMp0urvx2aRcLtbGr0u0UzmG5GKPacJaEK0nArpi/kV0fB5SDZbd1V2Y4wVT3463GsIbiGfklA0Dsb0CFdY/cZkvopRfgSGy/IcYF/Tzonfnl4AHf438KWAUOklvha95c6okDIyaes=;5Y3A36lW96Lw7Y/HJTgiDQ=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMP Robotics raises $55 million for AI that picks and sorts recyclables"
-    excerpt: "AMP Robotics, a startup developing robotics systems that pick and sort recyclables, has raised $55 million in venture capital."
-    publishedDateTime: 2021-01-04T13:02:00Z
-    webUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/"
-    ampWebUrl: "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/IMpact-20-2020-Amp-Robotics-AMP-9-3-e1609706384371.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AMP Robotics raises $55M for its AI-based recycling robot"
     excerpt: "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,"
     publishedDateTime: 2021-01-04T19:00:00Z
@@ -135,6 +119,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Clearing Raises $2M in Seed Funding"
+    excerpt: "AI Clearing, Inc., an Austin, Texas-based ConstructionTech startup, raised $2m in seed funding. The round was led by Tera Ventures, with participation from co-investors Inovo Venture Partners and Innovation Nest."
+    publishedDateTime: 2021-01-04T17:32:00Z
+    webUrl: "https://www.finsmes.com/2021/01/ai-clearing-raises-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/01/Example-of-AI-Clearing-Dashboard-1.png"
+        width: 1920
+        height: 969
+        isCached: true
+  - title: "After strong 2020, Denver recycling robotics startup rings in new year with $55M Series B funding"
+    excerpt: "On the back of a strong 2020, the company has closed a large funding round to scale its business to meet a growing demand."
+    publishedDateTime: 2021-01-05T16:34:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "p8lrQIew6Wd2FICfJJg+lykHkaEGe0tG0S7gSaJC35FBVbmX8r+kYbwBFMYFvU5tkbDJiPF59gXmvNC6PNoSlnKdcLOIQXh+2B5bpX0LtT3VMr3e0s423+Ew4BGhLgo+TGKHBoBGB92nIZQY4wAgH2qFlPWWeHU4+xgDtoGjuT6JVZPl2+i+dIrlW1tHY8LdAqHJCDDsFxlraRz0Rd0L9RMbdQvI4/SdnMRxHGD4D3Z/o6QnFcRTzHqQfBFTDK6jTPF2VNwDgOdqiDRJpjxoSUHTRc8wmd0xAnmXAs6B+5hqphfhyxL+9ELoKOXyg+Svm8HDkNwYCV2HtMK1IU3HKZcPcaQdT5iayDeaw1mP4/G1zfLVL0knOPQyyyNPKRy/kXIPYaMXB3ewcF2xQSnRr5cjMz2GvtRsHdk3Fl1C9nluFQE7voMnYk0CEGQqeFzxzC5Wzi6bQXcKNRB0eUNj+B6mxsooYGTIvxfTSlFU9AqFyjewX9lhp9FyKeAqn+tJ2LthaP0MtPSzDdNCI6dyuQ==;sbA9f9qXAIHWjxcj4nY9lg=="
 ---

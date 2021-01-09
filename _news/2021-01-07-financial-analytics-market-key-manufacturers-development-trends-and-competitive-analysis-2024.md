@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing (NLP) Market 2020 – 2027 | Future Trends, Historical Analysis, Competitive Landscape and Regional Forecast"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
-    publishedDateTime: 2021-01-05T11:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-future-trends-historical-analysis-competitive-landscape-and-regional-forecast-2021-01-05"
+  - title: "NTT DATA Services to Acquire Hashmap to Advance Analytics, AI and Machine Learning Solutions"
+    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise"
+    publishedDateTime: 2021-01-05T01:04:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18742-ntt-data-services-to-acquire-hashmap-to-advance-analytics-ai-and-machine-learning-solutions"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Deep
+      domain: thefastmode.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.thefastmode.com/media/k2/items/src/bf7fe686ee4b089704a5151276041181.jpg?t=20210105_005921"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Natural Language Processing (NLP) Market 2020 - 2025 | Development, News and significant Growth With Regional Trends By Forecast"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2021-01-05T18:09:00Z
-    webUrl: "https://menafn.com/1101386371/Natural-Language-Processing-NLP-Market-2020-2025-Development-News-and-significant-Growth-With-Regional-Trends-By-Forecast"
+  - title: "8 Business Intelligence & Analytics Tools To Check Out In 2021"
+    excerpt: "Keeping the industry abreast, we have come up with a list of business intelligence and analytics tools that one can check out in 2021."
+    publishedDateTime: 2021-01-07T07:33:00Z
+    webUrl: "https://analyticsindiamag.com/8-business-intelligence-analytics-tools-to-check-out-in-2021/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849361"
-        width: 450
-        height: 250
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/8-Business-Intelligence-Analytics-Tools-To-Check-Out-In-2021.jpg"
+        width: 1600
+        height: 1200
         isCached: true
 
 secured: "sTUqb9ivMd5QFFUproTovUGHR9lcqogJXm1BOUaMLiUtwB4OT36U74EYImuPosEol4xMeukfu8q4PMYpvRgfueYJ6OFNPZCph0oVH3o6rt8JdMLoG/injOTLBa2DyjuvQIwjldyhhVKbnvITKiY/NaXiRlMM3EEQX7V94AL7urUZpJTQgJlUt5qFrFSqIsPHxp+Z4kCeb9Tg8wRhTURPFfy20c9CJActRRGB4pyg69grbcZ/9IykCCZOow5hcWYA4TisXbhsIwyzARgrsgl34WTuCC0FSujLRD4rqDs6a0+lDYB0DD6tohvQS7TWkQH3BTFKdNU+pK8QcOrU4W+RkSXAQ88ChLmLzURYwvZ4WgY=;nEX1fmqRcaT016eaZXQUzw=="

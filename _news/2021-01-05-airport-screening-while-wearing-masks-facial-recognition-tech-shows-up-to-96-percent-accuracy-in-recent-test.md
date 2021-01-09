@@ -41,22 +41,6 @@ related:
         width: 8194
         height: 5463
         isCached: true
-  - title: "Ann Arbor considering ban on police use of facial-recognition technology"
-    excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
-    publishedDateTime: 2021-01-07T15:42:00Z
-    webUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 43
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LRAIIY7Z5REOPG7ZNW2XLR2YQY.jpg"
-        width: 3745
-        height: 2500
-        isCached: true
   - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
     excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
     publishedDateTime: 2021-01-06T06:57:00Z
@@ -85,17 +69,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Using Video Surveillance & Facial Recognition Technology to Identify Individuals Involved In Attack on U.S. Capitol"
-    excerpt: "ATTN MEDIA OUTLETS FOR IMMEDIATE RELEASE Thursday January 7 2021 Contact Thomas Carnevale Email tcc umbrellatech co Phone 630 270 3313 USING FACIAL RECOGNITION AND VIDEO SURVEILLANCE TO IDENTIFY INDIVIDUALS INVOLVED IN THE U S CAPITOL ATTACK Thomas"
-    publishedDateTime: 2021-01-08T08:35:00Z
-    webUrl: "https://www.openpr.com/news/2222088/using-video-surveillance-facial-recognition-technology"
-    ampWebUrl: "https://www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "lI4vBTk91RrzD3FGIi+K/BUg81JjmNKZuB9V42JvUuZpVuLXZVkG6rObAdSJjOwjvY/hTjv0wJqav4g1xv70CLzzahqa0kynUHFVyig/zG/9W1xvykA6ygia+DF83N+jJl+HosXdKu8Z/XqnmcUbtYezR1hcdUzRwfP8Kv4c83X7u4IffqEAvZxsP1vE6JW669o4nZ1mBB0UeVyxfPkkqKtVUN9kzBcVUixEJLfmIbqJD8XiDhx79NK+lFqbJHyhsQ757QMRsohTPQETQ0PzZWpbc5B5vlfBRh7iTtNVQETOPdQLi+6NliVrYnYwXsO+cDPpPKn04vSN+pcCMyPL1SQU4yfZ5FWC0OEDlmZi7XgPI8yLeYIMsIZvcXSSakEABP0d9Z7URSfgAECrTDlQpmQYBuU2M/vati2j1EzUVrUi0JLb8zb/aCAnslia6N8vmSfME7acYAc7ZbTG0/aQLKFypa54WiH6iwh3Ui2bElPv2Bw9nTtpLRYWGdgjHsU+dsehfBeNjyAWEOG/kOtkVw==;SZ+Wfp2iABuUrlEED4o4bA=="
 ---
