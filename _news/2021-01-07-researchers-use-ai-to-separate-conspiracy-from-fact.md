@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-f
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Salk researchers use artificial intelligence to make strides in understanding the brain"
-    excerpt: "Researchers at the Salk Institute of Biological Studies in La Jolla have published a paper detailing their advancements in artificial intelligence, further tying together the fields of AI and neuroscience."
-    publishedDateTime: 2021-01-04T22:00:00Z
-    webUrl: "https://www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain"
-    ampWebUrl: "https://www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain?_amp=true"
-    cdnAmpWebUrl: "https://www-lajollalight-com.cdn.ampproject.org/c/s/www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain?_amp=true"
-    type: article
-    provider:
-      name: LA Jolla Light
-      domain: lajollalight.com
-    quality: 66
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b8beed/2147483647/strip/true/crop/640x418+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F6a%2F157316714b659f0ea17a3539a225%2F0107-mira-bela-gowda.jpeg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "$3.3 million grant funds researchers' work in artificial intelligence, oral cancers"
     excerpt: "An international team of researchers, including from Case Western Reserve University, has received a $3.3 million grant from the National Cancer Institute to apply the investigative and predictive capabilities of artificial intelligence in oral cancer treatment decisions."
     publishedDateTime: 2021-01-05T19:00:00Z

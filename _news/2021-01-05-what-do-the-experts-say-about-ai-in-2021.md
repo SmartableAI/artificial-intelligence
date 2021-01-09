@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tech in 2021: Debate on AI ethics to zero in on human oversight and accountability"
-    excerpt: "SINGAPORE - The deployment of artificial intelligence (AI) technologies will continue unabated. From automating driverless cars and factory operations to detecting cyber threats and fraud to predicting diseases and customer profitability,"
-    publishedDateTime: 2021-01-04T22:47:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/tech-in-2021-debate-on-ai-ethics-to-zero-in-on-human-oversight-and-accountability"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 50
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/05/untitled-1_1.jpg?itok=6AJbpxag"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Where Are GPUs Headed in 2021?"
     excerpt: "GPUs moved into smartphones in 2006 and revolutionized mobile devices. Game consoles used early GPUs back in 1996, and CPUs got GPUs embedded in them in 1991. The range and depth of graphics processors is enormous and stretches to supercomputers and AI—the grammar editor in Word runs on Nvidia GPUs in Microsoft’s Azure cloud system."
     publishedDateTime: 2021-01-05T21:15:00Z

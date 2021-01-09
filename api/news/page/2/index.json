@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-08-ensuring-healthcares-innovation-boom-benefits-all-equally.md",
+      "title": "Ensuring Healthcare’s Innovation Boom Benefits All Equally",
+      "excerpt": "She shared thoughts on three areas of innovation that have seen some of the biggest leaps in the past few years. While there might be a drop off in telehealth visits once the pandemic subsides, it has undoubtedly become a mainstay of medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/",
+      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff36dd3d14853f3a8a00b35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D198%26cropY2%3D3278",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/amp/",
+      "publishedDateTime": "2021-01-07T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-investors-should-watch-this-newly-listed-ai-company-heres-why.md",
+      "title": "Investors Should Watch This Newly Listed AI Company. Here's Why",
+      "excerpt": "C3.ai is a leader in bringing artificial intelligence to bear on enterprise-level problems, and the market for what it offers is only going to grow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606999%2Fartificial-intelligence-ai-getty-6217.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
+      "publishedDateTime": "2021-01-07T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-a-facial-recognition-company-says-that-viral-washington-times-antifa-story-is-false.md",
       "title": "A Facial Recognition Company Says That Viral Washington Times “Antifa” Story Is False",
       "excerpt": "Matt Gaetz had cited the story in Congress as supposed evidence that antifa was involved in the Capitol assault. But the company says it’s “outright false.”",
@@ -416,50 +519,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021.md",
-      "title": "Five real world AI and machine learning trends that will make an impact in 2021",
-      "excerpt": "Experts predict artificial intelligence (AI) and machine learning will enter a golden age in 2021, solving some of the hardest business problems. Machine learning trains computers to learn from data with minimal human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295",
-      "originalUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1",
-      "publishedDateTime": "2021-01-07T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
       "title": "EV Dreams Power Baidu but May Not Last",
       "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
@@ -659,7 +718,7 @@
       "originalUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1157,50 +1216,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-washington-post-live-to-host-artificial-intelligence-in-health-care-with-presenting-sponsor-ge.md",
-      "title": "Washington Post Live to host “Artificial Intelligence in Health Care” with presenting sponsor GE",
-      "excerpt": "Speakers will discuss how artificial intelligence is changing how doctors work, drugs are developed, patients are diagnosed, surgeries are performed, and how it is used in the fight against COVID-19",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/",
-      "originalUrl": "https://www.washingtonpost.com/pr/2021/01/06/washington-post-live-host-artificial-intelligence-health-care-with-presenting-sponsor-ge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3MYCH5NHFATBHOE3UOHHJL67Q.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
-      "publishedDateTime": "2021-01-06T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

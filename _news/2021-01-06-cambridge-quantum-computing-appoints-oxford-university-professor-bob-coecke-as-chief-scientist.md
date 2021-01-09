@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist"
-excerpt: "PRNewswire/ -- (CQC), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke"
-publishedDateTime: 2021-01-06T08:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
+excerpt: "PRNewswire/ -- Cambridge Quantum Computing ( CQC ), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke as its Chief Scientist."
+publishedDateTime: 2021-01-06T02:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210106ln36851/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210106ln36851/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist"
 type: article
-quality: 12
-heat: 12
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Cambridge Quantum Computing Appoints Oxford Professor Bob Coecke as Chief Scientist"
@@ -35,6 +29,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "GIWKnCnmOa88OO/9zwt/D5krOzfVU3idSIdZgjXzDkJxXEGEUcHgnlzK8E9q2j0qOpn5SlRX2E3SmYQCO/YfuZXSKpOPOf5DBxXHuKazti0NxLak9rIns36DKDomKzCTR6MMe3oeGvWXG5OjWMZca6hlz3BWzk1Kz4ITtLTE89mBIrMzbvhrRzNr92DL9+9daexmIGOhLxRiwIgJjDHMj/Zae1qMrs573n/5mhETZIXcrAPhFlI+OJHYV+hOGGJIIoLO+uR1H4Ux9FT73AZls8KVCO242zGvxCSDYI6egg6THCpkXZ/PBV0YxcWAtMiA/hrLsyRPjcm9E4dlYgmokSlZlpB1reWOZhD9nyv2PfU=;I0eyzJRXXTCbbI6Rr84OLA=="
+secured: "PXK4eMxbkK7yHzkun9prlLVZLcwMG/aGit87asuSjjcAGFqgcRbui/eCkPeSqGge2JnlYNpeKtkuSU/NXLC93g/c8ZAPVUOKxq9PUVjslEGDhCobyuAxDESYupA+k1EyxKy88C9FmYssJybGkb6ty96lMT9B/pQae54HsFKJnHrtK7L7wRFikjx5C1UqYQe1Fe4VF2HhA2AQYiL9hgsKLT9/6GACWrp/Rf1cPfK6LK0ki/p3edTqBvdY7tbuQotJ0XLtFWBjneiq9ML5uscl2E5H4veoq+MCmkS6Yap8aifhkcMa++yYY1LkVjMM9RY98buF/3+hzbaUwuIEx6KnGLuGLGTAraDxRaDL+o+PnP4=;DyjmPhj/ZHs98J/RfRmeFA=="
 ---
 

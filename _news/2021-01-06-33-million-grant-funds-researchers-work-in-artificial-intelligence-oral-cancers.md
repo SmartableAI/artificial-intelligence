@@ -41,22 +41,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Salk researchers use artificial intelligence to make strides in understanding the brain"
-    excerpt: "Researchers at the Salk Institute of Biological Studies in La Jolla have published a paper detailing their advancements in artificial intelligence, further tying together the fields of AI and neuroscience."
-    publishedDateTime: 2021-01-04T22:00:00Z
-    webUrl: "https://www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain"
-    ampWebUrl: "https://www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain?_amp=true"
-    cdnAmpWebUrl: "https://www-lajollalight-com.cdn.ampproject.org/c/s/www.lajollalight.com/news/story/2021-01-04/salk-researchers-use-artificial-intelligence-to-make-strides-in-understanding-the-brain?_amp=true"
-    type: article
-    provider:
-      name: LA Jolla Light
-      domain: lajollalight.com
-    quality: 66
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b8beed/2147483647/strip/true/crop/640x418+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F6a%2F157316714b659f0ea17a3539a225%2F0107-mira-bela-gowda.jpeg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Researchers featured in Medical Research Journal for Artificial Intelligence Studies"
     excerpt: "Drs. Shaban-Nejad and Ammar implemented an artificial intelligence platform called Semantic Platform for Adverse Childhood Experiences Surveillance (SPACES), which assists medical practitioners and health care workers with diagnosing ACEs in the early ..."
     publishedDateTime: 2021-01-05T00:00:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Beyond the Boombox: The Race to Artificial Intelligence"
-excerpt: "A “boombox” was an oversized, battery-powered, portable music machine; it is an artifact of a very particular time in American culture, re"
+excerpt: "And the most dramatic improvements are yet to come; I’m talking about artificial intelligence, or AI. There’s a furious race underway between semiconductor manufacturers to design the winning AI chip for data centers, self-driving cars, robotics ..."
 publishedDateTime: 2020-12-25T10:00:00Z
-originalUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
-webUrl: "https://www.moneyshow.com/articles/dailyguru-55707/beyond-the-boombox-the-race-to-artificial-intelligence/"
+originalUrl: "https://www.moneyshow.com/articles/dailyguru-55707/"
+webUrl: "https://www.moneyshow.com/articles/dailyguru-55707/"
 type: article
 
 provider:
@@ -12,9 +12,8 @@ provider:
   domain: moneyshow.com
 
 topics:
-  - AI
   - AI in Autos
-  - AI in Robotics
+  - AI
 
 images:
   - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_06_lrg.jpg"
@@ -22,6 +21,6 @@ images:
     height: 370
     isCached: true
 
-secured: "w6g0h9NAazw7NYgvPZBaEPgp3cnGk3zas34NbsVCBHkurTZpKGvEQwER8l76nFQsiQpG1bcDLdcPdJND2Xtdw75lTQc+3NFLJ5/3mwF1j6NP/84wAFVYglRnEMkLQkCi6Lxp+YdDse45Xwqq1TTrjQ2ezCz0Qqk4GD2fMWw/Lth79jBCETY38vd9AJ/ukkSCSygYulkueMMkBe49bd6JOffLwO/p2luW/hfFtz9J5Av7RdpnzFhuGg/mdm2EUYDEMiNgtCbeNfYl59/6jlCTDNeV+GibK957E7+y/kyTg8TwuvBvUcsBYECbzubfBcEloq0TZiUezRvzviniVmeIN3vqTnioBstOIXcYQPXpEW5IOkvbVHGsl6lrlyR56Fomg7SG8H9rAhuvYNwEthimQjDw6UdHKk4k4+9Ut6okwwpsjL3zyobHM6NajW+F8cxlil8GXWEQTHswwIzjP+/p2/NmeFEjZVe9Ud03yw/LFpt9Y7XUFkmmFIxBrBh2mckdaN3NV0czO6wWOi4mIpRkCg==;wYizogYZIey0oWIkUwbJdg=="
+secured: "jIALV7V1Hjdo/N2m8y9JUTyArsxFi8Rt+IbugWwrV2B7d8xm+McFrc96z63BoIA8vA7TyES9VsVaD4iImgDB48Uc4VBfCxvynnvcK/g1IevEL4aYcHwVk3Pswif2fWFBCn7SEeVlyxl6iXfA6ye/sLws2EThZWWEOk3Wqxc0+4i2Mk5zMkE8BysHHa8JM/dATSF/3979VoJKjLV9uiJtKETmKpqkjV7rIzl/j9Wc7DskLCNNdIwVrSG1lRtRTV5O8X4DFrxgCzeSvr5JEimebPDRkomB4bLY7l90BrvhfovPEBmOSggpmmP9Ze4v770vEYT86QGZWRwMrf1KIzxHoijsHujeciLKrGxnU7yBVzk=;/0gznmZgmQgALYtTpX7JLw=="
 ---
 

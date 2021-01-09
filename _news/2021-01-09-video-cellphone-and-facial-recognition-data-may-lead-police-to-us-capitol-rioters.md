@@ -129,20 +129,6 @@ related:
         width: 1200
         height: 717
         isCached: true
-  - title: "Government Users of Facial Recognition Software Sued by Plaintiff Alleging Wrongful Imprisonment Over Case of Mistaken Identity"
-    excerpt: "It has become commonplace for government agencies and law enforcement, particularly in large metropolitan areas, to use facial recognition software.  These entities are a major client base o"
-    publishedDateTime: 2021-01-04T21:11:00Z
-    webUrl: "https://www.natlawreview.com/article/government-users-facial-recognition-software-sued-plaintiff-alleging-wrongful"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 26
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/biometrics%20facial%20face%20recognition%20cybersecurity_2_0.jpg?itok=1gtosM8X"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Using Video Surveillance & Facial Recognition Technology to Identify Individuals Involved In Attack on U.S. Capitol"
     excerpt: "ATTN MEDIA OUTLETS FOR IMMEDIATE RELEASE Thursday January 7 2021 Contact Thomas Carnevale Email tcc umbrellatech co Phone 630 270 3313 USING FACIAL RECOGNITION AND VIDEO SURVEILLANCE TO IDENTIFY INDIVIDUALS INVOLVED IN THE U S CAPITOL ATTACK Thomas"
     publishedDateTime: 2021-01-08T08:35:00Z

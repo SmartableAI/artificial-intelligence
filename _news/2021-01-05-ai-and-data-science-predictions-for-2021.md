@@ -24,49 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI classifies baking recipes and explains its predictions"
-    excerpt: "One goal of AI researchers is to figure out how to make machine learning models more interpretable so researchers can understand why they make their predictions. Google says this is an improvement"
-    publishedDateTime: 2021-01-08T11:59:00Z
-    webUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/"
-    ampWebUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
+  - title: "Five ways to make AI a greater force for good in 2021"
+    excerpt: "A year ago, none the wiser about what 2020 would bring, I reflected on the pivotal moment that the AI community was in. 2018 had seen a series of high-profile automated failures, like self-driving car crashes and discriminatory recruiting tools."
+    publishedDateTime: 2021-01-08T16:42:00Z
+    webUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/"
+    ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 161
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/cakie.jpg"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Five real world AI and machine learning trends that will make an impact in 2021"
+    excerpt: "Experts predict artificial intelligence (AI) and machine learning will enter a golden age in 2021, solving some of the hardest business problems. Machine learning trains computers to learn from data with minimal human intervention."
+    publishedDateTime: 2021-01-07T11:38:00Z
+    webUrl: "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295"
+    ampWebUrl: "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 72
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Upcoming AI Conferences To Look Forward To In 2021"
+    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
+    publishedDateTime: 2021-01-05T05:33:00Z
+    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Conversational AI in 2021: 3 top trends to look out for"
+    excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://customerthink.com/conversational-ai-in-2021-3-top-trends-to-look-out-for/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
         width: 1280
-        height: 811
-        isCached: true
-  - title: "New Offering from Reserved.ai Predicts, Automates, and Simplifies Cloud Costs, Bringing Cost Savings in Hours Instead of Weeks"
-    excerpt: "Reserved.ai., the cloud cost management company that saves businesses the most time and money, today announced its Purchase Planner feature"
-    publishedDateTime: 2021-01-06T17:35:00Z
-    webUrl: "https://prnewswire.com/news-releases/new-offering-from-reservedai-predicts-automates-and-simplifies-cloud-costs-bringing-cost-savings-in-hours-instead-of-weeks-301202172.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "New Offering from Reserved.ai Predicts, Automates, and Simplifies Cloud Costs, Bringing Cost Savings in Hours Instead of Weeks"
-    excerpt: "Reserved.ai., the cloud cost management company that saves businesses the most time and money, today announced its Purchase Planner feature – the only solution that optimizes, customizes, and automates execution of cloud reservation purchasing,"
-    publishedDateTime: 2021-01-07T17:20:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/3ef51ebeb543b44cd4af69b0ebf12734"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+        height: 1106
         isCached: true
 
 secured: "OdbhmKmpzvcOPXHVobImBpFzRlvxfVtPw6XDw64FRZ/0USzy+PDBQHfLxZ5NwT1IlcJcpKmC69WNetAtEjY7HN2WL96/pWg4pd3uB0QIosn7x9PNw/Pmo+gOOChxwrEo6KVhcJDzdnBT1BgdOEwGDNOwtonrD4vhnrzWVTExO/P1Yw0tCeYx22tskPwVDHl5LP+WSt4Dh/0pvytxxmVXFvjZBv5UBJ9lFHQBZfLxMwNmBZ504EjqeFVkRJzZGNyK3hWAb8S3mn4tIeE9sCvMB4yOzybKR1Q0L72DvaWiFoopScarrAF9DP3hBuNs7Q3y47JOckGCDpJuIh5wYfdkPlKnB4wttWmu6DQjG6b1MfQ=;dfm7SdxJypan+y/iasdsmw=="

@@ -3,8 +3,8 @@ category: news
 title: "AI gives you a chance to prevent Alzheimer’s Dementia"
 excerpt: "AI brain mapping with EEG discovered Alzheimer’s brainwave and could detect preclinical Alzheimer’s dementia(AD). This has been enabled by an innovative AI technology of iMediSync in brain mapping. iMediSync,"
 publishedDateTime: 2021-01-09T06:49:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-seniors-health-diseases-and-conditions-a6836e6adaac2a16f3edde033f24f759"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-seniors-health-diseases-and-conditions-a6836e6adaac2a16f3edde033f24f759"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-seniors-health-diseases-and-conditions-a6836e6adaac2a16f3edde033f24f759/gallery/ab0b666f6f32a7a61de444820bc97d9f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-seniors-health-diseases-and-conditions-a6836e6adaac2a16f3edde033f24f759/gallery/ab0b666f6f32a7a61de444820bc97d9f"
 type: article
 quality: 37
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 360
         isCached: true
 
-secured: "KXRtnsJ61yNkhVEFmGZiH52I/Gn1UefE/c765bhqq+K/fUEHuYkeGPMLwhCt1EUMCjUTxpN2U+qXmDv7j2aAgmZxn9DH4rJMZ274rK1qeViWRnXkr6Qcu04AQc8Tn5YMbTbSAP57S1sT8HQI9GAQ+hWw+JaOgFVf57o8Ct8HmfGS3WhapckSbMBEYsKGTtRyScHtI/mgnBsQh5iY7Lc2UdMizqfkLSWcpq3YICBthWv9DCfKwW4c6IEI6bZ434QzsO5F7HTu1gM4f0m7zKxYHLnckOWAVOa/2pND2z+TpZvKv/K3RLzzRr+3SsUXAcHr+QJOAlkPS8KMm+Z55lhCAjU4lYzNibqA8zvsZYhvi74=;DHRyQ8IOWcYQEw+h7rJTAw=="
+secured: "0lxZcQydCsSaamaN+TK+9omggti+u6cBkVF77nmlFNIiZIyl860PRzrvqf1eFgbJtxErwk1k+BVYCGc3rJT/Z3osvNAwn7jPJG63jRkmiGSf9RKiij9ypDs20COWjTAIWYS/kTYYDyQ9E7XHiZxKOwvnEqhI76pE2SRJf1zRXpEFOVn1fCE/XQUwTj4mhaozxouDAhWlnmWR9iyA911BvwyshoNTiyVhUBCMctFKaoXgo8/XYQcxOh5bxybj/F/itrF3GA4K//deNW5BTIYLsUwItl7hGvFsvizOiNVleNkn3bW9XbL9NoTQ2jXmgye+jfwt2UWfVUqgbfHrpwVGzdQc7d3qBBpGiMIdtGZkUjg=;vKmQZuxWqRLq/8rmv6EKkw=="
 ---
 

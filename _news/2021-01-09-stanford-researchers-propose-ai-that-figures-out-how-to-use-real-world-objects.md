@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/08/stanford-researchers-propose-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber researchers propose AI language model that emphasizes positive and polite responses"
-    excerpt: "In a paper, Uber and Carnegie Mellon researchers propose a language model that can vary the positivity and politeness of its responses."
-    publishedDateTime: 2021-01-04T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/"
-    ampWebUrl: "https://venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/uber-researchers-propose-ai-language-model-that-emphasizes-positive-and-polite-responses/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/chatbot_iq80hc.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Stanford researchers propose AI that figures out how to use real-world objects – Jaweb"
     excerpt: "One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at Stanford and Facebook took a step toward this by extracting information related to actions like pushing or pulling objects with movable parts and using it to train an AI model."
     publishedDateTime: 2021-01-08T19:12:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itworldcanada.com/article/five-real-world-ai-and-machine
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1"
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT World Canada
@@ -38,11 +38,53 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 61
+    quality: 161
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Upcoming AI Conferences To Look Forward To In 2021"
+    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
+    publishedDateTime: 2021-01-05T05:33:00Z
+    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI and data science predictions for 2021"
+    excerpt: "Artificial intelligence saw rapid growth in 2020. The global pandemic and the resulting digital transformation forced upon companies and individuals as we moved from offices to homes accelerated AI usage and development."
+    publishedDateTime: 2021-01-05T11:02:00Z
+    webUrl: "https://dataconomy.com/2021/01/ai-data-science-predictions-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 37
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/01/ai-data-science-predictions-2021.jpg"
+        width: 1920
+        height: 768
+        isCached: true
+  - title: "Conversational AI in 2021: 3 top trends to look out for"
+    excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://customerthink.com/conversational-ai-in-2021-3-top-trends-to-look-out-for/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
+        width: 1280
+        height: 1106
         isCached: true
 
 secured: "CbrgAMDSHP9ZjQ17DrUd3jU4mjp6NLfhQjvFlx9fMjgSTtrIQTrTusbrtAd8I2kseuRBvR/XhudyM3IERms6UiTn4tdDDXBVDZR+uYXZbBKwTEIao3SY7ExXctok4Ios2QfZbjXl6voCVgijHy2qwUu58mWaY4ogYooI1h2nD2TYRRF/qd7K9rIUhxg1AVTyIYyn6ZATCgGBmOrnUWfX7r0pzvgRokkgpa/bTm33do+dPnM//c5r/TWE6oSB8lg41mdFLGykvQoJpfhaWh7HSBUCSeyUyFleiCX3kiyR6XL4ANlhemQf78cxZwmMF8EzUp3WNBfUm+4kn+J0psSWpR6QXC0kzojsoapO48e6PMQsycjL2Uwy5QsoDJkZsLI+czqo51Obv00LJeeYlDN8IEhWPKOQprTFGUWfDtJyJsOw6J3W+sYH76KelPiP8I8gQUnrJQYqZksOVqRTfDi9NaiMAb2V7QWdc4n1FtjlBGrN/0+Iulb6JXloVHNIWvUofhz8LSEQ6xcjGNwTOwKucg==;GOIQcgTWiCNcc9tbWT2V8Q=="

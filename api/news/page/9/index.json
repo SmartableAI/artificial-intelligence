@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-29-how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs.md",
+      "title": "How an important change in web standards impacts your image annotation jobs",
+      "excerpt": "Earlier in 2020, widely used browsers like Chrome and Firefox changed their default behavior for rotating images based on image metadata, referred to as EXIF data. Previously, images always displayed in browsers exactly how they’re stored on disk, which is typically unrotated. After the change, images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/29/Bird-Corrected-Orientation.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T09:56:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-2021-is-the-year-of-autonomous-vehicles.md",
+      "title": "2021 is the Year of Autonomous Vehicles",
+      "excerpt": "While 2020 was a successful year for Artificial Intelligence (AI), specifically the subfields of Machine Learning (ML) that are Deep Learning and Reinforcement Learning, there is one industry that is on the cusp of mass market adoption and that is autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/2021-the-year-autonomous/",
+      "originalUrl": "https://www.unite.ai/2021-the-year-autonomous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/autonoous.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-zacks-analyst-blog-highlights-baidu-tesla-general-motors-ford-and-volkswagen.md",
       "title": "The Zacks Analyst Blog Highlights: Baidu, Tesla, General Motors, Ford and Volkswagen",
       "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Baidu Inc.",
@@ -1120,109 +1215,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-pitfalls-to-avoid-when-employing-ai-based-tools.md",
-      "title": "Pitfalls To Avoid When Employing AI-Based Tools",
-      "excerpt": "AI is a transformative technology, and like any such powerful tool, it must be employed wisely and with care to ensure that it delivers what you need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75dbbe41e615248f54b325%2F0x0.jpg",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/amp/",
-      "publishedDateTime": "2020-12-28T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-ai-based-debt-management-platform-creditnirvana-raises-funding-in-pre-series-a-round.md",
-      "title": "AI-Based Debt Management Platform CreditNirvana Raises Funding In Pre-Series A Round",
-      "excerpt": "Bengaluru-based fintech startup CreditNirvana, offering artificial intelligence (AI)-driven debt management platform and digital collection services, on Monday announced to have raised an undisclosed amount in a pre-Series A funding from institutional investors in New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362396",
-      "originalUrl": "https://www.entrepreneur.com/article/362396",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1609154909-Untitledv1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362396",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362396",
-      "publishedDateTime": "2020-12-28T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

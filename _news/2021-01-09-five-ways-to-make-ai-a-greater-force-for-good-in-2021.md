@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-i
 ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 type: article
-quality: 61
-heat: -1
-published: false
+quality: 161
+heat: 201
+published: true
 
 provider:
   name: MIT Technology Review
@@ -44,7 +44,49 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Upcoming AI Conferences To Look Forward To In 2021"
+    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
+    publishedDateTime: 2021-01-05T05:33:00Z
+    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI and data science predictions for 2021"
+    excerpt: "Artificial intelligence saw rapid growth in 2020. The global pandemic and the resulting digital transformation forced upon companies and individuals as we moved from offices to homes accelerated AI usage and development."
+    publishedDateTime: 2021-01-05T11:02:00Z
+    webUrl: "https://dataconomy.com/2021/01/ai-data-science-predictions-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 37
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/01/ai-data-science-predictions-2021.jpg"
+        width: 1920
+        height: 768
+        isCached: true
+  - title: "Conversational AI in 2021: 3 top trends to look out for"
+    excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://customerthink.com/conversational-ai-in-2021-3-top-trends-to-look-out-for/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
+        width: 1280
+        height: 1106
+        isCached: true
 
-secured: "SFvtzSOnktHH6uacam/fBaExvFIM4xAJMkHiHDtrL5vKWNhxs09qJJic/0WUn4i8C4DVUKAzt8FInr12cDSUIr8WL7cgjLiyMlpzAn9E7BgdXAOv030vOKkJp3suO1XvSqlfc3uDLmjyz8mEWKELfnpa99xB9cGXwFeQhS2M0m3d8svNT/HrZ/+UUgNyR5oO+tGvBp3OrA15BEFCZJIWVRzNAJT7kZj6ofl0yLzj6dpUjYJqMVTXhs5Bnnl0wxGRe1hj3yKi1uBxbA1Sx1Iu+RsmXNcNytSwWGVIBaOmAmiMd9IS8lP3V6P3FPn3diBmPq0gesX4Gj5inmGhIExY79sa/OgcIFg5oWNhWwtLXuch/I47Cnf/1KgGDPZhXpXCfd6Lv07mFo6dn2Tfy7PL9Vt3fXc7DnOjTcCSymCkgmGHrhUN0dPO2y6MWJMsCArvVXGW4IUeoDFc6FJKeGxvukb7/IiQtfq8nZ0SYoiMURpq7qX5saFroCpIMnn3OiI102zCPuJJw8WlkJoma7q2QA==;7IQhQFEBnNv8k7Y02uaXIw=="
+secured: "Z7fYqiyONJQyrCp6AG9LqXPHsOzJtQs0JCIET9qiEuwXDUctu4F82ixqwjwV0+5A6XNTFKaicUG3Ppg4HKTyd74GAtwKGP5ubCbXR6Ut4NWf2ub4MBl+RLtdJsXvojC35qOpi5+NnGQPYWBGXwAuMIjkQ1VZKpABO43SOfWY/4IWLqEdKj1FB3DE2/AH1xc5lGdKojXtAlZvz4T2pvzmjxdAjfZLCFlaKJE7CSpCcEWcL0riP2bSmMlTspt3cYucJZWiicPwpyNE5PEtP2ip1RfDopRuKRHQ0FSvj363HOtH0qBmyk/so7SQAwoT5UZP5dR6sZi6b8Gt55AFYr0f1dQIs8m9WKdSqMtOBXmKyHSX5HMIB9aeZR4nVOcK9Yj0HqQmXGbOU1HC7PQoxP4FE4ghzKmcV6junJ3l8sHx/6Zeof7TWYBA8Cy94KZdo2/oVhL3JDhCkyclW7U4krD8UodQJdepfGJ7+zuiQTOPaCUasukTxxpAsbK0hBhiDPQ84MNrQGSpqvJCB5f4mRHKQYcBJyn8JwLWBvzCbcA+TM8=;4LrWu0u6ktl/FeBT5NLLDA=="
 ---
 

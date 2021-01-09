@@ -139,20 +139,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Government Users of Facial Recognition Software Sued by Plaintiff Alleging Wrongful Imprisonment Over Case of Mistaken Identity"
-    excerpt: "It has become commonplace for government agencies and law enforcement, particularly in large metropolitan areas, to use facial recognition software.  These entities are a major client base o"
-    publishedDateTime: 2021-01-04T21:11:00Z
-    webUrl: "https://www.natlawreview.com/article/government-users-facial-recognition-software-sued-plaintiff-alleging-wrongful"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 26
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/biometrics%20facial%20face%20recognition%20cybersecurity_2_0.jpg?itok=1gtosM8X"
-        width: 500
-        height: 500
-        isCached: true
 
 secured: "Uaigiy9RUp4luaJsUJ+NwOrcM1AKJVunsKH6Xj8fdIel+9zcbN7q7UcrwLZi+LYiZzoz3U4bNW3w4Z61w+kg1g54tjSCqcqAonjv/R5KsskZUXfJsKxKGuNbkmCYmpGklBU89aG8+kNv1tGsdxoBSWQOeaQ2dNJxK6v3gg0CZAozan8VW9oPhb0JavJ0cYgiRAuN574HAxO1cZsdetFG1W3lN70cd34isEUde5EX73c3PqtFum0X8CSRoVX4E8BrGt7hks4VlU/7Ks3086+6N/P6Ss5Bc2ayMh0/Vt0ciOLBtaLSPQkN86/avbd/1APs/WA+6nlUi87pYqsxEXvDLPYYtVTGJIa1rmEN7z7HMBs=;a46xBBJMoRxeev+ZN8KKng=="
 ---
