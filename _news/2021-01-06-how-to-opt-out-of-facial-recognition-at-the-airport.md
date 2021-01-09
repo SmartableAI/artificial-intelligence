@@ -107,22 +107,6 @@ related:
         width: 743
         height: 545
         isCached: true
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T22:20:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
-        width: 743
-        height: 545
-        isCached: true
   - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
     excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
     publishedDateTime: 2021-01-08T13:25:00Z
@@ -138,6 +122,20 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
         width: 796
         height: 417
+        isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T22:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
+        width: 800
+        height: 586
         isCached: true
   - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"

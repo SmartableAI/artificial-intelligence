@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. law sets stage for boost to artificial intelligence research"
-excerpt: "The National Artificial Intelligence Initiative Act (NAIIA) of 2020, which became law last week, aims to bolster AI activities at more than a dozen agencies. Its directives include a study of how to create a national research cloud that would build on CloudBank."
+excerpt: "Researchers hope to use cloud computing and artificial intelligence to improve public transit. Low-income commuters who rely on public transit face many challenges—multiple transfers, long waits, and off-hour travel—that aren't measured in the usual ridership surveys."
 publishedDateTime: 2021-01-07T20:41:00Z
-originalUrl: "https://science.sciencemag.org/content/371/6525/112"
-webUrl: "https://science.sciencemag.org/content/371/6525/112"
+originalUrl: "https://science.sciencemag.org/content/371/6525/112.full"
+webUrl: "https://science.sciencemag.org/content/371/6525/112.full"
 type: article
 quality: 37
 heat: -1
@@ -48,6 +48,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "7PzH7TbKXXPAMKXcGrbJO965zeuvv7/2WcTFou9F0JVuX7WxBfwgpefJsplRkWfaKYLVaM7HiYnhIk02qgiwiaDiVEj8TD0mCxqTb2YsqHBlk0owymbE5g85Ad5Q+qDDQZdb/Hjzv4sXANZcTaVFqcPpLKVEX8UETOshJDkK7pNyzQYhLghOygqFV41Sh9cm4ejOUgP5LcfjTcEyMhAN2bgP/XKZRZuKciHBDtJLFQXJ2e+gU1U0Z/WImpmv/DngydV+MhqKptGac2LcXbxDPAAezQ+MU6jDeVmeVFqsbkgOb5+cMGZ1GlaWqKdkFfzEHTqqmLRU4LdVAoeZGUXRgCD5rHeF0FIAeggP26ewqlzr7LmRVCu+2aYFDBo9mjJAtJLVb2NVY7Cb9AMb1DAyKZt8LxdK8FFpDWC7jPpHDjLnOaUwDZH0E0yA+JqBo1pf0F+QC7IW8ffl4dcw7Lgk0Z0FFyhTSEe2MqvojZ4JIe3bhhSn5FZMrEfB3RL1hIK3xeIN2lMnhGFaL15a+MS5Kg==;o8F4vmw331fYSO4PQgbTnQ=="
+secured: "Fmkee7ZtH9G5rlvHwUItg1ApxzIrTPKpVKECMHJltAwUFo0CQiSM8Z9PQZJgMsIOxwytNczMKZ6fVF6yYGNwQ3ExNKQeUGpvxr5wkqRjKIAVD9yNDwMo0eOr/2IL7Pe2mNs813GMkWQtAhofLX3KdYdC3RwELZZMCyqt4Lp5E8dNERB/K0GFJKyan5xbNNiFAJPxwqzeALX4htDpwBX03guRgKzgJN6f2DGD6x1xCeQfQ2hyk1QxZz7zWu9cNI6Bx96FCDsmy7qx8LBo0l+Ye5lJ603bTnUSKNbN/FEEzrIGWm5uAyWR1J8oHlAAEHFZ3/SI80laRfN0IQZ9Fs2MwpKEHieNhdNUJBWFTPWSxqY=;0u214qJqxmeiohwVWY607Q=="
 ---
 

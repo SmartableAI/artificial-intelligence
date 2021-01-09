@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Allied Minds - Strategic update"
-    excerpt: "With origination relationships that span US federal laboratories, universities, and leading US corporations, Allied Minds historically created, and now manages and funds, a portfolio of companies to generate long-term value for its investors and stakeholders."
-    publishedDateTime: 2021-01-04T08:43:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/LON:ALM/Allied-Minds/rns/911533"
-    type: article
-    provider:
-      name: Proactive Investors
-      domain: proactiveinvestors.co.uk
-    quality: 24
-    images:
-      - url: "https://www.proactiveinvestors.co.uk/assets/img/fb_pai.png?4362984378"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "nHO3ejLSGKKtSEstEIpMPtGjcnq26IGezQJPyujaNKYI7CV4Co8svTI8AHOx6ro7R0I//NxLneVga2QuPu0hQ2yMxwHLsL1Am3wgtiuF+MKzdlWh9qB5dS7Sm4zIcDmNqqOIUWjt+IN0T/g/3IazGJfccTfNmi1sOpkDjcuBgCKxVWui9yGiBswe3cx2Mn0D9FThPtqsxY5s2cQ7MwFJdqAR5aIEqRuyMUxcaIRWqiQgw06Plte7Ex8xwCvnoFVXUM/8nWvfi9j/OwpUOeQ5Muc3DLXCt6lsqKQqZNJFOOFHuLtsKRyyfPCrF71ZKtP1esNGRZHTrwG+rr/GSLfDjgfLs64eJh+g3K8njOfzwP8=;6zTYNZMKzoKGCDiD7KPiZw=="
 ---
 

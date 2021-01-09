@@ -3,12 +3,10 @@ category: news
 title: "Masks no obstacle for new NEC facial recognition system"
 excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
 publishedDateTime: 2021-01-07T22:20:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
-    width: 743
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
+    width: 800
+    height: 586
     isCached: true
 
 related:
@@ -314,6 +312,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "ymgft2JyUqXdY4VZ7MRWZPkkeSV5F8al3OzBe7jrL8L/OsuNDU75bs/VBBfQKPCYQRcqxnd0i48pt7heMhVQbju62XInz1s2nFXDV1oGNvik1g4VUBBTGZW7akEB7Hb4RG+8BSmpIE3rUUZN915sDNWWmWu7Mmh2WNGlsl+4UraA0qn+bW3c2WvKZAws3ag8LB5t8W1N3FEn9o8z293xxwkxiK3XlRpS0Px0H82tn2Q0v6Z2CrZ79GQtHOmaXBm/fqu3sF0H4W59Pwh5XVkvIGUy2opHuFkcM1HzsTaEpIG6X7CZMQvUIUGc8TpS7ZuYhGMckHEwWk0rN46piu/VmyucfHDv1R/SrSwhMxB8dKxNUsVymNx8iiPfarCXCFK95EOA4n4Gl9YlAUsA6W6IAp/CjIeWMY4ywRwHHqZ4FBFMXX+XIEQTdDt6+xEcxBL0JvIndKlIGbvfHLvN9DcyaXuwyN7KhvZTAln3bgy4SrkO9dwEE2+Wue51UPViKGfSIEuhVfaO96G75yV+mb8xQA==;RYin6wtvUykbaJx8IHf+yw=="
+secured: "jbl6oRPd7jbrJDwtx9fRoAT68j3CN/7U1g2F7CTm/JMvGnBmB5BRWRzN81karlKT46Xn1PJE+XBi5fdrpZDbF4ehjKdh3YO1KHCN/vaaon6TD/eCOngOks3w1nbWj+BVgvTLkl0vB5JE8l1aoxGH22sUB4ZK6V/ql1VhLK/wV5IcymvRxBO/6dXh4x7YM4ZneDQnPEVLZqE399h5/0B2orMdJDrv6CNEC8sXmy1uxdKCzT7m1tEkxnxaCfnLSMjj2x1VxOnihfvwkPFwfkslLTaL7AYjkPwkMCl8vyD9tHfyf0fJLc9AtQIR+jpgWHyPlPPE1jI8KOUrjOY/kFGxFY8V5gHnLNqBMPO1vS5ulnE=;p3SwIj0PihqHmGReAEDi0g=="
 ---
 

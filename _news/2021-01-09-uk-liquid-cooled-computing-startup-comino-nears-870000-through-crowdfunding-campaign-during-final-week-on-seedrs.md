@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2021/01/171048-uk-liquid-cooled-comput
 ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171048-uk-liquid-cooled-computing-startup-comino-nears-e870000-through-crowdfunding-campaign-during-final-week-on-seedrs/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171048-uk-liquid-cooled-computing-startup-comino-nears-e870000-through-crowdfunding-campaign-during-final-week-on-seedrs/amp/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Comino-600x273.jpg"
@@ -25,6 +26,6 @@ images:
     height: 273
     isCached: true
 
-secured: "l32sCOF3xnj2U0zd37n/dJ3l+JemVXYKGDhkvl1SK0pJ5VkxvAReAfG6IGn7FcdJztaDTfQ+kpzV2I0p+RzZFO8QTCZgluw0aeus7v7htfiUiJrxJ0Y5iLJKkQDpJCyVJ9UPDmFsRpSXTFhQEVghp6Pc9d4N/DdoGSHQVHNIjNo0uVlrhJkt/bzMXJb5QLDFdslrtKYZWdiOOrVag4N96Ecy1+zDG3ObZjtSj8Hjyfmfz7ZxZv9S/CusSO1/a9r1w8t3lrH0nlbBh4KcgACTG44EadIifkrdwvMRfLzLD0BXcEblFFlgEtGgHlvBV50W60qwBPhP/XpreXTWz3CsZIFg92GmCHI10szG2t0/UM0=;v7E54WmSH9E/E5Tgq6mNMQ=="
+secured: "pDuMdSYt5smkc83+MCOKeaK5NKA0fWzIjM8XBTb2KqtEVilKoaXsIhokT/jucw1kwrR5hkfvnai/e5/sixMUHE3nXOkLySoyYpUwJFHEGwgEoNEtWOM3jOgfJk8Cti1EXPhIUWSMWJv1hjRxrF3+CozPrIQuaFXY5wCkudjDN/5sm/iXpYp1I2ZoeTEgsfG6yXrGGYKMMFST5aCulc1pKmJzwG9l6noSi5hMB6LdBbmvdYF4lv7MCvvBKoS1VFgpjThuRw++aDOhEussFk6pEi2GjFP8e+m5CV9nVEUfxlGrbzcgZaU9tBxvTum8C4tmI6ZhV5XJWnJw64Vxh7MNnof5NH8x3QXoklkqlpbVBxObpKV5i/WZIgbdp8fhCoy3in1jrJsttj62S7vYrkPZqrJ9VcrLzeOXtRfa5xSOyu4Gh1ThFg1hd8o3nOkOI3zfe0D5745Tm6KiXZ9hxDF88Q9/JMEEzvgQxbJyuiBUSFE1ud98iLL3RIO6HaC8Zg6mnLhSCWniMiU1zzN4jHUoTQ==;VLHf2bXh1bXdSBxiwGYP4A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
 type: article
 quality: 119
-heat: 320
+heat: 319
 published: true
 
 provider:

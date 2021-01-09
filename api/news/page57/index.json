@@ -2,6 +2,49 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-20-arm-offers-neural-processing-ip-for-application-processors.md",
+      "title": "Arm offers neural processing IP for application processors",
+      "excerpt": "Lead licensee NXP plans to use this IP in an upcoming family of application processors that can handle AI application such as pose estimation, multi-face recognition and object detection in videos, and speech recognition beyond basic keyword spotting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/arm-offers-neural-processing-ip-for-application-processors/",
+      "originalUrl": "https://www.embedded.com/arm-offers-neural-processing-ip-for-application-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/11/img20201124115227Arm-MicroNPU-Comes-to-Applicatio_0.jpg",
+          "width": 1129,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say.md",
       "title": "IBM is moving to cut thousands of jobs, reports and workers say",
       "excerpt": "RESEARCH TRIANGLE PARK – IBM is planning to ... clients on their journey to adopting an open hybrid cloud platform and AI capability, and we are reinvesting in our business,” a spokesperson ...",

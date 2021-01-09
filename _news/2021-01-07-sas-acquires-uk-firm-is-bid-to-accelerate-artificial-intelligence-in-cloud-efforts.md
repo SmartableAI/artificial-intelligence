@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "SAS acquires Boemska to accelerate AI integration into cloud marketplace and third-party applications"
-    excerpt: "SAS, the global leader in analytics, announced today the acquisition of Boemska, a privately held technology company specializing"
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sas-acquires-boemska-to-accelerate-ai-integration-into-cloud-marketplace-and-third-party-applications-301202585.html"
+    excerpt: "Strategic expertise and leading innovation The assets and operations of Boemska – a small, UK-based technology company with an R&D center in Serbia – will be integrated into SAS. The company is a well-established SAS technology partner whose global customers include SAS customers in financial services,"
+    publishedDateTime: 2021-01-07T13:40:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-e9a05bd92d498104aa74c6ceb62585ff"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1250367/sas_midnight_blue_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "W47wckBSLNQQCXNvdet9c4IAdagF11eugMguoqqdPDnGocDW5rTsGAEYcB1WKrKcKWlqwzlMaSOuxMjRusD21JNBQoGD8TtAXAf6EGUK/9m8RXW2RUPRN1Yt+IlF1T6ldxuntKIaIIg3lrfv01pf4stgXUqsgAVTLMjFFGb2RyrNulJ+7yJOLGedzkOXy6Jt1Idwo1owPSZJVFXW+nya1/elTwYTYv0mxnOb+dGS76a2x1VAB7jg7djw2166Hfs5nyuDEGtbR/07qNve6Ui7n+EXYdUn+RyP+zjgxusFgSMccOakKuQFnmxe45ltMoyKQbUgobGpUcy7PFzayt9mVqUqV1mBiA65zqv4Ua+85oUOh63WFfytEQG10wXhVYgxSliDuwS8j2O53tIu92XvZpCJZk/ZIStX7FgARIYUJiLoE8gPHzPm3cwTXuMW4AodGuj8t1tBN7vIMzxuIo2Io6aVK87lRmH3FcEhqU+xFAe+CSlvCecYOWrFDEqI80zaEkmmQwyHDyT/BI9CuisejQ==;2fbucw8z7Q+EgFEc0HYlbw=="

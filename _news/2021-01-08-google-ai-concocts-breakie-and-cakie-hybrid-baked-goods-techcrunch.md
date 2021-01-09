@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/google-ai-concocts-breakie-
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods-techcrunch/amp/"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 632
     height: 400
     isCached: true
+
+related:
+  - title: "Google AI concocts ‘breakie’ and ‘cakie’ hybrid baked goods"
+    excerpt: "If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats,"
+    publishedDateTime: 2021-01-08T00:31:00Z
+    webUrl: "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/"
+    ampWebUrl: "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/cakie.jpg?w=1024"
+        width: 1024
+        height: 649
+        isCached: true
 
 secured: "0643vMd10SHuMygWPtxm2P+6JcbkzD91Jjuq5jbBhzG6YsJGpGbnKx/Pj5CkTVHp81qOmm14lx/FJ4jO4PNmyHrpLGyvpcyAp9QMi1iIIzJch1N8QsxocimGhVVPfjpi+rz5GBEXSarhsOHE/FMBtQP8z+PRpf9e1nGMBrzMufqplAV08FiqZLMg+NW6Vosq8huYt/8QCcQ0pVQ8NtB31kiZAKxMbhxJW0K/asNQwg24HHj6TN2/LB4SyWuPO0I0+odro5nRcSdjePK/fLtMK6pDoPuq4a86oCMjWxpmVq52EOcg/vbqe8I3qsFlbUtE+XF8EayJwi8SSITOyCIJc36XDxQnAr26lRTWRt0VYuGC6f+Ov8PkdHVICr6HLZZh/3BiEgFxWLk+DT6u4b/CzbxZFlZbe7QDJDAIZXFuMoiGq9IdV8z/5aZ6TlI1GOieTJpdol1xD39eiOWVI03UdYX3EPaIQ5u1AoLnWUaGXYpVrvpQ0aK+ImgOskuzPiqRnsc24IWLAida7fLJmDpfVA==;T+WoEjvmeVwzbMoFwLvM9A=="
 ---

@@ -72,38 +72,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "PURE EV develops AI system to resolve defects in lithium-ion batteries of electric vehicles"
-    excerpt: "PURE EV researchers have designed Artificial Neural Network (ANN)-based algorithms for the system called 'BaTRics Faraday.'"
-    publishedDateTime: 2021-01-04T08:06:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/pure-ev-develops-ai-system-to-resolve-defects-in-lithium-ion-batteries-of-electric-vehicles/articleshow/80094136.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/pure-ev-develops-ai-system-to-resolve-defects-in-lithium-ion-batteries-of-electric-vehicles/amp_articleshow/80094136.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/pure-ev-develops-ai-system-to-resolve-defects-in-lithium-ion-batteries-of-electric-vehicles/amp_articleshow/80094136.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
-        width: 412
-        height: 255
-        isCached: true
-  - title: "Pure EV Electric Scooters To Get Lithium-Ion Batteries That Can Resolve Defects Automatically"
-    excerpt: "Hyderabad IIT incubated startup, PURE EV has announced a new breakthrough today, in the form of batteries that can self-resolve problems."
-    publishedDateTime: 2021-01-04T08:13:00Z
-    webUrl: "https://www.rushlane.com/pure-ev-electric-scooters-battery-fixing-automatic-12388803.html"
-    ampWebUrl: "https://www.rushlane.com/amp/pure-ev-electric-scooters-battery-fixing-automatic-12388803.html"
-    cdnAmpWebUrl: "https://www-rushlane-com.cdn.ampproject.org/c/s/www.rushlane.com/amp/pure-ev-electric-scooters-battery-fixing-automatic-12388803.html"
-    type: article
-    provider:
-      name: Rushlane.com
-      domain: rushlane.com
-    quality: 33
-    images:
-      - url: "https://www.rushlane.com/wp-content/uploads/2021/01/pure-ev-electric-scooter-battery-fix-automatic-3.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hyderabad-based Pure EV develops AI-driven hardware for battery maintenance"
     excerpt: "The company claims that this technology completely does away with the requirement for customers to visit Service Centers to address battery defects"
     publishedDateTime: 2021-01-04T16:05:00Z

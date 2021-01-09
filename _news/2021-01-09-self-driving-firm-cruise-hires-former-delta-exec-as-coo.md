@@ -3,8 +3,8 @@ category: news
 title: "Self-driving firm Cruise hires former Delta exec as COO"
 excerpt: "Cruise, the self-driving firm majority owned by General Motors Co, said Friday it is hiring a former Delta Air Lines senior executive as its chief operating officer."
 publishedDateTime: 2021-01-08T19:16:00Z
-originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29D1TR"
-webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29D1TR"
+originalUrl: "https://www.reuters.com/article/us-cruise-executive/self-driving-firm-cruise-hires-former-delta-exec-as-coo-idUSKBN29D1TR?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-cruise-executive/self-driving-firm-cruise-hires-former-delta-exec-as-coo-idUSKBN29D1TR?edition-redirect=ca"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 533
     isCached: true
 
-secured: "6KYDrwPVOhigov2WjSq5RCfh/TWM8lEo8iP2vuj263MyCqaaAfMnMjiDB/DkF9vvaIPBx8uf/U0ACPaHsAoOJmRiA2G1ixGv/xZFbO8/u+ECz07diwJZKoSo9l8jbGS4GT9aI82RFwf1x4Cb9IO4ajxJq1UX2q/mYq3uY4sXXqzd26aOfTMr+Knp1hap9oNUIlc+4/wYCcN2VeqvWivzEpX+5oLh2pgbKNEMJfEUnGfnlky4wAZesYdvlJvVZWy+euVUxMNOOZSTmbvwiJvvcj5lrelHTfboLKgsyIXyOTlKNk5wGV6GFnUUGEKr1oGULZxrWJwzmRpCdBvKgVa8ln6cVWKFytviAMzVXlEK0h8=;lpb5OjjPnGS7Gos+T4knAw=="
+secured: "yxsLFA0YP6tQk4UPlNx0r9oySswC1MOEe34PkYcTi0G/25rSZFw0c7DewLlTBL/c+3luQRNRlb/TvLIkGCbb+L+ye2qZFbNhr7gj7ffS1e1YKki2DQfkARPaSlwLi+cxxa9VvB8kjXbjag2961TKXU79VeUjxyLD9fwZTM0DMwx7YnSDxmrZB+hT/eHrhl4R6T5BiDnGfw/CqRMT6Ql3r6Sc364YtrTGEcBvcBxp/aBJdbo69ZGiUeFuoROZn0k4Joq4wQhQbq++ioy9kDaMbMKe09edOnxYKsee1il1kGD7J5xw0qqMa6+FeELLTHTBlSCLMKul5Rn2xWtx8lLoJIIM9iSMe3jEHhephZLWe0I=;QBquQ+CkldHuVwUSJqiwRw=="
 ---
 

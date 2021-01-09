@@ -70,17 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market is Expected to Witness Growth of US$ 30.9 Bn by 2027"
-    excerpt: "Latest report on Artificial Intelligence AI in Healthcare market has been published by ATR It offers detailed information on key market dynamics including drivers trends and challenges for the global Artificial Intelligence AI in Healthcare market as well as"
-    publishedDateTime: 2021-01-04T07:44:00Z
-    webUrl: "https://www.openpr.com/news/2220129/artificial-intelligence-ai-in-healthcare-market-is-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2220129/artificial-intelligence-ai-in-healthcare-market-is-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2220129/artificial-intelligence-ai-in-healthcare-market-is-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
   - title: "Global Geospatial Value-added Services Market Report 2020: New Products Integrating AI Models Create Growth Opportunities"
     excerpt: "The \"Artificial Intelligence Enabling the Global Geospatial Value-added Services Market\" report has been added"
     publishedDateTime: 2021-01-04T09:43:00Z

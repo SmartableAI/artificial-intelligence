@@ -41,20 +41,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Is Your Voice The Future Of Digital Communication?"
-    excerpt: "There is constant innovation in voice technology concerning the security and privacy terms of consum,General Information"
-    publishedDateTime: 2021-01-04T08:38:00Z
-    webUrl: "https://www.hostreview.com/blog/210104-is-your-voice-the-future-of-digital-communication"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 24
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "mf3bkv6nloUdE2HlexzSuT9QrkdgvHI+S65o7F4/TJtzaNtuIh9ckVEA0BN4MfUhgUZ5AUKgWMmGxZRl6rcIyzHV5R7ugYiE/4S9miDPjEI5U6D8z6qZ596i40TNFawaHhK3SWgtn7SvGLBHZ19VXqhggofoyTj/uWHMjqyx23TblGkRO/5c8skk+xTdgppf0JCaPbgIODoP4rJ9eWb36Hjf4ttQV5xURSVkwLXpENIEQS18AawcRUzDeEtrIHRst92OI9YflW8reiHouWK2TXE9xHL+YD5JML52YfcVXoZYAVrglbdhsyNkvMmFeU9eulhMHQnRSDeDxYagmhEDUYCIdlLvjsu/EN3cVHazn9mpFKIzui4p05JoLuzCz/53PxJiFwSGHSR65rLwS+2irtsqLxLOyH88EMIiqCCKYDeMhDcJPlHtFS4QommonpPJlOI5zcTATYyMJn79n27Ep0PhKtIejbjQbp4TIad3sqjDZpcq+YbDx22tfCV6MpWh1gIIgtYc+o9T38UItQPOvA==;7mivHV1LJpJZC9HjqtPlTA=="
 ---

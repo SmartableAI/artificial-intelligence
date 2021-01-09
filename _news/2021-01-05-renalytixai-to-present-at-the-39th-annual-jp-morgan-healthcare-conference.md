@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-c
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "RenalytixAI to Present at the 39th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,"
-    publishedDateTime: 2021-01-04T07:05:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8119321/renalytixai-to-present-at-the-39th-annual-jp-morgan-healthcare-conference"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 32
 
 secured: "D32WWIQlYkcy9ftzdcwuHsmokjkhlJ8CiU/Us/870moEX/3yBUPR1fKs/hisTDGHo0Y52jNi9YTxUq6Cw33ymLTAKIJaYKRHZo5EcZAGHMGUT6DYAc+wIcY3vNxMq1Z6ALCUCrATlHAxL/LN3wVmj8iqpAVHT0TDnW12x5JLWeTSjFWiEJ6r0LIa1qcxiqWYdpmg2dmwaurj/4OO1DVKR1P9ZNAndKmr+XwGc2wj8cifH4Str/yfXYCxXF30+RJJqlbI55Jy9ss65fbyFo3WlFJg3PP0fB0G7n17dHLa+KwGferYyFYdHqZ78t8CUcnBR5RQ78MgtVcqd9Hi1j6jGl4osf9t225/qm3QCf6zN58=;CTSTanjR01MwXSS6Y5fhmA=="
 ---

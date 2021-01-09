@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market is Expected to Witness Growth of US$ 30.9 Bn by 2027"
-    excerpt: "Latest report on Artificial Intelligence AI in Healthcare market has been published by ATR It offers detailed information on key market dynamics including drivers trends and challenges for the global Artificial Intelligence AI in Healthcare market as well as"
-    publishedDateTime: 2021-01-04T07:44:00Z
-    webUrl: "https://www.openpr.com/news/2220129/artificial-intelligence-ai-in-healthcare-market-is-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2220129/artificial-intelligence-ai-in-healthcare-market-is-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2220129/artificial-intelligence-ai-in-healthcare-market-is-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
   - title: "AI Recruitment Market Growing Business Factors 2021: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2025"
     excerpt: "This is likely to impel the growth of AI Recruitment Market over the period 2019-2026. As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
     publishedDateTime: 2021-01-05T20:36:00Z
