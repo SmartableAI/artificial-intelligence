@@ -2,17 +2,17 @@
 category: news
 title: "Rafael combines technologies to give combat robots a ‘brain’ to map threats indoors"
 excerpt: "A robotic four-legged dog and a small drone infiltrated and mapped a building in an Israeli coastal community recently as part of Rafael Advanced Defense Systems demonstration of new technological capabilities for indoor battlefields."
-publishedDateTime: 2021-01-06T19:48:00Z
-originalUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
-webUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+publishedDateTime: 2021-01-06T22:15:00Z
+originalUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+webUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Federal Times
-  domain: federaltimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Lop6nIGxndo1ulq0OYUdPfPv/sSQ/PMij31p9IKHESGcIA6k1IWlrUQ4Qg5F+5BPPUiykIYGhTzzj+kTjQWRFcH6DIn/EXNYEMtNCIAOW3qHUrTImNz0zzgHi1vlt1BbzyhQsqxBICXW82Q5oa+3a7KmWaNigAFDYj91dt7tECJmD2su7kJegHgplhHSrQ/YrLG0ZtUUGp1tcdEg//dd4QVP9FcXM7Kt2tzqsS1hJ8qRs+rnRAGS2bDqUMb6wZjuALC4mr2WKlzgA5yoaG0TcboFi8MZHuPXY8MepYwpLe1QBuENuptFu2wnHqfVLnye1rJydqebwxESXSdeT/qGTPGBY7GgTWjym58TD2y2lkT13NQ87G/8Ilq6RLMS9SvRa0xuFBGs9/YhGI0FO03Ta2NDp/HjzIEkSe4BmKRbcG7DToSPIcRJcuGzJjDaZP8DEAYJ9uY++JVrKkyR/oCFFuBU/24xB6ACumPFu7f2aigJuQkVnyuKvSP/eTYGrlORBCaemjP6Mj64RUcnK52B5A==;KDDhpDd+rA9Q9+S6XvMR1w=="
+secured: "auLbCzi3tR2OwJN+9OsE4V0lWDvh8rjKyMUA0VbODed+CDJ3LU7sJB55HW5OKZAu++MoBUcr+/qUYs1vQJqUdQ7XbvlDGiBoIxr/qBFIgD8V2l5GJTovHNf/sJ75y/hQJwaR8zdVsZLxOKUPLpRBjVNfGoeJ5ZKSjIYwo/kYZ7eeCSbTPTKxLDguWy6snKyCzKGyRAkQV1Z6DfkBLwe1lqpv+QSGB6hI/RFE4nfG2gLCcD/vmoQnpixOZ/QnfNywHng+h2v5q3SYyG00Eo9t9LQCIIHh5/DbRfz0Y5soTHrc+oJoFNqPZNLa5hkW/p640P8S6YsNTwnCCFWy5XKg4+v+tXLR77BOrsJ2AxUzXVM=;hy/dl9vJGuK5csysa+u3uA=="
 ---
 

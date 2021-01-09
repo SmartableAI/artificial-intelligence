@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-goo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 type: article
 quality: 161
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png"
         width: 620
         height: 250
-        isCached: true
-  - title: "Upcoming AI Conferences To Look Forward To In 2021"
-    excerpt: "With the starting of this new year, we have come up with a list of upcoming AI conferences that one can attend in 2021."
-    publishedDateTime: 2021-01-05T05:33:00Z
-    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-to-look-forward-to-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Upcoming-AI-Conferences-To-Look-Forward-To-In-2021.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "AI and data science predictions for 2021"
     excerpt: "Artificial intelligence saw rapid growth in 2020. The global pandemic and the resulting digital transformation forced upon companies and individuals as we moved from offices to homes accelerated AI usage and development."

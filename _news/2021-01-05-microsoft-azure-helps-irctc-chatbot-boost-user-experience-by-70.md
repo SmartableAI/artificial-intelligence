@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
-publishedDateTime: 2021-01-05T15:40:00Z
-originalUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
+publishedDateTime: 2021-01-05T13:15:00Z
+originalUrl: "https://www.imdb.com/news/ni63147427/"
+webUrl: "https://www.imdb.com/news/ni63147427/"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: India TV
-  domain: indiatvnews.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
-    width: 1199
-    height: 674
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+    width: 1000
+    height: 1000
     isCached: true
 
 related:
@@ -227,20 +225,6 @@ related:
         width: 1600
         height: 600
         isCached: true
-  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
-    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
-    publishedDateTime: 2021-01-05T05:34:00Z
-    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
-        width: 768
-        height: 401
-        isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
     publishedDateTime: 2021-01-05T20:52:00Z
@@ -269,20 +253,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Blue Prism extends intelligent automation software offering to Microsoft Azure users"
-    excerpt: "UK-headquartered Blue Prism has launched a new service of intelligent automation software on Microsoft's AppSource and Azure Marketplaces"
-    publishedDateTime: 2021-01-05T05:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/blue-prism-extends-intelligent-automation-software-offering-to-microsoft-azure-users/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 47
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2019/06/blueprism.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
     excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
     publishedDateTime: 2021-01-06T06:03:00Z
@@ -307,6 +277,6 @@ related:
       domain: tcs.com
     quality: 29
 
-secured: "iFnlc6uSNTRx2z2JVyRDmsYVwq8VQQ3yuGgv61YWrOwpVGsO7gIMkL6UR2PbVCxnlHPFt4NHQlfkQJdZuDwng5nyG94qFldWh85J0T1lQksuHhrQgN4Sux88g4fFz2S6vy3sNht5GN/9FiFLfOnshHbodT53K+plzihffD/oJJ57jmQ5JzUZnrYJyBEA4oS1f23j8glDbqQDVVHA3o5Ol0mi+vNaUN+LtOepA/yuXqBx19QgbW+uaoFS5fLVArbQCkZTPpDdv8zweNRSDxBpmQlCpCWNvIzAPNszEcCUD6Qk0YXDvNu8c9sVIdPGDt1daE3pj4FEaoCm7x9ihS17wbGUghF67kCsAu8tO7+syMc=;2CsI2qJUd5UiNCGbU1yNtg=="
+secured: "h3q8hY12MDzT6f2k1pdjMc4rG3w6or4tFGf7McQYbAwBwruC6+h9JwPCtCqY3pOosPdvHST8TSRMS9/nucGO5/Q1ePE4fhhzck/zXLXcx3XMCZ/l0cq5e+dw0gPInx+UBJaRYVoj2gpWgHue1JPrnFrFaSlUXxVu83zOnB/OR/bYSMUm/rEU1j/dWJ+eKvA1GXUPl5ojHvdEyBFjGPfQvWlRERKWa+Pm8sOBceozpuhVN+7axRoqMxcTb9XaF8bfBgztTQZ3TXJe9ReH/55FPQpy7oM8qlhYdoE2Nvuq7lxBE85ZVYPPhyWhgbXqaUqdnNEL2F3ChrzPGg9yO5kWKrrCWrPOljzIx7Sg8pmBF+M=;s7RrZZaaVWm/racO3uSofQ=="
 ---
 

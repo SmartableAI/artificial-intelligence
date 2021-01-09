@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Diabeloop SA. and SFC Fluidics Inc. announce development agreement for the United States"
-excerpt: "SFC Fluidics Inc., developer of an Alternate Controller Enabled (ACE) insulin delivery pod and Diabeloop, pioneer in therapeutic artificial"
-publishedDateTime: 2021-01-07T14:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-1029940816"
-webUrl: "https://markets.businessinsider.com/news/stocks/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states-1029940816"
+excerpt: "SFC Fluidics Inc., developer of an Alternate Controller Enabled (ACE) insulin delivery pod and Diabeloop, pioneer in therapeutic artificial intelligence, are partnering"
+publishedDateTime: 2021-01-07T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/p19059785/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/p19059785/diabeloop-sa-and-sfc-fluidics-inc-announce-development-agreement-for-the-united-states"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19059785"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19059785"
 type: article
-quality: 25
-heat: 25
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "kdoPHgpMLaz/5U6JeJMX2UfMDZmgIB9tWV9l1INXBJ87lLlgm0vG7p65O9F9zvH5X1vJW4qqWpVCu9LIw0XwRdX6cZ716gjM5zDWXWrAscipLyjQPMk9oeL2rLzkLU/yq+541H21TDnD2zc2P7Mf7asArsZGN6GWgs774Emy6gyGtCzI3rieTb+Na1ewjmtoNJnSYqOo8hPFOnj7tm4x9uH66ZXzMLRO1PR2pp+4UtyZIhO8q8HPG3Te0VC9tc3+mpUTGKhA3vEt3PmksQcQSHCmh47s/OHHlm/HbxWrfzVUHS4ewIdzRgTB7dq01WAGdfgo5ZVuWXA35JQOjoMxHTp98fLu+tXrkzATcap2g2s=;xwU3PYLEOA7LFrkZxG/meQ=="
+secured: "ep6pF9CAYGnX7pScanWxfpVnOSA9gJzsv7UukzVY5lB6vztWrQrBYEVuCNBn0EWnOWDuqNgNa5t71EfK+BWWTf+zLIynBnZBgLkV3EZl7L74/7CjlxWRG5Xyp/BsqViVAH2ScxIU534dC0z2+z5nLKeXQOCVn6XmBYT4nsyUyU57Yp+qR7Ige5JT7KrbXruOlulIW5UpPavKI6CtYnHoSQ6Zz3oqjtz+OfeTArBLe+QkzmVAiX0ZVgf802AnkhH21OgEVh9THxWV9ex4xdPE4EqMnyuyxnaT/MsjWDQX8IKUDSk7JKho8zvIimnE5P3+c7gy2tkFuNaJGWJwZztqSGBzdgldkWEKMq1JmTEhWTc=;k1Zo8D1b51y3/mg489TFlg=="
 ---
 

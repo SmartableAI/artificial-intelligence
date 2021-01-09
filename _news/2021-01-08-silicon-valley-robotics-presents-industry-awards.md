@@ -3,11 +3,11 @@ category: news
 title: "Silicon Valley Robotics Presents Industry Awards"
 excerpt: "Silicon Valley Robotics, the world’s largest cluster of innovation in robotics, announces the inaugural ‘Good Robot’ Industry Awards, celebrating the robotics, automation and Artificial Intelligence (AI) that will help us solve global challenges."
 publishedDateTime: 2021-01-07T19:51:00Z
-originalUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards"
-webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards"
+originalUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards?listname=Automation & Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards?listname=Automation & Control News & Articles"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.automation.com/getmedia/e61ab502-75f1-47e9-b3f0-6315aa7fce04/Robot-awards-Jan-7-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
 
 related:
   - title: "Silicon Valley Robotics Awards SICK Champion Award and Innovation Award as Part of Good Robot Industry Awards Program"
@@ -34,6 +40,6 @@ related:
         height: 313
         isCached: true
 
-secured: "71nrNUVwoXbKD7coHW2HL2Z9++ve+EvwEggTLS+whFRhtOKug9WgExCWueni1g6bgqizDS5DNDd5xCm6xZ+vOKlhWptXH8baGxlB5z3aKkFmDFroMUsThAOD4PgroQmmjIBVnVoP9I0hxPJTQGwXEl0OpDiZAr0Febj387tjmpc5vkqm4vcSdEHCqx8hQpsZZt56D+0PPqD2/UOscbNAiBUwoA7PwUR+SVfc2k9dTchgncy7+vRMwOgfp+jMNSMIUAYDr4xF9feR1pwxmv4CaKBqr6O0bwyYItnoT5cCRT+5dQXuMUPMz/MKIfT+JDQ/aaT17jG8p3aMM6VYh1AhxjYvJAzkKJKpLj9l+tmIKL4HT5x2otQB/aoJF37BHKXze0xy+mScCiiCEDox430FGNid5M/HPAb0ZnaW+oik9p6PCDNthGqFXuEAO7rGlO7pOKLlNTDGfZEB3gOqh5SxzNSCGlhY197bK4x+3Z83FCgeIdHK2vRy2NnPZohN3kkBn+8UbUq/YgMqE90FYB5chg==;GLEjxBIMIHczNk5KtAF1pA=="
+secured: "fWG9456850jqkppnEjllXzcVM6KfvEnNj7o/P1Qdkx8V8kj7nP5Eg2AwGPym1GhjdnkEqG+XOeOOYNmPDI925mEIItuh4taTClbsRhklSVK4Ct5ZnEVIxsBP1USkgoVE+cJJI/6DusBe12atSgbhtO+HKZMd8u8nwIT20bKQcheJHk6RKZCexYO9Az0Flesa+H47D1oV8hORFRGumIrQPrXz4SiUAItWayG7ShEcql47B1y/e/XvR4RNA6kaVtjyCS6jAoRqOhbsYOSuVA5UU5aCJB07x+uPwep3b24V44X1InUmHqLD4Lmucha2b6KY4mzJYQSihGO9vccFQ3FGfifocWuHGDv3VHA7QTtVDGo=;Lh7yeKMO6UfNJPlaQ/oCjQ=="
 ---
 

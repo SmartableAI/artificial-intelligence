@@ -3,13 +3,13 @@ category: news
 title: "AI-enabled Mercedes-Benz Hyperscreen takes the digital dashboard to the next level"
 excerpt: "The 56-inch curved screen extends nearly the full extension of the dashboard, serving as an \"attentive assistant for the passenger,\" and can store multiple front passenger profiles for personalized experiences."
 publishedDateTime: 2021-01-08T18:00:00Z
-originalUrl: "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-webUrl: "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+originalUrl: "https://www.techrepublic.com/index.php/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+webUrl: "https://www.techrepublic.com/index.php/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NvQCycpgKqJa86vJWi6qI4hDYrHQBzeFNpx/nF5Lq46cdfflIzBmwjGRl5lDpm405Iy802UHqMLiHez0L0QtFHpc4G018Tx7okDegm8KP8ZVRbzJ9HsaHHA39/CXXyxS0zsIE9Sad1CzIjLorjj5YG76/5ZIuewdAT7EZPlyPtHKZLF1heuFJjurR5RU7BBSU/SWoiVVsia+zXHsJ1KbrHVTVSWFASYgQsuvTMWceAcj3dtQcWw3Wi4V0vcqIsqnVUUe4ckAyrQdhEz90bFGa2UckBVSeAKqut02CmsG0JQXneFvjANz3quFQiKKMKJ9gNQp6q0n9N4X9WXu+uUIMA+5CB+gdbzuIFE1j6+e8u0=;qugPck1xwkMUaqQ7zPU3OQ=="
+secured: "mxZaWikPCB/bdAnaXJvGqeLFxp4GPqpPJIJ04YlyhwsBVKyroJH7gl7SrNJqShrzziFZGDC5RSagHGpsPclh9tIXeam+wC5N1wVuirx96kqwj529vkkbNBjnLxCY6jhmh7gQYNoEDiZYCjES9hSvXAI9RTD8G3eeHvtdXGqGFnQTwo30Or+qBkTk48fPENgaM+fCiyZgZ49Zl8mrUVnWhAfTShv1etCdimIMfHjSe79+77xJ9IAPyUCVpRrS73Ayoc3l7HQbsgGO4ZRWBYTf3vltMop8e5Jn6JJY3lynSCovke87oKaThjFg/eEX9z6goev3254VD0W+tSnVyVwnJZEtg929EZdwUfDfb3qxpnM=;C8/pOh/uswafoUplCGIzLw=="
 ---
 

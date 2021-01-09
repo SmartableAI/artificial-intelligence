@@ -143,20 +143,6 @@ related:
         width: 5568
         height: 3712
         isCached: true
-  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
-    excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
-    publishedDateTime: 2021-01-05T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NIST updating guidance on facial recognition algorithms"
     excerpt: "The pandemic has inspired new uses for facial recognition software, but may require tweaking of algorithms. Masks, which leave only the forehead, eyes and maybe the bridge of the nose exposed, can make it harder to identify people accurately – especially for law enforcement."
     publishedDateTime: 2021-01-05T18:00:00Z
@@ -298,6 +284,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "RIyZ6BjOlhcs5NidjPqwampo5TMXf6m1FxzYKxq/VmKPVvHl6lNsbH1QZbxJF6ITHWz3XeLuymqNe1jJbdyXLFYDoJ9OT30v0ohewUltFFtNrfsD1dmT5YczDz42fX4nY5AwFtBoaPuv/wGpm2nLS4IGyJlge8VASCnxXC29hXfXWtVPzDP2Md0zlRZuCBA89hszYeltxgUUqwJu/wONh8+UgXLn3uj9FgesaWpGywllqp2qOavoBnuTf3lZnS2fV3CidG3LYHUtIYBP0e7O5Y3FMjXNBlXPfmdFJcEFUZAsyfRixeXIfeISgKr3X3sGwS07IbGkL17uo1wfaWXVJmfJ2Pt5uzIXMS3jV1f2olo=;RGlm8eQlQpjyHZHai6zLMg=="
+secured: "l9nXPVeaNw+PAyBQv2T4Oy2YybFFHufSEl5WwHC9JLxuAPDGSjNZuRKh++PTVzpjRtlo3YKmAjOCuiauQrk/Scy1OohHif3D3Kth1x58D5SEaIFGdX8bBoH6OlrK6k9R5QY6BoTKeMifCWf4JKCLKFW2v1MTBKAXfI3O4eaCrzahgbkMdmyvruYl9bmsd7hV5Jul+gatKIe0F4sCzEGjKaIJqMyRWhATBtLHZlKh+/cR7Qf6JBX5oXAJtaWVHw0XNdyvM2HN3NBgOkhqk0jOEbpP3qAKG8OjVcRoL8K1pmcqWiZn2dZdaDue7PJNZPgNi3b1fLqsssO+h0MsoTBSEWK6KvF/FbQBmRImfvvHEExw4SdWf/n0WwDeBqV6cUEBki+KY/YgmYbUTRKjyLEmvPBsH2dtKa45h1CTt6ZIbJ906H7pGfc7R9CRD0rPqI4ISJKjkba/qENTF5neLGkRqsikGQfVPrwZpiF9h84+ZF6MszT9fDJo4RvMPD+EY4fVK7TUKN/NcNaq6dG7MYfL1Q==;nsC/i6e3/oPMtKOFXUCXMQ=="
 ---
 

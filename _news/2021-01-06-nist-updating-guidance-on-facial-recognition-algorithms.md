@@ -155,20 +155,6 @@ related:
         width: 5568
         height: 3712
         isCached: true
-  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
-    excerpt: "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,"
-    publishedDateTime: 2021-01-05T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Masks no obstacle for Japan’s new facial recognition system"
     excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
     publishedDateTime: 2021-01-07T12:04:00Z
