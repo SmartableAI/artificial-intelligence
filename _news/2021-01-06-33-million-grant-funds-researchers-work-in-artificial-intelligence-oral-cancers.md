@@ -41,20 +41,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Researchers featured in Medical Research Journal for Artificial Intelligence Studies"
-    excerpt: "Drs. Shaban-Nejad and Ammar implemented an artificial intelligence platform called Semantic Platform for Adverse Childhood Experiences Surveillance (SPACES), which assists medical practitioners and health care workers with diagnosing ACEs in the early ..."
-    publishedDateTime: 2021-01-05T00:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uoth-rfi010521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/252792_web.jpg"
-        width: 720
-        height: 1080
-        isCached: true
 
 secured: "XLSL0PsyWVpmeWlvUS439U2U253Dh+GWRMofUcbIBvlY9kj1S6QaS/YAydYGsBRTNlYun6i4fHDxpnNxhXWhOB/cD8EE99OwLY5gwyEGIjF3ox0DLzipRd1w90kkkicvEtB4MQsCKyauTutY9jJ6n9wsQGiiP30+3mGIPsVjCRol/cVSMhmQqA9K9eILcb0m9c2g3Szj6x4txsEG8sxNniSKg6eIheNeJQpYck6ZIvBiO99UZtGHBB0eUpd//kgGo7D/AhcvfRI7aMH8IGOxfGlyvBZAbxZEi8YfsFA9BoOk30vILpPd49TZ6UunbTKIyT//HDv2QET9UvuXG4Ka1Ahbi9GeudwNZ+EOLR5RNte/1Sp4ZftsROHY/4ypCPXecRrVY6XfnMnwt9G5cJ2OJdkSTyQtVINa34B3fgh6IUcjXcsJV8dD83Vgcyfb39I1hGiB2scUiQIJM2UR7w0CpoM4iwX5Jqqf36IYh8rMygD01j3bwT0PJpRW56EW/9sP8etC26WigsLM9NPSwFNUhw==;pil3ChIXhEi20NT5j6v5Cg=="
 ---

@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Statistics, Future Plans, COVID-19 Impact Analysis, Competitive Landscape and Trends by Forecast 2023"
-    excerpt: "The global natural language processing is growing continually. The market growth attributes to the increased adoption rate of NLP technology across various industry verticals. Besides, the growing demand for M2M translation and increasing application areas ..."
-    publishedDateTime: 2021-01-06T14:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-statistics-future-plans-covid-19-impact-analysis-competitive-landscape-and-trends-by-forecast-2023-2021-01-06"
+  - title: "Automotive Gesture Recognition Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Automotive Gesture Recognition Report\" provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2021-01-06T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-current-and-future-industry-trends-2020-2026-2021-01-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

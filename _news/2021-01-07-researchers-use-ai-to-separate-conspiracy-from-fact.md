@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-f
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s3-prod.crainscleveland.com/styles/800x600/s3/cwru-signage-feat_0.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Researchers featured in Medical Research Journal for Artificial Intelligence Studies"
-    excerpt: "Drs. Shaban-Nejad and Ammar implemented an artificial intelligence platform called Semantic Platform for Adverse Childhood Experiences Surveillance (SPACES), which assists medical practitioners and health care workers with diagnosing ACEs in the early ..."
-    publishedDateTime: 2021-01-05T00:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uoth-rfi010521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/252792_web.jpg"
-        width: 720
-        height: 1080
         isCached: true
 
 secured: "HyzGlkIkkZKMCOkyVE0p/3vHJEt7CiXHAj0QYPGBPbccBWuzFDgB+P7nkMY/V4vmxhgBDVhlK863srvoaJOeSOZm21X0HQfidOe5ZPfEO3XIOo9UkblNOKoDl+VuWyLCQuJxcZ4niPE2CIJiEWTpsJSnKz57A3jtONPt4W7FAz39oY0V9pOM2HuX6pxhA7ACLFgWDbhZn951aUBUDjSnpJzA6wS7SqrRfmBeyRIm4zAYzWmHf5bHFm4zUGuFiz7A9+GPYo4Ajh/scBBcpoLcfFpK3ybgs1D+n738FxqUNHbLSa+J78qLCgcANKuWz6xTkqvBUO4UdXv5h+VHKD2qCDZWTw06bokwmm+rKb4esW8=;nWHaX/AFDcYYMXqEBCl3ZQ=="

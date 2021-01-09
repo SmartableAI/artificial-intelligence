@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-neural-networks-playing-video-games-teach-us-about-our-own-brains.md",
+      "title": "Neural Networks Playing Video Games Teach Us About Our Own Brains",
+      "excerpt": "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when",
+      "sourceUrl": null,
+      "webUrl": "https://www.miragenews.com/neural-networks-playing-video-games-teach-us-about-our-own-brains/",
+      "originalUrl": "https://www.miragenews.com/neural-networks-playing-video-games-teach-us-about-our-own-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://caltech-prod.s3.amazonaws.com/main/images/AI-VideoGames-03-WEB.2e16d0ba.fill-1600x810-c100.jpg",
+          "width": 1600,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-investors-should-watch-this-newly-listed-ai-company-heres-why.md",
       "title": "Investors Should Watch This Newly Listed AI Company. Here's Why",
       "excerpt": "C3.ai is a leader in bringing artificial intelligence to bear on enterprise-level problems, and the market for what it offers is only going to grow.",
@@ -345,7 +388,7 @@
       "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -718,7 +761,7 @@
       "originalUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1164,57 +1207,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer.md",
-      "title": "Samsung TVs aid your workout with camera-based, AI-powered smart trainer",
-      "excerpt": "The extra, which Samsung calls Smart Trainer, is part of the Samsung Health app that debuted on its TVs in 2020, only this year it's expanding to offer guided personal training. It requires an optional webcam,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
-      "originalUrl": "https://www.cnet.com/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/QG50wSQEgdVJO3knKTxITWwO7YQ=/1200x630/2021/01/06/e0ef393d-dcaf-4c58-bfe7-3a54299c8544/embargo-jan-6-11am-et-neo-qled-samsung-health-smart-trainer.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/",
-      "publishedDateTime": "2021-01-06T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

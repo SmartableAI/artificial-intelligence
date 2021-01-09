@@ -69,15 +69,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "The First Law of Robotics: A Robot May Not Injure a Human Being..."
-    excerpt: "The Three Laws of Robotics were introduced to the viewing public in ... If you are just getting started with AI, you may want to start small with RPA solutions that assist with data handling and \"mechanical\" or repetitive tasks. If you are a bit further ..."
-    publishedDateTime: 2021-01-05T00:00:00Z
-    webUrl: "https://www.finextra.com/blogposting/19715/the-first-law-of-robotics-a-robot-may-not-injure-a-human-being"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
   - title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
     excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"
     publishedDateTime: 2021-01-07T08:00:00Z

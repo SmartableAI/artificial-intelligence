@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2027"
+    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) Hardware Market Size study, by Technology (Machine Learning, Computer Vision, Natural Language Processing,"
+    publishedDateTime: 2021-01-05T12:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2027-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing (NLP) Market 2020 – 2027 | Future Trends, Historical Analysis, Competitive Landscape and Regional Forecast"
     excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
     publishedDateTime: 2021-01-05T11:28:00Z

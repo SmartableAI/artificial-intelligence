@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-01-machine-particle-diagnostics.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fermilab receives DOE award to develop machine learning for particle accelerators"
+    excerpt: "Fermilab receives DOE award to develop machine learning for particle accelerators. DOE/Fermi National Accelerator Laboratory. The U.S. Department of Energy Office of Science has a"
+    publishedDateTime: 2021-01-09T16:09:00Z
+    webUrl: "https://www.eurekalert.org/features/doe/2021-01/dnal-frd010821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
+    images:
+      - url: "https://www.eurekalert.org/features/doe/images/dnal-frd010821.main.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Machine learning improves particle accelerator diagnostics"
     excerpt: "Operators of Jefferson Lab's primary particle accelerator are getting a new tool to help them quickly address issues that can prevent it from running smoothly. The machine learning system has passed its first two-week test,"
     publishedDateTime: 2021-01-05T15:38:00Z

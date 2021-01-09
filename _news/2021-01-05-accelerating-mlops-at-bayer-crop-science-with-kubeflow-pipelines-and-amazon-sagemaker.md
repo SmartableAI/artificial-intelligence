@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 666
     height: 630
     isCached: true
-
-related:
-  - title: "Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth"
-    excerpt: "Amazon SageMaker Ground Truth is a fully managed data labeling service that makes it easy to build highly accurate training datasets for machine learning. It offers easy access to Amazon Mechanical Turk and private human labelers, and provides them with built-in workflows and interfaces for common labeling"
-    publishedDateTime: 2021-01-04T23:40:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-a-custom-labeling-gui-with-built-in-processing-logic-with-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/Implementing-a-custom-2-553x630.jpg"
-        width: 553
-        height: 630
-        isCached: true
 
 secured: "o0MPybcFaDOqKtSF48ysH4CYnm6NvSDw1Cq1ZcsEEaJg540G/0HpkU1eax0+Xwnp3NvybLVlVArppetJ6kdfNV4Qq+8Vblkz88iiTRsqGFUtcGxgfB/QkLPvJA9oouwG3ZC6kKvqBbSiucY+rwDbqFoEJ+NN8dgRzXBPI4RvzPcigGSVYaSIArIJ5x8HSamJTwSn6ZIcYyW2nkXEJR2feIOh7wSCXP88kOY8d0P1RYvvxiVev3yX7MzQqEnikH6x46EMNlUq5V89gvetu9McYQ/HS4Sp7gwANN7HkPzBfdq26ykfHmIiQHD4r/iCmmluAUZk/EKFZFcZotIqySp+Mk7Gst/891TC9CyR5lBuyBY=;kaTcoXLsKyBXusFGZtw/UQ=="
 ---

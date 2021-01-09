@@ -77,15 +77,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The First Law of Robotics: A Robot May Not Injure a Human Being..."
-    excerpt: "The Three Laws of Robotics were introduced to the viewing public in ... If you are just getting started with AI, you may want to start small with RPA solutions that assist with data handling and \"mechanical\" or repetitive tasks. If you are a bit further ..."
-    publishedDateTime: 2021-01-05T00:00:00Z
-    webUrl: "https://www.finextra.com/blogposting/19715/the-first-law-of-robotics-a-robot-may-not-injure-a-human-being"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
 
 secured: "xs63hSpKRpOLpL3NkqO6LMGtzITdEhUIoYf93f82bTaqXZZ1dE+rIszs8x4XKJtZm4dSmIjns7qegYO8HBnfo6IPd61XJVEOCVtHTAU2fXyoD5diHs5Pzz1j8RvgT+2dcggqq14/+ESRkWg46IzDfnb67OwfbkIjXRxVL3OhhPgR5z+icJzkpMgrAEPq24GGI6VMHzQcH9x8Kl4yf643+QwQJEZCYLpLPYjJLx6jI2iIlK9Oo7QfakkfHWwoohlqkZA2bwMpI60fW4+ruO0tWIBz8tGbjwPp6tZD4LRBkIZy3RBEiNuBei65ruqKNYwA8vIh4NFsNwFWJ71q3i1h0tyBkIkpJPFgWc1Y1x0/NrA=;Hwj8yQgmwUp0F5Fm4CHy9w=="
 ---

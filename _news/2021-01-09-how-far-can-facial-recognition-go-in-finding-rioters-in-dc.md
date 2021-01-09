@@ -88,18 +88,18 @@ related:
         height: 400
         isCached: true
   - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
-    excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
-    publishedDateTime: 2021-01-08T23:31:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/01/08/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/"
+    excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologie"
+    publishedDateTime: 2021-01-09T15:55:00Z
+    webUrl: "https://www.postguam.com/business/technology/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/article_4bd63cc8-522b-11eb-928f-675ec32fe460.html"
     type: article
     provider:
-      name: Alaska Dispatch News
-      domain: adn.com
+      name: The Guam Daily Post
+      domain: postguam.com
     quality: 35
     images:
-      - url: "https://www.adn.com/resizer/6hlNomXm9Wyx1O2tjZc6-h6gu_M=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/adn/PJGQ2VB3IZH6FB7XO5ZMKJS7PM.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/c8/bc8eb196-50cf-11eb-9a05-af5eef2214ab/5ff6dfdbeba20.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
     excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."
