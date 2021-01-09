@@ -277,20 +277,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI over Edge Computing Market 2020 Segment Overview, Company Profiles, Regional Analysis and Forecast 2025"
-    excerpt: "A recent report published by MarketandResearch.biz titled Global AI over Edge Computing Market Growth (Status and Outlook) 2020-2025 aims to provide up-to-date information on the market carrying out a thorough research on the market of historical as well as current growth parameters,"
-    publishedDateTime: 2021-01-05T01:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-segment-overview-company-profiles-regional-analysis-and-forecast-2025-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Market High Capita Expenditure And High Growth Rate Till 2027 | Fortune Business Insights"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2021-01-06T10:15:00Z

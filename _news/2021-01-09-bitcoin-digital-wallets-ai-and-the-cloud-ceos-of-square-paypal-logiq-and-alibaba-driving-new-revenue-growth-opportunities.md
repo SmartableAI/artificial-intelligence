@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Bitcoin, Digital Wallets, AI and the Cloud: CEOs of Square, PayPal, Logiq, and Alibaba Driving New Revenue Growth Opportunities"
-excerpt: "Bitcoin and digital currency adoption is being driven by the convergence of AI, Big Data, Smart Phones, and financial innovation – driving massive new growth opportunities in all aspects of financial services."
-publishedDateTime: 2021-01-08T18:19:00Z
-originalUrl: "https://investingnews.com/news/fintech-investing/bitcoin-digital-wallets-ai-and-the-cloud:-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities/"
-webUrl: "https://investingnews.com/news/fintech-investing/bitcoin-digital-wallets-ai-and-the-cloud:-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities/"
+excerpt: "Bitcoin and digital currency adoption is being driven by the convergence of AI, Big Data, Smart Phones, and financial innovation - driving massive new growth opportunities in all aspects of financial services."
+publishedDateTime: 2021-01-08T16:14:00Z
+originalUrl: "https://www.marketwatch.com/press-release/bitcoin-digital-wallets-ai-and-the-cloud-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities-2021-01-08"
+webUrl: "https://www.marketwatch.com/press-release/bitcoin-digital-wallets-ai-and-the-cloud-ceos-of-square-paypal-logiq-and-alibaba-driving-new-revenue-growth-opportunities-2021-01-08"
 type: article
-quality: 11
-heat: 11
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Investing News Network
-  domain: investingnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://cdn.investingnews.com/app/uploads/2019/08/INN-Logo.png"
-    width: 534
-    height: 241
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "MzUeeXykRxW6AZ7SPmVbE4BqdWuvjoiHFLr2DnaRDcga4j+H4gPlRIeODSLtQPDtl8prTgu9J4IEmilAN595S197uu1U9sOemKo6ISLrCQlLzb6aeqtV6x6kIC8SoVMC9IF2YXekLih+apDHm5hKYhqypplL5XCUmXJXkOQukuEI83j7mD1Z5KBixvkQIy+/p/ZeylhEV6Bn4zOIecmGFLV8P1DTSIMYRijeblliFOpkZeJobF8RM01AIjosPbeHJIKOkHdeD/frA51RwFaikGGjgGr0rv2fEW260Au4UtqGO8wA5/bXAeKbAdixRV662G4gs0p+MQGEecBHeMcscD8XHuRHa6lRt+SwPn2MTMw=;UjBNLGC23lijYnkzFXMYnw=="
+secured: "m4jJ+mkh3Y9vHRuOqoXunN+evBR+2se6qgXHj4dKBj61Ji11WxUzKp9Uapr4ByYZ3di4HJT7NjV+bsPaPObEkqwOLPWvb8k5fTiCGwciBEOBQgmo8iZktoiHUd08I1anpmrihP70IrQW8+YoYKpuSz2uxBkCC/rHu9AaTisQg7Nmmm3oZLHUfMOOSZS9HH4SaB1wy0zaKHD32bdyYtZyAqIWRN+ebFYekAky3mXKmX5QkCaq3mdA/aPa8FWpcMDuaUuYCNEhu1MOFZeUK3Sgo7LazPCZ9Sd1Swl5JMii92wmcNy0Dd2uJ5pIO4yKaN8sq12ay2ku+upKL9t5Q799ENq07A5bnrmnPMawXlPHReM=;YUiS3UyWZvnDETC4Fe7ZIw=="
 ---
 

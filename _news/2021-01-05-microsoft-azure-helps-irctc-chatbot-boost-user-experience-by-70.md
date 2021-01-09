@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
-publishedDateTime: 2021-01-05T15:40:00Z
-originalUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
+publishedDateTime: 2021-01-05T13:15:00Z
+originalUrl: "https://www.imdb.com/news/ni63147427/"
+webUrl: "https://www.imdb.com/news/ni63147427/"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: India TV
-  domain: indiatvnews.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
-    width: 1199
-    height: 674
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+    width: 1000
+    height: 1000
     isCached: true
 
 related:
@@ -298,18 +296,18 @@ related:
         height: 400
         isCached: true
   - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
-    publishedDateTime: 2021-01-05T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
+    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
+    publishedDateTime: 2021-01-06T06:03:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 31
     images:
-      - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
-        width: 1460
-        height: 766
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
     excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
@@ -321,6 +319,6 @@ related:
       domain: tcs.com
     quality: 29
 
-secured: "i56yVKsgEFqJmJeG8/ClD5zPlv3FgbqJqPNGme3V234MnvVpuj8MqrRSVqkvWMxhMEFFj/LVuU42qx93HCdo7bOxPTZupHsv1lEiIBam50S0x9lhS8Ckcvh440t1217wB3CTJRuKKF9PlSKzD+NREMjyK83DVPvt7oEk2EYIx4rUfOYjS+X6SlAE2yfK5fEAEAK9t83efFDwUgOJ6HLR+hqL0QDVI+Zp2SXoqJA1wKNanBWULoXC1UTlAzjxRQkr6p1aeeD7R8yGYxeCOshu1Qg8TCdM4kBjX5Il2hCsyMgLnW5E3SrmFWVwOxeFEU1Sk5G4GnN9Z/U9DUs5E3hJ1kApoT4+ZTPHvW5ixbhaloo=;LlO/fZsbv+p8Pc5pzg6Orw=="
+secured: "/6rSH24TRfUP1EOnEi/DrCtw+3dj0dTAUOSUyn5WiibZrWLJp4SZjRrs7P7mwcF5lckTsyFE/IsEm065qkbat3fu/77Rconv63xok7KQjmK8A5VfCEHASXcWOCt55KoPJWgBbOlgTvxi4ew8y13xrYMoSGtT4f9hwf5TKrOsumxm1pYylq5b4xjmh+wjCEQwA39jjbGlOOf83gZz2cqO6q786CI+tpATkE95/lobg9OrnJVd9+Dx6q8ffvfyHP526dx2asjxY/iFo9sw9fFa/RK2KNhOYeXuT45zcHOQqp01tZ0lkQbov1dtaPgwtmTwk8cilkaRqZON+SJcaRKaAafwxCyPQ5bJYPIqDw6qdnA=;yR7CWW6NdFs2MbeTKhbICg=="
 ---
 

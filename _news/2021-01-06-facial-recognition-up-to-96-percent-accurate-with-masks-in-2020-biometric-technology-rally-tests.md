@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/facial-recognition-up-to-96
 webUrl: "https://www.biometricupdate.com/202101/facial-recognition-up-to-96-percent-accurate-with-masks-in-2020-biometric-technology-rally-tests"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Should we fear facial recognition technology?"
-    excerpt: "The growing use of facial recognition technology has prompted calls for bans and stricter regulation around the world."
-    publishedDateTime: 2021-01-05T02:54:00Z
-    webUrl: "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 59
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_1A94WQ.jpg"
-        width: 8194
-        height: 5463
-        isCached: true
-  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
-    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
-    publishedDateTime: 2021-01-06T06:57:00Z
-    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "Lbqs0TalR0qbuRZ+kmwJH61uatYpdNDp3hLujHy4SMTj304ZpBEBLpfBf6aWk/OQDUvHjd0FhoJ6GEnF/7/zZGtsKW1AvUyrhA6KovKxvRgi9t/PS8pF+xIyPnLM2vi0Cd8NEeHZsZb/2PpKsgtSKvGCIo/iiq/oCefUd+1m6h9bhpRFYJr5tABtzPKKZxstlZpNCT3vlVAvfoz7Wyial62ytT46smlsOzKzsSpzjVlsiKJQSqzUeJr5r/gatTN/1BJ9E9jf5G+xPROsnLl1VKEBsYE1HOUyjdiGLLG/6Euir07U8vFXiuIx4ESP/4LClLTxcMm2SXky/SM2X4HQnzOu/Y6HCJLBebvGpAQUCn31bIRp31L4Gd1zgje7Q1Wxc4tgkJOgZFcn0bkLkDSGjGfDu4IQ17RfIFWfFOwISJuYJLgDTRc4xtBsHfX9Imv5j6GGgs3J4LZ/hcTIBd9uAbk9np76bb4CuByZMujL8dJbhRmtR71xqQ/xIj4/YmnNfgXLeBSaqXMbdj8OCeluAA==;pXSGZeZasIVNyvfzzrdTMg=="
 ---

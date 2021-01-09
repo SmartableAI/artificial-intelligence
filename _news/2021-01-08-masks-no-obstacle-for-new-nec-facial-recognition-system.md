@@ -3,8 +3,8 @@ category: news
 title: "Masks no obstacle for new NEC facial recognition system"
 excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
 publishedDateTime: 2021-01-07T22:20:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSKBN29C0JZ?edition-redirect=ca"
 type: article
 quality: 69
 heat: -1
@@ -296,6 +296,6 @@ related:
       domain: abc13.com
     quality: 33
 
-secured: "IA31SN7m2naaOASosRqHuWyc+R66OVwUhEzh3MNMpR+I2qbCRBvAB+zQqGC0gGQNnkFVgj/GyqMYej826W3s31MDji+nNBmfhJpwdcG+TMJscXTFHzj+Tgf0nhoJ+YKxtZg6kQW+OE4JioscQLV+25D99eEP0nOu4M5WiHwRWaZPh3dcY3+vF8k7i12WU/jVV9i0nwyBiCpj30i5xcJX9a4zSo8IhwyjAtGNMCRlknL/8noZkQzhWxDok9fUMpWqVkbobv/nG+3CHev1iZuh4xsne0wvURRIE2UdGSDTct+Fpw73XGZ1CtJABRxvXgQCEU3dGW3BzM1+7ZYfVj0FL6KEhCa5sXeOUeUWkvxuSLkb+buP5/hOivge48q7tq7fCc9aVjwW9+OueVdusDmlkiE8/LUJwyVVE5bY09km0XwFEULVY/J97VhEegsQS98A5Eyy9Zh5Xq9g0q/LUqoXkTnnTcSIEluReSBblNmQz/MRcNyTLNARknL8LncoAGf5zvt4UIo62++bFIs9cYPmRg==;sdnuOR2wqyo1/6gDIYPd2w=="
+secured: "iWKdEDGddKMm59e7wAZYZVe9bHlQESoXX8KYO3/ibKqRlvKKEpIFWIAjtk2+P5eYdg1HFZQ0sdiLPF7S3dO2VxDmth2m0KaBHPuEeWVkEI3XssbC9mGul+FpmcT63+jRfatYiw9ApABYxvuQigUThrQLiwZu9krFECTggRKFywAGG0LkC+BOmObhttpEy5a9SkSDYmM7ThqEKm8zoFzo9Sf6eDWr08G6p/Qifl5KszoAvXuetQEozjr2Px/wjTG/Ze35LoXXXFbLhHM3I8tvjhEWYq1b3oyfvidEVFTcFXhBRra0Xu4GlO+aevGuUjeV3RKqlHuKLLaZMbU/+ndUUEMqVVseh9937cdh+pXLfU0=;mSD0d6tLa6xZLVzC4Ic1mg=="
 ---
 

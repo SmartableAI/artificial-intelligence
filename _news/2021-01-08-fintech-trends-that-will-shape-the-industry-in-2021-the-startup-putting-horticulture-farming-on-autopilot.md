@@ -95,22 +95,6 @@ related:
         width: 750
         height: 591
         isCached: true
-  - title: "Fintech Firm Launches Online Payment, e-Commerce Platform"
-    excerpt: "Okobi A Nigerian Fintech startup, Shago Payments Limited has finally launched its bill payment and e-commerce platform, Shago, into the Nigerian financial sector to serve the banked,"
-    publishedDateTime: 2021-01-05T02:33:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/01/05/fintech-firm-launches-online-payment-e-commerce-platform/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/01/05/fintech-firm-launches-online-payment-e-commerce-platform/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/01/05/fintech-firm-launches-online-payment-e-commerce-platform/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/05/62342807-fintech.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
     excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
     publishedDateTime: 2021-01-08T06:43:00Z

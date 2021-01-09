@@ -24,6 +24,22 @@ images:
     height: 656
     isCached: true
 
+related:
+  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
+    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 36
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 900
+        height: 500
+        isCached: true
+
 secured: "tg8JQqNP8GhroRx5D6SMOXR1QBHBG/0Gz6Nemj/vPG3urZoTmIBMlpmqegoJCKHvKmGkHI40Ps/hOlSa1l2yFAppJ7KSz4sY+T1piOvSn9Ln8JILSxniJDYetkfLv+lInrJcqSP+B22WSsOWir8xi7j2K8dI1rSgCdRP2mI2ghrpQTP+922SZUyeUwURjVLQ7/oW3Q5YNdwH/EvyqOFrOwUdG9D29+jXFhhUbxR+qePeFZzIriPhz7X8WAIMFoRcIGgJtpnC6gylLXChWIHeh4PCG053dX/zD+ZU26l08lhHisNGw9UY+dRDxl+nkKwv758E8oePD1tqTCGJkWMnGulEGUyd9Jpz9ebEZtyxUW/IpOQ1WS1feos+8zMML7IhCPqklfyHfFOvl+g/FRW+oNcwoIO9DHlbaZUWl51SyzT8EWY11XXy2UW9PYXFPCMlzsI3H66YuCE9XPKF5M8HVSNbcM3r6M51v1tRqk3ewAxhnOlhKKvnfYgOR8kHXmwyi8y3E7Dwka4tZ5/AEEVKXA==;BHuY3jhjFQIREe84S360jA=="
 ---
 

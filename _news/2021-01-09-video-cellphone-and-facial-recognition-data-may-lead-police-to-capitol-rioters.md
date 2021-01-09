@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Local Police Force Uses Facial Recognition to Identify Capitol Riot Suspects"
-    excerpt: "An Alabama police department is using facial recognition software to help identify people who were present during the riot at the U.S. Capitol this week, one of its officers said."
-    publishedDateTime: 2021-01-09T03:53:00Z
-    webUrl: "https://www.wsj.com/articles/local-police-force-uses-facial-recognition-to-identify-capitol-riot-suspects-11610164393"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-283101/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "How far can facial recognition go in finding rioters in DC?"
     excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
     publishedDateTime: 2021-01-09T04:50:00Z
@@ -55,66 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "CORRECTED: Facial recognition identifies extremists storming the Capitol"
-    excerpt: "Trump supporters say that Antifa members disguised as one of them infiltrated the protesters who stormed the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-08T15:26:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 58
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Ann Arbor considering ban on police use of facial-recognition technology"
-    excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
-    publishedDateTime: 2021-01-07T15:42:00Z
-    webUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 43
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LRAIIY7Z5REOPG7ZNW2XLR2YQY.jpg"
-        width: 3745
-        height: 2500
-        isCached: true
-  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
-    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
-    publishedDateTime: 2021-01-07T22:05:00Z
-    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
-        isCached: true
-  - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
-    excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."
-    publishedDateTime: 2021-01-07T18:40:00Z
-    webUrl: "https://www.snopes.com/fact-check/antifa-facial-recognition-capitol/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 34
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/01/eye-5814965_1920-e1610038979612.jpg"
-        width: 1200
-        height: 717
-        isCached: true
   - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
     excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
     publishedDateTime: 2021-01-08T22:41:00Z
@@ -129,17 +55,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Using Video Surveillance & Facial Recognition Technology to Identify Individuals Involved In Attack on U.S. Capitol"
-    excerpt: "ATTN MEDIA OUTLETS FOR IMMEDIATE RELEASE Thursday January 7 2021 Contact Thomas Carnevale Email tcc umbrellatech co Phone 630 270 3313 USING FACIAL RECOGNITION AND VIDEO SURVEILLANCE TO IDENTIFY INDIVIDUALS INVOLVED IN THE U S CAPITOL ATTACK Thomas"
-    publishedDateTime: 2021-01-08T08:35:00Z
-    webUrl: "https://www.openpr.com/news/2222088/using-video-surveillance-facial-recognition-technology"
-    ampWebUrl: "https://www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "m21pMs+gpRO44VDyXlOIAM/3XR1sxsiimVG4ug6WD4dcI2924FaMt/wT4MHWLCb2ho4YXL5tSLh+T3VGHBrKhgceI3Mw5cNd3f/qocsqlP1R5RQNgyL4jFl1PDvGRhDXcH9fuaNFRtYQUN4WY59udaLs8JCtvrrl9Cx8Dz857npKxF+YkVloLeuDzO4qicZ6tGKU9x+f2Bop070o4rNwJsnfM8BlYnnuqYJa6zNCMFnfqSs7NvE3aEAXgxfmIQj2fnPLwwQPnNjw3w/bZEVIEsl5Y84O/1v37+n+70Or4ei1zPZITlN/5SW2ajZnWDSvtfEETjfmCQ6VTx5/6zR87JobRSvQPr9JkB3/5mN2QPA=;kp8ED9a0PrmacN8DwF81Yg=="
 ---
