@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/nlp-in-healthcare-industry-a-myri
 webUrl: "https://www.analyticsinsight.net/nlp-in-healthcare-industry-a-myriad-of-opportunities/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "The reality of AI in healthcare: promises, roles, evolution, and more"
-    excerpt: "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?"
-    publishedDateTime: 2021-01-04T10:20:00Z
-    webUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution"
-    ampWebUrl: "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "gqtQrimDyXPzNiqBkceTxd9OGNPS7xKkD+RFrPs5T1x4RI4lZnfO3utf5vNH/39igzXQbnTj911JI84j39xO4X8p1SYePzABkkhBLx5YX9vP+zE7XfhV/eLZUeiSCdAqM4SVayoYRGvyu7qStSoJKvaosBbajuj3bxr66M0kUnXTsylMuhMaATccmF5xlYviH7TnqDa5/O28R7VeUIb1ITiSb0E2Rvn8PGOgd8Rcbf6GcTjWODgFjXOYMlrbTOTIiThxhBmeamHMtWnJzwBSmMNX33ZC6l2V6YPu5xtURgKiRzhAFy7GMgyHdJLx3Xvc8XFxf01GNkr0yTfoGDrSKuSWtXXEW6nbrx2MVQgN1FdNjgi4TWBwHawCJhCZkMp3RhsiqeMK8o8liN8cmPlTghQEKKTfS7Bz81a2JuiBFwU8dWCmkzCtIxuJ1l1o8bPjpNa0+tldiQSPJpRazWI7jgS0jGhjqrhzFRtUenDEzRjox4VCRSxVuKyPWiWa8bsRQBNOvQ32/+80WP4VjRA22g==;IIRvHyHLhqrZTifG6c+jBQ=="
 ---

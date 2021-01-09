@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023-2021-01-05"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -72,17 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Geospatial Value-added Services Market Report 2020: New Products Integrating AI Models Create Growth Opportunities"
-    excerpt: "The \"Artificial Intelligence Enabling the Global Geospatial Value-added Services Market\" report has been added"
-    publishedDateTime: 2021-01-04T09:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g18994787/global-geospatial-value-added-services-market-report-2020-new-products-integrating-ai-models-creat"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18994787"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18994787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "hp3LwuhuHtvojCSMh2KTCqFiclz2cYt5tmRKQnL96ei3YSQysPK3ZfJ46ZxpQTfgC9La/uujUimLARXeqwv4/nv4BzsYHJY+WZY+mtXBnhXbyZ+3zqjlsSqMLV7e05UlValZF/+OCbQRB+oLN9eEci6KmoK9ee0FsLCdSZzIgjSK7hlVHVZbia1Y+umP6JRafGpiMatUbBxoLGBQn7KxHLejaNQjcRVaAkfVDDx3o+MrE4wwnTp38R18FsFhfQSuPMv6rrGydkmEkT/MQbugpeaK9Y/0GoMuGYyHuCXmNbPO8Av3Nuj7ERCWSKcaSZ64EM2Y6wBI0Ddo2QwK93xS+NirJyquES5MhVeouICdWBg=;bTTAXmBSLK/nWpoz0MzFuQ=="
 ---

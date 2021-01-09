@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025-2021-01-04"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market Share | Global Industry Analysis, Technology, Top Key Players, Drivers and Trends to 2026"
-    excerpt: "Artificial Intelligence (AI) in Automotive market is projected to surpass USD 12 billion by 2026. The market growth is attributed to the steadily growing uptake of driver assistance technologies for increasing driving comfort and ensuring safe driving experience."
-    publishedDateTime: 2021-01-04T10:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-global-industry-analysis-technology-top-key-players-drivers-and-trends-to-2026-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Cybersecurity Market to Witness Massive Growth | Darktrace, Cylance, Securonix, IBM"
     excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence (AI) in Cybersecurity market’ Report @ Key Segments Studied in the Global Artificial Intelligence (AI) in Cybersecurity Market At the beginning of 2020,"
     publishedDateTime: 2021-01-06T04:44:00Z

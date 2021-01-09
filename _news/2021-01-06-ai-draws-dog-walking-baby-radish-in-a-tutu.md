@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-55559463"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55559463"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     quality: 39
     images:
       - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "A radish in a tutu walking a dog? This AI can draw it really well"
+    excerpt: "An artist can draw a baby daikon radish wearing a tutu and walking a dog, even if they’ve never seen one before. But this kind of visual mashup has long been a trickier task for computers. Now, a new artificial-intelligence model can create such images with clarity — and cuteness."
+    publishedDateTime: 2021-01-09T01:15:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 39
+    images:
+      - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
         width: 1024
         height: 576
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "Sequoia, Tencent join the $190m series C and D rounds of Chinese HR startup"
 excerpt: "The latest investment comes after WorkTrans raised US$23 million in a series B1 round from Qiming Venture Partners and Lightspeed China Partners in 2018."
 publishedDateTime: 2021-01-08T12:31:00Z
-originalUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-669236"
-webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-669236"
+originalUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-668771"
+webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-668771"
 type: article
 quality: 30
 heat: -1
@@ -69,6 +69,6 @@ related:
         height: 480
         isCached: true
 
-secured: "kAt32C6vzlKua1GbRf8Px7GDJGFnXaPbOxGhYznYRJ3dIpn6LUV7mUwb9FoXjsz74TJt1nPTVhuYLo6mam+KR3pkVbCER3M8FO6/FpEUAnD+bwpF+aElkEhGQRj8jXWGTbxoz9aw9OWlqC7rPNqvaCVN+ciBsozcC6WNFVqKzhQJ8tck7I4yctEf/1U7r83PMMi9yP286fqoCI+o3g/2Y+LSzmcAXFtFA2Geu4j87BKCq9rM+7tTRmNtli3RjP7AY7hpHj5b0oLC9xboFub+PbHcb3klZ5ayJqI70y8b6K0x0zeGPoSe+39PMC4igESzdoI2qnISf82OdXRuso9EWooNL6O+IqiadKXpKW1MvlRCCjQbPYBnFQjZREds5Ruk3JMFvJtIUg3CO+aSNUlQh2Lmf3dkgvQUjLvabPKb5GDd0+DCCsPTGPOiZH0Ff1o76v+CYZwtqoZR1hyIEZ4DkNjfw6R5fY2xjesmwSjUM+OFKiTEFR3pDUl6pOu2VnZlmLT+lS10xRogADlbaNQGdA==;NBNUzMTgSfbu6t3DahwUIg=="
+secured: "1HKB/nwyET0vMOH/GdHwHGTKbJiyEmlLG12R9cyTaxg1LySjW6PKFmyTvSMjlrbv0nvFawVL4t6rebzxKum32MdKVJ4BKBtfzZN57YoeZqaCDVGjVDW+P5RFcdHKZbJ/HxKFPS4kiPurvRQObaIZESbIJ/kI/7w5MslTfvlifSqsjP9gWEG8YGawBu1SiV5ncs5l3fwAj+qd1MLXh16GapMKkqR0cIMFnfkqd386VWQSWwnMCvWFOe981hbleifgg8dX2bCsIM8XYQbmfthKu8YtWwOAmdObBlGwndpzjb5HXpmilDF321qCd60NxAUFXzMo8NCn3Trf1TcMOX8Uma59bxlCYu2kOQ/S3xBdnmljZnbmKUAreohosA7LJDdOZ8gVwvBdRGw9QWEjNuRUReC2/VDNN0T0mhHoQrKDlV12w7mjEtQGW18lZNFxWt7mnZ8Sb6AlBDNCYAYDFJPKpiZGcJvQnS3xXtNeA3LOVhisOWlklBmttRHYrt9/JZdcRPRi+g3ftb2RUiGLOyuQcQ==;e2mTA8UldsARpPttKGOo9g=="
 ---
 

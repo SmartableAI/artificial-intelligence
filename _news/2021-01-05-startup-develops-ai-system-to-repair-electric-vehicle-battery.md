@@ -43,22 +43,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "PURE EV develops system to repair Lithium-ion batteries of electric vehicles"
-    excerpt: "IIT Hyderabad-incubated start-up, PURE EV, has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in Lithium-ion batteries of electric vehicles. This next-generation technology completely does away with the requirement for customers to visit service centres to address battery defects."
-    publishedDateTime: 2021-01-04T09:26:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/hcuc4j/article33492378.ece/ALTERNATES/LANDSCAPE_615/Bl05epluto"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Hyderabad startup Pure EV's AI tech to auto repair Li-Ion batteries"
     excerpt: "Pure EV, the electric vehicle vertical of Indian Institute of Technology - Hyderabad (IIT-H) incubated city startup Purenergy, has developed BaTrics Faraday, an artificial intelligence (AI)-based hardware which can automatically identify and repair defects in Lithium Ion (Li-Ion) batteries of electric vehicles."
     publishedDateTime: 2021-01-04T20:09:00Z

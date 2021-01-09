@@ -56,22 +56,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "PURE EV develops system to repair Lithium-ion batteries of electric vehicles"
-    excerpt: "IIT Hyderabad-incubated start-up, PURE EV, has developed Artificial Intelligence-driven hardware that automates identification and repair of defects in Lithium-ion batteries of electric vehicles. This next-generation technology completely does away with the requirement for customers to visit service centres to address battery defects."
-    publishedDateTime: 2021-01-04T09:26:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/pure-ev-develops-system-to-repair-lithium-ion-batteries-of-electric-vehicles/article33492379.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/hcuc4j/article33492378.ece/ALTERNATES/LANDSCAPE_615/Bl05epluto"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Hyderabad-based Pure EV develops AI-driven hardware for battery maintenance"
     excerpt: "The company claims that this technology completely does away with the requirement for customers to visit Service Centers to address battery defects"
     publishedDateTime: 2021-01-04T16:05:00Z

@@ -405,17 +405,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla’s Full Self-Driving Beta Makes It From SF To LA With (Almost) No Help"
-    excerpt: "While it might be a while before we see fully autonomous cars become mainstream, Tesla’s efforts are certainly evidence that we"
-    publishedDateTime: 2021-01-04T09:04:00Z
-    webUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 37
 
 secured: "yiGiOPHA7SY2zpvRXNmUv4zgv4mzMelLVD6IqyazUoPtYAawshLqreuY6SdF7v0psIotqqsHSJZ5m+JaY3z0O9El2+HAZ4iksmRglJjKJdh3gFKjEBmNS8/99eGf9J1far+Udp2xkJWejwal7Cxuj3CdzEKQEymHYLkzL216BFZzDKEY7jE0nHeRJYlx1fVNJI9D4NE/TRA3RNlOKSWVVXLQuXc+HLlGqvq5TWFj/gUz5nFpZURHFDjWpKGydB+qL1cJy2flYhlsrDh2TvahpJApaz3AHrcY/wnhTHBJ+MAFAa1PvPJ7EAUQMK/pnMaADhNIBea0GLlMV4Hb0emIH08/wSl2cfwE7YRZlacCMeY=;b1cQm2QXncrpQ83/sFyU2Q=="
 ---

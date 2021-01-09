@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Share | Global Industry Analysis, Technology, Top Key Players, Drivers and Trends to 2026"
-    excerpt: "Artificial Intelligence (AI) in Automotive market is projected to surpass USD 12 billion by 2026. The market growth is attributed to the steadily growing uptake of driver assistance technologies for increasing driving comfort and ensuring safe driving experience."
-    publishedDateTime: 2021-01-04T10:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-global-industry-analysis-technology-top-key-players-drivers-and-trends-to-2026-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "RWpAU0WUn5OAyEZ+qyslV4baZtSSvIAzX8fP9iNM4aLODl5vIHJGf4j90ZHP+8DeM1Qz8c8mBWJG6NOvE+iHwbD83oBJ9Gv/YOE37iWFieie8dLKGKUnxKbcvRY0n0gU2FxyGLx7h7aVeQIVx8aNGz+kZfximQa4AbnKfFt0db8iDYpJsM6X7PtcJCwtdmIRo3uMc5m5YZbVWK4/Ft1wJPft6f/l9ms4PeQgRoNrvQNnp5OyZUHtD7Od09zjD3dkUrizsWAwWOHz5xdstHbbeGa4mCsLZK9sXAPFv+iGeHd4CvVvxlAZ0CAcko+kVZwtCqM2mlKOkiRrzqef/RW9F2HTgOvL6KD1MmFxMtIPrYc=;p4J4+yySLLb7mNb8m2FtSQ=="
 ---

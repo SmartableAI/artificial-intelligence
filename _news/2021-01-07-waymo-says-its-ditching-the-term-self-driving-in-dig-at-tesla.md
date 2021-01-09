@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla"
 type: article
 quality: 104
-heat: 364
+heat: 354
 published: true
 
 provider:
@@ -405,17 +405,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla’s Full Self-Driving Beta Makes It From SF To LA With (Almost) No Help"
-    excerpt: "While it might be a while before we see fully autonomous cars become mainstream, Tesla’s efforts are certainly evidence that we"
-    publishedDateTime: 2021-01-04T09:04:00Z
-    webUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/01/tesla-full-self-driving-sf-to-la/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 37
 
 secured: "3nEd6T/JNexr2Mv2hnrVBvUWVrJ6hTVtM803xKicWIJF3QOlUwEMv87jhs3uZ3YZpCLVguggTZf7xPyd2B7+TCUiqNrxVgY41BuWevtIGJi/L/b/3IG+fiExhhBp2PmA4SiS0W0zVqOc6DTKTMxBRwMo+JmxofoUc7TPrUs9TjsFPTTb8uRfV1NuFHey2n4NKXymhBE639luxisns5ImVCvvvbSs4B02N6GiBOpAZwpOUC1RYemzNwXIjgIfQD9rFNVpGZkO35W9+ckVuBIsDeUBks2R3Uwto1qPD5Pjw0l/jf3CKiMXWyiKQl2QJ9MZBnltZhtV8Ztmk30oriRocfEq2/Tke8IcX8YBSo3YLTY=;G+2A/LdFnNjeWxZYokKz4g=="
 ---

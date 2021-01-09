@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "U.S. law sets stage for boost to artificial intelligence research"
-    excerpt: "Researchers hope to use cloud computing and artificial intelligence to improve public transit. Low-income commuters who rely on public transit face many challenges—multiple transfers, long waits, and off-hour travel—that aren't measured in the usual ridership surveys."
+    excerpt: "The National Artificial Intelligence Initiative Act (NAIIA) of 2020, which became law last week, aims to bolster AI activities at more than a dozen agencies. Its directives include a study of how to create a national research cloud that would build on CloudBank."
     publishedDateTime: 2021-01-07T20:41:00Z
-    webUrl: "https://science.sciencemag.org/content/371/6525/112.full"
+    webUrl: "https://science.sciencemag.org/content/371/6525/112"
     type: article
     provider:
       name: Science | AAAS

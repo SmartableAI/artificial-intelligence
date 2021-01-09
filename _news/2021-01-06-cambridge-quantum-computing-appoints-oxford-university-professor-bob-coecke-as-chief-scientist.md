@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist"
-excerpt: "PRNewswire/ -- Cambridge Quantum Computing ( CQC ), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke as its Chief Scientist."
-publishedDateTime: 2021-01-06T02:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210106ln36851/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210106ln36851/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist"
+excerpt: "Influential high-level quantum computing pioneer, Coecke has made foundational contributions to Quantum Natural Language Processing CAMBRIDGE,"
+publishedDateTime: 2021-01-06T08:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252"
 type: article
-quality: 0
-heat: 0
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -29,6 +33,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "k8cThx/IdrwTsMyvEpnlbCTEmYBDDZz/KYuvh7tvSNjjRr2/HpHAewCRl2Zn1P4NVpegiP95axkVJ7Sr2fyIIEw9Tgb17Qfdx7scRoIK2VjwBPq22Kx2NpNrxtNS3geQiktKoBWD3ngNV9J+pAK9vVQ6GVvk+aUcSIMtGoDVHAmJ6rlijWblexd4S+7PJxR87dFSg9S+c1eG/eZxvVGxIT2RwfgR0CppmuXkZjmB4LxbjgByrKUOu2lYEDQyThBpiR13onw1htwo0hPNlQoF5waufBtPNmNOOEGvKujms2fYRUbyqlKv02h625qgmmcSQqGroz+jRHLmT5hLIfqYKWGSsCkS9oBGRsKTzobMZbw=;quIdN6qYzhJhG8XFxnnXiw=="
+secured: "OW/NK0RYBFJJspzz1z4Zv7WEZo5LbqblPI+UcM041iHPmOpjbLWlgtqvMqztDh3lwMab5siVvWFTGt9/movEJLdbqKZe+8tmL50SujsBZ2LX9uFnyATax7cavcFyo3tuUyMpk2LQxZpn2yy9Zhy7HafFeWaOSQLoLdIIkSloZsdhwaXRlwgL5KQOGr1rdZ8Oo1VAUTHA0YcAnJbhCxLU6lvXbmWiqDq8ohlhP45OMu+IinKUyPu0ynQl3mToINU02yM7AMfZ+3/1UREQn7LsvSJykYKu4K4/5ZIUj1xfxxINZe4jFnv1egNMZ8LnCY0ozgBfiyPtLW8jaAdRv7wlWJ68fmHVKQELz8jm8fM+Jkw=;wvVadP0JBYg2mluBtjZ/Aw=="
 ---
 

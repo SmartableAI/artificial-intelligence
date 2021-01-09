@@ -70,17 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Geospatial Value-added Services Market Report 2020: New Products Integrating AI Models Create Growth Opportunities"
-    excerpt: "The \"Artificial Intelligence Enabling the Global Geospatial Value-added Services Market\" report has been added"
-    publishedDateTime: 2021-01-04T09:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g18994787/global-geospatial-value-added-services-market-report-2020-new-products-integrating-ai-models-creat"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18994787"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18994787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "4mc53sv1cWjnzB34wb0yVe39xpkJHHMFBofCIrsqEZ3kRZcCMkBOA99jB3iZmJpV3Wpz94y+87Y6xQhmK6H2M+NCdOtLoW8VlaoZueJH3m9J6vLico+uckGxJsvYaprY50zHgV9u/PegDIVlh073rMBYbnnaNTEvF7EmtDeFzOEvHzPWO4sfVujCE8XsDshQRpgQOMM+aQ7/fbze47J8nqWIgEeAaJTR8cNsOENqhlkMQNGktSHCyoocfJfo6sz8IYvuEKk+d6by5YkEy+cEpG7QZrBf4EXaPXsYRL+QEcp8KTn5UUG/rmBC/eJOeoIqHg2p5W1MK/0Wf2VTfLlhNSSCcpXlXqippSUJuQent5c=;oJEBz4of/ipvCHmChUEixQ=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. law sets stage for boost to artificial intelligence research"
-excerpt: "Researchers hope to use cloud computing and artificial intelligence to improve public transit. Low-income commuters who rely on public transit face many challenges—multiple transfers, long waits, and off-hour travel—that aren't measured in the usual ridership surveys."
+excerpt: "The National Artificial Intelligence Initiative Act (NAIIA) of 2020, which became law last week, aims to bolster AI activities at more than a dozen agencies. Its directives include a study of how to create a national research cloud that would build on CloudBank."
 publishedDateTime: 2021-01-07T20:41:00Z
-originalUrl: "https://science.sciencemag.org/content/371/6525/112.full"
-webUrl: "https://science.sciencemag.org/content/371/6525/112.full"
+originalUrl: "https://science.sciencemag.org/content/371/6525/112"
+webUrl: "https://science.sciencemag.org/content/371/6525/112"
 type: article
 quality: 37
 heat: -1
@@ -48,6 +48,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "Fmkee7ZtH9G5rlvHwUItg1ApxzIrTPKpVKECMHJltAwUFo0CQiSM8Z9PQZJgMsIOxwytNczMKZ6fVF6yYGNwQ3ExNKQeUGpvxr5wkqRjKIAVD9yNDwMo0eOr/2IL7Pe2mNs813GMkWQtAhofLX3KdYdC3RwELZZMCyqt4Lp5E8dNERB/K0GFJKyan5xbNNiFAJPxwqzeALX4htDpwBX03guRgKzgJN6f2DGD6x1xCeQfQ2hyk1QxZz7zWu9cNI6Bx96FCDsmy7qx8LBo0l+Ye5lJ603bTnUSKNbN/FEEzrIGWm5uAyWR1J8oHlAAEHFZ3/SI80laRfN0IQZ9Fs2MwpKEHieNhdNUJBWFTPWSxqY=;0u214qJqxmeiohwVWY607Q=="
+secured: "r00YJslrylWyqaWWuh8IBfJ/+T+VlKJdQ1YWZTKSpn0/zw0CzY6XLupEu5J5oZcpU0iM/xX5rba4iHi/XLsVVUznf2L5gmpOYgkNYwRYqu1cIV9T2GSGRedxq6Tx+ikndQwTrtlqInJBrA7qwK1UY33MZava47Fs53K1OCuYjxLxHyGQuBaWfK0U6aeWrSipTsbEx/USyOT18inEUU2C8hAI8eFXtZGpP9LCQnegqjEv8FVHgvAvDiEbTGHEbQYMH/9waLyow1VaTi1nz0daFwR+0J7MRJ2TJzoom/y1Fxmj5RqAvOV9QY1zFoD7OkIT62NQ1RjBtBfS0VndV7vPIBblwLxxFG5nntr37mdQ+so=;CbFvE28uLiNC+nRYatchUQ=="
 ---
 
