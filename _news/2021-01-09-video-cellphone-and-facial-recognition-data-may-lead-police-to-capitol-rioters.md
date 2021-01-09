@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
-excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologie"
-publishedDateTime: 2021-01-09T15:55:00Z
-originalUrl: "https://www.postguam.com/business/technology/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/article_4bd63cc8-522b-11eb-928f-675ec32fe460.html"
-webUrl: "https://www.postguam.com/business/technology/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/article_4bd63cc8-522b-11eb-928f-675ec32fe460.html"
+excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
+publishedDateTime: 2021-01-08T23:31:00Z
+originalUrl: "https://www.adn.com/nation-world/2021/01/08/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/"
+webUrl: "https://www.adn.com/nation-world/2021/01/08/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Guam Daily Post
-  domain: postguam.com
+  name: Alaska Dispatch News
+  domain: adn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/c8/bc8eb196-50cf-11eb-9a05-af5eef2214ab/5ff6dfdbeba20.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://www.adn.com/resizer/6hlNomXm9Wyx1O2tjZc6-h6gu_M=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/adn/PJGQ2VB3IZH6FB7XO5ZMKJS7PM.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 798
         isCached: true
 
-secured: "m21pMs+gpRO44VDyXlOIAM/3XR1sxsiimVG4ug6WD4dcI2924FaMt/wT4MHWLCb2ho4YXL5tSLh+T3VGHBrKhgceI3Mw5cNd3f/qocsqlP1R5RQNgyL4jFl1PDvGRhDXcH9fuaNFRtYQUN4WY59udaLs8JCtvrrl9Cx8Dz857npKxF+YkVloLeuDzO4qicZ6tGKU9x+f2Bop070o4rNwJsnfM8BlYnnuqYJa6zNCMFnfqSs7NvE3aEAXgxfmIQj2fnPLwwQPnNjw3w/bZEVIEsl5Y84O/1v37+n+70Or4ei1zPZITlN/5SW2ajZnWDSvtfEETjfmCQ6VTx5/6zR87JobRSvQPr9JkB3/5mN2QPA=;kp8ED9a0PrmacN8DwF81Yg=="
+secured: "AzJFH5z8RilRCrto0A5cdDlLSUTjwlofdOgFFGPvPfVCkaVF0ZmdoyAZdiCzp3xjmTvciSirxwabb2b5bNyBZALeo0CV5/5enUuRUOkCh/OF5sjqsF4d0ffRvy/jZcMzxqqZ14U01MiMlk9uZBIkxpAyZ10UHVK/KcWas+7uIoAvHaxgV9YnDEhyQ/2sGxdHV4//J+6saoXgHp6HyJIyv+9z8JaeodCXqiNCwIUrzcW/BuJzr4UwRbeuf4uHJkkrxz7oW5z+QCx1wMFDrGx2v+vThgro+BcWjK/35TnA/jAUjsEUh/cypcAmw4hgkbNmiGRqvz1v9gQKJGy+QVidWYmbT22hRmKhst/7poTGI8E=;+7UtPfTvYXfmOBqyCLN6/w=="
 ---
 

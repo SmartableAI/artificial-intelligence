@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-09T15:09:00Z
 originalUrl: "https://www.pasadenanow.com/main/new-caltech-study-neural-networks-playing-video-games-teach-us-about-our-own-brains/"
 webUrl: "https://www.pasadenanow.com/main/new-caltech-study-neural-networks-playing-video-games-teach-us-about-our-own-brains/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/01/AI-VideoGames-03-WEB.width-600.jpg"

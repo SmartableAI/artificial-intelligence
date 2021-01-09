@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-publishedDateTime: 2021-01-05T13:15:00Z
-originalUrl: "https://www.imdb.com/news/ni63147427/"
-webUrl: "https://www.imdb.com/news/ni63147427/"
+title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
+publishedDateTime: 2021-01-05T15:40:00Z
+originalUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-    width: 1000
-    height: 1000
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
+    width: 1199
+    height: 674
     isCached: true
 
 related:
@@ -118,20 +120,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2021/01/Azure-Health-Bot-Microsoft.jpg"
         width: 1024
         height: 437
-        isCached: true
-  - title: "Mobile Speech Recognition Software Market Next Big Thing | Major Giants Microsoft, IBM, Apple"
-    excerpt: "Latest released the research study on Global Mobile Speech Recognition Software Market, offers a detailed overview"
-    publishedDateTime: 2021-01-05T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-next-big-thing-major-giants-microsoft-ibm-apple-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
     excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
@@ -319,6 +307,6 @@ related:
       domain: tcs.com
     quality: 29
 
-secured: "/6rSH24TRfUP1EOnEi/DrCtw+3dj0dTAUOSUyn5WiibZrWLJp4SZjRrs7P7mwcF5lckTsyFE/IsEm065qkbat3fu/77Rconv63xok7KQjmK8A5VfCEHASXcWOCt55KoPJWgBbOlgTvxi4ew8y13xrYMoSGtT4f9hwf5TKrOsumxm1pYylq5b4xjmh+wjCEQwA39jjbGlOOf83gZz2cqO6q786CI+tpATkE95/lobg9OrnJVd9+Dx6q8ffvfyHP526dx2asjxY/iFo9sw9fFa/RK2KNhOYeXuT45zcHOQqp01tZ0lkQbov1dtaPgwtmTwk8cilkaRqZON+SJcaRKaAafwxCyPQ5bJYPIqDw6qdnA=;yR7CWW6NdFs2MbeTKhbICg=="
+secured: "iFnlc6uSNTRx2z2JVyRDmsYVwq8VQQ3yuGgv61YWrOwpVGsO7gIMkL6UR2PbVCxnlHPFt4NHQlfkQJdZuDwng5nyG94qFldWh85J0T1lQksuHhrQgN4Sux88g4fFz2S6vy3sNht5GN/9FiFLfOnshHbodT53K+plzihffD/oJJ57jmQ5JzUZnrYJyBEA4oS1f23j8glDbqQDVVHA3o5Ol0mi+vNaUN+LtOepA/yuXqBx19QgbW+uaoFS5fLVArbQCkZTPpDdv8zweNRSDxBpmQlCpCWNvIzAPNszEcCUD6Qk0YXDvNu8c9sVIdPGDt1daE3pj4FEaoCm7x9ihS17wbGUghF67kCsAu8tO7+syMc=;2CsI2qJUd5UiNCGbU1yNtg=="
 ---
 

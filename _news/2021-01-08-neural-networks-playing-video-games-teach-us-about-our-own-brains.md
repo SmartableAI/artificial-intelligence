@@ -47,7 +47,7 @@ related:
     provider:
       name: Pasadena Now
       domain: pasadenanow.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/01/AI-VideoGames-03-WEB.width-600.jpg"
         width: 740

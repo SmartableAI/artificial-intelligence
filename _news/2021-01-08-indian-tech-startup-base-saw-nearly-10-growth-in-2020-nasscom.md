@@ -25,6 +25,22 @@ images:
     height: 417
     isCached: true
 
+related:
+  - title: "Digitalization, Tech Adoption to Drive India’s Tech Startup Ecosystem: Nasscom-Zinnov"
+    excerpt: "The technology startup ecosystem in India witnessed a steady growth during 2020 owing to digital acceleration and deep-tech adoption, said a Nasscom-Zinnov repo"
+    publishedDateTime: 2021-01-09T20:40:00Z
+    webUrl: "https://www.cxotoday.com/big-data/digitalization-tech-adoption-to-drive-indias-tech-start-up-ecosystem-in-2021-nasscom-zinnov-report/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 15
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2021/01/5g-clock-540x370.jpg"
+        width: 540
+        height: 370
+        isCached: true
+
 secured: "6giCnOchXrDMcBPdHoc08uVHqcsVmLA9XWJIXsUARqM5E6W8sXHxjiTQ6WjGFHYwlnhVrkXE6f/RUrZxhjas09sjSiq5yEbXkh7CkoIacdD8BPhse2RtHLcNlsY6RBAASlVP1KgCd3D8cG+UcIB7g2TVV5zb3NcHCbKHiV6cg2xrLitAojETOi7UciB/HBp26oL+HE2nz1IV5DkoMpBlL+zjL5vd5fN7g/onsyoZV9jI0e+6VcikCsOwi6SoE8BnIIEJL5lM+KHhraDTnX2OXIkxw7PwjSHmOh501RgyOfnjzywmFK9LFyayzdggFLqDdZvY9IyqUoWwA2quRU/fyriQLSPcE/hN2P8oL9cWLVM=;YVi8/Xz8vHtabOWpo3HIbA=="
 ---
 
