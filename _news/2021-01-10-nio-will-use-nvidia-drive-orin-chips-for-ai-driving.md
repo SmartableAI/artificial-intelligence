@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

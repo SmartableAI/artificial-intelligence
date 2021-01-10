@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What do the Experts Say About AI in 2021?"
-    excerpt: "AI and machine learning are finally beginning to come into their own. What trends should we expect to see in 2021?"
-    publishedDateTime: 2021-01-05T08:05:00Z
-    webUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 43
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/AdobeStock_230441943_770-400.jpeg"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "DXlEhAh8/BcN36EwUxwYgN7IxqloRG/nHNC2wy/CHzZuGZq7OtrmQL7gC/m1waJ9WyeVvdSwplDiEH8rG+xxqk4meMciOJ/ZOQuBsMuFPdoGa3CZ13vdAnf6f9Fzj1HTbyhkbN4hgFU1FM59bJ2STgE7+p+6lRup//toqqesmcvSPiy0zpIWWMVB4Afvzz5VAFQduCUYNpUBKlazAooAYjSxXMkTcYDEY5SW+d7rOUv9mf4a9lA4gTgHDfBVzmeVWSObmJp5fQbpNOyaCFXoQZevvSzmbxbG5JWr8Fn5DNpL6051HF09IYijTRCo7AzYfNIRJ9Hd9qlWyAIjv41OES4DLjLuILfO8YjLJ1I0BJY=;MDOcKUIgIFdwDN2dQEm9Gg=="
 ---

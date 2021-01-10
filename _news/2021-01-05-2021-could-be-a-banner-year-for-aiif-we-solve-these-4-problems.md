@@ -35,7 +35,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://scitechdaily.com/images/AI-Sleeping.jpg"
         width: 777

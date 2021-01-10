@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2020/12/23161814/demis_hassabis_rociomontoya.jpg"

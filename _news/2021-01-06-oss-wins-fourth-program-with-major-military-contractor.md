@@ -39,15 +39,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "OSS Wins Fourth Program with Major Military Contractor"
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, has expanded its engagement at a major military prime contractor with its fourth major program win. This latest program, named “Orange Gear,"
-    publishedDateTime: 2021-01-05T07:31:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8119088/oss-wins-fourth-program-with-major-military-contractor"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "TsrTkTST/tgXug7M8FAJkU5OFLoo2NElx8nPXF5bAQHDBKpVjXXUsk1eUZwQxNcmiaKt3zxgC79hsHFHNokbE7XGNirgCp52NsNIHZOaGtjMtjoiCwy46txif7H6ADEcqV0Qx0vbMombMaiMOap4ATBIwkbX9QY5uTQzxGMIxoh/Js+0zun91sWasL0ZQ8inX8q6nuTiNeSSC3LBlUItQfipgDclXOJ4HWliWVP1pL9tvPqk8opLuxWOBfqp0likPYHV010i9kHJy4Hr9np/EXKAb70NtVnFY+glVgv4rrwbj9yvILIXY7dl5stJ80KZZY1JV0H+OFG7XDGXlkwentZLuKxtAKSzaq6K0q/Pyiw=;yV+7elQM9bjvw0G/qkTMPA=="
 ---

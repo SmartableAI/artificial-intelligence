@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/why-civic-competence-ai-ethics-need
 webUrl: "https://www.linkedin.com/pulse/why-civic-competence-ai-ethics-needed-2021-abhishek-gupta/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: LinkedIn
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "What do the Experts Say About AI in 2021?"
-    excerpt: "AI and machine learning are finally beginning to come into their own. What trends should we expect to see in 2021?"
-    publishedDateTime: 2021-01-05T08:05:00Z
-    webUrl: "https://www.designnews.com/electronics/what-do-experts-say-about-ai-2021"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 43
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/AdobeStock_230441943_770-400.jpeg"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "Where Are GPUs Headed in 2021?"
     excerpt: "GPUs moved into smartphones in 2006 and revolutionized mobile devices. Game consoles used early GPUs back in 1996, and CPUs got GPUs embedded in them in 1991. The range and depth of graphics processors is enormous and stretches to supercomputers and AI—the grammar editor in Word runs on Nvidia GPUs in Microsoft’s Azure cloud system."
     publishedDateTime: 2021-01-05T21:15:00Z

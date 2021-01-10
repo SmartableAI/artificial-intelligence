@@ -51,22 +51,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Bank-FinTech Collaborations Set Stage For Real-Time Payments Expansion"
-    excerpt: "Carl Robinson, senior vice president of Alacriti, told PYMNTS that bank-fintech collaborations will create more use cases for real-time payments."
-    publishedDateTime: 2021-01-05T08:00:00Z
-    webUrl: "https://www.pymnts.com/news/banking/2021/bank-fintech-collaborations-set-stage-for-real-time-payments-expansion/"
-    ampWebUrl: "https://www.pymnts.com/news/banking/2021/bank-fintech-collaborations-set-stage-for-real-time-payments-expansion/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/bank-fintech-collaborations-set-stage-for-real-time-payments-expansion/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Carl-Robinson-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "AI in Fintech Market – Big Changes to Have Big Impact | Google, Intel, Salesforce.com"
     excerpt: "AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide AI in Fintech industry with an attention on the Global market The report gives key insights available status of"
     publishedDateTime: 2021-01-08T07:33:00Z

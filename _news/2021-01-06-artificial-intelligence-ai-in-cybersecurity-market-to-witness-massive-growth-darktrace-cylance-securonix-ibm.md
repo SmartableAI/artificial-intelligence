@@ -7,7 +7,7 @@ originalUrl: "https://ipsnews.net/business/2021/01/06/artificial-intelligence-ai
 webUrl: "https://ipsnews.net/business/2021/01/06/artificial-intelligence-ai-in-cybersecurity-market-to-witness-massive-growth-darktrace-cylance-securonix-ibm/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI and cybersecurity are tipped for big things in 2021; here are the ASX stocks to watch"
-    excerpt: "What does 2021 hold for AI and cybersecurity and which ASX stocks could benefit? Stockhead has spoken to industry experts about what investors can expect."
-    publishedDateTime: 2021-01-05T08:20:00Z
-    webUrl: "https://stockhead.com.au/tech/ai-and-cybersecurity-tipped-for-big-things-in-2021-here-are-the-asx-stocks-to-watch/"
-    ampWebUrl: "https://stockhead.com.au/tech/ai-and-cybersecurity-tipped-for-big-things-in-2021-here-are-the-asx-stocks-to-watch/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/ai-and-cybersecurity-tipped-for-big-things-in-2021-here-are-the-asx-stocks-to-watch/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 50
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2020/12/GettyImages-1202271610.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "RWpAU0WUn5OAyEZ+qyslV4baZtSSvIAzX8fP9iNM4aLODl5vIHJGf4j90ZHP+8DeM1Qz8c8mBWJG6NOvE+iHwbD83oBJ9Gv/YOE37iWFieie8dLKGKUnxKbcvRY0n0gU2FxyGLx7h7aVeQIVx8aNGz+kZfximQa4AbnKfFt0db8iDYpJsM6X7PtcJCwtdmIRo3uMc5m5YZbVWK4/Ft1wJPft6f/l9ms4PeQgRoNrvQNnp5OyZUHtD7Od09zjD3dkUrizsWAwWOHz5xdstHbbeGa4mCsLZK9sXAPFv+iGeHd4CvVvxlAZ0CAcko+kVZwtCqM2mlKOkiRrzqef/RW9F2HTgOvL6KD1MmFxMtIPrYc=;p4J4+yySLLb7mNb8m2FtSQ=="
 ---

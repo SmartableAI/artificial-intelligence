@@ -120,6 +120,22 @@ related:
         width: 1024
         height: 437
         isCached: true
+  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
+    publishedDateTime: 2021-01-05T15:40:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
     excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
     publishedDateTime: 2021-01-08T10:17:00Z
@@ -183,34 +199,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53909/content/ai-robot.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-    publishedDateTime: 2021-01-05T13:15:00Z
-    webUrl: "https://www.imdb.com/news/ni63147427/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Microsoft-Powered IRCTC’s AI chatbot AskDISHA enhances user experience"
-    excerpt: "Multilingual omni-channel service reduces wait time for queries, improves customer satisfaction by 70% Powered by Microsoft Azure, Indian Railway Catering and"
-    publishedDateTime: 2021-01-05T07:23:00Z
-    webUrl: "https://www.cxotoday.com/press-release/microsoft-powered-irctcs-ai-chatbot-askdisha-enhances-user-experience/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2019/11/Microsoft.jpg"
-        width: 4657
-        height: 3105
         isCached: true
   - title: "Microsoft AI Transformation Customer Stories"
     excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."

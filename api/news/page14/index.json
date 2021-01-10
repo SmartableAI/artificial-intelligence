@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
-      "title": "Cuomo signs facial recognition, voter registration bills",
-      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T17:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector.md",
       "title": "Apple is reportedly advancing plans to develop a self-driving car — here's what it means for the sector",
       "excerpt": "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters. Five experts weigh in on what this ...",
@@ -1206,6 +1163,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office.md",
+      "title": "Five ways technology is helping get the COVID-19 vaccine from the manufacturer to the doctor's office",
+      "excerpt": "Pharma companies are using every tool in the digital transformation toolbox to make and deliver billions of doses safely and quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/22/62b5258c-1091-48b7-8890-e4ea5bf0b5c8/resize/1200x/a5da70d95ee794f0bb9dedc5fd355bd1/carrier-cold-chain.jpg",
+          "width": 1200,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "publishedDateTime": "2020-12-21T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }
