@@ -2,26 +2,26 @@
 category: news
 title: "How far can facial recognition go in finding rioters in DC?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-publishedDateTime: 2021-01-09T23:24:00Z
-originalUrl: "https://www.khou.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.khou.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+publishedDateTime: 2021-01-10T02:29:00Z
+originalUrl: "https://www.kens5.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.kens5.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.kens5.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: KENS
+  domain: kens5.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.khou.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.kens5.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -86,6 +86,6 @@ related:
         height: 798
         isCached: true
 
-secured: "CoLKLtoOXhpE0uHQxjrFjKtkreeUWnDVIE7LCsAVnbm4DyiyW2tc1A6DzLUyQedSR6YPSSG+OTeTT+DX+cCYHxLosbkWmD3kGgmMYXZVHLZdaxBDPH8YT72VK8gFTGuwIVq0uRp+hEquTDpMhNuTs8837VhXTVLdDbn018kUgdRLaobKF4e8ZOO+6s6q6JOqgF2jHKwCM8HByPNDmHoA1RkykgCatAVITe2jYItojIpBCAJcF+aG2STy/R6tVV/ghOWx4jX6aKl4PT9EGdESWPCspnV8OvFGWMHN0snZCN8kP6REQ2xVdqqLy5nIfb2Mw/YPNBoVD/aXdOI9aCyWJLJv9+edevlmzWCu1nqGrfY=;M8FmsX5MTW+RROr+YfkDgg=="
+secured: "Fqm4JBJwJhaDenVTMnlCcptFrDc5e6VdIkEO9SGJBYSP3LM5Ciphu4h+0XRpPeAMqFHQY3wYi1lEuUoyfzMzOmcvJpHow14QWv7ME3L+nBju9nlaoCqW7zF7S91o1CmWLRpyoD6O5mzJoY6kSYn1SfQKRAhUoz9Jl52Em9kTgZaKg/EbggbyMy8tNRKLG1HdWSS0PJEymKRuNAtYG0Rg5rJDwsURRSIdT6yhoG05WOPSgtyxUlULWSVt4/aoedK2CHXnuOTcJ//23wPv0ctc+NrZ8U8AwcXvcPDiFhQHWS1ER3OLMTI+I86gqDpNrA/67KdG7v4seg1zyV3RehlzSpVyD7a21NHR/pE7ojWtPwM=;rIHOp8EmBECsbdyYNNclGg=="
 ---
 

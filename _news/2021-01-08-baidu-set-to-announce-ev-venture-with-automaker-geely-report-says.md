@@ -50,6 +50,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "China’s Baidu Teams With Geely on Electric Cars"
+    excerpt: "though it’s unclear if the partners intend to eventually also produce self-driving cars. Representatives for the two companies declined to comment. Read more: China’s Baidu Said to Pick CLSA ..."
+    publishedDateTime: 2021-01-08T03:48:00Z
+    webUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/"
+    ampWebUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
+    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
+    type: article
+    provider:
+      name: Infobae
+      domain: infobae.com
+    quality: 59
+    images:
+      - url: "https://www.infobae.com/new-resizer/QHx4Xs7qiPCFSBMSFLtRIt_cNyM=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TEI4MGVEYZAKRPJHVRC54O4UJA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "zbmbKya8YeW3vkJ/FgGoCp0h31wsAbvdgZsMHQ2AqTiJnY18wva9awROmpvWmfufz5VqAulXvLd2AC00kC8oJN5o91RyEStAHnNWt36+uMsHJJsTi351twxokMPs0viqpqahMKAoVXOk4VGPuZus23PeABRy25AG+QwGn3rZ8ph9omRIo6sjkS9anGojRkQkRALlmxpZYE3PFgWCm4v8tbKg8RMSNDzEwMEj55kN4Ttocyhw+Wqoh/Za+ubh5dDrNltO9KRhAC2/u1T0WcM20tFd4BAzXb5FoYxs2UjM/GkgMTP8KnYDZtC99i/YhjjaA84eyxUuYZAwRjSqDRJwQz8bsAgphDZ6eYzZsAZtF86CUJToYkgoPyAi4KVSqaIrvxHp+ajOwBjfxsXGIZGlGl325DyMx1n2WMp2aAN6k0IbOQfxdAvzVr8Zm4q1VJ8J4b5Q2qt2+pvoIp7EoQsRgIoxaPbO6QFh+K8OvDPCwn/qVvZKgva5Z9xw8ps10XgpmEyV6yXPJDXTelrbw32Mcg==;5PL40EuSDgAgTeZ1xOuI8Q=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters
 cdnAmpWebUrl: "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CanadianInvestor
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technology Uncovers the Real Winners of 2020 Beauty Awards"
-    excerpt: "The People’s Beauty Taste Awards announced the winners for 20 categories, reflecting the biggest beauty trends in 2020 such as mask-friendly, social media, and natural self-care. The winners were selected by artificial intelligence throughout machine-learning crowd data from the reactions of beauty and cosmetic consumers around the internet using Glamai,"
-    publishedDateTime: 2021-01-05T10:21:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-media-corporate-news-6fd159059ec146958af15e3c60ba2f39"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "POET Technologies Enters Artificial Intelligence Market with Technology Leader in Photonic Computing"
     excerpt: "Artificial Intelligence, at the cusp of its own revolutionary impact to humanity, is driving an unprecedented demand for computation at the same time that the physics of digital semiconductors, driven by Moore’s law, is reaching its end. Transistor ..."
     publishedDateTime: 2021-01-06T13:17:00Z

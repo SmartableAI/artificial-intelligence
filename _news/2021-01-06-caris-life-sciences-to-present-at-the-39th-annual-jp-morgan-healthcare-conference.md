@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "RenalytixAI to Present at the 39th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,"
-    publishedDateTime: 2021-01-05T10:36:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Caris Life Sciences to Present at the 39th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of"
     publishedDateTime: 2021-01-05T11:30:00Z

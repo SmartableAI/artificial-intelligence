@@ -37,6 +37,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China’s Baidu Teams With Geely on Electric Cars"
+    excerpt: "though it’s unclear if the partners intend to eventually also produce self-driving cars. Representatives for the two companies declined to comment. Read more: China’s Baidu Said to Pick CLSA ..."
+    publishedDateTime: 2021-01-08T03:48:00Z
+    webUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/"
+    ampWebUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
+    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
+    type: article
+    provider:
+      name: Infobae
+      domain: infobae.com
+    quality: 59
+    images:
+      - url: "https://www.infobae.com/new-resizer/QHx4Xs7qiPCFSBMSFLtRIt_cNyM=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TEI4MGVEYZAKRPJHVRC54O4UJA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu set to announce EV venture with automaker Geely, report says"
     excerpt: "Baidu and Geely will team up to make electric vehicles for the Chinese market, deepening the internet giant’s foray into automobiles as its core business slows,” Bloomberg reported citing a source with knowledge on the matter."
     publishedDateTime: 2021-01-08T14:34:00Z

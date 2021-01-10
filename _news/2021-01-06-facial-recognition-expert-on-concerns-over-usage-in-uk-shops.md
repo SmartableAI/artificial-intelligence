@@ -211,20 +211,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "COVID-19 face masks meet facial recognition"
-    excerpt: "Most people deal with facial recognition in a public setting at the airport. Today’s columnist, Tim Mackey of Synopsys, says organizations using facial"
-    publishedDateTime: 2021-01-05T11:00:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/covid-19-face-masks-meet-facial-recognition/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
-        width: 1125
-        height: 941
-        isCached: true
   - title: "Intel adds facial recognition tech to its RealSense cameras"
     excerpt: "Intel Corp. is transforming its RealSense cameras into a facial recognition system that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
     publishedDateTime: 2021-01-07T00:12:00Z

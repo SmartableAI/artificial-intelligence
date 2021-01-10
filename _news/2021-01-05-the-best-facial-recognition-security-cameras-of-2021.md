@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/"
 type: article
 quality: 106
-heat: 276
+heat: 266
 published: true
 
 provider:
@@ -205,20 +205,6 @@ related:
       - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/v1609928904/widgetdocs/facial-recognition_f8jukk.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "COVID-19 face masks meet facial recognition"
-    excerpt: "Most people deal with facial recognition in a public setting at the airport. Today’s columnist, Tim Mackey of Synopsys, says organizations using facial"
-    publishedDateTime: 2021-01-05T11:00:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/covid-19-face-masks-meet-facial-recognition/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
-        width: 1125
-        height: 941
         isCached: true
   - title: "Facial recognition: Expert on concerns over usage in UK shops"
     excerpt: "Technology expert Bill Mew outlines his concerns over the usage of facial recognition systems in UK shops. He says the technology is not 'accurate.'"

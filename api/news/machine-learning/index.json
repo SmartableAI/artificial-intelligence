@@ -387,49 +387,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-poet-technologies-enters-artificial-intelligence-market.md",
-      "title": "POET Technologies Enters Artificial Intelligence Market",
-      "excerpt": "TORONTO – POET Technologies Inc. (TSX Venture: PTK; OTCQX: POETF), the designer and developer of the POET Optical Interposer and Photonic Integrated Circuits for the data center and tele-communication markets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/",
-      "originalUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canadianinvestor.com/wp-content/uploads/2018/11/Cloud-Computing-840x480.jpg",
-          "width": 840,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/",
-      "cdnAmpWebUrl": "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/",
-      "publishedDateTime": "2021-01-06T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CanadianInvestor",
-        "domain": "canadianinvestor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-06-researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech.md",
       "title": "Researchers find machine learning models still struggle to detect hate speech",
       "excerpt": "Detecting hate speech is a task even state-of-the-art machine learning models struggle with. That’s because harmful speech comes in many different forms, and models must learn to differentiate ...",
@@ -1410,6 +1367,58 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future.md",
+      "title": "National Grid sees machine learning as the brains behind the utility business of the future",
+      "excerpt": "If the portfolio of a corporate venture capital firm can be taken as a signal for the strategic priorities of their parent companies, then National Grid has high hopes for automation as the future of the utility industry.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
+      "originalUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1171442301.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
+      "publishedDateTime": "2020-12-24T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

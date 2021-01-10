@@ -35,20 +35,6 @@ related:
         width: 736
         height: 414
         isCached: true
-  - title: "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the waste industry, has raised $55 million in corporate equity in a Series B financing, led by XN with participation from new investors Valor Equity Partners and GV as well as existing investors Sequoia Capital,"
-    publishedDateTime: 2021-01-05T10:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-environmental-equipment-and-services-coronavirus-pandemic-environment-0b75f48fd5eb4716ae3051d7b57feb76"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 59
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Trash-Sorting AMP Robotics Closes $55 Billion in Series B Funding"
     excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
     publishedDateTime: 2021-01-08T18:31:00Z
