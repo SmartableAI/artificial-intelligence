@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "Google trained AI to make hybrid desserts. Go try these recipes and punish your taste buds"
+    excerpt: "Google is calling these AI-generated hybrid desserts cakie (a mix of cake and cookie) and breakie (a fusion of bread and cookie). God help us!"
+    publishedDateTime: 2021-01-06T00:25:00Z
+    webUrl: "https://pocketnow.com/google-trained-ai-to-make-hybrid-desserts-go-try-these-recipes-and-punish-your-taste-buds"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 29
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/01/breakie-google.jpg"
+        width: 1300
+        height: 800
+        isCached: true
 
 secured: "0643vMd10SHuMygWPtxm2P+6JcbkzD91Jjuq5jbBhzG6YsJGpGbnKx/Pj5CkTVHp81qOmm14lx/FJ4jO4PNmyHrpLGyvpcyAp9QMi1iIIzJch1N8QsxocimGhVVPfjpi+rz5GBEXSarhsOHE/FMBtQP8z+PRpf9e1nGMBrzMufqplAV08FiqZLMg+NW6Vosq8huYt/8QCcQ0pVQ8NtB31kiZAKxMbhxJW0K/asNQwg24HHj6TN2/LB4SyWuPO0I0+odro5nRcSdjePK/fLtMK6pDoPuq4a86oCMjWxpmVq52EOcg/vbqe8I3qsFlbUtE+XF8EayJwi8SSITOyCIJc36XDxQnAr26lRTWRt0VYuGC6f+Ov8PkdHVICr6HLZZh/3BiEgFxWLk+DT6u4b/CzbxZFlZbe7QDJDAIZXFuMoiGq9IdV8z/5aZ6TlI1GOieTJpdol1xD39eiOWVI03UdYX3EPaIQ5u1AoLnWUaGXYpVrvpQ0aK+ImgOskuzPiqRnsc24IWLAida7fLJmDpfVA==;T+WoEjvmeVwzbMoFwLvM9A=="
 ---

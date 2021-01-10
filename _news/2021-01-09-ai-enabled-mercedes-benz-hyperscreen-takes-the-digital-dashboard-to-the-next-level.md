@@ -3,10 +3,10 @@ category: news
 title: "AI-enabled Mercedes-Benz Hyperscreen takes the digital dashboard to the next level"
 excerpt: "The 56-inch curved screen extends nearly the full extension of the dashboard, serving as an \"attentive assistant for the passenger,\" and can store multiple front passenger profiles for personalized experiences."
 publishedDateTime: 2021-01-08T18:00:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-webUrl: "https://www.techrepublic.com/index.php/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+originalUrl: "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+webUrl: "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
 type: article
 quality: 81
 heat: 91
@@ -45,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YTh921+sKFx1d8fRJEP5ULDfuqbJ0k2I+J7r9POQI55i+Nj1o50jvrCHQ3xvFyDj98lJxIxR5clQjG3xc4Fmz0d96B0vgzXrbyFbMyOxg05uZbF9KjKRL0fHmtIvfSe033E8w/f2nFP0ay44TX2AOjvLXavoX6/4LxyrZkb89n5P6DWTgALjPu49MZxohx2zo3N+WyZlgaa8J6DwtXFwbHKfuvNzwXoVU/CB6DhIglgRLd1aHxz+xEXi23CsI7WoglooCx+Dx7AsWnqvzqXT9oPLxEGDptGOBZmMuK9BLbj52fIFlD+GGeMbB2txFfRaO8bBXZ7kr9Hc6jxEOsTHKxWzZ1fsngXOvoWDOQHZ1tz5yWHT0zSEtcNPLSpFR8LiWeW/nQFtdjJIAFGl3fJfIllB7E1ucKfrF2UJ0MKR6Leo2t8sm+zyxoZKlG2Gc/DgTuhsKS91qaBiYyOvIap2mLPswx5PngukZnjpxFdTdW0s2+F3T6NFTPQmZYDPLrwQ6Kz76JZkHMH1MgTNlYPTwQ==;QawLjKAWUkdRPTh6LIGoSw=="
+secured: "L2bHwkXo0Uv+R7VFpQf0q8KHC7fnjMjde1CpkpQHYYxAfPZW/vrM3hg4sL804QOXzSzd1eGyMjlT4g2wBHN8Unv2iTH1qxx8pks78EbRZwZy5ThMT2uwvAWCcJVJ12eYeVzaptrhotnq3ltoM3bwNNTsg5wLtkYVe/II0HtQBfcXXr6UDfjUJAtTSLxt4taxcrmzULng17b7zsSjgM6gmTilHQJwZxXUU7EHcyFaUsN9yw7xjw0Hz2IMpY7ext7Ggwd46HFdMuvpezvhcJs/k8Q1Ejt5EtF7THlot5gtjlR++x8du2o/69b+ZW7WJpNlE7SjbWaKi2ffAj5v/n0aGpDAkhUs3/pgSYAqxVHy4qQ=;rXUYdrTC40jNTpRh/5inZw=="
 ---
 

@@ -213,22 +213,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "NIST updating guidance on facial recognition algorithms"
-    excerpt: "The pandemic has inspired new uses for facial recognition software, but may require tweaking of algorithms. Masks, which leave only the forehead, eyes and maybe the bridge of the nose exposed, can make it harder to identify people accurately – especially for law enforcement."
-    publishedDateTime: 2021-01-05T18:00:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/"
-    ampWebUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
-    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 59
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Patrick-Grother-731x1024.jpg"
-        width: 731
-        height: 1024
-        isCached: true
   - title: "Masks no obstacle for Japan’s new facial recognition system"
     excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
     publishedDateTime: 2021-01-07T12:04:00Z

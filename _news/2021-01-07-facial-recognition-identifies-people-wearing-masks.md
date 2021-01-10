@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-55573802"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55573802"
 type: article
 quality: 89
-heat: 399
+heat: 389
 published: true
 
 provider:
@@ -200,22 +200,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547153800&r=LYNXMPEH071CI&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "NIST updating guidance on facial recognition algorithms"
-    excerpt: "The pandemic has inspired new uses for facial recognition software, but may require tweaking of algorithms. Masks, which leave only the forehead, eyes and maybe the bridge of the nose exposed, can make it harder to identify people accurately – especially for law enforcement."
-    publishedDateTime: 2021-01-05T18:00:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/"
-    ampWebUrl: "https://federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
-    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/technology-main/2021/01/nist-updating-guidance-on-facial-recognition-algorithms/amp/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 59
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/05/Patrick-Grother-731x1024.jpg"
-        width: 731
-        height: 1024
         isCached: true
   - title: "Government Facial Recognition Can Identify 96 Percent of Masked People"
     excerpt: "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ..."

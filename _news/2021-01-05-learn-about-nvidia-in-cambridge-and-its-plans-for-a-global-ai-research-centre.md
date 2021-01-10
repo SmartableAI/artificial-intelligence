@@ -3,12 +3,9 @@ category: news
 title: "Learn about NVIDIA in Cambridge and its plans for a global AI research centre"
 excerpt: "NVIDIA recently announced its acquisition of Arm and its intention to develop a new global centre of excellence in AI research in Cambridge. Join Cambridge Network for a special online event on Thursday 28 January,"
 publishedDateTime: 2021-01-05T11:25:00Z
-originalUrl: "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre"
-webUrl: "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre"
+originalUrl: "https://www.cambridgenetwork.co.uk/news/611084"
+webUrl: "https://www.cambridgenetwork.co.uk/news/611084"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: Cambridge Network
@@ -24,22 +21,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Global guru named chief scientist of Cambridge Quantum Computing"
-    excerpt: "World leading authority and Oxford don Bob Coecke has added yet another dimension to the non-stop progress of Cambridge Quantum Computing (CQC) by becoming chief scientist. Coecke who has previously served as senior scientific adviser to CQC with a focus on developing and building a leading Quantum Natural Language Processing (QNLP) capability,"
-    publishedDateTime: 2021-01-06T11:29:00Z
-    webUrl: "https://www.businessweekly.co.uk/news/recruitment/global-guru-named-chief-scientist-cambridge-quantum-computing"
-    type: article
-    provider:
-      name: Business Weekly
-      domain: businessweekly.co.uk
-    quality: 24
-    images:
-      - url: "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/bob-coecke.jpg?itok=KKbrJf__"
-        width: 605
-        height: 400
-        isCached: true
-
-secured: "mMGduP0mF7AcVxOXa3nOxTNAI2beGL8b4XBzEAKnzrFFyp8kwtzqv3eFarpkkqJ2dKRwLk+MCVdRjYOuJTs4ptmKuyDmwJ39P6yqlSccUGwfAkzm4PIVLexJ0FQkrq8kzBz1kHgV3RE3U0oaqSaiK8JjOSU5HaaKNeN8NMN3rA7emeujKNv8H+lgE8XsrGXZfzz5oECuhansMLNwTtqRbq4IZFWq13xTZqT+bKrJceQi4pUuCMCNqjlmY5vx8Djo4EfR/1+w6XZnGB8DPUJJKA6sLVNm2T8ERZtIvIofs4eg7mhZCg7qHsC1XtotV4JYxiu5uyn/2NQNnC896BvdFSNNxCBAShgRgvnic33iWK8=;dLqFGClhKWdWYuaiSznZLw=="
+secured: "w/9E9wtxuFqNUkYsfSR96z/EW6uwJD3RW12UNHY5bk1nTILFB5hlOJB+Pfvc1f7fSbzSYdXh0Fj47s8dMoAjEj5Dt56vT8qxpfexskN+drT1mBY+0Asc0YaVji59xu2hFbbBw81436cw8UD10Ny1sg48ab8ieHTTfYJZjdq2Dsi4JjggusEXixsu+e1co/cV3HguWNBmnjcsUv7UZtMRthVa3plg9oiWC2CeNgDUcW1eExt0WcNzPwZGuRw7e1s08iBNHFrOy6dfPkWFCOIyq/u5QP4qqMSr15SCCq3ePLfnI4o85XkuQX7Ur9NNzsAlRXwfYw0dSusOqOgseZYZL312rQpZ5/ctQGNpV8qOu+Q=;SY9kDefL/B4zFkItb63BNg=="
 ---
 

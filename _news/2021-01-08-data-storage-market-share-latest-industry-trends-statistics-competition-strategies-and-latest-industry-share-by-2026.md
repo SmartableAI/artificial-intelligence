@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market 2020 - 2025 | Development, News and significant Growth With Regional Trends By Forecast"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2021-01-05T18:09:00Z
-    webUrl: "https://menafn.com/1101386371/Natural-Language-Processing-NLP-Market-2020-2025-Development-News-and-significant-Growth-With-Regional-Trends-By-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849361"
-        width: 450
-        height: 250
-        isCached: true
   - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
     excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
     publishedDateTime: 2021-01-07T08:50:00Z
