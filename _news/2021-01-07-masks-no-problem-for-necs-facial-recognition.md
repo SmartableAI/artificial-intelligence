@@ -337,17 +337,6 @@ related:
         width: 3745
         height: 2500
         isCached: true
-  - title: "Facial recognition: Expert on concerns over usage in UK shops"
-    excerpt: "Technology expert Bill Mew outlines his concerns over the usage of facial recognition systems in UK shops. He says the technology is not 'accurate.'"
-    publishedDateTime: 2021-01-05T21:22:00Z
-    webUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops"
-    ampWebUrl: "https://www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/videos/6220448383001/Facial-recognition-Expert-on-concerns-over-usage-in-UK-shops/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 39
   - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
     excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
     publishedDateTime: 2021-01-07T22:05:00Z

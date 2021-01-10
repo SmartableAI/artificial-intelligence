@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Researchers Attempt to Use Facebook Data to Predict the Diagnosis of Schizophrenia and Mood Disorders"
+    excerpt: "Using Facebook data, machine learning algorithms attempt to predict whether people will be diagnosed with schizophrenia and mood disorders."
+    publishedDateTime: 2021-01-10T11:00:00Z
+    webUrl: "https://www.madinamerica.com/2021/01/researchers-use-facebook-data-predict-diagnosis-schizophrenia-mood-disorders/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 9
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2021/01/Facebook-predicting-mood-disorders-and-scz.jpg"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "XB2YslIEZbQmPAlpkucnHBdVE2voBddNCB/t5z6GWcaxXTJM7PRMZuuBh9tWdaZuFEDSBKlfZ1TYanUx42qEeJHT+T39WUJyKDybpxyGceLi9YfqPm/rGSEnYJz4TwKkCCmSxlYc6VkjpJ2cjTkPTaguRonkLRQvu3pvAWYhMQ6v/uZACFtaSySSUWIIMxRghghOtBNl/cVRJA8OJdctTd8AtMMAwBJFUeU7YH2V/J8qW5935RLyVVVZFWTosnaCOSnttYNYxZbuzhaoH6vgG7IOwBVUjjTYIzWihmsuQ6wVhJ+6YlA0EruPpHrVFNA3PvYJDAOCTbb55k8E56NAVupkrJEXpFtAE+HlctyA1+t+qBpipk9NfdOX0c9sQgBE/kA4vxNXMU6TydycuIxBU8gm4Oa0xO/Uq4ohx9Q0VUkHWps4uNMQWs3/qGtHxUXL5URPcRxk/wY7K0tlCTpnX1u6bQBMvmKPeGetNnePSe4UOoJazZ2x6eF9bNYTxSCHx9ErVf4mDZ40vF4kb6NkBQ==;UBFN03keTXYFpRKRVvLItA=="
 ---

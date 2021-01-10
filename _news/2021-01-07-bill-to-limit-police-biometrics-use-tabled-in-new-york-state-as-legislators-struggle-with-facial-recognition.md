@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition up to 96 percent accurate with masks in 2020 Biometric Technology Rally tests"
-    excerpt: "A facial recognition system similar to the one used by the DHS had a 96 percent biometric accuracy rate with masked faces in testing."
-    publishedDateTime: 2021-01-05T21:50:00Z
-    webUrl: "https://www.biometricupdate.com/202101/facial-recognition-up-to-96-percent-accurate-with-masks-in-2020-biometric-technology-rally-tests"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Military researchers ask industry to develop long-range biometrics and facial recognition algorithms"
     excerpt: "BRIAR aims to develop algorithm-based systems capable of performing whole-body biometric identification at long-range and from elevated platforms."
     publishedDateTime: 2021-01-08T08:36:00Z
@@ -67,20 +53,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03124853/blue-line-biometric-facial-recognition-retail-1024x625.png"
         width: 1024
         height: 625
-        isCached: true
-  - title: "DHS Tests Ability of Biometric Acquisition Systems in Identifying People With Face Masks"
-    excerpt: "Preliminary test results of the third Biometric Technology Rally held by the Department of Homeland Security’s (DHS) science and technology (S&T) directorate in the fall of 2020 showed that biometric acquisition tools and matching algorithms were up to 96 percent accurate in identifying individuals with protective face masks."
-    publishedDateTime: 2021-01-05T21:44:00Z
-    webUrl: "https://www.executivegov.com/2021/01/dhs-tests-ability-of-biometric-acquisition-systems-in-identifying-people-with-face-masks/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 15
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
-        width: 272
-        height: 270
         isCached: true
 
 secured: "YcULXkeLHMizGff9cM+QU1+zKUseE4PPfEztvK0BovG9l9u2u3JtQu2E8kEegE2vhV/5FhiZ15S4TNECrm9idYwcuuHAGLdMMjIk7T2mbl+0mwNPjL6MbDVBgZBmkXQCOcQMqVM9YkVvntkyVXUG1C2RtEt0kJANyihBdr/0LGZvTnXwtGY8I1Zp44Axc7uzlzLrXIwgSCCdPZAn6T89nuhT9wbRo6Le+M9rzGqOUp6xuaXstwGRrGbnTwebQTCb4YPkki5Tz6EH308dBxObgGrCqKTFlJ6DU+7fdLM08/mTrAODvi+F7XGNcUrbR0e04rV4NaU26hpG6DukHZ467OuMUcwm2ryzootnkHxYKys=;d4Dn+Hie82j1BzQcD8EJ8w=="

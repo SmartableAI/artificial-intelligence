@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/why-civic-competence-ai-ethics-need
 webUrl: "https://www.linkedin.com/pulse/why-civic-competence-ai-ethics-needed-2021-abhishek-gupta/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Where Are GPUs Headed in 2021?"
-    excerpt: "GPUs moved into smartphones in 2006 and revolutionized mobile devices. Game consoles used early GPUs back in 1996, and CPUs got GPUs embedded in them in 1991. The range and depth of graphics processors is enormous and stretches to supercomputers and AI—the grammar editor in Word runs on Nvidia GPUs in Microsoft’s Azure cloud system."
-    publishedDateTime: 2021-01-05T21:15:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21151599/jon-peddie-research-where-are-gpus-headed-in-2021"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/Peddie_dreamstime_l_182874963.5ff4d2f98f130.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "V9RuXdySIVKPohJ7dWo2s5se5cRsskPJU2LYXR28cwjLFoPTKhylequmOJ0//eKpQ16+5skIfLveKgWJOBOM+dk7RmfJNhOCr9yrPiCl7gEWTW8GgcsARDd8d8LvPs6i1B43/Pj3zzPniyoJDTwub+74R3RCrzB+PywJZfbN/seWf4w5NlxWNK6KxeFG6LO4pmD+5xiWbJb4T+bSsExa2wKnwBd2PdO93pZsWg6YzycP6GrmRXEfBXxkjVOlapLeM2GRKG6FVG8ckzHn37vQlfUIQwt7g7SQEwfWYnn0/4uzYfaNz6Hix41LvuIJAE7I+ElDCrg9kifTRP6U8kBwp6cex9XZmPSYiepBVFZiSPIOg+0JsSfOhTcTEJfxrV98N9GKQZ8w1QlnzAFiA2smwmQo16sVD6nBaCdUnC23tg8xYP1qnY6urnpKK6nFVuzG9bg1QWtbOlvu/X8OXjM3YDn2yB0U5zpgtvyfMW7cUZFASRzWDkNrLtI/SUgUt01JbEQ4DUZ7wdZgYW6cMCeNlg==;Cbg2RS8/OA2oZDoBOVeqdg=="
 ---

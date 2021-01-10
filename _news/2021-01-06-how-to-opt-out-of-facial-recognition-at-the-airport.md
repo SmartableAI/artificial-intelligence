@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognitio
 cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media.khou.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Biometrics is transforming the face of flying: Facial recognition compliance tips for airports and airlines"
-    excerpt: "Companies operating in the commercial aviation sector should implement robust, adaptable biometric privacy programs to ensure compliance with the law."
-    publishedDateTime: 2021-01-05T23:01:00Z
-    webUrl: "https://www.biometricupdate.com/202101/biometrics-is-transforming-the-face-of-flying-facial-recognition-compliance-tips-for-airports-and-airlines"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
     excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."

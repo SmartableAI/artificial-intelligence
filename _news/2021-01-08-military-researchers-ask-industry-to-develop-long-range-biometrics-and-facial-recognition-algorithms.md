@@ -7,7 +7,7 @@ originalUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-
 webUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-recognition-longrange-biometrics"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition up to 96 percent accurate with masks in 2020 Biometric Technology Rally tests"
-    excerpt: "A facial recognition system similar to the one used by the DHS had a 96 percent biometric accuracy rate with masked faces in testing."
-    publishedDateTime: 2021-01-05T21:50:00Z
-    webUrl: "https://www.biometricupdate.com/202101/facial-recognition-up-to-96-percent-accurate-with-masks-in-2020-biometric-technology-rally-tests"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Bill to limit police biometrics use tabled in New York state as legislators struggle with facial recognition"
     excerpt: "A state legislator in New York has introduced a curious bill to prohibit arrests on the sole basis of “facial recognition and biometric information”."
     publishedDateTime: 2021-01-07T00:53:00Z
@@ -66,20 +52,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03124853/blue-line-biometric-facial-recognition-retail-1024x625.png"
         width: 1024
         height: 625
-        isCached: true
-  - title: "DHS Tests Ability of Biometric Acquisition Systems in Identifying People With Face Masks"
-    excerpt: "Preliminary test results of the third Biometric Technology Rally held by the Department of Homeland Security’s (DHS) science and technology (S&T) directorate in the fall of 2020 showed that biometric acquisition tools and matching algorithms were up to 96 percent accurate in identifying individuals with protective face masks."
-    publishedDateTime: 2021-01-05T21:44:00Z
-    webUrl: "https://www.executivegov.com/2021/01/dhs-tests-ability-of-biometric-acquisition-systems-in-identifying-people-with-face-masks/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 15
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
-        width: 272
-        height: 270
         isCached: true
 
 secured: "JwNTkTM5/oIeURBdw5FdSbi57trYH7fPzEzPXsDbw1XdAWpubcnSeuMTlOjdG0mKclDBBLkq28q+IU7ZpfpkEJeHKofnMle+ALr6xokvMP70Q1awK2QS9NMrBiCoDd0vXVns2PyhH8Qd9YM0N+eQjWhNW1ajjk/5KNc1jz7mAbQW+HVe7t6eEKDACqW4zxEqpjaJ44w6bbvql+K+RIZYnSgqVmbnu89Hm6nzSJTF5Vxb7l6YE/QWvNW9JEy4pOHGFTsJvPM2eWfeM7amfW8CUsZNgaqU66RenCjcSo2TbbZH69uiPH7CUOz5itRVdQU3IXKASeWTUKvtVfcF8OwgT0b7K2pHIS0VwtkOeweVNZ65V5vSypFthNLcst6FshpDQcEm2EU92zJPrsY1LkfjOhv7o2ZgysCGwhFnHThPNpDZsM/fy+1DIYVBewvsjKwLE5nOu8WuSes/9a/dWaefo7vj/s7nRwidte55pJIzaiCQGV5Lb+TfTtr2J+ppLx+4hS1hWp34D2hv44UzQMf2UQ==;FAa7zxsBMTcNRAHYNEVPmA=="

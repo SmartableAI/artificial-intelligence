@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The very real fear of artificial intelligence"
+    excerpt: "By 2030, thousands of jobs in India, including those of call centre executives, translators, bank tellers and secretaries, could be lost to intelligent agents and robots."
+    publishedDateTime: 2021-01-10T14:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/10/industrial-robots-in-japan-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
 
 secured: "TN2NY03ZT+LIWgeCYaRTmXTQ0Dw+m4KL9MC2B1yjGL0CduVoayXEOsk4BED6U/dpMiX0hqION3e1lXFDtH6mqAGVO47KfpCsLrzZiYSyGJlyperpB3lCrKlcb/KZEoYKz4SvHIZFRm4aFZTtKlUzfs5Ifmn/aaUztfQgJJ0/1RGS01femP9vX1LIaK3SuvVH9oP5ALbWOPXfi5EPbzArOIYwmGmeLtX0mqOYIehIUN9alpuTeUBWAXykAlgHHxkynZ7vmBJw3n0kJAb2cQwbGVUVTuj2LxOucMinKVjZV0k0yc4ETJP5C421d0dwwCcrsD5kZ5jz85z3M9iNhBEsNLzRbhmmnorUOYb/mlgKGFxzZWQUPgBbiENLy34c3Zn7AEvHAlpOOGajDKYK421H2zkdFJLeMhSXfvvpx2LUbJE5Ef0GlyTyKvvjc/2cbZpipm4yU44RifR9dhQuN+F2CeSxdY0m6JPrPh+lCmN1i00Aa37XH2/8TfEmnU5Uf2fxaS8S3vvgLA1A1KZFM8ap4w==;EYRbbGzi45uzbOey3KZCQQ=="
 ---

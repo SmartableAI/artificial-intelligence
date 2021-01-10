@@ -1,30 +1,44 @@
 ---
 category: news
-title: "Machine Learning, Facebook Data Offer Insight into Schizophrenia"
-excerpt: "Using data from patients' Facebook pages, a machine learning algorithm was able to accurately predict which individuals would go on to develop schizophrenia or mood disorders."
-publishedDateTime: 2021-01-07T18:46:00Z
-originalUrl: "https://healthitanalytics.com/news/machine-learning-facebook-data-offer-insight-into-schizophrenia"
-webUrl: "https://healthitanalytics.com/news/machine-learning-facebook-data-offer-insight-into-schizophrenia"
+title: "Researchers Attempt to Use Facebook Data to Predict the Diagnosis of Schizophrenia and Mood Disorders"
+excerpt: "Using Facebook data, machine learning algorithms attempt to predict whether people will be diagnosed with schizophrenia and mood disorders."
+publishedDateTime: 2021-01-10T11:00:00Z
+originalUrl: "https://www.madinamerica.com/2021/01/researchers-use-facebook-data-predict-diagnosis-schizophrenia-mood-disorders/"
+webUrl: "https://www.madinamerica.com/2021/01/researchers-use-facebook-data-predict-diagnosis-schizophrenia-mood-disorders/"
 type: article
-quality: 39
-heat: 39
+quality: 9
+heat: -1
 published: false
 
 provider:
-  name: Analytics
-  domain: healthitanalytics.com
+  name: Mad in America
+  domain: madinamerica.com
 
 topics:
-  - Machine Learning
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
-    width: 690
-    height: 400
+  - url: "https://www.madinamerica.com/wp-content/uploads/2021/01/Facebook-predicting-mood-disorders-and-scz.jpg"
+    width: 600
+    height: 360
     isCached: true
 
 related:
+  - title: "Machine Learning, Facebook Data Offer Insight into Schizophrenia"
+    excerpt: "Using data from patients' Facebook pages, a machine learning algorithm was able to accurately predict which individuals would go on to develop schizophrenia or mood disorders."
+    publishedDateTime: 2021-01-07T18:46:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-facebook-data-offer-insight-into-schizophrenia"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Fixing Section 230: Twitter, Facebook and social media should be legally part of the public square"
     excerpt: "Too often Internet platforms violate our privacy, arrogantly regulate speech and abuse monopoly power, but it is important to recognize what are and are not problems."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -55,21 +69,7 @@ related:
         width: 1546
         height: 1056
         isCached: true
-  - title: "Researchers Attempt to Use Facebook Data to Predict the Diagnosis of Schizophrenia and Mood Disorders"
-    excerpt: "Using Facebook data, machine learning algorithms attempt to predict whether people will be diagnosed with schizophrenia and mood disorders."
-    publishedDateTime: 2021-01-10T11:00:00Z
-    webUrl: "https://www.madinamerica.com/2021/01/researchers-use-facebook-data-predict-diagnosis-schizophrenia-mood-disorders/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 9
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2021/01/Facebook-predicting-mood-disorders-and-scz.jpg"
-        width: 600
-        height: 360
-        isCached: true
 
-secured: "GpJZodTOubOh35fIzBXVxH9Vz7XxNVKskCLW+/MtPf7yJuriGoJcrhySzBcYz1nyFugfm5XJka609g5zRMfpCgMZWCKiRZ3dID/FSJTnn5t2tcx82dB2emuKWx+q9VUt2gEGF+pKu/091Wq1YC7e5tp2wtqH4379dfmZ9boCxZrnrLgfelgXhvp4FiU9m6BIh4a7r92JXLuSjfiWnxfU9Moe0TQJsHD6B6GWYOIH4Y6RpTOrpNUZ9v/XJ+1zlDRhWCC5PlwpLC0sOUT952X+L7+oeT+s5lHNqzyuXvLRnhoxvliamV66BGy17fMLdsEbWrjPnev4hkG3kUk5yLE0BDhnYtHY6UfnpCz1CQQvsNk/gaUdESvRu5qdgdfW+I5Ns1My2tjxBiFQkbp/ST4CKBc7/B/CUcWvQ5Y58tlhwIdm/FtxXuv5BZEyBXU87N/2A+IwGoTxucM6ZsX2nT1bUqAAKf7TPJTrvRbtTUK8+CuGZof2IhEtXuwKNb2sf/kE+7MLssIkTDZjjCyD7mNsxQ==;QiYN7yPvY7/GPvshWZAhHw=="
+secured: "o3OOWbdT5PNcARbNKtZZ5tehehWdy7RMivtBMS6s8IS6k2gRy4RCfdal9teAfdo163Hfcz5fR2o+FmF1Aqq4FCfmxl7eL7gUBJ22HhCxlECxDIFPBEVntNnBquNLoEmzslDOt7K7rBExNmO4IFyMZzrORYjApwJYtkA03UQx1auG6Ij6NYBE+YTFEC5xJQ1dw9TQZr6Fut2J0Zvm/xoaAg/xFIeRQnEGwveknZTk0Sp6h6GcTJT6a759TmFecwLPB5FCfGtH9yvXsuceFCctrAnwWa03Otd2yUTBL7HtxmzsM2YpVraopKRYhuYfSk3tEw9F3IYEpEhJh6Cwu0t5ph3y9S3UJ4ydBz9F3IDhMw8=;W4zkwuyhQ4aymxbBLMuLmQ=="
 ---
 

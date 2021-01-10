@@ -7,8 +7,8 @@ originalUrl: "https://www.miragenews.com/neural-networks-playing-video-games-tea
 webUrl: "https://www.miragenews.com/neural-networks-playing-video-games-teach-us-about-our-own-brains/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Armed robbery in Revesby
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Neural Networks Playing Video Games Teach Us About Our Own Brains"
+    excerpt: "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when to brake"
+    publishedDateTime: 2021-01-10T14:40:00Z
+    webUrl: "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/"
+    ampWebUrl: "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 74
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2021/01/AI-VideoGames-03-WEB.width-600.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "What neural networks playing video games demonstrate about the human brain"
     excerpt: "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when to brake or change lanes. The brain needs to determine what kind of information in your field of view is necessary for making these decisions."
     publishedDateTime: 2021-01-08T15:17:00Z
