@@ -3,8 +3,8 @@ category: news
 title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
 excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"
 publishedDateTime: 2021-01-08T06:55:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0"
 type: article
 quality: 49
 heat: -1
@@ -65,6 +65,6 @@ related:
       domain: morningstar.com
     quality: 29
 
-secured: "qP/aNULPp4Psy0G4uExr3anAbx9poEBJjPRst/5pue7tKK3xfMjPmMVBuFhTlh9ucaIzOx0YBhaAAragCzVCHeamlZmsslRT5xZ8GwsqR2CXhMJW++RSOWqU/Xo9/U9qvkvAl4VYcAMnJcpx/JMKXStcf+Xezf76Gp7+IHET9KvZ5cnBJsMOmlHdt33R78mUHQk1wNaey9IVK+VAy+FFe/hS/gCWjq/jPqvH42N/FrqNk+7ue4VI9zZoLZHUtYuehESLX5CJtvrZpd6eFtkytf10SqwYi8QIySecYTfd0V9pRQCSxROUj+x8zE1mZJ40SHkC4/pTuE7SlMleREYX6UyMfxxh/9GJuVBCVGDFXS4=;yKfIVFSgZsQSbGapsRwGEw=="
+secured: "mDRMSHRFEOYZAexgsCpbN6VUg93hpk+U65fCXUF8d/wAHwSquomK7vg3yC4XQFzOtCXDPt/T//AYCzkvWtoyXoXuHT5B1zO8zXjmmYgHgB/9SgZX6Y2xbVam94inQ+9PKIj7+FQh72HdopyOpfcfR6OBBsS587AowWkpFItnfVIYgQO42o5UDHPWKcCrdlN2ru43x4ZYbwtRMnb18pH9Vz5EAeYgje15bWh+I5PWk+I3zgwrD7X2sTE4URsjkjOM2GhsbkYwgXlQ48kRSOJeKAHt9dUj4aLpY2GOJsylda56kelE90yf5sCQlQJa7sWnlzSB9tzvkVtV2GUlyRhI4IOM+57JWIYyolvoTs4J9Zo=;pTlhe4ZCTYrHmhp9noy9sg=="
 ---
 

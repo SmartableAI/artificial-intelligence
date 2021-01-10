@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
 type: article
 quality: 119
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -214,20 +214,6 @@ related:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
-    publishedDateTime: 2021-01-06T06:03:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "62i2dExQkP32pllVKF+ighcUk+qK/m02tP/5MosXTLAFGZgLkEohCQOcseODny9eGJXcfs1JxfY55Q+nKsYw499VYigj9j8Mt7xS309vP0BNLwKeQxjTDZ+2j4BGZp/WCYVwaWbCvhXdkBYP2dNeVpkVTh0WdnB2IFWpAXXfqhuhJlJ30tSjZ2VfdkByk8QkHSf6vOHWM497PQYLXEik+NeqZV8CQ3mEUK39ZyhVjtvuR7Hm6oD151URJ7OEZaK3/0dkW+QdiPoOGbIowFp9rdupm2usRLJOLxNhO5ombDzJHGEf3PHAR6D1zzouxsbQ6wme2K0CSYmOuIalegHICOsjQYMKdOWanqHDrjxcWxE=;U+MMGEaNRHhGer5+njbRiQ=="

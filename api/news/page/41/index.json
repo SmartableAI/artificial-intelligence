@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins.md",
+      "title": "DeepMind claims major breakthrough in understanding proteins",
+      "excerpt": "London — DeepMind, the UK-based artificial intelligence (AI) company owned by Alphabet, has said it can predict the structure of proteins, a breakthrough that could dramatically speed up the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "originalUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/mAnoa0U_lK0Ey0sETH_8Cp3TWLVn8px8Y81UEwCAVdthDEEmB7fLdcYb9TGrGaBgT5xJRtTGFvHkbf3unbPkjdGsuOZJKbm0=s1000",
+          "width": 594,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "publishedDateTime": "2020-12-02T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-intel-has-been-missing-an-ai-business-to-compete-with-nvidia-its-finally-here.md",
       "title": "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here.",
       "excerpt": "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants.",
@@ -1136,49 +1179,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-madison-wis-bans-city-agency-use-of-facial-recognition.md",
-      "title": "Madison, Wis., Bans City Agency Use of Facial Recognition",
-      "excerpt": "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2020-12-02T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

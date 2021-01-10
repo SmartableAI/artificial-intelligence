@@ -57,17 +57,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Aella, Amazon partner on underbanked empowerment"
-    excerpt: "Single point financial service and payment solutions firm, Aella App, said it is working with Amazon Web Services, Inc. (AWS)"
-    publishedDateTime: 2021-01-06T04:25:00Z
-    webUrl: "https://thenationonlineng.net/aella-amazon-partner-on-underbanked-empowerment/"
-    ampWebUrl: "https://thenationonlineng.net/aella-amazon-partner-on-underbanked-empowerment/amp/"
-    cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/aella-amazon-partner-on-underbanked-empowerment/amp/"
-    type: article
-    provider:
-      name: The Nation Newspaper
-      domain: thenationonlineng.net
-    quality: 24
   - title: "Tech firms to empower underbanked individuals"
     excerpt: "Temiloluwa O’Peters Fintech company, Aella App, is working with Amazon Web Services, Inc. to empower underbanked individuals to have quicker access to credit and other financial services, using"
     publishedDateTime: 2021-01-07T05:06:00Z

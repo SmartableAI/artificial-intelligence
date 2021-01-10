@@ -212,20 +212,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-    excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
-    publishedDateTime: 2021-01-06T06:03:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "bIBBJaydbgCkJTvuepbXkFkpzsl99qD5FeChpRhv+FrSu2oHUcISto3BWZFCDSYyBAycELb8sV4+vGyNmascODfRwsEdBX4s2XvDdn6pz2ltwUbFfT/X/VaY5eNqBncewLoNwJqLR/OAOh/6dC2tkrmEw7vdySyIBZPIiPTIYYKH2zTHnT7vX+NRHYTT4XoprnoV8gouxk2HFL5m8Uox7KR2bZOtiBybtxYteCg71gNlkyTmAvF4zrqP/jFGt2nczSfiYet+9+8aVKbCkT1f6EdX5tzhHqGymSELRNmfEGIiXHJ9BY6VjJxf37gzAEuXz2nqrhXA9tyebx7wlDwvFih4nBX1m4o3911+K0uU4eo=;5WM6VCEGn6Qb/YvB33+1NQ=="
 ---
