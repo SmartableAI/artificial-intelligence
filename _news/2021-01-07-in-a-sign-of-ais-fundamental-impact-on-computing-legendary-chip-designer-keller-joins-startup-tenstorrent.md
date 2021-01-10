@@ -56,17 +56,6 @@ related:
         width: 599
         height: 448
         isCached: true
-  - title: "Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
-    excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips. Keller has been named president, chief technology officer and a board member of Tenstorrent Inc,"
-    publishedDateTime: 2021-01-06T00:48:00Z
-    webUrl: "https://thestarphoenix.com/pmn/business-pmn/former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup/wcm/0f6efbd7-3a79-4e1f-aad8-bfbb0762bb7f/amp/"
-    ampWebUrl: "https://thestarphoenix.com/pmn/business-pmn/former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup/wcm/0f6efbd7-3a79-4e1f-aad8-bfbb0762bb7f/amp/"
-    cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup/wcm/0f6efbd7-3a79-4e1f-aad8-bfbb0762bb7f/amp/"
-    type: article
-    provider:
-      name: The StarPhoenix
-      domain: thestarphoenix.com
-    quality: 67
   - title: "AI Chip Startup Tenstorrent Hires Chip Design Legend Jim Keller"
     excerpt: "AI chip startup Tenstorrent announced that it has hired chip design legend Jim Keller, formerly of Intel, AMD and Apple."
     publishedDateTime: 2021-01-06T13:24:00Z

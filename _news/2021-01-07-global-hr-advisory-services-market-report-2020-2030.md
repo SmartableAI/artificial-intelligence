@@ -49,20 +49,6 @@ related:
         width: 900
         height: 455
         isCached: true
-  - title: "2020 Insights into the Geospatial Value-added Services Global Market - IBM’s AI Contributions to the Geospatial Domain - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence Enabling the Global Geospatial Value-added Services Market” report has been added to ResearchAndMarkets.coms"
-    publishedDateTime: 2021-01-07T13:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4653a9051ed74335a3fcc2f35953cd7f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Worldwide Industry for Artificial Staple Fibres to 2025 - Diversify and Benefit From New Market Opportunities - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “World - Artificial Staple Fibres - Market Analysis, Forecast, Size, Trends and Insights” report has been added to ResearchAndMarkets.com’s offering. This report provides an in-depth analysis of the supply and demand for artificial staple fibres."
     publishedDateTime: 2021-01-07T14:06:00Z

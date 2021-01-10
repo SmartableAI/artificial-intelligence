@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist"
-excerpt: "PRNewswire/ -- (CQC), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke"
-publishedDateTime: 2021-01-06T08:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
+excerpt: "Influential high-level quantum computing pioneer, Coecke has made foundational contributions to Quantum Natural Language Processing CAMBRIDGE,"
+publishedDateTime: 2021-01-06T08:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936259"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936259"
 type: article
-quality: 12
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Global guru named chief scientist of Cambridge Quantum Computing"
@@ -49,6 +47,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "JxxoX4Yx6w5deBvPUtA9MB5yz7cO81MwnOouzMnkRa2ywpVsLkTd21UmaryKzBN15/zsoPbs1UhPZuqkilKPFwlYp4cbMMMTAmRNdMD9SeVEI8DI0xjwAy2P9N6vUnr76UxxubgecPebTtxQKFjuh+/zWIChOzbZYEiG5VPw3z6pn2Nt0bo9pMF5n4txE7I3HvP4l0cV0gCyNEAt9zY/JMn11gmqw6DBrf7U2TFuUPgrQueSFfri6oQ2jHXLVF4kgokwnMoVMpyR4AerlnbNQVBw+QsMrGKANtW9UBOIeNM3iGKX+i1iWqwObOAmVdAcdjo+MhxL2va2iyORrV42z2QQ4493++KqVHPZbo2RsBU=;fxwyBBZvESYz8Z7nczC9bQ=="
+secured: "aHfuCGU+IrXjEaXE5CXkFsR1qHbJtj0123Ni5suGWT1J+YciPP8KPCZJE5CPknXIPCER+shxH8Zox9elrPNcZLrlrWI6Wwckz0F0e5CUozASR44QShxRAy0jdQkhHkXg0/SyiF3JL7giXh8M6RTgX3y+ofrKkKVGvbIRM61JQqmfcCPZUief2OpVk+Z+5qXQx135wPOkSAYoHJ2SoQezr0E3r5mnFVAY48OT6kBqO2mxVNNs+xpTY+n1b1Jxdi8Or1F+ws4s301FvO3PDunSiJz6OSAYfxrv3GHKklIV+OpqsdzjaQklKSM1SBJvVkYPMDNMhmKPBEp9GKUQO6o7ngibrixQjA0Do1lPTeu2j3o=;IyWMsLjqeeEaWoV9D9iTgg=="
 ---
 

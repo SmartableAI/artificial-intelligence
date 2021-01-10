@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/time-to-comply-with-the-nat
 webUrl: "https://www.biometricupdate.com/202101/time-to-comply-with-the-nations-newest-biometric-privacy-law-portlands-private-sector-facial-recognition-ban"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1024
     height: 625
     isCached: true
-
-related:
-  - title: "Military researchers ask industry to develop long-range biometrics and facial recognition algorithms"
-    excerpt: "BRIAR aims to develop algorithm-based systems capable of performing whole-body biometric identification at long-range and from elevated platforms."
-    publishedDateTime: 2021-01-08T08:36:00Z
-    webUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-recognition-longrange-biometrics"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 24
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/biometrics_8_Jan_2020.5ff73ae0c21a6.png?auto=format&fit=max&w=1200"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Bill to limit police biometrics use tabled in New York state as legislators struggle with facial recognition"
-    excerpt: "A state legislator in New York has introduced a curious bill to prohibit arrests on the sole basis of “facial recognition and biometric information”."
-    publishedDateTime: 2021-01-07T00:53:00Z
-    webUrl: "https://www.biometricupdate.com/202101/bill-to-limit-police-biometrics-use-tabled-in-new-york-state-as-legislators-struggle-with-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
-        width: 1024
-        height: 662
-        isCached: true
 
 secured: "BwaZQTW03JU9v5w1NHmspOjMUplQ5kvuCgUwTcmn6ObHW8eqvNDwpzkoz4yXmRYqUrxU568X0L3RoimhK2M+o3Z3XXSH0TXK/OaqOkcCfykgwQYlXkhG2/ICIAfXyJHYmlyXQRSLmu+7/D/YarFzHzHTwQihtQFU3UiTb8wRgW2fNLF8CgUBLyyEQZxUKgff9pE7O+bQsCNwhgMzfpkJDgWEwsiFg4ZRy28cc7Ep2FCbZr4aUkFPuF/Tg3ksxV0FCL+6Sq2hAj/+pVD9xNTegWAwOV/Yg5zqR91eXq9e9hKjMEHtpQUhBSN0edmn7v0xUngNYGbXcs2ikQ3PK9MN1gZpynPBLf/71O/oRqDwI1D4mN8PP4BcTKQxIh/F7LpBPeYUA1kAbsjUim79vN1nLxgLv3Fh+U9mnWo/hvKmBctc9ZiyWAFbuOfuRfuzRPGUzGjbhcE+h/VObjH3eezPolLJoqZ4YcJ23jwi3E9xE8sfML+eoucDwuItfksUx6iaSOzg8JUd0BuNu1z6cQNIbQ==;WBA/JKq6FToaj9x5ZH+BeQ=="
 ---

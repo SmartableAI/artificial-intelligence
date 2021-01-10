@@ -365,6 +365,20 @@ related:
         width: 359
         height: 400
         isCached: true
+  - title: "Facial recognition technology used to identify alleged rioters"
+    excerpt: "Facial recognition technology is being used to identify those accused of crimes committed at the U.S. Capitol building this week. But it's not perfect."
+    publishedDateTime: 2021-01-09T12:35:00Z
+    webUrl: "https://www.kvue.com/video/tech/facial-recognition-technology-used-to-identify-alleged-rioters/269-7004ac76-6cf4-479b-bb46-f406fe0a2fe3"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 39
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "NIST to Update Facial Recognition Standards Amid Pandemic-Driven Mask Norm"
     excerpt: "The National Institute of Standards and Technology (NIST) has begun assessments on the use of facial recognition amid the pandemic where individuals usually wear masks that cover up most of the face,"
     publishedDateTime: 2021-01-06T22:58:00Z

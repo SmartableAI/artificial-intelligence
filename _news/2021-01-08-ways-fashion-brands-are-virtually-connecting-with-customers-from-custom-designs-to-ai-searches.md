@@ -7,7 +7,7 @@ originalUrl: "https://www.dailymail.co.uk/femail/article-9114831/amp/Ways-fashio
 webUrl: "https://www.dailymail.co.uk/femail/article-9114831/amp/Ways-fashion-brands-virtually-connecting-customers-custom-designs-AI-searches.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 636
     height: 382
     isCached: true
-
-related:
-  - title: "Researchers apply AI to help physicians customize treatments for patients with oral cancers"
-    excerpt: "Researchers at Case Western Reserve University and partners in the United States and India are applying the investigative and predictive capabilities of artificial intelligence (AI) to help physicians customize treatments for patients with oral squamous cell carcinomas."
-    publishedDateTime: 2021-01-05T23:58:00Z
-    webUrl: "https://www.news-medical.net/news/20210105/Researchers-apply-AI-to-help-physicians-customize-treatments-for-patients-with-oral-cancers.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210105/Researchers-apply-AI-to-help-physicians-customize-treatments-for-patients-with-oral-cancers.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210105/Researchers-apply-AI-to-help-physicians-customize-treatments-for-patients-with-oral-cancers.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "F6rXj/AMLisWwpvWO7sNAcQFFrxdUqpd4Uecm0RUqs7MO9OkixnJ91b/w67e7diIZeH7gJ80uFmF9QSPVLSLZDucEIyKpUzDDkRhrxLretIVG/SiBNfw0CNao9KYC2Edb1KKQn36s4fPCW2Jv+kLSl3zBb0h+qQm0wIRlgOZMZrLAuzMjJtoumlE94KR2+Zxrm5dPOa53BuLXTBr7sY1DmeQ4EhJD7rWgZ26GHezZ83OfDOtIcHUh6onTTsrNBltl9ykE6mE/s06Yt/Eslly3sDeq57a70MWyqQUhYNAFhfwaqyYzA0HgKxf9vG4YLjfZaijh9VJzCHzBhWuwANFUIQvPgMxjhqVUl/LGiJ1K00=;eFrwESLvE+CFYbo+q6Vvcg=="
 ---

@@ -1,22 +1,20 @@
 ---
 category: news
 title: "The Robot Revolution Will Spark a 15X Rally in This Micro-Cap Tech Stock"
-excerpt: "Stock Market News, Stock Advice & Trading Tips The robots are coming. Literally. An unprecedented surge in the volume and"
+excerpt: "This has coupled with significant advancements in tech hardware production, and ultimately brought us on the cusp of creating a new generation of advanced robots that can think and act like humans. The Robot Revolution is starting."
 publishedDateTime: 2021-01-08T14:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-1029944694"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-1029944694"
+originalUrl: "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08"
+webUrl: "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08"
+ampWebUrl: "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
@@ -35,6 +33,6 @@ related:
       domain: investorplace.com
     quality: 38
 
-secured: "G2nn4QYtDj627SsTrncOmfSDNGTowbf/NYsLnvfBMMmQIsGUo8X2+K6EtV4DvQro8SihMOhMDdwlwf+VBVoKmY7KIe+XLVAjCbPUhRHNFzP07oTPdW491vQSpwa3Vf399DNg3hUekUVnSEzy1NQo7ZSFkJV4Zdk57X7DNoGygJg0wfFg+uXo3nPvHTlXBuQkic6yv9srDCMsDsr4ix/cIh8GBpbacK1OO6MppOA90lEcsB9ulzlPY/JZjskEA//fNBa3IhqJNLOWb09kJm9vbT3V4Aj6oOKGA2JQtsK0yJEP//QuE6SevxG7G8iZ6q33IX12b14cwyPTrSdsvbxSUfJuMHoX9+YbmyLQoKlgtfw=;bELmNnwMBOAMKneKzQFh8Q=="
+secured: "UocA1YkcyTkW2RPVl/OnnhbOBkpdp2bxD4CPDnTvIYLYDmMoeyvZamdk82v0ZAvwN0B9U4elgf3LUR0NCSh8KvquK/iuoFRVLhztchD2uGAvsxA5x9xzjQIUkw007C3ps7i28UYr4TsnxfDGy9bIyuQjHCSoMKpNBp+E9mJt2fKZaUXKK6jUrwkmc9juWmTRRwILTB+luf5kCF1DpZm+C5RFVGBRCOQf6K8PR8L/iM+ancWm/K0SjE0iUWjI/jX+No5sCFCQC090FnMi9voRAs+6CLUn4ITfJmG/7TTOwPueGk4MULEqDBLtAB8r2ywQ00B5t+tBsTbiD5s/8VvLrdP+/DgH4rTCjvppyqUWZrU=;3hmWMFbVi9ND6OX+I3Qkbg=="
 ---
 

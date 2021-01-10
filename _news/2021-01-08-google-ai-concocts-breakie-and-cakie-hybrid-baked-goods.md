@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cak
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Google-AI-concocts-breakie-and-cakie-hybrid-baked-goods.jpg"
         width: 632
         height: 400
-        isCached: true
-  - title: "Google trained AI to make hybrid desserts. Go try these recipes and punish your taste buds"
-    excerpt: "Google is calling these AI-generated hybrid desserts cakie (a mix of cake and cookie) and breakie (a fusion of bread and cookie). God help us!"
-    publishedDateTime: 2021-01-06T00:25:00Z
-    webUrl: "https://pocketnow.com/google-trained-ai-to-make-hybrid-desserts-go-try-these-recipes-and-punish-your-taste-buds"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 29
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/01/breakie-google.jpg"
-        width: 1300
-        height: 800
         isCached: true
 
 secured: "NTLIlbV35gFN6co8mfxDQ+VfQjJ0dEMcIGVgzpsJ3VFsjMQ1UwEyiPQIHX25DknN1bZYhHnAnyaQ2ITwMdN6dqm81yj0fh7EMrsZ7LZhounYUAlFbx94iPNkr/WXj7rZbfE+heKdBG8nZKfQMjIzLgUHzvi+PKD5KyxC9pC5rOw9Ta9SNXM0vqpmS8DHZxdq8ba7FUSXmVXw8sXkHVloVX9lv2MLy678jekIuUwic2e0ACb0um0aD6qcwBQdu10QlIfqsuEswA6o/egdSfZSanpZUEg/DQDQPEuJfqQknPUM8GlR+FghAnub98u2lPQeNNgx4XGPbSPliRYkOSMhTfavooK1svi67kgCGmeJ2vZroupqAhoYby/sS3Ovtq7GJCI5NZOqkONvX/HQ+umyaJnor3RcWXDPHY8bYUXA4FCFuSzsRIlOOD1WiRcMXDjpwwuiJDQFrxvKRQ7RLbLfRoZyIujmIy0U+A710GUGPqlorlJNYfPvAFmcyxukzU9w6JZoGILwOJkWYrXfOfXEsA==;nJnkqmLEdzGLcV1orDQAeQ=="

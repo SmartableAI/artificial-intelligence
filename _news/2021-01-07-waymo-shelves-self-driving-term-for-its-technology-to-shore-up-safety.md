@@ -230,6 +230,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Self-Driving Cars And The Chicken That Crossed The Road"
+    excerpt: "The fabled \"chicken crossing the road\" provides useful fodder for considering the advent of self-driving cars coping with erratic intrusions in the roadway."
+    publishedDateTime: 2021-01-10T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/10/self-driving-cars-and-the-chicken-that-crossed-the-road/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff545ffcda8add8ba6f4879%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3008%26cropY1%3D152%26cropY2%3D1845"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Waymo To Stop Calling Their Technology “Self-Driving,” Criticizes Automakers Who Do"
     excerpt: "However, some companies use generic terms such as “self-driving.” Tesla is the most obvious example and they even admit “currently enabled features require active driver supervision and do not make the vehicle autonomous.” Safety groups have called ..."
     publishedDateTime: 2021-01-07T00:12:00Z

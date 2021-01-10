@@ -63,20 +63,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
-  - title: "2020 Insights into the Geospatial Value-added Services Global Market - IBM’s AI Contributions to the Geospatial Domain - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence Enabling the Global Geospatial Value-added Services Market” report has been added to ResearchAndMarkets.coms"
-    publishedDateTime: 2021-01-07T13:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4653a9051ed74335a3fcc2f35953cd7f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "IdOW73UTiL2R0OAxvw/mxiQQfUXL8sOL8zZTt2cZn24vfwAweZ8rrN7GfXpu/hzgUU6VTbcHuHeBl4QPin2lViiiLn1kK2PEcAmFnLrmxDOHBq14w5qc688fgtYqY7xzAhLsMtTJF+AljmI9B6FX2TxInjmAmc3iql2/elMis1HDXwnyskE7AXHwC69Mwq+r+WBdkYtYZdr6wUQJIh3OnJU0/++LLKNFUJO01YQkAWQbpGAP68LSVIl1maHarN+teJRLSuGoFroNl5wDWP/EoBK2RBE6IG3l4bNr/rgKwa1dWZp6/jpXDkA9bCGLsXhEYXzWu/l2HKpAM9Kf4eO0KmktbIQvbUJyVweFw4k2PWI=;uGCam0RCHL/W7i0BlUyl8w=="
 ---

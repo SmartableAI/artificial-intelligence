@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "This AI-enabled, 56-inch touchscreen will be in Mercedes' new electric car—take a look"
+    excerpt: "The Mercedes \"Hyperscreen\" incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other."
+    publishedDateTime: 2021-01-10T13:00:00Z
+    webUrl: "https://www.cnbc.com/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 79
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106124705-1568233045516gettyimages-1167204689.jpeg?v=1610137376"
+        width: 3010
+        height: 1781
+        isCached: true
   - title: "Mercedes-Benz Hyperscreen User Interface Is Massive, Employs Artificial Intelligence"
     excerpt: "Benz EQS sedan, an all-electric addition to the maker’s flagship S-class lineup. Mercedes-Benz Set to debut in the upcoming Mercedes-Benz EQS S-class EV sedan, the MBUX Hyperscreen system is the latest evolution of the automaker’s MBUX (Mercedes-Benz User Experience) central command center."
     publishedDateTime: 2021-01-07T17:08:00Z

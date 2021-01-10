@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fixing Section 230: Twitter, Facebook and social media should be legally part of the public square"
-    excerpt: "Too often Internet platforms violate our privacy, arrogantly regulate speech and abuse monopoly power, but it is important to recognize what are and are not problems."
-    publishedDateTime: 2021-01-06T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/fixing-section-230-twitter-facebook-and-social-med/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/fixing-section-230-twitter-facebook-and-social-med/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/fixing-section-230-twitter-facebook-and-social-med/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 30
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/B4-morici_c0-1046-1800-2096_s1200x700.jpg?c80b2dc453c14ea5dc42b76751caa96798b3df4f"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Northwell Health researchers using Facebook data and AI to spot early stages of severe psychiatric illness"
     excerpt: "Study subjects with schizophrenia spectrum disorders and mood disorders were more prone to discuss anger, swearing, sex, and negative emotions in their Facebook posts, according to the study. RELATED: Northwell Health research arm develops AI tool to help ..."
     publishedDateTime: 2021-01-06T18:55:00Z

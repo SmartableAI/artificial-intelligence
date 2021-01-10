@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/government-programs-m
 webUrl: "https://apnews.com/press-release/pr-newswire/government-programs-medicare-government-funded-health-insurance-government-and-politics-daf8e4703e78c1682d375fc1d004b8a1"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Neural Network Software Market by Key Players, Product and Production Information analysis and forecast to 2026"
-    excerpt: "Jan 06, 2021 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software, services, platform and ..."
-    publishedDateTime: 2021-01-06T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-key-players-product-and-production-information-analysis-and-forecast-to-2026-2021-01-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CScJ5Hx5fJtOYvKJ6GlOCPsbfb+LJCeIrccV9GQPm8rcLTbw/W7ic2SfLv/Ol2WXAdLpO+6E3H6pCQgw6NXdrWYUtn8WJPVOHiTaAj33hYYG/4aTD4DRgs+Q8nXHTRmBr92pgGb0R5Fpaaiw2xQVDGXmZasqciTpi0I38IhoJr/C/Bi5m+1yqunraqxAqgNFrT1jbnGNSQJD5i18l8ai48nFAgu2+nk7IXWJrTTvlERCgh/rfsSEsuS27u1OIGy5l0p+hFrep53gOKImXoaEXEX3gNtUo8coNIp8DCZ2e3CidudM/u/5Z6fW1kqqbK1YexuZ30H7ip6oa++GvEIXmWalXuaCT/lSJ8FKwXrSRaE=;E6dtOKf5WGp5AgwhoN/KQA=="
 ---

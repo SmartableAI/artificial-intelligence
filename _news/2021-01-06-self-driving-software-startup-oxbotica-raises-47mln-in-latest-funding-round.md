@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i.insider.com/5ff6dd7a6d61c10019cce15a?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Self-driving spin-off fuels up on cash"
-    excerpt: "A start-up spun out of the University of Oxford has raised $47 million to accelerate the development of its driverless car technology.Oxbotica, which makes software that runs self-driving vehicles, is"
-    publishedDateTime: 2021-01-06T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-spin-off-fuels-up-on-cash-q6clps7t9"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F065f7c74-4f8b-11eb-ad71-ea6bb4a570af.jpg?crop=6594%2C3709%2C76%2C559&resize=685"
-        width: 685
-        height: 385
         isCached: true
 
 secured: "a37kjfpS2bHGVHkG8OLiRbHb5MRnhTc4/04MDsA/vi5Eox8KykbLISYB9ZqO5ZLTstrc6jrD+geVd7g6TEzweGutzugNx3LWE2kSw2tNgjau3fO8h6ALMY4hsgKmqVHsiIczh/q+EI7QB++WJBmmNTuaM20s7k5D34YZe4jiAQBW4xRgIgjqYM1jxxRXeuU980/IJoV+Q8V0LcQaJlSQNtjWtntSMeuV+usDqouV3hOncBanWnkgvV2fi410m2AFH+2+1l7pE6FShzvO3DVxq/qE1+rqikV9YUUJAqfrc8U2N/cgvwaaGQqBc46NC0j4cdrgnjOMtYoNcWCItCg+bCWimTQhqTXge67AdOOYODGEMMSWP2nH6lvk1WDSNQ898Tab+hsn5xW7Wk53xlJfdT+OQMGxrlZ1aljprnWDTy4pAois4eZnZZdkZFaX3haxgIHVrLJy0xkA2lh1FQjDH5tRg3AsvHf49vkvRyktnJ7txA20xkxx7PzPvLzrIy+tDOSltriOTf7lmd0D7yWIAA==;eKv5HzNzYtbZjV6VGUn77w=="

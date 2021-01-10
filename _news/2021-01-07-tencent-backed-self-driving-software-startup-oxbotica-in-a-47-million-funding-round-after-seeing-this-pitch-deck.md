@@ -59,20 +59,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Self-driving spin-off fuels up on cash"
-    excerpt: "A start-up spun out of the University of Oxford has raised $47 million to accelerate the development of its driverless car technology.Oxbotica, which makes software that runs self-driving vehicles, is"
-    publishedDateTime: 2021-01-06T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-spin-off-fuels-up-on-cash-q6clps7t9"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F065f7c74-4f8b-11eb-ad71-ea6bb4a570af.jpg?crop=6594%2C3709%2C76%2C559&resize=685"
-        width: 685
-        height: 385
-        isCached: true
 
 secured: "v+QLOmnc0Cq5aBpv0THa+mKSQe6NqGYpcoefB1+vB4c9fNjd874AWarnP7TtSyBial6ZPBay+eOm+unCmDLPFkSh+K3cSe6fuNRQYxBlCTByYIyhc5qAhGgM1MyHCNb0APRakLlQOYjZSWh/nEy0Uqh0txKBibCSEUWwHzuSLlq4qz+PUKgTngPs2SNeKr+m5etIw4+N6wAXMHP23KzE6YinqEHxdHGjq219cQuCTu5je6gmAha5bD5AxevcC+OaHdfvJ6yjkVByRuUltFtmKcLrJgarcOQoFOl3fgT2bsl0/iv2FrWYmJRNjfK5VtncgEz/bpWhNztxLQeFbqAh9mvVC2MdGr+/DXYXYMbGgtvDr6V/c5VMpqx6zmh68Sh1qZVhJoNcpVifUbMI6Ocn8CgEQk959ttaHlh+VH821LGoM690bzwDARLb7OBjKJ9vVqgMkenqrM+EnDikoygDPhgVdyprBUKAHf0/INUlS3+Fw+glLvj2m+VR99+r9mImUHnmneYaev1YA6ev+a8A0A==;+dyGnFCCKegXitlW5QtSmA=="
 ---

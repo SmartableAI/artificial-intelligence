@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Hotels introduce robot services amid COVID-19 pandemic"
-    excerpt: "An increasing number of hotels here are utilizing robots and contactless technologies as part of their efforts to overcome an unprecedented crisis caused by the prolonged COVID-19 pandemic. Information and communication technology-based services help hotels improve convenience and collect necessary data and feedback to develop better methods to protect guests amid the global public health crisis."
-    publishedDateTime: 2021-01-06T00:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/01/141_301995.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=301995"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/9e924d2311164de5a9ea7c876bbb5d91.jpg"
-        width: 980
-        height: 653
-        isCached: true
 
 secured: "DFcvYHMbN0crni81S8cKY5d5AyzJVdjXQTNre7NuSn9RexdQ616iwbZf6eD2TxN/DsGGyHRkbK736vc9DhBmqsN6/ZHyXYc+SF4ie2c0zgySE3iFsfKvJfRP+3okgd242OunUdFrENqAXrYZc8k7CSq0+XyUv3ECP+nA7FcqvQUGE97PUXjJZiGme9e5Y7eQdgl/5L7A049W00ZrOk/nl/v/xL//VDmAojdWctxK8LS2O4BaKb/WXI/gnlBaMiqMkXZNXAQGgF251Jjfu5nlQPFxCLygKALlaw292QX2WQMVOTauj4p+yD/J/hKM1Y4EUt1ruRZoU+Susq7/GyImfqYohrEXXWstYj3EIQSJbCYYvschuEj9PbCRQ2T9LCMzbmdwTq8JdOAwhXdLOtZben5NiT17qHv6JdNAhKsJyI5CVo4gbvG3A+ksyR+k6MewPuOGvx3126Fra9l8HoYtjToraPiTDo7xuTV+BuoSyPQ5+mPHXCLsvfHdqCry6/+tvFrI2Nzw/17TPKUhMaCNrg==;OxLHXy+gH79VD34mALrCiA=="
 ---

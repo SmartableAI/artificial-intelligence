@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/30020
 webUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/300201409/video-cellphone-and-facial-recognition-data-may-lead-police-to-us-capitol-rioters"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Using Video Surveillance & Facial Recognition Technology to Identify Individuals Involved In Attack on U.S. Capitol"
-    excerpt: "ATTN MEDIA OUTLETS FOR IMMEDIATE RELEASE Thursday January 7 2021 Contact Thomas Carnevale Email tcc umbrellatech co Phone 630 270 3313 USING FACIAL RECOGNITION AND VIDEO SURVEILLANCE TO IDENTIFY INDIVIDUALS INVOLVED IN THE U S CAPITOL ATTACK Thomas"
-    publishedDateTime: 2021-01-08T08:35:00Z
-    webUrl: "https://www.openpr.com/news/2222088/using-video-surveillance-facial-recognition-technology"
-    ampWebUrl: "https://www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T04:47:00Z
+    webUrl: "https://www.11alive.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.11alive.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
+      name: 11Alive
+      domain: 11alive.com
+    quality: 59
+    images:
+      - url: "https://media.11alive.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T23:24:00Z
+    webUrl: "https://www.khou.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 59
+    images:
+      - url: "https://media.khou.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "qse1ph2q/dQf/9zsGb+g4kNXqkArHwZzBFSC2h3y2hnA1d4Alxkcan/aQj6SPH0jeaeQeH55/D+Kb5ZyHcrqnocvPqfAgBIQN9qSZ0MTKny+ghfv0W1t2CiQNgD9REJm+MgEteuS8ds17jD4NeFpHeVx6dh4yj/6rxiY5j86OCBEm/CTNA9JR8OoDJVE1ZGD+rjnVkRzGZZRw/+XZRO4TI4wO1/bGA/jdIjCKiQDw/KkBm7BEQFp5ciT6TtwUltNGEb4fCxvvCY5K0INNAVfi0jXczUxoNYkDRgZHMu8VoInG03EUHsxq7km0kS+ov4m788a4Z6s57bi+oJBFEtXZtwzGShREENhSeluKDUv9as=;lrnQIUsWn5ZZ1d3K2M418A=="
 ---
