@@ -2,6 +2,108 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-30-humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai.md",
+      "title": "Humans Are Still Needed In An AI World: How Your Business Can Best Leverage AI",
+      "excerpt": "With all of these technological advancements attempting to make our daily lives easier, how do these advances specifically affect business leaders and how will this technology shape the way they do business?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb37cc8aac85841b727e82%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "publishedDateTime": "2020-12-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai.md",
+      "title": "The 2021 Enterprise Network: Retiring The Branch, Fueling Transformation And Getting More From AI",
+      "excerpt": "As we turn past events into predictions, the pandemic continues to dominate our thoughts. IT priorities will be about learning from 2020 and adapting to whatever the new year brings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
+      "publishedDateTime": "2020-12-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-covid-19-impact-on-voice-recognition-software-market-2020-global-technology-development-trends-and-forecasts-to-2026.md",
       "title": "Covid-19 Impact on Voice Recognition Software Market 2020 Global Technology, Development, Trends and Forecasts to 2026",
       "excerpt": "The latest research on the Global Voice Recognition Software Market has displayed an overview of the industry with an in-depth observation. The report defines the service and product along with its various applications in various end-user industries.",
@@ -1096,110 +1198,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
-      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
-      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
-          "width": 3352,
-          "height": 1936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "publishedDateTime": "2020-12-29T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-a-black-man-spent-10-days-in-jail-after-he-was-misidentified-by-facial-recognition-a-new-lawsuit-claims.md",
-      "title": "A Black man spent 10 days in jail after he was misidentified by facial recognition, a new lawsuit claims",
-      "excerpt": "The man's attorney claims police used excessive force, false imprisonment, and cruel and unusual punishment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12",
-      "originalUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5feb06f5a64488001819396e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp",
-      "publishedDateTime": "2020-12-29T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

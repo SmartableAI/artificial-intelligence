@@ -2,6 +2,100 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-08-christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response.md",
+      "title": "Christopher Nolan Trashes HBO Max, Gets Trashed By Twitter In Response",
+      "excerpt": "HBO Max, have finally come together - to make fun of While many filmmakers are (understandably) unhappy with the fact that their films are going to hit theatres and HBO Max simultaneously, Nolan had an amusingly dismissive take,",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/itamblyn/status/1335692328854556674?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1335692328854556674|twgr^|twcon^s1_&ref_url=https%3A%2F%2Fventurebeat.com%2F2020%2F12%2F07%2Fresearchers-are-starting-to-refuse-to-review-google-ai-papers%2F",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2020/12/08/christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-microsoft-launches-azure-digital-twins-in-general-availability.md",
+      "title": "Microsoft launches Azure Digital Twins in general availability",
+      "excerpt": "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/",
+      "publishedDateTime": "2020-12-08T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-google-releases-new-coral-apis-for-iot-ai.md",
       "title": "Google Releases New Coral APIs for IoT AI",
       "excerpt": "Google has released new APIs and tools for their Coral AI toolkit. The new release brings parity across the C++ and Python SDKs and includes more efficient memory usage. Other updates include additional pre-trained models and general-availability of model pipelining.",
@@ -1092,101 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science.md",
-      "title": "Breeding neuromorphic networks for fun and profit: The new reproductive science",
-      "excerpt": "The most expedient way to produce the algorithms you need for a new class of computer that works like the brain, its engineers are discovering, is through a Darwinian exercise in natural selection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "originalUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/03/60022ec6-a5ae-46f8-bf4f-e2249e59ba3c/190226-neuromorphic-12-12x9.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "publishedDateTime": "2020-12-07T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo.md",
-      "title": "Huawei CASE Layout and Strategy Research Report 2020: 40+ CASE Indicators and Comparion of CASE Capabilities VS Bosch, Baidu, and Waymo",
-      "excerpt": "Layout and Strategy Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Research on Huawei's CASE (Connected, Autonomous, Shared, Electrified): Who is the main rival of Huawei in automotive engagement?",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

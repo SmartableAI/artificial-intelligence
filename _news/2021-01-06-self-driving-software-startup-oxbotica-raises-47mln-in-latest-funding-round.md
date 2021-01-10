@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Software Startup Oxbotica Raises $47 million"
-    excerpt: "Oxbotica, a global leader in autonomous vehicle software, has announced the completion of a $47 million Series B investment with partners"
-    publishedDateTime: 2021-01-06T02:10:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/18776-self-driving-software-startup-oxbotica-raises-47-million"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/6d17036fb1197faa597ce23970984615.jpg?t=20210106_020700"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Tencent backed self-driving software startup Oxbotica in a $47 million funding round after seeing this pitch deck"
     excerpt: "The University of Oxford spin-out was also backed by BGF and BP Ventures."
     publishedDateTime: 2021-01-07T11:59:00Z

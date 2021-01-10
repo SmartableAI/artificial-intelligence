@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-12-24-cio-leadership-hmg-strategy-the-worlds-1-executive-leadership-network-looks-ahead-to-its.md",
+      "title": "CIO Leadership: HMG Strategy, the World’s #1 Executive Leadership Network, Looks Ahead to Its ...",
+      "excerpt": "HMG Strategy, the world's #1 digital platform for connecting technology executives to reimagine the enterprise and reshape the business world, is looking",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html",
+      "originalUrl": "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-googles-muzero-ai-gets-all-queens-gambit-mastering-chess-and-atari-for-human-domination.md",
+      "title": "Google’s MuZero AI Gets All Queen's Gambit, Mastering Chess And Atari For Human Domination",
+      "excerpt": "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules. Back in April, DeepMind created an AI called Agent57, which was set out ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/muzero-deepmind-ai",
+      "originalUrl": "https://hothardware.com/news/muzero-deepmind-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/53786/content/hero-muzero-background.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/muzero-deepmind-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/muzero-deepmind-ai",
+      "publishedDateTime": "2020-12-23T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-i-defeated-the-ai-that-roasts-your-spotify-taste.md",
       "title": "I Defeated the AI That Roasts Your Spotify Taste",
       "excerpt": "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,",
@@ -1069,109 +1155,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025",
-      "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ai-in-cancer-care-how-its-making-a-difference-in-treatment-and-care.md",
-      "title": "AI In Cancer Care: How It's Making a Difference In Treatment And Care",
-      "excerpt": "This is where artificial intelligence (AI) can be a game changer. One of AI‘s key strengths is that it is able to process vast and complicated data in short amounts of time, and help automate routine tasks to reduce the level of human intervention needed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362227",
-      "originalUrl": "https://www.entrepreneur.com/article/362227",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608702684-pexels-karolina-grabowska-4021775.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362227",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362227",
-      "publishedDateTime": "2020-12-22T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

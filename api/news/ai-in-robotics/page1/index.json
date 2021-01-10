@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-10-abu-dhabi-university-students-win-ega-grant-to-build-ai-powered-drones-and-robots.md",
+      "title": "Abu Dhabi University Students Win EGA Grant To Build AI-Powered Drones and Robots",
+      "excerpt": "Abu Dhabi University (ADU) has announced that Emirates Global Aluminum (EGA) has awarded an AED 150,000 grant to three proposals put forth by ADU Electr",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "originalUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/Project%202.jpeg?itok=Dgc7h8g-",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "publishedDateTime": "2021-01-10T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai.md",
       "title": "Young and fearless: Startups enter global race for space, robotics and AI",
       "excerpt": "While overseas global corporations such as Elon Musk‘s Space X, are leading to charge to turn the stuff of science fiction into reality, in South Korea, the brave companies eyeing the",
@@ -1299,58 +1342,6 @@
         "name": "modernreaders.com",
         "domain": "modernreaders.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-a-disembodied-robot-mouth-and-14-other-2020-stories-we-laughed-at.md",
-      "title": "A disembodied robot mouth and 14 other 2020 stories we laughed at",
-      "excerpt": "Forget the challenges of the last 12 months and instead have some fun reading our pick of the quirkiest tech stories from the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
-      "originalUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/a-0-6-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
-      "publishedDateTime": "2020-12-31T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

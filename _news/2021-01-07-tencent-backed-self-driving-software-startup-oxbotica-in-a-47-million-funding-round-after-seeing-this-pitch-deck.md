@@ -45,20 +45,6 @@ related:
         width: 772
         height: 545
         isCached: true
-  - title: "Self-driving Software Startup Oxbotica Raises $47 million"
-    excerpt: "Oxbotica, a global leader in autonomous vehicle software, has announced the completion of a $47 million Series B investment with partners"
-    publishedDateTime: 2021-01-06T02:10:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/18776-self-driving-software-startup-oxbotica-raises-47-million"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/6d17036fb1197faa597ce23970984615.jpg?t=20210106_020700"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "v+QLOmnc0Cq5aBpv0THa+mKSQe6NqGYpcoefB1+vB4c9fNjd874AWarnP7TtSyBial6ZPBay+eOm+unCmDLPFkSh+K3cSe6fuNRQYxBlCTByYIyhc5qAhGgM1MyHCNb0APRakLlQOYjZSWh/nEy0Uqh0txKBibCSEUWwHzuSLlq4qz+PUKgTngPs2SNeKr+m5etIw4+N6wAXMHP23KzE6YinqEHxdHGjq219cQuCTu5je6gmAha5bD5AxevcC+OaHdfvJ6yjkVByRuUltFtmKcLrJgarcOQoFOl3fgT2bsl0/iv2FrWYmJRNjfK5VtncgEz/bpWhNztxLQeFbqAh9mvVC2MdGr+/DXYXYMbGgtvDr6V/c5VMpqx6zmh68Sh1qZVhJoNcpVifUbMI6Ocn8CgEQk959ttaHlh+VH821LGoM690bzwDARLb7OBjKJ9vVqgMkenqrM+EnDikoygDPhgVdyprBUKAHf0/INUlS3+Fw+glLvj2m+VR99+r9mImUHnmneYaev1YA6ev+a8A0A==;+dyGnFCCKegXitlW5QtSmA=="
 ---
